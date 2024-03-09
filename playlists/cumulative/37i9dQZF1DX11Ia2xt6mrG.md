@@ -2,7 +2,7 @@
 
 ### [madEDMéxico](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
-> Descubre lo más fresco de la electrónica mexicana\. Jasiel Nuñez en portada.
+> Descubre lo más fresco de la electrónica mexicana\. DannyLux en portada.
 
 264 songs - 14 hr 45 min
 

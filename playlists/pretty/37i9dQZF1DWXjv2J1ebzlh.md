@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,502 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,508 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -597,7 +597,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 587 | [E Ma S'eka](https://open.spotify.com/track/0PIYTzPh2aJoMUwpDFl5ia) | [Bola Johnson](https://open.spotify.com/artist/7CfyXrIeIEd05s0nEPvjW1), [His Easy Life Top Beats](https://open.spotify.com/artist/3erX3GyM88T7TJ67eSn6XW) | [Nigeria 70 \- Sweet Times: Afro\-Funk, Highlife & Juju from 1970s Lagos](https://open.spotify.com/album/5sspzBDWIIQHVqB0I0dx9S) | 3:04 |
 | 588 | [Djal Bai Si Camin](https://open.spotify.com/track/2DJl2LQ5YMtzGEGFYdN1U9) | [António dos Santos](https://open.spotify.com/artist/2o2ADjRCEAkByBSrzncXXc) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/7yYCur0sIPkHz2PE62YHDP) | 7:20 |
 | 589 | [Que Bandeira](https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:29 |
-| 590 | [Mal Élevé](https://open.spotify.com/track/79jn9hQP9u1uobtxIWDw43) | [Raoul Guillaume Et Son Groupe](https://open.spotify.com/artist/5oNgVj96yALgbbdNXgz7df) | [Haiti Direct \- Big Band, Mini Jazz & Twoubadou Sounds, 1960\-1978](https://open.spotify.com/album/3JIX1Ua9b5UPPsk5ovVg6m) | 3:30 |
+| 590 | [Mal Élevé](https://open.spotify.com/track/7vBTH6pVuccE3Z8wht7YSb) | [Raoul Guillaume Et Son Groupe](https://open.spotify.com/artist/5oNgVj96yALgbbdNXgz7df) | [Haiti Direct \- Big Band, Mini Jazz & Twoubadou Sounds, 1960\-1978](https://open.spotify.com/album/1YRubOYUmzlQWO9ipFOO9Z) | 3:30 |
 | 591 | [El abanico](https://open.spotify.com/track/3tcti84ksNL3qUJddVNucQ) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 3:23 |
 | 592 | [A You Momma](https://open.spotify.com/track/74RS7k3IPbb5feLDC22uhs) | [Ginger Johnson and His African Messengers](https://open.spotify.com/artist/1SLN4cejaprVtC9CO4tRcx) | [African Party](https://open.spotify.com/album/7q7r0MrHX5ALifshTF5P7O) | 3:39 |
 | 593 | [Se O Mundo Acabasse Em Mel](https://open.spotify.com/track/24IrgYEz7EkvDap8lYyQaZ) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Sol de Verão 2021](https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH) | 3:06 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxlYTljMjMwOWFjYmVmYzA1MWRkZTM0NTE0NmFmMDJhMzIyOWEwYWJh`
+Snapshot ID: `MCwxZjA4Zjc1NTU5NDk2ZWQ4ZTU4MzZiNDM4NmVjYmJmNTYwOTEwNzM4`

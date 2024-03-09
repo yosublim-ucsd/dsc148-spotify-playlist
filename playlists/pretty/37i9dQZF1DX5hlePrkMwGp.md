@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 
 > Enjoy the romantic side of Ani
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,787 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,845 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 32 | [Nijamellam Maranthupochu](https://open.spotify.com/track/201Jot6JmkxQQD1iZEaK8d) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 3:48 |
 | 33 | [Uyire Un Uyirena](https://open.spotify.com/track/4pFnIDmbwigWbeS7ohLqii) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Zero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6P79UqoU8WKlcPAv5wB0au) | 4:44 |
 | 34 | [Avalukena](https://open.spotify.com/track/6nP69wy9Y1PonStmqt33uk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Srinidhi Venkatesh](https://open.spotify.com/artist/1PDFenKwhb7oNx0bxCyQF2) | [Avalukena](https://open.spotify.com/album/2YmFZIuClRJrul4vunJR33) | 4:47 |
-| 35 | [Gaandakannazhagi](https://open.spotify.com/track/2EgorWGbe3eGnCsZlhuNRE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Namma Veettu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kdzqSyokReLf1YgefZToT) | 4:03 |
-| 36 | [Im so cool \(From "Kaaki Sattai"\)](https://open.spotify.com/track/6gMjxhc1h8ovswPwKKBsw9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YWqeoV66WmPmgF6o0eMdW) | 3:49 |
+| 35 | [Im so cool \(From "Kaaki Sattai"\)](https://open.spotify.com/track/6gMjxhc1h8ovswPwKKBsw9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YWqeoV66WmPmgF6o0eMdW) | 3:49 |
+| 36 | [Gaandakannazhagi](https://open.spotify.com/track/2EgorWGbe3eGnCsZlhuNRE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Namma Veettu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kdzqSyokReLf1YgefZToT) | 4:03 |
 | 37 | [Darling Dambakku](https://open.spotify.com/track/5GUM2uDH9Ey4aSvKz1lIdG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Maan Karate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2Ou2Z54QskBuOcQfNxOV) | 4:09 |
 | 38 | [Ailasa Ailasa](https://open.spotify.com/track/6n8gWl0tiqrjsrytd24prO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 4:06 |
 | 39 | [Engadi Porandha](https://open.spotify.com/track/5RP7NIFbpQHqPLTe5dpxet) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 49 | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/track/6i5QcWVTuzM67pXgD9Q7Vw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/album/27NXMaoKgNJR3iCHWKnpA3) | 3:45 |
 | 50 | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 |
 
-Snapshot ID: `MCxmNDZiNjU0NmE4NzIyYzQyNWQzMzljMTcyOWI4ZDBhMDMwODQyODZl`
+Snapshot ID: `MCwzYzE4NWY0YmFhYWIyNTk0MzI5ZmQyMzA5NDVlZWFmNTEzOGJlYTUx`

@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Wallows
+> New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,780 songs - 3 day 21 hr 50 min
+1,782 songs - 3 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,7 +566,7 @@
 | [Four Leaf Dream](https://open.spotify.com/track/2I8VEot3oo5qaVmCW16qOx) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Four Leaf Dream](https://open.spotify.com/album/6F1TXEZqGeUasahJdxs4hR) | 2:21 | 2022-02-25 | 2022-05-20 |
 | [Frames](https://open.spotify.com/track/2yJI5G0UdRudAIZkqredck) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Frames](https://open.spotify.com/album/2KJ11IB3LpFbFyjCeQw194) | 2:54 | 2022-06-17 | 2022-07-18 |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-06-02 | 2022-04-10 |
-| [Fred Perry Girl](https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Fred Perry Girl](https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d) | 2:59 | 2024-01-12 |  |
+| [Fred Perry Girl](https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Fred Perry Girl](https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d) | 2:59 | 2024-01-12 | 2024-03-09 |
 | [free flow](https://open.spotify.com/track/1UxiPpx3EC2SqFmGoqlXOy) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [free flow](https://open.spotify.com/album/01Fg6wIgT1NDXys8UPTJsK) | 3:23 | 2023-02-17 | 2023-04-23 |
 | [Fresh Out](https://open.spotify.com/track/4fTEqbQiJFOJMIIrfU7L3t) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Fresh Out](https://open.spotify.com/album/2HCSHdnw15QEVDqweIqQEi) | 3:28 | 2020-10-16 | 2020-11-03 |
 | [Friday Night With The Neighbours](https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Friday Night With The Neighbours](https://open.spotify.com/album/03VSyL9ungqFQzJ5EY74Se) | 2:53 | 2023-04-21 | 2023-04-29 |
@@ -605,7 +605,7 @@
 | [Ghost World](https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:21 | 2023-03-31 | 2023-04-15 |
 | [Ghosts](https://open.spotify.com/track/3Ysq8HNQeSVi9uVbmKkxJp) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Ghosts](https://open.spotify.com/album/7xs4F7rb9XAmru0Yluhm9t) | 2:15 | 2020-10-20 | 2021-06-03 |
 | [ghosts!](https://open.spotify.com/track/5FUO2oWL2z2e5eKsY7awhr) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [all my boyfriends](https://open.spotify.com/album/1EKtv3hcYWRTBX1kipfaLA) | 2:50 | 2020-10-13\* | 2022-01-15 |
-| [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 | 2024-02-27 |  |
+| [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 | 2024-02-27 | 2024-03-09 |
 | [Girl Like Me](https://open.spotify.com/track/0JM4g5Ti99j4mgwHJSGhKw) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Love Lessons](https://open.spotify.com/album/5rckPpYxVRTMdGK8CuWjnZ) | 3:29 | 2021-06-12 | 2021-10-11 |
 | [GIRL ON TV](https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [GIRL ON TV](https://open.spotify.com/album/1ysjIPMr2enaVZYn7HxMdA) | 3:12 | 2020-11-13 | 2022-04-14 |
 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 | 2022-05-13 | 2022-06-01 |
@@ -864,6 +864,7 @@
 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 | 2023-03-24 |  |
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
 | [Jesse C'mon](https://open.spotify.com/track/2MdlGVpttAcmVjMUo5hHbW) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Jesse C'mon](https://open.spotify.com/album/4pJ1u7tSjvImnIwgRQjyS6) | 2:26 | 2022-01-21 | 2022-04-16 |
+| [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 | 2024-03-08 |  |
 | [JPA989](https://open.spotify.com/track/2zZamOTUSQBF9HMY0NYIpG) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [JPA989](https://open.spotify.com/album/2gIRQ8aZF5aTZ8ex83pY70) | 2:56 | 2021-03-01 | 2021-05-26 |
 | [Juliene](https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Juliene](https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU) | 3:22 | 2023-06-30 | 2023-10-17 |
 | [july](https://open.spotify.com/track/5qAK8ceZCzwvNabw9Mu17F) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [july](https://open.spotify.com/album/51wHhJCdpwZ2591Es9Jqea) | 2:37 | 2023-07-28 | 2023-09-30 |
@@ -1322,6 +1323,7 @@
 | [Room in the Desert](https://open.spotify.com/track/7EEXUYAkOWS3DdH83mJzBl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Boxes](https://open.spotify.com/album/4cZg53uayQfgOH5wcUisBN) | 2:57 | 2022-04-01 | 2022-04-21 |
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2023-01-24 |
 | [Rumors](https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5) | [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Rumors](https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt) | 3:22 | 2023-11-06 |  |
+| [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-08 |  |
 | [Running](https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Running](https://open.spotify.com/album/2Z9njMZGVcXYxjmKDEujzW) | 3:09 | 2024-02-27 |  |
 | [Running](https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Running](https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b) | 3:37 | 2024-02-09 | 2024-02-29 |
 | [Running Around](https://open.spotify.com/track/6Tc9wBnQxETvqUCUZzCf6k) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Running Around](https://open.spotify.com/album/4fRGzIYX6Oeagpi13HKagP) | 3:16 | 2020-10-16 | 2020-10-23 |

@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Indigo Blaze & LATE 90s.
+> nü\-metal revival is happening here and now with Tetrarch.
 
-115 songs - 6 hr 41 min
+118 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 | 2023-10-27 | 2024-02-10 |
 | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-22 | 2023-12-02 |
 | [EMPTY](https://open.spotify.com/track/1lU1D4ay1tarkjkyEhxiSN) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [EMPTY](https://open.spotify.com/album/539efTuyDDvj6njVfILi0G) | 3:12 | 2023-09-13 | 2023-10-14 |
+| [Everybody's Enemy](https://open.spotify.com/track/5SuHrjRMuuX3fxtwd8Krn8) | [Mad Kelly](https://open.spotify.com/artist/6ztTQK1luCxwidQqZuFhJj) | [Everybody's Enemy](https://open.spotify.com/album/3b6yW9FnLG59kiFE9XhQXU) | 3:36 | 2024-03-08 |  |
 | [Everything](https://open.spotify.com/track/0aBFPOcQfWPQZvdLx2jWmq) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Truth Killer](https://open.spotify.com/album/6YKRSUJ7jo99IYvHeOx5aT) | 4:18 | 2023-09-13 |  |
 | [Everything She Wants](https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Everything She Wants](https://open.spotify.com/album/5fCJH4JORE9qWixhlniKem) | 3:41 | 2023-09-13 | 2024-01-20 |
 | [Evil](https://open.spotify.com/track/1Ju0Y709MsCBs0c8XPu3Wk) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi) | 2:43 | 2023-10-27 | 2024-02-03 |
@@ -54,16 +55,18 @@
 | [Gimme That Boom](https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:13 | 2023-09-13 |  |
 | [Golden Gloves](https://open.spotify.com/track/16hBAjGngSlOCzTZEn5Atw) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Heartless](https://open.spotify.com/album/0BX61gwMlOKkAzSxrdtwye) | 3:06 | 2023-11-17 | 2023-12-16 |
 | [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 | 2023-09-13 | 2023-09-23 |
-| [Hard Knock](https://open.spotify.com/track/3zxoPM98k49H9cuxsXPWoL) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Hard Knock](https://open.spotify.com/album/4z0FAe3hOWNG5McJu8JCUw) | 2:49 | 2023-10-13 |  |
+| [Hard Knock](https://open.spotify.com/track/3zxoPM98k49H9cuxsXPWoL) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Hard Knock](https://open.spotify.com/album/4z0FAe3hOWNG5McJu8JCUw) | 2:49 | 2023-10-13 | 2024-03-09 |
+| [Hellstar](https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Hellstar](https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv) | 3:12 | 2024-03-08 |  |
 | [I Remember](https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [I Remember](https://open.spotify.com/album/6hP42dqjbIWOS8gdHXWueK) | 3:08 | 2023-09-13 |  |
 | [I WON'T BOW DOWN](https://open.spotify.com/track/1j04ijjf5krI9LtRDQeCeQ) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [I WON'T BOW DOWN](https://open.spotify.com/album/1DVowlgDsDVU6xrYRnyYVb) | 2:40 | 2024-01-19 |  |
 | [I'm Not Right](https://open.spotify.com/track/3mtwzP9E05Ad8sJCvrnRvK) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 3:46 | 2023-09-13 |  |
 | [It All Comes Down](https://open.spotify.com/track/6LtwJPYUY7NTrN6HxytepY) | [Kaosis](https://open.spotify.com/artist/1G5YCahIziZdTa1YQkVSu7), [DJ Lethal](https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2), [SID](https://open.spotify.com/artist/0lXoanKv5FWNS0o73XTGgP) | [It All Comes Down](https://open.spotify.com/album/0TDbRYQYhtWJeXdNxNWoj8) | 4:54 | 2024-02-09 | 2024-03-02 |
+| [John](https://open.spotify.com/track/1ygGepA71OGb6xNaEEZY1C) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [John](https://open.spotify.com/album/4wNEoTLKONCgk8Ahdieo6I) | 3:56 | 2024-03-08 |  |
 | [Kaneda](https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU) | [Smash Hit Combo](https://open.spotify.com/artist/7n9ZfBhbU4NJNSHNZWl76a) | [Kaneda](https://open.spotify.com/album/5td63N8Cvw2nCZ7HfV5OK3) | 3:08 | 2024-02-09 |  |
 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2023-09-13 | 2024-02-03 |
 | [KILLING ALCHEMY](https://open.spotify.com/track/6iBg24cfz07gnXYvHygmBo) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:44 | 2023-09-13 | 2023-09-23 |
 | [King Of The Hill](https://open.spotify.com/track/7wdIea7SkyLruOWRPeFJkL) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [King Of The Hill](https://open.spotify.com/album/3WBxnWsAsNTIePp0KSnJOi) | 3:26 | 2024-01-19 |  |
-| [Lights Out](https://open.spotify.com/track/5eJQLFJsYTIJ6g1mcEPQql) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Riot Music](https://open.spotify.com/album/22nPVkqtpPnQMXb9R2QUJ5) | 3:21 | 2023-09-13 |  |
+| [Lights Out](https://open.spotify.com/track/5eJQLFJsYTIJ6g1mcEPQql) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Riot Music](https://open.spotify.com/album/22nPVkqtpPnQMXb9R2QUJ5) | 3:21 | 2023-09-13 | 2024-03-09 |
 | [Look Alive \(Netic\)](https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Look Alive \(Netic\)](https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1) | 3:13 | 2023-09-13 | 2023-09-23 |
 | [Lost](https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:19 | 2023-09-13 | 2024-02-03 |
 | [LOST!](https://open.spotify.com/track/7AOe2bLNTnBt09RkfrRudU) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LOST!](https://open.spotify.com/album/1nMZef6fwTtOO1T3SBZDrI) | 2:06 | 2023-11-10 | 2024-01-20 |
@@ -79,7 +82,7 @@
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2023-09-30 |
 | [Radio](https://open.spotify.com/track/6NYptQ5KJyMEz8Mm5IpI6W) | [Julien\-K](https://open.spotify.com/artist/6a82pdlhS6SsAq7HDUSZKN) | [Radio](https://open.spotify.com/album/02MYjSgDrcWxZknZAujBUq) | 4:44 | 2023-09-13 | 2023-10-28 |
 | [Rain Check](https://open.spotify.com/track/1esltG8upzhcpAQkhCwddG) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Rain Check](https://open.spotify.com/album/0VlmhR3IrwULQWiOJYeIoJ) | 3:31 | 2024-01-26 |  |
-| [READY ROCK](https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [READY ROCK](https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs) | 2:46 | 2024-02-16 |  |
+| [READY ROCK](https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [READY ROCK](https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs) | 2:46 | 2024-02-16 | 2024-03-09 |
 | [RED](https://open.spotify.com/track/6fv8sI48halTMxJBLqUEmv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:54 | 2023-09-13 |  |
 | [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 | 2024-02-02 |  |
 | [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 | 2024-02-02 |  |

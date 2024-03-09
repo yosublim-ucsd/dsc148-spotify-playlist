@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-64 songs - 4 hr 25 min
+65 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [D'arie II](https://open.spotify.com/track/0nBQDNvdvzHI4axWCKqFgw) | [Ella Mikhailenko](https://open.spotify.com/artist/0ib7cieXiFElKhmVbFFzKy), [Jaume Compte](https://open.spotify.com/artist/3YYuXsiiVfHdsF6l209vCU) | [Tariq](https://open.spotify.com/album/1UZbvM45s6cZ0eeu3nLmk2) | 2:51 | 2023-09-01 |  |
 | [Danza de la Luna Nueva](https://open.spotify.com/track/4mlnt33wO6QPdizWkkTYgc) | [Saro Tribastone](https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab), [Nektarios Galanis](https://open.spotify.com/artist/12N52SUlUodsZjCS9pKkyk) | [Fanusa](https://open.spotify.com/album/6rYCPuwuwcDZ5W70HQggN6) | 3:17 | 2023-09-01 |  |
 | [Daydream](https://open.spotify.com/track/01MsqwaG0kCMTBJUAEkFAV) | [Luis Villegas](https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U) | [Spanish Kiss](https://open.spotify.com/album/4Fpko3OsvVUPla3xgiI8y7) | 6:21 | 2023-09-01 |  |
-| [Deep Green Moss](https://open.spotify.com/track/5AVkWOBydjuuJSbSP1i30b) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/4q83V4R8vbdJOhLgbOOPCT) | 2:18 | 2023-09-01 |  |
+| [Deep Green Moss](https://open.spotify.com/track/42ZrUDiodCYlmOqjgFtgeL) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/1cKukZ9Xf3PP2E4pxz82xd) | 2:18 | 2024-03-06 |  |
+| [Deep Green Moss](https://open.spotify.com/track/5AVkWOBydjuuJSbSP1i30b) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/4q83V4R8vbdJOhLgbOOPCT) | 2:18 | 2023-09-01 | 2024-03-09 |
 | [Dos Cruces](https://open.spotify.com/track/40yYzeImyqUkNcz0Fh7bVj) | [Chico García](https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK) | [Guitarra Española \- Pasion Latina Vol.3 \(Spanish Guitar \- Latin Passion\)](https://open.spotify.com/album/1vzaRM0Jm4sHyAuqZCNx6e) | 2:52 | 2023-09-01 |  |
 | [Dust In The Wind](https://open.spotify.com/track/4f3SRf6hsznSu41rTYJF8Y) | [Flamenco Guitar Masters](https://open.spotify.com/artist/0huGEQDDk36uplL0QvI3Kn) | [Flamenco Guitar Classics](https://open.spotify.com/album/2NN0ktOwwRa05rYdXG5Jzh) | 3:22 | 2023-09-01 | 2024-02-05 |
 | [Dust in the Wind](https://open.spotify.com/track/0CrYxqgUeDqKB4CWMRiGJG) | [Pedro Javier González](https://open.spotify.com/artist/2Pj7GhoqwVMNz7Qck7V0XZ) | [Guitarra](https://open.spotify.com/album/2Ky0XoCjZXxzMsPNQxaWrj) | 3:20 | 2024-02-01 |  |

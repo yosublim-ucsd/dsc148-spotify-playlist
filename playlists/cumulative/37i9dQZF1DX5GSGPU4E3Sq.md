@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-299 songs - 16 hr 52 min
+300 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Open Glade](https://open.spotify.com/track/1FOoBkU22JS0C6HyTTnyTP) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Inhale Exhale](https://open.spotify.com/album/3CfSVYL9R08NRekGYvzE1W) | 3:29 | 2022-06-29 | 2023-12-19 |
 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 | 2022-07-19 |  |
 | [Palais Glide](https://open.spotify.com/track/54wW2YP4R8WrwUKW0ZGOgH) | [The Boats](https://open.spotify.com/artist/12LR7O3LG2tezoEBx1yhRa) | [Sleepy Insect Music](https://open.spotify.com/album/1RSl923cV9vOzKkPBzssDt) | 2:26 | 2022-06-29 | 2023-04-21 |
-| [Pampeano](https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR) | [Osno](https://open.spotify.com/artist/3XqgdBsuoShCOmDjwn5pWq) | [Pampeano](https://open.spotify.com/album/75T7bNuVXxahedg6q9knVS) | 4:27 | 2022-07-19 |  |
+| [Pampeano](https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR) | [Osno](https://open.spotify.com/artist/3XqgdBsuoShCOmDjwn5pWq) | [Pampeano](https://open.spotify.com/album/75T7bNuVXxahedg6q9knVS) | 4:27 | 2022-07-19 | 2024-03-09 |
 | [Peace](https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Peace](https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9) | 2:23 | 2022-07-19 |  |
 | [Peace](https://open.spotify.com/track/6dmmjM7cgyjdb9vrWKabhV) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Peace](https://open.spotify.com/album/0nc4YQuexF3sAZqd5Pxksk) | 2:23 | 2022-06-29 | 2022-07-29 |
 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 2:15 | 2022-06-29 |  |
@@ -261,6 +261,7 @@
 | [Spectral Morning](https://open.spotify.com/track/2FA54LO1o2JPZSElOdru9V) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/2gCK8eweTlSCMeZ3vyeSDN) | 4:00 | 2022-09-13 | 2022-10-04 |
 | [Spectral Morning](https://open.spotify.com/track/58BwA9Le9wc2DuQtvmd4lf) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/0ZXFCRHBPXXdD9QScxkL1z) | 4:00 | 2022-06-29 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-06-29 |  |
+| [Spirit](https://open.spotify.com/track/6G0ssP9WI63lIvSSfGAmt0) | [Kyrste](https://open.spotify.com/artist/4oaGWEt8TqYBLB3Fc0Lo18) | [Spirit](https://open.spotify.com/album/0FnNwEb7LkeEAZDtJ3ijgY) | 2:37 | 2024-03-07 |  |
 | [Stillsamhet](https://open.spotify.com/track/5j8DTevAnvUUon9rwhndi1) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:27 | 2023-02-25 |  |
 | [String of Raindrops](https://open.spotify.com/track/5vosryofCmhWtisU0mLzy2) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [Catalogue of Emotions](https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i) | 3:10 | 2022-06-29 |  |
 | [Summer Leaves](https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Summer Leaves](https://open.spotify.com/album/45Qp8puef0kWrGdbzV5KgM) | 5:00 | 2022-07-19 | 2023-07-31 |

@@ -17352,7 +17352,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 118064,
       "name": "Different Story",
       "url": "https://open.spotify.com/track/6Hb20OfR9YBA7FQQKLdYx2"
@@ -37928,6 +37928,28 @@
       "duration_ms": 183631,
       "name": "Le Palais Rouge",
       "url": "https://open.spotify.com/track/0FHjzDRgVDCVfoVqLdN3bb"
+    },
+    {
+      "album": {
+        "name": "Le Prince De Paname",
+        "url": "https://open.spotify.com/album/2gDLTF3mSQIx12JqttghRr"
+      },
+      "artists": [
+        {
+          "name": "Figub Brazlevic",
+          "url": "https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum"
+        },
+        {
+          "name": "Parental",
+          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176271,
+      "name": "Le Prince De Paname",
+      "url": "https://open.spotify.com/track/6weGcJuZQa1diJnTbjjMmV"
     },
     {
       "album": {

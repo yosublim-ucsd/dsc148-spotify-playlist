@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 174788,
+  "num_followers": 174922,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDc1MDBiNzQwODE2ZDEyY2YxNDViNTZkYzdmN2YwOTk0N2ZlNjFm",
+  "snapshot_id": "MCxlOGEyNjJlMDU2YmFhYWU0NTEyMGEyMzUyZmE3YWFjMWVmYWVjOWEy",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "10,000 Feet Below",
+        "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
+      },
+      "artists": [
+        {
+          "name": "Eliza Neals",
+          "url": "https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb"
+        }
+      ],
+      "duration_ms": 264521,
+      "name": "You Ain't My Dog No More",
+      "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Dig In Deep",
         "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 321494,
       "name": "Open Eyes",
       "url": "https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "10,000 Feet Below",
-        "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
-      },
-      "artists": [
-        {
-          "name": "Eliza Neals",
-          "url": "https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb"
-        }
-      ],
-      "duration_ms": 264521,
-      "name": "You Ain't My Dog No More",
-      "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
     },
     {
       "added_at": "2022-03-08 14:01:09",

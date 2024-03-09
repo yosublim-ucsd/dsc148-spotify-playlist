@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+    },
+    {
+      "album": {
         "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
       },
@@ -845,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197674,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK"
+    },
+    {
+      "album": {
         "name": "She Wants Revenge",
         "url": "https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR"
       },
@@ -917,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Wake",
+        "url": "https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB"
+      },
+      "artists": [
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125024,
+      "name": "Rolling Out the Red Carpet",
+      "url": "https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT"
+    },
+    {
+      "album": {
         "name": "Songs of Faith and Devotion (2006 Remaster)",
         "url": "https://open.spotify.com/album/1nHX4rMCk0NIBSplCjioCb"
       },
@@ -961,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288520,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2"
+    },
+    {
+      "album": {
         "name": "Diamond Eyes",
         "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
@@ -976,6 +1048,24 @@
       "duration_ms": 241533,
       "name": "Sextape",
       "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE"
+    },
+    {
+      "album": {
+        "name": "Sleeptalk (Deluxe)",
+        "url": "https://open.spotify.com/album/5eAo9LbhWjBYX2AHt9o4jh"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223026,
+      "name": "Sleeptalk",
+      "url": "https://open.spotify.com/track/53Ssvy5Rww0BPTtOw375zW"
     },
     {
       "album": {
@@ -1300,10 +1390,28 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 298106,
       "name": "Where We Go When We Die",
       "url": "https://open.spotify.com/track/60hlLMkJKy6pXtPMHspJao"
+    },
+    {
+      "album": {
+        "name": "Without a Whisper",
+        "url": "https://open.spotify.com/album/2lCaqPn2EZ4CtwFz1JLBvK"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257532,
+      "name": "Without a Whisper",
+      "url": "https://open.spotify.com/track/6Bs8snxnfC0ZmiEkei4ehn"
     },
     {
       "album": {

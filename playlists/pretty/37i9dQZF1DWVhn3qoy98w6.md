@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Agnes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,932 likes - 74 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,937 likes - 74 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 73 | [Todo Va Deprisa](https://open.spotify.com/track/54hCMdN9JPBtuzRRO8hpTR) | [Alison Darwin](https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz) | [Todo Va Deprisa](https://open.spotify.com/album/5bl8eEpY5kDf3szhgp4u1q) | 2:17 |
 | 74 | [Duele el Duelo](https://open.spotify.com/track/1sDuYW1E1DEEmtW8yJEqXp) | [Lil Trona](https://open.spotify.com/artist/1hqYZWJSUCv0vzgWyZJVUm) | [Duele el Duelo](https://open.spotify.com/album/7nzwZPaCHreiZEyjSBUbXu) | 3:17 |
 
-Snapshot ID: `MCxmZDE2ZjcxNWJlZWRkYjVhYjRmODRhZjMyNDM0ZmIxOGQzNzk3YmU5`
+Snapshot ID: `MCwyZmMzMzRiZDI4ZTc3YTg1MTBlNzUzZDliZGViNTY2N2ZiYmIxNzMy`

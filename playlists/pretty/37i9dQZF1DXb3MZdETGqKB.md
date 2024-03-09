@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,504 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,526 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [She Knows It](https://open.spotify.com/track/0BmWDpfHOFZ2p0vGX3Rlja) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [She Knows It](https://open.spotify.com/album/6DgHbvPexJ7CrDyHeJPLgO) | 2:15 |
-| 2 | [First Time Blues](https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [First Time Blues](https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l) | 3:47 |
-| 3 | [Almighty $$](https://open.spotify.com/track/7EWfX1yhJpk8oEBuXEzx4Q) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Almighty $$](https://open.spotify.com/album/5UlZYtKhBjVPcV1DjiQC6P) | 3:15 |
-| 4 | [Run For Cover](https://open.spotify.com/track/3fXOZy6tSY2rc0EiS4VE6o) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Run For Cover](https://open.spotify.com/album/0Lz7mQyFpcf4a7GSokAOps) | 2:53 |
-| 5 | [In This Life](https://open.spotify.com/track/2l9mFi4CmqaEgoctmgDi3j) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [In This Life](https://open.spotify.com/album/7IrRODokoRs3nnChiZWNRt) | 2:50 |
-| 6 | [Suntan Woman](https://open.spotify.com/track/1OUnlmlJ6FT4PpJMAqlVyc) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Suntan Woman](https://open.spotify.com/album/1Th1Fn7Cm4UiXZDOKJUazZ) | 3:41 |
-| 7 | [Crazy About You](https://open.spotify.com/track/0rsOjOujuzph8cXH3ba7Ea) | [Omar Coleman](https://open.spotify.com/artist/7ygsLcqnNFW2UHy4rWWT56), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Eric Benny Bloom](https://open.spotify.com/artist/5iaAaY9BB6p5HFHdE8G0Ao) | [Strange Times](https://open.spotify.com/album/72Jr6CcXW3iKlyI3Dc0Vmp) | 4:59 |
-| 8 | [Flame](https://open.spotify.com/track/1rVioJqDKEf1ZQHOu4IepF) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Flame](https://open.spotify.com/album/5tDWharfBCeJX2ncXwdMKJ) | 3:47 |
-| 9 | [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 |
+| 1 | [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 |
+| 2 | [She Knows It](https://open.spotify.com/track/0BmWDpfHOFZ2p0vGX3Rlja) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [She Knows It](https://open.spotify.com/album/6DgHbvPexJ7CrDyHeJPLgO) | 2:15 |
+| 3 | [First Time Blues](https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [First Time Blues](https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l) | 3:47 |
+| 4 | [Almighty $$](https://open.spotify.com/track/7EWfX1yhJpk8oEBuXEzx4Q) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Almighty $$](https://open.spotify.com/album/5UlZYtKhBjVPcV1DjiQC6P) | 3:15 |
+| 5 | [Run For Cover](https://open.spotify.com/track/3fXOZy6tSY2rc0EiS4VE6o) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Run For Cover](https://open.spotify.com/album/0Lz7mQyFpcf4a7GSokAOps) | 2:53 |
+| 6 | [In This Life](https://open.spotify.com/track/2l9mFi4CmqaEgoctmgDi3j) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [In This Life](https://open.spotify.com/album/7IrRODokoRs3nnChiZWNRt) | 2:50 |
+| 7 | [Suntan Woman](https://open.spotify.com/track/1OUnlmlJ6FT4PpJMAqlVyc) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Suntan Woman](https://open.spotify.com/album/1Th1Fn7Cm4UiXZDOKJUazZ) | 3:41 |
+| 8 | [Crazy About You](https://open.spotify.com/track/0rsOjOujuzph8cXH3ba7Ea) | [Omar Coleman](https://open.spotify.com/artist/7ygsLcqnNFW2UHy4rWWT56), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Eric Benny Bloom](https://open.spotify.com/artist/5iaAaY9BB6p5HFHdE8G0Ao) | [Strange Times](https://open.spotify.com/album/72Jr6CcXW3iKlyI3Dc0Vmp) | 4:59 |
+| 9 | [Flame](https://open.spotify.com/track/1rVioJqDKEf1ZQHOu4IepF) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Flame](https://open.spotify.com/album/5tDWharfBCeJX2ncXwdMKJ) | 3:47 |
 | 10 | [Life Without You](https://open.spotify.com/track/4krJzncHajIIGhnBuZw2iD) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Life Without You](https://open.spotify.com/album/7rCMCsTF26e3y78bosY8GT) | 3:10 |
 | 11 | [M.O.N.E.Y](https://open.spotify.com/track/6zGItl8BOQZJBSlQkks3nL) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3) | [M.O.N.E.Y](https://open.spotify.com/album/3R7gMiAzVSFHnIWChw9wAB) | 3:06 |
 | 12 | [Hill Country Love](https://open.spotify.com/track/0UPU7pocbCGSLol1h2T87L) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/7MEKlnWzs60JzsxIvhxjon) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 |
 | 100 | [Can't Judge a Book By It's Cover](https://open.spotify.com/track/3yRVKQ4QSXPenUU3xpABPo) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Can't Judge a Book By It's Cover](https://open.spotify.com/album/3Doi1QZvtbTwiV1e4eNv4R) | 2:42 |
 
-Snapshot ID: `MCxmZDEyZThmM2QzZmJlZDEwMTU2OGFmYmExMWU2ZWE3M2NjYTkzOTgy`
+Snapshot ID: `MCwwODczNWU1NDhhNDg5MGQ1NzljODdiOWMxZjE3Zjc5M2NjMjBhNDM4`

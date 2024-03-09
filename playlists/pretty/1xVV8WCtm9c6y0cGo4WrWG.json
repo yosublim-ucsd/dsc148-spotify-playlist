@@ -1,12 +1,12 @@
 {
   "description": "New music from your favourite hip-hop artists, updated weekly! Featuring ScHoolboy Q, Yeat, Ice Spice, Drake, Nicki Minaj and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more",
-  "num_followers": 23543,
+  "num_followers": 23542,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "ODEzNCwzMTJhY2I4NGU2M2EwYTg1YjE3ZDI2YmYwNDY3Y2YxYzUzY2M3NDMw",
+  "snapshot_id": "ODE0MSxjOTQzZDZjNjQ0NGE5YzliODI3MjIxMzFmNzU0N2U1ZWZhNzExY2I4",
   "tracks": [
     {
       "added_at": "2024-03-01 20:19:30",
@@ -29,20 +29,24 @@
       "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
     },
     {
-      "added_at": "2024-03-01 20:19:30",
+      "added_at": "2024-03-08 05:10:59",
       "album": {
-        "name": "Himothy",
-        "url": "https://open.spotify.com/album/0cumUqYme4Am4PnlsHbBUl"
+        "name": "Real One (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/32EmBtxeF2ORdRHTcmljWN"
       },
       "artists": [
         {
           "name": "Quavo",
           "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         }
       ],
-      "duration_ms": 159749,
-      "name": "Himothy",
-      "url": "https://open.spotify.com/track/00p23Uw776hxaIGNWL9S1Y"
+      "duration_ms": 166138,
+      "name": "Real One (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/5iltqBmJh9uCPKtLjdRZya"
     },
     {
       "added_at": "2024-03-01 20:19:30",
@@ -149,6 +153,30 @@
       "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
     },
     {
+      "added_at": "2024-03-08 05:55:45",
+      "album": {
+        "name": "Compliments of Grave Digger Mountain",
+        "url": "https://open.spotify.com/album/3qwTr7e8qui32fbVgtWpMA"
+      },
+      "artists": [
+        {
+          "name": "Never Broke Again",
+          "url": "https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Lil Dump",
+          "url": "https://open.spotify.com/artist/5OirL1WOvVjqHL87U4rCgT"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Bling (Never Broke Again feat. YoungBoy Never Broke Again & Lil Dump)",
+      "url": "https://open.spotify.com/track/3yziqj3fYjXWwzXxGNoa6F"
+    },
+    {
       "added_at": "2024-03-01 20:19:30",
       "album": {
         "name": "The Forever Story (Extended Version)",
@@ -219,6 +247,42 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "added_at": "2024-03-08 05:15:32",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/42uL2bKebx2L3HgHZAKaNY"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "duration_ms": 172036,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1KHB41wdGhshT3UBIn9ZPk"
+    },
+    {
+      "added_at": "2024-03-01 20:19:30",
+      "album": {
+        "name": "Himothy",
+        "url": "https://open.spotify.com/album/0cumUqYme4Am4PnlsHbBUl"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 159749,
+      "name": "Himothy",
+      "url": "https://open.spotify.com/track/00p23Uw776hxaIGNWL9S1Y"
     },
     {
       "added_at": "2024-03-01 20:19:30",

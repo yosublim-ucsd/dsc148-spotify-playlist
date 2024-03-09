@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "Alresashim Wey",
+        "url": "https://open.spotify.com/album/5xBnkZT3oDEAZbo9BKYZdA"
+      },
+      "artists": [
+        {
+          "name": "Kal Kin",
+          "url": "https://open.spotify.com/artist/3JwnCprAXUfeXUaGf2FaOH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245247,
+      "name": "Alresashim Wey",
+      "url": "https://open.spotify.com/track/3rz86l1LZJxU4NwzBuCOOo"
+    },
+    {
+      "album": {
         "name": "Tikur Anbessa",
         "url": "https://open.spotify.com/album/00p6FsZcNMhNMjJu3cc5p8"
       },
@@ -529,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Desnaan Jedheeraa/ Des Blognal",
+        "url": "https://open.spotify.com/album/3g7wtD9LihHxT174iXs1Gt"
+      },
+      "artists": [
+        {
+          "name": "Yamlu Molla",
+          "url": "https://open.spotify.com/artist/0UphqXsRfB4p1OFCSO0w0z"
+        },
+        {
+          "name": "Kurkuraa Bonie Ko",
+          "url": "https://open.spotify.com/artist/1ZdYdbWLgazeYfd9jUkGpZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146170,
+      "name": "Desnaan Jedheeraa/ Des Blognal",
+      "url": "https://open.spotify.com/track/5U2Q9ASY20xyZv1LbVCI9k"
+    },
+    {
+      "album": {
         "name": "The Ethiopian Millennium Collection - 6-cd Box Set",
         "url": "https://open.spotify.com/album/1tIZbl4nLZZlj9nhb4PCc4"
       },
@@ -656,7 +696,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 309000,
       "name": "Eregnaye",
       "url": "https://open.spotify.com/track/7ypVDpwS7wfIss9W8F3kZK"
@@ -674,7 +714,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 262000,
       "name": "Eshi Kezias",
       "url": "https://open.spotify.com/track/0Y9G7e3yCzIaNEjDW6i83A"
@@ -728,7 +768,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 316026,
       "name": "Fiker",
       "url": "https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs"
@@ -1220,6 +1260,24 @@
       "duration_ms": 195000,
       "name": "Mengedegna",
       "url": "https://open.spotify.com/track/6FLzUgglQPqA78lKior10y"
+    },
+    {
+      "album": {
+        "name": "Gin Yet Hager",
+        "url": "https://open.spotify.com/album/3T4Py6N5MwnZFzY7VD5A5e"
+      },
+      "artists": [
+        {
+          "name": "Girma Tefera Kassa",
+          "url": "https://open.spotify.com/artist/7lMmlIVrTGj8XiebNzimkD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346640,
+      "name": "Min Wuyelish",
+      "url": "https://open.spotify.com/track/2arNjUZpSvHS95cVH00lo6"
     },
     {
       "album": {

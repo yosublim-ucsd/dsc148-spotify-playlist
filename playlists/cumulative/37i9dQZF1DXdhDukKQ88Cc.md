@@ -4,7 +4,7 @@
 
 > det største dk rap lige nu.\. <a href="spotify:artist:7Ap8xCd7d0xon5XnkLvn4i">KIDD</a> har sluppet et nyt album <a href="spotify:album:5eltcb1nCUUS5xeCyrsQV3">OG SÅ VIDERE</a>  🔥
 
-143 songs - 6 hr 9 min
+145 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [GIVE IT 2 ME](https://open.spotify.com/track/7kOe99207cdyOlLHKy65SA) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [GIVE IT 2 ME](https://open.spotify.com/album/56UICC9UdmC7iMZsvKExBu) | 2:04 | 2023-12-08 | 2024-02-23 |
 | [Glem Det \(feat\. Jamaika\)](https://open.spotify.com/track/1k2LysiDCZflmHiA6DepMn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Glem Det \(feat\. Jamaika\)](https://open.spotify.com/album/0C9uppyvWZfeJLng1b9KhZ) | 2:49 | 2024-01-04 |  |
 | [Graffiti](https://open.spotify.com/track/2KpulNb5RWB2flro8HYm3K) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Graffiti](https://open.spotify.com/album/01aGurolrsjwZJbQ6V7KuH) | 2:13 | 2024-01-18 | 2024-02-23 |
+| [Guld](https://open.spotify.com/track/11etqbG118JJvJGMS5Rtv7) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [OG SÅ VIDERE](https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3) | 3:13 | 2024-03-08 |  |
 | [HANNIBAL & JERRY](https://open.spotify.com/track/7IKMflhC3oROTEwUFzH5PW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [HANNIBAL & JERRY](https://open.spotify.com/album/27UpFPOvaxNwCNjcRKGgbH) | 2:02 | 2024-02-22 |  |
 | [Har Du Det Sådan Her? \(feat\. KESI\)](https://open.spotify.com/track/5UV3zCn6evCz5PQMBvyAwC) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Har Du Det Sådan Her? \(feat\. KESI\)](https://open.spotify.com/album/3JG8CJrfWElU5fS5UPqzx0) | 2:20 | 2023-11-10 | 2024-01-19 |
 | [Hele Vejen Ind \(feat\. Gilli\)](https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:28 | 2023-09-21 |  |
@@ -122,6 +123,7 @@
 | [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 | 2023-11-16 | 2024-01-04 |
 | [Skarpt Lys](https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:03 | 2023-12-21 | 2024-02-10 |
 | [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-05 | 2023-11-18 |
+| [SOLEN STÅR OP](https://open.spotify.com/track/4CSJtn4yNxWa3Cmo7ngPYN) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [SOLEN STÅR OP](https://open.spotify.com/album/6IXAw5CQJAfQvXi0QWBBAM) | 2:27 | 2024-03-08 |  |
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-09-21 | 2023-12-14 |
 | [Spåkone](https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Spåkone](https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl) | 2:54 | 2023-09-21 | 2023-12-14 |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 |  |

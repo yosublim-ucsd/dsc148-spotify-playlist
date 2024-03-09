@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: SHOWNU X HYUNGWON \(MONSTA X\)
 
-930 songs - 2 day 2 hr 40 min
+931 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -800,6 +800,7 @@
 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 | 2022-03-18 | 2023-02-22 |
 | [To The Light](https://open.spotify.com/track/47mWmPCFk9qGyU7MSQi5EU) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [To The Light](https://open.spotify.com/album/1Qiv9XYyI3KlBAOZtuvkE6) | 3:29 | 2021-12-23 | 2022-01-19 |
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-12-01 |  |
+| [To\. X \- IMLAY Remix](https://open.spotify.com/track/1PB7LNIEyrAUHbEcngMCPB) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.30 : To\. X Remixes](https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x) | 3:10 | 2024-03-07 |  |
 | [tOgether fOrever](https://open.spotify.com/track/4lEyfMaUwdioK1MxfSVBPw) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-BY> \- Special Edition \-](https://open.spotify.com/album/3knTfpvtA87E82OLyDJJWS) | 3:31 | 2023-03-14 | 2023-06-21 |
 | [Tokyo Tower Romance](https://open.spotify.com/track/4UmwxYx32uUBuYln5QYVIN) | [ユナク from SUPERNOVA](https://open.spotify.com/artist/1dpHGlwmn7I4ofefF0sBgn) | [more...](https://open.spotify.com/album/3McO8rH7UiRc6dNyb90hDJ) | 4:29 | 2022-02-15 | 2022-03-09 |
 | [TOMBOY](https://open.spotify.com/track/6WYsZJDfUOftGVji74yYSU) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/2dVrXV8hgovfKK7nPZkYFi) | 2:54 | 2022-03-14 | 2022-07-29 |

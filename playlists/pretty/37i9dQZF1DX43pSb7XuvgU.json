@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 145734,
+  "num_followers": 145834,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjE3MGQxZWFjMWVhZjdkM2JkMWMzZDY0ZWEyNTA3ZmQ3NDEyZWI1",
+  "snapshot_id": "MCw0ZmIxNzliODc1ZTdkZDg1YTYwOWI4ZjkxNWIxYWZhNTk3NmM2YmRk",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Que Sea Mi Condena",
+      "url": "https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 209186,
       "name": "Siempre Estoy Pensando en Ti (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
       "url": "https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Que Sea Mi Condena",
-      "url": "https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Gracias por Esperar",
-        "url": "https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 308520,
-      "name": "Vienes o Voy",
-      "url": "https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 250813,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/7HMBDmx3tDOzBpyUuaB24v"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Gracias por Esperar",
+        "url": "https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 308520,
+      "name": "Vienes o Voy",
+      "url": "https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf"
     },
     {
       "added_at": "2021-12-29 23:33:57",

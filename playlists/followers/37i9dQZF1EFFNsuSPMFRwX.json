@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 270,
+  "2024-03-09": 270,
   "date_first_scraped": "2022-05-26",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST\">Ink</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Ink",
@@ -33,6 +33,24 @@
       "duration_ms": 392186,
       "name": "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
       "url": "https://open.spotify.com/track/011ZwIM48eD8ee2UBpG8nK"
+    },
+    {
+      "album": {
+        "name": "16 CARRIAGES",
+        "url": "https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233521,
+      "name": "16 CARRIAGES",
+      "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
     },
     {
       "album": {

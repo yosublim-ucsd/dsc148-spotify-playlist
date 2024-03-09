@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop and Play](https://open.spotify.com/playlist/2NoR0KhNZ8oZnC3HoNt2FV)
 
-> Metro Boomin, That Mexican OT, Luh Tyler
+> Drake/4batz collab, That Mexican OT, Luh Tyler
 
-832 songs - 2 day 0 hr 38 min
+833 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2024-01-25 |  |
 | [Above The Law](https://open.spotify.com/track/5oEgPvhTZ4CFjeuuLfmMsI) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 3:29 | 2023-11-30 | 2024-02-07 |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-02-06 |  |
+| [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-08 |  |
 | [ADHD](https://open.spotify.com/track/4X4v3KtkUXwXvDBw5KS9cp) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [ADHD](https://open.spotify.com/album/5qkWpkGMULLVnSHb3Sej4X) | 3:25 | 2024-01-25 | 2024-02-15 |
 | [AHHH HA](https://open.spotify.com/track/42vJocnlXMjv9BiZJmoRBw) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 3:06 | 2024-01-25 |  |
 | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/track/7GI7QNI80ms5XVAdS6fujG) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:44 | 2023-11-30 | 2024-02-07 |

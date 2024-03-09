@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Death and Other Details (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3saCHDYvYvxR6VRcY5V96o"
+      },
+      "artists": [
+        {
+          "name": "Brocker Way",
+          "url": "https://open.spotify.com/artist/7luqyCs5ufZ03HQqQeaAJW"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66693,
+      "name": "Main Title (Death and Other Details)",
+      "url": "https://open.spotify.com/track/71TC1uTfa99LEe6cQ464Lv"
+    },
+    {
+      "album": {
         "name": "Sh\u014dgun (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA"
       },

@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Edena EP",
+        "url": "https://open.spotify.com/album/6rIqB2yEtH1t0LqljYNGAN"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/7nbZmY3X0uzRAbFxshaIdl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308571,
+      "name": "Edena",
+      "url": "https://open.spotify.com/track/3fR8wYz7SEral2bTrwCp9t"
+    },
+    {
+      "album": {
         "name": "Lucid",
         "url": "https://open.spotify.com/album/1zIx1aP24zBQrP01inAiV9"
       },

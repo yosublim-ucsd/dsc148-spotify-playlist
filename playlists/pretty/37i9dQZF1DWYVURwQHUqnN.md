@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,418 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,596 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 27 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 |
 | 28 | [Dolce Vita](https://open.spotify.com/track/4LBC4a1BjTY7kLJfWIRlEx) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [ÉPREUVES](https://open.spotify.com/album/5MmmsnFx91B7lyqQxjLxu9) | 2:50 |
 | 29 | [Trop Bizarre](https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Trop Bizarre](https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI) | 4:32 |
-| 30 | [Corazon](https://open.spotify.com/track/0dvgF40E0vh04R4HgbXmC3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Game Over 3 \- Terminal 2](https://open.spotify.com/album/3NWk02t9Nau9Vd6dtWRVo7) | 3:08 |
+| 30 | [Corazon](https://open.spotify.com/track/0dvgF40E0vh04R4HgbXmC3) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Game Over 3 \- Terminal 2](https://open.spotify.com/album/3NWk02t9Nau9Vd6dtWRVo7) | 3:08 |
 | 31 | [760](https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [760](https://open.spotify.com/album/4434yKaCsQSw2tliaR2PvX) | 3:00 |
 | 32 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
 | 33 | [Reste Trankil](https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reste Trankil](https://open.spotify.com/album/3oAjyQtWWMRyZ5SM6mWKzm) | 3:19 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Lancôme \(feat\. ElGrandeToto\)](https://open.spotify.com/track/29ST3UVdjUIYyu5eiRNpZI) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:00 |
 | 40 | [HÉLICOPTÈRE \|\| 808CLUB](https://open.spotify.com/track/0k2JJjxaqq1hQDPaiGma2N) | [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9), [Alex Grox](https://open.spotify.com/artist/4JVjViXsgKm7GFfPQsNKWO), [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK) | [HÉLICOPTÈRE \|\| 808CLUB](https://open.spotify.com/album/2qTrrqK1RgB2oV86TxJSwJ) | 2:55 |
 
-Snapshot ID: `MCw1ZGQyN2M3MjcwZGY2YTAyNjAzYjQxMmI0NWVhMWQ1NzY1ZTlhZTM3`
+Snapshot ID: `MCxlZmYzZGM2MTJiNTUzNTBiMzAyZmI0Yjg2ZjU3MWMzYjFlOWRjYTFj`

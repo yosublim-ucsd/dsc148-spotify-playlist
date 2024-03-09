@@ -2,7 +2,7 @@
 
 ### [Everyday Favorites ](https://open.spotify.com/playlist/37i9dQZF1DWWvoJqVv7uOD)
 
-> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Paul Russell
+> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Noah Kahan
 
 638 songs - 1 day 10 hr 52 min
 

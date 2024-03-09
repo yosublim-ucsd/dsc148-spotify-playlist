@@ -2,7 +2,7 @@
 
 ### [Gold Edition](https://open.spotify.com/playlist/37i9dQZF1DWXnexX7CktaI)
 
-> Still in rotation\. Cover: Summer Walker
+> Still in rotation\. Cover: Masego
 
 176 songs - 10 hr 49 min
 

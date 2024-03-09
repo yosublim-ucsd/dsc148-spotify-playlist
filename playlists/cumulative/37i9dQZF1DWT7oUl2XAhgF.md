@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Britti
 
-386 songs - 23 hr 20 min
+387 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Float](https://open.spotify.com/track/2r3r7fxm0wRScSrZ34CbIy) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/2vO9jJeWEJ4NN65qzE5EHn) | 4:00 | 2023-02-10 |  |
 | [Float](https://open.spotify.com/track/7MOy3ezBGiYpvc2jBwXZ3m) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/1dtZKbO951kCjsBPSEvw95) | 4:00 | 2023-02-03 | 2023-04-30 |
 | [Forever](https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Forever](https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3) | 3:15 | 2022-09-16 | 2023-02-18 |
+| [Forever](https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO) | [Rome](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Forever](https://open.spotify.com/album/2dMifVzH1LJCNbnAqftCVA) | 3:16 | 2024-03-08 |  |
 | [Forget Me Not](https://open.spotify.com/track/4GGy6xG1PIp1RXUNC2Tea3) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Forget Me Not](https://open.spotify.com/album/3ieKNLfAZMLbg9uf7I6jiQ) | 3:55 | 2022-02-15 | 2023-02-18 |
 | [Fortune Teller](https://open.spotify.com/track/2G01T828C7rQXDjn0v24Ku) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:19 | 2022-10-07 | 2023-02-18 |
 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 | 2022-04-15 | 2023-07-29 |
@@ -173,7 +174,7 @@
 | [It's Gonna Be Alright](https://open.spotify.com/track/74kOgrikSn2UQ8UptnRUxb) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It's Gonna Be Alright](https://open.spotify.com/album/193sR0w8SGseTgMIEU6VKw) | 4:36 | 2022-07-29 | 2023-05-11 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/1PmcWcWiC1qy3D4o7aZO3C) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It’s Gonna Be Alright](https://open.spotify.com/album/4wDe4yF1Ij4lTBOsqLPxPA) | 4:37 | 2022-07-29 | 2023-05-20 |
 | [I’ll Be Loving You](https://open.spotify.com/track/1L2ynW4tupwphXv7z7aOgL) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [I'll Be Loving You](https://open.spotify.com/album/0Am0k5KrvnhpwATTwPefgy) | 2:47 | 2023-10-20 |  |
-| [Jean Leon](https://open.spotify.com/track/4UvTu4SIHtRQl173OZbFRj) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Jean Leon](https://open.spotify.com/album/1yxktlUWjFQb7EHerR7Wme) | 2:53 | 2022-02-15 |  |
+| [Jean Leon](https://open.spotify.com/track/4UvTu4SIHtRQl173OZbFRj) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Jean Leon](https://open.spotify.com/album/1yxktlUWjFQb7EHerR7Wme) | 2:53 | 2022-02-15 | 2024-03-09 |
 | [Joy & Pain](https://open.spotify.com/track/1iHj6nbjMHFpH73fl4AyWB) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Joy & Pain](https://open.spotify.com/album/6OoLcz38MMFvn9l6nAweXC) | 3:43 | 2022-01-14 | 2022-07-29 |
 | [Joy & Pain](https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:43 | 2022-01-14 | 2023-02-18 |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 | 2021-07-09 | 2023-01-28 |

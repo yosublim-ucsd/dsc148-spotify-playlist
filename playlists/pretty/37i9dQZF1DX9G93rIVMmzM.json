@@ -1,12 +1,12 @@
 {
   "description": "for the baddies.",
-  "num_followers": 115034,
+  "num_followers": 115364,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWRlODdlOTdmM2ZjMzcxMGQxYWVlN2EwOTBmNGRhZjQ2Y2I0MzI2",
+  "snapshot_id": "MCw0ZjMyMzZkZWI2Mjc4ZTc3ZTIwMTZlMjdlYzkwYjdmMjljMzZmNjU4",
   "tracks": [
     {
       "added_at": "2024-02-12 05:04:59",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
     },
     {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 299533,
+      "name": "Change (In the House of Flies)",
+      "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
+    },
+    {
       "added_at": "2024-02-15 17:24:05",
       "album": {
         "name": "Take A Look In The Mirror",
@@ -55,38 +71,6 @@
       "duration_ms": 197906,
       "name": "Y'all Want a Single",
       "url": "https://open.spotify.com/track/2WSWm0zlL3CJRACHS5KXbB"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Custer",
-      "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
-        "name": "Remnants of the Vessel",
-        "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
-      },
-      "artists": [
-        {
-          "name": "Faetooth",
-          "url": "https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt"
-        }
-      ],
-      "duration_ms": 306782,
-      "name": "Echolalia",
-      "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
     },
     {
       "added_at": "2024-02-12 05:04:59",
@@ -107,86 +91,18 @@
     {
       "added_at": "2024-02-12 05:04:59",
       "album": {
-        "name": "V.A.N",
-        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
       "artists": [
         {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 274098,
-      "name": "V.A.N",
-      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 373000,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 299533,
-      "name": "Change (In the House of Flies)",
-      "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
-        "name": "Thirteenth Step",
-        "url": "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Weak And Powerless",
-      "url": "https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
+      "duration_ms": 254466,
+      "name": "Custer",
+      "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
     },
     {
       "added_at": "2024-02-12 05:04:59",
@@ -239,22 +155,6 @@
     {
       "added_at": "2024-02-12 05:04:59",
       "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
@@ -271,18 +171,18 @@
     {
       "added_at": "2024-02-12 05:04:59",
       "album": {
-        "name": "Drain",
-        "url": "https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ"
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         }
       ],
-      "duration_ms": 202207,
-      "name": "Drain",
-      "url": "https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5"
+      "duration_ms": 227426,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
     },
     {
       "added_at": "2024-02-12 05:04:59",
@@ -303,6 +203,90 @@
     {
       "added_at": "2024-02-12 05:04:59",
       "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "Remnants of the Vessel",
+        "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
+      },
+      "artists": [
+        {
+          "name": "Faetooth",
+          "url": "https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt"
+        }
+      ],
+      "duration_ms": 306782,
+      "name": "Echolalia",
+      "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "Thirteenth Step",
+        "url": "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Weak And Powerless",
+      "url": "https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 168221,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "Drain",
+        "url": "https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 202207,
+      "name": "Drain",
+      "url": "https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5"
     },
     {
       "added_at": "2024-02-12 05:04:59",
@@ -493,36 +493,36 @@
       "url": "https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ"
     },
     {
-      "added_at": "2024-02-12 05:04:59",
+      "added_at": "2024-03-08 16:11:05",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
         }
       ],
-      "duration_ms": 231106,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
+      "duration_ms": 197674,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK"
     },
     {
       "added_at": "2024-02-12 05:04:59",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        "name": "Shed",
+        "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "Title Fight",
+          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
         }
       ],
-      "duration_ms": 214946,
-      "name": "Going Under",
-      "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"
+      "duration_ms": 154800,
+      "name": "Safe In Your Skin",
+      "url": "https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU"
     },
     {
       "added_at": "2024-02-12 05:04:59",
@@ -539,6 +539,22 @@
       "duration_ms": 206773,
       "name": "Would? (2022 Remaster)",
       "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
     },
     {
       "added_at": "2024-02-12 05:04:59",
@@ -573,6 +589,38 @@
       "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
     },
     {
+      "added_at": "2024-02-15 17:50:21",
+      "album": {
+        "name": "Don't Need You",
+        "url": "https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 206470,
+      "name": "Don't Need You",
+      "url": "https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
+    },
+    {
       "added_at": "2024-02-12 05:04:59",
       "album": {
         "name": "DISDAIN",
@@ -587,22 +635,6 @@
       "duration_ms": 145333,
       "name": "DISDAIN",
       "url": "https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
-        "name": "Shed",
-        "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
-      },
-      "artists": [
-        {
-          "name": "Title Fight",
-          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Safe In Your Skin",
-      "url": "https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU"
     },
     {
       "added_at": "2024-02-12 05:04:59",
@@ -637,36 +669,36 @@
       "url": "https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr"
     },
     {
-      "added_at": "2024-02-15 17:50:21",
+      "added_at": "2024-03-08 16:11:05",
       "album": {
-        "name": "Don't Need You",
-        "url": "https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC"
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
       },
       "artists": [
         {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
         }
       ],
-      "duration_ms": 206470,
-      "name": "Don't Need You",
-      "url": "https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n"
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
     },
     {
-      "added_at": "2024-02-12 05:04:59",
+      "added_at": "2024-03-08 16:11:05",
       "album": {
-        "name": "\u2020\u2020\u2020 (Crosses)",
-        "url": "https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV"
+        "name": "Without a Whisper",
+        "url": "https://open.spotify.com/album/2lCaqPn2EZ4CtwFz1JLBvK"
       },
       "artists": [
         {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
         }
       ],
-      "duration_ms": 208714,
-      "name": "Bitches Brew",
-      "url": "https://open.spotify.com/track/4E23uX1BDdUTk9x56nEbla"
+      "duration_ms": 257532,
+      "name": "Without a Whisper",
+      "url": "https://open.spotify.com/track/6Bs8snxnfC0ZmiEkei4ehn"
     },
     {
       "added_at": "2024-02-12 05:04:59",
@@ -695,6 +727,118 @@
     {
       "added_at": "2024-02-12 05:04:59",
       "album": {
+        "name": "Team Sleep (U.S. Release)",
+        "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
+      },
+      "artists": [
+        {
+          "name": "Team Sleep",
+          "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Blvd. Nights",
+      "url": "https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "\u2020\u2020\u2020 (Crosses)",
+        "url": "https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        }
+      ],
+      "duration_ms": 208714,
+      "name": "Bitches Brew",
+      "url": "https://open.spotify.com/track/4E23uX1BDdUTk9x56nEbla"
+    },
+    {
+      "added_at": "2024-03-08 16:11:05",
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 288520,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4oYsIUSuJY9ZPTE1WfVdnY"
+      },
+      "artists": [
+        {
+          "name": "breakk.away",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+        }
+      ],
+      "duration_ms": 205002,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5w4XPMyvehdEJdtU4ZU67B"
+    },
+    {
+      "added_at": "2024-03-08 16:11:05",
+      "album": {
+        "name": "Sleeptalk (Deluxe)",
+        "url": "https://open.spotify.com/album/5eAo9LbhWjBYX2AHt9o4jh"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "Sleeptalk",
+      "url": "https://open.spotify.com/track/53Ssvy5Rww0BPTtOw375zW"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/5AYeGLu0KlyZUe6bS2tgdh"
+    },
+    {
+      "added_at": "2024-03-08 16:11:05",
+      "album": {
+        "name": "Wake",
+        "url": "https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB"
+      },
+      "artists": [
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "duration_ms": 125024,
+      "name": "Rolling Out the Red Carpet",
+      "url": "https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT"
+    },
+    {
+      "added_at": "2024-02-12 05:04:59",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
       },
@@ -711,18 +855,18 @@
     {
       "added_at": "2024-02-12 05:04:59",
       "album": {
-        "name": "Team Sleep (U.S. Release)",
-        "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
       "artists": [
         {
-          "name": "Team Sleep",
-          "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 188133,
-      "name": "Blvd. Nights",
-      "url": "https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7"
+      "duration_ms": 214946,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"
     },
     {
       "added_at": "2024-02-12 05:04:59",
@@ -775,22 +919,6 @@
     {
       "added_at": "2024-02-12 05:04:59",
       "album": {
-        "name": "Zig",
-        "url": "https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "Knockoff",
-      "url": "https://open.spotify.com/track/7FuQkitKqCDWGSuj7XjquY"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
         "name": "A Loner",
         "url": "https://open.spotify.com/album/0cVHeZCI9YO7zovnvacfhy"
       },
@@ -807,50 +935,18 @@
     {
       "added_at": "2024-02-12 05:04:59",
       "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+        "name": "Zig",
+        "url": "https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/4oYsIUSuJY9ZPTE1WfVdnY"
-      },
-      "artists": [
-        {
-          "name": "breakk.away",
-          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
-        }
-      ],
-      "duration_ms": 205002,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5w4XPMyvehdEJdtU4ZU67B"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
-        "name": "The Fear of Fear",
-        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 248888,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/5AYeGLu0KlyZUe6bS2tgdh"
+      "duration_ms": 184518,
+      "name": "Knockoff",
+      "url": "https://open.spotify.com/track/7FuQkitKqCDWGSuj7XjquY"
     },
     {
       "added_at": "2024-02-12 05:04:59",
@@ -931,22 +1027,6 @@
       "duration_ms": 230980,
       "name": "Blur Into One",
       "url": "https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM"
-    },
-    {
-      "added_at": "2024-02-12 05:04:59",
-      "album": {
-        "name": "The Dark Pool",
-        "url": "https://open.spotify.com/album/2OZMqW5rQr6zUG06ZwfR6L"
-      },
-      "artists": [
-        {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
-        }
-      ],
-      "duration_ms": 298106,
-      "name": "Where We Go When We Die",
-      "url": "https://open.spotify.com/track/60hlLMkJKy6pXtPMHspJao"
     },
     {
       "added_at": "2024-02-12 05:04:59",

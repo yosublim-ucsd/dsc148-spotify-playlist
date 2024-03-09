@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 11645,
+  "2024-03-09": 11708,
   "date_first_scraped": "2023-10-20",
   "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=\"https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=3qqDM921SPKxfSoe_xxi2g\">Naffymar</a> ",
   "name": "Praise and Chill",
@@ -1304,6 +1304,28 @@
     },
     {
       "album": {
+        "name": "Good God II",
+        "url": "https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181710,
+      "name": "Good God II",
+      "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/4gIsSa6Waz3CCWuD0sVl8s"
       },
@@ -1618,6 +1640,28 @@
     },
     {
       "album": {
+        "name": "Ja YA Mma",
+        "url": "https://open.spotify.com/album/5zGQdrBWRv56NRn7udYzdH"
+      },
+      "artists": [
+        {
+          "name": "The membrane",
+          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
+        },
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "Ja YA Mma",
+      "url": "https://open.spotify.com/track/1J7LxyEmRbCrhtxHTUHzgh"
+    },
+    {
+      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2"
       },
@@ -1797,6 +1841,32 @@
       "duration_ms": 236667,
       "name": "Lift Me",
       "url": "https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5"
+    },
+    {
+      "album": {
+        "name": "Little Faith (Cover)",
+        "url": "https://open.spotify.com/album/6Az0vvkTiU7ckfmyIwXsJL"
+      },
+      "artists": [
+        {
+          "name": "Sonnex",
+          "url": "https://open.spotify.com/artist/2VwddBiJzUsKns9z2jf92W"
+        },
+        {
+          "name": "Melody Godwin",
+          "url": "https://open.spotify.com/artist/2djSUbGZt7DrHEEXvJXAKO"
+        },
+        {
+          "name": "Collins Maigida",
+          "url": "https://open.spotify.com/artist/4z7PxRm7QYfMg9YihsCO1V"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364564,
+      "name": "Little Faith - Cover",
+      "url": "https://open.spotify.com/track/4vMzB2Juv3LBW5gWd2EaLg"
     },
     {
       "album": {
@@ -2230,6 +2300,24 @@
     },
     {
       "album": {
+        "name": "Never Late",
+        "url": "https://open.spotify.com/album/4JRU7wu4HT7e0TAqyzdz6v"
+      },
+      "artists": [
+        {
+          "name": "De-Ola",
+          "url": "https://open.spotify.com/artist/4DLgeYOFCpK8Eo27gVdhhy"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211791,
+      "name": "Never Late",
+      "url": "https://open.spotify.com/track/5hjmjT8hSCkX6NoduqAQay"
+    },
+    {
+      "album": {
         "name": "New Generation",
         "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
       },
@@ -2489,6 +2577,32 @@
       "duration_ms": 158709,
       "name": "Oso (Running)",
       "url": "https://open.spotify.com/track/3GT2jNf8RAYIQHypQQLGYl"
+    },
+    {
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/1tMr1ZVaQPYn66i8ZMVzxG"
+      },
+      "artists": [
+        {
+          "name": "Glitzbeatz",
+          "url": "https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK"
+        },
+        {
+          "name": "Amichael Genre",
+          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/5kMYWvocBqkw2POlXH63BF"
     },
     {
       "album": {
@@ -3317,6 +3431,28 @@
       "duration_ms": 150379,
       "name": "True Love",
       "url": "https://open.spotify.com/track/64g7yZSdEEU5EctgNSXoat"
+    },
+    {
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/3vCyVi8EnduLV93bGih19L"
+      },
+      "artists": [
+        {
+          "name": "GIDYON",
+          "url": "https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172927,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/74DC94uJKUT4ifisoMjCWr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,018 likes - 68 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,030 likes - 68 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 67 | [La Luz](https://open.spotify.com/track/0ej4KE9ZeS64oyThzZrqFx) | [Maté](https://open.spotify.com/artist/70FBpPuf1bnE2wvUUB8JzF) | [La Luz](https://open.spotify.com/album/0BXhbBQ0KZdhUYFpn5B111) | 4:33 |
 | 68 | [Hollywood, Florida](https://open.spotify.com/track/5GUFEfUy81x7fJkwxih86x) | [JUANNY DEPP](https://open.spotify.com/artist/0D5NX4FQVLKNFnho6j06WQ) | [Suchitoto](https://open.spotify.com/album/1X9J6KYOPeIth67WHDX8i4) | 3:54 |
 
-Snapshot ID: `MCw0OTZlMDIyMGRkMjIzYWNkZmYxMTAwNzg1NWU5ZDc3NGM3ZGI5Mjg5`
+Snapshot ID: `MCwyZjc2ZmQ2ODQ4MWJhMGM4YmRlZjE0ZjE5MTllMmNmODUyNjZiYWM2`

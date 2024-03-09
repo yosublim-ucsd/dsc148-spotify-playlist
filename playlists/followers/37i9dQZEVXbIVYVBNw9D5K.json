@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 821482,
+  "2024-03-09": 821544,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -3685,7 +3685,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 147510,
       "name": "Can Dostum",
       "url": "https://open.spotify.com/track/6tHhAUAMwUwlEGpAVq1jlX"
@@ -3707,7 +3707,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 165059,
       "name": "Caney",
       "url": "https://open.spotify.com/track/5mE8MWkWjLbfmd9ipiroVt"
@@ -6251,7 +6251,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -16927,6 +16927,24 @@
       "duration_ms": 193440,
       "name": "\u015eark\u0131lar Sokaklara Ait",
       "url": "https://open.spotify.com/track/77zSVMpoimPhUiDuJS2Hhd"
+    },
+    {
+      "album": {
+        "name": "EN KRAL CEKET BEN\u0130M",
+        "url": "https://open.spotify.com/album/6uX8bNAI0Feaf6Jgt6gdzR"
+      },
+      "artists": [
+        {
+          "name": "Emre Nalbanto\u011flu",
+          "url": "https://open.spotify.com/artist/14TogIxl5TVMe7aa7IaLv1"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112777,
+      "name": "\u015eiir Oldum",
+      "url": "https://open.spotify.com/track/35CiF98CSt8b2zTxHTck8i"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: بهاء سلطان
 
-883 songs - 2 day 2 hr 3 min
+885 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Mennak Lellah](https://open.spotify.com/track/48OBnNO9eX6vmDSrUOxmEK) | [Klinsh](https://open.spotify.com/artist/5rq3WcJv093b36wart7yqw), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [Mennak Lellah](https://open.spotify.com/album/0Giycx3BBLCW7gFQzDuu28) | 3:35 | 2023-08-17 | 2023-10-03 |
 | [Merayat](https://open.spotify.com/track/26bqj6BXWypzTuvXB8bTX6) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Merayat](https://open.spotify.com/album/3z1n5psdjX6jdF3DX0eltI) | 3:33 | 2023-08-30 | 2023-12-21 |
 | [Mesaykeb](https://open.spotify.com/track/30z7f3qOR40Cm8BbmLZUPK) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Mesaykeb](https://open.spotify.com/album/6Pwe6SUTBDiORJkyCqWFcr) | 3:05 | 2022-03-18 | 2022-07-11 |
+| [Mesh 3ayez W Man7ebesh](https://open.spotify.com/track/2EsI3L6gZA9j2TPtLjTzKc) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [Hany El Dakkak](https://open.spotify.com/artist/3lkpsAecG5PLOzsanTmfvo), [Ghalia Benali](https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy) | [Red Bull Sika](https://open.spotify.com/album/5YTRFyWsYL3EVuzBwL3bFT) | 2:57 | 2024-03-08 |  |
 | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/track/4Xix6C8Ny51e3l6ZGzFCBA) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/album/6IVMIrWOyWsjfLXBATH3Jb) | 2:50 | 2023-02-01 | 2023-03-10 |
 | [Mesh Nadman](https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mesh Nadman](https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy) | 2:55 | 2021-12-29 | 2022-03-10 |
 | [Mesh Saleem](https://open.spotify.com/track/06GfyzaBSbs18pJsZO1jvM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mesh Saleem](https://open.spotify.com/album/6XnP1hueQTJJSBsXMdgRHc) | 3:33 | 2023-08-16 | 2023-08-29 |
@@ -801,6 +802,7 @@
 | [قهوة محوجة](https://open.spotify.com/track/4SlrB9iFb2aVTCcOxC1WoF) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [قهوة محوجة](https://open.spotify.com/album/6J6dMz6RPtPosUBmtBBixk) | 3:07 | 2024-01-25 | 2024-02-16 |
 | [كارفوم بكايته \- لو القديم راحت عليه يبقي الجديد يرقص بالية](https://open.spotify.com/track/2hitrJSVqSNeIsamCOVdUw) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [كارفوم بكايته \(لو القديم راحت عليه يبقي الجديد يرقص بالية\)](https://open.spotify.com/album/2yGwhZrfPsVoIG0qyTHoux) | 2:16 | 2023-05-05 | 2023-06-21 |
 | [كان ليا حبايب](https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كان ليا حبايب](https://open.spotify.com/album/2rUngNOWjttCruLwgnEHUp) | 4:18 | 2023-02-16 | 2023-04-06 |
+| [كان ياما كان](https://open.spotify.com/track/0U7LKLwPwAoRK5vF6CxY9I) | [Ahmed Ehab](https://open.spotify.com/artist/3P9Etdmy2JoRlvlelYxZVl) | [كان ياما كان](https://open.spotify.com/album/0HqJNj4BLxv28jhxZud7m0) | 3:33 | 2024-03-08 |  |
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2022-07-08 |
 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 | 2023-07-28 | 2023-08-10 |
 | [كعبك علي](https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كعبك علي](https://open.spotify.com/album/1Kgo9nVQn4AwUiaFg3NIFu) | 3:34 | 2023-07-28 | 2023-09-30 |

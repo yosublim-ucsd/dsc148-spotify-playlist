@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Arden Jones",
-  "num_followers": 217038,
+  "num_followers": 217054,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjNlMDg3ODEwZjE0NDc5ODZlZWEwZThjYzljNGExYzIzMTM5Mjgx",
+  "snapshot_id": "MCw4OTJkN2YwNTYyM2JhMWNkZDk4MjU1ZGQwNjkwZmZlZDFkZTRhOWFl",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "age tape 12",
+        "url": "https://open.spotify.com/album/0alLVuUOnDoOUpELioQNoF"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 192562,
+      "name": "confessions",
+      "url": "https://open.spotify.com/track/1qu6whtoKkt2q4KPX8Zvoa"
+    },
     {
       "added_at": "2024-03-01 15:28:11",
       "album": {
@@ -41,20 +57,24 @@
       "url": "https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n"
     },
     {
-      "added_at": "2024-01-12 19:08:26",
+      "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "age tape 10",
-        "url": "https://open.spotify.com/album/25orBHW7uijdOQi29a8wag"
+        "name": "Spin The Globe 2",
+        "url": "https://open.spotify.com/album/55VCE8PQdrElkCenxy1tBe"
       },
       "artists": [
         {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
         }
       ],
-      "duration_ms": 153191,
-      "name": "hard enough to stay alive",
-      "url": "https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS"
+      "duration_ms": 149250,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/0VOvzOQzCrnt1T4zeXhPiy"
     },
     {
       "added_at": "2024-01-22 15:57:19",
@@ -139,6 +159,22 @@
       "duration_ms": 185454,
       "name": "Fishnets",
       "url": "https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2"
+    },
+    {
+      "added_at": "2024-01-12 19:08:26",
+      "album": {
+        "name": "age tape 10",
+        "url": "https://open.spotify.com/album/25orBHW7uijdOQi29a8wag"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "hard enough to stay alive",
+      "url": "https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS"
     },
     {
       "added_at": "2024-01-12 05:08:00",
@@ -247,6 +283,22 @@
       "duration_ms": 132852,
       "name": "complicated",
       "url": "https://open.spotify.com/track/2JrRXrgB359mP3QBrObDXI"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "it's over now",
+        "url": "https://open.spotify.com/album/4PM2v7SjpShQMrJjvKLUvI"
+      },
+      "artists": [
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+        }
+      ],
+      "duration_ms": 126760,
+      "name": "it's over now",
+      "url": "https://open.spotify.com/track/5b0TwhUwB5v0l6z1tEvHJG"
     },
     {
       "added_at": "2024-01-12 05:08:00",
@@ -503,22 +555,6 @@
       "duration_ms": 154160,
       "name": "she's wild'",
       "url": "https://open.spotify.com/track/6qdwAVEI7Uo5xLj7XH3yd5"
-    },
-    {
-      "added_at": "2024-01-12 05:08:00",
-      "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 264473,
-      "name": "HOPE",
-      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
     },
     {
       "added_at": "2024-01-12 05:08:00",
@@ -827,22 +863,6 @@
     {
       "added_at": "2024-01-12 05:08:00",
       "album": {
-        "name": "Hazel Eyes",
-        "url": "https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2"
-      },
-      "artists": [
-        {
-          "name": "Ollie",
-          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
-        }
-      ],
-      "duration_ms": 138282,
-      "name": "Hazel Eyes",
-      "url": "https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY"
-    },
-    {
-      "added_at": "2024-01-12 05:08:00",
-      "album": {
         "name": "HATED US",
         "url": "https://open.spotify.com/album/1dwxT4qdc4nvgcGTjWHP60"
       },
@@ -1047,22 +1067,6 @@
       "duration_ms": 136383,
       "name": "Tom Brady",
       "url": "https://open.spotify.com/track/02cQm104XjRk0sQd1ZQb8y"
-    },
-    {
-      "added_at": "2024-01-12 05:08:00",
-      "album": {
-        "name": "Over & Done",
-        "url": "https://open.spotify.com/album/1kzoSbgJa9DYLa9eJoazZi"
-      },
-      "artists": [
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 121782,
-      "name": "Over & Done",
-      "url": "https://open.spotify.com/track/6hEvt7xqyMq5UC3cpInDPc"
     },
     {
       "added_at": "2024-01-12 05:08:00",
@@ -1339,26 +1343,6 @@
       "duration_ms": 173752,
       "name": "Off A Cliff (With Reo Cragun)",
       "url": "https://open.spotify.com/track/7KjY1Xr1vXsAgolo63F0sV"
-    },
-    {
-      "added_at": "2024-01-12 05:08:00",
-      "album": {
-        "name": "Voices (feat. Oliver Tree)",
-        "url": "https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 188575,
-      "name": "Voices (feat. Oliver Tree)",
-      "url": "https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx"
     },
     {
       "added_at": "2024-01-12 05:08:00",

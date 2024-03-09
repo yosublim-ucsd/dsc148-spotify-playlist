@@ -4,7 +4,7 @@
 
 > Pumping tracks for pumping iron!
 
-745 songs - 1 day 13 hr 1 min
+746 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 | 2020-12-23 | 2021-03-26 |
 | [Gotta Be You](https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Gotta Be You](https://open.spotify.com/album/2zzcyknjN9v95n0OYg8paf) | 2:29 | 2021-02-16 | 2022-05-27 |
 | [Grapevine](https://open.spotify.com/track/6EXl6ZF6rXm6qCsKeizJ1b) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Grapevine](https://open.spotify.com/album/4gAPiXbAyicBwaTBFKVrJu) | 2:30 | 2021-03-11 | 2021-03-19 |
-| [greedy \- cassö remix](https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn) | [greedy \(remixes\)](https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC) | 2:36 | 2023-12-08 |  |
+| [greedy \- cassö remix](https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn) | [greedy \(remixes\)](https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC) | 2:36 | 2023-12-08 | 2024-03-09 |
 | [Groovin](https://open.spotify.com/track/3ktUAf5M4HiCt6n7Zb323H) | [Sir Roy](https://open.spotify.com/artist/0ZK2XTg54GbyRQi9joSvRF) | [Groovin](https://open.spotify.com/album/21hpfR9YzexhabTxmPuhhI) | 4:27 | 2021-03-06 | 2021-03-23 |
 | [Halfway There \(feat\. Lena Leon\)](https://open.spotify.com/track/3EKKIR8be1kfAAwaz1fzyS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Halfway There \(feat\. Lena Leon\)](https://open.spotify.com/album/1o7RMlwMagNna98i4e8VpN) | 3:15 | 2021-03-19 | 2021-03-20 |
 | [Hallucinate \- Paul Woolford Remix](https://open.spotify.com/track/3v7hMuewavfpJx8sytJ4AO) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Hallucinate \(Paul Woolford Remix\)](https://open.spotify.com/album/6u8iiQQwRvqig5X4ILVNje) | 3:58 | 2020-08-14\* | 2022-04-21 |
@@ -416,6 +416,7 @@
 | [Miracle \(with Ellie Goulding\) \- Mau P Remix](https://open.spotify.com/track/3lsiqFV6SKhBgzQCpuM1JR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Miracle \(with Ellie Goulding\) \[Mau P Remix\]](https://open.spotify.com/album/2F5dzEAJZlxxMI0uGOQfYt) | 3:37 | 2023-04-27 | 2023-05-05 |
 | [Monkey Mind](https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Monkey Mind](https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1) | 2:06 | 2021-05-30 | 2022-07-23 |
 | [Monster](https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster](https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W) | 2:34 | 2020-08-14\* | 2021-03-22 |
+| [Monster \(with Alok\)](https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Monster \(with Alok\)](https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX) | 2:55 | 2024-03-07 |  |
 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2023-09-14 |  |
 | [More Than You Know](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:23 | 2021-03-06 | 2021-03-23 |
 | [Morenita](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita](https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW) | 2:56 | 2022-03-24 | 2023-05-05 |

@@ -10323,6 +10323,28 @@
     },
     {
       "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/4meYbTPnxDPUE1TCMlZHC5"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "The Juice",
+      "url": "https://open.spotify.com/track/35WxWCjIJw5eEX6KEUGdj5"
+    },
+    {
+      "album": {
         "name": "The Veldt Cinema (BYNX Edit)",
         "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
       },

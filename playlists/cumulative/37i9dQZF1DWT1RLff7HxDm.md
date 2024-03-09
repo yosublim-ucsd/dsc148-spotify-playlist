@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-155 songs - 15 hr 37 min
+156 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Chills & Thrills \- Live](https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4) | 6:50 | 2020-10-30 |  |
 | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Back to the Blues \(Deluxe Edition\)](https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp) | 4:05 | 2023-06-02 |  |
 | [Cold Black Night \- Live at VH1](https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU) | 4:05 | 2023-05-26 | 2023-11-05 |
+| [Corrina](https://open.spotify.com/track/21FbveXKY4LdlUbIRG80P6) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Swingin' Live at The Church in Tulsa](https://open.spotify.com/album/1BS29Yn0GYgoJG7LAMkqXI) | 5:10 | 2024-03-08 |  |
 | [Cotton Candy \- Live](https://open.spotify.com/track/0aYwusuQt3uMApBVdpgheX) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Night In The City \(Live\)](https://open.spotify.com/album/4l5Vneh2HKO5EP6oSWquxb) | 4:20 | 2023-10-20 |  |
 | [Cotton Candy \- Live](https://open.spotify.com/track/2Reygj9CG2BmnNqZPULOuK) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Cotton Candy \(Live\)](https://open.spotify.com/album/3XGLVWhL9N8e1lotVkrE0G) | 4:20 | 2023-10-20 | 2023-12-04 |
 | [Crossroads \- Live at The Royal Albert Hall, Rock Version](https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Definitive 24 Nights \(Live\)](https://open.spotify.com/album/7uLDovmFB97bee1kDTtCNl) | 8:55 | 2023-06-23 |  |
@@ -151,7 +152,7 @@
 | [Up Your Sleeve \- Live](https://open.spotify.com/track/3kEIR6eH1rL9GWQi1bayCG) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Live at the '62 Center](https://open.spotify.com/album/4j4Uu6TIBjVFcGvm57olqw) | 5:24 | 2020-10-30 |  |
 | [Wait On Time \- Live](https://open.spotify.com/track/6idWc3OukhbJmzdILw0KRb) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [King King Live](https://open.spotify.com/album/05nIedmPU5AOXRPP6uztMv) | 6:23 | 2020-10-30 | 2022-07-29 |
 | [Wait on Time \- Live](https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [Live](https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B) | 6:26 | 2020-10-30 |  |
-| [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 | 2021-04-23 |  |
+| [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 | 2021-04-23 | 2024-03-09 |
 | [Watchagonnado \(Live\)](https://open.spotify.com/track/3O3ZFiWatJ9nm8C9AhCh5z) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD) | [Watchagonnado \(Live\)](https://open.spotify.com/album/6X1thdV5sgh1sFkP81K4lg) | 5:29 | 2020-10-30 | 2022-07-21 |
 | [Watchagonnado \- Live](https://open.spotify.com/track/3dbmtHrcXvJu6i1TcLzP81) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD) | [Road Chronicles: Live!](https://open.spotify.com/album/2A4kEXoGNdaZiAlWb4njWq) | 5:29 | 2020-10-30 |  |
 | [Weatherman](https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY) | [Tasha Taylor](https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq) | [Ina Forsman, Layla Zoe, Tasha Taylor](https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3) | 3:38 | 2020-10-30 |  |

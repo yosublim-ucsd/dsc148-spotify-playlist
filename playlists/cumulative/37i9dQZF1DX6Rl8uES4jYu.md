@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-436 songs - 1 day 0 hr 19 min
+437 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Sunny Days](https://open.spotify.com/track/57sInFXtiUWZvj2oxtAf0A) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:10 | 2020-11-13 | 2022-03-23 |
 | [Sunrise](https://open.spotify.com/track/4iOQb2ULpWOnTwLJVVd1is) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Sunrise](https://open.spotify.com/album/7s0obyXsDZ2gya8U1djssM) | 2:45 | 2023-08-11 |  |
 | [Sunset](https://open.spotify.com/track/5hFVuHDVUqR9FvVnHFoLLo) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sunset](https://open.spotify.com/album/7zAZZ3cUAbM6WPAecRTN01) | 3:13 | 2023-10-20 |  |
-| [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74) | 3:13 | 2022-03-25 |  |
+| [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74) | 3:13 | 2022-03-25 | 2024-03-09 |
 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-13 | 2022-08-17 |
 | [Sure Don't Miss You](https://open.spotify.com/track/4afpgzmy9O1JB3Vovb3qb0) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/4pRCXsCz9B7zkeNimzPyNE) | 2:54 | 2020-11-13 | 2022-03-22 |
 | [Suzi Traffic](https://open.spotify.com/track/4UdrF91coQA4tsM330r7Co) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [John McCallum](https://open.spotify.com/artist/7j7wBKS8M29EIYXsAPIoP4) | [Suzi Traffic \(feat\. John McCallum\)](https://open.spotify.com/album/2YPl9BkjKX2BDpACizbZbE) | 3:45 | 2021-04-30 | 2022-04-21 |
@@ -369,6 +369,7 @@
 | [Thank You Master \(For My Soul\)](https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Rob Milton](https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Everlasting](https://open.spotify.com/album/6qKrcLdkdpGLuPzN0i4oTJ) | 1:55 | 2021-09-21 | 2022-08-09 |
 | [The Pool](https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [The Pool](https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8) | 3:35 | 2023-08-04 |  |
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-09-30 | 2024-01-27 |
+| [The Sun Is Shining](https://open.spotify.com/track/58hS2FjP1m2P7PZSIeFXUI) | [NEVUSSIDE](https://open.spotify.com/artist/1BEqm7J8ph9SePEMECpssy), [Chima Anya](https://open.spotify.com/artist/2R5My3OkaH2tkHjCiJ51PE) | [The Sun Is Shining](https://open.spotify.com/album/2Zm5F9dM0HfTYeDWNBOjKa) | 3:19 | 2024-03-08 |  |
 | [THE SUN SHINES SO BRIGHT WITH YOU](https://open.spotify.com/track/3jJF4tK7hDS5MBRHyVns0V) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [THE SUN SHINES SO BRIGHT WITH YOU](https://open.spotify.com/album/0NlU3SdIMDeuWXbxaxlBNu) | 2:52 | 2020-11-13 | 2022-03-19 |
 | [The Sweetest Thing](https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [The Sweetest Thing](https://open.spotify.com/album/5BIpgoq1dFvuTLcKRDbD09) | 4:35 | 2023-05-12 |  |
 | [The Thrill Is Gone.](https://open.spotify.com/track/0OY4O9PuW7A5fbI2o90WA8) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 3:19 | 2023-02-03 | 2023-04-16 |

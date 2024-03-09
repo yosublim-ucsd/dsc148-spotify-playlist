@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 10 years of Dierks Bentley's hit album \"Riser\" here on Country Gold! ",
-  "num_followers": 2160498,
+  "num_followers": 2160646,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTdiMGU4ZWY2ODkyNzYyYzQ4YTBlZTdiYTcxYzUxOTExYWY4YzFh",
+  "snapshot_id": "MCw2NWE1MDZhMmYyZGEwMDQ0ZWQ2NmJjNTA5NGYzODljNTQyZmVmNDZm",
   "tracks": [
     {
       "added_at": "2024-02-22 20:59:23",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-02-22 20:59:23",
       "album": {
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
+    },
+    {
+      "added_at": "2024-02-22 20:59:23",
+      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 169586,
       "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
-    },
-    {
-      "added_at": "2024-02-22 20:59:23",
-      "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
     },
     {
       "added_at": "2024-02-22 20:59:23",

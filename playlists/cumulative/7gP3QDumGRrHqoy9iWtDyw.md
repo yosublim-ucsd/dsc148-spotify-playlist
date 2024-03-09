@@ -4,7 +4,7 @@
 
 > 
 
-183 songs - 11 hr 54 min
+184 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Get After It](https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Get After It](https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI) | 2:58 | 2022-08-20 | 2024-01-21 |
 | [Get Bossy \(feat\. MariaDennis\)](https://open.spotify.com/track/0eL7XibRJtKYfWH5H0Fnk5) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN), [MariaDennis](https://open.spotify.com/artist/3YU24EoiqfIRzZ2RR1xsL1) | [Get Bossy \(feat\. MariaDennis\)](https://open.spotify.com/album/4leFDUKpsKCCwiBEpzDHIs) | 2:49 | 2024-02-14 |  |
 | [Get On The Floor](https://open.spotify.com/track/4pLcVoeZbGRnid7stPrsWy) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Get On The Floor](https://open.spotify.com/album/7ypxsAkBOezGD31T616zv4) | 2:22 | 2023-07-20 |  |
+| [Giving Me Life](https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Giving Me Life](https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq) | 3:15 | 2024-03-08 |  |
 | [Gonna Make You Sweat \(Everybody Dance Now\) \- Edit Mix](https://open.spotify.com/track/2j3kCSx9ljhPkk2tYuNVZH) | [Moreno Pezzolato](https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ) | [Gonna Make You Sweat \(Everybody Dance Now\) \(Edit\)](https://open.spotify.com/album/2pslnaxRj3AB3O7Tzv2wGg) | 2:38 | 2023-07-28 |  |
 | [GOOD FOR YOU](https://open.spotify.com/track/3EhUlT5FGsG9SNaKagJlEh) | [MEKKAWY](https://open.spotify.com/artist/0Ir4hjJIxt7uIhWZDUWY6x) | [THE CHOICE EP](https://open.spotify.com/album/1CJs0dhZNoBNNhdL9Jlsxo) | 2:44 | 2022-10-21 |  |
 | [Gospel](https://open.spotify.com/track/0Eqpd2ecXGxoLWBVFBBf1z) | [Brad King](https://open.spotify.com/artist/2q7LrIFZP6UIs73GFrkHPm) | [F That EP](https://open.spotify.com/album/5ZmskTPNKJpAbZQGRShiYP) | 3:30 | 2023-02-05 |  |

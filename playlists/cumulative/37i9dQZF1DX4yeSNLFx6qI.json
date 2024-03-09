@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Baladas Tatuadas Vol. 1",
+        "url": "https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "5 > 1",
+      "url": "https://open.spotify.com/track/1dX0ZPraR1ZaQ2THFMwEOp"
+    },
+    {
+      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 177515,
       "name": "Doler\u00eda",
       "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 238869,
+  "num_followers": 238950,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTE4ZGRhMGJhZDcxNDMxYjVmYTJjOTViYzcyM2M2ZjUyZGQ5Y2Fk",
+  "snapshot_id": "MCw3NjE1MDY3OWExYmQ1NTcyOTM4YzliMWZmMDY2MTgwMTQyYjllYmZl",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -839,18 +839,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Grandes Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9"
+        "name": "Party Full Nasty (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw"
       },
       "artists": [
         {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "Yakarta",
+          "url": "https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG"
         }
       ],
-      "duration_ms": 378013,
-      "name": "Qu\u00e9 Pasa Loco",
-      "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
+      "duration_ms": 208680,
+      "name": "Besito Con Lengua",
+      "url": "https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP"
     }
   ],
   "unique_name": "Salsa Cubana",

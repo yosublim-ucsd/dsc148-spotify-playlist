@@ -1,12 +1,12 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 217288,
+  "num_followers": 217474,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmI5MDI3MmRkZjQ4YzQxYTJlZWJjYzk0NmZiN2VhNWY5NGIzNDRk",
+  "snapshot_id": "MCxjMWZlOTNhNjg1YmFjZTBkMDRiNjAzODAwNTAxMDYzYTI2MDcwNDJk",
   "tracks": [
     {
       "added_at": "2024-02-02 06:01:21",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "What?",
+        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
+      },
+      "artists": [
+        {
+          "name": "Reece Lache",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "KEEPER",
         "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
       },
@@ -995,18 +1011,22 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "What?",
-        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
+        "name": "Full Metal",
+        "url": "https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp"
       },
       "artists": [
         {
-          "name": "Reece Lache",
-          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Kay Sade",
+          "url": "https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3"
         }
       ],
-      "duration_ms": 132472,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
+      "duration_ms": 200314,
+      "name": "Full Metal",
+      "url": "https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1031,26 +1051,6 @@
       "duration_ms": 168000,
       "name": "PLAN PLAN",
       "url": "https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "Full Metal",
-        "url": "https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp"
-      },
-      "artists": [
-        {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
-        },
-        {
-          "name": "Kay Sade",
-          "url": "https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Full Metal",
-      "url": "https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
       },
@@ -1127,6 +1143,38 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "ALOT",
+        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 145011,
+      "name": "ALOT",
+      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "hollow",
+        "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
+      },
+      "artists": [
+        {
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        }
+      ],
+      "duration_ms": 152031,
+      "name": "hollow",
+      "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
       },
@@ -1139,46 +1187,6 @@
       "duration_ms": 163862,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "STRONGER",
-        "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        },
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        }
-      ],
-      "duration_ms": 132053,
-      "name": "STRONGER",
-      "url": "https://open.spotify.com/track/3Bnxe7UFZaFDrjDTcYgidL"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1207,34 +1215,26 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "hollow",
-        "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
+        "name": "STRONGER",
+        "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
       },
       "artists": [
         {
-          "name": "Jaisua",
-          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
-        }
-      ],
-      "duration_ms": 152031,
-      "name": "hollow",
-      "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "ALOT",
-        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
-      },
-      "artists": [
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        },
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
         }
       ],
-      "duration_ms": 145011,
-      "name": "ALOT",
-      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
+      "duration_ms": 132053,
+      "name": "STRONGER",
+      "url": "https://open.spotify.com/track/3Bnxe7UFZaFDrjDTcYgidL"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "TIL ITS DONE",
-        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 172205,
-      "name": "TIL ITS DONE",
-      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "Check Me Out",
         "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 167727,
       "name": "Check Me Out",
       "url": "https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "TIL ITS DONE",
+        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 172205,
+      "name": "TIL ITS DONE",
+      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Nicely",
-        "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
+        "name": "That Feel",
+        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
       },
       "artists": [
         {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
         }
       ],
-      "duration_ms": 170859,
-      "name": "Nicely",
-      "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
+      "duration_ms": 163657,
+      "name": "That Feel",
+      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "That Feel",
-        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
+        "name": "Nicely",
+        "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
       },
       "artists": [
         {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 163657,
-      "name": "That Feel",
-      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
+      "duration_ms": 170859,
+      "name": "Nicely",
+      "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
     },
     {
       "added_at": "2024-02-02 06:01:21",

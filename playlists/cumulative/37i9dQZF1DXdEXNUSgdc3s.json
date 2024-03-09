@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 165000,
       "name": "432 Hz Tellus Heartbeat",
       "url": "https://open.spotify.com/track/3jZtP1Fbf4WO45BuCClXQJ"
@@ -92,6 +92,42 @@
       "duration_ms": 204000,
       "name": "Alpha 8HZ",
       "url": "https://open.spotify.com/track/2b73pXF92rsFndS7FxeQ68"
+    },
+    {
+      "album": {
+        "name": "Alpha Binaural Waves 73-80 Hz",
+        "url": "https://open.spotify.com/album/32M2RtwbmiD7YgOTtcdoHM"
+      },
+      "artists": [
+        {
+          "name": "Sienna Meadows",
+          "url": "https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Alpha Binaural Waves 73-80 Hz",
+      "url": "https://open.spotify.com/track/2CvkLqkFrobSA22rGjhatt"
+    },
+    {
+      "album": {
+        "name": "Alpha Binaural Waves 80-88 Hz",
+        "url": "https://open.spotify.com/album/5nFb10jIGJmRq4qTypSPlu"
+      },
+      "artists": [
+        {
+          "name": "Mateo Stewart",
+          "url": "https://open.spotify.com/artist/6wSpDuNcItpeFJNm9vSFD7"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Alpha Binaural Waves 80-88 Hz",
+      "url": "https://open.spotify.com/track/7FPsev9prNq4xLto8CoTIq"
     },
     {
       "album": {
@@ -275,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Alpha Peace (93Hz - 103Hz)",
+        "url": "https://open.spotify.com/album/1MPxyaxpP62ZCC9gAy5SHB"
+      },
+      "artists": [
+        {
+          "name": "Binaural Explorer",
+          "url": "https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178898,
+      "name": "Alpha Peace (93Hz - 103Hz)",
+      "url": "https://open.spotify.com/track/3sWYDCDKnKsQMzg2J3FJRA"
+    },
+    {
+      "album": {
         "name": "Alpha Relief 94 Hz - 102 Hz",
         "url": "https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR"
       },
@@ -290,6 +344,24 @@
       "duration_ms": 188910,
       "name": "Alpha Relief 94 Hz - 102 Hz",
       "url": "https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd"
+    },
+    {
+      "album": {
+        "name": "Alpha REM 82 Hz - 92 Hz",
+        "url": "https://open.spotify.com/album/1pdONj5eMm3maQzqVtNNdV"
+      },
+      "artists": [
+        {
+          "name": "REM",
+          "url": "https://open.spotify.com/artist/6FdgwOhDP1kPWChJQqKGA4"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Alpha REM 82 Hz - 92 Hz",
+      "url": "https://open.spotify.com/track/6Fn4dlKQFkDP421P2IShjC"
     },
     {
       "album": {
@@ -1456,7 +1528,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 190043,
       "name": "Suspended in Time 528Hz",
       "url": "https://open.spotify.com/track/2AlSl9svSZiPOz8HLGzehn"

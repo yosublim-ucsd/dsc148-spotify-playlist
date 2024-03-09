@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-575 songs - 1 day 8 hr 20 min
+577 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Eternity](https://open.spotify.com/track/6OsdOBA7VE0ZYzV99CRutB) | [Bafu](https://open.spotify.com/artist/7noh40d76QRMnTPGW2VvO6), [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Eternity](https://open.spotify.com/album/02wSxU0vXahHp0r0qbIDsH) | 3:43 | 2021-11-22 | 2022-01-08 |
 | [Eternity](https://open.spotify.com/track/0PqsrSUORNOsVyVH7jSlnM) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Eternity](https://open.spotify.com/album/0uVzoO0jamR1dQqDYA3sCY) | 3:20 | 2023-10-29 |  |
 | [Ethereal](https://open.spotify.com/track/5roi8Oveylqkssrp5fQ5hq) | [Audent](https://open.spotify.com/artist/16ZHzYuPyaRVjHGfZExJ60) | [Ethereal](https://open.spotify.com/album/7DP0YsFPjmjz6Es5cfLQyv) | 4:26 | 2022-04-11 | 2022-07-16 |
+| [Event Horizon](https://open.spotify.com/track/09mSBiAXZ6QMktNUMC3H1q) | [Manics](https://open.spotify.com/artist/3myc8xWoGmD2tiQY9H9u1G) | [Event Horizon EP](https://open.spotify.com/album/6J0WuEJIPjzlOQblikWSfy) | 4:11 | 2024-03-08 |  |
 | [evergreen](https://open.spotify.com/track/7LhF0VgzR4fuN7SdChVRnp) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [evergreen](https://open.spotify.com/album/7CWHFWCJnFiDTCtyDbrVOK) | 2:55 | 2023-09-28 |  |
 | [Everyday, Everyday \- Live Edit](https://open.spotify.com/track/4lqEaB69YUYkV2i9T7ZuU0) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Everyday, Everyday \(Live Edit\)](https://open.spotify.com/album/0HecV8KVJugnC7z3OrK1uW) | 6:29 | 2023-01-11 |  |
 | [Explore](https://open.spotify.com/track/62wmupzYp1sdfhKM9cNiYC) | [Prblm Chld](https://open.spotify.com/artist/6ZgKMPtqbeSTMuQ6FQlxKh), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Explore](https://open.spotify.com/album/5Se8Q4Kues4cWqDlSTSLa0) | 2:57 | 2022-01-20 | 2022-02-05 |
@@ -214,6 +215,7 @@
 | [Good Vibe](https://open.spotify.com/track/4AmHxLSkut2l0Fyv54fjuZ) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Good Vibe](https://open.spotify.com/album/3K15Io1pcbWvhDxaD5YNz1) | 3:49 | 2022-04-13 | 2023-01-30 |
 | [Gorgeous \(with Reo Cragun\)](https://open.spotify.com/track/4inDHMhS9nxqOygYurJH2Q) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Gorgeous \(with Reo Cragun\)](https://open.spotify.com/album/2kNtLpsLRH3s2b74ZinmNs) | 2:48 | 2022-09-02 |  |
 | [Gradient](https://open.spotify.com/track/3lyF43hdw1AULXQyvrfRpa) | [Starya](https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX) | [Gradient](https://open.spotify.com/album/3WJrVYaL23cnjReefwIBWs) | 3:40 | 2023-10-27 |  |
+| [Gravity \(Manila Killa & MYRNE Remix\)](https://open.spotify.com/track/5mZTYzyn7AOZOArUiNMz7O) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Gravity \(Manila Killa & MYRNE Remix\)](https://open.spotify.com/album/46ESuwaQ6e4NcGJ3uYXk6a) | 4:50 | 2024-03-08 |  |
 | [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 | 2023-06-29 | 2023-10-06 |
 | [Grid Lines](https://open.spotify.com/track/7i4HvCVazy9piUZwumS44x) | [Shae District](https://open.spotify.com/artist/7h9Pbr7lcfxk8TyOXe8uCX) | [Grid Lines](https://open.spotify.com/album/2145oDTM1FqcH51ieqtfSd) | 6:17 | 2023-01-19 | 2023-07-20 |
 | [Growing Pains](https://open.spotify.com/track/094tCgchiXY2srShd51TvA) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Growing Pains](https://open.spotify.com/album/2ALJwbBEAUpuqg7JFuhtlv) | 4:24 | 2024-01-08 |  |

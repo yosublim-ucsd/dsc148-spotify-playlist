@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 133668,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/6quttWWUGntf16w4cExQGo"
@@ -5584,6 +5584,40 @@
       "duration_ms": 206639,
       "name": "Volar",
       "url": "https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs"
+    },
+    {
+      "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/5iIhfMavOiN7uNntMyoE9c"
+      },
+      "artists": [
+        {
+          "name": "KAVVO",
+          "url": "https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO"
+        },
+        {
+          "name": "GIMARIO",
+          "url": "https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH"
+        },
+        {
+          "name": "Italian Somali",
+          "url": "https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv"
+        },
+        {
+          "name": "DJ Kendo",
+          "url": "https://open.spotify.com/artist/5OYkaab5KaJZPdZF6knfJQ"
+        },
+        {
+          "name": "Monster",
+          "url": "https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/6gSwhZ8iLayvvGW2zW28Nl"
     },
     {
       "album": {

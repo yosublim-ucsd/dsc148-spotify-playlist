@@ -1,13 +1,29 @@
 {
   "description": "Keep your finger on the pulse of pop. Nina Nesbitt",
-  "num_followers": 120729,
+  "num_followers": 120739,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQ5Y2U2ODU0NzRhZDM2YzM4MGVjNmRmZDZlODI5NWU3ODI2NjIy",
+  "snapshot_id": "MCwxMmY5ZWU1MzhmZTVhYzM2YzM5MDY5NDFmN2FhNDEwYTdjNzA0NjFm",
   "tracks": [
+    {
+      "added_at": "2024-03-07 20:29:21",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
     {
       "added_at": "2024-03-07 20:29:21",
       "album": {
@@ -107,6 +123,26 @@
       "duration_ms": 125806,
       "name": "Here To Dance",
       "url": "https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr"
+    },
+    {
+      "added_at": "2024-03-07 20:29:21",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
     },
     {
       "added_at": "2024-03-07 20:29:21",
@@ -335,8 +371,8 @@
     {
       "added_at": "2024-03-07 20:29:21",
       "album": {
-        "name": "alltimefan",
-        "url": "https://open.spotify.com/album/6sc9HvOrCfOJfnLMh3Nyfk"
+        "name": "all time fan",
+        "url": "https://open.spotify.com/album/7eRNcl3Uy1jgJFnK9GjYk7"
       },
       "artists": [
         {
@@ -345,8 +381,8 @@
         }
       ],
       "duration_ms": 183076,
-      "name": "alltimefan",
-      "url": "https://open.spotify.com/track/2ndj7Oo6weKBU9RlnLmBMD"
+      "name": "all time fan",
+      "url": "https://open.spotify.com/track/4l1tiZ4AX0UCJHQ06pw7hY"
     },
     {
       "added_at": "2024-03-07 20:29:21",

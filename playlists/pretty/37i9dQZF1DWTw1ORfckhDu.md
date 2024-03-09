@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa VJ.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,441 likes - 64 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,461 likes - 64 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 63 | [Kokonaan sun](https://open.spotify.com/track/6LCQb46zSJWbcfniC8GRx1) | [MIKAYLA](https://open.spotify.com/artist/1HTqDkXCcdMUAalw6a3BK8) | [Kokonaan sun](https://open.spotify.com/album/4kFO6g4elZKioFb9zXIE5f) | 2:58 |
 | 64 | [Helene Schjerfbeck](https://open.spotify.com/track/5uwazsy0hDAimuZsRJ80zN) | [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny) | [Helene Schjerfbeck](https://open.spotify.com/album/6O4cA21L2nNUqALNmqjGZV) | 2:28 |
 
-Snapshot ID: `MCxjMjJlMDM1MWI3ZjFiYjM2OGEwMWIxOTAxNWU0MmNkYmY2MGQzYmUw`
+Snapshot ID: `MCwzODRjNjc4MjFjOWYxNzc0ZWI4ZTA2NGYxOWI0ZWQwZWZmNDk1ZmIw`

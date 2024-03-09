@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 326115,
+  "2024-03-09": 326150,
   "date_first_scraped": "2021-12-21",
   "description": "H\u00e5ll det 100.",
   "name": "100",
@@ -1328,6 +1328,28 @@
     },
     {
       "album": {
+        "name": "Alla vill (feat. Estraden)",
+        "url": "https://open.spotify.com/album/3mzjCTMgep2TJKZCJfwgvI"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        },
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173786,
+      "name": "Alla vill (feat. Estraden)",
+      "url": "https://open.spotify.com/track/2EFfc7Z7rMneOxLfezQKxI"
+    },
+    {
+      "album": {
         "name": "Allez",
         "url": "https://open.spotify.com/album/2lNx0S9hThoIaJ0F225aB3"
       },
@@ -1688,6 +1710,24 @@
     },
     {
       "album": {
+        "name": "AMIGA",
+        "url": "https://open.spotify.com/album/2ysHnltGjo7bNx3BFoUCkR"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170160,
+      "name": "AMIGA",
+      "url": "https://open.spotify.com/track/3mLOglRxAwyK1Phml137Pw"
+    },
+    {
+      "album": {
         "name": "Amo",
         "url": "https://open.spotify.com/album/53DQV8AagWMxuN0AGfFylV"
       },
@@ -1907,6 +1947,24 @@
       "duration_ms": 191020,
       "name": "Annan v\u00e4rld",
       "url": "https://open.spotify.com/track/5Kzf4SubtaWcgksUf2Bqhv"
+    },
+    {
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/13GFx5SvMb47nDweS6Vltt"
+      },
+      "artists": [
+        {
+          "name": "Robbz x Brookz",
+          "url": "https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/2wiOlhShsbs9SkPKNcAmfP"
     },
     {
       "album": {
@@ -7676,6 +7734,24 @@
     },
     {
       "album": {
+        "name": "En P\u00e5 Miljonen",
+        "url": "https://open.spotify.com/album/14BAC0uzNxdxuJhmHVSR0u"
+      },
+      "artists": [
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "En P\u00e5 Miljonen",
+      "url": "https://open.spotify.com/track/15AvJAUWbPQZP6kpkJHphK"
+    },
+    {
+      "album": {
         "name": "En Stund (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9"
       },
@@ -10685,7 +10761,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 149529,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/79x6bjemiP14D0mYRfrNgr"
@@ -12190,6 +12266,28 @@
     },
     {
       "album": {
+        "name": "INGENMANSLAND",
+        "url": "https://open.spotify.com/album/0623OHXfWOVDd74K8lrwO6"
+      },
+      "artists": [
+        {
+          "name": "Sticky",
+          "url": "https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "INGENMANSLAND",
+      "url": "https://open.spotify.com/track/2BQmt4F5sljuRBGjy3z031"
+    },
+    {
+      "album": {
         "name": "ingenting",
         "url": "https://open.spotify.com/album/5iyDIaluuYYXlg9MWyBX6B"
       },
@@ -12815,7 +12913,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 105460,
       "name": "Julbrevet",
       "url": "https://open.spotify.com/track/6Zu0W8fwq8TPjAbdjSQBsu"
@@ -14233,7 +14331,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 153334,
       "name": "LAST DANCE",
       "url": "https://open.spotify.com/track/5TwvvppjNqEpguRX6V63J7"
@@ -14939,7 +15037,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 110769,
       "name": "Lokalisering",
       "url": "https://open.spotify.com/track/0SBiVhqITXijjCtsnKQjBK"
@@ -16030,6 +16128,24 @@
     },
     {
       "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/6LUg01USLyu7uaciczVxHU"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137144,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/4vVucbd3TgLY9iMy9mZoJM"
+    },
+    {
+      "album": {
         "name": "AMO",
         "url": "https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn"
       },
@@ -16179,7 +16295,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 148918,
       "name": "MANI MO",
       "url": "https://open.spotify.com/track/2u3YjxcWC0C1daH0h369XP"
@@ -20786,6 +20902,28 @@
     },
     {
       "album": {
+        "name": "Riktiga bars",
+        "url": "https://open.spotify.com/album/1OFQc2fEgeomocOKmRcMs2"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        },
+        {
+          "name": "SHYDE",
+          "url": "https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130800,
+      "name": "Riktiga bars",
+      "url": "https://open.spotify.com/track/3Rz9hA5i0A0Br7LjsGC0fU"
+    },
+    {
+      "album": {
         "name": "Riskera allt",
         "url": "https://open.spotify.com/album/26bqeOYvLPhvNAfkD5GtRM"
       },
@@ -23103,7 +23241,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 160000,
       "name": "Stockholm, Sweden",
       "url": "https://open.spotify.com/track/4OXBckSyWWg75ge5zrVS3D"
@@ -24815,7 +24953,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 142222,
       "name": "Toto Bien",
       "url": "https://open.spotify.com/track/6n9IAWUx3QamVfNlQcdMaj"

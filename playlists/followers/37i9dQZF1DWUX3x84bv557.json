@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 161690,
+  "2024-03-09": 161714,
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: MEAU",
+  "description": "De nieuwste Nederlandse pop! Cover: Zo\u00eb Livay",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 156363,
       "name": "1234",
       "url": "https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO"
@@ -984,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Anti-Social",
+        "url": "https://open.spotify.com/album/3VTg32BOXuGHU3MHX6qfcX"
+      },
+      "artists": [
+        {
+          "name": "Nobu",
+          "url": "https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "Anti-Social",
+      "url": "https://open.spotify.com/track/67R9SI604DJIWTF6UuEBJY"
+    },
+    {
+      "album": {
         "name": "App me als je thuis bent",
         "url": "https://open.spotify.com/album/1avOhAMcwqKToin3pv37y8"
       },
@@ -1039,6 +1057,24 @@
       "duration_ms": 196010,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R"
+    },
+    {
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/25MGuw8tGf580C2kI1g28C"
+      },
+      "artists": [
+        {
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183167,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/3b5o2I34qbat7ky0PMnhvt"
     },
     {
       "album": {
@@ -1635,7 +1671,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 142001,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol"
@@ -1791,7 +1827,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 177166,
       "name": "Dans Op Het Mes",
       "url": "https://open.spotify.com/track/2Mog5P8QZ9tnFq5uDm3T8w"
@@ -2145,7 +2181,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 192754,
       "name": "De Liefde Van Je Vrienden",
       "url": "https://open.spotify.com/track/31wUbSt7LSWYXI2by6PQxx"
@@ -2365,7 +2401,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 147220,
       "name": "Denkstof",
       "url": "https://open.spotify.com/track/70KH3HDtaNoCu8KJTCJmSt"
@@ -2434,6 +2470,24 @@
     },
     {
       "album": {
+        "name": "diesel",
+        "url": "https://open.spotify.com/album/2TSmOypnsga9cVJVtiHQHg"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177362,
+      "name": "diesel",
+      "url": "https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml"
+    },
+    {
+      "album": {
         "name": "Dinsdag (feat. Sam J'taime)",
         "url": "https://open.spotify.com/album/6E4jvtfaKlRoxDcIXtvOg8"
       },
@@ -2449,7 +2503,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 167827,
       "name": "Dinsdag (feat. Sam J'taime)",
       "url": "https://open.spotify.com/track/7c4ex2zzhjl28tJHoon9iC"
@@ -3256,6 +3310,24 @@
     },
     {
       "album": {
+        "name": "Gereserveerd Voor 1",
+        "url": "https://open.spotify.com/album/7JLLnJGZR2DVdj9tibkU27"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Sanches",
+          "url": "https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Gereserveerd Voor 1",
+      "url": "https://open.spotify.com/track/7hGlPXc69sbNlRlKM19m8z"
+    },
+    {
+      "album": {
         "name": "Gevaarlijk",
         "url": "https://open.spotify.com/album/5FZ2kafK488rGGza5KmfSM"
       },
@@ -3433,7 +3505,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 212510,
       "name": "Grijze Haren",
       "url": "https://open.spotify.com/track/0nlXGknakf5Y7Xa8r4nRtC"
@@ -3743,7 +3815,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 173250,
       "name": "Het Huis Van Onze Liefde",
       "url": "https://open.spotify.com/track/74v7jNoqbp5S9k1F01eoNd"
@@ -4147,7 +4219,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 153358,
       "name": "Hou Mij Vast",
       "url": "https://open.spotify.com/track/2DgtPHgQeLFRAMHKIBNN4W"
@@ -4761,7 +4833,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 177374,
       "name": "Kleine Versie Van Mezelf",
       "url": "https://open.spotify.com/track/7rlXVJqu0f1H7YNbda8HfW"
@@ -5029,6 +5101,28 @@
       "duration_ms": 160438,
       "name": "Laat Me Dansen",
       "url": "https://open.spotify.com/track/5hhsnHxxfhYLh21gOm8bDc"
+    },
+    {
+      "album": {
+        "name": "Laat Me Nooit Meer Los (Never Let Me Go)",
+        "url": "https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        },
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207202,
+      "name": "Laat Me Nooit Meer Los (Never Let Me Go)",
+      "url": "https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake"
     },
     {
       "album": {
@@ -5567,7 +5661,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 176000,
       "name": "Medicijn",
       "url": "https://open.spotify.com/track/0nae6Bd35vznbEiW8iSYx5"
@@ -6778,6 +6872,24 @@
     },
     {
       "album": {
+        "name": "Vrouw Van De Wereld",
+        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173031,
+      "name": "Patronen",
+      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
+    },
+    {
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/1PyesUCvtqfk5Jq4jSoq6D"
       },
@@ -7125,7 +7237,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 211608,
       "name": "Ruis",
       "url": "https://open.spotify.com/track/54ZH5RRnVRgN3lYEviUjlf"
@@ -7161,7 +7273,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 181200,
       "name": "Samen Zijn We E\u00e9n",
       "url": "https://open.spotify.com/track/1Q36IMiHir62ZkdinImepL"
@@ -7197,7 +7309,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 121451,
       "name": "Satisfyer",
       "url": "https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh"
@@ -7353,7 +7465,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 157440,
       "name": "Slaaptekort",
       "url": "https://open.spotify.com/track/454sfR8RN4bdHG3yn1IlzC"
@@ -7696,6 +7808,24 @@
     },
     {
       "album": {
+        "name": "Struikelen",
+        "url": "https://open.spotify.com/album/5kfTrFYrZ4oKWRDJ8tt5lF"
+      },
+      "artists": [
+        {
+          "name": "Birgit Schuurman",
+          "url": "https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193113,
+      "name": "Struikelen",
+      "url": "https://open.spotify.com/track/5dRjmLzrU2qN2uc7uViQBt"
+    },
+    {
+      "album": {
         "name": "Stukje Van Mij",
         "url": "https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL"
       },
@@ -8035,7 +8165,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 169848,
       "name": "Trots Op Haar",
       "url": "https://open.spotify.com/track/5Ak0hJNb5chvknl5OY7xnB"
@@ -8277,7 +8407,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 170048,
       "name": "Venus (ft. Noor)",
       "url": "https://open.spotify.com/track/5ImaYkWsroSsnfa0mD7vpD"
@@ -9117,7 +9247,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 177333,
       "name": "Weerspiegelde Pijn",
       "url": "https://open.spotify.com/track/5I7Albio6CNHPM8uHoyWuF"
@@ -9423,7 +9553,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 198861,
       "name": "Zodat Je Straks Weer Naast Me Zit",
       "url": "https://open.spotify.com/track/2aVJjU4heiAYKaPEhIzGt3"
@@ -9543,6 +9673,28 @@
       "duration_ms": 149045,
       "name": "Zoveel Mooie Dagen",
       "url": "https://open.spotify.com/track/1M6fiGx0cHpGLG08fibQdr"
+    },
+    {
+      "album": {
+        "name": "Zuinig",
+        "url": "https://open.spotify.com/album/0ocZWxeSCHRdeh5ogUbrdA"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Zuinig",
+      "url": "https://open.spotify.com/track/1443g2sOZtwR7NjDXlSsBv"
     },
     {
       "album": {

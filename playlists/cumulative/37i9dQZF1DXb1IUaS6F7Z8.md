@@ -4,7 +4,7 @@
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-120 songs - 6 hr 37 min
+121 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Pirates of Three Rivers](https://open.spotify.com/track/33feSMBaMfeDg18jvD1Xdp) | [Bastard Bearded Irishmen](https://open.spotify.com/artist/5EfmL47bDGY9AHNWih7uGZ) | [Pirates of Three Rivers](https://open.spotify.com/album/2ikmqZzWcafBRECnJKgKmJ) | 3:38 | 2022-03-18 | 2022-07-06 |
 | [Queen Of Suffolk County](https://open.spotify.com/track/0Oqavw1vwKLOM0RJWhTHPc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Queen Of Suffolk County](https://open.spotify.com/album/6bCGtKqUBknQoeYnnUdH1b) | 3:51 | 2022-03-18 | 2022-07-29 |
 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 | 2022-03-18 |  |
-| [Sainted Millions](https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 3:35 | 2022-03-18 |  |
+| [Sainted Millions](https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 3:35 | 2022-03-18 | 2024-03-09 |
 | [Sainted Millions](https://open.spotify.com/track/7LmBfdrRNRZrDnEICN8AjX) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sainted Millions](https://open.spotify.com/album/1EJ0Kd7zPTP12eetg4W1tI) | 3:35 | 2022-03-18 | 2022-07-29 |
 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 | 2022-03-18 |  |
 | [Salty Dog](https://open.spotify.com/track/5cttYnhe480emw7rofGZQ6) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 2:21 | 2024-02-06 |  |
@@ -119,6 +119,7 @@
 | [This Is Our Day](https://open.spotify.com/track/7cvkeq1Pjnbryp9gEXNggb) | [The Roughneck Riot](https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi) | [This Is Our Day](https://open.spotify.com/album/2AZk5BiFgrZT8w2NbcZhPK) | 3:23 | 2022-03-18 | 2022-07-29 |
 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 | 2022-03-18 |  |
 | [Turn Up That Dial](https://open.spotify.com/track/2d05ApT2Mg3dss41OBhXRe) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial](https://open.spotify.com/album/7a6NzWEOQMUJZcPXyWMmDo) | 3:42 | 2022-03-18 | 2022-07-29 |
+| [Uncle Tommy](https://open.spotify.com/track/5UqIk0AUqq3AMrdk2cYiCJ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 2:34 | 2024-02-06 |  |
 | [Victor and His Demons](https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [25 Blarney Roses](https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5) | 3:27 | 2022-03-18 |  |
 | [Walk the Plank Again](https://open.spotify.com/track/6EiQJaVP4JLBDVhKTG8tZ3) | [Brick Top Blaggers](https://open.spotify.com/artist/5NfRMlxntptF6CoAVVnpe2) | [Two Years Enough](https://open.spotify.com/album/78aNC6N1fhpbXRBbgLsMiE) | 2:40 | 2022-03-18 | 2022-07-19 |
 | [Waxies Dargle](https://open.spotify.com/track/1lrnJ87mFAVF6jkUJu4YKA) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Real World](https://open.spotify.com/album/2K0fjyPXmaZV7i51AAmbB7) | 1:58 | 2024-02-06 |  |

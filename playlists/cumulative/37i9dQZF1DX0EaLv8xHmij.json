@@ -1527,6 +1527,28 @@
     },
     {
       "album": {
+        "name": "Contradi\u00e7\u00f5es 2",
+        "url": "https://open.spotify.com/album/5IYGe3yiRQCd1pHe3zW9ZA"
+      },
+      "artists": [
+        {
+          "name": "RP Local",
+          "url": "https://open.spotify.com/artist/6xrkLt4Sd0pyPrJLZ4r2Ep"
+        },
+        {
+          "name": "Brvnx",
+          "url": "https://open.spotify.com/artist/6bIj9UgDmULndsEk1DWTFu"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "Contradi\u00e7\u00f5es 2",
+      "url": "https://open.spotify.com/track/3koz2yyr1EVPcmilasUNcX"
+    },
+    {
+      "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/0UnAYVia9thi3jqmyBvZ6G"
       },

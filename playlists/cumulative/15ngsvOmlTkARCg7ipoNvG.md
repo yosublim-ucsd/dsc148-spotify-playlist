@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,701 songs - 1 day 11 hr 26 min
+1,704 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -994,6 +994,7 @@
 | [Never Fade](https://open.spotify.com/track/6qY0cVaGq37pIjhnEd1rgq) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:04 | 2022-03-03 |  |
 | [Never Fading](https://open.spotify.com/track/6acOGGcyYeOI28xhWao0Uu) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Carry Me Away](https://open.spotify.com/album/3dlqG3m3IlYnsISyOLygAE) | 1:03 | 2022-03-03 |  |
 | [Never Quite Alone](https://open.spotify.com/track/0AfkFIotwL0lptGYLMR4kN) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wanderings](https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp) | 1:02 | 2022-02-11 | 2024-01-30 |
+| [New](https://open.spotify.com/track/7FfQZ6ncTKePiQF1ZGRCcS) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [New](https://open.spotify.com/album/2tFojMm25W1Z8KWAOgqzAe) | 1:00 | 2024-03-08 |  |
 | [New Again](https://open.spotify.com/track/62mkqiz3ECsZDvjaHHNHih) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:32 | 2022-01-12 |  |
 | [New Again \- Strings Version](https://open.spotify.com/track/40VW8cKaj9rOyNzESdBAmW) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [New Again](https://open.spotify.com/album/1SntDBEMCCmITgSzub9DCJ) | 1:29 | 2022-01-12 | 2024-01-30 |
 | [New Chapters](https://open.spotify.com/track/6kQAlFwqfEb670VpTrwDcB) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [New Chapters](https://open.spotify.com/album/0WOIfYxibvXWeJja7sQVVk) | 1:01 | 2024-02-09 | 2024-02-13 |
@@ -1272,6 +1273,8 @@
 | [Seeing Beauty](https://open.spotify.com/track/0U4Qp4ulyxwg2dBntO2TtA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:16 | 2022-01-12 |  |
 | [Seeking The Horizon](https://open.spotify.com/track/0qa0TY4jVYKimB2562Fdus) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:04 | 2022-03-08 |  |
 | [September Shadows](https://open.spotify.com/track/6Dsk3lg7nuNpxf22d3oqFE) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
+| [Serene](https://open.spotify.com/track/7HVDOkkwld3WSn2sJg8Ert) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Serene](https://open.spotify.com/album/0CeS1bFOgD60GVqhZjKDle) | 1:00 | 2024-03-08 |  |
+| [Serene \- Cello Version](https://open.spotify.com/track/5rBgsbVvDcPAyuhYFWkSft) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Again](https://open.spotify.com/album/4ocM7Lg4DZPKwlJV7pFXyU) | 1:00 | 2024-03-08 |  |
 | [Serene Sun](https://open.spotify.com/track/487hoXAuoV9CCu6HI9wVph) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace](https://open.spotify.com/album/79RFghU00Bo4qMQOfx8ygk) | 1:03 | 2024-01-29 |  |
 | [Serenity In Spring](https://open.spotify.com/track/0a00KnbzsE9kGcgzvmtRsP) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Serenity In Spring](https://open.spotify.com/album/3RZMHBvNL4Fdbb42zVhEi6) | 1:00 | 2023-02-15 |  |
 | [Setting Sun](https://open.spotify.com/track/1Q8a0QbVDGyoQCsbb3sBvj) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios, Vol\. 2](https://open.spotify.com/album/61EfeMvitQ0F6lSdE4ILT2) | 1:09 | 2024-01-29 |  |

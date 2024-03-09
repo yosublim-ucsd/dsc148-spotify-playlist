@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:7zpvy5B9gb5KprNUzNCOEE\">Miel San Marcos</a> y <a href=\"spotify:artist:4fdCGYM7dtJLa3LvR1ccto\">Gabriela Rocha</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:0WZOmdnCln6FK6GM9e2tGm\">Redimi2</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 360984,
       "name": "A\u00fan Sin Entender",
       "url": "https://open.spotify.com/track/7cgJKyU5q59aDMGbOCXF5L"
@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 244406,
       "name": "Dios De Oportunidades",
       "url": "https://open.spotify.com/track/4WRBlv7X6EGE4Kh58lKB1v"
@@ -7285,6 +7285,32 @@
     },
     {
       "album": {
+        "name": "Nada Me Falta",
+        "url": "https://open.spotify.com/album/6kqhmAjPKDK2XVF19uwNRR"
+      },
+      "artists": [
+        {
+          "name": "ULLO\u039b",
+          "url": "https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt"
+        },
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "Nada Me Falta",
+      "url": "https://open.spotify.com/track/5cPNz2RrxEjftzZq20f5uY"
+    },
+    {
+      "album": {
         "name": "Ac\u00fasticos [Live]",
         "url": "https://open.spotify.com/album/49Mz04oe56Yi2Oux06i5X8"
       },
@@ -8545,6 +8571,24 @@
     },
     {
       "album": {
+        "name": "Radikal 60",
+        "url": "https://open.spotify.com/album/42CTnl4aMbSRdFauo4AUIN"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247300,
+      "name": "Radikal 60",
+      "url": "https://open.spotify.com/track/3R3sYduPzyhzsTDaV15wNs"
+    },
+    {
+      "album": {
         "name": "RDV",
         "url": "https://open.spotify.com/album/1YCrXzHbzSTt8OUJMmNvOA"
       },
@@ -8810,6 +8854,28 @@
       "duration_ms": 352702,
       "name": "Roca Firme",
       "url": "https://open.spotify.com/track/0szoXYidxdLMEiitSO1e3X"
+    },
+    {
+      "album": {
+        "name": "Roca Firme (Live)",
+        "url": "https://open.spotify.com/album/07dyv0elWzL2jjfbbxwypw"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Intimidad Worship",
+          "url": "https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413894,
+      "name": "Roca Firme - Live",
+      "url": "https://open.spotify.com/track/7AW9ceVZ4w0dAQf14LwlKK"
     },
     {
       "album": {
@@ -9483,6 +9549,28 @@
     },
     {
       "album": {
+        "name": "Solo En Jes\u00fas",
+        "url": "https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271426,
+      "name": "Solo En Jes\u00fas",
+      "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
+    },
+    {
+      "album": {
         "name": "Despinal",
         "url": "https://open.spotify.com/album/2FT61GagMLvIqY8n3imK5z"
       },
@@ -9822,7 +9910,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 251259,
       "name": "S\u00ed a la Vida",
       "url": "https://open.spotify.com/track/2z6VjaBUXUUSEbF6YJhwLL"
@@ -9920,7 +10008,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 240457,
       "name": "Tantas Historias",
       "url": "https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT"

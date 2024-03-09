@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 236190,
+  "num_followers": 236255,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzY2NGVkNDQ4YjEzMTNjNmNkN2ViNmI5NzBmNTgyYzg0Nzg1ZWVj",
+  "snapshot_id": "MCw3N2VjNzllNWQwMmZkMzRjZTczOTBkN2Y1ODQzZDMwNmFiZWMzZjVh",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Bachatas Para La Historia",
-        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
-      },
-      "artists": [
-        {
-          "name": "Marino Castellanos",
-          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
-        }
-      ],
-      "duration_ms": 210991,
-      "name": "Eso da Pa To",
-      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Todo Tiene Su Hora",
         "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 203853,
       "name": "Muchachita Linda",
       "url": "https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Bachatas Para La Historia",
+        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
+      },
+      "artists": [
+        {
+          "name": "Marino Castellanos",
+          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
+        }
+      ],
+      "duration_ms": 210991,
+      "name": "Eso da Pa To",
+      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1567,22 +1567,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Besito en la Boca",
-        "url": "https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk"
+        "name": "Frente A Frente : Dos Estrellas en Uno (Luis Segura Vs. Raulin Rodriguez)",
+        "url": "https://open.spotify.com/album/1e4guYZRcx5lqxvWCYgcx4"
       },
       "artists": [
         {
-          "name": "Samanez",
-          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
-        },
-        {
-          "name": "Gaby Zambrano",
-          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
         }
       ],
-      "duration_ms": 251250,
-      "name": "Besito en la Boca",
-      "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
+      "duration_ms": 219040,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/3MoVVUGwLlQTW3k1kQUe5U"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1603,18 +1599,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Frente A Frente : Dos Estrellas en Uno (Luis Segura Vs. Raulin Rodriguez)",
-        "url": "https://open.spotify.com/album/1e4guYZRcx5lqxvWCYgcx4"
+        "name": "Besito en la Boca",
+        "url": "https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk"
       },
       "artists": [
         {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+        },
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
         }
       ],
-      "duration_ms": 219040,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/3MoVVUGwLlQTW3k1kQUe5U"
+      "duration_ms": 251250,
+      "name": "Besito en la Boca",
+      "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
     },
     {
       "added_at": "2023-04-27 23:54:49",

@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 292459,
+  "2024-03-09": 292579,
   "date_first_scraped": "2021-12-21",
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
   "name": "Summer Vibes",
@@ -373,7 +373,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 156503,
       "name": "Anti Social",
       "url": "https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG"
@@ -7411,6 +7411,28 @@
       "duration_ms": 221583,
       "name": "Skeleton Cartier",
       "url": "https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og"
+    },
+    {
+      "album": {
+        "name": "SKEU SKEU (feat. wilsko)",
+        "url": "https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww"
+      },
+      "artists": [
+        {
+          "name": "Jogga",
+          "url": "https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav"
+        },
+        {
+          "name": "wilsko",
+          "url": "https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "SKEU SKEU (feat. wilsko)",
+      "url": "https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT"
     },
     {
       "album": {

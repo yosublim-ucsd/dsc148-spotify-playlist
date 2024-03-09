@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: \(No Office Romance!\)사내연애 사절!\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: Killer Peter\(킬러 배드로\)\)사내연애 사절!\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-166 songs - 10 hr 9 min
+168 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Love is always thisty \(Nth Romance X Lee Hae Ri\)](https://open.spotify.com/track/3AxlCZSy0Yk9vQfAW6l4rI) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Love is always thisty \(Nth Romance X Lee Hae Ri\)](https://open.spotify.com/album/1hYLPYFP9kprWeymUwGIN1) | 4:36 | 2022-05-09 | 2023-12-11 |
 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 | 2023-11-14 |  |
 | [Loving You](https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Loving You](https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm) | 3:47 | 2023-02-22 |  |
+| [MAY LILY](https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj) | [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8) | [I'm the Queen in This Life \(Original Soundtrack\) Part.1](https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl) | 3:01 | 2024-03-08 |  |
 | [Meeting \(The Moon during the Day\) \[2023 Remake\]](https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Meeting \(The Moon during the Day\) \[2023 Remake\]](https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g) | 4:15 | 2023-12-10 |  |
 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\) \(Original Soundtrack\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 | 2022-06-09 |  |
 | [Midnight Sun](https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1](https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f) | 4:20 | 2022-11-03 |  |
@@ -138,6 +139,7 @@
 | [Today's Weather \(From "Spring Is Gone" \[Original Soundtrack\]\)](https://open.spotify.com/track/6oK4qRi5kCaWpo0bwhBbRl) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Today's Weather \(From "Spring Is Gone" \[Original Soundtrack\]\)](https://open.spotify.com/album/6RCjA02nGoEqphsjT6ZQGZ) | 3:40 | 2022-05-09 |  |
 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 | 2022-05-09 | 2023-12-11 |
 | [Way too young](https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp) | [Geum Nara](https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7) | [Coffee Fox Kim Sam Wol OST Part.11 \(Soundtrack\)](https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs) | 3:20 | 2022-11-16 |  |
+| [Wego Wego](https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Wego Wego \(Killer Peter X Xdinary Heroes\) \[Original Webtoon Soundtrack\]](https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264) | 3:08 | 2024-03-08 |  |
 | [What I want](https://open.spotify.com/track/2ScUp6vBAjf54kK6nxSHdo) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [What I want \(From "Odd Girl Out" \[Original Soundtrack\]\)](https://open.spotify.com/album/3lWs144DBXJa8j6hERrwQK) | 3:58 | 2022-05-09 | 2023-02-23 |
 | [When We Were Young](https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [When We Were Young \(Good Doctor X XIA\)](https://open.spotify.com/album/5PF1OECcTJ7s3XhEHr1lNd) | 3:18 | 2022-08-25 |  |
 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 | 2022-11-10 |  |

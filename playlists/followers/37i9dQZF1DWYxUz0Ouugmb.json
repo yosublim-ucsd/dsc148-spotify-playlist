@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 36132,
+  "2024-03-09": 36141,
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Bernadya",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Anggi Marito",
   "name": "RADAR Indonesia ",
   "tracks": [
     {
@@ -973,6 +973,24 @@
       "duration_ms": 227067,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4pGGz0mCKGyORnYXIxcmd1"
+    },
+    {
+      "album": {
+        "name": "Lesson",
+        "url": "https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230418,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4nG6ghXYeNKKniMB7jZ2Dn"
     },
     {
       "album": {

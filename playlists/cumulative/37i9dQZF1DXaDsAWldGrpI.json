@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Palm Trees & Palm Readers - Jake Owen: Live in Los Angeles (Set 1)",
+        "url": "https://open.spotify.com/album/5k8oL8fv6fV2CWGZLsoAgL"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343744,
+      "name": "Down to the Honky Tonk - Live from the Wiltern Theatre",
+      "url": "https://open.spotify.com/track/3qgnzKJazxtHkwW3BpbiKf"
+    },
+    {
+      "album": {
         "name": "Spotify Live (Live From Austin, TX)",
         "url": "https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE"
       },

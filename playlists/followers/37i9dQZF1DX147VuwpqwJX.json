@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 63816,
+  "2024-03-09": 63842,
   "date_first_scraped": "2021-12-28",
   "description": "The powerful, expressive sound of Ballroom and Vogue culture - pioneered by the black LGBTQIA+ community. Cover: Cakes da Killa",
   "name": "The Ballroom (Vogue)",
@@ -2803,10 +2803,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 220601,
       "name": "Wig",
       "url": "https://open.spotify.com/track/4HuRHiYqoQTsxqiAGbJNdI"
+    },
+    {
+      "album": {
+        "name": "Haus Party, Pt. 2",
+        "url": "https://open.spotify.com/album/6fcbd6Z0jpYW5TxUdQ3IRz"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220601,
+      "name": "Wig",
+      "url": "https://open.spotify.com/track/59CPf5AzaQ3Wk2uUNdU3GW"
     },
     {
       "album": {

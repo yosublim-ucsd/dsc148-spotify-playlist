@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Picaretas de Fachada
 
-273 songs - 12 hr 42 min
+274 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Cidade Aquariana](https://open.spotify.com/track/74ZuudbP14a6Cet0FJssPe) | [Sena Mc](https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV), [Delli Beatz](https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn) | [Cidade Aquariana](https://open.spotify.com/album/2iu9sKDNZ1Lnt9Q2H8NqwP) | 2:23 | 2022-11-18 | 2023-07-29 |
 | [Confronto](https://open.spotify.com/track/748z4mkb45Z9zZhMLOWI0q) | [Bent](https://open.spotify.com/artist/1wdD1nqjBVbHGNmrU8NJxB), [Maura Beats](https://open.spotify.com/artist/4HCEsdqu61XW9Drbu72Ti4), [HATZ](https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5), [Thev](https://open.spotify.com/artist/4CSW01bczZdSdTZe8t2Z1G) | [Confronto](https://open.spotify.com/album/5FPovaISsbqW32pxy852rw) | 2:17 | 2023-09-30 | 2023-10-10 |
 | [Contagem](https://open.spotify.com/track/1gl6Ku9YhEzMh4GNI6fN7P) | [TONCALi](https://open.spotify.com/artist/3enZVLaByIf1A6appp41gc), [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca) | [Brasa No Mapa EP](https://open.spotify.com/album/0R3yzbHTG0bjeLBISLvYF3) | 2:08 | 2022-03-18 | 2022-06-18 |
+| [Contradições 2](https://open.spotify.com/track/3koz2yyr1EVPcmilasUNcX) | [RP Local](https://open.spotify.com/artist/6xrkLt4Sd0pyPrJLZ4r2Ep), [Brvnx](https://open.spotify.com/artist/6bIj9UgDmULndsEk1DWTFu) | [Contradições 2](https://open.spotify.com/album/5IYGe3yiRQCd1pHe3zW9ZA) | 2:11 | 2024-03-08 |  |
 | [Contramão](https://open.spotify.com/track/4N7AHgvKIBTh0Cobzq7GEs) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Contramão](https://open.spotify.com/album/0UnAYVia9thi3jqmyBvZ6G) | 2:48 | 2022-03-18 | 2023-07-15 |
 | [Coração Puro](https://open.spotify.com/track/1nGAyTNClgVVTqqqRpOF6y) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Coração Puro](https://open.spotify.com/album/6ZfQxM3fhpz1n906yTWq7p) | 2:27 | 2023-06-02 |  |
 | [Corpo São Mente Muito](https://open.spotify.com/track/66XaDTshTk8weMHTH7MV2G) | [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [P.L.K](https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf), [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Picaretas de Fachada: Summer Hits](https://open.spotify.com/album/6brpKTMNNrLpy9IvijBcwu) | 3:35 | 2024-02-16 |  |

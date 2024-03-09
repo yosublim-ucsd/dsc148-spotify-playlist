@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-351 songs - 22 hr 4 min
+352 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Little White Lies \- Stripped Back](https://open.spotify.com/track/5zNEdMjH38ll8AmDYhRW4X) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx), [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Little White Lies \(Stripped Back\)](https://open.spotify.com/album/0XF5GRWo02OlsvnzXlM398) | 2:32 | 2023-03-10 | 2023-05-20 |
 | [Live Learn](https://open.spotify.com/track/2IMzZruBpzvGX9pF1xQyWt) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Call It Home: Vol\. 1 & 2](https://open.spotify.com/album/6Rt2NlqIHMj7xanrfhRgTl) | 4:35 | 2022-01-28 | 2023-02-17 |
 | [Live Learn](https://open.spotify.com/track/4KScM5GlY3D0xoPtydnXrQ) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Live Learn](https://open.spotify.com/album/1CPv5x0Aotc9BIFM3BtNch) | 4:35 | 2021-12-17 | 2022-07-29 |
-| [Long Black Electric Cadillac](https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:25 | 2021-12-17 |  |
+| [Long Black Electric Cadillac](https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:25 | 2021-12-17 | 2024-03-09 |
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2021-12-17 | 2022-07-29 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-01-28 |  |
 | [Lost On Your Time](https://open.spotify.com/track/5fpcViiTc1lMne8wWPDt9E) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Lost On Your Time](https://open.spotify.com/album/3EBD0y2UVCJGUp5q7a9Hw8) | 3:53 | 2023-07-07 | 2023-10-24 |
@@ -270,6 +270,7 @@
 | [So Much Fun](https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3) | [A.J\. Croce](https://open.spotify.com/artist/5GddXlP15Ktw1aHZEcKGZe) | [So Much Fun](https://open.spotify.com/album/6lP1LTZ6X6bzRigf2HwLFu) | 3:10 | 2022-06-17 |  |
 | [Sober](https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Sober](https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC) | 2:59 | 2021-12-17 | 2023-09-16 |
 | [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Cherry Red Boots / Somebody Tryin’ To HooDoo Me](https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI) | 4:38 | 2023-02-24 |  |
+| [Sorry You're Blue](https://open.spotify.com/track/2wjepWIiTprtyqH3yvAAqT) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Sorry You're Blue](https://open.spotify.com/album/4c2fvHVg0Ogsd1HdbLhMG0) | 2:30 | 2024-03-08 |  |
 | [Soul Searching](https://open.spotify.com/track/3hpZLgDKo3wrQ5PLwaNZyI) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Soul Searching](https://open.spotify.com/album/32KrKYPFcywOHSorWmlp6o) | 3:57 | 2022-10-14 | 2022-11-12 |
 | [Souled Out On You](https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Souled Out On You](https://open.spotify.com/album/50BIR8Bg2W5OifAUjmRviK) | 3:33 | 2021-12-17 | 2022-06-11 |
 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 | 2022-01-28 |  |

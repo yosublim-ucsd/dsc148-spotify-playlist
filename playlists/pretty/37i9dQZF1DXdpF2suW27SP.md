@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > ProfJam entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,437 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,530 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alô](https://open.spotify.com/track/6vBuEFImAx36hDYiYqBtkZ) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 3:31 |
 | 2 | [Equilíbrio](https://open.spotify.com/track/3UHFYeLV41C0WjN6nn7sKd) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:05 |
-| 3 | [Bênção](https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Bênção](https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0) | 3:25 |
+| 3 | [Bênção](https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Bênção](https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0) | 3:25 |
 | 4 | [9Xs](https://open.spotify.com/track/3pcX4h49ckvJ7hRUbsRUWH) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:40 |
 | 5 | [NR6](https://open.spotify.com/track/61r5JPTLkPZQ725NODvAcC) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [NR6](https://open.spotify.com/album/3IWVaeKkVGpYAkwN6GUFRp) | 4:27 |
 | 6 | [Cantona](https://open.spotify.com/track/6mobne6wnkwLGDxF9T7D55) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Abençoada](https://open.spotify.com/track/7stfbWRTX4bePgCDSFK8UH) | [YuungBritish](https://open.spotify.com/artist/3dR4N5oahZNvtZlUY619Pq) | [Abençoada](https://open.spotify.com/album/7hN8YE4OReQ9ehbcTPJJrf) | 2:44 |
 | 75 | [VLONE](https://open.spotify.com/track/4zeC1rsoCELTAK4C2D1iut) | [PiMP WiLLIAM](https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9) | [VLONE](https://open.spotify.com/album/1hFFUlkDnoGZ1dIgWJYDDi) | 2:27 |
 
-Snapshot ID: `MCxlODY5ZDg0NDdjNzQyMjU4OGYxZGY4ZjdiMzg4ZGJkZGIxNDRlN2E5`
+Snapshot ID: `MCw4ODdhMTI5ZGEwYmNiYjE1NDJhZGQyMDA0MzM4ZjFiMjMyYzUyY2M2`

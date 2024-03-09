@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,140 songs - 1 day 19 hr 14 min
+1,141 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [crystal clear](https://open.spotify.com/track/48dwboYJcg9uNoVwJDIN1d) | [Brian Tuey](https://open.spotify.com/artist/4xPlBQAVyS9TNgDEBHbKCs) | [crystal clear](https://open.spotify.com/album/0sObfdc3y54BswoKtUMtvS) | 2:04 | 2022-06-03 | 2023-09-22 |
 | [Crystallized](https://open.spotify.com/track/70z3gnc374PHSBFFD0fz3x) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Crystallized](https://open.spotify.com/album/3t5SuQBjkOyoX27byBxvgf) | 2:06 | 2022-10-15 | 2023-10-06 |
 | [Création du Monde](https://open.spotify.com/track/4ZJFDEerMptTZzIbHQqnsi) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Création du Monde](https://open.spotify.com/album/7xX40x8BpmihVAuvZRBVgG) | 2:01 | 2022-04-22 | 2023-09-16 |
-| [cuba libre](https://open.spotify.com/track/7bOIeDRXO2pDN3yk15jQGB) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g) | [cuba libre](https://open.spotify.com/album/6yrTF5H3ukKqPukYBRqDDk) | 2:17 | 2023-11-17 |  |
+| [cuba libre](https://open.spotify.com/track/7bOIeDRXO2pDN3yk15jQGB) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g) | [cuba libre](https://open.spotify.com/album/6yrTF5H3ukKqPukYBRqDDk) | 2:17 | 2023-11-17 | 2024-03-09 |
 | [Cuddle Plz](https://open.spotify.com/track/2xkvJdvWp4OUaSl99S2JM3) | [Kirub](https://open.spotify.com/artist/43lUFmT9yMM9uQyZfo47JC) | [Cuddle Plz](https://open.spotify.com/album/4wxFyzzkQHh5eDnBMzb649) | 1:28 | 2022-08-05 | 2023-10-06 |
 | [Curious Shadows](https://open.spotify.com/track/2afipVQcYOHwXFxrQdoCZW) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Curious Shadows](https://open.spotify.com/album/3McYyHGMBzbqgZW34lBjrX) | 2:48 | 2021-11-10 | 2022-07-22 |
 | [cushion](https://open.spotify.com/track/6z4uqDqO9LLdsW3i8GR9Li) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [cushion](https://open.spotify.com/album/3UCS7p1N7vswlJQPgPglHC) | 2:27 | 2022-08-12 | 2023-10-06 |
@@ -913,6 +913,7 @@
 | [Snooze](https://open.spotify.com/track/06k8TlJRnp0XHOWxuXrvpV) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Lonely Llama](https://open.spotify.com/artist/7qyiD7cCyow6BICznBnKfk) | [Snooze](https://open.spotify.com/album/5u6zyPvdcNql3sglsO0Chw) | 2:52 | 2022-10-15 | 2023-04-28 |
 | [Snooze](https://open.spotify.com/track/2J3SlUak8rUmbqQKLhVsrx) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Snooze](https://open.spotify.com/album/35lv87Ea72rsGbvMgZ3UXd) | 1:55 | 2022-04-22 | 2023-09-16 |
 | [Snow Cat](https://open.spotify.com/track/0xFmEZEGo8Coz5CL1EiEDP) | [Easy Deviance](https://open.spotify.com/artist/5nwDk2qZ6uzdaQ7Rz5aNZr), [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp) | [Snow Cat](https://open.spotify.com/album/7dC9t5Fo2Q1fBPjx1iwwWJ) | 2:34 | 2022-12-09 |  |
+| [snowfall](https://open.spotify.com/track/6gL2kWpjufrrAJTyOxhw13) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [snowfall](https://open.spotify.com/album/1hzh8mBqoEkUYzBh1TBvSj) | 2:36 | 2024-03-08 |  |
 | [Snowflake](https://open.spotify.com/track/1mGaio343L5aaxmcsdoeq7) | [Railey](https://open.spotify.com/artist/1W3u3PSYtoA7OQ3lHpKK7G) | [Snowflake](https://open.spotify.com/album/6ioII01Al1mVoITxFoB2De) | 1:19 | 2022-12-09 |  |
 | [snowy day](https://open.spotify.com/track/3D0Bq5DyCqMzb1NxOh8XDR) | [quietbeat](https://open.spotify.com/artist/6QA0s1mjWAjVWB54l9iccR), [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [snowy day](https://open.spotify.com/album/7k0sSABmhBwNBu9WGcjvMW) | 3:04 | 2023-01-20 |  |
 | [so much more](https://open.spotify.com/track/6Jq3HoQx6j0hWHJ52hoN5W) | [sinnr](https://open.spotify.com/artist/4rgy5K4lHDLbaSC1MMuY5m) | [so much more](https://open.spotify.com/album/5W945XNOGdKQ774ChcWOpN) | 1:52 | 2022-05-13 | 2022-05-27 |

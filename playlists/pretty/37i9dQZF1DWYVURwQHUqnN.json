@@ -1,12 +1,12 @@
 {
   "description": "Photo: Shay",
-  "num_followers": 1078418,
+  "num_followers": 1078596,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGQyN2M3MjcwZGY2YTAyNjAzYjQxMmI0NWVhMWQ1NzY1ZTlhZTM3",
+  "snapshot_id": "MCxlZmYzZGM2MTJiNTUzNTBiMzAyZmI0Yjg2ZjU3MWMzYjFlOWRjYTFj",
   "tracks": [
     {
       "added_at": "2024-03-07 23:01:00",
@@ -584,12 +584,12 @@
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
           "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
           "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
       "duration_ms": 188370,

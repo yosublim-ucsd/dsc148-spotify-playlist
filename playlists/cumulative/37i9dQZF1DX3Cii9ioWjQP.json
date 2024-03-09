@@ -2435,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Image #4",
+        "url": "https://open.spotify.com/album/0MkjQ5J3apbaP2LqxTX5bW"
+      },
+      "artists": [
+        {
+          "name": "CADEJO",
+          "url": "https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "sun in my eyes",
+      "url": "https://open.spotify.com/track/71wLiJRoaTUH6vpUgU7tYP"
+    },
+    {
+      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/6ak25dnY0MuutpgD0OVLAo"
       },

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-294 songs - 15 hr 56 min
+295 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Devathe](https://open.spotify.com/track/3ZXXhJW1YazmSPzvjKefUf) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV), [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Devathe](https://open.spotify.com/album/4DeH8ab6MWaXJMWVuZkG7p) | 2:43 | 2024-02-14 | 2024-02-17 |
 | [Dinavella](https://open.spotify.com/track/1hfpybsNfra73ShRLBTVpk) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1YP89I84s7rdeJvRYNTo9h) | 3:12 | 2023-11-24 |  |
 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 | 2023-11-24 | 2024-01-27 |
+| [Don't Care \- Female Version](https://open.spotify.com/track/6zRJJRw3dX9xcXSHBQMeQf) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Sinchana Gowda](https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp) | [Don't Care \(Female Version\)](https://open.spotify.com/album/1EWSD1tTU4iixNYQjCEYIc) | 3:24 | 2024-03-08 |  |
 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 | 2024-01-18 |
 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 | 2023-12-12 |
 | [Dosthi](https://open.spotify.com/track/6kikzlcHn876UkFBtdYrai) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Dosthi](https://open.spotify.com/album/4d4tz7uQcWFs5H9G38FiG8) | 2:50 | 2023-09-20 | 2024-02-29 |

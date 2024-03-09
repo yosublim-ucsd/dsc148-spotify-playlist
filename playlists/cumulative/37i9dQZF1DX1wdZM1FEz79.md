@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Jo So Hyun\(조소현\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-491 songs - 1 day 5 hr 12 min
+492 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [boyhood](https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:15 | 2022-08-12 | 2022-08-19 |
 | [Buried](https://open.spotify.com/track/45gshqSTbGrN8PGycTDTFR) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Buried](https://open.spotify.com/album/3jbx3qcoQkEAwFtc9iolsL) | 3:40 | 2023-12-05 | 2024-01-05 |
 | [Burned out](https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:06 | 2022-03-10 | 2022-04-15 |
+| [Butterfly](https://open.spotify.com/track/40MIgUNbMlTydZrCd2ht0p) | [JIEUM](https://open.spotify.com/artist/70j7j3AemNICCAhS1eucCP) | [Butterfly](https://open.spotify.com/album/4WNcWxcU6eh2ij6WIRgemY) | 4:39 | 2024-03-08 |  |
 | [Butterfly](https://open.spotify.com/track/1wMWUyEEPNqKW5sVOZKUOk) | [Joshua](https://open.spotify.com/artist/3WEyV00BslpJ11cnVmJaJx) | [Your Questions, My Answers](https://open.spotify.com/album/0EhxVCLBEpfhTPEL7GbZYk) | 3:01 | 2022-03-31 | 2022-04-21 |
 | [Butterfly 나비야](https://open.spotify.com/track/1ajGXP7qJiyXsDaaZaGxm6) | [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj) | [Modern 02](https://open.spotify.com/album/2fInHvYH5od0ShRJJeeVHJ) | 3:10 | 2022-03-31 | 2022-04-18 |
 | [BUTTON](https://open.spotify.com/track/1tV0ePCzB0hnPsMzqxiEbC) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [BUTTON](https://open.spotify.com/album/4Pwu42AnPJHYd8XabZlpDc) | 4:35 | 2022-03-31 | 2022-04-09 |
@@ -258,7 +259,7 @@
 | [My Dearest](https://open.spotify.com/track/5wypJbC2SO46N03RaEhy3w) | [DRAWMODE](https://open.spotify.com/artist/5GyIzYxwroBU1oR2y7cdDB) | [My Dearest](https://open.spotify.com/album/7vmIcDy2nEGulK63hHo3HY) | 3:21 | 2023-01-19 | 2023-02-07 |
 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 | 2023-01-11 | 2023-01-26 |
 | [My Love](https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:54 | 2021-12-10 |  |
-| [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 | 2023-04-27 |  |
+| [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 | 2023-04-27 | 2024-03-09 |
 | [My Night My Star](https://open.spotify.com/track/1SXVfhKdeOm5zEVtB5KLWG) | [GUNHO](https://open.spotify.com/artist/2eR3EeRLLHMoluqhYh0IGb) | [My Night My Star](https://open.spotify.com/album/6XPt8zxnyX6fww9hiTxIcd) | 3:41 | 2022-03-31 | 2022-04-13 |
 | [My secret, My everything](https://open.spotify.com/track/6VNyKGgsdiRCh7943735wV) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL) | 4:11 | 2022-05-13 | 2023-06-04 |
 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 | 2023-05-15 | 2023-10-15 |

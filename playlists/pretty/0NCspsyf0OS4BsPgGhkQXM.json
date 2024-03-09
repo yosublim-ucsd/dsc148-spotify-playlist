@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2033350,
+  "num_followers": 2033443,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQ1MzMsN2E3MWM2NDRkZWRjNWY0NzQ0NmIxZGVkNjZmNTRlNzczZmM5ZGIyYg==",
+  "snapshot_id": "MTQ1MzgsMjQ2NGU4MDFiYzFhMTE5NGM0MzA5YmNmZTZjMTljYzM4MmU2Y2IwZA==",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -465,26 +465,6 @@
       "url": "https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem"
     },
     {
-      "added_at": "2024-02-16 22:26:21",
-      "album": {
-        "name": "Compute",
-        "url": "https://open.spotify.com/album/3f4xGG4tcOW0Xy14lSYdTG"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Ali Love",
-          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
-        }
-      ],
-      "duration_ms": 263610,
-      "name": "Compute",
-      "url": "https://open.spotify.com/track/0Y45CwcVePrBc7Cfj0kz5f"
-    },
-    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "obsessed",
@@ -563,6 +543,26 @@
       "duration_ms": 250285,
       "name": "Blue KNY Factory Remix - KNY Factory Remix",
       "url": "https://open.spotify.com/track/2Be2IeraxfBRyyZoID1cx2"
+    },
+    {
+      "added_at": "2024-03-08 22:12:38",
+      "album": {
+        "name": "you're hell",
+        "url": "https://open.spotify.com/album/0FRoQBC3w2gh4jDmh7Oq1H"
+      },
+      "artists": [
+        {
+          "name": "brxly",
+          "url": "https://open.spotify.com/artist/1cGqXGh8OUcbf53Hg57AHk"
+        },
+        {
+          "name": "Angel Hill",
+          "url": "https://open.spotify.com/artist/0v4Iw2QsGo7sa1kzpccz6k"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "you're hell",
+      "url": "https://open.spotify.com/track/7dGY8CoLPJmGEaQgsRLL4f"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -1299,6 +1299,26 @@
       "duration_ms": 213340,
       "name": "High You Are (Branchez Remix)",
       "url": "https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u"
+    },
+    {
+      "added_at": "2024-02-16 22:26:21",
+      "album": {
+        "name": "Compute",
+        "url": "https://open.spotify.com/album/3f4xGG4tcOW0Xy14lSYdTG"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        }
+      ],
+      "duration_ms": 263610,
+      "name": "Compute",
+      "url": "https://open.spotify.com/track/0Y45CwcVePrBc7Cfj0kz5f"
     },
     {
       "added_at": "2024-02-23 17:26:01",
@@ -2067,6 +2087,22 @@
       "duration_ms": 182400,
       "name": "Neck And Neck - DNMO Remix",
       "url": "https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu"
+    },
+    {
+      "added_at": "2024-03-08 22:13:56",
+      "album": {
+        "name": "MOTOR PHONK",
+        "url": "https://open.spotify.com/album/2FapFkxPflYXJF1hSOgDik"
+      },
+      "artists": [
+        {
+          "name": "PHONKA TRUCK",
+          "url": "https://open.spotify.com/artist/6YS8kbWWMQlkGFiloRZ7As"
+        }
+      ],
+      "duration_ms": 84923,
+      "name": "MOTOR PHONK",
+      "url": "https://open.spotify.com/track/28vaVxwq9XicIjYnsHyVt2"
     },
     {
       "added_at": "2024-01-29 22:53:51",

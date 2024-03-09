@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzlhZjU3N2U5YWFiMWNlMDU3MjMzYzMyN2M0ODc2N2I2ODM2YWY1",
+  "snapshot_id": "MCw1MWFiMjdmNjRmZWU2NGRlNjdhYTRkNjZiMGFjZjdiMzlmNzE4Zjk0",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Nothing Like Your Presence",
+        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 467186,
+      "name": "Finished Work - Live From Chattanooga, TN",
+      "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Nothing Like Your Presence",
-        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 467186,
-      "name": "Finished Work - Live From Chattanooga, TN",
-      "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
     },
     {
       "added_at": "2023-04-09 08:49:39",

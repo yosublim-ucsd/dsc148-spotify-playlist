@@ -4042,6 +4042,36 @@
     {
       "album": {
         "name": "Chakara Muthey (From \"Rebel\")",
+        "url": "https://open.spotify.com/album/3UGWj9QJkxy8qGiiATzdkE"
+      },
+      "artists": [
+        {
+          "name": "Navakkarai Naveen Prabanjam",
+          "url": "https://open.spotify.com/artist/4FF7sfmTtz548Ic5RGo91J"
+        },
+        {
+          "name": "Gold Devaraj",
+          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
+        },
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "Chakara Muthey (From \"Rebel\")",
+      "url": "https://open.spotify.com/track/5oJOkHOZ52zmOzkb13vEf1"
+    },
+    {
+      "album": {
+        "name": "Chakara Muthey (From \"Rebel\")",
         "url": "https://open.spotify.com/album/1owc3FPNSmtAl6BpmuSfLf"
       },
       "artists": [
@@ -4060,7 +4090,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 152142,
       "name": "Chakara Muthey (From \"Rebel\")",
       "url": "https://open.spotify.com/track/0Z0fFNACgne65IVGtjxv7Y"
@@ -15815,6 +15845,28 @@
     },
     {
       "album": {
+        "name": "J.Baby (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6tAOIzWORHzIHwJQU2RR8j"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Anabel Jamieson",
+          "url": "https://open.spotify.com/artist/2W9I2ilzgYkzo4KNyY2kvY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240600,
+      "name": "Nedumaram Tholainthathey",
+      "url": "https://open.spotify.com/track/1n2NtaZ3q7ihhEb51MeeKb"
+    },
+    {
+      "album": {
         "name": "Nee Chuttu Chuttu (From \"Skanda\")",
         "url": "https://open.spotify.com/album/1JqtlkXasTPfKXGYNT9a7D"
       },
@@ -16928,7 +16980,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 163325,
       "name": "Oh My Baby",
       "url": "https://open.spotify.com/track/4prRLWA7QzTE4zHWd5jbkA"
@@ -19468,7 +19520,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 248653,
       "name": "Por Theeruma (From \"Birthmark\")",
       "url": "https://open.spotify.com/track/3C5rbk5RY5VpymyotbsXT6"
@@ -28690,6 +28742,32 @@
       "duration_ms": 208164,
       "name": "Zoom Boom Doom Pathaan",
       "url": "https://open.spotify.com/track/3ktsYOpVAmAqoj4FhL64TU"
+    },
+    {
+      "album": {
+        "name": "Zoosa (From \"Vallavan Vaguthadhada\")",
+        "url": "https://open.spotify.com/album/5P5LH5qFUNQwdIcQyqzlQi"
+      },
+      "artists": [
+        {
+          "name": "Sagishna Xavier",
+          "url": "https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/1zQk335M5LE4TowdBTKOAp"
+        },
+        {
+          "name": "Vandana Srinivasan",
+          "url": "https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Zoosa (From \"Vallavan Vaguthadhada\")",
+      "url": "https://open.spotify.com/track/1q2nWfPYIn1zldKyc95z5M"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z"

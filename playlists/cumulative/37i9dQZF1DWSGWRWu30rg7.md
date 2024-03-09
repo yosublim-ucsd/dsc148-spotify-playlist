@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: NEALA
 
-3,161 songs - 8 day 2 hr 9 min
+3,162 songs - 8 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -991,6 +991,7 @@
 | [Guilty Pleasure](https://open.spotify.com/track/5cgGvhx8daB3xXhS8T5RxN) | [Afterose](https://open.spotify.com/artist/6wStTeJ2ebyvHeZv6NznNe) | [Guilty Pleasure](https://open.spotify.com/album/5LrqKGagwlOt0b3XIVneX4) | 3:44 | 2023-04-27 | 2023-05-19 |
 | [Gurun](https://open.spotify.com/track/6pnZqasxIR16zurKIOQdnM) | [Montypond](https://open.spotify.com/artist/7FfDw4eTunCO8q6Zqh2b1O) | [Gurun](https://open.spotify.com/album/63fclGvSro4cSqXD2JSenW) | 6:42 | 2023-10-05 | 2023-10-27 |
 | [Guts](https://open.spotify.com/track/4Nn07nMkw0LncICVwz3rwX) | [IFEELLIKEAMOVIE](https://open.spotify.com/artist/2rXAO35B3Kf7vvSgzNtzNu) | [$10,000 HEARTBREAK](https://open.spotify.com/album/43oaShUlj9G5GXzW8ug7xH) | 1:37 | 2023-02-23 | 2023-03-10 |
+| [Habibi](https://open.spotify.com/track/4so084KAl7FTLcXgfmqvY3) | [Tasha Bouslama](https://open.spotify.com/artist/1QDSCNOEEgZMBM09n1783e) | [Habibi](https://open.spotify.com/album/7iFIzslrs0bIh0tSSoamYO) | 3:23 | 2024-03-08 |  |
 | [Hadiah Terindah](https://open.spotify.com/track/0WuZhUWylJC4sHO9u3iLx9) | [Shafira Putri](https://open.spotify.com/artist/3yGeYHXZThLB30j7spcH8u) | [Hadiah Terindah](https://open.spotify.com/album/0lMAVSbO3N2QNFIjVBC41r) | 3:50 | 2023-11-17 | 2023-12-01 |
 | [Hadirnya](https://open.spotify.com/track/0zAcR3j44puTCUPbLvcYJC) | [Story Of Tomorrow](https://open.spotify.com/artist/3yOSZDGhURi7TNqOSERNRH) | [Hadirnya](https://open.spotify.com/album/1WELgyXYJjMTnEPGCm1pvT) | 4:21 | 2023-11-09 | 2023-12-01 |
 | [Hai Kamu](https://open.spotify.com/track/42JEJUFot1Y1mRRU5wtoah) | [Gusti Irwan Wibowo](https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3) | [Hai Kamu](https://open.spotify.com/album/4ohmZJEzoH7rLy6pkVH0aD) | 3:01 | 2022-03-04 | 2022-03-18 |

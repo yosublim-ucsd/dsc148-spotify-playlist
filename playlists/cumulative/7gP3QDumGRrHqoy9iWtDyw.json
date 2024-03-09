@@ -1385,6 +1385,32 @@
     },
     {
       "album": {
+        "name": "Giving Me Life",
+        "url": "https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Giving Me Life",
+      "url": "https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N"
+    },
+    {
+      "album": {
         "name": "Gonna Make You Sweat (Everybody Dance Now) (Edit)",
         "url": "https://open.spotify.com/album/2pslnaxRj3AB3O7Tzv2wGg"
       },

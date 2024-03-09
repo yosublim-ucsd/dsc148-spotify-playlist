@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 225240,
+  "2024-03-09": 225243,
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Kassimi",
+  "description": "La nuova generazione del rap italiano. Cover: Ele A. Powered by <a href=\"spotify:playlist:37i9dQZF1DWUHxBb0SYtLj\">EQUAL</a>, a supporto delle artiste donne, tutti i giorni \ud83d\udc9a",
   "name": "Raptopia",
   "tracks": [
     {
@@ -805,7 +805,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 181565,
       "name": "ABUBAKAR",
       "url": "https://open.spotify.com/track/3XXRBZMiNrDpEewxmirGHJ"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 117791,
       "name": "Attimi",
       "url": "https://open.spotify.com/track/5oZ1UQqXAFsvUgYNQGs2I8"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 144000,
       "name": "BAD VIBES",
       "url": "https://open.spotify.com/track/7dQifG3HCZODIup1leoDxY"
@@ -2200,6 +2200,28 @@
     },
     {
       "album": {
+        "name": "Betlemme",
+        "url": "https://open.spotify.com/album/440TZpj2dOvQ451ljA0hUZ"
+      },
+      "artists": [
+        {
+          "name": "2Rari",
+          "url": "https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf"
+        },
+        {
+          "name": "Murray",
+          "url": "https://open.spotify.com/artist/5vCM8O3LYLrcx4QRyKzoQo"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Betlemme",
+      "url": "https://open.spotify.com/track/7K8SXA5rdV6b10v3pHqIxW"
+    },
+    {
+      "album": {
         "name": "BEVERLY",
         "url": "https://open.spotify.com/album/0Pc4M6KqlXzvn18fhgqnzj"
       },
@@ -2465,7 +2487,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 166451,
       "name": "BIMBO (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB"
@@ -2823,7 +2845,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 102069,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/2gEAaRaCZo6MKx3JDed9ob"
@@ -4135,7 +4157,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 99740,
       "name": "Clima",
       "url": "https://open.spotify.com/track/6WWfb81U4yyBWgfJEkYD6L"
@@ -4599,7 +4621,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 141500,
       "name": "COSA C'\u00c8",
       "url": "https://open.spotify.com/track/4TYfpaSZNmImjl6PGuGsbJ"
@@ -5527,7 +5549,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 154011,
       "name": "Drammi",
       "url": "https://open.spotify.com/track/6fHMtKpbzm1rQHkfqOMiyV"
@@ -5765,6 +5787,32 @@
       "duration_ms": 195957,
       "name": "Eddie Guerrero (feat. Side Baby)",
       "url": "https://open.spotify.com/track/7e9GiSZmiY6LwNd3P2Tt4Z"
+    },
+    {
+      "album": {
+        "name": "Educazione Siciliana",
+        "url": "https://open.spotify.com/album/43by569mx7rYA70z3lPdX9"
+      },
+      "artists": [
+        {
+          "name": "BLACK PRINCE",
+          "url": "https://open.spotify.com/artist/2FDNkx2RMUJjWaMlj8sfew"
+        },
+        {
+          "name": "Shaka Muni",
+          "url": "https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY"
+        },
+        {
+          "name": "Enzo Benz",
+          "url": "https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128659,
+      "name": "Educazione Siciliana",
+      "url": "https://open.spotify.com/track/6ssRDaLdTHihmOFPPjKKKl"
     },
     {
       "album": {
@@ -6454,6 +6502,24 @@
     },
     {
       "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/3sOX8un9UoYA2KCcxywEqa"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161726,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/3HdOI6RkAnkt9kyEsPkh28"
+    },
+    {
+      "album": {
         "name": "Federico",
         "url": "https://open.spotify.com/album/4doOQDtIkkjGr2Hz77cjLT"
       },
@@ -6835,6 +6901,24 @@
       "duration_ms": 178846,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c"
+    },
+    {
+      "album": {
+        "name": "Sangue",
+        "url": "https://open.spotify.com/album/2ODTNZ6HLMTNiiu05e4kHO"
+      },
+      "artists": [
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123709,
+      "name": "Fortissima Freestyle",
+      "url": "https://open.spotify.com/track/5YUuwDY0ydgcx4oeUG0xbZ"
     },
     {
       "album": {
@@ -7351,6 +7435,28 @@
       "duration_ms": 250000,
       "name": "Genova Ovest",
       "url": "https://open.spotify.com/track/1jPXg2suAQEhM9fkpDHYv7"
+    },
+    {
+      "album": {
+        "name": "GENOVARABE FREESTYLE",
+        "url": "https://open.spotify.com/album/5Skxsk1yZQSpKB3gslayHl"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Helmi sa7bi",
+          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124705,
+      "name": "GENOVARABE FREESTYLE",
+      "url": "https://open.spotify.com/track/7CZhoV5GBhmLv59tN13GD6"
     },
     {
       "album": {
@@ -7893,7 +7999,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 129315,
       "name": "Guerra Con Me Stesso",
       "url": "https://open.spotify.com/track/6ByL4vOXiTkHyCShfEvwcE"
@@ -8442,6 +8548,24 @@
     },
     {
       "album": {
+        "name": "Il Metodo Migliore (Tutorial 2)",
+        "url": "https://open.spotify.com/album/3AenhDEsYyqT8zKGvZ2ULF"
+      },
+      "artists": [
+        {
+          "name": "Hammon",
+          "url": "https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Il Metodo Migliore (Tutorial 2)",
+      "url": "https://open.spotify.com/track/44d6e7jKy2SZt5yy5k1Exh"
+    },
+    {
+      "album": {
         "name": "Il mio fr\u00e9re",
         "url": "https://open.spotify.com/album/1WbnR7x7I9Vv0rGLnQMlHx"
       },
@@ -8868,6 +8992,24 @@
     },
     {
       "album": {
+        "name": "IPHONE",
+        "url": "https://open.spotify.com/album/0pC1psS9nB4aAWlieYSxHg"
+      },
+      "artists": [
+        {
+          "name": "Y.E.B",
+          "url": "https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "IPHONE",
+      "url": "https://open.spotify.com/track/0Wia801XPEmSRZsS99I09X"
+    },
+    {
+      "album": {
         "name": "ItalGarage",
         "url": "https://open.spotify.com/album/2wA2lNv7d0fsO7sxTFpdap"
       },
@@ -9213,6 +9355,32 @@
       "duration_ms": 151442,
       "name": "King Lear (feat. Sosa Priority)",
       "url": "https://open.spotify.com/track/3a0vrvEAGekzkhOOSThSXf"
+    },
+    {
+      "album": {
+        "name": "KISS KISS (feat. Ghali, Tony Boy)",
+        "url": "https://open.spotify.com/album/4dGzzSFdxg0hNp4QG1JrmC"
+      },
+      "artists": [
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "KISS KISS (feat. Ghali, Tony Boy)",
+      "url": "https://open.spotify.com/track/6cMM2WlzIRklPTWgyzMlQx"
     },
     {
       "album": {
@@ -11455,7 +11623,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 188690,
       "name": "MAYBACH",
       "url": "https://open.spotify.com/track/3B1wXfY9DgClNsa3eEOfVO"
@@ -12762,6 +12930,24 @@
     },
     {
       "album": {
+        "name": "HOOD LOVE EP",
+        "url": "https://open.spotify.com/album/6Kfl6xvN8rcTKcZdlz2z5T"
+      },
+      "artists": [
+        {
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158543,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/2Bvyca0aDAMdryhprXWLtb"
+    },
+    {
+      "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh"
       },
@@ -12811,6 +12997,28 @@
       "duration_ms": 212973,
       "name": "Nme",
       "url": "https://open.spotify.com/track/6VrAWtlbVpcbDTfvnqDDE2"
+    },
+    {
+      "album": {
+        "name": "NO $KIP (feat. Cimo)",
+        "url": "https://open.spotify.com/album/1I5V2Hw4Aeww8nnmmdIXTq"
+      },
+      "artists": [
+        {
+          "name": "Gale",
+          "url": "https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL"
+        },
+        {
+          "name": "Cimo",
+          "url": "https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129573,
+      "name": "NO $KIP (feat. Cimo)",
+      "url": "https://open.spotify.com/track/1QKed6RGn5Z8JhhBBW89ms"
     },
     {
       "album": {
@@ -12979,7 +13187,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 157426,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/38hK4JxVt8uKsgoKE1zfw5"
@@ -14113,6 +14321,24 @@
       "duration_ms": 144000,
       "name": "Parenti",
       "url": "https://open.spotify.com/track/5rFDHjPEP1CvNufa70VoUV"
+    },
+    {
+      "album": {
+        "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo"
+      },
+      "artists": [
+        {
+          "name": "JELECROIS",
+          "url": "https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196551,
+      "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc"
     },
     {
       "album": {
@@ -17502,6 +17728,24 @@
     },
     {
       "album": {
+        "name": "STAI ZITTA",
+        "url": "https://open.spotify.com/album/2tW6wrlWpbdfhdS9gN1Nw6"
+      },
+      "artists": [
+        {
+          "name": "ALDA",
+          "url": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "STAI ZITTA",
+      "url": "https://open.spotify.com/track/1zpQEwAJOAx6FP6UGDiyhh"
+    },
+    {
+      "album": {
         "name": "Statt ferm",
         "url": "https://open.spotify.com/album/68nhHDerY9JEnrIk2j5NoG"
       },
@@ -17905,7 +18149,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 150004,
       "name": "Sulle Giostre",
       "url": "https://open.spotify.com/track/5c8Q9RWWcrg2bIbHO0Ierr"
@@ -17985,6 +18229,28 @@
       "duration_ms": 128598,
       "name": "SUV NERO",
       "url": "https://open.spotify.com/track/34BSDQZhCLyEdknhW6fg3H"
+    },
+    {
+      "album": {
+        "name": "Suvvato",
+        "url": "https://open.spotify.com/album/70OsIu25JdBvwQ2bUkJx8M"
+      },
+      "artists": [
+        {
+          "name": "Latrelle",
+          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
+        },
+        {
+          "name": "N'Dreamer",
+          "url": "https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145916,
+      "name": "Suvvato",
+      "url": "https://open.spotify.com/track/0nv2BPc29Ufji1seJNUE6x"
     },
     {
       "album": {
@@ -18095,7 +18361,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 172000,
       "name": "TALENTO DELLA ZONA (feat. Uzi Lvke)",
       "url": "https://open.spotify.com/track/0RyKx7vPPetX0620k1k1t9"
@@ -18121,6 +18387,28 @@
       "duration_ms": 168019,
       "name": "Talento Sprecato",
       "url": "https://open.spotify.com/track/6EXLapjgbPbRwrafmfmR4C"
+    },
+    {
+      "album": {
+        "name": "Tarantola",
+        "url": "https://open.spotify.com/album/4ssbmYL7GCoMKzZVTgryES"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128659,
+      "name": "Tarantola",
+      "url": "https://open.spotify.com/track/7EE9L2acFBfLl8Z3wA6Wlv"
     },
     {
       "album": {
@@ -18783,7 +19071,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 152055,
       "name": "TR*P",
       "url": "https://open.spotify.com/track/2l1OdCo3rv0Zgr7pYqKhD0"
@@ -19546,6 +19834,24 @@
     },
     {
       "album": {
+        "name": "Vetro (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/1n7lZ3Urf2B2s5MJJFJFEZ"
+      },
+      "artists": [
+        {
+          "name": "Spender",
+          "url": "https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123356,
+      "name": "Vetro (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/30hSNULGkp6OgCsQ9TpNDS"
+    },
+    {
+      "album": {
         "name": "VICE CITY",
         "url": "https://open.spotify.com/album/6jXnldJZPaYPyYtad8BP71"
       },
@@ -19723,7 +20029,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 165767,
       "name": "Visione",
       "url": "https://open.spotify.com/track/5GPTz6HPWFCBwGXFRxTBDG"
@@ -20015,6 +20321,32 @@
       "duration_ms": 145972,
       "name": "WE MAN",
       "url": "https://open.spotify.com/track/7eEA003LpGnkMz765TtPyn"
+    },
+    {
+      "album": {
+        "name": "We The Best",
+        "url": "https://open.spotify.com/album/29ZDIzwcdnXIEDUEsRrpeF"
+      },
+      "artists": [
+        {
+          "name": "rooc lee",
+          "url": "https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8"
+        },
+        {
+          "name": "yungenob",
+          "url": "https://open.spotify.com/artist/2wpyNCDCcqIpRZgAGdHRgg"
+        },
+        {
+          "name": "Waze RRX",
+          "url": "https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "We The Best",
+      "url": "https://open.spotify.com/track/7arvKJhxcuWpHbItjkvKuB"
     },
     {
       "album": {
@@ -20517,7 +20849,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 109500,
       "name": "Zig Zag (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/0dZIit1w1ke7tCto0J2gma"

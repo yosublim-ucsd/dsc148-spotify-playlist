@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-2,270 songs - 5 day 4 hr 31 min
+2,271 songs - 5 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [Easy Come Easy Go](https://open.spotify.com/track/2LgkM7cuxKyW9KIZ9wZHiH) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Easy Come Easy Go](https://open.spotify.com/album/5CQjLyXaqP5LPtcqOaAgNM) | 3:12 | 2022-01-19 | 2022-02-17 |
 | [Easy Go!](https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Easy Go!](https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk) | 2:30 | 2023-04-26 | 2023-05-31 |
 | [Easy Going](https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Easy Going](https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi) | 2:28 | 2022-06-29 | 2022-08-25 |
+| [Eating Me Alive](https://open.spotify.com/track/6I1SWoRsbsSWrdVufccpwx) | [foamboy](https://open.spotify.com/artist/1JuU4GHSf0kmi5dOCm1BeS) | [Eating Me Alive](https://open.spotify.com/album/0DQzRH23fb9Cf01H3ARMB5) | 4:14 | 2024-03-06 |  |
 | [Ebbs and Flows](https://open.spotify.com/track/6sfKeR4COlQzomHlfMTbpj) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [Ebbs and Flows](https://open.spotify.com/album/4qqvBins9wxYYFCDftF8yu) | 3:01 | 2023-09-13 | 2023-11-09 |
 | [ed hardy](https://open.spotify.com/track/5texEDBxbbPZA9sfc1Xj5j) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa), [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV) | [ed hardy](https://open.spotify.com/album/7H8vAbI81ihxVdPEPPouMW) | 2:33 | 2022-01-12 | 2022-02-10 |
 | [Eden](https://open.spotify.com/track/0HT1eAEMR6igNDMpHvZNqU) | [Babel](https://open.spotify.com/artist/4qrLovyKfCeNbEdN0Tmx1Q) | [Yoga Horror](https://open.spotify.com/album/5Bynuoj2T6zEGdTDYhoSYQ) | 4:08 | 2022-03-09 | 2022-04-27 |

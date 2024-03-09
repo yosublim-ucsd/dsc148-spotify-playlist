@@ -1,13 +1,49 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 55113,
+  "num_followers": 55135,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjU1NmJmZTAyN2E3ZDgwNTgyODU2Njg2MDc2ZGYxZDRhZDZhM2Y3",
+  "snapshot_id": "MCw4NGM2MDQ4NTcyZDY4OWRhMGMzOGEzZGUxMzkwNDI1MzEwYmQ4ZjQz",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Girl Friends",
+        "url": "https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 197468,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Funky Music",
+        "url": "https://open.spotify.com/album/596i4DpXq6GdoZnFGZp0hp"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Funky Music",
+      "url": "https://open.spotify.com/track/640wmLH8Gum9QbtadiRL1H"
+    },
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
@@ -103,22 +139,6 @@
       "duration_ms": 308573,
       "name": "Heavy Soul",
       "url": "https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Backbone Slip",
-        "url": "https://open.spotify.com/album/1V7Sy4Jpilm8EGjpyGrM5f"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 259053,
-      "name": "Backbone Slip",
-      "url": "https://open.spotify.com/track/0SeprpfgKltu37wRFpsDif"
     },
     {
       "added_at": "2024-02-16 05:01:00",

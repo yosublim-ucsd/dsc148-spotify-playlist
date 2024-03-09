@@ -1,183 +1,15 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6480,
+  "num_followers": 6474,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTg2ZjhkNWFmNjg4MDlkNGExZDUyZDA4NjM3OTQ3ZjVlMzIyODA1",
+  "snapshot_id": "MCxjNmY1YzU0MDMyZGJlYmExNzllMTdjMDY4MzBlNzNiNzFmY2Y0MzNh",
   "tracks": [
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Love Lee",
-        "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 179683,
-      "name": "Love Lee",
-      "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "BSS 1st Single Album 'SECOND WIND'",
-        "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
-      },
-      "artists": [
-        {
-          "name": "BSS",
-          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Fighting (Feat. Lee Young Ji)",
-      "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 156354,
-      "name": "Good Parts (when the quality is bad but I am)",
-      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "MANIFESTO : DAY 1",
-        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 228115,
-      "name": "SHOUT OUT",
-      "url": "https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Heng:gar\u00e6",
-        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Kidult",
-      "url": "https://open.spotify.com/track/1kmmKv3L4kGmoPu8aDFOmk"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
-        "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "\uc2dc\uc791",
-      "url": "https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "I \u2260 DOLL",
-        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 150269,
-      "name": "I \u2260 DOLL",
-      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "A Time Called You (Original Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Beautiful Restriction",
-      "url": "https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "BBIBBI",
         "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
@@ -193,7 +25,39 @@
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "\uc2dc\uc791",
+      "url": "https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "I \u2260 DOLL",
+        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 150269,
+      "name": "I \u2260 DOLL",
+      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "I - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
@@ -213,23 +77,7 @@
       "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "White Wind",
-        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 195855,
-      "name": "gogobebe",
-      "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "Traffic light",
         "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
@@ -245,7 +93,7 @@
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90"
@@ -261,71 +109,7 @@
       "url": "https://open.spotify.com/track/63pHo56L4k2VLXqzt1shrK"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/6S327htVJnBi9GGZjUInui"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Heng:gar\u00e6",
-        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Heroine",
-      "url": "https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "BASTIONS OST Part.4",
-        "url": "https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "H1-KEY 1st Mini Album [Rose Blossom]",
         "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
@@ -341,119 +125,7 @@
       "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "ASTERUM : 134-1",
-        "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 149706,
-      "name": "Virtual Idol",
-      "url": "https://open.spotify.com/track/4mMtn8zhy4IaOwzNCgSbCT"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Flu",
-      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Mixtape : Time Out",
-        "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Mixtape : Time Out",
-      "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
-      },
-      "artists": [
-        {
-          "name": "YooA",
-          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "Bon voyage",
-      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/3NYmAEOb5YrX22YWgWtHeC"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyun Woo",
-          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "\ub3cc\ub369\uc774",
-      "url": "https://open.spotify.com/track/1jCRPdDQvCA5kQXtrPFWPC"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
@@ -469,7 +141,7 @@
       "url": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
@@ -485,75 +157,7 @@
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "6equence",
-        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "LUNATIC",
-      "url": "https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "NEXT EPISODE",
-        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        },
-        {
-          "name": "Lee Sun Hee",
-          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
-        }
-      ],
-      "duration_ms": 233416,
-      "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
-      "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/7lqVInQc3l7SbnbZa2cpFJ"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 211660,
-      "name": "Yes I Am",
-      "url": "https://open.spotify.com/track/3RqUX4U46H6TPdH30gPy4k"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Why Can't You Love Me?",
-      "url": "https://open.spotify.com/track/0CyydmXI4QhgUWrZsPOTXA"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb"
@@ -569,23 +173,23 @@
       "url": "https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
-        "name": "FLOWER SHOWER",
-        "url": "https://open.spotify.com/album/6WEd55Evvtz5ZTMogdK8Uu"
+        "name": "START-UP (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/6S327htVJnBi9GGZjUInui"
       },
       "artists": [
         {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
         }
       ],
-      "duration_ms": 188373,
-      "name": "FLOWER SHOWER",
-      "url": "https://open.spotify.com/track/7sjnURvuXBKEdM3fw698iq"
+      "duration_ms": 209946,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
         "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
@@ -601,75 +205,7 @@
       "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "7+UP",
-        "url": "https://open.spotify.com/album/4C6ab9EwBiR8Y5adO9o6bQ"
-      },
-      "artists": [
-        {
-          "name": "EL7Z UP",
-          "url": "https://open.spotify.com/artist/27xea8r2bsY7UlsbaRiwMQ"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "CHEEKY",
-      "url": "https://open.spotify.com/track/55uzraCUFDtQGFqDaJUoUr"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 192577,
-      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
-      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 13",
-        "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Gee - The First Mini Album",
-        "url": "https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Way to Go",
-      "url": "https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "Seoul",
         "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
@@ -685,7 +221,7 @@
       "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "Can you stay (From Semantic Error)",
         "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
@@ -701,91 +237,7 @@
       "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Dearest",
-        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 199766,
-      "name": "Celeb",
-      "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "A-MOONO-KE",
-        "url": "https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM"
-      },
-      "artists": [
-        {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "A-MOONO-KE (I\u2019m OK)",
-      "url": "https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "H1-KEY 2nd Mini Album [Seoul Dreaming]",
-        "url": "https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "SEOUL (Such a Beautiful City)",
-      "url": "https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "PARADISE (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
@@ -801,23 +253,7 @@
       "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 13",
-        "url": "https://open.spotify.com/album/0WCGyBf5B1e4JsB6okoJmB"
-      },
-      "artists": [
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/12WC3s3087JX9hDaTj4nW8"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "\uc0c1\uc0c1\ud55c \uafc8",
-      "url": "https://open.spotify.com/track/16sVrdJ0NHmLwan43hH9BF"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "Room Vol.1",
         "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
@@ -833,7 +269,7 @@
       "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "Answer",
         "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
@@ -849,39 +285,7 @@
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "Don't Call Me - The 7th Album",
-        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/14bycLXzjEIFKVQCe2K6M2"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "be",
-        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
-      },
-      "artists": [
-        {
-          "name": "EUNHYUK",
-          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "be",
-      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "5.4 [My Ultimate First Love]",
         "url": "https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT"
@@ -897,39 +301,7 @@
       "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 226786,
-      "name": "DREAMLIKE",
-      "url": "https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "LIMELIGHT DEBUT EP 'LOVE & HAPPINESS'",
-        "url": "https://open.spotify.com/album/6bGjdmkGl8QqTa1ElccP3C"
-      },
-      "artists": [
-        {
-          "name": "LIMELIGHT",
-          "url": "https://open.spotify.com/artist/1mDDvUPSs2dSr4QKAQmOql"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/5HB8Olk0vxhv8ynsh1x04y"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
@@ -949,23 +321,7 @@
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
-      "album": {
-        "name": "W.A.Y",
-        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "WE ARE YOUNG",
-      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
-    },
-    {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
         "name": "Lee Seung Chul 35th Anniversary Album Special 'My Love'",
         "url": "https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL"
@@ -985,20 +341,684 @@
       "url": "https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1"
     },
     {
-      "added_at": "2024-03-06 01:27:28",
+      "added_at": "2024-03-08 06:41:37",
       "album": {
-        "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp"
+        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
       },
       "artists": [
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
         }
       ],
-      "duration_ms": 230597,
-      "name": "I FLY",
-      "url": "https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r"
+      "duration_ms": 195042,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Omnibus, Pt. 2: Inside Out",
+        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "When the door opens (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.5",
+        "url": "https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1"
+      },
+      "artists": [
+        {
+          "name": "JT&MARCUS",
+          "url": "https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "When the door opens",
+      "url": "https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Some Day in the 21century",
+        "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Some Day in the 21century",
+      "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/68A5OaBH9feTRySwoFpGSX"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "The Melody",
+        "url": "https://open.spotify.com/album/749XA133WWzUmG03OCSqFn"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "The Melody",
+      "url": "https://open.spotify.com/track/5FqgslYHEkv51KtapyWsBZ"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "She Gonna Stop",
+        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
+      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 225295,
+      "name": "BENCH (with Zion.T)",
+      "url": "https://open.spotify.com/track/52nOiyRgQ7B7N7FjXhCCgz"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Page 0",
+        "url": "https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 187360,
+      "name": "Page 0",
+      "url": "https://open.spotify.com/track/10X2ihhKwPyKzo89h4965O"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Extraordinary Attorney Woo (Original Television SoundTrack) Pt. 1",
+        "url": "https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "duration_ms": 262143,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Thursday Night",
+        "url": "https://open.spotify.com/album/7GVvjxihGZSqkUokJhSKtq"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 210772,
+      "name": "Thursday Night (feat.Beenzino)",
+      "url": "https://open.spotify.com/track/6Qm8MRcsr9VlRIGf1AJ1W5"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "wish you all to be happy",
+        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 232588,
+      "name": "wish you all to be happy",
+      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Crash Course in Romance OST Part 4",
+        "url": "https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 172361,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU"
+      },
+      "artists": [
+        {
+          "name": "\uc548\uc2e0\uc560",
+          "url": "https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ"
+        }
+      ],
+      "duration_ms": 148586,
+      "name": "A Day For Me",
+      "url": "https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "DREAMLIKE",
+        "url": "https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ"
+      },
+      "artists": [
+        {
+          "name": "PL",
+          "url": "https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "DREAMLIKE",
+      "url": "https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Seoul Check-in OST Part 1",
+        "url": "https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 276057,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Seoul Night (feat. Beenzino)",
+        "url": "https://open.spotify.com/album/5UStHDWClB34bZbajHTBJ3"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Seoul Night (feat. Beenzino)",
+      "url": "https://open.spotify.com/track/2lWfyAvn4jbmGD0JWJ5DgL"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Misaeng (Incomplete Life) (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3q9p1oHZd4xHFjiywBFMul"
+      },
+      "artists": [
+        {
+          "name": "Yi Sung Yol",
+          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
+        }
+      ],
+      "duration_ms": 286213,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/0U4gMX1z7VAGvwPpjHjuq3"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Come N Goes",
+      "url": "https://open.spotify.com/track/0sFa0fKXoPn9yrNDYKqW4p"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "icanttellUeverything",
+      "url": "https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 195515,
+      "name": "WE NEED LOVE",
+      "url": "https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4jQQorRPgLw24Xcw1POknI"
+      },
+      "artists": [
+        {
+          "name": "Jung Jin Woo",
+          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0EQSTieN8qt9jMiqcVeCZB"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Maum, Part. 1",
+        "url": "https://open.spotify.com/album/2qfIkB00pLxeS1KiOwpuVn"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/3TFGNIZDnYtX1biTkWvj9M"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Take it To the Grave",
+        "url": "https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Take it To the Grave",
+      "url": "https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "KHAMAI",
+        "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
+      },
+      "artists": [
+        {
+          "name": "HUNJIYA",
+          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 205856,
+      "name": "TALK2ME! (feat. pH-1)",
+      "url": "https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "At a Distance, Spring is Green (Original Television Soundtrack), Pt.5",
+        "url": "https://open.spotify.com/album/438OHJXkAYzJqwTVaPyls9"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "duration_ms": 245186,
+      "name": "WAY",
+      "url": "https://open.spotify.com/track/508NmFJk80mHMyYAy1NTuC"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "LOVE or TAKE",
+        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Sing-a-song",
+      "url": "https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "\uc5b4\uc11c\uc624\uc138\uc694 \uc5ec\ub984\ubc24",
+        "url": "https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx"
+      },
+      "artists": [
+        {
+          "name": "Herz Analog",
+          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
+        }
+      ],
+      "duration_ms": 182631,
+      "name": "\uc5f0\uc560\uc0c1\ub2f4\uc778\ub4ef",
+      "url": "https://open.spotify.com/track/7oFRqf8y5li3YcZbESYvK7"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Color It",
+        "url": "https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "duration_ms": 199149,
+      "name": "Color It",
+      "url": "https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Seoul Check-in OST Part 10",
+        "url": "https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        },
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "FREE SMILE",
+      "url": "https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "He Loves Me (With Windy)",
+        "url": "https://open.spotify.com/album/56WFA9DY6elZw9uPt2xGcL"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 239151,
+      "name": "He Loves Me (With Windy)",
+      "url": "https://open.spotify.com/track/5zcqzLiXvZc68HAPJaE8LL"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 182031,
+      "name": "CAPTAIN",
+      "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Once In a Summer",
+        "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/1qRN5xGg0m1KH0XZO4vN6j"
+      },
+      "artists": [
+        {
+          "name": "Sam Ock",
+          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+        }
+      ],
+      "duration_ms": 217678,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1ZcASz9kDktzYeA7WwnW7u"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "\uc624\ucf00\uc774 \uad11\uc790\ub9e4 OST Part 5",
+        "url": "https://open.spotify.com/album/42XvLkowmHn795bQmpZzFx"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 170933,
+      "name": "\uc88b\uc544\uc11c \uc88b\uc544\ud574",
+      "url": "https://open.spotify.com/track/6Qz0KIyTmj77cjylfKKC3H"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "For you, my sunshine",
+        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "For you, my sunshine",
+      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
+    },
+    {
+      "added_at": "2024-03-08 06:41:37",
+      "album": {
+        "name": "A Perfect Ending",
+        "url": "https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm"
+      },
+      "artists": [
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "A Perfect Ending",
+      "url": "https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

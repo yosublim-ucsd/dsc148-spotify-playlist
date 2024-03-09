@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
+  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Elsa y Elmar.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -758,6 +758,32 @@
       "duration_ms": 185431,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95"
+    },
+    {
+      "album": {
+        "name": "Anaconda",
+        "url": "https://open.spotify.com/album/3lb4aq6k5kru93YO3yDrKm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mart\u00ed",
+          "url": "https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP"
+        },
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        },
+        {
+          "name": "Manu Egu\u00eda",
+          "url": "https://open.spotify.com/artist/3tIkvITvvYa2L6IG9Y7GJY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201023,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/44Qgkt6lXthGoUrdOXde78"
     },
     {
       "album": {
@@ -1646,7 +1672,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 331442,
       "name": "Casida de la Rosa",
       "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
@@ -4534,7 +4560,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 169366,
       "name": "La Bona Regla",
       "url": "https://open.spotify.com/track/0kqc9HOqaPqlE3IFxz4zfI"
@@ -5101,6 +5127,24 @@
     },
     {
       "album": {
+        "name": "Lalal\u00e1",
+        "url": "https://open.spotify.com/album/0YNZSxhbLD6OoUILoPOXtB"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220930,
+      "name": "Lalal\u00e1",
+      "url": "https://open.spotify.com/track/5WehJB7iFEIB2iNj0dgL3g"
+    },
+    {
+      "album": {
         "name": "Las Bestias Que Me Acompa\u00f1an",
         "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
       },
@@ -5539,6 +5583,24 @@
     },
     {
       "album": {
+        "name": "Tatuajes",
+        "url": "https://open.spotify.com/album/3fvGKjp0LTZSwFtDqqtn7L"
+      },
+      "artists": [
+        {
+          "name": "Mayte Martin",
+          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203946,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/0KjihOh3J76yY4su4hW4UI"
+    },
+    {
+      "album": {
         "name": "Lugar donde se florece",
         "url": "https://open.spotify.com/album/6dm2EghgDPv86VVwrBl2N2"
       },
@@ -5814,7 +5876,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 237849,
       "name": "Me dio pelusa",
       "url": "https://open.spotify.com/track/6WWJviEF3oHDbZiWXI9Fu9"
@@ -6352,7 +6414,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 144545,
       "name": "NACE UNA MADRE",
       "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
@@ -6490,6 +6552,24 @@
       "duration_ms": 171898,
       "name": "Negro o Blanco",
       "url": "https://open.spotify.com/track/6fK7BYwuJyLR7EYSPnSCf7"
+    },
+    {
+      "album": {
+        "name": "ni t\u00fa ni yo",
+        "url": "https://open.spotify.com/album/54QpV1YNnLRak4dzeas1ZB"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175203,
+      "name": "ni t\u00fa ni yo",
+      "url": "https://open.spotify.com/track/0kH1Bp0VeWqBenyfzV0alC"
     },
     {
       "album": {
@@ -7136,6 +7216,24 @@
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
+    },
+    {
+      "album": {
+        "name": "papel de fumar",
+        "url": "https://open.spotify.com/album/16MEYDdZd4HA04KPmf2SBo"
+      },
+      "artists": [
+        {
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219143,
+      "name": "papel de fumar",
+      "url": "https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG"
     },
     {
       "album": {
@@ -7898,6 +7996,28 @@
       "duration_ms": 275751,
       "name": "Quien lo dir\u00eda",
       "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
+    },
+    {
+      "album": {
+        "name": "Quiero Mejor",
+        "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183165,
+      "name": "Quiero Mejor",
+      "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
     },
     {
       "album": {
@@ -8938,7 +9058,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 217728,
       "name": "Soy lo que Doy",
       "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
@@ -9438,7 +9558,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 206803,
       "name": "Todo lo que puedo darte",
       "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
@@ -9568,6 +9688,28 @@
       "duration_ms": 153440,
       "name": "Trenca'm",
       "url": "https://open.spotify.com/track/4Xs3rkhvdnGD16th3tYS1N"
+    },
+    {
+      "album": {
+        "name": "Tres Oto\u00f1os (feat. alberto.vela)",
+        "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+        },
+        {
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231877,
+      "name": "Tres Oto\u00f1os (feat. alberto.vela)",
+      "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
     },
     {
       "album": {
@@ -10242,7 +10384,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 111250,
       "name": "Vidalita Andina",
       "url": "https://open.spotify.com/track/2FTYuEJdej8TkFNWkeYxie"

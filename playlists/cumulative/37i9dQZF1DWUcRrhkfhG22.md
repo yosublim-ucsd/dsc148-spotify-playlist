@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-100 songs - 7 hr 27 min
+101 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Break\-Out](https://open.spotify.com/track/27pmnmNu2OOktpgfXqC6Xl) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 5:47 | 2020-09-18 | 2023-04-30 |
 | [Break\-Out](https://open.spotify.com/track/6jkw6ers6QNSIn5lxkp11N) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/7FyxIddviuFxayIXXIl358) | 5:47 | 2020-09-18 |  |
 | [Breathe Deeper](https://open.spotify.com/track/51nYrq1zvDorGijDA0hLC1) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Breathe Deeper](https://open.spotify.com/album/7qkQOjSJbwUzRIFMdvXMQf) | 5:13 | 2022-03-18 |  |
+| [Buzzin'](https://open.spotify.com/track/2xC7f2sO6BxcfrwGdDhych) | [Peyruis](https://open.spotify.com/artist/6qu7S8mXY2eKcqkDEGiGMN) | [Buzzin'](https://open.spotify.com/album/1EKuZHqewkfyejZdsstXn6) | 2:20 | 2024-03-08 |  |
 | [Call Me Up](https://open.spotify.com/track/2JGRHnNYsYsWGFZsAv3uvS) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork: Deluxe Edition](https://open.spotify.com/album/4lPn10rqeU3aSMSApE1Ff8) | 4:11 | 2020-09-18 |  |
 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 | 2020-09-18 |  |
 | [Closer to You](https://open.spotify.com/track/6QrSDXeYLtd67Qv05QekuL) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/04lEKdwK89i6kS8dhZZ54e) | 5:04 | 2020-09-18 | 2022-11-03 |
@@ -84,7 +85,7 @@
 | [Shake It \(Extended\)](https://open.spotify.com/track/7qJ4aBgsLOVtLppmCDjf9w) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6) | 7:03 | 2020-09-18 | 2022-11-21 |
 | [She's drivin me crazy](https://open.spotify.com/track/6ehsvuQU6rrGTKBulK4TDP) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt) | [Sound of Tha Tube](https://open.spotify.com/album/43xWKRfPQtIzXdguOWiXjW) | 3:01 | 2020-09-18 |  |
 | [Show You A Thing Or Two](https://open.spotify.com/track/6KwTEWRdj3zH56wZar0B9o) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:10 | 2020-12-08 |  |
-| [Slow Down](https://open.spotify.com/track/4EVGxsNUEf1hFq4eZXdhtm) | [Chromatiks](https://open.spotify.com/artist/2kgYddab6YcXcoDek1zivO), [Bona Bones](https://open.spotify.com/artist/5gW0xZN1FxeI1Wdi1qY3tN), [Exhel Boladisco](https://open.spotify.com/artist/0jlTWrSGnWuIYJfXQwNMg9) | [Slow Down](https://open.spotify.com/album/4QGqj4P4GD9ABJXcEC6WT1) | 3:25 | 2021-03-12 |  |
+| [Slow Down](https://open.spotify.com/track/4EVGxsNUEf1hFq4eZXdhtm) | [Chromatiks](https://open.spotify.com/artist/2kgYddab6YcXcoDek1zivO), [Bona Bones](https://open.spotify.com/artist/5gW0xZN1FxeI1Wdi1qY3tN), [Exhel Boladisco](https://open.spotify.com/artist/0jlTWrSGnWuIYJfXQwNMg9) | [Slow Down](https://open.spotify.com/album/4QGqj4P4GD9ABJXcEC6WT1) | 3:25 | 2021-03-12 | 2024-03-09 |
 | [So Ruff, so Tuff](https://open.spotify.com/track/3k0Jp5IYHtBeSNKUEOqE0i) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 3:35 | 2020-09-18 |  |
 | [Superman](https://open.spotify.com/track/31XzTmTkP3yQAzCbZ2uz8A) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [The Many Facets Of Roger](https://open.spotify.com/album/2hWMz4KhFIl7Qff82wMEXF) | 4:08 | 2020-09-18 |  |
 | [Talkbox Fever](https://open.spotify.com/track/2g4uko7dEjgIqkUPTiSOQ0) | [Funkmaster Ozone](https://open.spotify.com/artist/34AGOPbiy3xFk6irkjYyuu) | [Westcoast Pioneers](https://open.spotify.com/album/4ozmLwrsmz9GQnkXn4Q9tG) | 6:21 | 2020-09-18 | 2022-11-14 |

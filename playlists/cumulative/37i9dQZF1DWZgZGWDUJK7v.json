@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: (No Office Romance!)\uc0ac\ub0b4\uc5f0\uc560 \uc0ac\uc808!) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: Killer Peter(\ud0ac\ub7ec \ubc30\ub4dc\ub85c))\uc0ac\ub0b4\uc5f0\uc560 \uc0ac\uc808!) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "tracks": [
     {
@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
+        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
+      },
+      "artists": [
+        {
+          "name": "LEESEO",
+          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "MAY LILY",
+      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
+    },
+    {
+      "album": {
         "name": "Meeting (The Moon during the Day) [2023 Remake]",
         "url": "https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g"
       },
@@ -2382,6 +2400,24 @@
       "duration_ms": 200165,
       "name": "Way too young",
       "url": "https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp"
+    },
+    {
+      "album": {
+        "name": "Wego Wego (Killer Peter X Xdinary Heroes) [Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188146,
+      "name": "Wego Wego",
+      "url": "https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt"
     },
     {
       "album": {

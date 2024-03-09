@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmX5LMTOKPw.md) - [plain]
 
 > Our editors' picks for the best hit songs of the year! Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,101 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,086 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmX5LMTOKPw.md) - [plain]
 | 49 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 | 50 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 |
 
-Snapshot ID: `MCw1ZWUyOTE5MjQ5MGFjOTYxNjVlNDZlMzhiOWY5MjBhMTA1MTdlMzM4`
+Snapshot ID: `MCwwN2UyYTg2ZjhhMjcyZWI4MGM1M2I3NWUzODFhZmNkYjM5ZTc2NGM0`

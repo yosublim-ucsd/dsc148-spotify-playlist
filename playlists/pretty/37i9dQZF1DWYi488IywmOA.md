@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 74 | [Y.A.T.O \(You Ain't The One\)](https://open.spotify.com/track/0JXuO3IvoHqhVYvIWyRlNT) | [Malina Moye](https://open.spotify.com/artist/3fPngdGRZMBzFFBf3ql2XK) | [Dirty](https://open.spotify.com/album/7k94nlPDqq4R5tIq1KuWKP) | 3:38 |
 | 75 | [No Lovin’](https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Tell Everybody! \(21st Century Juke Joint Blues From Easy Eye Sound\)](https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD) | 4:17 |
 
-Snapshot ID: `MCwwNWYzNGExMDI3MmQ1ODVjNDY2MThhMmU0NTY2ODEzOTAzYTE3MjBk`
+Snapshot ID: `MCwyMDI2ZGIwMDg2MTRiM2JiNzNlYjE0MmFkNzVkMjBlN2NmMzAyNjUx`

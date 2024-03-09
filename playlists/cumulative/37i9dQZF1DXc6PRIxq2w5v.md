@@ -2,9 +2,9 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: Brunno Ramos, 2metro, BIG THE KIID
+> Entre os versos e beats, a palavra do Senhor\. Foto: Nesk Only
 
-347 songs - 18 hr 9 min
+348 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Fly Away](https://open.spotify.com/track/4KrrTQdb0dgG1C3F9Z5H19) | [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Fly Away](https://open.spotify.com/album/5QLud1buPboMtMHFvNnMSH) | 2:48 | 2023-09-08 | 2023-10-07 |
 | [Fogo](https://open.spotify.com/track/0FwaOYhIwuxTWcXytcwMnn) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Fogo](https://open.spotify.com/album/2Ao3qzY48CWjfjcd8vOhsx) | 2:09 | 2023-04-21 | 2023-05-06 |
 | [Fogo](https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fogo](https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63) | 2:40 | 2022-03-25 |  |
+| [Fogo De Palha](https://open.spotify.com/track/2a4kF4IuTYyQiO043TAQV9) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [Fogo De Palha](https://open.spotify.com/album/2uMACAtkigyR3AQbAJxRxC) | 2:11 | 2024-03-08 |  |
 | [Fundo do Poço](https://open.spotify.com/track/0zIjarjBYBhNTABF3WnsF5) | [Bepê](https://open.spotify.com/artist/7pzwAbIUsONhvIMtwz9o66), [Todah Urban](https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu) | [Fundo do Poço](https://open.spotify.com/album/3GygxRCHmOrUPMk7cyc5ET) | 2:52 | 2023-10-06 | 2023-12-23 |
 | [FÉ & TRABALHO \(feat\. 808 Blood\)](https://open.spotify.com/track/2QiJnzjqM3OnF0OrFKRXoy) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [808 Blood](https://open.spotify.com/artist/3N6BWRJF8GXRZJU37FV1WU) | [FÉ & TRABALHO \(feat\. 808 Blood\)](https://open.spotify.com/album/4QMeIRlAFAqiaCkT0DLTqO) | 2:26 | 2022-06-10 | 2022-06-18 |
 | [God Vem](https://open.spotify.com/track/5fnIy8tlUEBJR7uyCOROY4) | [Doze Project](https://open.spotify.com/artist/5SeJmolJVjYD3OvwBjU5ez), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB), [SevenRxni](https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps) | [God Vem](https://open.spotify.com/album/14rj4ezy5VAkPG1FD4WzGX) | 3:04 | 2022-09-02 | 2023-02-04 |
@@ -217,7 +218,7 @@
 | [Não Tentarás](https://open.spotify.com/track/43MqAg9aHnBxaQjTcfCa9h) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Não Tentarás](https://open.spotify.com/album/4betQllYN8d9WMmkrCzPdp) | 4:08 | 2022-03-22 | 2022-07-02 |
 | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S) | 3:26 | 2022-03-22 | 2023-04-16 |
 | [O Dia Mal](https://open.spotify.com/track/3ezT7uDJtg42lI5lNitsYz) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [A Guerra É Espiritual](https://open.spotify.com/album/78cpp9W0ivUi3GAcTiTR0T) | 3:20 | 2022-11-25 | 2023-01-14 |
-| [O Pai Espera Você Voltar](https://open.spotify.com/track/2zXpfNfPYU3CSJopHCY4uW) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Pai Espera Você Voltar](https://open.spotify.com/album/0BrQP6UrR3NBzDPeW6aQCj) | 4:17 | 2023-05-19 |  |
+| [O Pai Espera Você Voltar](https://open.spotify.com/track/2zXpfNfPYU3CSJopHCY4uW) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Pai Espera Você Voltar](https://open.spotify.com/album/0BrQP6UrR3NBzDPeW6aQCj) | 4:17 | 2023-05-19 | 2024-03-09 |
 | [O Pai Espera Você Voltar](https://open.spotify.com/track/6dlL6wopzZIaF0232y6ZOI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Pai Espera Você Voltar](https://open.spotify.com/album/4BEKkCNmiA6bFIY7BxgIZN) | 4:17 | 2022-03-22 | 2023-05-20 |
 | [O Pecado Te Prometeu](https://open.spotify.com/track/5y7B1Wc64S5ezzFYHEyxAI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Pecado Te Prometeu](https://open.spotify.com/album/6oQHRTiQNmX1tyS38I3yS1) | 4:42 | 2022-08-19 | 2022-10-01 |
 | [O Poder da Oração](https://open.spotify.com/track/0zupX8n1Mf2ehs0zms5lwW) | [Dbruine](https://open.spotify.com/artist/0QpkguUWxW0hiUbsGUcYJA), [MC Barros](https://open.spotify.com/artist/73xNvoQk00vAPyiecLqye2), [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [O Poder da Oração](https://open.spotify.com/album/6KTDgdlHq9AKNoiMs24QGD) | 3:12 | 2023-12-22 | 2024-01-06 |

@@ -688,6 +688,28 @@
     {
       "album": {
         "name": "N\u00e3o Acabou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2X23sNHUxzEsWAKwTGcmWF"
+      },
+      "artists": [
+        {
+          "name": "Alice",
+          "url": "https://open.spotify.com/artist/68jmwIsKnfYj0WJxduQnWZ"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273026,
+      "name": "N\u00e3o Acabou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3rrURU6lLvSUNB0VXMaHMZ"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Acabou (Ao Vivo)",
         "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
       },
       "artists": [

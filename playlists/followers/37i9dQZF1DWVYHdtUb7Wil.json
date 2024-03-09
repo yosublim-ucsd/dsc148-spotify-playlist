@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 528276,
+  "2024-03-09": 528379,
   "date_first_scraped": "2023-06-18",
   "description": "Kick back to these chilled out essentials.",
   "name": "Chilled Hits",
@@ -451,7 +451,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 178410,
       "name": "Come to Bed",
       "url": "https://open.spotify.com/track/75z8eUHzytgo02DPFsRAGB"
@@ -744,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "album": {
         "name": "Godless",
         "url": "https://open.spotify.com/album/4jXORbM0JRfQSNdLZ5yprj"
       },
@@ -795,6 +813,24 @@
       "duration_ms": 174248,
       "name": "GRAVITY",
       "url": "https://open.spotify.com/track/7jK1u0cB8KMCFQEkLqPjnu"
+    },
+    {
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/6Y6vPRTT6n4uMIz3tC4vzp"
+      },
+      "artists": [
+        {
+          "name": "Lilly Carron",
+          "url": "https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq"
     },
     {
       "album": {
@@ -1362,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "losing a friend",
+        "url": "https://open.spotify.com/album/4m9PFXLJbwl88AkZvGyZpL"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214850,
+      "name": "losing a friend",
+      "url": "https://open.spotify.com/track/0Ha1KORr60UQXXi4dZsLLj"
+    },
+    {
+      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF"
       },
@@ -1792,6 +1846,24 @@
     },
     {
       "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP"
+    },
+    {
+      "album": {
         "name": "Rolling Up the Welcome Mat",
         "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
@@ -1843,6 +1915,24 @@
       "duration_ms": 231120,
       "name": "Pointless",
       "url": "https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq"
+    },
+    {
+      "album": {
+        "name": "Quiet Hour",
+        "url": "https://open.spotify.com/album/5doX0j2jQFvwiw3W2DOUoT"
+      },
+      "artists": [
+        {
+          "name": "Ben Hazlewood",
+          "url": "https://open.spotify.com/artist/3DWjEOfsm596u6OdskLe4t"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255889,
+      "name": "Quiet Hour",
+      "url": "https://open.spotify.com/track/7EWeN4imXxSIJo9HfWJXG3"
     },
     {
       "album": {
@@ -1987,6 +2077,24 @@
       "duration_ms": 169881,
       "name": "Scared of Love",
       "url": "https://open.spotify.com/track/3sN0PsHUCr7C2W1G0vOMOY"
+    },
+    {
+      "album": {
+        "name": "Shadow EP",
+        "url": "https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167900,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r"
     },
     {
       "album": {

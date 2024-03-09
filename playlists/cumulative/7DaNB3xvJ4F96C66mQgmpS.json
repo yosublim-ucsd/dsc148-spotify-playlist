@@ -1507,6 +1507,28 @@
     },
     {
       "album": {
+        "name": "Let Me Calm Down (Extended Version)",
+        "url": "https://open.spotify.com/album/5neOV0Pp5J3MY05E6oyaI5"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259528,
+      "name": "Let Me Calm Down (feat. J. Cole) - Extended Version",
+      "url": "https://open.spotify.com/track/0HNZ08vNP0aFR1GsihiV3l"
+    },
+    {
+      "album": {
         "name": "Let You Go (feat. Kareen Lomax & TSHA) [Vibe Chemistry Remix]",
         "url": "https://open.spotify.com/album/37X0Exif037r75MVeNT2jF"
       },

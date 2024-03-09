@@ -2,7 +2,7 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata ❤️ Cover: Prince Royce
+> Tu lista favorita de Bachata ❤️ Cover: Kany García & Young Miko
 
 360 songs - 22 hr 2 min
 

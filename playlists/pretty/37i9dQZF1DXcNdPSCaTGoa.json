@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 53101,
+  "num_followers": 53170,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmI4ZjQ5ZTQ3NDRmYzQ0YmYzMTE0M2U2N2Y1ODUwOTZjN2QzMzQ4",
+  "snapshot_id": "MCxhYjRhMTQwYjI5ZWIwNTdjMWY1Y2RlNjZjMGVjNTQwZWI0YzMwNzhl",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -547,6 +547,26 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "It's Our Game (no need to claim)",
+        "url": "https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt"
+      },
+      "artists": [
+        {
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
+        },
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 286600,
+      "name": "Thobela",
+      "url": "https://open.spotify.com/track/1drh3aU7uJON1xjnGWonCa"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Memeza",
         "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 353266,
       "name": "Special Star",
       "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "It's Our Game (no need to claim)",
-        "url": "https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt"
-      },
-      "artists": [
-        {
-          "name": "Boom Shaka",
-          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
-        },
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 286600,
-      "name": "Thobela",
-      "url": "https://open.spotify.com/track/1drh3aU7uJON1xjnGWonCa"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -775,22 +775,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "African Litany",
-        "url": "https://open.spotify.com/album/5cptRgeHM4SByGORhN5w3t"
+        "name": "Respect Toasted Gona' Ganati",
+        "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
       },
       "artists": [
         {
-          "name": "Johnny Clegg & Juluka",
-          "url": "https://open.spotify.com/artist/1n4XnQOYSixr8f3Is3EV2Q"
+          "name": "Trompies",
+          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
         },
         {
-          "name": "Sipho Mchunu",
-          "url": "https://open.spotify.com/artist/6UdljVDipAuFot91tnnpPc"
+          "name": "Tzozo",
+          "url": "https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2"
         }
       ],
-      "duration_ms": 285853,
-      "name": "Impi",
-      "url": "https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc"
+      "duration_ms": 315653,
+      "name": "Bengim'ngaka",
+      "url": "https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -811,22 +811,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Respect Toasted Gona' Ganati",
-        "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
+        "name": "African Litany",
+        "url": "https://open.spotify.com/album/5cptRgeHM4SByGORhN5w3t"
       },
       "artists": [
         {
-          "name": "Trompies",
-          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
+          "name": "Johnny Clegg & Juluka",
+          "url": "https://open.spotify.com/artist/1n4XnQOYSixr8f3Is3EV2Q"
         },
         {
-          "name": "Tzozo",
-          "url": "https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2"
+          "name": "Sipho Mchunu",
+          "url": "https://open.spotify.com/artist/6UdljVDipAuFot91tnnpPc"
         }
       ],
-      "duration_ms": 315653,
-      "name": "Bengim'ngaka",
-      "url": "https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg"
+      "duration_ms": 285853,
+      "name": "Impi",
+      "url": "https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc"
     },
     {
       "added_at": "2023-01-23 13:10:38",

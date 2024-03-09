@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-856 songs - 2 day 3 hr 59 min
+857 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [5000 Miles](https://open.spotify.com/track/3G5PWGVpzTCliUyJ720qLj) | [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG), [Bodine](https://open.spotify.com/artist/4w6oVQUBewDrvPthS07F4r) | [5000 Miles](https://open.spotify.com/album/3hNaKqqGi9U9CictEEeVrR) | 3:50 | 2021-12-17 | 2022-11-12 |
 | [9910](https://open.spotify.com/track/7FUzB86KZ2vKpDk9wLTFXT) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [9910](https://open.spotify.com/album/1WxWUsmCLB1M1grnwWetf1) | 3:25 | 2023-09-08 |  |
 | [A Big Life](https://open.spotify.com/track/1wC8NewPz9UC2omMzQx78S) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [A Big Life](https://open.spotify.com/album/68B29M8gbUTv0qSTjTIj7Q) | 3:47 | 2022-01-28 | 2023-02-25 |
-| [A Trillion Suns](https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo) | [Daniel Skyver](https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y) | [A Trillion Suns](https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE) | 3:29 | 2024-02-16 |  |
+| [A Trillion Suns](https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo) | [Daniel Skyver](https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y) | [A Trillion Suns](https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE) | 3:29 | 2024-02-16 | 2024-03-09 |
 | [Adagio For Strings](https://open.spotify.com/track/2Ju181y8kKeGQLTwnPNUoN) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Distorted Dreams](https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO) | [Adagio For Strings](https://open.spotify.com/album/35EeesCZ9SKPP3CGsza6AR) | 3:29 | 2023-02-10 |  |
 | [Adeya](https://open.spotify.com/track/36fEaJH2IJYy6MkUSmjrJa) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Adeya](https://open.spotify.com/album/4lMPUKhnqpTAWErS5sVVPm) | 2:42 | 2023-06-09 | 2023-12-09 |
 | [After All These Years](https://open.spotify.com/track/78xuHTyqhxLww1A8UBw87K) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [After All These Years](https://open.spotify.com/album/7p15zKW393QIKqc8R4CWmS) | 2:57 | 2024-01-05 |  |
@@ -216,6 +216,7 @@
 | [Electric Love](https://open.spotify.com/track/1CKS5yZ9XsAesSWW6obPzp) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Electric Love](https://open.spotify.com/album/3IvLlPa2AcBhm6jquZYYpt) | 3:42 | 2021-12-17 | 2023-02-25 |
 | [Elements](https://open.spotify.com/track/6qWyL3wlqjxUbNhwcvlmcG) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf), [Freak E Beatz](https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C) | [Elements](https://open.spotify.com/album/2xxXLUlty5N29185Dcrqxp) | 3:41 | 2023-09-29 |  |
 | [Ellipsis](https://open.spotify.com/track/4ItNI65feNcstJ0IzR8LWa) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Ellipsis](https://open.spotify.com/album/3dy2cumKj5MUB8PYNfruG8) | 3:39 | 2022-07-01 | 2023-04-22 |
+| [Elysium \[Transmission 2024 Theme\]](https://open.spotify.com/track/3tgzSZb9sHfTTmQXEnMpYE) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [Elysium \[Transmission 2024 Theme\]](https://open.spotify.com/album/49bCIw1A3H9YoBYcLemVNi) | 2:38 | 2024-03-08 |  |
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2023-03-03 |  |
 | [Encounter](https://open.spotify.com/track/45oSgCJoDcQcXjxssQPVZg) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [Encounter](https://open.spotify.com/album/2LYnFQKvtPlKp36HCRGuRv) | 3:37 | 2021-12-17 | 2022-02-26 |
 | [End Of Time](https://open.spotify.com/track/5yoFtDZJzZUmptrpnQiXsD) | [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [End Of Time](https://open.spotify.com/album/5swpo2MesNA6V7OBY2orFT) | 3:23 | 2023-01-13 | 2023-05-20 |

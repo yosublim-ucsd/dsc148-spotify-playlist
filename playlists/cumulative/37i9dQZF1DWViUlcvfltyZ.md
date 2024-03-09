@@ -4,7 +4,7 @@
 
 > Novità rock, indie e punk dall'Italia! Cover: clauscalmo\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-800 songs - 1 day 20 hr 22 min
+801 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,8 @@
 | [Lucky Tiger](https://open.spotify.com/track/6t1EdtEDYhXnGi8rBnnxJ6) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [Book Of Hate For Good People](https://open.spotify.com/album/4gr5qXeIHW3uRpYvqBbYSo) | 2:24 | 2022-09-22 | 2022-10-14 |
 | [Lunedì](https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb) | [gazza](https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7) | [Lunedì](https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw) | 2:18 | 2023-05-18 | 2023-11-10 |
 | [MADE OF CLAY \- CE CASCO DENTRO](https://open.spotify.com/track/4NpflKmBSPPQ7YlfMirUFR) | [72\-HOUR POST FIGHT](https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0), [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR), [F4](https://open.spotify.com/artist/7eM8i1h5JXPmPP9uJaMAva) | [MADE OF CLAY \(CE CASCO DENTRO\)](https://open.spotify.com/album/2ouE8GAFrGZiAXBJSDUyg6) | 3:04 | 2023-05-18 | 2023-05-26 |
-| [Magic Dance](https://open.spotify.com/track/1yo3J82F0eXLxcgL3rU9ds) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/5HTAbN7RKryBOWai8r5qJo) | 3:16 | 2024-03-07 |  |
+| [Magic Dance](https://open.spotify.com/track/1yo3J82F0eXLxcgL3rU9ds) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/5HTAbN7RKryBOWai8r5qJo) | 3:16 | 2024-03-07 | 2024-03-09 |
+| [Magic Dance](https://open.spotify.com/track/7yG8T8urv7dRBkOUXCliV6) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/03lwXcAGtJ2QH3AHcxjM4Q) | 3:16 | 2024-03-07 |  |
 | [Magic Youth](https://open.spotify.com/track/2jx79Kt60S82dYqXs71CYg) | [Novanta](https://open.spotify.com/artist/4R7cSzZwMv7sXEuf7kq61Z), [The Sensitive Club](https://open.spotify.com/artist/4RzCXrA5DWoXHdJDTeKkzN) | [Magic Youth](https://open.spotify.com/album/6VtzGcYiDa1TpNJPRI6HaY) | 4:10 | 2023-05-03 | 2023-06-23 |
 | [Magnolia](https://open.spotify.com/track/42jbHb4w0ZiWorhLq6f4Sm) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [LA BAND](https://open.spotify.com/album/6nCZCYTiInJxrYxV93rNNe) | 2:16 | 2024-01-18 | 2024-02-23 |
 | [MAI FATTO 31](https://open.spotify.com/track/0TGw55C85UVvG8DJk7eA9R) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [MAI FATTO 31](https://open.spotify.com/album/1wDCJfXNcg4TetMxtJP8la) | 4:12 | 2023-11-02 | 2023-11-04 |

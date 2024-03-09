@@ -8995,6 +8995,24 @@
     },
     {
       "album": {
+        "name": "HATE ME",
+        "url": "https://open.spotify.com/album/5XlxyRqG5mr7eG6My0QkVT"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI"
+    },
+    {
+      "album": {
         "name": "Missing",
         "url": "https://open.spotify.com/album/23HhTqTaQNZ22OhnRtgrLu"
       },
@@ -16924,6 +16942,24 @@
       "duration_ms": 154000,
       "name": "Whatsinsideyourhead",
       "url": "https://open.spotify.com/track/3HXpRH2rsybwLYg1sCZvC3"
+    },
+    {
+      "album": {
+        "name": "when i met you",
+        "url": "https://open.spotify.com/album/6p9iAXClChpB0alAcWMHL4"
+      },
+      "artists": [
+        {
+          "name": "conscience",
+          "url": "https://open.spotify.com/artist/4SDZGbRR9IjhHG5i3cZEQC"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "when i met you",
+      "url": "https://open.spotify.com/track/309SX04ykf1aJpbk1QBSKn"
     },
     {
       "album": {

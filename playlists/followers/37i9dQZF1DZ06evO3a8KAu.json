@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 46224,
+  "2024-03-09": 46240,
   "date_first_scraped": "2022-06-02",
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
   "name": "This Is Ulices Chaidez",
@@ -1104,6 +1104,28 @@
     },
     {
       "album": {
+        "name": "Si Alg\u00fan D\u00eda Te Encuentro",
+        "url": "https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216503,
+      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
+      "url": "https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR"
+    },
+    {
+      "album": {
         "name": "Si Hay Otra Vida",
         "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
       },
@@ -1115,7 +1137,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 204692,
       "name": "Si Hay Otra Vida",
       "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"

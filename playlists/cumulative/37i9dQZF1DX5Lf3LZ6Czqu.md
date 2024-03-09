@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-135 songs - 10 hr 15 min
+136 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Carefree Summer](https://open.spotify.com/track/1LR6dmXvaKluTM4q3CElzN) | [Jan Cyrka](https://open.spotify.com/artist/1UA7iIS5ui7PypnfhzJjJU), [James Graydon](https://open.spotify.com/artist/6spqPpkPxVBtTSn2LOKnvz), [Alex Hutchings](https://open.spotify.com/artist/1qgI5ZUZuPXqVDylA1vt4j) | [Guitar Heroes](https://open.spotify.com/album/5KqwEjfur240inzWyd32Hu) | 1:39 | 2022-10-11 |  |
 | [Catboy \- Live at the Iridium](https://open.spotify.com/track/6ENVj2YszxhC9QLgwBNkJE) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jason "JT" Thomas](https://open.spotify.com/artist/5sN8E3sVIXfIgkW8rvOutw), [Wes Stephenson](https://open.spotify.com/artist/0su3WUFcvO40NtFuDiaT88), [Daniel Porter](https://open.spotify.com/artist/16uVRYUgf82UOiseOjclwG) | [Catboy \(Live at the Iridium\)](https://open.spotify.com/album/2dig4oAnKv3V2G5fDEZs5x) | 8:09 | 2023-06-23 |  |
 | [Cherry Blossoms](https://open.spotify.com/track/05RLMlOEa3HZn574VsLWxf) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [What Happens Next](https://open.spotify.com/album/03k5c6BMyXdk4D2CE9zOQP) | 4:29 | 2021-05-04 | 2024-01-05 |
+| [Child of Bliss](https://open.spotify.com/track/6Z4liSmJZe9cfeDbROdm25) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Child of Bliss](https://open.spotify.com/album/7qJGXVWUhGsQZeTo48uVz9) | 6:12 | 2024-03-08 |  |
 | [Church of Xotic Dance](https://open.spotify.com/track/66eqvxloPSUswzFxgcyR9d) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Vibe Station](https://open.spotify.com/album/2mfI8M24SEgLZdbNdZowSC) | 7:20 | 2021-05-04 | 2022-10-12 |
 | [Circus Song](https://open.spotify.com/track/0rMZ3nVMzQQGfgtPVgCBlU) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [50 for 50](https://open.spotify.com/album/0u3IA8w2593g2hDgItae3F) | 2:46 | 2021-05-04 |  |
 | [Concrete](https://open.spotify.com/track/6yAnVsBfrw3mf40jBZiQX7) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Power Station](https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy) | 4:54 | 2022-10-11 |  |
@@ -80,7 +81,7 @@
 | [Meteor Shower](https://open.spotify.com/track/7pC3d4gm2YoRqYgG0brbTT) | [The Fusion Syndicate](https://open.spotify.com/artist/3w0iUnjFFyPgi2QW8sXxm1), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p), [Brian Auger](https://open.spotify.com/artist/304senzcXGpWqcpssNpmXJ) | [Meteor Shower](https://open.spotify.com/album/3909cpay4YHvWDe5NCymLk) | 3:36 | 2024-02-07 |  |
 | [Midnight Rain](https://open.spotify.com/track/451BVL5WAcGirIBdOzfRrX) | [Jack Thammarat](https://open.spotify.com/artist/3C8YVJZQ0bIDW3oqZJIq6W) | [Midnight Rain](https://open.spotify.com/album/1bBdAdFpMwYGy3rJcPugpp) | 1:33 | 2021-05-04 |  |
 | [Midnight Sunset](https://open.spotify.com/track/02tkWCsZuGHuvvW0rGTROf) | [Massimo Varini](https://open.spotify.com/artist/7fNVddYBEaAXTKg4lwRJiz) | [Midnight Sunset](https://open.spotify.com/album/0qluTNOPcqmRBZDvVBoHiX) | 3:33 | 2022-07-01 |  |
-| [Moonflower](https://open.spotify.com/track/7bzX29IpQwJFBU1ltxspyl) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Moonflower](https://open.spotify.com/album/1picw4zIfxWxD3pM5Ef56i) | 5:33 | 2024-02-23 |  |
+| [Moonflower](https://open.spotify.com/track/7bzX29IpQwJFBU1ltxspyl) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Moonflower](https://open.spotify.com/album/1picw4zIfxWxD3pM5Ef56i) | 5:33 | 2024-02-23 | 2024-03-09 |
 | [My House Is Green](https://open.spotify.com/track/4bSi283Toy50x9UzZYEaz1) | [Thomas Blug](https://open.spotify.com/artist/5u06pLBt7EpsyZRi2BcV44) | [The Best Of](https://open.spotify.com/album/2nxCuE6pLMbVShn4OZwCoD) | 4:02 | 2021-05-04 |  |
 | [nero](https://open.spotify.com/track/5T5RWyueGVOFIGnIRn81z4) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR) | 6:37 | 2021-05-04 | 2023-06-24 |
 | [Never 4' Ever](https://open.spotify.com/track/1rEuL0pumpLC69dTOWbYFd) | [Yannis Karalis](https://open.spotify.com/artist/2N95xJrQfxdzzVI0P8rmew), [Michaelangelo Niarchos](https://open.spotify.com/artist/0E2JWV6JOuloRzJB0MWLME) | [Never 4' Ever](https://open.spotify.com/album/2pSUGZhWuX5ZILNGcIwklB) | 4:07 | 2023-04-07 |  |

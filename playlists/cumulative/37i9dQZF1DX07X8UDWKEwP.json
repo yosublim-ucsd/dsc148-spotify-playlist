@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Sergio George & Jay Wheeler",
+  "description": "Lo nuevo del mundo tropical. Cover: Gaby Zambrano",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 231397,
       "name": "18",
       "url": "https://open.spotify.com/track/3QeUJezWTKjbkM4PegVqsg"
@@ -1038,6 +1038,28 @@
       "duration_ms": 168184,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
+    },
+    {
+      "album": {
+        "name": "Calumnia",
+        "url": "https://open.spotify.com/album/4vEn1u4njtUh83FAncUiEX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185230,
+      "name": "Calumnia",
+      "url": "https://open.spotify.com/track/2AX7b01Rmdf215GOK3OIF8"
     },
     {
       "album": {
@@ -2401,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "En Otra Cama",
+        "url": "https://open.spotify.com/album/7vUdOpuX16e2IW7L2vc9H2"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227837,
+      "name": "En Otra Cama",
+      "url": "https://open.spotify.com/track/22k8A4wCNKyfpLfzxnL3lo"
+    },
+    {
+      "album": {
         "name": "Encaprichao",
         "url": "https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz"
       },
@@ -3182,7 +3222,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 123954,
       "name": "La Depre",
       "url": "https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t"
@@ -6105,6 +6145,24 @@
     },
     {
       "album": {
+        "name": "Camale\u00f3nica",
+        "url": "https://open.spotify.com/album/1lEuD7jDpzBax13ZBhuMUk"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "SNDA",
+      "url": "https://open.spotify.com/track/0ZVqhn9lLVVj0tcGSVjw3i"
+    },
+    {
+      "album": {
         "name": "Regres\u00f3 el Amor",
         "url": "https://open.spotify.com/album/043YKQDY6ao1dcAAY5X2mA"
       },
@@ -6272,7 +6330,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 169254,
       "name": "Sudor y Calor",
       "url": "https://open.spotify.com/track/1EwICxn8BQxohDdYUe9xIT"

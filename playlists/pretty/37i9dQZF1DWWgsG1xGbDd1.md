@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,933 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,018 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Jericho Skank](https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu) | [Jackie Mittoo & Ernest Ranglin](https://open.spotify.com/artist/3qqbVqjun4ZUlWsjwg8tQq) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:57 |
 | 60 | [Afrikaan Beat](https://open.spotify.com/track/3fFXhwkwFDhcCuEjzm4EqM) | [Lester Sterling](https://open.spotify.com/artist/0bxvspvRBbcpshzQFSqKVv) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:56 |
 
-Snapshot ID: `MCw1MGVmNTExNTI1NGVhOGRiZmQ3MzZkZWQ0NmQxNzJkNzllYzgwZDYy`
+Snapshot ID: `MCwwNjFjYzYwZGM1MTVlNjFmMmU4ZjY1ZTY2YTYyNjczMjYxMjIzZjQ0`

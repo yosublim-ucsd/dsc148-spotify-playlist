@@ -1245,6 +1245,32 @@
     },
     {
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/2mlddzWgsslOC8nyUsNaLH"
+      },
+      "artists": [
+        {
+          "name": "NATH",
+          "url": "https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx"
+        },
+        {
+          "name": "Malaca",
+          "url": "https://open.spotify.com/artist/3pHKREKpBSNUJ9KAgwXAHg"
+        },
+        {
+          "name": "Fomo Jagun",
+          "url": "https://open.spotify.com/artist/1ckaQGnfErMhzrL2RrQXIZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158399,
+      "name": "Me Leva Pra Salvador",
+      "url": "https://open.spotify.com/track/15kvE9e86WFN8ax2wEXbGo"
+    },
+    {
+      "album": {
         "name": "Medida Certa",
         "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
       },
@@ -1264,7 +1290,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 244571,
       "name": "Medida Certa",
       "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
@@ -1400,7 +1426,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 200681,
       "name": "Mo\u00e7ambique",
       "url": "https://open.spotify.com/track/6hwu64dRXsTdzXrS8Z2Pl8"
@@ -2434,6 +2460,24 @@
       "duration_ms": 195555,
       "name": "Tipo a Barbie",
       "url": "https://open.spotify.com/track/2LZpNKfRN6mlC22NlqYJpw"
+    },
+    {
+      "album": {
+        "name": "TocToc",
+        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "TocToc",
+      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
     },
     {
       "album": {

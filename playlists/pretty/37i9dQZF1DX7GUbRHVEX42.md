@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,519 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,588 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 69 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
 | 70 | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/track/2QMRbLnOeCfuGXRZcdJ9if) | [F.Y.A.H.](https://open.spotify.com/artist/4mRKEfgXtRtIWeidQ1JSWV), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC) | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/album/1MUV7xH6xhqAFuVzOuuBNG) | 4:18 |
 
-Snapshot ID: `MCw5NzFlN2MyYThhNWJjMjAyZWIwMmExYTJkNzM3YjA3MDRlNDUxY2U0`
+Snapshot ID: `MCw1YzkyM2NiOTUyNzc0ODI4NTE1ZjlhN2M2NmNkMjc5ZTU1NGQ3ZDNi`

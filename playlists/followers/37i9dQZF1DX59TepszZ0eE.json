@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 57143,
+  "2024-03-09": 57274,
   "date_first_scraped": "2022-10-01",
   "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg?si=I0rZSdqUTwKrOF49ctEZzQ\">Thinah Zungu</a>\n",
   "name": "Sunday Praise",
@@ -43,6 +43,32 @@
       "duration_ms": 300360,
       "name": "Alpha noOmega",
       "url": "https://open.spotify.com/track/5iQ4H7V9qmtuCs0XLZRIp9"
+    },
+    {
+      "album": {
+        "name": "Indumiso yaseStezi",
+        "url": "https://open.spotify.com/album/5Ci8C1GuiWOK5tWQeq2KPd"
+      },
+      "artists": [
+        {
+          "name": "Thinah Zungu",
+          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
+        },
+        {
+          "name": "NUZ VOJ",
+          "url": "https://open.spotify.com/artist/5UKtBCqzTmnzTsYqcwt18O"
+        },
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/3S4LQkYcseGEqdwXe3MWYN"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319837,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
     },
     {
       "album": {

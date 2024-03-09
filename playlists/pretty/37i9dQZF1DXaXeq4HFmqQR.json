@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
-  "num_followers": 13378,
+  "num_followers": 13382,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGMzYzI3NzdjZWZmYTIyMWQ1ODFhZGZmY2Q0NThkYzM1NDBiNDEy",
+  "snapshot_id": "MCwwMDUxNmQ1Njg2MDllZWRmMDFkMjljZDFmZjhmYjMzZmU1ZTE0N2U0",
   "tracks": [
     {
       "added_at": "2024-03-07 22:05:46",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-03-07 22:05:46",
       "album": {
+        "name": "Olv\u00eddame",
+        "url": "https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ"
+      },
+      "artists": [
+        {
+          "name": "Cromantis",
+          "url": "https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1"
+        }
+      ],
+      "duration_ms": 196814,
+      "name": "Olv\u00eddame",
+      "url": "https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy"
+    },
+    {
+      "added_at": "2024-03-07 22:05:46",
+      "album": {
         "name": "aterrizar",
         "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 178285,
       "name": "aterrizar",
       "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
-    },
-    {
-      "added_at": "2024-03-07 22:05:46",
-      "album": {
-        "name": "todo lo que fui",
-        "url": "https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv"
-      },
-      "artists": [
-        {
-          "name": "cata teuber",
-          "url": "https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4"
-        }
-      ],
-      "duration_ms": 212702,
-      "name": "casas de cart\u00f3n",
-      "url": "https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh"
     },
     {
       "added_at": "2024-03-07 22:05:46",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-03-07 22:05:46",
       "album": {
-        "name": "Olv\u00eddame",
-        "url": "https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ"
+        "name": "todo lo que fui",
+        "url": "https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv"
       },
       "artists": [
         {
-          "name": "Cromantis",
-          "url": "https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1"
+          "name": "cata teuber",
+          "url": "https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4"
         }
       ],
-      "duration_ms": 196814,
-      "name": "Olv\u00eddame",
-      "url": "https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy"
+      "duration_ms": 212702,
+      "name": "casas de cart\u00f3n",
+      "url": "https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh"
     },
     {
       "added_at": "2024-03-07 22:05:46",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-07 22:05:46",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0"
-      },
-      "artists": [
-        {
-          "name": "Mamma Soul",
-          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c"
-    },
-    {
-      "added_at": "2024-03-07 22:05:46",
-      "album": {
         "name": "Dunas",
         "url": "https://open.spotify.com/album/6wj89F0gGAMks3pJnlQ6hE"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 244085,
       "name": "Dunas",
       "url": "https://open.spotify.com/track/6Dpo39yzOfHjhM0tGNPT98"
+    },
+    {
+      "added_at": "2024-03-07 22:05:46",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0"
+      },
+      "artists": [
+        {
+          "name": "Mamma Soul",
+          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c"
     },
     {
       "added_at": "2024-03-07 22:05:46",

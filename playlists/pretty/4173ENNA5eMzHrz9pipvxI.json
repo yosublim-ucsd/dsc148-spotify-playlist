@@ -1,35 +1,115 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: A7S x Alok",
-  "num_followers": 120879,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mollie Collins",
+  "num_followers": 120880,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NzQxNCxmMmJhZTQ1M2E3Y2E1MGEzNGJmZGU1YTFmYTUzMjJiYmNlOWY5ZTk2",
+  "snapshot_id": "NzQzNixjOGFhODhlYTI3OTVmZGEzN2NlYjRhMTA1YTVhYzI3ZGQ2OWEyZmM5",
   "tracks": [
     {
-      "added_at": "2024-03-01 15:48:41",
+      "added_at": "2024-03-08 10:25:04",
       "album": {
-        "name": "Monster (with Alok)",
-        "url": "https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX"
+        "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9)",
+        "url": "https://open.spotify.com/album/5GjPpUvdeZzPxFw8eAueIn"
       },
       "artists": [
         {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
         },
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Laurena Volant\u00e9",
+          "url": "https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu"
         }
       ],
-      "duration_ms": 175562,
-      "name": "Monster (with Alok)",
-      "url": "https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed"
+      "duration_ms": 162250,
+      "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9)",
+      "url": "https://open.spotify.com/track/2UXmF5eo4HeqMTERZyceQN"
     },
     {
-      "added_at": "2024-03-01 15:48:41",
+      "added_at": "2024-03-08 10:25:04",
+      "album": {
+        "name": "Speed Of Light",
+        "url": "https://open.spotify.com/album/46pqFSU1F51DWPgiAzP5YX"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Speed Of Light",
+      "url": "https://open.spotify.com/track/1msiK1xlTS55AcuhE644Lx"
+    },
+    {
+      "added_at": "2024-03-08 10:25:04",
+      "album": {
+        "name": "Happy (feat. Tiina)",
+        "url": "https://open.spotify.com/album/7JbXWrz529d0L25gU7yju5"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Tiina",
+          "url": "https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Happy (feat. Tiina)",
+      "url": "https://open.spotify.com/track/3CjdXar5vfq39M06YNwCE0"
+    },
+    {
+      "added_at": "2024-03-08 10:25:04",
+      "album": {
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
+    },
+    {
+      "added_at": "2024-03-08 10:25:04",
+      "album": {
+        "name": "Feel Your Touch",
+        "url": "https://open.spotify.com/album/4Wmge8kAedu9UW80MC1TwL"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Feel Your Touch",
+      "url": "https://open.spotify.com/track/4aC4m2wM7wd1uwY8XtrXq2"
+    },
+    {
+      "added_at": "2024-03-08 10:25:04",
       "album": {
         "name": "It All Makes Sense",
         "url": "https://open.spotify.com/album/7JuKZCWPpuWIuJV9iGlszn"
@@ -49,7 +129,7 @@
       "url": "https://open.spotify.com/track/2mhU9Ca0C834kNZ6PpYIhn"
     },
     {
-      "added_at": "2024-03-01 15:48:41",
+      "added_at": "2024-03-08 10:25:04",
       "album": {
         "name": "Beat Of Your Love (feat. EKKO)",
         "url": "https://open.spotify.com/album/3VC35ELrkknPXWVciLmVu2"
@@ -73,7 +153,47 @@
       "url": "https://open.spotify.com/track/38GLEGOO8XnC74hAMluTme"
     },
     {
-      "added_at": "2024-03-01 15:48:41",
+      "added_at": "2024-03-08 10:25:04",
+      "album": {
+        "name": "Monster (with Alok)",
+        "url": "https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 175562,
+      "name": "Monster (with Alok)",
+      "url": "https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed"
+    },
+    {
+      "added_at": "2024-03-08 10:25:04",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4Ch2r1VGfR8x2uaznYAnlr"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Oomloud",
+          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/2YmJ7GSvltpviGIIatXcZB"
+    },
+    {
+      "added_at": "2024-03-08 10:25:04",
       "album": {
         "name": "High On You (feat. Melissa de Kleine)",
         "url": "https://open.spotify.com/album/3vXWJUG1LRg0ooFeTvobiG"
@@ -93,480 +213,116 @@
       "url": "https://open.spotify.com/track/6CosTVW67ji21V02JFmoi2"
     },
     {
-      "added_at": "2024-03-01 15:48:41",
+      "added_at": "2024-03-08 10:25:04",
       "album": {
-        "name": "Crazy (Robin Schulz Presents KOPPY)",
-        "url": "https://open.spotify.com/album/3X9q2q2XTcMyGP7p76nGID"
+        "name": "Wishlist",
+        "url": "https://open.spotify.com/album/7Aforyi952UxUSb1XrKjzB"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "KOPPY",
-          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
         }
       ],
-      "duration_ms": 155885,
-      "name": "Crazy (Robin Schulz Presents KOPPY)",
-      "url": "https://open.spotify.com/track/3xKMFwysDGJSgXB8Fjj3sX"
+      "duration_ms": 185199,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/1bVmh4lomjgGJf6rHmlt7p"
     },
     {
-      "added_at": "2024-03-01 15:48:41",
+      "added_at": "2024-03-08 10:25:04",
       "album": {
-        "name": "Riverside MF",
-        "url": "https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ"
+        "name": "Finally (Sugar Mode Remix)",
+        "url": "https://open.spotify.com/album/6NLM9b2B7OFuUO4ZMUZjXw"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
         },
         {
-          "name": "Sidney Samson",
-          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
         },
         {
-          "name": "PAJANE",
-          "url": "https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q"
+          "name": "Sugar Mode",
+          "url": "https://open.spotify.com/artist/2yekSSf13aXocrgTpPueTg"
         }
       ],
-      "duration_ms": 155146,
-      "name": "Riverside MF",
-      "url": "https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam"
+      "duration_ms": 151764,
+      "name": "Finally - Sugar Mode Remix",
+      "url": "https://open.spotify.com/track/69dOIA36zAN0sodLFJakPp"
     },
     {
-      "added_at": "2024-03-01 15:48:41",
+      "added_at": "2024-03-08 10:25:04",
       "album": {
-        "name": "Physique (feat. RBZ)",
-        "url": "https://open.spotify.com/album/3HfqZWOX6nEQruLMy7eKuQ"
+        "name": "Us (What About)",
+        "url": "https://open.spotify.com/album/3PEjdyGOrGVMMH6nAUcM8F"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Us (What About)",
+      "url": "https://open.spotify.com/track/06oAzRyGawRparvGWs6Or5"
+    },
+    {
+      "added_at": "2024-03-08 10:25:04",
+      "album": {
+        "name": "MORNING",
+        "url": "https://open.spotify.com/album/0ye9pq49yrh7Am5yB8T7Fp"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "MORNING",
+      "url": "https://open.spotify.com/track/4h6PzI2Fbo5z4QXOHnsCWo"
+    },
+    {
+      "added_at": "2024-03-08 10:25:04",
+      "album": {
+        "name": "Voidwalker",
+        "url": "https://open.spotify.com/album/5PITAVHWbQmHVNmQW45bJf"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Puma",
+          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+        }
+      ],
+      "duration_ms": 185629,
+      "name": "Voidwalker",
+      "url": "https://open.spotify.com/track/7f5UNraZZkf8zzPDNZ8a39"
+    },
+    {
+      "added_at": "2024-03-08 10:25:04",
+      "album": {
+        "name": "Side2Side (feat. Kris Kiss)",
+        "url": "https://open.spotify.com/album/0XkB0bCvalhDWuiG5Cqdnr"
+      },
+      "artists": [
+        {
+          "name": "Bonka",
+          "url": "https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF"
         },
         {
-          "name": "MEARSY",
-          "url": "https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1"
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
         },
         {
-          "name": "RBZ",
-          "url": "https://open.spotify.com/artist/0N8FWEeRuJWy44GpQREmdL"
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
         }
       ],
-      "duration_ms": 178130,
-      "name": "Physique (feat. RBZ)",
-      "url": "https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Stompin' (Friendly Fire Remix)",
-        "url": "https://open.spotify.com/album/1lQk3JKq0iz3u8PO8ckF5l"
-      },
-      "artists": [
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        },
-        {
-          "name": "Friendly Fire",
-          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
-        }
-      ],
-      "duration_ms": 162045,
-      "name": "Stompin' (Friendly Fire Remix)",
-      "url": "https://open.spotify.com/track/1KrqHhPJFuN9RNqNycwUdx"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "QUestion",
-        "url": "https://open.spotify.com/album/1e74XaGBqYUCBWVD4ICBrl"
-      },
-      "artists": [
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Sean Brauer",
-          "url": "https://open.spotify.com/artist/3tWo5rm9u9HqlY9suIwNZ0"
-        }
-      ],
-      "duration_ms": 219677,
-      "name": "QUestion",
-      "url": "https://open.spotify.com/track/0Q6WTnr87Omg6bZS6NTf6f"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Kiss Like This",
-        "url": "https://open.spotify.com/album/2nIzPuYTBVinbnuKUDc3Uh"
-      },
-      "artists": [
-        {
-          "name": "ShortRound",
-          "url": "https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK"
-        },
-        {
-          "name": "KROMI",
-          "url": "https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "Kiss Like This",
-      "url": "https://open.spotify.com/track/6X9F9ozJlTd40tJIkeZeeV"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Someone",
-        "url": "https://open.spotify.com/album/7A7G7B4XKHKoSbL6m1ubYg"
-      },
-      "artists": [
-        {
-          "name": "Viv Castle",
-          "url": "https://open.spotify.com/artist/36dY5pyTYB2hHWaY74Jiaa"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/4M2gxdpPagT2OfwZTvgFth"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Om Tare (feat. Markus Wach)",
-        "url": "https://open.spotify.com/album/54R58lya0FwLhmEMdnBnif"
-      },
-      "artists": [
-        {
-          "name": "BakuBoy & Austin Blake",
-          "url": "https://open.spotify.com/artist/26afvz5CUjIiv1DrD2xc6O"
-        },
-        {
-          "name": "Markus Wach",
-          "url": "https://open.spotify.com/artist/4Wv02jDIYmi1wuhtilfZKG"
-        }
-      ],
-      "duration_ms": 180015,
-      "name": "Om Tare (feat. Markus Wach)",
-      "url": "https://open.spotify.com/track/1PCyUZMKyBI22zIShLo2qr"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Yo Quiero Una Nena (Jes\u00fas Fern\u00e1ndez Remix)",
-        "url": "https://open.spotify.com/album/2ZcCaGgc2oLW5RWdnTrUfu"
-      },
-      "artists": [
-        {
-          "name": "Daveartt",
-          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
-        },
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Yo Quiero Una Nena (Jes\u00fas Fern\u00e1ndez Remix)",
-      "url": "https://open.spotify.com/track/1y8MeXmtqgqZ1pqg8TQKsd"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Hood To The Hills",
-        "url": "https://open.spotify.com/album/3Py45dN2PGVXuEUdniiOhX"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 196938,
-      "name": "Hood To The Hills",
-      "url": "https://open.spotify.com/track/6Kipu6y1dNwNrP3dvlw7Q9"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Best Thing (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/1le9RxUAB0Pwv8e1wJNadG"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 144387,
-      "name": "Best Thing (Sonny Wern Remix)",
-      "url": "https://open.spotify.com/track/48jcfIa26aL4f8DxmIgNze"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Best Thing (THNDERZ Remix)",
-        "url": "https://open.spotify.com/album/2o9ywXvHdB5s6WMIZPAcvF"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "THNDERZ",
-          "url": "https://open.spotify.com/artist/4rCSOIelSj4xsI1Zo5WM23"
-        }
-      ],
-      "duration_ms": 136727,
-      "name": "Best Thing (THNDERZ Remix)",
-      "url": "https://open.spotify.com/track/3n7eGaNMcYT3sAK1mq4jtO"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Best Thing (Ookay Remix)",
-        "url": "https://open.spotify.com/album/2opphly3r07PFASpEKxXam"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        }
-      ],
-      "duration_ms": 172435,
-      "name": "Best Thing (Ookay Remix)",
-      "url": "https://open.spotify.com/track/74rfuKHlzDShJjxrVqfpxy"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "We Love You Maxi (feat. Tom Coronel)",
-        "url": "https://open.spotify.com/album/7KpEgxyeWMo0eKD9uTGm0k"
-      },
-      "artists": [
-        {
-          "name": "Maxx Power",
-          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
-        },
-        {
-          "name": "Carte Blanq",
-          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
-        },
-        {
-          "name": "Pitstop Boys",
-          "url": "https://open.spotify.com/artist/24UwzhsMtaOjBOL6483Jr6"
-        },
-        {
-          "name": "Tom Coronel",
-          "url": "https://open.spotify.com/artist/1HP85pXgXcJfuek5uAtzKl"
-        }
-      ],
-      "duration_ms": 165204,
-      "name": "We Love You Maxi (feat. Tom Coronel)",
-      "url": "https://open.spotify.com/track/0mA8IopRMlD9tYS5QbWjpC"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "We House U",
-        "url": "https://open.spotify.com/album/1XU0Z54SlEYhHtRv4lLacl"
-      },
-      "artists": [
-        {
-          "name": "P\u00d8P CULTUR",
-          "url": "https://open.spotify.com/artist/7lxjUMVAHwmzzPATtuEB9m"
-        }
-      ],
-      "duration_ms": 167638,
-      "name": "We House U",
-      "url": "https://open.spotify.com/track/15sHpP61Dht32ezVKBrtPg"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Freak In The Weekend",
-        "url": "https://open.spotify.com/album/5nLLM6BAWl88JPwlGcVMjo"
-      },
-      "artists": [
-        {
-          "name": "BURNR",
-          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Freak In The Weekend",
-      "url": "https://open.spotify.com/track/6DePSYDCW0ujpW5cUEVqoM"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Keep It Real",
-        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "ARIA",
-          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
-        }
-      ],
-      "duration_ms": 142322,
-      "name": "Keep It Real",
-      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Vamo Que Vamo",
-        "url": "https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Vamo Que Vamo",
-      "url": "https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/5mQaSzlFbbTR1XgxBuJJJL"
-      },
-      "artists": [
-        {
-          "name": "Dannic",
-          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/68SvGw2QuLY9eZ3pN07DDp"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Falling Behind",
-        "url": "https://open.spotify.com/album/7z8vTKugHIPvZ8hFIk5DaH"
-      },
-      "artists": [
-        {
-          "name": "MLA",
-          "url": "https://open.spotify.com/artist/34WF6tDTxrlmI6SaRPWvES"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Falling Behind",
-      "url": "https://open.spotify.com/track/7aXbpW2ne3zplMuSbl6Njm"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Dreams (feat. Emma Wells)",
-        "url": "https://open.spotify.com/album/6zujaO8gXxl9evT3snA8fd"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Maurice Lessing",
-          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
-        },
-        {
-          "name": "Emma Wells",
-          "url": "https://open.spotify.com/artist/3ChhgHO30YBZB8X7kyligx"
-        }
-      ],
-      "duration_ms": 211038,
-      "name": "Dreams (feat. Emma Wells)",
-      "url": "https://open.spotify.com/track/0ZMdztbo0EmGVZDzMAGsA2"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Flying High (feat. Roddy)",
-        "url": "https://open.spotify.com/album/5znhutJOyvcwcipWZE7alI"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Boombastix",
-          "url": "https://open.spotify.com/artist/76BPdrcLmLPm8lz0lakeaj"
-        },
-        {
-          "name": "Roddy",
-          "url": "https://open.spotify.com/artist/3M85D4bHEadOIVyGMXo4uW"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "Flying High (feat. Roddy)",
-      "url": "https://open.spotify.com/track/2Y7LhlDfAWqTJ35Qzi0Hka"
-    },
-    {
-      "added_at": "2024-03-01 15:48:41",
-      "album": {
-        "name": "Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/3KnpNfHUGS8LGKMBPcTQ1h"
-      },
-      "artists": [
-        {
-          "name": "Sunstars",
-          "url": "https://open.spotify.com/artist/37obY6KAyQrGu95SqzKJlu"
-        }
-      ],
-      "duration_ms": 137566,
-      "name": "Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/5VjgPAhUOkHa7URYAHLSfa"
+      "duration_ms": 117996,
+      "name": "Side2Side (feat. Kris Kiss)",
+      "url": "https://open.spotify.com/track/4fW6SaZcLGqorpZ8iORrNt"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

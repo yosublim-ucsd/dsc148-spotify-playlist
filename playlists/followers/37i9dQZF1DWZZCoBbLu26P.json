@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 85569,
+  "2024-03-09": 85583,
   "date_first_scraped": "2021-12-21",
   "description": "Queens everywhere - givin' us life. Cover: Tia Kofi",
   "name": "Fierce",
@@ -1467,7 +1467,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 201904,
       "name": "Low",
       "url": "https://open.spotify.com/track/0UoAFuSMQthMwieDb51kWK"
@@ -1493,6 +1493,28 @@
       "duration_ms": 201904,
       "name": "Low",
       "url": "https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Oz (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0q47BS9UDLRoiwt21bFDN5"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        },
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/40q88kWlykVtPinTNNqUNu"
     },
     {
       "album": {
@@ -2645,7 +2667,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 158222,
       "name": "Wrong Bitch",
       "url": "https://open.spotify.com/track/1ekxUJlU9cZO6Lsi7qyGNK"
@@ -2671,6 +2693,28 @@
       "duration_ms": 158222,
       "name": "Wrong Bitch",
       "url": "https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Oz",
+        "url": "https://open.spotify.com/album/5MtH46oqfwnVRoT0lYEqHG"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        },
+        {
+          "name": "Bob the Drag Queen",
+          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158222,
+      "name": "Wrong Bitch",
+      "url": "https://open.spotify.com/track/6lt73YPD4u5ZSjAtCG1vTt"
     },
     {
       "album": {

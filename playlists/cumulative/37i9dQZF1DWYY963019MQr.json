@@ -1086,10 +1086,28 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 228010,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/1Y2z2AZ25yiHNUK523QNBW"
+    },
+    {
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/2MJFpIUmawfun460U8TPDr"
+      },
+      "artists": [
+        {
+          "name": "H\u00f6per & Lundgren",
+          "url": "https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228010,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/4tXm4EZDDDWGZVbscYKDYy"
     },
     {
       "album": {

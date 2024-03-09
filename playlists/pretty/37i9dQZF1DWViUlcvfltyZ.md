@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Novità rock, indie e punk dall'Italia! Cover: clauscalmo\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,121 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,122 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 24 | [Goodbye Day](https://open.spotify.com/track/13quVqm79P4GypDiKrXVFP) | [A Toys Orchestra](https://open.spotify.com/artist/05Z2LDnNWKPgdeYe8kngbf) | [Goodbye Day](https://open.spotify.com/album/27xtAJqG7700XKiDK0c5FO) | 3:43 |
 | 25 | [Memory](https://open.spotify.com/track/0HH0MNrEF5hzFjEWmbEHaP) | [Tiger! Shit! Tiger! Tiger!](https://open.spotify.com/artist/4bDMgWpIKWkL8HIVGzx6ed) | [Bloom](https://open.spotify.com/album/668NDGomX3g2cXYwOsAjcm) | 5:47 |
 | 26 | [COME ANDARSENE](https://open.spotify.com/track/3O8PZ08HavWByUcDhWYwMp) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [MANUALE DEL PICCOLO INGRATO](https://open.spotify.com/album/1veWcfaKTKVpjYRbhvLUBD) | 2:53 |
-| 27 | [Magic Dance](https://open.spotify.com/track/1yo3J82F0eXLxcgL3rU9ds) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/5HTAbN7RKryBOWai8r5qJo) | 3:16 |
+| 27 | [Magic Dance](https://open.spotify.com/track/7yG8T8urv7dRBkOUXCliV6) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/03lwXcAGtJ2QH3AHcxjM4Q) | 3:16 |
 | 28 | [PMA](https://open.spotify.com/track/5MKMkf5WZxgWTGkR38h24O) | [LVCRIME](https://open.spotify.com/artist/7hDsXbBLPQU2T0R3TZU6ez), [Positive](https://open.spotify.com/artist/5gTEF9XXWhko4kb8kvYUi6) | [PMA](https://open.spotify.com/album/4yczQQEJ78o43psH1AmYTO) | 3:01 |
 | 29 | [VOLA](https://open.spotify.com/track/05kj7au8U7M6tXLcIJpP3x) | [ELETTRICA](https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa) | [VOLA](https://open.spotify.com/album/1KJh3oheOSjNsDEM4LdDkw) | 2:53 |
 | 30 | [Fascicolo](https://open.spotify.com/track/4Fcx1JUbfBCJXa1y6NTvvL) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Fascicolo](https://open.spotify.com/album/15HdBdKwZhIzxV6TyOZw6o) | 2:42 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 84 | [Giacomo](https://open.spotify.com/track/5MCkJvZ5zhCGQGO49xPro3) | [La Municipàl](https://open.spotify.com/artist/1wQ8rxWLB8fPUHx49l3q5L) | [Giacomo](https://open.spotify.com/album/4rCkIYBExjKDFT15pH3kBn) | 3:27 |
 | 85 | [La Band](https://open.spotify.com/track/72a2Fjwg7RJVuZ16k8ejEh) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [La Band](https://open.spotify.com/album/1kuoOXI6qZkrloDJIi02U1) | 3:06 |
 
-Snapshot ID: `MCxiNGNlN2UxY2I0MGU5NWI4YzVjOGU5M2Y3MDk1NzQ3OGNlNThhMWJm`
+Snapshot ID: `MCxiYWUzMDE1YTk5NmMxYWI0ODc4MzczOTg5MjQwZDU2OGM0Y2Q1MDFl`

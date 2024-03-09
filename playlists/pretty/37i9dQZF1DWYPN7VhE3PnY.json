@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: CHVRCHES\n",
-  "num_followers": 29582,
+  "num_followers": 29599,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2FjZWUyZDJhMDBkYTI0MjhlNDM1ZDUzNGU0ZTdhZGVmMGQwZWY2",
+  "snapshot_id": "MCwyMmRlNjJhZTQ5OWQ2NzM3YmMyOTI5OWJlMGMxMDYxYjY4NWEwODRk",
   "tracks": [
     {
       "added_at": "2024-03-04 16:08:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
-        "name": "Antichrist / Room Service",
-        "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 200911,
-      "name": "Antichrist",
-      "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
-    },
-    {
-      "added_at": "2024-03-04 16:08:51",
-      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 204306,
       "name": "OctaHate",
       "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
+    },
+    {
+      "added_at": "2024-03-04 16:08:51",
+      "album": {
+        "name": "Antichrist / Room Service",
+        "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 200911,
+      "name": "Antichrist",
+      "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
     },
     {
       "added_at": "2024-03-04 16:08:51",

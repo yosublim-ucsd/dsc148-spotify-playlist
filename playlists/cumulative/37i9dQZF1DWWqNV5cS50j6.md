@@ -4,7 +4,7 @@
 
 > The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
 
-1,611 songs - 3 day 5 hr 34 min
+1,614 songs - 3 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [ANTIGRAVITY](https://open.spotify.com/track/3vS4mbVxt9cOpaxtV2uZNr) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [VISUALS \(DELUXE\)](https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ) | 1:53 | 2022-08-26 | 2022-11-09 |
 | [anymore](https://open.spotify.com/track/7AJZthxqKgdpNmoeo0QSwV) | [Grace Sanders](https://open.spotify.com/artist/2aDcf64iS2QBTPjBKkkBBL) | [anymore](https://open.spotify.com/album/7l5LuCySWubSnrRV7P7doi) | 4:39 | 2022-04-15 | 2022-06-18 |
 | [Apartment A](https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Apartment A](https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx) | 3:12 | 2024-02-02 |  |
+| [Aphid \(feat\. Dijon\)](https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Aphid \(feat\. Dijon\)](https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc) | 2:45 | 2024-03-08 |  |
 | [Archon](https://open.spotify.com/track/0MlrPAiB0PtE5VOrZ8PuAs) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 2:56 | 2022-05-09 | 2022-07-19 |
 | [Archon](https://open.spotify.com/track/3AmPOosncyUct6bfI4vQdL) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/5oMbK3bD68FOMhQm9Rts6z) | 2:56 | 2022-10-25 | 2024-01-10 |
 | [Archon](https://open.spotify.com/track/6fMWYAVmr6SVyt6vsxetYF) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Archon](https://open.spotify.com/album/28f8Dn5kYQQKmUoJx74V0Y) | 2:56 | 2021-10-01 | 2022-05-10 |
@@ -144,7 +145,7 @@
 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 | 2022-09-10 | 2022-11-10 |
 | [Been Away](https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:43 | 2020-10-13\* | 2020-11-03 |
 | [Belong](https://open.spotify.com/track/5BHVCWxWlSioC7ASxSyLsV) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Belong](https://open.spotify.com/album/0JH3NgJkj2IKNxHpiK0wLh) | 3:06 | 2022-10-25 | 2022-12-01 |
-| [Bender](https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Bender](https://open.spotify.com/album/2jVuesqx0nwRmf3us1GMIk) | 3:09 | 2023-06-02 |  |
+| [Bender](https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Bender](https://open.spotify.com/album/2jVuesqx0nwRmf3us1GMIk) | 3:09 | 2023-06-02 | 2024-03-09 |
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-04-17 | 2022-02-26 |
 | [better](https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [better](https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO) | 3:10 | 2022-04-01 | 2022-04-09 |
 | [Better Days](https://open.spotify.com/track/3ljga3HUiAH6jBZ6FTbSSp) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [FENGSEL](https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq) | [Better Days](https://open.spotify.com/album/4qzFpBw5XFOcy2a76DDwQK) | 2:33 | 2023-06-23 | 2023-07-22 |
@@ -466,7 +467,7 @@
 | [Feel Like](https://open.spotify.com/track/2dx4NA5EVXaYFlYqlFK3as) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Feel Like](https://open.spotify.com/album/3YFOnhb8l2mF3sCcQeSXSY) | 2:50 | 2022-11-08 | 2023-03-22 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2021-11-04 | 2022-03-01 |
 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 | 2023-08-18 |  |
-| [FEVER](https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:10 | 2023-09-08 |  |
+| [FEVER](https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:10 | 2023-09-08 | 2024-03-09 |
 | [Fever Dream](https://open.spotify.com/track/0txlDJFyFsaJUmIyepnlbw) | [Dutchess](https://open.spotify.com/artist/3bVJut6HXzKIShxCFKK394) | [Fever Dream](https://open.spotify.com/album/6iJ1IBlwrBFUgK5wK06a3a) | 2:09 | 2023-08-18 | 2023-11-08 |
 | [Fiire](https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Fiire](https://open.spotify.com/album/5vynu58xVb4kxmlQsF913s) | 3:37 | 2021-03-14 | 2022-02-12 |
 | [FIND ME](https://open.spotify.com/track/2jqV4ATkjFNyLN2L5WtmUJ) | [burningforestboy](https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M) | [STARSCREAM](https://open.spotify.com/album/1KT10bvDi0UODxLMZjTVld) | 2:10 | 2022-04-01 | 2022-07-01 |
@@ -654,6 +655,7 @@
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2021-06-25 |  |
 | [Honest](https://open.spotify.com/track/2SdrULTlhZ1y4ZGyBBrUir) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Honest](https://open.spotify.com/album/3j52LXbvg0xu9klXBamLCZ) | 3:19 | 2022-10-25 | 2023-11-08 |
 | [Honest](https://open.spotify.com/track/7D43qtE2NSNZOZ9NTYWM0X) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Honest](https://open.spotify.com/album/6izPzxURr7qQhbauoNlfyB) | 3:19 | 2022-04-01 | 2022-05-14 |
+| [honey, i'm home](https://open.spotify.com/track/5kSmEV24v9UDWXMO2NZdIG) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [honey i'm home](https://open.spotify.com/album/0SQs9fGTyqCxiw5mgrR7bZ) | 2:30 | 2024-03-08 |  |
 | [Honeybee](https://open.spotify.com/track/06TxOSlNi4nU2XbNFiJH7P) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Honeybee](https://open.spotify.com/album/2zTKemOW4lZ9aP6TJK23AE) | 2:08 | 2021-05-22 | 2021-10-16 |
 | [hope again](https://open.spotify.com/track/0hUQDprXV6oRkLcXiU06cx) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [hope again](https://open.spotify.com/album/6ObKK47PzwzuhBmnUqnM7y) | 2:42 | 2020-10-13\* | 2021-02-27 |
 | [Hope It's Not](https://open.spotify.com/track/3L42aM6tcSceGg7qGPHGKY) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Hope It's Not](https://open.spotify.com/album/2USkXE4xBKBL0K5cV2LK7B) | 2:42 | 2021-07-24 | 2021-10-16 |
@@ -1102,7 +1104,7 @@
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2022-05-27 | 2022-06-18 |
 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 | 2022-11-30 | 2023-02-15 |
 | [Pretty](https://open.spotify.com/track/6IVSY2DDjkH7J3TYLoQVZ7) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/7zBY4wnOahepVJdXRqxJlv) | 1:40 | 2023-06-30 | 2023-07-16 |
-| [Pretty](https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8) | 1:40 | 2023-06-30 |  |
+| [Pretty](https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8) | 1:40 | 2023-06-30 | 2024-03-09 |
 | [PRETTY](https://open.spotify.com/track/6n3EY5Z8cC3CJLoBk3z7Ff) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [BOY](https://open.spotify.com/album/0Vau5zitoLgqTvG0FAZUjH) | 2:55 | 2022-07-22 | 2022-11-09 |
 | [Pretty Lies](https://open.spotify.com/track/3Nj6EiDM8LknYtZvzJGTLs) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 3:08 | 2022-02-22 | 2022-04-10 |
 | [pretty photos](https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [it was nice knowing u](https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT) | 2:56 | 2023-11-17 |  |
@@ -1276,6 +1278,7 @@
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-23 | 2021-10-16 |
 | [Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:54 | 2023-03-03 |  |
 | [SORE](https://open.spotify.com/track/6R14BaW5Y3KGmlX68pkTbl) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [SORE](https://open.spotify.com/album/0X7rdj2hW0RtyIhRI7alGN) | 2:58 | 2022-03-30 | 2022-07-01 |
+| [Sore Throat](https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy Pt\. 2](https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG) | 2:55 | 2024-03-08 |  |
 | [sorry](https://open.spotify.com/track/3vAi1U6UfWgxkax9IzKGts) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [things i wanna text u](https://open.spotify.com/album/5893KtZcBOjUaqo1RuoRGt) | 3:11 | 2023-05-26 | 2023-07-22 |
 | [Sorry](https://open.spotify.com/track/4dN2Z5ncmkmOhzsaoqDHtS) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v), [Petite League](https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4) | [Keep It Simple, Stupid!](https://open.spotify.com/album/31T0jT90WLFd2SQecMTrD9) | 3:06 | 2022-06-17 | 2022-11-05 |
 | [SOULCRUSHER](https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SOULCRUSHER](https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC) | 2:51 | 2024-02-13 |  |

@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-252 songs - 15 hr 34 min
+253 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Eternal Blues](https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6) | [Aubrey Haynie](https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S) | [A Man Must Carry On](https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c) | 5:29 | 2021-12-03 |  |
 | [Fall Creek Falls](https://open.spotify.com/track/3oCvqK23kHOETKauiNz3rc) | [Jim Van Cleve](https://open.spotify.com/artist/3LW2QyNwf0Q4FxiqFnkbBd) | [No Apologies](https://open.spotify.com/album/01D8OSLX1pqnyFFxNLV68H) | 4:24 | 2021-12-03 | 2022-07-29 |
 | [Fall Creek Falls](https://open.spotify.com/track/31OASoQ8HPlyFG5vw2jtQs) | [Jim Vancleve](https://open.spotify.com/artist/3X65bj5nJ6AUMp2hymccdR) | [No Apologies](https://open.spotify.com/album/6xFyECGZSqq5HSJr1iHCdT) | 4:24 | 2022-07-22 | 2022-11-11 |
+| [Ferris Wheel](https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Eli Broxham](https://open.spotify.com/artist/1TgFBajZtGKOwhEONz9n8G), [Frank Evans](https://open.spotify.com/artist/1sOuG3dLwdgmh53W0NPaGO), [John Mailander](https://open.spotify.com/artist/4MYqkPU4l4Gpohaub6mGFr) | [Ferris Wheel](https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV) | 3:44 | 2024-03-08 |  |
 | [Fiddler's Dream](https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [Fiddler's Dream](https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG) | 3:37 | 2021-12-03 |  |
 | [Fiddler's Dream](https://open.spotify.com/track/69iYUGQUEblPnaPIpR6vjS) | [Rob Ickes](https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd), [Blue Highway](https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd) | [Bluegrass Number 1's](https://open.spotify.com/album/465KUMFbuTnXJd2WqxYCyY) | 2:18 | 2021-12-03 | 2022-05-18 |
 | [Finch In The Pantry](https://open.spotify.com/track/3A9Ko23awcO4gL0a9RTesh) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Finch In The Pantry](https://open.spotify.com/album/3GNgRPzfWWQ6UAkcYzTTvg) | 3:51 | 2021-12-03 | 2022-09-10 |
@@ -205,7 +206,7 @@
 | [Squareneck Soul](https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z) | [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Squareneck Soul](https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY) | 2:29 | 2023-08-25 |  |
 | [Squirrel of Possibility](https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Ahoy!](https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8) | 2:44 | 2021-12-03 |  |
 | [Squirrelville](https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv) | [Tony Furtado](https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt) | [Squirrelville](https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh) | 4:41 | 2021-12-03 |  |
-| [Stoney Lonesome](https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Noam Pikelny Plays Kenny Baker Plays Bill Monroe](https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP) | 3:41 | 2021-12-03 |  |
+| [Stoney Lonesome](https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Noam Pikelny Plays Kenny Baker Plays Bill Monroe](https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP) | 3:41 | 2021-12-03 | 2024-03-09 |
 | [Su Prabhat](https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN) | [The Greencards](https://open.spotify.com/artist/5aC3wjbpR5fL6qBGlM2u7S) | [Viridian](https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2) | 2:06 | 2021-12-03 |  |
 | [Sun and Water \(Here Comes the Sun/Waters of March\)](https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Sun and Water \(Here Comes the Sun/Waters of March\)](https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh) | 3:34 | 2023-03-17 |  |
 | [Susan's Gone](https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM) | [Dirk Powell](https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG) | [Appalachian Picking Society](https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg) | 3:44 | 2021-12-03 |  |

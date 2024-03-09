@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 70048,
+  "num_followers": 70078,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWQ0YWMwODkwYjc0NDRmOGMyMzhkMDNiMWU2MjgzZjNhYzhhNWI3",
+  "snapshot_id": "MCw1NTM0YTlmODRlOGRjZjM3MzY3ZDA3ZjQ5MDE4NjY1MjU5YWY3NjVj",
   "tracks": [
     {
       "added_at": "2024-03-07 08:07:19",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "The Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 281986,
-      "name": "Hoe Down",
-      "url": "https://open.spotify.com/track/3k7MPapSDy9kSWuhvXxP3c"
-    },
-    {
-      "added_at": "2024-03-07 08:07:19",
-      "album": {
         "name": "Just Coolin'",
         "url": "https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 400446,
       "name": "Hipsippy Blues",
       "url": "https://open.spotify.com/track/3iFlfQ0CXc9URaAvai8VUe"
+    },
+    {
+      "added_at": "2024-03-07 08:07:19",
+      "album": {
+        "name": "The Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 281986,
+      "name": "Hoe Down",
+      "url": "https://open.spotify.com/track/3k7MPapSDy9kSWuhvXxP3c"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+        "name": "Buhaina's Delight (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 414466,
-      "name": "Charcoal Blues - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
+      "duration_ms": 358440,
+      "name": "Backstage Sally - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Buhaina's Delight (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9"
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
         }
       ],
-      "duration_ms": 358440,
-      "name": "Backstage Sally - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f"
+      "duration_ms": 414466,
+      "name": "Charcoal Blues - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
+        "name": "The Big Beat (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 385573,
+      "name": "Lester Left Town - Remastered 2005",
+      "url": "https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V"
+    },
+    {
+      "added_at": "2024-03-07 08:07:19",
+      "album": {
         "name": "Bluesnik (Remastered/ Expanded Edition)",
         "url": "https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Finger Poppin' (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
-        }
-      ],
-      "duration_ms": 330733,
-      "name": "Come On Home - Rudy Van Gelder Edition / Remastered",
-      "url": "https://open.spotify.com/track/5yz1LGqKaMSUqJBD3ZbP9v"
-    },
-    {
-      "added_at": "2024-03-07 08:07:19",
-      "album": {
         "name": "The Jody Grind",
         "url": "https://open.spotify.com/album/1ova3sOrIf9V2s076VCZ9w"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 350026,
       "name": "The Jody Grind",
       "url": "https://open.spotify.com/track/2gK90iDN9ggQoECv4494mb"
+    },
+    {
+      "added_at": "2024-03-07 08:07:19",
+      "album": {
+        "name": "Finger Poppin' (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        }
+      ],
+      "duration_ms": 330733,
+      "name": "Come On Home - Rudy Van Gelder Edition / Remastered",
+      "url": "https://open.spotify.com/track/5yz1LGqKaMSUqJBD3ZbP9v"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -532,25 +548,9 @@
           "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 385573,
-      "name": "Lester Left Town - Remastered 2005",
-      "url": "https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V"
-    },
-    {
-      "added_at": "2024-03-07 08:07:19",
-      "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 400840,
-      "name": "The Cat Walk - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW"
+      "duration_ms": 571680,
+      "name": "The Chess Players - Remastered 2005",
+      "url": "https://open.spotify.com/track/63Ko3TB1r09NYmWr8T3VH9"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -567,6 +567,22 @@
       "duration_ms": 304453,
       "name": "The Joker - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
+    },
+    {
+      "added_at": "2024-03-07 08:07:19",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 400840,
+      "name": "The Cat Walk - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -603,22 +619,6 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Sonny Rollins",
-        "url": "https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 478453,
-      "name": "Decision - Remastered 1999",
-      "url": "https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX"
-    },
-    {
-      "added_at": "2024-03-07 08:07:19",
-      "album": {
         "name": "Six Pieces Of Silver",
         "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
@@ -651,24 +651,8 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Byrd In Hand",
-        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 505080,
-      "name": "Here I Am - Rudy Van Gelder Edition/Remastered 2003",
-      "url": "https://open.spotify.com/track/7iu2Oae1eI295Ay086GNFt"
-    },
-    {
-      "added_at": "2024-03-07 08:07:19",
-      "album": {
-        "name": "The Big Beat (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+        "name": "Like Someone In Love",
+        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
       },
       "artists": [
         {
@@ -676,25 +660,25 @@
           "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 571680,
-      "name": "The Chess Players - Remastered 2005",
-      "url": "https://open.spotify.com/track/63Ko3TB1r09NYmWr8T3VH9"
+      "duration_ms": 552000,
+      "name": "Johnny's Blue",
+      "url": "https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ"
     },
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Back To The Tracks",
-        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
+        "name": "Sonny Rollins",
+        "url": "https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO"
       },
       "artists": [
         {
-          "name": "Tina Brooks",
-          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 483293,
-      "name": "Back To The Tracks",
-      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
+      "duration_ms": 478453,
+      "name": "Decision - Remastered 1999",
+      "url": "https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -735,6 +719,38 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
+        "name": "Byrd In Hand",
+        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 505080,
+      "name": "Here I Am - Rudy Van Gelder Edition/Remastered 2003",
+      "url": "https://open.spotify.com/track/7iu2Oae1eI295Ay086GNFt"
+    },
+    {
+      "added_at": "2024-03-07 08:07:19",
+      "album": {
+        "name": "Back To The Tracks",
+        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
+      },
+      "artists": [
+        {
+          "name": "Tina Brooks",
+          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+        }
+      ],
+      "duration_ms": 483293,
+      "name": "Back To The Tracks",
+      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
+    },
+    {
+      "added_at": "2024-03-07 08:07:19",
+      "album": {
         "name": "Lee-Way",
         "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 565106,
       "name": "These Are Soulful Days",
       "url": "https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs"
-    },
-    {
-      "added_at": "2024-03-07 08:07:19",
-      "album": {
-        "name": "Like Someone In Love",
-        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 552000,
-      "name": "Johnny's Blue",
-      "url": "https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Royal Flush",
-        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
       "artists": [
         {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
         }
       ],
-      "duration_ms": 381640,
-      "name": "Hush - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9"
+      "duration_ms": 367826,
+      "name": "The Rake",
+      "url": "https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -815,18 +815,34 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
+        "name": "Rollin' With Leo (Remastered)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
       "artists": [
         {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
         }
       ],
-      "duration_ms": 367826,
-      "name": "The Rake",
-      "url": "https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ"
+      "duration_ms": 385200,
+      "name": "Rollin' With Leo - Remastered",
+      "url": "https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3"
+    },
+    {
+      "added_at": "2024-03-07 08:07:19",
+      "album": {
+        "name": "Lee-Way",
+        "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 729613,
+      "name": "Midtown Blues",
+      "url": "https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -847,18 +863,18 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Rollin' With Leo (Remastered)",
-        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
       },
       "artists": [
         {
-          "name": "Leo Parker",
-          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 385200,
-      "name": "Rollin' With Leo - Remastered",
-      "url": "https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3"
+      "duration_ms": 381640,
+      "name": "Hush - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -875,22 +891,6 @@
       "duration_ms": 519360,
       "name": "The Champ",
       "url": "https://open.spotify.com/track/2LabSli3Hawqd8hq4N7IHp"
-    },
-    {
-      "added_at": "2024-03-07 08:07:19",
-      "album": {
-        "name": "Lee-Way",
-        "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 729613,
-      "name": "Midtown Blues",
-      "url": "https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -923,22 +923,6 @@
       "duration_ms": 438000,
       "name": "Blues Blue",
       "url": "https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6"
-    },
-    {
-      "added_at": "2024-03-07 08:07:19",
-      "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 439866,
-      "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -991,6 +975,22 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 439866,
+      "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"
+    },
+    {
+      "added_at": "2024-03-07 08:07:19",
+      "album": {
         "name": "Doin' Allright",
         "url": "https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Blues March",
-      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
-    },
-    {
-      "added_at": "2024-03-07 08:07:19",
-      "album": {
         "name": "Quartet / Quintet / Sextet",
         "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 201226,
       "name": "Down Home",
       "url": "https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy"
+    },
+    {
+      "added_at": "2024-03-07 08:07:19",
+      "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Blues March",
+      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
     },
     {
       "added_at": "2024-03-07 08:07:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-03-07 08:07:19",
       "album": {
-        "name": "Introducing Kenny Burrell: The First Blue Note Sessions",
-        "url": "https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 488000,
-      "name": "Blues For Skeeter - Remastered 2000",
-      "url": "https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx"
-    },
-    {
-      "added_at": "2024-03-07 08:07:19",
-      "album": {
         "name": "Hootin' 'N Tootin'",
         "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 239733,
       "name": "Dippin' In The Bag",
       "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
+    },
+    {
+      "added_at": "2024-03-07 08:07:19",
+      "album": {
+        "name": "Introducing Kenny Burrell: The First Blue Note Sessions",
+        "url": "https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 488000,
+      "name": "Blues For Skeeter - Remastered 2000",
+      "url": "https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx"
     },
     {
       "added_at": "2024-03-07 08:07:19",

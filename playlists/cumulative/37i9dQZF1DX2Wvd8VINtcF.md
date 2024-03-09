@@ -4,7 +4,7 @@
 
 > the pearls of an oyster\. Cover: Djo
 
-1,131 songs - 2 day 14 hr 21 min
+1,132 songs - 2 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -882,6 +882,7 @@
 | [Skin to Skin](https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe) | [Skin to Skin](https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS) | 3:45 | 2024-01-18 | 2024-02-02 |
 | [sleepatsunrise](https://open.spotify.com/track/3wDQTpgStc5ztupOBYKH1B) | [Krishna Canning](https://open.spotify.com/artist/7cVhebR7qQnFcIUAD5D5Wv), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [sleepatsunrise](https://open.spotify.com/album/3kmAEP1YD4OxM8JDmHze2Z) | 2:56 | 2023-01-26 | 2023-04-07 |
 | [Slipping Into Darkness](https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Slipping Into Darkness](https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N) | 4:16 | 2023-03-23 | 2023-05-19 |
+| [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 | 2024-03-07 |  |
 | [Slug](https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Slug](https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK) | 3:00 | 2024-02-29 |  |
 | [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 | 2023-06-29 | 2023-08-04 |
 | [Slugs of Love](https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v) | 4:07 | 2023-04-06 | 2023-05-05 |

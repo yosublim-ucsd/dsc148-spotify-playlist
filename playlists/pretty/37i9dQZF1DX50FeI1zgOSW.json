@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
-  "num_followers": 8085,
+  "num_followers": 8139,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWY4NDBjMGIyNjQ0MGZhZmNhN2RlOTkyNjU5NDM5NjI5NjNmNTg1",
+  "snapshot_id": "MCxjZDkyYzI3YzkxNWVmMGE1ZTFjZTBjYTJjOWNmMjRhZjgxNjdlZjJm",
   "tracks": [
     {
       "added_at": "2024-02-01 05:32:00",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/5GzYUYPDYSrKUWtsCzwt0a"
     },
     {
+      "added_at": "2024-03-08 06:09:46",
+      "album": {
+        "name": "Tha Pop (DEAFFROGS RECORDS)",
+        "url": "https://open.spotify.com/album/3ycrzrsKtsXmmkS91fUTND"
+      },
+      "artists": [
+        {
+          "name": "TNC",
+          "url": "https://open.spotify.com/artist/5q79L7eL1FmDlIMsBF2u12"
+        }
+      ],
+      "duration_ms": 202250,
+      "name": "Tha Pop - DEAFFROGS RECORDS",
+      "url": "https://open.spotify.com/track/1U0idFt6d537Z3OFC0gdk8"
+    },
+    {
       "added_at": "2024-02-29 19:14:29",
       "album": {
         "name": "Yenguren",
@@ -65,26 +81,6 @@
       "url": "https://open.spotify.com/track/1EG6wxPk5luNAeEcmiZFhk"
     },
     {
-      "added_at": "2024-02-26 11:58:20",
-      "album": {
-        "name": "Neeyilla Vaanam",
-        "url": "https://open.spotify.com/album/0A7stJHu6hcxc8bCEYXrDF"
-      },
-      "artists": [
-        {
-          "name": "Sanjith Raman",
-          "url": "https://open.spotify.com/artist/4oaPJiDNexvtQNj8kIXZmP"
-        },
-        {
-          "name": "Pa Hariharan",
-          "url": "https://open.spotify.com/artist/7lQZB1ErGLotexpq74JNdB"
-        }
-      ],
-      "duration_ms": 235289,
-      "name": "Neeyilla Vaanam",
-      "url": "https://open.spotify.com/track/0wHQOJ5iXhKy9M5O5zmOl6"
-    },
-    {
       "added_at": "2024-03-04 07:01:51",
       "album": {
         "name": "Kadhal Reggae",
@@ -99,6 +95,26 @@
       "duration_ms": 207066,
       "name": "Kadhal Reggae",
       "url": "https://open.spotify.com/track/2yTPFfNzPvI7HSSak5QJYe"
+    },
+    {
+      "added_at": "2024-03-08 06:09:46",
+      "album": {
+        "name": "Vizhi",
+        "url": "https://open.spotify.com/album/55N7GixVbyi5islA1qaMs1"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Anila Rajeev",
+          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
+        }
+      ],
+      "duration_ms": 282352,
+      "name": "Vizhi",
+      "url": "https://open.spotify.com/track/0yfou1n7Osbq1objkFdawy"
     },
     {
       "added_at": "2024-02-29 19:15:41",
@@ -133,20 +149,24 @@
       "url": "https://open.spotify.com/track/2TZGqnPCJ4ltj24hQL78Fx"
     },
     {
-      "added_at": "2024-02-23 09:34:20",
+      "added_at": "2024-03-08 06:09:46",
       "album": {
-        "name": "Ovvoru Ponnukkum (DEAFFROGS RECORDS)",
-        "url": "https://open.spotify.com/album/4FqX3n33fZ6QbXhd7H9wRV"
+        "name": "Iraivi",
+        "url": "https://open.spotify.com/album/6UybZwoEfIp2NkxrvlYy7j"
       },
       "artists": [
         {
-          "name": "Voltage B",
-          "url": "https://open.spotify.com/artist/1sPbhUJNlDdgq2x9r4if18"
+          "name": "Navneeth Sundar",
+          "url": "https://open.spotify.com/artist/5a90LDKvSIgq8c3e8IjZRe"
+        },
+        {
+          "name": "Navya Umesh",
+          "url": "https://open.spotify.com/artist/011CU7FddyoQO8f4JJvgI8"
         }
       ],
-      "duration_ms": 199553,
-      "name": "Ovvoru Ponnukkum - DEAFFROGS RECORDS",
-      "url": "https://open.spotify.com/track/7f8jsmd782N8XsqUwk9fV2"
+      "duration_ms": 244000,
+      "name": "Iraivi",
+      "url": "https://open.spotify.com/track/4wFirzSvCLnSQ6nwtsluYT"
     },
     {
       "added_at": "2024-02-26 07:19:57",
@@ -189,20 +209,24 @@
       "url": "https://open.spotify.com/track/3AAwye5jD5qVfE1ybv8sg2"
     },
     {
-      "added_at": "2024-02-23 09:47:05",
+      "added_at": "2024-03-08 06:09:46",
       "album": {
-        "name": "Callin",
-        "url": "https://open.spotify.com/album/53A1Rka8vVEqsh0qYuuGFF"
+        "name": "Natarajan Naatiyam",
+        "url": "https://open.spotify.com/album/5vwsvybTHEJwPRgPhd77Ff"
       },
       "artists": [
         {
-          "name": "JAXK",
-          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+          "name": "Nixen",
+          "url": "https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb"
+        },
+        {
+          "name": "Smith Asher",
+          "url": "https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn"
         }
       ],
-      "duration_ms": 151250,
-      "name": "Callin",
-      "url": "https://open.spotify.com/track/21ZfO35yXXVaz68RFq0j1u"
+      "duration_ms": 210740,
+      "name": "Natarajan Naatiyam",
+      "url": "https://open.spotify.com/track/0byS4yFkICagbCKMctUdm1"
     },
     {
       "added_at": "2024-02-21 08:44:54",
@@ -221,24 +245,28 @@
       "url": "https://open.spotify.com/track/6GOXfEPNhhCkPHveqwlOSW"
     },
     {
-      "added_at": "2024-02-14 12:43:05",
+      "added_at": "2024-03-08 06:09:46",
       "album": {
-        "name": "Sugar Bomb",
-        "url": "https://open.spotify.com/album/41X3mkUaXfgeWoF5kKrrnP"
+        "name": "Manithakaari Sevvi",
+        "url": "https://open.spotify.com/album/7xWL735eBbUjdHKPBXL7f0"
       },
       "artists": [
         {
-          "name": "Rama Priya Yegasivanathan",
-          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+          "name": "Revaa",
+          "url": "https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc"
         },
         {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+          "name": "Bshaa",
+          "url": "https://open.spotify.com/artist/6irJTMyYRu8hCEuOOsPRMh"
+        },
+        {
+          "name": "Gana Vimala",
+          "url": "https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Suger Bomb",
-      "url": "https://open.spotify.com/track/4nzsbSuEAIDGtVLN3asIWM"
+      "duration_ms": 322227,
+      "name": "Manithakaari Sevvi",
+      "url": "https://open.spotify.com/track/01TQhZMxTdsgDs7L76BwD5"
     },
     {
       "added_at": "2024-02-16 09:25:19",
@@ -451,34 +479,6 @@
       "duration_ms": 256941,
       "name": "Show Time",
       "url": "https://open.spotify.com/track/3gLDF0FVNVcFQojbLdyFJs"
-    },
-    {
-      "added_at": "2024-02-09 10:47:56",
-      "album": {
-        "name": "Teddy Bear",
-        "url": "https://open.spotify.com/album/4gW8stxvBopqm09xFm2v8k"
-      },
-      "artists": [
-        {
-          "name": "Raksheet Ramesh",
-          "url": "https://open.spotify.com/artist/1SQEW8b7rB9GPsCBg27YsI"
-        },
-        {
-          "name": "AVR",
-          "url": "https://open.spotify.com/artist/4SmaQj7noSrsSEXIqovJUe"
-        },
-        {
-          "name": "Kiruthika Aravindan",
-          "url": "https://open.spotify.com/artist/3KxMBuBqGhj267r0q7L1H8"
-        },
-        {
-          "name": "LRC",
-          "url": "https://open.spotify.com/artist/3AKzFn3aIfeUwbuVPZKrHa"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Teddy Bear",
-      "url": "https://open.spotify.com/track/1qmoyvEpWxEzwu7qMdMZ1U"
     },
     {
       "added_at": "2024-02-01 05:32:00",

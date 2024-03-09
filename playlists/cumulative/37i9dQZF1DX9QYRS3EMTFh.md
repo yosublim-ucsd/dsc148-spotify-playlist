@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Shenseea
 
-370 songs - 16 hr 49 min
+371 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Regret \- Remix](https://open.spotify.com/track/1p3lY9s5YADOF7PQ3u32Ny) | [Magasco](https://open.spotify.com/artist/19MUAFeICSgiIHN7C452LD), [Mimie](https://open.spotify.com/artist/1KM5rEMK3l9VVXq3XEejqP) | [Regret \(Remix\)](https://open.spotify.com/album/3vsoBAgKjB5rIHBCZvJCfV) | 3:41 | 2023-02-16 | 2023-05-26 |
 | [Reload](https://open.spotify.com/track/67erDOXoomBqQebPnpZayQ) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Reload](https://open.spotify.com/album/0NFillRDfBiGrsAsG9Hd7T) | 2:24 | 2023-01-19 | 2023-03-18 |
 | [Replay](https://open.spotify.com/track/0DZrQE6rBMMAX0KF07NaI8) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0) | [SYSTM](https://open.spotify.com/album/7C1GNqxVxKR6nVlVv77SLu) | 2:10 | 2023-10-05 | 2023-11-10 |
+| [Rivé an Kay là](https://open.spotify.com/track/5JA77FsM3lDZoqgeg5kG8r) | [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Rivé an Kay là](https://open.spotify.com/album/0VAYbRvEB3vWKHVLz2OfXK) | 2:27 | 2024-03-07 |  |
 | [Romanée\-Conti](https://open.spotify.com/track/7uEZPVcmsp8IorKznZGH8w) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE) | [40 Degrés](https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq) | 3:08 | 2021-12-22 | 2022-03-11 |
 | [Roulman](https://open.spotify.com/track/6kuEgsXZ5KjidJfsq6hMFV) | [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF), [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj), [Black\-T](https://open.spotify.com/artist/1nFZ21xwCakE48rU514Ao6), [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Roulman](https://open.spotify.com/album/1YsiqO5UH3bKIV37dwdcBS) | 2:56 | 2022-04-28 | 2023-03-25 |
 | [Réfléchi](https://open.spotify.com/track/3dwR9UFLT4Yxm6RQZfYtVU) | [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Réfléchi](https://open.spotify.com/album/2jVD8CnnhOfrbRtx7C2RpO) | 2:52 | 2023-01-26 | 2023-02-24 |

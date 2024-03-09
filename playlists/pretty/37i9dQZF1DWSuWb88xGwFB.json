@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33284,
+  "num_followers": 33304,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTlmYTU0OTQwMmViOGQyOTk0MGY4MTI1NWFiOWU5ZDZkMDZkZTUw",
+  "snapshot_id": "MCwwN2YwYTFiY2RkOTliZmM1ZGMzNzZkZjNiZjdiYjgxNTRjNzVhZDVh",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 430867,
-      "name": "Unbe (Erick 'More' Mix)",
-      "url": "https://open.spotify.com/track/5tDlZhntGKCwqFKJZXRYAv"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Keep On Groovin'",
         "url": "https://open.spotify.com/album/3AYF0SeOzm9runBziVjooE"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 463571,
       "name": "Keep On Groovin' (Pitch Disco Mix)",
       "url": "https://open.spotify.com/track/5hxBQdYP2DbrPNJ2zGByXk"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 430867,
+      "name": "Unbe (Erick 'More' Mix)",
+      "url": "https://open.spotify.com/track/5tDlZhntGKCwqFKJZXRYAv"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Asuca",
-        "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 356676,
-      "name": "Asuca (Tribal Mix)",
-      "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Generate Power (feat. Paula Brion) [2010 Mixes]",
         "url": "https://open.spotify.com/album/2gO7YHUxRWuNaYKYBDJ3SB"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 519506,
       "name": "Higher State of Consciousness (DJ Wink's Hardhouse Mix)",
       "url": "https://open.spotify.com/track/2arz9AFJf2utACXWeynydn"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Asuca",
+        "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 356676,
+      "name": "Asuca (Tribal Mix)",
+      "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 441120,
-      "name": "Curious (Vocal Mix)",
-      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Swing Doctor",
         "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 343720,
       "name": "Dance to the Rhythm",
       "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 441120,
+      "name": "Curious (Vocal Mix)",
+      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410967,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Set My Spirit Free",
         "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 468520,
       "name": "Set My Spirit Free (feat. Sandy Rivera)",
       "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410967,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance (M.A.S. Club Vocal)",
-      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/73qB0bVff6GfAOZabkcTOC"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Jump & Sing / Work Me",
-        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
       },
       "artists": [
         {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing (Hard Metro Mix)",
-      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
+      "duration_ms": 479440,
+      "name": "Everybody Dance (M.A.S. Club Vocal)",
+      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Sweet Ambience (Mixes)",
-        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
+        "name": "Jump & Sing / Work Me",
+        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
       },
       "artists": [
         {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
         }
       ],
-      "duration_ms": 300943,
-      "name": "Sweet Ambience (Club Mix)",
-      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
+      "duration_ms": 341200,
+      "name": "Jump & Sing (Hard Metro Mix)",
+      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1171,6 +1155,22 @@
       "duration_ms": 342621,
       "name": "My People (My People Mix)",
       "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Sweet Ambience (Mixes)",
+        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
+      },
+      "artists": [
+        {
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
+        }
+      ],
+      "duration_ms": 300943,
+      "name": "Sweet Ambience (Club Mix)",
+      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1203,22 +1203,6 @@
       "duration_ms": 518960,
       "name": "In Da Clouds (Da Dub)",
       "url": "https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Master Blaster (Turn It Up)",
         "url": "https://open.spotify.com/album/2SQELO2MoW3s7TP7LLU8cJ"
       },
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Beat That Makes U Move",
-        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
       "artists": [
         {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        },
-        {
-          "name": "Dreamgirl Vee",
-          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
         }
       ],
-      "duration_ms": 458306,
-      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
-      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
+      "duration_ms": 260065,
+      "name": "Shine (Sundown Dub)",
+      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
     },
     {
       "added_at": "2022-03-03 13:59:16",

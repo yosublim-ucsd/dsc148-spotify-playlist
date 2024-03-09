@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Mitty(\ubbf8\ud2f0)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 50889,
+  "num_followers": 50908,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODI0MmZkYTljY2Y5NmE5ODdkYmJmZThkMjIyZjk0NjZjMzFiMTY4",
+  "snapshot_id": "MCxlMDJjZjAzYWY3YTFhYjAzY2UyNzVlOWJhYzY0ZjUyODNjOGNmNzEx",
   "tracks": [
     {
       "added_at": "2024-03-05 05:37:16",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-03-05 05:37:16",
       "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
-    },
-    {
-      "added_at": "2024-03-05 05:37:16",
-      "album": {
         "name": "City Drive",
         "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 207888,
       "name": "City Drive",
       "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
+    },
+    {
+      "added_at": "2024-03-05 05:37:16",
+      "album": {
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     },
     {
       "added_at": "2024-03-05 05:37:16",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-03-05 05:37:16",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
       },
       "artists": [
         {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 221875,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
+      "duration_ms": 294700,
+      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
     },
     {
       "added_at": "2024-03-05 05:37:16",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-03-05 05:37:16",
       "album": {
-        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
-        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
         }
       ],
-      "duration_ms": 294700,
-      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
-      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
+      "duration_ms": 221875,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
     },
     {
       "added_at": "2024-03-05 05:37:16",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-05 05:37:16",
       "album": {
-        "name": "Love visible",
-        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
-      },
-      "artists": [
-        {
-          "name": "aiai",
-          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Love visible",
-      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
-    },
-    {
-      "added_at": "2024-03-05 05:37:16",
-      "album": {
         "name": "BASIC",
         "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 241144,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+    },
+    {
+      "added_at": "2024-03-05 05:37:16",
+      "album": {
+        "name": "Love visible",
+        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Love visible",
+      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
     },
     {
       "added_at": "2024-03-05 05:37:16",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-05 05:37:16",
       "album": {
-        "name": "MOOD FOR LOVE",
-        "url": "https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls"
-      },
-      "artists": [
-        {
-          "name": "THE SOLUTIONS",
-          "url": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
-        }
-      ],
-      "duration_ms": 204012,
-      "name": "MOOD FOR LOVE",
-      "url": "https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT"
-    },
-    {
-      "added_at": "2024-03-05 05:37:16",
-      "album": {
         "name": "RE_vive",
         "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 232906,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+    },
+    {
+      "added_at": "2024-03-05 05:37:16",
+      "album": {
+        "name": "MOOD FOR LOVE",
+        "url": "https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls"
+      },
+      "artists": [
+        {
+          "name": "THE SOLUTIONS",
+          "url": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
+        }
+      ],
+      "duration_ms": 204012,
+      "name": "MOOD FOR LOVE",
+      "url": "https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT"
     },
     {
       "added_at": "2024-03-05 05:37:16",
@@ -1595,30 +1595,6 @@
     {
       "added_at": "2024-03-05 05:37:16",
       "album": {
-        "name": "Seoul Vibes, Oceanic",
-        "url": "https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs"
-      },
-      "artists": [
-        {
-          "name": "KozyPop",
-          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
-        },
-        {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
-        },
-        {
-          "name": "H!",
-          "url": "https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ"
-        }
-      ],
-      "duration_ms": 191498,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd"
-    },
-    {
-      "added_at": "2024-03-05 05:37:16",
-      "album": {
         "name": "SEOUL CITY POP [A-Side]",
         "url": "https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23"
       },
@@ -1647,6 +1623,30 @@
       "duration_ms": 191587,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/4opnoUS0I23L6LyTON7LIh"
+    },
+    {
+      "added_at": "2024-03-05 05:37:16",
+      "album": {
+        "name": "Seoul Vibes, Oceanic",
+        "url": "https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs"
+      },
+      "artists": [
+        {
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
+        },
+        {
+          "name": "H!",
+          "url": "https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ"
+        }
+      ],
+      "duration_ms": 191498,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd"
     },
     {
       "added_at": "2024-03-05 05:37:16",

@@ -599,6 +599,36 @@
     },
     {
       "album": {
+        "name": "Coronaremos (Remix)",
+        "url": "https://open.spotify.com/album/6OxdgXJb01K5Gz6XeKgpeq"
+      },
+      "artists": [
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233710,
+      "name": "Coronaremos - Remix",
+      "url": "https://open.spotify.com/track/2wnROpf29Ci3yVuMkQFmnM"
+    },
+    {
+      "album": {
         "name": "CRIS MJ | DJ TAO Turreo Sessions #20",
         "url": "https://open.spotify.com/album/4HCyWSPj8iDtCN291g4n39"
       },
@@ -988,6 +1018,32 @@
       "duration_ms": 144600,
       "name": "FIESTA PUNKY",
       "url": "https://open.spotify.com/track/4uf8Ts4gpz1s9Q4FVdgrMT"
+    },
+    {
+      "album": {
+        "name": "Flow Bakan",
+        "url": "https://open.spotify.com/album/4dTOOkKOpfksSY14n4bgPa"
+      },
+      "artists": [
+        {
+          "name": "Joaking El 18",
+          "url": "https://open.spotify.com/artist/1sm9kgIGwWpEWAHmqpSZhg"
+        },
+        {
+          "name": "Rodrii Ortiz",
+          "url": "https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2"
+        },
+        {
+          "name": "Perfil Bajo",
+          "url": "https://open.spotify.com/artist/2DrIBWDCtZiRcduhe0zMTH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223389,
+      "name": "Flow Bakan",
+      "url": "https://open.spotify.com/track/5JlZl7ASB97928PiYnQYZy"
     },
     {
       "album": {
@@ -2766,7 +2822,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 146800,
       "name": "TAKI TAKI TA RKT - Remix",
       "url": "https://open.spotify.com/track/30em1iBHeo2RmOcXSWNmbT"
@@ -2972,7 +3028,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 123092,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/4dUIwIHEqL49ziuVkakAGz"

@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-141 songs - 8 hr 35 min
+142 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Smile Box](https://open.spotify.com/track/5irBjW7OeN6YAoR9ZUjLtD) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Smile Box](https://open.spotify.com/album/65EYy7wGPTDN7w2tcBfmug) | 3:26 | 2022-11-01 |  |
 | [Sorry That I Love You Still](https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Sorry That I Love You Still](https://open.spotify.com/album/2dd1k75R0SlWlEGJgBw07G) | 2:27 | 2022-07-04 |  |
 | [Spring in September](https://open.spotify.com/track/5PkgKQxZ73NxGaKdWrAUNg) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Spring in September](https://open.spotify.com/album/6iZSNXjixRDZ6owQkOM37K) | 3:43 | 2022-07-04 |  |
+| [Spring Road](https://open.spotify.com/track/6gJwSGDQs5KHPPwmYLon1z) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM), [D.Story](https://open.spotify.com/artist/2AEhBDQu2S6EX9xKOrSFfD) | [Spring Road](https://open.spotify.com/album/60COHBzsOf9dEcYuBzz4x0) | 2:53 | 2024-03-08 |  |
 | [Stay \(Feat\. amin\)](https://open.spotify.com/track/1gYqYDbYQuuFFcfVSo0aLg) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Stay \(Feat\. amin\)](https://open.spotify.com/album/6XcdNgatOlaJ5EspniDp7x) | 2:48 | 2023-10-16 |  |
 | [stay with me \(With Choi Yu Ree\)](https://open.spotify.com/track/3P2w5AkWcX08bNZTc6EWqP) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6iHKlPIButEGe8ckLpjgbM) | 2:50 | 2022-07-04 |  |
 | [Story of night fall](https://open.spotify.com/track/6E2eYYvCV8znuzYlhudAJY) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 4:14 | 2022-07-04 |  |

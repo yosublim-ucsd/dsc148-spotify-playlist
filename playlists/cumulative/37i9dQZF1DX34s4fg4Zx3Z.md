@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: m tú
 
-1,531 songs - 3 day 17 hr 30 min
+1,532 songs - 3 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1165,7 +1165,8 @@
 | [Thà Ta Cứ Ghét Nhau](https://open.spotify.com/track/6Ma2XCwgFvankcX0qzEpN8) | [Vương Cây](https://open.spotify.com/artist/6neBRpXrFRsa1yxFwFlm1o), [Như Thảo](https://open.spotify.com/artist/0IRHG66toJOe1T4knDlp5M) | [Thà Ta Cứ Ghét Nhau](https://open.spotify.com/album/7r4RTiz9upotBDOQXTFjnT) | 3:21 | 2023-04-13 | 2023-05-18 |
 | [Thành Phố Mưa Rơi](https://open.spotify.com/track/3NhzsDOJP7wmEZ7GqJsbqN) | [Khải](https://open.spotify.com/artist/2YJjdbWUlFUPMyveMVft5k) | [Thành Phố Mưa Rơi](https://open.spotify.com/album/5g22eLgvT3xdEry4ejyaDZ) | 4:07 | 2022-07-14 | 2022-08-14 |
 | [Tháng 10](https://open.spotify.com/track/2CIxRhsTe26CKRIkb7NIdX) | [Thanh Flame](https://open.spotify.com/artist/5BIYaAkUzKMHjpraGoi0uo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Tháng 10](https://open.spotify.com/album/6vf3ZhjFDvS5iWGVOT64Fl) | 3:38 | 2022-10-26 | 2023-02-09 |
-| [Thân Mật](https://open.spotify.com/track/1uHrEy6Y2MCso5IHQTCJgA) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB), [Uyennhi](https://open.spotify.com/artist/6pBtdDN3A7Xaw1tqVqcSZJ) | [Thân Mật](https://open.spotify.com/album/7b0p4er5yBoUzzg8C70cZh) | 3:05 | 2023-01-06 |  |
+| [Thân Mật](https://open.spotify.com/track/1uHrEy6Y2MCso5IHQTCJgA) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB), [Uyennhi](https://open.spotify.com/artist/6pBtdDN3A7Xaw1tqVqcSZJ) | [Thân Mật](https://open.spotify.com/album/7b0p4er5yBoUzzg8C70cZh) | 3:05 | 2023-01-06 | 2024-03-09 |
+| [Thân Mật](https://open.spotify.com/track/4VPH156XiOHsQ1UcbvWupA) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB), [Uyennhi](https://open.spotify.com/artist/6pBtdDN3A7Xaw1tqVqcSZJ) | [Thân Mật](https://open.spotify.com/album/79V07Rj8SB6j2ogjGQcrrC) | 3:05 | 2024-03-08 |  |
 | [Thêm Lần Này Nữa Thôi Nha](https://open.spotify.com/track/6bYIaaWEjAzFm253H6rcVs) | [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj) | [Thêm Lần Này Nữa Thôi Nha](https://open.spotify.com/album/0UcPCb1yLcZwHufc6qdKUN) | 2:57 | 2023-03-15 | 2023-03-22 |
 | [Thêm Lần Nữa](https://open.spotify.com/track/1hLlqW5jCe8WhrBb9WJCjg) | [SuperC](https://open.spotify.com/artist/2jfbFAZ1SeBTGdjPc4hpSo), [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8) | [Thêm Lần Nữa](https://open.spotify.com/album/3VibyosLm2yj1YUI3VVr8f) | 3:12 | 2023-04-05 | 2023-05-26 |
 | [THÊM MỘT NGÀY NỮA](https://open.spotify.com/track/2tyfl0O2nZEbug72WPg227) | [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [Gxxfy](https://open.spotify.com/artist/1i9boYyWPAZZLSrDcIov6U) | [THÊM MỘT NGÀY NỮA](https://open.spotify.com/album/5ajuDudlnOhe0wqjRByl0k) | 2:27 | 2024-01-11 | 2024-03-01 |

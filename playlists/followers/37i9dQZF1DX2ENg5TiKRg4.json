@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 42760,
+  "2024-03-09": 42797,
   "date_first_scraped": "2022-06-09",
   "description": "Happy Pop-Rock Tunes to start your day. ",
   "name": "Morning Loud!!! ",
@@ -2276,6 +2276,24 @@
     },
     {
       "album": {
+        "name": "Bleachers",
+        "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189919,
+      "name": "Jesus Is Dead",
+      "url": "https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp"
+    },
+    {
+      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -2983,7 +3001,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 238240,
       "name": "One Last Breath",
       "url": "https://open.spotify.com/track/42T2QQv3xgBlpQxaSP7lnK"
@@ -3849,7 +3867,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 241666,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
@@ -3957,7 +3975,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
@@ -4018,6 +4036,24 @@
     },
     {
       "album": {
+        "name": "The Things We Say",
+        "url": "https://open.spotify.com/album/6zyHjq1L4I8yvAStyIfXbZ"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "The Things We Say",
+      "url": "https://open.spotify.com/track/4XtJalA8M3CVun9WKlKZ9Q"
+    },
+    {
+      "album": {
         "name": "David Cook",
         "url": "https://open.spotify.com/album/4MJcuG31fFG8rimuSCvJyx"
       },
@@ -4051,6 +4087,24 @@
       "duration_ms": 230293,
       "name": "The Village",
       "url": "https://open.spotify.com/track/6epvwUINain4iSHCTWA0sj"
+    },
+    {
+      "album": {
+        "name": "This Is Nowhere",
+        "url": "https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224044,
+      "name": "This Is Nowhere",
+      "url": "https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr"
     },
     {
       "album": {

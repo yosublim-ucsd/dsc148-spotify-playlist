@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 706746,
+  "2024-03-09": 706735,
   "date_first_scraped": "2022-03-02",
   "description": "Respira, inspira... Uma sele\u00e7\u00e3o musical ideal para voc\u00ea relaxar.",
   "name": "Medita\u00e7\u00e3o e Relaxamento",
@@ -1378,6 +1378,24 @@
     },
     {
       "album": {
+        "name": "Expanse",
+        "url": "https://open.spotify.com/album/6SiIxdtLqVtYxo9rZtAarK"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156166,
+      "name": "Expanse",
+      "url": "https://open.spotify.com/track/5mK7VJDTa9KufmkYNB2g6a"
+    },
+    {
+      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/0O67PdetBALfQ0K6EyQvuB"
       },
@@ -2638,6 +2656,24 @@
     },
     {
       "album": {
+        "name": "Oneness Radio Edit",
+        "url": "https://open.spotify.com/album/2TC9ObgSPyYTWFJlLWY85i"
+      },
+      "artists": [
+        {
+          "name": "Liquid Mind",
+          "url": "https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159380,
+      "name": "Oneness - Radio Edit",
+      "url": "https://open.spotify.com/track/3ZxUi3mjgUeWMqcUQpZhtH"
+    },
+    {
+      "album": {
         "name": "Ons",
         "url": "https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu"
       },
@@ -2725,6 +2761,24 @@
       "duration_ms": 153000,
       "name": "Papperssvalan",
       "url": "https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi"
+    },
+    {
+      "album": {
+        "name": "Patientia",
+        "url": "https://open.spotify.com/album/2wHSo6N02pO8aExcDzjiP4"
+      },
+      "artists": [
+        {
+          "name": "John Caelo",
+          "url": "https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140615,
+      "name": "Patientia",
+      "url": "https://open.spotify.com/track/7xliwWjoey2VUe450gdZ5Y"
     },
     {
       "album": {
@@ -3823,6 +3877,24 @@
       "duration_ms": 200000,
       "name": "Theologus",
       "url": "https://open.spotify.com/track/3RvwXY7RhoEGhM76ctJedG"
+    },
+    {
+      "album": {
+        "name": "Tidal",
+        "url": "https://open.spotify.com/album/339FnwyYAHDPqhybZx60M5"
+      },
+      "artists": [
+        {
+          "name": "So Lis",
+          "url": "https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160840,
+      "name": "Tidal",
+      "url": "https://open.spotify.com/track/4N12i8jSdFc2jbgezp7T21"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-557 songs - 21 hr 17 min
+558 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 | 2024-01-05 |  |
 | [Bebop drop](https://open.spotify.com/track/0w7ZNAfkAlWkLk1eGeAUfw) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Bebop drop](https://open.spotify.com/album/4mwOZXEJpbWi39mQ1si34X) | 2:08 | 2024-01-05 |  |
 | [Behind the stars](https://open.spotify.com/track/2Qu8fz0Ae2tNvBefZoZIJF) | [Slumbering Elk](https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc) | [Behind the stars](https://open.spotify.com/album/1vfOBiWpg9jEabvNeQaxp9) | 2:22 | 2024-01-05 |  |
-| [beneath the willow](https://open.spotify.com/track/3vJqkYrcwjewv2GTSFdjwU) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [beneath the willow](https://open.spotify.com/album/4TJgzpvGWeveYNg9DvpIa6) | 2:37 | 2024-03-08 |  |
+| [beneath the willow](https://open.spotify.com/track/3vJqkYrcwjewv2GTSFdjwU) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [beneath the willow](https://open.spotify.com/album/4TJgzpvGWeveYNg9DvpIa6) | 2:37 | 2024-03-08 | 2024-03-09 |
 | [beneath your feet](https://open.spotify.com/track/2liw1mIxDdw1d0D6tkFsXG) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [beneath your feet / balcony falls](https://open.spotify.com/album/6kMAkZyLnbPHnxvtOY7kG0) | 2:03 | 2024-01-05 |  |
 | [Benidorm](https://open.spotify.com/track/667LRsRYxwLCOJB2DDoUOC) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Benidorm](https://open.spotify.com/album/6eCQmiuecEe2joDErnh7VW) | 2:11 | 2024-01-05 |  |
 | [Big City Issues](https://open.spotify.com/track/7HB3OzS1oOw0ccm27Fg7T0) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Big City Issues](https://open.spotify.com/album/3hnPutVsHtBKSijIJoJQGv) | 3:21 | 2024-01-05 |  |
@@ -287,6 +287,7 @@
 | [Longing for summer](https://open.spotify.com/track/7I6VIP00dwIA97Ge5AK1YP) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Longing for summer](https://open.spotify.com/album/4FGN3nnZpSUtQ0tbzccpmX) | 2:20 | 2024-01-05 |  |
 | [Loose Changes](https://open.spotify.com/track/2TwnlyZK8MUipdASFzPSPl) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [Loose Changes](https://open.spotify.com/album/6hW0KKfZpxIDwlSQDbE0Zo) | 2:08 | 2024-01-05 |  |
 | [Lost in LA](https://open.spotify.com/track/4dZBeDiuLJ6dKmB3NDqjui) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Lost in LA](https://open.spotify.com/album/1jmrcNqyUhff0IGK1AwxVb) | 2:01 | 2024-01-05 |  |
+| [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 | 2024-03-08 |  |
 | [Lost Without You](https://open.spotify.com/track/1AqN43ZIZzz74aAtnsovZ1) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Lost Without You](https://open.spotify.com/album/34dYkYAHSlwZg94wg8UE90) | 2:38 | 2024-01-05 |  |
 | [lostonbrick](https://open.spotify.com/track/4yiteviu6ykAfAN7AspXCE) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [lostonbrick](https://open.spotify.com/album/0dS1PtAgPFSiuUhs9o9GNs) | 2:00 | 2024-01-05 |  |
 | [Lotus](https://open.spotify.com/track/0UW7iedk0q5u3EPTlgp3Sc) | [All Names](https://open.spotify.com/artist/4hdKvR0UnMhgvQp6BzqdIK) | [Lotus](https://open.spotify.com/album/0Vpd6SmPohg4jRreilcgtE) | 1:38 | 2024-03-01 |  |

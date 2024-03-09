@@ -2,9 +2,9 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds & the best new tracks from Asia\. cover: moon tang \(Hong Kong\)
+> Hottest indie sounds & the best new tracks from Asia\. cover: Silica Gel \(South Korea\)
 
-1,196 songs - 2 day 23 hr 55 min
+1,197 songs - 2 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Day In Day Out](https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Day In Day Out](https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5) | 2:58 | 2022-06-23 | 2022-08-26 |
 | [Daydream](https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Daydream](https://open.spotify.com/album/6FR3pCx1lAGyWlkGVIWkP0) | 3:38 | 2023-08-17 | 2023-08-25 |
 | [daydream](https://open.spotify.com/track/5QsaZbHC7scH5i7UdCYNip) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [daydream](https://open.spotify.com/album/07yuPYTf3qC2d5Olk0xYwf) | 3:26 | 2022-09-29 | 2022-11-18 |
-| [Daydream](https://open.spotify.com/track/3mZOvSK1AW3OaS5ybLAe8i) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Daydream](https://open.spotify.com/album/0E2rJ0BEKCPeVls0kcHSyD) | 4:40 | 2023-12-08 |  |
+| [Daydream](https://open.spotify.com/track/3mZOvSK1AW3OaS5ybLAe8i) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Daydream](https://open.spotify.com/album/0E2rJ0BEKCPeVls0kcHSyD) | 4:40 | 2023-12-08 | 2024-03-09 |
 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 | 2023-09-07 | 2024-03-01 |
 | [Days in Bloom](https://open.spotify.com/track/75XYPmzcxOPZkimUCiI8WI) | [VIA](https://open.spotify.com/artist/1GwORzb8qkKDqDgKx3mzNc) | [FREE FALL](https://open.spotify.com/album/4F5JcwEM357HqVobOz0o3b) | 3:14 | 2022-04-07 | 2022-05-20 |
 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 | 2023-07-14 | 2023-10-27 |
@@ -685,6 +685,7 @@
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-07 | 2022-07-29 |
 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2022-12-02 | 2023-04-01 |
 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 | 2022-08-25 | 2022-10-14 |
+| [NO PAIN](https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 3:41 | 2024-03-08 |  |
 | [No Real Place](https://open.spotify.com/track/1XpPV3WNz7ExOAIDgcaeLB) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj) | 2:51 | 2022-05-12 | 2022-06-03 |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-26 | 2022-06-10 |
 | [NOISY](https://open.spotify.com/track/6Rt1Bc95ecZQZPdOGtY7fK) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [NOISY](https://open.spotify.com/album/6cl9qpMSPUljRaiAicAQgm) | 3:25 | 2023-04-20 | 2023-05-21 |

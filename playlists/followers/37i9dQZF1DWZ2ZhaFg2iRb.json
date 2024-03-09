@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 33241,
+  "2024-03-09": 33242,
   "date_first_scraped": "2023-06-24",
   "description": "Hity, kter\u00e9 t\u011b povzbud\u00ed a nalad\u00ed na vlnu dobr\u00e9 n\u00e1lady.",
   "name": "Vlna Radosti",
@@ -428,6 +428,24 @@
     },
     {
       "album": {
+        "name": "Cheeky",
+        "url": "https://open.spotify.com/album/6lLyrH0Und9dYATr4F9Pjh"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142731,
+      "name": "Cheeky",
+      "url": "https://open.spotify.com/track/7xePsiaOdxT9lkTck9Uv8t"
+    },
+    {
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
@@ -647,7 +665,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 193813,
       "name": "Music For a Sushi Restaurant",
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
@@ -1717,6 +1735,28 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "album": {
+        "name": "On My Love",
+        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222911,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
       "album": {
@@ -1939,7 +1979,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 179911,
       "name": "Real",
       "url": "https://open.spotify.com/track/5eTdLYrswaIZRSO2yWLNwz"
@@ -2348,6 +2388,24 @@
     },
     {
       "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -2453,6 +2511,24 @@
       "duration_ms": 182076,
       "name": "This Is My Time",
       "url": "https://open.spotify.com/track/3bPYk86DnyeFLRJ1GRzKWB"
+    },
+    {
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "album": {
@@ -2735,7 +2811,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 181957,
       "name": "Whistle (feat. Calum Scott)",
       "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
@@ -2851,6 +2927,48 @@
       "duration_ms": 228318,
       "name": "\u017divot je kr\u00e1sn\u00fd",
       "url": "https://open.spotify.com/track/6J7HHQwzUY0PTbsD1BTfm9"
+    },
+    {
+      "album": {
+        "name": "\u017divot je pes (From Gump)",
+        "url": "https://open.spotify.com/album/0SE4E47923jwGCvhhb49Eq"
+      },
+      "artists": [
+        {
+          "name": "Pok\u00e1\u010d",
+          "url": "https://open.spotify.com/artist/5YmH8W9CJRTj4LKg6qyYtE"
+        },
+        {
+          "name": "Lucie B\u00edl\u00e1",
+          "url": "https://open.spotify.com/artist/6pkv72pSnhPBKqqFzhDe6f"
+        },
+        {
+          "name": "Kry\u0161tof",
+          "url": "https://open.spotify.com/artist/1S5J45qCGowVETVuq3vDyj"
+        },
+        {
+          "name": "\u0160t\u011bp\u00e1n Kozub",
+          "url": "https://open.spotify.com/artist/1JiWXvQLpKywfoEvrRk9TV"
+        },
+        {
+          "name": "Vaclav Noid Barta",
+          "url": "https://open.spotify.com/artist/1mBId0W3GTGIZvY3kkFjzk"
+        },
+        {
+          "name": "Monika Bagarova",
+          "url": "https://open.spotify.com/artist/0S3fK826BwWKNWHsomoocy"
+        },
+        {
+          "name": "Martina P\u00e1rtlov\u00e1",
+          "url": "https://open.spotify.com/artist/6uYRnxOGXH2rYJ0vDtVh8e"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215737,
+      "name": "\u017divot je pes - From Gump",
+      "url": "https://open.spotify.com/track/4d87OdBCP2d3mOhi0r0f78"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ2ZhaFg2iRb"

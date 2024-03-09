@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 
 > <a href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">Laurent Garnier</a>'s favorite tracks\. Updated regularly\. Curated by Laurent Garnier\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,943 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,949 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 | 37 | [Bare](https://open.spotify.com/track/2WNHFVcNMOmdQAaWNa1f8E) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Self Made](https://open.spotify.com/album/5CFZp6HkHrKhjvid0TqLhV) | 3:21 |
 | 38 | [The Fixer](https://open.spotify.com/track/3KkMjRlkUwnqoOvYmlLulq) | [Posthuman](https://open.spotify.com/artist/274XKvuYk5OFrvf3wl3xGe) | [The Fixer](https://open.spotify.com/album/6lDcGMX7wbm9IkgFIKlQo4) | 3:41 |
 | 39 | [From Beyond \- C2 2023 Mix](https://open.spotify.com/track/6S6tGdHNLtyeLXvV5CM7JF) | [Psyche](https://open.spotify.com/artist/4RT8JVPiO4ETK2jz3vPBrc), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [C2](https://open.spotify.com/artist/5gfZ9RvYEeHyPYWz1rvPwq) | [From Beyond](https://open.spotify.com/album/0vlSjgy3lXCyQvntFTOzSC) | 6:26 |
-| 40 | [Space Pilot 3000](https://open.spotify.com/track/5NTp8ZMumcunOeIFGGR3th) | [Quince](https://open.spotify.com/artist/2gUQQnVAJzMHh3TL10UmZ8) | [Anthology Of Interest](https://open.spotify.com/album/66T03wKXEbOFvyuXB4sBYE) | 6:54 |
+| 40 | [Space Pilot 3000](https://open.spotify.com/track/6XBqRtxFVjKe9RyRaB0YXi) | [Quince](https://open.spotify.com/artist/2gUQQnVAJzMHh3TL10UmZ8) | [Anthology of Interest](https://open.spotify.com/album/1Tfb2Yd1o86pD1v9deyWEJ) | 6:54 |
 | 41 | [Pink Panther](https://open.spotify.com/track/1MtDTHZrF6Je3nxDugO4DJ) | [Rockwell](https://open.spotify.com/artist/5Bz409CcH4Rk3sqhmOpcxf), [Settle Down](https://open.spotify.com/artist/37qo0ES6034TySyNPFhmIC) | [Low Art](https://open.spotify.com/album/6YPg3mqyBGj0twTCCSzXL0) | 3:48 |
 | 42 | [Mysteries](https://open.spotify.com/track/2IreVUem94fjF5wlWEc6Tg) | [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [House Of Love EP](https://open.spotify.com/album/6ktIVml6n1WoyQKDhBw9jQ) | 5:14 |
 | 43 | [Fife](https://open.spotify.com/track/6yPDAvaIyULUW4ujOljsXt) | [Satoshi Fumi](https://open.spotify.com/artist/38WQYltQVhjRe966Qen0UO) | [Prism EP](https://open.spotify.com/album/3rnGKVq3zQzb5MAVcc72Df) | 6:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 | 49 | [Lost in the Deep](https://open.spotify.com/track/5uKb1xRoaVBFyjscyAhnMN) | [Vince Watson](https://open.spotify.com/artist/2Y3cH3SUZL9XKfKD3novXt) | [Another Moment in Time](https://open.spotify.com/album/2nsFp8cCdMbgW4tFw6jI3m) | 7:03 |
 | 50 | [Timbaleiro \- Original Mix](https://open.spotify.com/track/6SXfCWWAeqj0UcdD3jvS1k) | [Walter G](https://open.spotify.com/artist/1LMZL3VJSIm3OjKTtpuyUw) | [Timbaleiro](https://open.spotify.com/album/6grPcCiJpAxsgFo0oXBDt2) | 6:02 |
 
-Snapshot ID: `MCxiNDYxZmZiODFkMzJmODY0YzE5ZmViZGMzMzk1MDAzYzQ3ZWY2YzA1`
+Snapshot ID: `MCxkNzU5NDczY2NkOTg4NGVlODBkNjQzZTRjZTE0ZmRlOGRmNzMxYjU1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Diego & Victor Hugo, Guilherme & Benuto",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Lauana Prado",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Digitando",
+        "url": "https://open.spotify.com/album/1aPgUsmZYO2HRb6QkaZvpM"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Moura & Rafael",
+          "url": "https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195748,
+      "name": "Digitando",
+      "url": "https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI"
+    },
+    {
+      "album": {
         "name": "Cintilante (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7"
       },
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 156942,
       "name": "Duas Tr\u00eas",
       "url": "https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC"
@@ -1837,6 +1855,28 @@
     },
     {
       "album": {
+        "name": "Haver\u00e1 Sinais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15GThOcgtXImBrv3PmlOm6"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190272,
+      "name": "Haver\u00e1 Sinais - Ao Vivo",
+      "url": "https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV"
+    },
+    {
+      "album": {
         "name": "THE COMEBACK",
         "url": "https://open.spotify.com/album/4mQpXudi3KmfvZOgWLTi2g"
       },
@@ -2168,7 +2208,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 160836,
       "name": "Metade De Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/6cZqw8wIrMsFxCNMzLRbNU"
@@ -2742,7 +2782,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 169835,
       "name": "N\u00e3o Vital\u00edcio (Nunca Mais) - Ao Vivo",
       "url": "https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS"
@@ -3796,6 +3836,24 @@
       "duration_ms": 139528,
       "name": "Vamo Tomar Uma",
       "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"
+    },
+    {
+      "album": {
+        "name": "062, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7tINLJQHyDGmx24RMv63KH"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164240,
+      "name": "Vazou Na Braquiara - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZtgnRr4uKMOoCzP4vnQDl"
     },
     {
       "album": {

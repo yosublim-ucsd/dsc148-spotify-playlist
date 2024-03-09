@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,049 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,083 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moonflower](https://open.spotify.com/track/7bzX29IpQwJFBU1ltxspyl) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Moonflower](https://open.spotify.com/album/1picw4zIfxWxD3pM5Ef56i) | 5:33 |
+| 1 | [Child of Bliss](https://open.spotify.com/track/6Z4liSmJZe9cfeDbROdm25) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Child of Bliss](https://open.spotify.com/album/7qJGXVWUhGsQZeTo48uVz9) | 6:12 |
 | 2 | [Man On The Silver Mountain](https://open.spotify.com/track/6QRr9OKjvnCGKub5ZFjvB7) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [The Dio Album](https://open.spotify.com/album/6z8exOI6HX7AsMIDwN8OsC) | 4:19 |
 | 3 | [Karnevel!](https://open.spotify.com/track/0ntkYJFuL0xYBL9EzDclTv) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Karnevel!](https://open.spotify.com/album/6ZI8RVYgxxSymcnQT4DqnH) | 8:40 |
 | 4 | [Our Requiem \- Single Version](https://open.spotify.com/track/46vBOvYc2WqQYa4WLoz4j7) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Our Requiem](https://open.spotify.com/album/16OEgHcyDIA6qMKwL9LkXJ) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `MCwwYTNlNDc3YzE5NGU3ZDJhM2QyNWQxOGZlNmRlZTVjZWJmNjk4OGE5`
+Snapshot ID: `MCw5NmJjY2M2NWE0NWFlNzhjYmNjZWM3ZWFmMDNiNGNhMWQ2NzQzNDJj`

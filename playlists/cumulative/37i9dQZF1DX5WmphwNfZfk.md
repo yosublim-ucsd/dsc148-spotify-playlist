@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: bludnymph
 
-1,565 songs - 3 day 8 hr 23 min
+1,566 songs - 3 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Demain](https://open.spotify.com/track/0U58UfCBhjdXBJpf2qJcwT) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Demain](https://open.spotify.com/album/6ZklkNHAqHpSrGqxsJQSyf) | 3:38 | 2022-02-04 | 2022-03-05 |
 | [Demon Mode](https://open.spotify.com/track/6cCJGSDSgYBxU9xPULz3fS) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Demon Mode](https://open.spotify.com/album/3th8PyMt8wjiGi0azm135D) | 3:18 | 2022-05-06 | 2022-06-04 |
 | [Des nœuds dans les doigts](https://open.spotify.com/track/2lE5EAPTKZ6inx0gNq6gTg) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Des nœuds dans les doigts](https://open.spotify.com/album/29UB860uihaDIj9d0NsD23) | 4:17 | 2022-06-03 | 2022-07-02 |
+| [Deserve Each Other](https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd) | 2:47 | 2024-03-08 |  |
 | [DESTINATION](https://open.spotify.com/track/0WiTZQvkMQylVlkKcaid6K) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [DESTINATION](https://open.spotify.com/album/1lvoya5mGwxODC3icL1DDe) | 2:49 | 2023-09-01 | 2023-10-06 |
 | [Detroit Flow Freestyle](https://open.spotify.com/track/1Z6JKdzkPLvnDfOe1atJOo) | [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [Detroit Flow Freestyle](https://open.spotify.com/album/5bCZqGikwcvQTY9AIWU3P3) | 2:11 | 2022-06-03 | 2022-07-02 |
 | [Deux pieds dans la tombe](https://open.spotify.com/track/6rEuBcNDSMt9lLIQIDv6IR) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Deux pieds dans la tombe](https://open.spotify.com/album/2RcU4foSojnJ3O1cba7Pfh) | 3:21 | 2022-10-07 | 2022-12-01 |
@@ -1367,7 +1368,7 @@
 | [The Ride](https://open.spotify.com/track/0U2CIiuR2rm5JnA3gyi7Qi) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [The Ride](https://open.spotify.com/album/3oLWwKaQBN3RgjllHPnubw) | 3:00 | 2024-03-01 |  |
 | [THE STORM](https://open.spotify.com/track/75lkxdniwXmiQkEsiLXXnb) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [THE STORM](https://open.spotify.com/album/31LTx7zUZwHIsM7hlHJSai) | 2:50 | 2021-12-06 | 2022-01-08 |
 | [The Symptoms of Vanity](https://open.spotify.com/track/3P46IcnN4aYYPGR6QiLn7g) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [The Symptoms of Vanity](https://open.spotify.com/album/4Ly7xnHm17aqWZMUraI2SV) | 2:50 | 2022-11-11 | 2022-12-01 |
-| [The Things I Do For Love](https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp) | 2:40 | 2024-02-02 |  |
+| [The Things I Do For Love](https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp) | 2:40 | 2024-02-02 | 2024-03-09 |
 | [The Town](https://open.spotify.com/track/4dthkUfBWbKgRY2jHyBBUN) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [seantommy](https://open.spotify.com/artist/5jDDKbkXcoXJsowZyVIKHB), [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO) | [The Town](https://open.spotify.com/album/2tRPn0yC2e5Lxv15U5axjU) | 2:20 | 2023-11-10 | 2023-11-30 |
 | [The Way You Lie](https://open.spotify.com/track/4a3ooWSpe4eq511akVz2EW) | [Dayna Reid](https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR) | [The Way You Lie](https://open.spotify.com/album/6gbfnZj6dLApX6PRKadbFP) | 3:13 | 2023-06-02 | 2023-07-08 |
 | [The Weekend](https://open.spotify.com/track/055kzYgddnupFsFPd7rmy5) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [The Weekend](https://open.spotify.com/album/7BmdtoruNOzZJTl5bgumWd) | 2:41 | 2023-11-10 | 2023-11-30 |

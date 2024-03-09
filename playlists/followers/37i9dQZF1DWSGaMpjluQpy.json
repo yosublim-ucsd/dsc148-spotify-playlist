@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 65164,
+  "2024-03-09": 65255,
   "date_first_scraped": "2023-05-02",
   "description": "Sitting in a cozy caf\u00e9 studying while the rain is pouring down outside. ",
   "name": "Jazz in the Rain",
@@ -294,6 +294,24 @@
     },
     {
       "album": {
+        "name": "Blue Sunday",
+        "url": "https://open.spotify.com/album/4BxrAZLnMBaSwzdODpcTwx"
+      },
+      "artists": [
+        {
+          "name": "Archie Taylor",
+          "url": "https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207622,
+      "name": "Blue Sunday",
+      "url": "https://open.spotify.com/track/4wRroGt99b7BQGV7Lp59f3"
+    },
+    {
+      "album": {
         "name": "Broken Promises",
         "url": "https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR"
       },
@@ -309,6 +327,24 @@
       "duration_ms": 226331,
       "name": "Blue Tennessee",
       "url": "https://open.spotify.com/track/65xukQJeGh8BMUAPIGldf3"
+    },
+    {
+      "album": {
+        "name": "Boxroom",
+        "url": "https://open.spotify.com/album/0Llf3NZanAqYEwbg9paS8b"
+      },
+      "artists": [
+        {
+          "name": "Hermie",
+          "url": "https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185263,
+      "name": "Boxroom",
+      "url": "https://open.spotify.com/track/5SsQyltME8sKOX8jU7LXiH"
     },
     {
       "album": {
@@ -713,6 +749,24 @@
       "duration_ms": 188500,
       "name": "Forgiving",
       "url": "https://open.spotify.com/track/5tVKrc60aMf0daSkoUgJL4"
+    },
+    {
+      "album": {
+        "name": "Glencoe Sketches (Rain)",
+        "url": "https://open.spotify.com/album/2TgNzsUJ4VgF7SkDGRBL7k"
+      },
+      "artists": [
+        {
+          "name": "Saphena Trio",
+          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Glencoe Sketches (Rain)",
+      "url": "https://open.spotify.com/track/0MiOcIeWX5CdJKN8i49wzp"
     },
     {
       "album": {

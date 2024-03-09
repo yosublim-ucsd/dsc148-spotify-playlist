@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 23 min
+66 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [UNA BACHATA](https://open.spotify.com/track/7psTzxo3Gyo7ZoCysM8fjc) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [UNA BACHATA](https://open.spotify.com/album/2q1jdycseQd3319Y48b2Gh) | 2:37 | 2024-02-03 | 2024-03-02 |
 | [Ya No Quiero Ná](https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ya No Quiero Ná](https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob) | 3:12 | 2023-11-10 |  |
 | [YO TENGO UN NOVIO](https://open.spotify.com/track/2kT0UoxzIcAaD7SNiDGrFn) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:24 | 2023-12-16 | 2024-02-09 |
-| [YO TENGO UN NOVIO](https://open.spotify.com/track/3iUHatOlJklHFQhRQjk27h) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [YO TENGO UN NOVIO](https://open.spotify.com/album/4qX93EQMuPQBxXsWhKyB1k) | 2:24 | 2024-01-04 |  |
+| [YO TENGO UN NOVIO](https://open.spotify.com/track/3iUHatOlJklHFQhRQjk27h) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [YO TENGO UN NOVIO](https://open.spotify.com/album/4qX93EQMuPQBxXsWhKyB1k) | 2:24 | 2024-01-04 | 2024-03-09 |
+| [YO TENGO UN NOVIO](https://open.spotify.com/track/6sS6ZaxqVAWIBJpMGU3OdX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:24 | 2024-03-08 |  |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

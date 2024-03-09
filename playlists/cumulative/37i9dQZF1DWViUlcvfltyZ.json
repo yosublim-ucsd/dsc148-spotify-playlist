@@ -7656,10 +7656,28 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 196666,
       "name": "Magic Dance",
       "url": "https://open.spotify.com/track/1yo3J82F0eXLxcgL3rU9ds"
+    },
+    {
+      "album": {
+        "name": "Animali",
+        "url": "https://open.spotify.com/album/03lwXcAGtJ2QH3AHcxjM4Q"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00e0",
+          "url": "https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Magic Dance",
+      "url": "https://open.spotify.com/track/7yG8T8urv7dRBkOUXCliV6"
     },
     {
       "album": {

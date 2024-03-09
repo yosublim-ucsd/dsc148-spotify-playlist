@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Depend On Me",
       "url": "https://open.spotify.com/track/4yQRctOSENVDuXtLLndkbH"
@@ -5328,7 +5328,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 291432,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/2CrlhJAUBfMc53CYt0v8ev"
@@ -8901,7 +8901,7 @@
     },
     {
       "album": {
-        "name": "lo-fi_house.zip",
+        "name": "Lo-Fi_house.Zip",
         "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
       },
       "artists": [

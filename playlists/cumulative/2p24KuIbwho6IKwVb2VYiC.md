@@ -2,9 +2,9 @@
 
 ### [New Dance Hits 2024](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: The Banker Boys
+> The best Dance and EDM tracks right now! Cover: Justice
 
-149 songs - 7 hr 43 min
+151 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [I Don't Wanna Work](https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [I Don't Wanna Work](https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ) | 2:35 | 2023-10-27 | 2023-11-25 |
 | [I'm My Only Friend \(feat\. Arden Jones\)](https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [I'm My Only Friend](https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz) | 3:12 | 2023-10-27 | 2023-11-25 |
 | [If U Need It](https://open.spotify.com/track/0xfaCHwtlu4xXZO9x3Axen) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 2:59 | 2024-02-02 |  |
+| [Incognito](https://open.spotify.com/track/5lvB1y6l9FF5BiOSDPNM27) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/5S2mpgI8SRO5apKCEFSHET) | 4:01 | 2024-03-08 |  |
 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 | 2023-10-27 |  |
 | [Last Time \(feat\. EVALINA\)](https://open.spotify.com/track/17T4FxhvOsK908WhWhk2Fn) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Last Time \(feat\. EVALINA\)](https://open.spotify.com/album/4B2oAJbm46T1XOnHqzLSY4) | 3:05 | 2023-11-24 |  |
 | [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/5KxZfCXXmVvKhPo8hQz2pS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 2:51 | 2023-10-27 |  |
@@ -91,7 +92,8 @@
 | [Mess It Up \- Purple Disco Machine Remix](https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 3:35 | 2023-11-17 |  |
 | [Metaclub](https://open.spotify.com/track/6P3OBfMX9TZRlcraDkkWxe) | [Alexiane](https://open.spotify.com/artist/0LyfTcbBDtHYMnMZuzP57t), [Moses](https://open.spotify.com/artist/7xihR0iAXmuXt2XJobep51), [EMR3YGUL](https://open.spotify.com/artist/7McJw5ZG7vJezw6ygrFagY) | [Metaclub](https://open.spotify.com/album/4Mvb8NjfYOaiIzN8BQo574) | 2:51 | 2023-10-27 | 2023-11-25 |
 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2023-10-27 |  |
-| [Murder On The Dancefloor \- PNAU Remix](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Murder On The Dancefloor \(PNAU Remix\)](https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ) | 4:20 | 2024-02-09 |  |
+| [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 | 2024-03-08 |  |
+| [Murder On The Dancefloor \- PNAU Remix](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Murder On The Dancefloor \(PNAU Remix\)](https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ) | 4:20 | 2024-02-09 | 2024-03-09 |
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-02-20 |  |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-02-09 |  |
 | [Now Or Never](https://open.spotify.com/track/34xBhUgjCTUxe1BuypLL0X) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Now Or Never](https://open.spotify.com/album/5Z4uXurjwmsYr59E1quhV6) | 3:27 | 2023-10-27 | 2023-11-25 |

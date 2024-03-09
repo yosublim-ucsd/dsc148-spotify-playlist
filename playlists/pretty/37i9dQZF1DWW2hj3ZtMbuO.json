@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
-  "num_followers": 1477552,
+  "num_followers": 1477825,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzBlYTA5MjZhMzI5ZmU1MTllNDlkNGI5ZTIwNzdhZWNiZGU4ZWJh",
+  "snapshot_id": "MCxlZTQyODRkODMwNWQ4YmJmZTU4OTgxM2I4MjdmODg2NjdmOTM2ZTYy",
   "tracks": [
     {
       "added_at": "2024-03-01 20:34:13",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-03-01 20:34:13",
       "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 213355,
+      "name": "Underdressed at the Symphony",
+      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
+    },
+    {
+      "added_at": "2024-03-01 20:34:13",
+      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 361760,
       "name": "Tommy's Party",
       "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
-    },
-    {
-      "added_at": "2024-03-01 20:34:13",
-      "album": {
-        "name": "Underdressed at the Symphony",
-        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 213355,
-      "name": "Underdressed at the Symphony",
-      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
     },
     {
       "added_at": "2024-03-01 20:34:13",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-01 20:34:13",
       "album": {
-        "name": "Grade Pending",
-        "url": "https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP"
-      },
-      "artists": [
-        {
-          "name": "Whatever, Dad",
-          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
-        }
-      ],
-      "duration_ms": 254116,
-      "name": "Warsh_Tippy and Zelda",
-      "url": "https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E"
-    },
-    {
-      "added_at": "2024-03-01 20:34:13",
-      "album": {
         "name": "Missing Out",
         "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 217320,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+    },
+    {
+      "added_at": "2024-03-01 20:34:13",
+      "album": {
+        "name": "Grade Pending",
+        "url": "https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP"
+      },
+      "artists": [
+        {
+          "name": "Whatever, Dad",
+          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
+        }
+      ],
+      "duration_ms": 254116,
+      "name": "Warsh_Tippy and Zelda",
+      "url": "https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E"
     },
     {
       "added_at": "2024-03-01 20:34:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-01 20:34:13",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
-    },
-    {
-      "added_at": "2024-03-01 20:34:13",
-      "album": {
         "name": "Look at it in the Light",
         "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 141743,
       "name": "Yards / Gardens",
       "url": "https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ"
+    },
+    {
+      "added_at": "2024-03-01 20:34:13",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
       "added_at": "2024-03-01 20:34:13",

@@ -2301,6 +2301,28 @@
     },
     {
       "album": {
+        "name": "Don't Worry Bout Me",
+        "url": "https://open.spotify.com/album/58fAxNhaYOixIjqNu4hVaN"
+      },
+      "artists": [
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139789,
+      "name": "Don't Worry Bout Me",
+      "url": "https://open.spotify.com/track/1QktMOMQpD6LvHaYaRjZhX"
+    },
+    {
+      "album": {
         "name": "Don't You Wanna Know",
         "url": "https://open.spotify.com/album/3Q5iInpjJCZQQVf20UkD2z"
       },
@@ -2886,7 +2908,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 203739,
       "name": "Gave It Up",
       "url": "https://open.spotify.com/track/2RJowhbRcHVqobHqGsoa5N"
@@ -4346,7 +4368,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 201999,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6IaU01HjdIQimBmOdAjdcf"
@@ -4814,6 +4836,42 @@
       "duration_ms": 133877,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/2gbS682ibVEMXlzRdC1rT2"
+    },
+    {
+      "album": {
+        "name": "Living Fast",
+        "url": "https://open.spotify.com/album/3bokND5ICwjoHUtsonPu4v"
+      },
+      "artists": [
+        {
+          "name": "Hueston",
+          "url": "https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Living Fast",
+      "url": "https://open.spotify.com/track/7fuO3mniCpm9g3LjOxjuRn"
+    },
+    {
+      "album": {
+        "name": "Season 1: I Love You",
+        "url": "https://open.spotify.com/album/6CNLb0lw0fxb8sOw8a7LXt"
+      },
+      "artists": [
+        {
+          "name": "Anella Herim",
+          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129705,
+      "name": "Lock N Key",
+      "url": "https://open.spotify.com/track/6EMXQhhesKZHcR044i5sD2"
     },
     {
       "album": {

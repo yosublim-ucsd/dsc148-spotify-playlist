@@ -1,418 +1,70 @@
 {
-  "description": "<a href=\"spotify:artist:74fkl73HDlCXw0l6cemB89\">G. Love</a> is taking over to share his blues favorites.",
-  "num_followers": 468756,
-  "original_name": "In the Name of the Blues: G. Love Takeover",
+  "description": "<a href=\"spotify:artist:12LgviUQ9DbfYJJ9niDWRq>Walter Trout</a> is taking over to share his blues favorites",
+  "num_followers": 468764,
+  "original_name": "In the Name of the Blues: Walter Trout Takeover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWY0MmU5MzAzZDM3ZmVhNWI2ZjZlZjY2ZDk4YmMxNDkxM2I0YmQw",
+  "snapshot_id": "MCxhNWJiZjZjYTU4ZDYxNjQ3MTk3ZGNmNTY3MDBlNmFiMjM4MGY3Njhi",
   "tracks": [
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "G. Love & Special Sauce (30th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/76IqHvS37OvwXviTLbOx4Q"
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         }
       ],
-      "duration_ms": 298040,
-      "name": "Blues Music - Live at the Knitting Factory, NYC, NY - 7/20/1994 (Set 1)",
-      "url": "https://open.spotify.com/track/2jEBAgMU9Mhb0tpaEUxE5o"
+      "duration_ms": 188866,
+      "name": "Born in Chicago",
+      "url": "https://open.spotify.com/track/0dvPuXBdAudLyBnCmYYu68"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Push Comes To Shove",
-        "url": "https://open.spotify.com/album/6HXgFVMJMh6ZrXmfejHIYw"
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
       "artists": [
         {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Push Comes To Shove",
-      "url": "https://open.spotify.com/track/6ENEyWgWUBOMKHkTLMoxZ5"
+      "duration_ms": 198560,
+      "name": "Dark Was the Night, Cold Was the Ground",
+      "url": "https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/2wPwMww3vLuD5vh5a0krZw"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 153893,
-      "name": "Cold Beverage",
-      "url": "https://open.spotify.com/track/53QFfxB7PbI8YxfAElIdbZ"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        },
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 199040,
-      "name": "Still A Fool",
-      "url": "https://open.spotify.com/track/1AqMhPGWDrR89wmOzilvr1"
+      "duration_ms": 290007,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3dhamjUEZo7psHbg8w4pRJ"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Howlin' Wolf Album",
-        "url": "https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/74lIsxpvYRXonuxBSlQKhr"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "The Things That I Used To Do",
-      "url": "https://open.spotify.com/track/3T9Uc8jc7RayIwvqlt5fKn"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Country Blues",
-        "url": "https://open.spotify.com/album/6IBTQrcQFNMmzjmKIur7MY"
-      },
-      "artists": [
-        {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Traveling Riverside Blues",
-      "url": "https://open.spotify.com/track/5sqdF6TfXJ9wbisHptbKWI"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Sufferin' Mind",
-        "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
-      },
-      "artists": [
-        {
-          "name": "Guitar Slim",
-          "url": "https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Bad Luck Blues",
-      "url": "https://open.spotify.com/track/29GwrbUzG1VK0J2y1wvrT6"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 290160,
-      "name": "Garbage Man",
-      "url": "https://open.spotify.com/track/0wSL3Kd615yX7nifGHpYUI"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 319000,
-      "name": "Eyes Have Miles",
-      "url": "https://open.spotify.com/track/2UrPKc9a7SQkHbNkmNBPml"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 233960,
-      "name": "Baby's Got Sauce",
-      "url": "https://open.spotify.com/track/7MXK7DwU1DpGFTA31AZW6S"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Sufferin' Mind",
-        "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
-      },
-      "artists": [
-        {
-          "name": "Guitar Slim",
-          "url": "https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "The Things That I Used To Do",
-      "url": "https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/15CjPQEkX4ssndZri2ry6r"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "Still Hangin' Around",
-      "url": "https://open.spotify.com/track/5vPgwONNMBGWmtFW7GBr2N"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "The 1928 Sessions",
-        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 263319,
-      "name": "Avalon Blues",
-      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Rhyme for the Summertime",
-      "url": "https://open.spotify.com/track/1I4OmGhhaaDHx6b6IplsfT"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Blowin' The Fuses",
-        "url": "https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Shaggy Dog",
-      "url": "https://open.spotify.com/track/5eTWnTkRxqV8sCfL2Z5M8f"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Fatman",
-      "url": "https://open.spotify.com/track/6T3uGccoprFNOHhiLQ4egx"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "You Gotta Move",
-        "url": "https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Fred McDowell",
-          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Black Minnie",
-      "url": "https://open.spotify.com/track/0Yrr4gmZ2fdEjei9tYu5LB"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "The 1928 Sessions",
-        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Louis Collins",
-      "url": "https://open.spotify.com/track/0CRSKgwHSlgt4ONWFxuRkK"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 392573,
-      "name": "This Ain't Living - Official Audio",
-      "url": "https://open.spotify.com/track/36wSw6bW96i3gzjB3EPyLC"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Bob Dylan",
-        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 104973,
-      "name": "Gospel Plow",
-      "url": "https://open.spotify.com/track/3qjiLjxJ4AZvLOtiE8znrD"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 268400,
-      "name": "Walk To Slide",
-      "url": "https://open.spotify.com/track/41EACoU6fGTau2zfbKng3I"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "You Gotta Move",
-        "url": "https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Fred McDowell",
-          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "You Gotta Move",
-      "url": "https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Blues After Hours",
-        "url": "https://open.spotify.com/album/2DyRlIGjwJz8QdsqHY0qU1"
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
       "artists": [
         {
@@ -420,95 +72,63 @@
           "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Dust My Blues",
-      "url": "https://open.spotify.com/track/5YPrG89upIoXdSRYVe96cx"
+      "duration_ms": 152466,
+      "name": "Rollin' & Tumblin'",
+      "url": "https://open.spotify.com/track/0kmGmyuZpjRRdcz5dk4PDL"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 208293,
-      "name": "Shooting Hoops",
-      "url": "https://open.spotify.com/track/0gsFtv4YvS6DQieNmc9Rc3"
+      "duration_ms": 324733,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+        "name": "Climbing!",
+        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
         }
       ],
-      "duration_ms": 173013,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
+      "duration_ms": 151293,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
+        "name": "Battle Scars (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3wbemnknELSpKiGkS4dBcY"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
         }
       ],
-      "duration_ms": 288266,
-      "name": "Some Peoples Like That",
-      "url": "https://open.spotify.com/track/7AFxqu6LBtxNeoFcKETolc"
+      "duration_ms": 337520,
+      "name": "Almost Gone",
+      "url": "https://open.spotify.com/track/6Yn5fMEVs0hhtzBEZsvyUM"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Live at Theresa's 1975",
-        "url": "https://open.spotify.com/album/2dITTxrOnxT2fqqcu9ytpB"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 396533,
-      "name": "Snatch It Back And Hold It",
-      "url": "https://open.spotify.com/track/727UP05QjrlvKZDo0lWspz"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "Town To Town",
-      "url": "https://open.spotify.com/track/14S0T7YGqn75gjNrBrHDCZ"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
       "artists": [
         {
@@ -516,43 +136,371 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 138506,
-      "name": "First Time I Met The Blues - Single Version",
-      "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
+      "duration_ms": 383200,
+      "name": "A Man And The Blues",
+      "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
+        "name": "Nonplusultra - Rock",
+        "url": "https://open.spotify.com/album/7aC1J4bXfkRe5379eNsdRi"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Moby Grape",
+          "url": "https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN"
         }
       ],
-      "duration_ms": 211866,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/4Oq9pMzxIL2t5NQA2FtuSO"
+      "duration_ms": 139013,
+      "name": "Omaha",
+      "url": "https://open.spotify.com/track/2rMFw4RKfdUZxNTw7D4rm2"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Unissued 1963 Blues Festivals",
-        "url": "https://open.spotify.com/album/2eFjg3tTd19Cp9ix7mtifv"
+        "name": "Ordinary Madness",
+        "url": "https://open.spotify.com/album/3JJD7rE9C5upqXiE1WSstr"
       },
       "artists": [
         {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
         }
       ],
-      "duration_ms": 270533,
-      "name": "Don't Start Me To Talking",
-      "url": "https://open.spotify.com/track/3mzHVjE0AuJBI3H7Wx75TY"
+      "duration_ms": 391306,
+      "name": "All Out Of Tears",
+      "url": "https://open.spotify.com/track/1XaT6J8S7NxuqowON5gDNv"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Who Else!",
+        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "Brush with the Blues",
+      "url": "https://open.spotify.com/track/5MsvQCtWYbA16F5OFIX1AY"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "You Don't Know the Blues",
+      "url": "https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/4mqWvIxFw14JnBriQgJ8Oy"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "duration_ms": 200704,
+      "name": "Live Strong",
+      "url": "https://open.spotify.com/track/2vwTMItwEoXCJj0GpN3f6f"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/63HcrN85osouBEC9p1ZfLH"
+      },
+      "artists": [
+        {
+          "name": "Danny Bryant",
+          "url": "https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn"
+        }
+      ],
+      "duration_ms": 172523,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/5YGkR1hpo8k5pTaNjrMezW"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Chicago Line",
+        "url": "https://open.spotify.com/album/4Kde1khLv8Xs8qbdcj3Tx5"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 315733,
+      "name": "One Life To Live",
+      "url": "https://open.spotify.com/track/2vXPju3PsyINz4ZSmndNWg"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/3XXt7jo30yi07AseATCdby"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 242258,
+      "name": "Falls Apart",
+      "url": "https://open.spotify.com/track/6pRzBtnH4R3SwKyQVPMhlz"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Canned Heat",
+        "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/6U7gN4xpuuNFKJhE0WImuw"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Weight of the World",
+        "url": "https://open.spotify.com/album/2upuqUhXRGi2J1P8KIgGdv"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Waking Up the Dead",
+      "url": "https://open.spotify.com/track/6OMYFGOOTgfC7hyv2Eiie7"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "War In My Mind",
+        "url": "https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 238928,
+      "name": "Sugar Shack",
+      "url": "https://open.spotify.com/track/7aYUwUxQgSBwtJur3XDNjr"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Harlem",
+        "url": "https://open.spotify.com/album/40eXcTxKtRRv68e4g6k29k"
+      },
+      "artists": [
+        {
+          "name": "King Solomon Hicks",
+          "url": "https://open.spotify.com/artist/1kwMZiFnFBuniUpHpNHEds"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "421 South Main",
+      "url": "https://open.spotify.com/track/4Pu2Es4ayOB4VneMuhUsOe"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Life Is Hard",
+        "url": "https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 292386,
+      "name": "Nobody Moves Me Like You Do",
+      "url": "https://open.spotify.com/track/5onbRnL3JLv37ICf4Stjfr"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Sweet Home Chicago",
+      "url": "https://open.spotify.com/track/4R4gKKq06GNityZMTHGdVo"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Dirt On My Diamonds, Vol. 1",
+        "url": "https://open.spotify.com/album/6mAmIXjkf15GnL9LFpW8yL"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Dirt On My Diamonds",
+      "url": "https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 319253,
+      "name": "Bulletproof - Tangle Eye Mix",
+      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Shining in the Half Light",
+        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 220974,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Death Valley Paradise",
+        "url": "https://open.spotify.com/album/64YWR8ekaKvFbFc3cSzkbe"
+      },
+      "artists": [
+        {
+          "name": "Kris Barras Band",
+          "url": "https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv"
+        }
+      ],
+      "duration_ms": 230111,
+      "name": "These Voices",
+      "url": "https://open.spotify.com/track/7hakZtqzXWZ38vMcRd9LmA"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "West Of Flushing, South Of Frisco",
+        "url": "https://open.spotify.com/album/2GShlVogGOk1HyGmHelTDF"
+      },
+      "artists": [
+        {
+          "name": "Supersonic Blues Machine",
+          "url": "https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD"
+        },
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        }
+      ],
+      "duration_ms": 161306,
+      "name": "Running Whiskey",
+      "url": "https://open.spotify.com/track/1C13yaQ2km1s6BEuCN2W3l"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "We're All In This Together",
+        "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        },
+        {
+          "name": "Jon Trout",
+          "url": "https://open.spotify.com/artist/2xMoMWcwSLKgRvLDHq6yT4"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Do You Still See Me At All",
+      "url": "https://open.spotify.com/track/6ogTXpbWZAHqKjxs6akFs8"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Levee Town",
+        "url": "https://open.spotify.com/album/2OjQfeMEfVK3B2r7lT3YJN"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "Pedal To the Metal",
+      "url": "https://open.spotify.com/track/0G9j4ORbupmxMe02m7a1lh"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "I Want To Shout About It",
+      "url": "https://open.spotify.com/track/14oXexdYYKuABVxIldH4BS"
     }
   ],
-  "unique_name": "In the Name of the Blues: G. Love Takeover",
+  "unique_name": "In the Name of the Blues: Walter Trout Takeover",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcnkReojaCnV"
 }

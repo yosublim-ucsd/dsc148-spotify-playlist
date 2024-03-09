@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">Laurent Garnier</a>'s favorite tracks\. Updated regularly\. Curated by Laurent Garnier\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-51 songs - 4 hr 59 min
+52 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Sing To It](https://open.spotify.com/track/1ek7PlSjPK7N1cpWcCA5q3) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Nah Eeto](https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV) | [Sing To It](https://open.spotify.com/album/0vYWRMjedgZAKxMI2OwbF2) | 2:06 | 2023-11-22 | 2023-12-17 |
 | [Sing To It](https://open.spotify.com/track/4aLCYPCYZFIieIO3MRpggd) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Nah Eeto](https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV) | [I'll Wait, I Guess](https://open.spotify.com/album/5maV8uhGAs5FAsvmAelIWx) | 2:06 | 2023-11-22 |  |
 | [Space Cowboys \- Deetron Remix](https://open.spotify.com/track/4wWAcfa5LCyz9YXlOnJLrq) | [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs), [Bellville](https://open.spotify.com/artist/3R70yaBEmHf0VbsxY3uVih), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Incroyable Music \- Cabin in the Woods \(Remixes\)](https://open.spotify.com/album/2OTRW5teR3iq6DMMbnj0O5) | 9:03 | 2023-11-22 |  |
-| [Space Pilot 3000](https://open.spotify.com/track/5NTp8ZMumcunOeIFGGR3th) | [Quince](https://open.spotify.com/artist/2gUQQnVAJzMHh3TL10UmZ8) | [Anthology Of Interest](https://open.spotify.com/album/66T03wKXEbOFvyuXB4sBYE) | 6:54 | 2023-11-22 |  |
+| [Space Pilot 3000](https://open.spotify.com/track/5NTp8ZMumcunOeIFGGR3th) | [Quince](https://open.spotify.com/artist/2gUQQnVAJzMHh3TL10UmZ8) | [Anthology Of Interest](https://open.spotify.com/album/66T03wKXEbOFvyuXB4sBYE) | 6:54 | 2023-11-22 | 2024-03-09 |
+| [Space Pilot 3000](https://open.spotify.com/track/6XBqRtxFVjKe9RyRaB0YXi) | [Quince](https://open.spotify.com/artist/2gUQQnVAJzMHh3TL10UmZ8) | [Anthology of Interest](https://open.spotify.com/album/1Tfb2Yd1o86pD1v9deyWEJ) | 6:54 | 2023-11-22 |  |
 | [Stink](https://open.spotify.com/track/1BDjLOfhpxAO8SWSHjZnaV) | [Heist](https://open.spotify.com/artist/1xk9s7mLDJ5qNhZ3Q2XeGx), [DJ Pleasure](https://open.spotify.com/artist/5DJy9sn7NgNmQuclpv12m6) | [Flea Hop/Stink](https://open.spotify.com/album/2kEYiNmTUaE65ZxHn05vZY) | 4:16 | 2023-11-22 |  |
 | [Take What You Can](https://open.spotify.com/track/7MtvmMSXFIjFU1W32qQCp2) | [Bacavi](https://open.spotify.com/artist/7mRPKukfheKbpoHKRS7kkd) | [Take What You Can](https://open.spotify.com/album/4V4z2JkpTDJsd28k2eleS4) | 3:28 | 2023-11-22 |  |
 | [Tales from The Real World](https://open.spotify.com/track/5JuGY5qQy5byKT3RB04bYV) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ), [Alan Watts](https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b) | [33 Tours Et Puis S’en Vont](https://open.spotify.com/album/3XSKAzY7vrFudIP2aafoBE) | 10:56 | 2023-11-22 |  |

@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 503022,
+  "2024-03-09": 503043,
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: SG Lewis",
+  "description": "The home for alternative electronic music. Cover: Machinedrum, Tinashe",
   "name": "Altar",
   "tracks": [
     {
@@ -2973,6 +2973,24 @@
       "duration_ms": 189370,
       "name": "Cleo - Edit",
       "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
+    },
+    {
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341124,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv"
     },
     {
       "album": {
@@ -6103,7 +6121,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 174666,
       "name": "Fussy",
       "url": "https://open.spotify.com/track/5Z7SapaZCnLexMPTR3OFbS"
@@ -7349,7 +7367,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 201230,
       "name": "How Music Makes You Feel Better - Edit",
       "url": "https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN"
@@ -7561,7 +7579,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 229083,
       "name": "I Can See",
       "url": "https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr"
@@ -7996,6 +8014,24 @@
     },
     {
       "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD"
+    },
+    {
+      "album": {
         "name": "The Mission EP",
         "url": "https://open.spotify.com/album/1cf5kxoKkE9EG4McTVfkVO"
       },
@@ -8357,10 +8393,36 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 222439,
       "name": "JOY (In Me All The Time)",
       "url": "https://open.spotify.com/track/0cKYdxOPGO60h2c4DHbp7d"
+    },
+    {
+      "album": {
+        "name": "JOY (Life Goes On)",
+        "url": "https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "JOY (Life Goes On)",
+      "url": "https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ"
     },
     {
       "album": {
@@ -11559,7 +11621,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 256859,
       "name": "One Last Call",
       "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
@@ -13024,6 +13086,32 @@
     },
     {
       "album": {
+        "name": "ROOM IS ON FIRE (feat. AG Club)",
+        "url": "https://open.spotify.com/album/7m5a2dvnmwnce97spFC8Fy"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189728,
+      "name": "ROOM IS ON FIRE (feat. AG Club)",
+      "url": "https://open.spotify.com/track/1LgfBZnwX0IDLNrVbMZbzV"
+    },
+    {
+      "album": {
         "name": "Room With A View (Digital Underground)",
         "url": "https://open.spotify.com/album/2Fdl0K5pBsUQazFOHvPZVp"
       },
@@ -13035,7 +13123,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 286026,
       "name": "Room With A View (Digital Underground)",
       "url": "https://open.spotify.com/track/5j8QROQWSq9cnHAs89U2uf"
@@ -13665,7 +13753,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 184615,
       "name": "See Me",
       "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
@@ -14912,6 +15000,24 @@
     },
     {
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365461,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd"
+    },
+    {
+      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
       },
@@ -15319,6 +15425,28 @@
       "duration_ms": 180952,
       "name": "Talkin' Drums",
       "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
+    },
+    {
+      "album": {
+        "name": "Talking Too Much",
+        "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Talking Too Much",
+      "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
     },
     {
       "album": {
@@ -16442,6 +16570,28 @@
     },
     {
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/5cGbvD6RfHWaou8F6lpTuo"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296916,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/63TU6HeinhcJyEov0Z8ptB"
+    },
+    {
+      "album": {
         "name": "Trust EP",
         "url": "https://open.spotify.com/album/6hyUbx7yrv3RIf6akVuTeO"
       },
@@ -16769,6 +16919,24 @@
       "duration_ms": 251838,
       "name": "Unit 18",
       "url": "https://open.spotify.com/track/4QRHWbbFJhPqTFs6RPS1TV"
+    },
+    {
+      "album": {
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197036,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
     },
     {
       "album": {
@@ -17145,7 +17313,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 168275,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6H8YJ7IHiAEqTWPV5opclB"
@@ -17923,7 +18091,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 212506,
       "name": "You & I",
       "url": "https://open.spotify.com/track/3SqFOlaoUGG8DQLQ0pPkEU"
@@ -18189,6 +18357,28 @@
       "duration_ms": 156253,
       "name": "ZERO FIVE STARS",
       "url": "https://open.spotify.com/track/2HXLC1alUzezTMoBM0Sxkb"
+    },
+    {
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"
     },
     {
       "album": {

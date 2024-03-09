@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2LibHdCD0kbHnJyEsy1QCl"
+      },
+      "artists": [
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/6YLYJEuTASwSvckjFzZ6mJ"
+    },
+    {
+      "album": {
         "name": "DULM",
         "url": "https://open.spotify.com/album/5W80rmSWbCTTbEaKDLT4Ce"
       },
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 220682,
       "name": "Waste Bins",
       "url": "https://open.spotify.com/track/6veJB3wjtm5dAdQfhTIWUi"

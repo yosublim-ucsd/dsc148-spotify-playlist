@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Damsel (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4yv3v9bzrS6MwL5X6pjeeH"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281584,
+      "name": "Elodie's Maze",
+      "url": "https://open.spotify.com/track/41Kgj6Wuncv2yRhE4HQArh"
+    },
+    {
+      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/6l2sYGF6yH4TQZXD7O7XEd"
       },

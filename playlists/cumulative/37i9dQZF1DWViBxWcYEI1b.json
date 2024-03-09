@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Sofia Camara",
+  "description": "For those with a taste for both the new and the classic. Cover: Teddy Swims",
   "name": "Contemporary Blend",
   "tracks": [
     {
@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 242220,
       "name": "All My Broken Pieces",
       "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "album": {
         "name": "We're Getting Older",
         "url": "https://open.spotify.com/album/0m3K3323vCX8dMauAGd4Ch"
       },
@@ -2577,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "broken by you",
+        "url": "https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "broken by you",
+      "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
+    },
+    {
+      "album": {
         "name": "Broken Hearted",
         "url": "https://open.spotify.com/album/31nzRdy29f41xSsV1ConUk"
       },
@@ -2856,6 +2892,24 @@
       "duration_ms": 163628,
       "name": "Can't Give Up",
       "url": "https://open.spotify.com/track/24bUSn4O0HA8c3Y2mi5NqS"
+    },
+    {
+      "album": {
+        "name": "Care About Me",
+        "url": "https://open.spotify.com/album/3OMKHw3QWlhKqEd1aRxH5S"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165923,
+      "name": "Care About Me",
+      "url": "https://open.spotify.com/track/1xTzqBRcbLtLhJSiTjTifH"
     },
     {
       "album": {
@@ -4044,7 +4098,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 214583,
       "name": "Delayed Reaction",
       "url": "https://open.spotify.com/track/54aVxRwyXVMcXw02TanBEi"
@@ -8812,7 +8866,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 162146,
       "name": "if you only knew",
       "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
@@ -8838,6 +8892,24 @@
       "duration_ms": 236081,
       "name": "ilym (feat. ROSIE)",
       "url": "https://open.spotify.com/track/6iT0ZdQcHwzQDNcAC2oDKX"
+    },
+    {
+      "album": {
+        "name": "Imaan",
+        "url": "https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214088,
+      "name": "Imaan",
+      "url": "https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ"
     },
     {
       "album": {
@@ -10687,6 +10759,24 @@
     },
     {
       "album": {
+        "name": "losing a friend",
+        "url": "https://open.spotify.com/album/4m9PFXLJbwl88AkZvGyZpL"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214850,
+      "name": "losing a friend",
+      "url": "https://open.spotify.com/track/0Ha1KORr60UQXXi4dZsLLj"
+    },
+    {
+      "album": {
         "name": "Losing Faith",
         "url": "https://open.spotify.com/album/1HGxWsB6SlGGILjSAOKjnb"
       },
@@ -12048,7 +12138,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 208837,
       "name": "Name of God",
       "url": "https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB"
@@ -12864,7 +12954,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 168475,
       "name": "One Before The One",
       "url": "https://open.spotify.com/track/4zOZN1h568zZf7UoRaZNJr"
@@ -13303,6 +13393,24 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205265,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q"
+    },
+    {
+      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/1U5cKkDkjfKTrvrUcUocag"
       },
@@ -13368,7 +13476,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 191555,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV"
@@ -15678,7 +15786,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 271257,
       "name": "Staring at the Wall",
       "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
@@ -17332,6 +17440,24 @@
       "duration_ms": 149653,
       "name": "UNHEALTHY (feat. Shania Twain)",
       "url": "https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw"
+    },
+    {
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166941,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
     },
     {
       "album": {

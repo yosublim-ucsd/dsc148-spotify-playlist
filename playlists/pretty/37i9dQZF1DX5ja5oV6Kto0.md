@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Prettyboy D\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,136 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,171 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Cruise](https://open.spotify.com/track/7qQwxISOOlWNyMs7IZOmfL) | [YDN](https://open.spotify.com/artist/5qOCIzIkrgsvC9ZuupxN2F), [King Bulu](https://open.spotify.com/artist/29LKeyND9TWaTZwnfBiXvU) | [Cruise](https://open.spotify.com/album/7n6lBzsDCMgjTbnfM6NFSw) | 2:55 |
 | 80 | [WELCOME TO THE MOON](https://open.spotify.com/track/4SK0t01YG0xYa50pAiUzVi) | [Kakes ON](https://open.spotify.com/artist/3ZN2MVf7GNPJATGmu4dIHZ) | [MOON RAVE](https://open.spotify.com/album/3B8GUcf5RMCOYrFPRAGgcH) | 2:44 |
 
-Snapshot ID: `MCxmOTNjZDVmZTllOTkwY2Q3NjAwYTMwYWFjMjMzNjYyNTFmMjhiYmY0`
+Snapshot ID: `MCxiNmQxMDI2NmE1N2M4ODg1ZDk0MzcxNjRjMmI1OTE4ZTkzM2U1ZDNi`

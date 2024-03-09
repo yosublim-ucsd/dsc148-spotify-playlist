@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 402840,
+  "2024-03-09": 402846,
   "date_first_scraped": "2023-07-23",
   "description": "Voc\u00ea n\u00e3o para quando est\u00e1 cansado, s\u00f3 quando terminar!",
   "name": "Pegando Pesado",
@@ -323,7 +323,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 227847,
       "name": "Born For Greatness",
       "url": "https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 188919,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/2bz1WTXLHaFffolrF4GCml"

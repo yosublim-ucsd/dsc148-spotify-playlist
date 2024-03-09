@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-112 songs - 6 hr 30 min
+113 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Jaguar](https://open.spotify.com/track/0QcwSZWxpePBVSCbfIJUz6) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/2jKVZKviFNCICo24dK6nJ2) | 4:46 | 2023-12-30 |  |
 | [Jungle Gym](https://open.spotify.com/track/239JsGOqqmnTnvi0m8z95r) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:41 | 2023-12-30 |  |
 | [Let Me Know](https://open.spotify.com/track/29310yrKMYwmCw9yJwZJXV) | [Terace](https://open.spotify.com/artist/0OV8LLvJaGRRsSlBsBKdUl) | [Let Me Know](https://open.spotify.com/album/5WOyodAauh50nUftaZ355E) | 4:35 | 2023-12-30 |  |
+| [Love Focus](https://open.spotify.com/track/6ysLchNczIS4xLwU1xLTkU) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Love Focus](https://open.spotify.com/album/0kwAXI1WMtUShXlGIAMeXF) | 3:58 | 2024-03-08 |  |
 | [Love is Love \(Rainbow Family\)](https://open.spotify.com/track/5pCCM63CTua6J8PszAZdyZ) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:24 | 2023-12-30 |  |
 | [Make a Mess](https://open.spotify.com/track/4z6ZDa9a4GTWUhwbH6CRh0) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:45 | 2023-12-30 |  |
 | [Medicine](https://open.spotify.com/track/6X7yev8AOYCxhRIWXSLjS4) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Medicine](https://open.spotify.com/album/0Kfkm4MFAZhMKjveL3wXDK) | 3:02 | 2023-12-30 |  |

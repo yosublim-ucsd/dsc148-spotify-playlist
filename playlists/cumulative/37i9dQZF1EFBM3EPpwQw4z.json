@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Love Focus",
+        "url": "https://open.spotify.com/album/0kwAXI1WMtUShXlGIAMeXF"
+      },
+      "artists": [
+        {
+          "name": "Mell Hall",
+          "url": "https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238729,
+      "name": "Love Focus",
+      "url": "https://open.spotify.com/track/6ysLchNczIS4xLwU1xLTkU"
+    },
+    {
+      "album": {
         "name": "Dance Silly",
         "url": "https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js"
       },

@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 7680028,
+  "num_followers": 7685962,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmQwYjdmYjc4YmRlMTM2Zjk0ZjRkYzNhYzY5NWI1NDZkODQ1OTY2",
+  "snapshot_id": "MCxiMzJhZjAzODI4MTIxMGFhZDhmYWRjZjdkODZjMDliMGVkMzU4Mzg4",
   "tracks": [
     {
       "added_at": "2023-10-20 10:30:53",
@@ -33,22 +33,6 @@
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
     },
     {
-      "added_at": "2023-12-08 15:15:57",
-      "album": {
-        "name": "Montagem Mysterious Game",
-        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        }
-      ],
-      "duration_ms": 103495,
-      "name": "Montagem Mysterious Game",
-      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
-    },
-    {
       "added_at": "2024-02-09 15:25:18",
       "album": {
         "name": "FUNKED UP",
@@ -67,6 +51,22 @@
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
+      "added_at": "2023-12-08 15:15:57",
+      "album": {
+        "name": "Montagem Mysterious Game",
+        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "duration_ms": 103495,
+      "name": "Montagem Mysterious Game",
+      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
       "added_at": "2023-09-08 15:16:54",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
+      "added_at": "2023-12-01 14:11:37",
+      "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
       "added_at": "2023-06-02 17:32:35",
       "album": {
         "name": "MONTAGEM - PR FUNK",
@@ -143,30 +159,6 @@
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
-    },
-    {
-      "added_at": "2023-07-21 09:05:00",
-      "album": {
-        "name": "Automotivo Bibi Fogosa",
-        "url": "https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO"
-      },
-      "artists": [
-        {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        },
-        {
-          "name": "Dj Brunin XM",
-          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
-        },
-        {
-          "name": "KZA Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
-        }
-      ],
-      "duration_ms": 129798,
-      "name": "Automotivo Bibi Fogosa",
-      "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
     },
     {
       "added_at": "2023-06-09 13:51:36",
@@ -209,6 +201,30 @@
       "url": "https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7"
     },
     {
+      "added_at": "2023-07-21 09:05:00",
+      "album": {
+        "name": "Automotivo Bibi Fogosa",
+        "url": "https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        },
+        {
+          "name": "KZA Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
+        }
+      ],
+      "duration_ms": 129798,
+      "name": "Automotivo Bibi Fogosa",
+      "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
+    },
+    {
       "added_at": "2023-08-04 15:24:45",
       "album": {
         "name": "Memory Reboot",
@@ -227,22 +243,6 @@
       "duration_ms": 209416,
       "name": "Memory Reboot",
       "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
-    },
-    {
-      "added_at": "2023-12-01 14:11:37",
-      "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2023-07-28 11:47:20",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
     },
     {
+      "added_at": "2024-02-23 12:00:00",
+      "album": {
+        "name": "MONTAGEM DIAMANTE ROSA",
+        "url": "https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK"
+      },
+      "artists": [
+        {
+          "name": "vtze archive",
+          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
+        }
+      ],
+      "duration_ms": 114951,
+      "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
+      "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
+    },
+    {
       "added_at": "2023-09-15 14:15:29",
       "album": {
         "name": "TUCA DONKA",
@@ -303,6 +319,26 @@
       "duration_ms": 75692,
       "name": "TUCA DONKA",
       "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
+    },
+    {
+      "added_at": "2024-02-02 10:00:00",
+      "album": {
+        "name": "Ashi Ashi",
+        "url": "https://open.spotify.com/album/3VOa8TkkpnYLHC5JV9uApp"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "duration_ms": 110476,
+      "name": "Ashi Ashi",
+      "url": "https://open.spotify.com/track/6qlnqjooo2LfPr0FLbWsbQ"
     },
     {
       "added_at": "2023-06-09 13:51:36",
@@ -359,26 +395,6 @@
       "duration_ms": 212000,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
-    },
-    {
-      "added_at": "2024-02-02 10:00:00",
-      "album": {
-        "name": "Ashi Ashi",
-        "url": "https://open.spotify.com/album/3VOa8TkkpnYLHC5JV9uApp"
-      },
-      "artists": [
-        {
-          "name": "6YNTHMANE",
-          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
-        },
-        {
-          "name": "RXDXVIL",
-          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
-        }
-      ],
-      "duration_ms": 110476,
-      "name": "Ashi Ashi",
-      "url": "https://open.spotify.com/track/6qlnqjooo2LfPr0FLbWsbQ"
     },
     {
       "added_at": "2023-05-05 15:57:14",
@@ -485,22 +501,6 @@
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
-      "added_at": "2023-02-10 16:54:18",
-      "album": {
-        "name": "RAPTURE",
-        "url": "https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 164577,
-      "name": "RAPTURE",
-      "url": "https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"
-    },
-    {
       "added_at": "2022-10-14 08:20:18",
       "album": {
         "name": "GigaChad Theme (Phonk House Version)",
@@ -537,36 +537,20 @@
       "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
     },
     {
-      "added_at": "2023-12-29 17:44:16",
+      "added_at": "2024-03-08 15:34:20",
       "album": {
-        "name": "MANDA BALA",
-        "url": "https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl"
+        "name": "JUJALARIM FUNK",
+        "url": "https://open.spotify.com/album/0w7rzFrOSsiGvChfXdpCjz"
       },
       "artists": [
         {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
         }
       ],
-      "duration_ms": 100465,
-      "name": "MANDA BALA",
-      "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
-    },
-    {
-      "added_at": "2024-02-23 12:00:00",
-      "album": {
-        "name": "MONTAGEM DIAMANTE ROSA",
-        "url": "https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK"
-      },
-      "artists": [
-        {
-          "name": "vtze archive",
-          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
-        }
-      ],
-      "duration_ms": 114951,
-      "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
-      "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
+      "duration_ms": 121846,
+      "name": "JUJALARIM FUNK",
+      "url": "https://open.spotify.com/track/7A9G0xZfgNVM17TvBysVzl"
     },
     {
       "added_at": "2023-09-22 18:14:49",
@@ -585,6 +569,22 @@
       "url": "https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2"
     },
     {
+      "added_at": "2023-02-10 16:54:18",
+      "album": {
+        "name": "RAPTURE",
+        "url": "https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 164577,
+      "name": "RAPTURE",
+      "url": "https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"
+    },
+    {
       "added_at": "2022-11-11 07:32:56",
       "album": {
         "name": "Scopin",
@@ -599,26 +599,6 @@
       "duration_ms": 101632,
       "name": "Scopin",
       "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
-    },
-    {
-      "added_at": "2024-03-01 14:53:11",
-      "album": {
-        "name": "KRUSHSEXX",
-        "url": "https://open.spotify.com/album/0pjk79vhRixuMAx0fIuCi1"
-      },
-      "artists": [
-        {
-          "name": "nightfxrce",
-          "url": "https://open.spotify.com/artist/0zPcNpNWxJ8KZutFU26dfW"
-        },
-        {
-          "name": "dvspair",
-          "url": "https://open.spotify.com/artist/3z0A4imcC68KLhZGn4uwzw"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "KRUSHSEXX - SLOWED + REVERB",
-      "url": "https://open.spotify.com/track/27s4TayyokpSazOtWd06zX"
     },
     {
       "added_at": "2023-05-19 15:58:05",
@@ -695,6 +675,26 @@
       "duration_ms": 138857,
       "name": "SUNRISE (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR"
+    },
+    {
+      "added_at": "2024-03-01 14:53:11",
+      "album": {
+        "name": "KRUSHSEXX",
+        "url": "https://open.spotify.com/album/0pjk79vhRixuMAx0fIuCi1"
+      },
+      "artists": [
+        {
+          "name": "nightfxrce",
+          "url": "https://open.spotify.com/artist/0zPcNpNWxJ8KZutFU26dfW"
+        },
+        {
+          "name": "dvspair",
+          "url": "https://open.spotify.com/artist/3z0A4imcC68KLhZGn4uwzw"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "KRUSHSEXX - SLOWED + REVERB",
+      "url": "https://open.spotify.com/track/27s4TayyokpSazOtWd06zX"
     },
     {
       "added_at": "2023-02-04 02:41:25",
@@ -855,6 +855,22 @@
       "duration_ms": 98067,
       "name": "Mexican Phonk Eki",
       "url": "https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM"
+    },
+    {
+      "added_at": "2024-03-08 15:34:20",
+      "album": {
+        "name": "SHOWTIME",
+        "url": "https://open.spotify.com/album/4z1jKFerf7aZlplVgGMPAX"
+      },
+      "artists": [
+        {
+          "name": "SHADXWRXGE",
+          "url": "https://open.spotify.com/artist/79xnSL6gmGSmRyeuYosQm3"
+        }
+      ],
+      "duration_ms": 149705,
+      "name": "SHOWTIME",
+      "url": "https://open.spotify.com/track/0F3n2iQAzTULYrB8sZHYY5"
     },
     {
       "added_at": "2024-02-23 12:00:00",
@@ -1157,6 +1173,22 @@
       "url": "https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM"
     },
     {
+      "added_at": "2024-03-08 15:34:20",
+      "album": {
+        "name": "Project Brazil (Slowed)",
+        "url": "https://open.spotify.com/album/1PdOfOLuiNuvk7H0Cye1In"
+      },
+      "artists": [
+        {
+          "name": "MRL",
+          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+        }
+      ],
+      "duration_ms": 123473,
+      "name": "Automotivo Insufici\u00eancia - Slowed",
+      "url": "https://open.spotify.com/track/38WaXJLmp0pRWQcY7zFm2d"
+    },
+    {
       "added_at": "2023-07-07 17:01:13",
       "album": {
         "name": "THE AUTOTREM 1.0",
@@ -1421,22 +1453,6 @@
       "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
     },
     {
-      "added_at": "2024-01-19 16:32:11",
-      "album": {
-        "name": "CHIPI CHAPA BRAZIL",
-        "url": "https://open.spotify.com/album/6fxzNr5itaDZK2bhKWaGWt"
-      },
-      "artists": [
-        {
-          "name": "John Bis.T",
-          "url": "https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx"
-        }
-      ],
-      "duration_ms": 100476,
-      "name": "CHIPI CHAPA BRAZIL",
-      "url": "https://open.spotify.com/track/3RksMYhWbtDx6zicQFAn9F"
-    },
-    {
       "added_at": "2022-09-02 08:01:31",
       "album": {
         "name": "Step Back!",
@@ -1571,22 +1587,6 @@
       "duration_ms": 123870,
       "name": "PRINCE OF DARKNESS",
       "url": "https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ"
-    },
-    {
-      "added_at": "2023-07-07 17:01:13",
-      "album": {
-        "name": "KAMI",
-        "url": "https://open.spotify.com/album/2nOfcdpOxzJpXKe1YzEQL6"
-      },
-      "artists": [
-        {
-          "name": "DR M\u00d8B",
-          "url": "https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe"
-        }
-      ],
-      "duration_ms": 87679,
-      "name": "KAMI",
-      "url": "https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"
     },
     {
       "added_at": "2023-07-21 09:05:00",
@@ -1817,6 +1817,26 @@
       "url": "https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D"
     },
     {
+      "added_at": "2024-03-08 15:34:20",
+      "album": {
+        "name": "hex (krushfunk version)",
+        "url": "https://open.spotify.com/album/7eziC95swFXg8VQH0qOxPL"
+      },
+      "artists": [
+        {
+          "name": "kxttn",
+          "url": "https://open.spotify.com/artist/0vpc365IuiA7Ex5sPRADYy"
+        },
+        {
+          "name": "the ANTI social club",
+          "url": "https://open.spotify.com/artist/4HHaOYzrEpSCPSipWPuVBd"
+        }
+      ],
+      "duration_ms": 96545,
+      "name": "hex - krushfunk version",
+      "url": "https://open.spotify.com/track/4JgRo2cQU4jl4mxGk8gjyg"
+    },
+    {
       "added_at": "2024-02-16 17:03:51",
       "album": {
         "name": "gedagedago",
@@ -1875,42 +1895,6 @@
       "duration_ms": 84692,
       "name": "DEMON\u00cdACO MANO",
       "url": "https://open.spotify.com/track/1Ucdq5ig5JvlNis649Q7GY"
-    },
-    {
-      "added_at": "2023-06-30 16:50:50",
-      "album": {
-        "name": "Heavenly Key",
-        "url": "https://open.spotify.com/album/6hfG91cy4DWAarb2s8RAj0"
-      },
-      "artists": [
-        {
-          "name": "glichery",
-          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "Heavenly Key",
-      "url": "https://open.spotify.com/track/09m40hbfqNwnF5w2CbqIqt"
-    },
-    {
-      "added_at": "2024-02-09 15:25:18",
-      "album": {
-        "name": "Priviet Priviet Funk",
-        "url": "https://open.spotify.com/album/6GVrw38AnWNxdl8f9lrDXB"
-      },
-      "artists": [
-        {
-          "name": "MC VN Cria",
-          "url": "https://open.spotify.com/artist/40LeQEFO0XM6PI09sYowjn"
-        },
-        {
-          "name": "DJ Kayo Original",
-          "url": "https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7"
-        }
-      ],
-      "duration_ms": 155471,
-      "name": "Priviet Priviet Funk",
-      "url": "https://open.spotify.com/track/3iyWPAOj05R88SIkFjBTdj"
     }
   ],
   "unique_name": "phonk",

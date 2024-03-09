@@ -1,13 +1,29 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Galantis",
-  "num_followers": 146376,
+  "description": "The hottest new pop with all the drops. Cover: Minelli",
+  "num_followers": 146530,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWM3ZjQ1YjU5MGYxZjNhMDg2MWI5OWJhNjVhZGJlNmUzOWI3Yjg5",
+  "snapshot_id": "MCxhODg5MTk0YzFiMDc0YmE0YzU1YTQ5YzM5YTQ3YjU5YzdiMjk2YmFh",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Bug a Boo",
+        "url": "https://open.spotify.com/album/60NlVLHgcMjcxjyjPLyNMx"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "duration_ms": 204620,
+      "name": "Bug a Boo",
+      "url": "https://open.spotify.com/track/4ErxIoEHvAaebb3D2CpJ2T"
+    },
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
@@ -31,6 +47,114 @@
       "duration_ms": 172268,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "The Confession",
+        "url": "https://open.spotify.com/album/0xCBjfaeK0phUn47yMHHyP"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 138398,
+      "name": "The Confession",
+      "url": "https://open.spotify.com/track/0k63pQiWvEeyYdV3XJKwCg"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "That Energy",
+        "url": "https://open.spotify.com/album/0Ecmcz27yUk82z7MJSILBX"
+      },
+      "artists": [
+        {
+          "name": "Emerson Azarian",
+          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
+        }
+      ],
+      "duration_ms": 174851,
+      "name": "That Energy",
+      "url": "https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Drive (feat. Georgia Meek)",
+        "url": "https://open.spotify.com/album/28fckifZVmEObvhrpBRMIb"
+      },
+      "artists": [
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "PS1",
+          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
+        },
+        {
+          "name": "Georgia Meek",
+          "url": "https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS"
+        }
+      ],
+      "duration_ms": 137559,
+      "name": "Drive (feat. Georgia Meek)",
+      "url": "https://open.spotify.com/track/10qSgOI0fDaqnv201OVXxW"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Deserve Each Other",
+        "url": "https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167650,
+      "name": "Deserve Each Other",
+      "url": "https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Dance Til Forever",
+        "url": "https://open.spotify.com/album/4eOwFeAxACC7NNB23EuIWI"
+      },
+      "artists": [
+        {
+          "name": "Betta Lemme",
+          "url": "https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw"
+        }
+      ],
+      "duration_ms": 152679,
+      "name": "Dance Til Forever",
+      "url": "https://open.spotify.com/track/3p3pCKIXnOxqrqpYJejris"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Murder On The Dancefloor (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 174337,
+      "name": "Murder On The Dancefloor - David Guetta Remix",
+      "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -69,6 +193,86 @@
       "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Nice",
+        "url": "https://open.spotify.com/album/5dkQ8nDcT4UAIuTIjrIp1m"
+      },
+      "artists": [
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Nice",
+      "url": "https://open.spotify.com/track/0nV68m9WV17hrbzIUnDSUk"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Happy (feat. Tiina)",
+        "url": "https://open.spotify.com/album/7JbXWrz529d0L25gU7yju5"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Tiina",
+          "url": "https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Happy (feat. Tiina)",
+      "url": "https://open.spotify.com/track/3CjdXar5vfq39M06YNwCE0"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "SLEEP TONIGHT (THIS IS THE LIFE) [with R3HAB and Sam Feldt]",
+        "url": "https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 136312,
+      "name": "SLEEP TONIGHT (THIS IS THE LIFE) - with R3HAB and Sam Feldt",
+      "url": "https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "One Day At A Time",
+        "url": "https://open.spotify.com/album/6wDApgVGyK2woT7cNHz6Tq"
+      },
+      "artists": [
+        {
+          "name": "Hix",
+          "url": "https://open.spotify.com/artist/5aPDZDLHc63XbN7YbLdTIO"
+        },
+        {
+          "name": "Micky Blue",
+          "url": "https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/02DmujeD6z5T22xFOxAS1g"
+    },
+    {
       "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Dizzy",
@@ -83,6 +287,22 @@
       "duration_ms": 172879,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/16PKaDC9hWFS5qCNiFbHaR"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "duration_ms": 219566,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/1SMbbkmy371096e60XcstR"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -163,30 +383,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "SLEEP TONIGHT (THIS IS THE LIFE) [with R3HAB and Sam Feldt]",
-        "url": "https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru"
-      },
-      "artists": [
-        {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 136312,
-      "name": "SLEEP TONIGHT (THIS IS THE LIFE) - with R3HAB and Sam Feldt",
-      "url": "https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Dancing and Crying",
         "url": "https://open.spotify.com/album/3oMxQY4fUv2Y39BeE2qQXd"
       },
@@ -215,26 +411,6 @@
       "duration_ms": 160609,
       "name": "Kiss Me Better",
       "url": "https://open.spotify.com/track/2ihC2xsLpIMpd4JDEGUovU"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Murder On The Dancefloor (PNAU Remix)",
-        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "Murder On The Dancefloor - PNAU Remix",
-      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
     },
     {
       "added_at": "2024-03-01 05:01:00",

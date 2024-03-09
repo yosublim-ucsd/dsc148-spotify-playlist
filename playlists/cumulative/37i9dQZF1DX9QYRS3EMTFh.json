@@ -5875,6 +5875,28 @@
     },
     {
       "album": {
+        "name": "Riv\u00e9 an Kay l\u00e0",
+        "url": "https://open.spotify.com/album/0VAYbRvEB3vWKHVLz2OfXK"
+      },
+      "artists": [
+        {
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+        },
+        {
+          "name": "Elji",
+          "url": "https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147228,
+      "name": "Riv\u00e9 an Kay l\u00e0",
+      "url": "https://open.spotify.com/track/5JA77FsM3lDZoqgeg5kG8r"
+    },
+    {
+      "album": {
         "name": "40 Degr\u00e9s",
         "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
       },

@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 138907,
+  "2024-03-09": 138907,
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Moses, TAKTiX, KAHUKX",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Sexton",
   "name": "Local Hype",
   "tracks": [
     {
@@ -458,6 +458,32 @@
     },
     {
       "album": {
+        "name": "Airbnb",
+        "url": "https://open.spotify.com/album/7syVob47SrtleL33SoH0MF"
+      },
+      "artists": [
+        {
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        },
+        {
+          "name": "Kayem2x",
+          "url": "https://open.spotify.com/artist/0qo7gqk9EnojsHT1K8tQ1h"
+        },
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Airbnb",
+      "url": "https://open.spotify.com/track/1o7yR968UVG8jSNCUA7nLk"
+    },
+    {
+      "album": {
         "name": "All Three Eyes",
         "url": "https://open.spotify.com/album/7eLKNmCLp1dG8Mo11pW3Oi"
       },
@@ -855,6 +881,24 @@
       "duration_ms": 164750,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/5QNsqbcnu7Mrmzr9Dt5N2C"
+    },
+    {
+      "album": {
+        "name": "Back to Back",
+        "url": "https://open.spotify.com/album/5a53nDA0g6X0w2jV8xsNh0"
+      },
+      "artists": [
+        {
+          "name": "No Money Enterprise",
+          "url": "https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168922,
+      "name": "Back to Back",
+      "url": "https://open.spotify.com/track/1IdyeqRZL64acaATS8sK2m"
     },
     {
       "album": {
@@ -2249,6 +2293,24 @@
       "duration_ms": 125793,
       "name": "Choices",
       "url": "https://open.spotify.com/track/2M4s02m6qOFlm6ZZdqha4c"
+    },
+    {
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/2LfD3WwrM3BcQF8muen1b6"
+      },
+      "artists": [
+        {
+          "name": "Sexton",
+          "url": "https://open.spotify.com/artist/0k4gmF1Uhpyb8uCHz2fGU2"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178271,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0pkPXOYifXJDJkAFhb34Gb"
     },
     {
       "album": {
@@ -4606,6 +4668,24 @@
     },
     {
       "album": {
+        "name": "Get This Money",
+        "url": "https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Get This Money",
+      "url": "https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT"
+    },
+    {
+      "album": {
         "name": "Gettin' Loud (Test Me)",
         "url": "https://open.spotify.com/album/0ofCKY0GesHrid04WJYohB"
       },
@@ -6486,6 +6566,32 @@
     },
     {
       "album": {
+        "name": "Land Back",
+        "url": "https://open.spotify.com/album/5aNrfunBzPVlS9wf3GWZBh"
+      },
+      "artists": [
+        {
+          "name": "3%",
+          "url": "https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg"
+        },
+        {
+          "name": "Say True God?",
+          "url": "https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr"
+        },
+        {
+          "name": "DENNI",
+          "url": "https://open.spotify.com/artist/3zI6M5vaCgJ1AsflFlvdzw"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "Land Back",
+      "url": "https://open.spotify.com/track/1RtQj3njcVf6zNzuXX4D46"
+    },
+    {
+      "album": {
         "name": "LAST LAUGH!",
         "url": "https://open.spotify.com/album/1eynf1278QDBsSAmmG042K"
       },
@@ -7748,6 +7854,28 @@
     },
     {
       "album": {
+        "name": "More To Believe",
+        "url": "https://open.spotify.com/album/1wh1F4cNZ33zhX6zyU54aE"
+      },
+      "artists": [
+        {
+          "name": "Eliezer",
+          "url": "https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y"
+        },
+        {
+          "name": "Caco",
+          "url": "https://open.spotify.com/artist/4ewt9MFulQx64ZPNFUNhu9"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189016,
+      "name": "More To Believe",
+      "url": "https://open.spotify.com/track/6qZ4LqkZEZKVvJzWo3Fz7R"
+    },
+    {
+      "album": {
         "name": "Morpheus",
         "url": "https://open.spotify.com/album/0r4KH8Z2JhFdf9MIC98Hcn"
       },
@@ -8201,6 +8329,28 @@
       "duration_ms": 137600,
       "name": "Next Up Australia - S1-E7",
       "url": "https://open.spotify.com/track/4v64dIlDQ2k4ZpDZeJ4HDV"
+    },
+    {
+      "album": {
+        "name": "Next Up Australia - S1-E9",
+        "url": "https://open.spotify.com/album/3p7jtRW9XQ2CieEay3YYHx"
+      },
+      "artists": [
+        {
+          "name": "Tbi$h",
+          "url": "https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109655,
+      "name": "Next Up Australia - S1-E9 - Pt.2",
+      "url": "https://open.spotify.com/track/05xUGSY5lEmI3Dj4SlzKwz"
     },
     {
       "album": {
@@ -9315,6 +9465,28 @@
       "duration_ms": 192000,
       "name": "Payday",
       "url": "https://open.spotify.com/track/30DwyjRdWbvFlIR2TvdXcs"
+    },
+    {
+      "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/6nEThlLvwPyEOa6nxnGZXs"
+      },
+      "artists": [
+        {
+          "name": "Dera Meelan",
+          "url": "https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp"
+        },
+        {
+          "name": "deadforest",
+          "url": "https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189312,
+      "name": "Peak",
+      "url": "https://open.spotify.com/track/1uuDXngzZQnhjPYk7YJz7r"
     },
     {
       "album": {
@@ -11123,6 +11295,24 @@
       "duration_ms": 232727,
       "name": "Solid Rock (feat. William Barton)",
       "url": "https://open.spotify.com/track/1j1gXN6uHuzNkdqLQ9fPl6"
+    },
+    {
+      "album": {
+        "name": "Souljah",
+        "url": "https://open.spotify.com/album/6zImdzNBD90wZbAMkeoUvt"
+      },
+      "artists": [
+        {
+          "name": "SHARKY43",
+          "url": "https://open.spotify.com/artist/2hBDoKWNRWRW8Eq4vOi0do"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189890,
+      "name": "Souljah",
+      "url": "https://open.spotify.com/track/7eMDp8atBVbjwSi8V9iBC5"
     },
     {
       "album": {
@@ -13447,6 +13637,28 @@
       "duration_ms": 130612,
       "name": "WORST BEHAVIOUR",
       "url": "https://open.spotify.com/track/03GTtYFHCbaIDKySbAOYpP"
+    },
+    {
+      "album": {
+        "name": "WYM",
+        "url": "https://open.spotify.com/album/6YuHvxOZ9jkH9zWSxLWhE3"
+      },
+      "artists": [
+        {
+          "name": "Figuero Jones",
+          "url": "https://open.spotify.com/artist/0x07QTPyIoE2xSihIAncYF"
+        },
+        {
+          "name": "Aywy",
+          "url": "https://open.spotify.com/artist/6r38VaW3wElzmIlJ69Cz2L"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168602,
+      "name": "WYM",
+      "url": "https://open.spotify.com/track/6UJKTLScivUkehvSVcmPtm"
     },
     {
       "album": {

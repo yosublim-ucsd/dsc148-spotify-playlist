@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 303302,
+  "2024-03-09": 303395,
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Games We Play",
+  "description": "The best new music from the wide world of punk. Cover: Winona Fighter",
   "name": "All New Punk",
   "tracks": [
     {
@@ -671,7 +671,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 205200,
       "name": "A Predetermined Outcome",
       "url": "https://open.spotify.com/track/6KfFTiJskd1N8gsvCbwnxB"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 160615,
       "name": "Abortion",
       "url": "https://open.spotify.com/track/048Yte6RBmRVn3reWZQvYq"
@@ -1077,10 +1077,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 145621,
       "name": "Agent Mayhem",
       "url": "https://open.spotify.com/track/5eJjfsGu30PFeezgVnEyR6"
+    },
+    {
+      "album": {
+        "name": "Agujas",
+        "url": "https://open.spotify.com/album/4anUE93QCEG04QAiWDzz8m"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91328,
+      "name": "Agujas",
+      "url": "https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET"
     },
     {
       "album": {
@@ -1135,6 +1153,24 @@
       "duration_ms": 221720,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/5B0cWUeFpYUGP50B7iGrHE"
+    },
+    {
+      "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195686,
+      "name": "ALEXITHYMIA",
+      "url": "https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe"
     },
     {
       "album": {
@@ -2939,7 +2975,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 109945,
       "name": "BITTER MIND",
       "url": "https://open.spotify.com/track/3ItYVt5aOMYpN37Iyu2xpV"
@@ -3369,7 +3405,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 224310,
       "name": "Bobby Sox",
       "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
@@ -4504,6 +4540,24 @@
     },
     {
       "album": {
+        "name": "CAR",
+        "url": "https://open.spotify.com/album/3QDbEAuj3BIjfwAqKlXyNa"
+      },
+      "artists": [
+        {
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188201,
+      "name": "CAR",
+      "url": "https://open.spotify.com/track/0dJmlOm0zHBwoFoBEQxZrA"
+    },
+    {
+      "album": {
         "name": "Car Crash",
         "url": "https://open.spotify.com/album/2F4bQLWNLz55akGbkwu7BB"
       },
@@ -5102,6 +5156,24 @@
     },
     {
       "album": {
+        "name": "Choke",
+        "url": "https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW"
+      },
+      "artists": [
+        {
+          "name": "Cold Years",
+          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222186,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu"
+    },
+    {
+      "album": {
         "name": "the whaler",
         "url": "https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0"
       },
@@ -5633,7 +5705,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 199714,
       "name": "Coming After You",
       "url": "https://open.spotify.com/track/0HSq4jgNpXzdReE9cUo1XB"
@@ -6911,7 +6983,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 207760,
       "name": "Default Parody",
       "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
@@ -8067,7 +8139,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 178600,
       "name": "Dumbstruck Dumbf**k",
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
@@ -10167,7 +10239,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
@@ -11528,6 +11600,24 @@
     },
     {
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/12SH5u5SNXTkvXPlpuDVJq"
+      },
+      "artists": [
+        {
+          "name": "Napoleon",
+          "url": "https://open.spotify.com/artist/4UtWYEpykNIdMwiwCoAiBW"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160194,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/7aTqySEeR1QktRuAtF62bq"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/57hsuGuUiT3XmEQi3VymM7"
       },
@@ -12373,7 +12463,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 212760,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE"
@@ -13050,6 +13140,24 @@
     },
     {
       "album": {
+        "name": "I'm a Rat",
+        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130547,
+      "name": "I'm a Rat",
+      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
+    },
+    {
+      "album": {
         "name": "I'm Bored",
         "url": "https://open.spotify.com/album/31GcwxscE4bqvmVsXHXsM0"
       },
@@ -13065,6 +13173,24 @@
       "duration_ms": 128998,
       "name": "I'm Bored",
       "url": "https://open.spotify.com/track/3ivQ5nru2jY2vLhGy1f78a"
+    },
+    {
+      "album": {
+        "name": "I'M IN THE MARKET TO PLEASE NO ONE",
+        "url": "https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160683,
+      "name": "I'M IN THE MARKET TO PLEASE NO ONE",
+      "url": "https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r"
     },
     {
       "album": {
@@ -13433,6 +13559,24 @@
       "duration_ms": 198654,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/2onHY8ek2aQ1haU0iGndJD"
+    },
+    {
+      "album": {
+        "name": "Internet Boyfriend",
+        "url": "https://open.spotify.com/album/7leEn1Bs8jcwDhFbvR1Co8"
+      },
+      "artists": [
+        {
+          "name": "The Fake Friends",
+          "url": "https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201028,
+      "name": "Internet Boyfriend",
+      "url": "https://open.spotify.com/track/3hkT89QZ4uuuQKP8VXhxEj"
     },
     {
       "album": {
@@ -15139,7 +15283,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 54991,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1aVC5rxMrEvSSsESJrvEaz"
@@ -15743,6 +15887,24 @@
       "duration_ms": 233285,
       "name": "Lost it in the Lights",
       "url": "https://open.spotify.com/track/6sAYDdfiY3wT2J5lBfp4lX"
+    },
+    {
+      "album": {
+        "name": "Lost My Shadow",
+        "url": "https://open.spotify.com/album/7999iknBu9Bi1JwrKVTBFN"
+      },
+      "artists": [
+        {
+          "name": "IST IST",
+          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187998,
+      "name": "Lost My Shadow",
+      "url": "https://open.spotify.com/track/54wWzjb8JrOl99lr1gtDEI"
     },
     {
       "album": {
@@ -17543,6 +17705,24 @@
       "duration_ms": 178000,
       "name": "Myopic",
       "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
+    },
+    {
+      "album": {
+        "name": "LP Promo",
+        "url": "https://open.spotify.com/album/3ZbHIMv8pJIpUZVIbdBUUO"
+      },
+      "artists": [
+        {
+          "name": "Stand Still",
+          "url": "https://open.spotify.com/artist/7Ep4mjRwM3fETDvQE9gZPb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "Mysticism",
+      "url": "https://open.spotify.com/track/6fp4BzYeiOMivcA4rg8QD5"
     },
     {
       "album": {
@@ -19431,7 +19611,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 215597,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/21S1YmXsz3OUVclC7cFf8C"
@@ -19849,7 +20029,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 272668,
       "name": "PIN-EYE",
       "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
@@ -21804,6 +21984,24 @@
     },
     {
       "album": {
+        "name": "EP iii",
+        "url": "https://open.spotify.com/album/2PIWW0DFCG6MJl96s6gFYR"
+      },
+      "artists": [
+        {
+          "name": "PENGSHUi",
+          "url": "https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181835,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2DZ45B4hVwD6XoQ7gJE8ag"
+    },
+    {
+      "album": {
         "name": "Super Sn\u00f5\u00f5per",
         "url": "https://open.spotify.com/album/2zgNt2Z61ZncG9IPbEiWQL"
       },
@@ -23428,6 +23626,24 @@
     },
     {
       "album": {
+        "name": "Half Divorced",
+        "url": "https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr"
+      },
+      "artists": [
+        {
+          "name": "Pissed Jeans",
+          "url": "https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114625,
+      "name": "Sixty-Two Thousand Dollars in Debt",
+      "url": "https://open.spotify.com/track/3nDrc5G64LhtLgvM7DsbB4"
+    },
+    {
+      "album": {
         "name": "Sixty-Two Thousand Dollars in Debt",
         "url": "https://open.spotify.com/album/4EUlieukqx1aFsgAUCeHV5"
       },
@@ -23439,7 +23655,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 114625,
       "name": "Sixty-Two Thousand Dollars in Debt",
       "url": "https://open.spotify.com/track/7JGerdhe9mC2GMmGweOVfi"
@@ -23655,7 +23871,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 221465,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3dTlvE1QJ0UaZ1imdtA0Ot"
@@ -24097,6 +24313,24 @@
       "duration_ms": 202115,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0KBU3NUksxrPTUnMlxM5Ud"
+    },
+    {
+      "album": {
+        "name": "Spaced Out",
+        "url": "https://open.spotify.com/album/4Ftg4p1D4gF7HCV1ucJWN2"
+      },
+      "artists": [
+        {
+          "name": "Gouge Away",
+          "url": "https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104232,
+      "name": "Spaced Out",
+      "url": "https://open.spotify.com/track/3Cr6TCUv4alHv0JJQKEKbF"
     },
     {
       "album": {
@@ -25348,6 +25582,24 @@
     },
     {
       "album": {
+        "name": "TALK TOO MUCH",
+        "url": "https://open.spotify.com/album/7e0oukJAZVjz4XeIWMcHSN"
+      },
+      "artists": [
+        {
+          "name": "GANS",
+          "url": "https://open.spotify.com/artist/05PzzXnIetN4rWDlYv23SK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207996,
+      "name": "TALK TOO MUCH",
+      "url": "https://open.spotify.com/track/5G0lhABZxslqQ7lebhVcMN"
+    },
+    {
+      "album": {
         "name": "Talkin' On The Internet",
         "url": "https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay"
       },
@@ -26237,7 +26489,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 156733,
       "name": "The Fringe",
       "url": "https://open.spotify.com/track/0wgK70WRbb00WoWaiGzAMR"
@@ -27632,6 +27884,28 @@
     },
     {
       "album": {
+        "name": "Trouble Breathing",
+        "url": "https://open.spotify.com/album/2nGod4tclcjIXMmvyp4HAv"
+      },
+      "artists": [
+        {
+          "name": "Casa Loma",
+          "url": "https://open.spotify.com/artist/1bDZuX59AqwYMj9wbQnXVk"
+        },
+        {
+          "name": "Hot Rod Circuit",
+          "url": "https://open.spotify.com/artist/209McJAEbNbvQXsnuNJZJw"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168601,
+      "name": "Trouble Breathing",
+      "url": "https://open.spotify.com/track/7nKW5AAHoJXfvLXRWEeR0N"
+    },
+    {
+      "album": {
         "name": "Trouble In The Winners Circle",
         "url": "https://open.spotify.com/album/5W8A5K0N8AMmoUXAly4ldp"
       },
@@ -28429,6 +28703,24 @@
       "duration_ms": 211896,
       "name": "Vandal",
       "url": "https://open.spotify.com/track/2iXD71kuex1ZdDOcIKznPJ"
+    },
+    {
+      "album": {
+        "name": "Velvet Concrete Park",
+        "url": "https://open.spotify.com/album/3lo5eE56hjhnNfVOB85i06"
+      },
+      "artists": [
+        {
+          "name": "H.i.T.",
+          "url": "https://open.spotify.com/artist/4VQtc1kGvvi5LPbvioiGlD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130461,
+      "name": "Velvet Concrete Park",
+      "url": "https://open.spotify.com/track/2OuRdn6Uq1doMOz9l9IPX8"
     },
     {
       "album": {

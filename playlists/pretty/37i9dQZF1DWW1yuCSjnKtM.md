@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > These ones are taking off 🚀🚀🚀 Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,101 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,310 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 49 | [The Shard](https://open.spotify.com/track/5wCksGqEwmv9oEY5mhvFeQ) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [The Shard](https://open.spotify.com/album/1wGQy5ZlmFWNUjUBusCk2z) | 3:39 |
 | 50 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 |
 
-Snapshot ID: `MCxkZjcyZDllNGM4OGIyOGE3MTcyZjlmMDI4YzY4ZWU0MWE3OTVkOWJk`
+Snapshot ID: `MCxkM2Q5ODQzOWExZmMxMzc2ZTM2OGNhMjE1ODcwOGZjMzE0YTU3YzZi`

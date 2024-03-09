@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\)
 
-177 songs - 13 hr 2 min
+178 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Standstill](https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/7zysMr8JjfdgZO2GIAC0S0) | 4:26 | 2022-05-03 | 2022-12-03 |
 | [START OVER](https://open.spotify.com/track/4gKHPsGzAZPQzGuuvIm8eX) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [START OVER](https://open.spotify.com/album/0ZwMsN7Rq0QcGrfqO1E8Dd) | 3:17 | 2022-05-03 | 2023-09-14 |
 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 | 2023-02-24 |  |
+| [sun in my eyes](https://open.spotify.com/track/71wLiJRoaTUH6vpUgU7tYP) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Image \#4](https://open.spotify.com/album/0MkjQ5J3apbaP2LqxTX5bW) | 6:10 | 2024-03-08 |  |
 | [Sunflower](https://open.spotify.com/track/7tbyBVCqd0RPlJulWcz0bO) | [Choi Aim](https://open.spotify.com/artist/10iBhcYlA7mJ3VxkZdIl5i) | [Sunflower](https://open.spotify.com/album/6ak25dnY0MuutpgD0OVLAo) | 4:09 | 2023-03-31 |  |
 | [Sunny after the rain](https://open.spotify.com/track/5EYXCX3C33oyz7EGyBUoo4) | [Ohhwapyoung](https://open.spotify.com/artist/5Ld0vZxZXB0C467fp1bJ7U) | [Weekly Ohhwapyoung Season 4 Vol.39](https://open.spotify.com/album/4R4vkv6lrO0cSjH0jSGTss) | 2:24 | 2022-05-03 | 2023-02-08 |
 | [Swing Slam](https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Swing Slam](https://open.spotify.com/album/3q6KvvIzC0r1k8bT4DGErv) | 3:48 | 2023-02-14 |  |

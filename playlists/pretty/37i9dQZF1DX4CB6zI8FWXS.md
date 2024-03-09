@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,658 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,667 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 9 | [Good To You](https://open.spotify.com/track/6MCNttjmvWPu35S66FdlBO) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Good To You](https://open.spotify.com/album/3diO45AmnzAWU8IpIdkb8o) | 3:27 |
 | 10 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 |
 | 11 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
-| 12 | [Body](https://open.spotify.com/track/7bjxgDqdmTVg9HaDZTmT9j) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Body](https://open.spotify.com/album/3DDuKCiSPV7HzUaIaKznKa) | 2:34 |
+| 12 | [Body](https://open.spotify.com/track/5DXd9jo8UuohN0FMtMpQ1P) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Body](https://open.spotify.com/album/2g1QI3LnUDxleoJCppj3f4) | 2:34 |
 | 13 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 |
 | 14 | [Let Me Remind You](https://open.spotify.com/track/2cRGl5JIn2RnpjKuJxUoG3) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [SammyB](https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ) | [Let Me Remind You](https://open.spotify.com/album/1R9MUIcsyDYza6xkkXpm36) | 3:09 |
 | 15 | [Walk Away](https://open.spotify.com/track/6JQdSgIGB0hL7nwu1HrWCu) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt) | [Walk Away](https://open.spotify.com/album/5ybGGkPWigSINxSqXRulmq) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
 | 80 | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM) | 3:34 |
 
-Snapshot ID: `MCw0YmM0MDY1NmQyMjQ2MzJkOGYwNjU2ZTllMzg4MWYzNGY2OTZhM2Zi`
+Snapshot ID: `MCxhZDhjMmUwNjI2OGNlMjg3NjQ4ODBhMTNkMjgzYTQ1ZWJkOGMwNjlm`

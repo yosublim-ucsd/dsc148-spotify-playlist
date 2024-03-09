@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Chayuta",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Guchi",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -578,6 +578,24 @@
       "duration_ms": 235500,
       "name": "African King",
       "url": "https://open.spotify.com/track/1HT3WC8PiAozwEzCX5oYzT"
+    },
+    {
+      "album": {
+        "name": "Afro Bass",
+        "url": "https://open.spotify.com/album/5OFYLCyFCuhR4hnTlqQtvn"
+      },
+      "artists": [
+        {
+          "name": "Cznbaby",
+          "url": "https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152971,
+      "name": "Afro Bass",
+      "url": "https://open.spotify.com/track/57SIbxmrWA7GsMtv5micLJ"
     },
     {
       "album": {
@@ -1688,6 +1706,24 @@
       "duration_ms": 147272,
       "name": "Blind",
       "url": "https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae"
+    },
+    {
+      "album": {
+        "name": "Blood Tonic",
+        "url": "https://open.spotify.com/album/7kIoxsjk34Il4LwfY89E4A"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167423,
+      "name": "Blood Tonic",
+      "url": "https://open.spotify.com/track/5JiTgli1D3CpDsFpDFDgyJ"
     },
     {
       "album": {
@@ -5905,6 +5941,40 @@
     },
     {
       "album": {
+        "name": "Celine Vol. I",
+        "url": "https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV"
+      },
+      "artists": [
+        {
+          "name": "Plug Music",
+          "url": "https://open.spotify.com/artist/1oLFSlAW97YRIhXAWWmCdU"
+        },
+        {
+          "name": "Oiza x Meyi",
+          "url": "https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ"
+        },
+        {
+          "name": "Peb",
+          "url": "https://open.spotify.com/artist/3bvytC8mIZgNlMGiWtzTU1"
+        },
+        {
+          "name": "Reynbow",
+          "url": "https://open.spotify.com/artist/61XaM5gMcoCAslh87geEVQ"
+        },
+        {
+          "name": "Yoma",
+          "url": "https://open.spotify.com/artist/0Ifsqx9PTlmpGRqE0jnXNK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130063,
+      "name": "Hot Box",
+      "url": "https://open.spotify.com/track/7sEYYNhpjS2XUoS2YXmmBO"
+    },
+    {
+      "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
       },
@@ -6296,6 +6366,24 @@
       "duration_ms": 144146,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/7qp9S0FfyfCuFHV8MD9pQ6"
+    },
+    {
+      "album": {
+        "name": "I'm Here",
+        "url": "https://open.spotify.com/album/2Rj3tI88QYmUcSiC1Mqsp6"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192416,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/7joutRkcXCkujSPf9x5WB3"
     },
     {
       "album": {
@@ -10179,6 +10267,24 @@
     },
     {
       "album": {
+        "name": "The Walking Man",
+        "url": "https://open.spotify.com/album/0Fcs9ZCVb4UeITuoUDDWnW"
+      },
+      "artists": [
+        {
+          "name": "Alenu",
+          "url": "https://open.spotify.com/artist/2Gyi48nUYchPtoJDF6eCul"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177986,
+      "name": "Onye Ije",
+      "url": "https://open.spotify.com/track/2bYdxvjMZA6T9YK5JMM8w4"
+    },
+    {
+      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/0oZ0lAft8GGuLtinZGSRGz"
       },
@@ -11098,6 +11204,28 @@
       "duration_ms": 174285,
       "name": "Proud of You",
       "url": "https://open.spotify.com/track/4C9tt3KQzIsFsC1xllzXVm"
+    },
+    {
+      "album": {
+        "name": "Proverbs 31 Woman",
+        "url": "https://open.spotify.com/album/4ZFXhqhJQ01oYZiMk8pC63"
+      },
+      "artists": [
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "Proverbs 31 Woman",
+      "url": "https://open.spotify.com/track/4fi5eKXzsVMDo5lSxqWx6X"
     },
     {
       "album": {
@@ -13839,6 +13967,32 @@
     },
     {
       "album": {
+        "name": "Celine Vol. I",
+        "url": "https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV"
+      },
+      "artists": [
+        {
+          "name": "Plug Music",
+          "url": "https://open.spotify.com/artist/1oLFSlAW97YRIhXAWWmCdU"
+        },
+        {
+          "name": "Aema",
+          "url": "https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2"
+        },
+        {
+          "name": "Firefly",
+          "url": "https://open.spotify.com/artist/31lt312E2FmmnrGqd1Mcv9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2y2tmHmV5f2UvQDQLqBpwZ"
+    },
+    {
+      "album": {
         "name": "Too Early",
         "url": "https://open.spotify.com/album/2ysvTBST3QhzfQWaAmSKLS"
       },
@@ -14955,6 +15109,24 @@
     },
     {
       "album": {
+        "name": "High Landn",
+        "url": "https://open.spotify.com/album/0kL4omDuEk3KRAkjOyvSau"
+      },
+      "artists": [
+        {
+          "name": "Marioking XXXL",
+          "url": "https://open.spotify.com/artist/4EFTG0qBZ4unFS4ovjeNtm"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178808,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/589ZFynTSRwiASVGyWqim8"
+    },
+    {
+      "album": {
         "name": "WORK",
         "url": "https://open.spotify.com/album/5mWVY9sdHib1YkZHOxuE3X"
       },
@@ -15118,6 +15290,28 @@
       "duration_ms": 140000,
       "name": "You Know the Vibe",
       "url": "https://open.spotify.com/track/0T763g3Fki9eMoz6CLltmz"
+    },
+    {
+      "album": {
+        "name": "Celine Vol. I",
+        "url": "https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV"
+      },
+      "artists": [
+        {
+          "name": "Plug Music",
+          "url": "https://open.spotify.com/artist/1oLFSlAW97YRIhXAWWmCdU"
+        },
+        {
+          "name": "Raebel",
+          "url": "https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "You Need To",
+      "url": "https://open.spotify.com/track/5yC1nqnRKZMrP8TsZd25zB"
     },
     {
       "album": {

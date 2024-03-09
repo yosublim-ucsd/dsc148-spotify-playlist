@@ -4,7 +4,7 @@
 
 > The state of shoegaze, featuring over 20 new tracks added by flyingfish.
 
-567 songs - 1 day 12 hr 59 min
+568 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-20 | 2023-09-02 |
 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 | 2023-11-14 |  |
 | [kmart amen break](https://open.spotify.com/track/5ZmZfrXm35ak5SYvO9kAKk) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [s](https://open.spotify.com/album/3Lj48iwzK7wF0oT4KCsDtV) | 2:40 | 2024-02-23 |  |
+| [krillin](https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h), [SUN ORGAN](https://open.spotify.com/artist/13ZwcU5VGUsd4nB6hsUYCp) | [krillin](https://open.spotify.com/album/15V7baihpBBfFTTtxxOmgB) | 2:15 | 2024-03-08 |  |
 | [Lambspring](https://open.spotify.com/track/0Uz7iEsz2mME7o48aXcasP) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Dissolution Wave](https://open.spotify.com/album/0XABQZMWdLKgGfpFcsmBjR) | 5:20 | 2023-02-17 | 2023-07-29 |
 | [Last Frontier](https://open.spotify.com/track/16kSF0h2frEYF7ocOy9HR8) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Last Frontier](https://open.spotify.com/album/0BNA6SBUu1YJiaof5vlRGD) | 4:09 | 2024-02-16 |  |
 | [Last Night's Haze](https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV) | [Star Horse](https://open.spotify.com/artist/1zC23cF77Lj7ukFsy19nor) | [Devour](https://open.spotify.com/album/6xhZzuX1veVEVGCTxsLMaM) | 3:29 | 2022-12-15 | 2023-06-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Jaimes x DubVision
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,734 likes - 91 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,751 likes - 91 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 8 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 |
 | 9 | [Never Be Lonely \- Cascada Remix](https://open.spotify.com/track/2OOCFcLq9vDnxbMvAMopi3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Never Be Lonely \(Cascada Remix\)](https://open.spotify.com/album/0CNe6GLbpxRWKXYTK8bytw) | 2:06 |
 | 10 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 |
-| 11 | [Young](https://open.spotify.com/track/4mlWApr7spTrgeGwZCzLoY) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [KAYDI](https://open.spotify.com/artist/20xXGxxFLuz25nDMWiOt9x), [LoudNæss](https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w) | [Young](https://open.spotify.com/album/2fSgbqkLaVuwaUnSMdbCt6) | 2:59 |
+| 11 | [Young](https://open.spotify.com/track/4Vdk0u92ByPm7csuVx1BtJ) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [KAYDI](https://open.spotify.com/artist/45Uz55b0cOZG7vABsI0tiP), [LoudNæss](https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w) | [Young](https://open.spotify.com/album/15vxnjkbXEMCBactDfr8ZX) | 2:59 |
 | 12 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 |
 | 13 | [Make A Way](https://open.spotify.com/track/1slOgDzcJxTaOp9c9rAcgj) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Make A Way](https://open.spotify.com/album/2NTdip5ayyfxdcxRJCwUyl) | 3:11 |
 | 14 | [Strangers](https://open.spotify.com/track/6sgwPawzyiq8M93UzMlOwa) | [Russen](https://open.spotify.com/artist/4QP7JH6ALbOq2aozkAfTKG), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Strangers](https://open.spotify.com/album/0ufYbLSZToKdsFkkaJMpam) | 2:28 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 90 | [Gaze Riddim](https://open.spotify.com/track/5Xq7NJfg5tS5qBG1iW0k9Z) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Justri](https://open.spotify.com/artist/538AGkkV4ipbxcHx47TvxA) | [Gaze Riddim](https://open.spotify.com/album/5Xzat1xqYPrvGcntlRUIgN) | 2:32 |
 | 91 | [Hostage](https://open.spotify.com/track/7ljHWDkPS449wZCcsaKPAE) | [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt), [Redeem](https://open.spotify.com/artist/6u1kWzXYc0GmRXyoWnkzPM) | [Hostage](https://open.spotify.com/album/5jFdwkp4wQL3a7PWAlIncg) | 2:50 |
 
-Snapshot ID: `MCw3NTFkZmYzMDdhYjI1ZDNlMjMyN2Y0Zjc4M2QwZjEwZjlhNGQ5YzFm`
+Snapshot ID: `MCxlMjIzYjVhYjk2NTU0YmM1NThkYjBmNWMzYWFiYzlmNGVmMmYxOWQx`

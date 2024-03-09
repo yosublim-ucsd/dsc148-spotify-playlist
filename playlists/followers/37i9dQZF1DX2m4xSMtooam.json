@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 189230,
+  "2024-03-09": 189343,
   "date_first_scraped": "2022-05-26",
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
   "name": "Bossa Chill",
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 318080,
       "name": "Estate",
       "url": "https://open.spotify.com/track/29nsxzITJQJpaja7RvTupi"
@@ -2463,6 +2463,24 @@
       "duration_ms": 242866,
       "name": "L\u00e1 Vem a Baiana",
       "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+    },
+    {
+      "album": {
+        "name": "Maneiro",
+        "url": "https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt"
+      },
+      "artists": [
+        {
+          "name": "Eric Merlino",
+          "url": "https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243751,
+      "name": "Maneiro",
+      "url": "https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi"
     },
     {
       "album": {

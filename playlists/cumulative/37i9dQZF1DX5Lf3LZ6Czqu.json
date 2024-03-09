@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Child of Bliss",
+        "url": "https://open.spotify.com/album/7qJGXVWUhGsQZeTo48uVz9"
+      },
+      "artists": [
+        {
+          "name": "Nick Johnston",
+          "url": "https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372465,
+      "name": "Child of Bliss",
+      "url": "https://open.spotify.com/track/6Z4liSmJZe9cfeDbROdm25"
+    },
+    {
+      "album": {
         "name": "Vibe Station",
         "url": "https://open.spotify.com/album/2mfI8M24SEgLZdbNdZowSC"
       },
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 333002,
       "name": "Moonflower",
       "url": "https://open.spotify.com/track/7bzX29IpQwJFBU1ltxspyl"

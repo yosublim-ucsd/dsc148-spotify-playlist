@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2FmOTEzMmM2NDMzOTQwMDk5ZTBhYTM4MTg0OTcyYzlmMmUyN2Fh",
+  "snapshot_id": "MCwwNGY2MjZlYzFhYTJhOGM2MTg0NzliNTI3NWExYjcwMWUzNjBkYjY3",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
-      },
-      "artists": [
-        {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
-        }
-      ],
-      "duration_ms": 233966,
-      "name": "\ub09c \ub110 \uc6d0\ud574",
-      "url": "https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
         "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 242341,
       "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
       "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 233966,
+      "name": "\ub09c \ub110 \uc6d0\ud574",
+      "url": "https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -831,18 +831,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ud551\uacc4",
-        "url": "https://open.spotify.com/album/2Aof43935C9VCXzV7HnA39"
+        "name": "Baby Vox \u2161",
+        "url": "https://open.spotify.com/album/49DaLjXDOJTaSoYa4fCXoD"
       },
       "artists": [
         {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+          "name": "Baby V.O.X",
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
         }
       ],
-      "duration_ms": 219173,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/7hZSoai2QgXbTuLeskVaVH"
+      "duration_ms": 230821,
+      "name": "\uc57c\uc57c\uc57c",
+      "url": "https://open.spotify.com/track/3tdjYReotb6TUeDNUl3bRV"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -863,18 +863,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Baby Vox \u2161",
-        "url": "https://open.spotify.com/album/49DaLjXDOJTaSoYa4fCXoD"
+        "name": "\ud551\uacc4",
+        "url": "https://open.spotify.com/album/2Aof43935C9VCXzV7HnA39"
       },
       "artists": [
         {
-          "name": "Baby V.O.X",
-          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
         }
       ],
-      "duration_ms": 230821,
-      "name": "\uc57c\uc57c\uc57c",
-      "url": "https://open.spotify.com/track/3tdjYReotb6TUeDNUl3bRV"
+      "duration_ms": 219173,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/7hZSoai2QgXbTuLeskVaVH"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Kim Gun Mo 3",
-        "url": "https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 258160,
-      "name": "Wrongful Meeting",
-      "url": "https://open.spotify.com/track/3tWBKBa1l96An8KFfGo0Lx"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "The Reign",
         "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 225946,
       "name": "A-Yo",
       "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Kim Gun Mo 3",
+        "url": "https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 258160,
+      "name": "Wrongful Meeting",
+      "url": "https://open.spotify.com/track/3tWBKBa1l96An8KFfGo0Lx"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ub3c5\ucc3d\ud68c \u2161 1981~2002 (Live)",
-        "url": "https://open.spotify.com/album/4GwoC91P9MEZfyuk3ObLBb"
-      },
-      "artists": [
-        {
-          "name": "Lee Moon Sae",
-          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
-        }
-      ],
-      "duration_ms": 140253,
-      "name": "\ubd89\uc740 \ub178\uc744",
-      "url": "https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Click-B",
         "url": "https://open.spotify.com/album/7Jt6i57qFtmBUeXFLZrMFF"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 242093,
       "name": "To Be Continued",
       "url": "https://open.spotify.com/track/7L4fxoCYiWzFWepXU3yv9m"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\ub3c5\ucc3d\ud68c \u2161 1981~2002 (Live)",
+        "url": "https://open.spotify.com/album/4GwoC91P9MEZfyuk3ObLBb"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "duration_ms": 140253,
+      "name": "\ubd89\uc740 \ub178\uc744",
+      "url": "https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "2nd Album",
-        "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
-      },
-      "artists": [
-        {
-          "name": "YTC",
-          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
-        }
-      ],
-      "duration_ms": 250618,
-      "name": "\ud0c0\uc778",
-      "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Click-B 3",
         "url": "https://open.spotify.com/album/59JEuiM9FKWpulCD9SzCqI"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 235413,
       "name": "\ubc31\uc804\ubb34\ud328 (\u767e\u6230\u7121\u6557)",
       "url": "https://open.spotify.com/track/1ul8G5Eam9xzVGnG11Ull9"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "2nd Album",
+        "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
+      },
+      "artists": [
+        {
+          "name": "YTC",
+          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
+        }
+      ],
+      "duration_ms": 250618,
+      "name": "\ud0c0\uc778",
+      "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "One Flew over the Cuckoo's Nest",
-      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Jinusean",
         "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 243910,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1XZHPuWHpyaVRsgOW2OVoB"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "One Flew over the Cuckoo's Nest",
+      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
     },
     {
       "added_at": "2021-03-11 16:28:13",

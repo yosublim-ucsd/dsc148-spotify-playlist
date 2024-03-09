@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: Phí Phương Anh
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,461 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,462 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 32 | [Cánh Cửa](https://open.spotify.com/track/6dvh8dpUCNvKRoJt8m2eMM) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Door To Nowhere](https://open.spotify.com/album/5l7m3Ck0FMb0nDgzZfOBr3) | 3:41 |
 | 33 | [Rót Tiếp](https://open.spotify.com/track/5U61WeETed0vWK3HUf8Xr6) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3), [Steji](https://open.spotify.com/artist/5AnW83Ip0xPJ3Pgn0YWDhd) | [Rót Tiếp](https://open.spotify.com/album/4c4l3zyMSwsDjajgrhJ5dq) | 3:10 |
 | 34 | [GPS](https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [LostOwl](https://open.spotify.com/artist/2nO3NsrkKhV3cBI7X1wYbb), [Nam Ngo](https://open.spotify.com/artist/5rEpvWrgw0tvax27frKVlH) | [GPS](https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN) | 3:59 |
-| 35 | [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/4Xai78OB5OKQI9EFYcCzxD) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 3:47 |
+| 35 | [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/3RdqYxmpZmeqTnkqRA9vBV) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa \- Maxi Single](https://open.spotify.com/album/1hJ4ByH5DIbywauU2koZDT) | 3:47 |
 | 36 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 |
 | 37 | [Lại Gần Và Để Anh Ôm Em Lâu Hơn \- Acoustic Version](https://open.spotify.com/track/0YwdLjGal3u9hR5Ww1tWx7) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/25v8fVEZFohNneJf5stiSu) | 3:24 |
 | 38 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 54 | [HUNGOVER \(feat\. Vũ Cát Tường\)](https://open.spotify.com/track/5cxX6mL978HKzOMcGqKD8v) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT), [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Hungover \(feat\. Vũ Cát Tường\)](https://open.spotify.com/album/4y3eau8LhHk8VDoDWB7HWQ) | 5:29 |
 | 55 | [Words You Want \(feat\. SOI\)](https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want \(feat\. SOI\)](https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z) | 2:24 |
 | 56 | [Biết Sao Được](https://open.spotify.com/track/5oksT9bmSgHN9gaKvmpgXp) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Lý Bực](https://open.spotify.com/artist/1pqC3oSnMeSmehSgahdji5) | [Biết Sao Được](https://open.spotify.com/album/5Pl9ObSp8EPfkdehTqrTel) | 3:01 |
-| 57 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 |
+| 57 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/2ozchu3Zz56PixMzMP8r94) | 3:45 |
 | 58 | [Get Me](https://open.spotify.com/track/5lu7zyOOAmzhZNPsZun4DD) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Get Me](https://open.spotify.com/album/7r7IWC6DNLJzbYDMNRn86k) | 3:33 |
 | 59 | [my, my, my](https://open.spotify.com/track/1W1SPIukViuTd6wPo7hWB6) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [juhye](https://open.spotify.com/artist/3xjFSJEkVSZvWdhMK4aOPl) | [my, my, my](https://open.spotify.com/album/701FniKi8G2MPnpbryojrj) | 3:36 |
 | 60 | [Bịt Mắt Bắt Anh](https://open.spotify.com/track/2YYgjG6Vm9lV74IOM5nkdY) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [Bịt Mắt Bắt Anh](https://open.spotify.com/album/6qt24jojUkZSSiVGgKAemp) | 2:59 |
 
-Snapshot ID: `MCxhMGM1MjE0M2UyNTZmMjM1NTIwYTQyMjU2NWU1NTUzZTBlNzVhYzMw`
+Snapshot ID: `MCxjNjMwNTNiNjY3ZmQ2YWMzYzViMjY4MWE4ODE2MWM3YjFhZjllZmFl`

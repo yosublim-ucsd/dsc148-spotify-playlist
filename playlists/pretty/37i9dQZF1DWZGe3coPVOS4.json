@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 8704,
+  "num_followers": 8719,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODVkZGY4OTAyNzFjYjhlYjY3YzJjZDdlMGFkMWI5YTkwMmU1MmI4",
+  "snapshot_id": "MCw0ZjFhNTFlMjU3NTQyMzg3NGIxYzVmYWMxY2FkNTU2NzY1YWJiMTRm",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 130848,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98"
+    },
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {

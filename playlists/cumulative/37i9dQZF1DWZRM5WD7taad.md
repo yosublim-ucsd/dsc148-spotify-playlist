@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Ximbo en Portada
 
-265 songs - 13 hr 27 min
+267 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Fuck You](https://open.spotify.com/track/2e4NdNHHR8gNWPMnMgQydk) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Fuck You](https://open.spotify.com/album/2nd8KGiesKxYRHgK7Rpqt4) | 3:24 | 2021-12-13 | 2022-02-04 |
 | [Fuera de Juego](https://open.spotify.com/track/7IZHqbElo3bY7FS8IBon74) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [SOTAN](https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O) | [Fuera de Juego](https://open.spotify.com/album/4ohrUceIP0BeRfYJBW8VxQ) | 2:32 | 2023-03-24 | 2023-09-16 |
 | [Furyosa](https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Furyosa](https://open.spotify.com/album/1RxwnAQQhI86ZxxtzRGynx) | 2:37 | 2023-11-10 |  |
+| [Fé De Más](https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Fé De Más](https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx) | 2:20 | 2024-03-08 |  |
 | [Golpe Avisa](https://open.spotify.com/track/6uXdP0a9lZ6fbWJQUcbN2R) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu) | [Golpe Avisa](https://open.spotify.com/album/5wsCUfFhW6pi3iGejBlmNB) | 2:28 | 2023-10-06 |  |
 | [Heredera del Surrealismo](https://open.spotify.com/track/1cZOOpH1GcwyjymOJCHy2Z) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [elgaboaraya](https://open.spotify.com/artist/4Sdq3EMi1CR3AEvQuNnSBE) | [Heredera del Surrealismo](https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp) | 2:32 | 2023-11-17 |  |
 | [Hija De P](https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Hija De P](https://open.spotify.com/album/5ayP0qmXTKQfGUgMRXoEg9) | 2:05 | 2023-11-10 |  |
@@ -149,8 +150,9 @@
 | [Madre Mía](https://open.spotify.com/track/1V822HJJSnH20A5mxxXpQX) | [Beelial](https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k) | [Madre Mía](https://open.spotify.com/album/35Xa7O65iOCPZcXqKjApKh) | 3:10 | 2021-12-13 | 2022-07-29 |
 | [Madre Mía](https://open.spotify.com/track/4wREpwAeOahQ37NBO47QqT) | [Beelial](https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k) | [Madre Mía](https://open.spotify.com/album/6mWj8CTUKbpTqYHmJShw7j) | 3:10 | 2022-06-27 | 2023-03-11 |
 | [Mala Vida](https://open.spotify.com/track/75qzBs73rU11GaAGBOBypc) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Mala Vida](https://open.spotify.com/album/6zqlltyMymh6XhIZ4BjhGq) | 2:31 | 2023-12-01 |  |
-| [Mala Vida](https://open.spotify.com/track/3SzBLvShr2FKp1qSaqK6cm) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Mala Vida](https://open.spotify.com/album/1MQWpXacjrqP583eW6ntG1) | 2:40 | 2021-12-13 |  |
+| [Mala Vida](https://open.spotify.com/track/3SzBLvShr2FKp1qSaqK6cm) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Mala Vida](https://open.spotify.com/album/1MQWpXacjrqP583eW6ntG1) | 2:40 | 2021-12-13 | 2024-03-09 |
 | [Maria](https://open.spotify.com/track/1vPVH2LNu5KUxxLbNsn4vS) | [Sherry](https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe) | [Maria](https://open.spotify.com/album/63ZAKRDHnWaZRICjRTkik3) | 2:10 | 2023-04-21 |  |
+| [María](https://open.spotify.com/track/4YNEuxbsAJV2jcQ9JVgg8T) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [María](https://open.spotify.com/album/5GaPfak2nHpaRL7dtn1mHn) | 2:30 | 2024-03-08 |  |
 | [Me Escojo A Mi](https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Me Escojo A Mi](https://open.spotify.com/album/03sYBeXU2wGBf7gdfjf17V) | 2:48 | 2023-06-02 |  |
 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 | 2023-06-30 |  |
 | [ME OYES](https://open.spotify.com/track/4OOBhhIndRwpgK5kagX6yh) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Directo al Cora](https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81) | 2:58 | 2023-04-14 |  |
@@ -169,7 +171,7 @@
 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 | 2021-12-13 |  |
 | [My Bae](https://open.spotify.com/track/2L2d7gAq5yZqXhpudUi61Z) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [My Bae](https://open.spotify.com/album/3BSBuJHqZtZtzEK7ZYmZr9) | 2:23 | 2023-04-28 | 2023-11-25 |
 | [Nada Más](https://open.spotify.com/track/5A4oXZIqEqTG77wq4B1Txh) | [Sailor An](https://open.spotify.com/artist/0pKECWtFUx8RrVzMDVb6Wr) | [Nada Más](https://open.spotify.com/album/0B63I00LvOlF2F4DDWPqv2) | 3:17 | 2021-12-13 | 2023-07-01 |
-| [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/album/3aZthZKHMbbleXcilISjha) | 2:51 | 2021-12-13 |  |
+| [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/album/3aZthZKHMbbleXcilISjha) | 2:51 | 2021-12-13 | 2024-03-09 |
 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 | 2021-12-13 |  |
 | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n) | 2:23 | 2021-12-13 | 2023-09-08 |
 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 | 2023-05-19 |  |

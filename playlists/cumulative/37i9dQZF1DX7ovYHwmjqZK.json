@@ -49,6 +49,44 @@
     },
     {
       "album": {
+        "name": "A Morte de um Deus de Sal",
+        "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
+      },
+      "artists": [
+        {
+          "name": "BeBossa",
+          "url": "https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Matias Correa",
+          "url": "https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX"
+        },
+        {
+          "name": "Marcelo Saboya",
+          "url": "https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR"
+        },
+        {
+          "name": "Zeca Rodrigues",
+          "url": "https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW"
+        },
+        {
+          "name": "Tom Andrade",
+          "url": "https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203810,
+      "name": "A Morte de um Deus de Sal",
+      "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
+    },
+    {
+      "album": {
         "name": "Anos Dourados",
         "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
       },
@@ -1788,7 +1826,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 332026,
       "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
       "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"

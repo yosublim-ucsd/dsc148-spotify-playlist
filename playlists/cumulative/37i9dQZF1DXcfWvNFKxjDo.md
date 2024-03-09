@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVA CROWN, CERES
 
-1,033 songs - 1 day 23 hr 31 min
+1,034 songs - 1 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 | 2024-02-15 | 2024-03-08 |
 | [Catch a Ride](https://open.spotify.com/track/7MkcVRnBEZxtDrs3HooVJC) | [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [Adaptiv](https://open.spotify.com/artist/6IPc2gsAni4QtYNmv1U6nc), [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO) | [Catch a Ride](https://open.spotify.com/album/0hvF6C1OJUULZeaKV4veDq) | 2:03 | 2024-01-11 | 2024-01-19 |
 | [Celebrate the Love](https://open.spotify.com/track/4EwSiFlSMc2XJz4GIIBIvg) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Celebrate the Love](https://open.spotify.com/album/77dhGsl9BfHKKv9xbR5qne) | 3:02 | 2023-12-14 | 2024-01-05 |
-| [Cette Nuit](https://open.spotify.com/track/6MUBXKHYwVPwrwaZ47gkgH) | [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF), [KLEPTO](https://open.spotify.com/artist/7z1D2CiuB9P0F51HLjo8h1) | [Cette Nuit](https://open.spotify.com/album/6ZmfcTLMvIvMljAZJ9osNJ) | 2:05 | 2024-03-07 |  |
+| [Cette Nuit](https://open.spotify.com/track/6MUBXKHYwVPwrwaZ47gkgH) | [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF), [KLEPTO](https://open.spotify.com/artist/7z1D2CiuB9P0F51HLjo8h1) | [Cette Nuit](https://open.spotify.com/album/6ZmfcTLMvIvMljAZJ9osNJ) | 2:05 | 2024-03-07 | 2024-03-09 |
+| [Cette Nuit](https://open.spotify.com/track/7LkDWtNdibnLYn2mLWsZQW) | [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF), [KLEPTO](https://open.spotify.com/artist/7z1D2CiuB9P0F51HLjo8h1) | [Cette Nuit](https://open.spotify.com/album/3H4AsS6y9tWzmCJ7UdCkvg) | 2:05 | 2024-03-08 |  |
 | [Cha\-La Head Cha\-La \- Dragonball Z](https://open.spotify.com/track/4FOq3cDLjaqskP4R8be5ni) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Kontrollverlust](https://open.spotify.com/artist/4xPelDZ8JrhLr5ji8YrhHT) | [Cha\-La Head Cha\-La \(Dragonball Z\)](https://open.spotify.com/album/35GpTYop7KVVWY9ycSnsYI) | 2:05 | 2024-01-11 | 2024-01-19 |
 | [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 | 2023-12-08 | 2023-12-15 |
 | [Chakachaka](https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Chakachaka](https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv) | 2:40 | 2023-09-28 | 2023-10-13 |

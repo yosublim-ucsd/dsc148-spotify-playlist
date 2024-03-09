@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 75879,
+  "2024-03-09": 75942,
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=nwL6vWByRbirHyq7-245cw\">Ziggy4x</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU?si=CfeNjMHWR6KkMgQyFqr88g\">Hanna</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1959,6 +1959,28 @@
       "duration_ms": 126593,
       "name": "Blue Shell",
       "url": "https://open.spotify.com/track/6sCljP7sOQfhphYlyol5KP"
+    },
+    {
+      "album": {
+        "name": "YOU KNOW THE DRILL",
+        "url": "https://open.spotify.com/album/0Sy4e6u2MN8w06xF0U80sh"
+      },
+      "artists": [
+        {
+          "name": "RAF DON",
+          "url": "https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185417,
+      "name": "Bon App\u00e9tit",
+      "url": "https://open.spotify.com/track/6uPML1wimIHQJbTysDFKzQ"
     },
     {
       "album": {
@@ -4535,6 +4557,32 @@
       "duration_ms": 137142,
       "name": "FUCK THE WORLD!",
       "url": "https://open.spotify.com/track/7mJg58d7kPdTlukVXGXZHf"
+    },
+    {
+      "album": {
+        "name": "Funa Nton (feat. Tony Dayimane, uSimamane)",
+        "url": "https://open.spotify.com/album/3a48QnAkt7xv2NBx3UZoD8"
+      },
+      "artists": [
+        {
+          "name": "HENNYBELIT",
+          "url": "https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP"
+        },
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        },
+        {
+          "name": "uSimamane",
+          "url": "https://open.spotify.com/artist/57GAhsq0GLaC2sClqtSFih"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215555,
+      "name": "Funa Nton (feat. Tony Dayimane, uSimamane)",
+      "url": "https://open.spotify.com/track/61KlbFAMXYyKhNFfl3Y4ch"
     },
     {
       "album": {
@@ -8978,6 +9026,28 @@
     },
     {
       "album": {
+        "name": "No Sense",
+        "url": "https://open.spotify.com/album/3zFIVUvye9UkNY7KCq4tNM"
+      },
+      "artists": [
+        {
+          "name": "Yung Tyran",
+          "url": "https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX"
+        },
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162471,
+      "name": "No Sense",
+      "url": "https://open.spotify.com/track/3rjJiFBIlhh19FbfrQ0Vf6"
+    },
+    {
+      "album": {
         "name": "No Stopping",
         "url": "https://open.spotify.com/album/2Pz05T6ug5SNFtCpyJYcw4"
       },
@@ -9942,6 +10012,24 @@
     },
     {
       "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/3TUlvIylVs6ZIVAiB1nvSe"
+      },
+      "artists": [
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/00uAA4zq3d6sr4aC8AodXK"
+    },
+    {
+      "album": {
         "name": "PRIDE",
         "url": "https://open.spotify.com/album/3sUAo42NGTPLOXrMHXeSTa"
       },
@@ -10549,6 +10637,32 @@
       "duration_ms": 177999,
       "name": "Runnin' Back (feat. Sauwcy)",
       "url": "https://open.spotify.com/track/5aUEEg5t2pewsDNnbKdOir"
+    },
+    {
+      "album": {
+        "name": "Rutle",
+        "url": "https://open.spotify.com/album/0tTmaGWO9GbGY45HFfb5ah"
+      },
+      "artists": [
+        {
+          "name": "Loki.",
+          "url": "https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Loud Haileer",
+          "url": "https://open.spotify.com/artist/6TD9RI5KEfsto0c3yAKCPE"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239680,
+      "name": "Rutle",
+      "url": "https://open.spotify.com/track/56nWC7rXvOiELS4dN9jMJ2"
     },
     {
       "album": {
@@ -12301,6 +12415,28 @@
       "duration_ms": 204791,
       "name": "SUPERFICIAL",
       "url": "https://open.spotify.com/track/6HfuoY8orSvcCo384TLMX3"
+    },
+    {
+      "album": {
+        "name": "Superstar Mode",
+        "url": "https://open.spotify.com/album/2UKUGHeyYcohr1fpCsTzhy"
+      },
+      "artists": [
+        {
+          "name": "OB Magik",
+          "url": "https://open.spotify.com/artist/6s0VwjzW908utVk7neCYnT"
+        },
+        {
+          "name": "Touchline",
+          "url": "https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Superstar Mode",
+      "url": "https://open.spotify.com/track/4M85yMH06q6s2KiFbU9SEK"
     },
     {
       "album": {
@@ -14829,6 +14965,24 @@
       "duration_ms": 240359,
       "name": "Ya Costa",
       "url": "https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA"
+    },
+    {
+      "album": {
+        "name": "Yah!! (Okay)",
+        "url": "https://open.spotify.com/album/2o0WeJjUHLkk4SFebG2end"
+      },
+      "artists": [
+        {
+          "name": "Solo Sae",
+          "url": "https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128052,
+      "name": "Yah!! (Okay)",
+      "url": "https://open.spotify.com/track/3S0EFsWNa1bDsZEZz25pYq"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 11995,
+  "2024-03-09": 12003,
   "date_first_scraped": "2022-10-01",
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc?si=m9MepRc9QESFALaz_kQjog\"> Big Yasa</a> ",
   "name": "254 Flow",
@@ -523,7 +523,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 178368,
       "name": "Chachisha",
       "url": "https://open.spotify.com/track/3HSoCY72QqYJrbWqde9LJC"
@@ -1443,6 +1443,24 @@
       "duration_ms": 145367,
       "name": "Horsepower",
       "url": "https://open.spotify.com/track/73MKsSYIHxZxXrT1NWoxf4"
+    },
+    {
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/5l2X20T2eUOcnqTe0QjiNV"
+      },
+      "artists": [
+        {
+          "name": "Stella Mwangi",
+          "url": "https://open.spotify.com/artist/0ypwPd6ZLWkYuNVRnRFor2"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138408,
+      "name": "I Got It Like That",
+      "url": "https://open.spotify.com/track/3gRNqT8tEfVMIYZn31zTCw"
     },
     {
       "album": {
@@ -2579,7 +2597,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 178690,
       "name": "OUT THE WAY",
       "url": "https://open.spotify.com/track/3jMtpykjhURVfAHXmIpV7a"
@@ -2931,6 +2949,24 @@
       "duration_ms": 315376,
       "name": "RITHO",
       "url": "https://open.spotify.com/track/2M32pG0Wr1eT5RdKoAzykL"
+    },
+    {
+      "album": {
+        "name": "Rock Da Mic",
+        "url": "https://open.spotify.com/album/2IDw3STsuEWk0oyA3yzBaB"
+      },
+      "artists": [
+        {
+          "name": "AMiR",
+          "url": "https://open.spotify.com/artist/4XRD4l8f4sJSMSgFnmBsyj"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134420,
+      "name": "Rock Da Mic",
+      "url": "https://open.spotify.com/track/2KWZbfHQ2u9V09QiCnAL00"
     },
     {
       "album": {
@@ -3844,6 +3880,28 @@
     },
     {
       "album": {
+        "name": "the great blondin v2",
+        "url": "https://open.spotify.com/album/1OnB6MAfZ1bGKdSD2ltUwf"
+      },
+      "artists": [
+        {
+          "name": "KiliHippie",
+          "url": "https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX"
+        },
+        {
+          "name": "BoiBlacc",
+          "url": "https://open.spotify.com/artist/4tXuaGk0P2Z0K0urKXI7vy"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114631,
+      "name": "the great blondin v2",
+      "url": "https://open.spotify.com/track/5IiQHNoY8PAcrTur90NSAm"
+    },
+    {
+      "album": {
         "name": "The Point",
         "url": "https://open.spotify.com/album/7MkNwTMI6DfxnAnbvn1RsP"
       },
@@ -3917,7 +3975,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 168071,
       "name": "TIME ITATELL",
       "url": "https://open.spotify.com/track/2mXWteorFyNu2D94ae38nL"

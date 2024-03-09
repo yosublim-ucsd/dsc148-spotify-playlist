@@ -4,7 +4,7 @@
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-94 songs - 7 hr 24 min
+95 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Saltwater](https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:22 | 2022-06-10 |  |
 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 | 2022-06-10 |  |
 | [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 | 2022-06-10 |  |
-| [Silence \- DJ Tiësto's in Search of Sunrise Remix](https://open.spotify.com/track/47st2meAZHGnG9UJU1YyVU) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magik Six \(Live in Amsterdam\)](https://open.spotify.com/album/1zBJu5maXZeKtN2Sj571Rp) | 11:32 | 2022-06-10 |  |
+| [Silence \- DJ Tiësto's In Search Of Sunrise Remix](https://open.spotify.com/track/0CB7J9QsvEqmD0MY1plRsh) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Odyssey: The Remix Collection](https://open.spotify.com/album/1BgbIW5ARri13Isjaz9nsO) | 11:25 | 2022-06-10 |  |
+| [Silence \- DJ Tiësto's in Search of Sunrise Remix](https://open.spotify.com/track/47st2meAZHGnG9UJU1YyVU) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magik Six \(Live in Amsterdam\)](https://open.spotify.com/album/1zBJu5maXZeKtN2Sj571Rp) | 11:32 | 2022-06-10 | 2024-03-09 |
 | [Something](https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Some Things](https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h) | 3:40 | 2022-06-10 |  |
 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 | 2022-06-10 |  |
 | [The Anthem 2002 \- Radio Edit](https://open.spotify.com/track/24ojHsvYBzAkhcL25yJqY3) | [Sensation](https://open.spotify.com/artist/12JbiAmiTFt8dg0mgzGVJp) | [The Anthem 2002](https://open.spotify.com/album/088t7VuRO6VQFSgogK23rk) | 2:53 | 2022-06-10 |  |

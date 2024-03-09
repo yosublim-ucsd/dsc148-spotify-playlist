@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Los \u00e9xitos del Dembow. Portada: Jey One y Donaty",
+  "description": "Los \u00e9xitos del Dembow. Portada: Danny Flow y Kevin AMF",
   "name": "Dembow Pegao",
   "tracks": [
     {
@@ -5703,6 +5703,28 @@
     },
     {
       "album": {
+        "name": "PUTAS Y MOET",
+        "url": "https://open.spotify.com/album/5nozsQXTrTrKfRSVQYZBvZ"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127866,
+      "name": "PUTAS Y MOET",
+      "url": "https://open.spotify.com/track/1y8Zz3ES0jCL0F6jOSUSoW"
+    },
+    {
+      "album": {
         "name": "Que La Choque",
         "url": "https://open.spotify.com/album/49CC04dBqTz7tZ1FsRnzNT"
       },
@@ -5802,7 +5824,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 118205,
       "name": "Rekokeo",
       "url": "https://open.spotify.com/track/7DSmP15YwBTaefjOS3JSDL"

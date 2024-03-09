@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 34441,
+  "2024-03-09": 34436,
   "date_first_scraped": "2023-12-31",
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
   "name": "This Is Mc Dricka",
@@ -1633,6 +1633,24 @@
     {
       "album": {
         "name": "Vegas",
+        "url": "https://open.spotify.com/album/5ectgcy98pAnAPP90OoHAn"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/06GVxEh3wIwWGg54BauJ1p"
+    },
+    {
+      "album": {
+        "name": "Vegas",
         "url": "https://open.spotify.com/album/18DDpF3WzyoedUBDHKqBmb"
       },
       "artists": [
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 160000,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/3tDhSfnRKMOt9DIfKqxkrB"

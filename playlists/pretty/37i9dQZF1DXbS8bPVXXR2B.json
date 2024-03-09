@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 228489,
+  "num_followers": 228539,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGQzODAyZjJhNzc4MGI5OTRjNzUxMDYyMzlkYTcxM2YwYTc2MTVm",
+  "snapshot_id": "MCxjMjViZTlmMTY5M2NiMWIzZDI3OTM1Y2Q5YjcxYTdjODgwYWMwNzJh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Joni Haastrup",
-          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
-        }
-      ],
-      "duration_ms": 373333,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Leon Ware",
         "url": "https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 250173,
       "name": "Why I Came to California",
       "url": "https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Joni Haastrup",
+          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love Has Come Around - Finest Moments",
-        "url": "https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 472866,
-      "name": "Love Has Come Around",
-      "url": "https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Sound System",
         "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 337773,
       "name": "The Magnificent Dance",
       "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Has Come Around - Finest Moments",
+        "url": "https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 472866,
+      "name": "Love Has Come Around",
+      "url": "https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Hi-Life",
-        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
-      },
-      "artists": [
-        {
-          "name": "Orlando Julius",
-          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
-        }
-      ],
-      "duration_ms": 540986,
-      "name": "Disco Hi - Life",
-      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight From The Heart",
         "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Mysteries of the World",
-        "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
+        "name": "Disco Hi-Life",
+        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
       },
       "artists": [
         {
-          "name": "MFSB",
-          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
         }
       ],
-      "duration_ms": 330080,
-      "name": "Mysteries of the World",
-      "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
+      "duration_ms": 540986,
+      "name": "Disco Hi - Life",
+      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1039,6 +1023,22 @@
       "duration_ms": 177573,
       "name": "I Believe In Miracles - 7\" Version",
       "url": "https://open.spotify.com/track/7cnurYkLGrwfZyoQDmo0e1"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Mysteries of the World",
+        "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        }
+      ],
+      "duration_ms": 330080,
+      "name": "Mysteries of the World",
+      "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Get It Right (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
         }
       ],
-      "duration_ms": 259413,
-      "name": "Get It Right - Single Version",
-      "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
+        "name": "Get It Right (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
       "artists": [
         {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
+      "duration_ms": 259413,
+      "name": "Get It Right - Single Version",
+      "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Agb'oju L'ogun",
-        "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
+        "name": "Early Recordings",
+        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
       },
       "artists": [
         {
-          "name": "Shina Williams & His African Percussionists",
-          "url": "https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe"
+          "name": "Patchworks",
+          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
         }
       ],
-      "duration_ms": 702167,
-      "name": "Agb'oju L'ogun - Original 12\" Version",
-      "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
+      "duration_ms": 330013,
+      "name": "Brothers on the Slide - Brooklyn Mix",
+      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Early Recordings",
-        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
+        "name": "Chicago Service",
+        "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
       },
       "artists": [
         {
-          "name": "Patchworks",
-          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
+          "name": "Rahaan",
+          "url": "https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu"
         }
       ],
-      "duration_ms": 330013,
-      "name": "Brothers on the Slide - Brooklyn Mix",
-      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
+      "duration_ms": 328858,
+      "name": "Disco Fantasy",
+      "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1455,22 +1455,6 @@
       "duration_ms": 438199,
       "name": "Haven't You Heard - 12\" Version",
       "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Chicago Service",
-        "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
-      },
-      "artists": [
-        {
-          "name": "Rahaan",
-          "url": "https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu"
-        }
-      ],
-      "duration_ms": 328858,
-      "name": "Disco Fantasy",
-      "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1647,6 +1631,22 @@
       "duration_ms": 284985,
       "name": "Lypso Illusion",
       "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Ashewo Ara",
+        "url": "https://open.spotify.com/album/16zlOZC4ck0f6p2NHsZFmN"
+      },
+      "artists": [
+        {
+          "name": "Kabbala",
+          "url": "https://open.spotify.com/artist/4BwyiOrl6JLvblu0RhIWee"
+        }
+      ],
+      "duration_ms": 361983,
+      "name": "Ashewo Ara",
+      "url": "https://open.spotify.com/track/0xnN6Hy5feKHIKdAbH7F7F"
     }
   ],
   "unique_name": "Disco Hi-Life",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Tam Sir
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,130 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,225 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 |
-| 2 | [Maman matchôtchô](https://open.spotify.com/track/4K0NpIa9A1vXLg4ZJYUfqo) | [Peroo](https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Maman matchôtchô](https://open.spotify.com/album/4c93TYyTUld4cSQuXJEnFV) | 3:36 |
-| 3 | [O'cho](https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [O'cho](https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM) | 3:15 |
-| 4 | [Ambiance](https://open.spotify.com/track/74EJEB08idbiA53t61V9pU) | [TEAM DÉCALÉ](https://open.spotify.com/artist/4qym3w1SpxIMrorfAp5Os3) | [Ambiance](https://open.spotify.com/album/5g34hzac6FbJM8VehF7dtj) | 3:02 |
-| 5 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
+| 2 | [Ambiance](https://open.spotify.com/track/74EJEB08idbiA53t61V9pU) | [TEAM DÉCALÉ](https://open.spotify.com/artist/4qym3w1SpxIMrorfAp5Os3) | [Ambiance](https://open.spotify.com/album/5g34hzac6FbJM8VehF7dtj) | 3:02 |
+| 3 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
+| 4 | [Maman matchôtchô](https://open.spotify.com/track/4K0NpIa9A1vXLg4ZJYUfqo) | [Peroo](https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Maman matchôtchô](https://open.spotify.com/album/4c93TYyTUld4cSQuXJEnFV) | 3:36 |
+| 5 | [O'cho](https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [O'cho](https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM) | 3:15 |
 | 6 | [La Pression](https://open.spotify.com/track/5xtKQTfSc41tLz1gttkghz) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [La Pression](https://open.spotify.com/album/6BLbAR5GXdbWGttpORbPot) | 3:00 |
 | 7 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 |
 | 8 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Ça'a te dégoûter](https://open.spotify.com/track/02DUGJxrCBUh7fUNBPad59) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Ça'a te dégoûter](https://open.spotify.com/album/2lRHcHdMLLaGeKjVx8HFcI) | 3:25 |
 | 40 | [La danse du margouillat](https://open.spotify.com/track/682HQjRRQTRDAeXenihal6) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [La danse du margouillat](https://open.spotify.com/album/009GqMufyiPuZwwSzYiWA3) | 3:33 |
 
-Snapshot ID: `MCxiZmQwZDk5NzUxNzkwZmNmMzIwMzgyZTNmYzNmNmVlMDJlZDgwZGM2`
+Snapshot ID: `MCwyMjk2MmFhZWQ0YTA3YjI2YzMxZjc2NjcxNzcxYzY3NmIyMTIyOTkz`

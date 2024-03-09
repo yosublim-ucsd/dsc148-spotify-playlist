@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 352951,
+  "2024-03-09": 352972,
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : mademoiselle lou",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -83,6 +83,24 @@
       "duration_ms": 212793,
       "name": ".QUI.TU.VEUX.",
       "url": "https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf"
+    },
+    {
+      "album": {
+        "name": "/ ASTRONAUTE",
+        "url": "https://open.spotify.com/album/2mhWk7hFpwjlyI4lvoIMA2"
+      },
+      "artists": [
+        {
+          "name": "PEX",
+          "url": "https://open.spotify.com/artist/7886qlyqkykNxzVdc1Kk9R"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "/ ASTRONAUTE",
+      "url": "https://open.spotify.com/track/5q9H4LZVRv2zOJAWwBByLt"
     },
     {
       "album": {
@@ -975,6 +993,24 @@
       "duration_ms": 186000,
       "name": "Boulevard des Belges",
       "url": "https://open.spotify.com/track/7KFpc05eZ24c3DTDwY8ER4"
+    },
+    {
+      "album": {
+        "name": "Boulot dodo",
+        "url": "https://open.spotify.com/album/6D1MCxFBPdeF74Swz2YHyE"
+      },
+      "artists": [
+        {
+          "name": "GS",
+          "url": "https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Boulot dodo",
+      "url": "https://open.spotify.com/track/6uZw5oZjjbef3fb1Nm3Frl"
     },
     {
       "album": {
@@ -2897,7 +2933,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 188108,
       "name": "Inside",
       "url": "https://open.spotify.com/track/6w4TWairwhLKZoz72sfhwP"
@@ -3924,6 +3960,24 @@
     },
     {
       "album": {
+        "name": "NOCTURNE Pt. 1",
+        "url": "https://open.spotify.com/album/43vvMCkTc3trOqOv5irP9b"
+      },
+      "artists": [
+        {
+          "name": "Lapostroz",
+          "url": "https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136172,
+      "name": "MANIFIC",
+      "url": "https://open.spotify.com/track/7f6XGcLhUUKyqOdYTAojWf"
+    },
+    {
+      "album": {
         "name": "MARK LANDERS",
         "url": "https://open.spotify.com/album/5LQIFAhrEQseK0St28dQ9z"
       },
@@ -4239,7 +4293,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 115200,
       "name": "M\u00eame endroit",
       "url": "https://open.spotify.com/track/0ct2OyqqdMHxkur8pLQgxh"
@@ -4673,6 +4727,24 @@
       "duration_ms": 181786,
       "name": "PARLE EN WSH",
       "url": "https://open.spotify.com/track/2lP7XUYGrfDGkeweHioos5"
+    },
+    {
+      "album": {
+        "name": "Parler tout bas",
+        "url": "https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Parler tout bas",
+      "url": "https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz"
     },
     {
       "album": {
@@ -5627,7 +5699,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 184400,
       "name": "Sans nouvelles",
       "url": "https://open.spotify.com/track/6b4sQI99B6JRnrVsICipYw"
@@ -5681,7 +5753,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 155990,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7"

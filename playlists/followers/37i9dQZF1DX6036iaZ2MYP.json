@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 82231,
+  "2024-03-09": 82294,
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Qing Madi",
+  "description": "Tracks popping off in the Afro scene. Cover: Khaid x Gyakie",
   "name": "Afro Station",
   "tracks": [
     {
@@ -239,7 +239,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 189015,
       "name": "American Love",
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 158571,
       "name": "Bom Bom",
       "url": "https://open.spotify.com/track/6Un2RiAiS25kTOXFJOOOj6"
@@ -1741,6 +1741,36 @@
       "duration_ms": 179368,
       "name": "Dimelow",
       "url": "https://open.spotify.com/track/0PIJ9YEzuNtv63wNEtiwwS"
+    },
+    {
+      "album": {
+        "name": "Dishonest (feat. Tyler ICU & Sha Sha)",
+        "url": "https://open.spotify.com/album/15WfPT1UJGzQTjCMTVLvkL"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Sha Sha",
+          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "Dishonest (feat. Tyler ICU & Sha Sha)",
+      "url": "https://open.spotify.com/track/4PawszYWrGKg2UddKeVk0C"
     },
     {
       "album": {
@@ -3126,6 +3156,24 @@
     },
     {
       "album": {
+        "name": "Ja (High Tension)",
+        "url": "https://open.spotify.com/album/1TbaiXUTdIoUOkEeRMENIS"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180323,
+      "name": "Ja (High Tension)",
+      "url": "https://open.spotify.com/track/7gm6dgC6fahXgcmxaBruUO"
+    },
+    {
+      "album": {
         "name": "Jah",
         "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
       },
@@ -3249,7 +3297,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 178909,
       "name": "KATIGORI",
       "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
@@ -4929,7 +4977,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 156756,
       "name": "Osadebe",
       "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
@@ -5017,6 +5065,24 @@
       "duration_ms": 180062,
       "name": "Para",
       "url": "https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140166,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
     },
     {
       "album": {
@@ -6575,6 +6641,32 @@
       "duration_ms": 158400,
       "name": "UMENIKAMATA",
       "url": "https://open.spotify.com/track/10SfX9KF3H6kUOk51zP8TN"
+    },
+    {
+      "album": {
+        "name": "Undress You",
+        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
+      },
+      "artists": [
+        {
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Undress You",
+      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
     },
     {
       "album": {

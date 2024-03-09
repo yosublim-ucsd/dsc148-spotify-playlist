@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-166 songs - 8 hr 45 min
+167 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 | 2021-11-19 | 2024-01-23 |
 | [Camino a Tres Cruces](https://open.spotify.com/track/10cnNuZPuSuSdkP6tH2tzh) | [La Barra Chamamecera](https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d) | [Los Enganchados del Chamamé](https://open.spotify.com/album/6m64svyEEse5Comaes3tLP) | 2:11 | 2021-11-19 | 2022-07-28 |
 | [Camino a Tres Cruces](https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T) | [La Barra Chamamecera](https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d) | [Los Enganchados del Chamamé](https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK) | 2:11 | 2022-07-05 |  |
-| [Canción para Mi Muerte](https://open.spotify.com/track/4HJZ42ANJk2Wq7aLEC1sGR) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn), [Lucas Colque](https://open.spotify.com/artist/71Pb73xyOq0ddcWi0Dwen2) | [Canción para Mi Muerte](https://open.spotify.com/album/5gwIwKg9GwTAVZMwhF8pzx) | 3:34 | 2021-11-19 |  |
+| [Canción para Mi Muerte](https://open.spotify.com/track/4HJZ42ANJk2Wq7aLEC1sGR) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn), [Lucas Colque](https://open.spotify.com/artist/71Pb73xyOq0ddcWi0Dwen2) | [Canción para Mi Muerte](https://open.spotify.com/album/5gwIwKg9GwTAVZMwhF8pzx) | 3:34 | 2021-11-19 | 2024-03-09 |
 | [Canto al Crespín](https://open.spotify.com/track/0EGMfCkZ251JssY5acfmbV) | [Pancho Escalada](https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f), [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [Mano a mano](https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y) | 2:24 | 2023-06-09 |  |
 | [Canto al Crespín](https://open.spotify.com/track/2IvYJlWuc1crOuO0b5rxZn) | [Pancho Escalada](https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f), [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [Mano a Mano](https://open.spotify.com/album/03U5sBArVssSAc9Ej6sm0k) | 2:24 | 2021-11-19 | 2022-07-27 |
 | [Caña Doble para Mi Padre](https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:01 | 2021-11-19 |  |
@@ -174,5 +174,6 @@
 | [Vieja Canoita](https://open.spotify.com/track/59vynfRyWX8XFYCZHZFLDf) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT), [Estefanía Morand](https://open.spotify.com/artist/6I9ucOWNcE59ZepDGWGCus) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:01 | 2021-11-19 | 2022-07-29 |
 | [Viejo Jinete Argentino](https://open.spotify.com/track/7m2GKaEFQoPPkbmzI3VVPX) | [Hipolito Sosa y su conjunto](https://open.spotify.com/artist/3SuHLrqH1ksOTmtnQtDEnL) | [Bodas de Oro Con el Chamamé](https://open.spotify.com/album/6lnOG2dw5KnuMSW7av7Gq3) | 2:16 | 2021-11-19 | 2022-07-29 |
 | [Virgencita de Itatí](https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [20 Grandes Exitos](https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0) | 2:35 | 2021-11-19 |  |
+| [Ya te perdi la Fé](https://open.spotify.com/track/46J7OrU6rrJzuY279aI4Ku) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Hijos de la Cordillera](https://open.spotify.com/album/2xpXO54zmVpQnRK8IQxkTS) | 3:41 | 2024-03-08 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

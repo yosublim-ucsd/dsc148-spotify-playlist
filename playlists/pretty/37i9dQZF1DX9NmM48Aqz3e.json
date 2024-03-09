@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 57620,
+  "num_followers": 57623,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDM5YjY3NGIwODkyZDk3ZDlmNTI5ODAyMmI5M2NiYjVmYWMwZjM2",
+  "snapshot_id": "MCxlMjk2OTUzZGE5YTk0MmM0N2UwZTE2OGMyMGE2MTA5ODZhODM2ZWIx",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -479,18 +479,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Rockinghorse",
-        "url": "https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO"
+        "name": "Drive Fast, Rock Hard",
+        "url": "https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL"
       },
       "artists": [
         {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+          "name": "I Mother Earth",
+          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
         }
       ],
-      "duration_ms": 303933,
-      "name": "Song Instead of a Kiss",
-      "url": "https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt"
+      "duration_ms": 324226,
+      "name": "One More Astronaut",
+      "url": "https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -515,18 +515,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Drive Fast, Rock Hard",
-        "url": "https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL"
+        "name": "Rockinghorse",
+        "url": "https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO"
       },
       "artists": [
         {
-          "name": "I Mother Earth",
-          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
         }
       ],
-      "duration_ms": 324226,
-      "name": "One More Astronaut",
-      "url": "https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS"
+      "duration_ms": 303933,
+      "name": "Song Instead of a Kiss",
+      "url": "https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt"
     },
     {
       "added_at": "2021-09-21 20:57:50",

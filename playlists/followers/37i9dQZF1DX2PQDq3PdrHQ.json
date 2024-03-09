@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 337611,
+  "2024-03-09": 337814,
   "date_first_scraped": "2022-05-26",
   "description": "Instrumental beats for a restful night's sleep.",
   "name": "lofi sleep",
@@ -5481,6 +5481,24 @@
       "duration_ms": 171485,
       "name": "Joking With You",
       "url": "https://open.spotify.com/track/6E0gJjbpo3JkV1nbmWSQzb"
+    },
+    {
+      "album": {
+        "name": "Kanto",
+        "url": "https://open.spotify.com/album/0qmxDXFHv4Mck22uyBoAuk"
+      },
+      "artists": [
+        {
+          "name": "JoJo Mojo",
+          "url": "https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144722,
+      "name": "Kanto",
+      "url": "https://open.spotify.com/track/0cXj6Yndfr7rEPQdpVOI9i"
     },
     {
       "album": {

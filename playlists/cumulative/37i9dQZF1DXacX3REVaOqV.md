@@ -4,7 +4,7 @@
 
 > The best in house music
 
-396 songs - 1 day 3 hr 39 min
+397 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Live Without Your Love \(with Steve Lacy\)](https://open.spotify.com/track/3XnvNOjFKyFyNvxlXy1DXm) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Live Without Your Love \(with Steve Lacy\)](https://open.spotify.com/album/2st44QXoemztnPKY99Yalg) | 3:25 | 2022-04-14 | 2022-10-14 |
 | [Look Up At The Sky](https://open.spotify.com/track/3Ts73V8SnaXIcnLAxwt41W) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Rhythm Sister \- EP](https://open.spotify.com/album/2DOdjtWqm3AqAHvedMmCRr) | 3:30 | 2022-04-14 | 2022-07-29 |
 | [Lose My Mind \(feat\. Taylor Moody\)](https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Taylor Moody](https://open.spotify.com/artist/5v3YOQbNImkHr0cj7biBWW) | [Lose My Mind \(feat\. Taylor Moody\)](https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm) | 3:16 | 2022-04-14 |  |
-| [Lost & Found](https://open.spotify.com/track/4qtqzgsb0zUGRLx3Vd6MLk) | [Housequake](https://open.spotify.com/artist/5WHgifU7J7TBlEygVmAOFi), [Boris Smith](https://open.spotify.com/artist/5kz5IXAF2jqboBHGITZvWx), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7) | [Lost & Found](https://open.spotify.com/album/4g4P8oHgTkR7owQ2GsAxIn) | 2:51 | 2022-05-12 |  |
+| [Lost & Found](https://open.spotify.com/track/4qtqzgsb0zUGRLx3Vd6MLk) | [Housequake](https://open.spotify.com/artist/5WHgifU7J7TBlEygVmAOFi), [Boris Smith](https://open.spotify.com/artist/5kz5IXAF2jqboBHGITZvWx), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7) | [Lost & Found](https://open.spotify.com/album/4g4P8oHgTkR7owQ2GsAxIn) | 2:51 | 2022-05-12 | 2024-03-09 |
 | [Lost In The Amazon](https://open.spotify.com/track/2HYf8CzzrsNHJiDo3wsPWW) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Amor Essencial EP](https://open.spotify.com/album/1wBROVXVwgjVHIlhPzaefd) | 6:04 | 2024-02-29 |  |
 | [Love in Rio](https://open.spotify.com/track/0Bm1cyEBRY6f7KpzIhG9yw) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Love in Rio](https://open.spotify.com/album/2A7sVIi7t7EiJYZdnIAXcE) | 6:29 | 2022-11-30 |  |
 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 | 2022-11-18 | 2023-04-13 |
@@ -344,6 +344,7 @@
 | [Talamanca \- Vintage Culture Remix](https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talamanca \(Vintage Culture Remix\)](https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd) | 3:10 | 2022-04-14 |  |
 | [TALI](https://open.spotify.com/track/51pEVxPCc5ZlAm5Y47Kuhg) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [TALI](https://open.spotify.com/album/2xjaexaUErg3fBhqoRRzKS) | 6:31 | 2022-04-26 | 2022-07-29 |
 | [TALI](https://open.spotify.com/track/5wkTldxaE77e8W5zZW8fR5) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [EXPO Series 001](https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW) | 6:31 | 2022-12-22 |  |
+| [Tell Me](https://open.spotify.com/track/1LiQJVCQ78nWOMRAGIlHgB) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me EP](https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI) | 3:53 | 2024-03-07 |  |
 | [Tell Me](https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me](https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw) | 3:53 | 2023-11-17 | 2024-03-07 |
 | [Tell You What It Is](https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is](https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu) | 3:07 | 2022-05-12 | 2022-06-03 |
 | [Tell You What It Is \- Shermanology SoulTec Mix](https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is \(Shermanology SoulTec Mix\)](https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV) | 3:39 | 2022-06-02 |  |

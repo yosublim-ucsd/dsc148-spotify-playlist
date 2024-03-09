@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Jenna Davis
 
-319 songs - 16 hr 52 min
+320 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Skip This Part](https://open.spotify.com/track/4vBRaWNRt12NOFFLmekoou) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Skip This Part](https://open.spotify.com/album/1fzHdD4hckwMiVn1YD6Q30) | 3:19 | 2023-02-24 |  |
 | [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 | 2022-09-23 | 2023-11-04 |
 | [Slide](https://open.spotify.com/track/5bkI1sHZKGz4iFQzPX7GJI) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:34 | 2023-10-27 |  |
+| [Small Town Spinnin'](https://open.spotify.com/track/1J0o4mivHxK78JwzHAOXoU) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Small Town Spinnin'](https://open.spotify.com/album/79wkfXp4TSua9T9pZXMwlX) | 2:55 | 2024-03-08 |  |
 | [Some Are Love](https://open.spotify.com/track/1Wn6rLDvovKIKkTEF4TCYj) | [Malachi Gagnon](https://open.spotify.com/artist/5ypiXY7PJ0KSUk5YbaNv3t) | [Some Are Love](https://open.spotify.com/album/0UqsN9S6rMzzAxpHmrCk7N) | 3:03 | 2023-08-18 |  |
 | [Somebody Loves You](https://open.spotify.com/track/4EtlDPVMEapdCaBWDFypFn) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Somebody Loves You](https://open.spotify.com/album/0QEobz2FDq9LU0CDSClIWF) | 2:32 | 2021-12-31 | 2022-09-10 |
 | [Somebody with a Broken Heart](https://open.spotify.com/track/7yQJUfSF801AAMjcJcFbvh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Somebody with a Broken Heart](https://open.spotify.com/album/5c8V1funhYDhiuKVajsXa4) | 3:32 | 2021-12-31 | 2022-01-08 |

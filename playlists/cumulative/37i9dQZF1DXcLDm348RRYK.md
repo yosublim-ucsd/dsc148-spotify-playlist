@@ -4,7 +4,7 @@
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-84 songs - 5 hr 10 min
+85 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Dreamcatcher](https://open.spotify.com/track/4jT0pYL8kOre3DpafKAlk6) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Dreamcatcher](https://open.spotify.com/album/4FdVcs2flxUfuNNhEz7Xkj) | 4:22 | 2020-10-02 |  |
 | [Drifting Along Waters](https://open.spotify.com/track/0rU4PW612tgLpBfuEfgEF4) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [When Dogs Dream](https://open.spotify.com/album/3bBi3lykvmWrezhUtROxYe) | 1:43 | 2020-10-02 |  |
 | [Drivetime](https://open.spotify.com/track/7GjoMvGfnOoQmQz4rmQAGL) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [Drivetime](https://open.spotify.com/album/0hGa9DPLa0BH3VDOKZuOrr) | 2:57 | 2020-10-02 |  |
+| [Escape](https://open.spotify.com/track/2CELTvVwS7jK3toDHHbc9W) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [Acoustic Escape](https://open.spotify.com/album/45iZ1cUmxaJW4VuQC7VvT6) | 3:39 | 2024-03-08 |  |
 | [Everybody Needs One](https://open.spotify.com/track/48Ct0cNzeN62EDJzwg7I5E) | [Craig D'Andrea](https://open.spotify.com/artist/46Y38RAhiOID5strXb6sDA) | [Crazy Is Catching](https://open.spotify.com/album/0lEpSVhkwpyHUkPjphNVc6) | 3:53 | 2020-10-02 |  |
 | [Farewell \(feat\. Michael Manring\)](https://open.spotify.com/track/2wxkIxCjB5047xUG5njMQ2) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR) | [Tabula Rasa](https://open.spotify.com/album/30OgCzf2n8pLPvqW5ECtkR) | 4:32 | 2020-10-02 |  |
 | [Feels like May](https://open.spotify.com/track/456gUGH6n2UnPB3mqbGpq6) | [Ivo Vollering](https://open.spotify.com/artist/3l6zKGErropi9dRa5XgI5o) | [Feels like May](https://open.spotify.com/album/3D1pIp0atZPzsndPn97GnS) | 3:03 | 2020-10-02 |  |

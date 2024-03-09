@@ -27687,6 +27687,24 @@
     },
     {
       "album": {
+        "name": "Pagusapan",
+        "url": "https://open.spotify.com/album/7H8vFukPhrhfqQf8gJL0iN"
+      },
+      "artists": [
+        {
+          "name": "R.C",
+          "url": "https://open.spotify.com/artist/2e3IrtOG2RAIxIe5Ng7utO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227142,
+      "name": "Pagusapan",
+      "url": "https://open.spotify.com/track/3GjRmohKITQOCrPDa7Uh02"
+    },
+    {
+      "album": {
         "name": "Pahalik",
         "url": "https://open.spotify.com/album/5GClBIWuvWlzxtk6yFtj7E"
       },

@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 80s
 
-168 songs - 11 hr 36 min
+169 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Rooms on Fire](https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Other Side of the Mirror](https://open.spotify.com/album/520iW3fXcWW5mbQToP0hs0) | 4:34 | 2021-06-18 | 2022-04-30 |
 | [Run to Paradise](https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs) | [Choirboys](https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM) | [Big Bad Noise](https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF) | 4:11 | 2021-06-18 | 2022-07-29 |
 | [Seven Wonders \- 2017 Remaster](https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:42 | 2021-06-18 | 2022-03-19 |
+| [Sharp Dressed Man \(2008 Remaster\)](https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:18 | 2022-06-08 |  |
 | [Sharp Dressed Man \- 2008 Remaster](https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:18 | 2022-06-08 | 2024-02-10 |
 | [She Has to Be Loved](https://open.spotify.com/track/7J170T0QGtd18ii8vHXk2e) | [Jenny Morris](https://open.spotify.com/artist/604iqbiglyTgxMeKkvlBGc) | [Shiver](https://open.spotify.com/album/4cY0XPiwWj15YWpfkVNg4P) | 4:07 | 2021-06-18 | 2022-07-20 |
 | [Six Months in a Leaky Boat](https://open.spotify.com/track/1rSNjTJf2AsXnlj1I9a1fh) | [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL) | [Time And Tide](https://open.spotify.com/album/0VzEBmxy3fwUztnKnwyGvk) | 4:21 | 2021-06-18 | 2022-01-02 |
@@ -158,7 +159,7 @@
 | [Tucker's Daughter](https://open.spotify.com/track/2zaUUlQqyUUP0fehfvLuHz) | [Ian Moss](https://open.spotify.com/artist/4RMdsc21y0aET1OCm32h1u) | [Matchbook](https://open.spotify.com/album/2Pp2u2e1UeWgIeyimPVsxD) | 4:34 | 2021-06-18 | 2022-07-28 |
 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 | 2021-06-18 | 2022-07-29 |
 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 | 2022-06-08 |  |
-| [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 | 2022-06-08 |  |
+| [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 | 2022-06-08 | 2024-03-09 |
 | [Uptown Girl](https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:14 | 2021-06-18 | 2022-07-29 |
 | [Valerie](https://open.spotify.com/track/5ZOUxrcH0VVDgTshD5QJri) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Talking Back To The Night](https://open.spotify.com/album/1MGMNOvzawO8TCm599dZbm) | 4:06 | 2021-06-18 | 2022-07-29 |
 | [Waiting for a Star to Fall](https://open.spotify.com/track/3FNw7xz5bENnTPVzBwvb6A) | [Boy Meets Girl](https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ) | [30 Stars of the 80s](https://open.spotify.com/album/0rEYoM9ZVQFWWploe5yvjY) | 4:26 | 2021-06-18 | 2022-07-29 |

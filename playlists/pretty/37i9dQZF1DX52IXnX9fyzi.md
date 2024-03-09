@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,211 likes - 261 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,270 likes - 261 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 260 | [Qui vivra verra](https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd) | [Michael Brogadaccio](https://open.spotify.com/artist/6ZqnKTqzs5B9g2K68OCKVo) | [Qui vivra verra](https://open.spotify.com/album/6950UP041DVdTcDYmBOhKd) | 2:13 |
 | 261 | [2017](https://open.spotify.com/track/1omqxrkMVNo4SOJ1b3KEmi) | [Pranit Khedekar](https://open.spotify.com/artist/0oFU5xoASWO97hFES9qbkT) | [2017](https://open.spotify.com/album/3r9NQVsjX9DpHVE6xyOarC) | 2:45 |
 
-Snapshot ID: `MCwwM2NhMTUyOWRkNjkzMjc0MmQ1ODUwN2RhYmI4MTRhNTcxYzUxYmQz`
+Snapshot ID: `MCwyYzcwYjljMzJmYWNiOGU5ZTQxOGY2ZjYzNjUyODAyZWRlMzM3ZDM0`

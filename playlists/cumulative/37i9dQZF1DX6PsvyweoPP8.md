@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-201 songs - 9 hr 51 min
+202 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Vida Eu Penso Na Gente Ainda](https://open.spotify.com/track/5qV0rG1Tdj5mpL9ssoLxrj) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Vida Eu Penso Na Gente Ainda](https://open.spotify.com/album/6TirEETOEzpQyGQnVSmm7S) | 2:38 | 2024-02-09 |  |
 | [Vinho & Sexo \- Prod\. Papatinho](https://open.spotify.com/track/0Lou5GSyISEjhtmbCgKGVI) | [Rany Money](https://open.spotify.com/artist/44P449nprZUercBnuts1o0) | [Vinho & Sexo \(Prod\. Papatinho\)](https://open.spotify.com/album/0ruRPIoTVV03Iaj3qxiaTs) | 3:16 | 2022-03-18 | 2022-11-12 |
 | [Visconde](https://open.spotify.com/track/7oQ1T06MueIr7JcxrKv2qa) | [Itinn086](https://open.spotify.com/artist/3E0XZ7RrFpI5jVamigv02T), [LF](https://open.spotify.com/artist/4XTEaGrwzx4f87DfPztViW), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Visconde](https://open.spotify.com/album/2Xbh3EeiqJE3BCUP1DRGk0) | 2:44 | 2022-09-09 | 2022-10-01 |
+| [Você já é meu](https://open.spotify.com/track/1cByBn960B0t7A5TMGIFm3) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Garotas como eu](https://open.spotify.com/album/6YahacLZscu28rWWU55ZEM) | 2:57 | 2024-03-08 |  |
 | [Volúpia](https://open.spotify.com/track/6IxQngYNjrubqG7Zt8rYMa) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o) | [Volúpia](https://open.spotify.com/album/054nMoCC4u5dCI4vTXWKc3) | 2:31 | 2023-11-11 |  |
 | [Êxtase](https://open.spotify.com/track/0Y2AIey9vc10pW3chF299p) | [Jessica Cohen](https://open.spotify.com/artist/4SCIsnmp2qakseMlpuVz3S), [Jxkv](https://open.spotify.com/artist/1AHZJJ0sL4G0KotB0owI28) | [Êxtase](https://open.spotify.com/album/4fvPRFq9LALC8QMx0nDb0i) | 3:26 | 2022-03-18 | 2022-08-13 |
 

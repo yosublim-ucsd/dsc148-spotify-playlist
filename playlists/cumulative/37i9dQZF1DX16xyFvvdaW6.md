@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-61 songs - 4 hr 30 min
+62 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Tu Amor \- En Vivo](https://open.spotify.com/track/5yOHIWG6xw63hObPaUsVd5) | [Diego Campos](https://open.spotify.com/artist/0cvBXvjdFZSN9RfAOk0wTC) | [Es Tiempo \(En Vivo\)](https://open.spotify.com/album/6q3LLDP1TZ8zXTPfZoAqNs) | 4:47 | 2022-07-22 |  |
 | [Tu Fan Number One](https://open.spotify.com/track/5lAtZmes9ELeVyEn1X0oqA) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Tu Fan Number One](https://open.spotify.com/album/4O5VnMxSs4kY3uqzBZZykI) | 3:34 | 2022-07-22 |  |
 | [Tu Historia](https://open.spotify.com/track/2Edzf0McD1MOWTwI5GbF1b) | [Renacer](https://open.spotify.com/artist/23Yee5PRZs6MB8tR3Jynxe) | [Consumenos](https://open.spotify.com/album/1bIA3sfkrfFkHAU0KJFj9x) | 4:27 | 2022-07-22 |  |
-| [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 | 2022-10-25 |  |
+| [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 | 2022-10-25 | 2024-03-09 |
+| [Tu Reino Está Aquí](https://open.spotify.com/track/26oaPbdYRvDFEddhi6ApAu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 5:33 | 2022-10-25 |  |
 | [Tu Sangre Clama](https://open.spotify.com/track/3lUGO4PQnRj3KICj44DfZT) | [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Tu Sangre Clama](https://open.spotify.com/album/6z3NBhEg5SwukG5PUDkPPL) | 7:46 | 2022-07-22 | 2024-03-07 |
 | [Tu Sangre Clama](https://open.spotify.com/track/6KIAEwwn8FKSr6hwxPE2mg) | [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Tu Sangre Clama](https://open.spotify.com/album/1sXHxIJeyvDQFSx4nDGH3Z) | 7:46 | 2022-10-25 |  |
 | [Venga Tu Reino](https://open.spotify.com/track/7lVFBPhA4TBiAHmaKZjsyV) | [Alpha Union](https://open.spotify.com/artist/7r3OVrzP7rwFr0q1C4IQ5n) | [Conquistador](https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz) | 3:05 | 2022-07-22 |  |

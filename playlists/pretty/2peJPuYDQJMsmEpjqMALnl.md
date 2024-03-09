@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 329,881 likes - 70 songs - 4 hr 50 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 329,889 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
-| 2 | [Everybody Wants To Rule The World](https://open.spotify.com/track/7HNPhibn8yKB79sGa05EKr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [20th Century Masters: The Millennium Collection: Best Of Tears For Fears](https://open.spotify.com/album/6BH7SAEYr8X1kr3ZsFfkAO) | 4:10 |
-| 3 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
+| 1 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
+| 2 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
+| 3 | [Everybody Wants To Rule The World](https://open.spotify.com/track/7HNPhibn8yKB79sGa05EKr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [20th Century Masters: The Millennium Collection: Best Of Tears For Fears](https://open.spotify.com/album/6BH7SAEYr8X1kr3ZsFfkAO) | 4:10 |
 | 4 | [Into The Night](https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc) | [Benny Mardones](https://open.spotify.com/artist/6ZalUpnU8HaHSjROM92Txw) | [Never Run Never Hide](https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m) | 4:31 |
 | 5 | [Luka](https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 3:51 |
 | 6 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/1eiz5aP5PmFOdPWOTFND4D) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/73BjTTmhhoiK4MGtINzp2c) | 5:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 69 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 |
 | 70 | [The Stroke](https://open.spotify.com/track/2H5BRl8I6IveJ6BgC7FpqQ) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Don't Say No](https://open.spotify.com/album/5FATFw46kqvlhayx9QCxLd) | 3:38 |
 
-Snapshot ID: `OTU2LDM5YWMwNjJhMjExOThhNGRhMzVmMzg1NDI4YjEzZDVlNmM1Mjg0YWM=`
+Snapshot ID: `OTU5LDM5ZjhlYWE4OWE0YWRkNDQ1OWU2ODA5MThhZTcyMmI3MTkxYTJmMmE=`

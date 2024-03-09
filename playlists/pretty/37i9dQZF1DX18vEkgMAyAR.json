@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 67400,
+  "num_followers": 67432,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzlhMTEzM2Y0ODlmMzcyMGZmYmI5NWE2NDEwZGVjNjg2NmEwYjM3",
+  "snapshot_id": "MCxiNTBiYThkMzc3ZTBiOWFkZGMyODZkNjVmNTI3NmM3YThjYzU5MjAw",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "I Should Have Stayed at Home",
-        "url": "https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Mack",
-          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "I Should Have Stayed at Home",
-      "url": "https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "While The World Was Burning",
         "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 176218,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "I Should Have Stayed at Home",
+        "url": "https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "I Should Have Stayed at Home",
+      "url": "https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
-      },
-      "artists": [
-        {
-          "name": "Rubber Duc",
-          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 203093,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
+      },
+      "artists": [
+        {
+          "name": "Rubber Duc",
+          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
     },
     {
       "added_at": "2023-11-03 03:58:52",

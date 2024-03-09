@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 120000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1jDLjeBGASzg5v9bOfJhA2"
@@ -148,6 +148,32 @@
       "duration_ms": 137739,
       "name": "All That I Want",
       "url": "https://open.spotify.com/track/3eLf9pZmPNw7q86FwzipRd"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/2L6l8jOTnCl7f5KTGqEKme"
+      },
+      "artists": [
+        {
+          "name": "LDVC",
+          "url": "https://open.spotify.com/artist/7EShHZRP35PHBA0FXwrI4f"
+        },
+        {
+          "name": "Moving Castles",
+          "url": "https://open.spotify.com/artist/0me4iIJvYbOevaJMMtUPC8"
+        },
+        {
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103611,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/025LbqfPIP0ievHfWPH8Ho"
     },
     {
       "album": {
@@ -316,6 +342,24 @@
       "duration_ms": 202106,
       "name": "Back To My Bed",
       "url": "https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5cSpVyRCl8cPLBptLLPLqQ"
+      },
+      "artists": [
+        {
+          "name": "Lane Boy",
+          "url": "https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118888,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/4ocZpek8o7xETEekvv3X2T"
     },
     {
       "album": {
@@ -558,6 +602,32 @@
       "duration_ms": 178378,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/2tRJVRP57kSSRDJTIcv80f"
+    },
+    {
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/3fD6AG4DJ7VK2df22HPvmj"
+      },
+      "artists": [
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        },
+        {
+          "name": "SAINT WKND",
+          "url": "https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6"
+        },
+        {
+          "name": "lune et soleil",
+          "url": "https://open.spotify.com/artist/43Nm0JAuMOnHVmFlaLRR3z"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117966,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/0HBSO5V3OGp9YYNxu8vfM1"
     },
     {
       "album": {
@@ -976,6 +1046,50 @@
       "duration_ms": 148500,
       "name": "Don't Hate You",
       "url": "https://open.spotify.com/track/7rjyb0xF3bKwJ3GZ9ORbaM"
+    },
+    {
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/63uEAStA3fEXiBWkuhFw3L"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132125,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/2RWorX6mB3GFxaCnZb0Zzh"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Be Shy",
+        "url": "https://open.spotify.com/album/7enD7TsbZ8VhVePLrOgjZV"
+      },
+      "artists": [
+        {
+          "name": "Alosa",
+          "url": "https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC"
+        },
+        {
+          "name": "Jaime Deraz",
+          "url": "https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158729,
+      "name": "Don\u2019t Be Shy",
+      "url": "https://open.spotify.com/track/5PhsDSiRxvrHj0FPyO61ly"
     },
     {
       "album": {
@@ -1767,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/4mvFYQqEmwJwTuW89l3o2e"
+      },
+      "artists": [
+        {
+          "name": "Lust.",
+          "url": "https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1XHQLzy4awKP4sgLK1H3zI"
+    },
+    {
+      "album": {
         "name": "I Was Wrong (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/1jyWfFpqX77KFi32DtAIbT"
       },
@@ -1874,6 +2006,28 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "album": {
+        "name": "In A Heartbeat",
+        "url": "https://open.spotify.com/album/7nR3F8zEEB80ZhGCKEoix7"
+      },
+      "artists": [
+        {
+          "name": "Honest Regrets",
+          "url": "https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg"
+        },
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "In A Heartbeat",
+      "url": "https://open.spotify.com/track/6aNCsousLmz0UBVJVzjp2X"
     },
     {
       "album": {
@@ -4024,10 +4178,32 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 169469,
       "name": "Walking On a Dream",
       "url": "https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf"
+    },
+    {
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/3W6XeZ3WAcxkVSBgdK4BhT"
+      },
+      "artists": [
+        {
+          "name": "oliqua",
+          "url": "https://open.spotify.com/artist/4bhTdFjS6ajhkDk6qDtMmS"
+        },
+        {
+          "name": "NUENCE",
+          "url": "https://open.spotify.com/artist/0tSvTksdhoYhu08BNTyidE"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/4x1jpIof8dtpVlZN4RozhS"
     },
     {
       "album": {
@@ -4420,6 +4596,24 @@
       "duration_ms": 136363,
       "name": "You Got The Love (feat. Eirik N\u00e6ss)",
       "url": "https://open.spotify.com/track/26GJ5EQmQX0vRALciyJAj6"
+    },
+    {
+      "album": {
+        "name": "You Gotta Let It Go",
+        "url": "https://open.spotify.com/album/23Y6ZHIMRlnoUWT1afU298"
+      },
+      "artists": [
+        {
+          "name": "Friends & I",
+          "url": "https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133728,
+      "name": "You Gotta Let It Go",
+      "url": "https://open.spotify.com/track/2sBFRbfJv4cAXhHSAaOF6d"
     },
     {
       "album": {

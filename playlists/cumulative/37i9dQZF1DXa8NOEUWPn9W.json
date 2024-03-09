@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Andruss.",
+  "description": "House music lives here. United under one roof, featuring Jazzy & Jamie Jones.",
   "name": "Housewerk",
   "tracks": [
     {
@@ -3398,6 +3398,32 @@
       "duration_ms": 260388,
       "name": "Critical",
       "url": "https://open.spotify.com/track/7FiYF0ocZO3hwxrPkJ5wQs"
+    },
+    {
+      "album": {
+        "name": "Cruel Intentions",
+        "url": "https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222273,
+      "name": "Cruel Intentions",
+      "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
     },
     {
       "album": {
@@ -7000,7 +7026,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 157784,
       "name": "I Can't Take No More",
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
@@ -8264,6 +8290,24 @@
       "duration_ms": 163440,
       "name": "La Tarde",
       "url": "https://open.spotify.com/track/1jny0xjkmeZiS2CvuJLuRX"
+    },
+    {
+      "album": {
+        "name": "La Trumpeta",
+        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200042,
+      "name": "La Trumpeta",
+      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
     },
     {
       "album": {
@@ -12791,6 +12835,32 @@
     },
     {
       "album": {
+        "name": "ROOM IS ON FIRE (feat. AG Club)",
+        "url": "https://open.spotify.com/album/7m5a2dvnmwnce97spFC8Fy"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189728,
+      "name": "ROOM IS ON FIRE (feat. AG Club)",
+      "url": "https://open.spotify.com/track/1LgfBZnwX0IDLNrVbMZbzV"
+    },
+    {
+      "album": {
         "name": "Rumblah",
         "url": "https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv"
       },
@@ -13746,7 +13816,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 211500,
       "name": "Sound Of The Drums",
       "url": "https://open.spotify.com/track/4s538QEQhTSOJGnasd1FAZ"
@@ -14928,7 +14998,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 176065,
       "name": "The Greatest Thing Alive",
       "url": "https://open.spotify.com/track/6As1zfxQHAgeQPBK2paaqh"

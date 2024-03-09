@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. La Maquinaría Norteña en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,011 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,248 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 42 | [Y Me Da Vergüenza](https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Esperándote](https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo) | 2:49 |
 | 43 | [Sin Pagar Renta](https://open.spotify.com/track/2BuzAPLd2DEzmHVDD9kDI3) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L), [Conjunto Nuevo Amanecer](https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc) | [Sin Pagar Renta](https://open.spotify.com/album/4ZEvCEAotJdxnFr61RfBkJ) | 3:00 |
 | 44 | [Mi Caballito](https://open.spotify.com/track/45rayF6mhylWyFdvDk6VJc) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Mi Caballito](https://open.spotify.com/album/0MaBEYKQsMkSLlMI7aXNJ2) | 3:47 |
-| 45 | [Contigo Sí](https://open.spotify.com/track/33cIhDF0Hd4KWL5Y8GjJ5m) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 2:40 |
+| 45 | [Contigo Sí](https://open.spotify.com/track/6JHTxDUpbZrhEMROHFFV6a) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/5Xwc9hOidf3NsxTtY046d4) | 2:40 |
 | 46 | [Te Quiero Mucho](https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 3:23 |
 | 47 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 |
 | 48 | [Vicio](https://open.spotify.com/track/52SbtvOGsw4RI8FkMH7udu) | [Adverzo](https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV) | [Vicio](https://open.spotify.com/album/5i2uC3kpJdvOoo5VhpKlEv) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [Modo Incógnito](https://open.spotify.com/track/7C3ajbwFKs2tThsJfTC9Hf) | [Los Avila](https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo) | [Modo Incógnito](https://open.spotify.com/album/6alvJhuwlYz1j12wdWIOi3) | 4:10 |
 | 75 | [Olvidémoslo Los Dos](https://open.spotify.com/track/0YzLFrSbUvTqDSuMViVe75) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 3:02 |
 
-Snapshot ID: `MCxmOThiMTdkYTAzN2ZlMWE5YjNhMjllYzE4Y2QyYzBhYjVjYTcyMjFi`
+Snapshot ID: `MCw5ZTkzZDQ3ZDEwNTIyNzU5NjNhZDhkNjAyZmE4NTBiNTk5MWZkZmI5`

@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 332025,
+  "2024-03-09": 332171,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
   "name": "Jazz-Funk",
@@ -157,10 +157,32 @@
       ],
       "date_added": "2021-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 280463,
       "name": "Always Let Me Go",
       "url": "https://open.spotify.com/track/3vxNtjIlwUB5A525DGfs2Q"
+    },
+    {
+      "album": {
+        "name": "Always Let Me Go",
+        "url": "https://open.spotify.com/album/1wYtTXRTB7XElmddwI2nqo"
+      },
+      "artists": [
+        {
+          "name": "Nine Sparks Riots",
+          "url": "https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X"
+        },
+        {
+          "name": "No\u00e9 Berne",
+          "url": "https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280463,
+      "name": "Always Let Me Go",
+      "url": "https://open.spotify.com/track/4NhwR1bqHnxSrpAj86NwQ8"
     },
     {
       "album": {

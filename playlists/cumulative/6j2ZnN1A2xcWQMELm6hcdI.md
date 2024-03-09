@@ -2,9 +2,9 @@
 
 ### [Influence 💅 Hot Girl Era 2024](https://open.spotify.com/playlist/6j2ZnN1A2xcWQMELm6hcdI)
 
-> The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] \| Women's History Month \| Cover: Chlöe
+> The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] \| Women's History Month \| Cover: Lola Brooke
 
-427 songs - 21 hr 11 min
+428 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 | 2023-07-14 |  |
 | [Becky \(feat\. 41\)](https://open.spotify.com/track/399es3LKBCviugHiDQcCI1) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Becky \(feat\. 41\)](https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG) | 3:26 | 2024-02-16 |  |
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-01-27 |  |
+| [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 | 2024-03-08 |  |
 | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/track/108CRSzSnhShMbNgNHWrjU) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/album/11c3kLCcQAWS3ZFWWdB7vw) | 2:11 | 2022-06-03 | 2023-07-29 |
 | [best thing for me](https://open.spotify.com/track/7cPYni8RIhjePdNSNxkVOZ) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [best thing for me](https://open.spotify.com/album/5u2VPya6pROsJYlXa3v0pm) | 2:26 | 2024-01-12 |  |
 | [BGC](https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [BGC](https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR) | 2:36 | 2023-12-08 |  |

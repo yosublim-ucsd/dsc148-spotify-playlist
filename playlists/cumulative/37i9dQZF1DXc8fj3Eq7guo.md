@@ -2,9 +2,9 @@
 
 ### [Drop Pin](https://open.spotify.com/playlist/37i9dQZF1DXc8fj3Eq7guo)
 
-> Where you at? We outside!
+> Tag your location, we shall pass by as we go around Africa
 
-64 songs - 4 hr 25 min
+65 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Kampala](https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Kampala](https://open.spotify.com/album/3sOQTISPW0P2fJIMq3AFPH) | 2:38 | 2023-09-08 |  |
 | [Kampala](https://open.spotify.com/track/4Gmr4iYGDdovOucPLEO3o2) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/4WxLFmBpRfwn2Xa38W6Juj) | 4:40 | 2023-09-08 |  |
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/1JCVBCmc3Bq3e5QQc777eE) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/2L8Zffhlcyrfi6NwhT67hO) | 2:22 | 2024-01-19 |  |
-| [Kibera](https://open.spotify.com/track/5WUI7ifG664mnLAwDUjxoQ) | [Johnny Vigeti](https://open.spotify.com/artist/1OVwRfZjHk4l57JyQkSQ43), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [Kibera](https://open.spotify.com/album/0AnyIF4fk4JD5bPOYJSG2B) | 4:27 | 2023-09-08 |  |
+| [Kibera](https://open.spotify.com/track/5WUI7ifG664mnLAwDUjxoQ) | [Johnny Vigeti](https://open.spotify.com/artist/1OVwRfZjHk4l57JyQkSQ43), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [Kibera](https://open.spotify.com/album/0AnyIF4fk4JD5bPOYJSG2B) | 4:27 | 2023-09-08 | 2024-03-09 |
 | [Kigali](https://open.spotify.com/track/5aKtS7Z8gdWmYH1BBbECiv) | [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [Afro Zen](https://open.spotify.com/artist/31VvRi0goQyK22zqEqAboz), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO) | [Kigali](https://open.spotify.com/album/07emJhY6FQilkGBhHhsveQ) | 2:53 | 2023-09-08 |  |
 | [Kilimanjaro](https://open.spotify.com/track/21fUIJmUxP4BjUkHLd5YIQ) | [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [BitterSoul](https://open.spotify.com/artist/17pJdX09aXbP7ahi2kbenw), [Ojiro](https://open.spotify.com/artist/0fPfCk8bWkVIKOhyOWk7JX) | [Khuzeka](https://open.spotify.com/album/1mOjCTEGNizYt4LkWaEALt) | 6:10 | 2023-09-08 |  |
 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 | 2023-09-22 |  |
@@ -60,6 +60,7 @@
 | [Nairobi](https://open.spotify.com/track/7ipje7w6H8in5Otc4pEex4) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Nairobi](https://open.spotify.com/album/7uWo9YZ9ggrk7E00QddrXm) | 3:16 | 2023-09-08 | 2024-01-20 |
 | [Nairobi](https://open.spotify.com/track/1D4Pjb9OYgGxPIKgusObu1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Tokooos II](https://open.spotify.com/album/2Tcx5XnaqhO7ooOH00iA6M) | 2:41 | 2023-09-08 |  |
 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 | 2023-09-08 |  |
+| [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 |  |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2023-09-08 |  |
 | [Run Jozi \(Godly\) \(feat\. K.O\)](https://open.spotify.com/track/2zuOiLM3QGT5DpO4fJwOEo) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:54 | 2023-09-08 |  |
 | [Somalia Somali Baa Leh](https://open.spotify.com/track/2vegLZ4xf2GmjaD1LExwjY) | [Sharma Boy](https://open.spotify.com/artist/4SllpFxwa14CeJf4LMkiXZ), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Somalia Somali Baa Leh](https://open.spotify.com/album/4bG7BuW0lT3Kx0X2WhHrux) | 4:31 | 2023-09-08 |  |

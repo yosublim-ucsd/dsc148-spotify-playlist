@@ -4,7 +4,7 @@
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-220 songs - 14 hr 15 min
+221 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Basta cosi' \- With Elisa](https://open.spotify.com/track/2493A7OGenXVtLT1hfels3) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Casa 69](https://open.spotify.com/album/6G2h1c16cEErA8mu7JkROt) | 5:59 | 2021-09-26 | 2022-07-22 |
 | [Bella e rovinata](https://open.spotify.com/track/5uPQRVuGquShCnqzuOTq4B) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani](https://open.spotify.com/album/59i6L1OigHny6mYy0vGttB) | 3:20 | 2021-09-26 | 2022-07-16 |
 | [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 | 2021-09-26 |  |
-| [Blu \(feat\. Elisa\)](https://open.spotify.com/track/0Q4v8N758nx98YxObfqkNC) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Dove Gli Occhi Non Arrivano](https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi) | 2:45 | 2024-02-13 |  |
+| [Blu \(feat\. Elisa\)](https://open.spotify.com/track/0Q4v8N758nx98YxObfqkNC) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Dove Gli Occhi Non Arrivano](https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi) | 2:45 | 2024-02-13 | 2024-03-09 |
 | [Brioschi](https://open.spotify.com/track/4b8hQaPTM7FhpOOAkKBj5A) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [Stanza Singola](https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc) | 3:39 | 2024-02-13 |  |
 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 | 2023-02-07 |  |
 | [Bruciasse Il Cielo](https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Bruciasse Il Cielo](https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk) | 3:57 | 2024-01-17 |  |
@@ -194,6 +194,7 @@
 | [Solo3min](https://open.spotify.com/track/7wd4HV7CA1T5PZeJjfa5ez) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:40 | 2021-09-26 | 2022-07-21 |
 | [Sopra](https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Punk](https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW) | 3:13 | 2023-02-20 |  |
 | [Sorriso \(Milano Dateo\)](https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Sorriso \(Milano Dateo\)](https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz) | 2:57 | 2021-09-26 |  |
+| [Sotto Il Segno Dei Pesci](https://open.spotify.com/track/6XLq0b557873yQsYATC0Hz) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Sotto Il Segno Dei Pesci](https://open.spotify.com/album/0iLb2xEPwSGlWnTM8oxcqp) | 6:01 | 2024-02-13 |  |
 | [Sotto Il Segno Dei Pesci](https://open.spotify.com/track/3IFdrW5sJVJ6FIWzUruQcE) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Sotto Il Segno Dei Pesci](https://open.spotify.com/album/5kAQPhndRL72szACuWp6ic) | 6:03 | 2021-09-26 | 2022-07-22 |
 | [Stammi Vicino](https://open.spotify.com/track/1KR1qEkaX8PIHXBYfSOpr1) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vivere O Niente](https://open.spotify.com/album/3lYK5n40cnggTy17jPSW0E) | 5:20 | 2021-09-26 | 2022-07-28 |
 | [Stanza Singola \(feat\. Tommaso Paradiso\)](https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Stanza Singola](https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc) | 3:16 | 2021-09-26 |  |

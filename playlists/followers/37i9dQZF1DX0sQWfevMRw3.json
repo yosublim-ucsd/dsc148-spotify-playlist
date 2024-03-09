@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 159161,
+  "2024-03-09": 159290,
   "date_first_scraped": "2021-12-21",
-  "description": "DUNK-DUNK-DUNKA 30 K-M-H!!",
+  "description": "DUNKA PL\u00c5TEN OCH K\u00c4NNA VI \u00c4R FRIA!!",
   "name": "30 km/h",
   "tracks": [
     {
@@ -467,7 +467,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 128668,
       "name": "AFTERSKI",
       "url": "https://open.spotify.com/track/4lVBmrys837dpdpjSczq5T"
@@ -739,6 +739,24 @@
       "duration_ms": 167111,
       "name": "ALLA FLICKORNA",
       "url": "https://open.spotify.com/track/6RRaUwyVRUC8RqWizMCGQf"
+    },
+    {
+      "album": {
+        "name": "ALLA JAG LEGAT MED",
+        "url": "https://open.spotify.com/album/4aTpksz3wtRSvtdHAGQfdN"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "ALLA JAG LEGAT MED",
+      "url": "https://open.spotify.com/track/6pY6ftbfdEu2u4wdnDPGfX"
     },
     {
       "album": {
@@ -3856,6 +3874,32 @@
     },
     {
       "album": {
+        "name": "DUCKA POPO I VOLVO",
+        "url": "https://open.spotify.com/album/0qSHCFlMWTzEiA2U2X3Cvw"
+      },
+      "artists": [
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "Pappa Paavo",
+          "url": "https://open.spotify.com/artist/3BKk31zMt1l4Dj7rhVYJe2"
+        },
+        {
+          "name": "Sami Jakobsson",
+          "url": "https://open.spotify.com/artist/4UGIFNkgqh71ZV5QOHifDl"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158834,
+      "name": "DUCKA POPO I VOLVO",
+      "url": "https://open.spotify.com/track/0RHTTfjCS4JP1lVDsTJPrR"
+    },
+    {
+      "album": {
         "name": "Dum",
         "url": "https://open.spotify.com/album/5aLLKeuqEPvo1bq1Ph6VtT"
       },
@@ -5976,6 +6020,32 @@
     },
     {
       "album": {
+        "name": "FREDAG (MADNEZZ Remix)",
+        "url": "https://open.spotify.com/album/5qt4zmpGibnH4zF5ySoErw"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "JeppsoN",
+          "url": "https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx"
+        },
+        {
+          "name": "MADNEZZ",
+          "url": "https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184941,
+      "name": "FREDAG - MADNEZZ Remix",
+      "url": "https://open.spotify.com/track/62Nuc5U7l3yrqwjWRVB3ib"
+    },
+    {
+      "album": {
         "name": "FREDAG L\u00d6RDAG",
         "url": "https://open.spotify.com/album/1DpRDLuQ3KRwX4wTPcFgfM"
       },
@@ -7481,7 +7551,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 139874,
       "name": "Grannar - JulleMeck Remix",
       "url": "https://open.spotify.com/track/4THnoHSCr24fj3uNaj577v"
@@ -7817,6 +7887,24 @@
     {
       "album": {
         "name": "30 km/h",
+        "url": "https://open.spotify.com/album/2mpG8EziSzEqopH9JEoWT9"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152486,
+      "name": "G\u00d6R N\u00c5T DUMT",
+      "url": "https://open.spotify.com/track/4RNoZGFzsKm6x86jiW2Ujo"
+    },
+    {
+      "album": {
+        "name": "30 km/h",
         "url": "https://open.spotify.com/album/21A3LL1zDwpLfGhXutTuPr"
       },
       "artists": [
@@ -7827,7 +7915,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 152486,
       "name": "G\u00d6R N\u00c5T DUMT",
       "url": "https://open.spotify.com/track/50f1LUcmjx9PUJs2vGklJ0"
@@ -8255,6 +8343,24 @@
       "duration_ms": 153750,
       "name": "HELA PACKET",
       "url": "https://open.spotify.com/track/1x0jnxuhtjRHkIobYfG6gV"
+    },
+    {
+      "album": {
+        "name": "HELAN G\u00c5R",
+        "url": "https://open.spotify.com/album/6nAERnJf33y6ok9x0pXLTG"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117151,
+      "name": "HELAN G\u00c5R",
+      "url": "https://open.spotify.com/track/6cvbfSWecTmdF7eRbOcPIg"
     },
     {
       "album": {
@@ -8849,7 +8955,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 118400,
       "name": "H\u00c4LTA H\u00c4LTA",
       "url": "https://open.spotify.com/track/0fZx4EAMKG92Bgyj3Tt7pR"
@@ -8875,10 +8981,32 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 130570,
       "name": "H\u00e4ng med till klubben",
       "url": "https://open.spotify.com/track/7wzUo6qaFpbVzu8vmaXDVE"
+    },
+    {
+      "album": {
+        "name": "H\u00c4R KOMMER SVINERS",
+        "url": "https://open.spotify.com/album/6wVCetUK1MWFU6B7Ilk9tC"
+      },
+      "artists": [
+        {
+          "name": "Erik Meduza",
+          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
+        },
+        {
+          "name": "SVINERS",
+          "url": "https://open.spotify.com/artist/09e2yjoFpNbQSXe2khe7yU"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "H\u00c4R KOMMER SVINERS",
+      "url": "https://open.spotify.com/track/1WuQOUYOsOZNhAfvEU0fIR"
     },
     {
       "album": {
@@ -9205,7 +9333,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 139399,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/6s33ioOJL7AgkjqkgBnGjv"
@@ -9841,7 +9969,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 133000,
       "name": "JAG L\u00c5G MED EN AI",
       "url": "https://open.spotify.com/track/2wTEivbTjPdxGF7qTiO7rw"
@@ -10157,7 +10285,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 126840,
       "name": "KALAS",
       "url": "https://open.spotify.com/track/009GtRAd5vqSVc60r0gUbC"
@@ -10897,7 +11025,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 145253,
       "name": "LALA",
       "url": "https://open.spotify.com/track/32Sx8IL2UZKecO00G2LWj8"
@@ -14784,6 +14912,24 @@
     },
     {
       "album": {
+        "name": "Raggartjej",
+        "url": "https://open.spotify.com/album/6nkawsEcIZXkyfXEaWGtc6"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110083,
+      "name": "Raggartjej",
+      "url": "https://open.spotify.com/track/492SqladXP7jLa51uEGc4M"
+    },
+    {
+      "album": {
         "name": "RAGGARTJEJ",
         "url": "https://open.spotify.com/album/1DqRR6G367zSAAWFSCrh6R"
       },
@@ -15313,6 +15459,28 @@
       "duration_ms": 176250,
       "name": "Ring The Alarm - Habstrakt Remix",
       "url": "https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/2QMBLj4uUKhan24XJOYSHs"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "MADNEZZ",
+          "url": "https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96093,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/48XSXC4CQm24XxWQ9guxDt"
     },
     {
       "album": {
@@ -16650,6 +16818,32 @@
     },
     {
       "album": {
+        "name": "Snabbk\u00f6pskass\u00f6rskan",
+        "url": "https://open.spotify.com/album/7w60DkQBT52jLCBhuZLG3d"
+      },
+      "artists": [
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        },
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "Dalhem Desperados",
+          "url": "https://open.spotify.com/artist/4q5Z1fr5mksA6YK2jeA4cv"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165077,
+      "name": "Snabbk\u00f6pskass\u00f6rskan",
+      "url": "https://open.spotify.com/track/6irCeKrLW3c8igGJmdhjXC"
+    },
+    {
+      "album": {
         "name": "Snart \u00e4r det \u00f6ver (JUL IGEN)",
         "url": "https://open.spotify.com/album/7u1MrsMotbwWM50uVLkbRy"
       },
@@ -17721,7 +17915,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 165159,
       "name": "ST\u00d6RTLOPP",
       "url": "https://open.spotify.com/track/4uoYs01HjSL6uAVAKwKXGZ"
@@ -20225,6 +20419,24 @@
       "duration_ms": 142838,
       "name": "VIKING",
       "url": "https://open.spotify.com/track/5K1oFOPUkwk0m1cRX9eVhq"
+    },
+    {
+      "album": {
+        "name": "VILD",
+        "url": "https://open.spotify.com/album/2Vm0VZsYH3T46MHreLjm0k"
+      },
+      "artists": [
+        {
+          "name": "TRIPPEL TRUBBEL",
+          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "VILD",
+      "url": "https://open.spotify.com/track/4RwM47Kh338hORY4T0FXrp"
     },
     {
       "album": {

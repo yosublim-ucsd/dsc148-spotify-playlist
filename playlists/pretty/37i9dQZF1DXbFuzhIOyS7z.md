@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,651 likes - 30 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,657 likes - 30 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [ミッドナイトセブンス](https://open.spotify.com/track/14UU23xNd5g0cQH9r4kTiq) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [きえたくなる度君、刻む♡](https://open.spotify.com/album/6yOm2nYmsjtZm8ljCF0rPp) | 4:21 |
 | 30 | [Sangatsu no kaze](https://open.spotify.com/track/1TSlxrwevB6unVzHse4Jni) | [Boundary](https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9) | [Sangatsu no kaze](https://open.spotify.com/album/20IZCl0ZuK3hhf8x8popsK) | 3:52 |
 
-Snapshot ID: `MCw4MjFmM2QyMjkyODkxMmIxYzM2NjdjZjZhNzAxMDY2ZTlmYjExNzVi`
+Snapshot ID: `MCxlODAyNzVmNTJkMmI4ZWM2MDI1YTcxMWQwOTRlM2ZkN2ZmYzA2MDBh`

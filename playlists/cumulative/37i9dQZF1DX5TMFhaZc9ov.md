@@ -4,12 +4,13 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-176 songs - 11 hr 2 min
+177 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [14 Year Old Me](https://open.spotify.com/track/2evjAEtY3HsI3DLKzbkI9y) | [K Anderson](https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj) | [14 Year Old Me](https://open.spotify.com/album/30OWSNKICd1uTJBqAuRylQ) | 3:19 | 2022-06-10 |  |
 | [14 Year Old Me](https://open.spotify.com/track/48jBzw9xQyddW036qQsREk) | [K Anderson](https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj) | [14 Year Old Me](https://open.spotify.com/album/5oY4oozC9s6StQYjrblb9L) | 3:19 | 2021-06-01 | 2022-10-24 |
+| [Alibi](https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 2:48 | 2024-03-08 |  |
 | [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 | 2023-09-22 |  |
 | [All Apologies](https://open.spotify.com/track/1zX0Pv0l7GQUFlf0lNADqy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/5cbLLHZkBzxsxLefNLLUfE) | 2:37 | 2021-06-01 | 2022-07-29 |
 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 | 2022-06-10 |  |
@@ -77,7 +78,7 @@
 | [GMF](https://open.spotify.com/track/1mH84zLWFB3MkqlavtNjrf) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/2dfTV7CktUEBkZCHiB7VQB) | 5:13 | 2021-06-01 | 2022-07-29 |
 | [GMF](https://open.spotify.com/track/4XluehCQCnhhYD4cAd9Wfu) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/7JzIz5uW3p6IUPOtAzOIyw) | 5:13 | 2022-06-10 | 2023-09-22 |
 | [GMF](https://open.spotify.com/track/79jZxBuAkhT368GOeocKjb) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/5JL2oa838e8fLVPgvt5cVO) | 5:13 | 2023-09-08 |  |
-| [Hangman](https://open.spotify.com/track/2IqJS58ybf01nSQYMme5Ku) | [Chris Pureka](https://open.spotify.com/artist/0TcLzrilnmNFyaTgLULSg3) | [How I Learned to See in the Dark](https://open.spotify.com/album/0M8a5g7ff4dGXnU8ofv4di) | 4:52 | 2021-06-01 |  |
+| [Hangman](https://open.spotify.com/track/2IqJS58ybf01nSQYMme5Ku) | [Chris Pureka](https://open.spotify.com/artist/0TcLzrilnmNFyaTgLULSg3) | [How I Learned to See in the Dark](https://open.spotify.com/album/0M8a5g7ff4dGXnU8ofv4di) | 4:52 | 2021-06-01 | 2024-03-09 |
 | [Hardcore](https://open.spotify.com/track/3gHOThR42dJBUnlbNoCQEF) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Hardcore](https://open.spotify.com/album/3EB8voAV8PNRicdD6KDtFV) | 4:08 | 2022-06-01 |  |
 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 | 2023-06-14 |  |
 | [Heavy Crown](https://open.spotify.com/track/5v2ByxOB3Q9p5DsAndtuO2) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Trixie Mattel: Moving Parts \(The Acoustic Soundtrack\)](https://open.spotify.com/album/5Vcfkp2blCZRjJ7sjuVe1r) | 2:19 | 2021-06-01 |  |

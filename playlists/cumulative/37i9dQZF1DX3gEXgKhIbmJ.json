@@ -246,7 +246,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 123506,
       "name": "Amor",
       "url": "https://open.spotify.com/track/5OdtravkfnSInKvZDAC4WH"
@@ -577,6 +577,28 @@
     },
     {
       "album": {
+        "name": "Capa Vogue",
+        "url": "https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7"
+      },
+      "artists": [
+        {
+          "name": "LUCK MUZIK",
+          "url": "https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Capa Vogue",
+      "url": "https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7"
+    },
+    {
+      "album": {
         "name": "CARRO FORTE",
         "url": "https://open.spotify.com/album/12yuuQcgDTeKooWSpENkPm"
       },
@@ -654,7 +676,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 154351,
       "name": "Cmg S2",
       "url": "https://open.spotify.com/track/7s1dYgSJQQ9W6FSuJxXg96"
@@ -906,7 +928,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 142451,
       "name": "Ela Gosta",
       "url": "https://open.spotify.com/track/4Y0bibgaZO06kq3GULW2Ey"
@@ -1194,6 +1216,24 @@
       "duration_ms": 183594,
       "name": "Frango \u00e9 Frango! Travesti \u00e9 Travesti!",
       "url": "https://open.spotify.com/track/6I1rsNRIdyuqVq4JirGDyp"
+    },
+    {
+      "album": {
+        "name": "FUR0R",
+        "url": "https://open.spotify.com/album/2WL5vfdEF8Nai9VvAK1blY"
+      },
+      "artists": [
+        {
+          "name": "thzzz",
+          "url": "https://open.spotify.com/artist/4NTsGHuflZa0Xhc67rGPab"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140201,
+      "name": "FUR0R",
+      "url": "https://open.spotify.com/track/0jjyyiAfZsKEfkwFu7g84h"
     },
     {
       "album": {
@@ -1714,7 +1754,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 260538,
       "name": "Mexe Mexe",
       "url": "https://open.spotify.com/track/0PKOVSMvvmAvQaVgtZVt6n"
@@ -3012,7 +3052,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 117346,
       "name": "VIBE",
       "url": "https://open.spotify.com/track/7u0mUH2KvAKaNfDCNOsMEB"

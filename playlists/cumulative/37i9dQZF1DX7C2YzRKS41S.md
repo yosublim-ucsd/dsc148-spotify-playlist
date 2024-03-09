@@ -2,9 +2,9 @@
 
 ### [Amanhecer na Estrada](https://open.spotify.com/playlist/37i9dQZF1DX7C2YzRKS41S)
 
-> Um pouco de folk, MPB e indie para acordar com o pé na estrada.
+> Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-422 songs - 1 day 1 hr 1 min
+423 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 | 2021-12-24 | 2022-07-29 |
 | [Japão](https://open.spotify.com/track/2AK1IHG1OarphQqcCp2CXI) | [Lucas Guido](https://open.spotify.com/artist/5pJkGvrkBHgUADZ2f44jP1) | [Japão](https://open.spotify.com/album/3AakEFLFU3Fau6LTraQ2G1) | 3:00 | 2022-03-25 | 2022-04-25 |
 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/3cpv2bUnUzSZPaSVACXzdJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Jesus Christ 2005 God Bless America](https://open.spotify.com/album/5h2gHGAvkdm3sf2mtAE4Ub) | 4:24 | 2022-04-06 | 2022-04-21 |
-| [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 | 2022-07-04 |  |
+| [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 | 2022-07-04 | 2024-03-09 |
 | [Jorge De Capadocia](https://open.spotify.com/track/0kYpoESyBbEqd74Ie8elca) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/3c6QuGftzoHlZZ10TPsHsB) | 3:20 | 2021-12-24 | 2022-06-08 |
 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 | 2022-07-04 |  |
 | [Kids](https://open.spotify.com/track/3Dy8QVSgVB3qNw9Xtc2Jjw) | [Lady Danville](https://open.spotify.com/artist/4vzLZN7MD9TVnsLK7bR5oF) | [Kids \- Single](https://open.spotify.com/album/43dppTgh3gnnO5oFOspAyv) | 3:55 | 2022-03-25 | 2022-04-04 |
@@ -363,6 +363,7 @@
 | [Some Lazy Days](https://open.spotify.com/track/6IzIxuegLDSdebVCsHIciW) | [Cícero](https://open.spotify.com/artist/6a5wUPC879Kyfw0aXxVatB) | [Cosmo](https://open.spotify.com/album/5WAzHbc9I1cM61IC6ORoHv) | 2:58 | 2021-12-24 | 2022-04-19 |
 | [Something to Believe In \- Live Acoustic](https://open.spotify.com/track/6j0OqIhUxvOgGPTXxNj124) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Something to Believe In \(Live Acoustic\)](https://open.spotify.com/album/7jVFivHz6EeB2Ywx9wUG6j) | 3:44 | 2022-03-25 | 2022-04-21 |
 | [Space & Time](https://open.spotify.com/track/0UF2tfwzIgYT1nw8EEoPkd) | [Rafael Witt](https://open.spotify.com/artist/3MKdDfOZF0Simyf5JWXpg3) | [Space & Time](https://open.spotify.com/album/6A8cfnHoYihiXnPNdheurz) | 4:16 | 2021-12-24 | 2022-07-27 |
+| [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 | 2024-03-08 |  |
 | [Stars](https://open.spotify.com/track/0IR7vgkswrIXuFNEyinMoH) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC), [Clara Gurjão](https://open.spotify.com/artist/2crvpY41nDEZIQp3Po3j4H) | [Stars](https://open.spotify.com/album/42wFYqAd8stbXgHy388s8t) | 4:02 | 2022-03-25 | 2022-04-19 |
 | [Stay Alive](https://open.spotify.com/track/4MUvy2JhahEbfpWuGvhqlz) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/7fddgN7eLxI79dLIk9qlLh) | 3:01 | 2022-03-25 | 2022-04-15 |
 | [Strange Overtones](https://open.spotify.com/track/2YtMGbb7bAEPbxgQ6au4EP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Strange Overtones](https://open.spotify.com/album/1QcsAQ69J8rw1UuvSMW2pj) | 3:26 | 2022-04-06 | 2022-04-19 |

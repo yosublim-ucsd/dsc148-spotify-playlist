@@ -2,9 +2,9 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: Craig Morgan
+> The latest music from our Country Heroes\. Cover: Sawyer Brown
 
-263 songs - 15 hr 30 min
+264 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Danny Boy](https://open.spotify.com/track/1yerpD0kYWDGojzzTY1bCY) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Danny Boy](https://open.spotify.com/album/3esNIvoeWE2j3jy8TNjKJk) | 5:09 | 2023-06-30 |  |
 | [Dear Miss Loretta](https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Dear Miss Loretta](https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn) | 3:40 | 2021-10-15 |  |
 | [Dents On A Chevy](https://open.spotify.com/track/7sA9nuB1TGbZ4iHzLL80FH) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Jacob](https://open.spotify.com/album/4YbkRO4bAGaiOr1qiex8mi) | 3:17 | 2022-08-05 |  |
+| [Desperado Troubadours](https://open.spotify.com/track/7kKZXoV7gMgO6jEayKtFWI) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Desperado Troubadours](https://open.spotify.com/album/7CuqdxnrTONq74VevA1OfC) | 3:30 | 2024-03-08 |  |
 | [Does He Love You \- Acoustic Version](https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 4:25 | 2021-10-15 |  |
 | [Don't Drink Whiskey](https://open.spotify.com/track/31kF7HdCkTL4PcjYRHU5EE) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Don't Drink Whiskey](https://open.spotify.com/album/4iLmKTaXTnGxbv0mFBIchD) | 3:38 | 2022-01-28 |  |
 | [Don’t Make Me Have To Come Down There](https://open.spotify.com/track/09KvWJRQrqRaTxvNNtJFc7) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Don’t Make Me Have To Come Down There](https://open.spotify.com/album/57sOqzRyTNjSiHUIDviHwN) | 3:42 | 2023-01-20 |  |

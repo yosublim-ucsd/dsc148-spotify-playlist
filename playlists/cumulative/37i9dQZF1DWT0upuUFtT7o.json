@@ -10641,6 +10641,24 @@
     },
     {
       "album": {
+        "name": "Eating Me Alive",
+        "url": "https://open.spotify.com/album/0DQzRH23fb9Cf01H3ARMB5"
+      },
+      "artists": [
+        {
+          "name": "foamboy",
+          "url": "https://open.spotify.com/artist/1JuU4GHSf0kmi5dOCm1BeS"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254961,
+      "name": "Eating Me Alive",
+      "url": "https://open.spotify.com/track/6I1SWoRsbsSWrdVufccpwx"
+    },
+    {
+      "album": {
         "name": "Ebbs and Flows",
         "url": "https://open.spotify.com/album/4qqvBins9wxYYFCDftF8yu"
       },

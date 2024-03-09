@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Fletcher
+> Dark, hard hitting pop\. Cover: Haven Madison
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,382 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,445 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 |
-| 2 | [Weird World](https://open.spotify.com/track/5BsjtoILJWBRPVmY0TZUt0) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Weird World](https://open.spotify.com/album/37guijeueIx5aOEJzd2SZn) | 3:58 |
-| 3 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 |
-| 4 | [I Dated A Monster](https://open.spotify.com/track/2E2BQgdpVKcgDdS6IIJVrK) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Dated A Monster](https://open.spotify.com/album/5gGqwJK1phJFLisHG3CLPl) | 3:59 |
-| 5 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
-| 6 | [Aphrodite](https://open.spotify.com/track/7qXikOoj2QEA7GzrT6XLqk) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Aphrodite](https://open.spotify.com/album/2QGE2QyfdSIyLM9ImgVBaa) | 2:21 |
-| 7 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 |
-| 8 | [Boy Problems \- feat\. Cloudy June](https://open.spotify.com/track/4kApsVd9XGyO31gG5ahI6i) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Boy Problems \(feat\. Cloudy June\)](https://open.spotify.com/album/4CpEWtknVVYCD88k8yrL1O) | 2:48 |
-| 9 | [THE ARSONIST & THE SUPERMODEL](https://open.spotify.com/track/5mh4ZIGlt8MVTimIOs5pjt) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [THE ARSONIST & THE SUPERMODEL](https://open.spotify.com/album/6IZ6kSOta7A0p5I7mopGXk) | 2:12 |
-| 10 | [DFHMPU](https://open.spotify.com/track/6aZzBu7NiOSo1htN2Q7WLq) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [DFHMPU](https://open.spotify.com/album/5jZrHVZZgdaLsdgxQLvtAl) | 2:27 |
-| 11 | [White Lies](https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [White Lies](https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA) | 2:16 |
-| 12 | [I Woke Up](https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [I Woke Up](https://open.spotify.com/album/40s29e7Y7S6ZlaYyYf520J) | 2:38 |
-| 13 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 |
+| 1 | [Monster](https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Monster](https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE) | 3:19 |
+| 2 | [I Dated A Monster](https://open.spotify.com/track/2E2BQgdpVKcgDdS6IIJVrK) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Dated A Monster](https://open.spotify.com/album/5gGqwJK1phJFLisHG3CLPl) | 3:59 |
+| 3 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 |
+| 4 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 |
+| 5 | [Weird World](https://open.spotify.com/track/5BsjtoILJWBRPVmY0TZUt0) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Weird World](https://open.spotify.com/album/37guijeueIx5aOEJzd2SZn) | 3:58 |
+| 6 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 |
+| 7 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
+| 8 | [Aphrodite](https://open.spotify.com/track/7qXikOoj2QEA7GzrT6XLqk) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Aphrodite](https://open.spotify.com/album/2QGE2QyfdSIyLM9ImgVBaa) | 2:21 |
+| 9 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 |
+| 10 | [THE ARSONIST & THE SUPERMODEL](https://open.spotify.com/track/5mh4ZIGlt8MVTimIOs5pjt) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [THE ARSONIST & THE SUPERMODEL](https://open.spotify.com/album/6IZ6kSOta7A0p5I7mopGXk) | 2:12 |
+| 11 | [DFHMPU](https://open.spotify.com/track/6aZzBu7NiOSo1htN2Q7WLq) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [DFHMPU](https://open.spotify.com/album/5jZrHVZZgdaLsdgxQLvtAl) | 2:27 |
+| 12 | [White Lies](https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [White Lies](https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA) | 2:16 |
+| 13 | [I Woke Up](https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [I Woke Up](https://open.spotify.com/album/40s29e7Y7S6ZlaYyYf520J) | 2:38 |
 | 14 | [hide n seek](https://open.spotify.com/track/124MUbhjtneYWTOaVvkLJx) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [luna park](https://open.spotify.com/album/3JszvFwSmbe6kPv15wbnq9) | 2:56 |
 | 15 | [pure violence](https://open.spotify.com/track/4onRphOELkvQ04sPaPQ2Ut) | [Ava Morse](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z) | [pure violence](https://open.spotify.com/album/7fPsKJHOMQT11iNN2crFKu) | 2:48 |
 | 16 | [INTIMACY ISSUES](https://open.spotify.com/track/6dWNhHol6ZB8TAY0urVBwj) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [INTIMACY ISSUES](https://open.spotify.com/album/5SXtS4KZSbhxjbW99aus7A) | 2:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 79 | [Pretty Little Addict](https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS) | 2:47 |
 | 80 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 
-Snapshot ID: `MCw5NmRiZGU4OTZkNjlkNWVlNWEyNGZlNTIyN2UyZWZlM2FmZmQ3NjVm`
+Snapshot ID: `MCwyZTJjM2EzODBhZDNhODAzMjJiMmU2ZWYzMmIyNTY5N2I0NWQ2NTk2`

@@ -1,12 +1,12 @@
 {
   "description": "Still yachting. Cover: Young Gun Silver Fox",
-  "num_followers": 12788,
+  "num_followers": 12797,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDhkNWNlZTM4ZTk4NzhiYzlmZTIzMDJkNGJkYTYzMmM3NDllNWU2",
+  "snapshot_id": "MCxjNzg0NGY3N2RjZDRlMWM1NWNjZWUxNDM3NmQyMzg0ZjM2NDk1OGJm",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -53,6 +53,46 @@
       "url": "https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4"
     },
     {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Pocket Music",
+        "url": "https://open.spotify.com/album/5Y7du83uUhCUXobupkRCjN"
+      },
+      "artists": [
+        {
+          "name": "Sun Rai",
+          "url": "https://open.spotify.com/artist/6UOV42aOSJ5YrbYzLIfLwr"
+        }
+      ],
+      "duration_ms": 266704,
+      "name": "San Francisco Street",
+      "url": "https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "What a Mess",
+        "url": "https://open.spotify.com/album/4g6ZTv4RiQfcbrwZX9Xwnd"
+      },
+      "artists": [
+        {
+          "name": "Zachary Austin",
+          "url": "https://open.spotify.com/artist/4dACqKiAumlZz4e7g05BUx"
+        },
+        {
+          "name": "Offghost",
+          "url": "https://open.spotify.com/artist/5idpy1lojocVoblo9y9nan"
+        },
+        {
+          "name": "Barb",
+          "url": "https://open.spotify.com/artist/2AKn3QitGXoKeodTlARfxe"
+        }
+      ],
+      "duration_ms": 207818,
+      "name": "What a Mess",
+      "url": "https://open.spotify.com/track/0Nh1lcfO370r4RbnbHyI0u"
+    },
+    {
       "added_at": "2024-02-02 05:01:00",
       "album": {
         "name": "Sleeptalking",
@@ -83,22 +123,6 @@
       "duration_ms": 216281,
       "name": "One Bedroom Apartment",
       "url": "https://open.spotify.com/track/6XEuXtDnH3s42tXRYdowaA"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Pocket Music",
-        "url": "https://open.spotify.com/album/5Y7du83uUhCUXobupkRCjN"
-      },
-      "artists": [
-        {
-          "name": "Sun Rai",
-          "url": "https://open.spotify.com/artist/6UOV42aOSJ5YrbYzLIfLwr"
-        }
-      ],
-      "duration_ms": 266704,
-      "name": "San Francisco Street",
-      "url": "https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce"
     },
     {
       "added_at": "2024-01-26 05:01:00",
@@ -839,22 +863,6 @@
       "duration_ms": 270868,
       "name": "15th Floor",
       "url": "https://open.spotify.com/track/14NAPaeP9jPGkWXso4J23B"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Troubadour",
-        "url": "https://open.spotify.com/album/0IA0ptUhfkuHZa6pz8g82v"
-      },
-      "artists": [
-        {
-          "name": "The Stepkids",
-          "url": "https://open.spotify.com/artist/1JbB3pybR1wjrQSBLaMWyn"
-        }
-      ],
-      "duration_ms": 230818,
-      "name": "The Lottery",
-      "url": "https://open.spotify.com/track/16xoohpKWmRCrSbK5tQtpL"
     },
     {
       "added_at": "2023-09-01 04:00:00",

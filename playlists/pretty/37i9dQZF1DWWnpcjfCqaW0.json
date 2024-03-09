@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 287382,
+  "num_followers": 287417,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWNiNGJiNTQ2N2EwZjZmNmQxZjgzZTQ4MjY3NzlkZTNlZDBlNDcx",
+  "snapshot_id": "MCwwYTVkOWU0NDJiYTVjN2FhNDlmZTgwNWRlMGQ0NzZjMjI4MTM1ODJj",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -143,8 +143,8 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+        "name": "For LP Fans Only",
+        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 117080,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
+      "duration_ms": 115280,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -303,8 +303,8 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "For LP Fans Only",
-        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 115280,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
+      "duration_ms": 117080,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Sixteen Tons",
-        "url": "https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 155007,
-      "name": "The Shot Gun Boogie",
-      "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Sixteen Tons",
+        "url": "https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "duration_ms": 155007,
+      "name": "The Shot Gun Boogie",
+      "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
-      },
-      "artists": [
-        {
-          "name": "Sonny James",
-          "url": "https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Complete Capitol Singles: 1957-1966",
         "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 164680,
       "name": "Under Your Spell Again - Mono Single Version",
       "url": "https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
+      },
+      "artists": [
+        {
+          "name": "Sonny James",
+          "url": "https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
-      },
-      "artists": [
-        {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
-        }
-      ],
-      "duration_ms": 151419,
-      "name": "Send Me the Pillow You Dream On",
-      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "22 Early Starday Recordings",
         "url": "https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 136240,
       "name": "Why Baby Why",
       "url": "https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
+      },
+      "artists": [
+        {
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+        }
+      ],
+      "duration_ms": 151419,
+      "name": "Send Me the Pillow You Dream On",
+      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Margaret",
-        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 127746,
-      "name": "I Love You Because",
-      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Frankie Laine's Greatest Hits",
         "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 130893,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Margaret",
+        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 127746,
+      "name": "I Love You Because",
+      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Very Best Of Slim Whitman",
-        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
+        "name": "Gotta Travel On: The Very Best Of Billy Grammar",
+        "url": "https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY"
       },
       "artists": [
         {
-          "name": "Slim Whitman",
-          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+          "name": "Billy Grammer",
+          "url": "https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA"
         }
       ],
-      "duration_ms": 190653,
-      "name": "Indian Love Call",
-      "url": "https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9"
+      "duration_ms": 150493,
+      "name": "Gotta Travel On",
+      "url": "https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Gotta Travel On: The Very Best Of Billy Grammar",
-        "url": "https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY"
+        "name": "The Very Best Of Slim Whitman",
+        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
       "artists": [
         {
-          "name": "Billy Grammer",
-          "url": "https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA"
+          "name": "Slim Whitman",
+          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
         }
       ],
-      "duration_ms": 150493,
-      "name": "Gotta Travel On",
-      "url": "https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu"
+      "duration_ms": 190653,
+      "name": "Indian Love Call",
+      "url": "https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9"
     },
     {
       "added_at": "2023-01-02 21:32:07",

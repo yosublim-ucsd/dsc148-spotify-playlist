@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 48980,
+  "num_followers": 49004,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmI1NDQ0OTA2YzM1M2EwNDEzMDZiZGE2NThhZDYzODE1Njg1MTE5",
+  "snapshot_id": "MCw2ZjZlNGJlNTE0MjFlNGQ0NjJlMmM4ZmYxNjg1YWViNTk5YmY0OWI5",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -295,18 +295,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
+        "name": "Presenting Big Jay McNeely",
+        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
       },
       "artists": [
         {
-          "name": "Johnny Otis",
-          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
         }
       ],
-      "duration_ms": 112866,
-      "name": "Good Golly",
-      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
+      "duration_ms": 167866,
+      "name": "Deacon Rides Again",
+      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -327,18 +327,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Presenting Big Jay McNeely",
-        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
       },
       "artists": [
         {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
         }
       ],
-      "duration_ms": 167866,
-      "name": "Deacon Rides Again",
-      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
+      "duration_ms": 112866,
+      "name": "Good Golly",
+      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -527,6 +527,26 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Count Basie Swings - Joe Williams Sings",
+        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Sun Records - 60 Years, 60 Singles Box Set",
         "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 124333,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Count Basie Swings - Joe Williams Sings",
-        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        },
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Roll 'Em Pete",
-      "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
     },
     {
       "added_at": "2022-03-28 19:44:25",

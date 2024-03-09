@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 353495,
+  "num_followers": 355164,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGM5MTRiYWRkMjRjYjI4ZDllYmE5NjNhOTM5MzkzMjdiNTVjZDFj",
+  "snapshot_id": "MCxiMDFlMWU2NTdhNmZjNzE3NmY5NjE0N2Q4ZDYwNTRkYTg5ZTU0ZDc5",
   "tracks": [
     {
       "added_at": "2024-02-21 14:57:30",
@@ -23,6 +23,46 @@
       "duration_ms": 190850,
       "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
       "url": "https://open.spotify.com/track/440DONUaYDRuHmNKMJcz0R"
+    },
+    {
+      "added_at": "2024-03-05 18:42:51",
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+    },
+    {
+      "added_at": "2024-03-08 16:57:59",
+      "album": {
+        "name": "higher",
+        "url": "https://open.spotify.com/album/7bU6287MqRe2gtSXbwMq0b"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        },
+        {
+          "name": "apatheater",
+          "url": "https://open.spotify.com/artist/31MBjhC4zjwYnrNKicwTTO"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/7diyCFL8chcY1REunXR18F"
     },
     {
       "added_at": "2024-01-25 17:08:18",
@@ -61,20 +101,24 @@
       "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
     },
     {
-      "added_at": "2024-03-05 18:42:51",
+      "added_at": "2024-03-08 16:57:59",
       "album": {
-        "name": "Faster n Harder",
-        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+        "name": "Rock Your Body",
+        "url": "https://open.spotify.com/album/1bL31qYzTMyihNFR91mgFt"
       },
       "artists": [
         {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+      "duration_ms": 133361,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -177,22 +221,6 @@
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
-      "added_at": "2024-03-05 18:42:51",
-      "album": {
-        "name": "Suffocation (Slowed)",
-        "url": "https://open.spotify.com/album/7wblFnt47oJLJXxNJrIb3e"
-      },
-      "artists": [
-        {
-          "name": "noturgf",
-          "url": "https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS"
-        }
-      ],
-      "duration_ms": 64842,
-      "name": "Suffocation - Slowed",
-      "url": "https://open.spotify.com/track/15uq77MdhAjrnBuumngIsz"
-    },
-    {
       "added_at": "2024-02-13 14:24:02",
       "album": {
         "name": "krushed!",
@@ -233,22 +261,6 @@
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
-      "added_at": "2024-03-05 18:42:51",
-      "album": {
-        "name": "Die Sterne",
-        "url": "https://open.spotify.com/album/5MWl80M1azmxFDfUyxVYEy"
-      },
-      "artists": [
-        {
-          "name": "Edwin Rosen",
-          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
-        }
-      ],
-      "duration_ms": 88000,
-      "name": "Die Sterne",
-      "url": "https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "LET ME SEE YA MOVE!",
@@ -283,6 +295,26 @@
       "duration_ms": 210757,
       "name": "PROTECTION CHARM - SLOW & HARD VERSION",
       "url": "https://open.spotify.com/track/3rcw75i7dkInJWy12aR3dO"
+    },
+    {
+      "added_at": "2024-03-08 16:57:59",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/16MG9A3cvNOamfuJqK02aQ"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 93416,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/37mNBpbd2ZeSN51qcKy0Ho"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -351,6 +383,22 @@
     {
       "added_at": "2024-03-05 18:42:51",
       "album": {
+        "name": "Suffocation (Slowed)",
+        "url": "https://open.spotify.com/album/7wblFnt47oJLJXxNJrIb3e"
+      },
+      "artists": [
+        {
+          "name": "noturgf",
+          "url": "https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS"
+        }
+      ],
+      "duration_ms": 64842,
+      "name": "Suffocation - Slowed",
+      "url": "https://open.spotify.com/track/15uq77MdhAjrnBuumngIsz"
+    },
+    {
+      "added_at": "2024-03-05 18:42:51",
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug"
       },
@@ -387,6 +435,26 @@
       "duration_ms": 127741,
       "name": "GMFU (w/ 6arelyhuman)",
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+    },
+    {
+      "added_at": "2024-03-08 16:57:59",
+      "album": {
+        "name": "DXXXRTY!",
+        "url": "https://open.spotify.com/album/1Yrk0XGuAur0a6RWGGD2CN"
+      },
+      "artists": [
+        {
+          "name": "NONTHENSE",
+          "url": "https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn"
+        },
+        {
+          "name": "Iwuplu",
+          "url": "https://open.spotify.com/artist/6C8Qg3USXkcpL9jg0TYa7k"
+        }
+      ],
+      "duration_ms": 132464,
+      "name": "DXXXRTY!",
+      "url": "https://open.spotify.com/track/7fWWHphEvrMCEFyLYbCv3J"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -495,6 +563,22 @@
       "duration_ms": 131262,
       "name": "JERK!",
       "url": "https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB"
+    },
+    {
+      "added_at": "2024-03-05 18:42:51",
+      "album": {
+        "name": "Die Sterne",
+        "url": "https://open.spotify.com/album/5MWl80M1azmxFDfUyxVYEy"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "duration_ms": 88000,
+      "name": "Die Sterne",
+      "url": "https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad"
     },
     {
       "added_at": "2024-01-12 05:00:00",

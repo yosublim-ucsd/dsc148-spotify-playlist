@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 125326,
+  "2024-03-09": 125409,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0647\u0627\u0621 \u0633\u0644\u0637\u0627\u0646\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
@@ -11366,6 +11366,28 @@
     },
     {
       "album": {
+        "name": "Ya Mawlana",
+        "url": "https://open.spotify.com/album/1azCb4UB8DYaqMT2zUnnwS"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        },
+        {
+          "name": "El Joker",
+          "url": "https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233795,
+      "name": "Ya Mawlana",
+      "url": "https://open.spotify.com/track/1puamrYWE2cSMKqM2x02j0"
+    },
+    {
+      "album": {
         "name": "Ya Naseeni",
         "url": "https://open.spotify.com/album/5dUFJ8fT2qtwrRcNenJoGy"
       },
@@ -12909,6 +12931,32 @@
       "duration_ms": 233364,
       "name": "\u0627\u064a\u0647 \u063a\u064a\u0631\u0643",
       "url": "https://open.spotify.com/track/7d8Q20fRUqE7FaUXOTcARp"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0627\u0628\u0627 \u062c\u0647",
+        "url": "https://open.spotify.com/album/0GufQQdl0rb9MoWUV8aGsn"
+      },
+      "artists": [
+        {
+          "name": "Akram Hosny",
+          "url": "https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi"
+        },
+        {
+          "name": "Ahmed Wahid",
+          "url": "https://open.spotify.com/artist/6dmeENLe1uYPwlRncez1qJ"
+        },
+        {
+          "name": "Lavinia Nader",
+          "url": "https://open.spotify.com/artist/45yMxZ7PMLp4lCcq2rl6CH"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "\u0628\u0627\u0628\u0627 \u062c\u0647",
+      "url": "https://open.spotify.com/track/4eFl2NwlXKqP117RFSGmqI"
     },
     {
       "album": {

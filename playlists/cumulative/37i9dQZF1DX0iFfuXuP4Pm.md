@@ -2,7 +2,7 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Zack Tabudlo
+> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Illest Morena\. International Women’s Day takeover\. Powered by <a href="spotify:genre:equal">EQUAL</a>
 
 80 songs - 4 hr 56 min
 

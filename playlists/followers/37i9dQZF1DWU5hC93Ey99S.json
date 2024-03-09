@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 53677,
+  "2024-03-09": 53986,
   "date_first_scraped": "2023-04-15",
   "description": "all the stutter, all the feels.",
   "name": "Emotional Dance",
@@ -1820,6 +1820,32 @@
     },
     {
       "album": {
+        "name": "Sisyphus Remixes Pt. 2",
+        "url": "https://open.spotify.com/album/5YACRcEwtEVQSB58p45HiO"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245485,
+      "name": "Endit - Dusky Remix",
+      "url": "https://open.spotify.com/track/1ukwvRsaWx1YMenRQB5ABM"
+    },
+    {
+      "album": {
         "name": "Esther (Duskus Romantic Edit)",
         "url": "https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J"
       },
@@ -2003,6 +2029,24 @@
       "duration_ms": 199076,
       "name": "Feel Stressed",
       "url": "https://open.spotify.com/track/6bmtArVzaIQ81X9IWJfxHo"
+    },
+    {
+      "album": {
+        "name": "Feel This Way",
+        "url": "https://open.spotify.com/album/77dKYJlsC8W8cwN2za1Kfy"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144751,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/19YCCWiaSjfaKNAHUXwPvd"
     },
     {
       "album": {
@@ -3293,6 +3337,28 @@
       "duration_ms": 164351,
       "name": "I feel so free",
       "url": "https://open.spotify.com/track/4VaNpKDjDfz8oCV5BqFKOV"
+    },
+    {
+      "album": {
+        "name": "i feel too much",
+        "url": "https://open.spotify.com/album/2GmKabXAoBZzQHlwx5zgRU"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        },
+        {
+          "name": "grandpa julie",
+          "url": "https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "i feel too much",
+      "url": "https://open.spotify.com/track/6AGbz4qiwUkr2Dtr7h6mBi"
     },
     {
       "album": {
@@ -7150,6 +7216,24 @@
     },
     {
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365461,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd"
+    },
+    {
+      "album": {
         "name": "Still I Fall",
         "url": "https://open.spotify.com/album/6UnMvdSSFbm0m93SHjIh9j"
       },
@@ -7298,6 +7382,24 @@
     },
     {
       "album": {
+        "name": "Strange Motions",
+        "url": "https://open.spotify.com/album/7KtRO9Htcv5RWIYYDcxlNm"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176934,
+      "name": "Taking Care of You",
+      "url": "https://open.spotify.com/track/0cbysxAOyCbv6g5tOMXC0m"
+    },
+    {
+      "album": {
         "name": "talk",
         "url": "https://open.spotify.com/album/6JtweGxznTHck5hZ4MIipF"
       },
@@ -7353,6 +7455,28 @@
       "duration_ms": 272946,
       "name": "Talk Tonight",
       "url": "https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r"
+    },
+    {
+      "album": {
+        "name": "Talking Too Much",
+        "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Talking Too Much",
+      "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
     },
     {
       "album": {
@@ -7561,10 +7685,32 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/3qeagjakbHQDOkBnQOTMiO"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/38OibRn3CyUnQZg9RWLv7u"
     },
     {
       "album": {
@@ -8129,6 +8275,24 @@
       "duration_ms": 184835,
       "name": "Undo U - 4x4 Mix",
       "url": "https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7"
+    },
+    {
+      "album": {
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197036,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
     },
     {
       "album": {
@@ -8780,6 +8944,28 @@
     },
     {
       "album": {
+        "name": "In Touch (Remixes)",
+        "url": "https://open.spotify.com/album/5Cn0BndceHul8eUcjzKyUO"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235111,
+      "name": "Without U (jigitz Remix)",
+      "url": "https://open.spotify.com/track/0ZAH2VBLQdKNHrTgQywLEw"
+    },
+    {
+      "album": {
         "name": "without ur love",
         "url": "https://open.spotify.com/album/1pjViRBeb37JuriN8ukcfX"
       },
@@ -8887,6 +9073,24 @@
       "duration_ms": 168163,
       "name": "You and I",
       "url": "https://open.spotify.com/track/4H1DoZHBeRPGT9wr3JHDty"
+    },
+    {
+      "album": {
+        "name": "You Gotta Let It Go",
+        "url": "https://open.spotify.com/album/23Y6ZHIMRlnoUWT1afU298"
+      },
+      "artists": [
+        {
+          "name": "Friends & I",
+          "url": "https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133728,
+      "name": "You Gotta Let It Go",
+      "url": "https://open.spotify.com/track/2sBFRbfJv4cAXhHSAaOF6d"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 18895,
+  "2024-03-09": 3781,
   "date_first_scraped": "2023-10-15",
   "description": "El soundtrack ideal para tu sesi\u00f3n matutina.",
   "name": "Amanecer con Yoga",
@@ -2598,6 +2598,24 @@
     },
     {
       "album": {
+        "name": "Mild Season",
+        "url": "https://open.spotify.com/album/1lVMgr76m4osE1qQwyf1jC"
+      },
+      "artists": [
+        {
+          "name": "Shibuki",
+          "url": "https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Mild Season",
+      "url": "https://open.spotify.com/track/7d8I19LKTGqXrtVuuicHeU"
+    },
+    {
+      "album": {
         "name": "Mo Chroidhe",
         "url": "https://open.spotify.com/album/4d0cCBHVGlmqCqqW3dffzg"
       },
@@ -2829,6 +2847,24 @@
       "duration_ms": 172449,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL"
+    },
+    {
+      "album": {
+        "name": "Non Artificial",
+        "url": "https://open.spotify.com/album/1pmQtchHKhWrIGy3nFjO9v"
+      },
+      "artists": [
+        {
+          "name": "Arhaa Doak",
+          "url": "https://open.spotify.com/artist/4psjQuohUvbvwl50sFuqR9"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182576,
+      "name": "Non Artificial",
+      "url": "https://open.spotify.com/track/7F1GffFCXypMaIXb33Jrpy"
     },
     {
       "album": {
@@ -4038,6 +4074,24 @@
     },
     {
       "album": {
+        "name": "Sublime Solitude",
+        "url": "https://open.spotify.com/album/1uYDTaXUyAhmhmTR5KCaVq"
+      },
+      "artists": [
+        {
+          "name": "Enigmatic Horizons",
+          "url": "https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176946,
+      "name": "Sublime Solitude",
+      "url": "https://open.spotify.com/track/1a5wALPS5MtdxlNpw68DJK"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/26SmTApfvPADDQxvytu7U1"
       },
@@ -4413,6 +4467,24 @@
       "duration_ms": 212000,
       "name": "Unforgotten Girl",
       "url": "https://open.spotify.com/track/5QROqX69Jt5QgS1fhYXUj2"
+    },
+    {
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/1yUlHuxjgZdhOJaZql1H0w"
+      },
+      "artists": [
+        {
+          "name": "Eos Astraeus",
+          "url": "https://open.spotify.com/artist/43of8eAodl6qI6YvBX6hkJ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162455,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/6dDY863qEdWoHP3VPbqaI1"
     },
     {
       "album": {

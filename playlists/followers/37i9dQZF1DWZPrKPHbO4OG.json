@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 20342,
+  "2024-03-09": 20369,
   "date_first_scraped": "2023-07-25",
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
   "name": "Marathi Workout",
@@ -1143,10 +1143,28 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 246671,
       "name": "Payee Fufata",
       "url": "https://open.spotify.com/track/7AvfiB7Paq388ecxkoq5Mf"
+    },
+    {
+      "album": {
+        "name": "Payee Fufata",
+        "url": "https://open.spotify.com/album/2IE1csSEvpahQmcIhngXK0"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248737,
+      "name": "Payee Fufata",
+      "url": "https://open.spotify.com/track/4u6Hc5qQ5AxGtJwXIe2LbL"
     },
     {
       "album": {

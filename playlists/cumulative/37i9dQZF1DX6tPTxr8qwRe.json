@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Fletcher",
+  "description": "Dark, hard hitting pop. Cover: Haven Madison",
   "name": "SALT",
   "tracks": [
     {
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 168036,
       "name": "Boy Problems - feat. Cloudy June",
       "url": "https://open.spotify.com/track/4kApsVd9XGyO31gG5ahI6i"
@@ -6526,6 +6526,24 @@
       "duration_ms": 158197,
       "name": "MONSTER",
       "url": "https://open.spotify.com/track/7kci5BIV3lQntWLztgsPdf"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE"
+      },
+      "artists": [
+        {
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199320,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu"
     },
     {
       "album": {

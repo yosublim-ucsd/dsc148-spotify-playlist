@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 208464,
+  "2024-03-09": 208534,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Zsela",
   "name": "Fresh Finds Indie",
@@ -28783,6 +28783,24 @@
       "duration_ms": 171592,
       "name": "Radiator",
       "url": "https://open.spotify.com/track/12IL43Uvfmki6MFUoEh07c"
+    },
+    {
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/5jGKy49kIhQk4EE8ZxjaXC"
+      },
+      "artists": [
+        {
+          "name": "Tomato Flower",
+          "url": "https://open.spotify.com/artist/32g8Z2L0lqQH65njcLcBUG"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144800,
+      "name": "Radical",
+      "url": "https://open.spotify.com/track/6NdZ2PDrUa8ezJyOIXu93v"
     },
     {
       "album": {

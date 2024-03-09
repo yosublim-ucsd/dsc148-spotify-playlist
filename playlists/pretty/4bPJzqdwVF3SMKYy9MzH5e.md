@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,865 songs - 4 day 4 hr 45 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,866 songs - 4 day 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1873,5 +1873,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1863 | [Venom](https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [KILL YOURSELF Part XIV: The Vulture Saga](https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s) | 2:03 |
 | 1864 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
 | 1865 | [Pretty Girl Vamp](https://open.spotify.com/track/3CeoqupTfHWakwrxdlifjQ) | [Xtick Man](https://open.spotify.com/artist/6lPMmlVmdWSQC0ZlCexBc3), [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7) | [Pretty Girl Vamp](https://open.spotify.com/album/4GjgVQ101KFLFtFTbt23MD) | 2:27 |
+| 1866 | [Big House](https://open.spotify.com/track/0xotalhUIMjIBPLI3NC3l8) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/3T01oOjbrox1jz0pR112oV) | 2:18 |
 
-Snapshot ID: `NzE2LGM0NzczNmIwOWRkYTQ0OWYxNzA2MGMyYzk5NTRiYTE5ZWU4NDJjNzk=`
+Snapshot ID: `NzE3LDUwYjI1NDY0NmQ4Mzg0ZTYzOWEwMWNjNGE0MWQ1MTI3YzA5ZGNmNDc=`

@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 53772,
+  "2024-03-09": 53829,
   "date_first_scraped": "2022-12-10",
   "description": "Go hard or go home",
   "name": "Hardstyle Gym \ud83d\udcaa",
@@ -24,6 +24,24 @@
     },
     {
       "album": {
+        "name": "AM-PM (Gluttony)",
+        "url": "https://open.spotify.com/album/1Vg7DEavxBrb6vQJXaRY52"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168152,
+      "name": "AM-PM (Gluttony)",
+      "url": "https://open.spotify.com/track/5ylRcQigJwkw9Od0HgV4lI"
+    },
+    {
+      "album": {
         "name": "Another Love (Hardstyle - Sped Up)",
         "url": "https://open.spotify.com/album/0oZRwlLZJqGWRyLMS72RQ9"
       },
@@ -43,7 +61,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 129783,
       "name": "Another Love - Hardstyle - Sped Up",
       "url": "https://open.spotify.com/track/5VhPhDGiJrc2rd7GbToA7z"
@@ -120,6 +138,28 @@
     },
     {
       "album": {
+        "name": "Behind (Vexxed Remix)",
+        "url": "https://open.spotify.com/album/0zc0H3vOBhH341s7jZyMcl"
+      },
+      "artists": [
+        {
+          "name": "Vexxed",
+          "url": "https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY"
+        },
+        {
+          "name": "Stormerz",
+          "url": "https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198197,
+      "name": "Behind - Vexxed Remix",
+      "url": "https://open.spotify.com/track/7D5f1zwn22cRtitNDC86z1"
+    },
+    {
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/3F8GYHZglKYMrJWiS3bHdv"
       },
@@ -173,7 +213,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 152000,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/00NbtCjGk8CqdB8ukjxCT4"
@@ -209,7 +249,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 190503,
       "name": "Bonkerz",
       "url": "https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM"
@@ -235,7 +275,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 196576,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
@@ -341,7 +381,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 154400,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM"
@@ -571,7 +611,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 178500,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f"
@@ -667,7 +707,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 169200,
       "name": "Deca",
       "url": "https://open.spotify.com/track/7uW9h8XnRkNkfS5KhjPUNm"
@@ -685,7 +725,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 241600,
       "name": "Deep In My Soul",
       "url": "https://open.spotify.com/track/7nziCzPuyKub9Ra5o5OSEy"
@@ -758,6 +798,24 @@
     },
     {
       "album": {
+        "name": "Dissolve My Mind",
+        "url": "https://open.spotify.com/album/4LzpG7zgNbRvejVUpx0U4W"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251082,
+      "name": "Dissolve My Mind",
+      "url": "https://open.spotify.com/track/3pfXohE3mfz9lsdo47Rfvt"
+    },
+    {
+      "album": {
         "name": "DMT",
         "url": "https://open.spotify.com/album/39qEWfBRftbceehLGfHAcC"
       },
@@ -813,7 +871,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 206437,
       "name": "DOWN DOWN",
       "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
@@ -931,7 +989,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 258946,
       "name": "Edge of The Unknown",
       "url": "https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J"
@@ -1001,7 +1059,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 212322,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK"
@@ -1045,7 +1103,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 242616,
       "name": "Faith Of This World - Original Mix",
       "url": "https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254"
@@ -1137,7 +1195,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 201477,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/0mGmrLTe4VlaWZ5DFWpnil"
@@ -1291,7 +1349,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT"
@@ -1375,7 +1433,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Goodbye (feat. Xillions) - Crude Intentions & Dr. Rude Remix",
       "url": "https://open.spotify.com/track/4Fn9Z5LVGc4f0Qq6L53eEg"
@@ -1393,7 +1451,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 170000,
       "name": "Halo",
       "url": "https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo"
@@ -1411,7 +1469,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 195639,
       "name": "Hard To Tell",
       "url": "https://open.spotify.com/track/58qwngsMklWQLew2rA9Nbg"
@@ -1613,7 +1671,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 295646,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/7vjPIUzk2E6WBORNPQHzgG"
@@ -1683,7 +1741,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 159483,
       "name": "I Like To Party",
       "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
@@ -1917,7 +1975,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 218322,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/6Bq1Elt1IMGTgjTp0wj9pU"
@@ -2023,7 +2081,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 241019,
       "name": "Live Fast Die Young",
       "url": "https://open.spotify.com/track/6Dr20NRSnMh9NT76D4FNqk"
@@ -2089,7 +2147,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 208000,
       "name": "Lose It All",
       "url": "https://open.spotify.com/track/5u6MUAawmhnFHVGaAGDj2v"
@@ -2427,7 +2485,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 223184,
       "name": "NRG",
       "url": "https://open.spotify.com/track/014cgPQdDPnwysDT3453Nf"
@@ -2651,7 +2709,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 159993,
       "name": "Rave Superstar",
       "url": "https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5"
@@ -2673,7 +2731,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 320148,
       "name": "Raw Resurgence - Official Supremacy 2023 Anthem",
       "url": "https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ"
@@ -2757,7 +2815,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 171428,
       "name": "Rock Tha Party",
       "url": "https://open.spotify.com/track/2y4MGW3z5eMAZTXm7Q0T7V"
@@ -2919,7 +2977,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 153432,
       "name": "Stay Alive 2K24",
       "url": "https://open.spotify.com/track/5o4rviue1So4SS4tECuaHB"
@@ -3079,7 +3137,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 130964,
       "name": "The Get Back",
       "url": "https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp"
@@ -3101,7 +3159,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "The Hoover",
       "url": "https://open.spotify.com/track/0QssNmq5FzUv2GMBmeEcX1"
@@ -3199,7 +3257,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 150375,
       "name": "The Nights - Hardstyle Edit",
       "url": "https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q"
@@ -3296,6 +3354,28 @@
     },
     {
       "album": {
+        "name": "The Same Blood (Official EPIK 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3R54Xa2tvyNnQL63vGSizR"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209097,
+      "name": "The Same Blood - Official EPIK 2023 Anthem",
+      "url": "https://open.spotify.com/track/3q2XAEa5btQAbgIha0I8JW"
+    },
+    {
+      "album": {
         "name": "Thundercloud (Not Alone)",
         "url": "https://open.spotify.com/album/6AWo8m1dChoaCJUzIicpZw"
       },
@@ -3373,7 +3453,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3boSIX0nw5AGdoo7LjAKEQ"
@@ -3425,7 +3505,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Tricky Melody",
       "url": "https://open.spotify.com/track/1G6S3IxD5oapB1SDqUyg2h"
@@ -3699,7 +3779,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 267870,
       "name": "Vault Hunter",
       "url": "https://open.spotify.com/track/1aWrPLv8tFgyd7ju7Tx63L"
@@ -3893,6 +3973,32 @@
       "duration_ms": 152400,
       "name": "Won't Forget",
       "url": "https://open.spotify.com/track/7JXZuqmi5XC8pfiNgeF1yZ"
+    },
+    {
+      "album": {
+        "name": "Worlds Collide (Omnya Remix)",
+        "url": "https://open.spotify.com/album/4tr0H7vrHhGkKJ4zvEvjsk"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211503,
+      "name": "Worlds Collide - Omnya Remix",
+      "url": "https://open.spotify.com/track/2uSrTcuAgfNQSEoXDOfAUe"
     },
     {
       "album": {

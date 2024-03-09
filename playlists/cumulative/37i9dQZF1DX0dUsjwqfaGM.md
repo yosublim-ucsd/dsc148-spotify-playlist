@@ -2,9 +2,9 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: Phí Phương Anh
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-86 songs - 4 hr 59 min
+88 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,10 +81,12 @@
 | [thế sao?](https://open.spotify.com/track/6eaezsSp9v9kBnOWUssqkC) | [nae & de'lay](https://open.spotify.com/artist/1bweJ8ReP08akfsoW8jiP9), [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [thế sao?](https://open.spotify.com/album/3fY5cRxp5rL2t6HjvYShhh) | 2:47 | 2023-06-22 | 2023-11-22 |
 | [Thế Thôi](https://open.spotify.com/track/3q9jkVZnem47J0HdQEK8WM) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Thế Thôi](https://open.spotify.com/album/246AHh3LvTsa9Nfi4xrrng) | 4:03 | 2022-09-09 | 2023-09-15 |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-09-09 |  |
-| [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/4Xai78OB5OKQI9EFYcCzxD) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 3:47 | 2022-11-25 |  |
+| [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/3RdqYxmpZmeqTnkqRA9vBV) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa \- Maxi Single](https://open.spotify.com/album/1hJ4ByH5DIbywauU2koZDT) | 3:47 | 2024-02-01 |  |
+| [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/4Xai78OB5OKQI9EFYcCzxD) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 3:47 | 2022-11-25 | 2024-03-09 |
 | [Ulala \(feat\. T.R.I\)](https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ulala](https://open.spotify.com/album/6T4E1Vk1gP5LM300KhSW6I) | 3:02 | 2023-07-25 |  |
 | [UMBALA \- Acoustic version](https://open.spotify.com/track/0ubZvjPkpi7mJxAI9PkCtd) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR) | [UMBALA \(Acoustic version\)](https://open.spotify.com/album/6xQVtFRH4WGlHTpuZ4U7oi) | 3:34 | 2023-11-21 |  |
-| [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-09-09 |  |
+| [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-09-09 | 2024-03-09 |
+| [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/2ozchu3Zz56PixMzMP8r94) | 3:45 | 2024-02-01 |  |
 | [vaicaunoicokhiennguoithaydoi \- Acoustic](https://open.spotify.com/track/0xi7bCx9m2rgPbCN6Xhlel) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Hương Mùa Hè EP.01](https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3) | 3:42 | 2022-09-09 |  |
 | [Words You Want \(feat\. SOI\)](https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want \(feat\. SOI\)](https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z) | 2:24 | 2022-09-09 |  |
 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 | 2022-09-09 |  |

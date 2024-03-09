@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Reik y Ha*Ash en portada.",
-  "num_followers": 65788,
+  "num_followers": 65807,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjI1YjgxYmY4NTJlZWMwNmY0MTg5NWU1NGUxNjM0YTIyMzUwMDk4",
+  "snapshot_id": "MCxkZGNkMzdjZjVmNDM0MThiZjY4YjE0NDI5ZjA5OThjODQ4NmNiMGY5",
   "tracks": [
     {
       "added_at": "2023-09-26 16:29:26",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Qu\u00e9 Es Amor? My Love",
-        "url": "https://open.spotify.com/album/7m0M9LnoMYv8Fb03BrMM4Y"
-      },
-      "artists": [
-        {
-          "name": "CoolestAndie",
-          "url": "https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr"
-        }
-      ],
-      "duration_ms": 214114,
-      "name": "Qu\u00e9 Es Amor? My Love",
-      "url": "https://open.spotify.com/track/5huKGFf8ru8bPuBI1iTtZX"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 174720,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Qu\u00e9 Es Amor? My Love",
+        "url": "https://open.spotify.com/album/7m0M9LnoMYv8Fb03BrMM4Y"
+      },
+      "artists": [
+        {
+          "name": "CoolestAndie",
+          "url": "https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr"
+        }
+      ],
+      "duration_ms": 214114,
+      "name": "Qu\u00e9 Es Amor? My Love",
+      "url": "https://open.spotify.com/track/5huKGFf8ru8bPuBI1iTtZX"
     },
     {
       "added_at": "2023-09-26 16:29:26",

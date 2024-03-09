@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 74374,
+  "2024-03-09": 74382,
   "date_first_scraped": "2022-09-15",
   "description": "Funky & groovy tunes for poolside chilling.",
   "name": "Poolside Grooves",
@@ -1062,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148445,
+      "name": "circles",
+      "url": "https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/0QsRnX70CLkR37iaYpqoLG"
       },
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
@@ -2535,7 +2553,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 153103,
       "name": "I Can't Sleep - LPACA Remix",
       "url": "https://open.spotify.com/track/6jjtunGp1ilOEUrPIDjfLh"
@@ -3342,6 +3360,32 @@
     },
     {
       "album": {
+        "name": "Manifesting",
+        "url": "https://open.spotify.com/album/4ObW0M1vdnhLmFlwSTxu4P"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "1STVIRGINIA",
+          "url": "https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168205,
+      "name": "Manifesting",
+      "url": "https://open.spotify.com/track/2XdZMTKMHb3Je7Prcmxtps"
+    },
+    {
+      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
@@ -3814,6 +3858,24 @@
     },
     {
       "album": {
+        "name": "Not a Blue Waltz",
+        "url": "https://open.spotify.com/album/5QGrinq38d5hIdAeITVXdS"
+      },
+      "artists": [
+        {
+          "name": "Adani & Wolf",
+          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308753,
+      "name": "Not a Blue Waltz",
+      "url": "https://open.spotify.com/track/48H829axeVoYSlfYHmkKfy"
+    },
+    {
+      "album": {
         "name": "Not Over It",
         "url": "https://open.spotify.com/album/6f26986svH5VZ03xVjsdap"
       },
@@ -4191,7 +4253,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 196000,
       "name": "Paradise - Remix",
       "url": "https://open.spotify.com/track/0tvQweVX5PIzspqVZdyB7b"
@@ -4629,7 +4691,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 189199,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/5nmyyyNkAE472yWNFICqaC"
@@ -5009,7 +5071,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 203873,
       "name": "SHAWTS",
       "url": "https://open.spotify.com/track/2K55xVGnOBFwIlZLsPlYp5"
@@ -5503,7 +5565,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 242847,
       "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
       "url": "https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy"
@@ -5699,6 +5761,32 @@
       "duration_ms": 133596,
       "name": "SWTH",
       "url": "https://open.spotify.com/track/5ruMKE615XscqaRJsdfgdo"
+    },
+    {
+      "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/2uP1o5pKpHBqvra8grlvqW"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Daley",
+          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236112,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/5afQbpUjA9O6TGutLmWu1T"
     },
     {
       "album": {
@@ -6309,7 +6397,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 209694,
       "name": "Water",
       "url": "https://open.spotify.com/track/2rd14gIDd5AKvY0p0lEIo1"

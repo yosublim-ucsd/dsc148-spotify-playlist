@@ -2,7 +2,7 @@
 
 ### [AMPLIFIKA](https://open.spotify.com/playlist/37i9dQZF1DX95vhptNy3YE)
 
-> LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
+> N.I.N.A., Mc Luanna e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
 497 songs - 1 day 4 hr 5 min
 

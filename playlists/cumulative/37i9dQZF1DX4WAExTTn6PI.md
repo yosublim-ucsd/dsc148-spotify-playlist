@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Willow Avalon
 
-207 songs - 12 hr 43 min
+209 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2022-01-28 | 2023-08-26 |
 | [Hoosick Falls](https://open.spotify.com/track/2RCveERzynw07cuubInrQW) | [Greg Farley](https://open.spotify.com/artist/48FqRYHnlios7c0zPBtYGt) | [Brown Bag](https://open.spotify.com/album/1LjbS8lcS4bRLHbdqGtSfb) | 4:55 | 2022-01-28 | 2023-05-27 |
 | [Human](https://open.spotify.com/track/0QRAEHSbKFHELqFFxevgYE) | [Alexa Rose](https://open.spotify.com/artist/7hVRBYGVXutdWChnzb92Jb) | [Headwaters](https://open.spotify.com/album/6u5YquFfQ1mmq2e4G9utZo) | 4:08 | 2022-01-28 | 2023-06-03 |
-| [Hurtin' For A Letdown](https://open.spotify.com/track/0XMBic5RxL53u8Ec9NYpFi) | [The Whitmore Sisters](https://open.spotify.com/artist/6LDUQ8ecAEvFDWE2khOE8h) | [Hurtin' For A Letdown](https://open.spotify.com/album/7jQGgDRrSnK4W4tIndigra) | 3:39 | 2022-01-28 |  |
+| [Hurtin' For A Letdown](https://open.spotify.com/track/0XMBic5RxL53u8Ec9NYpFi) | [The Whitmore Sisters](https://open.spotify.com/artist/6LDUQ8ecAEvFDWE2khOE8h) | [Hurtin' For A Letdown](https://open.spotify.com/album/7jQGgDRrSnK4W4tIndigra) | 3:39 | 2022-01-28 | 2024-03-09 |
 | [Hush](https://open.spotify.com/track/2A4439ueegEvIHcJKi7020) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 2:35 | 2022-01-28 |  |
 | [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2022-01-28 | 2022-07-29 |
 | [I C U](https://open.spotify.com/track/2pID9O9VLbiE8lsiPb5Q5I) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [I C U](https://open.spotify.com/album/42RgJSuBu51ERWMlxUvbmW) | 3:39 | 2023-05-26 |  |
@@ -152,7 +152,7 @@
 | [Phone](https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [Phone](https://open.spotify.com/album/0Sa7qZIblkaE3V9rS0eBLj) | 3:55 | 2023-04-07 |  |
 | [Promise Of A Postcard \- Acoustic](https://open.spotify.com/track/1CTSXj2U1kTxA8CoEWfHPd) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Acoustic Tales](https://open.spotify.com/album/6VbyvdnBA7oW9dfWvYc1e0) | 3:29 | 2024-01-05 |  |
 | [Property Line](https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Property Line](https://open.spotify.com/album/04y1xdX3N1r6ns09xw7hJI) | 2:24 | 2023-05-26 | 2023-07-15 |
-| [Ready](https://open.spotify.com/track/1Nt7Anp2dEuY7oDCouQPlO) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Consequences](https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv) | 4:33 | 2022-01-28 |  |
+| [Ready](https://open.spotify.com/track/1Nt7Anp2dEuY7oDCouQPlO) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Consequences](https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv) | 4:33 | 2022-01-28 | 2024-03-09 |
 | [Ready](https://open.spotify.com/track/7Ie1CC6QSRdaQsE8GvHalE) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Ready](https://open.spotify.com/album/6S2BM1B8Rz7yQT6b5iDPWW) | 4:33 | 2022-01-28 | 2022-07-29 |
 | [Recommend Me](https://open.spotify.com/track/6X06BJkotsqzb09OReFhhO) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Recommend Me](https://open.spotify.com/album/6K2GTC8JlK5f7MBJbccpyq) | 3:41 | 2023-08-11 |  |
 | [Rocketeer](https://open.spotify.com/track/1lXuPPfUPCdq7JFojUGxnH) | [Church Of Roswell](https://open.spotify.com/artist/2toNel9SL1qwF6mZQbUSGX) | [Rocketeer](https://open.spotify.com/album/2lXjjKiENrSXPFeNCNhDiQ) | 3:45 | 2022-01-28 | 2023-06-10 |
@@ -165,7 +165,7 @@
 | [Sexy After Dark](https://open.spotify.com/track/5hOuD8UufsA8K2tqAtNj0d) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [Sexy After Dark](https://open.spotify.com/album/0m467Jz2jf5yXmK3gpxBzO) | 3:50 | 2022-01-28 | 2023-05-11 |
 | [Shaking Ground](https://open.spotify.com/track/5ioMTIu2WZElnijMufDNmk) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [Shaking Ground](https://open.spotify.com/album/10LZJuclyo0sQkmykTl4iT) | 3:02 | 2024-01-05 |  |
 | [Shenandoah Shakedown](https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Shenandoah Shakedown](https://open.spotify.com/album/5oHKjSgvLaRyydVKFYwA79) | 4:09 | 2022-01-28 | 2023-09-16 |
-| [Shortcut to Waco](https://open.spotify.com/track/5AwOZ4pd4OZmI5zrszXs7G) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx), [The Wholesome Boys](https://open.spotify.com/artist/6YYYuZSb4nyo3KUSSR1cpm) | [Shortcut To Waco](https://open.spotify.com/album/6epdq42NeRtfPormW8twzR) | 3:50 | 2023-01-20 |  |
+| [Shortcut to Waco](https://open.spotify.com/track/5AwOZ4pd4OZmI5zrszXs7G) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Shortcut To Waco](https://open.spotify.com/album/6epdq42NeRtfPormW8twzR) | 3:50 | 2023-01-20 |  |
 | [Silent Advance](https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW) | [Bryan Rahija](https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59) | [Silent Advance](https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8) | 2:25 | 2022-01-28 | 2023-07-01 |
 | [Silver Valley](https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj) | [David Miner](https://open.spotify.com/artist/6VumpqEj917mn0DCQMUbGJ) | [Silver Valley](https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo) | 4:35 | 2022-01-28 | 2023-04-01 |
 | [So Damn Lucky](https://open.spotify.com/track/4TYu2jojSGxALs2YNWnnwr) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [So Damn Lucky](https://open.spotify.com/album/5qCE1zhNO3S8Vo0nPCXdhu) | 4:03 | 2022-01-28 |  |
@@ -204,8 +204,10 @@
 | [Way Down Yonder](https://open.spotify.com/track/39y7924mLMb0Jqv5Z1BWkN) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7) | [Way Down Yonder](https://open.spotify.com/album/2FdypF8Zv8d6g2MX8WgyXH) | 3:36 | 2024-01-12 |  |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2022-01-28 | 2023-05-20 |
 | [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 | 2022-01-28 | 2023-04-09 |
+| [Where Berries Grow](https://open.spotify.com/track/0ideOQQL73HMu4KS99cL99) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Where Berries Grow](https://open.spotify.com/album/30vFeCWrEiXEH1MR75ILfU) | 3:36 | 2024-03-08 |  |
 | [Where Will I Go](https://open.spotify.com/track/4SKZBSVEJq6oSUr6HhBCnN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Where Will I Go](https://open.spotify.com/album/74LQjfjqdiTdubRld7e1Jx) | 5:19 | 2023-06-16 | 2023-09-09 |
 | [Whooped If You Will](https://open.spotify.com/track/1uaCFn8AsypTLu9Y0wkS0T) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Whooped If You Will](https://open.spotify.com/album/0ni9VCUqBbFV1RJjpltgHa) | 4:00 | 2023-06-16 | 2023-07-29 |
+| [Wild As A Flower](https://open.spotify.com/track/2MYoypJnH6LRyYPETgU0cF) | [Amanda Fields](https://open.spotify.com/artist/2PnfLtYzDVahZb1FGldOOH), [Megan McCormick](https://open.spotify.com/artist/3zpSQnEEaXrh1gnzKbyDfX) | [Wild As A Flower](https://open.spotify.com/album/2Mk5R0QQQttS6qtunHVdV8) | 2:58 | 2024-03-08 |  |
 | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/track/7fP24BONHPihA1ZIdwZYIU) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/album/2nOrFKbiS8gUo3XCNTCiDr) | 4:11 | 2022-02-25 |  |
 | [With The Middle](https://open.spotify.com/track/3nZFZk0k3OWFhWXpUxbMGm) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [With The Middle](https://open.spotify.com/album/7eleyfxkS29PSKx0AEpMPe) | 3:27 | 2023-08-11 | 2023-09-30 |
 | [With The Middle](https://open.spotify.com/track/5RldswTCXt8XY5S8yrEHPq) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 3:27 | 2023-09-15 |  |

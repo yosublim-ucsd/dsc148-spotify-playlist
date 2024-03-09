@@ -85,6 +85,32 @@
     },
     {
       "album": {
+        "name": "Adore You",
+        "url": "https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Nicole Muwanguzi",
+          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166072,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I"
+    },
+    {
+      "album": {
         "name": "after all these years",
         "url": "https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs"
       },

@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=Cri33jcQSpi3WKsUmfMSBQ">Bobby Van Jaarsveld</a>
 
-820 songs - 1 day 22 hr 18 min
+821 songs - 1 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Bokke Spring](https://open.spotify.com/track/2Vx2yStDNHE0XEUcwi3c2L) | [Nico Etzebeth](https://open.spotify.com/artist/6KeFFR4XVmie1jI7VcbqoI) | [Bokke Spring](https://open.spotify.com/album/6ibBqHj0EXKfsb5sp0D4gj) | 2:43 | 2023-08-24 | 2023-09-08 |
 | [Boksemdais](https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Boksemdais](https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0) | 3:08 | 2023-10-12 | 2024-01-26 |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 | 2022-11-25 |
+| [Bon Voyage](https://open.spotify.com/track/0NrSDP2mXZs6qYMOJD39vs) | [Frieda van den Heever](https://open.spotify.com/artist/39GnCS0FNh3jBO81XCyKSZ), [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Spoorsny](https://open.spotify.com/album/6cfkfFuG6AQNE77E0h4w45) | 3:29 | 2024-03-08 |  |
 | [Bosveld Vakansie](https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sing Hoop Weerklink](https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8) | 3:32 | 2022-11-10 | 2023-02-24 |
 | [Bottervingers](https://open.spotify.com/track/7G1Nnk5VJ70BJ5jyKg7Hhe) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:30 | 2023-12-29 | 2024-01-06 |
 | [Bou Aan 'n Vrou](https://open.spotify.com/track/5JifoftIfvhWm5UQtCKzLL) | [Minke Brits](https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x) | [Bou Aan 'n Vrou](https://open.spotify.com/album/488JiMZH1vN3E3Jfq5Vr6W) | 3:43 | 2023-02-16 | 2023-04-07 |
@@ -697,7 +698,7 @@
 | [Sêra Sê Ja!](https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sêra Sê Ja!](https://open.spotify.com/album/1Hky0XfrgZQSSyDBx3LB2V) | 3:24 | 2023-04-27 | 2023-08-11 |
 | [Tameletjie](https://open.spotify.com/track/7BXP85H8cpxzDhwZQuUIJB) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:40 | 2022-12-27 | 2023-01-02 |
 | [Tannie Katesbes](https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Tannie Katesbes](https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N) | 3:00 | 2023-10-26 |  |
-| [Tappit](https://open.spotify.com/track/3m6AtGy5lijel7dhIjCj7a) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Tappit](https://open.spotify.com/album/2LEfxZDYdETMg5MSCjtOYQ) | 3:05 | 2023-11-30 |  |
+| [Tappit](https://open.spotify.com/track/3m6AtGy5lijel7dhIjCj7a) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Tappit](https://open.spotify.com/album/2LEfxZDYdETMg5MSCjtOYQ) | 3:05 | 2023-11-30 | 2024-03-09 |
 | [Tassies Pak](https://open.spotify.com/track/6OoOPgl7o8OsbtzbW3ApE9) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Tassies Pak](https://open.spotify.com/album/7lh58VBSO1h1QldbP3C157) | 4:05 | 2023-04-06 | 2023-06-30 |
 | [Te Sexy](https://open.spotify.com/track/7EsvvQB8OuT95DOodwgo4I) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Te Sexy](https://open.spotify.com/album/71xdfwNNDvqJ9gso3bS5zP) | 2:56 | 2023-05-04 | 2023-05-19 |
 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 | 2023-12-29 | 2024-01-06 |

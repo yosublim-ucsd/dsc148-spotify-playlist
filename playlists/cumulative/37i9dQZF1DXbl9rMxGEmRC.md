@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-603 songs - 2 day 3 hr 28 min
+604 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [De tes yeux bleus perlés](https://open.spotify.com/track/1QcLDalgSZ6weWyHyzKnM8) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [De tes yeux bleus perlés](https://open.spotify.com/album/2LJw28WXsdnDv6XkpJYiXJ) | 5:23 | 2021-12-17 | 2022-01-15 |
 | [Dead Mother Moon](https://open.spotify.com/track/0Vwwp5jPByylqQ4AKYEnxR) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [Dead Mother Moon](https://open.spotify.com/album/75tXcVejhOh6QgSauSn2a9) | 3:58 | 2023-11-17 | 2024-02-16 |
 | [Dead To You](https://open.spotify.com/track/3FE9t4BzzOGYduUXVdfSxJ) | [Marthe](https://open.spotify.com/artist/6EssjchKEP6YbQS2vHBAcN) | [Further In Evil](https://open.spotify.com/album/2xwvEcOiW03Q0FcByEbBdg) | 6:09 | 2024-01-02 |  |
+| [Deadly Metal](https://open.spotify.com/track/4y24MxyVxfwLafyTscYKte) | [Cadaver](https://open.spotify.com/artist/3jXKuyWNGa8hUPsnrblyl7) | [The Age Of The Offended](https://open.spotify.com/album/41XSSyvJe1IyHeFB1QHrPq) | 2:45 | 2024-03-01 |  |
 | [Death Cult](https://open.spotify.com/track/1CN2mzJBqxVgPVRlzcxrhZ) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR), [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Death Cult](https://open.spotify.com/album/62D0IksCdSnviilNJpWtws) | 3:40 | 2024-01-11 |  |
 | [Death from Above](https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Death from Above](https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO) | 3:32 | 2022-09-01 | 2022-11-17 |
 | [Death Is But A Door](https://open.spotify.com/track/6TRaRDjoV0sFKoLR0KSDev) | [Alluvial](https://open.spotify.com/artist/7z2P2nNjtnAVnUavHIXZWQ) | [Death Is But A Door](https://open.spotify.com/album/2tSgJjr6WiuRTx4EJsGkRq) | 4:52 | 2024-01-11 |  |
@@ -526,7 +527,7 @@
 | [The Lust Called Knowledge \- Re\-Recorded 2022](https://open.spotify.com/track/4B692KoX3G3KXXIrJhxeZr) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [The Lust Called Knowledge \(Re\-Recorded 2022\)](https://open.spotify.com/album/1oltdhcpRRjJN8Elcrbn0v) | 4:31 | 2022-04-08 | 2022-07-26 |
 | [The Mask of Fate](https://open.spotify.com/track/0oJJhVgstOvOcsLeSR6gqO) | [ACOD](https://open.spotify.com/artist/6UDDF4b9a4zFj0voyjD4E1) | [Cryptic Curse](https://open.spotify.com/album/0r18y0KQKKKozZjsXQn8Bw) | 5:30 | 2023-02-15 | 2023-03-04 |
 | [The Middlemist Red](https://open.spotify.com/track/5l7ad026Ev0NpUkldLY5az) | [Dimman](https://open.spotify.com/artist/6QTX8AwQeLbU7QDEzi8zqZ) | [The Middlemist Red](https://open.spotify.com/album/6ujJzfrTiv96eAmCBQkp9o) | 3:59 | 2022-04-01 | 2022-07-17 |
-| [The Other Side of Anger](https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [The Other Side of Anger](https://open.spotify.com/album/51q4WtjPxILy2mxq8IDbCX) | 4:23 | 2023-08-04 |  |
+| [The Other Side of Anger](https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [The Other Side of Anger](https://open.spotify.com/album/51q4WtjPxILy2mxq8IDbCX) | 4:23 | 2023-08-04 | 2024-03-09 |
 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/0lZFz009jZslzPn0ArTbkl) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves and Titan Woods](https://open.spotify.com/album/2xq8TaPMvQJaXMW79byymI) | 2:55 | 2022-07-13 | 2022-07-28 |
 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves And Titan Woods](https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH) | 2:55 | 2022-07-13 | 2023-07-04 |
 | [The Purest Black](https://open.spotify.com/track/6En6JSC3qRPv9XnoGQZ7F0) | [LIVLØS](https://open.spotify.com/artist/3upLnjEfkXlcb8IddTLQUA) | [The Purest Black](https://open.spotify.com/album/0yARYnhJy9u9HLq3RfgI97) | 5:51 | 2021-12-17 | 2022-05-07 |

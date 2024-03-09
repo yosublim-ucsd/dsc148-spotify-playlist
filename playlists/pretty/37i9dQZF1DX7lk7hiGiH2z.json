@@ -1,12 +1,12 @@
 {
   "description": "Genie\u00dft die ersten Sonnenstrahlen mit der ganzen Familie.",
-  "num_followers": 35972,
+  "num_followers": 36015,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWRiNzJmY2JkMjQ4ZThhNmMzOGI3ODdlZWZiNjNhM2VlZGMxMzc2",
+  "snapshot_id": "MCxmOTY3NmUxZTI0MTYyNDZhMjIyYjEwNTM0YWI1MTE4YmQxYTQ2OTcy",
   "tracks": [
     {
       "added_at": "2024-03-01 14:36:42",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Karel",
-        "url": "https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR"
-      },
-      "artists": [
-        {
-          "name": "Karel Gott",
-          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Die Biene maja",
-      "url": "https://open.spotify.com/track/37Ya452sNHfucQVaKPM522"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
         "name": "Sing mit mir Kinderlieder",
         "url": "https://open.spotify.com/album/4gDvWioaiyrWrSmAWxLf6t"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 136705,
       "name": "Summ, summ, summ",
       "url": "https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Karel",
+        "url": "https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR"
+      },
+      "artists": [
+        {
+          "name": "Karel Gott",
+          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Die Biene maja",
+      "url": "https://open.spotify.com/track/37Ya452sNHfucQVaKPM522"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
+        "name": "Rolfs Hasengeschichte - Die Lieder",
+        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 157793,
+      "name": "Wenn es Fr\u00fchling wird im Hasenland",
+      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
         "name": "Kinderlieder - Fr\u00fchling & Ostern",
         "url": "https://open.spotify.com/album/5Whc7quTjPIXUT3aYsZF3z"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Rolfs Hasengeschichte - Die Lieder",
-        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 157793,
-      "name": "Wenn es Fr\u00fchling wird im Hasenland",
-      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
         "name": "Willkommen auf dem singenden Bauernhof",
         "url": "https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD"
       },
@@ -827,46 +827,6 @@
       "duration_ms": 119240,
       "name": "Der singende Bauernhof - Titelsong",
       "url": "https://open.spotify.com/track/1KTA0xfBwFoqYVHCBqrR4d"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "015/Abends im Walde",
-        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
-      },
-      "artists": [
-        {
-          "name": "Unser Sandm\u00e4nnchen",
-          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
-        }
-      ],
-      "duration_ms": 123320,
-      "name": "Fr\u00fchlingslied",
-      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "Ich lass mich nicht \u00e4rgern",
-        "url": "https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N"
-      },
-      "artists": [
-        {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
-        },
-        {
-          "name": "Berlin Radio Children's Choir",
-          "url": "https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Ich lass mich nicht \u00e4rgern",
-      "url": "https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -895,22 +855,18 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Die 40 besten Fingerspiel-Lieder",
-        "url": "https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq"
+        "name": "015/Abends im Walde",
+        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
       },
       "artists": [
         {
-          "name": "Katharina Blume",
-          "url": "https://open.spotify.com/artist/0TlcU6fYXkRWNSENlFSl4Y"
-        },
-        {
-          "name": "Christian K\u00f6nig",
-          "url": "https://open.spotify.com/artist/6Dgp0ZVwXyJx6M0Na3jTLK"
+          "name": "Unser Sandm\u00e4nnchen",
+          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
         }
       ],
-      "duration_ms": 66127,
-      "name": "Das Schneegl\u00f6ckchen",
-      "url": "https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu"
+      "duration_ms": 123320,
+      "name": "Fr\u00fchlingslied",
+      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -927,6 +883,50 @@
       "duration_ms": 178186,
       "name": "Fr\u00fchling, ich hab dich entdeckt!",
       "url": "https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Ich lass mich nicht \u00e4rgern",
+        "url": "https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N"
+      },
+      "artists": [
+        {
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        },
+        {
+          "name": "Berlin Radio Children's Choir",
+          "url": "https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Ich lass mich nicht \u00e4rgern",
+      "url": "https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Die 40 besten Fingerspiel-Lieder",
+        "url": "https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq"
+      },
+      "artists": [
+        {
+          "name": "Katharina Blume",
+          "url": "https://open.spotify.com/artist/0TlcU6fYXkRWNSENlFSl4Y"
+        },
+        {
+          "name": "Christian K\u00f6nig",
+          "url": "https://open.spotify.com/artist/6Dgp0ZVwXyJx6M0Na3jTLK"
+        }
+      ],
+      "duration_ms": 66127,
+      "name": "Das Schneegl\u00f6ckchen",
+      "url": "https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu"
     }
   ],
   "unique_name": "Familienzeit: Fr\u00fchling",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 
 > Les plus grands hits français des années 90\. Photo : Louise Attaque
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,513 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,578 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 49 | [Bienvenue chez moi](https://open.spotify.com/track/17UfIUXlkq6u0ZiDqqda1R) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Bienvenue chez moi](https://open.spotify.com/album/6Pb6dzCoqNp4DdV7pCrfv5) | 4:09 |
 | 50 | [Paris a le Blues](https://open.spotify.com/track/2fJy6kGyMOusAwdzTmxIN3) | [Mad In Paris](https://open.spotify.com/artist/3fsoaS1PLh7xYiJsVb7QR0) | [Mad In Paris](https://open.spotify.com/album/6FGWuEYu8CKh6CQgrB6aoA) | 4:51 |
 
-Snapshot ID: `MCw5Mjg5YzYyOGYwZWU3Y2NkZDlkMDRmZWFiM2Q1MTA2OWJhYjc3YWYw`
+Snapshot ID: `MCwzYTBkM2I5YmQ1Y2M3N2Y4YzNlNzkzMmEwN2NhM2Y5YTAwOTRmN2Yw`

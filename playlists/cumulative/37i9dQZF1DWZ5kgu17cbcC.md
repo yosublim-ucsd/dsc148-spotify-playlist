@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Only Murders in the Building, Flamin’ Hot, A Small Light, Tiny Beautiful Things, and more.
 
-90 songs - 4 hr 15 min
+91 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Look for the Light \- From "Only Murders in the Building: Season 3"](https://open.spotify.com/track/0nqrVlkPbsRi5gnwNdUPu9) | [Only Murders in the Building – Cast](https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih), [Meryl Streep](https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2), [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Look for the Light \(From "Only Murders in the Building: Season 3"\)](https://open.spotify.com/album/2R27J49gUYfWu6T7PGKeXW) | 2:30 | 2024-01-05 |  |
 | [Lucky Ducks](https://open.spotify.com/track/45viWBOGkbMmunyQcSgPA9) | [Bob's Burgers](https://open.spotify.com/artist/0NZ4IxTtMSEx59a0H0ikLE), [Paul F\. Tompkins](https://open.spotify.com/artist/48tm4iqPWcSkFF5vxyb2pQ), [Kristen Schaal](https://open.spotify.com/artist/0YSJvUTu5XXaaoIaNsAoIs), [John Q\. Kubin](https://open.spotify.com/artist/2XiWyMzWCEVuWeB0UlNqV0), [Dan Mintz](https://open.spotify.com/artist/397MkfYKFROVhksmvcf2nP), [Eugene Mirman](https://open.spotify.com/artist/2405AUADWenBRsMcOcDPd0), [Larry Murphy](https://open.spotify.com/artist/4UFzjuzrMcQXveS7xK92aR), [H\. Jon Benjamin](https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM) | [The Bob's Burgers Movie \(A Major Motion Burger Soundtrack\)](https://open.spotify.com/album/4racK1k0RK1kUl3eWROny7) | 2:20 | 2024-01-05 |  |
 | [Main Title](https://open.spotify.com/track/253tU7JUIy3P4zfas4BCdu) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 0:51 | 2024-01-05 |  |
+| [Main Title \(Death and Other Details\)](https://open.spotify.com/track/71TC1uTfa99LEe6cQ464Lv) | [Brocker Way](https://open.spotify.com/artist/7luqyCs5ufZ03HQqQeaAJW) | [Death and Other Details \(Original Soundtrack\)](https://open.spotify.com/album/3saCHDYvYvxR6VRcY5V96o) | 1:06 | 2024-03-08 |  |
 | [Main Title \(Shōgun\)](https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 1:51 | 2024-02-23 |  |
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2024-01-05 |  |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 | 2024-01-05 |  |

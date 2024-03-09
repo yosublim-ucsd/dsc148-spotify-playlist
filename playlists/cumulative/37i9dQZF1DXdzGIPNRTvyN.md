@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-216 songs - 10 hr 6 min
+217 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-01-24 |  |
 | [Early Morning Drizzle](https://open.spotify.com/track/5GZMPF7n2SrrOce6Ug7QWj) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Drizzle Meditation](https://open.spotify.com/album/5mx1V4QPaVfevxhDPiL3eI) | 3:19 | 2023-04-24 |  |
 | [Early Morning Walk](https://open.spotify.com/track/0Noa9gO5dDrWqzcnFPezhG) | [Whispering Streams](https://open.spotify.com/artist/6YgVDA4WlsMISJq4BDzUeO) | [Early Morning Walk](https://open.spotify.com/album/53A5UVK34dMKM7aDogkkuz) | 3:13 | 2023-01-24 | 2023-12-14 |
+| [Eileanan](https://open.spotify.com/track/0RF2PYLqYLIHhUXRBhj3rY) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Eileanan](https://open.spotify.com/album/61OZWMQSih7G253a5ediFD) | 2:34 | 2024-03-05 |  |
 | [Ekatā / Unity](https://open.spotify.com/track/15VLZBdYtCBfzUStJDVAzm) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Unity](https://open.spotify.com/album/4ugwhuEqJTGi11swTislS2) | 2:57 | 2023-10-26 |  |
 | [Endless Horizon](https://open.spotify.com/track/6zVDXYs5Jp1SI9Aro3A5cf) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Endless Horizon](https://open.spotify.com/album/6cOF3lmkr9yfcMZWdENcEt) | 2:59 | 2023-10-26 |  |
 | [Everyday Wonders & Sunday Mornings](https://open.spotify.com/track/1TBF5kZA7FR0e70lEuyr43) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXI](https://open.spotify.com/album/3UzefjAhmOfaPoySM0gHR4) | 2:18 | 2023-01-24 |  |
@@ -120,7 +121,7 @@
 | [Ljungan](https://open.spotify.com/track/7magt73bNENgndrpaYE7qv) | [Forgotten Lake](https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x) | [Ljungan](https://open.spotify.com/album/5QuQ41PhwHAa7dSYVlU8Va) | 2:52 | 2024-01-30 |  |
 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 | 2023-02-13 |  |
 | [Lost in the Moment](https://open.spotify.com/track/17FsAMOBtY4ybQf8SzSkyq) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Lost in the Moment](https://open.spotify.com/album/5hzELwW13sWrdWVJmMtzzz) | 2:31 | 2023-03-13 |  |
-| [Lumen](https://open.spotify.com/track/6a6UnuMT3YJrlxztbFIikY) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Lumen](https://open.spotify.com/album/3P3CK8RLhKMxk0To92N8yb) | 2:37 | 2024-03-05 |  |
+| [Lumen](https://open.spotify.com/track/6a6UnuMT3YJrlxztbFIikY) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Lumen](https://open.spotify.com/album/3P3CK8RLhKMxk0To92N8yb) | 2:37 | 2024-03-05 | 2024-03-09 |
 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 | 2023-01-24 | 2023-12-19 |
 | [Martello](https://open.spotify.com/track/7KWk7mL21m0YbkeJUdm1TM) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [Martello](https://open.spotify.com/album/3H979kln0g82N8otZE71ec) | 2:41 | 2023-09-01 |  |
 | [Masterwort](https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Masterwort](https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h) | 2:02 | 2023-03-13 |  |

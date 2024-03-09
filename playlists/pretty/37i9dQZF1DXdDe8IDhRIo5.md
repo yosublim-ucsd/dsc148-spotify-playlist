@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,398 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,418 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 5 | [Joseph Joseph](https://open.spotify.com/track/4fBnSaY0GVZuhbUiVSHcIM) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Sven Jungbeck](https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO), [Volker Kamp](https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc) | [Joseph Joseph](https://open.spotify.com/album/0TLtC5K9Ybr3KMLsfTCmHK) | 3:40 |
 | 6 | [Place Du Swing](https://open.spotify.com/track/71v1ydwArJ3aNL2zKT5slA) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [January Rain](https://open.spotify.com/album/0jXFL6aqfQQAeGZGkoYXEL) | 4:03 |
 | 7 | [Joseph Joseph](https://open.spotify.com/track/1nT6CxquFZxHDDIgMTgS0W) | [Harmonious Wail](https://open.spotify.com/artist/0oiYyKo8F9Bm80L02whvQ1) | [Joseph Joseph](https://open.spotify.com/album/6zE6NEAmZPFKqw2GfUHKHJ) | 3:53 |
-| 8 | [The Good Life](https://open.spotify.com/track/7rnnwvPsGUdQQsZPeFHb6H) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [The Good Life](https://open.spotify.com/album/6pTKBoSyVVTCW97iRXXBAo) | 3:15 |
+| 8 | [The Good Life](https://open.spotify.com/track/1e6ocCmBkCroBnMiJJSotp) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [The Good Life](https://open.spotify.com/album/1Gt8BW4DsmqGXWXUvjLdDu) | 3:15 |
 | 9 | [Nymphéas](https://open.spotify.com/track/40nqi9rHYgwlw688GfD2zr) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Nymphéas](https://open.spotify.com/album/4xZ3oe0Ia3VG2dqjTgYigE) | 4:31 |
 | 10 | [Belleville](https://open.spotify.com/track/4Wo0AVGDazTF6wUv77yLZl) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Robin Nolan Trio](https://open.spotify.com/artist/6CdoTSuiw0mRW8uAsrf6kW) | [Swing de Paris \- Vol\. 2](https://open.spotify.com/album/5Sx2O2IOx8CImGs9xIyAkA) | 4:07 |
 | 11 | [For Holzmanno](https://open.spotify.com/track/47c3TmiRM2lM3KKj1ifmq6) | [Wawau Adler](https://open.spotify.com/artist/2QDPltFMWXJLLfrGkjZ4xk) | [I Play With You](https://open.spotify.com/album/5u4hs4jrr8WAIimJysMUXr) | 3:53 |
-| 12 | [Avalon](https://open.spotify.com/track/2yzyvggVHHtSN3H57lFHuR) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Avalon](https://open.spotify.com/album/1iAs2iKTFAL98vSxew3LrT) | 2:06 |
+| 12 | [Avalon](https://open.spotify.com/track/2aqkBQzlRRmNmBx9RiDghk) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Avalon](https://open.spotify.com/album/1NQH8YNQkMBQeNsOyXRDPl) | 2:06 |
 | 13 | [Coucou](https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I) | [Tchavolo Schmitt](https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY) | [Coucou](https://open.spotify.com/album/5ZPSCr10M050pYwZM2lDyn) | 2:56 |
 | 14 | [Bleu citron](https://open.spotify.com/track/2t8WSb4idwrFvgnuFzz7kf) | [Dorado Schmitt](https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH) | [Family](https://open.spotify.com/album/1GtvWrpGXg81LZfbJZgtFw) | 2:31 |
 | 15 | [Noto Swing](https://open.spotify.com/track/5K1EggH1ukqNIDZy2KA9eK) | [Harmonious Wail](https://open.spotify.com/artist/0oiYyKo8F9Bm80L02whvQ1) | [Noto Swing](https://open.spotify.com/album/0ITVfCNkcYnevE5V86zL30) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 74 | [Hungaria](https://open.spotify.com/track/3bS7AcjV8Dn2ulBF9XdZCo) | [Biréli Lagrène Gipsy Project](https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra) | [Move](https://open.spotify.com/album/7tY1AorZ64PmB6tCp9OLfl) | 2:51 |
 | 75 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 |
 
-Snapshot ID: `MCwwMzFjZTc3MGVlOTgzYTA2NTY1MmQ5MjE0OTg0YzBkOGY0MDY4MWE5`
+Snapshot ID: `MCw1ZmI5NTAyMTI5NWQ0ZDg1MjAwMTExOTMxMGQzN2MzNzNkNjNjOGI3`

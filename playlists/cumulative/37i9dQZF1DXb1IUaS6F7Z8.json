@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 215975,
       "name": "Sainted Millions",
       "url": "https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC"
@@ -2016,6 +2016,24 @@
       "duration_ms": 222749,
       "name": "Turn Up That Dial",
       "url": "https://open.spotify.com/track/2d05ApT2Mg3dss41OBhXRe"
+    },
+    {
+      "album": {
+        "name": "Gangs of New Holland",
+        "url": "https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154986,
+      "name": "Uncle Tommy",
+      "url": "https://open.spotify.com/track/5UqIk0AUqq3AMrdk2cYiCJ"
     },
     {
       "album": {

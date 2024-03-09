@@ -1,32 +1,60 @@
 {
-  "description": "The Midwest is always on time. Cover: Lil Durk",
-  "num_followers": 123933,
+  "description": "The Midwest is always on time. Cover: Dreezy",
+  "num_followers": 123973,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjMxNDgwMmEyNGM2MmMwNDQzYTI4MjYzYjFiOGI1NDdkMjk5ODlk",
+  "snapshot_id": "MCxjMzE1OGI1MjE0YzY3YmYxNTk2NTcwYmVhOWI5MGZkYjE3NGE1OGU2",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Ron Artest",
-        "url": "https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Money On My Mind",
+        "url": "https://open.spotify.com/album/0Ce9CRbkNFyPqKgiKQPSO6"
       },
       "artists": [
         {
           "name": "Babyface Ray",
           "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 153392,
-      "name": "Ron Artest",
-      "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
+      "duration_ms": 119250,
+      "name": "Money On My Mind",
+      "url": "https://open.spotify.com/track/1gAmZYaDy4ZxE1BabhnT68"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -71,6 +99,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Bitch Duh",
+        "url": "https://open.spotify.com/album/2R9CsEy4Irvb7kjShP7a7x"
+      },
+      "artists": [
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        }
+      ],
+      "duration_ms": 136235,
+      "name": "Bitch Duh",
+      "url": "https://open.spotify.com/track/1SNELiuKo43ybJfAD2htXh"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Kentucky Love",
         "url": "https://open.spotify.com/album/2kh30VwYJ7fwfoEszdMOg0"
       },
@@ -111,38 +155,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 264324,
-      "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "2 Faced",
         "url": "https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M"
       },
@@ -175,6 +187,46 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Ron Artest",
+        "url": "https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 153392,
+      "name": "Ron Artest",
+      "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "The X Tape (Deluxe)",
+        "url": "https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Mama Said (feat. SleazyWorld Go)",
+      "url": "https://open.spotify.com/track/5BB0wg903UUPfY3k3AGugN"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Live From The 6",
         "url": "https://open.spotify.com/album/4qJpDKd2nHI9tlR7EhQA8F"
       },
@@ -191,22 +243,6 @@
       "duration_ms": 132201,
       "name": "Motion (feat. Babyface Ray) - Remix",
       "url": "https://open.spotify.com/track/7gxxv1Sy3JGHCJZ7cR0nME"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Green Carpet",
-        "url": "https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 133041,
-      "name": "Green Carpet",
-      "url": "https://open.spotify.com/track/4OYy7dfHbLKi4lvpzpzeRv"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -303,26 +339,6 @@
       "duration_ms": 199444,
       "name": "She The 1",
       "url": "https://open.spotify.com/track/6y9W1IYKdA2KVYYCj3nfOq"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "The X Tape (Deluxe)",
-        "url": "https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4"
-      },
-      "artists": [
-        {
-          "name": "Babyfxce E",
-          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
-        },
-        {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
-        }
-      ],
-      "duration_ms": 140953,
-      "name": "Keep It P (feat. Lil Darius)",
-      "url": "https://open.spotify.com/track/2YdMiP51ekTylV2WRibQg4"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 136800,
       "name": "ATL Freestyle 2 (feat. Luh Tyler & Rob49)",
       "url": "https://open.spotify.com/track/5n8vTxt9yXXtAtW951NAhx"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Bitch Duh",
-        "url": "https://open.spotify.com/album/2R9CsEy4Irvb7kjShP7a7x"
-      },
-      "artists": [
-        {
-          "name": "Dreezy",
-          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
-        }
-      ],
-      "duration_ms": 136235,
-      "name": "Bitch Duh",
-      "url": "https://open.spotify.com/track/1SNELiuKo43ybJfAD2htXh"
     },
     {
       "added_at": "2024-03-01 05:00:00",

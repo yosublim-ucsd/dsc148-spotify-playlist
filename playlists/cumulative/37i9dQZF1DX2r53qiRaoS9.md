@@ -4,7 +4,7 @@
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-58 songs - 3 hr 0 min
+59 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [High End](https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Con.Fi.Den.Tial](https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD) | 2:56 | 2023-06-05 |  |
 | [High Rated Gabru](https://open.spotify.com/track/60uVumQU74E83X5dbLHKhN) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB) | [High Rated Gabru](https://open.spotify.com/album/6S1g0Jx3X8AWKopRZJsgBb) | 3:33 | 2023-06-05 |  |
 | [Illegal Weapon](https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Illegal Weapon](https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P) | 3:50 | 2023-06-05 |  |
-| [Jaani Tera Naa](https://open.spotify.com/track/0LZA36VEmc6n0Y7X29zIgE) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jaani Tera Naa](https://open.spotify.com/album/1x5pYAKZnAlLXn2kTzdPrF) | 3:08 | 2023-06-05 |  |
+| [Jaani Tera Naa](https://open.spotify.com/track/0LZA36VEmc6n0Y7X29zIgE) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jaani Tera Naa](https://open.spotify.com/album/1x5pYAKZnAlLXn2kTzdPrF) | 3:08 | 2023-06-05 | 2024-03-09 |
+| [Jaani Tera Naa](https://open.spotify.com/track/6tkNEWu4xnu4iVSkjVU0Jo) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jaani Tera Naa](https://open.spotify.com/album/3dn0TXrTyr2Hv1Z2s1ue4r) | 3:08 | 2024-02-02 |  |
 | [Jugni](https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Jugni](https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v) | 3:13 | 2023-06-05 |  |
 | [Kala Chashma](https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz) | [Prem](https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l), [Hardeep](https://open.spotify.com/artist/6a9AtaXEnfNdyDju1FrXfT), [Amar Arshi](https://open.spotify.com/artist/3f7Qfkua3IcRpUFzUaUnrX), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Indeep Bakshi](https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ), [Amrik Singh](https://open.spotify.com/artist/1Sqacm1VMROsVrDOUwxS5G) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:07 | 2023-12-18 |  |
 | [Kya Baat Ay \- DJ NYK Remix](https://open.spotify.com/track/1iZy5CIGgFwR1DfnagLJ1I) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Baat Ay \(DJ NYK Remix\)](https://open.spotify.com/album/4cpqIsA8KjBLViMcpPBHEL) | 3:07 | 2023-06-05 |  |

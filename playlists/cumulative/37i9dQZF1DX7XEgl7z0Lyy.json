@@ -905,6 +905,28 @@
     },
     {
       "album": {
+        "name": "DXXXRTY!",
+        "url": "https://open.spotify.com/album/1Yrk0XGuAur0a6RWGGD2CN"
+      },
+      "artists": [
+        {
+          "name": "NONTHENSE",
+          "url": "https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn"
+        },
+        {
+          "name": "Iwuplu",
+          "url": "https://open.spotify.com/artist/6C8Qg3USXkcpL9jg0TYa7k"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132464,
+      "name": "DXXXRTY!",
+      "url": "https://open.spotify.com/track/7fWWHphEvrMCEFyLYbCv3J"
+    },
+    {
+      "album": {
         "name": "ecstacy",
         "url": "https://open.spotify.com/album/1xCyOqwylZT5Syi5LwHF4q"
       },
@@ -1416,6 +1438,32 @@
       "duration_ms": 139651,
       "name": "help_urself",
       "url": "https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p"
+    },
+    {
+      "album": {
+        "name": "higher",
+        "url": "https://open.spotify.com/album/7bU6287MqRe2gtSXbwMq0b"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        },
+        {
+          "name": "apatheater",
+          "url": "https://open.spotify.com/artist/31MBjhC4zjwYnrNKicwTTO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/7diyCFL8chcY1REunXR18F"
     },
     {
       "album": {
@@ -2461,6 +2509,28 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/16MG9A3cvNOamfuJqK02aQ"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93416,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/37mNBpbd2ZeSN51qcKy0Ho"
+    },
+    {
+      "album": {
         "name": "ON THE FLOOR!",
         "url": "https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI"
       },
@@ -2860,7 +2930,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 133361,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"

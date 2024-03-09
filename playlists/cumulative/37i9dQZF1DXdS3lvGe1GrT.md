@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Alycia Lang
 
-1,114 songs - 2 day 18 hr 47 min
+1,115 songs - 2 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Just Take Love, for Example](https://open.spotify.com/track/2bjzpFwGIjF9J2Yznu83JJ) | [Jordie Lane](https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa) | [Just Take Love, for Example](https://open.spotify.com/album/01CllUR6h31HwefmRdaLs9) | 4:18 | 2022-09-07 | 2022-09-17 |
 | [Just Take Love, for Example](https://open.spotify.com/track/79WTsOWzsiCeyhq9OxkqzC) | [Jordie Lane](https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa) | [The Empty House Tapes, Vol\. 1](https://open.spotify.com/album/6YK7uXBuM58fpmvc9l1N1Y) | 4:18 | 2022-09-07 | 2022-12-01 |
 | [Kale](https://open.spotify.com/track/4YojHiM5K1UKxgDcRjKLvP) | [Sean Heathcliff](https://open.spotify.com/artist/2tYXwM1rLFrTBtYHY8JpnN) | [Within Your Shade](https://open.spotify.com/album/3hR5sZrXHhzK4hSkW1Zifq) | 3:11 | 2024-01-10 | 2024-02-01 |
+| [Keeper of the Shepherd](https://open.spotify.com/track/6WO06FW9LqHcmTFGvyjTL9) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz) | [Keeper of the Shepherd](https://open.spotify.com/album/36z8ptLj0Dag5rxBmwvFxe) | 6:26 | 2024-03-08 |  |
 | [Keeping Score](https://open.spotify.com/track/4cKKXsPQDXpDbO27lJZQYl) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Keeping Score](https://open.spotify.com/album/4UriRN5PykzEXhfLOJbaQC) | 3:02 | 2022-10-12 | 2023-01-12 |
 | [Keeps Me Up At Night](https://open.spotify.com/track/3RR9bl1XYsfYbIi0LLQMSw) | [The Wilson Springs Hotel](https://open.spotify.com/artist/51bGaMwuDcqkHbwPiaOnWW) | [Keeps Me Up At Night](https://open.spotify.com/album/3LQj8A7VicJQKQC8xOUL15) | 3:20 | 2023-03-29 | 2023-05-04 |
 | [Kentucky Blue](https://open.spotify.com/track/61dWdbJ1UbcyudwtQNXqAJ) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Kentucky Blue](https://open.spotify.com/album/3d6Wx2URP5JHRlIdLRSsnc) | 2:59 | 2022-11-09 | 2022-12-01 |

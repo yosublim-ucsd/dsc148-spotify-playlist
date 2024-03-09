@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,433,334 likes - 85 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434,101 likes - 85 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 75 | [Cotton Days](https://open.spotify.com/track/41hNGkweGxQFmbJlaDv1jR) | [Sizuk](https://open.spotify.com/artist/5UNvWvt9sIB2DmhHzpkwBM), [Kotoha](https://open.spotify.com/artist/76pJHTMyTukyWJNR6yRrZS) | [Cotton Days](https://open.spotify.com/album/2TUj2JtNyWd0tBwR3pw6K5) | 3:46 |
 | 76 | [HAKKA](https://open.spotify.com/track/5UZmTPGkbToC1IwGrQpivM) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [HAKKA ENDING SONG FROM TV SERIES ”ISHURA”](https://open.spotify.com/album/2o75VUqpKWrakvfO4hNVTy) | 3:50 |
 | 77 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 |
-| 78 | [Routine Life](https://open.spotify.com/track/3U4q2PzQAGlT4iistqvnDl) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Routine Life](https://open.spotify.com/album/0m5mYXIrR6ShDGZsLxkyJ7) | 3:32 |
+| 78 | [Routine Life](https://open.spotify.com/track/0VAlLENdlJZVA3CUIhyKJF) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Weekday](https://open.spotify.com/album/37176xs2bTWghwyAA67mHd) | 3:34 |
 | 79 | [God Mode](https://open.spotify.com/track/02bRlgNPp9ctqByOhAMs9d) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [God Mode](https://open.spotify.com/album/3j6i1vKHTjehKad1kwqdJV) | 3:34 |
 | 80 | [Science](https://open.spotify.com/track/1nfmu0uTaTYKJpzbbyhOud) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Science](https://open.spotify.com/album/4xP9jQczJwpdXA5y1p7MOB) | 3:29 |
 | 81 | [Day Off](https://open.spotify.com/track/51qR61A8e4sBvNBSnMI9QO) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Day Off](https://open.spotify.com/album/4PGkGGLBfmgOJ7E1m46Vga) | 3:28 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 |
 | 85 | [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 |
 
-Snapshot ID: `MCw0YmY4NDk0MDRjYTk1NDJmOGZkNjg5NmQ0MWM3NDliNzNmOGZlYjM3`
+Snapshot ID: `MCxlNjkxNzliM2MwZGMzYTBjOTA4Njc1ZTA5ODg2NjE1MTgyZTU3NDRj`

@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 79793,
+  "num_followers": 79818,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODRlMTNkNDlhNWQ1YzFmZWZmY2NmZjYzYWI1NzE0YjlhZWRiYTFi",
+  "snapshot_id": "MCxkNTdkMWE2MTkwYjg0ODg3ODg2NzdhNjZkNTVmOTA5OWViMmY0MDNl",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -727,26 +727,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "He Always Wins (feat. Erica Campbell & 1K Phew) [Live]",
-        "url": "https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO"
+        "name": "Gospel's Best Live",
+        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
       },
       "artists": [
         {
-          "name": "Anthony Brown & group therAPy",
-          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
-        },
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
         }
       ],
-      "duration_ms": 422861,
-      "name": "He Always Wins (feat. Erica Campbell & 1K Phew) - Live",
-      "url": "https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2"
+      "duration_ms": 243453,
+      "name": "Celebrate - Live",
+      "url": "https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -791,18 +783,26 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Gospel's Best Live",
-        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
+        "name": "He Always Wins (feat. Erica Campbell & 1K Phew) [Live]",
+        "url": "https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO"
       },
       "artists": [
         {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
         }
       ],
-      "duration_ms": 243453,
-      "name": "Celebrate - Live",
-      "url": "https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL"
+      "duration_ms": 422861,
+      "name": "He Always Wins (feat. Erica Campbell & 1K Phew) - Live",
+      "url": "https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2"
     },
     {
       "added_at": "2023-02-18 05:28:04",

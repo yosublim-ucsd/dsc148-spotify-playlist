@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:7jyr9Co4MKL1iWML1G7vch\">Zauntee</a>",
-  "num_followers": 150339,
+  "num_followers": 150417,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzljNGE0Yzc4Y2M0YTI1NGQyOWQ3ODE3MGQ0Y2RmYmM4ZGE2YWJl",
+  "snapshot_id": "MCw5OGQ2ZTRhNWE0YzEwODBjZTdjNDk1NjVkNjdkN2QwYzE3ZTYzZjIy",
   "tracks": [
     {
       "added_at": "2024-02-23 09:44:29",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "What?",
+        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
+      },
+      "artists": [
+        {
+          "name": "Reece Lache",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "KEEPER",
         "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 238285,
       "name": "KEEPER",
       "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "What?",
-        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
-      },
-      "artists": [
-        {
-          "name": "Reece Lache",
-          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "UH HUH",
-        "url": "https://open.spotify.com/album/5XVwW33gOcLb5Qsdh25gBu"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 135302,
-      "name": "UH HUH",
-      "url": "https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "UH HUH",
+        "url": "https://open.spotify.com/album/5XVwW33gOcLb5Qsdh25gBu"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 135302,
+      "name": "UH HUH",
+      "url": "https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 164210,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1051,6 +1067,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "hollow",
+        "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
+      },
+      "artists": [
+        {
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        }
+      ],
+      "duration_ms": 152031,
+      "name": "hollow",
+      "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
       },
@@ -1063,22 +1095,6 @@
       "duration_ms": 163862,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1103,22 +1119,6 @@
       "duration_ms": 215693,
       "name": "Love It Here - Remix",
       "url": "https://open.spotify.com/track/4cNcWi6pND2Zsmgv1HUpoX"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "hollow",
-        "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
-      },
-      "artists": [
-        {
-          "name": "Jaisua",
-          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
-        }
-      ],
-      "duration_ms": 152031,
-      "name": "hollow",
-      "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "TIL ITS DONE",
-        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 172205,
-      "name": "TIL ITS DONE",
-      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Check Me Out",
         "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 167727,
       "name": "Check Me Out",
       "url": "https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "TIL ITS DONE",
+        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 172205,
+      "name": "TIL ITS DONE",
+      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Nicely",
-        "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
+        "name": "That Feel",
+        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
       },
       "artists": [
         {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
         }
       ],
-      "duration_ms": 170859,
-      "name": "Nicely",
-      "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
+      "duration_ms": 163657,
+      "name": "That Feel",
+      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "That Feel",
-        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
+        "name": "Nicely",
+        "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
       },
       "artists": [
         {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 163657,
-      "name": "That Feel",
-      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
+      "duration_ms": 170859,
+      "name": "Nicely",
+      "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "Judas (feat. Lecrae)",
         "url": "https://open.spotify.com/album/3KWxHDfod63jy7CLtXYaNc"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 189090,
       "name": "Judas (feat. Lecrae)",
       "url": "https://open.spotify.com/track/6sn84zXUyEOcUtm8fsAoaG"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/3kupPWUXoqmgnw0TmFYtXZ"
+      },
+      "artists": [
+        {
+          "name": "KJ Carter",
+          "url": "https://open.spotify.com/artist/4vpOYEYiLdM7mPvbf01ANJ"
+        },
+        {
+          "name": "Kham",
+          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
+        }
+      ],
+      "duration_ms": 135254,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/0btKdBYx71IgwCTVAg8v3E"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/4d7wBapxvrLYS1OzPQ7WL4"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 234320,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6KYCrxiSpcGc4OrL5tEuwb"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/3kupPWUXoqmgnw0TmFYtXZ"
-      },
-      "artists": [
-        {
-          "name": "KJ Carter",
-          "url": "https://open.spotify.com/artist/4vpOYEYiLdM7mPvbf01ANJ"
-        },
-        {
-          "name": "Kham",
-          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
-        }
-      ],
-      "duration_ms": 135254,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/0btKdBYx71IgwCTVAg8v3E"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "HE BACK!",
-        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 115434,
-      "name": "HE BACK!",
-      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Temple In LA",
         "url": "https://open.spotify.com/album/5ok3X7Rm2AZlIOBTdaWWfc"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "HE BACK!",
+        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 115434,
+      "name": "HE BACK!",
+      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "anxiety.",
         "url": "https://open.spotify.com/album/3mklPRz6lx1WdPd0cbn6WX"
       },
@@ -1567,6 +1567,26 @@
       "duration_ms": 147310,
       "name": "anxiety.",
       "url": "https://open.spotify.com/track/5sWZIXPGLEK5vHTnH6ttYg"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "WE MISSED YOU",
+        "url": "https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8"
+      },
+      "artists": [
+        {
+          "name": "Coop",
+          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
+        },
+        {
+          "name": "Swaizy",
+          "url": "https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL"
+        }
+      ],
+      "duration_ms": 135831,
+      "name": "Poetic Pain",
+      "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1591,26 +1611,6 @@
       "duration_ms": 219375,
       "name": "That Ain't It",
       "url": "https://open.spotify.com/track/7rFQRFe1bOVQweyZUBKkqe"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "WE MISSED YOU",
-        "url": "https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8"
-      },
-      "artists": [
-        {
-          "name": "Coop",
-          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
-        },
-        {
-          "name": "Swaizy",
-          "url": "https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL"
-        }
-      ],
-      "duration_ms": 135831,
-      "name": "Poetic Pain",
-      "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Lines Drawn",
-        "url": "https://open.spotify.com/album/7mAuU95Sm5byNiQMx4LAQT"
-      },
-      "artists": [
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        }
-      ],
-      "duration_ms": 154320,
-      "name": "Lines Drawn",
-      "url": "https://open.spotify.com/track/0ksMUGFdTv6853Jj9d2ISc"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/7ECAeZLU0DckjhWcMYYU6h"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 131531,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/56IrJBpaNkq8Gg2TUlqAS5"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Lines Drawn",
+        "url": "https://open.spotify.com/album/7mAuU95Sm5byNiQMx4LAQT"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        }
+      ],
+      "duration_ms": 154320,
+      "name": "Lines Drawn",
+      "url": "https://open.spotify.com/track/0ksMUGFdTv6853Jj9d2ISc"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 164396,
-      "name": "Chosen",
-      "url": "https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "HEAVENONEARTH",
         "url": "https://open.spotify.com/album/5a3V1OsGK12skoMImVP6kJ"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 209007,
       "name": "FREE MY SPIRIT",
       "url": "https://open.spotify.com/track/4Gq5kWvV8ipRBjxovOtVOU"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR"
     },
     {
       "added_at": "2024-02-23 09:44:29",

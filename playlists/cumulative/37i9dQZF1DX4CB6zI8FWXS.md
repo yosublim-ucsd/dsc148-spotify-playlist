@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: FLO
 
-362 songs - 19 hr 32 min
+363 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 | 2023-03-16 | 2023-11-03 |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-20 | 2023-06-16 |
 | [BLUE](https://open.spotify.com/track/6KrRLTu0znn13IY3HD6bdr) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [BLUE](https://open.spotify.com/album/5dPtTMKOCj18R2tapTWMDx) | 2:30 | 2023-06-15 | 2024-02-23 |
-| [Body](https://open.spotify.com/track/7bjxgDqdmTVg9HaDZTmT9j) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Body](https://open.spotify.com/album/3DDuKCiSPV7HzUaIaKznKa) | 2:34 | 2024-03-07 |  |
+| [Body](https://open.spotify.com/track/5DXd9jo8UuohN0FMtMpQ1P) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Body](https://open.spotify.com/album/2g1QI3LnUDxleoJCppj3f4) | 2:34 | 2024-03-07 |  |
+| [Body](https://open.spotify.com/track/7bjxgDqdmTVg9HaDZTmT9j) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Body](https://open.spotify.com/album/3DDuKCiSPV7HzUaIaKznKa) | 2:34 | 2024-03-07 | 2024-03-09 |
 | [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-23 | 2023-04-14 |
 | [Boo Boo The Fool](https://open.spotify.com/track/5ZfXQYagB0zalPqFBBUMi1) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [Boo Boo The Fool](https://open.spotify.com/album/3ydneWhtJWUoGd6ntixfJh) | 2:29 | 2023-04-20 | 2023-05-05 |
 | [Bordeaux Flow feat\. Kidella](https://open.spotify.com/track/2zAjz5E07ehewy0T29Ycfp) | [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [THAITANIUM](https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8), [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Bordeaux Flow feat\. Kidella](https://open.spotify.com/album/78mcLwShUJkXR0O4AidcLU) | 3:20 | 2023-07-27 |  |

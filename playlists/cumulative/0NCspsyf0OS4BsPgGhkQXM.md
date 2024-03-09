@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,029 songs - 2 day 5 hr 55 min
+1,031 songs - 2 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [MOOGTOPIA \- Instrumental](https://open.spotify.com/track/0CrYuSEjndTCPCB0PRw0M4) | [Grav3](https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e) | [MOOGTOPIA \(Instrumental\)](https://open.spotify.com/album/2XQcKEDvB1p66FLp1GXKCK) | 2:25 | 2023-11-08 | 2024-01-30 |
 | [Moonbeams](https://open.spotify.com/track/1bgoe4DClcoRvDapWU68CK) | [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Moonbeams](https://open.spotify.com/album/3klnFBO7TxwcQkzcuM5yVI) | 3:56 | 2022-01-14 | 2022-02-05 |
 | [mother, you made my life complete](https://open.spotify.com/track/3qEwztpLxQhnjUN2Scm6dQ) | [MEJKO](https://open.spotify.com/artist/4unbLEffqWDwtD3QZbxXPk) | [mother, you made my life complete](https://open.spotify.com/album/6q1vsrSQPswB9zNWTeLc6m) | 3:49 | 2022-07-21 | 2022-08-20 |
+| [MOTOR PHONK](https://open.spotify.com/track/28vaVxwq9XicIjYnsHyVt2) | [PHONKA TRUCK](https://open.spotify.com/artist/6YS8kbWWMQlkGFiloRZ7As) | [MOTOR PHONK](https://open.spotify.com/album/2FapFkxPflYXJF1hSOgDik) | 1:24 | 2024-03-08 |  |
 | [Mountains](https://open.spotify.com/track/3OCP6NDxlpQhFfcKOeZl7r) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [ENROSA](https://open.spotify.com/artist/2GL4yQnMX0QY6dd9yRwDbj) | [Mountains](https://open.spotify.com/album/2ZvTo6EBXqaIct16IL4WDC) | 2:51 | 2022-03-04 | 2022-04-02 |
 | [MOVE](https://open.spotify.com/track/7cwCe0ZxpZiL3SZAYo8Naq) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [MOVE](https://open.spotify.com/album/1tKXqkiVYgkkfFicEFPjqy) | 2:47 | 2022-01-14 | 2022-09-15 |
 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 | 2024-02-13 |  |
@@ -1028,6 +1029,7 @@
 | [You Right \(feat Tommy Rage\)](https://open.spotify.com/track/13NgfgB3G5JMnXztqZ3Eoh) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [John Kroon](https://open.spotify.com/artist/1dS74ewrbbEEDYoyUTitml), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [You Right \(feat Tommy Rage\)](https://open.spotify.com/album/0w536ITKmpuTd0TAhEPf1y) | 2:59 | 2022-05-20 | 2022-06-18 |
 | [You Should See Me In A Crown](https://open.spotify.com/track/6aokYrHjUknteCwKuCfcqY) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [DiFi](https://open.spotify.com/artist/5xAqa5xaSxHC1L3EP8g9KL), [CASSIE](https://open.spotify.com/artist/1vOxtZLlDyrdReqWrm9oMr) | [You Should See Me In A Crown](https://open.spotify.com/album/2JAdofTL8Qu0tJQaTAvT6k) | 2:35 | 2022-06-17 | 2022-08-10 |
 | [You're Free](https://open.spotify.com/track/06lXCDfhIm8pXt62k7rpMQ) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [You're Free](https://open.spotify.com/album/50YSVa0d1GEYLy6VBZIqrF) | 2:35 | 2022-01-14 | 2022-02-17 |
+| [you're hell](https://open.spotify.com/track/7dGY8CoLPJmGEaQgsRLL4f) | [brxly](https://open.spotify.com/artist/1cGqXGh8OUcbf53Hg57AHk), [Angel Hill](https://open.spotify.com/artist/0v4Iw2QsGo7sa1kzpccz6k) | [you're hell](https://open.spotify.com/album/0FRoQBC3w2gh4jDmh7Oq1H) | 2:26 | 2024-03-08 |  |
 | [You're Not Alone](https://open.spotify.com/track/4idjrwbfYRg5QlqJqdBQyT) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Cinema Kid](https://open.spotify.com/artist/0zPDD8eFOxihKPKPI0uZEz) | [You're Not Alone](https://open.spotify.com/album/6sbh8lCL3pBkNYpx05qFTZ) | 4:02 | 2022-10-27 | 2023-09-23 |
 | [Your Boyfriend's Car](https://open.spotify.com/track/093QE3w0St1rytpC6Rf7Ie) | [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Your Boyfriend's Car](https://open.spotify.com/album/2WOZqTIkQE0WgDFD2rLgJU) | 2:44 | 2023-04-21 | 2023-06-03 |
 | [Your Eyes](https://open.spotify.com/track/7yrKgSRkxZauC7dwcnA8bs) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Bassline II](https://open.spotify.com/album/55srtArhktHU1UJTjfOcmy) | 2:38 | 2022-03-18 | 2022-07-29 |

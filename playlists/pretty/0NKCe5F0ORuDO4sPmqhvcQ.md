@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,811 likes - 161 songs - 9 hr 7 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,810 likes - 163 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,5 +169,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 159 | [rainonmyparade](https://open.spotify.com/track/7IQPEaJi04YGb0NrZnHMqh) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1) | [rainonmyparade](https://open.spotify.com/album/5kw8ltCF2M15RLZSMBqAjh) | 2:34 |
 | 160 | [Another Night \(with Fi Sullivan\)](https://open.spotify.com/track/3mSM5Tm2eDOQOwALWS9OxD) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [Another Night \(with Fi Sullivan\)](https://open.spotify.com/album/3kyUWWFiVBDDFkkjVeMqyA) | 2:31 |
 | 161 | [How Deep Is Your Love](https://open.spotify.com/track/4YlwsCI4O2sdJN55gRF9pV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [LP Giobbi x Insomniac Records Presents Femme House Vol\. 2](https://open.spotify.com/album/27PjvXPnBZ9wMEITi1MZd7) | 5:16 |
+| 162 | [Event Horizon](https://open.spotify.com/track/09mSBiAXZ6QMktNUMC3H1q) | [Manics](https://open.spotify.com/artist/3myc8xWoGmD2tiQY9H9u1G) | [Event Horizon EP](https://open.spotify.com/album/6J0WuEJIPjzlOQblikWSfy) | 4:11 |
+| 163 | [Gravity \(Manila Killa & MYRNE Remix\)](https://open.spotify.com/track/5mZTYzyn7AOZOArUiNMz7O) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Gravity \(Manila Killa & MYRNE Remix\)](https://open.spotify.com/album/46ESuwaQ6e4NcGJ3uYXk6a) | 4:50 |
 
-Snapshot ID: `MTA1ODcsZWE2ZDJkNWIxNmE3ZDQyNGViN2I5OTY0ZWMxNGQxNGFiNTkxYmQ1ZA==`
+Snapshot ID: `MTA1ODksOTA3NjU1YjQxNzc4ZjcwZmQ1ZDJjZjFiMTRkYmNmZDVjYzNmOGVlMg==`

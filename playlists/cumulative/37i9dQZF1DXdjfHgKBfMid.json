@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 155843,
       "name": "Ahora Que No Te Tengo",
       "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
@@ -808,6 +808,32 @@
       "duration_ms": 202342,
       "name": "Otro D\u00eda M\u00e1s",
       "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
+    },
+    {
+      "album": {
+        "name": "Parranda",
+        "url": "https://open.spotify.com/album/2fyr5OdeJgPH8FeUvpKNl8"
+      },
+      "artists": [
+        {
+          "name": "La Sonora De Tommy Rey",
+          "url": "https://open.spotify.com/artist/0gOdu2BvlfycjQlrtk0CQv"
+        },
+        {
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        },
+        {
+          "name": "El Calle Latina",
+          "url": "https://open.spotify.com/artist/4RnZy46gvx737Wi1vMpyCk"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194020,
+      "name": "Parranda",
+      "url": "https://open.spotify.com/track/3FTTWrzmEtJusM9Fh64Xqb"
     },
     {
       "album": {

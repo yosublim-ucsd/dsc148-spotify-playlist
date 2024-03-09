@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 12072,
+  "2024-03-09": 12073,
   "date_first_scraped": "2023-10-03",
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
   "name": "wuen dia",
@@ -2087,7 +2087,7 @@
     {
       "album": {
         "name": "Stockholm Waltz",
-        "url": "https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623"
+        "url": "https://open.spotify.com/album/7ELKIYBbXhI8IG8vdZTFTg"
       },
       "artists": [
         {
@@ -2098,6 +2098,24 @@
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 140964,
+      "name": "Stockholm Waltz",
+      "url": "https://open.spotify.com/track/28oHpnRPMxVcrXVmd4VqFj"
+    },
+    {
+      "album": {
+        "name": "Stockholm Waltz",
+        "url": "https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623"
+      },
+      "artists": [
+        {
+          "name": "Julian Vigil",
+          "url": "https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-08",
       "duration_ms": 140964,
       "name": "Stockholm Waltz",
       "url": "https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr"

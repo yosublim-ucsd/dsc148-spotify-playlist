@@ -1,13 +1,81 @@
 {
-  "description": "New jazz for open minds. Cover: NALEDI",
-  "num_followers": 918270,
+  "description": "New jazz for open minds. Cover: Melissa Aldana",
+  "num_followers": 918373,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2JiNDNiMzU4NDFhZmEwODcyY2I2M2I5MDAwMjVhYzQwYmQwODli",
+  "snapshot_id": "MCxjZjI0YjMwODlmNDQ3ODVmMzY2ODdlYmJkYTVmMDcxZTQyMWM3MTBm",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "A Story",
+        "url": "https://open.spotify.com/album/2z9EStsMmDDyWSaNFdpxnp"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "duration_ms": 368018,
+      "name": "A Story",
+      "url": "https://open.spotify.com/track/0wFfXz9jDuWuw0jkStH5FE"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/3wDXUtAudXDc6dgy2mAqZ2"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 499234,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/4Kh0yUcMyxVENH4lgtcuHX"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Edge of Time",
+        "url": "https://open.spotify.com/album/6k3c0Lgmcf8BJ6HenmP293"
+      },
+      "artists": [
+        {
+          "name": "Alan Braufman",
+          "url": "https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H"
+        },
+        {
+          "name": "Patricia Brennan",
+          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
+        },
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        },
+        {
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
+        },
+        {
+          "name": "Michael Wimberly",
+          "url": "https://open.spotify.com/artist/6bYjLq7gxn1ppARKvClYbk"
+        },
+        {
+          "name": "Ken Filiano",
+          "url": "https://open.spotify.com/artist/2OaNxBGsO4k7VvISKSm38d"
+        }
+      ],
+      "duration_ms": 325266,
+      "name": "Edge of Time",
+      "url": "https://open.spotify.com/track/3fEHcq83c7ZvHkPYu2bWA1"
+    },
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
@@ -23,6 +91,50 @@
       "duration_ms": 272120,
       "name": "P (x) J",
       "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Eagle's Point",
+        "url": "https://open.spotify.com/album/5FC0k9cIt1sd2mdNqjJrDO"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 374993,
+      "name": "Aria for Anna",
+      "url": "https://open.spotify.com/track/1KDcKCLVQOWUB4kgwrETVy"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "I Too Am A Stranger",
+        "url": "https://open.spotify.com/album/1wF6WneR7NyifTyXhhPQaP"
+      },
+      "artists": [
+        {
+          "name": "The Sorcerers",
+          "url": "https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA"
+        }
+      ],
+      "duration_ms": 244310,
+      "name": "The Warrior Code",
+      "url": "https://open.spotify.com/track/1otrWVcbCxemNnn7eiKW1P"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -51,6 +163,26 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
+        "name": "Big Brother",
+        "url": "https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "Daniel Wytanis",
+          "url": "https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln"
+        }
+      ],
+      "duration_ms": 361482,
+      "name": "Big Brother",
+      "url": "https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
         "name": "Fandango",
         "url": "https://open.spotify.com/album/7sD4UjyuDSS2vcdMGT1YH6"
       },
@@ -63,6 +195,70 @@
       "duration_ms": 430973,
       "name": "Fandango",
       "url": "https://open.spotify.com/track/2rLN8vZ2d9HGeljlmZFhTx"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "The Great Bailout",
+        "url": "https://open.spotify.com/album/4McRUm1jODWhmUWmgmG0px"
+      },
+      "artists": [
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        },
+        {
+          "name": "Kyle Kidd",
+          "url": "https://open.spotify.com/artist/4X5Nbu5dWoMABqM0KORu9d"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "LIVERPOOL WINS",
+      "url": "https://open.spotify.com/track/3NEjU4et42MIT9VG8x7Ksx"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Send in the Clowns",
+        "url": "https://open.spotify.com/album/2mmGf9kozZrGaCrihS3hGP"
+      },
+      "artists": [
+        {
+          "name": "Prism Quartet",
+          "url": "https://open.spotify.com/artist/1jSQEHmXkCtYyok58EkWUA"
+        },
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        }
+      ],
+      "duration_ms": 337218,
+      "name": "Send in the Clowns",
+      "url": "https://open.spotify.com/track/6ogaZVuWS2h2MZ8wYNu7Ap"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "I'm A Bird / Friends",
+        "url": "https://open.spotify.com/album/6mNrZt3YGDo6mw8gUSwxMx"
+      },
+      "artists": [
+        {
+          "name": "Outside World",
+          "url": "https://open.spotify.com/artist/5xWSapntbvFDBkJ2y37CKf"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        },
+        {
+          "name": "Logan Kane",
+          "url": "https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ"
+        }
+      ],
+      "duration_ms": 217301,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/74fThCaJqlKrDkPNf4Vlul"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -103,26 +299,6 @@
       "duration_ms": 254933,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/7wc9v9f1agzyv4nckk0peS"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Big Brother",
-        "url": "https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n"
-      },
-      "artists": [
-        {
-          "name": "Sly5thAve",
-          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
-        },
-        {
-          "name": "Daniel Wytanis",
-          "url": "https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln"
-        }
-      ],
-      "duration_ms": 361482,
-      "name": "Big Brother",
-      "url": "https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -527,34 +703,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Eagle's Point",
-        "url": "https://open.spotify.com/album/7mXAox1GEs9UWIydmhZ3JW"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
-        },
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 455959,
-      "name": "Eagle's Point",
-      "url": "https://open.spotify.com/track/4kFkOrYHCljDpsjhhwh40U"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Sun Streak",
         "url": "https://open.spotify.com/album/0xe3vp3OjTfSdfJvqp3Lc4"
       },
@@ -677,22 +825,6 @@
       "url": "https://open.spotify.com/track/242sgtNAjMw47sqowRPJ7s"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "The Solitary Seeker",
-        "url": "https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN"
-      },
-      "artists": [
-        {
-          "name": "Melissa Aldana",
-          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
-        }
-      ],
-      "duration_ms": 368402,
-      "name": "The Solitary Seeker",
-      "url": "https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad"
-    },
-    {
       "added_at": "2023-12-15 05:01:00",
       "album": {
         "name": "MiNt cHoCoLaTe (feat. Conway The Machine)",
@@ -755,26 +887,6 @@
       "duration_ms": 211114,
       "name": "Mambo Influenciado",
       "url": "https://open.spotify.com/track/6KLQUsEikFi0vbtffUknCF"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Egg On The Roof",
-        "url": "https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u66fd\u6839\u5553",
-          "url": "https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M"
-        },
-        {
-          "name": "Makoto Ozone",
-          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
-        }
-      ],
-      "duration_ms": 429063,
-      "name": "\u30a8\u30c3\u30b0\u30fb\u30aa\u30f3\u30fb\u30b6\u30fb\u30eb\u30fc\u30d5",
-      "url": "https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1233,30 +1345,6 @@
       "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
     },
     {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "BY THE WAY",
-        "url": "https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe"
-      },
-      "artists": [
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        },
-        {
-          "name": "D'LEAU",
-          "url": "https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk"
-        }
-      ],
-      "duration_ms": 244950,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG"
-    },
-    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "A Nuyorican Tale",
@@ -1419,34 +1507,6 @@
       "duration_ms": 263502,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6iwVDKeWEsFCY169JiMnOd"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "You'd Be so Nice to Come Home To",
-        "url": "https://open.spotify.com/album/6wmFNNSrd1eX58uXZ0UYu6"
-      },
-      "artists": [
-        {
-          "name": "Sam Levine",
-          "url": "https://open.spotify.com/artist/1CmCeIsw4tTFiufFAJx04M"
-        },
-        {
-          "name": "Pat Coil",
-          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
-        },
-        {
-          "name": "Jacob Jezioro",
-          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
-        },
-        {
-          "name": "Danny Gottlieb",
-          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
-        }
-      ],
-      "duration_ms": 254750,
-      "name": "You'd Be so Nice to Come Home To",
-      "url": "https://open.spotify.com/track/0MLjBHCWlJftQ3vk5hzTPN"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1685,22 +1745,6 @@
       "url": "https://open.spotify.com/track/3HlO9LOzWYtazt0URqky8r"
     },
     {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Burn (10th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        }
-      ],
-      "duration_ms": 318158,
-      "name": "The Junglist - Bonus Track",
-      "url": "https://open.spotify.com/track/0Ew7cCW9CQWEZX8KrOIiFk"
-    },
-    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Dream Box",
@@ -1715,54 +1759,6 @@
       "duration_ms": 402665,
       "name": "Morning Of The Carnival",
       "url": "https://open.spotify.com/track/3MoLzbreunW3f0AfXUH8ki"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Stop Calling Me",
-        "url": "https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B"
-      },
-      "artists": [
-        {
-          "name": "Blaque Dynamite",
-          "url": "https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2"
-        }
-      ],
-      "duration_ms": 327342,
-      "name": "STOP CALLING ME",
-      "url": "https://open.spotify.com/track/314r69preySjrl67vpaEI8"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Diagnosis",
-        "url": "https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd"
-      },
-      "artists": [
-        {
-          "name": "Sen Morimoto",
-          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Pressure on the Pulse",
-      "url": "https://open.spotify.com/track/40MBOllKyanYQZ8vuexEXI"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Kings Highway",
-        "url": "https://open.spotify.com/album/6lenF7EOgaIQ9a1BQZRxac"
-      },
-      "artists": [
-        {
-          "name": "Brian Blade & The Fellowship Band",
-          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
-        }
-      ],
-      "duration_ms": 260870,
-      "name": "Look To The Hills",
-      "url": "https://open.spotify.com/track/6bfiCXTdEJBTskKdTfqzcj"
     },
     {
       "added_at": "2023-10-13 04:01:00",

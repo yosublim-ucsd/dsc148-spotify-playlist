@@ -4,12 +4,13 @@
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: Hera Hyesang Park\(박혜상\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-105 songs - 8 hr 40 min
+106 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10.1 \(strings\)](https://open.spotify.com/track/5pOtS3sP7IT1RRVM5hr3uS) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU), [Budapest Scoring Orchestra and Choir](https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ) | [psalms](https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX) | 3:11 | 2023-09-13 |  |
 | [100% Summer](https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz) | [Uaieo](https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf), [Joyful Island](https://open.spotify.com/artist/0x4sEns7ouHfoJ3pRi2AqH) | [Summer Vacation](https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ) | 3:55 | 2023-09-13 |  |
+| [12 Études, Op\. 10: No\. 3 in E Major "Tristesse"](https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Yunchan Lim](https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz) | [Chopin: 12 Études, Op\. 10: No\. 3 in E Major "Tristesse"](https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo) | 4:14 | 2024-03-08 |  |
 | [26.9](https://open.spotify.com/track/74Bg9EeK0eKTWi32RCQPPV) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU), [Budapest Scoring Orchestra and Choir](https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ), [Jung Eun Hye](https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1) | [psalms](https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX) | 3:37 | 2023-09-13 |  |
 | [8 Humoresques, Op.101: No.7, Poco lento e grazioso \(Arr\. for Violin, Vibraphone and Piano by Cho Yoonseung\)](https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Connected](https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw) | 5:14 | 2023-09-13 |  |
 | [Aguas de Março](https://open.spotify.com/track/0LRM3HMOV539rX9dYfckeM) | [John Noh](https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13), [Ko Yeong Yeol](https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm) | [Cantar](https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s) | 3:49 | 2023-09-13 |  |

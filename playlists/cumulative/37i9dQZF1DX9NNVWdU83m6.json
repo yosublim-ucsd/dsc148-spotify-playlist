@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Notbad",
+        "url": "https://open.spotify.com/album/6ysbCFN1LoILYOj5Y46yVb"
+      },
+      "artists": [
+        {
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249044,
+      "name": "Notbad",
+      "url": "https://open.spotify.com/track/2BRWFZdMZpWdEcS13RmVoB"
+    },
+    {
+      "album": {
         "name": "Planet",
         "url": "https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL"
       },

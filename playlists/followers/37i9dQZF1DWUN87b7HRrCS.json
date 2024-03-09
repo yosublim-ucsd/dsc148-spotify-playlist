@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 19828,
+  "2024-03-09": 19887,
   "date_first_scraped": "2023-05-12",
   "description": "Soft and cozy sounds of Bossa nova.",
   "name": "Bossa in the Background",
@@ -132,6 +132,24 @@
     },
     {
       "album": {
+        "name": "Beatriz",
+        "url": "https://open.spotify.com/album/76KMP8gBAdDM04PCSvmXnW"
+      },
+      "artists": [
+        {
+          "name": "The Cloud",
+          "url": "https://open.spotify.com/artist/5XxGygPJsu9sVpxe4R97k9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227678,
+      "name": "Beatriz",
+      "url": "https://open.spotify.com/track/6LyuSgzToMUYVf6ebce8CJ"
+    },
+    {
+      "album": {
         "name": "Bel\u00e9m",
         "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
       },
@@ -219,6 +237,24 @@
       "duration_ms": 206555,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X"
+    },
+    {
+      "album": {
+        "name": "Call on me softly",
+        "url": "https://open.spotify.com/album/6yswi7kz4lWCyIevxBgF9J"
+      },
+      "artists": [
+        {
+          "name": "Joseph Gonzalez",
+          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207879,
+      "name": "Call on me softly",
+      "url": "https://open.spotify.com/track/34yyBDFvc815CHpHINtpMg"
     },
     {
       "album": {
@@ -439,6 +475,40 @@
     {
       "album": {
         "name": "Estate",
+        "url": "https://open.spotify.com/album/2nsW4lRUeOowSZWLZZvqZa"
+      },
+      "artists": [
+        {
+          "name": "Mellow In Blue",
+          "url": "https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Johnny \u00c5man",
+          "url": "https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW"
+        },
+        {
+          "name": "Erlend Slettevoll",
+          "url": "https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS"
+        },
+        {
+          "name": "Mathias Heise",
+          "url": "https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318080,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/4eHe8d0kXacI1bzQUMAepu"
+    },
+    {
+      "album": {
+        "name": "Estate",
         "url": "https://open.spotify.com/album/1lpsAqYN6I6uyiawUgBHFM"
       },
       "artists": [
@@ -465,7 +535,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 318080,
       "name": "Estate",
       "url": "https://open.spotify.com/track/29nsxzITJQJpaja7RvTupi"
@@ -1193,6 +1263,24 @@
       "duration_ms": 186050,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/4oVtVfH5Byf8mRThHC8ZSb"
+    },
+    {
+      "album": {
+        "name": "Praia de Ipanema",
+        "url": "https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1"
+      },
+      "artists": [
+        {
+          "name": "Jonah Anderson",
+          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241124,
+      "name": "Praia de Ipanema",
+      "url": "https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn"
     },
     {
       "album": {

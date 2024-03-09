@@ -1799,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Clementine/Geeked",
+        "url": "https://open.spotify.com/album/486qhyhOlmxt6q3xAABtTp"
+      },
+      "artists": [
+        {
+          "name": "Gravedweller",
+          "url": "https://open.spotify.com/artist/3TB2BAG8xnarUNFNGLG4RX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156538,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/7AxasOJ0ksH6jDzWXLnTqM"
+    },
+    {
+      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O"
       },
@@ -4535,6 +4553,24 @@
     },
     {
       "album": {
+        "name": "I Love it Here",
+        "url": "https://open.spotify.com/album/6R5i18OSk7zEWCvIJsTRwP"
+      },
+      "artists": [
+        {
+          "name": "The Fever Haze",
+          "url": "https://open.spotify.com/artist/0oajdCcdxXLse9AKHRe9mq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "I Love it Here",
+      "url": "https://open.spotify.com/track/5NTHNKZxjWmn71IzCFTRDi"
+    },
+    {
+      "album": {
         "name": "I Should Never Have Been Here in the First Place",
         "url": "https://open.spotify.com/album/5EJYQKoXkL65TZOYWD6GQ4"
       },
@@ -4550,6 +4586,24 @@
       "duration_ms": 218667,
       "name": "I Should Never Have Been Here in the First Place",
       "url": "https://open.spotify.com/track/12bZU3tBQ9nYM7dQ4jXedL"
+    },
+    {
+      "album": {
+        "name": "Rationale",
+        "url": "https://open.spotify.com/album/653MF1FIBn8pYkgqsg4bxV"
+      },
+      "artists": [
+        {
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136840,
+      "name": "I Want To Be Invisible",
+      "url": "https://open.spotify.com/track/2rGVvk7cUGv4uJxXk0xIaX"
     },
     {
       "album": {
@@ -5894,7 +5948,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 161851,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/1G8801Xjv5DtBzmOn5yUjV"
@@ -6852,7 +6906,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 202610,
       "name": "Pig",
       "url": "https://open.spotify.com/track/6ZURd2x9YB980TbGTUG9fh"
@@ -9180,7 +9234,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 243329,
       "name": "to me",
       "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"

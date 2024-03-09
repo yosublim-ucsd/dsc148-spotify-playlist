@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-333 songs - 18 hr 17 min
+334 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [MOP](https://open.spotify.com/track/7LCe5qMTozrYJIizGmR4Vj) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [THIRTY RACK](https://open.spotify.com/artist/0FDL37gY8GetvvoQhd8HYU) | [The Firest](https://open.spotify.com/album/7fV66uq0GKn6bEVIyII5SV) | 2:52 | 2021-11-19 | 2022-01-08 |
 | [Moshpit](https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u) | [Moshpit / Comin For Ya Neck](https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6) | 2:57 | 2021-11-19 |  |
 | [Mother Africa](https://open.spotify.com/track/02uwXnLbfT68JKAShQ0VTS) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Mother Africa](https://open.spotify.com/album/7lVloMmdbAd9VpZ3pXkVvh) | 3:58 | 2021-11-19 | 2022-01-08 |
+| [MUCHO CA$H](https://open.spotify.com/track/1rIV5uMuZHc2PZhN59o5KL) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [ARTIX!](https://open.spotify.com/artist/2d7Oro82tVznMBYXDoGiHy) | [MUCHO CA$H](https://open.spotify.com/album/3x1tILuV6U0qGu9W2OMQfU) | 2:31 | 2024-03-01 |  |
 | [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 | 2021-11-19 | 2022-01-08 |
 | [Muscleville](https://open.spotify.com/track/0mL9QPL0XnecyPgnbnTKh0) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [MUSCLEVILLE EP](https://open.spotify.com/album/75UPb2lnvwv4Qp83kESQKV) | 2:23 | 2021-11-19 | 2022-01-08 |
 | [Mutation](https://open.spotify.com/track/0p2dTl1xjRTa7Q3OZBS5zW) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Mutation](https://open.spotify.com/album/6Ci4LwlsCj3LqoQR5AyABC) | 3:43 | 2023-08-18 | 2023-09-10 |
@@ -235,7 +236,7 @@
 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 | 2021-11-19 |  |
 | [Red Alert](https://open.spotify.com/track/4L1YNydoXxdghlcty6TCV1) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Red Alert](https://open.spotify.com/album/7m5XiKDtpcE5tAYE7SUcs1) | 2:46 | 2022-04-29 | 2022-07-29 |
 | [Red Alert](https://open.spotify.com/track/6rSYTRD8LrmNjeMw4ldqET) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Prismata \(Dark\)](https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht) | 2:46 | 2023-08-18 | 2023-09-10 |
-| [REDLIGHT \- VIP](https://open.spotify.com/track/1b1TQHFL6lSFh8hb1mgiHs) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [REDLIGHT \(VIP\)](https://open.spotify.com/album/6PzcABQ8AD86QvMzDtBWIV) | 3:19 | 2024-01-12 |  |
+| [REDLIGHT \- VIP](https://open.spotify.com/track/1b1TQHFL6lSFh8hb1mgiHs) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [REDLIGHT \(VIP\)](https://open.spotify.com/album/6PzcABQ8AD86QvMzDtBWIV) | 3:19 | 2024-01-12 | 2024-03-09 |
 | [REDLIGHT \- VIP](https://open.spotify.com/track/76peqTD79xDzySA3SyWzs5) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [REDLIGHT \(VIP\)](https://open.spotify.com/album/5mczOUN0PKncHlSTvX8vVA) | 3:19 | 2022-04-29 | 2023-12-05 |
 | [RELOAD](https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [RELOAD](https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC) | 2:56 | 2022-05-13 | 2022-10-05 |
 | [Replay The Night \(feat\. Nytrix\)](https://open.spotify.com/track/0NNHOCC22cpLt3fDF6t88l) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Staysick](https://open.spotify.com/artist/45uC5ia7f1oj4TGlOSbtC4), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Replay The Night \(feat\. Nytrix\)](https://open.spotify.com/album/35FKDZS3YiNXkzuDXHOohv) | 3:51 | 2021-11-19 | 2022-06-26 |

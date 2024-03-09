@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 194326,
+  "num_followers": 194376,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjNhYmVmMzU5ODgxNDcwZjEyOGZmNzVkY2RmNWVmOTY0MzJhOTY1",
+  "snapshot_id": "MCw0MDNiNWQ2ZTE4MzQ3MzIxNTI4M2RmNzQ1OGRlNDFhMTBmZmQzZTg5",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Revolution Radio",
-      "url": "https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 336440,
       "name": "Take The Power Back",
       "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Revolution Radio",
+      "url": "https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Crooked Shadows",
-        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "We Fight",
-      "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Imaginary Enemy",
         "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 244680,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Crooked Shadows",
+        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "We Fight",
+      "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"
     },
     {
       "added_at": "2023-06-23 04:01:00",

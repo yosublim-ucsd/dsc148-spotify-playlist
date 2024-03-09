@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 91665,
+  "num_followers": 91673,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzQyNTZkZDI0ODgyZjA0ZjJjYjYyMDk2MWY1MmYwMDI3NWI2M2Zk",
+  "snapshot_id": "MCw0MTE4Y2JjMWY3ZGI3YjJiMmM5M2FhMzA1OGVjNmVlNzMxMmZiYTU4",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -187,6 +187,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "CRAZYTALK",
+        "url": "https://open.spotify.com/album/1VYbFOGfg6BE3rn1LTMTny"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        },
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Memorized",
+      "url": "https://open.spotify.com/track/38LC7jHjifqs5EnYUv4BgG"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Out of Body",
         "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 267213,
       "name": "Survival (feat. Drew Holcomb & Ellie Holcomb)",
       "url": "https://open.spotify.com/track/4os91DjSzBTVk2GaPtkrMp"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "CRAZYTALK",
-        "url": "https://open.spotify.com/album/1VYbFOGfg6BE3rn1LTMTny"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        },
-        {
-          "name": "RAC",
-          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Memorized",
-      "url": "https://open.spotify.com/track/38LC7jHjifqs5EnYUv4BgG"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "The Mountain (Live from 25in24)",
+        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "duration_ms": 231375,
+      "name": "The Mountain (Live from 25in24)",
+      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 233918,
       "name": "Giants",
       "url": "https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "The Mountain (Live from 25in24)",
-        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 231375,
-      "name": "The Mountain (Live from 25in24)",
-      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Broken With You",
-        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
-      },
-      "artists": [
-        {
-          "name": "Nathan Sheridan",
-          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
-        }
-      ],
-      "duration_ms": 178796,
-      "name": "Starts With You And Me",
-      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Hold to the Light",
         "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 183720,
       "name": "Glow",
       "url": "https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Broken With You",
+        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
+      },
+      "artists": [
+        {
+          "name": "Nathan Sheridan",
+          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
+        }
+      ],
+      "duration_ms": 178796,
+      "name": "Starts With You And Me",
+      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
     },
     {
       "added_at": "2020-09-04 04:02:00",

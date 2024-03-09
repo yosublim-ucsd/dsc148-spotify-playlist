@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 63525,
+  "num_followers": 63666,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWNmYjJlOGM0OTUwNmUyYWQxMDVkM2NhZmExYTQ1MGU3MGIwMjRm",
+  "snapshot_id": "MCxjMjMwYjIyZDg5Y2JkMzEzN2VjNTc1OTIyMjQxZmY1ODY4NzFhMGFh",
   "tracks": [
     {
       "added_at": "2024-01-05 17:02:31",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Where There's Smoke...",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "La La Means I Love You",
         "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 200906,
       "name": "La-La Means I Love You",
       "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
-      },
-      "artists": [
-        {
-          "name": "Bloodstone",
-          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Natural High",
-      "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Sisters of Soul; the Sweeter Voices of Soul",
         "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 184634,
       "name": "I Love You for All Seasons",
       "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
+      },
+      "artists": [
+        {
+          "name": "Bloodstone",
+          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Natural High",
+      "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Skyliners",
-        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Since I Don't Have You (Alternative Take)",
-      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Ilusi\u00f3n De Amor",
         "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 225796,
       "name": "Ilusi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "A Quiet Storm",
-        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "The Agony And The Ecstasy",
-      "url": "https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
         "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 255173,
       "name": "Float On - Single Version",
       "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "A Quiet Storm",
+        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "The Agony And The Ecstasy",
+      "url": "https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "All the Greatest Hits",
+        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
+      },
+      "artists": [
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "I Want to Be Your Man",
+      "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Swingsation: Sil Austin",
         "url": "https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 282480,
       "name": "Computer Love",
       "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "All the Greatest Hits",
-        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
-      },
-      "artists": [
-        {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "I Want to Be Your Man",
-      "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
-      },
-      "artists": [
-        {
-          "name": "Ralfi Pagan",
-          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
-        }
-      ],
-      "duration_ms": 285098,
-      "name": "Make It With You",
-      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Do You Love",
         "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "I Do Love You",
-        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
       },
       "artists": [
         {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+          "name": "Ralfi Pagan",
+          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
         }
       ],
-      "duration_ms": 177946,
-      "name": "I Do Love You",
-      "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
+      "duration_ms": 285098,
+      "name": "Make It With You",
+      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1259,6 +1243,22 @@
       "duration_ms": 209213,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "I Do Love You",
+        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
+      },
+      "artists": [
+        {
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "I Do Love You",
+      "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Mr. Brown Eyed Soul",
-        "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
-      },
-      "artists": [
-        {
-          "name": "Sunny & The Sunliners",
-          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
-        }
-      ],
-      "duration_ms": 119553,
-      "name": "Smile Now, Cry Later",
-      "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Mr. Brown Eyed Soul",
+        "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunliners",
+          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
+        }
+      ],
+      "duration_ms": 119553,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Dreams Of Contentment (Special Deluxe Collection)",
-        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
-      },
-      "artists": [
-        {
-          "name": "The Dells",
-          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Oh What A Nite",
-      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Thee Only One",
         "url": "https://open.spotify.com/album/4ztSd9IONvZJ1kq4sdDkVp"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 216913,
       "name": "Thee Only One",
       "url": "https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Dreams Of Contentment (Special Deluxe Collection)",
+        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
+      },
+      "artists": [
+        {
+          "name": "The Dells",
+          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Oh What A Nite",
+      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Reaper of Love",
+        "url": "https://open.spotify.com/album/0CSoQsnzqCpPFRC41k9xRR"
+      },
+      "artists": [
+        {
+          "name": "Rocky Padilla",
+          "url": "https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0"
+        }
+      ],
+      "duration_ms": 211369,
+      "name": "Reaper of Love",
+      "url": "https://open.spotify.com/track/05x6NUnAj83IGdYpM9rvRM"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Truth & Soul presents Lee Fields (The 45 Mixes)",
         "url": "https://open.spotify.com/album/2h3yXwznsQpZjcT8nTXtZg"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 200600,
       "name": "Honey Dove (OG Version)",
       "url": "https://open.spotify.com/track/4sqdUr8Jc9soAIcMNE7DEW"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Reaper of Love",
-        "url": "https://open.spotify.com/album/0CSoQsnzqCpPFRC41k9xRR"
-      },
-      "artists": [
-        {
-          "name": "Rocky Padilla",
-          "url": "https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0"
-        }
-      ],
-      "duration_ms": 211369,
-      "name": "Reaper of Love",
-      "url": "https://open.spotify.com/track/05x6NUnAj83IGdYpM9rvRM"
     },
     {
       "added_at": "2024-01-05 17:02:31",

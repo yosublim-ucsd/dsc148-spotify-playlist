@@ -1,18 +1,50 @@
 {
-  "description": "Porque no to' e' Dembow en RD loco. Portada: J Noa",
-  "num_followers": 228661,
+  "description": "Porque no to' e' Dembow en RD loco. Portada: Lismar",
+  "num_followers": 228735,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGVjZjA1YTc3Yzk2MjdiMjQ0ZTM5NDE1NmYzMzRlYmE0ZGJjZDA2",
+  "snapshot_id": "MCwzMDAyNWUzZGE4Y2UxMTZlNGM4NDEzYmI0M2MzZWUwMzAxMTUxOGM3",
   "tracks": [
     {
-      "added_at": "2024-02-15 16:52:33",
+      "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/2etRxijaqyxyWsAIRXidjC"
+        "name": "Nota",
+        "url": "https://open.spotify.com/album/69WYi6VDkwlyoHfv5SO5b7"
+      },
+      "artists": [
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/18xTLZz0jnxFCz0krVzFme"
+    },
+    {
+      "added_at": "2024-01-12 21:24:53",
+      "album": {
+        "name": "Bad Bxtch",
+        "url": "https://open.spotify.com/album/2FP12DnDWJk9MG81zX0C7j"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "duration_ms": 140603,
+      "name": "Bad Bxtch",
+      "url": "https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Tiguere DK",
+        "url": "https://open.spotify.com/album/6jbBGfodtFwVCd3lK9WnTn"
       },
       "artists": [
         {
@@ -20,9 +52,9 @@
           "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         }
       ],
-      "duration_ms": 156263,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/373cSIRpbSV5qI0LUZOJOh"
+      "duration_ms": 272532,
+      "name": "Tiguere DK",
+      "url": "https://open.spotify.com/track/51TtkQklDfojAEDEF2l8zM"
     },
     {
       "added_at": "2024-01-12 21:24:53",
@@ -41,6 +73,26 @@
       "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"
     },
     {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "F\u00fanebre",
+        "url": "https://open.spotify.com/album/1YWSTXgLJLFVqDO4F5T3Mm"
+      },
+      "artists": [
+        {
+          "name": "Chocoleyrol",
+          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
+        },
+        {
+          "name": "Yeral El De Lo Palo",
+          "url": "https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb"
+        }
+      ],
+      "duration_ms": 163395,
+      "name": "F\u00fanebre",
+      "url": "https://open.spotify.com/track/2mSTIY3YHxMXh0jeHPZ2ij"
+    },
+    {
       "added_at": "2023-09-29 02:04:59",
       "album": {
         "name": "Bebi Demasiado",
@@ -57,20 +109,32 @@
       "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
     },
     {
-      "added_at": "2024-01-12 21:24:53",
+      "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Bad Bxtch",
-        "url": "https://open.spotify.com/album/2FP12DnDWJk9MG81zX0C7j"
+        "name": "El Coquero",
+        "url": "https://open.spotify.com/album/1H4XSrawEXeEyDCAYlRpGX"
       },
       "artists": [
         {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        },
+        {
+          "name": "Chocoleyrol",
+          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
+        },
+        {
+          "name": "Gatillero 23",
+          "url": "https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k"
+        },
+        {
+          "name": "Dowel King",
+          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
         }
       ],
-      "duration_ms": 140603,
-      "name": "Bad Bxtch",
-      "url": "https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R"
+      "duration_ms": 238268,
+      "name": "El Coquero",
+      "url": "https://open.spotify.com/track/0CAiugQfyGMtnMUhVLzsd0"
     },
     {
       "added_at": "2024-02-15 16:52:33",
@@ -93,6 +157,26 @@
       "url": "https://open.spotify.com/track/1JnRfqRvQN2sjQJlINz6cl"
     },
     {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "El Rap Me Habl\u00f3",
+        "url": "https://open.spotify.com/album/5acxwntILf7oAmXsKEcyYp"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Nico Clinico",
+          "url": "https://open.spotify.com/artist/1mj4H8QF1OeBuMGHxGOcQv"
+        }
+      ],
+      "duration_ms": 269259,
+      "name": "El Rap Me Habl\u00f3",
+      "url": "https://open.spotify.com/track/2xtwS2ciyfhTM0NLZCfYF4"
+    },
+    {
       "added_at": "2023-07-18 04:00:00",
       "album": {
         "name": "Feliz",
@@ -109,6 +193,22 @@
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
     },
     {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/6DAidc3PnHFfZRcNDCpILu"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 163514,
+      "name": "Divino",
+      "url": "https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK"
+    },
+    {
       "added_at": "2024-02-29 19:27:26",
       "album": {
         "name": "Vite Que No Es Lo Mismo",
@@ -123,6 +223,22 @@
       "duration_ms": 130892,
       "name": "Vite Que No Es Lo Mismo",
       "url": "https://open.spotify.com/track/5ncbor51u5HvTIb67V5J7L"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Te Quiero (Special Version)",
+        "url": "https://open.spotify.com/album/0nBiKTxgoOpA5Z6BFzFSyw"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Te quiero - Special Version",
+      "url": "https://open.spotify.com/track/1wRCb3pUMVPhXavUKSPuVI"
     },
     {
       "added_at": "2024-01-12 21:24:53",
@@ -195,6 +311,22 @@
       "duration_ms": 149328,
       "name": "Calorazo",
       "url": "https://open.spotify.com/track/5jrG8BSLIqMvacwkiWmxc7"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Mi Esposa",
+        "url": "https://open.spotify.com/album/09d06Rqk3juXxRXrQ4Dbo1"
+      },
+      "artists": [
+        {
+          "name": "Poeta Callejero",
+          "url": "https://open.spotify.com/artist/1m82A2YUjBaQnLAFi9vjJv"
+        }
+      ],
+      "duration_ms": 224095,
+      "name": "Mi Esposa",
+      "url": "https://open.spotify.com/track/36qU5s412GZ7FExUMevWyZ"
     },
     {
       "added_at": "2024-02-23 07:01:51",
@@ -307,22 +439,6 @@
     {
       "added_at": "2023-07-18 04:00:00",
       "album": {
-        "name": "El Coba",
-        "url": "https://open.spotify.com/album/3Ox4ItzjaafKDpKixWNy7O"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 123716,
-      "name": "El Coba",
-      "url": "https://open.spotify.com/track/1lh3TDFVCmgOE6szIPwoIK"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
         "name": "LOS POBRES Y LOS RICOS",
         "url": "https://open.spotify.com/album/0og8Wv6WAlWUUJT4Ub9IIe"
       },
@@ -419,22 +535,6 @@
       "duration_ms": 132413,
       "name": "Wilan ( Prendela A Valor )",
       "url": "https://open.spotify.com/track/6M829ypWCFkmOvM4u7X3kw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Era De Cristal",
-        "url": "https://open.spotify.com/album/7B95gPtQhlq8FimvJiluKl"
-      },
-      "artists": [
-        {
-          "name": "J Noa",
-          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
-        }
-      ],
-      "duration_ms": 159048,
-      "name": "Era De Cristal",
-      "url": "https://open.spotify.com/track/5X87e196WTJXTHYOMgggRD"
     },
     {
       "added_at": "2024-02-23 07:01:51",
@@ -615,6 +715,26 @@
       "duration_ms": 134237,
       "name": "Molly",
       "url": "https://open.spotify.com/track/24HzEc30Pzu0ioNlyukZhJ"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Pileta",
+        "url": "https://open.spotify.com/album/1GVZFQT9Cgtg9iQFMvatDU"
+      },
+      "artists": [
+        {
+          "name": "Angeliko On Black",
+          "url": "https://open.spotify.com/artist/7yEPY1NT5028rae7WMmrFR"
+        },
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        }
+      ],
+      "duration_ms": 266919,
+      "name": "Pileta",
+      "url": "https://open.spotify.com/track/3VpWuol3SC0WwOMUYWPegy"
     },
     {
       "added_at": "2024-02-15 16:52:33",
@@ -1037,28 +1157,24 @@
       "url": "https://open.spotify.com/track/2ttPWsLqYc7AqxvZkMqxhw"
     },
     {
-      "added_at": "2023-07-18 04:00:00",
+      "added_at": "2023-09-21 15:12:01",
       "album": {
-        "name": "De Kabra A Tiguere",
-        "url": "https://open.spotify.com/album/2sPIMpTiFft4Hkh81Qkeml"
+        "name": "Sin fotos",
+        "url": "https://open.spotify.com/album/38IImT4rCRWNXUwHRP9s39"
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Polojoa",
+          "url": "https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt"
         },
         {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
-        },
-        {
-          "name": "Kaly Ocho",
-          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+          "name": "Sombra el de lo palo",
+          "url": "https://open.spotify.com/artist/2dq1UXs9bXSEIrfxKvETi2"
         }
       ],
-      "duration_ms": 141734,
-      "name": "De Kabra A Tiguere",
-      "url": "https://open.spotify.com/track/2tYAhcLaNAogPhIUO5ksdT"
+      "duration_ms": 143256,
+      "name": "Sin fotos",
+      "url": "https://open.spotify.com/track/7rAdp3TgcTFEZnG8KgMLSv"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -1131,42 +1247,6 @@
       "duration_ms": 147000,
       "name": "Davirito",
       "url": "https://open.spotify.com/track/5aB65kxjdKGNBTVcZKMNvF"
-    },
-    {
-      "added_at": "2024-01-12 21:24:53",
-      "album": {
-        "name": "Menor",
-        "url": "https://open.spotify.com/album/3EntNNAPD4YQj4MDYPECbq"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 172045,
-      "name": "Menor",
-      "url": "https://open.spotify.com/track/2wn1x4Zr0oLP5IfyWFtmG7"
-    },
-    {
-      "added_at": "2023-09-21 15:12:01",
-      "album": {
-        "name": "Sin fotos",
-        "url": "https://open.spotify.com/album/38IImT4rCRWNXUwHRP9s39"
-      },
-      "artists": [
-        {
-          "name": "Polojoa",
-          "url": "https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt"
-        },
-        {
-          "name": "Sombra el de lo palo",
-          "url": "https://open.spotify.com/artist/2dq1UXs9bXSEIrfxKvETi2"
-        }
-      ],
-      "duration_ms": 143256,
-      "name": "Sin fotos",
-      "url": "https://open.spotify.com/track/7rAdp3TgcTFEZnG8KgMLSv"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -1283,30 +1363,6 @@
     {
       "added_at": "2023-09-29 02:04:59",
       "album": {
-        "name": "Noche De Terror",
-        "url": "https://open.spotify.com/album/5cXjd2dW6cVlKJGPm4RpHl"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "La Gre\u00f1a",
-          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
-        },
-        {
-          "name": "Johan Produciendo",
-          "url": "https://open.spotify.com/artist/1Gg1EMX1uYjTqFUhsNnpId"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "Noche De Terror",
-      "url": "https://open.spotify.com/track/0oGdRVrP3sJZlOIH1alZOG"
-    },
-    {
-      "added_at": "2023-09-29 02:04:59",
-      "album": {
         "name": "D\u00e1\u00f1alo",
         "url": "https://open.spotify.com/album/09ufU7M4BHMoLfsY0zzPjB"
       },
@@ -1353,22 +1409,6 @@
       "url": "https://open.spotify.com/track/4pJWUqNcvHG92YZF73WqPG"
     },
     {
-      "added_at": "2023-09-29 02:04:59",
-      "album": {
-        "name": "Dia Feliz",
-        "url": "https://open.spotify.com/album/6XPPdkSzI1t6xc4aIcuR3C"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Dia Feliz",
-      "url": "https://open.spotify.com/track/2yo0tZjSJrIxI4lNZqHVYh"
-    },
-    {
       "added_at": "2023-08-09 02:57:44",
       "album": {
         "name": "Te Estudiamos",
@@ -1409,22 +1449,6 @@
       "url": "https://open.spotify.com/track/44MR7qM3ze5nhsZWPcaPBd"
     },
     {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "Loco Mio",
-        "url": "https://open.spotify.com/album/6Cvm8XJPef2VaEalHUPE0a"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 184122,
-      "name": "Loco Mio",
-      "url": "https://open.spotify.com/track/3SU4qmYFMI353KqmfDduQo"
-    },
-    {
       "added_at": "2023-08-09 02:57:44",
       "album": {
         "name": "EL REY",
@@ -1455,30 +1479,6 @@
       "duration_ms": 433136,
       "name": "EL REGRESO",
       "url": "https://open.spotify.com/track/284ZJpHBxr8FVxPG9pZ1Is"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "Mucha Nota",
-        "url": "https://open.spotify.com/album/72ApAp8ut9YkQXy1jtkuau"
-      },
-      "artists": [
-        {
-          "name": "Aleica",
-          "url": "https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE"
-        },
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Mucha Nota",
-      "url": "https://open.spotify.com/track/4zFwxrNKotK3UDnVxGVU23"
     }
   ],
   "unique_name": "Flow Dominicano",

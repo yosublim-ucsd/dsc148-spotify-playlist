@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 167502,
+  "2024-03-09": 167510,
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Vampire Weekend",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : The Beaches",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -249,7 +249,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 152813,
       "name": "Beautiful Girl",
       "url": "https://open.spotify.com/track/1Inle1Zm97MzQXParrb0aP"
@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+    },
+    {
+      "album": {
         "name": "Hot Air Balloon EP",
         "url": "https://open.spotify.com/album/6FQhPhyUfZcfqvjeGd4lhC"
       },
@@ -827,7 +845,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 209061,
       "name": "Exits Blocked",
       "url": "https://open.spotify.com/track/6ZjQr2u2refwSwIE1Y2FFQ"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 308613,
       "name": "Faraway",
       "url": "https://open.spotify.com/track/0pgUhVXiLkbnmyRPBrk3A3"
@@ -1083,6 +1101,24 @@
       "duration_ms": 179560,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/53khINup0uLYSDNiU7nKuL"
+    },
+    {
+      "album": {
+        "name": "Happy Customers",
+        "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170340,
+      "name": "Happy Customers",
+      "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
     },
     {
       "album": {
@@ -1735,7 +1771,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 193906,
       "name": "My Golden Years",
       "url": "https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR"
@@ -1793,6 +1829,24 @@
       "duration_ms": 248340,
       "name": "Night Of The Hunter",
       "url": "https://open.spotify.com/track/0ytE5aUxuTyXXrUiQMyHUq"
+    },
+    {
+      "album": {
+        "name": "Kaiser Chiefs' Easy Eighth Album",
+        "url": "https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "Noel Groove",
+      "url": "https://open.spotify.com/track/3N9L15JK1SEhBvCPQfqRo8"
     },
     {
       "album": {
@@ -2897,6 +2951,24 @@
       "duration_ms": 301333,
       "name": "Who Would You Be For Me",
       "url": "https://open.spotify.com/track/10QMwOs8ichrT1LIzDnlXD"
+    },
+    {
+      "album": {
+        "name": "Wild God",
+        "url": "https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319106,
+      "name": "Wild God",
+      "url": "https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq"
     },
     {
       "album": {

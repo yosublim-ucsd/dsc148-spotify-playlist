@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ElMatador, Capo Plaza, Rose Villain, Rhove, Emis Killa e Simba, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,786 likes - 95 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,915 likes - 95 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 94 | [Addosso](https://open.spotify.com/track/3Vvfh3Bx0A8dtK31QPzhI9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/2KfRdmJYAVdbQfAZSj5QUs) | 2:41 |
 | 95 | [Walter White](https://open.spotify.com/track/4C980lj6oDL9afqXL6B7CC) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Walter White](https://open.spotify.com/album/0bjfbfgm2hQte6OBSAwg90) | 2:10 |
 
-Snapshot ID: `MCw4NTZkMjNhN2U2YzliNTNhNDc3ODYzZGRmZmI4MDkxNWZkMGFhODcx`
+Snapshot ID: `MCw1ODg5YTYxZTc0YWJlYWY0MWY0NzNlNjNiYzc1Yjk2ZWIyMDI5Yzlh`

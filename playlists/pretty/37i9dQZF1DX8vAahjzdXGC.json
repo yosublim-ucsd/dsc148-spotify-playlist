@@ -1,15 +1,31 @@
 {
-  "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat.",
-  "num_followers": 169408,
+  "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Ariana Grande",
+  "num_followers": 169494,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjE4MmQwYjk1ODc2N2UwNjdiMjNkZDI3MTkwNDA1YWEyZGE5MDg1",
+  "snapshot_id": "MCw4N2ViMTIyZGQ4MmFmOWFmZjJiNTdlY2RhMGFhY2QzZWYwZjExNDc2",
   "tracks": [
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "The Girl That I Used To Be",
         "url": "https://open.spotify.com/album/4tNsUBJJ9sI3BW24tKS332"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Lesson",
         "url": "https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9"
@@ -41,7 +57,27 @@
       "url": "https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
+    },
+    {
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Alley Rose",
         "url": "https://open.spotify.com/album/0UhDmGYpV3BlEWQXuff5DF"
@@ -57,7 +93,7 @@
       "url": "https://open.spotify.com/track/63PCEHeJ7ZgTLpmzjkuWoy"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
@@ -73,7 +109,7 @@
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Kita Bikin Romantis",
         "url": "https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo"
@@ -89,7 +125,7 @@
       "url": "https://open.spotify.com/track/7geh51STedQfizitdiNPCg"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Bersenja Gurau",
         "url": "https://open.spotify.com/album/4mtL1Qs2EYD05CUW6nx7b6"
@@ -105,7 +141,7 @@
       "url": "https://open.spotify.com/track/5ANZKRT3WuY4DgEnCcfHVa"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Dari planet lain",
         "url": "https://open.spotify.com/album/6hsolRPGQKyTBCRTT30zSn"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/70tp7UndgN0dLcAklTIrPJ"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Baik Dan Burukmu Tuhan Yang Tahu",
         "url": "https://open.spotify.com/album/3pnJ1JefhcYPoIq6alYuhL"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/1695rzxy8HrOhjtvEZ3LjF"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "My House Is Not A Home",
         "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Setiap Waktu",
         "url": "https://open.spotify.com/album/2VSBJPq9DNX2HERo1nBUZW"
@@ -169,7 +205,7 @@
       "url": "https://open.spotify.com/track/7kWkZn0m4EsKbW3IaNX78q"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Lagu Kita Berdua",
         "url": "https://open.spotify.com/album/5yz99ZhNM2GYjGxpZ0YERE"
@@ -185,7 +221,7 @@
       "url": "https://open.spotify.com/track/5a27jRUQvClOm3rHastAsj"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Mencintaimu Karena Allah",
         "url": "https://open.spotify.com/album/232ek4vTBCfQ79yTTNybUp"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/4OIdQ4JRulflF7q1pSbvmd"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "losing a friend",
         "url": "https://open.spotify.com/album/4m9PFXLJbwl88AkZvGyZpL"
@@ -217,7 +253,7 @@
       "url": "https://open.spotify.com/track/0Ha1KORr60UQXXi4dZsLLj"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Shine Out",
         "url": "https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "2 Proud",
         "url": "https://open.spotify.com/album/4JM1PmUrIx30TuZT9C1zs3"
@@ -253,7 +289,7 @@
       "url": "https://open.spotify.com/track/5EhDe41LrlpFrOLMB8kx3X"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
@@ -269,7 +305,7 @@
       "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Tak Cukup Satu Kata",
         "url": "https://open.spotify.com/album/3GhRgCloNnZVVQDWpLQB5f"
@@ -285,7 +321,7 @@
       "url": "https://open.spotify.com/track/3PWN56ZibrUfhmnhTUu7yU"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Falling Slowly",
         "url": "https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s"
@@ -301,7 +337,7 @@
       "url": "https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "When Spring Comes",
         "url": "https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me"
@@ -317,7 +353,7 @@
       "url": "https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Desire to fly",
         "url": "https://open.spotify.com/album/5L4p78XkHQI4q5rE7kt9Yo"
@@ -333,7 +369,7 @@
       "url": "https://open.spotify.com/track/3G81cFKifTjjBeLYUoG5bK"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "satu masa indah original soundtrack (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1DaqFS5CIvlUZeVfSbecBW"
@@ -353,7 +389,7 @@
       "url": "https://open.spotify.com/track/73xC0s4NiKkouDaz1Mw5ON"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Kalimat Cinta (From Viu Original \"Private Bodyguard\")",
         "url": "https://open.spotify.com/album/0ckVPtsAvHRAEe03eZU4Ih"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/5HjUxcQKhTYpR44Lhv68Gw"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "DAYA MATAHARI",
         "url": "https://open.spotify.com/album/1z1GSC8CQdeV0fGGYwgBDi"
@@ -389,7 +425,7 @@
       "url": "https://open.spotify.com/track/6fxBuNpUJOt2xJODn4VvvN"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
         "url": "https://open.spotify.com/album/0kD66lHtMMohY7jcEHvs4X"
@@ -405,7 +441,27 @@
       "url": "https://open.spotify.com/track/3aEHvzMByrqJSgYhtVkxrI"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Walk Like This",
         "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
@@ -421,7 +477,7 @@
       "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "DOING IT AGAIN BABY",
         "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
@@ -437,7 +493,7 @@
       "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
@@ -453,7 +509,7 @@
       "url": "https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Shakes",
         "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
@@ -469,7 +525,7 @@
       "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "THE HEAT",
         "url": "https://open.spotify.com/album/5YOqB25VvOrskAmamHvwPd"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/3Dvw0juzCUC3ul6Uba3RKR"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
@@ -501,7 +557,23 @@
       "url": "https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 164927,
+      "name": "bye",
+      "url": "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl"
+    },
+    {
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Forever Last",
         "url": "https://open.spotify.com/album/4xNCUM9mI8Err4bJ9Dsn9r"
@@ -521,7 +593,7 @@
       "url": "https://open.spotify.com/track/4VqjN6MoZ5MPuVkeQKHs3Y"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/6cAvWnFGqTcXvHAbXBC7bb"
@@ -537,7 +609,7 @@
       "url": "https://open.spotify.com/track/4aza7C6x01a3Oc8vT9zqjb"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Orang Yang Berbeda",
         "url": "https://open.spotify.com/album/6PGta15oMjayPrmpkxxgYT"
@@ -553,7 +625,7 @@
       "url": "https://open.spotify.com/track/4m3hHSnyRuleKr84ogPxKS"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Masih Merindu",
         "url": "https://open.spotify.com/album/7nUMvVFe6JfAAhdAREjyOF"
@@ -569,7 +641,7 @@
       "url": "https://open.spotify.com/track/5Tr0jZBtuZrzAf2m9dpjEX"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Seperih Rasa Ini",
         "url": "https://open.spotify.com/album/5pxRkrgWW6YTNjeutJGtBx"
@@ -585,7 +657,7 @@
       "url": "https://open.spotify.com/track/0bwX5fQ0ssqBgo0I1SqVKT"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Seperti Laut Kepada Langit",
         "url": "https://open.spotify.com/album/7FtUz5SyFn0HgNeUY6VIbb"
@@ -601,7 +673,7 @@
       "url": "https://open.spotify.com/track/5TbRXGcAJ5OHoOFBmWeDjW"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Buka Puasa",
         "url": "https://open.spotify.com/album/3NCvbqIUMJtJU2GDWW4sex"
@@ -617,7 +689,7 @@
       "url": "https://open.spotify.com/track/336wF8hd0cqhvrqPOhWhsF"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Tersenyumlah",
         "url": "https://open.spotify.com/album/32YMVptshIx6IAc0HVyWoN"
@@ -633,7 +705,7 @@
       "url": "https://open.spotify.com/track/3dPIWl8sdS5wvhoFFXUmB6"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Bulan Yang Suci",
         "url": "https://open.spotify.com/album/3f6smVMaR4pLcc0C17LlMD"
@@ -649,7 +721,7 @@
       "url": "https://open.spotify.com/track/7viw2GNycvvgz1OIRt5kYU"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "O Allah",
         "url": "https://open.spotify.com/album/5zrTRzeCHAGG7U4dU0C65L"
@@ -665,7 +737,7 @@
       "url": "https://open.spotify.com/track/4iyjQOCqNjRpBxvT5fRRJ6"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Tak Setampan Nabi Yusuf",
         "url": "https://open.spotify.com/album/1EXZj9bIplZGrfg9qIwooX"
@@ -681,7 +753,23 @@
       "url": "https://open.spotify.com/track/4tLP1NZvajJXBJ74sCYt5K"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
+      "album": {
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/7iFIzslrs0bIh0tSSoamYO"
+      },
+      "artists": [
+        {
+          "name": "Tasha Bouslama",
+          "url": "https://open.spotify.com/artist/1QDSCNOEEgZMBM09n1783e"
+        }
+      ],
+      "duration_ms": 203460,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/4so084KAl7FTLcXgfmqvY3"
+    },
+    {
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Here I Am",
         "url": "https://open.spotify.com/album/0RvLlrpepb4HTw1Huy7icE"
@@ -697,7 +785,7 @@
       "url": "https://open.spotify.com/track/5SMpWjfz8r4X39FB96u7Ps"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Rebahkan Hati",
         "url": "https://open.spotify.com/album/28AqCuEUcesX3ENLHi5GF0"
@@ -713,7 +801,7 @@
       "url": "https://open.spotify.com/track/3dKznmlc2EYBS6h84MTgBv"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Do You Really?",
         "url": "https://open.spotify.com/album/0GEuv87cWOaMKvLgHgBGT2"
@@ -729,7 +817,7 @@
       "url": "https://open.spotify.com/track/3N6B7hTbvhAH5EX0V50ceg"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Ghosting",
         "url": "https://open.spotify.com/album/5oYHhRla5PTUV5ogzuzbMY"
@@ -745,7 +833,7 @@
       "url": "https://open.spotify.com/track/26CgdwlCWhb40UHQjKUEK3"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "PRAFASA",
         "url": "https://open.spotify.com/album/6NSjpz3J1YTKf5kktXFViA"
@@ -765,7 +853,23 @@
       "url": "https://open.spotify.com/track/5j3Wmy5LP0BQLczaKWwQXb"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
+      "album": {
+        "name": "HOUSE OF TRICKY : Trial And Error",
+        "url": "https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "duration_ms": 189441,
+      "name": "We Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4"
+    },
+    {
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Feelin' Hot",
         "url": "https://open.spotify.com/album/4J2AkuxV9xIQ4juffeebSi"
@@ -781,7 +885,7 @@
       "url": "https://open.spotify.com/track/2i2BaHTk8gqxRR1YoxMvpe"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Full Bloom",
         "url": "https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y"
@@ -797,7 +901,7 @@
       "url": "https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Blooming just for you",
         "url": "https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd"
@@ -817,7 +921,23 @@
       "url": "https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
+      "album": {
+        "name": "Upgrade V",
+        "url": "https://open.spotify.com/album/1uukXrk6p4B3oNbgkmUgRk"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "WORK",
+      "url": "https://open.spotify.com/track/0gINJfVy7dCxkSwrJmH0u2"
+    },
+    {
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "God's Eye",
         "url": "https://open.spotify.com/album/5VvowtQo41m62NHjFaD2c7"
@@ -833,7 +953,7 @@
       "url": "https://open.spotify.com/track/6TwaLEeVKsnyjpcPuuOo3U"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Don't Give It Up!",
         "url": "https://open.spotify.com/album/653AcwYvIul0kzuTXNvL15"
@@ -849,7 +969,7 @@
       "url": "https://open.spotify.com/track/1POysye4LiQvmpdYLtl0ji"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Putri Shanghai",
         "url": "https://open.spotify.com/album/1XEzXnnc6uPNV3a7OkXzX5"
@@ -865,7 +985,7 @@
       "url": "https://open.spotify.com/track/3WXVIA4xWlWVHgKQ7BzA1n"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/2Eecm6iYE9FNEOi7FeUiNS"
@@ -881,7 +1001,7 @@
       "url": "https://open.spotify.com/track/32vQDKOMbDdxoRcdikE8hV"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "APOLLO (feat. \u6843\u5b50A1J)",
         "url": "https://open.spotify.com/album/4lJ4z4ne9vY7BcwCrBLZsL"
@@ -901,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7sREJmvhWTOjcYgLTTgSOg"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "\u3086\u3089\u3086\u3089 -\u904b\u547d\u306e\u82b1-",
         "url": "https://open.spotify.com/album/1LbeJNguuG0T6BaQ9f2OGq"
@@ -917,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6wpI5gQoIYWBJs9juUEvJI"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Harus Pulang",
         "url": "https://open.spotify.com/album/2iePjPnqDN7r2bvdXo9FOQ"
@@ -933,7 +1053,7 @@
       "url": "https://open.spotify.com/track/71bpHQc526JVip5yY2rhHI"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "SU GILA KA",
         "url": "https://open.spotify.com/album/4oRlUq7jj7aSucZxbyepgN"
@@ -949,7 +1069,23 @@
       "url": "https://open.spotify.com/track/1EiFLLkmJcuGBEvqc4cTTJ"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
+      "album": {
+        "name": "No Rocka No Party",
+        "url": "https://open.spotify.com/album/5bq2VYIVk5uqDQEjGUq2mY"
+      },
+      "artists": [
+        {
+          "name": "Rocka March",
+          "url": "https://open.spotify.com/artist/1wnVajY8YepMq6zEMAtVxV"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "No Rocka No Party",
+      "url": "https://open.spotify.com/track/62NQ6QrNTsP1bnJVjHapdq"
+    },
+    {
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Bukan Jodoh",
         "url": "https://open.spotify.com/album/2rgsLRovL6WmbicBh8sPsS"
@@ -965,7 +1101,7 @@
       "url": "https://open.spotify.com/track/3FmwLJQLwBfDFG8yLJJWZi"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Biarlah",
         "url": "https://open.spotify.com/album/1WXVqeJJCIak97T82gPV8i"
@@ -981,7 +1117,7 @@
       "url": "https://open.spotify.com/track/1vxl3y9Hk2EKZmiMYIRYG6"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Ya Romadhon",
         "url": "https://open.spotify.com/album/3AmyVHdE03ZDELYQC8fbG8"
@@ -997,7 +1133,7 @@
       "url": "https://open.spotify.com/track/7HYJItKO2CUcNrFYmi09Ct"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Tahajud",
         "url": "https://open.spotify.com/album/2KJYEsUIEJZdwbM0D6k6Oo"
@@ -1013,7 +1149,7 @@
       "url": "https://open.spotify.com/track/30EkRn54ux5loI3OaPxIYS"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "KepadaMu Ya Allah",
         "url": "https://open.spotify.com/album/4EWssRuzsGY0zBxLpYcnFc"
@@ -1029,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5s9elYmKTPDHKn0kgjN5Iq"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Klenik",
         "url": "https://open.spotify.com/album/1WD46M8rPVzxswVNdiGTX9"
@@ -1045,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3G3mf5oIYR8SXjra2YXz0Q"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Gagal Dalam Hidup",
         "url": "https://open.spotify.com/album/5ECuyuiCydLo4rjeVj4EpR"
@@ -1061,7 +1197,7 @@
       "url": "https://open.spotify.com/track/1tQeJOU2hlHN9mxTeQ3P5F"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "S.H.O.T.T.A.",
         "url": "https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P"
@@ -1081,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4tfUSfavhddmL6tmfjRdwc"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "maybe",
         "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
@@ -1097,7 +1233,7 @@
       "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "This Is Nowhere",
         "url": "https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S"
@@ -1113,7 +1249,7 @@
       "url": "https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Wishing Well",
         "url": "https://open.spotify.com/album/1sDJd52CG9r5lYy7D7ir48"
@@ -1129,7 +1265,7 @@
       "url": "https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Happy Customers",
         "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
@@ -1145,7 +1281,7 @@
       "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Fancy (feat. Chow Lee)",
         "url": "https://open.spotify.com/album/4D7voPeO3xQSInmGHv4QWx"
@@ -1165,7 +1301,7 @@
       "url": "https://open.spotify.com/track/4cMsSuziecXIO8Tjr4yD0W"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "ROOM IS ON FIRE (feat. AG Club)",
         "url": "https://open.spotify.com/album/7m5a2dvnmwnce97spFC8Fy"
@@ -1189,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1LgfBZnwX0IDLNrVbMZbzV"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Over Again",
         "url": "https://open.spotify.com/album/54KrsTAKJw6AfomlrMDE6c"
@@ -1205,7 +1341,7 @@
       "url": "https://open.spotify.com/track/54wd5JxagBtas3CQOkj0gG"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Sweet Boy Pt. 2",
         "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
@@ -1221,7 +1357,7 @@
       "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Run Your Mouth",
         "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
@@ -1237,7 +1373,7 @@
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Chamomile",
         "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
@@ -1253,7 +1389,7 @@
       "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Caserio",
         "url": "https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy"
@@ -1273,7 +1409,7 @@
       "url": "https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "HEADSPLIT",
         "url": "https://open.spotify.com/album/460fhxEztqiD7DkxTAETRL"
@@ -1293,7 +1429,7 @@
       "url": "https://open.spotify.com/track/2cSr0CZ3q0kvCH6NKj0Pqr"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Radiosoul",
         "url": "https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE"
@@ -1309,7 +1445,7 @@
       "url": "https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Cold Rain",
         "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
@@ -1325,7 +1461,7 @@
       "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "The Things We Say",
         "url": "https://open.spotify.com/album/6zyHjq1L4I8yvAStyIfXbZ"
@@ -1341,7 +1477,7 @@
       "url": "https://open.spotify.com/track/4XtJalA8M3CVun9WKlKZ9Q"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "lasttimeisawu",
         "url": "https://open.spotify.com/album/5OszeEZZoze5DY1ysDDA52"
@@ -1357,7 +1493,23 @@
       "url": "https://open.spotify.com/track/6vmMqdYNg8lqqlPVwLNfiv"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
+      "album": {
+        "name": "Wego Wego (Killer Peter X Xdinary Heroes) [Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Wego Wego",
+      "url": "https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt"
+    },
+    {
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "It's the 2 N 4 N Tambourine",
         "url": "https://open.spotify.com/album/0Y97hphe2vdQ7bAx1SYzNv"
@@ -1373,7 +1525,7 @@
       "url": "https://open.spotify.com/track/1ZF1gkrdzPVmridQ5qGjMq"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/555uOzuWShkK0slg9OaaaC"
@@ -1389,7 +1541,7 @@
       "url": "https://open.spotify.com/track/2zytHWc2uJXV7hEkJCUGo8"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "It's okay to get clothes wet \u3008Sanullim's 50th anniversary collaboration album\u3009",
         "url": "https://open.spotify.com/album/6VWEljuETyA6NM2Rqyj19N"
@@ -1405,7 +1557,7 @@
       "url": "https://open.spotify.com/track/12wZT5qxYlbo4LawaFJ5su"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "SMYLE AGAIN",
         "url": "https://open.spotify.com/album/5SmUcpJVuEdQu5Gv7gSSsI"
@@ -1421,7 +1573,7 @@
       "url": "https://open.spotify.com/track/3huGq5x6LKmTqXzpcmAN2X"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
@@ -1445,7 +1597,7 @@
       "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Jiggy Woogie",
         "url": "https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G"
@@ -1469,7 +1621,7 @@
       "url": "https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Girl, let's dance",
         "url": "https://open.spotify.com/album/0gGzZsU0Uv5MRw4kOtYJ5M"
@@ -1489,7 +1641,7 @@
       "url": "https://open.spotify.com/track/5nywwZ634HioYXawXsujaZ"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Pages",
         "url": "https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia"
@@ -1505,7 +1657,7 @@
       "url": "https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Bullet Of Dignity (Beyond The Wizards Sleeve Re-Animation)",
         "url": "https://open.spotify.com/album/3bufj5HZiXeS3QoeoS1152"
@@ -1525,7 +1677,7 @@
       "url": "https://open.spotify.com/track/0kX987QiIeEfQUpGpIMRIT"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/5cGbvD6RfHWaou8F6lpTuo"
@@ -1545,7 +1697,7 @@
       "url": "https://open.spotify.com/track/63TU6HeinhcJyEov0Z8ptB"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Care About Me",
         "url": "https://open.spotify.com/album/3OMKHw3QWlhKqEd1aRxH5S"
@@ -1561,10 +1713,10 @@
       "url": "https://open.spotify.com/track/1xTzqBRcbLtLhJSiTjTifH"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
-        "name": "I Just Wanna Have Something to Do (2024 Remaster)",
-        "url": "https://open.spotify.com/album/3eItNlJLLz1L8xq4CzXNb2"
+        "name": "I Just Wanna Have Something To Do / Betcha (2024 Remaster)",
+        "url": "https://open.spotify.com/album/2aFACqpuUVQt2qXQcbASWG"
       },
       "artists": [
         {
@@ -1573,11 +1725,11 @@
         }
       ],
       "duration_ms": 145781,
-      "name": "I Just Wanna Have Something to Do (B-Side) (2024 Remaster)",
-      "url": "https://open.spotify.com/track/2X7y2jvRMievv1LEQKAXtx"
+      "name": "I Just Wanna Have Something To Do - 2024 Remaster",
+      "url": "https://open.spotify.com/track/5bGVtLRW7GQs14UnCu8FdE"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/2kTz24IgJaveP4je8XjYv7"
@@ -1593,7 +1745,7 @@
       "url": "https://open.spotify.com/track/0BeqFdVAkpVJHkFSl4EEf7"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Fun",
         "url": "https://open.spotify.com/album/33F0zijnzQZx3766FCWNeK"
@@ -1609,7 +1761,7 @@
       "url": "https://open.spotify.com/track/7tP28GumWYkqSrUH8dBquX"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/0G4cgwbt1mLgThWFPOTZ7v"
@@ -1625,7 +1777,7 @@
       "url": "https://open.spotify.com/track/6WXjSSZztubZ65hoMqhhyA"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/20seSdfLCB1f4OeI7xWYve"
@@ -1641,7 +1793,7 @@
       "url": "https://open.spotify.com/track/4KX40h6wiFJO8akB69e6ww"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "Skin2Skin",
         "url": "https://open.spotify.com/album/3dg7iCJ10cACUNnMyg3Dow"
@@ -1657,7 +1809,7 @@
       "url": "https://open.spotify.com/track/5eJgJBijctTUGinFJXgVDF"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "I'm Wrong",
         "url": "https://open.spotify.com/album/3tskRYWqYopzTKOES7QlR4"
@@ -1673,7 +1825,7 @@
       "url": "https://open.spotify.com/track/7pebHWXKUwybJKWD8LcavU"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "His Way",
         "url": "https://open.spotify.com/album/3DXndWkLpoRlEhZEYDlqC8"
@@ -1689,7 +1841,7 @@
       "url": "https://open.spotify.com/track/4WWeTzsyYWKlMMyHJtKlya"
     },
     {
-      "added_at": "2024-03-07 17:00:00",
+      "added_at": "2024-03-08 07:46:13",
       "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/5WFuSzNnwnmHB0ar7tJLIG"

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,576 songs - 4 day 12 hr 25 min
+1,577 songs - 4 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1099,6 +1099,7 @@
 | [Points Beyond](https://open.spotify.com/track/4flMFYGf017exurWgh8scp) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 5:26 | 2021-01-23 | 2022-04-21 |
 | [Polynesia](https://open.spotify.com/track/3MkIlbOnu8UCMt26nOQ31P) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:22 | 2020-03-17 | 2022-04-21 |
 | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/track/3aVpX48H8kYiAzeOrFql6N) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/album/4BvRQ4EI84ZyvNPLIpZKnF) | 3:18 | 2020-05-18 | 2021-03-10 |
+| [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 |  |
 | [Positive Vibe](https://open.spotify.com/track/1iPnHP67gobIfXyk6kjYrC) | [SAINT WKND](https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6) | [Big Beat Ignition Miami 2015](https://open.spotify.com/album/2MfAVFInryk5YQcaaJov8c) | 3:02 | 2020-05-18 | 2020-07-03 |
 | [POV \(with NEVRMIND\)](https://open.spotify.com/track/63fzBjCtxxS0peGMkyTfVP) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [POV \(with NEVRMIND\)](https://open.spotify.com/album/3cHmRL9soTP6s1XFJNkUyo) | 2:34 | 2022-02-04 | 2022-02-09 |
 | [Pray for Us](https://open.spotify.com/track/49X931MF0VVnHFkhVU3M5r) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:46 | 2020-04-03 | 2020-10-09 |
@@ -1525,7 +1526,7 @@
 | [Whispering Still \(feat\. Charity Children\) \- Little Rose Remix](https://open.spotify.com/track/3D3Tkk0d9UmECpH5Fprmuv) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Charity Children](https://open.spotify.com/artist/0i5oKqsPL21cwL7acxZfNI), [Little Rose](https://open.spotify.com/artist/2yDY3r3GJAxtK5xhndIhVI) | [Whispering Still \(Little Rose Remix\)](https://open.spotify.com/album/60uPPIcHMk4CIhs4hgOQXJ) | 3:14 | 2020-05-18 | 2020-07-03 |
 | [Who You Are](https://open.spotify.com/track/2ZK2PfpK0iri6UduhsblBM) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Who You Are](https://open.spotify.com/album/3zO2PYueI0npVFlxEyl9R0) | 4:22 | 2023-09-15 |  |
 | [Whole Heart](https://open.spotify.com/track/4Z1t1aMRif8ES212kTN8H2) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Whole Heart](https://open.spotify.com/album/5LKilxrPSOHakkR3V56YYZ) | 3:45 | 2020-05-18 | 2020-07-03 |
-| [Wholehearted](https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Wholehearted EP](https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr) | 3:26 | 2023-05-26 |  |
+| [Wholehearted](https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Wholehearted EP](https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr) | 3:26 | 2023-05-26 | 2024-03-09 |
 | [Why](https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt) | [Bobby Love](https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3), [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Why](https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy) | 3:23 | 2021-08-13 | 2023-09-09 |
 | [Why Do We Shake In The Cold? \- Edit](https://open.spotify.com/track/64Eji6WqA3iHTwAa9DzZll) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/2c3KlBXKcaebkmPkR4sZSg) | 4:04 | 2020-08-20 | 2021-01-11 |
 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 | 2023-06-23 |  |

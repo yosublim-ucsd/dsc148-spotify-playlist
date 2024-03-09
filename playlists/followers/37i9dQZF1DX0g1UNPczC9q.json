@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 9974,
+  "2024-03-09": 9976,
   "date_first_scraped": "2022-05-11",
   "description": "Everyone's welcome. Cover: Zolita",
   "name": "Queer Prom",
@@ -1417,7 +1417,7 @@
     {
       "album": {
         "name": "Haus Party, Pt. 1",
-        "url": "https://open.spotify.com/album/7HuGa9781G05ax5o354dpo"
+        "url": "https://open.spotify.com/album/1Gx8BjmZq4270ry6i4X6RB"
       },
       "artists": [
         {
@@ -1428,6 +1428,24 @@
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236190,
+      "name": "Nails, Hair, Hips, Heels",
+      "url": "https://open.spotify.com/track/0tJlqVYEo0r1CGw4gY6s53"
+    },
+    {
+      "album": {
+        "name": "Haus Party, Pt. 1",
+        "url": "https://open.spotify.com/album/7HuGa9781G05ax5o354dpo"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-08",
       "duration_ms": 236190,
       "name": "Nails, Hair, Hips, Heels",
       "url": "https://open.spotify.com/track/3gWIY6WqA34ZRy8QVjTq5v"

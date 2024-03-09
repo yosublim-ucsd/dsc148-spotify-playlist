@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 314233,
+  "2024-03-09": 314330,
   "date_first_scraped": "2022-05-26",
   "description": "Beach vibes and summer jams only.",
   "name": "Sunny Beats",
@@ -10309,6 +10309,24 @@
       "duration_ms": 150000,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/6qeMnGssbQmFZQ4NA9NPT2"
+    },
+    {
+      "album": {
+        "name": "Wonders",
+        "url": "https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW"
+      },
+      "artists": [
+        {
+          "name": "Moon Spirit",
+          "url": "https://open.spotify.com/artist/62zKB6KmehKNRoyd8YgNwE"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163668,
+      "name": "Wonders",
+      "url": "https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe"
     },
     {
       "album": {

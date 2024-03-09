@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 100493,
+  "2024-03-09": 100500,
   "date_first_scraped": "2022-10-24",
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
   "name": "Acoustic Melodies Tokyo",
@@ -221,7 +221,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 206932,
       "name": "A Wild Sheep Chase",
       "url": "https://open.spotify.com/track/0Jw3pnGE7T1tBp1ywFVgjG"
@@ -535,6 +535,24 @@
       "duration_ms": 168813,
       "name": "Ashley",
       "url": "https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL"
+    },
+    {
+      "album": {
+        "name": "Asshole (Unplugged Mix)",
+        "url": "https://open.spotify.com/album/0bUhsgRLVMVCD2O0EvBv55"
+      },
+      "artists": [
+        {
+          "name": "NOT WONK",
+          "url": "https://open.spotify.com/artist/12f2uQ7TswXKZRFvJuELAb"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377927,
+      "name": "Asshole - Unplugged Mix",
+      "url": "https://open.spotify.com/track/0lQjyUIG1gJXqsqtUPLVq5"
     },
     {
       "album": {
@@ -939,6 +957,24 @@
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
+    },
+    {
+      "album": {
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232725,
+      "name": "Cape Forestier",
+      "url": "https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om"
     },
     {
       "album": {
@@ -2460,6 +2496,28 @@
     },
     {
       "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/1nld0N5LlEdEK3LXl8kflm"
+      },
+      "artists": [
+        {
+          "name": "SeN",
+          "url": "https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1"
+        },
+        {
+          "name": "Ryan Bean",
+          "url": "https://open.spotify.com/artist/3tzRWfsVpfVoiNjK80yI5q"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202050,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/6l1xPzvHui1ZLGYXQCdmDQ"
+    },
+    {
+      "album": {
         "name": "Please Clap Your Hands",
         "url": "https://open.spotify.com/album/4yt5JKsDA1F6XIKt0vrNpd"
       },
@@ -3232,7 +3290,7 @@
       "artists": [
         {
           "name": "Haiden Henderson",
-          "url": "https://open.spotify.com/artist/1W38DrqpOogOL8IcILB9bX"
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
         }
       ],
       "date_added": "2023-11-30",
@@ -5484,6 +5542,24 @@
     },
     {
       "album": {
+        "name": "Taiyo Hoko",
+        "url": "https://open.spotify.com/album/3kjFKAwm3qgsWIo7bHW0i5"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Sunburst",
+      "url": "https://open.spotify.com/track/2Q6e41a7VwdGrbIPQNVPmZ"
+    },
+    {
+      "album": {
         "name": "SUNKISSed GIRL -Acoustic Vacation-",
         "url": "https://open.spotify.com/album/317yed4q2E9b6xJG8mdyyA"
       },
@@ -6085,7 +6161,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 170216,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
@@ -6641,7 +6717,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 240132,
       "name": "Window",
       "url": "https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o"
@@ -6865,7 +6941,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 207115,
       "name": "\u304d\u307f\u3068\u3044\u3063\u3057\u3087",
       "url": "https://open.spotify.com/track/5fEF7RXefUrSj6cHI2RFMX"
@@ -7455,7 +7531,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 313893,
       "name": "\u967d\u3060\u307e\u308a",
       "url": "https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh"
@@ -7473,7 +7549,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 232600,
       "name": "\u967d\u5149",
       "url": "https://open.spotify.com/track/6eEsR6m3UuZ4XgcXljFGU4"

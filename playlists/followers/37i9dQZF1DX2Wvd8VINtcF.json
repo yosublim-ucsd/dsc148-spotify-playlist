@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 131479,
+  "2024-03-09": 131742,
   "date_first_scraped": "2022-11-02",
-  "description": "the pearls of an oyster. Cover: Good Neighbours",
+  "description": "the pearls of an oyster. Cover: Djo",
   "name": "Oyster",
   "tracks": [
     {
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 185346,
       "name": "alone",
       "url": "https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 177254,
       "name": "Alone At Last",
       "url": "https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE"
@@ -2087,6 +2087,24 @@
       "duration_ms": 177786,
       "name": "Benjam\u00edn Carri\u00f3n",
       "url": "https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp"
+    },
+    {
+      "album": {
+        "name": "THE FOUR FACES",
+        "url": "https://open.spotify.com/album/67knkHLPNw6hhG2PMeiZJg"
+      },
+      "artists": [
+        {
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223822,
+      "name": "BERNADETTE",
+      "url": "https://open.spotify.com/track/6V0k8v51ydAZO1TuqcWdCg"
     },
     {
       "album": {
@@ -3761,7 +3779,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 287447,
       "name": "CHROMA 001 HELIUM",
       "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
@@ -4015,6 +4033,24 @@
       "duration_ms": 232000,
       "name": "COINS",
       "url": "https://open.spotify.com/track/31hpVui5KjTADblRVdQivQ"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6RtfmpvVAzcFO5b5bSXEvT"
+      },
+      "artists": [
+        {
+          "name": "Mopiano",
+          "url": "https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5yX4QzBRbOTdjsw4SjYmiF"
     },
     {
       "album": {
@@ -5142,6 +5178,24 @@
     },
     {
       "album": {
+        "name": "DOING IT AGAIN BABY",
+        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
+    },
+    {
+      "album": {
         "name": "Dominoes",
         "url": "https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp"
       },
@@ -5633,7 +5687,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 160421,
       "name": "DUST",
       "url": "https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith"
@@ -6751,7 +6805,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 237852,
       "name": "Feelings (feat. J Hus)",
       "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
@@ -10392,6 +10446,24 @@
     },
     {
       "album": {
+        "name": "Bleachers",
+        "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189919,
+      "name": "Jesus Is Dead",
+      "url": "https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp"
+    },
+    {
+      "album": {
         "name": "Jigglypuff",
         "url": "https://open.spotify.com/album/3rGfbxXyerFW08qbO6Ihay"
       },
@@ -11021,6 +11093,24 @@
       "duration_ms": 170612,
       "name": "know a thing",
       "url": "https://open.spotify.com/track/58Of8zLsfL0sHnZCzUFe1M"
+    },
+    {
+      "album": {
+        "name": "Know Nothing",
+        "url": "https://open.spotify.com/album/0LKI6YjvjvuZADyW4uz9bP"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180466,
+      "name": "Know Nothing",
+      "url": "https://open.spotify.com/track/04h7ReoZ0gxfgGUMM68Lzy"
     },
     {
       "album": {
@@ -12428,6 +12518,28 @@
     },
     {
       "album": {
+        "name": "Marmalade (For Your Love)",
+        "url": "https://open.spotify.com/album/0QDCX3eUtEVLdE22Amxgr7"
+      },
+      "artists": [
+        {
+          "name": "Flourish",
+          "url": "https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Marmalade (For Your Love)",
+      "url": "https://open.spotify.com/track/2tj3wwnme66mqL46NtEXW0"
+    },
+    {
+      "album": {
         "name": "Mary Cookins",
         "url": "https://open.spotify.com/album/1zFUtQ4gxN5wkrrJKQmB4r"
       },
@@ -13200,6 +13312,24 @@
     },
     {
       "album": {
+        "name": "My House Is Not A Home",
+        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239181,
+      "name": "My House Is Not A Home",
+      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -13211,7 +13341,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -13430,6 +13560,24 @@
     },
     {
       "album": {
+        "name": "New Age Crisis",
+        "url": "https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158239,
+      "name": "New Age Crisis",
+      "url": "https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO"
+    },
+    {
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -13507,7 +13655,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 124667,
       "name": "New Shoes",
       "url": "https://open.spotify.com/track/6s02C7oN8eAbhDnHQ00zE2"
@@ -14950,6 +15098,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178363,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG"
+    },
+    {
+      "album": {
         "name": "Dirt Femme",
         "url": "https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF"
       },
@@ -15133,7 +15299,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 230400,
       "name": "Pose1don",
       "url": "https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx"
@@ -15945,6 +16111,32 @@
       "duration_ms": 269760,
       "name": "Robin",
       "url": "https://open.spotify.com/track/7e2mC2KBL71WFrYPjImfdg"
+    },
+    {
+      "album": {
+        "name": "ROOM IS ON FIRE (feat. AG Club)",
+        "url": "https://open.spotify.com/album/7m5a2dvnmwnce97spFC8Fy"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189728,
+      "name": "ROOM IS ON FIRE (feat. AG Club)",
+      "url": "https://open.spotify.com/track/1LgfBZnwX0IDLNrVbMZbzV"
     },
     {
       "album": {
@@ -17843,7 +18035,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 216841,
       "name": "Starving (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
@@ -18767,6 +18959,24 @@
       "duration_ms": 301664,
       "name": "Take My Soul",
       "url": "https://open.spotify.com/track/2Qe6S4Xy5rS2Vidoaxp6b0"
+    },
+    {
+      "album": {
+        "name": "Strange Motions",
+        "url": "https://open.spotify.com/album/7KtRO9Htcv5RWIYYDcxlNm"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176934,
+      "name": "Taking Care of You",
+      "url": "https://open.spotify.com/track/0cbysxAOyCbv6g5tOMXC0m"
     },
     {
       "album": {
@@ -19791,7 +20001,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 340750,
       "name": "Time",
       "url": "https://open.spotify.com/track/5JUvmSedBunsVi66CPnEBK"
@@ -19901,7 +20111,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
@@ -20577,7 +20787,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 144145,
       "name": "unyoung",
       "url": "https://open.spotify.com/track/79IEcrP6tKnamPhqc0rR2o"
@@ -22221,6 +22431,28 @@
       "duration_ms": 224946,
       "name": "Yuteman Denis (feat. Charlotte Cardin & Zibz)",
       "url": "https://open.spotify.com/track/6d76elW1vls3rILMOWy2Ck"
+    },
+    {
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"
     },
     {
       "album": {

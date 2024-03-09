@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=3qqDM921SPKxfSoe\_xxi2g">Naffymar</a>
 
-189 songs - 11 hr 41 min
+190 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Tale of Two Hearts](https://open.spotify.com/track/7yoW4dkqd6414fRVeCY9bN) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [A Tale of Two Hearts](https://open.spotify.com/album/2Ph6zLDm9E6PTsKWjMS9Kn) | 2:27 | 2023-11-24 | 2024-01-26 |
 | [Able](https://open.spotify.com/track/6ke0delRcd6LPpRb1yxY3G) | [JhonforChrist](https://open.spotify.com/artist/3nuMqFQqdHeM5cldILRXDR), [HartlhaD](https://open.spotify.com/artist/6Yk7U5v34wKHuGQFdT0aAy) | [Able](https://open.spotify.com/album/1fDflEHY7Tc8MSJClipYmQ) | 2:45 | 2023-12-08 | 2024-02-17 |
 | [Accepted](https://open.spotify.com/track/4EJpqoRuDTU7m2gweSlKl2) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Verses, Vol\. 1](https://open.spotify.com/album/0lVg5lgO6lof4QoqzZ8jRk) | 4:53 | 2023-11-03 | 2024-01-26 |
+| [Adore You](https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Adore You](https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK) | 2:46 | 2024-03-08 |  |
 | [After All These Years](https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [after all these years](https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs) | 4:28 | 2024-01-05 |  |
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-10-20 | 2024-01-26 |
 | [All I Need](https://open.spotify.com/track/3POO6wDiNOISVDiPFsiY0l) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [All I Need](https://open.spotify.com/album/5nUlpUbBsbb2mhc71xLMWL) | 2:58 | 2023-10-20 | 2024-01-12 |

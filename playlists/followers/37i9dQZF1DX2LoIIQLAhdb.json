@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 174166,
+  "2024-03-09": 174231,
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Nej",
   "name": "R&Bae",
   "tracks": [
     {
@@ -491,7 +491,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 211180,
       "name": "Bolingo",
       "url": "https://open.spotify.com/track/0P6QbrmnUbxbriPFNcBzWe"
@@ -825,6 +825,24 @@
     {
       "album": {
         "name": "Hokage",
+        "url": "https://open.spotify.com/album/6HKAdvdWNEkOFpdGF1fd4G"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152813,
+      "name": "Coco & Chanel",
+      "url": "https://open.spotify.com/track/26l1inkOJ8gWYuxu6bQemd"
+    },
+    {
+      "album": {
+        "name": "Hokage",
         "url": "https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet"
       },
       "artists": [
@@ -835,7 +853,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 152813,
       "name": "Coco & Chanel",
       "url": "https://open.spotify.com/track/3UfSihvkEvTWNH7sFCKB3Q"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 177311,
       "name": "GHOST & TOMMY",
       "url": "https://open.spotify.com/track/7FWIpbdui2fXi54J0GJ6o6"
@@ -1935,6 +1953,24 @@
       "duration_ms": 147302,
       "name": "J'ai cru en toi",
       "url": "https://open.spotify.com/track/4p0dYYUDf1pcG8gaK9YvWK"
+    },
+    {
+      "album": {
+        "name": "J'ai mal",
+        "url": "https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128347,
+      "name": "J'ai mal",
+      "url": "https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo"
     },
     {
       "album": {
@@ -2547,7 +2583,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 202106,
       "name": "London Fever",
       "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
@@ -3997,7 +4033,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 181224,
       "name": "Quelqu'un d'autre",
       "url": "https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h"
@@ -4206,6 +4242,28 @@
     },
     {
       "album": {
+        "name": "Selfie",
+        "url": "https://open.spotify.com/album/1B1RaBEv5jO1rK0yPWkhUr"
+      },
+      "artists": [
+        {
+          "name": "Oussama",
+          "url": "https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml"
+        },
+        {
+          "name": "Kaza",
+          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168986,
+      "name": "Selfie",
+      "url": "https://open.spotify.com/track/1vb6yFE9Rh2nUBzpZEPUPx"
+    },
+    {
+      "album": {
         "name": "Sentiments",
         "url": "https://open.spotify.com/album/5TR28HTV1YVgMZqO0S89oH"
       },
@@ -4395,6 +4453,24 @@
       "duration_ms": 179093,
       "name": "Solo (feat. Tayc)",
       "url": "https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/52xFZbg2Fsvn1s6AjpJIjb"
+      },
+      "artists": [
+        {
+          "name": "Leila AD",
+          "url": "https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/51rmQPxpkfDxyhz44KtCvY"
     },
     {
       "album": {
@@ -5023,6 +5099,28 @@
       "duration_ms": 157000,
       "name": "Yabibi (feat. Nej)",
       "url": "https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk"
+    },
+    {
+      "album": {
+        "name": "Yoga",
+        "url": "https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181045,
+      "name": "Yoga",
+      "url": "https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ"
     },
     {
       "album": {

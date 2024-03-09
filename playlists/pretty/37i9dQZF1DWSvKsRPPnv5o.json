@@ -1,12 +1,12 @@
 {
-  "description": "Holdin' it down for the westside. Cover: Schoolboy Q",
-  "num_followers": 725298,
+  "description": "Holdin' it down for the westside. Cover: Saweetie",
+  "num_followers": 725325,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDk3ZGM5MjlkNWU3OThlNTQ2NTNmNzM0NGNjMjU3MDQ3MTZhMTc0",
+  "snapshot_id": "MCwzNTU1NGRlNGUyODkxODkyN2UzMmNhYzVlOTZkYzljNGJjMjYzOTQw",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 104212,
       "name": "Streets Don't Love You",
       "url": "https://open.spotify.com/track/1kV59Fg5fPiuWGYxFurasX"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Ain't No Fun",
+        "url": "https://open.spotify.com/album/5k3zHgPT6MOqm8KhHYYtR5"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 191168,
+      "name": "Ain't No Fun",
+      "url": "https://open.spotify.com/track/3JxlN7uRL8thZ5kKBCJe12"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -49,36 +65,76 @@
       "url": "https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
+      "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+        "name": "CHIZZLE",
+        "url": "https://open.spotify.com/album/4aSqc8dCaaWQho72mHd7ZB"
       },
       "artists": [
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
         }
       ],
-      "duration_ms": 177260,
-      "name": "THank god 4 me",
-      "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
+      "duration_ms": 158381,
+      "name": "Loc Dawg",
+      "url": "https://open.spotify.com/track/2ju2aQCew5BnBIXADpL2ny"
     },
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Ain't No Fun",
-        "url": "https://open.spotify.com/album/5k3zHgPT6MOqm8KhHYYtR5"
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
       },
       "artists": [
         {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 191168,
-      "name": "Ain't No Fun",
-      "url": "https://open.spotify.com/track/3JxlN7uRL8thZ5kKBCJe12"
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "The Bitch Tape",
+        "url": "https://open.spotify.com/album/4Qw9EzjCe2qK1VIYOfAXix"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "High Value (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/7GrSsLy5jgpgkhABBQ1VoB"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "nights and weekends",
+        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 116363,
+      "name": "like bow",
+      "url": "https://open.spotify.com/track/49jpdovhmgQGrBUjQqLwLy"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -107,54 +163,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "nights and weekends",
-        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
       "artists": [
         {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         }
       ],
-      "duration_ms": 116363,
-      "name": "like bow",
-      "url": "https://open.spotify.com/track/49jpdovhmgQGrBUjQqLwLy"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "The Bitch Tape",
-        "url": "https://open.spotify.com/album/4Qw9EzjCe2qK1VIYOfAXix"
-      },
-      "artists": [
-        {
-          "name": "RJMrLA",
-          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "High Value (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/7GrSsLy5jgpgkhABBQ1VoB"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Richtivities",
-        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 176401,
-      "name": "Richtivities",
-      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+      "duration_ms": 177260,
+      "name": "THank god 4 me",
+      "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -307,6 +327,22 @@
       "duration_ms": 219888,
       "name": "Only Problem (feat. 03 Greedo)",
       "url": "https://open.spotify.com/track/6EVKc55QmVwABXU7cnH7DL"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "CHIZZLE",
+        "url": "https://open.spotify.com/album/4aSqc8dCaaWQho72mHd7ZB"
+      },
+      "artists": [
+        {
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "duration_ms": 144048,
+      "name": "RIP SUEDE",
+      "url": "https://open.spotify.com/track/0oIJgGKQYukfFx6I72NuGS"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -613,6 +649,22 @@
       "url": "https://open.spotify.com/track/0DI2azijIBAPh0IAxJHRhA"
     },
     {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 235317,
+      "name": "Blueslides",
+      "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Like This",
@@ -651,26 +703,6 @@
       "duration_ms": 234093,
       "name": "THE MAIN EVENT (feat. Johnathan Hulett)",
       "url": "https://open.spotify.com/track/4iZIJ8Dcmi8yZ4uTB63ubu"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Paisley Dreams",
-        "url": "https://open.spotify.com/album/5U8WARPHV0d1VlCBVD50zS"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Big Hit",
-          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Paisley Dreams",
-      "url": "https://open.spotify.com/track/49duYdF4SdqvooOhKHUP3t"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -719,26 +751,6 @@
       "duration_ms": 202886,
       "name": "AIN\u2019T NOTHIN",
       "url": "https://open.spotify.com/track/3yW269q7pnxzzDBVprmnFm"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Devin Malik",
-          "url": "https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16"
-        }
-      ],
-      "duration_ms": 230612,
-      "name": "Back n Love (feat. Devin Malik)",
-      "url": "https://open.spotify.com/track/7sIShdqb3UI8EdoIZdgT9t"
     },
     {
       "added_at": "2024-03-01 05:00:00",

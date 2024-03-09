@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 
 > Gospel songs you grew up listening to
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,911 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,918 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 | 6 | [Wi Mutheru](https://open.spotify.com/track/1UuvPYJiBhmetf6bDNbrjp) | [Allan Aaron](https://open.spotify.com/artist/0nSuDJsOn4TUnfpdMr7Cy1) | [Kiriro](https://open.spotify.com/album/3pkH4KXYmnBhPTH2GVSHdM) | 3:37 |
 | 7 | [Upendo ule ule](https://open.spotify.com/track/4UEurg9H8B8YAEe0s2Aqyk) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Upendo ule ule](https://open.spotify.com/album/2MQWHIGbIEprbOn6dWc7io) | 4:40 |
 | 8 | [I Live 4 You](https://open.spotify.com/track/1jEKwZQgk3kiYYvoc1DjPa) | [B.M.F](https://open.spotify.com/artist/5fcYbRXsvcttIAp3IsK0xz) | [I Live for You](https://open.spotify.com/album/06H4QNl3pEBGYByeHgNZMn) | 4:16 |
-| 9 | [Nimetambua](https://open.spotify.com/track/7hR05pRuUDFrlMeGHfDj8a) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Nimetambua](https://open.spotify.com/album/4AO0LPRxJc2HOIBSD3goak) | 4:24 |
-| 10 | [Uwezo](https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:41 |
-| 11 | [Jubilee](https://open.spotify.com/track/6nVfamxg4RxHCxpj7Vkn7t) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 5:46 |
+| 9 | [Jubilee](https://open.spotify.com/track/6nVfamxg4RxHCxpj7Vkn7t) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 5:46 |
+| 10 | [Nimetambua](https://open.spotify.com/track/7hR05pRuUDFrlMeGHfDj8a) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Nimetambua](https://open.spotify.com/album/4AO0LPRxJc2HOIBSD3goak) | 4:24 |
+| 11 | [Uwezo](https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:41 |
 | 12 | [Nifundishe Kunyamaza](https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Naiona Kesho](https://open.spotify.com/album/4On0HtZu8oqfzXWki3Vz6f) | 9:14 |
 | 13 | [Taunet Nelel](https://open.spotify.com/track/4v9KNIuUReOJpix2zIPKMh) | [Emmy Kosgei](https://open.spotify.com/artist/22IUTWiY0oxVdFX4vOEYLu) | [Taunet Nelel](https://open.spotify.com/album/7uwR6IIekSRq37cBIs3cmd) | 3:50 |
 | 14 | [Hurutira](https://open.spotify.com/track/3E4FGMYEelW9vYjkDqUHIv) | [Njuguna Gicheha](https://open.spotify.com/artist/2KGk1iowAiU7Kvz5tVNaQI) | [Hurutira](https://open.spotify.com/album/69wyEyTLd1xEMowFNjtLQr) | 5:32 |
@@ -49,24 +49,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 | 39 | [Live for You](https://open.spotify.com/track/3eZSGkwdp9WYBONEGLJ6D6) | [Be My Faithful](https://open.spotify.com/artist/21AUrzmdN94o9uqCwtJwPM) | [Rise Up](https://open.spotify.com/album/5jHqqlUnn3ICK2PwLSpK9m) | 4:40 |
 | 40 | [Wedding Day](https://open.spotify.com/track/0hYCHbDao6GtwDptlQtIFs) | [M O G](https://open.spotify.com/artist/7jmlYHg2tjQ7SweaSFwvl5) | [Go Let Him Go](https://open.spotify.com/album/5P1iuvCDjoU5444LHpL8p0) | 3:40 |
 | 41 | [Mwanake \(feat\. Kaberere\)](https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2) | [Benachi](https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD), [kaberere](https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7) | [Tulia](https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE) | 3:36 |
-| 42 | [Hakuna Mungu Kama Wewe](https://open.spotify.com/track/5yyppfdMo1ZgqGQl2TJgqD) | [Modest Morgan](https://open.spotify.com/artist/4p7E79nLrfSpfKVmQ9epMY), [Kwaya Ya Uinjilisti Kijitonyama Lutheran Church](https://open.spotify.com/artist/4xb98cmD26emD0ioAcKu6b) | [Hakuna Mungu Kama Wewe](https://open.spotify.com/album/4QlfsFfNlzAzIvwy4C29Jl) | 6:30 |
-| 43 | [Ololo](https://open.spotify.com/track/68IWfB9qXK1C8wouC40QHj) | [Emmy Kosgei](https://open.spotify.com/artist/22IUTWiY0oxVdFX4vOEYLu) | [Ololo](https://open.spotify.com/album/3Pe2cSUz5CXCMrrqX9EanW) | 5:15 |
-| 44 | [Warn Dem](https://open.spotify.com/track/0ViubZElJne6RaJ2yHuEK9) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Warn Dem](https://open.spotify.com/album/7Kilv3o3bHSORCSJiMGOdR) | 5:48 |
-| 45 | [Fundi wa Mbao](https://open.spotify.com/track/5xCZoxUD5VsbPNk8U49Hhb) | [Gospel Father](https://open.spotify.com/artist/3j22QDCZFdgZ5GUwSsw4qQ) | [Fundi wa Mbao](https://open.spotify.com/album/3mXPyLFYtPBlEtyxuORB8D) | 4:57 |
-| 46 | [Wa Kuabudiwa](https://open.spotify.com/track/2BU6fCzuuRNjMxdDdad0Ri) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 10:11 |
-| 47 | [Papa God Oh](https://open.spotify.com/track/1DUVjIe0fW24fiGKmKo8tD) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw) | [Papa God Oh](https://open.spotify.com/album/3MXg2ZSKDqXgSlPy1b6mQ7) | 3:30 |
+| 42 | [Ololo](https://open.spotify.com/track/68IWfB9qXK1C8wouC40QHj) | [Emmy Kosgei](https://open.spotify.com/artist/22IUTWiY0oxVdFX4vOEYLu) | [Ololo](https://open.spotify.com/album/3Pe2cSUz5CXCMrrqX9EanW) | 5:15 |
+| 43 | [Warn Dem](https://open.spotify.com/track/0ViubZElJne6RaJ2yHuEK9) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Warn Dem](https://open.spotify.com/album/7Kilv3o3bHSORCSJiMGOdR) | 5:48 |
+| 44 | [Wa Kuabudiwa](https://open.spotify.com/track/2BU6fCzuuRNjMxdDdad0Ri) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 10:11 |
+| 45 | [Papa God Oh](https://open.spotify.com/track/1DUVjIe0fW24fiGKmKo8tD) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw) | [Papa God Oh](https://open.spotify.com/album/3MXg2ZSKDqXgSlPy1b6mQ7) | 3:30 |
+| 46 | [Hakuna Mungu Kama Wewe](https://open.spotify.com/track/5yyppfdMo1ZgqGQl2TJgqD) | [Modest Morgan](https://open.spotify.com/artist/4p7E79nLrfSpfKVmQ9epMY), [Kwaya Ya Uinjilisti Kijitonyama Lutheran Church](https://open.spotify.com/artist/4xb98cmD26emD0ioAcKu6b) | [Hakuna Mungu Kama Wewe](https://open.spotify.com/album/4QlfsFfNlzAzIvwy4C29Jl) | 6:30 |
+| 47 | [Fundi wa Mbao](https://open.spotify.com/track/5xCZoxUD5VsbPNk8U49Hhb) | [Gospel Father](https://open.spotify.com/artist/3j22QDCZFdgZ5GUwSsw4qQ) | [Fundi wa Mbao](https://open.spotify.com/album/3mXPyLFYtPBlEtyxuORB8D) | 4:57 |
 | 48 | [Pamela](https://open.spotify.com/track/4TxZaA2F3EDLu6hU5KPQrB) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB) | [Nimebadilika](https://open.spotify.com/album/11EwFFHpylUgbtmGU54ibt) | 4:11 |
 | 49 | [Hafungi Macho](https://open.spotify.com/track/6oNIEp0Y8VpKoDbInOz6hP) | [Willy](https://open.spotify.com/artist/6CQWAijGt7Jrsq989jrIiU), [Daddy Owen, Danco](https://open.spotify.com/artist/7jy14TpPZamZmOXgFJVsl0) | [Moto Bila Moshi](https://open.spotify.com/album/19hhff1rO2V4hozszJ6e1n) | 4:38 |
 | 50 | [Wi Muthaka](https://open.spotify.com/track/5JjXWfkTAijBjoUJQ7Lwkv) | [Ruth Wamuyu](https://open.spotify.com/artist/79ArlctP6JAe3ek0O30jjz) | [Shammah](https://open.spotify.com/album/5PAvEq9EvsFaecJ1xydeb7) | 4:37 |
 | 51 | [Malebo](https://open.spotify.com/track/3ckHAuda9YAL0AthcSc29r) | [Pst\. Faustin S\. Munishi](https://open.spotify.com/artist/2pgd8AuBUu2RUVqsNvupPz) | [Namlilia Malebo, Vol\. 6](https://open.spotify.com/album/35Cx5vdLH64zK1WZnGqoqa) | 6:13 |
 | 52 | [Nginyukagia](https://open.spotify.com/track/5Dvqpwdf3h0w6dHJpRQyyR) | [Kayamba Africa](https://open.spotify.com/artist/50Y7HU8mao7u5T9kMkOULT) | [Simba](https://open.spotify.com/album/5WTxbTRnjjKG5g1kDEtXD2) | 4:28 |
 | 53 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 |
-| 54 | [Ombi Langu Kwa Mungu](https://open.spotify.com/track/5p5AlkP9uCSb0StIgcBA9f) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Ombi Langu Kwa Mungu](https://open.spotify.com/album/4HpdzfRrDZHh7be6X12e59) | 9:10 |
-| 55 | [Muujiza](https://open.spotify.com/track/6fIXMoPmn86NYaBcpHp5GM) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Relax](https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R) | 3:45 |
-| 56 | [Nimesamehewa](https://open.spotify.com/track/17kDehUnq0jv8KSnW0GYTi) | [Bahati Bukuku](https://open.spotify.com/artist/3T46Acf655h1bG3Zb8kcsF) | [Nimesamehewa Dhabi](https://open.spotify.com/album/7C15pwCthcgiHyG6SE4WUY) | 9:20 |
-| 57 | [Bwana Umenichunguza](https://open.spotify.com/track/6EGcO1k6SH7d7wsqgwl4F3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 7:42 |
-| 58 | [Pale Pale](https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9) | [Size 8](https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe) | [Pale Pale](https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl) | 3:30 |
-| 59 | [My Call](https://open.spotify.com/track/6N8vrHGAl1FXgA5EYclP4z) | [M O G](https://open.spotify.com/artist/7jmlYHg2tjQ7SweaSFwvl5), [Juliani](https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7) | [Go Let Him Go](https://open.spotify.com/album/5P1iuvCDjoU5444LHpL8p0) | 4:08 |
-| 60 | [Tobina](https://open.spotify.com/track/6UsMXXj1YxBhDxIHK7uUyW) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Tobina](https://open.spotify.com/album/6juJBXZJj4SyFRhzaJkkNp) | 3:51 |
+| 54 | [Tobina](https://open.spotify.com/track/6UsMXXj1YxBhDxIHK7uUyW) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Tobina](https://open.spotify.com/album/6juJBXZJj4SyFRhzaJkkNp) | 3:51 |
+| 55 | [Ombi Langu Kwa Mungu](https://open.spotify.com/track/5p5AlkP9uCSb0StIgcBA9f) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Ombi Langu Kwa Mungu](https://open.spotify.com/album/4HpdzfRrDZHh7be6X12e59) | 9:10 |
+| 56 | [Muujiza](https://open.spotify.com/track/6fIXMoPmn86NYaBcpHp5GM) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Relax](https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R) | 3:45 |
+| 57 | [Nimesamehewa](https://open.spotify.com/track/17kDehUnq0jv8KSnW0GYTi) | [Bahati Bukuku](https://open.spotify.com/artist/3T46Acf655h1bG3Zb8kcsF) | [Nimesamehewa Dhabi](https://open.spotify.com/album/7C15pwCthcgiHyG6SE4WUY) | 9:20 |
+| 58 | [Bwana Umenichunguza](https://open.spotify.com/track/6EGcO1k6SH7d7wsqgwl4F3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 7:42 |
+| 59 | [Pale Pale](https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9) | [Size 8](https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe) | [Pale Pale](https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl) | 3:30 |
+| 60 | [My Call](https://open.spotify.com/track/6N8vrHGAl1FXgA5EYclP4z) | [M O G](https://open.spotify.com/artist/7jmlYHg2tjQ7SweaSFwvl5), [Juliani](https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7) | [Go Let Him Go](https://open.spotify.com/album/5P1iuvCDjoU5444LHpL8p0) | 4:08 |
 
-Snapshot ID: `MCw1MDk0YzcxMzkwNWU2MmYxMjAwNTkyMTgxMDM5YjFjZjQ5NzBlZTY5`
+Snapshot ID: `MCw4MzE0MGYwMjVjMDhkNzBjZmI4NjI3MDdjMjAzZDA1YTc0YTU2N2Uy`

@@ -1,13 +1,29 @@
 {
-  "description": "The hottest tracks you want to hear all in one playlist! Cover: Selena Gomez",
-  "num_followers": 80424,
+  "description": "The hottest tracks you want to hear, all in one playlist! Cover: Ariana Grande",
+  "num_followers": 80423,
   "original_name": "New Pop Hits",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "MTQyNzksY2RiZGRkNTRiMDM2ODM0NTZhZTUyOGIxZjg3MzRkZjliNGNhMGYwZQ==",
+  "snapshot_id": "MTQyODgsNTMyMWUyYTg5ZDliYjhhNTM5ODM0NGNjMjFkZWZhY2IyYWU3M2YyNA==",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:57:19",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
     {
       "added_at": "2024-03-01 20:15:52",
       "album": {
@@ -103,6 +119,38 @@
       "duration_ms": 190750,
       "name": "Who Do I Call Now? (Hellbent)",
       "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
+    },
+    {
+      "added_at": "2024-03-08 05:59:42",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173639,
+      "name": "the boy is mine",
+      "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
+    },
+    {
+      "added_at": "2024-03-08 15:13:20",
+      "album": {
+        "name": "the greatest hits",
+        "url": "https://open.spotify.com/album/6RY9gppYrTRUHBHvPWfPyW"
+      },
+      "artists": [
+        {
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+        }
+      ],
+      "duration_ms": 192424,
+      "name": "TIME!",
+      "url": "https://open.spotify.com/track/571eDSnPzwHNL3233ICp6w"
     },
     {
       "added_at": "2024-03-01 20:15:52",

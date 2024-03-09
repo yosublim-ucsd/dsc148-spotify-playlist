@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Miranda del Sol\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,365 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,376 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Lento](https://open.spotify.com/track/2CRkU1UFD7xkFF60h9ettD) | [Julais](https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF) | [Lento](https://open.spotify.com/album/5lhvJ7639JKCNEU8yXdNSR) | 3:57 |
 | 50 | [WAYLT?](https://open.spotify.com/track/2k5E0qxP0sV6vm64tHCVPJ) | [DEIIN](https://open.spotify.com/artist/3ChKSHdD8xLvHcPrt9lIS6) | [WAYLT?](https://open.spotify.com/album/37phbsMBqwtcjvwR2TAmlA) | 2:46 |
 
-Snapshot ID: `MCwxNGU5YTZlMWU2ZjhiZmIwNDIwYTgyNmVlZjRlNDIzZDhjMGMyMTEz`
+Snapshot ID: `MCw4YTg0YjQzNDg1OTc5ZWI1MGIwNThkZDFlYTg0OWM0YjIzYmMwOTkw`

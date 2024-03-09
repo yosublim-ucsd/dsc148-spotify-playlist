@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 1349,
+  "2024-03-09": 1353,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
@@ -91,7 +91,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 131555,
       "name": "Automotivo XM, Taka Taka Taka T\u00e1",
       "url": "https://open.spotify.com/track/4rKg1ll9sfAvDa3sqeaL9C"
@@ -367,6 +367,24 @@
       "duration_ms": 83200,
       "name": "DODGE THIS",
       "url": "https://open.spotify.com/track/69dAPEKgjAUhtLBaOeI2BI"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
       "album": {
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 117603,
       "name": "MOVE YO BODY (sped up)",
       "url": "https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU"
@@ -1799,6 +1817,24 @@
       "duration_ms": 111445,
       "name": "Silent In Loss",
       "url": "https://open.spotify.com/track/5u57He0TBFnoVrlYw7CDnW"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
     },
     {
       "album": {
@@ -2653,7 +2689,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 122057,
       "name": "\u0418\u0413\u0420\u042b",
       "url": "https://open.spotify.com/track/0VEa1GMVIwm61IXrdaJGhI"
@@ -2671,7 +2707,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 65860,
       "name": "\u041a\u0430\u0432\u0430\u0431\u0430\u043d\u0433\u0430",
       "url": "https://open.spotify.com/track/0IQECQhJWfIlbSGcbppdmU"
@@ -3077,7 +3113,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 189131,
       "name": "\u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u2661",
       "url": "https://open.spotify.com/track/1stbYttwZb0Hsj4JJrru1z"
@@ -3425,7 +3461,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 246802,
       "name": "\u0427\u0442\u043e \u043c\u044b \u0441 \u0442\u043e\u0431\u043e\u0439 \u043d\u0430\u0434\u0435\u043b\u0430\u043b\u0438?",
       "url": "https://open.spotify.com/track/1HqQLEjXdnhsi8EvoljM69"
@@ -3497,7 +3533,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 128764,
       "name": "\u042e\u0440\u0430, \u042e\u0440\u0430",
       "url": "https://open.spotify.com/track/1VdZa83wmycr1fi86O8vh7"
@@ -3595,7 +3631,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 167744,
       "name": "\u044f\u0440\u0447\u0435 \u0437\u0432\u0451\u0437\u0434",
       "url": "https://open.spotify.com/track/4ZhLYdmhWdPTZcnAy9SZZO"

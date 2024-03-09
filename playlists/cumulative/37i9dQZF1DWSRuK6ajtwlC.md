@@ -4,7 +4,7 @@
 
 > A levantar polvadera con lo mejor de la música de sax\. La Maquinaría Norteña en portada.
 
-130 songs - 6 hr 46 min
+131 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Como Te Extraño](https://open.spotify.com/track/6fCnagYY6sBohrvLVDBHVA) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Como Te Extraño](https://open.spotify.com/album/5YZKmb0BjulcKw2MqyqQNO) | 2:27 | 2023-03-06 | 2023-11-18 |
 | [Con Ese Corazón](https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [En Las Buenas Y En Las Malas](https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ) | 3:12 | 2023-03-06 |  |
 | [Con la Botella en la Cabeza](https://open.spotify.com/track/4CCLKyWShnb8LkJ8D76zK3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Con la Botella en la Cabeza](https://open.spotify.com/album/6v9IPxqwcIQcdxhaxhcQA3) | 4:18 | 2023-03-06 | 2023-04-15 |
-| [Contigo Sí](https://open.spotify.com/track/33cIhDF0Hd4KWL5Y8GjJ5m) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 2:40 | 2024-01-12 |  |
+| [Contigo Sí](https://open.spotify.com/track/33cIhDF0Hd4KWL5Y8GjJ5m) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 2:40 | 2024-01-12 | 2024-03-09 |
+| [Contigo Sí](https://open.spotify.com/track/6JHTxDUpbZrhEMROHFFV6a) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/5Xwc9hOidf3NsxTtY046d4) | 2:40 | 2024-03-01 |  |
 | [Corazón Jodido](https://open.spotify.com/track/22RHmkbByjdDFGX31OC3Al) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Corazón Jodido](https://open.spotify.com/album/2hiF7rho0MmUdmhq7MvgqE) | 2:43 | 2024-03-01 |  |
 | [Cortinas Guindas](https://open.spotify.com/track/6mEkvLnD8knuzA9KCKVvEB) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Cortinas Guindas](https://open.spotify.com/album/3xEmGMycmtgDG6wKfmYI6N) | 3:54 | 2023-03-06 | 2023-06-10 |
 | [Creí en el Amor](https://open.spotify.com/track/0rAk2MIFzTktvOr2rHryxq) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Creí en el Amor](https://open.spotify.com/album/6yi7TSv6mG7Msgpwqw8EMI) | 2:43 | 2023-03-06 | 2023-11-18 |

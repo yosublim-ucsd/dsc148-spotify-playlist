@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Acoustic Escape",
+        "url": "https://open.spotify.com/album/45iZ1cUmxaJW4VuQC7VvT6"
+      },
+      "artists": [
+        {
+          "name": "Jack Jezzro",
+          "url": "https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ"
+        },
+        {
+          "name": "Jacob Jezioro",
+          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219784,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2CELTvVwS7jK3toDHHbc9W"
+    },
+    {
+      "album": {
         "name": "Crazy Is Catching",
         "url": "https://open.spotify.com/album/0lEpSVhkwpyHUkPjphNVc6"
       },

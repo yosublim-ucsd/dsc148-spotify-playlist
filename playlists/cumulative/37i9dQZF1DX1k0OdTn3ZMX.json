@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Indigo Blaze & LATE 90s.",
+  "description": "n\u00fc-metal revival is happening here and now with Tetrarch.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Everybody's Enemy",
+        "url": "https://open.spotify.com/album/3b6yW9FnLG59kiFE9XhQXU"
+      },
+      "artists": [
+        {
+          "name": "Mad Kelly",
+          "url": "https://open.spotify.com/artist/6ztTQK1luCxwidQqZuFhJj"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216263,
+      "name": "Everybody's Enemy",
+      "url": "https://open.spotify.com/track/5SuHrjRMuuX3fxtwd8Krn8"
+    },
+    {
+      "album": {
         "name": "Truth Killer",
         "url": "https://open.spotify.com/album/6YKRSUJ7jo99IYvHeOx5aT"
       },
@@ -888,10 +906,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 169314,
       "name": "Hard Knock",
       "url": "https://open.spotify.com/track/3zxoPM98k49H9cuxsXPWoL"
+    },
+    {
+      "album": {
+        "name": "Hellstar",
+        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192748,
+      "name": "Hellstar",
+      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
     },
     {
       "album": {
@@ -972,6 +1008,24 @@
       "duration_ms": 294247,
       "name": "It All Comes Down",
       "url": "https://open.spotify.com/track/6LtwJPYUY7NTrN6HxytepY"
+    },
+    {
+      "album": {
+        "name": "John",
+        "url": "https://open.spotify.com/album/4wNEoTLKONCgk8Ahdieo6I"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236649,
+      "name": "John",
+      "url": "https://open.spotify.com/track/1ygGepA71OGb6xNaEEZY1C"
     },
     {
       "album": {
@@ -1062,7 +1116,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 201761,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5eJQLFJsYTIJ6g1mcEPQql"
@@ -1374,7 +1428,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 166369,
       "name": "READY ROCK",
       "url": "https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS"

@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHL8EjCsJbp.md) - [plain]
 | 23 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
 | 24 | [Give Yourself A Try](https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:16 |
 
-Snapshot ID: `MCw4ZWVhMWNlMGRhZDY1ZTQxZDM4YjEzMDhhMjZjYmYyZmFhMTM2N2Y2`
+Snapshot ID: `MCwyY2M0MWYzMWRkMGQzMmQwYTgzZGE2OThlZTM1ZWQ3ZGNlZDkzNzIx`

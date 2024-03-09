@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-637 songs - 1 day 10 hr 20 min
+644 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Adrift](https://open.spotify.com/track/3TNNGjgOQ7O8vwAlvlD9Fg) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Adrift](https://open.spotify.com/album/3izDC00ayirR9iY92O5UUX) | 2:38 | 2019-06-19\* | 2023-07-01 |
 | [aesthetics](https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [aesthetics](https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej) | 2:13 | 2022-07-08 | 2023-09-26 |
 | [Afloat](https://open.spotify.com/track/12cv99jtRwMqsEnRuUYUNL) | [GLADE](https://open.spotify.com/artist/20XycE4QYZIKItSVkGu0Gl) | [Afloat](https://open.spotify.com/album/4ZS72CW48tIEqgMRIHGT4R) | 2:39 | 2023-07-28 |  |
+| [Airglow](https://open.spotify.com/track/3YMYq87kCu0qFlqtof3q8E) | [Víolet Dawn](https://open.spotify.com/artist/7oZu4iBcw4ZT653Xo0pADm) | [Airglow](https://open.spotify.com/album/5AV8HyK3KDVBAtkSVYhHau) | 2:16 | 2024-03-08 |  |
 | [Alluvium](https://open.spotify.com/track/5II0aPh5uu5wL7MOt6z5VO) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Alluvium](https://open.spotify.com/album/5M4J7f0PV8AtDrYVkyPkV6) | 2:04 | 2019-06-27 | 2021-09-14 |
 | [alpha waves](https://open.spotify.com/track/5ZCW5CDwhfXJGL2MzxGwhx) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [alpha waves](https://open.spotify.com/album/1Qbsw57Avkq9ClGT3iUGqc) | 3:25 | 2019-12-31 | 2022-03-05 |
 | [Am I Dreaming](https://open.spotify.com/track/7zVTz5fDa8AfRfGdnXou3m) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Am I Dreaming?](https://open.spotify.com/album/4BUYwoUwa0fmfc2SR8NjRE) | 2:42 | 2023-01-13 | 2023-09-26 |
@@ -139,6 +140,7 @@
 | [Desert Sunset](https://open.spotify.com/track/3ECCf01lcaoLsIR9wRkcRO) | [Tranquil Oasis](https://open.spotify.com/artist/31pLNmCY9ScYFahS0Qa448) | [Desert Sunset](https://open.spotify.com/album/6w3DV7iiKFdCXedJZJClaO) | 2:29 | 2023-07-14 |  |
 | [Deserts](https://open.spotify.com/track/4WCQ7UciC6Auy2DqruqVK1) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Deserts](https://open.spotify.com/album/5ucdUmYO7HwdoHCiJwsdro) | 2:47 | 2019-06-19\* | 2019-06-27 |
 | [Dig Deeper](https://open.spotify.com/track/41GmT2g8MpZ5F9IKbzVAc8) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Dig Deeper](https://open.spotify.com/album/2Z9QI0F8PmKk42xrUgd75H) | 2:19 | 2023-01-20 | 2023-09-26 |
+| [Displace](https://open.spotify.com/track/4PSh6Xs1SIXT6JEAz8QGYk) | [Oblivion](https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ) | [Displace](https://open.spotify.com/album/0T0ham97bER92N0nshZX97) | 2:20 | 2024-03-08 |  |
 | [Distance](https://open.spotify.com/track/0fOzbcpxqSgX5KhLwfdGyi) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Distance](https://open.spotify.com/album/7qeg8IOdHoPpAhhvoOp1pp) | 2:11 | 2023-03-31 |  |
 | [Distant Star](https://open.spotify.com/track/1J0hsOJoJA2GuY1Yd08owz) | [Noonie Moon](https://open.spotify.com/artist/2RXwgNtFF0mBC58e97XaWf) | [Distant Star](https://open.spotify.com/album/5SdsLcQdZWrGwxd5DXczl3) | 1:55 | 2023-06-09 | 2023-07-29 |
 | [Do Not Disturb](https://open.spotify.com/track/3fVcruTmO0d34kf4uWCHJM) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Do Not Disturb](https://open.spotify.com/album/6WIIXPw29rlzpkfuUrgqEk) | 2:28 | 2023-10-13 |  |
@@ -274,6 +276,7 @@
 | [Infra](https://open.spotify.com/track/7aUZ3tEkoDN8qE6Rl6TfCc) | [Tiger Throws](https://open.spotify.com/artist/7Dm40AHxSfU0WJUnVMlsku) | [Infra](https://open.spotify.com/album/2dqjeXE2wPWdWxYoL2KlUC) | 2:20 | 2023-04-14 |  |
 | [Ingénue](https://open.spotify.com/track/6mgKP4yo57GTSMc3fJlyWm) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Ingénue](https://open.spotify.com/album/2RsIJpUcRcCvsRHyLNbe2K) | 2:38 | 2020-01-09 | 2023-07-14 |
 | [Inside The Forest](https://open.spotify.com/track/7zoHQ8RE004b9gJhD6dKU6) | [Youlu](https://open.spotify.com/artist/1RieSf7ad0IFUgai4Ran0C) | [The Game](https://open.spotify.com/album/3EOK5VL7kMYaUbqMH5VcKU) | 4:46 | 2019-05-26\* | 2019-06-19 |
+| [Intergalactic](https://open.spotify.com/track/4HTxgL0swGH99kTt2xXLic) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Intergalactic](https://open.spotify.com/album/3F2QwLNjJrG40dRIRCTNrn) | 3:01 | 2024-03-08 |  |
 | [Into The Deep End](https://open.spotify.com/track/7nIG9RI8QkvsrepRb1t6ZQ) | [The Purple Stripe](https://open.spotify.com/artist/4XIkeyeO2tENGL73fDZS1A) | [Into The Deep End](https://open.spotify.com/album/0Uo7zNYmaLAJ2Hs2koWGyx) | 2:54 | 2022-02-09 |  |
 | [Islands i Utsyni](https://open.spotify.com/track/331ZudrkfXoW7l8lUIEBeF) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Fjarlagt Ljus](https://open.spotify.com/album/7kmXJFHI5btwoDpUN4JsiN) | 2:52 | 2019-07-31 | 2020-06-06 |
 | [It's Dark It's Cold It's Winter](https://open.spotify.com/track/2mRiYprn1Ia7kVevhMvuRG) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [sleepmakeswaves \(USA\)](https://open.spotify.com/album/0LIWspLkmDTD5VTigHDE02) | 4:50 | 2019-05-26\* | 2019-06-19 |
@@ -297,6 +300,7 @@
 | [Let Me Keep This Memory](https://open.spotify.com/track/68VSV9DQESOHiEtoPvNK3n) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 4:00 | 2019-05-26\* | 2019-06-19 |
 | [Levare](https://open.spotify.com/track/6XDJJwtxkhbqYWteeKS20P) | [ANDRIEU](https://open.spotify.com/artist/32H3Drf443gMaVe3XskfEs) | [Levare](https://open.spotify.com/album/0dQxSbvAwp8SNSAG3fPvTJ) | 1:49 | 2021-02-18 | 2023-07-29 |
 | [Lift](https://open.spotify.com/track/2dcOprxauIydtyWGbRY7aF) | [GLADE](https://open.spotify.com/artist/20XycE4QYZIKItSVkGu0Gl) | [Lift](https://open.spotify.com/album/2uRNSe2cyyxo1QW5kcac2U) | 1:56 | 2023-02-25 | 2023-07-29 |
+| [Light Change](https://open.spotify.com/track/2gNFy5yCqo0zTd0g8YCtuI) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Light Change](https://open.spotify.com/album/1hpSWLQhCBt2Ksc1jlCZnH) | 2:04 | 2024-03-08 |  |
 | [Light in the Fog](https://open.spotify.com/track/7A3vuGQKAUXlROjgo1L59k) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 3:04 | 2019-06-19\* | 2020-08-07 |
 | [Light the Night](https://open.spotify.com/track/2POh75IGOgdHVi9cXeSKiy) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 4:52 | 2019-05-26\* | 2020-01-09 |
 | [Light Year](https://open.spotify.com/track/1C2JiKNMjv8FaZlrgwObBJ) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Light Year](https://open.spotify.com/album/2uEPdEPr1HkwxgHqJwecAn) | 3:54 | 2019-09-14 | 2022-07-28 |
@@ -308,6 +312,7 @@
 | [Little Sines](https://open.spotify.com/track/4gNRFtIO2Bx8OUsNrU2shy) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Stories From Elsewhere](https://open.spotify.com/album/415i3x5EwVM58FG06K0WlS) | 3:32 | 2019-05-26\* | 2019-06-19 |
 | [lone cowboy](https://open.spotify.com/track/5UZdpqf1F4fvDqvGYC2sRt) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lone cowboy](https://open.spotify.com/album/3q7mTrEO8fhmbdh64N1km3) | 2:35 | 2023-01-09 |  |
 | [Lonely Molecule](https://open.spotify.com/track/5pDZOftc3EvBBkJWfNXcNn) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Lonely Molecule](https://open.spotify.com/album/3pwh2SSC8VXqeWys5gS1xQ) | 3:27 | 2019-06-19\* | 2020-08-07 |
+| [Long Distances](https://open.spotify.com/track/47tOl9FF9r6tNJypRo3Pe9) | [Barkérby](https://open.spotify.com/artist/6mqsrh86husSPgTkw7L9w6) | [Long Distances](https://open.spotify.com/album/4JnKnvZH0YyEAD1bB5v7sa) | 2:04 | 2024-03-08 |  |
 | [Look At The Stars](https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH) | [The Purple Stripe](https://open.spotify.com/artist/4XIkeyeO2tENGL73fDZS1A) | [Look At The Stars](https://open.spotify.com/album/1zq2gcTCCKtXMsF9qg8xvR) | 3:36 | 2021-10-13 |  |
 | [Looking at the World Through a Window](https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Looking at the World Through a Window](https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ) | 6:25 | 2021-07-23 | 2023-08-12 |
 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 | 2021-09-09 | 2023-07-14 |
@@ -412,6 +417,7 @@
 | [Placidity](https://open.spotify.com/track/1XtkmIXg2o5SqOrNI8Szvk) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Placidity](https://open.spotify.com/album/7v2OxlHooP4Plr1HE5pMeE) | 2:45 | 2019-09-14 | 2022-11-18 |
 | [Planetary](https://open.spotify.com/track/75zUF417TzAmLMAmggqUhP) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Planetary](https://open.spotify.com/album/61vJu9EPHpbWbs2R444Lr0) | 3:04 | 2019-06-19\* | 2020-01-09 |
 | [Polar Light](https://open.spotify.com/track/5WrEKQ24ErKCUmr85a1t9f) | [David West](https://open.spotify.com/artist/3kTQiUxeIBkaXlOug0xXXX) | [Tell Me](https://open.spotify.com/album/0jKHMxCcMBVTg7rVkzQzoH) | 5:38 | 2019-05-26\* | 2019-06-19 |
+| [Polychromatic](https://open.spotify.com/track/7cA3GvBTgO6VtiSX4fXqUJ) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Polychromatic](https://open.spotify.com/album/77tMhrCwiyIPuJAHc1hrwK) | 2:41 | 2024-03-08 |  |
 | [Portico](https://open.spotify.com/track/0b53tPTqZR1kOv7RoG04kh) | [Gae Terragni](https://open.spotify.com/artist/48aSPr6mkeQaIKPJtMycrj) | [Portico](https://open.spotify.com/album/3q51AiQErp0S04GLdKSOyN) | 3:39 | 2021-03-24 | 2023-09-09 |
 | [Postcards from You](https://open.spotify.com/track/6e34YMQxJitSjh15gK6LL6) | [Life Below Elephants](https://open.spotify.com/artist/1WLOHOO3xRSdsrqxWJdWJF) | [Postcards from You](https://open.spotify.com/album/0DEyldJAXBuFZ3iULxBfy9) | 3:52 | 2019-06-19\* | 2021-09-14 |
 | [Prelude For Time Feelers](https://open.spotify.com/track/74K5lZTuJa2w87IPTzxKaz) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Copia](https://open.spotify.com/album/5nwgPZgkuVtiLal8Lbh8mz) | 5:48 | 2019-05-26\* | 2019-06-19 |
@@ -464,6 +470,7 @@
 | [Send Receive](https://open.spotify.com/track/0zr06uBGWB6tP7m3N2lqxS) | [Niklas Aman](https://open.spotify.com/artist/02SAEsjN1Earr0FuRedpw1) | [Train](https://open.spotify.com/album/3fuXejpInpueYT3XFnxjBW) | 3:58 | 2019-05-26\* | 2019-06-19 |
 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 | 2019-05-26\* | 2019-08-13 |
 | [Sharing is Caring](https://open.spotify.com/track/09o3Sp5xVj63YQIoMmPHad) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Sharing is Caring](https://open.spotify.com/album/6mxT3VfuMlWpvg2vryCBLI) | 2:11 | 2023-03-17 |  |
+| [Shifted](https://open.spotify.com/track/4KFmw3X64zQA7czCxoRxyP) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Shifted](https://open.spotify.com/album/1GTp2piaMxzEu2Pr36zYMh) | 2:23 | 2024-03-08 |  |
 | [Shifts Of Light](https://open.spotify.com/track/0KN1zd8K3MTPQyix892mCf) | [Avery Young](https://open.spotify.com/artist/1Uc5aI4Mz5c9SPUEjUga29) | [Still Waters](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 4:21 | 2019-06-27 | 2022-03-05 |
 | [Shimmer](https://open.spotify.com/track/2q9NIEbISG7bz75Ofb3FWE) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Third Place](https://open.spotify.com/album/5ch7UKRAKaXctfrbyYGVDD) | 3:32 | 2019-05-26\* | 2020-01-09 |
 | [Sightings](https://open.spotify.com/track/0cUTNAkzhEjrAmSnp79aIE) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Sightings](https://open.spotify.com/album/2eFYrjiNHYBvkz1DPa2ffx) | 2:45 | 2023-06-30 |  |
@@ -484,7 +491,7 @@
 | [So Long, Lonesome](https://open.spotify.com/track/5veFQvY6ooJ0rzjxO9cAkW) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/7LNOp3ZlUVM32K3bBczUux) | 3:40 | 2019-05-26\* | 2019-06-19 |
 | [Soft Upon Your Face](https://open.spotify.com/track/2BhV8WT7wkp5T3pcl7RRNa) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/0yly5h7LGTBQz6Z8Mx72HV) | 3:14 | 2022-07-27 | 2022-10-15 |
 | [Soft Upon Your Face](https://open.spotify.com/track/49LQIdr4hToVH3JdvzTQYC) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/177eLIIJkUNlLVYqxxfPCO) | 3:14 | 2019-06-19\* | 2022-07-29 |
-| [Solar](https://open.spotify.com/track/2QFkWZArmWfAwDHHkkKYaV) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Solar](https://open.spotify.com/album/5IUKS8HMNHSKWEkrkPDLZq) | 3:04 | 2023-09-15 |  |
+| [Solar](https://open.spotify.com/track/2QFkWZArmWfAwDHHkkKYaV) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Solar](https://open.spotify.com/album/5IUKS8HMNHSKWEkrkPDLZq) | 3:04 | 2023-09-15 | 2024-03-09 |
 | [Solatium](https://open.spotify.com/track/4br0nM6NdvDKMJgLj44foR) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Solatium](https://open.spotify.com/album/5ZHBmc04tDmr7TZcbWZVOw) | 2:06 | 2022-07-27 | 2023-09-27 |
 | [Solitude](https://open.spotify.com/track/2QerGrNeDLsJgMqpIRhjih) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Solitude](https://open.spotify.com/album/7srh64CFgzsCOIToYhCusB) | 2:44 | 2020-01-03 | 2021-09-21 |
 | [Someday](https://open.spotify.com/track/5zOetBDO9NONS4KnIBXtnx) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Chapter I](https://open.spotify.com/album/4lGIi8xhiVxxvpYmuXW2WD) | 4:48 | 2019-12-11 | 2022-10-15 |

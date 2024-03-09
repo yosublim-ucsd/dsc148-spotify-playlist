@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,175 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,185 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 24 | [Bottle](https://open.spotify.com/track/40mBzQIpmcxFUzuJMOAHFC) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Bottle](https://open.spotify.com/album/2Ywo4nVpumOk0RgUPJCan0) | 3:15 |
 | 25 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
 | 26 | [Baby Girl](https://open.spotify.com/track/0FoAlOXHI6KJ4RHP9v8jnw) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Baby Girl](https://open.spotify.com/album/4dob5W0fcOiKEe3ii4AuqD) | 3:27 |
-| 27 | [Jaani Tera Naa](https://open.spotify.com/track/0LZA36VEmc6n0Y7X29zIgE) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jaani Tera Naa](https://open.spotify.com/album/1x5pYAKZnAlLXn2kTzdPrF) | 3:08 |
+| 27 | [Jaani Tera Naa](https://open.spotify.com/track/6tkNEWu4xnu4iVSkjVU0Jo) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jaani Tera Naa](https://open.spotify.com/album/3dn0TXrTyr2Hv1Z2s1ue4r) | 3:08 |
 | 28 | [Muchh](https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Muchh](https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS) | 3:25 |
 | 29 | [Bom Diggy](https://open.spotify.com/track/7Dhy1R9NmD96wfr7VJEN37) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Bom Diggy \- Single](https://open.spotify.com/album/1v41NSZw0M9A9GxHRvPpn2) | 3:27 |
 | 30 | [Illegal Weapon](https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Illegal Weapon](https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 49 | [Daru Band](https://open.spotify.com/track/5ykIUH7FqS7J9rMIGx07sj) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Do Gabru \- Mankirt Aulakh & Parmish Verma](https://open.spotify.com/album/0VCDWiGktLuwEvDZyOqYmn) | 3:17 |
 | 50 | [Prada](https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [Prada](https://open.spotify.com/album/2JZmViMjoYTqnTvtkkTloI) | 3:05 |
 
-Snapshot ID: `MCxjYTQ1Mzg5NjIwZTRjMjFmYzlkOTU1Y2E2ZGVkNzU3MDQwN2UxY2E0`
+Snapshot ID: `MCw2NDMyZTRlYjRiMjhlMjk2OGUxNzhhZTg1MzU4MTRlNTcxYmY1N2Y4`

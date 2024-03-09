@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 415474,
+  "2024-03-09": 415477,
   "date_first_scraped": "2021-12-21",
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
   "name": "Texas Country Now",
@@ -4306,6 +4306,24 @@
     },
     {
       "album": {
+        "name": "Her Again",
+        "url": "https://open.spotify.com/album/3KVzQ7M0NR4Vy1bzsvlQBx"
+      },
+      "artists": [
+        {
+          "name": "Mikele Buck Band",
+          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204071,
+      "name": "Her Again",
+      "url": "https://open.spotify.com/track/2oNfuIgfiEqjpCQCm61vsT"
+    },
+    {
+      "album": {
         "name": "The Light Saw Me",
         "url": "https://open.spotify.com/album/4al4QK2Lk29ZOSr4F7DZvE"
       },
@@ -5237,7 +5255,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 248866,
       "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
       "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"

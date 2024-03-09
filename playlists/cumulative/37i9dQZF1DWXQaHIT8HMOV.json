@@ -1233,6 +1233,32 @@
     },
     {
       "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/1ZSLFbAvGTUNECT52W2KCJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "KatManDu",
+          "url": "https://open.spotify.com/artist/1255i2Jr7gEHyppuqmnsm5"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141517,
+      "name": "Falling in Love",
+      "url": "https://open.spotify.com/track/5aJ7cMRKGlNwe4Mpl7aNot"
+    },
+    {
+      "album": {
         "name": "Fancy (Certified)",
         "url": "https://open.spotify.com/album/1tO3MYFUu0srbXZisGj3Y5"
       },
@@ -1603,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Kamese",
+        "url": "https://open.spotify.com/album/4DmPcjBDA2fKQZyWH6lg1I"
+      },
+      "artists": [
+        {
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Kamese",
+      "url": "https://open.spotify.com/track/7wP1e00PvG9EJAkTFYGIIT"
+    },
+    {
+      "album": {
         "name": "Kampala",
         "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
       },
@@ -1916,7 +1960,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 216398,
       "name": "Leega",
       "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
@@ -2948,7 +2992,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 183673,
       "name": "Omukwano (Love)",
       "url": "https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG"
@@ -3028,7 +3072,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 226153,
       "name": "On my Mind",
       "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
@@ -4384,7 +4428,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 195453,
       "name": "Yo Body",
       "url": "https://open.spotify.com/track/5IfuuYy11rSQFghYk6RUB2"

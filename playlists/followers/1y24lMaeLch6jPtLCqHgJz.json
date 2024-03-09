@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 85877,
+  "2024-03-09": 85875,
   "date_first_scraped": "2022-08-16",
   "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
   "name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
@@ -610,6 +610,28 @@
     },
     {
       "album": {
+        "name": "Bad Cop",
+        "url": "https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj"
+      },
+      "artists": [
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140575,
+      "name": "Bad Cop",
+      "url": "https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv"
+    },
+    {
+      "album": {
         "name": "Battlefield",
         "url": "https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj"
       },
@@ -935,6 +957,28 @@
       "duration_ms": 183518,
       "name": "Blah Blah Blah",
       "url": "https://open.spotify.com/track/3W52hasitO4FOzRkZWtgMy"
+    },
+    {
+      "album": {
+        "name": "Blinded by Flashing Lights",
+        "url": "https://open.spotify.com/album/3bgrlM2n8hgr7PoxuVY29K"
+      },
+      "artists": [
+        {
+          "name": "YPhor.ia",
+          "url": "https://open.spotify.com/artist/7MvldFUr8THcRr14t9belG"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169605,
+      "name": "Blinded by Flashing Lights",
+      "url": "https://open.spotify.com/track/5wtUh09o65cMwokEiIY1pb"
     },
     {
       "album": {
@@ -1701,6 +1745,32 @@
       "duration_ms": 185139,
       "name": "Diamonds & Gold",
       "url": "https://open.spotify.com/track/2CdwtTUeDPj2yXFB2hkM60"
+    },
+    {
+      "album": {
+        "name": "Digital Awakening (Olly James Edit)",
+        "url": "https://open.spotify.com/album/11RiY4QWCrl0k82tcalnnv"
+      },
+      "artists": [
+        {
+          "name": "Dirty Signal",
+          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
+        },
+        {
+          "name": "Thoby",
+          "url": "https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Digital Awakening - Olly James Edit",
+      "url": "https://open.spotify.com/track/6JuEwVsCj0n2DZZfBIpgJD"
     },
     {
       "album": {
@@ -5561,6 +5631,28 @@
       "duration_ms": 127610,
       "name": "Techno Music",
       "url": "https://open.spotify.com/track/0acYxnsfGsSbFMT3BSkeDX"
+    },
+    {
+      "album": {
+        "name": "Techno Rave",
+        "url": "https://open.spotify.com/album/3OUuWrwMHvw0lQ0hygxHmF"
+      },
+      "artists": [
+        {
+          "name": "LUSSO",
+          "url": "https://open.spotify.com/artist/6hOrbqntEsgBVm4YstRyVR"
+        },
+        {
+          "name": "Dirty Signal",
+          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "Techno Rave",
+      "url": "https://open.spotify.com/track/0yr1ENKVf2RPRRkKAC1OsT"
     },
     {
       "album": {

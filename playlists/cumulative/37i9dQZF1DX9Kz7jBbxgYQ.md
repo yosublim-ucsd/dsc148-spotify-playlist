@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Chaar Diwari
 
-277 songs - 15 hr 38 min
+278 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Aaja Mahi](https://open.spotify.com/track/2VSU1fDunvm2JhVf2Z7TwZ) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Aaja Mahi](https://open.spotify.com/album/4UJyZ8rysFX44mlKl2SVFR) | 3:40 | 2024-02-20 |  |
 | [Aankh Mori](https://open.spotify.com/track/4q8H6j9fznuYQyNtHOMxS6) | [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR), [Amna Rai](https://open.spotify.com/artist/1wGOwap4BAlYLYEfqdAzXk), [Zohan](https://open.spotify.com/artist/2d1o03egHCNlHb8L7oEEKm) | [Zindagi Jahaan Le Jaaye](https://open.spotify.com/album/4CQ831WVa61uapP1b2kgK8) | 3:58 | 2024-02-06 | 2024-02-20 |
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-05-20 |  |
-| [Aarish](https://open.spotify.com/track/5gkERI7wlS357vbRIlUjQn) | [Himasri Sarkar](https://open.spotify.com/artist/5GPWLvu5S3lXQNG7vzxu4C) | [Aarish](https://open.spotify.com/album/4EYgwPkFVFA5C7fdir7toq) | 4:21 | 2024-01-05 |  |
+| [Aarish](https://open.spotify.com/track/4K5EIS3DM7A2TOu6wIjD3a) | [Himasri Sarkar](https://open.spotify.com/artist/5GPWLvu5S3lXQNG7vzxu4C) | [Aarish](https://open.spotify.com/album/5ZJA0NoFtbUPGOwVBoecQo) | 4:21 | 2024-02-23 |  |
+| [Aarish](https://open.spotify.com/track/5gkERI7wlS357vbRIlUjQn) | [Himasri Sarkar](https://open.spotify.com/artist/5GPWLvu5S3lXQNG7vzxu4C) | [Aarish](https://open.spotify.com/album/4EYgwPkFVFA5C7fdir7toq) | 4:21 | 2024-01-05 | 2024-03-09 |
 | [Aarzu](https://open.spotify.com/track/5pBRSczAiFZEtrIwH1LqAo) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Aarzu](https://open.spotify.com/album/6mUBgaTJAZ1sI6kteotAgh) | 2:48 | 2022-05-20 |  |
 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 | 2024-01-05 |  |
 | [Ae Bandey](https://open.spotify.com/track/0eVEI23kHZob5VL93Iy6cI) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Ae Bandey](https://open.spotify.com/album/2QvEclNhlVvllLkRhRr1LT) | 3:04 | 2024-01-05 |  |

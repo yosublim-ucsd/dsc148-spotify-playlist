@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-240 songs - 15 hr 45 min
+241 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Hey 있잖아](https://open.spotify.com/track/35jprpmHyUeZtCiGj2ggDa) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/6LYD23SLNIifGJ08R6KdO0) | 3:57 | 2022-05-11 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/6y7oBWsXHt4ClQuUqqdFsj) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Home](https://open.spotify.com/album/6fO5C0CRfbjwL027kmCJG2) | 4:07 | 2022-05-11 | 2022-07-26 |
 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 | 2023-02-28 |  |
-| [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 | 2022-05-11 |  |
+| [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 | 2022-05-11 | 2024-03-09 |
 | [How Can I Live Without You](https://open.spotify.com/track/2WU6qcQohr7YTygqaE1A0J) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/3Z8pAXoh1RbOLaLia5Y1wz) | 3:44 | 2022-10-04 | 2023-01-04 |
 | [How Can I Live Without You](https://open.spotify.com/track/2wR3Hf3iIiCIAP8xx1I3Px) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/4ToOcySEVsN3ZEpKtd4nvO) | 3:44 | 2022-05-11 | 2022-07-24 |
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2022-05-11 | 2022-10-25 |
@@ -169,6 +169,7 @@
 | [ordinary farewell](https://open.spotify.com/track/5nm7Wbp1gXSqEFu1v54zdA) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [ordinary farewell](https://open.spotify.com/album/20BErIiY911MKyHgfx1Mne) | 3:50 | 2022-06-20 | 2022-07-12 |
 | [Page](https://open.spotify.com/track/2ud2xN2O5nDoyts4fdUwAC) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n), [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Page \(406 project X zitten\)](https://open.spotify.com/album/0bgg1V8RIMCnXugSYYrNYt) | 4:26 | 2022-05-11 | 2022-07-25 |
 | [parting](https://open.spotify.com/track/1NHAUW0XDaYeWtpLqtLgrs) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [pretzel of love \(Original Television Soundtrack, Pt\. 22\)](https://open.spotify.com/album/2K391MtoTJvNNZzxOcd5Jk) | 3:37 | 2022-06-20 | 2022-07-04 |
+| [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 | 2024-03-08 |  |
 | [Photo album](https://open.spotify.com/track/66ah8lyaZrf7Yol7iuf5D0) | [Bangminhyeok](https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm) | [NOV3L](https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9) | 2:31 | 2022-05-11 | 2022-06-05 |
 | [Recognize you](https://open.spotify.com/track/029L3sB2fP83DrLHiebVnq) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [No movie series : A bar with emotions OST](https://open.spotify.com/album/1H8366LTpwjsZxJoxZY25J) | 3:03 | 2023-01-13 | 2023-02-05 |
 | [Regret](https://open.spotify.com/track/3xAWMzJepYvpalL66VmuVq) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Regret \(Emotions : Gummy\)](https://open.spotify.com/album/5szwIys3wT08homn7ED5hx) | 4:08 | 2022-05-11 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lola Brooke
 
-553 songs - 1 day 4 hr 14 min
+554 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 | 2023-12-08 | 2024-02-24 |
 | [A STAR IS BORN](https://open.spotify.com/track/3jLqjORECve7AAg7dPMSup) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Treach](https://open.spotify.com/artist/3b3teOkAyYfhj4xiMvqYvW), [Mc Shan](https://open.spotify.com/artist/0rnCjnMc8YqkoELqomHOcz), [DJ Wino](https://open.spotify.com/artist/7wV8FJAwzw07RTmgAd9oWT) | [A STAR IS BORN](https://open.spotify.com/album/4u2w8zSKSeCPnQvvYFkYxy) | 4:17 | 2023-07-06 | 2023-07-13 |
 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 | 2023-05-25 | 2023-07-21 |
+| [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-07 |  |
 | [Activated](https://open.spotify.com/track/4EGteZcOt41jRmMtJlbrDF) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Activated](https://open.spotify.com/album/6Ma8rxZEirihIRGqe8vXhf) | 3:59 | 2023-03-16 | 2023-04-21 |
 | [ADULTS](https://open.spotify.com/track/4BnC9mCcswdytkX2gAJbCK) | [Ferge X Fisherman](https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [ADULTS](https://open.spotify.com/album/5PrPqjuEJ5zbESASdTvWJV) | 3:47 | 2023-12-08 | 2024-01-13 |
 | [AIN'T GONNA ANSWER](https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [AIN'T GONNA ANSWER](https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA) | 3:07 | 2023-03-23 | 2023-04-21 |

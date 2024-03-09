@@ -416,7 +416,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 166026,
       "name": "Ave Maria No Morro",
       "url": "https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG"
@@ -2982,6 +2982,24 @@
       "duration_ms": 220240,
       "name": "Sleepy Shores",
       "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
+    },
+    {
+      "album": {
+        "name": "Canciones Inolvidables",
+        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
+      },
+      "artists": [
+        {
+          "name": "Cuerdas y Metales",
+          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
     },
     {
       "album": {

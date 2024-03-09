@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ei2cOBgIym.md) - [plain]
 
 > All the music from Insecure
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,418 likes - 410 songs - 23 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,447 likes - 410 songs - 23 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -419,4 +419,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ei2cOBgIym.md) - [plain]
 | 409 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
 | 410 | [Bling Bling](https://open.spotify.com/track/62NhZM0i7RrAThbBmb2vsQ) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Satisfaction Guaranteed](https://open.spotify.com/album/1LGNcwOY4Ro9eEDJwohBez) | 2:45 |
 
-Snapshot ID: `MCw0YWVlNDg5M2E0YzBmMzA3ZDZhMDEzODhjMjVkNTUzNGMyZmVmMDVj`
+Snapshot ID: `MCw5Nzk4YjkzNDFiNzE3ZDcyYjkyYTQwNzJjMTM2YmEyNjc4MDM3MmRm`

@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 765371,
+  "2024-03-09": 765429,
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring KU\u010cKA & Flume",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
   "name": "creamy",
   "tracks": [
     {
@@ -660,6 +660,32 @@
     },
     {
       "album": {
+        "name": "Angel Fire",
+        "url": "https://open.spotify.com/album/4zDcy6akoA4AgIgGbhTbxd"
+      },
+      "artists": [
+        {
+          "name": "Ekali",
+          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
+        },
+        {
+          "name": "Kadena",
+          "url": "https://open.spotify.com/artist/5sc2y8CT33bS23gMFJiLSO"
+        },
+        {
+          "name": "Chloe Jobin",
+          "url": "https://open.spotify.com/artist/6vv1NZsXF11YAC5wT43KuX"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "Angel Fire",
+      "url": "https://open.spotify.com/track/3hAerOojwCjnfbhetmsXYS"
+    },
+    {
+      "album": {
         "name": "anywhere but here",
         "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
       },
@@ -813,7 +839,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 287471,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6dqGLf0W6OcMTkO1lcL6Mg"
@@ -1639,6 +1665,24 @@
       "duration_ms": 244400,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2ejYIN0aROGGouYo3SIxtt"
+    },
+    {
+      "album": {
+        "name": "Call It Love (AMNES Remix)",
+        "url": "https://open.spotify.com/album/44DFfRcLhuIlySbmiGcWnq"
+      },
+      "artists": [
+        {
+          "name": "AMNES",
+          "url": "https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Call It Love - AMNES Remix",
+      "url": "https://open.spotify.com/track/16RFGTM80uMYGelXW1VjB4"
     },
     {
       "album": {
@@ -3592,6 +3636,32 @@
     },
     {
       "album": {
+        "name": "Sisyphus Remixes Pt. 2",
+        "url": "https://open.spotify.com/album/5YACRcEwtEVQSB58p45HiO"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245485,
+      "name": "Endit - Dusky Remix",
+      "url": "https://open.spotify.com/track/1ukwvRsaWx1YMenRQB5ABM"
+    },
+    {
+      "album": {
         "name": "ENERGY",
         "url": "https://open.spotify.com/album/3ocrKFvn3Xh3zCus2f7PL6"
       },
@@ -3607,7 +3677,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 219318,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/21kA52qhWFHNkWrlBb4Vzt"
@@ -3819,7 +3889,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
@@ -10381,7 +10451,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 314438,
       "name": "Set It Off, Set It Right - davey Remix",
       "url": "https://open.spotify.com/track/2yutngZxUynCq2ji0b3KHV"
@@ -10831,7 +10901,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 252187,
       "name": "Small Sanctuary - nimino Remix",
       "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
@@ -11378,6 +11448,24 @@
     },
     {
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365461,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd"
+    },
+    {
+      "album": {
         "name": "Beyond The Veil (Remixes)",
         "url": "https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj"
       },
@@ -11739,6 +11827,28 @@
       "duration_ms": 155520,
       "name": "Take Over The World",
       "url": "https://open.spotify.com/track/2bIugowXHHEs3kYDlP4wNM"
+    },
+    {
+      "album": {
+        "name": "Talking Too Much",
+        "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Talking Too Much",
+      "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. El Guero MP, Galvancillo en portada.",
-  "num_followers": 60594,
+  "num_followers": 60618,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmYxMjgxOTZkOTY4NmRlYmI0NGFlODgxYzY5NmM0YTkxZmQyNmJk",
+  "snapshot_id": "MCw2ZjQ0NzY3YzM4OWRiM2YzNWE1NjI2MWFmOTM0MjBjMjdmMzVmN2M5",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Ah\u00ed Les Encargo (En Vivo)",
-        "url": "https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 171721,
-      "name": "Ah\u00ed Les Encargo (En Vivo)",
-      "url": "https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "PROJECT X",
         "url": "https://open.spotify.com/album/4OhiUN9Lk1D3BOMSAcZokx"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 215360,
       "name": "El Cartel",
       "url": "https://open.spotify.com/track/3QDZ8JRgs2iKp3yejxpSaU"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Ah\u00ed Les Encargo (En Vivo)",
+        "url": "https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 171721,
+      "name": "Ah\u00ed Les Encargo (En Vivo)",
+      "url": "https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "El Gallinero",
+        "url": "https://open.spotify.com/album/0EsNpuuAGExlCY4rPtqasT"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 171778,
+      "name": "El Gallinero",
+      "url": "https://open.spotify.com/track/1DvjJMo73ZlWTnpqOO6fDK"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Aqu\u00ed Andamos",
         "url": "https://open.spotify.com/album/1OATR6NJtd5JsJm94eFH0M"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 98253,
       "name": "Aqu\u00ed Andamos",
       "url": "https://open.spotify.com/track/0HbCHoZoSADtxnpyRJ7KiA"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "El Gallinero",
-        "url": "https://open.spotify.com/album/0EsNpuuAGExlCY4rPtqasT"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 171778,
-      "name": "El Gallinero",
-      "url": "https://open.spotify.com/track/1DvjJMo73ZlWTnpqOO6fDK"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Llegar A La Luna",
-        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
-      },
-      "artists": [
-        {
-          "name": "Jassiel Gutierrez",
-          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Llegar A La Luna",
-      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Gallo y Mi Cuerno",
         "url": "https://open.spotify.com/album/76uSaPvd5aVD1TBzrQG39S"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Llegar A La Luna",
+        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
+      },
+      "artists": [
+        {
+          "name": "Jassiel Gutierrez",
+          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Llegar A La Luna",
+      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/1GROt8IvJozOdYhxPyx1cU"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 202413,
       "name": "Space",
       "url": "https://open.spotify.com/track/2Boxlcvc6NrhxRXFK2j8HV"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "El Emblema",
+        "url": "https://open.spotify.com/album/5gEsiD51OeDdiQcVYVcbqG"
+      },
+      "artists": [
+        {
+          "name": "Jocsan Duran",
+          "url": "https://open.spotify.com/artist/5CiOcJEt3lIJneEcQt7wkv"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "El Emblema",
+      "url": "https://open.spotify.com/track/2Y6X84p4FFyx9VNRF4OfYE"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -963,22 +979,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "El Emblema",
-        "url": "https://open.spotify.com/album/5gEsiD51OeDdiQcVYVcbqG"
-      },
-      "artists": [
-        {
-          "name": "Jocsan Duran",
-          "url": "https://open.spotify.com/artist/5CiOcJEt3lIJneEcQt7wkv"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "El Emblema",
-      "url": "https://open.spotify.com/track/2Y6X84p4FFyx9VNRF4OfYE"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Lo Obvio",
         "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/7CEW68gntBaN1wXmCWxHFY"
-      },
-      "artists": [
-        {
-          "name": "Orly Castillo",
-          "url": "https://open.spotify.com/artist/6LEh0Uch5xXHqmULioh8h7"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/1bwTu0isGV2ur3imK34JQW"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Respaldo y Apoyo",
         "url": "https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 118980,
       "name": "Respaldo y Apoyo",
       "url": "https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/7CEW68gntBaN1wXmCWxHFY"
+      },
+      "artists": [
+        {
+          "name": "Orly Castillo",
+          "url": "https://open.spotify.com/artist/6LEh0Uch5xXHqmULioh8h7"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/1bwTu0isGV2ur3imK34JQW"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1068,7 +1068,7 @@
       },
       "artists": [
         {
-          "name": "Los del roble",
+          "name": "Los Del Roble",
           "url": "https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj"
         }
       ],
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Al Ladito M\u00edo",
-        "url": "https://open.spotify.com/album/6rpbmmLpAIrjkO8r4ZwyHQ"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Al Ladito M\u00edo",
-      "url": "https://open.spotify.com/track/4e9lspYSMSTPfxGh6gSoPp"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Tranquilo Y Sencillo",
         "url": "https://open.spotify.com/album/1Qxk4L0BCfokCm1k3HYMeJ"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Al Ladito M\u00edo",
+        "url": "https://open.spotify.com/album/6rpbmmLpAIrjkO8r4ZwyHQ"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Al Ladito M\u00edo",
+      "url": "https://open.spotify.com/track/4e9lspYSMSTPfxGh6gSoPp"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "East LA",
         "url": "https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 170506,
       "name": "East LA",
       "url": "https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Lo Elegiste A \u00c9l",
-        "url": "https://open.spotify.com/album/6JywXnLcBu3X2WEgDJKPs8"
-      },
-      "artists": [
-        {
-          "name": "Los Nietos De Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
-        }
-      ],
-      "duration_ms": 170933,
-      "name": "Lo Elegiste A \u00c9l",
-      "url": "https://open.spotify.com/track/5aV72PbCRUDikF8lGS14Sf"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Truena La Radio",
-        "url": "https://open.spotify.com/album/6X79Up0ztIAIsxyfstMl37"
+        "name": "Lo Elegiste A \u00c9l",
+        "url": "https://open.spotify.com/album/6JywXnLcBu3X2WEgDJKPs8"
       },
       "artists": [
         {
-          "name": "Pr\u00f3digo Secreto",
-          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
         }
       ],
-      "duration_ms": 146634,
-      "name": "Truena La Radio",
-      "url": "https://open.spotify.com/track/789lqu9CSLfu5JlqrUAbxm"
+      "duration_ms": 170933,
+      "name": "Lo Elegiste A \u00c9l",
+      "url": "https://open.spotify.com/track/5aV72PbCRUDikF8lGS14Sf"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "A Tu Modo",
-        "url": "https://open.spotify.com/album/0pC8mV4IYPVzHZtIcWs8qS"
+        "name": "Truena La Radio",
+        "url": "https://open.spotify.com/album/6X79Up0ztIAIsxyfstMl37"
       },
       "artists": [
         {
-          "name": "3 Caleb",
-          "url": "https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd"
+          "name": "Pr\u00f3digo Secreto",
+          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
         }
       ],
-      "duration_ms": 134253,
-      "name": "A Tu Modo",
-      "url": "https://open.spotify.com/track/32NbxVw3vD1qQep7JrXYTh"
+      "duration_ms": 146634,
+      "name": "Truena La Radio",
+      "url": "https://open.spotify.com/track/789lqu9CSLfu5JlqrUAbxm"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "A Tu Modo",
+        "url": "https://open.spotify.com/album/0pC8mV4IYPVzHZtIcWs8qS"
+      },
+      "artists": [
+        {
+          "name": "3 Caleb",
+          "url": "https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd"
+        }
+      ],
+      "duration_ms": 134253,
+      "name": "A Tu Modo",
+      "url": "https://open.spotify.com/track/32NbxVw3vD1qQep7JrXYTh"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "RULETEANDO",
         "url": "https://open.spotify.com/album/7qJvR9PdpkPSVZ5B41x7DH"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Puras Sierre\u00f1as (En Vivo)",
-        "url": "https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 148437,
-      "name": "La Tempranera - En Vivo",
-      "url": "https://open.spotify.com/track/2IEgnaZvMxU0Bk7oqqoeCB"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Dir\u00e9",
         "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 197293,
       "name": "Dir\u00e9",
       "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Puras Sierre\u00f1as (En Vivo)",
+        "url": "https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "duration_ms": 148437,
+      "name": "La Tempranera - En Vivo",
+      "url": "https://open.spotify.com/track/2IEgnaZvMxU0Bk7oqqoeCB"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "El Bato Gacho",
+        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "duration_ms": 145518,
+      "name": "El Bato Gacho",
+      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Mi Clave Eres T\u00fa",
         "url": "https://open.spotify.com/album/39xXaw5d6nJHNcMISNJNuI"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 214377,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/2Hu0fh3w7egXqK2M1KkLbU"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "El Bato Gacho",
-        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 145518,
-      "name": "El Bato Gacho",
-      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/1HPXSHM0hlI8HdQO1qzkiD"
-      },
-      "artists": [
-        {
-          "name": "Karla Yolanda",
-          "url": "https://open.spotify.com/artist/6vushJHZNgYvKVcGu2QtZN"
-        }
-      ],
-      "duration_ms": 200038,
-      "name": "Antolog\u00eda",
-      "url": "https://open.spotify.com/track/67MWzAGhDafoTbmMyjDqeW"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/4G0lFiDJo1OkGQaaydGOqJ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 194125,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/581oW5G19JncBBETLgTZaJ"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/1HPXSHM0hlI8HdQO1qzkiD"
+      },
+      "artists": [
+        {
+          "name": "Karla Yolanda",
+          "url": "https://open.spotify.com/artist/6vushJHZNgYvKVcGu2QtZN"
+        }
+      ],
+      "duration_ms": 200038,
+      "name": "Antolog\u00eda",
+      "url": "https://open.spotify.com/track/67MWzAGhDafoTbmMyjDqeW"
     },
     {
       "added_at": "2024-02-23 06:00:00",

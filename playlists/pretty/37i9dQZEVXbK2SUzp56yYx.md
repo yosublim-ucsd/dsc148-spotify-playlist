@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,349 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,353 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 49 | [gedagedago](https://open.spotify.com/track/0aqc9edhWA9gkWwMBPQg57) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g) | [gedagedago](https://open.spotify.com/album/5r2QPP8mcatWDhQwEX2n7e) | 1:34 |
 | 50 | [Что мы с тобой наделали?](https://open.spotify.com/track/1HqQLEjXdnhsi8EvoljM69) | [Джизус](https://open.spotify.com/artist/7kB4F3PktJEy9jbwI6ujjZ) | [Близнецы: Eros](https://open.spotify.com/album/0jx4ijVcpEc878dr2NjTef) | 4:06 |
 
-Snapshot ID: `NzYzMTc2MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzYzMjYxODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

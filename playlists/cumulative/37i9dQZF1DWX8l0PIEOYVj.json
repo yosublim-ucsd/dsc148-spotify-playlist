@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass. Cover: Crystal Skies",
+  "description": "Future & melodic bass. Cover: Elephante & SABAI",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 268800,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
@@ -1884,6 +1884,28 @@
       "duration_ms": 195949,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/4PMc7HFiQfdGycjWzwwkIb"
+    },
+    {
+      "album": {
+        "name": "Dancing With Myself",
+        "url": "https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163714,
+      "name": "Dancing With Myself",
+      "url": "https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR"
     },
     {
       "album": {
@@ -3684,7 +3706,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 196344,
       "name": "Forever Now",
       "url": "https://open.spotify.com/track/4mKr1vziKTFOHjQknnHjUS"
@@ -8802,6 +8824,32 @@
       "duration_ms": 267676,
       "name": "Saving Lives",
       "url": "https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz"
+    },
+    {
+      "album": {
+        "name": "Say It Like You Mean It (feat. Olivia Ray)",
+        "url": "https://open.spotify.com/album/1h1dauZNyr2eMj0nvr08Qk"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Olivia Ray",
+          "url": "https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Say It Like You Mean It (feat. Olivia Ray)",
+      "url": "https://open.spotify.com/track/23IQCi0cYPApCxGN66VufO"
     },
     {
       "album": {

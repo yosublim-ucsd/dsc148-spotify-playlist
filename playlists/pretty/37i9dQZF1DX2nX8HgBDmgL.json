@@ -1,12 +1,12 @@
 {
   "description": "Home to the Desi Pop Bops. Cover - Asim Azhar. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>. ",
-  "num_followers": 87028,
+  "num_followers": 87121,
   "original_name": "Desi Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzdkMGI1MjRmNTY2ZWNlYTYzNDlhODlkNTQ0YTA4MWI2MTdjZDBl",
+  "snapshot_id": "MCw5Y2E4MGNlNmFjZjhkYjdmNzE0MWJmNDFmM2NjZTUxMmE2ZTg5YWQy",
   "tracks": [
     {
       "added_at": "2024-02-24 04:34:00",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
+      "added_at": "2024-03-08 07:17:43",
+      "album": {
+        "name": "Chori Chori",
+        "url": "https://open.spotify.com/album/4CXtHDOWbfetK0RWxA2KV4"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 157425,
+      "name": "Chori Chori",
+      "url": "https://open.spotify.com/track/06gywLVa2SQz9lqlDEOpy3"
+    },
+    {
       "added_at": "2024-02-24 04:34:00",
       "album": {
         "name": "Qabool Hai (Deluxe)",
@@ -352,8 +368,8 @@
           "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
         },
         {
-          "name": "Nora Fatehi",
-          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
         }
       ],
       "duration_ms": 169215,

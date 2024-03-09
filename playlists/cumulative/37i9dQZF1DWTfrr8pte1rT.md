@@ -2,9 +2,9 @@
 
 ### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
 
-> Rock with a Drop\. Cover: Fairlane & Point North \\m/
+> Rock with a Drop\. Cover: Marshmello \\m/
 
-380 songs - 21 hr 42 min
+381 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Fighting Gravity \- The Forgotten Remix](https://open.spotify.com/track/3ZAfrkXwfVm2FhgBr4rRQ3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Fighting Gravity](https://open.spotify.com/album/6US71PNDQXGAqL4tynBCuX) | 3:03 | 2022-09-09 | 2022-12-28 |
 | [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 | 2022-01-07 | 2024-02-24 |
 | [find u.](https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [find u.](https://open.spotify.com/album/7oyVNWpF6kzHgmDrkoWZK8) | 3:21 | 2022-01-07 | 2022-06-25 |
+| [Fireball](https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [MELLODEATH Tapes Vol\. I](https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc) | 3:15 | 2024-03-08 |  |
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2021-12-10 | 2022-02-26 |
 | [First Time \(feat\. iann dior\) \- Kayzo Remix](https://open.spotify.com/track/1itZR2BxnrhSPFM0sYzvR7) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time \(feat\. iann dior\) \[Kayzo Remix\]](https://open.spotify.com/album/3a4xSxCoIcBhFPCTRtgGSo) | 2:46 | 2021-12-10 | 2022-07-29 |
 | [Flatline](https://open.spotify.com/track/3mNMRpuv9V7DtVMVPh2saF) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Flatline](https://open.spotify.com/album/2doxRabzdeSo7zM5fcZmtq) | 3:28 | 2021-12-10 | 2022-10-08 |
@@ -155,7 +156,7 @@
 | [Good Life](https://open.spotify.com/track/1sbcbxIb89jGLhsDr0eX0f) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Not Since When](https://open.spotify.com/album/1nRMvOYyqvCfcVEo1rz4Id) | 2:41 | 2022-02-25 | 2022-07-29 |
 | [Halfway Dead](https://open.spotify.com/track/54xv1MnxP9aZIAqkvh7z81) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 3:24 | 2021-12-10 | 2023-02-21 |
 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 | 2023-06-02 |  |
-| [hand crushed by a mallet \(Remix\) \[feat\. Fall Out Boy, Craig Owens, Nicole Dollanganger\]](https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Craig Owens](https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv), [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [1000 gecs and The Tree of Clues](https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS) | 2:55 | 2021-12-10 |  |
+| [hand crushed by a mallet \(Remix\) \[feat\. Fall Out Boy, Craig Owens, Nicole Dollanganger\]](https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Craig Owens](https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv), [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [1000 gecs and The Tree of Clues](https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS) | 2:55 | 2021-12-10 | 2024-03-09 |
 | [Happier By Now](https://open.spotify.com/track/0qq33nVMNHelvjRGhTKPVH) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Happier By Now](https://open.spotify.com/album/61WvoZ2SDiN5PpxPbkOcov) | 3:47 | 2024-02-23 |  |
 | [Happy](https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Happy](https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5) | 2:40 | 2023-01-30 |  |
 | [Hayloft II \(DNMO Mix\)](https://open.spotify.com/track/72AxgcShVmWv7DMsfy3aIP) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Hayloft II \(DNMO Mix\)](https://open.spotify.com/album/2DX9LbScR2BQxtAJ6xOvps) | 3:49 | 2022-05-06 | 2023-02-10 |

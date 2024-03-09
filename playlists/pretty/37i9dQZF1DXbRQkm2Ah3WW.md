@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbRQkm2Ah3WW.md) - [plain]
 
 > Embrace your inner Dark Side with this collection of music from your favorite Star Wars films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,125 likes - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,162 likes - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbRQkm2Ah3WW.md) - [plain]
 | 29 | [Grievous and the Droids](https://open.spotify.com/track/6N0cqmiMjeABuxJwf7RZma) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 3:27 |
 | 30 | [Snoke](https://open.spotify.com/track/3o1js2az714YgrfcMgxdas) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 2:03 |
 
-Snapshot ID: `MCxlMDhmZWZiNzlhNDliNTllZTllNTk3MTE3NGU1OWFlN2I5ZDY2ODIx`
+Snapshot ID: `MCxiMjgyMjczZmM3NWYzYzU5YTI4MzNhOTM1YWZhNDMxMWEyMTZmM2Rj`

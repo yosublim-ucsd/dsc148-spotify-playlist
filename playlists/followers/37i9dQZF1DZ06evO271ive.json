@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 9215,
+  "2024-03-09": 9264,
   "date_first_scraped": "2023-11-11",
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
   "name": "This Is Sexyy Red",
@@ -139,7 +139,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 166956,
       "name": "BING BONG (Remix) [feat. Sexyy Red]",
       "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 127529,
       "name": "Man At Home",
       "url": "https://open.spotify.com/track/7G5Cf56y5w6ttJQvhNk8wH"

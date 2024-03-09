@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 8489,
+  "2024-03-09": 8487,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz\">Justin Tranter</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Justin Tranter",
@@ -3525,6 +3525,32 @@
       "duration_ms": 171949,
       "name": "I Am America",
       "url": "https://open.spotify.com/track/0MkBDogipPa3FvHzlXsxqO"
+    },
+    {
+      "album": {
+        "name": "Hajime, Pt. 2",
+        "url": "https://open.spotify.com/album/2pUDCMU1kegtoK7l5mKjjj"
+      },
+      "artists": [
+        {
+          "name": "MiyaGi",
+          "url": "https://open.spotify.com/artist/1kmpkcYbuaZ8tnFejLzkj2"
+        },
+        {
+          "name": "Endspiel",
+          "url": "https://open.spotify.com/artist/35m8HjyHmGQxAKfIBVHZpF"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/5yHnmtUITGRBL8GxgZpDcZ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267363,
+      "name": "I Can Fly",
+      "url": "https://open.spotify.com/track/41Jvpkc7LBF6G8iRYu845X"
     },
     {
       "album": {

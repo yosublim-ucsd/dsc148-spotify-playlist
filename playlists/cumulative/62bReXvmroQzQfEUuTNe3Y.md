@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-415 songs - 23 hr 32 min
+416 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Wild Game \(feat\. Monique Lawz\)](https://open.spotify.com/track/0OblbHqdzBaTNHxkRuWBDN) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM) | [Wild Game \(feat\. Monique Lawz\)](https://open.spotify.com/album/41qEwNJHSvXISCQ7Zqtrxw) | 2:22 | 2020-09-13\* | 2021-03-14 |
 | [Wild Girl \- Paul Woolford Remix](https://open.spotify.com/track/7ETxvXQ5oWFRfAfaIEimAG) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Wild Girl \(Paul Woolford Remix\)](https://open.spotify.com/album/5gGNajbpAtIuDaNOIoJmXr) | 3:41 | 2021-06-05 | 2021-10-23 |
 | [Wild Skies](https://open.spotify.com/track/5yHdAaKkFknPlSYcEUwAfp) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Carbon](https://open.spotify.com/album/7fIXaVoKlDTrJN95srql4E) | 3:24 | 2021-06-12 | 2021-10-02 |
+| [Wildfire](https://open.spotify.com/track/7iIzan4uOlOeXZ8iE3b91F) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y) | [Wildfire](https://open.spotify.com/album/2M11Hf6KSCa9s9bktPApRW) | 3:11 | 2024-03-08 |  |
 | [Wildflowers](https://open.spotify.com/track/5xl0p7WkEry8QAOxTs28kY) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Zimmer](https://open.spotify.com/album/5iri9jAHcyXZ3fD0gUoXMO) | 3:37 | 2024-02-23 |  |
 | [With Me](https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [With Me](https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2) | 3:02 | 2021-08-21 | 2021-10-09 |
 | [Without You](https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Sacha Vee](https://open.spotify.com/artist/0T39WRpIykwV2LJhmO6mj8) | [Without You](https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh) | 3:47 | 2021-03-11 |  |

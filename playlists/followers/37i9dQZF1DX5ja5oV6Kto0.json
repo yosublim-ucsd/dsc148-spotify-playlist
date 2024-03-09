@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 90136,
+  "2024-03-09": 90171,
   "date_first_scraped": "2021-12-29",
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Prettyboy D-O",
   "name": "Alt\u00e9 Cruise",
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 123733,
       "name": "Banger (feat. Boj)",
       "url": "https://open.spotify.com/track/6GPxaASbGS5vbKaW7oYSvO"
@@ -3889,6 +3889,24 @@
       "duration_ms": 199331,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa"
+    },
+    {
+      "album": {
+        "name": "Bodija / Folake",
+        "url": "https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Folake",
+      "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
     },
     {
       "album": {
@@ -6620,6 +6638,28 @@
     },
     {
       "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/2QZMYNVmwu8W31WJBiTTuv"
+      },
+      "artists": [
+        {
+          "name": "Ronehi",
+          "url": "https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv"
+        },
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128268,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/2F4S19rQrzXz8xpbgqGPkW"
+    },
+    {
+      "album": {
         "name": "ECHOLOCATION",
         "url": "https://open.spotify.com/album/1MJRIE0t9OfQP2PfAC71kD"
       },
@@ -7209,7 +7249,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 196373,
       "name": "National Anthem",
       "url": "https://open.spotify.com/track/3ZLMCJJnkpiHUN3XddMLd7"
@@ -8189,7 +8229,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 176628,
       "name": "PAST",
       "url": "https://open.spotify.com/track/34qOsOXR6mn4AMuS4COfc4"
@@ -10651,6 +10691,24 @@
       "duration_ms": 182644,
       "name": "Theysaid.",
       "url": "https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD"
+    },
+    {
+      "album": {
+        "name": "This Is Not Enough",
+        "url": "https://open.spotify.com/album/1grMehyF1YeqThl7IU7Ufp"
+      },
+      "artists": [
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185550,
+      "name": "This Is Not Enough",
+      "url": "https://open.spotify.com/track/7L9RA4tSCafLYl7w2ECHhP"
     },
     {
       "album": {

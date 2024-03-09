@@ -2,9 +2,9 @@
 
 ### [Field Party](https://open.spotify.com/playlist/37i9dQZF1DXc0fQ4sGOnVJ)
 
-> Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
+> Crank it up\. Cover: Brantley Gilbert
 
-170 songs - 9 hr 43 min
+171 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,12 +97,13 @@
 | [Keep It Redneck \- Remix](https://open.spotify.com/track/2pgGU4HYnD2Q0gUAgRjWuQ) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [Keep It Redneck \(Deluxe\)](https://open.spotify.com/album/4WJtMtbkzawLZtiK8pGvUx) | 4:34 | 2023-12-22 | 2024-02-20 |
 | [Kickin' It in Tennessee](https://open.spotify.com/track/5pxcfxlMIcIqFglo9qiNRv) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Kickin' It in Tennessee](https://open.spotify.com/album/75ELepmuVqE7GLbdF28mPa) | 3:46 | 2021-07-09 | 2023-01-03 |
 | [Kings of the Mud](https://open.spotify.com/track/54jDc12TvfTZ2fteYPhaWM) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Kings of the Mud](https://open.spotify.com/album/0ynwiSbuK9fn4JqLbdq0M8) | 2:50 | 2023-12-22 |  |
-| [Kiss My Ass](https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 2:42 | 2021-05-21 |  |
+| [Kiss My Ass](https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 2:42 | 2021-05-21 | 2024-03-09 |
 | [LEGENDS](https://open.spotify.com/track/15x3Tsc72Wjspe8DlsIRp2) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [LEGENDS](https://open.spotify.com/album/2NEROO6mBjK1Xcv1Sr6vXU) | 2:24 | 2021-11-12 | 2023-01-03 |
 | [Live for Today](https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK) | [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 3:30 | 2021-05-21 | 2023-11-23 |
 | [MAGIC CITY COWBOY](https://open.spotify.com/track/4578UyGpgGCGZHfSlHOwFc) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [MAGIC CITY COWBOY](https://open.spotify.com/album/0FHMiGXQjSFEDD5vurEkGU) | 2:04 | 2021-08-06 |  |
 | [Mustang on Mud Tires](https://open.spotify.com/track/3QkxCzzUXEGjqNlXeB0fMy) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Mustang on Mud Tires](https://open.spotify.com/album/1wS58BaXXAfljI25qgTR4D) | 3:40 | 2021-09-17 | 2023-05-25 |
 | [My Town](https://open.spotify.com/track/6auBQyfcdFBG4IZvdXBkdr) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Keys To The Country](https://open.spotify.com/album/42iTDTqmKABTGUfrOKk5YZ) | 2:57 | 2021-11-05 | 2023-05-18 |
+| [Off The Rails](https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Off The Rails](https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO) | 3:04 | 2024-03-08 |  |
 | [Out Here](https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Outlaw In Me](https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr) | 4:39 | 2023-05-19 |  |
 | [Out Here](https://open.spotify.com/track/4BPhl5ZzoT61iWIZ3fSy9n) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Outlaw In Me](https://open.spotify.com/album/0Jwr7HyNF4D7v6xK1o8vfw) | 4:39 | 2022-07-22 | 2023-05-18 |
 | [Out Here](https://open.spotify.com/track/5ypnnr3iqI0JuyZteBPPQu) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Outlaw in Me](https://open.spotify.com/album/19AjSpeMtzdL0q4RDc38hx) | 4:39 | 2021-05-21 | 2022-07-29 |

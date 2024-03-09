@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Bích Phương
 
-235 songs - 14 hr 59 min
+236 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Từng Quen](https://open.spotify.com/track/3un8UkiPHJjlsrTHQnisXH) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Từng Quen](https://open.spotify.com/album/2M0vYJZddXn6qRpeVtGvDZ) | 2:54 | 2023-11-01 |  |
 | [Tự Sự \- Original Soundtrack from "Qua Bển Làm Chi"](https://open.spotify.com/track/5Fx8zxEEaPMkwzM00JFr3N) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Thuan Nguyen](https://open.spotify.com/artist/0Tz9NpLMEwsdPcBurGdQh4) | [Tự Sự \(Original Soundtrack from "Qua Bển Làm Chi"\)](https://open.spotify.com/album/13x14kY27CueHj9F3OV6Mz) | 4:17 | 2022-06-03 | 2022-06-14 |
 | [Tự Tình 2](https://open.spotify.com/track/4AT7ZRCPu3jDxA4Y22IO22) | [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Tự Tình 2](https://open.spotify.com/album/644Tj4OPFEO8PtpgWhbvug) | 4:50 | 2022-10-03 | 2023-02-01 |
-| [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-06-22 |  |
+| [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-06-22 | 2024-03-09 |
+| [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/2ozchu3Zz56PixMzMP8r94) | 3:45 | 2024-03-07 |  |
 | [Việt Kiều](https://open.spotify.com/track/4YJVXeScYoka1p1cAWRqlM) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Việt Kiều](https://open.spotify.com/album/32HcT5adUezGmpgMCC9S51) | 2:50 | 2023-05-28 | 2023-06-15 |
 | [Và Ngày Nào Đó](https://open.spotify.com/track/6fDa6IEt8EAFkHH4hShFK4) | [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Và Ngày Nào Đó](https://open.spotify.com/album/4cLAtnMJPasZ99JqDVVSm3) | 4:22 | 2022-09-29 | 2023-04-22 |
 | [Vì Anh Đâu Có Biết](https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Vì Anh Đâu Có Biết](https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ) | 4:01 | 2022-08-07 |  |

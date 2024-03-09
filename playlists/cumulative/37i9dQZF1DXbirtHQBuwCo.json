@@ -7536,7 +7536,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 207493,
       "name": "Make Up (Feat. Crush)",
       "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
@@ -8901,6 +8901,28 @@
     },
     {
       "album": {
+        "name": "EXchange3, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "On my mind",
+      "url": "https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B"
+    },
+    {
+      "album": {
         "name": "Seoul Vibes Pt.19",
         "url": "https://open.spotify.com/album/69pBAUK07wgu9anA6MKBQ5"
       },
@@ -9022,6 +9044,24 @@
       "duration_ms": 173658,
       "name": "ONE MORE TRY",
       "url": "https://open.spotify.com/track/0HvNZx5oLXzAVCmK8igIvo"
+    },
+    {
+      "album": {
+        "name": "ONE SPARK",
+        "url": "https://open.spotify.com/album/0aKGDywT16N2AgQMLNlDJO"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184624,
+      "name": "ONE SPARK (R&B ver.)",
+      "url": "https://open.spotify.com/track/73G0emO69Z2hWwqsZpx3BC"
     },
     {
       "album": {
@@ -12884,7 +12924,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 208573,
       "name": "Why",
       "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"

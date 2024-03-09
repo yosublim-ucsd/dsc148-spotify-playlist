@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 884414,
+  "2024-03-09": 884547,
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Tony Boy",
+  "description": "Solo il meglio dello street rap italiano. Cover: Rhove",
   "name": "Street Culto",
   "tracks": [
     {
@@ -237,7 +237,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 195750,
       "name": "3uphon",
       "url": "https://open.spotify.com/track/2mmbawJFVgPuQhdQpsHsRl"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 143384,
       "name": "BECCARIA SAN VITTORE (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/71RDmxuDZrWm0ZuImtm4AP"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 119329,
       "name": "Bentley (feat. Simba La Rue, J Lord)",
       "url": "https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku"
@@ -1863,6 +1863,28 @@
       "duration_ms": 187548,
       "name": "Business (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/2xtRttQROrOFKg10rNLZ73"
+    },
+    {
+      "album": {
+        "name": "BUTTERFLY (feat. Simba La Rue)",
+        "url": "https://open.spotify.com/album/0LQztskA5rLSCCNMY2fqHx"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176455,
+      "name": "BUTTERFLY (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/64XgqICgALmJ4nGeuOc6LS"
     },
     {
       "album": {
@@ -3492,6 +3514,24 @@
     },
     {
       "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/3sOX8un9UoYA2KCcxywEqa"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161726,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/3HdOI6RkAnkt9kyEsPkh28"
+    },
+    {
+      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -4121,7 +4161,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 217538,
       "name": "Gol",
       "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
@@ -5078,6 +5118,32 @@
     },
     {
       "album": {
+        "name": "KISS KISS (feat. Ghali, Tony Boy)",
+        "url": "https://open.spotify.com/album/4dGzzSFdxg0hNp4QG1JrmC"
+      },
+      "artists": [
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "KISS KISS (feat. Ghali, Tony Boy)",
+      "url": "https://open.spotify.com/track/6cMM2WlzIRklPTWgyzMlQx"
+    },
+    {
+      "album": {
         "name": "L'amore e la violenza (feat. Paky & 8blevrai)",
         "url": "https://open.spotify.com/album/0w8qPojpLzeQNbxgMq8aKf"
       },
@@ -5769,6 +5835,32 @@
       "duration_ms": 186666,
       "name": "MARE D'INVERNO",
       "url": "https://open.spotify.com/track/4Swgi2Bhc5tOItkVV6kRWD"
+    },
+    {
+      "album": {
+        "name": "BALORDO",
+        "url": "https://open.spotify.com/album/68sWa5gaChQqZGYaHThO5R"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217575,
+      "name": "MARE FUORI (feat. Lacrim & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/7x6Kqi9KLssFx32xH1nGjr"
     },
     {
       "album": {
@@ -6965,7 +7057,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 229031,
       "name": "PACK A PUNCH FREESTYLE",
       "url": "https://open.spotify.com/track/0lJQZj69WzLXcvjTEGLB4D"
@@ -7483,6 +7575,24 @@
       "duration_ms": 150987,
       "name": "POLO (feat. Geolier)",
       "url": "https://open.spotify.com/track/1BTMLhdA6ewk2uXuzMsQWQ"
+    },
+    {
+      "album": {
+        "name": "Popolari",
+        "url": "https://open.spotify.com/album/7pVRdGC80oCPudqzziRSxq"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Popolari",
+      "url": "https://open.spotify.com/track/6wLykMAs7JTfhvdWmPhGSW"
     },
     {
       "album": {
@@ -9224,6 +9334,28 @@
     },
     {
       "album": {
+        "name": "Tarantola",
+        "url": "https://open.spotify.com/album/4ssbmYL7GCoMKzZVTgryES"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128659,
+      "name": "Tarantola",
+      "url": "https://open.spotify.com/track/7EE9L2acFBfLl8Z3wA6Wlv"
+    },
+    {
+      "album": {
         "name": "TCHOP",
         "url": "https://open.spotify.com/album/1EJI81qJI6iM98gmbmzATW"
       },
@@ -9947,7 +10079,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 119495,
       "name": "Valentino Rossi",
       "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,563 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,626 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 49 | [Ancient Aum](https://open.spotify.com/track/5CiBbrUKWr6em5GiY0YCiM) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4) | [Sacred Geometry](https://open.spotify.com/album/0CYafEex5MyTsJUfScXI3b) | 8:00 |
 | 50 | [Emotional \- 2023 Edit](https://open.spotify.com/track/24h4FVqzZl31rgUWd9NLZC) | [Bentech](https://open.spotify.com/artist/4tMLkoMpWu60qPkLybmNxu) | [Emotional EP](https://open.spotify.com/album/79R7xJdFybNlRzBrdELrxN) | 6:35 |
 
-Snapshot ID: `MCw0ZTQ4NDMzOTQ3NWIxZGRhODAxMmRjMjBmMWZlY2YyOWY4ZjU0YWUy`
+Snapshot ID: `MCwyNGFjNDFiN2M5N2UxNTRmZjdjOGE4ZDU0YjQ5YjEzNTlhYmIxNzc4`

@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1186229,
+  "num_followers": 1186320,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWUwYTAyNjFjNGM2NmVkZjBhNjhjYjQ5YzcxNjY3ZmY0MmMyZmU3",
+  "snapshot_id": "MCwzOWUzZDBiYzA3ODMwZmNkYjY4NzQ0NGRhZmU0NDA1Mjc5ZmFkMDBm",
   "tracks": [
     {
       "added_at": "2023-09-29 20:20:52",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Idea of Her",
-      "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Grey Lines",
         "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 168000,
       "name": "Grey Lines",
       "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Idea of Her",
+      "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 212119,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "we were girls together",
         "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 212119,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
+      "duration_ms": 280213,
+      "name": "Right Before My Eyes - Unpeeled",
+      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1027,22 +1043,6 @@
       "duration_ms": 238734,
       "name": "curse,",
       "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Unpeeled",
-        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "Right Before My Eyes - Unpeeled",
-      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1657,20 +1657,20 @@
       "url": "https://open.spotify.com/track/2yttIliVUGCilaRFJ3mNb7"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2024-03-07 21:03:22",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU"
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
       },
       "artists": [
         {
-          "name": "Landon Conrath",
-          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
         }
       ],
-      "duration_ms": 136686,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi"
+      "duration_ms": 278952,
+      "name": "The Gaping Mouth",
+      "url": "https://open.spotify.com/track/4zIJESN3Y2Yu3aY9cJtbyG"
     }
   ],
   "unique_name": "idk.",

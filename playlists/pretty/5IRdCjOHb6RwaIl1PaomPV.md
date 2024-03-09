@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Merry Lamb Lamb, plus the latest cuts from SURF GANG, Eartheater and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,891 likes - 75 songs - 4 hr 0 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,889 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -8487,6 +8487,24 @@
     },
     {
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/2M11Hf6KSCa9s9bktPApRW"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191964,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/7iIzan4uOlOeXZ8iE3b91F"
+    },
+    {
+      "album": {
         "name": "Zimmer",
         "url": "https://open.spotify.com/album/5iri9jAHcyXZ3fD0gUoXMO"
       },

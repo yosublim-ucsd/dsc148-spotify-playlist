@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Vedan, Sushin Shyam
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,843 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,004 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 9 | [WORK HARD](https://open.spotify.com/track/2XQDNORKPlrZfUHeDqispe) | [S Dee](https://open.spotify.com/artist/6AIHewFwNjOEJQCrOZBoSt), [Hiphop JB](https://open.spotify.com/artist/58MN2gwmEvgqAECH1yKX5I) | [WORK HARD](https://open.spotify.com/album/1y2ISs4pGjZnCkjzPda8ss) | 3:21 |
 | 10 | [THALAKKANAM](https://open.spotify.com/track/0rirJuOchyc5bDqDpL84YE) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/1FpEMSDbXmzyl2AHpHqEYW) | 2:51 |
 | 11 | [Theruvinte Mon](https://open.spotify.com/track/0uf8atzwCLOdHhn7Fh3Ms1) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Theruvinte Mon](https://open.spotify.com/album/1n3teNhKap8DypDAAEHdoI) | 2:43 |
-| 12 | [Waste Bins](https://open.spotify.com/track/6veJB3wjtm5dAdQfhTIWUi) | [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [GOTHAM S](https://open.spotify.com/artist/3gE61BTocjV5OB9ESJwwwI) | [Waste Bins](https://open.spotify.com/album/6jo8MjrOC9NjkYFwjA2FHb) | 3:40 |
-| 13 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 |
-| 14 | [Khalbum Katti](https://open.spotify.com/track/70eTArYv8s81pKECLgL1il) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [Khalbum Katti](https://open.spotify.com/album/3smw8wrJ6fnvq1CyUcNgkb) | 3:29 |
+| 12 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 |
+| 13 | [Khalbum Katti](https://open.spotify.com/track/70eTArYv8s81pKECLgL1il) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [Khalbum Katti](https://open.spotify.com/album/3smw8wrJ6fnvq1CyUcNgkb) | 3:29 |
+| 14 | [Dracula](https://open.spotify.com/track/6YLYJEuTASwSvckjFzZ6mJ) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Dracula](https://open.spotify.com/album/2LibHdCD0kbHnJyEsy1QCl) | 3:05 |
 | 15 | [Ookkatte](https://open.spotify.com/track/6djlUD5bLEJ2ZMZ9LEaX7g) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Ookkatte](https://open.spotify.com/album/7MaBmAwa4dn0Yt5gtO2mQN) | 2:55 |
 | 16 | [Ceasefire Now](https://open.spotify.com/track/1vLVrRcfDIKhRlsrQ6gIuK) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [Ceasefire Now](https://open.spotify.com/album/4i7U8lSSrQeS18qqeVRgqE) | 3:06 |
 | 17 | [Polika Polika \- From "Chaaver"](https://open.spotify.com/track/7gpVfeBCNGiSBeLenyzNqz) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Santhosh Varma](https://open.spotify.com/artist/57muzX4Ow2NbBL4nOa5bvp), [Hareesh Mohanan](https://open.spotify.com/artist/6fdwZleGxZSd7v8A3SNoci) | [Polika Polika \(From "Chaaver"\)](https://open.spotify.com/album/2FxP9wgxKBS9TubbPpTtJx) | 4:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 74 | [Saavadhaanam](https://open.spotify.com/track/0naYPixoWCVoKdUAcpIJYG) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [Minni](https://open.spotify.com/album/6ZdyxuQBpOHPpspL33AMTU) | 3:54 |
 | 75 | [Lokam Mayakathilo](https://open.spotify.com/track/22QA31omSDg4TvqgxaJBPO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Blesslee](https://open.spotify.com/artist/0Gl81Y0B87WITIgM34VLGZ), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Lokam Mayakathilo](https://open.spotify.com/album/43xEqVTSaLK0Yn1TrffeXS) | 4:36 |
 
-Snapshot ID: `MCw4YjVlYzFhNWUyMmM2MDg5NTQ1ZWQwZjBhNDViZjQ1NDQxNDEwYzhl`
+Snapshot ID: `MCw4Zjk5NzI3N2M0OWNhOWRmNTViYTRkNzQ0MDM5Yjk1YTBlNjY5ZTNk`

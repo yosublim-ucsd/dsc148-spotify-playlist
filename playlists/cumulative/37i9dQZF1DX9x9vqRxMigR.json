@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Aisling Farm Sessions",
+        "url": "https://open.spotify.com/album/2uISxJKtBCBATDPNGVeTgy"
+      },
+      "artists": [
+        {
+          "name": "Josh Threlkeld",
+          "url": "https://open.spotify.com/artist/3ViyfhmMRSfI1OyF4mhkKI"
+        },
+        {
+          "name": "Alice Hasen",
+          "url": "https://open.spotify.com/artist/0LC51vw5OOWDAcMRQw486R"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Angeline the Baker",
+      "url": "https://open.spotify.com/track/5N4AtFfKL0t35agtFyRHlQ"
+    },
+    {
+      "album": {
         "name": "Any Way the Wind is Blowin'",
         "url": "https://open.spotify.com/album/0Ps14un90C59agy4SSC3wT"
       },
@@ -812,7 +834,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 290080,
       "name": "Beautiful Ride",
       "url": "https://open.spotify.com/track/1SfAEo0sApBnPDlNPWvqQe"
@@ -1004,6 +1026,28 @@
       "duration_ms": 216600,
       "name": "Between the Pines",
       "url": "https://open.spotify.com/track/18OHR1LbvAj6sGqAzDSOlI"
+    },
+    {
+      "album": {
+        "name": "Beyond The Great Pause",
+        "url": "https://open.spotify.com/album/2RQO3ouKoj5mGVgHm9AQEm"
+      },
+      "artists": [
+        {
+          "name": "Doug Cox",
+          "url": "https://open.spotify.com/artist/2din8FbOQmJikdhyrsaDbr"
+        },
+        {
+          "name": "Linda McRae",
+          "url": "https://open.spotify.com/artist/3FFNBSLvQMrlfOGE3x96yd"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Beyond The Great Pause",
+      "url": "https://open.spotify.com/track/3R0y3juREvDqkYCefgunJq"
     },
     {
       "album": {
@@ -1410,7 +1454,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 368500,
       "name": "Buscando el Tuy",
       "url": "https://open.spotify.com/track/0eASQgedFTivmukAAhznRO"
@@ -1930,7 +1974,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 220013,
       "name": "Cry Hallelujah",
       "url": "https://open.spotify.com/track/3HyDnr3CXf5g9IY6xZ2yMn"
@@ -2358,7 +2402,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 257880,
       "name": "Doesn't Make Any Sense",
       "url": "https://open.spotify.com/track/7l70l7mliUzdhpcGt8dKHJ"
@@ -2536,7 +2580,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 250503,
       "name": "Drinking alone in the moonlight",
       "url": "https://open.spotify.com/track/6CBk3UPdXMpo5snlZJGP4n"
@@ -2774,7 +2818,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 172287,
       "name": "En montant au large",
       "url": "https://open.spotify.com/track/5AIhl0v4Ui5MKvcfywStRo"
@@ -3364,7 +3408,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 354907,
       "name": "Follow the Drinking Gourd",
       "url": "https://open.spotify.com/track/22RrRdcdr24zScC2Dx0hUn"
@@ -5448,7 +5492,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 260052,
       "name": "Journey Home",
       "url": "https://open.spotify.com/track/2O1e9bnQeq31glGbkqbmDZ"
@@ -5730,7 +5774,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 240853,
       "name": "Kopanitsa",
       "url": "https://open.spotify.com/track/59QyO26yXFn58nXyLWbpvX"
@@ -5918,7 +5962,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 218613,
       "name": "Le grand retour",
       "url": "https://open.spotify.com/track/7eKxKreGEc4kweoM76fn8z"
@@ -6210,7 +6254,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 240143,
       "name": "Long Live",
       "url": "https://open.spotify.com/track/1Y3rXQOrZLE0IA5XYnXCmW"
@@ -6484,7 +6528,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 296197,
       "name": "Lyha Dolya",
       "url": "https://open.spotify.com/track/6OiZyvKDbVKzbul7CpFR1C"
@@ -7112,7 +7156,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 309985,
       "name": "My Radio Won't Make a Sound",
       "url": "https://open.spotify.com/track/79m6ZbU9l4aHT3ek4dEYM1"
@@ -7782,6 +7826,24 @@
       "duration_ms": 236739,
       "name": "Our Words Will Be Louder",
       "url": "https://open.spotify.com/track/1Tmjedheh5gCirT39TckHD"
+    },
+    {
+      "album": {
+        "name": "Out Here Now",
+        "url": "https://open.spotify.com/album/4aR2n2Pz25TmyYVKpSNGp4"
+      },
+      "artists": [
+        {
+          "name": "Ever More Nest",
+          "url": "https://open.spotify.com/artist/4SyLT21Hx2AptF6kdopLqL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262480,
+      "name": "Out Loud",
+      "url": "https://open.spotify.com/track/3EJUkaQTzQTPftVCzIaDW6"
     },
     {
       "album": {
@@ -8558,7 +8620,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 225779,
       "name": "Rope of Sand",
       "url": "https://open.spotify.com/track/7r1xViVDTTh7aboDDepsoB"
@@ -8612,7 +8674,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 171467,
       "name": "Runner",
       "url": "https://open.spotify.com/track/2ps6pFr3UcLnxBZV77UOAy"
@@ -9086,7 +9148,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 344649,
       "name": "Sirius B",
       "url": "https://open.spotify.com/track/3YsBVs3FsDSxH8kpo2mQIP"
@@ -9796,7 +9858,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 226378,
       "name": "Taking Our Time",
       "url": "https://open.spotify.com/track/4FyS2vgjt0UMy2qvbtoBoy"
@@ -10430,7 +10492,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 278253,
       "name": "The Seventh Fire - The Crossroad",
       "url": "https://open.spotify.com/track/59sA5IUXsjp7p070F4KdVX"
@@ -10788,7 +10850,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 282431,
       "name": "Tin Palace",
       "url": "https://open.spotify.com/track/3kTsjNpbIv6u0dlESRrZEh"
@@ -12112,7 +12174,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 225204,
       "name": "Winfield Bound",
       "url": "https://open.spotify.com/track/1KbwfMoLct5PGHfe1ho4Sz"
@@ -12318,7 +12380,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Yolanda",
       "url": "https://open.spotify.com/track/2WWB1nqEt5DPsXBtU4cg4o"

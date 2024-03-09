@@ -1,13 +1,33 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 237387,
+  "num_followers": 237381,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmQyZTI0NDc1Y2ZiYTI2ZGYxYmQ0ZjE2ZGUzZDVjY2NiZTY5ZTA2",
+  "snapshot_id": "MCxkMDMwODRjNzRlMjQ2NzM2OTdlNTU4MDI2NzMyZmVlNmZlNDNhODcz",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Sun Is Shining",
+        "url": "https://open.spotify.com/album/2Zm5F9dM0HfTYeDWNBOjKa"
+      },
+      "artists": [
+        {
+          "name": "NEVUSSIDE",
+          "url": "https://open.spotify.com/artist/1BEqm7J8ph9SePEMECpssy"
+        },
+        {
+          "name": "Chima Anya",
+          "url": "https://open.spotify.com/artist/2R5My3OkaH2tkHjCiJ51PE"
+        }
+      ],
+      "duration_ms": 199191,
+      "name": "The Sun Is Shining",
+      "url": "https://open.spotify.com/track/58hS2FjP1m2P7PZSIeFXUI"
+    },
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
@@ -1731,22 +1751,6 @@
       "duration_ms": 169142,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6NL3hDAjEwwGzWJLaJUqpE"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Sunset Drive - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 193983,
-      "name": "Sunset Drive - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
     },
     {
       "added_at": "2022-09-09 04:00:00",

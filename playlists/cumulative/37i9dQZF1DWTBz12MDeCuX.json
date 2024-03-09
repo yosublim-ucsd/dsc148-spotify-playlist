@@ -1225,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "album": {
         "name": "addicted to you tekkno",
         "url": "https://open.spotify.com/album/1yR66dilBTfXgNcYRnC82W"
       },
@@ -12340,10 +12362,32 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 162478,
       "name": "HEARTBREAK SONG",
       "url": "https://open.spotify.com/track/0m47TTGAXh0GHWhhlA1TLJ"
+    },
+    {
+      "album": {
+        "name": "HEARTBREAK SONG",
+        "url": "https://open.spotify.com/album/0kccDsNo0WkVHL1FGXCMKW"
+      },
+      "artists": [
+        {
+          "name": "HENRYY",
+          "url": "https://open.spotify.com/artist/7MN3Ivl1zMpNa381IMZ0FN"
+        },
+        {
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162478,
+      "name": "HEARTBREAK SONG",
+      "url": "https://open.spotify.com/track/1wxUsUBinl2ZkIBPRoyl5z"
     },
     {
       "album": {

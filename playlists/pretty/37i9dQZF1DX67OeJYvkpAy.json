@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90324,
+  "num_followers": 90321,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2U3OTQxZjAwZTE5Y2M1YWJhYTMyZTYzNDIzNmUzNTc0ZjQ3ODFh",
+  "snapshot_id": "MCxjYTdlMjc5ZmJiMjZmMTI1M2Q2ZmY3OWU3MWZiNzk2NTM4Y2MwYjI0",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -651,102 +651,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 163723,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "The Talking Stage Game",
-        "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 195558,
-      "name": "The Talking Stage Game",
-      "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "In my head",
-        "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
-      },
-      "artists": [
-        {
-          "name": "Gbnga",
-          "url": "https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ"
-        }
-      ],
-      "duration_ms": 155725,
-      "name": "Champions League",
-      "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "DSLM?",
-        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 189020,
-      "name": "DSLM?",
-      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 128261,
-      "name": "18+",
-      "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Mad About Bars - S5-E8",
         "url": "https://open.spotify.com/album/1APQzz72dkxKKhwWyJF1tb"
       },
@@ -771,8 +675,24 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 195558,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
       },
       "artists": [
         {
@@ -780,9 +700,73 @@
           "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
         }
       ],
-      "duration_ms": 152571,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+      "duration_ms": 163723,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "DSLM?",
+        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "duration_ms": 189020,
+      "name": "DSLM?",
+      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "In my head",
+        "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
+      },
+      "artists": [
+        {
+          "name": "Gbnga",
+          "url": "https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ"
+        }
+      ],
+      "duration_ms": 155725,
+      "name": "Champions League",
+      "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 128261,
+      "name": "18+",
+      "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "If I Die Young",
         "url": "https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 189781,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Never Been Ordinary",
+        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Window Blues",
+      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
-      },
-      "artists": [
-        {
-          "name": "ArtistRD",
-          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo"
       },
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Never Been Ordinary",
-        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
       },
       "artists": [
         {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+          "name": "ArtistRD",
+          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
         }
       ],
-      "duration_ms": 194693,
-      "name": "Window Blues",
-      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
+      "duration_ms": 190615,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
     },
     {
       "added_at": "2023-08-01 17:14:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,231 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,361 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 55 | [Si Estuviésemos Juntos](https://open.spotify.com/track/2JY8fqytS4pcn2pGti7v0f) | [Impacto Sinaloense](https://open.spotify.com/artist/2ZWWur7iqubIBL3NKLw8wh) | [Sesiones 1.0](https://open.spotify.com/album/2t67oYw41wR7BIJDUiUQgT) | 2:40 |
 | 56 | [Dia De Suerte](https://open.spotify.com/track/5weX1mT8BiBEf2UGqxJ4kl) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Covers](https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh) | 3:23 |
 | 57 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0) | 2:50 |
-| 58 | [El Primer Dia Sin Ti](https://open.spotify.com/track/47gCQYcKNjN82RKCnuTQmH) | [Grupo Resguardo](https://open.spotify.com/artist/19NXOgDp9Z2Ad7AQquqIqz) | [El Primer Dia Sin Ti](https://open.spotify.com/album/5cecIDuiscrYS6zTwjwG0O) | 3:37 |
-| 59 | [Ignorantes](https://open.spotify.com/track/3dtof2jkInLUhPssyHlj2D) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Mientras Otros Duermen](https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV) | 2:44 |
+| 58 | [Ignorantes](https://open.spotify.com/track/3dtof2jkInLUhPssyHlj2D) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Mientras Otros Duermen](https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV) | 2:44 |
+| 59 | [El Primer Dia Sin Ti](https://open.spotify.com/track/47gCQYcKNjN82RKCnuTQmH) | [Grupo Resguardo](https://open.spotify.com/artist/19NXOgDp9Z2Ad7AQquqIqz) | [El Primer Dia Sin Ti](https://open.spotify.com/album/5cecIDuiscrYS6zTwjwG0O) | 3:37 |
 | 60 | [Hawai](https://open.spotify.com/track/3IDF1BcNLIIW25U4eZwLC7) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Nuevo Camino](https://open.spotify.com/album/2xsWSJbMDqj8w5wYsjcDIx) | 3:40 |
 | 61 | [Ojos Marrones](https://open.spotify.com/track/4Y3fR2YZYo7YjJDz8dUCQJ) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Se Alinearon Los Planetas](https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ) | 3:40 |
 | 62 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 74 | [Andar Conmigo](https://open.spotify.com/track/77LbleaiKaiviCOD6QiAOc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 4:07 |
 | 75 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 |
 
-Snapshot ID: `MCw1MjkxY2EzNmRjNWVmZTUyY2VhOTFjZDVkOTY1NmM5YTkxZDM5OGYy`
+Snapshot ID: `MCxkMWU0MTllMjViMjU4MTk0MDE4ZjYyMTBiZmE0NTY0MjIwYjgyMDc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,360 likes - 50 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,412 likes - 50 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Communion \(feat\. Steffany Gretzinger & Brandon Lake\)](https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Maverick City, Vol\. 2](https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1) | 14:20 |
 | 50 | [Pull Me Close \(feat\. Rosie Mac\)](https://open.spotify.com/track/7mQlQBxcTSJITsqcHK3s0n) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Rosie Mac](https://open.spotify.com/artist/1djtj57J9xN4iKp1f201ws) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 4:15 |
 
-Snapshot ID: `Mjg0OTY5MDYsMDAwMDAwMDA5ZDVkZTUyNTlhYjQyNmFkMjA0NjFkYjI3Y2QwMTFjMQ==`
+Snapshot ID: `Mjg0OTgzNzksMDAwMDAwMDBmZDk5Y2VkYTE5NzVjNDRkOGU1ZjIyMmNlZDQ5OTdlNQ==`

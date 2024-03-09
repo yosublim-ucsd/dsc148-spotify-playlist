@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Jaimes x DubVision
 
-909 songs - 1 day 21 hr 13 min
+910 songs - 1 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -911,7 +911,8 @@
 | [You feel like home](https://open.spotify.com/track/0ZPZalswtCCkA0h2EpiyR2) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [You feel like home](https://open.spotify.com/album/4cGlubuV6TsFImYORCOqhs) | 3:24 | 2023-08-31 | 2023-09-29 |
 | [You Without Me](https://open.spotify.com/track/7rXZctilOikyTy04qJjLpW) | [Takaya Saito](https://open.spotify.com/artist/69UtrekhEiweOuL0xF7LHn), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [You Without Me](https://open.spotify.com/album/6ZjRcTi2d0xCOyMzcIPbyn) | 2:42 | 2023-11-02 | 2023-12-08 |
 | [You're So Cold](https://open.spotify.com/track/0k4Ntfwh6jqxnyenlsuy6d) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [You're So Cold](https://open.spotify.com/album/1VirA73LPzNcJLgLWS4rqZ) | 2:33 | 2023-10-12 | 2023-11-17 |
-| [Young](https://open.spotify.com/track/4mlWApr7spTrgeGwZCzLoY) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [KAYDI](https://open.spotify.com/artist/20xXGxxFLuz25nDMWiOt9x), [LoudNæss](https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w) | [Young](https://open.spotify.com/album/2fSgbqkLaVuwaUnSMdbCt6) | 2:59 | 2024-03-07 |  |
+| [Young](https://open.spotify.com/track/4Vdk0u92ByPm7csuVx1BtJ) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [KAYDI](https://open.spotify.com/artist/45Uz55b0cOZG7vABsI0tiP), [LoudNæss](https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w) | [Young](https://open.spotify.com/album/15vxnjkbXEMCBactDfr8ZX) | 2:59 | 2024-03-07 |  |
+| [Young](https://open.spotify.com/track/4mlWApr7spTrgeGwZCzLoY) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [KAYDI](https://open.spotify.com/artist/20xXGxxFLuz25nDMWiOt9x), [LoudNæss](https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w) | [Young](https://open.spotify.com/album/2fSgbqkLaVuwaUnSMdbCt6) | 2:59 | 2024-03-07 | 2024-03-09 |
 | [Young Again](https://open.spotify.com/track/0EQ599Ifl0DBLMcrTvv7Iu) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Young Again](https://open.spotify.com/album/04A2MlzNmWlnAVYCm9lR7f) | 2:53 | 2024-02-01 | 2024-03-08 |
 | [Your Eyes](https://open.spotify.com/track/0AoIDpBycIb218HpDjKV7g) | [Varen Malik Ichsandira](https://open.spotify.com/artist/2FEUUPZHkMkXFHTZyGaX4m), [SmartLove Music](https://open.spotify.com/artist/2PXE99c8nCPIW3kFb1Il54) | [Your Eyes](https://open.spotify.com/album/0MmBKLEJkXmOFeaPh0XeJY) | 2:37 | 2024-01-04 | 2024-02-09 |
 | [Your Love](https://open.spotify.com/track/5jNbxkv1A74xQgsFgl46Nl) | [Edmondsski](https://open.spotify.com/artist/20IbhrhIDkUiCP3GfT61FZ), [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j) | [Your Love](https://open.spotify.com/album/7JSL5BGUc0Lf9I8MogUpwg) | 2:17 | 2023-09-21 | 2023-10-20 |

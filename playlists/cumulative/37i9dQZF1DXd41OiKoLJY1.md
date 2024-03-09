@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: 25hearts Artwork: Isu Kim
 
-2,153 songs - 5 day 7 hr 18 min
+2,154 songs - 5 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1449,6 +1449,7 @@
 | [Paglaya](https://open.spotify.com/track/2f1HWSLSISTCWOT65KAMky) | [Here+Now](https://open.spotify.com/artist/0af4cnTm3y78ahi9lVVrRS) | [Paglaya](https://open.spotify.com/album/6qgdb0YuAzpjP6Fgi1wnH7) | 4:50 | 2023-06-08 | 2023-06-23 |
 | [Paglisan](https://open.spotify.com/track/1XKcpPkdjU5TlIfMOpd9ng) | [Lime](https://open.spotify.com/artist/3uqmKysjKPwcpp86DznIUV), [Marvin Zabala](https://open.spotify.com/artist/1eQB3aYUWSecAyGJgSBp9X) | [Paglisan](https://open.spotify.com/album/1HwQQQ5Xj1tAy3Aw9swpCq) | 3:29 | 2023-02-16 | 2023-03-03 |
 | [Pagmamahal](https://open.spotify.com/track/6k4Co91WkrJ6VhKF87uZUj) | [Primo](https://open.spotify.com/artist/0BrL1OP8ovgwrMIpfkoKAx), [Allan Benavides](https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg) | [Pagmamahal](https://open.spotify.com/album/7oTkFVvPk1iBTb7AVqNCPc) | 3:11 | 2023-08-24 | 2023-09-15 |
+| [Pagusapan](https://open.spotify.com/track/3GjRmohKITQOCrPDa7Uh02) | [R.C](https://open.spotify.com/artist/2e3IrtOG2RAIxIe5Ng7utO) | [Pagusapan](https://open.spotify.com/album/7H8vFukPhrhfqQf8gJL0iN) | 3:47 | 2024-03-07 |  |
 | [Pahalik](https://open.spotify.com/track/1XCc1c4Rrb9YNFC6nlPyzy) | [Trimony Music](https://open.spotify.com/artist/2pcBjPklr4dVKCAt7IsYrW), [Wain Wright](https://open.spotify.com/artist/5Z05jxwdJ68s0KR0grDv59), [Johnny Strings](https://open.spotify.com/artist/0R3HPDJ03W0bbWHtEDpAbv), [Kael Guerrero](https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ) | [Pahalik](https://open.spotify.com/album/5GClBIWuvWlzxtk6yFtj7E) | 5:01 | 2023-06-01 | 2023-06-23 |
 | [Pahina](https://open.spotify.com/track/3jOfKLu2suqlyhH3dQqTuh) | [LostNotFound](https://open.spotify.com/artist/1SVjSG7OLV3mrpH5N9QYDM) | [Pahina](https://open.spotify.com/album/5GoxMi8eOXwNLy5xUjUGZU) | 3:42 | 2023-06-01 | 2023-06-16 |
 | [Pahinga](https://open.spotify.com/track/6BKAmTSYiHBfd6JDCH38HP) | [Charlie Palalisan](https://open.spotify.com/artist/7t9IQYKW4gDKPnV038jRYM) | [Pahinga](https://open.spotify.com/album/5KN3SAezl3HMfqi6xI1zuh) | 4:52 | 2022-04-21 | 2022-05-06 |

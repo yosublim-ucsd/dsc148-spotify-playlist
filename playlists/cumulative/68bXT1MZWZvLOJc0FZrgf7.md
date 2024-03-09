@@ -4,7 +4,7 @@
 
 > Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Diamond Pistols
 
-557 songs - 1 day 5 hr 0 min
+558 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-06-03 | 2023-02-05 |
 | [The Fall](https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ The Fall\)](https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB) | 3:16 | 2022-06-10 | 2023-07-29 |
 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-10 | 2023-07-29 |
+| [The Juice](https://open.spotify.com/track/35WxWCjIJw5eEX6KEUGdj5) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [The Juice](https://open.spotify.com/album/4meYbTPnxDPUE1TCMlZHC5) | 2:30 | 2024-03-08 |  |
 | [The Veldt Cinema \- BYNX Edit](https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn) | [The Veldt Cinema \(BYNX Edit\)](https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg) | 4:37 | 2023-06-09 | 2023-12-14 |
 | [The Way \- Dennis Lloyd Remix](https://open.spotify.com/track/2RDefzoeUOz5tF1aTIAjO1) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [The Way \(Dennis Lloyd Remix\)](https://open.spotify.com/album/6elTX2Ty2PrsvaGqNUyAFQ) | 2:30 | 2022-06-03 | 2022-10-29 |
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-11 | 2022-11-19 |

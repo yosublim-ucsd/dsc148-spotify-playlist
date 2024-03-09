@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 140182,
+  "2024-03-09": 140160,
   "date_first_scraped": "2022-04-20",
   "description": "A look back at tracks from over the past four years. A mixtape of music made for the Class of 2023.",
   "name": "CLASS OF 2023 mixtape",
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
@@ -3231,7 +3231,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 176960,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"

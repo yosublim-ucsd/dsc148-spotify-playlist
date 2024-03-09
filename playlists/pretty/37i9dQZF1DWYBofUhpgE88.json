@@ -1,12 +1,12 @@
 {
   "description": "Rap per non smettere mai di crederci \ud83d\udcaa\ud83c\udfcb\ufe0f\ud83c\udfc3\u200d\u2640",
-  "num_followers": 341741,
+  "num_followers": 341797,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDQzODgyOWYzYWQ0M2IzN2M2NGFkN2QyNjM4MjI2MmYxYzJmZGI1",
+  "snapshot_id": "MCxkZjE5ZDYwYWYyODQzMDM2NzVlOGI4Y2RjMzIwM2MwODM5MGYzMzgz",
   "tracks": [
     {
       "added_at": "2024-02-08 14:59:10",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-02-08 14:59:10",
       "album": {
-        "name": "Sfera Ebbasta",
-        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Visiera A Becco",
-      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
-    },
-    {
-      "added_at": "2024-02-08 14:59:10",
-      "album": {
         "name": "Loyalty Over Royalty",
         "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 123262,
       "name": "Whoopty",
       "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
+    },
+    {
+      "added_at": "2024-02-08 14:59:10",
+      "album": {
+        "name": "Sfera Ebbasta",
+        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Visiera A Becco",
+      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
     },
     {
       "added_at": "2024-02-08 14:59:10",

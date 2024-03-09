@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-160 songs - 14 hr 40 min
+161 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Never Ending](https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Never Ending](https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC) | 2:49 | 2021-01-27 |  |
 | [New Life](https://open.spotify.com/track/2FnvK6PpO25DmzCT7WsV2D) | [Flying Machines](https://open.spotify.com/artist/6I8hYLeHelhB4I4WGdxzjf), [Alex Munk](https://open.spotify.com/artist/5E2Y3Yb0uwuTK1400k0LId), [Matt Robinson](https://open.spotify.com/artist/7lGYGsStLXkooPtqVhjuQb), [Conor Chaplin](https://open.spotify.com/artist/4OL6krKLt3oWc2PA0MTSui), [Dave Hamblett](https://open.spotify.com/artist/7FeAapUDNO0OrtDOFuWPcg) | [New Life](https://open.spotify.com/album/1UvvMUsA0XNyyaWKYw5g8X) | 7:14 | 2021-01-27 |  |
 | [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 | 2023-04-28 |  |
+| [Notbad](https://open.spotify.com/track/2BRWFZdMZpWdEcS13RmVoB) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Notbad](https://open.spotify.com/album/6ysbCFN1LoILYOj5Y46yVb) | 4:09 | 2024-03-08 |  |
 | [Novruz](https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Planet](https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL) | 5:32 | 2021-03-26 |  |
 | [Novruz](https://open.spotify.com/track/5a4psUHksmJQl6OXWSAJLC) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Novruz](https://open.spotify.com/album/5pUuSd6GdorUyn2dR0wGmm) | 5:32 | 2021-03-26 | 2022-07-27 |
 | [Ornithophobia](https://open.spotify.com/track/7ltIEsCk076HtkZRJaoA9g) | [Troyka](https://open.spotify.com/artist/0BxmFQFbzdxyrUlumvE7zz) | [Ornithophobia](https://open.spotify.com/album/71i59tB4Mw5xifmg0RRIoq) | 4:56 | 2021-01-27 |  |

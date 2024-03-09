@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,835 likes - 61 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,853 likes - 61 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 60 | [Shir Khan](https://open.spotify.com/track/6kmIvR45kKGTWXyUUx8zoN) | [Schegg](https://open.spotify.com/artist/4VEvCaMdWqoDTtVvW2Pvn7) | [Shir Khan EP](https://open.spotify.com/album/69XTyICEROPwE3WkXae3oe) | 5:45 |
 | 61 | [Top Boy Theme](https://open.spotify.com/track/3qrlugcKmaN0bbeY0751xa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Top Boy \(Score from the Original Series\)](https://open.spotify.com/album/2ahTTFhXz1jbglsd5hoXcV) | 2:46 |
 
-Snapshot ID: `MCw2NWVhOTVhMTVkZjdkN2ViZTlkOTM2NGFiOTAyMGVlOTBiZmZmYWUy`
+Snapshot ID: `MCw5ZGI4ODBmMmJhNzI0NjM3MDY2ODI4N2Y4Yzg2YTJkNDVlM2U0MTdm`

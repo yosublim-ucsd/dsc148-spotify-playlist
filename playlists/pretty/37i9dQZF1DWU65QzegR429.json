@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Lismar",
-  "num_followers": 11669,
+  "num_followers": 11676,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzFkN2MxOGNiYzNhMmFhMDA3Y2QxYzgyMzUyZTMzYTNkYTYzYzdj",
+  "snapshot_id": "MCxlNjI4MDk1ZjcyZTAxYWIzNjljMGEwNTQ4MjM3MjljNzg1Yjk4MGVk",
   "tracks": [
     {
       "added_at": "2024-02-23 05:01:00",
@@ -255,26 +255,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "NAGASAKI",
-        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 206098,
-      "name": "NAGASAKI",
-      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 202012,
       "name": "Soso - Remix",
       "url": "https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 206098,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 185002,
-      "name": "Mimosas",
-      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "TU ME QUIERES?",
         "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 165000,
       "name": "TU ME QUIERES?",
       "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "Mimosas",
+      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Come",
-        "url": "https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1"
-      },
-      "artists": [
-        {
-          "name": "Cyn Santana",
-          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Come",
-      "url": "https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "EN LA MA\u00d1ANA",
         "url": "https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 153391,
       "name": "EN LA MA\u00d1ANA",
       "url": "https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1"
+      },
+      "artists": [
+        {
+          "name": "Cyn Santana",
+          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Come",
+      "url": "https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz"
     },
     {
       "added_at": "2024-02-23 05:01:00",

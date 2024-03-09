@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-564 songs - 1 day 9 hr 20 min
+565 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 | 2022-10-07 |  |
 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-06-03 | 2023-02-27 |
 | [DA2](https://open.spotify.com/track/7dRm6XxlK8c9ug3kt4AJjL) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [DA2](https://open.spotify.com/album/4BjDWUTvXjfN1nwxwKkSCY) | 3:33 | 2022-06-03 | 2022-07-26 |
-| [Dame el Dinero](https://open.spotify.com/track/6tJ9c79mosjm3OdEEDdBiW) | [Hijos de la Psicodelia](https://open.spotify.com/artist/6JxIskGsVf6ow8UU9ivNHU) | [Dame el Dinero](https://open.spotify.com/album/2IvCoG15EfRzeehu38EuNI) | 2:14 | 2024-02-29 |  |
+| [Dame el Dinero](https://open.spotify.com/track/6tJ9c79mosjm3OdEEDdBiW) | [Hijos de la Psicodelia](https://open.spotify.com/artist/6JxIskGsVf6ow8UU9ivNHU) | [Dame el Dinero](https://open.spotify.com/album/2IvCoG15EfRzeehu38EuNI) | 2:14 | 2024-02-29 | 2024-03-09 |
 | [De Frente](https://open.spotify.com/track/41h4bHQ6DfvS1zyl2NS6yP) | [Dos Lugares](https://open.spotify.com/artist/4FnC0V1SNwkHTxjMiJv9eD), [LvRod](https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv) | [De Frente](https://open.spotify.com/album/79TYpvWrQG3vm0W6SSmWx0) | 3:31 | 2022-07-01 | 2022-07-24 |
 | [De la Monarquía a la Criptocracia](https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [De la Monarquía a la Criptocracia](https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ) | 2:47 | 2022-06-03 | 2023-10-06 |
 | [De Policía a Ladrón](https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [De Policía a Ladrón](https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6) | 3:12 | 2022-06-03 | 2023-06-10 |
@@ -554,6 +554,7 @@
 | [Vibraciones](https://open.spotify.com/track/5zf9DCdNAVXX3bzxdushjR) | [Club de Carta Inglesa](https://open.spotify.com/artist/6gGtEXY6tO1XmTgJ3jl05n) | [Memoria](https://open.spotify.com/album/0yO4iOaTMH2LumyGn5Fv0t) | 4:05 | 2022-07-15 | 2022-07-26 |
 | [Vida](https://open.spotify.com/track/3nZMXTL9qtXzNn1yQPAy6s) | [Condor](https://open.spotify.com/artist/1wKXDhoZlEhCOf7Uga3EG0) | [Vida](https://open.spotify.com/album/70iY2hw89DbDF06TGTnn7A) | 5:01 | 2022-07-01 | 2022-07-24 |
 | [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 | 2022-06-03 | 2022-07-28 |
+| [Viento helado](https://open.spotify.com/track/6esfymnhduFli5Sy1rRb3z) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Viento helado](https://open.spotify.com/album/11C8gOlm6EB8DXXZS1RkY2) | 2:23 | 2024-03-07 |  |
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 |  |
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-06-03 | 2022-07-24 |
 | [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 | 2022-06-03 | 2023-10-27 |

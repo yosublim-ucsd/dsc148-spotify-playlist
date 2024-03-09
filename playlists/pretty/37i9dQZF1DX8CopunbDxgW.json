@@ -1,12 +1,12 @@
 {
-  "description": "The best indie dance tracks of the moment. Cover: SG Lewis & Chlo\u00e9 Caillet",
-  "num_followers": 859923,
+  "description": "The best indie dance tracks of the moment. Cover: Machinedrum & Tinashe",
+  "num_followers": 859957,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTY5YjNiZmMyMTIzOGMzODhmY2E0ZjJiOTM4ZTA0NTI1ZWJjM2M0",
+  "snapshot_id": "MCxmMjcwZGY2YzY0NDU4OThiOGI1NWVhMjk4Y2RjNmViNzk3ZGVjYTFm",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -45,6 +45,26 @@
       "url": "https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi"
     },
     {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Motive",
@@ -63,6 +83,22 @@
       "duration_ms": 169720,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3IEPhX1Xk2XlLcLor1whVT"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/5S2mpgI8SRO5apKCEFSHET"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/5lvB1y6l9FF5BiOSDPNM27"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -125,6 +161,22 @@
       "url": "https://open.spotify.com/track/7InnYgaoJvjo4CP06vgoR0"
     },
     {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "MORNING",
+        "url": "https://open.spotify.com/album/0ye9pq49yrh7Am5yB8T7Fp"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "MORNING",
+      "url": "https://open.spotify.com/track/4h6PzI2Fbo5z4QXOHnsCWo"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Young Folks",
@@ -163,6 +215,22 @@
       "duration_ms": 147241,
       "name": "The Danger",
       "url": "https://open.spotify.com/track/1virgARM9gdMB8kUWX46B0"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 197036,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -231,6 +299,26 @@
       "duration_ms": 225625,
       "name": "Crocodile",
       "url": "https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "High (Remix)",
+        "url": "https://open.spotify.com/album/38MrNIfXvvdnU0WxeArHSd"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "High - Remix",
+      "url": "https://open.spotify.com/track/1YTslvpUMCvbo2GMR25LTq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -439,6 +527,26 @@
       "duration_ms": 172444,
       "name": "i have zero care",
       "url": "https://open.spotify.com/track/7BZP33GGS34GmUZQrPlivk"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/5rFQHgLwKko3D5OKB3BuqT"
+      },
+      "artists": [
+        {
+          "name": "Eli Mich",
+          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4KaUtCS52nF45jCbFUi1OM"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -779,26 +887,6 @@
       "duration_ms": 193426,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/0XVGaKdfstcpMvqe15Yozv"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Some Kind of Static (Remix)",
-        "url": "https://open.spotify.com/album/6FOimtpiVs55TKWYPofmpV"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        }
-      ],
-      "duration_ms": 243855,
-      "name": "Some Kind of Static - Remix",
-      "url": "https://open.spotify.com/track/72hQvlO5qg9uUXe2BIBFc5"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1213,22 +1301,6 @@
       "url": "https://open.spotify.com/track/2pKYIlPZXCbhvxL4uUDIUb"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Skrt",
-        "url": "https://open.spotify.com/album/4DsDDEdHYCFrhIA1aVXly6"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 181998,
-      "name": "Skrt",
-      "url": "https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB"
-    },
-    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Lights, Camera, Action!",
@@ -1485,26 +1557,6 @@
       "url": "https://open.spotify.com/track/6sMuiuVIpCf9xiHRQ9l5zm"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Small Sanctuary (nimino Remix)",
-        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 252187,
-      "name": "Small Sanctuary - nimino Remix",
-      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
-    },
-    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Over",
@@ -1655,22 +1707,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "PUSHER",
-        "url": "https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "BLINDED",
-      "url": "https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "feelthisway / 3000 miles",
         "url": "https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB"
       },
@@ -1699,26 +1735,6 @@
       "duration_ms": 145298,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/36gRhO8ZVp0GhiSgWNuxI8"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "deep in the water",
-        "url": "https://open.spotify.com/album/70GCYDi0vauSbd8AVTHDHI"
-      },
-      "artists": [
-        {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
-        },
-        {
-          "name": "Phil Good",
-          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "deep in the water",
-      "url": "https://open.spotify.com/track/155hvjjETZnGJXg187HGXy"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1771,22 +1787,6 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Maybe I Need You",
-        "url": "https://open.spotify.com/album/1LUI4DIMhTERflh2YQXGNB"
-      },
-      "artists": [
-        {
-          "name": "Might Delete Later",
-          "url": "https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT"
-        }
-      ],
-      "duration_ms": 189306,
-      "name": "Maybe I Need You",
-      "url": "https://open.spotify.com/track/6cuhCnAklXM2Kg5b2KovAw"
     },
     {
       "added_at": "2023-11-24 17:16:34",

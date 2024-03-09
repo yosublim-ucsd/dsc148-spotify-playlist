@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 707562,
+  "num_followers": 707782,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTUwNWIzMjY2MTgwMTU0YmJkMjI0MTI3OTZlNGU5MTVhMmZlNGM3",
+  "snapshot_id": "MCw3NzA2YjM1N2I3NWQzYWM5ZGEzOTUwZGM1ZTk1MjQwOWZiOTkxYWI3",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Nacimiento Y Recuerdos",
-        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
+        "name": "Con La Musica Por Dentro",
+        "url": "https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
         }
       ],
-      "duration_ms": 307200,
-      "name": "Mirandote",
-      "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
+      "duration_ms": 306826,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Con La Musica Por Dentro",
-        "url": "https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx"
+        "name": "Nacimiento Y Recuerdos",
+        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
       },
       "artists": [
         {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 306826,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj"
+      "duration_ms": 307200,
+      "name": "Mirandote",
+      "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Super Exitos",
-        "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 305440,
-      "name": "Juguete De Nadie",
-      "url": "https://open.spotify.com/track/25gKDYktpgqSQGdxwDoTsh"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "En Vivo Desde El Carnegie Hall",
         "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
       },
@@ -1211,18 +1195,34 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+        "name": "Super Exitos",
+        "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
         }
       ],
-      "duration_ms": 299893,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa"
+      "duration_ms": 305440,
+      "name": "Juguete De Nadie",
+      "url": "https://open.spotify.com/track/25gKDYktpgqSQGdxwDoTsh"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "T\u00f9 No Le Amas Le Temes",
+      "url": "https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 267693,
-      "name": "T\u00f9 No Le Amas Le Temes",
-      "url": "https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ"
+      "duration_ms": 299893,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 309826,
-      "name": "Lo M\u00edo Es Amor",
-      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Grandes Exitos - Live",
         "url": "https://open.spotify.com/album/68YffUBPn4Td5mBE1hxFgE"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 309826,
+      "name": "Lo M\u00edo Es Amor",
+      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "Serie Cinco Estrellas",
         "url": "https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb"
       },
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
+      },
+      "artists": [
+        {
+          "name": "DLG",
+          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Magdalena, Mi Amor (Quimbara)",
+      "url": "https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "Mis Amores",
         "url": "https://open.spotify.com/album/4QcUkOX9DED7QTsHLW2FN0"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 293506,
       "name": "Deja",
       "url": "https://open.spotify.com/track/5kagFOpEGvv3gi5DgPyPX4"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
-      },
-      "artists": [
-        {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Magdalena, Mi Amor (Quimbara)",
-      "url": "https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/2XhNOKvTdyoq9HcTkHqIWp"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "Hoy Quiero Confesar",
-      "url": "https://open.spotify.com/track/28xNqT1rb2xmrZ28N53M1v"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 286626,
       "name": "Date un Chance",
       "url": "https://open.spotify.com/track/0mW2TeZmav4gTBzsMcy811"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/2XhNOKvTdyoq9HcTkHqIWp"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Hoy Quiero Confesar",
+      "url": "https://open.spotify.com/track/28xNqT1rb2xmrZ28N53M1v"
     },
     {
       "added_at": "2023-10-19 19:33:14",

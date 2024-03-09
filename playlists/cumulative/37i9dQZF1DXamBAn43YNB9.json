@@ -1621,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/1fD81rxtlveVblYtR7fbXk"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        },
+        {
+          "name": "Ava Camejo",
+          "url": "https://open.spotify.com/artist/4C4IzZa6IdDY2jrByR3jW1"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206333,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3NTMy0v9KcdadXx0FlN3p1"
+    },
+    {
+      "album": {
         "name": "Live on Red Barn Radio I & II",
         "url": "https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6"
       },

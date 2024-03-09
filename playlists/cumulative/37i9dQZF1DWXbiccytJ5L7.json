@@ -1225,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "Hillbilly Boys",
+        "url": "https://open.spotify.com/album/4lKF5MuunbcExTLGUhB25y"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149105,
+      "name": "Hillbilly Boys",
+      "url": "https://open.spotify.com/track/3YnIYa9Z8qwM0GILQ3ugHg"
+    },
+    {
+      "album": {
         "name": "Hits Different",
         "url": "https://open.spotify.com/album/6mSnyGFMnDXhkrAiZgXSQs"
       },

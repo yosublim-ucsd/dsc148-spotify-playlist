@@ -2,9 +2,9 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Bnxn
+> Afro sounds crossing borders\. Cover: King Promise
 
-465 songs - 1 day 1 hr 2 min
+466 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2021-09-10 | 2024-01-26 |
 | [Papi Chulo](https://open.spotify.com/track/1S1bZVv8sqYY39S6KWchuk) | [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Papi Chulo](https://open.spotify.com/album/7KsMCyObKQhX37pocZEUcQ) | 2:41 | 2022-07-25 | 2024-01-26 |
 | [Papi Chulo](https://open.spotify.com/track/6Juv5N0dNU1imms9c9u1dA) | [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Papi Chulo](https://open.spotify.com/album/33FmsnS00we0hrD1NrGniq) | 2:41 | 2022-03-25 | 2022-04-17 |
+| [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 |  |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-10-15 |  |
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2023-07-21 | 2024-01-26 |
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2023-01-26 | 2023-07-22 |
@@ -374,7 +375,7 @@
 | [See Through](https://open.spotify.com/track/4G3MjZTnwVDxmemf4I9vWb) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Snakes & Ladders](https://open.spotify.com/album/61KrONcgww3TKrlX2qJKzV) | 3:09 | 2021-09-10 | 2022-07-28 |
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2024-01-26 |  |
 | [Sghubu Ses Excellent \(feat\. Madumane, MDU aka TRP & Bongza\)](https://open.spotify.com/track/1Fnj9EKPRxK81I1N2TfNMS) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Bongza](https://open.spotify.com/artist/1U0kluMlV9VEvmeRvjilSG), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [Sghubu Ses Excellent](https://open.spotify.com/album/5p367ruOCWHEsZ0qi9XQiG) | 6:51 | 2022-03-25 | 2022-04-21 |
-| [SHARP SHOOTER](https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Sharp Shooter](https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X) | 2:30 | 2024-03-01 |  |
+| [SHARP SHOOTER](https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Sharp Shooter](https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X) | 2:30 | 2024-03-01 | 2024-03-09 |
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-21 | 2024-01-26 |
 | [Shibebe](https://open.spotify.com/track/5Ujp7vES41Sc6YwN3m4GDq) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:43 | 2024-02-16 |  |
 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 | 2022-03-25 | 2023-07-22 |

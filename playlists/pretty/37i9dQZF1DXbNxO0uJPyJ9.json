@@ -1,12 +1,12 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 674829,
+  "num_followers": 674966,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjIxY2U0ZDM1Yzg3N2U0OGVkNGI5YzhiNjEwZDg0MzgwOGVlYjk3",
+  "snapshot_id": "MCw1MjhlMzVmN2VkNGExOWRkNjhlZWY4NzIwZjE2NWYxNTI4ZjY1ZGEz",
   "tracks": [
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 388533,
-      "name": "Dr. Beat - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 396920,
       "name": "True Blue - The Color Mix",
       "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 388533,
+      "name": "Dr. Beat - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 369600,
+      "name": "Like a Virgin - Extended Dance Remix",
+      "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Open Book - The Best Of...",
         "url": "https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 256586,
       "name": "Extended Souvenir - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 369600,
-      "name": "Like a Virgin - Extended Dance Remix",
-      "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
     }
   ],
   "unique_name": "12\" Classics",

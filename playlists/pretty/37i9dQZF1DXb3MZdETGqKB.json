@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Gary Clark Jr.",
-  "num_followers": 146504,
+  "num_followers": 146526,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDEyZThmM2QzZmJlZDEwMTU2OGFmYmExMWU2ZWE3M2NjYTkzOTgy",
+  "snapshot_id": "MCwwODczNWU1NDhhNDg5MGQ1NzljODdiOWMxZjE3Zjc5M2NjMjBhNDM4",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "Habits - Radio Edit",
+      "url": "https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq"
+    },
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
@@ -147,22 +163,6 @@
       "duration_ms": 227523,
       "name": "Flame",
       "url": "https://open.spotify.com/track/1rVioJqDKEf1ZQHOu4IepF"
-    },
-    {
-      "added_at": "2024-01-26 05:01:00",
-      "album": {
-        "name": "JPEG RAW Sampler",
-        "url": "https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 253126,
-      "name": "Maktub",
-      "url": "https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd"
     },
     {
       "added_at": "2024-02-02 05:01:00",

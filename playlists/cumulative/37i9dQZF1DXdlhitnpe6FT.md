@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-205 songs - 11 hr 6 min
+206 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Autumn Leaves](https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Roger Williams Greatest Hits](https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i) | 3:01 | 2020-12-08 |  |
 | [Ave Maria No Morro](https://open.spotify.com/track/2js8y9eYf3pe4Otk24Yr57) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Violin Jazz Essentials](https://open.spotify.com/album/1qOkAxsXhs3lEbSxnhE9lW) | 2:46 | 2020-12-08 | 2023-02-06 |
 | [Ave Maria No Morro](https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Wenn Der Weiße Flieder Wieder Blüht](https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH) | 2:46 | 2020-12-08 | 2022-07-29 |
-| [Ave Maria No Morro](https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [The Incredible Helmut Zacharias](https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A) | 2:46 | 2020-12-08 |  |
+| [Ave Maria No Morro](https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [The Incredible Helmut Zacharias](https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A) | 2:46 | 2020-12-08 | 2024-03-09 |
 | [Ave Maria no morro](https://open.spotify.com/track/0JGr0jRQDEMFhNDWVf7IWV) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [45 Greatest Hits](https://open.spotify.com/album/2SsXx2EEIhWDk6O1l3WoPh) | 2:33 | 2020-12-08 | 2022-07-29 |
 | [Ave Maria No Morro](https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:34 | 2020-12-08 |  |
 | [Ballade Pour Adeline](https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz) | [Paul Marie Senneville](https://open.spotify.com/artist/3M8kIRti4mqOFMifU0Bm7A), [Richard Clayderman](https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6) | [Romantique](https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX) | 2:37 | 2020-12-08 | 2022-07-29 |
@@ -170,6 +170,7 @@
 | [Sleep Walk](https://open.spotify.com/track/0yK8sWD6cfrc7pGfaPIcZH) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Canadian American Greatest Hits 50th Anniversary Collection](https://open.spotify.com/album/5toxcaerHCTPDtIcQOTRx8) | 2:25 | 2020-12-08 |  |
 | [Sleepwalk](https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Volume Secondo](https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8) | 2:31 | 2020-12-08 |  |
 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 | 2020-12-08 |  |
+| [Soleado](https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP) | [Cuerdas y Metales](https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM) | [Canciones Inolvidables](https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u) | 3:40 | 2020-12-08 |  |
 | [Soleado](https://open.spotify.com/track/3kZQQ8e85TzwzFLtJTvVz0) | [John Days](https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7) | [16 Grandes Éxitos Instrumentales](https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL) | 3:41 | 2020-12-08 | 2022-07-29 |
 | [Soleado](https://open.spotify.com/track/4n7fsjH01J5GBQsmLMZtiQ) | [Johnny Days Orchestra](https://open.spotify.com/artist/6ddwnoAVajTGZa2ikrJqaY) | [Los Recuerdos Están Hechos de Esto Vol\. 2](https://open.spotify.com/album/2xgU1k2nI3EXak38BIPHA6) | 3:40 | 2020-12-08 | 2023-05-30 |
 | [Soleado](https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu) | [Orquesta Cuerdas Y Metales](https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7) | [Presentando a La Orquesta Cuerdas y Metales](https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y) | 3:40 | 2020-12-08 | 2024-03-04 |

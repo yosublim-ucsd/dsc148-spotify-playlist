@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 22327,
+  "2024-03-09": 22356,
   "date_first_scraped": "2023-11-02",
   "description": "2024\u5e745\u670818\u65e5(\u571f), 19\u65e5(\u65e5)\u306b\u5e55\u5f35\u30e1\u30c3\u30bb\u3067\u958b\u50ac\uff01\u56fd\u5185\u6700\u5927\u898f\u6a21\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb<a href=\"https://popyours.jp/\">\u300ePOP YOURS\u300f</a>\u306e\u30e9\u30a4\u30f3\u30ca\u30c3\u30d7\u3092\u30c1\u30a7\u30c3\u30af\u3002",
   "name": "POP YOURS",
@@ -182,7 +182,7 @@
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 161899,
+      "duration_ms": 161366,
       "name": "24/7 YOU...",
       "url": "https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD"
     },
@@ -255,7 +255,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 166378,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/4Sn3zbyHFDIeO9f8p46dNJ"
@@ -912,6 +912,24 @@
     },
     {
       "album": {
+        "name": "BINBO",
+        "url": "https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138946,
+      "name": "BINBO",
+      "url": "https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL"
+    },
+    {
+      "album": {
         "name": "I Have a Dream.",
         "url": "https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z"
       },
@@ -1033,10 +1051,40 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 156872,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/1dp66PGJzXhBdfR9M4nX24"
+    },
+    {
+      "album": {
+        "name": "7 (Boss Bitch Edition)",
+        "url": "https://open.spotify.com/album/0qWaruyY6ogPiKAcmPWfUM"
+      },
+      "artists": [
+        {
+          "name": "nana",
+          "url": "https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212553,
+      "name": "Boss Bitch - Remix",
+      "url": "https://open.spotify.com/track/0BMmYlBRZBel67VcE8mM0q"
     },
     {
       "album": {
@@ -1496,6 +1544,24 @@
     },
     {
       "album": {
+        "name": "cuz u just memories",
+        "url": "https://open.spotify.com/album/3FkLIyoMGYCSAJxeIfw5cs"
+      },
+      "artists": [
+        {
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124805,
+      "name": "cuz u just memories",
+      "url": "https://open.spotify.com/track/0kKcamlEotnUhruCyvFG3p"
+    },
+    {
+      "album": {
         "name": "ROBIN HOOD STREET",
         "url": "https://open.spotify.com/album/160Dp7uGHyAp4BBuxtbv3c"
       },
@@ -1511,6 +1577,24 @@
       "duration_ms": 220333,
       "name": "DIFFICULT",
       "url": "https://open.spotify.com/track/6RbrF27Pe3oHVt0tC7cIwD"
+    },
+    {
+      "album": {
+        "name": "Do this shit 4 me",
+        "url": "https://open.spotify.com/album/5QQop5JtIhXGjH1W3w1cEF"
+      },
+      "artists": [
+        {
+          "name": "CFN MALIK",
+          "url": "https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "Do this shit 4 me",
+      "url": "https://open.spotify.com/track/2jOiXhcWIAC3Vf1BsIyiwS"
     },
     {
       "album": {
@@ -1577,6 +1661,24 @@
       "duration_ms": 240175,
       "name": "DOSHABURI - Remix",
       "url": "https://open.spotify.com/track/1C0685pFZ12nvdKbKzQ6Of"
+    },
+    {
+      "album": {
+        "name": "KJ SEASON",
+        "url": "https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166463,
+      "name": "DREAMIN\u2019 BOI ISSUE",
+      "url": "https://open.spotify.com/track/5PpLPAdZGMQ5eMzwwC5HoQ"
     },
     {
       "album": {
@@ -2234,6 +2336,24 @@
     },
     {
       "album": {
+        "name": "GET RIGHT BACK",
+        "url": "https://open.spotify.com/album/2GRECGqkujuAC6uRvOauPA"
+      },
+      "artists": [
+        {
+          "name": "CFN MALIK",
+          "url": "https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139322,
+      "name": "GET RIGHT BACK",
+      "url": "https://open.spotify.com/track/2ki1pOrszqqEVBjEO2TFsL"
+    },
+    {
+      "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/2kvpjbQNiHfjqeJpsuPvKE"
       },
@@ -2410,6 +2530,32 @@
     },
     {
       "album": {
+        "name": "Blood & Bones (BONES)",
+        "url": "https://open.spotify.com/album/71wSyAlJPLhRy8AIqhvNvi"
+      },
+      "artists": [
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        },
+        {
+          "name": "YOUNG COCO",
+          "url": "https://open.spotify.com/artist/6aYRuxYMfdbvk39bBuBIA7"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/4xi0VX5l2b0PorJuWtD9Th"
+    },
+    {
+      "album": {
         "name": "BOHEMIAN JOKE",
         "url": "https://open.spotify.com/album/1XG5tqqv1x1BxWymWgPC7y"
       },
@@ -2513,6 +2659,24 @@
       "duration_ms": 179785,
       "name": "HAPPY (feat. Young Dalu)",
       "url": "https://open.spotify.com/track/5730HOEHpz6ORLzlAGxw9j"
+    },
+    {
+      "album": {
+        "name": "SUKI",
+        "url": "https://open.spotify.com/album/5FtdjnKZr1DPSFCPQQiQeR"
+      },
+      "artists": [
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Heiki",
+      "url": "https://open.spotify.com/track/79DULWXum7FXlCdAy12WI9"
     },
     {
       "album": {
@@ -2846,6 +3010,24 @@
     },
     {
       "album": {
+        "name": "i have a wing",
+        "url": "https://open.spotify.com/album/7rLr6RHZ4u7XXNGNsRcu14"
+      },
+      "artists": [
+        {
+          "name": "LIL SOFT TENNIS",
+          "url": "https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180422,
+      "name": "i have a wing",
+      "url": "https://open.spotify.com/track/210KJALjlNU0gWvWg7VfNS"
+    },
+    {
+      "album": {
         "name": "I Have a Dream.",
         "url": "https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z"
       },
@@ -2970,6 +3152,24 @@
     },
     {
       "album": {
+        "name": "iikanji",
+        "url": "https://open.spotify.com/album/7JjEPqfTY1X0j34H69RUXr"
+      },
+      "artists": [
+        {
+          "name": "taro",
+          "url": "https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "iikanji",
+      "url": "https://open.spotify.com/track/6BnM0zSmcdPe7hPErGFYvE"
+    },
+    {
+      "album": {
         "name": "Sea of Love",
         "url": "https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA"
       },
@@ -2985,7 +3185,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 210945,
       "name": "Inori",
       "url": "https://open.spotify.com/track/2q8CAa5H8Bih1zWvwzAglO"
@@ -3104,6 +3304,28 @@
     },
     {
       "album": {
+        "name": "Josetsusha!",
+        "url": "https://open.spotify.com/album/7263wqVHp54oFq8zGlEXTM"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "YungFLX",
+          "url": "https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201398,
+      "name": "Josetsusha!",
+      "url": "https://open.spotify.com/track/5MCTIDVidknIGlI9atECh4"
+    },
+    {
+      "album": {
         "name": "MAKTUB",
         "url": "https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr"
       },
@@ -3123,6 +3345,24 @@
       "duration_ms": 212720,
       "name": "July",
       "url": "https://open.spotify.com/track/4cs68fKzmJPTerjUvumIGl"
+    },
+    {
+      "album": {
+        "name": "junkie",
+        "url": "https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw"
+      },
+      "artists": [
+        {
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148727,
+      "name": "junkie",
+      "url": "https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN"
     },
     {
       "album": {
@@ -3411,6 +3651,36 @@
       "duration_ms": 167770,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5njVjiy3tHgOQBgE8axj2i"
+    },
+    {
+      "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/2hp2foFZGD0OzvtWVJAuvj"
+      },
+      "artists": [
+        {
+          "name": "L.O.S.T",
+          "url": "https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV"
+        },
+        {
+          "name": "Mehrshad",
+          "url": "https://open.spotify.com/artist/3PPpogAMEzD7CfVzb7pMps"
+        },
+        {
+          "name": "ROBBIN",
+          "url": "https://open.spotify.com/artist/1KGG30JmCcnQ1OiqhbxIbB"
+        },
+        {
+          "name": "BiLL",
+          "url": "https://open.spotify.com/artist/5TovkEpM2OxYnrXHz4COhv"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162439,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/5kdpgGk1aBZ8Y8Nfogkw8j"
     },
     {
       "album": {
@@ -4185,7 +4455,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 178146,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1M6BvW6Ao53o77piGFjyJ7"
@@ -4835,7 +5105,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 184000,
       "name": "PRADA",
       "url": "https://open.spotify.com/track/64gcGnra2d9fIgtfeIcRiv"
@@ -5299,7 +5569,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 167429,
       "name": "SAICO",
       "url": "https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg"
@@ -5391,6 +5661,50 @@
       "duration_ms": 218620,
       "name": "SCHOOL BUS",
       "url": "https://open.spotify.com/track/6OJBmOGTi6IYJMobH0NDUS"
+    },
+    {
+      "album": {
+        "name": "SEA SIDE DREAM",
+        "url": "https://open.spotify.com/album/7LpRawMaKw2ZQWLbcf0XkR"
+      },
+      "artists": [
+        {
+          "name": "JAKEN",
+          "url": "https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "SEA SIDE DREAM",
+      "url": "https://open.spotify.com/track/1JNJCxwHFX2YRWzc2oCa44"
+    },
+    {
+      "album": {
+        "name": "Seaside Flow",
+        "url": "https://open.spotify.com/album/4bIvLphbDoV8KidsnAIiZP"
+      },
+      "artists": [
+        {
+          "name": "03- Performance",
+          "url": "https://open.spotify.com/artist/6s8icbnXfmBIWKZBOeapej"
+        },
+        {
+          "name": "JAKEN",
+          "url": "https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt"
+        },
+        {
+          "name": "Rommy Montana",
+          "url": "https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "Seaside Flow",
+      "url": "https://open.spotify.com/track/6m1VM8e90qZPp0qc3DKIAP"
     },
     {
       "album": {
@@ -6456,6 +6770,32 @@
     },
     {
       "album": {
+        "name": "VEETHOV3N",
+        "url": "https://open.spotify.com/album/11gwuit4cLqR3mnEW2Z26L"
+      },
+      "artists": [
+        {
+          "name": "L.O.S.T",
+          "url": "https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV"
+        },
+        {
+          "name": "M3R",
+          "url": "https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm"
+        },
+        {
+          "name": "BiLL",
+          "url": "https://open.spotify.com/artist/5TovkEpM2OxYnrXHz4COhv"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "VEETHOV3N",
+      "url": "https://open.spotify.com/track/4grS0qdeitPb5QSxuiVBSm"
+    },
+    {
+      "album": {
         "name": "Boston Bag",
         "url": "https://open.spotify.com/album/1tH1VwEMO9vvlMAM4aaZNk"
       },
@@ -6475,6 +6815,28 @@
       "duration_ms": 206602,
       "name": "Veranda",
       "url": "https://open.spotify.com/track/4w4nfYof108UoDjp14i1YG"
+    },
+    {
+      "album": {
+        "name": "i have a wing",
+        "url": "https://open.spotify.com/album/7rLr6RHZ4u7XXNGNsRcu14"
+      },
+      "artists": [
+        {
+          "name": "LIL SOFT TENNIS",
+          "url": "https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ"
+        },
+        {
+          "name": "VaVa",
+          "url": "https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194620,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/3U8u7YFQvljmsBHsJWPBR3"
     },
     {
       "album": {

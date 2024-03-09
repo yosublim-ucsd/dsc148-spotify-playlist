@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 302484,
+  "2024-03-09": 302695,
   "date_first_scraped": "2022-05-01",
   "description": "A taste of French caf\u00e9 culture; the charming sounds of the Parisian streets.",
   "name": "Caf\u00e9 de Paris",
@@ -1969,7 +1969,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 168071,
       "name": "Le Vieux Moulin",
       "url": "https://open.spotify.com/track/32KZMkZ68ViB0nHVb3eLWt"
@@ -2071,6 +2071,24 @@
       "duration_ms": 126183,
       "name": "Les Yeux Noirs",
       "url": "https://open.spotify.com/track/6bwaxaqDX81qCJbYzbb3rX"
+    },
+    {
+      "album": {
+        "name": "Les Yeux Ouverts",
+        "url": "https://open.spotify.com/album/713V7aJPT8exLv571T7U1Y"
+      },
+      "artists": [
+        {
+          "name": "Trio Musette",
+          "url": "https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Les Yeux Ouverts",
+      "url": "https://open.spotify.com/track/1FjTuFrLRrbnT6sYmRCJcf"
     },
     {
       "album": {
@@ -3221,10 +3239,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 185165,
       "name": "Sunbeam Bossa",
       "url": "https://open.spotify.com/track/1vh9W9ZWrC7n646F9xylVx"
+    },
+    {
+      "album": {
+        "name": "Sunbeam Bossa",
+        "url": "https://open.spotify.com/album/7Kp2u0GQo9nIJdv0YSEs8W"
+      },
+      "artists": [
+        {
+          "name": "Bossa N\u00f3rdica",
+          "url": "https://open.spotify.com/artist/68CfKFCbNNQaqy75ZgwF4h"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185165,
+      "name": "Sunbeam Bossa",
+      "url": "https://open.spotify.com/track/3u5eEzUziM9DKtGlWDxH3s"
     },
     {
       "album": {

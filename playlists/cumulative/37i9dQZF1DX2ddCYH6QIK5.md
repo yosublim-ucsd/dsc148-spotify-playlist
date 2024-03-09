@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Lisl, Artwork: Isu Kim.
 
-1,048 songs - 2 day 12 hr 38 min
+1,049 songs - 2 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,7 +767,8 @@
 | [Rockstar Girl](https://open.spotify.com/track/3qjf9XVTewiGj4haOQimeB) | [SAMT](https://open.spotify.com/artist/17jJpG6K8SbUCWqlhGjHhj) | [Rockstar Girl](https://open.spotify.com/album/2cAbRnIIdwIkNzNVwfV5ff) | 2:33 | 2023-06-28 | 2023-07-13 |
 | [Romanze](https://open.spotify.com/track/29FU9XiU1bA1WDm7noy9O1) | [Aufmischen](https://open.spotify.com/artist/4F9NYy8BpBRabAPPgqaItN) | [Romanze](https://open.spotify.com/album/6rOW2wWd98ZexIijbWAkdo) | 4:58 | 2023-08-23 | 2023-09-21 |
 | [ROSA](https://open.spotify.com/track/4VkqS1YW73oVi3r186l0yr) | [Barking Orders in German](https://open.spotify.com/artist/3LWrXiQNs0HofrmLmJikQZ) | [ROSA](https://open.spotify.com/album/5KrQEpDIRBx2XSNzgeQJrg) | 2:28 | 2022-01-05 | 2022-02-03 |
-| [Rosenkohl](https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5) | 2:42 | 2023-09-27 |  |
+| [Rosenkohl](https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5) | 2:42 | 2023-09-27 | 2024-03-09 |
+| [Rosenkohl](https://open.spotify.com/track/5imD5rZGzUiekhPFNy87m7) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/5srSpRi5eecnIzIWU3dxlQ) | 2:42 | 2024-02-21 |  |
 | [Round Around](https://open.spotify.com/track/1zPssv4lqLQEm1AawunhoS) | [JA:CK](https://open.spotify.com/artist/33roiDwMgXEydzvBwn9NR7) | [Round Around](https://open.spotify.com/album/5zimKf9QPGPHWY6bpz4CDp) | 7:40 | 2023-02-08 | 2023-03-23 |
 | [Routine](https://open.spotify.com/track/5JLnA176P8AozeI8AVlvvA) | [Reveries](https://open.spotify.com/artist/60tGV9yMHKfk2MJvar5vLB) | [Routine](https://open.spotify.com/album/2Dplfc7k5a4bYO3P7oZvhu) | 3:21 | 2022-08-17 | 2022-09-29 |
 | [Rules](https://open.spotify.com/track/4DkgmbvD5wBz7gmrYq7Mp6) | [Nico Brey](https://open.spotify.com/artist/1PelAqHkDh239fKIvBQMG4) | [Rules](https://open.spotify.com/album/039De5ujSbZ15SKx8lrqZz) | 2:51 | 2023-05-24 | 2023-07-06 |

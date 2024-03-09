@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 2503996,
+  "2024-03-09": 2504399,
   "date_first_scraped": "2021-12-21",
   "description": "Relax to the sound of gentle instrumental Jazz.",
   "name": "Coffee Table Jazz",
@@ -591,6 +591,24 @@
       "duration_ms": 152133,
       "name": "Another autumn",
       "url": "https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq"
+    },
+    {
+      "album": {
+        "name": "Answer Me",
+        "url": "https://open.spotify.com/album/3FgQg3LI5EM2mnNIkLtAqv"
+      },
+      "artists": [
+        {
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210845,
+      "name": "Answer Me",
+      "url": "https://open.spotify.com/track/6fnNCsXknFz1ynDLccUonn"
     },
     {
       "album": {
@@ -3314,6 +3332,24 @@
     },
     {
       "album": {
+        "name": "Don't Talk (Put Your Head on My Shoulder)",
+        "url": "https://open.spotify.com/album/5yZjhFDydVDlGniKbYRxTJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340596,
+      "name": "Love Theme From Chinatown",
+      "url": "https://open.spotify.com/track/2c6wQCi3dt5vjbpysZIpdr"
+    },
+    {
+      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/7j75kLY17tahXwnAydXhv6"
       },
@@ -4575,10 +4611,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 301109,
       "name": "Round Midnight",
       "url": "https://open.spotify.com/track/5DlGJh3S6jYf0wZAiESvwA"
+    },
+    {
+      "album": {
+        "name": "Round Midnight",
+        "url": "https://open.spotify.com/album/3cYS5AqOYGEc4pBV7WRELf"
+      },
+      "artists": [
+        {
+          "name": "The Mellowtones",
+          "url": "https://open.spotify.com/artist/00Riinu1dD4y04vDPULBE6"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301109,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/6JthiDCrpv0Ihp9lgXgirE"
     },
     {
       "album": {

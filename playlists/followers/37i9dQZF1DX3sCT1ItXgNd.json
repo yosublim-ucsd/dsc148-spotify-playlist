@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 975052,
+  "2024-03-09": 975254,
   "date_first_scraped": "2023-03-20",
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Omar Montes, Abraham Mateo",
   "name": "Pop con \u00d1",
@@ -21,6 +21,28 @@
       "duration_ms": 204750,
       "name": "10.000 KMS",
       "url": "https://open.spotify.com/track/7N3cn6luTXylCtEnNrH2xo"
+    },
+    {
+      "album": {
+        "name": "1000COSAS",
+        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239482,
+      "name": "1000COSAS",
+      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
     },
     {
       "album": {
@@ -4145,7 +4167,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"

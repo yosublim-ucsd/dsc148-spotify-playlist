@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "BATSH!T",
+        "url": "https://open.spotify.com/album/06yR9hkbHlVRnOmPWfdefN"
+      },
+      "artists": [
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86582,
+      "name": "BATSH!T",
+      "url": "https://open.spotify.com/track/2ovN25hJdLKljhBDb3LuUg"
+    },
+    {
+      "album": {
         "name": "BATTERED",
         "url": "https://open.spotify.com/album/4IcBcb1v7U18kioUMrWkmf"
       },
@@ -1220,6 +1238,24 @@
       "duration_ms": 150152,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6DHxhN8MgRH5xV1Nawzvxs"
+    },
+    {
+      "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "album": {
@@ -1834,7 +1870,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 195294,
       "name": "CYBERSPUNK",
       "url": "https://open.spotify.com/track/4dHjvl8qRqYoIfaarf6T3g"
@@ -2140,6 +2176,28 @@
       "duration_ms": 116355,
       "name": "Demon Phonk",
       "url": "https://open.spotify.com/track/2yyZkKJWvrHOgWFg0KlsqG"
+    },
+    {
+      "album": {
+        "name": "DEMON TIME",
+        "url": "https://open.spotify.com/album/53fi0cpQKPK2DRi5Ka1D7W"
+      },
+      "artists": [
+        {
+          "name": "Sam Astaroth",
+          "url": "https://open.spotify.com/artist/1o0GRQIAWoqj1XL3xLbO1Q"
+        },
+        {
+          "name": "Netuh",
+          "url": "https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160118,
+      "name": "DEMON TIME - Slowed Version",
+      "url": "https://open.spotify.com/track/6jK5js9AUuu9E0QmJ2J2Uq"
     },
     {
       "album": {
@@ -2506,7 +2564,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 238178,
       "name": "Dungeon Crawler",
       "url": "https://open.spotify.com/track/67dUcpcrz6NQrJlAu19pla"
@@ -2550,7 +2608,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 124901,
       "name": "DXNAMITE",
       "url": "https://open.spotify.com/track/1tWuZiRwEgr0ajAzeK59sx"
@@ -3558,7 +3616,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 142909,
       "name": "GIMMI SOME",
       "url": "https://open.spotify.com/track/2kbBZrTnlCFUvhgmIRE5Ru"
@@ -5024,7 +5082,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 98181,
       "name": "krushed!",
       "url": "https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ"
@@ -5082,6 +5140,24 @@
       "duration_ms": 212500,
       "name": "LED Poisoning",
       "url": "https://open.spotify.com/track/4WmCTMxkCHZYXpIiqds8pj"
+    },
+    {
+      "album": {
+        "name": "Let Me Rot While I Battle For Serenity",
+        "url": "https://open.spotify.com/album/5rn3NS4yjKysSuYg3pqg2q"
+      },
+      "artists": [
+        {
+          "name": "86Casino",
+          "url": "https://open.spotify.com/artist/42CKsZqwmnsdWM3Pn53Vje"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103225,
+      "name": "Let Me Rot While I Battle For Serenity",
+      "url": "https://open.spotify.com/track/1kvgSzbpAmk3yqMafKe5Fc"
     },
     {
       "album": {
@@ -5430,6 +5506,32 @@
       "duration_ms": 126786,
       "name": "lost my way.",
       "url": "https://open.spotify.com/track/3LDOh5ufbKc9RMu1eOzL5V"
+    },
+    {
+      "album": {
+        "name": "Louca Encubada",
+        "url": "https://open.spotify.com/album/4Qmw0mV9qMba2FQVUh0BYz"
+      },
+      "artists": [
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        },
+        {
+          "name": "Rodricci",
+          "url": "https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8"
+        },
+        {
+          "name": "Launch13",
+          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119221,
+      "name": "Louca Encubada",
+      "url": "https://open.spotify.com/track/5pvVt1ak0vsGRE0Hl4kudu"
     },
     {
       "album": {
@@ -5854,7 +5956,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 142879,
       "name": "METAMORPHOSIS (Remix)",
       "url": "https://open.spotify.com/track/0yR5ZwxKa0idLWhUYFnUip"
@@ -6308,7 +6410,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 132000,
       "name": "Netflix and Kill",
       "url": "https://open.spotify.com/track/3MrGoHZzskvzIZ6Lfe8v4v"
@@ -6428,7 +6530,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 281609,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/4t1jlo1vraZ4b1HPbAd2vW"
@@ -6724,7 +6826,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 119736,
       "name": "Orquestra Maldita",
       "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
@@ -7780,7 +7882,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 216470,
       "name": "SAINT.EXE",
       "url": "https://open.spotify.com/track/24pRpqDOSYmIWEmpMAb8eJ"
@@ -7820,7 +7922,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 133714,
       "name": "SANTINHA",
       "url": "https://open.spotify.com/track/5gnjUImmYIwnC5SZN0LpZR"
@@ -8448,6 +8550,32 @@
       "duration_ms": 96086,
       "name": "SOCA SEM PARAR",
       "url": "https://open.spotify.com/track/1Vz1mxjnqpT4Dwuq12gtup"
+    },
+    {
+      "album": {
+        "name": "SOKAP",
+        "url": "https://open.spotify.com/album/1rGVePEFfFVh3S4oNVOsMJ"
+      },
+      "artists": [
+        {
+          "name": "Wendeng Music",
+          "url": "https://open.spotify.com/artist/4idjeYFjNRsyKAZuwwdnmr"
+        },
+        {
+          "name": "SXLVXRMANE",
+          "url": "https://open.spotify.com/artist/0sdE2SVeNSKj5UWT0m6YlN"
+        },
+        {
+          "name": "AK\u00d8ZA",
+          "url": "https://open.spotify.com/artist/7uEdqbEG4M7bdpCFbCa7xA"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98312,
+      "name": "SOKAP",
+      "url": "https://open.spotify.com/track/3fMiazKG2by9TJ9yffQt58"
     },
     {
       "album": {
@@ -10246,7 +10374,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 84705,
       "name": "yupyupyup!",
       "url": "https://open.spotify.com/track/36dyTYh7Yqr3mXLjwaXM76"

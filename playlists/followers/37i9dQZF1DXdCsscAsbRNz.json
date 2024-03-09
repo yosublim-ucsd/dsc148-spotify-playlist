@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 777886,
+  "2024-03-09": 777926,
   "date_first_scraped": "2020-10-20",
   "description": "Peaceful instrumentals to help you keep calm.",
   "name": "Peace",
@@ -3708,6 +3708,24 @@
     },
     {
       "album": {
+        "name": "Novastar",
+        "url": "https://open.spotify.com/album/1xP3LaVgXtIoMgdlQIli0r"
+      },
+      "artists": [
+        {
+          "name": "Galaxarastra",
+          "url": "https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Novastar",
+      "url": "https://open.spotify.com/track/14pCak2cBXOqZHQ2MQIUoW"
+    },
+    {
+      "album": {
         "name": "Nysn\u00f6",
         "url": "https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt"
       },
@@ -4464,6 +4482,24 @@
     },
     {
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/0L7mfhHY76oideIySmeor3"
+      },
+      "artists": [
+        {
+          "name": "Tryggve Malmberg",
+          "url": "https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/6hoZY1VeL8iqPFj3KgOXKf"
+    },
+    {
+      "album": {
         "name": "Rivi\u00e8re De Larmes",
         "url": "https://open.spotify.com/album/195cjVIsH4r8veuhmMXVp5"
       },
@@ -4479,6 +4515,24 @@
       "duration_ms": 178894,
       "name": "Rivi\u00e8re De Larmes",
       "url": "https://open.spotify.com/track/6wlVBEGKPvOoXfGwOJh0H8"
+    },
+    {
+      "album": {
+        "name": "Road to Euphoria",
+        "url": "https://open.spotify.com/album/1sQ0hNAHs1Su2soE9a18wU"
+      },
+      "artists": [
+        {
+          "name": "Tuscany Flow",
+          "url": "https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199735,
+      "name": "Road to Euphoria",
+      "url": "https://open.spotify.com/track/2bjHeVpWi69dW0x2rVVzss"
     },
     {
       "album": {
@@ -6337,6 +6391,24 @@
       "duration_ms": 184786,
       "name": "Woods",
       "url": "https://open.spotify.com/track/5in0ezyUreA4p4XgBd5dJX"
+    },
+    {
+      "album": {
+        "name": "Zenlume",
+        "url": "https://open.spotify.com/album/0tRkzjZbdKzi3gItqw3Lzk"
+      },
+      "artists": [
+        {
+          "name": "Arctic Whispers",
+          "url": "https://open.spotify.com/artist/0c1z1KTtxnIZNed7WofH4J"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Zenlume",
+      "url": "https://open.spotify.com/track/6hHtrP0WMbClC6O4ayu630"
     },
     {
       "album": {

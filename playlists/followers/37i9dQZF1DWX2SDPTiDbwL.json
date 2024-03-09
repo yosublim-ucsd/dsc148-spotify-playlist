@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 31942,
+  "2024-03-09": 31968,
   "date_first_scraped": "2023-12-19",
   "description": "El precioso sonido de la guitarra flamenca, perfecto para evadirte.",
   "name": "Guitarra Flamenca Relajante",
@@ -591,10 +591,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 212687,
       "name": "Flowers of Genzano",
       "url": "https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr"
+    },
+    {
+      "album": {
+        "name": "Flowers of Genzano",
+        "url": "https://open.spotify.com/album/7ApW1Ydp8x4ZcApid1rNMy"
+      },
+      "artists": [
+        {
+          "name": "Armand de Paris",
+          "url": "https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212687,
+      "name": "Flowers of Genzano",
+      "url": "https://open.spotify.com/track/7AFWXDnyopsDfGcdkRMtLZ"
     },
     {
       "album": {

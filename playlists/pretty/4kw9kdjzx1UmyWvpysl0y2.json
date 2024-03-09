@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU5OSxjMDhkMTk2ZjU4ZjZlOGM5ZjZjMzNkMzhmYjk1Y2FmNmNiZTAyNzNi",
+  "snapshot_id": "NDYwMSw1ZDI0ZTMxOTcyYTM1NGY0MjJkMTJlYTI4M2JhOGZhZDI2MmUzNGUx",
   "tracks": [
+    {
+      "added_at": "2024-03-08 17:06:14",
+      "album": {
+        "name": "NEXT LVL",
+        "url": "https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "NEXT LVL",
+      "url": "https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo"
+    },
     {
       "added_at": "2024-03-07 18:02:42",
       "album": {
@@ -1139,22 +1159,6 @@
       "duration_ms": 179000,
       "name": "haunted",
       "url": "https://open.spotify.com/track/7rMhXwRXJc2C6oLYzkdt2J"
-    },
-    {
-      "added_at": "2023-11-27 16:02:17",
-      "album": {
-        "name": "Chroma",
-        "url": "https://open.spotify.com/album/36V5r5FbxC2I0U1rCZn2Li"
-      },
-      "artists": [
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Chroma",
-      "url": "https://open.spotify.com/track/0Yf9BcL40KJplKTDwmpIPw"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

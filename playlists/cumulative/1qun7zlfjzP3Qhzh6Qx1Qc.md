@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyoncé
 
-99 songs - 5 hr 29 min
+101 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Completely, Sweetly](https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Chains & Stakes](https://open.spotify.com/album/7y1TBs8QPwekErm9r0YZy7) | 3:51 | 2024-02-09 |  |
 | [Countin Em Up](https://open.spotify.com/track/5jtMOAP2VSQJ2jtqlH9JRj) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Countin Em Up](https://open.spotify.com/album/00ydoOn1lwmkwOtBBUnpaZ) | 2:48 | 2023-11-03 |  |
 | [Cowboy Songs](https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboy Songs](https://open.spotify.com/album/6oYFjTGEuRoK7oeJisREF5) | 3:07 | 2024-02-23 |  |
+| [Damn Near Normal](https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Damn Near Normal](https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7) | 3:44 | 2024-03-08 |  |
 | [Dark Daze Blues](https://open.spotify.com/track/5CXQOTRrDepVYKROhaROTj) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Dark Daze Blues](https://open.spotify.com/album/0b4tUVqtiR2VOoGqNjAsN0) | 3:48 | 2023-11-17 |  |
 | [Different About You](https://open.spotify.com/track/0S1fmk6xz49SHINeXXpStW) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv) | 2:40 | 2023-11-03 |  |
 | [Different Kind of Blue](https://open.spotify.com/track/7bpAdXNMxxKHqOAvCIdHOd) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Different Kind of Blue](https://open.spotify.com/album/4iC3AGxB0FRl8X7oSlVL4A) | 3:29 | 2023-11-03 | 2024-01-13 |
@@ -50,10 +51,11 @@
 | [Fix You Too \(feat\. Kameron Marlowe\)](https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 3:19 | 2023-11-03 | 2024-02-10 |
 | [Float](https://open.spotify.com/track/79X3dUeEnrYoJMQM3I8ZTG) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Float](https://open.spotify.com/album/5DCRR6UHRl5R3ZE4lcTwbD) | 3:34 | 2023-11-03 |  |
 | [Go Get Her](https://open.spotify.com/track/1V9vDStzw6C7pXSsIrzER2) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3cZg2kg86yLwTyMoBv5bBC) | 3:15 | 2023-11-03 |  |
-| [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 | 2023-11-03 |  |
+| [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 | 2023-11-03 | 2024-03-09 |
 | [Good With Me](https://open.spotify.com/track/47EkFFYRTlgatkXS0gg5FZ) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Good With Me](https://open.spotify.com/album/4MOXUKrGGMuokVxovC7wQL) | 2:26 | 2023-11-03 | 2024-02-24 |
 | [Growin' Up and Gettin' Old](https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up and Gettin' Old](https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d) | 3:53 | 2023-11-03 |  |
 | [Halloween](https://open.spotify.com/track/5pNFOG7WqeKscjCPm580Nr) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Halloween](https://open.spotify.com/album/3Jr0OZFsUDtFAVAwb79WFR) | 3:25 | 2023-11-03 |  |
+| [Hard Luck & Circumstances](https://open.spotify.com/track/28ejnV7iWD3bIgBXwcTy5k) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Hard Luck & Circumstances](https://open.spotify.com/album/2feHLj9w7BcThwGsmBFO1E) | 3:04 | 2024-03-08 |  |
 | [HEAVEN HAS A BAR \(with Zac Brown\)](https://open.spotify.com/track/3NfLxTFZRLb8WGVeeG3e8i) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [HEAVEN HAS A BAR \(with Zac Brown\)](https://open.spotify.com/album/0YzBztGGfR2i1TucxB2K0x) | 2:53 | 2023-11-03 | 2024-02-17 |
 | [Heavensville](https://open.spotify.com/track/69clAgwLp30lmH71RbRqae) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Tim & The Glory Boys](https://open.spotify.com/album/29kl3OyePIXcoyZL9rGcVH) | 2:50 | 2023-11-03 | 2024-02-17 |
 | [Hold Your Horses](https://open.spotify.com/track/54zFROMkZLUBUX3p2IjvrA) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Hold Your Horses](https://open.spotify.com/album/0egbApJm7p39peGp215L7X) | 2:44 | 2024-01-19 |  |
@@ -79,7 +81,7 @@
 | [Rolling Stoned Again](https://open.spotify.com/track/1QC5apn9Ye3gC6z2XkPtYJ) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Mellow War](https://open.spotify.com/album/0Jd8RkTQ1kqieqVlENwyJR) | 4:43 | 2024-02-02 |  |
 | [Rustin' In The Rain](https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 3:36 | 2023-11-03 |  |
 | [Small Town Somethin'](https://open.spotify.com/track/2PYiiO6tPLmuCqNH2sV7J6) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Small Town Somethin'](https://open.spotify.com/album/0U1acuLEmKlqtPoiCX7vqU) | 2:32 | 2023-11-03 | 2024-02-03 |
-| [Sober Thing](https://open.spotify.com/track/6seAvadjjutVTkggYOh1to) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Sober Thing](https://open.spotify.com/album/6EY0avx8oulWJ9vSOB3oUZ) | 4:32 | 2023-12-01 |  |
+| [Sober Thing](https://open.spotify.com/track/6seAvadjjutVTkggYOh1to) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Sober Thing](https://open.spotify.com/album/6EY0avx8oulWJ9vSOB3oUZ) | 4:32 | 2023-12-01 | 2024-03-09 |
 | [Southeast Oklahoma Pines](https://open.spotify.com/track/3vz0BqYh2UyLd8dOHLc861) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Southeast Oklahoma Pines](https://open.spotify.com/album/2zgewP1FAgRxn3oKs5UEQA) | 3:51 | 2023-12-01 |  |
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-23 |  |
 | [Stoned in Bridge Creek](https://open.spotify.com/track/3PaELvtTj5bNXT6kDOrfV5) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Stoned in Bridge Creek](https://open.spotify.com/album/34UP11wojrp6YFBlmWIy3O) | 2:50 | 2024-01-19 |  |

@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-303 songs - 15 hr 31 min
+304 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Dreaming](https://open.spotify.com/track/1wyfWtYm1ObQLQ50tm5O9O) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Fedo](https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M), [Max Landry](https://open.spotify.com/artist/0wJDbxpqtwjA2FxfU6KI0E) | [Dreaming](https://open.spotify.com/album/0fXksf7oidpAA6o6evLU0f) | 3:13 | 2022-10-14 | 2023-08-12 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2023-06-02 |  |
 | [Edge Of Tonight](https://open.spotify.com/track/06XwKR1TK5VqEkAmtxBfdn) | [Yohann Warren](https://open.spotify.com/artist/0KPaZqSst478dYqODQG37L), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Edge Of Tonight](https://open.spotify.com/album/48V7kmffIm49A37EyyLUPH) | 2:48 | 2022-07-29 | 2022-08-27 |
+| [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 | 2024-03-08 |  |
 | [Empty City](https://open.spotify.com/track/4kV5j4OqLxLPD6i3kCIKoD) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Empty City](https://open.spotify.com/album/05qA73wEVpqEmOcDpEutiy) | 3:11 | 2022-09-09 | 2022-12-17 |
 | [Energy Flow Eternal](https://open.spotify.com/track/66TbpLvQxLqEctvObaZL3y) | [Isildur](https://open.spotify.com/artist/0aFceuqfrsUjmily2OAgW4) | [Energy Flow Eternal](https://open.spotify.com/album/67INXDCZGg6iHi9gxJVCxm) | 2:06 | 2024-02-14 |  |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 4:00 | 2023-06-02 |  |

@@ -12553,6 +12553,24 @@
     },
     {
       "album": {
+        "name": "MOTOR PHONK",
+        "url": "https://open.spotify.com/album/2FapFkxPflYXJF1hSOgDik"
+      },
+      "artists": [
+        {
+          "name": "PHONKA TRUCK",
+          "url": "https://open.spotify.com/artist/6YS8kbWWMQlkGFiloRZ7As"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84923,
+      "name": "MOTOR PHONK",
+      "url": "https://open.spotify.com/track/28vaVxwq9XicIjYnsHyVt2"
+    },
+    {
+      "album": {
         "name": "Mountains",
         "url": "https://open.spotify.com/album/2ZvTo6EBXqaIct16IL4WDC"
       },
@@ -22058,6 +22076,28 @@
       "duration_ms": 155176,
       "name": "You're Free",
       "url": "https://open.spotify.com/track/06lXCDfhIm8pXt62k7rpMQ"
+    },
+    {
+      "album": {
+        "name": "you're hell",
+        "url": "https://open.spotify.com/album/0FRoQBC3w2gh4jDmh7Oq1H"
+      },
+      "artists": [
+        {
+          "name": "brxly",
+          "url": "https://open.spotify.com/artist/1cGqXGh8OUcbf53Hg57AHk"
+        },
+        {
+          "name": "Angel Hill",
+          "url": "https://open.spotify.com/artist/0v4Iw2QsGo7sa1kzpccz6k"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "you're hell",
+      "url": "https://open.spotify.com/track/7dGY8CoLPJmGEaQgsRLL4f"
     },
     {
       "album": {

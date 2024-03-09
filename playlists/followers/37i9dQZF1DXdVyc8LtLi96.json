@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 497982,
+  "2024-03-09": 515233,
   "date_first_scraped": "2022-03-28",
   "description": "The perfect soundtrack to your morning yoga session.",
   "name": "Sunrise Yoga",
@@ -2931,6 +2931,24 @@
       "duration_ms": 177500,
       "name": "Down by the Ocean",
       "url": "https://open.spotify.com/track/3RYqhN2wn4Qg5fwLRbCinW"
+    },
+    {
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3uFROp6PRHYnTDQ4fNXfr9"
+      },
+      "artists": [
+        {
+          "name": "Skye Saraswati",
+          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4DQJoPD1v1Qk0eWAr0DF3b"
     },
     {
       "album": {
@@ -6714,6 +6732,24 @@
     },
     {
       "album": {
+        "name": "Mystic Meadows",
+        "url": "https://open.spotify.com/album/3Yz0ILwAg3NeHPZMagyk4Y"
+      },
+      "artists": [
+        {
+          "name": "Abundance",
+          "url": "https://open.spotify.com/artist/785T5QvYWEMaWjrKp5cjhe"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mystic Meadows",
+      "url": "https://open.spotify.com/track/63d6qq577tB810B9VkDssc"
+    },
+    {
+      "album": {
         "name": "Mystique",
         "url": "https://open.spotify.com/album/5ozjjny1iBqlqX818j2M7a"
       },
@@ -9306,6 +9342,24 @@
     },
     {
       "album": {
+        "name": "Silent Hills",
+        "url": "https://open.spotify.com/album/3uux2FHCWodo5aCJGdVPVd"
+      },
+      "artists": [
+        {
+          "name": "Silas Luminance",
+          "url": "https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Silent Hills",
+      "url": "https://open.spotify.com/track/6NHnpU4Yzjnv3qz7HsZELc"
+    },
+    {
+      "album": {
         "name": "Silent Shade",
         "url": "https://open.spotify.com/album/1mnprphp6uMKkvabr23eOC"
       },
@@ -9321,6 +9375,24 @@
       "duration_ms": 152571,
       "name": "Silent Shade",
       "url": "https://open.spotify.com/track/3pnWNiJlioydUInroCiwe5"
+    },
+    {
+      "album": {
+        "name": "Silhouette Portrait",
+        "url": "https://open.spotify.com/album/3KNNB0CVAOTnesXWNBgQBS"
+      },
+      "artists": [
+        {
+          "name": "Elevated Minds",
+          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Silhouette Portrait",
+      "url": "https://open.spotify.com/track/5gujjd1Zzek7tpq0C7sX4I"
     },
     {
       "album": {

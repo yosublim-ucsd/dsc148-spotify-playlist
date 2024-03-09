@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-112 songs - 6 hr 35 min
+113 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Same Train](https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N) | [Sue Ray](https://open.spotify.com/artist/0X5AzsfEoqLOqtWczOKE3B) | [Same Train](https://open.spotify.com/album/4dntdgAScxEYy00uXNYQsY) | 3:52 | 2023-06-15 | 2023-08-25 |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2023-10-27 |  |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-06-15 | 2023-11-18 |
+| [Savior](https://open.spotify.com/track/3NTMy0v9KcdadXx0FlN3p1) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB), [Ava Camejo](https://open.spotify.com/artist/4C4IzZa6IdDY2jrByR3jW1) | [Savior](https://open.spotify.com/album/1fD81rxtlveVblYtR7fbXk) | 3:26 | 2024-03-07 |  |
 | [Shake the Frost \(Live\)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Live on Red Barn Radio I & II](https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6) | 2:55 | 2023-06-15 |  |
 | [Simple Things](https://open.spotify.com/track/4otlvyelfJJxZlu63beJUN) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE), [Brooke Schubert](https://open.spotify.com/artist/37AhJFVvcLzRvWWHaHOrlq) | [Simple Things](https://open.spotify.com/album/2yjkujv0fVBteiGF1jtLG3) | 4:13 | 2023-06-15 |  |
 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2023-06-15 | 2023-08-02 |

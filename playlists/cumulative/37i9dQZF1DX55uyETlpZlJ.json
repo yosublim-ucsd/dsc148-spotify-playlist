@@ -1145,6 +1145,28 @@
     },
     {
       "album": {
+        "name": "Don't Care (Female Version)",
+        "url": "https://open.spotify.com/album/1EWSD1tTU4iixNYQjCEYIc"
+      },
+      "artists": [
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        },
+        {
+          "name": "Sinchana Gowda",
+          "url": "https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204351,
+      "name": "Don't Care - Female Version",
+      "url": "https://open.spotify.com/track/6zRJJRw3dX9xcXSHBQMeQf"
+    },
+    {
+      "album": {
         "name": "Don't Worry 2",
         "url": "https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 366880,
+  "2024-03-09": 367064,
   "date_first_scraped": "2023-09-07",
   "description": "All the stuff that will blow your speakers!",
   "name": "Bass Explosion",
@@ -243,7 +243,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 135565,
       "name": "Alors On Danse",
       "url": "https://open.spotify.com/track/78kyW53mM6Sh6OqnBYGUET"
@@ -409,6 +409,36 @@
       "duration_ms": 199500,
       "name": "ARCEUS",
       "url": "https://open.spotify.com/track/1EUKFavDiIvi2J6Cd35Tmd"
+    },
+    {
+      "album": {
+        "name": "Around the World (La La La)",
+        "url": "https://open.spotify.com/album/10VpbIxcPTE6lUijehThKK"
+      },
+      "artists": [
+        {
+          "name": "Semitoo",
+          "url": "https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk"
+        },
+        {
+          "name": "DJane HouseKat",
+          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
+        },
+        {
+          "name": "Quickdrop",
+          "url": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
+        },
+        {
+          "name": "Ivan Fillini",
+          "url": "https://open.spotify.com/artist/4Lx8Q2i6Cg3RHCWa0lODGa"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149488,
+      "name": "Around the World (La La La) - Quickdrop Edit",
+      "url": "https://open.spotify.com/track/6hhxzTEz5HjBHeVdWbylUy"
     },
     {
       "album": {
@@ -1003,7 +1033,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 133593,
       "name": "Chasing Highs - LIZOT Remix",
       "url": "https://open.spotify.com/track/5uISqR4lyfgJ0snckYmQpJ"
@@ -1455,7 +1485,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 129882,
       "name": "Eins, Zwei, Polizei",
       "url": "https://open.spotify.com/track/25ycLLJ0zKhCDf5o41R7KJ"
@@ -2946,6 +2976,36 @@
     },
     {
       "album": {
+        "name": "LIFT ME UP",
+        "url": "https://open.spotify.com/album/4P4mMZqsPVTzwAxpdMrHVe"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Dajae",
+          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227463,
+      "name": "LIFT ME UP",
+      "url": "https://open.spotify.com/track/7LNiEbgn9x43HQGQywRoYC"
+    },
+    {
+      "album": {
         "name": "Lift Me Up (Hard Mix)",
         "url": "https://open.spotify.com/album/5QPKhPol4vmOWPk4K4XXHu"
       },
@@ -3005,7 +3065,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 153585,
       "name": "Live Until I Die",
       "url": "https://open.spotify.com/track/4JjHBHKIBCuojHrL5wyMow"
@@ -3535,7 +3595,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 211200,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/2d390UHjBS2TIY27DGFajM"
@@ -3819,7 +3879,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 216827,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/1RjAO5GLBf0UG3OMVUMQXQ"
@@ -3870,6 +3930,24 @@
     },
     {
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
+    },
+    {
+      "album": {
         "name": "Party PPL",
         "url": "https://open.spotify.com/album/0oglJBSSaMlKM95QLXQGx5"
       },
@@ -3889,6 +3967,28 @@
       "duration_ms": 148412,
       "name": "Party PPL",
       "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
+    },
+    {
+      "album": {
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/7jptXhYjOAixCHxhXUiLgU"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144004,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/441rdYPewU5Ky9FsMJkZQH"
     },
     {
       "album": {
@@ -5096,6 +5196,28 @@
     },
     {
       "album": {
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
+    },
+    {
+      "album": {
         "name": "SUBMARINE",
         "url": "https://open.spotify.com/album/3t3RRbPtY3llgrDrI8ceLC"
       },
@@ -5723,6 +5845,28 @@
       "duration_ms": 131388,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
+    },
+    {
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/3qbJJopxn88dscIj4hMMOl"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/5mASStSnLfAz7JvHV5kSyx"
     },
     {
       "album": {

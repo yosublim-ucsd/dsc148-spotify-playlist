@@ -1,13 +1,29 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 61522,
+  "description": "The best newly released songs of the week.  International Women\u2019s Day takeover. Powered by <a href=\"spotify:genre:equal\">EQUAL</a> Cover: Ariana Grande",
+  "num_followers": 61527,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGY0N2YzODhlODM2OTU3MzEyYjcyMDRjMjE1ZWEzMWRhNmRlNzdk",
+  "snapshot_id": "MCw0NjQxY2M0OTkzMWRjZWE0NzU1NGY3ODllYjIzNzk1MmNiZTgwNzU0",
   "tracks": [
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
@@ -43,6 +59,26 @@
       "duration_ms": 224715,
       "name": "Berlian",
       "url": "https://open.spotify.com/track/3LVpCP7BEJpa2p7E030X2K"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -491,6 +527,26 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
         "name": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
         "url": "https://open.spotify.com/album/0kD66lHtMMohY7jcEHvs4X"
       },
@@ -603,6 +659,22 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 164927,
+      "name": "bye",
+      "url": "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
         "name": "Sahur",
         "url": "https://open.spotify.com/album/602kkLm7lnySEaeOLZJJWT"
       },
@@ -683,6 +755,22 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1e3ReOGDeVWyJxSWdMGiDX"
+      },
+      "artists": [
+        {
+          "name": "Yaung",
+          "url": "https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12"
+        }
+      ],
+      "duration_ms": 221102,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3xpvoBN6yTYBe4WVEE4GqL"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
         "name": "His Way",
         "url": "https://open.spotify.com/album/3DXndWkLpoRlEhZEYDlqC8"
       },
@@ -727,6 +815,22 @@
       "duration_ms": 240000,
       "name": "Flame",
       "url": "https://open.spotify.com/track/6vxY4ywCdkKjrMgk4o91xH"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "HOUSE OF TRICKY : Trial And Error",
+        "url": "https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "duration_ms": 189441,
+      "name": "We Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -779,6 +883,22 @@
       "duration_ms": 207453,
       "name": "Blooming just for you",
       "url": "https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Upgrade V",
+        "url": "https://open.spotify.com/album/1uukXrk6p4B3oNbgkmUgRk"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "WORK",
+      "url": "https://open.spotify.com/track/0gINJfVy7dCxkSwrJmH0u2"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -1199,6 +1319,22 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
+        "name": "Wego Wego (Killer Peter X Xdinary Heroes) [Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Wego Wego",
+      "url": "https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
         "name": "It's the 2 N 4 N Tambourine",
         "url": "https://open.spotify.com/album/0Y97hphe2vdQ7bAx1SYzNv"
       },
@@ -1403,8 +1539,8 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
-        "name": "I Just Wanna Have Something to Do (2024 Remaster)",
-        "url": "https://open.spotify.com/album/3eItNlJLLz1L8xq4CzXNb2"
+        "name": "I Just Wanna Have Something To Do / Betcha (2024 Remaster)",
+        "url": "https://open.spotify.com/album/2aFACqpuUVQt2qXQcbASWG"
       },
       "artists": [
         {
@@ -1413,8 +1549,8 @@
         }
       ],
       "duration_ms": 145781,
-      "name": "I Just Wanna Have Something to Do (B-Side) (2024 Remaster)",
-      "url": "https://open.spotify.com/track/2X7y2jvRMievv1LEQKAXtx"
+      "name": "I Just Wanna Have Something To Do - 2024 Remaster",
+      "url": "https://open.spotify.com/track/5bGVtLRW7GQs14UnCu8FdE"
     },
     {
       "added_at": "2024-03-07 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 7
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,036 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,044 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 48 | [wave on surface](https://open.spotify.com/track/3ZRy2T77ByUPf5zA268NzE) | [MK woop](https://open.spotify.com/artist/3AUCOiwJCLQmRotHBdCW7j) | [wave on surface](https://open.spotify.com/album/2s467Lw8xrJ5NEs3TFJYNE) | 2:42 |
 | 49 | [Come Back](https://open.spotify.com/track/2ZIGZwbJGcjFrqimcqMHrf) | [HAKU](https://open.spotify.com/artist/5e7WY3osdEKUSJy2LozHqC) | [UNCHAIN](https://open.spotify.com/album/7hTm6fj4DpPqB0LgLavfsw) | 2:13 |
 | 50 | [Youth](https://open.spotify.com/track/5cacwNDm744DRT4ja7je6t) | [Ole](https://open.spotify.com/artist/7m9yK07LzbtyQCfhtNkUEd), [ggoyle](https://open.spotify.com/artist/1aZM18HplOP2ZfNIcRT9NM) | [PSP4000](https://open.spotify.com/album/10Z9oRfsym5hoPSOofIxw0) | 2:16 |
-| 51 | [SWEETHEART \- Remix](https://open.spotify.com/track/2v6dPfhHXG8m1Vu9Cfq7co) | [SWEETHEART](https://open.spotify.com/artist/7drlcyR6g8n9QVBvTWJVh4), [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e) | [SWEETHEART \(Remix\)](https://open.spotify.com/album/16gP5RNfZ3i12zEs9nKgp8) | 3:54 |
+| 51 | [SWEETHEART \- Remix](https://open.spotify.com/track/2v6dPfhHXG8m1Vu9Cfq7co) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx), [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e) | [SWEETHEART \(Remix\)](https://open.spotify.com/album/16gP5RNfZ3i12zEs9nKgp8) | 3:54 |
 | 52 | [2am in Tokyo](https://open.spotify.com/track/1rjNWXWLPdxYcY7oFnfOlU) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [2am in Tokyo](https://open.spotify.com/album/6n2U8QF1kjfUfMSfaNOZ3G) | 2:24 |
 | 53 | [seaside boiz](https://open.spotify.com/track/0OHWUJxSTDN6Q4TnaBzSz3) | [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK), [IC¥ BOI](https://open.spotify.com/artist/0k448qMVtcDB7G7AVrQyRS) | [Zero e.p.](https://open.spotify.com/album/6vRvbwnb8kC9Ps6h3VBlC1) | 3:12 |
 | 54 | [9](https://open.spotify.com/track/6pY42vhU4JWOkBTJvpndrY) | [IR](https://open.spotify.com/artist/0rGVRHYxdlIBwdcrHLusJ1), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [NEVER ENOUGH](https://open.spotify.com/album/4SZS9RZ90ANoMUCMUcuICm) | 2:11 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 98 | [GINGINDEGO](https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR) | [Ryuk](https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [GINGINDEGO](https://open.spotify.com/album/6bErHCwerAoOZsI2cEfXC2) | 1:51 |
 | 99 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCw4NTBhYzVhYjgyMGRkMTFkOGU4MmMxZjE4MjI2Y2YyMzkxMzI0NDZm`
+Snapshot ID: `MCw4YzI5ZDg5YWM4MTY4ZWE0MzU4YmJiNWNkMDM3YjliMTVjZWZhMDYw`

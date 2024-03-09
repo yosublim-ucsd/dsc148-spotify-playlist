@@ -1,12 +1,12 @@
 {
   "description": "Craving that crisp country air? These low-key Country songs will take you there.",
-  "num_followers": 91386,
+  "num_followers": 91415,
   "original_name": "Chilled Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGU2MDgxNTAxMDFmMjQzM2JkZTA4ZWJhNzkxNjQ4YmYxN2NiNmI0",
+  "snapshot_id": "MCxkMDdjNDZkY2U3NTgwZGI5MDNjMTAwYTAyMmIwYjNiNTY5ZTBhNzAw",
   "tracks": [
     {
       "added_at": "2024-03-07 13:00:00",
@@ -163,6 +163,26 @@
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "added_at": "2024-03-07 13:00:00",
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/1fD81rxtlveVblYtR7fbXk"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        },
+        {
+          "name": "Ava Camejo",
+          "url": "https://open.spotify.com/artist/4C4IzZa6IdDY2jrByR3jW1"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3NTMy0v9KcdadXx0FlN3p1"
     },
     {
       "added_at": "2024-03-07 13:00:00",

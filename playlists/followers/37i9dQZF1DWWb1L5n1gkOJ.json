@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 59701,
+  "2024-03-09": 59767,
   "date_first_scraped": "2022-10-28",
   "description": "Gentle, soft Ambient music for focus and concentration. ",
   "name": "Ambient Study",
@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/0OR0RkOp6ZIpipC8mcj3jT"
+      },
+      "artists": [
+        {
+          "name": "Matheo Lyon",
+          "url": "https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164631,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/1135ODK6OVlseiV2XYIhgb"
+    },
+    {
+      "album": {
         "name": "Ascending",
         "url": "https://open.spotify.com/album/2C9DeBnFjZUKi8J3FrpVsr"
       },
@@ -219,6 +237,24 @@
       "duration_ms": 178500,
       "name": "Auriga",
       "url": "https://open.spotify.com/track/1xB31OvpmOnsalR2T2RF4Y"
+    },
+    {
+      "album": {
+        "name": "Aurora Borealis Melody",
+        "url": "https://open.spotify.com/album/1jwlRz30Nxv3cvQWeZVuIK"
+      },
+      "artists": [
+        {
+          "name": "Nebula Drift",
+          "url": "https://open.spotify.com/artist/2KFE9LRhcbRSsSJBasIFjh"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180362,
+      "name": "Aurora Borealis Melody",
+      "url": "https://open.spotify.com/track/3XkQDGQRnsKLNJ71BwYnqq"
     },
     {
       "album": {
@@ -1490,6 +1526,24 @@
     },
     {
       "album": {
+        "name": "Mild Season",
+        "url": "https://open.spotify.com/album/1lVMgr76m4osE1qQwyf1jC"
+      },
+      "artists": [
+        {
+          "name": "Shibuki",
+          "url": "https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Mild Season",
+      "url": "https://open.spotify.com/track/7d8I19LKTGqXrtVuuicHeU"
+    },
+    {
+      "album": {
         "name": "Mindful Soul",
         "url": "https://open.spotify.com/album/7xVsT3GMGgakHk9xbtjDzC"
       },
@@ -1505,6 +1559,24 @@
       "duration_ms": 159100,
       "name": "Mindful Soul",
       "url": "https://open.spotify.com/track/1lfuL7h3owfL3hCiWE2EZK"
+    },
+    {
+      "album": {
+        "name": "Moonwalk",
+        "url": "https://open.spotify.com/album/10xs3hLs3VbR1YV3A4h1We"
+      },
+      "artists": [
+        {
+          "name": "Stellar Serenity",
+          "url": "https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177734,
+      "name": "Moonwalk",
+      "url": "https://open.spotify.com/track/4iayZPpJMR21nmQSXznRYy"
     },
     {
       "album": {

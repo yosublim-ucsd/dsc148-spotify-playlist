@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 25308,
+  "2024-03-09": 25316,
   "date_first_scraped": "2022-04-19",
   "description": "Soft piano lullaby versions of Jazz classics to lull your baby to sleep.",
   "name": "Lullaby Jazz",
@@ -453,6 +453,24 @@
       "duration_ms": 144730,
       "name": "Here Is That Rainy Day",
       "url": "https://open.spotify.com/track/2OMdeDUpMJdWmsYm9x7cxM"
+    },
+    {
+      "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/1P70rEW0GqqZFYHFJshx9f"
+      },
+      "artists": [
+        {
+          "name": "Loretta Byrd",
+          "url": "https://open.spotify.com/artist/7bAnog3vSfSupsOjo7UOzs"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168483,
+      "name": "I Fall in Love Too Easily",
+      "url": "https://open.spotify.com/track/0QE7ySqgO2avCdNqOVMOIt"
     },
     {
       "album": {

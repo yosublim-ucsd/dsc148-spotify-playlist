@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,931 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,995 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 13 | [Let The Sun In](https://open.spotify.com/track/29KQzb30YTBDxE47rfaPMO) | [Carl Antaine](https://open.spotify.com/artist/5KXf7KzCn3CFeB3hRvHvqc) | [The Insider](https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX) | 3:08 |
 | 14 | [You Are Too Beautiful](https://open.spotify.com/track/4Z21YnfFOk7DCoRmSDsbDE) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [You Are Too Beautiful](https://open.spotify.com/album/321bjucXAq72mVgASyC5eT) | 2:07 |
 | 15 | [You Go to My Head](https://open.spotify.com/track/1VB3aOUzV1vkjPYCUTmdMg) | [Maarten van der Grinten](https://open.spotify.com/artist/37e1k0TyFygkdwIn5paeFN) | [A Guitar, a Man & a Song, Vol\. I](https://open.spotify.com/album/44EMmTgbEmnr89sTqbnGLM) | 2:42 |
-| 16 | [My Romance](https://open.spotify.com/track/1Y2z2AZ25yiHNUK523QNBW) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [My Romance](https://open.spotify.com/album/6sY5uxe66omAQihy4VTHYi) | 3:48 |
+| 16 | [My Romance](https://open.spotify.com/track/4tXm4EZDDDWGZVbscYKDYy) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [My Romance](https://open.spotify.com/album/2MJFpIUmawfun460U8TPDr) | 3:48 |
 | 17 | [From The Mountains](https://open.spotify.com/track/2vrav3XxztyyB5jnvg3IEH) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/65WGqUztAtgLA6KLy9rcwJ) | 8:20 |
 | 18 | [Blue Room](https://open.spotify.com/track/36y5KE7Ff8icJAalE6a1Xk) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Blue Room](https://open.spotify.com/album/0ELTva9e0eumaGZyiZwWyD) | 2:34 |
 | 19 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 69 | [London Plane](https://open.spotify.com/track/38OyAHWRjAiges8oGXng5c) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:09 |
 | 70 | [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 |
 
-Snapshot ID: `MCw1Y2QxNTVlMTFiMTdkNDYzYTNlMTY1NTM3NjE4Mjc0YjBiOTZhNjc1`
+Snapshot ID: `MCxkNjdmM2MxZjkxYzQ1YTNkNjRkMmQ5MzNlZjlkOGVmZmVjYTAyZmIx`

@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 153746,
       "name": "27 CLUB",
       "url": "https://open.spotify.com/track/3uIypzJDJTxj31J313Imgg"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 183700,
       "name": "Colette",
       "url": "https://open.spotify.com/track/1JrdKWINbyaQJsqiYKoCl7"
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 165573,
       "name": "CRASH TEST CUDI",
       "url": "https://open.spotify.com/track/0uMsWm3xNlXkQ7q78Q0QKq"
@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 96923,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW"
@@ -5006,7 +5006,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 213034,
       "name": "Fear (Single Version)",
       "url": "https://open.spotify.com/track/5l8xSMTnEhOXOO3Y4CWD9M"
@@ -5401,6 +5401,24 @@
     },
     {
       "album": {
+        "name": "For Free?",
+        "url": "https://open.spotify.com/album/3uamA6EQVoQzupXpke900F"
+      },
+      "artists": [
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193230,
+      "name": "For Free?",
+      "url": "https://open.spotify.com/track/0rg7DxTa08fGuIONC3mDU3"
+    },
+    {
+      "album": {
         "name": "For The Squadron",
         "url": "https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI"
       },
@@ -5642,6 +5660,32 @@
       "duration_ms": 77391,
       "name": "GET A GRIP",
       "url": "https://open.spotify.com/track/25I47y2Jo5Ugqkrt4cMlme"
+    },
+    {
+      "album": {
+        "name": "Get Jiggy",
+        "url": "https://open.spotify.com/album/5Wu2Yq8gvAUn7wozWctQxN"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        },
+        {
+          "name": "Lil Slixk",
+          "url": "https://open.spotify.com/artist/30r98xL28PIfjUG4JwyWaM"
+        },
+        {
+          "name": "Lil Reaper",
+          "url": "https://open.spotify.com/artist/0pXg9udRX8G5ra0m4xllGv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144348,
+      "name": "Get Jiggy",
+      "url": "https://open.spotify.com/track/3ShDW3FYg06Cc5BJV94sEj"
     },
     {
       "album": {
@@ -6172,6 +6216,24 @@
       "duration_ms": 178286,
       "name": "Guess What Bitch, We Back Hoe!",
       "url": "https://open.spotify.com/track/7uF9nK3u0OB1dWW5ee9qxC"
+    },
+    {
+      "album": {
+        "name": "Guilty Pleasures EP",
+        "url": "https://open.spotify.com/album/37QsJmyEMhhSu2It1IPLpH"
+      },
+      "artists": [
+        {
+          "name": "Azizi Gibson",
+          "url": "https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178781,
+      "name": "Guilty Pleasures",
+      "url": "https://open.spotify.com/track/77cAQmEDeFNXPDsj6SKiSW"
     },
     {
       "album": {
@@ -6984,6 +7046,32 @@
       "duration_ms": 108286,
       "name": "Hypnotized (with Karri)",
       "url": "https://open.spotify.com/track/20QF5yHq39ryN9VbOKVmOE"
+    },
+    {
+      "album": {
+        "name": "I DON'T GO TO HIGHSCHOOL",
+        "url": "https://open.spotify.com/album/5DugO8A3mcSdepXCMoIZQq"
+      },
+      "artists": [
+        {
+          "name": "All But 6",
+          "url": "https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Mikey The Magician",
+          "url": "https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "I DON'T GO TO HIGHSCHOOL",
+      "url": "https://open.spotify.com/track/1LkVouG5VCmvA6Nf4klKMt"
     },
     {
       "album": {
@@ -8152,7 +8240,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 169248,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/2bPNEqPlzo49mWgXHfnYX7"
@@ -8708,6 +8796,24 @@
       "duration_ms": 178133,
       "name": "Look Both Ways",
       "url": "https://open.spotify.com/track/3JdtobcZK00mKhbWgXazyg"
+    },
+    {
+      "album": {
+        "name": "HATE ME",
+        "url": "https://open.spotify.com/album/5XlxyRqG5mr7eG6My0QkVT"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI"
     },
     {
       "album": {
@@ -10318,7 +10424,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 108187,
       "name": "NYDFRYSTL",
       "url": "https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm"
@@ -10442,6 +10548,36 @@
       "duration_ms": 124866,
       "name": "Olive (feat. Zelooperz)",
       "url": "https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW"
+    },
+    {
+      "album": {
+        "name": "Pinball",
+        "url": "https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Tony Seltzer",
+          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "On God (feat. Earl Sweatshirt & Tony Shhnow)",
+      "url": "https://open.spotify.com/track/4j25WxLITRGhkYNmdezE8s"
     },
     {
       "album": {
@@ -11468,7 +11604,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 140975,
       "name": "PRESIDENT",
       "url": "https://open.spotify.com/track/71HfqaGQGQ8ERPphZQ53AJ"
@@ -14686,7 +14822,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 221226,
       "name": "Time Out",
       "url": "https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD"
@@ -14838,7 +14974,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 180120,
       "name": "Too Much Talkin",
       "url": "https://open.spotify.com/track/3Z3hkZLEMP4rX2zQhoJjaz"
@@ -15107,6 +15243,24 @@
     },
     {
       "album": {
+        "name": "UCCI",
+        "url": "https://open.spotify.com/album/63yyl3kiMC9rTu9twl4rcs"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147648,
+      "name": "UCCI",
+      "url": "https://open.spotify.com/track/1tGFLIMtaaGGpG5Bm9ylit"
+    },
+    {
+      "album": {
         "name": "UDNTLUVME",
         "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
       },
@@ -15140,6 +15294,24 @@
       "duration_ms": 211687,
       "name": "UP",
       "url": "https://open.spotify.com/track/2yayJdN0THmDy3Cco1TZtI"
+    },
+    {
+      "album": {
+        "name": "JUMPIN IN / US",
+        "url": "https://open.spotify.com/album/4BQjfJvlt7oCTZ6AhiV2Gr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148773,
+      "name": "US",
+      "url": "https://open.spotify.com/track/6ETnEOSqpbICvS58X9f4CK"
     },
     {
       "album": {
@@ -16453,6 +16625,28 @@
     },
     {
       "album": {
+        "name": "Pinball",
+        "url": "https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Tony Seltzer",
+          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101818,
+      "name": "Yin-Yang",
+      "url": "https://open.spotify.com/track/2kjXlfyoHUXWx0uy2txDzq"
+    },
+    {
+      "album": {
         "name": "Not Your Hero 4 Hire",
         "url": "https://open.spotify.com/album/6SwFPYtoRMRNH6XKQaNeDt"
       },
@@ -16508,6 +16702,28 @@
       "duration_ms": 194906,
       "name": "You Can't Tell Me Shit",
       "url": "https://open.spotify.com/track/4kkRoL90Kph3J2Nd9nAxrG"
+    },
+    {
+      "album": {
+        "name": "YOU KNOW WHAT I MEAN",
+        "url": "https://open.spotify.com/album/1QZUAkjbqzDudg78GJ87Up"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142221,
+      "name": "YOU KNOW WHAT I MEAN",
+      "url": "https://open.spotify.com/track/7uomhQZto3zjn7LuUGjfBP"
     },
     {
       "album": {

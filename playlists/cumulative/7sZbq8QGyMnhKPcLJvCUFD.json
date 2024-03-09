@@ -4125,7 +4125,7 @@
         },
         {
           "name": "Soundy",
-          "url": "https://open.spotify.com/artist/2NnFxf6CSfa5tjPSOymEiY"
+          "url": "https://open.spotify.com/artist/3b7sLRj01Y93l1Dn186h0W"
         },
         {
           "name": "NO\u00cbP",
@@ -5088,6 +5088,24 @@
       "duration_ms": 189375,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1LRFdWqintP46UIkC33YhL"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/1qoOg8XtIGRIUsbbr8rzyI"
+      },
+      "artists": [
+        {
+          "name": "Ariadne",
+          "url": "https://open.spotify.com/artist/5MTn6h662oQm25nnTVhpnK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173013,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/010b8IrP1Yvs9RvafHRylH"
     },
     {
       "album": {
@@ -7580,6 +7598,24 @@
       "duration_ms": 169818,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3wHV275mc0xs0fmJt8ITGX"
+    },
+    {
+      "album": {
+        "name": "pretty afternoon",
+        "url": "https://open.spotify.com/album/2zp91IQGRApR3FDJ6wsPC7"
+      },
+      "artists": [
+        {
+          "name": "Andrah",
+          "url": "https://open.spotify.com/artist/4zKVc3SBL6SPBkqxeIQlkk"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158483,
+      "name": "pretty afternoon",
+      "url": "https://open.spotify.com/track/40YPH9eSjV9VY6OGjSTpAc"
     },
     {
       "album": {

@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44304,
+  "num_followers": 44306,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ2MiwwYjU3NmM0Yjg1ZmFiNWI3OTFiMDlhMzEyMDE5ODlhYjI3MTM1NzBl",
+  "snapshot_id": "NjQ2NCxmMmE1M2U5ZjMzYjk3NGI3NWY1ZDQ2MTIwNzIxMTdjNjZlNzhjMGI5",
   "tracks": [
+    {
+      "added_at": "2024-03-08 15:36:19",
+      "album": {
+        "name": "Going Down (feat. David Vance)",
+        "url": "https://open.spotify.com/album/1I3X1A5rZY4uYaV9JTI4tg"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "David Vance",
+          "url": "https://open.spotify.com/artist/0TDirtcNWYDxsAEixJy2bB"
+        }
+      ],
+      "duration_ms": 215364,
+      "name": "Going Down (feat. David Vance)",
+      "url": "https://open.spotify.com/track/1d20LZIqK8JxYksxyMEGai"
+    },
+    {
+      "added_at": "2024-03-08 15:36:37",
+      "album": {
+        "name": "Back To Us (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/1W2Mb3YgdjJcWCV7HxhFtk"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "Friendzone",
+          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Back To Us - Acoustic Mix",
+      "url": "https://open.spotify.com/track/6uVua5Di40zCSyT07zdPRA"
+    },
     {
       "added_at": "2024-03-01 17:59:59",
       "album": {

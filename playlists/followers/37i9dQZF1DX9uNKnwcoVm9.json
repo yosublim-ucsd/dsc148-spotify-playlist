@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 259608,
+  "2024-03-09": 259700,
   "date_first_scraped": "2022-01-13",
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
   "name": "Con Fe",
@@ -1971,7 +1971,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 333653,
       "name": "Mi confianza est\u00e1 en ti (remix)",
       "url": "https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN"
@@ -2789,6 +2789,24 @@
       "duration_ms": 266538,
       "name": "Te Vi Llegar",
       "url": "https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira"
+    },
+    {
+      "album": {
+        "name": "He Visto Su Gloria",
+        "url": "https://open.spotify.com/album/3HJoI4LfCPrCjdzE98M76U"
+      },
+      "artists": [
+        {
+          "name": "Tony P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447240,
+      "name": "Tengo Sed De Ti",
+      "url": "https://open.spotify.com/track/3qAUMISTUzUmHptnTnmSSc"
     },
     {
       "album": {

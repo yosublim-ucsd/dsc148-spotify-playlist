@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 174773,
       "name": "Daddy Kane (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU"
@@ -8578,7 +8578,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 220586,
       "name": "P.P.A. (feat. Fabolous)",
       "url": "https://open.spotify.com/track/7pmkOYSaUvaA39nWnHcqmj"
@@ -10340,7 +10340,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 114625,
       "name": "Sicilian Gold",
       "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
@@ -13024,6 +13024,32 @@
       "duration_ms": 241188,
       "name": "Whoop Tang Flow (feat. Raekwon)",
       "url": "https://open.spotify.com/track/091VDkLyQvQBS0YXC0nEtg"
+    },
+    {
+      "album": {
+        "name": "Lavish Misery",
+        "url": "https://open.spotify.com/album/73VpGECa5lE0BM4t0YvVsV"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158490,
+      "name": "Wilson Fisk (feat. 38 Spesh)",
+      "url": "https://open.spotify.com/track/1KWDFS1nvOupYRt8lXklgo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
 
-145 songs - 15 hr 26 min
+148 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Hiding Sun](https://open.spotify.com/track/2L1WnYPOSux57PuGoeaXk3) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Balance presents Sunsetstrip \(Unmixed Version\)](https://open.spotify.com/album/5SnS5ApOhE4fxXugAy0OiV) | 8:39 | 2020-09-04 | 2023-11-18 |
 | [Hy Macrophylla \- Original Mix](https://open.spotify.com/track/4Bsg82R9JpPZcaA1OtdTsF) | [Artfaq](https://open.spotify.com/artist/4xsjxIpPpmPiqV9gxdN9TZ), [Berni Turletti](https://open.spotify.com/artist/1lhA46N6VsjJDN8wQccLtW) | [Sudbeat Showcrates 8](https://open.spotify.com/album/2AWXxk7erzxX685F664TzT) | 8:28 | 2020-09-04 | 2023-11-18 |
 | [Hypnotic \- Original Mix](https://open.spotify.com/track/51i9iRJKkJe4MIDifV2OYs) | [Paul \(AR\)](https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO) | [Hypnotic](https://open.spotify.com/album/0XME6kWqZQ3A6KIafuf3RX) | 6:19 | 2024-01-12 |  |
+| [Idk y I Like It](https://open.spotify.com/track/3yp5b3oVwiFpdcAYwP9Rmj) | [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [Idk y I Like It](https://open.spotify.com/album/1ZPtTcxbcBqEX67WbPGVpQ) | 2:24 | 2024-03-08 |  |
 | [If I Lose Myself](https://open.spotify.com/track/5gzo4VaJ7KXomTgSfytSUH) | [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa) | [If I Lose Myself](https://open.spotify.com/album/1g0uCrgBP9mMowv9kFyUUm) | 2:20 | 2023-11-17 |  |
 | [Infieles \- Remix](https://open.spotify.com/track/67wjqZ4apqGHmwHoGi3qAB) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j) | [Desconfiguración, Vol\. 3](https://open.spotify.com/album/2Tft9TpEiPB08wAXHx9HGS) | 7:12 | 2023-11-17 |  |
 | [Joyride \- Matias Chilano Remix](https://open.spotify.com/track/56uP20SR1BHfYp4uoVwpdT) | [Taylan](https://open.spotify.com/artist/155MbJrn0MCmFAgt8giNv9), [Matias Chilano](https://open.spotify.com/artist/2LpqyWMwfJfzA0MWYONoLw) | [Joyride](https://open.spotify.com/album/5neTfNXLkD7liYQ7dN6wIw) | 7:50 | 2023-11-17 |  |
@@ -76,6 +77,7 @@
 | [La Nuit Sans Fin \- Amadori Remix](https://open.spotify.com/track/31hf1NkPiazZgz2E3FkUzb) | [Bodaishin](https://open.spotify.com/artist/1sVYOuYwwkjcqGYTcoCXqf), [Amadori](https://open.spotify.com/artist/2Hqclfa5fARgem28jrntwC) | [La Nuit Sans Fin](https://open.spotify.com/album/4zFpeAdqlbzaOV8oTmCHsW) | 7:32 | 2020-09-04 | 2023-11-18 |
 | [Landscape](https://open.spotify.com/track/0lL7N936MmkQGNfGMzgu74) | [Marian \(AR\)](https://open.spotify.com/artist/1aqX6VY3056jMl6cXqAdmV) | [Landscape](https://open.spotify.com/album/4zJsfpFrCLcmub0tHbejHU) | 7:11 | 2020-09-04 | 2023-11-18 |
 | [Listen](https://open.spotify.com/track/0L8WTNC0GLcfAXkGMPIolF) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Listen](https://open.spotify.com/album/71KIKLJFqbZqWosO3D5qgD) | 3:45 | 2023-11-17 |  |
+| [LOCOPUNK](https://open.spotify.com/track/27Up1hF04zoiFrJWhhHDmx) | [BRYCHTTA](https://open.spotify.com/artist/11d0mQkJbUfW6S0g0Ka3KS), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Jose Bonetto](https://open.spotify.com/artist/4S7xNOFAEJGGEuiF2C6AIY) | [001](https://open.spotify.com/album/0doNVmS0C22OOq3wmsGbQK) | 5:46 | 2024-03-08 |  |
 | [Look Around](https://open.spotify.com/track/1ZiQeSPg0Z47wEJoZB4bFZ) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Lucio Consolo](https://open.spotify.com/artist/669crSeoDBfn7tO7b9Awfg) | [Look Around](https://open.spotify.com/album/4DOihXdPEb889541qcN3UP) | 5:28 | 2023-11-17 |  |
 | [Lost Cosmonaut](https://open.spotify.com/track/3u1A7jr8nNyGrLIT786EDX) | [Artfaq](https://open.spotify.com/artist/4xsjxIpPpmPiqV9gxdN9TZ) | [Winter Collection](https://open.spotify.com/album/5bhBstQAQQiL1NDHyxSpYo) | 8:11 | 2020-09-04 | 2023-11-18 |
 | [Lost Cosmonaut](https://open.spotify.com/track/6GXwg3PikKgwpeXo3LVolR) | [Artfaq](https://open.spotify.com/artist/4xsjxIpPpmPiqV9gxdN9TZ) | [The Soundgarden Winter Collection](https://open.spotify.com/album/3tevMtF2CvFb2WX3Jzq3zZ) | 8:11 | 2020-09-04 | 2022-07-29 |
@@ -123,6 +125,7 @@
 | [Rotator \- Original Mix](https://open.spotify.com/track/7m7EJuQ8tF7TPdh036FwpI) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Globular](https://open.spotify.com/album/5qTrZyXSG7VO5KojULMd7Q) | 7:56 | 2020-09-04 | 2023-11-18 |
 | [Salvation](https://open.spotify.com/track/4O5EJGMBjFFe0OihGvGpxt) | [Ignacio Arfeli](https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp) | [Salvation](https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr) | 4:09 | 2024-02-02 |  |
 | [Sand Waves](https://open.spotify.com/track/19cecQlufpLqz369fFxfWv) | [Max & Nim](https://open.spotify.com/artist/2HWIznpGV3NYozQqochmbX) | [Sand Waves](https://open.spotify.com/album/6gAG0C3oSeH81sQWtbZMTn) | 3:06 | 2020-09-04 | 2023-11-18 |
+| [Second Life](https://open.spotify.com/track/3dsY4DI2jfvMR67FLlUvyG) | [Martín Dubiansky](https://open.spotify.com/artist/2G0Wxv6zcebQJXq1NFKU4M) | [Second Life](https://open.spotify.com/album/0nHlgpleL6OiRZXwa6ahiM) | 6:17 | 2024-03-08 |  |
 | [Secret Society](https://open.spotify.com/track/7H7YhNmZgcpAwxfuIc9mGj) | [Bilevicius](https://open.spotify.com/artist/2jRawRVCDSBZyJ24oL6fiX) | [Secret Society](https://open.spotify.com/album/2uGkafaaReIOMZZHyj5nCa) | 4:42 | 2024-01-26 |  |
 | [Sensitive \(Part II\)](https://open.spotify.com/track/2h1lMvv4Tz8zJ0NhS2Xtjk) | [Paul \(AR\)](https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO) | [Small Musical Stories](https://open.spotify.com/album/4fYQ3930NKvfCSflAS6dMk) | 8:16 | 2020-09-04 | 2023-11-18 |
 | [Serenade Of](https://open.spotify.com/track/6W4MGvqou0stPjsGDRmFEC) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Serenade Of](https://open.spotify.com/album/172jmC3FkDUT0O3Q4s8YuB) | 4:01 | 2023-12-07 |  |

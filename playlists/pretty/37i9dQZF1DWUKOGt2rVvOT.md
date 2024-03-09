@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 周興哲 \(Eric Chou\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,568 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,636 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [香菜 \(芫荽\)](https://open.spotify.com/track/2oLDMhreNKHSMuYEREox2E) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [香菜](https://open.spotify.com/album/0d0xlUxkIfmPTXwZ3z2CVF) | 3:58 |
 | 50 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 |
 
-Snapshot ID: `MCxiN2IxYWVjNGVhYTg4ZmQ3MjIyNmM5NWIzNDEzYTQ1OTZmODUxZGMx`
+Snapshot ID: `MCw4NDZhYWQzZDlkNGU5NTQ2YWU0YTRkOTBjZDEwMjQ0MjkxOWQ0NzM2`

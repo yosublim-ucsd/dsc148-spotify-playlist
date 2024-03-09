@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Our editor’s picks for best pop songs of the year\. Cover: Hana Shafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,342 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,363 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 49 | [Veralu Mal](https://open.spotify.com/track/7kCq23IvruljXm8fUevkaS) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k), [Manuranga Wijesekara](https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw) | [Veralu Mal](https://open.spotify.com/album/1Ge3wJ0P2BTjj4mLND7RKS) | 2:52 |
 | 50 | [Mata Inna Hithuna](https://open.spotify.com/track/7pWpwiqYAAhzcSEjsGDOol) | [Amandi Sulochana](https://open.spotify.com/artist/1qIBzNcVSpDsokGpsdZEkp) | [Mata Inna Hithuna](https://open.spotify.com/album/59VCSMoVgbgLlnhkOaqQy8) | 2:50 |
 
-Snapshot ID: `MCxmMzk5NzUxNzg2MGYzN2M5ZjQ0YjEzYTkwZmQyMmE3YTVlNzY0Mjlj`
+Snapshot ID: `MCwwM2QzNWFjYjdjYmVhMzViYzFjZTFkMmI0OGRmYTIzNjg0YThjNjI0`

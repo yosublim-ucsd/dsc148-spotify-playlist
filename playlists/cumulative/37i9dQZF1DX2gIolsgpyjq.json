@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/1ZEtu0FHOUPVWIlHPxZCL1"
+      },
+      "artists": [
+        {
+          "name": "Boytrill",
+          "url": "https://open.spotify.com/artist/1yTrFJnL4ja3zzoUXA3rHT"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2IETnaGnIPYIEIZadmdFD2"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6iPnfUPazsTRUJqnxpwoIO"
       },

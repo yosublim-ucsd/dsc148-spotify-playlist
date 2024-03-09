@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Charly Benavente
+> Todo el sonido indie de Chile\. Foto: ZEBRA 93
 
-453 songs - 1 day 3 hr 12 min
+455 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bailemos](https://open.spotify.com/track/4ApCVG68HumQYo8poT3NM7) | [Matías Tigre](https://open.spotify.com/artist/2tWWgAvvIHIa38QAiUku1O) | [Bailemos](https://open.spotify.com/album/0ZFWM7Piyj8XaevWr0xtqu) | 3:52 | 2022-04-15 | 2022-07-15 |
 | [Balada del Asesino Triste](https://open.spotify.com/track/0ArcOt2SVMpLFgvApR1x9k) | [Guillermo Paf](https://open.spotify.com/artist/0nTcLkTcY1vfZWkDUDEeCz) | [Balada del Asesino Triste](https://open.spotify.com/album/1AaRgJ03ztJrJ2alljYfIf) | 3:48 | 2022-04-15 | 2022-08-18 |
 | [Barreras de Cartón](https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Barreras de Cartón](https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj) | 3:48 | 2022-07-08 | 2024-02-26 |
+| [BB](https://open.spotify.com/track/7EK0zxNhtgm9RXt5kGFJ5a) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Paisajes](https://open.spotify.com/album/7iK07OpJA0CQZu8sLfJrwf) | 3:09 | 2024-03-08 |  |
 | [Besitos Ricos](https://open.spotify.com/track/2xszQFLHyFgVKDFobxCjRG) | [Broken Pupil](https://open.spotify.com/artist/5JAaAOkiGzGNIKi53DlGKE), [Ignacia Pez](https://open.spotify.com/artist/7xpqrJntvkNTlOwayCHgho), [Gato Seco](https://open.spotify.com/artist/2NLUJSt3guR3neAYbIkoeN), [Walki](https://open.spotify.com/artist/0Z62JhOUGFNa5cFs1Fr4O0) | [Besitos Ricos](https://open.spotify.com/album/6yWANGpHTE5T3w6aOnoTBw) | 2:47 | 2022-08-12 | 2023-01-28 |
 | [Bien Mal](https://open.spotify.com/track/5QZryHp1EN0lCEZWqY0c0V) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Bien Mal](https://open.spotify.com/album/0QvML2YRQIjwvDWDHSfNIB) | 3:00 | 2023-04-28 |  |
 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 | 2023-12-01 |  |
@@ -219,6 +220,7 @@
 | [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 | 2023-04-09 |
 | [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 | 2023-08-04 | 2023-08-25 |
 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 | 2022-07-15 | 2023-01-28 |
+| [Lento](https://open.spotify.com/track/4DE2J87tCFKgAP4dfjtLFU) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Lento](https://open.spotify.com/album/3LtJle06939dZyl1r49hIY) | 3:58 | 2024-03-08 |  |
 | [Leon de Arena](https://open.spotify.com/track/2iukXDVfZDfokLZ6fxqDSu) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Leon de Arena](https://open.spotify.com/album/7k8gLYZwVYGCqdtZTtWHB2) | 3:18 | 2024-02-23 |  |
 | [Like](https://open.spotify.com/track/7hB9FRqaIGGIxtz1615Z8A) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Like](https://open.spotify.com/album/1Ts5Ro0AlGvQsUqRRM3z90) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [Lisbeth](https://open.spotify.com/track/6S5z8N2yTM8Ofm2b72K6Ji) | [Trama](https://open.spotify.com/artist/50MfaRBfrDJIFOKwdigjy4) | [De Pequeñas Luces y Recuerdos Que Se Lleva el Mar](https://open.spotify.com/album/0pOo6JBybWLsmcWWO3bPrW) | 4:10 | 2022-04-15 | 2022-07-27 |
@@ -316,7 +318,7 @@
 | [Playa](https://open.spotify.com/track/3D7dTIOjSEeCeXkhc1vyMF) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Playa](https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ) | 2:55 | 2022-04-15 | 2022-10-06 |
 | [Plegarias](https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay) | [Elegía al Atardecer](https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7) | [Reflejos](https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy) | 3:56 | 2023-05-19 | 2023-08-11 |
 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 | 2022-04-29 |  |
-| [Poemas por DM](https://open.spotify.com/track/1l4mucwox19VbCrLJKESoz) | [Erich Guzmán](https://open.spotify.com/artist/4mMb9oJXzV2PtfbwDJIWQC) | [Poemas por DM](https://open.spotify.com/album/1RinKYk7btVI8Bcan7PQqc) | 3:40 | 2024-02-23 |  |
+| [Poemas por DM](https://open.spotify.com/track/1l4mucwox19VbCrLJKESoz) | [Erich Guzmán](https://open.spotify.com/artist/4mMb9oJXzV2PtfbwDJIWQC) | [Poemas por DM](https://open.spotify.com/album/1RinKYk7btVI8Bcan7PQqc) | 3:40 | 2024-02-23 | 2024-03-09 |
 | [Polvo](https://open.spotify.com/track/4p9iPAQ5q3twlJJ0x8HInz) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Sobre habitar la depresión intermedia](https://open.spotify.com/album/3jF9U4Zd7HdiRyvYrpJvaC) | 3:42 | 2023-09-08 |  |
 | [Por Esta Noche](https://open.spotify.com/track/4eKSEGX7T9HWN9zT9T5KpJ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [\#777](https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2) | 3:36 | 2022-05-13 | 2022-12-31 |
 | [Por Qué Me Tratas Tan Bien](https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo) | [Angel Maulén](https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh) | [El Pulso](https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q) | 3:41 | 2022-08-12 | 2023-01-12 |
@@ -392,7 +394,7 @@
 | [Te lo pido por favor](https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:50 | 2022-04-15 |  |
 | [Te puedes ir, amor](https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Te puedes ir, amor](https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt) | 3:09 | 2023-10-12 |  |
 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 | 2022-04-15 | 2022-12-10 |
-| [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 |  |
+| [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 | 2024-03-09 |
 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 | 2022-04-15 | 2023-01-28 |
 | [Temores](https://open.spotify.com/track/2qYgmcH5WIBX2RMcGIrVNb) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/4G9dNp2lUbU0jiAmDdVN3e) | 4:14 | 2022-04-15 | 2022-07-22 |
 | [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 | 2023-07-07 |

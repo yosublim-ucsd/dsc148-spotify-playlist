@@ -2465,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Don't Want A Love Song",
+        "url": "https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Don't Want A Love Song",
+      "url": "https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8"
+    },
+    {
+      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -10462,7 +10480,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 119743,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx"

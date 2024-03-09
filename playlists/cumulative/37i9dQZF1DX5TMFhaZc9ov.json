@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4"
+    },
+    {
+      "album": {
         "name": "serious person (part 2)",
         "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
       },
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 292626,
       "name": "Hangman",
       "url": "https://open.spotify.com/track/2IqJS58ybf01nSQYMme5Ku"

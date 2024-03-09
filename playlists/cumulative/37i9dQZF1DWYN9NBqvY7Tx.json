@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
@@ -5528,7 +5528,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 224615,
       "name": "Luv Me a Little",
       "url": "https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT"
@@ -6449,6 +6449,28 @@
     },
     {
       "album": {
+        "name": "Paper Plane",
+        "url": "https://open.spotify.com/album/3q53z26hzALpOERcaZ6nUt"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Paper Plane",
+      "url": "https://open.spotify.com/track/3oht02g1mg6KywagA3bysC"
+    },
+    {
+      "album": {
         "name": "Party Everywhere",
         "url": "https://open.spotify.com/album/3lPc7CF3ysHqLgyFSMxJPE"
       },
@@ -6816,7 +6838,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 268706,
       "name": "Promises - Skrillex & Nero Remix",
       "url": "https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ"
@@ -6966,7 +6988,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 173811,
       "name": "Rainbow Road",
       "url": "https://open.spotify.com/track/1wsUKcolavN2rSXM0lwWid"
@@ -7754,7 +7776,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 155028,
       "name": "SHAKE THAT SHIT!",
       "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
@@ -8879,6 +8901,28 @@
     },
     {
       "album": {
+        "name": "The Point Of Living (Omnya Remix)",
+        "url": "https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232380,
+      "name": "The Point Of Living (Omnya Remix)",
+      "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
+    },
+    {
+      "album": {
         "name": "The Race",
         "url": "https://open.spotify.com/album/4sIj4kb8FYCvImEYrzJc0h"
       },
@@ -9170,7 +9214,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 123680,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/4Fh76hS27ZgzK0or8eP2qQ"

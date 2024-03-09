@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 149309,
+  "num_followers": 149377,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTM4MWI4ODE1NDdjY2YwNWM1MjVlMTBmOWQ2NmFlZTJkYzgxNDk3",
+  "snapshot_id": "MCxlMWU5MTc1ZDljYWI2NWIzOTBjNDI3OGU3MTVkZjUyNTg0MDY5NjI4",
   "tracks": [
     {
       "added_at": "2024-01-05 14:21:14",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Dure limite (Remasteris\u00e9 en 2015)",
-        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9l\u00e9phone",
-          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Cendrillon - Remasteris\u00e9 en 2015",
-      "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Louise Attaque",
         "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 197706,
       "name": "L\u00e9a",
       "url": "https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Dure limite (Remasteris\u00e9 en 2015)",
+        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9phone",
+          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Cendrillon - Remasteris\u00e9 en 2015",
+      "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ne partons pas f\u00e2ch\u00e9s",
+      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 191786,
       "name": "Derni\u00e8re danse",
       "url": "https://open.spotify.com/track/4AjFKHMK0aT5RH5bDarR0f"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ne partons pas f\u00e2ch\u00e9s",
-      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Brigitte Bardot",
-        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "La madrague",
-      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "&",
         "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 225640,
       "name": "Coco C\u00e2line",
       "url": "https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Les Annees Barclay",
-        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
-      },
-      "artists": [
-        {
-          "name": "Les Poppys",
-          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Non non rien n'a chang\u00e9",
-      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Osez Josephine",
         "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 178173,
       "name": "Osez Jos\u00e9phine",
       "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
+      },
+      "artists": [
+        {
+          "name": "Les Poppys",
+          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Non non rien n'a chang\u00e9",
+      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
     },
     {
       "added_at": "2024-01-05 14:21:14",

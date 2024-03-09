@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 1884841,
+  "2024-03-09": 1885082,
   "date_first_scraped": "2021-12-28",
   "description": "New age music for balancing mind and body.",
   "name": "Yoga & Meditation",
@@ -1245,6 +1245,24 @@
       "duration_ms": 178500,
       "name": "Auriga",
       "url": "https://open.spotify.com/track/1xB31OvpmOnsalR2T2RF4Y"
+    },
+    {
+      "album": {
+        "name": "Aurora's Embrace",
+        "url": "https://open.spotify.com/album/7zztbmjwx3irdB7sGoMNTs"
+      },
+      "artists": [
+        {
+          "name": "Eternalistic",
+          "url": "https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179330,
+      "name": "Aurora's Embrace",
+      "url": "https://open.spotify.com/track/15xJU9AwlLlAwkcONJKVA2"
     },
     {
       "album": {
@@ -3358,6 +3376,42 @@
     },
     {
       "album": {
+        "name": "Duo Balance",
+        "url": "https://open.spotify.com/album/6PjOrX6MBCDJvEZMLxg7Kd"
+      },
+      "artists": [
+        {
+          "name": "Deltachromatique",
+          "url": "https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Duo Balance",
+      "url": "https://open.spotify.com/track/5tOGY0zHGJUO59azKA1cCm"
+    },
+    {
+      "album": {
+        "name": "Dusk's Embrace",
+        "url": "https://open.spotify.com/album/6FhmpveNERkdoEs6zRmVaR"
+      },
+      "artists": [
+        {
+          "name": "Celestial Whisperer",
+          "url": "https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166946,
+      "name": "Dusk's Embrace",
+      "url": "https://open.spotify.com/track/0GRGJ6N5wWFpDTDqYJCzWU"
+    },
+    {
+      "album": {
         "name": "Dykhtau",
         "url": "https://open.spotify.com/album/4rdkuEThqNcw4ftMKf4McR"
       },
@@ -4957,6 +5011,24 @@
       "duration_ms": 169277,
       "name": "Hankering",
       "url": "https://open.spotify.com/track/7dZf1E475t9raui9KSVC0L"
+    },
+    {
+      "album": {
+        "name": "Harenae",
+        "url": "https://open.spotify.com/album/6u9kyFDk80raERDnaM9vfg"
+      },
+      "artists": [
+        {
+          "name": "Chasing The Eclipse",
+          "url": "https://open.spotify.com/artist/7srCM8fl9JtX1OT0ZORcIC"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Harenae",
+      "url": "https://open.spotify.com/track/7z6uHkUQnSoGhuQfo0tpTw"
     },
     {
       "album": {

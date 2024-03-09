@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Sagong\(사공\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: MONNI\(몽니\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-628 songs - 1 day 14 hr 26 min
+629 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [100%](https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [23](https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg) | 3:11 | 2023-06-01 | 2023-06-15 |
 | [1009](https://open.spotify.com/track/4r5Qxskm1ofRU3VRzAyplg) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Hangeul](https://open.spotify.com/album/1TgWey8Gm4LOpHmzRc1sZp) | 4:03 | 2021-12-21 | 2022-04-21 |
 | [1AM 새벽 한 시](https://open.spotify.com/track/5kxFmqWNGEiHfUxdlt9mRD) | [Casker](https://open.spotify.com/artist/0nHPlnFkwhTmnfda7ho0E5) | [1AM 새벽 한 시](https://open.spotify.com/album/2W4RwbxG9DWa5Y18Fve6Ie) | 4:19 | 2022-04-12 | 2022-04-18 |
+| [1초도 되돌릴 수 없는 There's no turning back even 1 second](https://open.spotify.com/track/0H84I0iW4KAd8dR9i1mvqR) | [MONNI](https://open.spotify.com/artist/3YBdWm4N53j49BHxJ8JnbG) | [Eternal Memories](https://open.spotify.com/album/3pRfgKJgV5AZbvIOkKmSTt) | 4:41 | 2024-03-08 |  |
 | [2022/02/22](https://open.spotify.com/track/1FUXYmjl2GMjqqWckYHhcm) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [2022/02/22](https://open.spotify.com/album/1WRZivz4Et1oExafBKnlCq) | 2:14 | 2022-02-16 | 2022-04-18 |
-| [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 | 2024-02-07 |  |
+| [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 | 2024-02-07 | 2024-03-09 |
 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 | 2022-07-27 |  |
 | [3108](https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/0pwKuUl5Rx2o2GWsARCCOU) | 2:58 | 2021-12-12 | 2022-07-29 |
 | [500000km NF SONATA](https://open.spotify.com/track/6te2w854p7KJnwWifSvZdb) | [A.TRAIN](https://open.spotify.com/artist/7D0HzqgqyXHSl3Vp4EC1EL) | [500000km NF SONATA](https://open.spotify.com/album/5L4NzC1YJgJ6S1kr8VSlLd) | 3:11 | 2022-07-04 | 2022-07-09 |
@@ -153,7 +154,7 @@
 | [Everything To](https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Everything To](https://open.spotify.com/album/0KoqY8z0QLw4hwVvgEGdvn) | 4:13 | 2022-03-31 | 2022-04-08 |
 | [Excuses](https://open.spotify.com/track/5vXtXSNxkkx3VQRfJiRYI9) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/5V0JQK17TUGPbtYiAdWlcA) | 3:51 | 2022-03-31 | 2022-04-10 |
 | [Expression](https://open.spotify.com/track/3TvohDfitHnEuXSJuJyIzr) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Expression](https://open.spotify.com/album/5LTSYg2669brAmWN7bjWG2) | 3:21 | 2021-12-21 | 2022-04-12 |
-| [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 | 2023-11-18 |
+| [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 |  |
 | [Eyes on you](https://open.spotify.com/track/1sdCoReUzXPLDIJ2i9ConA) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [From Late Night](https://open.spotify.com/album/3h9UBeesVQIEfWyW4djtsD) | 3:56 | 2021-12-21 | 2022-07-27 |
 | [Fading Person, Fading Love](https://open.spotify.com/track/64yMSkIEN5JJWUOhtSd3hl) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Fading Person, Fading Love](https://open.spotify.com/album/7zm4iYoy893pHeRYQKLGVr) | 3:52 | 2023-11-15 | 2023-12-14 |
 | [Failure story](https://open.spotify.com/track/1uPOeYYJW6uI4BSCSPjsM1) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Flex](https://open.spotify.com/album/0xZT3BXMksrqFn0oKO33Qq) | 3:33 | 2022-01-27 | 2022-06-30 |
@@ -362,7 +363,7 @@
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-07-12 | 2022-08-19 |
 | [New York](https://open.spotify.com/track/538iD010hO1udTC76GIhZN) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [New York](https://open.spotify.com/album/4aBTnVXPMVeD7jrSAENlSb) | 4:19 | 2021-12-21 | 2022-04-17 |
 | [Nice To Meet You](https://open.spotify.com/track/11rJRAomEEOWMz3rIicKRO) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Nice To Meet You](https://open.spotify.com/album/5wmVO6PfPALgbE92Nne975) | 3:19 | 2022-03-31 | 2022-04-14 |
-| [Nice To Meet You](https://open.spotify.com/track/3KpDIQ1oQrS0uCA2WjjjEn) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Nice To Meet You](https://open.spotify.com/album/7MUD1MG1G8r2y0zUf9Ucxj) | 3:19 | 2024-02-15 | 2024-03-06 |
+| [Nice To Meet You](https://open.spotify.com/track/3KpDIQ1oQrS0uCA2WjjjEn) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Nice To Meet You](https://open.spotify.com/album/7MUD1MG1G8r2y0zUf9Ucxj) | 3:19 | 2024-02-15 |  |
 | [Night](https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz) | [PO.U.RYU](https://open.spotify.com/artist/6kYwRlB2k9l6BruOci7I7O) | [Night](https://open.spotify.com/album/37kB5XHm46l8uA56Y0NumP) | 3:42 | 2023-01-10 | 2023-01-26 |
 | [Night](https://open.spotify.com/track/71dnO4IWWvwWqSOVqaL2k4) | [withyou](https://open.spotify.com/artist/4bxCjd47PzaXgcv6hYNicy) | [Night](https://open.spotify.com/album/2WQIYG46g0cYXHmtRZL9aF) | 3:10 | 2022-03-31 | 2022-04-17 |
 | [night drive](https://open.spotify.com/track/0IlkvSocmPVnaVXxQsLs56) | [xxiuk](https://open.spotify.com/artist/3bUokI8BPDRTAMg4YNRuLT) | [night drive](https://open.spotify.com/album/7lGoiZo6fEBatrwlNNexTP) | 3:12 | 2021-12-12 | 2022-04-07 |
@@ -542,7 +543,7 @@
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-03-31 | 2022-04-10 |
 | [Twin](https://open.spotify.com/track/6xBpDSWAn3ovizgJ9WJcax) | [kang](https://open.spotify.com/artist/4WmXMT5h8qV91UNj76WoiG) | [Twin](https://open.spotify.com/album/4jDNuQGVjqkuJMqX2TXyDS) | 3:17 | 2021-12-21 | 2022-04-19 |
 | [Two Days](https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:36 | 2021-12-12 | 2022-07-28 |
-| [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-07 |  |
+| [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-07 | 2024-03-09 |
 | [Under the night we were facing our breakup](https://open.spotify.com/track/0H1aG96BRR4VfDayFuEZ4C) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:46 | 2022-06-13 | 2022-06-19 |
 | [Under the Sea](https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Under the Sea](https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6) | 4:53 | 2023-03-06 | 2023-03-28 |
 | [Underwater](https://open.spotify.com/track/6MrjuOlP7stTrxno2dJGs9) | [coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [Underwater](https://open.spotify.com/album/3JEfQIglXMJz3D5imP88m0) | 3:26 | 2023-01-10 | 2023-01-26 |
@@ -626,7 +627,7 @@
 | [마네킨 Mannequin](https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2) | [The ASIANIC](https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF) | [마네킨 Mannequin](https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv) | 3:40 | 2023-01-10 | 2023-01-26 |
 | [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 | 2021-12-21 | 2024-01-28 |
 | [방랑자](https://open.spotify.com/track/6h7VcJXkym9NGISDIYlmch) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [방랑자](https://open.spotify.com/album/7EOdAL92s1kwBSqYlJNAOX) | 3:20 | 2023-09-15 | 2023-11-11 |
-| [버드나무 Willow tree](https://open.spotify.com/track/3uIAjCpqwBgqKiPas8HdRl) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [30](https://open.spotify.com/album/3AyTlFtrzM1uD9d5xmQQiJ) | 4:04 | 2024-02-15 |  |
+| [버드나무 Willow tree](https://open.spotify.com/track/3uIAjCpqwBgqKiPas8HdRl) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [30](https://open.spotify.com/album/3AyTlFtrzM1uD9d5xmQQiJ) | 4:04 | 2024-02-15 | 2024-03-09 |
 | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/track/5SLKr9YIs6MT195opLHZTg) | [cool\_lazy](https://open.spotify.com/artist/1hpBDK67kAJEqCcR8KW6Q4), [hyeri ji 지혜리](https://open.spotify.com/artist/1aUPs6AsUyPbpH00DEA31P) | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/album/05XQGlkHH5hliTxgRyg1RK) | 3:42 | 2022-03-31 | 2022-04-11 |
 | [사랑해 줘](https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [사랑해 줘](https://open.spotify.com/album/4bFd58vyDLdhNYLK5lJb5D) | 3:37 | 2023-01-10 | 2023-01-26 |
 | [슬퍼하지마 Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [슬퍼하지마 Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 | 2024-01-15 | 2024-03-02 |

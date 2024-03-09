@@ -10221,6 +10221,24 @@
     },
     {
       "album": {
+        "name": "Keeper of the Shepherd",
+        "url": "https://open.spotify.com/album/36z8ptLj0Dag5rxBmwvFxe"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386040,
+      "name": "Keeper of the Shepherd",
+      "url": "https://open.spotify.com/track/6WO06FW9LqHcmTFGvyjTL9"
+    },
+    {
+      "album": {
         "name": "Keeping Score",
         "url": "https://open.spotify.com/album/4UriRN5PykzEXhfLOJbaQC"
       },

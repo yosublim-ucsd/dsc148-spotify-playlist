@@ -1,12 +1,12 @@
 {
   "description": "indie tunes with country experimentation featuring music from Faye Webster \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
-  "num_followers": 49100,
+  "num_followers": 49183,
   "original_name": "Indie Twang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2I3YWUxNzhkNWNiZDIwMGMxNDRmMzYwOGEwNGQwZGFmNjY4YmFk",
+  "snapshot_id": "MCwxYzA2ZTUxNjVmNDIwYWY1NThjNmRhOTIwYTAwZDQyZGFlYzg2Nzg4",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 213355,
       "name": "Underdressed at the Symphony",
       "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Suckerpunch",
+        "url": "https://open.spotify.com/album/23Kwa0jNDhxqpPNk2fOp03"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        }
+      ],
+      "duration_ms": 181552,
+      "name": "Suckerpunch",
+      "url": "https://open.spotify.com/track/0qAQSimwmmOw6WYdP4Vov8"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -211,6 +227,22 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2cC5M33uZRseQLHhEUK3lW"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 197391,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5wTnei9CxGTNVn8vgH1Yhj"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -483,22 +515,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/6KqgHLhsyScGQtoclGOnHv"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Baby I Love You",
         "url": "https://open.spotify.com/album/0x1A7vjuUSkQUqMd0ziPrr"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Tear Jerky",
-        "url": "https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm"
-      },
-      "artists": [
-        {
-          "name": "Sparky Deathcap",
-          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
-        }
-      ],
-      "duration_ms": 179606,
-      "name": "Send It To Oslo",
-      "url": "https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Going For Oysters",
         "url": "https://open.spotify.com/album/6JhI0FY95G2Q8Of2J0T9Ln"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "talk soon",
-        "url": "https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF"
-      },
-      "artists": [
-        {
-          "name": "hemlock",
-          "url": "https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2"
-        }
-      ],
-      "duration_ms": 131854,
-      "name": "garbage truck",
-      "url": "https://open.spotify.com/track/4DQnPtChUxquO83Fjn6D3S"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/6ubBnaA12qbh5WbxoNXsn2"
       },
@@ -811,26 +795,6 @@
       "duration_ms": 242265,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Boys Of Faith (feat. Bon Iver)",
-        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 170824,
-      "name": "Boys Of Faith (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1051,22 +1015,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "So Long",
-        "url": "https://open.spotify.com/album/6tAMhO8WV1WPcDglep3DpM"
-      },
-      "artists": [
-        {
-          "name": "Lo Noom",
-          "url": "https://open.spotify.com/artist/03OMNIRl2S7PLASNxIeION"
-        }
-      ],
-      "duration_ms": 234051,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/3lqyDhYF2LySUAxc1PFlsN"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Excuses for Travellers",
         "url": "https://open.spotify.com/album/69Kl8ciY9o4lxA4qhdwPZD"
       },
@@ -1183,22 +1131,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Bushwick Cowboy",
-        "url": "https://open.spotify.com/album/3pCrRQfCSaR4gIpcUewNsx"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 243980,
-      "name": "Bushwick Cowboy",
-      "url": "https://open.spotify.com/track/3LppKZzfb7NLNmxe3rKRk9"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1211,22 +1143,6 @@
       "duration_ms": 190955,
       "name": "Dog Has Its Day",
       "url": "https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Jack Symes & the River House",
-        "url": "https://open.spotify.com/album/2WR2L77NLqrX0wr3MnXjwW"
-      },
-      "artists": [
-        {
-          "name": "Jack Symes",
-          "url": "https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz"
-        }
-      ],
-      "duration_ms": 237637,
-      "name": "Sunset Song",
-      "url": "https://open.spotify.com/track/32AeyVrhv4GBXX9CqCp9J3"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1387,22 +1303,6 @@
       "duration_ms": 216034,
       "name": "Sha",
       "url": "https://open.spotify.com/track/6HMdSCsyt5ZNPZokEgcoxQ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Away From The Castle",
-        "url": "https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R"
-      },
-      "artists": [
-        {
-          "name": "Video Age",
-          "url": "https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Away From The Castle",
-      "url": "https://open.spotify.com/track/73oTXbmbelMf3lVJBuLlf7"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1615,22 +1515,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Slow Puncture",
-        "url": "https://open.spotify.com/album/20JCvbAdAKeQIvj97M8Ayk"
-      },
-      "artists": [
-        {
-          "name": "Symbol Soup",
-          "url": "https://open.spotify.com/artist/10GZjzJnxuL9DuVcNYUyal"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Saddle",
-      "url": "https://open.spotify.com/track/6qtCLNxE5pkbVDoFP2yf4a"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Psychos",
         "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
       },
@@ -1739,22 +1623,6 @@
       "duration_ms": 251153,
       "name": "Not My Body",
       "url": "https://open.spotify.com/track/2JterjxLlyT5hgIXkhcfiH"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Harlem River",
-        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 555883,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2035,22 +1903,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Farm Cat",
-        "url": "https://open.spotify.com/album/6hX5lC11zIzBJDVm4Z5YSI"
-      },
-      "artists": [
-        {
-          "name": "Son of the Challenger",
-          "url": "https://open.spotify.com/artist/5ArUOljpeiuePVYkK6KFmG"
-        }
-      ],
-      "duration_ms": 145660,
-      "name": "Farm Cat",
-      "url": "https://open.spotify.com/track/2ep9ouVeQUr4dx0LxNMfIs"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Young Men",
         "url": "https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E"
       },
@@ -2131,22 +1983,6 @@
       "duration_ms": 145780,
       "name": "henna tattoo",
       "url": "https://open.spotify.com/track/7rIHxFXrmVnl8OJxOtut6A"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Something Wild",
-        "url": "https://open.spotify.com/album/3Wc0YFoix2vAhwc8UmRkFJ"
-      },
-      "artists": [
-        {
-          "name": "Radiator Hospital",
-          "url": "https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn"
-        }
-      ],
-      "duration_ms": 118903,
-      "name": "Lose Sight of You",
-      "url": "https://open.spotify.com/track/0MRl699sc4XD47N8voalTg"
     },
     {
       "added_at": "2024-03-01 05:00:00",

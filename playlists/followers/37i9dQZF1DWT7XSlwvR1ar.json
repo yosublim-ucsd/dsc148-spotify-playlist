@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 2076687,
+  "2024-03-09": 2076794,
   "date_first_scraped": "2019-07-29",
   "description": "Stay relaxed with these easy, laid-back songs.",
   "name": "Totally Stress Free",
@@ -172,6 +172,24 @@
     },
     {
       "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4"
+    },
+    {
+      "album": {
         "name": "Alibi",
         "url": "https://open.spotify.com/album/78PATBFddEnFXyVUDFjnXN"
       },
@@ -183,7 +201,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 168705,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"

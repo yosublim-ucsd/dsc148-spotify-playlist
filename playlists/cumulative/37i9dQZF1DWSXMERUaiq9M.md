@@ -4,7 +4,7 @@
 
 > love peace techno
 
-228 songs - 15 hr 18 min
+229 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Du Verlierst Dich](https://open.spotify.com/track/0mS1XkpwqRGVrh98L12p7N) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT) | [Du Verlierst Dich](https://open.spotify.com/album/6mtW2rv2X8J9kDIJo9yLAz) | 3:43 | 2023-11-16 | 2023-11-24 |
 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 | 2023-03-10 | 2023-06-29 |
 | [Edwin Rosen Vertigo \- Academic Remix](https://open.spotify.com/track/7960s9wdbpgSwGFg2SxHtj) | [Edwin Rosen](https://open.spotify.com/artist/5P7LNVuQRN9Ath8svUaUnV), [Academic](https://open.spotify.com/artist/2sUryncO3HHMUDslIciLZk) | [Edwin Rosen Vertigo \(Academic Remix\)](https://open.spotify.com/album/5G18wJMs69jln4Aw8ZpAFb) | 3:52 | 2023-03-22 | 2023-03-23 |
+| [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 | 2024-03-07 |  |
 | [Elektra](https://open.spotify.com/track/01e8d1lr1fFyPuIGOCRnRG) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [White Keys Vol.2](https://open.spotify.com/album/73JNp7GCaS3sh9QBCY6uOY) | 7:05 | 2023-08-10 | 2023-08-19 |
 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 | 2023-03-10 | 2023-06-06 |
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-11-30 |  |
@@ -90,7 +91,7 @@
 | [Ghzelian](https://open.spotify.com/track/33dQ1rm0MBUvoRRWJngBpw) | [Lady Starlight](https://open.spotify.com/artist/0eoS0xkD1JAXJIEQi766Mf) | [Ghzelian](https://open.spotify.com/album/1Hmb3Wm0vqW6hqqlROGKVQ) | 5:57 | 2023-08-01 | 2023-08-05 |
 | [Give Me Your Love \(Baby\)](https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE) | [Give Me Your Love \(Baby\)](https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U) | 2:16 | 2023-05-26 | 2024-02-13 |
 | [Global BBs](https://open.spotify.com/track/0HL34cP8CEovMTUKcjkcZr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [Tootsie Pop](https://open.spotify.com/album/4EDYffZjJHQq6BOIPUSCKJ) | 5:14 | 2023-06-15 | 2023-06-23 |
-| [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 | 2023-03-10 |  |
+| [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 | 2023-03-10 | 2024-03-09 |
 | [Good Energy](https://open.spotify.com/track/0Xy9SDulwgZhez4ybnRfuz) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Good Energy](https://open.spotify.com/album/0QhvkMApI7fDSW7D1e4y1x) | 5:22 | 2023-06-15 | 2023-09-17 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-06-09 |  |
 | [Gratitude Practice](https://open.spotify.com/track/4I4361g8EeO8BAvxarpd8a) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Gratitude Practice](https://open.spotify.com/album/2eLi9fo6zHd2ergvJoXdtV) | 6:45 | 2023-03-10 | 2023-04-12 |

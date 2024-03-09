@@ -711,6 +711,28 @@
     },
     {
       "album": {
+        "name": "Climb My Way to Heaven (and Cory Asbury)",
+        "url": "https://open.spotify.com/album/09hZnQxjUy2LLL1oSMXpXx"
+      },
+      "artists": [
+        {
+          "name": "Tayler Holder",
+          "url": "https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205008,
+      "name": "Climb My Way to Heaven (and Cory Asbury)",
+      "url": "https://open.spotify.com/track/0X6rZaz9IhOPsjLgDk3f5f"
+    },
+    {
+      "album": {
         "name": "We Were Cowboys",
         "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
       },

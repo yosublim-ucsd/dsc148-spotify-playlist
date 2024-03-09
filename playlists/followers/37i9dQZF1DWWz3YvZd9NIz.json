@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 139609,
+  "2024-03-09": 139787,
   "date_first_scraped": "2022-12-10",
   "description": "The best hardstyle remixes of songs you know!",
   "name": "Hardstyle Remixes of Popular Songs",
@@ -2037,7 +2037,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 180800,
       "name": "Jackie Chan - MANDY Remix",
       "url": "https://open.spotify.com/track/0NtJLfcKJcZpGrguDWCuga"
@@ -3615,7 +3615,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 170217,
       "name": "The Ketchup Song (Aserej\u00e9)",
       "url": "https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3"
@@ -3809,7 +3809,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"
@@ -4071,6 +4071,24 @@
       "duration_ms": 289548,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832"
+    },
+    {
+      "album": {
+        "name": "Zombie Nation",
+        "url": "https://open.spotify.com/album/7MlmX8r4WQ4U1HmaSu2mVU"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Zombie Nation",
+      "url": "https://open.spotify.com/track/28p8D5MFCUPjLO7xfybSqT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWz3YvZd9NIz"

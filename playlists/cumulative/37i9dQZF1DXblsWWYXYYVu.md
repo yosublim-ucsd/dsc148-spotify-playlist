@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-188 songs - 10 hr 30 min
+189 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Pretty Blue View](https://open.spotify.com/track/5t9f0NGMiwHKF3D8mTWEyW) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Pretty Blue View \(Acoustic\)](https://open.spotify.com/album/61hocUPG68jPN1jDNHZ7mu) | 3:39 | 2021-04-19 |  |
 | [Pretty Shiny Things](https://open.spotify.com/track/1VJwwtODVYNjgk1O7J16m0) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Pretty Shiny Things](https://open.spotify.com/album/1sQsBkSzUDRZOGh3WlYmKS) | 3:08 | 2021-04-19 |  |
 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2021-04-19 | 2023-08-26 |
-| [Put You Back Together](https://open.spotify.com/track/1mWEc9hJrK5JFRj6NlAPoX) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 3:37 | 2021-04-19 |  |
+| [Put You Back Together](https://open.spotify.com/track/1mWEc9hJrK5JFRj6NlAPoX) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 3:37 | 2021-04-19 | 2024-03-09 |
 | [Quitting \(The Way I Wrote It\)](https://open.spotify.com/track/5MFD8psq13YEL9HdqTBGeJ) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Quitting \(The Way I Wrote It\)](https://open.spotify.com/album/3QFX3aPTIkkjZkEK2V4boI) | 2:32 | 2022-09-02 |  |
 | [Rebound](https://open.spotify.com/track/3maqVYkwbQv9bYcOzLN4u7) | [Mariya Stokes](https://open.spotify.com/artist/38JkwdrqzjT3YrIH7wkCDS) | [Rebound](https://open.spotify.com/album/4tJxnECufcU2cVVsTNsSPG) | 3:37 | 2021-04-19 |  |
 | [Revvin' My Cj7 \- Juniper Version](https://open.spotify.com/track/7hxIicKl9uy1IRHhthOCnt) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [The Juniper Songbook](https://open.spotify.com/album/6HmJiODv0iTye63TG2g4h0) | 3:20 | 2022-03-11 |  |
@@ -196,5 +196,6 @@
 | [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 | 2021-04-19 |  |
 | [You Can't Do Enough](https://open.spotify.com/track/759pX6ms3foc1dxBzPfT1U) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Walk Through Fire](https://open.spotify.com/album/1ZNrtxvfN5AqL3KYmlGiQ6) | 3:39 | 2021-04-19 | 2022-09-24 |
 | [You Don't Have to Be Sorry](https://open.spotify.com/track/0lUv6PZaaUxQBZaeTJihGf) | [Ryan Dilmore](https://open.spotify.com/artist/4B8TXOImx4gm4RraBvUZHr) | [You Don't Have to Be Sorry](https://open.spotify.com/album/3HVU2CppIWKtWNvOpxlOd9) | 2:33 | 2021-04-19 |  |
+| [You'll Have to Find Your Own Way Now](https://open.spotify.com/track/63AJqdOcueOkmn8V96YlQ5) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [You'll Have to Find Your Own Way Now](https://open.spotify.com/album/5CrreErP2HZitgnNNc5C77) | 3:24 | 2024-03-08 |  |
 
 \*This playlist was first scraped on 2022-02-05. Prior content cannot be recovered.

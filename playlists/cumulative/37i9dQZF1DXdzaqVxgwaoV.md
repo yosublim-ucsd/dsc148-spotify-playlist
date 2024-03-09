@@ -4,7 +4,7 @@
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-109 songs - 6 hr 59 min
+110 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Adonay \(Live\)](https://open.spotify.com/track/7ihWacHx8eKbglkhI7vikt) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:07 | 2023-12-05 | 2024-02-11 |
 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 | 2023-11-09 |  |
 | [Anhelos](https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Los Dos Inseparables](https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D) | 2:56 | 2023-11-09 |  |
-| [Apagame La Vela](https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew) | [Billo's Caracas Boys Vs\. Los Melódicos](https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV) | [Mano A Mano](https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr) | 2:01 | 2023-11-09 |  |
+| [Apagame La Vela](https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew) | [Billo's Caracas Boys Vs\. Los Melódicos](https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV) | [Mano A Mano](https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr) | 2:01 | 2023-11-09 | 2024-03-09 |
 | [Aquellos Diciembres](https://open.spotify.com/track/0j6PkTxrRbuQfWvFNSflkw) | [Los Falcons](https://open.spotify.com/artist/2UODcsr0CoKJoDK8yNJm5V) | [Cinco Pa' las Doce](https://open.spotify.com/album/2OwJBijbad5wVfwakh3Rqj) | 3:16 | 2023-12-20 |  |
 | [Aquí Está El Bobo](https://open.spotify.com/track/2B96lfFlbinfLS2HWweBYn) | [Hernan Dario Hernandez](https://open.spotify.com/artist/2XAs0PIadAYZYnt2TEa0Cs) | [Éxitos De Siempre](https://open.spotify.com/album/7F4oJEuDFeF0erkzERzihR) | 3:15 | 2023-11-15 | 2024-02-09 |
 | [Arbolito de Navidad](https://open.spotify.com/track/2eoR1IW9sS4saeRPlXlxW9) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:46 | 2023-12-05 | 2024-01-29 |
@@ -79,6 +79,7 @@
 | [Loquito por Ti](https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [El Mejor Intérprete Tropical \- 16 Exitos](https://open.spotify.com/album/5Hix3j0dTfiiRIcgGBp7yD) | 4:47 | 2023-11-09 |  |
 | [Los Fariseos](https://open.spotify.com/track/56FnzYd9Ms90sKVCBZ3g1q) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [Recuerdos Vol\. 1](https://open.spotify.com/album/7b4tYADHIVP4G5NSfMNP02) | 4:49 | 2023-11-09 |  |
 | [Los Sabanales](https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Estrellas Corraleras \- Fundadores de la Cumbia Colombiana](https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99) | 2:42 | 2023-11-09 |  |
+| [Mar de Emociones](https://open.spotify.com/track/5Ocn6dZ3BJFPWh4ylwFXtn) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Músical \- 40 Éxitos](https://open.spotify.com/album/08HcNFrvSVdG8h1zOJj7nO) | 3:34 | 2023-12-20 |  |
 | [María Teresa](https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:36 | 2023-11-09 |  |
 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 | 2023-11-09 |  |
 | [Mensaje De Navidad](https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj) | [Para Mi Fanaticada](https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa) | 4:15 | 2023-12-20 | 2024-01-15 |

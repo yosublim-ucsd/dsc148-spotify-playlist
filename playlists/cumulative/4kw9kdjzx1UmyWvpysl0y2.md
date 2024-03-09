@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-675 songs - 1 day 15 hr 2 min
+676 songs - 1 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Chasing Stars](https://open.spotify.com/track/0a9J0dDKTOqNxBUYufLOzY) | [Skyler Madison](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Chasing Stars](https://open.spotify.com/album/1jUyU3oh4FJCmJtNaPJWJw) | 4:41 | 2021-11-29 | 2022-03-04 |
 | [Cheat Code](https://open.spotify.com/track/7JJnlfOlh7dmQhjRDkyG0x) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [REDLESS](https://open.spotify.com/artist/30j2u2oo0Q8v2pBjnb3ctJ) | [Cheat Code](https://open.spotify.com/album/41N4WEXPbcLCJ5rgOQc6FC) | 2:50 | 2022-06-30 | 2022-09-13 |
 | [Choir of the Banshees](https://open.spotify.com/track/72ijk2ClDkcZ5FgD4IM1n8) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Sorcerer’s Symphony](https://open.spotify.com/album/1ajS5QuEOLZXMVG7TG9twW) | 4:11 | 2024-02-07 |  |
-| [Chroma](https://open.spotify.com/track/0Yf9BcL40KJplKTDwmpIPw) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Chroma](https://open.spotify.com/album/36V5r5FbxC2I0U1rCZn2Li) | 4:10 | 2023-11-27 |  |
+| [Chroma](https://open.spotify.com/track/0Yf9BcL40KJplKTDwmpIPw) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Chroma](https://open.spotify.com/album/36V5r5FbxC2I0U1rCZn2Li) | 4:10 | 2023-11-27 | 2024-03-09 |
 | [Chromatically](https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Chromatically](https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY) | 3:18 | 2024-01-25 |  |
 | [CINEMA](https://open.spotify.com/track/1KUlGcqkfUjnoTL20bhtPr) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA](https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp) | 3:08 | 2022-03-14 | 2022-05-26 |
 | [CINEMA \- Fame & Fortune VIP](https://open.spotify.com/track/2MTgMyZGPnxdA4YOg3oE7w) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA \(incl\. Fame & Fortune VIP\)](https://open.spotify.com/album/1H0JMgsdaYfxkn5n4rDkIf) | 2:14 | 2022-08-22 | 2022-11-01 |
@@ -406,6 +406,7 @@
 | [Never Let You Down](https://open.spotify.com/track/3HnGSgsJA5KkXAnVthERri) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Never Let You Down](https://open.spotify.com/album/6fQJLkZUzXXynBgMXKoA8n) | 3:13 | 2023-04-12 | 2023-07-09 |
 | [New Age \- Bossfight Remix](https://open.spotify.com/track/5aCABFeoSwL2Ux0c1gW2QL) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [New Age \(Bossfight Remix\)](https://open.spotify.com/album/4wUzPAPk50YZRRxMcCRPPX) | 3:10 | 2022-02-23 | 2022-05-05 |
 | [New Worlds](https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [New Worlds](https://open.spotify.com/album/6QRMRuL9Bumhv3mholG3iw) | 3:12 | 2023-03-22 | 2023-06-15 |
+| [NEXT LVL](https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [NEXT LVL](https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o) | 2:35 | 2024-03-08 |  |
 | [Nibbana](https://open.spotify.com/track/4GmreCkjHdkuX9S1LipRvS) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nibbana](https://open.spotify.com/album/5tlAhQ2zVsth5w1KpRIRkS) | 4:20 | 2022-01-14 | 2022-03-24 |
 | [Nibbana \- Volen Sentir's Pink Sky Retouch](https://open.spotify.com/track/2g1kcSv6wz70zl7lhWpJzx) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Nibbana \(Volen Sentir's Pink Sky Retouch\)](https://open.spotify.com/album/6XHnLNEb1ZJNcnrT8kaLRq) | 4:01 | 2022-12-10 | 2023-03-14 |
 | [NIGHT](https://open.spotify.com/track/6MvLdr8EU0ROnLBIydewaD) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [NIGHT](https://open.spotify.com/album/4SnyGwyZNSkBCIbzJWEbyB) | 4:19 | 2023-05-03 | 2023-07-29 |

@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 134479,
+  "2024-03-09": 134513,
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Monty Alexander",
+  "description": "The best jazz new releases. Cover: Laufey",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -291,7 +291,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 208650,
       "name": "again again",
       "url": "https://open.spotify.com/track/1FmMHIP94WklfLfs3svoYS"
@@ -3149,7 +3149,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 185121,
       "name": "Fly Fly",
       "url": "https://open.spotify.com/track/7nblQ3aEinXUt8UIwdxE6F"
@@ -3581,6 +3581,24 @@
       "duration_ms": 215306,
       "name": "God Rest Ye Merry Gentlemen (Spotify Singles Holiday)",
       "url": "https://open.spotify.com/track/5U1edKpf8zZ04KtkvBOvbu"
+    },
+    {
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "album": {
@@ -4273,7 +4291,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 112586,
       "name": "I Got Rhythm (Arr. Firth for 2 Pianos) - From \"Girl Crazy\"",
       "url": "https://open.spotify.com/track/4Hc8SPt8CFJnbNjprrIzHH"
@@ -4615,6 +4633,24 @@
       "duration_ms": 336333,
       "name": "Infant Eyes",
       "url": "https://open.spotify.com/track/49Qv1bSWp6czTQENrW3bP5"
+    },
+    {
+      "album": {
+        "name": "\u00e0 Fleur de Peau",
+        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258900,
+      "name": "Inside and Out",
+      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
     },
     {
       "album": {
@@ -5324,6 +5360,24 @@
     },
     {
       "album": {
+        "name": "Shades of Yesterday",
+        "url": "https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU"
+      },
+      "artists": [
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235783,
+      "name": "Lil Birdie",
+      "url": "https://open.spotify.com/track/3ZlM3jTgrfTYp7AlASBJm4"
+    },
+    {
+      "album": {
         "name": "SuperBlue: The Iridescent Spree",
         "url": "https://open.spotify.com/album/5qMLFAqVK8IwPRcpuH88R8"
       },
@@ -5493,7 +5547,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 396292,
       "name": "Love Cynical",
       "url": "https://open.spotify.com/track/6BA3YaMWaE76mbju6CP2jC"
@@ -6253,7 +6307,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 250399,
       "name": "Never Doubt",
       "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
@@ -6817,10 +6871,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 287416,
       "name": "Oya",
       "url": "https://open.spotify.com/track/0SHPejPGCfcLON6AIQrdPJ"
+    },
+    {
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205265,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q"
     },
     {
       "album": {
@@ -7130,6 +7202,24 @@
     },
     {
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/3wDXUtAudXDc6dgy2mAqZ2"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499234,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/4Kh0yUcMyxVENH4lgtcuHX"
+    },
+    {
+      "album": {
         "name": "Sun Monkey Voltage",
         "url": "https://open.spotify.com/album/4KSB0GQCjVWVXu9ad7jU9K"
       },
@@ -7171,6 +7261,24 @@
       "duration_ms": 309538,
       "name": "P\u00f2p\u00f2t ka bouyi",
       "url": "https://open.spotify.com/track/0n6KX3PYkJKSitaQlpmmH6"
+    },
+    {
+      "album": {
+        "name": "R&B",
+        "url": "https://open.spotify.com/album/278AVaIHKrZPB164Y9dFZh"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "R&B",
+      "url": "https://open.spotify.com/track/1REW7x0cLKEkFre9W0GBEm"
     },
     {
       "album": {
@@ -8852,6 +8960,24 @@
     },
     {
       "album": {
+        "name": "There Goes",
+        "url": "https://open.spotify.com/album/2ONlDZeDWomJwN52C7xonr"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271263,
+      "name": "There Goes",
+      "url": "https://open.spotify.com/track/59AiOQODuznd7cayIRelBv"
+    },
+    {
+      "album": {
         "name": "This Foolish Heart Could Love You",
         "url": "https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2"
       },
@@ -9105,7 +9231,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 162751,
       "name": "Together",
       "url": "https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir"

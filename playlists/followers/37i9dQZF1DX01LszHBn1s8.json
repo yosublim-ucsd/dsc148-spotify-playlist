@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 238056,
+  "2024-03-09": 240047,
   "date_first_scraped": "2022-06-05",
-  "description": "it's St Swithin's day \ud83c\udf27\ufe0f",
+  "description": "i am literally just a girl ",
   "name": "pov (2)",
   "tracks": [
     {
@@ -8516,6 +8516,24 @@
     },
     {
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "album": {
         "name": "golden hour",
         "url": "https://open.spotify.com/album/6LabIkq8jNU7azZGdkuC7G"
       },
@@ -11061,7 +11079,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 340672,
       "name": "In Cold Light - One Day Version",
       "url": "https://open.spotify.com/track/75cMBXM2yJBmT6jYauZt4q"

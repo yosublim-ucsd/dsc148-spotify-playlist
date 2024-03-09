@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Azzecca
 
-228 songs - 15 hr 58 min
+233 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Attack](https://open.spotify.com/track/1Due9XdQ9PAJ4wzBNtWoq2) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Project Ghost](https://open.spotify.com/album/0rJWzZcmEdFrPokYIYPtLm) | 3:40 | 2021-03-01 | 2023-01-07 |
 | [Attack](https://open.spotify.com/track/7wnxYjwm2gl9FjKAJQZEyg) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [PROJECT GHOST](https://open.spotify.com/album/7yxrXJ2KTLEniIiz5bZ4yM) | 3:40 | 2022-03-08 | 2023-03-08 |
 | [Baby, We're Ascending](https://open.spotify.com/track/614NfZjf8rMY2bErgwhzR5) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:27 | 2023-03-07 | 2024-03-02 |
+| [Beside You](https://open.spotify.com/track/6GG169QHGI51ss9E87sDcx) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Beside You](https://open.spotify.com/album/4zSv365VBnELylDuni0eTa) | 3:44 | 2024-03-08 |  |
 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 | 2021-03-01 | 2024-03-02 |
 | [Body & Soul](https://open.spotify.com/track/3Wb4xz7e9M94DiRnkhLm7m) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Body & Soul](https://open.spotify.com/album/26qaE6BS5fVRqtao7Qxmoq) | 3:15 | 2024-03-01 |  |
 | [BOYZ](https://open.spotify.com/track/5UnNCMFboucIF78lnp1jkR) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE) | 4:00 | 2022-03-08 | 2023-03-08 |
@@ -93,6 +94,7 @@
 | [Giving You](https://open.spotify.com/track/5QcKkO89PDQH50Mh7W4pSr) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Giving You](https://open.spotify.com/album/3rSZJ1Z8oLbisX53IND80e) | 3:29 | 2024-03-01 |  |
 | [Glistening](https://open.spotify.com/track/7A0I80UN67Ca2jyITyMawh) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Glistening](https://open.spotify.com/album/6xEiInYbttwxio1otemsGq) | 3:06 | 2024-03-01 |  |
 | [Gloves](https://open.spotify.com/track/18MUzlttt6JOw6PlUcqSpI) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Serie A](https://open.spotify.com/album/2Fz1NS2puE3dbzCM8fbFrR) | 3:52 | 2024-03-01 |  |
+| [Go Ghost](https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Go Ghost](https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm) | 3:29 | 2024-03-08 |  |
 | [Gold](https://open.spotify.com/track/1PkFfOO79tDPNw2j2iivUM) | [E.M.M.A.](https://open.spotify.com/artist/4HvBEisTYUhP81liNnAHUf) | [Gold](https://open.spotify.com/album/1UHF5CvMJAvzNivLNi2Z40) | 4:30 | 2022-03-08 | 2022-11-13 |
 | [Gold](https://open.spotify.com/track/5AlRDKGKn5aSeDw5j79205) | [E.M.M.A.](https://open.spotify.com/artist/4HvBEisTYUhP81liNnAHUf) | [Indigo Dream](https://open.spotify.com/album/1sSXq8MhVx0qjBAwGE1rRF) | 4:30 | 2021-03-01 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/7vxGhdQ6vrKrzYkeFmi8ot) | [E.M.M.A.](https://open.spotify.com/artist/4HvBEisTYUhP81liNnAHUf) | [Indigo Dream](https://open.spotify.com/album/6T1FI8HwWMHtya66Agz91u) | 4:30 | 2022-03-08 | 2023-03-08 |
@@ -114,6 +116,7 @@
 | [Hypnotize](https://open.spotify.com/track/1FKqABNyFakV6xsOV9H9Yd) | [AIMMIA](https://open.spotify.com/artist/3ORadKGfvLXgYQ8xv5D2jV) | [Hypnotize](https://open.spotify.com/album/2nseLc5hmamuX1xPZ7ZreK) | 3:12 | 2024-03-01 |  |
 | [I Can't Take No More](https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [I Can't Take No More](https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV) | 2:37 | 2024-03-01 |  |
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2023-03-07 | 2024-03-02 |
+| [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 | 2024-03-08 |  |
 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/1uFBlkcqXpvoZBpRL7fM4T) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:49 | 2022-03-08 | 2023-04-30 |
 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/3XxoiXiNIzsgl45fTDXtKE) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/5dGkXQyNIkLUjmW4VR9uax) | 3:49 | 2023-03-07 | 2024-03-02 |
 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/7v5srkt2hgIUPo9ezpTB5T) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/5Sdp5VRtaUZPSrW5WfwdlV) | 3:49 | 2021-03-01 | 2022-07-29 |
@@ -181,6 +184,7 @@
 | [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-03-01 | 2022-07-29 |
 | [Rotating In Unison](https://open.spotify.com/track/3Ehu6JzePF1MksnKJda1cL) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC) | 5:01 | 2022-03-08 | 2023-03-08 |
 | [Rudeless](https://open.spotify.com/track/5e6bIB6BGr9Huzj4HlQVFr) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Rudeless EP](https://open.spotify.com/album/4L4LQFTx7G2HGjtnbb9u2X) | 3:16 | 2024-03-01 |  |
+| [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Twinsoul](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 | 2024-03-08 |  |
 | [Serotonin](https://open.spotify.com/track/6aJ4TYVFDMiOVHJYAEfcvi) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Serotonin](https://open.spotify.com/album/1JuMVubX1aQVHPi7yF4y5T) | 3:17 | 2024-03-01 |  |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-03-07 | 2024-03-02 |
 | [SHADOW](https://open.spotify.com/track/2KusH57WCXaAyocRjxhItH) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [SHADOW](https://open.spotify.com/album/2D3odp9NPYmDEj2gGyOawB) | 2:35 | 2021-03-01 | 2023-03-08 |
@@ -197,6 +201,7 @@
 | [Stingray Shuffle](https://open.spotify.com/track/2J09O7CPiXmSpdoPMRJGTq) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/06w1pVdYAlr4Bg1czQZ5fu) | 2:43 | 2021-03-01 | 2022-07-29 |
 | [Stingray Shuffle](https://open.spotify.com/track/4cQq04HMFxcX30UcOntbiP) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/4ZXL28H9AGmkQUVWTpYHOO) | 2:43 | 2022-03-08 | 2022-11-13 |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2023-03-07 | 2024-03-02 |
+| [SUCK](https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCK](https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF) | 2:20 | 2024-03-08 |  |
 | [Sun](https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5) | 3:06 | 2023-03-07 | 2024-03-02 |
 | [Taking It Back](https://open.spotify.com/track/4KMGgiCvRLHaT5l1L0ACvj) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Taking It Back](https://open.spotify.com/album/1ZkE9x9JXVTHZo8b7YVYft) | 3:38 | 2024-03-01 |  |
 | [Talk To Me](https://open.spotify.com/track/35Us9HQPF88aiWQkR3sG3G) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Talk To Me](https://open.spotify.com/album/57ikyQgMgUUyDQde2uz861) | 3:32 | 2024-03-01 |  |

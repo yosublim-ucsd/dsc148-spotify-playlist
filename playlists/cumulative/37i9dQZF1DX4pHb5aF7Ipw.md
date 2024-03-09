@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover:  Sikander Kahlon
 
-89 songs - 4 hr 25 min
+90 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dance Kar](https://open.spotify.com/track/0sMzY83Awj6tdT09759Q2d) | [Bhai](https://open.spotify.com/artist/2NnN8kaWWfvuL35FmpNKtR) | [Dance Kar](https://open.spotify.com/album/3f058W1npXW3sV0luVaHDb) | 2:34 | 2023-03-18 | 2023-08-01 |
 | [Das Kon](https://open.spotify.com/track/1AbiSrDcgzcgQTFWhjwbwm) | [Davvy](https://open.spotify.com/artist/1vGOnQzBvNbdaaYBYzsU3z) | [Das Kon](https://open.spotify.com/album/1HJoUB62ImrVdJUmMG9s2U) | 2:03 | 2023-03-18 | 2023-04-27 |
 | [Dil vich chor](https://open.spotify.com/track/3SEjQj4ctOmLysGtlmCTUP) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Bhanu Dutta](https://open.spotify.com/artist/3egZ6i7sHHdlxxNElevw0C), [Yeda Anna](https://open.spotify.com/artist/4fCAkpPa7ipWAJdJveRQsd) | [Dil vich chor](https://open.spotify.com/album/78oKXjyOenCD0Yx7o34mVb) | 3:43 | 2023-10-26 | 2023-11-09 |
+| [Foreign](https://open.spotify.com/track/5fEv6mzKXsDoZUQaR4Bu3m) | [Singhsta](https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G) | [Foreign](https://open.spotify.com/album/0QQU0Md6kgxRrZ2sDINkOC) | 2:44 | 2024-03-08 |  |
 | [Freestyle](https://open.spotify.com/track/3TbxASwEHPGuSWh7eZDjHB) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7) | [Freestyle](https://open.spotify.com/album/3NQgwqRiApcEdpuwFyFNxV) | 2:30 | 2023-03-18 | 2023-10-12 |
 | [Friend Zone](https://open.spotify.com/track/35alWvmJmu77GoW3Y57cuT) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [Friend Zone](https://open.spotify.com/album/2WAsoRMaYtwcDwCofTMupE) | 2:41 | 2023-09-20 |  |
 | [FRIEND ZONE](https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [FRIEND ZONE](https://open.spotify.com/album/7lMOtrXJNjngIeAJqNE4WN) | 2:41 | 2023-03-18 | 2023-10-01 |
@@ -91,7 +92,7 @@
 | [To The Warrior](https://open.spotify.com/track/1PKw4Fu5uMCPg16fELm9Iw) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Jxgga](https://open.spotify.com/artist/5veJyCRf8zRVcbfctEBoNA) | [To The Warrior](https://open.spotify.com/album/3reOnoEISEFMSSkMBfvWFR) | 3:02 | 2023-03-18 | 2023-04-27 |
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2023-03-18 |  |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-03-18 |  |
-| [Trapstar](https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [BRAZY](https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Trapstar](https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya) | 2:54 | 2024-01-10 |  |
+| [Trapstar](https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [BRAZY](https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Trapstar](https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya) | 2:54 | 2024-01-10 | 2024-03-09 |
 | [Untouchable](https://open.spotify.com/track/4I9wK83Gy9uxiHGZ7gvOhI) | [Arsh Sandhu](https://open.spotify.com/artist/5hMRZnYzYhkXvdcEdJMfD2), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Untouchable](https://open.spotify.com/album/7DZlyrBQdJeuR3hEDBm1mb) | 2:21 | 2023-03-18 |  |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-18 | 2023-05-27 |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-18 |  |

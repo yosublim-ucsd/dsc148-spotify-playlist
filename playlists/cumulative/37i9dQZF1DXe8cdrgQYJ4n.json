@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 183000,
       "name": "Cheers!",
       "url": "https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl"
@@ -736,6 +736,24 @@
       "duration_ms": 178177,
       "name": "Hello Bitches",
       "url": "https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS"
+    },
+    {
+      "album": {
+        "name": "HOODIE E BANBAJI",
+        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "HOODIE E BANBAJI",
+      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
     },
     {
       "album": {

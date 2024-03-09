@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 47369,
+  "num_followers": 47402,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2ZkOTg5ZDJmNWE1MGQ5ODhmYjEwYjllNWZmYTdhNjMwYjVhZWQ4",
+  "snapshot_id": "MCwyNTczOTk0YWE3ZTc1NDYwOGMyNGZkYTY3M2QxYjkxNzA2ZDg2ZGNi",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Presenting Blind Blake",
         "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 190400,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+        "name": "New Way",
+        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
       },
       "artists": [
         {
-          "name": "Meade \"Lux\" Lewis",
-          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
+          "name": "Luca Sestak",
+          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Honky Tonk Train Blues",
-      "url": "https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy"
+      "duration_ms": 332400,
+      "name": "Laci's Boogie",
+      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "New Way",
-        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
       "artists": [
         {
-          "name": "Luca Sestak",
-          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
+          "name": "Meade \"Lux\" Lewis",
+          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
         }
       ],
-      "duration_ms": 332400,
-      "name": "Laci's Boogie",
-      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
+      "duration_ms": 178000,
+      "name": "Honky Tonk Train Blues",
+      "url": "https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Return Of The Boogie Man",
-        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
-      },
-      "artists": [
-        {
-          "name": "Preacher Jack",
-          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Jessie's Boogie Woogie",
-      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 173293,
       "name": "The House of Blue Lights",
       "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Return Of The Boogie Man",
+        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
+      },
+      "artists": [
+        {
+          "name": "Preacher Jack",
+          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Jessie's Boogie Woogie",
+      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Storm",
-        "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
-      },
-      "artists": [
-        {
-          "name": "Martin Pyrker, Sabine Pyrker",
-          "url": "https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Boogie Woogie Storm",
-      "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
         "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 172973,
       "name": "Swanee River Hop",
       "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie Storm",
+        "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
+      },
+      "artists": [
+        {
+          "name": "Martin Pyrker, Sabine Pyrker",
+          "url": "https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Boogie Woogie Storm",
+      "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
     },
     {
       "added_at": "2023-09-15 11:42:58",

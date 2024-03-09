@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 
 > "Bond..\. James Bond." Cover: <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">Billie Eilish</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,000 likes - 28 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,023 likes - 28 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 6 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 |
 | 7 | [Nobody Does It Better](https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD), [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [The Spy Who Loved Me](https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ) | 3:32 |
 | 8 | [Goldeneye](https://open.spotify.com/track/528QhCT2v3HgD71RmrSUNW) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Goldeneye](https://open.spotify.com/album/4aBVXvgB75LzBQTbKiauQN) | 4:48 |
-| 9 | [You Only Live Twice \- From "Retrospective: The Music Of Mad Men" Soundtrack](https://open.spotify.com/track/18y85RXNwPsaqTwKPfTqZI) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [You Only Live Twice \(From "Retrospective: The Music Of Mad Men"\)](https://open.spotify.com/album/3zPM0GxJmRNOrSbHqziO2k) | 2:45 |
+| 9 | [You Only Live Twice \- Main Title](https://open.spotify.com/track/68qxZGCBmN5HY4gmK0iURW) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [You Only Live Twice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70yvWorA4DzKWsS3Nvz89q) | 2:47 |
 | 10 | [From Russia with Love \- Single Version](https://open.spotify.com/track/5dWu3rtTytLVDSkOkTaBVl) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Essential](https://open.spotify.com/album/4JDGHeK69u3Yosp8BvUFJh) | 2:35 |
 | 11 | [Main Title \- From "Thunderball"](https://open.spotify.com/track/0yaLrtLWGYWVmvvNOlRZDj) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Movie Night: Famous Soundtracks](https://open.spotify.com/album/2ryZgGxfvRhpbtIHF2FEAR) | 3:03 |
 | 12 | [Die Another Day](https://open.spotify.com/track/4NvgRMckw4uzjNn2t7taPe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:36 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 27 | [On Her Majesty's Secret Service \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
 | 28 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
 
-Snapshot ID: `MCxiZjdjNWJjZDFhYWJjYTMwMjk2YTI5YmRmODJiMGEyYzZmYWQ2Mzgy`
+Snapshot ID: `MCxiYzc1NDMxN2NjMTkyOGViNGJmMTQ5OTNmYWZhOTczZTBkNGQ5NjE0`

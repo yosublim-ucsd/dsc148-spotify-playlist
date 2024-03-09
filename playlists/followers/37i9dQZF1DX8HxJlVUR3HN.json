@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 25219,
+  "2024-03-09": 25222,
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : YEAHRS",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Bandit Bandit",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -71,7 +71,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 233520,
       "name": "Acting Real Nice",
       "url": "https://open.spotify.com/track/0OVxgI1b8dhbA0NK5m6DWv"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 181771,
       "name": "Amanita",
       "url": "https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 193666,
       "name": "Childish World",
       "url": "https://open.spotify.com/track/2T90flkgMSkqHYTbbmE1xv"
@@ -709,6 +709,24 @@
       "duration_ms": 173017,
       "name": "De l'aventure - Single Version",
       "url": "https://open.spotify.com/track/7Gf7bWdlp2RE79kJAlSszu"
+    },
+    {
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/6R6curgxkflcKqc0WVCsnk"
+      },
+      "artists": [
+        {
+          "name": "Venus Worship",
+          "url": "https://open.spotify.com/artist/1DYlwWhbYliHmGopueibNJ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5YcEpgSrceS4t1zFdg8z0t"
     },
     {
       "album": {
@@ -947,6 +965,24 @@
       "duration_ms": 208000,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/4KGhV3es3fpxChfpBCgAJj"
+    },
+    {
+      "album": {
+        "name": "2024 : Ann\u00e9e du Dragon",
+        "url": "https://open.spotify.com/album/356fhi2vFtb63eyu6AkxMK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mafia",
+          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169080,
+      "name": "Green Eye",
+      "url": "https://open.spotify.com/track/1P521PM4q6wIl25tAw4Ehq"
     },
     {
       "album": {
@@ -1325,6 +1361,24 @@
       "duration_ms": 222967,
       "name": "Knife Edge",
       "url": "https://open.spotify.com/track/6YPkB6TiX0ZPJPvlr5P3FV"
+    },
+    {
+      "album": {
+        "name": "Danse Animale",
+        "url": "https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV"
+      },
+      "artists": [
+        {
+          "name": "The Odds",
+          "url": "https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203845,
+      "name": "Le D\u00e9tail",
+      "url": "https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6"
     },
     {
       "album": {
@@ -1951,7 +2005,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 209826,
       "name": "Rules Bulls Bells",
       "url": "https://open.spotify.com/track/70RBWtoY36xVfOiRic5toh"
@@ -2351,6 +2405,24 @@
       "duration_ms": 208920,
       "name": "Summery Land",
       "url": "https://open.spotify.com/track/1Uiq5cFvLUwCMAqVY77oPR"
+    },
+    {
+      "album": {
+        "name": "Edg\u00e4r is Dead",
+        "url": "https://open.spotify.com/album/5kf46keruLMY20XP94Ih2U"
+      },
+      "artists": [
+        {
+          "name": "Edg\u00e4r",
+          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139106,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/7qR4KI5JAf8n48wStSizic"
     },
     {
       "album": {

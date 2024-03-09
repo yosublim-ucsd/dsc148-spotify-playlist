@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: SLUMBERJACK
 
-2,066 songs - 4 day 18 hr 35 min
+2,067 songs - 4 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Actor \- Hotel Rubio Remix](https://open.spotify.com/track/1VPXqIEtjOjD87nMJGWitM) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Actor \(Hotel Rubio Remix\)](https://open.spotify.com/album/0VtO7uKCzH9fwJWejXMWME) | 2:59 | 2024-01-11 | 2024-02-02 |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-11 | 2023-09-01 |
 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 | 2023-10-12 | 2023-11-17 |
-| [AEIOU \- Anfisa Letyago Remix](https://open.spotify.com/track/4gghDmAT7aHsqs3bxlUePO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [AEIOU \(Anfisa Letyago Remix\)](https://open.spotify.com/album/3PCNU91rC93WeraWBRo5AQ) | 4:07 | 2024-03-07 |  |
+| [AEIOU \- Anfisa Letyago Remix](https://open.spotify.com/track/4gghDmAT7aHsqs3bxlUePO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [AEIOU \(Anfisa Letyago Remix\)](https://open.spotify.com/album/3PCNU91rC93WeraWBRo5AQ) | 4:07 | 2024-03-07 | 2024-03-09 |
+| [AEIOU \- Anfisa Letyago Remix](https://open.spotify.com/track/7IGTGu0JGfDAhq514IVwOI) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [AEIOU \(Anfisa Letyago Remix\)](https://open.spotify.com/album/2Ww10npSck12H2Uf7f9dWw) | 4:07 | 2024-03-07 |  |
 | [AEIOU \- TCTS Remix](https://open.spotify.com/track/7oZHKzoxAeCP5RCBFC3kQD) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [AEIOU \- Remixes](https://open.spotify.com/album/0UWG1LzqelYNhIOWfHm1ev) | 3:54 | 2023-12-01 | 2023-12-22 |
 | [Affection](https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Affection](https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3) | 3:40 | 2023-12-08 | 2024-01-12 |
 | [Affogato](https://open.spotify.com/track/0LQ6qz5w2GkGUArujqJISX) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jordan Brando](https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO) | [N64 / Affogato](https://open.spotify.com/album/41V5QX9pmhliqt8Ww2hIhH) | 3:44 | 2023-08-17 | 2023-09-01 |

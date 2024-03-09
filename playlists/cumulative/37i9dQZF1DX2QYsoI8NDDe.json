@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Estilo Sin Limite y NXNNI",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Mariana Oviedo",
   "name": "Las Chacalosas",
   "tracks": [
     {
@@ -826,6 +826,24 @@
     {
       "album": {
         "name": "Contigo",
+        "url": "https://open.spotify.com/album/6BlVAhCDf00WIGzOJhYqOw"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233360,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6RO01uGuxwCoJnGwrZqbRN"
+    },
+    {
+      "album": {
+        "name": "Contigo",
         "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
       },
       "artists": [
@@ -840,6 +858,24 @@
       "duration_ms": 213711,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
+    },
+    {
+      "album": {
+        "name": "Contra Ellos",
+        "url": "https://open.spotify.com/album/3gOdzGNYZyf6ikKV3xRPxC"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158567,
+      "name": "Contra Ellos",
+      "url": "https://open.spotify.com/track/021GY6uKAgviWf74waKXTy"
     },
     {
       "album": {
@@ -915,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Cuando Te Acuerdes de M\u00ed (Live Session)",
+        "url": "https://open.spotify.com/album/2oyruBJWp4DTJYsEXn5SZX"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274920,
+      "name": "Cuando Te Acuerdes de M\u00ed - Live Session",
+      "url": "https://open.spotify.com/track/78sgRUUe099BRWVyAWYseP"
+    },
+    {
+      "album": {
         "name": "Cucurrucuc\u00fa Paloma",
         "url": "https://open.spotify.com/album/3z8gkipgvNxjNgu0UZ8tf6"
       },
@@ -970,7 +1024,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 198000,
       "name": "Cu\u00e9ntenle Mentiras",
       "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
@@ -1100,7 +1154,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 221830,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/7gKM9YuToXcbqAmrPqASAt"
@@ -1660,7 +1714,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 135769,
       "name": "Estoy De Buenas",
       "url": "https://open.spotify.com/track/3ahvUUFTrNI5zNMmLfgHJQ"
@@ -1762,6 +1816,40 @@
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
+    },
+    {
+      "album": {
+        "name": "Fumar Beber",
+        "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        },
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        },
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        },
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194531,
+      "name": "Fumar Beber",
+      "url": "https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3"
     },
     {
       "album": {
@@ -2010,7 +2098,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 177384,
       "name": "J\u00f3danse",
       "url": "https://open.spotify.com/track/0aylK2CdIREgHZeLnSpEjD"
@@ -2086,6 +2174,24 @@
       "duration_ms": 220173,
       "name": "La Chacalosa",
       "url": "https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby"
+    },
+    {
+      "album": {
+        "name": "La Fama de una Dama",
+        "url": "https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d"
+      },
+      "artists": [
+        {
+          "name": "Noelia",
+          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168317,
+      "name": "La Fama de una Dama",
+      "url": "https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8"
     },
     {
       "album": {
@@ -2509,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "Puras Sierre\u00f1as (En Vivo)",
+        "url": "https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "Lindo G\u00fcerito - En Vivo",
+      "url": "https://open.spotify.com/track/2O9fhXMbU6pAFUM8JMYM7k"
+    },
+    {
+      "album": {
         "name": "Llorar (Live)",
         "url": "https://open.spotify.com/album/7i1P8PYoNXRSpGVHABuOwD"
       },
@@ -2831,6 +2955,24 @@
     },
     {
       "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
+    },
+    {
+      "album": {
         "name": "Solo Lo Mejor: 20 Exitos",
         "url": "https://open.spotify.com/album/5L3DgJ6F7THYRV9mNTJxvD"
       },
@@ -3128,6 +3270,24 @@
       "duration_ms": 126365,
       "name": "Miro La Luna",
       "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
+    },
+    {
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265561,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
     },
     {
       "album": {
@@ -3626,7 +3786,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 174000,
       "name": "No Pude Mas",
       "url": "https://open.spotify.com/track/6RDCYF5avxZBDOWtUfVOGK"
@@ -4200,7 +4360,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 153978,
       "name": "Prendo",
       "url": "https://open.spotify.com/track/2GlmZFYpQASjZZaFPwi5ZC"
@@ -4970,7 +5130,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 127978,
       "name": "Solo T\u00fa Nomas",
       "url": "https://open.spotify.com/track/6z3ntFQzzu0aGtrHAKcCiR"
@@ -5274,7 +5434,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 162037,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
@@ -5393,6 +5553,46 @@
     },
     {
       "album": {
+        "name": "Troca",
+        "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147235,
+      "name": "Troca",
+      "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
+    },
+    {
+      "album": {
+        "name": "Tu Mama",
+        "url": "https://open.spotify.com/album/4UghGYyZTNF1yZMbMmJYPr"
+      },
+      "artists": [
+        {
+          "name": "Rocio Jasso",
+          "url": "https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155121,
+      "name": "Tu Mama",
+      "url": "https://open.spotify.com/track/4sT2ok1MLTcvLC2YocPuJU"
+    },
+    {
+      "album": {
         "name": "Primero Soy Mexicana",
         "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
@@ -5426,7 +5626,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 226000,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/5chVcTt95glP47mhpSm28B"
@@ -6242,7 +6442,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 164226,
       "name": "\u00bfQu\u00e9 Est\u00e1s Esperando?",
       "url": "https://open.spotify.com/track/5grwvQ7c97nTRHxprGThyy"

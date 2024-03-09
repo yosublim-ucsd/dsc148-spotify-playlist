@@ -4,13 +4,14 @@
 
 > Django and beyond.
 
-108 songs - 6 hr 41 min
+110 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1910](https://open.spotify.com/track/2nf1tuhOmb7npTSDUryiAd) | [Les doigts de l'homme](https://open.spotify.com/artist/7DOLup8LOVWI6g9PoeUOO5) | [1910 \(Jazz manouche\)](https://open.spotify.com/album/15i4how91OvGTmat782jcF) | 4:11 | 2021-02-04 |  |
 | [A Fadin' Blue](https://open.spotify.com/track/6AvCrfnM8SZOuRrOZGsuER) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x), [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [A Fadin' Blue](https://open.spotify.com/album/21CGyD3PVhXNfMlq6QVLXc) | 3:09 | 2022-07-01 |  |
-| [Avalon](https://open.spotify.com/track/2yzyvggVHHtSN3H57lFHuR) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Avalon](https://open.spotify.com/album/1iAs2iKTFAL98vSxew3LrT) | 2:06 | 2022-06-17 |  |
+| [Avalon](https://open.spotify.com/track/2aqkBQzlRRmNmBx9RiDghk) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Avalon](https://open.spotify.com/album/1NQH8YNQkMBQeNsOyXRDPl) | 2:06 | 2022-06-17 |  |
+| [Avalon](https://open.spotify.com/track/2yzyvggVHHtSN3H57lFHuR) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Avalon](https://open.spotify.com/album/1iAs2iKTFAL98vSxew3LrT) | 2:06 | 2022-06-17 | 2024-03-09 |
 | [Ballade pour Django](https://open.spotify.com/track/5b07gtahr6UMl53QUBpiqu) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Sven Jungbeck](https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO), [Volker Kamp](https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc) | [Ballade pour Django](https://open.spotify.com/album/1R61EzoTcxhCTfSiZrkE5Z) | 7:35 | 2023-11-03 | 2023-12-16 |
 | [Bekledim de gelmedin](https://open.spotify.com/track/4VL6K8LSyTNignnVtM7Kqr) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/5KeQVW34iNad36bM6ZX6ps) | 2:42 | 2022-04-29 |  |
 | [Bekledim de gelmedin](https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An) | 2:42 | 2022-04-29 | 2024-03-08 |
@@ -110,7 +111,8 @@
 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 | 2021-02-04 |  |
 | [Tchavolo Swing](https://open.spotify.com/track/7KTD9w6YRemUGglOZiuA4t) | [Havana Swing](https://open.spotify.com/artist/3PCJQXCDzJpFPiAYvmQJ98) | [Django's Lion](https://open.spotify.com/album/5rChKi1KkeA9VyLu3Isgga) | 2:33 | 2021-02-04 |  |
 | [The Devil's Swing](https://open.spotify.com/track/03MATAzAcAb1Z9jLcsmP2i) | [The Bridge City Sinners](https://open.spotify.com/artist/67koLjNJIwd3at8sM8EAkt) | [Unholy Hymns](https://open.spotify.com/album/57KLMex0JrodIDGfeGWST2) | 2:26 | 2021-08-20 |  |
-| [The Good Life](https://open.spotify.com/track/7rnnwvPsGUdQQsZPeFHb6H) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [The Good Life](https://open.spotify.com/album/6pTKBoSyVVTCW97iRXXBAo) | 3:15 | 2022-08-19 |  |
+| [The Good Life](https://open.spotify.com/track/1e6ocCmBkCroBnMiJJSotp) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [The Good Life](https://open.spotify.com/album/1Gt8BW4DsmqGXWXUvjLdDu) | 3:15 | 2022-08-19 |  |
+| [The Good Life](https://open.spotify.com/track/7rnnwvPsGUdQQsZPeFHb6H) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [The Good Life](https://open.spotify.com/album/6pTKBoSyVVTCW97iRXXBAo) | 3:15 | 2022-08-19 | 2024-03-09 |
 | [Tico Tico](https://open.spotify.com/track/385JaZTfI5676RUcXfELR3) | [The Black Market Trust](https://open.spotify.com/artist/05YUfl0SzLH3OqbAICDULQ) | [Anything for You](https://open.spotify.com/album/5XzaYOo5muDfF8O0sfKMNU) | 2:24 | 2021-02-04 |  |
 | [Trompettes de la renommée](https://open.spotify.com/track/0dNpnqNn3q0tz2HP9ADZOC) | [Les pommes de ma douche](https://open.spotify.com/artist/2851SiC9O0PIsVKjNMtj4f) | [Emules de Django, disciples de Brassens](https://open.spotify.com/album/34wWpd6C8HJTNetiPekD7g) | 3:53 | 2021-02-04 |  |
 | [Vette](https://open.spotify.com/track/0aqTTdQrufrkfAPcxshXLi) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn), [Selmer \#607](https://open.spotify.com/artist/56uU1OZizI84F7hkLuvYWI), [Rocky Gresset](https://open.spotify.com/artist/3LgwMt7NY7ofdnipSHcahX), [Noe Reinhardt](https://open.spotify.com/artist/5VXizzX9cAJKol49amHkCU), [Sebastien Giniaux](https://open.spotify.com/artist/6zvx3s2J92fS42ezTRAvCX), [Richard Manetti](https://open.spotify.com/artist/5esq88DOd4bNltFwMav6Yc) | [The Selmer \#607 Album](https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z) | 3:31 | 2021-02-04 |  |

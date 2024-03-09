@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: ZHU & UPSAHL",
-  "num_followers": 476593,
+  "num_followers": 476635,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzExMjhlNDAxYzlmMDczODdiYjU0NDhkNTI4YjY0ZmY3ZTI1NGQy",
+  "snapshot_id": "MCw1ZDdiY2VmMDI3NDE3MTE3YjNmYTM5MWJlMDMxYzFkMmUxMmEwZjI4",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Shape & Form",
-        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 242349,
-      "name": "Tell Me The Truth",
-      "url": "https://open.spotify.com/track/4MFLdAiHJv7zDOEbD2P2az"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "PATCHWERK",
         "url": "https://open.spotify.com/album/51qRLrJfPzxq6y8gEg8q7H"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 141591,
       "name": "PATCHWERK",
       "url": "https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Shape & Form",
+        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 242349,
+      "name": "Tell Me The Truth",
+      "url": "https://open.spotify.com/track/4MFLdAiHJv7zDOEbD2P2az"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -527,26 +527,6 @@
       "duration_ms": 188237,
       "name": "Don't Look At Me",
       "url": "https://open.spotify.com/track/3U7mehH6qFWzsDrAljZ7VW"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "GAY 4 ME (feat. Lauren Sanderson)",
-        "url": "https://open.spotify.com/album/7iR7ByaH9gsE5yKqPZBmU0"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        },
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 174739,
-      "name": "GAY 4 ME (feat. Lauren Sanderson)",
-      "url": "https://open.spotify.com/track/0SpPqrdsoudUHbahZa9Sm5"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -695,6 +675,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
       },
@@ -727,38 +723,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "FUNERAL",
-        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 181923,
-      "name": "FUNERAL",
-      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
       },
@@ -775,6 +739,22 @@
       "duration_ms": 192150,
       "name": "Hold The Line (feat. grandson)",
       "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -963,22 +943,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosenfeld",
-          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
-        }
-      ],
-      "duration_ms": 138946,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Distorted Light Beam",
         "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
       },
@@ -991,6 +955,22 @@
       "duration_ms": 177221,
       "name": "Distorted Light Beam",
       "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosenfeld",
+          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
+        }
+      ],
+      "duration_ms": 138946,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1011,6 +991,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "WICKED",
         "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
       },
@@ -1027,22 +1023,6 @@
       "duration_ms": 210027,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1139,6 +1119,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "alternative psycho (deluxe)",
+        "url": "https://open.spotify.com/album/1OxbOHfmwNB0oG1UycR5pS"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "save urself (runaway)",
+      "url": "https://open.spotify.com/track/5CtZQtRHLuHKkzMqsm0Tva"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Time Isn't Real",
         "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
       },
@@ -1211,18 +1207,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "alternative psycho (deluxe)",
-        "url": "https://open.spotify.com/album/1OxbOHfmwNB0oG1UycR5pS"
+        "name": "LOST IT",
+        "url": "https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt"
       },
       "artists": [
         {
           "name": "Layto",
           "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
+        {
+          "name": "P!X!E",
+          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
         }
       ],
-      "duration_ms": 180093,
-      "name": "save urself (runaway)",
-      "url": "https://open.spotify.com/track/5CtZQtRHLuHKkzMqsm0Tva"
+      "duration_ms": 166000,
+      "name": "LOST IT",
+      "url": "https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "LOST IT",
-        "url": "https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        },
-        {
-          "name": "P!X!E",
-          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "LOST IT",
-      "url": "https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "BELIEVE",
         "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
       },
@@ -1459,22 +1439,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 206687,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Dead",
         "url": "https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI"
       },
@@ -1487,6 +1451,22 @@
       "duration_ms": 157565,
       "name": "Dead",
       "url": "https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 206687,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1787,6 +1767,22 @@
       "duration_ms": 169285,
       "name": "Going Ghost",
       "url": "https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     }
   ],
   "unique_name": "Alternative Beats",

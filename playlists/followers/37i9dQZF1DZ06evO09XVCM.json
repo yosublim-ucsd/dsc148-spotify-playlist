@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 31883,
+  "2024-03-09": 31892,
   "date_first_scraped": "2024-02-02",
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
   "name": "This Is Ziggy Marley",
@@ -101,7 +101,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 161693,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 260853,
       "name": "Family Time (feat. Judah Marley)",
       "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 299827,
       "name": "High Tide or Low Tide (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/56iGwUFIn9SuKZIYl8RiAO"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 198066,
       "name": "Take Me To Jamaica (feat. Toots Hibbert)",
       "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"

@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-298 songs - 18 hr 58 min
+299 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Beware Of Birds](https://open.spotify.com/track/1IOz13EgqA22jojuSD4QAb) | [Jack and the bearded fishermen](https://open.spotify.com/artist/3dA2NIoEt8X4q0KU4QycgJ) | [Beware Of Birds](https://open.spotify.com/album/4KmuhLn1p7YYbWlltDuI4Z) | 3:10 | 2022-01-27 | 2023-03-28 |
 | [Bitter](https://open.spotify.com/track/0pUNyIK9UsvFpXHbJ6gunK) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Gone Are The Good Days](https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2) | 3:11 | 2021-12-31 | 2024-01-20 |
 | [Black Echoes](https://open.spotify.com/track/6FvVqAYg7ZOMFeRmHo08dv) | [Carmen Sea](https://open.spotify.com/artist/5OY8MWVQqEbhMmmxnBMy1X) | [HISS](https://open.spotify.com/album/78IBBrQjjTWiIkYSIrxtxN) | 2:43 | 2022-03-30 | 2022-07-28 |
+| [Bones](https://open.spotify.com/track/1UCm2EDxY8NOMfQJeIHDEv) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Definitely Unfinished](https://open.spotify.com/album/38KxKkRLgtGfnai9NZj5Hu) | 4:33 | 2024-02-28 |  |
 | [Bones](https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Bones](https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3) | 4:33 | 2021-12-15 | 2024-02-15 |
 | [Branque](https://open.spotify.com/track/4IFOzzLYdHxwfo3R8IrUhq) | [Bantam Lyons](https://open.spotify.com/artist/0PYUuiy5K17prjVHYVEhia) | [Branque](https://open.spotify.com/album/7zFdts2b5EzbzC104qgc7H) | 4:41 | 2021-12-15 | 2022-07-29 |
 | [Bride](https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG) | [Send Me Love Letters](https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk) | [Bride](https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj) | 2:58 | 2022-02-24 |  |
@@ -95,7 +96,7 @@
 | [Forces du désordre](https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu) | 4:43 | 2021-12-15 | 2022-07-29 |
 | [Forces du désordre](https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF) | 4:43 | 2022-09-12 | 2023-06-28 |
 | [From The Sea To Your Mind](https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [From The Sea To Your Mind](https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9) | 5:29 | 2022-03-24 | 2023-10-24 |
-| [Full Circle Back](https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Full Circle Back](https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu) | 3:46 | 2022-04-17 |  |
+| [Full Circle Back](https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Full Circle Back](https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu) | 3:46 | 2022-04-17 | 2024-03-09 |
 | [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 | 2022-01-03 | 2023-12-16 |
 | [Funny Job](https://open.spotify.com/track/1UkK5H2jqo3AsT1BqWN18p) | [Alista](https://open.spotify.com/artist/61hCos6hISn5le08kOOkIc) | [Home Alone](https://open.spotify.com/album/487GnXko7mltMClLrOXiI5) | 3:46 | 2021-12-15 | 2023-12-14 |
 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 | 2023-12-14 | 2024-01-15 |

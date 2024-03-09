@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17922,
+  "num_followers": 17920,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGE1ZjU3M2M0YjExN2U1MTM0ZWMwNjQzN2VkMzIzYWRmMjU0ZjBl",
+  "snapshot_id": "MCxmMDM3NjVmNGVmYzUxNzU5ZWQ2ODVkNjg2MzRlNDc0N2E0OWZkMTNk",
   "tracks": [
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Flora Matos Vs. Stereodubs",
-        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        },
-        {
-          "name": "Stereodubs",
-          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Esperar o Sol",
-      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "N\u00e3o \u00e9 S\u00f3 Isso",
         "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 181373,
       "name": "Como Deus Quiser",
       "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Flora Matos Vs. Stereodubs",
+        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        },
+        {
+          "name": "Stereodubs",
+          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Esperar o Sol",
+      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
     },
     {
       "added_at": "2024-02-23 18:00:29",

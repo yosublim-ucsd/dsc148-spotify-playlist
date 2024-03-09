@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-175 songs - 13 hr 13 min
+176 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Portrait Of Ella Fitzgerald \- Medley](https://open.spotify.com/track/1gHCjyrcEDy9dLSRWrVJCb) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 16:16 | 2022-09-08 | 2023-09-26 |
 | [Portrait Of Ella Fitzgerald \- Medley](https://open.spotify.com/track/4RPnrH7RPVkiInMV2L6dQs) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 16:16 | 2023-09-25 |  |
 | [Pretty Girl \(aka The Star\-Crossed Lovers\)](https://open.spotify.com/track/3luMzvGFRxc8yFpdQGfviv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 8:54 | 2022-09-08 |  |
+| [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 | 2024-03-08 |  |
 | [Progressive Gavotte](https://open.spotify.com/track/3URrsgBM7nSEhbfPd9J3US) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 2:55 | 2022-09-08 |  |
 | [Pt\. I\-Festival Junction](https://open.spotify.com/track/7kw6RQgL8a7ksK5NCEWx59) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ellington at Newport 1956 \(Complete\)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) | 8:46 | 2022-09-08 |  |
 | [Pt\. II\-Blues to Be There \- Live](https://open.spotify.com/track/4aKm1xEQAaEF1tDuQ4YMuJ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ellington at Newport 1956 \(Complete\)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) | 7:09 | 2022-09-08 |  |

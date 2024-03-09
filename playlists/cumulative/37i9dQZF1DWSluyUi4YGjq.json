@@ -5497,6 +5497,32 @@
     },
     {
       "album": {
+        "name": "krillin",
+        "url": "https://open.spotify.com/album/15V7baihpBBfFTTtxxOmgB"
+      },
+      "artists": [
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        },
+        {
+          "name": "Greg Mendez",
+          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
+        },
+        {
+          "name": "SUN ORGAN",
+          "url": "https://open.spotify.com/artist/13ZwcU5VGUsd4nB6hsUYCp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135154,
+      "name": "krillin",
+      "url": "https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO"
+    },
+    {
+      "album": {
         "name": "Dissolution Wave",
         "url": "https://open.spotify.com/album/0XABQZMWdLKgGfpFcsmBjR"
       },

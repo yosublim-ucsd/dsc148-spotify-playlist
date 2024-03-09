@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5?si=ZYAE8\-JXS7uWGt2AWDvWSA">Dan Patlansky</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=gH9sqj3lR9K\-A6aCW4frNg">VOLK</a>
 
-456 songs - 1 day 3 hr 16 min
+458 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Awake](https://open.spotify.com/track/25TN22SHRxXPlPlobiyXr6) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/3WzW1B4xGh1xTVJaAFvLsW) | 4:20 | 2022-04-28 | 2023-01-13 |
 | [Awake](https://open.spotify.com/track/5sRl0XbDePaW4vMLUzFr2k) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Demons](https://open.spotify.com/album/5SkDGf68176SCGPgtZalKz) | 4:20 | 2022-04-28 | 2022-11-13 |
 | [Awake](https://open.spotify.com/track/63y0EHsPzQ7BQSBgRVeFO7) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/5PIw46MHfW0Su1TWH3KrlH) | 4:20 | 2022-04-28 | 2022-11-11 |
-| [Baby Fourie](https://open.spotify.com/track/241w9ZhajUhUxkHq13EKDe) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Baby Fourie](https://open.spotify.com/album/1IZjQX1rvxFn5IgujegAHJ) | 4:24 | 2024-02-15 |  |
+| [Baby Fourie](https://open.spotify.com/track/241w9ZhajUhUxkHq13EKDe) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Baby Fourie](https://open.spotify.com/album/1IZjQX1rvxFn5IgujegAHJ) | 4:24 | 2024-02-15 | 2024-03-09 |
 | [Baby Tjoklits](https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5) | [Groot Oom John Tenoor](https://open.spotify.com/artist/6JT9m3NJiQXCfXVwdJXH06) | [Sosiaal Gebreek](https://open.spotify.com/album/6aBLqzJka0CJfqOqC7HQbn) | 4:05 | 2023-07-06 | 2024-01-05 |
 | [Baby's Breath](https://open.spotify.com/track/6H0P9Ln8xtXFs60s6cHYQa) | [Marlowe](https://open.spotify.com/artist/4ZY49Da5Jtv8pfmea1XWdu) | [Lines from the Broken Telephone](https://open.spotify.com/album/13XGOiU75FZslOXSpipZvd) | 4:01 | 2024-01-04 | 2024-01-19 |
 | [Badass Beautiful Friend](https://open.spotify.com/track/5M5793P3hiQpDDDx8ap6YC) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Badass Beautiful Friend](https://open.spotify.com/album/3qhqMOEqPrvkHgYBYHJhNq) | 3:09 | 2024-02-09 | 2024-03-01 |
@@ -100,6 +100,7 @@
 | [Darlene](https://open.spotify.com/track/5oSm6O7Vl8D31fwXDdOEbJ) | [East of the Equator](https://open.spotify.com/artist/3zpLOUiHG13KAwneK1cswd) | [Darlene](https://open.spotify.com/album/36ctPjNUlyQ4JAg0XkJqZK) | 2:37 | 2022-12-15 | 2023-03-10 |
 | [Dead Conversation](https://open.spotify.com/track/22vgy2SzEAWCrLOP5gXnl3) | [Ethyl Ether](https://open.spotify.com/artist/0SbWug1zk2RZx8WkkwIJpt) | [Violent Entertainment](https://open.spotify.com/album/37QdH3r9th6XplJOBVgt5G) | 4:44 | 2023-01-26 | 2023-04-15 |
 | [Dead Weight](https://open.spotify.com/track/48bu0l37kTYnMBCzIGwXoU) | [Acid Magus](https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2), [Johni Holiday](https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2) | [Dead Weight](https://open.spotify.com/album/2wmfuymectP3TLRP50kko3) | 5:53 | 2023-06-08 | 2023-08-12 |
+| [Deadly](https://open.spotify.com/track/0Ec6dPBzd9jqckREqPljBt) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Deadly](https://open.spotify.com/album/6bSqMeTdNBSkagu8A1As5z) | 3:41 | 2024-03-08 |  |
 | [Delirium Tremors \- Radio Edit](https://open.spotify.com/track/6mEeRt3Y4seCZ3Ag54MAhK) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Delirium Tremors \(Radio Edit\)](https://open.spotify.com/album/2VgzCSHbnfuPLKwnqfMMHa) | 3:35 | 2023-08-11 | 2023-11-25 |
 | [Deliver Me](https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Deliver Me](https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN) | 3:46 | 2022-04-28 | 2022-05-27 |
 | [Delta V](https://open.spotify.com/track/472uZf2otohSUoXG51wqwh) | [Shaun Orlando Berry](https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7) | [Delta V](https://open.spotify.com/album/7tO9AkT65ZIpcsR1Yu0O5M) | 2:56 | 2023-04-20 | 2023-06-23 |
@@ -274,7 +275,8 @@
 | [Mud](https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Mud](https://open.spotify.com/album/4Ne7tTIbyzladfzbwO2y8x) | 3:07 | 2023-04-14 | 2023-06-09 |
 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 | 2024-01-04 |  |
 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 | 2021-12-02 | 2022-11-18 |
-| [My Name Is Freedom](https://open.spotify.com/track/6WvHk5ZGK8p945lHPjRpWt) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [My Name Is Freedom](https://open.spotify.com/album/1JG8bied0mmLZIxrhNYrk4) | 3:42 | 2024-02-22 |  |
+| [My Hart Is 'n Trein](https://open.spotify.com/track/0UBxkP3u0lvRJRgpL7ew7N) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [My Hart Is 'n Trein](https://open.spotify.com/album/3rVVd7WGdBVSKmQco86Y2J) | 3:44 | 2024-03-08 |  |
+| [My Name Is Freedom](https://open.spotify.com/track/6WvHk5ZGK8p945lHPjRpWt) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [My Name Is Freedom](https://open.spotify.com/album/1JG8bied0mmLZIxrhNYrk4) | 3:42 | 2024-02-22 | 2024-03-09 |
 | [My Obsession](https://open.spotify.com/track/3KSuV9KC96YOR7aaqiHNWS) | [Jack Stone](https://open.spotify.com/artist/1fuZsUTxoFVifBfXGSTOxh) | [My Obsession](https://open.spotify.com/album/2k9v4WSCMwJZH2bmawDQZE) | 3:30 | 2023-07-28 | 2023-09-29 |
 | [My Wolf](https://open.spotify.com/track/1O9wH2a4pYvKvQflK61JVL) | [Hansie Roodt](https://open.spotify.com/artist/78nUGs2i0NV2hsgPQya8E3) | [My Wolf](https://open.spotify.com/album/1zLCBWxCWdinLZLX9KMiCf) | 3:44 | 2023-03-30 | 2023-05-26 |
 | [Nakhu Ses’Fika](https://open.spotify.com/track/5ldT2XXjE1vGrJqzaeO1Ez) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Nakhu Ses’Fika](https://open.spotify.com/album/2Wvspa9VimsIhlaKrlmfJp) | 3:30 | 2023-10-26 | 2024-01-05 |

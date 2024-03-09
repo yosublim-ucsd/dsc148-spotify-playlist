@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Chori Chori",
+        "url": "https://open.spotify.com/album/4CXtHDOWbfetK0RWxA2KV4"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157425,
+      "name": "Chori Chori",
+      "url": "https://open.spotify.com/track/06gywLVa2SQz9lqlDEOpy3"
+    },
+    {
+      "album": {
         "name": "SKYPEARL",
         "url": "https://open.spotify.com/album/4QJAdeUYpNo8d4Xcsc5q23"
       },
@@ -4276,8 +4294,8 @@
           "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
         },
         {
-          "name": "Nora Fatehi",
-          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
         }
       ],
       "date_added": "2024-02-24",

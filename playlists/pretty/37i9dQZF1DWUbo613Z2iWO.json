@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Dende",
-  "num_followers": 49137,
+  "description": "R&B of the moment by the artists of the future. Cover: Fridayy",
+  "num_followers": 49157,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDMzZTUwNWQ3NDJmNTQ3MjM2OWQ3Y2MwZjdiNzFjY2VmZDE2MTNh",
+  "snapshot_id": "MCw5OGZlM2JlMmM5YmIxNGEzZDhhYTdmNWY1ZjQ5NWQzZWEzODg2NGQ4",
   "tracks": [
+    {
+      "added_at": "2024-03-08 13:25:41",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/5rgrEeyvQn0yAVYWjPFhfv"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0EDJIsRjaFxyfYfI8blQnB"
+    },
     {
       "added_at": "2024-03-01 07:19:09",
       "album": {
@@ -133,24 +149,20 @@
       "url": "https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9"
     },
     {
-      "added_at": "2024-03-01 07:19:09",
+      "added_at": "2024-03-08 13:25:41",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY"
+        "name": "Walk Like This",
+        "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
       },
       "artists": [
         {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "SHOW N PROVE",
-          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 116389,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm"
+      "duration_ms": 197493,
+      "name": "Walk Like This",
+      "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -167,22 +179,6 @@
       "duration_ms": 218698,
       "name": "Bad M'fkr",
       "url": "https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 235035,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
     },
     {
       "added_at": "2024-03-01 07:19:09",
@@ -207,6 +203,110 @@
       "duration_ms": 147295,
       "name": "You Don't Call Me",
       "url": "https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc"
+    },
+    {
+      "added_at": "2024-03-08 13:25:41",
+      "album": {
+        "name": "ARTchives: The Gallery",
+        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 162625,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
+    },
+    {
+      "added_at": "2024-03-08 13:25:41",
+      "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/6rZjKpK2kAK0cNPofSloqS"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "duration_ms": 157799,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/4XSHcdeXjk0Xsq7hFo3BpB"
+    },
+    {
+      "added_at": "2024-03-08 13:25:41",
+      "album": {
+        "name": "THE STUNT-MAN PACK",
+        "url": "https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "OPTIONS",
+      "url": "https://open.spotify.com/track/0LU2BLCYWYZX0Syij9SM15"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 235035,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
+    },
+    {
+      "added_at": "2024-03-01 07:19:09",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "duration_ms": 116389,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm"
+    },
+    {
+      "added_at": "2024-03-08 13:25:41",
+      "album": {
+        "name": "Heads Up",
+        "url": "https://open.spotify.com/album/7lFrudJN1swTpUTt1QJCfQ"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        },
+        {
+          "name": "Malaika Terry",
+          "url": "https://open.spotify.com/artist/7sL8HfC43vLdD29Z8CEfub"
+        }
+      ],
+      "duration_ms": 207123,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
     },
     {
       "added_at": "2024-02-24 13:09:46",
@@ -939,46 +1039,6 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 221242,
-      "name": "Mistaken",
-      "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 142613,
-      "name": "Angels in Tibet",
-      "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
         "name": "DISC TWO (SCRATCHED UP)",
         "url": "https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3"
       },
@@ -1431,22 +1491,6 @@
       "duration_ms": 182037,
       "name": "Caught Between 2 Worlds",
       "url": "https://open.spotify.com/track/2Aef1eaUQAOu4tDEHL0E0u"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "it's not you, it's me... it's love",
-        "url": "https://open.spotify.com/album/18CRiKrKO856anaMXGjXP9"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 143773,
-      "name": "nite",
-      "url": "https://open.spotify.com/track/5d2sBOqleqxg8noBOvQEYa"
     },
     {
       "added_at": "2024-01-10 17:00:00",

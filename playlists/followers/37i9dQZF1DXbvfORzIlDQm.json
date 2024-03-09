@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 27137,
+  "2024-03-09": 27144,
   "date_first_scraped": "2021-12-21",
   "description": "A collection of roots music and covers urging peace and calling for change. Cover: Tr\u00e9 Burt",
   "name": "Roots of Change",
@@ -635,10 +635,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 196557,
       "name": "Little Sparrow",
       "url": "https://open.spotify.com/track/6n2H3jy9SDo5k22pIyMCU0"
+    },
+    {
+      "album": {
+        "name": "A day for the hunter, a day for the prey",
+        "url": "https://open.spotify.com/album/4J4u8xcpz1WTAJRcgenpBa"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196557,
+      "name": "Little sparrow",
+      "url": "https://open.spotify.com/track/6vGfL4ZcRL2U6RaGuZ5fJd"
     },
     {
       "album": {

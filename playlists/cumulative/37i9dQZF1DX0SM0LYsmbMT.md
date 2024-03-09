@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,052 songs - 6 day 10 hr 51 min
+4,053 songs - 6 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,7 +874,7 @@
 | [Did It Yesterday](https://open.spotify.com/track/3qcDDIxV01o13XtN21BRHk) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Did It Yesterday](https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo) | 3:08 | 2022-03-24 | 2022-03-31 |
 | [Didlidlada](https://open.spotify.com/track/7xjxkRFcivyukN5Fdvdgwc) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Didlidlada](https://open.spotify.com/album/27rl2aL3EFuapozRlYaiFH) | 2:01 | 2019-10-25 | 2020-04-18 |
 | [Die Brücke](https://open.spotify.com/track/2G97Y9X9QvNlWKdoH9nago) | [Marius Schiffer](https://open.spotify.com/artist/3slLCBXYLkr6Gj1ogFGxGL), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Polychronis Pastourmatzis](https://open.spotify.com/artist/490q8KxyWRWmpJiY51ijnX) | [Kafka](https://open.spotify.com/album/6qrTpWnQF9Ci5AQQYb51Xg) | 1:48 | 2019-06-22 | 2019-11-08 |
-| [Different Story](https://open.spotify.com/track/6Hb20OfR9YBA7FQQKLdYx2) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Different Story](https://open.spotify.com/album/7rqxvfoZTbKM3xYGKfQi3C) | 1:58 | 2024-03-07 |  |
+| [Different Story](https://open.spotify.com/track/6Hb20OfR9YBA7FQQKLdYx2) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Different Story](https://open.spotify.com/album/7rqxvfoZTbKM3xYGKfQi3C) | 1:58 | 2024-03-07 | 2024-03-09 |
 | [Dig This Vibe](https://open.spotify.com/track/6mN4GW8gitB9Ah4AIV9ijY) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Dig This Vibe](https://open.spotify.com/album/45IgHtBzmB4ygUFLUzZUdI) | 2:00 | 2023-04-06 | 2023-11-24 |
 | [Diggin' in Japan](https://open.spotify.com/track/4wBhrjxTqAv3Lf9E78vlGQ) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [You Don't Know What Love Is](https://open.spotify.com/album/1ujIpuxtWkMjAnVn1QeFvt) | 3:01 | 2019-08-30 | 2020-02-22 |
 | [Dinner On Me](https://open.spotify.com/track/0xVoUtNNgGK44tq1lEd0VB) | [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Dinner On Me](https://open.spotify.com/album/5fbc4Kyezue49piNFlPOGq) | 2:33 | 2020-07-31 | 2020-09-11 |
@@ -1893,6 +1893,7 @@
 | [Lazy Swell](https://open.spotify.com/track/6jkC6iIoQZC79DP6fZiKTD) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Lazy Swell](https://open.spotify.com/album/0WbbGBJFVOgRMPgRq3AmXD) | 2:14 | 2021-03-14 | 2021-10-08 |
 | [Lazywarp](https://open.spotify.com/track/7vEk6R4eRnh4XXXQB7S1DM) | [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz), [The Golden Cobra](https://open.spotify.com/artist/3osyMYsuGQMcWxmmHJGiLw) | [Gemini](https://open.spotify.com/album/7eV8mTK0ahRLgjiwP5yBPq) | 3:24 | 2021-07-02 | 2021-09-10 |
 | [Le Palais Rouge](https://open.spotify.com/track/0FHjzDRgVDCVfoVqLdN3bb) | [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Le Palais Rouge](https://open.spotify.com/album/2MnITSySVFKJ5AixBOa1Fm) | 3:03 | 2021-10-29 | 2022-06-03 |
+| [Le Prince De Paname](https://open.spotify.com/track/6weGcJuZQa1diJnTbjjMmV) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve) | [Le Prince De Paname](https://open.spotify.com/album/2gDLTF3mSQIx12JqttghRr) | 2:56 | 2024-03-07 |  |
 | [Le Soir](https://open.spotify.com/track/3yjtOKoiKZXJHhIu9FthFz) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Traffic](https://open.spotify.com/album/7reas5sNVOnudBgBQLgWVq) | 1:48 | 2020-06-29 | 2020-10-16 |
 | [Leaf in Locker](https://open.spotify.com/track/7tSkT4Al8iFU47pkYIj63k) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Leaf in Locker // Tangerine Brick](https://open.spotify.com/album/7Fv5yaUzmw3ib1WKc0w48l) | 2:00 | 2021-09-07 | 2021-10-22 |
 | [Leaks](https://open.spotify.com/track/4N5UMM70a59dnXsbpU9lyQ) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Leaks](https://open.spotify.com/album/7q2nFKFQ2Qs3ZYiaN4tOgN) | 2:36 | 2021-02-14 | 2021-07-02 |

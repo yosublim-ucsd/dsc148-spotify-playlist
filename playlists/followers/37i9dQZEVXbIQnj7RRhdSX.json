@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 1067444,
+  "2024-03-09": 1067530,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -14799,7 +14799,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 188731,
       "name": "Ilva (Fume scure rmx) (feat. Fido Guido)",
       "url": "https://open.spotify.com/track/3qVXFPzGHZrZDvCK75USxg"
@@ -29817,6 +29817,28 @@
       "duration_ms": 202500,
       "name": "Soffier\u00e0",
       "url": "https://open.spotify.com/track/2O0y98O2o2hY9M3eBPvnsW"
+    },
+    {
+      "album": {
+        "name": "Sogna, Ragazzo, Sogna",
+        "url": "https://open.spotify.com/album/4p6xrXwFIOLsoYKP5twbWg"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        },
+        {
+          "name": "Roberto Vecchioni",
+          "url": "https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269850,
+      "name": "Sogna, Ragazzo, Sogna",
+      "url": "https://open.spotify.com/track/1Bd1LDJyjKDJC7pznEMYOR"
     },
     {
       "album": {

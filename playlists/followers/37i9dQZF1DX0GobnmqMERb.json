@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 2173,
+  "2024-03-09": 2171,
   "date_first_scraped": "2023-11-11",
   "description": "Los temas que los Cangrejeros de Santurce est\u00e1n escuchando.",
   "name": "Cangrejeros: Game Day",
@@ -238,6 +238,24 @@
     },
     {
       "album": {
+        "name": "A Band And Their Music: Campeones",
+        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405093,
+      "name": "El Rey de la Puntualidad",
+      "url": "https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY"
+    },
+    {
+      "album": {
         "name": "Lo Qu\u00e9 Pide La Gente",
         "url": "https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0"
       },
@@ -257,28 +275,6 @@
       "duration_ms": 402360,
       "name": "El Rey De La Puntualidad",
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
-    },
-    {
-      "album": {
-        "name": "A Band And Their Music: Campeones",
-        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "date_added": "2023-11-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 405093,
-      "name": "El Rey De La Puntualidad",
-      "url": "https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY"
     },
     {
       "album": {
@@ -480,7 +476,7 @@
     },
     {
       "album": {
-        "name": "KULIKITAKA",
+        "name": "KULIKITAKA (En Vivo)",
         "url": "https://open.spotify.com/album/7CsWp1eRvtTCXjUKqIfkNE"
       },
       "artists": [
@@ -493,7 +489,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219114,
-      "name": "KULIKITAKA",
+      "name": "KULIKITAKA - En Vivo",
       "url": "https://open.spotify.com/track/3I790LcHc41dWZsKPAyMbS"
     },
     {

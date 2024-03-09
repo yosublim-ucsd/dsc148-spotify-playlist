@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > consider this an RSVP to littest wedding parties
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,516 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,519 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 49 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
 | 50 | [Come and See My Moda](https://open.spotify.com/track/3nhUUcq9YDF5FgMlaZ6jCv) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Come and See My Moda](https://open.spotify.com/album/36ayAOmHgXYzJEKhXVwZcu) | 3:40 |
 
-Snapshot ID: `MCw0YTJlZmI0MTA4YWFhZGYwNWFjYjUzODQyOTM4NTViY2MzZDMxM2Rm`
+Snapshot ID: `MCw4ZmIxNjdmMWU2M2M0NjA2YzUzZDQwOTI2MjNmNWYyMjQyZWU0ZmMy`

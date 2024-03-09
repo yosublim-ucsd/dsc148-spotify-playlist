@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-187 songs - 9 hr 50 min
+193 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Environmental Re\-Interpretation](https://open.spotify.com/track/440vNnFLzA1jeyfBQ1qeLY) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Environmental Re\-Interpretation](https://open.spotify.com/album/6DflzLS0vUt45ca8lw3iiW) | 3:26 | 2022-03-03 | 2022-08-13 |
 | [Equality](https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Equality](https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ) | 3:34 | 2023-01-27 |  |
 | [Escape Gravity](https://open.spotify.com/track/3xjsbk8OtU1uR3FuOPS2NT) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Escape Gravity](https://open.spotify.com/album/2q8JbhxMmq0UMn3ui8XdvB) | 2:51 | 2021-12-10 | 2023-03-31 |
+| [Eternity](https://open.spotify.com/track/6F1XUfxLUHsjdxEYBo9HaO) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Eternity](https://open.spotify.com/album/2xhuSqtoqvI2n0t1FSRogP) | 3:12 | 2024-03-08 |  |
 | [Ethereal](https://open.spotify.com/track/19Veznfh8J7ZPLs9kgK1Kq) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Ethereal](https://open.spotify.com/album/7w5YrYY6lrmDIlNFNpj79L) | 3:17 | 2021-12-10 |  |
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2021-12-10 |  |
 | [Evening's peace](https://open.spotify.com/track/2JvLy4Sn0HHPMDY3zAx3nE) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Evening's peace](https://open.spotify.com/album/6ejJZyYDesDEeTmnKbwj41) | 3:25 | 2021-12-10 |  |
@@ -76,6 +77,7 @@
 | [Frontiers Are Where You Find Them](https://open.spotify.com/track/0pYcmN2XmJSWNEvjgGFodh) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/5M1Z3FRYy0G5GWhlvvPdRw) | 3:13 | 2021-12-10 | 2022-07-29 |
 | [Frontiers Are Where You Find Them](https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw) | 3:13 | 2022-06-29 | 2023-08-05 |
 | [Gelborn Heights](https://open.spotify.com/track/5D1t5wq4NGB1Z1r0fkcscF) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Soft Slow Sleep](https://open.spotify.com/album/5BdtXhbR9aIZ2RL8NJy5HK) | 3:13 | 2021-12-10 |  |
+| [Habitat](https://open.spotify.com/track/38JfpZyTrUdqsVLLokjxuZ) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [Habitat](https://open.spotify.com/album/1x5v7I1oQwYYjS0XxHz8fh) | 3:00 | 2024-03-08 |  |
 | [Heart On The Tree](https://open.spotify.com/track/3cGW4cNhCTp8FzftakSFVy) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 3:04 | 2022-11-22 |  |
 | [Heaven's Shore](https://open.spotify.com/track/1pAmp7cLogyrAnOyxrTdYY) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:32 | 2021-12-10 |  |
 | [Hibernation](https://open.spotify.com/track/1mYTROYR85RaiaVEtQztis) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5yEAkgLUufqQRCqwAbsS1R) | 3:36 | 2021-12-10 | 2022-07-29 |
@@ -104,6 +106,7 @@
 | [Lost Secrets](https://open.spotify.com/track/31hJKu3zf5nFHwBRTR6akJ) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Music For Dreams](https://open.spotify.com/album/7FVXnDsiClWsdbjZz0v6Ic) | 5:04 | 2022-11-11 | 2022-11-13 |
 | [Love Letter](https://open.spotify.com/track/0dBvGHBWNzInAt4uyutg5i) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Love Letter](https://open.spotify.com/album/0vsVIaPDvHh4mDWIusQek6) | 2:58 | 2022-01-07 |  |
 | [Lunar Lullaby](https://open.spotify.com/track/4rZyFPZfM29gBF5jibSoEh) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Lunar Lullaby](https://open.spotify.com/album/0rsJLd2qdpNBaMqG1nWmoz) | 2:42 | 2021-12-10 |  |
+| [Lungs](https://open.spotify.com/track/3xBWqWwANPz8VFS8b5oEql) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [Lungs](https://open.spotify.com/album/6TZCkfnAgAtSSgaEDMdpjH) | 2:58 | 2024-03-08 |  |
 | [Magnanimity](https://open.spotify.com/track/3Hs8LrjdOGR37PnMEMAw3G) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [Magnanimity](https://open.spotify.com/album/2ZbFhRglsY024PPGYP2e1y) | 2:43 | 2021-12-10 |  |
 | [Marmoris](https://open.spotify.com/track/3DEJFS5pJMjFr2zG24oDHt) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Marmoris](https://open.spotify.com/album/5jWt650eZDQgPm47eEazPd) | 2:36 | 2021-12-10 |  |
 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 | 2021-12-10 |  |
@@ -117,6 +120,7 @@
 | [Monsoon](https://open.spotify.com/track/7e0gtNaxjn49Mj9rwPCJaC) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [Tokyo Atmospheres](https://open.spotify.com/album/6ycai16HNU5VpoOq9XILmF) | 3:51 | 2021-12-10 | 2022-07-29 |
 | [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 | 2022-05-26 |  |
 | [Moonstone](https://open.spotify.com/track/5VvSeHFi0obsd0Dx1dbsYi) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Moonstone](https://open.spotify.com/album/2O8POj7EMwBTPpnMtuL3MM) | 3:26 | 2021-12-10 |  |
+| [Myst](https://open.spotify.com/track/2So77BubnnvW58szq8RePp) | [Cloudville](https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L) | [Myst](https://open.spotify.com/album/1I63T5qRUn1TNHZsSUKXNz) | 2:55 | 2024-03-08 |  |
 | [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 | 2022-10-14 |  |
 | [Ocean Park](https://open.spotify.com/track/4PonoWVbvE9hFoCK4ugvRz) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/1koomOATdwc9FdybvbcF2g) | 4:42 | 2022-06-29 | 2022-09-15 |
 | [Ocean Park](https://open.spotify.com/track/6PnaH2MuhcqRxXQe7UNQRX) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB) | 4:42 | 2021-12-10 | 2022-07-29 |
@@ -141,6 +145,7 @@
 | [Repetetive Chattering Mind](https://open.spotify.com/track/6l8Xxuu9DMIEzZqfvedNZA) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Findings Inside](https://open.spotify.com/album/4kyzuLwgaOBwVrpMI9hBXH) | 3:13 | 2021-12-10 | 2023-11-11 |
 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2022-09-02 |  |
 | [Resonance](https://open.spotify.com/track/2BvNx9meCJYzVXHVKdSL7X) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Resonance](https://open.spotify.com/album/3AQyZpDhvOtnL602e3W5z2) | 2:52 | 2023-09-08 |  |
+| [Saima](https://open.spotify.com/track/0YpZ1FViRAWJrDmrl2O88p) | [Fjordyn](https://open.spotify.com/artist/2Fx9aKfhce3ziCJlAgM58w) | [Saima](https://open.spotify.com/album/5qBYGlNjuWcrIkiQXXf0YH) | 3:04 | 2024-03-08 |  |
 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 | 2021-12-10 |  |
 | [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 2:36 | 2021-12-10 |  |
 | [Salamanca](https://open.spotify.com/track/04NXOnaOXZdHPYkldpqcCg) | [Salvador Vega](https://open.spotify.com/artist/2r485eL2sjIfMsTNsvpHNs) | [La Mancha 34](https://open.spotify.com/album/0T7TfOC2jHTwFFT0Spdkz9) | 3:30 | 2022-06-29 | 2022-09-15 |
@@ -161,6 +166,7 @@
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-10 |  |
 | [Sombre Skies](https://open.spotify.com/track/32aIhNW375SKumCg2Xaodu) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Sombre Skies](https://open.spotify.com/album/67boTj5EroXcdNOhMwiPap) | 3:33 | 2021-12-10 |  |
 | [Son Of Sun](https://open.spotify.com/track/5SDeAt9APL6sQ0mZSmtru9) | [Iyaam Ibe](https://open.spotify.com/artist/3wKXsp0WLtntFbx7mcaLWp) | [Son Of Sun](https://open.spotify.com/album/60MgZ2KGa6lyju4IJxkTzz) | 2:20 | 2023-06-30 |  |
+| [Spirits Balance](https://open.spotify.com/track/4SMLRrtyEh571Du8ycZzMV) | [Spiritualista](https://open.spotify.com/artist/72Zcai2FsmoM3LYK1C2nSW) | [Spirits Balance](https://open.spotify.com/album/4ayvsxoKqW5HldRNs2GEW4) | 2:50 | 2024-03-08 |  |
 | [Spiritual Conquest](https://open.spotify.com/track/0OLknAPE9i8CXou7d9Hk4M) | [Natural X](https://open.spotify.com/artist/1zP2l8li9yQDtXVsTRMMPu) | [Spiritual Conquest](https://open.spotify.com/album/4EAbmQe5oFYMSBE6izl7xk) | 3:22 | 2021-12-10 | 2022-08-13 |
 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 | 2021-12-10 | 2021-12-24 |
 | [Starlight Song](https://open.spotify.com/track/6D1DLNT4FshLPwdiQ45rXu) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Starlight Song](https://open.spotify.com/album/0a81mgVUyef6JqS7DIPGb4) | 2:59 | 2021-12-10 |  |

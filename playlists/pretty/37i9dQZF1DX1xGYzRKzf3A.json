@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 119509,
+  "num_followers": 119736,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2ZkNmI3OGMyZTgyM2ZiOTNlMGZkNTU5ZDQwMmIyYzVmODU2ZmY2",
+  "snapshot_id": "MCw3NGFjNTY2MDRkMjBiNTA2MTE2MDgzNzc0Mjg4YWU5MGVkMmQ5YWQw",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "El Meneaito",
+        "url": "https://open.spotify.com/album/0nWJ6HjXva47xU1TA3zxPl"
+      },
+      "artists": [
+        {
+          "name": "La Tropa Colombiana",
+          "url": "https://open.spotify.com/artist/1hMLdrvmciHDcdNsXGooHx"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Cumbia Del Monte",
+      "url": "https://open.spotify.com/track/2NIaRMvGcnknZf7g9u2q54"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Necesito Decirte",
         "url": "https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 207725,
       "name": "Necesito Decirte",
       "url": "https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "El Meneaito",
-        "url": "https://open.spotify.com/album/0nWJ6HjXva47xU1TA3zxPl"
-      },
-      "artists": [
-        {
-          "name": "La Tropa Colombiana",
-          "url": "https://open.spotify.com/artist/1hMLdrvmciHDcdNsXGooHx"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Cumbia Del Monte",
-      "url": "https://open.spotify.com/track/2NIaRMvGcnknZf7g9u2q54"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "63 A\u00f1os de Vida Art\u00edstica",
         "url": "https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 224182,
       "name": "Lejan\u00eda",
       "url": "https://open.spotify.com/track/526efTi8StSvD9I7P2K5UQ"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Olv\u00eddame T\u00fa",
         "url": "https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 221160,
       "name": "Olv\u00eddame T\u00fa",
       "url": "https://open.spotify.com/track/2KwsKHfXagurEXkTPpWGEN"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 272953,
       "name": "Te Ame",
       "url": "https://open.spotify.com/track/3srbe35RDBvPvAR7HjOm24"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2323,18 +2323,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Amar o Morir",
-        "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
+        "name": "Fue un Amor de Verdad",
+        "url": "https://open.spotify.com/album/6ezSwQtQ43aZ90CCLgvCLI"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "La Decision Vallenata",
+          "url": "https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC"
         }
       ],
-      "duration_ms": 252266,
-      "name": "Brindo por ti",
-      "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
+      "duration_ms": 266157,
+      "name": "Fue un Amor de Verdad",
+      "url": "https://open.spotify.com/track/3PlfAEUT7kBr22ZWxel7gs"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Fue un Amor de Verdad",
-        "url": "https://open.spotify.com/album/6ezSwQtQ43aZ90CCLgvCLI"
+        "name": "Amar o Morir",
+        "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
       },
       "artists": [
         {
-          "name": "La Decision Vallenata",
-          "url": "https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 266157,
-      "name": "Fue un Amor de Verdad",
-      "url": "https://open.spotify.com/track/3PlfAEUT7kBr22ZWxel7gs"
+      "duration_ms": 252266,
+      "name": "Brindo por ti",
+      "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
     },
     {
       "added_at": "2023-11-08 22:38:29",

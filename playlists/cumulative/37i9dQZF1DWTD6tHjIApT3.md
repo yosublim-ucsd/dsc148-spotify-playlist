@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Furui Riho
 
-2,266 songs - 6 day 2 hr 1 min
+2,267 songs - 6 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Anyway](https://open.spotify.com/track/5n3V2VDdanYl4LOqUB53Tx) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Anyway](https://open.spotify.com/album/47z1EcMUrBTt3HJu87bqpB) | 3:36 | 2022-06-07 | 2022-07-11 |
 | [AoRaki](https://open.spotify.com/track/43PPG0Yb0fx7bgTKEFvjsn) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Funtale](https://open.spotify.com/album/7Bm9pJkJp4uiNGBjgRsshB) | 3:47 | 2023-06-20 | 2023-06-28 |
 | [Aoyama Killer Story \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX) | 5:02 | 2022-10-06 | 2022-10-19 |
-| [appetite](https://open.spotify.com/track/2GuOMznmTYxdrOoGUyLPVX) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [appetite](https://open.spotify.com/album/4uDuW63BjHYTelTLPvQTpb) | 4:01 | 2024-03-07 |  |
+| [appetite](https://open.spotify.com/track/2GuOMznmTYxdrOoGUyLPVX) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [appetite](https://open.spotify.com/album/4uDuW63BjHYTelTLPvQTpb) | 4:01 | 2024-03-07 | 2024-03-09 |
+| [appetite](https://open.spotify.com/track/2rPx3FXcRrEAjeyMfcpX47) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [appetite](https://open.spotify.com/album/0QIR2yzqoErBoHlfDSngbL) | 4:01 | 2024-03-07 |  |
 | [Apple Pie](https://open.spotify.com/track/2tTWFGQ3yhXbjobnvSs5kV) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:00 | 2023-03-28 | 2023-05-10 |
 | [AppleTree](https://open.spotify.com/track/5mL9aWutkCJI0i4YnY8hmG) | [Hanah Spring](https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s) | [SOZO](https://open.spotify.com/album/6Dvkfccyaw2VDmNBCB9bHs) | 3:47 | 2023-06-27 | 2023-07-05 |
 | [Aquarium Summer](https://open.spotify.com/track/5A4zrqYxmkTCHR4rVecd4w) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ヨシカワミノリ](https://open.spotify.com/artist/5JnrRCxGkwDPN8LKxVfn4e) | [Summer Deja Vu](https://open.spotify.com/album/4Vk77i4FhPszz6f2Pf52zq) | 3:16 | 2022-08-02 | 2022-08-10 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 25849,
+  "2024-03-09": 25895,
   "date_first_scraped": "2023-04-07",
   "description": "Knees go down and the prayers go up",
   "name": "On Bended Knees",
@@ -263,7 +263,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 691541,
       "name": "Dry Bones",
       "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
@@ -1437,6 +1437,24 @@
       "duration_ms": 581147,
       "name": "Wonders - Live",
       "url": "https://open.spotify.com/track/01i4L10PCxMSqxEZnLpkue"
+    },
+    {
+      "album": {
+        "name": "Worship Chant",
+        "url": "https://open.spotify.com/album/1BVbDiDAVbM2cHNhQYPPOn"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104687,
+      "name": "Worship Chant",
+      "url": "https://open.spotify.com/track/1vs12Vh4GScNFGausr6J5z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-323 songs - 19 hr 12 min
+325 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Clappa](https://open.spotify.com/track/7xg64Eg2avjGw44TmtI4GQ) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Naughty](https://open.spotify.com/album/55eFetaEDWddPSu31yr84q) | 3:00 | 2023-04-30 | 2023-05-30 |
 | [Classic CD](https://open.spotify.com/track/6tT77yf76xj3uazEy7c1m2) | [Keeld](https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT) | [Classic CD](https://open.spotify.com/album/1n6NIFPhep1QS4Dp91KCBx) | 2:52 | 2023-09-17 | 2023-12-14 |
 | [CLASSY](https://open.spotify.com/track/0rAGI2o5rdVpNdINqVQYlp) | [Niteplan](https://open.spotify.com/artist/1VY8rr16Fj5C2rDUnDVCE0) | [SHOW EM THE BASS](https://open.spotify.com/album/2uGnRBNWYS5VaFoBKaZjPx) | 6:09 | 2024-02-18 |  |
-| [CLOD](https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [CLOD](https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU) | 2:19 | 2022-09-30 |  |
+| [CLOD](https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [CLOD](https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU) | 2:19 | 2022-09-30 | 2024-03-09 |
 | [Closer](https://open.spotify.com/track/3BfwCoHLwKuX5HfPlGPOLi) | [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Closer](https://open.spotify.com/album/0dCDbw9rGQNAHVp0PH3Li9) | 2:33 | 2023-05-21 | 2023-06-12 |
 | [Come Back](https://open.spotify.com/track/4dagKNLCnRW9aR2l7PV4ee) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Come Back](https://open.spotify.com/album/6gBfCSCkqlqUjSicznlAAK) | 3:03 | 2023-09-24 | 2023-12-14 |
 | [Come To The Floor](https://open.spotify.com/track/7gcxKyJ1IaAT8YxDB6xioU) | [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY), [Gadelha](https://open.spotify.com/artist/5XaHVa9jDH2whq7OBfzmmI) | [Come To The Floor](https://open.spotify.com/album/41ZyOyV6qzyWjyYhJXz0If) | 3:00 | 2023-01-22 | 2023-02-13 |
@@ -125,6 +125,7 @@
 | [Fly Away](https://open.spotify.com/track/6VF8DFuo2NVsoBKaqt5Nlw) | [Moreno Pezzolato](https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ) | [Fly Away](https://open.spotify.com/album/0Tc1tg1w34KqvGfbydJFPu) | 5:37 | 2023-03-12 | 2023-04-01 |
 | [FMF \- Bruno Furlan Remix](https://open.spotify.com/track/6aLslHH3pTK8CGTv9Rv9N2) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M), [Vitor Vinter](https://open.spotify.com/artist/69Mveq4NwlSGijFnPnAlvD), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [FMF](https://open.spotify.com/album/2tzDCp2WcLMX5tvhFGYNPU) | 3:31 | 2023-08-27 | 2023-09-26 |
 | [Focus](https://open.spotify.com/track/3Qn7vRZLV23lPtVrFhnWqT) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Focus](https://open.spotify.com/album/31aYwpLC5SPqCiqvHQcrPS) | 3:05 | 2023-09-17 | 2023-12-14 |
+| [Fog Clear](https://open.spotify.com/track/5yC9BZ9FaWuPOQmvzKm7b2) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Mind Mirage](https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm) | 3:12 | 2024-03-08 |  |
 | [Fool For Love \- Chris Lake Edit](https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Fool For Love](https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy) | 3:59 | 2023-07-02 | 2023-08-09 |
 | [For Me](https://open.spotify.com/track/1FGjH3f58LuPxDzG6Xv2rV) | [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr) | [For Me](https://open.spotify.com/album/0DcP71YbWOF21kCQpQVR2c) | 3:06 | 2023-08-27 | 2023-09-26 |
 | [Fragile Beat](https://open.spotify.com/track/16LvEwnxrXS4t6oLrBQ6D0) | [greedo](https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c) | [Fragile Beat](https://open.spotify.com/album/1jdYr5n0Z8GIhS3jGt5ZYS) | 4:11 | 2023-09-24 | 2023-12-14 |
@@ -208,6 +209,7 @@
 | [Messiah](https://open.spotify.com/track/6KqaitakrynOXlmjy6CSmp) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Messiah](https://open.spotify.com/album/0AktL0F0nhUNAG2jTxj5rq) | 3:02 | 2023-03-05 | 2023-03-20 |
 | [Mi Corazón](https://open.spotify.com/track/25h246vto9gTVE2mCEY69q) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [Mi Corazón](https://open.spotify.com/album/7Du2rNorPcljURWbm22rkp) | 2:58 | 2023-01-15 | 2023-02-13 |
 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 | 2023-11-05 | 2024-01-15 |
+| [Mind Eraser](https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Mind Mirage](https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm) | 3:00 | 2024-03-08 |  |
 | [Mind Off](https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Mind Off](https://open.spotify.com/album/6jKW9d2z4n5o547bPVHIVK) | 3:10 | 2024-01-14 |  |
 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2023-09-17 | 2023-12-14 |
 | [Most Rappers](https://open.spotify.com/track/6JPUnXVzg7Nsu0NMQyJQE9) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [Most Rappers / South London](https://open.spotify.com/album/1ToXq7qOqjdVckbdqR9kcm) | 3:00 | 2023-05-21 | 2023-06-19 |
@@ -245,7 +247,7 @@
 | [Pump](https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pump](https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI) | 3:45 | 2023-06-11 | 2023-07-17 |
 | [Put 'em Up](https://open.spotify.com/track/7cej2MfSORhrheKAa3DEOe) | [TECHTIC](https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt) | [Put 'em Up](https://open.spotify.com/album/5dTy34LWAXl75Vy2bI40UE) | 3:49 | 2024-02-18 |  |
 | [put it to music.](https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '23](https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7) | 6:46 | 2023-12-10 | 2024-02-19 |
-| [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 | 2023-02-10 |  |
+| [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 | 2023-02-10 | 2024-03-09 |
 | [Real](https://open.spotify.com/track/0sHxBKvOOrPfCfBZjOIbkN) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal) | [Real](https://open.spotify.com/album/1S3kgoT0prKVmnoX18HZRk) | 3:24 | 2023-01-29 | 2023-03-06 |
 | [Reload](https://open.spotify.com/track/0B6twHJlRxSM9Q68NpGCKg) | [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [Reload](https://open.spotify.com/album/5PbhhWEN3BsplhcFBTDIAH) | 3:52 | 2023-07-16 | 2023-08-20 |
 | [Rhymorator](https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Rhymorator](https://open.spotify.com/album/6Cppfglc6q5FvoEtX8qIjW) | 2:32 | 2023-01-29 | 2023-03-06 |

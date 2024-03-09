@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-268 songs - 15 hr 37 min
+269 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Good Times](https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Good Times](https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR) | 3:14 | 2022-04-08 | 2024-02-17 |
 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-04-08 | 2023-11-06 |
 | [Grown Folks Love](https://open.spotify.com/track/60Bnlpj51IUFDK7Tcyinii) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Grown Folks Love](https://open.spotify.com/album/4IPV2zybll9xnQg8r1vx6J) | 2:48 | 2023-05-12 | 2023-11-11 |
+| [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-08 |  |
 | [Hey Gringo](https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:44 | 2021-04-23 | 2022-05-07 |
 | [Hill Country Love](https://open.spotify.com/track/0UPU7pocbCGSLol1h2T87L) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/7MEKlnWzs60JzsxIvhxjon) | 3:04 | 2024-01-12 |  |
 | [Hits Like Lightning](https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Hits Like Lightning](https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45) | 2:42 | 2022-04-08 | 2024-02-17 |
@@ -140,7 +141,7 @@
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2023-03-10 |  |
 | [M.O.N.E.Y](https://open.spotify.com/track/6zGItl8BOQZJBSlQkks3nL) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3) | [M.O.N.E.Y](https://open.spotify.com/album/3R7gMiAzVSFHnIWChw9wAB) | 3:06 | 2024-01-26 |  |
 | [Make a Move](https://open.spotify.com/track/4GOm5E75Wqq3e3SzlbsGvr) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Make a Move](https://open.spotify.com/album/2xx4wUH6WUi7JqAZORwSQZ) | 2:26 | 2021-07-26 | 2022-08-27 |
-| [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 | 2024-01-26 |  |
+| [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 | 2024-01-26 | 2024-03-09 |
 | [Man in the Ground](https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Man in the Ground](https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF) | 3:06 | 2022-02-18 | 2023-11-25 |
 | [Mansplaining](https://open.spotify.com/track/5Tm0VqSqqqNwZUVQuwVbkG) | [Suzy Jones](https://open.spotify.com/artist/09LV3PoRCBuphbxYFEx8eh) | [Mansplaining](https://open.spotify.com/album/3yLVnS35HeOSWjOvpeIGci) | 4:01 | 2023-02-24 |  |
 | [Marinate \(feat\. Eric Debonair McNair\)](https://open.spotify.com/track/0ZQFl5jbiOlMVd9LJ1hOjB) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm), [Eric Debonair McNair](https://open.spotify.com/artist/1eXugyduNLx3cD5MVHWzkz) | [Wings and Blue Cheese](https://open.spotify.com/album/6SVJvFoVij5TG39JhWkoBA) | 2:49 | 2021-02-05 | 2022-03-26 |

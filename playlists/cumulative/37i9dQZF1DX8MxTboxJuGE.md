@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-98 songs - 7 hr 21 min
+99 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Awaken the Master](https://open.spotify.com/track/2K369VsZZtrd84dnVUv1Wh) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A View From The Top Of The World](https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn) | 9:47 | 2023-07-14 |  |
 | [Beyond the Realms of Death \- Live at The Mudd Club, New York, 1979](https://open.spotify.com/track/737dCtOBxT1ojIB4hfua4w) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 7:06 | 2023-07-14 |  |
 | [Blinded](https://open.spotify.com/track/0Y5NpitKz5x7AKKXlZnOeK) | [Fenrir's Scar](https://open.spotify.com/artist/0iDirvf7XLSJHbVWXNF9tI) | [Blinded](https://open.spotify.com/album/4cfAyYIeY6bAYlOXbFewZk) | 4:21 | 2023-07-14 | 2023-08-19 |
-| [Born to Raise Hell \(Live at University of East Anglia, Norwich, 18th October 1998\)](https://open.spotify.com/track/7nHMMu5QIqvX783we02wIa) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes Vol\. 2 \(Live in Norwich, 1998\)](https://open.spotify.com/album/4PEh2b38J4LJCfc7FzhtlK) | 5:13 | 2023-11-03 |  |
+| [Born to Raise Hell \(Live at University of East Anglia, Norwich, 18th October 1998\)](https://open.spotify.com/track/7nHMMu5QIqvX783we02wIa) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes Vol\. 2 \(Live in Norwich, 1998\)](https://open.spotify.com/album/4PEh2b38J4LJCfc7FzhtlK) | 5:13 | 2023-11-03 | 2024-03-09 |
 | [Born to Raise Hell \- Live at University of East Anglia, Norwich, 18th October 1998](https://open.spotify.com/track/6UKz0a6V2ccLkAx8cB4ASR) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 2 \(Live in Norwich, 1998\)](https://open.spotify.com/album/4Sp70MOzkvRxY0wdf7nsj1) | 5:13 | 2023-07-14 | 2023-11-04 |
 | [Bring It](https://open.spotify.com/track/7vEZUuh4pRvBBlXaKh8gn0) | [Hanislip](https://open.spotify.com/artist/7qK0Kc4CpKUB5biozdRI2F) | [Bring It](https://open.spotify.com/album/1QjcBrVZ4rbwS1JEehIiiM) | 4:06 | 2023-07-14 |  |
 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 | 2023-07-14 |  |
@@ -43,6 +43,7 @@
 | [I Don't Believe a Word \- Single Edit](https://open.spotify.com/track/0DSJHuMJVbSuMC2IjpXMQD) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [I Don't Believe a Word](https://open.spotify.com/album/5szoCDYAldsFB4fHB2AdYB) | 3:27 | 2023-07-14 | 2023-11-04 |
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-07-14 |  |
 | [In The Wind](https://open.spotify.com/track/2NMY0HrpgXgo0AYrjlQiXe) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [In The Wind](https://open.spotify.com/album/4HvkVUY6cCAeSNnfU0v4Wv) | 3:49 | 2023-07-14 |  |
+| [Invincible Shield](https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 6:21 | 2024-03-08 |  |
 | [Keep Away](https://open.spotify.com/track/1U1MNVa1yleOzt4c20fpO1) | [Insane Driver](https://open.spotify.com/artist/2ye4AQnKI7zNyOnuLGHaaE) | [Keep Away](https://open.spotify.com/album/1TZPtvCVLEB6QSVlR1rUbr) | 3:57 | 2023-07-14 |  |
 | [Kickstart My Heart](https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:42 | 2023-11-03 |  |
 | [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 | 2023-07-14 | 2023-11-18 |

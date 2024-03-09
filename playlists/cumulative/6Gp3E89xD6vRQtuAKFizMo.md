@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-278 songs - 13 hr 31 min
+280 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ascent](https://open.spotify.com/track/71R8InTY1qrseVysUhGE8X) | [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV) | [Ascent](https://open.spotify.com/album/4IPhl0uklSlmoSzZpA0yGc) | 3:15 | 2022-10-11 | 2023-03-04 |
 | [Automatic](https://open.spotify.com/track/3KmfcNPQ8PtYZEdo0JFgNw) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Automatic](https://open.spotify.com/album/63E9zyXGEyMZPNJGNnCS1V) | 3:33 | 2024-02-09 |  |
 | [Back To Us](https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us](https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3) | 2:54 | 2023-08-11 |  |
+| [Back To Us \- Acoustic Mix](https://open.spotify.com/track/6uVua5Di40zCSyT07zdPRA) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us \(Acoustic Mix\)](https://open.spotify.com/album/1W2Mb3YgdjJcWCV7HxhFtk) | 3:02 | 2024-03-08 |  |
 | [Bad For U](https://open.spotify.com/track/6QSJ6YykdSXSXIXEIyXDjz) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Mevil](https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW), [Enigmix](https://open.spotify.com/artist/4t60Tdbrh9XXcIUVShQbZL) | [Bad For U](https://open.spotify.com/album/5rF6MSD64uT4ylAjpukdXW) | 2:37 | 2023-04-07 |  |
 | [Bad Guy](https://open.spotify.com/track/2SJzfY2pZSzgAn3gQZMVJJ) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Bad Guy](https://open.spotify.com/album/67WchHfNYcPA0jv7mvkgqW) | 3:14 | 2023-08-09 |  |
 | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/track/339XYqVhOTiU94uiNHYm6t) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK) | 2:17 | 2023-08-11 |  |
@@ -100,6 +101,7 @@
 | [Gitrox](https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU) | 3:17 | 2023-11-22 |  |
 | [Go Back](https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Go Back](https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf) | 2:26 | 2023-06-03 |  |
 | [GOIN' ROUND](https://open.spotify.com/track/7l0N0ZzO2TCcXn6fA29mAe) | [SMITHWORKS](https://open.spotify.com/artist/2xMjDjnnCw558pO4C96qnS) | [GOIN' ROUND](https://open.spotify.com/album/1qGRDjPagTLav0Cvy4kIto) | 2:25 | 2023-02-14 | 2023-04-01 |
+| [Going Down \(feat\. David Vance\)](https://open.spotify.com/track/1d20LZIqK8JxYksxyMEGai) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [David Vance](https://open.spotify.com/artist/0TDirtcNWYDxsAEixJy2bB) | [Going Down \(feat\. David Vance\)](https://open.spotify.com/album/1I3X1A5rZY4uYaV9JTI4tg) | 3:35 | 2024-03-08 |  |
 | [Guaracha En Reggaetonlandia](https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Guaracha En Reggaetonlandia](https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf) | 2:26 | 2022-10-28 | 2023-04-15 |
 | [H8 December](https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [H8 December](https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S) | 2:20 | 2022-09-19 | 2023-04-09 |
 | [Hachiroku](https://open.spotify.com/track/1i4abDsWpBNJZ0FIwxcwZi) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:53 | 2023-07-24 | 2023-12-14 |

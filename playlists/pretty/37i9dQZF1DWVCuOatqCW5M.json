@@ -1,13 +1,117 @@
 {
   "description": "New music from popular Hindi artists. Cover- Badshah",
-  "num_followers": 50614,
+  "num_followers": 50646,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjcwNDRiYTdmNDE3YTY4OGQ5MmMyZTA5MGNkZTQwNWIzN2RhNzQx",
+  "snapshot_id": "MCxmYzk4MDg4MWQ4ZTg2ZGVlYjUyNTViM2E2Mjk1ZDE2ZWJlOWM4YzA0",
   "tracks": [
+    {
+      "added_at": "2024-03-08 07:35:41",
+      "album": {
+        "name": "Tere Bin\u2026",
+        "url": "https://open.spotify.com/album/7bFwGsx3fQriJIcomzlUnO"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "duration_ms": 210856,
+      "name": "Tere Bin\u2026",
+      "url": "https://open.spotify.com/track/3pVtj03sKxQz6U6GX7GnYN"
+    },
+    {
+      "added_at": "2024-03-08 07:35:41",
+      "album": {
+        "name": "Dhaaga",
+        "url": "https://open.spotify.com/album/4iMpbyjVozzQpxvwXkYGnC"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Mukul Kashikar",
+          "url": "https://open.spotify.com/artist/60AKVZ5ZJLo5wElPMGO8qK"
+        }
+      ],
+      "duration_ms": 177487,
+      "name": "Dhaaga",
+      "url": "https://open.spotify.com/track/7Jc36Yx8LImQ8KmW497Xsa"
+    },
+    {
+      "added_at": "2024-03-08 07:35:41",
+      "album": {
+        "name": "Darmiyaan",
+        "url": "https://open.spotify.com/album/3GjCnckZDWhDqUaxPAVxZU"
+      },
+      "artists": [
+        {
+          "name": "Rachit Shrivastava",
+          "url": "https://open.spotify.com/artist/5k3Iw8VrxwZyFdi4dBPeBn"
+        },
+        {
+          "name": "Swapnil Tare",
+          "url": "https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax"
+        }
+      ],
+      "duration_ms": 209704,
+      "name": "Darmiyaan",
+      "url": "https://open.spotify.com/track/00A5UNZB6peIXs2TFl0FRN"
+    },
+    {
+      "added_at": "2024-03-08 07:35:41",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/6S8X2sG1FZ3xHWmrpdgFcG"
+      },
+      "artists": [
+        {
+          "name": "Akull",
+          "url": "https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss"
+        },
+        {
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/3hJ5fEOXMPqxpU6mdHFQCY"
+    },
+    {
+      "added_at": "2024-03-08 07:35:41",
+      "album": {
+        "name": "Manmarziyan",
+        "url": "https://open.spotify.com/album/6ZpkotZG8f8sIlQXGtcI5R"
+      },
+      "artists": [
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        }
+      ],
+      "duration_ms": 231230,
+      "name": "Manmarziyan",
+      "url": "https://open.spotify.com/track/6T1q54Iri4mnFlqbhypLjl"
+    },
     {
       "added_at": "2024-03-01 07:54:14",
       "album": {
@@ -399,22 +503,6 @@
     {
       "added_at": "2024-02-23 06:10:12",
       "album": {
-        "name": "Ek Din Main Aaunga",
-        "url": "https://open.spotify.com/album/2s19Sqg8s5ldQktP5AfUgK"
-      },
-      "artists": [
-        {
-          "name": "Bharatt-Saurabh",
-          "url": "https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK"
-        }
-      ],
-      "duration_ms": 196904,
-      "name": "Ek Din Main Aaunga",
-      "url": "https://open.spotify.com/track/1xkf1V1xwIEU72yHeqgxWB"
-    },
-    {
-      "added_at": "2024-02-23 06:10:12",
-      "album": {
         "name": "Bewafa",
         "url": "https://open.spotify.com/album/10I8YtodCoSNCSTaxgfKOv"
       },
@@ -591,26 +679,6 @@
     {
       "added_at": "2024-02-23 06:10:12",
       "album": {
-        "name": "Khayaal",
-        "url": "https://open.spotify.com/album/4Ox9ZXam3tPU1uOQrRZKsu"
-      },
-      "artists": [
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        },
-        {
-          "name": "Goldie Sohel",
-          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
-        }
-      ],
-      "duration_ms": 235947,
-      "name": "Khayaal",
-      "url": "https://open.spotify.com/track/1hlpcQkgSpvHTrdVIz79Ow"
-    },
-    {
-      "added_at": "2024-02-23 06:10:12",
-      "album": {
         "name": "Pyaar Ban Gaye",
         "url": "https://open.spotify.com/album/6kHxjdLNQWxk327BMHn918"
       },
@@ -631,26 +699,6 @@
       "duration_ms": 218109,
       "name": "Pyaar Ban Gaye",
       "url": "https://open.spotify.com/track/4hQFkJmt7bSbSxawBPWlzp"
-    },
-    {
-      "added_at": "2024-02-23 06:10:12",
-      "album": {
-        "name": "Subah Ke Taare",
-        "url": "https://open.spotify.com/album/0ysTWzXqgUdfk15ZHZsYye"
-      },
-      "artists": [
-        {
-          "name": "Lucky Ali",
-          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
-        },
-        {
-          "name": "Mikey McCleary",
-          "url": "https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn"
-        }
-      ],
-      "duration_ms": 218636,
-      "name": "Dil Gaye Ja",
-      "url": "https://open.spotify.com/track/26glf0z6oKPzZB742D6LTT"
     },
     {
       "added_at": "2024-02-23 06:10:12",
@@ -715,46 +763,6 @@
       "duration_ms": 194142,
       "name": "Bana Hi Nahi Tha",
       "url": "https://open.spotify.com/track/6hEDk4meQkfuUB4MVMCsMP"
-    },
-    {
-      "added_at": "2024-02-23 06:10:12",
-      "album": {
-        "name": "Bawra Mann",
-        "url": "https://open.spotify.com/album/69kHiBczTWDhR2nN53NR7J"
-      },
-      "artists": [
-        {
-          "name": "Ranita Banerjee",
-          "url": "https://open.spotify.com/artist/3jgHTqXv8ekmgVn591oaqd"
-        },
-        {
-          "name": "Jeet Gannguli",
-          "url": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
-        }
-      ],
-      "duration_ms": 192711,
-      "name": "Bawra Mann",
-      "url": "https://open.spotify.com/track/4dNluJSlZl7DAfSjTO3vWo"
-    },
-    {
-      "added_at": "2024-02-23 06:10:12",
-      "album": {
-        "name": "Kaash Tu Meri Ho Jaaye",
-        "url": "https://open.spotify.com/album/5AUjyUgFdbPfhhF1PeG4CC"
-      },
-      "artists": [
-        {
-          "name": "Saaj Bhatt",
-          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
-        },
-        {
-          "name": "Amjad Nadeem Aamir",
-          "url": "https://open.spotify.com/artist/47alRXX8AZZKee6glPMZXq"
-        }
-      ],
-      "duration_ms": 193170,
-      "name": "Kaash Tu Meri Ho Jaaye",
-      "url": "https://open.spotify.com/track/69JXBHaTBV7XWzqPMmhOl1"
     },
     {
       "added_at": "2024-02-23 06:10:12",

@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Nahaze\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-356 songs - 16 hr 28 min
+357 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Polmone](https://open.spotify.com/track/3B3e3hmedTQThdjlKEKybi) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Polmone](https://open.spotify.com/album/6hQkWLUkR2fWqWUmdAcjIz) | 2:38 | 2023-04-13 | 2023-04-28 |
 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 | 2023-03-23 | 2024-02-02 |
 | [Pop Corn e patatine RMX](https://open.spotify.com/track/1ovirVCRbRPiDttcIxqWus) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [Pop Corn e patatine RMX](https://open.spotify.com/album/2zFbkDYonDRzA6zf0M7zDx) | 2:55 | 2023-08-21 |  |
+| [POSATENEBRE](https://open.spotify.com/track/2TgvnT8ugu5YMrQpXdspXM) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [POSATENEBRE](https://open.spotify.com/album/0HZ53MWDea1zIvVZ2DqQXg) | 3:02 | 2024-03-08 |  |
 | [POV](https://open.spotify.com/track/5mQFiACRHdBVugZX0QXwfS) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U), [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [POV](https://open.spotify.com/album/6QUuzX73hnDFPNXtsmoAAh) | 2:40 | 2023-09-21 | 2023-10-20 |
 | [Primavera](https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Foglio rosa](https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7) | 2:19 | 2023-11-09 | 2023-11-24 |
 | [Privé](https://open.spotify.com/track/6Y9rfuFyLJDz4kj2aysvhs) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Privé](https://open.spotify.com/album/0qMfK0pn4oDONHjKDJEAFD) | 3:00 | 2023-10-12 | 2023-11-10 |

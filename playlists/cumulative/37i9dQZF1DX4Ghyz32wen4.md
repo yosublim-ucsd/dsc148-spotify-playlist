@@ -4,10 +4,11 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Karol G en portada.
 
-153 songs - 8 hr 8 min
+155 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 | 2024-03-08 |  |
 | [19 HORAS](https://open.spotify.com/track/0TQ7ZzUutFsbyWPehDLdkG) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [19 HORAS](https://open.spotify.com/album/0I8diZN920PZQawwNu2Iud) | 2:54 | 2023-03-10 | 2024-02-21 |
 | [</3](https://open.spotify.com/track/1yzYIMbZkBKcTEBuveW0fX) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/4RR4nrldxJkqfcPJTPxm75) | 3:32 | 2023-11-10 | 2024-02-03 |
 | [</3](https://open.spotify.com/track/3zJelOfPDV2RG1VGrt6zF7) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 3:32 | 2022-04-25 | 2023-12-14 |
@@ -74,6 +75,7 @@
 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 | 2023-01-27 | 2023-07-22 |
 | [Llámame](https://open.spotify.com/track/5UrcYQ0kfSs85FgLFLx7nq) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Santa Griega](https://open.spotify.com/artist/6Y7LaIJtLawCz1tW0QPHeu) | [Llámame](https://open.spotify.com/album/6ARhztGutXRcjN9JuWttPq) | 2:56 | 2022-04-25 | 2023-12-09 |
 | [Llámame](https://open.spotify.com/track/5t3a5wvPkqgE4T6jlxfyIM) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Santa Griega](https://open.spotify.com/artist/6Y7LaIJtLawCz1tW0QPHeu) | [Llámame](https://open.spotify.com/album/6JVlUvEAlPVgbCyaYzT5l2) | 2:56 | 2023-11-10 |  |
+| [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2024-03-08 |  |
 | [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 | 2022-04-25 |  |
 | [Malibú](https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Malibú](https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz) | 3:40 | 2022-04-25 |  |
 | [María](https://open.spotify.com/track/6Pv6rF1V7obyszMFstKp96) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [María Mixtape](https://open.spotify.com/album/74o0avaksGVKPGUZe07QAs) | 2:35 | 2022-04-25 |  |
@@ -136,7 +138,7 @@
 | [RIP](https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS), [Omizs](https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y) | [RIP](https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC) | 3:12 | 2022-04-25 | 2024-02-21 |
 | [Rosita Sakura](https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Rosita Sakura](https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK) | 2:28 | 2023-08-08 |  |
 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 | 2023-04-14 |  |
-| [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 | 2022-04-25 |  |
+| [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 | 2022-04-25 | 2024-03-09 |
 | [Sería Un Placer Remix](https://open.spotify.com/track/3DW7i5YILOqAINGTNcLv9K) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Sería Un Placer Remix](https://open.spotify.com/album/2XiFZMIjMpoclohZs0mpnQ) | 3:54 | 2022-04-25 |  |
 | [Si Tu Supieras](https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Si Tu Supieras](https://open.spotify.com/album/2F04HyhZgd2R4BqrjV9vsD) | 3:45 | 2023-03-31 | 2023-07-22 |
 | [Siempre](https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Siempre](https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341) | 1:32 | 2023-12-15 | 2024-03-07 |
@@ -160,6 +162,6 @@
 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 | 2023-06-09 |  |
 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 | 2023-05-05 |  |
 | [Íntimo](https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG) | 2:23 | 2022-04-25 | 2022-12-01 |
-| [Íntimo](https://open.spotify.com/track/1gqbU9zB1RHIhID5XFmOM7) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/4pbsAXJhDBGKiXKuBiJspO) | 2:23 | 2022-07-23 |  |
+| [Íntimo](https://open.spotify.com/track/1gqbU9zB1RHIhID5XFmOM7) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/4pbsAXJhDBGKiXKuBiJspO) | 2:23 | 2022-07-23 | 2024-03-09 |
 
 \*This playlist was first scraped on 2022-06-03. Prior content cannot be recovered.

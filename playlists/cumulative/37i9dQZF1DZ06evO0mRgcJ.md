@@ -4,13 +4,14 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 45 min
+52 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Santita](https://open.spotify.com/track/4rqrMtxJ20AqKoClzYOrYD) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [A Mi Santita](https://open.spotify.com/album/5KJIuwIZx3lBjCrsJt77cm) | 3:12 | 2024-01-29 |  |
 | [Ace Of Spades](https://open.spotify.com/track/17IMhVVKNTHfiGPn90U9WB) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Dueto Consentido](https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:05 | 2024-01-29 | 2024-02-24 |
 | [Agradecido Estoy](https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP) | [Grupo Recien](https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Agradecido Estoy](https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG) | 2:45 | 2024-01-29 |  |
+| [Ahora Nos Ven](https://open.spotify.com/track/3Jub5p08dcOIxBEt42Ir0O) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ahora Nos Ven](https://open.spotify.com/album/5qVj3KoJry15JOwsBqoinL) | 3:01 | 2024-03-08 |  |
 | [Al Ver Te Vas](https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Guerra de Guitarras Vol\. 1](https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3) | 3:05 | 2024-01-29 |  |
 | [Aqui Sigo Chevereando \(En Vivo\)](https://open.spotify.com/track/08QMehyraBMIg42REIm9xs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [En Vivo Desde Tacos Desvelados](https://open.spotify.com/album/2XjhT8SxqQiKmAiYs0nCrF) | 2:52 | 2024-01-29 |  |
 | [Aqui Sigo Cheveriando](https://open.spotify.com/track/6nHBqyIy3NhKzU9D6Wu2rX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Legion Del Corrido](https://open.spotify.com/album/0r9jqZqqorVlus4zZLTiO7) | 2:49 | 2024-02-16 |  |

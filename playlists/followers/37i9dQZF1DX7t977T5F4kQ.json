@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 20196,
+  "2024-03-09": 20208,
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Smallgod",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: King Promise",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 148374,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA"
@@ -2451,7 +2451,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 182265,
       "name": "Goldigga",
       "url": "https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg"
@@ -4476,6 +4476,28 @@
     },
     {
       "album": {
+        "name": "Overlord",
+        "url": "https://open.spotify.com/album/760ibMaRsLqLNWGMaCujFa"
+      },
+      "artists": [
+        {
+          "name": "Wutah Kobby",
+          "url": "https://open.spotify.com/artist/4XdiQkB8WIPxaSdp0uRWox"
+        },
+        {
+          "name": "Kwame Yogot",
+          "url": "https://open.spotify.com/artist/11HL9RVs0dNFEwOgvrUYFY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Overlord",
+      "url": "https://open.spotify.com/track/56gwuqnG5UDn3rTTTs61AH"
+    },
+    {
+      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/7CHgtK1UCDpTLrRAe2mf0H"
       },
@@ -4513,6 +4535,24 @@
       "duration_ms": 225515,
       "name": "Papabi",
       "url": "https://open.spotify.com/track/0u1w6JiN1ApGtWwDLXY2dD"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140166,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
     },
     {
       "album": {

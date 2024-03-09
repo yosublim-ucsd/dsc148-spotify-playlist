@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: SLUMBERJACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,775 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,781 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 10 | [Go Ghost](https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Go Ghost](https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm) | 3:29 |
 | 11 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 |
 | 12 | [Sleep When I'm Dead](https://open.spotify.com/track/30yeok7NHCtILGL5MVmcbE) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [Sleep When I'm Dead](https://open.spotify.com/album/3gNVkWbi0ydkDqPQw5MXyl) | 3:02 |
-| 13 | [AEIOU \- Anfisa Letyago Remix](https://open.spotify.com/track/4gghDmAT7aHsqs3bxlUePO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [AEIOU \(Anfisa Letyago Remix\)](https://open.spotify.com/album/3PCNU91rC93WeraWBRo5AQ) | 4:07 |
+| 13 | [AEIOU \- Anfisa Letyago Remix](https://open.spotify.com/track/7IGTGu0JGfDAhq514IVwOI) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [AEIOU \(Anfisa Letyago Remix\)](https://open.spotify.com/album/2Ww10npSck12H2Uf7f9dWw) | 4:07 |
 | 14 | [Endit \- Dusky Remix](https://open.spotify.com/track/1ukwvRsaWx1YMenRQB5ABM) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus Remixes Pt\. 2](https://open.spotify.com/album/5YACRcEwtEVQSB58p45HiO) | 4:05 |
 | 15 | [Gravity \(Manila Killa & MYRNE Remix\)](https://open.spotify.com/track/5mZTYzyn7AOZOArUiNMz7O) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Gravity \(Manila Killa & MYRNE Remix\)](https://open.spotify.com/album/46ESuwaQ6e4NcGJ3uYXk6a) | 4:50 |
 | 16 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [SHELLSHOCK](https://open.spotify.com/track/1hGA3eZuKXc3EaXYRCX7Ux) | [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [HOOLIGAN EP](https://open.spotify.com/album/6IaOEambxijbpW3M1SxU2H) | 2:43 |
 | 100 | [Tsunami](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Tsunami](https://open.spotify.com/album/4N5GXjk84sniBmSGfwwgzP) | 2:16 |
 
-Snapshot ID: `MCw0NWQ5ZDgxNjBhYTM5NmEyNzhiMGE4OTI3NTJiYWViNzljOWFlZTll`
+Snapshot ID: `MCxhMGJmODgyNjVmZDA1YmY4ZDIxYzgwOGMxNWIwN2FhODQxODE1NTBl`

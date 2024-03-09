@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 72544,
+  "2024-03-09": 72594,
   "date_first_scraped": "2023-11-08",
   "description": "t\u00edrate un paso y saca los prohibidos",
   "name": "los pasos prohibidos",
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 298373,
       "name": "Mi Mujer Me Gobierna",
       "url": "https://open.spotify.com/track/6O5K9nWwxg5gTijmedgWdc"
@@ -1419,6 +1419,24 @@
       "duration_ms": 293906,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
+    },
+    {
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "album": {

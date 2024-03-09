@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: iann dior
 
-936 songs - 1 day 18 hr 25 min
+938 songs - 1 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [LIKE THAT](https://open.spotify.com/track/0vMV2iLBNdLDB9ir2mOfdW) | [Goner](https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c) | [LIKE THAT](https://open.spotify.com/album/7vwSC0DEgRSCP81lMUhMw5) | 3:06 | 2024-02-14 | 2024-02-24 |
 | [Lithromantic](https://open.spotify.com/track/27ttJZEvVuAYy7USdob8Gs) | [weeklyn](https://open.spotify.com/artist/70dC1Y9HyCqgdtSTAzMbWw), [Crymode](https://open.spotify.com/artist/0PzKxurt3mnHw8VehwNrrg) | [Lithromantic](https://open.spotify.com/album/0jAw8V8pCWyXdNUygYn2xV) | 3:08 | 2021-08-30 | 2022-07-29 |
 | [LONELY STAR](https://open.spotify.com/track/32l1LuAKdR0O1XwERz2Lko) | [Memoria XI](https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [LONELY STAR](https://open.spotify.com/album/6tx2Djeb0TbrOD6EsIEcZm) | 3:00 | 2021-12-03 | 2022-07-29 |
+| [Looking For You](https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [HATE ME](https://open.spotify.com/album/5XlxyRqG5mr7eG6My0QkVT) | 3:18 | 2024-03-08 |  |
 | [Losing Interest](https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN) | [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Dibyo](https://open.spotify.com/artist/4GOxZH5EE1JMHO0z8QiW4t) | [Missing](https://open.spotify.com/album/23HhTqTaQNZ22OhnRtgrLu) | 2:00 | 2022-06-10 | 2023-09-02 |
 | [Lost Boy](https://open.spotify.com/track/0jypZv3K4ozgNvtz3GWMlx) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Lost Boy](https://open.spotify.com/album/4vKSOKSPBxeAMZA5gqMODI) | 3:20 | 2020-12-18 | 2021-01-05 |
 | [Lost My Mind](https://open.spotify.com/track/0SVMdv6xci622239kRX6az) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Yung Bambi](https://open.spotify.com/artist/2y8GmZ4zTMAEd5OuenMZdX) | [Lost My Mind](https://open.spotify.com/album/3ITZCJd6omPrRaDny1ObZ0) | 3:02 | 2021-09-17 | 2022-04-21 |
@@ -879,6 +880,7 @@
 | [welcome to my world](https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Flooding the Gates](https://open.spotify.com/album/3qb2iS8suNWXclQEoAQJUJ) | 2:25 | 2023-06-30 |  |
 | [what's left unsaid says it all](https://open.spotify.com/track/4cduUgRcyVvA4q5clFEPyy) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [forever yours](https://open.spotify.com/album/3x7J0VPQYCPncG8ehjRZU5) | 3:25 | 2021-11-12 | 2022-05-11 |
 | [Whatsinsideyourhead](https://open.spotify.com/track/3HXpRH2rsybwLYg1sCZvC3) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [BEACHxBUMS!](https://open.spotify.com/album/2m0b4mQasB4Frf5cxG7H0t) | 2:34 | 2021-07-10 | 2022-04-05 |
+| [when i met you](https://open.spotify.com/track/309SX04ykf1aJpbk1QBSKn) | [conscience](https://open.spotify.com/artist/4SDZGbRR9IjhHG5i3cZEQC) | [when i met you](https://open.spotify.com/album/6p9iAXClChpB0alAcWMHL4) | 3:00 | 2024-03-08 |  |
 | [When I Was a Baby](https://open.spotify.com/track/5fzWEuPs5masn1HKiG3xpI) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [RONALD.](https://open.spotify.com/album/0ZNJ1Bk6Dj5M62qEdoZsCh) | 3:06 | 2021-03-14 | 2021-05-15 |
 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 | 2021-03-19 | 2023-05-24 |
 | [when the hospital was my home \(feat\. Rxseboy\)](https://open.spotify.com/track/5qwfWcdl8h0EhhSVTTH8gN) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [when the hospital was my home \(feat\. Rxseboy\)](https://open.spotify.com/album/2U0vmDrXqf3yzxJUniy7uZ) | 2:33 | 2020-12-13\* | 2021-05-29 |

@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 485558,
+  "num_followers": 486162,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmIwMzhkNTA2YTI0ZjA3ZjBmOGQxZGNiNzk5ZWFhMzI0NDkzYWU4",
+  "snapshot_id": "MCw5NTQwMTgwOTQwOTVmYjFiOGZiMmI4MTBhMjA5YzEyODlkYmE0MWZm",
   "tracks": [
     {
       "added_at": "2024-01-26 17:55:37",
@@ -97,6 +97,26 @@
       "url": "https://open.spotify.com/track/3LK81r3yptHlliNgLBo1UC"
     },
     {
+      "added_at": "2024-03-08 17:39:36",
+      "album": {
+        "name": "Made in Romeni\u00e1 (Sahmiir Officiall Remix)",
+        "url": "https://open.spotify.com/album/2Kn8N2Et2cb3xny4jjBuBy"
+      },
+      "artists": [
+        {
+          "name": "Sahmiir Official",
+          "url": "https://open.spotify.com/artist/3CXyRvkXdBR1Dqk96vcYLq"
+        },
+        {
+          "name": "Sahmiir Officiall",
+          "url": "https://open.spotify.com/artist/43xc9kEoIRMxrIf0CCxOqQ"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "Made in Romeni\u00e1 - Sahmiir Officiall Remix",
+      "url": "https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB"
+    },
+    {
       "added_at": "2024-02-09 17:42:31",
       "album": {
         "name": "Hyp\u00e9",
@@ -143,6 +163,38 @@
       "duration_ms": 141226,
       "name": "Position",
       "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
+    },
+    {
+      "added_at": "2024-03-08 17:39:36",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
       "added_at": "2024-01-12 16:29:46",
@@ -237,6 +289,26 @@
       "url": "https://open.spotify.com/track/77jfFVugaz41IwpWqoXsUh"
     },
     {
+      "added_at": "2024-03-08 17:39:36",
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/3qeagjakbHQDOkBnQOTMiO"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/38OibRn3CyUnQZg9RWLv7u"
+    },
+    {
       "added_at": "2024-02-16 14:18:10",
       "album": {
         "name": "Chicha kaloud",
@@ -297,6 +369,22 @@
       "url": "https://open.spotify.com/track/1s3XtkdfT3obSCbQVWtvX9"
     },
     {
+      "added_at": "2024-03-08 17:39:36",
+      "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
       "added_at": "2023-05-19 12:42:03",
       "album": {
         "name": "M.I.L.S",
@@ -331,6 +419,42 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-03-08 17:39:36",
+      "album": {
+        "name": "Te Bot\u00e9 (Clean Version)",
+        "url": "https://open.spotify.com/album/5IniTg5dxU8hYXkBBcsmak"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Te Bot\u00e9",
+      "url": "https://open.spotify.com/track/42FWqCxAw5aG1FvjyVjIlH"
     },
     {
       "added_at": "2023-09-22 15:04:13",
@@ -997,22 +1121,6 @@
       "url": "https://open.spotify.com/track/2inSUOF1dSiy3NP2i3Wnxc"
     },
     {
-      "added_at": "2023-08-25 13:15:11",
-      "album": {
-        "name": "JVLIVS",
-        "url": "https://open.spotify.com/album/2b2K5XuhYChG05wLpebMll"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 401160,
-      "name": "B\u00e9n\u00e9fice",
-      "url": "https://open.spotify.com/track/45B8Dirdyo5wVKslxLO7Hu"
-    },
-    {
       "added_at": "2024-02-23 13:40:41",
       "album": {
         "name": "Les Boss",
@@ -1175,22 +1283,6 @@
       "duration_ms": 114626,
       "name": "Tacata",
       "url": "https://open.spotify.com/track/3HVePjHJWt5uI9HtHgV4aM"
-    },
-    {
-      "added_at": "2023-10-13 11:44:11",
-      "album": {
-        "name": "Liens du 100",
-        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 111586,
-      "name": "Jacque*** Bag",
-      "url": "https://open.spotify.com/track/3q2DNvmHfx7RFBSHfaVLoW"
     },
     {
       "added_at": "2023-11-24 17:25:20",
@@ -1357,22 +1449,6 @@
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
-      "added_at": "2023-09-29 11:47:27",
-      "album": {
-        "name": "Ma muse / Je t'haine",
-        "url": "https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 178115,
-      "name": "Ma muse",
-      "url": "https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p"
-    },
-    {
       "added_at": "2024-01-12 16:29:46",
       "album": {
         "name": "Dima",
@@ -1403,22 +1479,6 @@
       "duration_ms": 174106,
       "name": "Ceux qu'on \u00e9tait",
       "url": "https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr"
-    },
-    {
-      "added_at": "2023-10-06 11:54:30",
-      "album": {
-        "name": "Brut de femme",
-        "url": "https://open.spotify.com/album/36WsF1tlYfQtOSiU3Tozb7"
-      },
-      "artists": [
-        {
-          "name": "Diam's",
-          "url": "https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "DJ",
-      "url": "https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS"
     },
     {
       "added_at": "2024-01-12 16:29:46",
@@ -1783,22 +1843,6 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2024-02-16 14:18:10",
-      "album": {
-        "name": "Man On The Moon III: The Chosen",
-        "url": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Sad People",
-      "url": "https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq"
     }
   ],
   "unique_name": "t'as la ref ?",

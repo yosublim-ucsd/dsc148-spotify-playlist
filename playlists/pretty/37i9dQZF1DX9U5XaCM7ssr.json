@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1110044,
+  "num_followers": 1110268,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjJkNjZkMDBiNGJkMTIyMThiNjQwMTliMzAyZWMzNmVmNjAyY2Q5",
+  "snapshot_id": "MCwyZDY3NWZlY2I2OWM4YTlhODQzZmM5ZGM3ZjI4NGFiZDM0Y2JkOGMx",
   "tracks": [
     {
       "added_at": "2024-03-05 21:56:05",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-03-05 21:56:05",
       "album": {
+        "name": "Pupus / Risalah Hati",
+        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 301824,
+      "name": "Risalah Hati",
+      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
+    },
+    {
+      "added_at": "2024-03-05 21:56:05",
+      "album": {
         "name": "Menyesal",
         "url": "https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 203454,
       "name": "Menyesal",
       "url": "https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij"
-    },
-    {
-      "added_at": "2024-03-05 21:56:05",
-      "album": {
-        "name": "Pupus / Risalah Hati",
-        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 301824,
-      "name": "Risalah Hati",
-      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
     },
     {
       "added_at": "2024-03-05 21:56:05",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-03-05 21:56:05",
       "album": {
-        "name": "Denting",
-        "url": "https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx"
+        "name": "Sheila On 7",
+        "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
       },
       "artists": [
         {
-          "name": "Petra Sihombing",
-          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
         }
       ],
-      "duration_ms": 189416,
-      "name": "Denting",
-      "url": "https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0"
+      "duration_ms": 288706,
+      "name": "Dan...",
+      "url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS"
     },
     {
       "added_at": "2024-03-05 21:56:05",

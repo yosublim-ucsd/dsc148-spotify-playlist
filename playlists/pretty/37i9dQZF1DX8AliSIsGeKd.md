@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: biskuwi
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,389 likes - 79 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,538 likes - 79 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 10 | [Alive](https://open.spotify.com/track/0h8MMMQf8OJPeWDBJ8YQYr) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Solique](https://open.spotify.com/artist/0RIUSfIxj9TP0NcloqxKiR) | [Alive](https://open.spotify.com/album/4hwtmT1NEFV5pw4i74pDXd) | 4:24 |
 | 11 | [Furby In Paradise](https://open.spotify.com/track/0GckNW4cYkbgiKGTTp5MO1) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB) | [Furby In Paradise](https://open.spotify.com/album/2mceL9k6fCCTpOQIMMc3Jv) | 4:06 |
 | 12 | [Regenerator](https://open.spotify.com/track/522G2mRZyh9NUWttrPLKrn) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Regenerator](https://open.spotify.com/album/6YsWkLyTiGjcUIOQs9BNt7) | 4:05 |
-| 13 | [AEIOU \- Anfisa Letyago Remix](https://open.spotify.com/track/4gghDmAT7aHsqs3bxlUePO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [AEIOU \(Anfisa Letyago Remix\)](https://open.spotify.com/album/3PCNU91rC93WeraWBRo5AQ) | 4:07 |
+| 13 | [AEIOU \- Anfisa Letyago Remix](https://open.spotify.com/track/7IGTGu0JGfDAhq514IVwOI) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [AEIOU \(Anfisa Letyago Remix\)](https://open.spotify.com/album/2Ww10npSck12H2Uf7f9dWw) | 4:07 |
 | 14 | [Flashback 98](https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Flashback 98](https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP) | 3:31 |
 | 15 | [You're Not Alone](https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [You're Not Alone](https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m) | 3:34 |
 | 16 | [Still](https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Still](https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X) | 6:05 |
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 71 | [Raving Society](https://open.spotify.com/track/1kuRL5xgsdLbNouHoog2fK) | [Patrik Berg](https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l) | [Raving Society](https://open.spotify.com/album/5g1QdImJOms9eQbDJKvDbO) | 2:46 |
 | 72 | [Transmission](https://open.spotify.com/track/5nTXh8ZzAcb0k9ssnaB536) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Transmission](https://open.spotify.com/album/19q6buVlR2qC1cOkuMuz3j) | 6:40 |
 | 73 | [Rave](https://open.spotify.com/track/2OQLFQns8ZjTTTOyQHKLhi) | [Torsten Kanzler](https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik) | [Rave](https://open.spotify.com/album/2muNQUWnx0flvJsfcJUrff) | 6:05 |
-| 74 | [Alley Of Darkness](https://open.spotify.com/track/6rHClzxsveXqSkGX6fuGyA) | [Human Rias](https://open.spotify.com/artist/5HvRY6v6p1gHMjiaNGZTBX) | [Alley Of Darkness](https://open.spotify.com/album/5gHQO8PPcqpo0iPxRkrMeZ) | 5:27 |
+| 74 | [Alley Of Darkness](https://open.spotify.com/track/6rHClzxsveXqSkGX6fuGyA) | [Human Rias](https://open.spotify.com/artist/5HvRY6v6p1gHMjiaNGZTBX), [MAXI NICKOU](https://open.spotify.com/artist/7lHWa50k3v1HwK9CAzGOke) | [Alley Of Darkness](https://open.spotify.com/album/5gHQO8PPcqpo0iPxRkrMeZ) | 5:27 |
 | 75 | [Balearic Shift](https://open.spotify.com/track/1CcfK2gQdeAZolyhHX53LG) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Balearic Shift](https://open.spotify.com/album/5OdmHskSKcPzyy1h5NEphH) | 5:40 |
 | 76 | [Nostri Casus](https://open.spotify.com/track/2nxQ7KztiJZHqwI7CBl7E6) | [Emitr](https://open.spotify.com/artist/3K4Bvd2aKjgYkCJU6amTLN) | [Grow](https://open.spotify.com/album/1JLoVXOJDEm4IKfN3KG4V1) | 5:54 |
 | 77 | [Affection](https://open.spotify.com/track/0ZzYnyayT9RsMWHazhY7II) | [Lena Storm](https://open.spotify.com/artist/7HjUPE0wht5bSBJb2eAulY) | [Affection](https://open.spotify.com/album/1R6myxn0eGwPvPnAQEkWOO) | 6:55 |
 | 78 | [Hypnotik](https://open.spotify.com/track/6654nztvB3fkikF77CUcN4) | [\[ Wex 10 \]](https://open.spotify.com/artist/0ZeXHrj76WIHS8JOPJUogN) | [Hypnotik](https://open.spotify.com/album/7jFNGLhgJh3hwzKPIa3vuK) | 6:53 |
 | 79 | [Arambol Lights](https://open.spotify.com/track/7kA3hOc4HPk6JRD3ZBMMLK) | [Axis Of Time](https://open.spotify.com/artist/0y4TXuiPGjA80YqCzEMGfo) | [Evolution Of Mind](https://open.spotify.com/album/0gjODlMRc3Cl49zD8iZDuC) | 6:05 |
 
-Snapshot ID: `MCxmNTMzNDNlYzBlZGM2N2NkNTlhYmVjOTE2NTUxMWE5YjdhOTlmNGUy`
+Snapshot ID: `MCxiZjM2N2U5ODBiZDUzZTIzYjAxNjQ0M2ZiZDBkNWUwOGY4N2JhODAx`

@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-329 songs - 16 hr 28 min
+330 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Earth](https://open.spotify.com/track/183tCj3FW0MBHKeDPHKoDj) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Life On Our Planet \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0twoJjqA27AFvNr5UiCNGz) | 3:50 | 2023-10-13 |  |
 | [Egwene al'Vere \- from The Wheel of Time: Season 2, a Prime Video Original Series](https://open.spotify.com/track/1pUpYWRubFMzugCP4jIcdi) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Wheel of Time: Season 2, Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/71lPSpzDgHtwW8oM6933EX) | 3:02 | 2023-09-01 |  |
 | [Egwene al'Vere \- from The Wheel of Time: Season 2, a Prime Video Original Series](https://open.spotify.com/track/25VaTouvJUmUkIccRJfTGG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Egwene al'Vere \(from The Wheel of Time: Season 2, a Prime Video Original Series\)](https://open.spotify.com/album/6PDzQ3pZl8CRTcOMwk5gPU) | 3:02 | 2023-09-01 | 2023-09-09 |
+| [Elodie's Maze](https://open.spotify.com/track/41Kgj6Wuncv2yRhE4HQArh) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Damsel \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4yv3v9bzrS6MwL5X6pjeeH) | 4:41 | 2024-03-08 |  |
 | [End](https://open.spotify.com/track/6AvYxIG35XLT3Vpeydm0Oj) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [End](https://open.spotify.com/album/6l2sYGF6yH4TQZXD7O7XEd) | 3:53 | 2021-12-20 |  |
 | [Epilogue](https://open.spotify.com/track/1ZPmsTDkoBH63pX25YLAOa) | [Mathias Rehfeldt](https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu), [Dark Matter Projekt](https://open.spotify.com/artist/7CmRc2vq7fSdr6mPAD3FYq) | [Tundra \(For Organ, Chamber Ensemble and Electronics\)](https://open.spotify.com/album/1KSiD3nqxDKsOeJcsyvoNh) | 5:52 | 2022-12-23 |  |
 | [Epilogue](https://open.spotify.com/track/5dWmFO7mUr3YIzTerjnbjL) | [Mathias Rehfeldt](https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu), [Dark Matter Projekt](https://open.spotify.com/artist/7CmRc2vq7fSdr6mPAD3FYq) | [Tundra](https://open.spotify.com/album/5Uwl0AJBoJMnNsPws8jM3a) | 5:52 | 2021-12-20 | 2023-01-14 |

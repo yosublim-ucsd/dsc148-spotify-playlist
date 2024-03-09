@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-193 songs - 10 hr 45 min
+194 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cuarto Oscuro \(feat\. Pacho Carnaval\)](https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB) | [Presi On](https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp), [Renate](https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Pacho Carnaval](https://open.spotify.com/artist/782eGsJcQXQ4uPl3x0gRs2) | [Cuarto Oscuro / BAQ Spicy](https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r) | 3:56 | 2024-02-09 |  |
 | [Cuban Riddim](https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Cuban Riddim](https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1) | 2:47 | 2021-10-08 | 2023-11-11 |
 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 | 2021-11-05 | 2023-10-02 |
+| [DALE](https://open.spotify.com/track/6DbEX6iIjLuEV9j4zvDdp0) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [DALE](https://open.spotify.com/album/4iikrDQdEDTJtWKGMmlZZA) | 2:33 | 2024-03-01 |  |
 | [Dale](https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Billy the Diamond](https://open.spotify.com/artist/7sjiAjXjA4ncQE7cJTcMb5) | [Dale](https://open.spotify.com/album/2U5JuUDjUjAkP7gcd5QY4N) | 2:47 | 2023-12-08 |  |
 | [Dame](https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK), [Marocco](https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt) | [Dame](https://open.spotify.com/album/1NcxQQUO6a3rhVLTtNBFr7) | 3:34 | 2021-10-08 | 2023-11-11 |
 | [Delante](https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN) | [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE) | [Delante](https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag) | 2:25 | 2024-02-02 |  |
@@ -174,7 +175,7 @@
 | [Tikitro](https://open.spotify.com/track/3PUNw4b3t5xgANXPhvOioW) | [Band&dos](https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI), [Tony Guerra](https://open.spotify.com/artist/5qURuhcV6ZjUfe1iYsC2Py) | [Tikitro](https://open.spotify.com/album/5urqD5lw9nAIFh5QQDWECs) | 5:32 | 2024-02-02 | 2024-02-24 |
 | [Toma Dale](https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Toma Dale](https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr) | 5:23 | 2023-12-01 |  |
 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 | 2023-11-10 |  |
-| [Tomala](https://open.spotify.com/track/3J8H0G31LQnI5SAfho46DD) | [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Tomala](https://open.spotify.com/album/1SxwEEXsi7urSOIk303YoY) | 2:20 | 2024-02-23 |  |
+| [Tomala](https://open.spotify.com/track/3J8H0G31LQnI5SAfho46DD) | [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Tomala](https://open.spotify.com/album/1SxwEEXsi7urSOIk303YoY) | 2:20 | 2024-02-23 | 2024-03-09 |
 | [Tranquilao](https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Tranquilao](https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS) | 3:00 | 2023-11-17 |  |
 | [Tribesmen \- Original Mix](https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Tribesmen](https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk) | 7:17 | 2021-10-08 | 2023-11-11 |
 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 | 2023-11-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Diego Torres &amp; Carlos Vives  &quot;Kapun&quot;, Enrique Iglesias &amp; Miranda Lambert &quot;Space in My Heart&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fr\u00eda&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intenci\u00f3n&quot;.",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Alex Ponce &amp; Chucho &quot;desbarat\u00e1ndome&quot; Diego Torres &amp; Carlos Vives  &quot;Kapun&quot;, Enrique Iglesias &amp; Miranda Lambert &quot;Space in My Heart&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fr\u00eda&quot;",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -446,6 +446,24 @@
       "duration_ms": 177626,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
+    },
+    {
+      "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/01sRdAXvIOOCKq2mQ4fvvN"
+      },
+      "artists": [
+        {
+          "name": "Jhosy",
+          "url": "https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141340,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/69VPIGcQ3gUT6Nm5MYAEKb"
     },
     {
       "album": {
@@ -3414,6 +3432,28 @@
       "duration_ms": 187317,
       "name": "dEsANiMaO :(",
       "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
+    },
+    {
+      "album": {
+        "name": "desbarat\u00e1ndome",
+        "url": "https://open.spotify.com/album/1JhFONe2KrAFPeSzX6fyRp"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159473,
+      "name": "desbarat\u00e1ndome",
+      "url": "https://open.spotify.com/track/2Ves2z0imE2vQD6mwTUbXe"
     },
     {
       "album": {

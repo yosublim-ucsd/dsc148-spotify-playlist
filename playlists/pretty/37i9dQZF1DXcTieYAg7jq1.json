@@ -1,13 +1,29 @@
 {
-  "description": "Featuring that new vintage. Cover: Emmy Meli",
-  "num_followers": 413879,
+  "description": "Featuring that new vintage. Cover: Norah Jones",
+  "num_followers": 413906,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWVhMzc5NGQwY2NmNDJjOTJhM2I1MGE2NjVhNDU4ZDUxMzRkYzFh",
+  "snapshot_id": "MCwxYzE0ZjY4ZWQ3MzkyYjNlMjg1MDk3Y2U3MTUxYzMxZTE2YjU5OWUy",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 205265,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q"
+    },
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
     },
     {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/2kTz24IgJaveP4je8XjYv7"
+      },
+      "artists": [
+        {
+          "name": "Devin Kennedy",
+          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
+        }
+      ],
+      "duration_ms": 188953,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/0BeqFdVAkpVJHkFSl4EEf7"
+    },
+    {
       "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Youniverse",
@@ -71,22 +103,6 @@
       "duration_ms": 160500,
       "name": "Youniverse",
       "url": "https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Staring at the Wall",
-        "url": "https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 271257,
-      "name": "Staring at the Wall",
-      "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -869,30 +885,6 @@
       "url": "https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt"
     },
     {
-      "added_at": "2022-04-06 21:11:54",
-      "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/0kGvVheAH35jEukM3elOGu"
-      },
-      "artists": [
-        {
-          "name": "CAMPBELL",
-          "url": "https://open.spotify.com/artist/50V8MR39rjDJ9GbtqHHBgk"
-        },
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        },
-        {
-          "name": "Nancy Daines",
-          "url": "https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR"
-        }
-      ],
-      "duration_ms": 230101,
-      "name": "Where the Light Is",
-      "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
-    },
-    {
       "added_at": "2023-03-31 04:01:00",
       "album": {
         "name": "Dive",
@@ -1039,22 +1031,6 @@
       "duration_ms": 137096,
       "name": "i'm lost for words",
       "url": "https://open.spotify.com/track/7MTba27fW6MgauKXvQ7gqw"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Precious Love (Refreshed)",
-      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
     },
     {
       "added_at": "2022-07-15 04:00:00",

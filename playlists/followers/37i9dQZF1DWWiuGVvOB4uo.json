@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 334393,
+  "2024-03-09": 334508,
   "date_first_scraped": "2022-09-17",
   "description": "Acoustic covers of all your favourite songs.",
   "name": "Cozy Coffeehouse Covers",
@@ -1772,6 +1772,24 @@
     },
     {
       "album": {
+        "name": "Glad He's Gone",
+        "url": "https://open.spotify.com/album/2mVO7VhmBHjYpgjOiwX9sa"
+      },
+      "artists": [
+        {
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "Glad He's Gone",
+      "url": "https://open.spotify.com/track/1FJsp3bXsiAk3ivX92czw0"
+    },
+    {
+      "album": {
         "name": "Glycerine",
         "url": "https://open.spotify.com/album/26RqcmCTKtxEo3W0ADbuSY"
       },
@@ -3025,7 +3043,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 218175,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/4BoLz4MolURQlaSjCRuZ4c"

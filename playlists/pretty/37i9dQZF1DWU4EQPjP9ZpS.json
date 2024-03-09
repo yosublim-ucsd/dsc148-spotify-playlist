@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 300822,
+  "num_followers": 300928,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODZmY2M1ZGNlZjFmNDUzOTMxMjQ5ZGE3OTBlMTU0MzJlYzI5NjMx",
+  "snapshot_id": "MCwyZDY2Y2NhOGUwZDNiMjBmZmYzNDI4NGI5OGI3ZWEwY2YwMjI5NDVm",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Things That Fade",
+        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
+      },
+      "artists": [
+        {
+          "name": "Greeen Linez",
+          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
+        }
+      ],
+      "duration_ms": 251779,
+      "name": "Hibiscus Pacific",
+      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u8d85\u8d8a\u611b",
         "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 390787,
       "name": "\u30d0\u30a6\u30f3\u30b9\u5bb6\u306e\u4e2d\u3067\u30bb\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Things That Fade",
-        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
-      },
-      "artists": [
-        {
-          "name": "Greeen Linez",
-          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
-        }
-      ],
-      "duration_ms": 251779,
-      "name": "Hibiscus Pacific",
-      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "The 33rd Split",
-        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
-      },
-      "artists": [
-        {
-          "name": "King Quartz",
-          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
-        }
-      ],
-      "duration_ms": 115802,
-      "name": "King Quartz - 4:14 in 313",
-      "url": "https://open.spotify.com/track/6ia8lBBSgF2P6xk1WEj2mn"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Ocean Breeze",
         "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 135035,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "The 33rd Split",
+        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
+      },
+      "artists": [
+        {
+          "name": "King Quartz",
+          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
+        }
+      ],
+      "duration_ms": 115802,
+      "name": "King Quartz - 4:14 in 313",
+      "url": "https://open.spotify.com/track/6ia8lBBSgF2P6xk1WEj2mn"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Street Smarts",
-        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
-      },
-      "artists": [
-        {
-          "name": "VHS LOGOS",
-          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
-        }
-      ],
-      "duration_ms": 86400,
-      "name": "Telefunken",
-      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "On the Promenade (George Clanton Remix)",
         "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Street Smarts",
+        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
+      },
+      "artists": [
+        {
+          "name": "VHS LOGOS",
+          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
+        }
+      ],
+      "duration_ms": 86400,
+      "name": "Telefunken",
+      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Videopolis",
         "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 136093,
       "name": "Soul-Vibration",
       "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1563,6 +1547,22 @@
       "duration_ms": 203761,
       "name": "vaporgroove ~",
       "url": "https://open.spotify.com/track/7aXuldX1C1OIWdFGGDZlbu"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "24Hrs.",
-        "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
-      },
-      "artists": [
-        {
-          "name": "Maitro",
-          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
-        }
-      ],
-      "duration_ms": 145240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Surfer Girl",
         "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 375876,
       "name": "Surfer Girl",
       "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "24Hrs.",
+        "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
+      },
+      "artists": [
+        {
+          "name": "Maitro",
+          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
+        }
+      ],
+      "duration_ms": 145240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
     },
     {
       "added_at": "2023-07-18 02:19:19",

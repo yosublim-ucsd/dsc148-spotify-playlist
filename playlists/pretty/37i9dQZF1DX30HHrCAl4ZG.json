@@ -1,13 +1,113 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from STRFKR",
-  "num_followers": 833884,
+  "description": "Explore all things indie rock right now. Featuring music from Rainbow Kitten Surprise ",
+  "num_followers": 833896,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDk2NTkzOTM1NGM5MDUyOTE2ZDZhMWJiMzdmZGI0YTJlZDAwZjQ3",
+  "snapshot_id": "MCxmY2Q1YmQyMjI1MDRmYTZlNjA5ZTk3ZmJlYjhhZjI0OGIyOWMxZThk",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 193425,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Bleachers",
+        "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 189919,
+      "name": "Jesus Is Dead",
+      "url": "https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Where'd All My Friends Go?",
+        "url": "https://open.spotify.com/album/1ReMNJNwEYGs6pu3cxpA3A"
+      },
+      "artists": [
+        {
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
+        },
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Where'd All My Friends Go?",
+      "url": "https://open.spotify.com/track/4JoSsFIJVUuNB7thBqxA6z"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Sweater Club",
+        "url": "https://open.spotify.com/album/0uLHEY4gk0YYp1DHNr7Qgm"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 176921,
+      "name": "Sweater Club",
+      "url": "https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 170701,
+      "name": "He Loves Me Yeah!",
+      "url": "https://open.spotify.com/track/7Ep9IjggTVy070hEkaSLIa"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Suckerpunch",
+        "url": "https://open.spotify.com/album/23Kwa0jNDhxqpPNk2fOp03"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        }
+      ],
+      "duration_ms": 181552,
+      "name": "Suckerpunch",
+      "url": "https://open.spotify.com/track/0qAQSimwmmOw6WYdP4Vov8"
+    },
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
@@ -25,20 +125,132 @@
       "url": "https://open.spotify.com/track/0dlMTThgSAKFVJckS2wVyV"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
+      "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Underdressed at the Symphony",
-        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/54KrsTAKJw6AfomlrMDE6c"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
         }
       ],
-      "duration_ms": 170701,
-      "name": "He Loves Me Yeah!",
-      "url": "https://open.spotify.com/track/7Ep9IjggTVy070hEkaSLIa"
+      "duration_ms": 162470,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/54wd5JxagBtas3CQOkj0gG"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "New Age Crisis",
+        "url": "https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 158239,
+      "name": "New Age Crisis",
+      "url": "https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Psychedelic Orgasm",
+        "url": "https://open.spotify.com/album/1152eHgDWVHE88C8ATUmqc"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "Psychedelic Orgasm",
+      "url": "https://open.spotify.com/track/5z8H0o98dlKANCnDlKsjkY"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/2Rs1VvkU9rjjMlc9Y0UiRr"
+      },
+      "artists": [
+        {
+          "name": "La Luz",
+          "url": "https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3"
+        }
+      ],
+      "duration_ms": 254606,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/23CMw32Z7okZc5ChSkxjaQ"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/1LgqOrmqQBWqnnZAHuNFwd"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 211252,
+      "name": "Memory Loss",
+      "url": "https://open.spotify.com/track/6qnETnA4VJJi5TJKSuk6qK"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Light On",
+        "url": "https://open.spotify.com/album/7J3RuK5FVXZry7VhVU4GaU"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 233463,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/0QzcgQmOWVT1qqVAsqGFh1"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Lightness is Loud",
+        "url": "https://open.spotify.com/album/2akVXhtm71GOaC7K5G8oU1"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 137240,
+      "name": "Lightness is Loud",
+      "url": "https://open.spotify.com/track/1jKxwArqTJZtZGYE80wyP0"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Soul-net",
+        "url": "https://open.spotify.com/album/00kD3E9hxwyMrzHq5EjCiQ"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Soul-net",
+      "url": "https://open.spotify.com/track/084PPi63VMViMv7qrp2Ipz"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -247,22 +459,6 @@
       "duration_ms": 205240,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Modern Girl",
-        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -503,6 +699,22 @@
       "duration_ms": 262600,
       "name": "Give It Back to Me",
       "url": "https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -911,42 +1123,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Catacombs",
-        "url": "https://open.spotify.com/album/6xnHEabxNRr9zngGCdiUus"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        }
-      ],
-      "duration_ms": 176984,
-      "name": "Catacombs",
-      "url": "https://open.spotify.com/track/0DwxNhEatnqf4yp8WhO7em"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/1YN8TfYPgp7K0x8TCVo7yy"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        },
-        {
-          "name": "The Celestials!",
-          "url": "https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5tl74SObVmHU6cumH2Ym0a"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/1vM3k1nzp5CL2dsIHgPA2x"
       },
@@ -1025,22 +1201,6 @@
       "url": "https://open.spotify.com/track/3A7S7BWkfSEdqAMSsOz5dD"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Dead Lands",
-        "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
-      },
-      "artists": [
-        {
-          "name": "Punchlove",
-          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
-        }
-      ],
-      "duration_ms": 274714,
-      "name": "Dead Lands",
-      "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "No Place Like Home",
@@ -1109,6 +1269,22 @@
       "url": "https://open.spotify.com/track/1gygvAVCrvf8UvM14yCnvh"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+    },
+    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Millionaires",
@@ -1123,22 +1299,6 @@
       "duration_ms": 180694,
       "name": "Millionaires",
       "url": "https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1187,22 +1347,6 @@
       "duration_ms": 193906,
       "name": "My Golden Years",
       "url": "https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Cuero Dudes / Beauty Opens Doors",
-        "url": "https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 298921,
-      "name": "Cuero Dudes",
-      "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1279,58 +1423,6 @@
       "duration_ms": 153492,
       "name": "Wanna",
       "url": "https://open.spotify.com/track/5FxmV25XctzXjuHNaQPpBz"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "MUD",
-      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Drive Baby",
-        "url": "https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ"
-      },
-      "artists": [
-        {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        },
-        {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
-        }
-      ],
-      "duration_ms": 158460,
-      "name": "Drive Baby",
-      "url": "https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "newrules",
-        "url": "https://open.spotify.com/album/2blDLfji74IFcz24chuzCU"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "newrules",
-      "url": "https://open.spotify.com/track/5R6MXypO60PCViBX5NBq9V"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1483,22 +1575,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Are You Looking Up / You got it",
-        "url": "https://open.spotify.com/album/7l0sG15g8sYyDgebPA5UyX"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 166179,
-      "name": "Are You Looking Up",
-      "url": "https://open.spotify.com/track/00uvWPbNBali6gKlZxUxIU"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "It Was Not A Beautiful Night",
         "url": "https://open.spotify.com/album/32kSabsb9xQNIv2tI1kXPL"
       },
@@ -1511,42 +1587,6 @@
       "duration_ms": 177631,
       "name": "It Was Not A Beautiful Night",
       "url": "https://open.spotify.com/track/3vIgkoS6GYppSgmKH2btkn"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Headhunters",
-        "url": "https://open.spotify.com/album/0bPoR7rKYRoePTxcO69c5k"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "Headhunters",
-      "url": "https://open.spotify.com/track/0e2UXJVBkra5oNKMoOF9BH"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Re: This Is Why",
-        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 294396,
-      "name": "Thick Skull (Re: Julien Baker)",
-      "url": "https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1587,38 +1627,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Alive!",
-        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Alive!",
-      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/7oCDphcaDVxbN7CPRRPbxm"
-      },
-      "artists": [
-        {
-          "name": "Windser",
-          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
-        }
-      ],
-      "duration_ms": 178169,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/7t1Q5yppvM7mwkV5jihZMf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -1631,22 +1639,6 @@
       "duration_ms": 201546,
       "name": "Helmet",
       "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Call Me What You Like",
-        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Call Me What You Like",
-      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
     }
   ],
   "unique_name": "Today's Indie Rock",

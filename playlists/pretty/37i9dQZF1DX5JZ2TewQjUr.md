@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Dessy, PLAYGROUND
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,003 likes - 135 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,007 likes - 135 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 5 | [heartbreak\_demo](https://open.spotify.com/track/7paQoUMrXYEFJvucVmS8nl) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [heartbreak\_demo](https://open.spotify.com/album/0uS2NDetcgz7WXm98XdLHw) | 3:39 |
 | 6 | [98](https://open.spotify.com/track/4qIy3sKkt76I2cmEK5hiCf) | [良少](https://open.spotify.com/artist/5TqXIlySNYaCoM0WjmBnXK), [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [98](https://open.spotify.com/album/2IGE9t13fb36RNAZxgRbbV) | 5:01 |
 | 7 | [天空的遠岸](https://open.spotify.com/track/5nVo6swVD8bGr6f5TeE1Hc) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [天空的遠岸](https://open.spotify.com/album/023I9wanwbNN7QIIvaWuTO) | 3:44 |
-| 8 | [COVER STORY](https://open.spotify.com/track/4W0DR8hpfXZQbjkF7SkWao) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [JFFT](https://open.spotify.com/artist/4hUF6g1RkePtMyyH9sf5Jr) | [COVER STORY](https://open.spotify.com/album/7gB0L1Sf9Q7gO0ps37s5RY) | 2:57 |
+| 8 | [COVER STORY](https://open.spotify.com/track/4W0DR8hpfXZQbjkF7SkWao) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [床哥](https://open.spotify.com/artist/5tz6K8BYKfiVFB8yQRdGX8) | [COVER STORY](https://open.spotify.com/album/7gB0L1Sf9Q7gO0ps37s5RY) | 2:57 |
 | 9 | [20 Broken Hearts](https://open.spotify.com/track/2EURFykxdhLD6NNi1gpD3J) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh) | [20 Broken Hearts](https://open.spotify.com/album/3kIMdxteDaaIdZNE1WTFWi) | 1:04 |
 | 10 | [Brand New Day](https://open.spotify.com/track/6LtjXfYayNDDnd6zhlEISW) | [The Paisley Daze](https://open.spotify.com/artist/4uo2Q2JUeasRjRlxxQGu3h) | [Brand New Day](https://open.spotify.com/album/79csmwQT0BCKmSI2p8LQgw) | 4:22 |
 | 11 | [Good Days](https://open.spotify.com/track/6oB4jM4zrpqtaLHfO4O0bq) | [Pi Pi Pierrot](https://open.spotify.com/artist/4EWciNc2dVhDRUeLQ7ixs3) | [Good Days](https://open.spotify.com/album/2PTAHAZcKL76qGzUQjlHYk) | 3:07 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 134 | [I CAN'T](https://open.spotify.com/track/4gWWZGAvRd78Ztz4kfwTSu) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [I CAN'T](https://open.spotify.com/album/4LPLzvpPWmbuOOpK1vaiQl) | 2:07 |
 | 135 | [山長水遠](https://open.spotify.com/track/5LtlNjIcPKjXOSO2E45ULu) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [shinylungs⁺₊✧](https://open.spotify.com/artist/2g7UAB5TToknyyKW44XvV9), [0rganicman](https://open.spotify.com/artist/6JSPhYkty9j06FeFahuhDo), [丸](https://open.spotify.com/artist/5tUbF2wVYoQQAbSyN5iM1n) | [山長水遠](https://open.spotify.com/album/66wKvoCdhUkbnjY09NpRJR) | 5:18 |
 
-Snapshot ID: `MCw2NGVkOWZiNmIxYmU2N2EyYjZmYmNiNTI5NWY4ODVmNTUzZTJjYWQ3`
+Snapshot ID: `MCwyNWNkZTEyOGU4NjliZmFmNWUyM2Y4NDk0NTk0MDRlMjlkZTdkNzIz`

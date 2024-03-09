@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,191 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,222 likes - 100 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Feelin' Fine](https://open.spotify.com/track/4BDxJjCg1ETWK9hxcM4Fu4) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Feelin' Fine](https://open.spotify.com/album/6sXG4V3wpbhx54O48PfIFg) | 4:05 |
-| 2 | [Bob and Weave \- Single Version](https://open.spotify.com/track/5fSkSBtOTu3zPj02mSGukL) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso), [Josh Phillips](https://open.spotify.com/artist/7LYmBFwfXHGqCDWvHfARke) | [Bob and Weave](https://open.spotify.com/album/66bRhkNSslxtX10zMUXDTC) | 4:20 |
-| 3 | [I Am The Wheel \(It Could Happen to You\)](https://open.spotify.com/track/5F6EqL3QZGnRJjA9XPWXoC) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [I Am The Wheel \(It Could Happen to You\)](https://open.spotify.com/album/4Iy72zn3aCGtRsGIfmOPov) | 3:33 |
-| 4 | [Gloaming Way](https://open.spotify.com/track/2Ek92VVHn8Cu0XOwFwjtOF) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Gloaming Way](https://open.spotify.com/album/2QNz2AaoIRejCJlK7avDJa) | 5:06 |
-| 5 | [Hard Pass](https://open.spotify.com/track/22PBp11W9lqbdO5XwYk0f7) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Hard Pass](https://open.spotify.com/album/6gAU4TmksTNEDGzXzNTgQb) | 4:12 |
+| 1 | [Cloudburst](https://open.spotify.com/track/1cs7HeOLNf8phc48xpWScr) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Cloudburst](https://open.spotify.com/album/2C9CLWDwGcYV0eQoPGxKZJ) | 3:39 |
+| 2 | [Feelin' Fine](https://open.spotify.com/track/4BDxJjCg1ETWK9hxcM4Fu4) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Feelin' Fine](https://open.spotify.com/album/6sXG4V3wpbhx54O48PfIFg) | 4:05 |
+| 3 | [Bob and Weave \- Single Version](https://open.spotify.com/track/5fSkSBtOTu3zPj02mSGukL) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso), [Josh Phillips](https://open.spotify.com/artist/7LYmBFwfXHGqCDWvHfARke) | [Bob and Weave](https://open.spotify.com/album/66bRhkNSslxtX10zMUXDTC) | 4:20 |
+| 4 | [I Am The Wheel \(It Could Happen to You\)](https://open.spotify.com/track/5F6EqL3QZGnRJjA9XPWXoC) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [I Am The Wheel \(It Could Happen to You\)](https://open.spotify.com/album/4Iy72zn3aCGtRsGIfmOPov) | 3:33 |
+| 5 | [Gloaming Way](https://open.spotify.com/track/2Ek92VVHn8Cu0XOwFwjtOF) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Gloaming Way](https://open.spotify.com/album/2QNz2AaoIRejCJlK7avDJa) | 5:06 |
 | 6 | [Lakesong](https://open.spotify.com/track/0S5bcsLFrtN4cM3jzgpWNa) | [Fitzkee Brothers](https://open.spotify.com/artist/7CUd58kShwbwTCmMtnBebG) | [Lakesong](https://open.spotify.com/album/5m2b2mDjvnxkgWALlHDbUV) | 4:34 |
 | 7 | [Windy Mountain](https://open.spotify.com/track/2xI02rsOKrOV54hoXtOout) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Windy Mountain](https://open.spotify.com/album/6IWKeq29VXjgWmKbCdhRs2) | 5:28 |
 | 8 | [The Seed](https://open.spotify.com/track/1yMrLBFGC0TlBaL2Jk5eWo) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [The Seed](https://open.spotify.com/album/7i6icaKn9TNM8k94CEFamu) | 7:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `MCxlYTUzMTNlZTZkYzBlOTJjMzU4YWZlNjcyNzQ2ZmRhZWNhZWMwMzQ4`
+Snapshot ID: `MCw0ZDY4ZDMxOGI2MGIzOWU0YmM3MGE0YTgzMTMzNmVkZmZiOTA0Njlj`

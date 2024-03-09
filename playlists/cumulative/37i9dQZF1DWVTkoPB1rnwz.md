@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-341 songs - 19 hr 44 min
+342 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Cuckoo](https://open.spotify.com/track/2BwiTu8QrHm09soMmegJbu) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 2:25 | 2021-10-16 | 2022-10-16 |
 | [Daqui](https://open.spotify.com/track/180yWNMphJET6icsGgSfs1) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Daqui](https://open.spotify.com/album/48lhovTqxxgcP33S9d3RZu) | 1:22 | 2022-01-13 | 2022-07-20 |
 | [Daqui](https://open.spotify.com/track/6rr3OnsNcCHbnH9vvZLw6z) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Daqui](https://open.spotify.com/album/07R0w8wvaLwmvmsopkrTLC) | 1:22 | 2022-01-13 | 2022-09-06 |
-| [Dragonfly](https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Dragonfly](https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy) | 3:17 | 2023-03-03 |  |
+| [Dragonfly](https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Dragonfly](https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy) | 3:17 | 2023-03-03 | 2024-03-09 |
 | [Dream \#1 \[Arrival\]](https://open.spotify.com/track/2HYeAh3SRWC71YpPeyZhwK) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams](https://open.spotify.com/album/2qPFxP6CYdNetCUy5SRITi) | 4:18 | 2021-10-16 |  |
 | [Dream \#1 \[Arrival\]](https://open.spotify.com/track/4IXEVZuLscgxvGZdor0Acu) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams](https://open.spotify.com/album/6MaSpqMna6KfVZ84qzFbpO) | 4:18 | 2021-10-16 | 2023-09-28 |
 | [Dream \#1 \[Arrival\]](https://open.spotify.com/track/5p43429jmHAHtrImgqlNpE) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams](https://open.spotify.com/album/4WRQfwPfCYlhi45Iqh43iy) | 4:18 | 2021-10-16 | 2022-07-27 |
@@ -170,7 +170,7 @@
 | [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-10-16 | 2022-09-20 |
 | [lake hylia](https://open.spotify.com/track/4vvZKGxwq09jL4F30aF1Om) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/2pajMS0QgB2rk8TwXu1Tfo) | 1:51 | 2021-10-16 | 2022-11-13 |
 | [Le danseur dans la boîte](https://open.spotify.com/track/0vGbsSDK7St7mNqbs19nUC) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB), [Camille Paquette\-Roy](https://open.spotify.com/artist/1pVlFqIC1hmzaUf9UPIpFZ) | [Natura Sophia](https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq) | 4:58 | 2021-10-16 | 2022-07-29 |
-| [Lemon Haze](https://open.spotify.com/track/18XJez0do5aWzd6j9ZoiyT) | [emune](https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [SP\-Ecials](https://open.spotify.com/album/3zzyKVOMGp0ljBUGmFttqA) | 1:14 | 2021-10-16 | 2024-02-24 |
+| [Lemon Haze](https://open.spotify.com/track/18XJez0do5aWzd6j9ZoiyT) | [emune](https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [SP\-Ecials](https://open.spotify.com/album/3zzyKVOMGp0ljBUGmFttqA) | 1:14 | 2021-10-16 |  |
 | [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2021-10-16 | 2023-12-27 |
 | [Light](https://open.spotify.com/track/3is4aHMSpsFnrDx0btsuEW) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/7zCzUUixLiKDCNcoHfVkd0) | 1:50 | 2021-10-16 | 2022-11-19 |
 | [Light](https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem) | 1:50 | 2021-10-16 |  |
@@ -284,6 +284,7 @@
 | [submerge](https://open.spotify.com/track/0jzQF9trHn9PvZcJvuXKDm) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [submerge](https://open.spotify.com/album/7DnxnmMo2zzENpShlvxTzk) | 1:39 | 2023-01-06 | 2023-06-16 |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2021-10-16 |  |
 | [summer \(shade\)](https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/5PlR2KmCcUMqsMaVkYFufQ) | 2:15 | 2021-10-16 | 2024-01-31 |
+| [summer \(shade\)](https://open.spotify.com/track/7BDHpvLArUvn4SJADth5AM) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/7hdw0jlLtEBsNs3R6KY05z) | 2:15 | 2021-10-16 |  |
 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 | 2021-10-16 | 2023-08-23 |
 | [Sunflower Dance](https://open.spotify.com/track/4PMJ8QjBfyFKxvDozAyGW9) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm) | 3:32 | 2021-10-16 |  |
 | [sunrise mtn](https://open.spotify.com/track/39fB9kG8siVbe6cOOtVliL) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [sunrise mtn](https://open.spotify.com/album/0I0Wpet0SNMfo0hgcwzsQB) | 2:31 | 2023-04-15 |  |
@@ -322,7 +323,7 @@
 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/17D02dGk9OaLePiabFtJFf) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/2iRT0PbeJWu7qgmeeO2wei) | 2:30 | 2021-10-16 | 2022-07-27 |
 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 | 2021-10-16 | 2023-08-04 |
 | [Unmo](https://open.spotify.com/track/2wQpl8D5EExuyARWBaoH1M) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Unmo](https://open.spotify.com/album/5SB94F4ACl0iqteWlsaV86) | 2:13 | 2021-10-16 | 2022-07-29 |
-| [Unmo](https://open.spotify.com/track/5EnSB1D05EPzOtKq9DIvZ8) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Unmo](https://open.spotify.com/album/0JjXqs8cr8ovqSUQIPOYBo) | 2:13 | 2021-10-16 |  |
+| [Unmo](https://open.spotify.com/track/5EnSB1D05EPzOtKq9DIvZ8) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Unmo](https://open.spotify.com/album/0JjXqs8cr8ovqSUQIPOYBo) | 2:13 | 2021-10-16 | 2024-03-09 |
 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 | 2021-11-10 | 2022-12-01 |
 | [Untitled \#1](https://open.spotify.com/track/67R6OxxmHwL0N1vLjetR75) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Drone](https://open.spotify.com/album/7t9tqpprC4pOSyoIFnRZx1) | 8:21 | 2021-10-16 |  |
 | [Untitled \#1](https://open.spotify.com/track/76OcZrqKbSjdieuZANmhCC) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [The Ocean No Longer Wants Us](https://open.spotify.com/album/19ES9czYSnkJaASi8hlZPC) | 8:21 | 2021-10-16 | 2022-07-26 |

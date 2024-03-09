@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,218 songs - 3 day 4 hr 40 min
+1,219 songs - 3 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,8 @@
 | [ROAR](https://open.spotify.com/track/6uivVGH9afiQOD9AbZatrq) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [ROAR](https://open.spotify.com/album/09wcj80hhbm5MghpXgZmtn) | 3:23 | 2023-10-03 | 2023-10-11 |
 | [Route BLUE](https://open.spotify.com/track/7KN9Vbnp1QudKn1wtdiO3g) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Route BLUE](https://open.spotify.com/album/75KqNc8dF6yowDXwlFm6tm) | 3:48 | 2022-05-28 | 2022-07-06 |
 | [routine life](https://open.spotify.com/track/3AdLUaAZTJQyhjs10t5wKk) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [routine life](https://open.spotify.com/album/3nO790FKbCxYTZL5HjVsZZ) | 3:32 | 2024-01-09 | 2024-01-11 |
-| [Routine Life](https://open.spotify.com/track/3U4q2PzQAGlT4iistqvnDl) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Routine Life](https://open.spotify.com/album/0m5mYXIrR6ShDGZsLxkyJ7) | 3:32 | 2024-01-09 |  |
+| [Routine Life](https://open.spotify.com/track/3U4q2PzQAGlT4iistqvnDl) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Routine Life](https://open.spotify.com/album/0m5mYXIrR6ShDGZsLxkyJ7) | 3:32 | 2024-01-09 | 2024-03-09 |
+| [Routine Life](https://open.spotify.com/track/0VAlLENdlJZVA3CUIhyKJF) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Weekday](https://open.spotify.com/album/37176xs2bTWghwyAA67mHd) | 3:34 | 2024-03-07 |  |
 | [ROZEN HORIZON](https://open.spotify.com/track/7BnQ7guT0xmlYP2EULTUwq) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1) | 6:06 | 2022-05-28 | 2022-07-27 |
 | [RULERS](https://open.spotify.com/track/3uSlREGw0hWOkrYAInJ2z3) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [RULERS](https://open.spotify.com/album/75eaf9WbLePqkGumwO0QMq) | 3:40 | 2024-01-09 |  |
 | [Runaway World](https://open.spotify.com/track/5oaQkUTBFrLjqJJ4fd3eAe) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Runaway World \(TVアニメ「逃走中」オープニング・テーマ\)](https://open.spotify.com/album/32wTeElhxo3cDpPfbu4X9T) | 4:06 | 2023-05-30 | 2023-07-12 |

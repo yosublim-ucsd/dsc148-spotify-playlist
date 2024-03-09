@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top trending country tracks from the last few months. Cover: Beyonc\u00e9",
+  "description": "Top trending country tracks from the last few months. Cover: Gavin Adcock",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -2524,6 +2524,24 @@
       "duration_ms": 182973,
       "name": "Heaven By Then",
       "url": "https://open.spotify.com/track/4GVVc4W9u4ZXemCmru5orO"
+    },
+    {
+      "album": {
+        "name": "Hell is a Dance Floor",
+        "url": "https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Hell is a Dance Floor",
+      "url": "https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL"
     },
     {
       "album": {

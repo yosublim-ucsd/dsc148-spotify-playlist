@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> 🇵🇭 vibin' 🥶 🔥 Cover: Felip, PLAYERTWO
+> 🇵🇭 vibin' 🥶 🔥 Cover: DEMI\. International Women’s Day takeover\. Powered by <a href="spotify:genre:equal">EQUAL</a>
 
-217 songs - 12 hr 25 min
+218 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [First Impressions \- Yuan Estrada x Dave Anonuevo Remix](https://open.spotify.com/track/2yzGqCVboYtsOUolarj6hd) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Yuan Estrada](https://open.spotify.com/artist/4lip0Iq4MmA7pHujoaMWlN), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [Options \(Deluxe\)](https://open.spotify.com/album/6BiJmwF8oi2ZZIWYXbdU5O) | 4:03 | 2022-10-12 | 2022-12-15 |
 | [FLYYY](https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [FLYYY](https://open.spotify.com/album/5kilQF27XttjACkkQBz0jj) | 4:20 | 2024-01-26 |  |
 | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/album/3uYvCGaqN8HgwYs4aM0nwb) | 4:20 | 2022-10-12 | 2023-07-29 |
+| [Ganon ka rin?](https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Ganon ka rin?](https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you) | 2:28 | 2024-03-08 |  |
 | [Girls Need Love \- Remix](https://open.spotify.com/track/4rWXfXphKXHxrB56npwV4k) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Girls Need Love \(Remix\)](https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL) | 2:43 | 2024-01-15 |  |
 | [Gunita](https://open.spotify.com/track/6BgwDTBvewo3waE0LhfSUT) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH) | [Gunita](https://open.spotify.com/album/26WdICKZG6NBoLvCXGtJkA) | 3:56 | 2023-07-13 | 2023-10-26 |
 | [Gusto](https://open.spotify.com/track/5ojhdirBnBs8y1EXgkpSj1) | [RAINA](https://open.spotify.com/artist/0TMW4pEBWFz1GZa0cGua0l) | [Gusto](https://open.spotify.com/album/4A5EzPzTX7nQVhMmKGc1dG) | 2:10 | 2022-10-12 | 2023-07-29 |
@@ -188,7 +189,7 @@
 | [Sandal](https://open.spotify.com/track/5LkJokf6VTL6eQBNskJM6W) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Sandal](https://open.spotify.com/album/5BpZBtcQWxONxQzHHYzsDC) | 3:17 | 2023-10-02 | 2024-02-29 |
 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 | 2023-08-30 |  |
 | [Sayo Lamang](https://open.spotify.com/track/5Qf7Rx5Mpvs95k1Inotcfa) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [Sayo Lamang](https://open.spotify.com/album/1BE5KW5Pk2Y6Xz7qzhRvyh) | 3:04 | 2023-10-13 |  |
-| [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-07-28 |  |
+| [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-07-28 | 2024-03-09 |
 | [self talk](https://open.spotify.com/track/3h83G3DtJTNxYZrnvrEK2z) | [Annie Lux](https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN) | [self talk](https://open.spotify.com/album/0pXuT6nfO7jEPaG90OjBht) | 2:01 | 2022-10-12 | 2023-05-03 |
 | [Shawty](https://open.spotify.com/track/0S7aR94L2NOJYDHWB97Yy6) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [Shawty](https://open.spotify.com/album/51qJ7XaO2Eh4DLIyS8SzZ0) | 3:07 | 2024-02-09 |  |
 | [Sigurado](https://open.spotify.com/track/4RuwsMJHRsB4gIzLBnnjqo) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5) | [Sigurado](https://open.spotify.com/album/28TgQT58FujmQoZ796M4Ma) | 3:32 | 2023-08-16 | 2024-02-10 |

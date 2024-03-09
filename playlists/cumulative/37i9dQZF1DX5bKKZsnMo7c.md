@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Jagwar Twin
 
-339 songs - 18 hr 16 min
+340 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 | 2023-01-13 | 2023-04-18 |
 | [Costume](https://open.spotify.com/track/6tQnC1uIY62jSpBPgVRrZZ) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Cheers \(Deluxe Version\)](https://open.spotify.com/album/4lX3DtoIaJWh0wMCOjsLTi) | 2:51 | 2023-04-12 | 2023-06-03 |
 | [Crocodile Tears](https://open.spotify.com/track/7MwYXhh2dTqc7fiwkwPZo1) | [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 5 Part 2 \(Music from the HBO Original Series\)](https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD) | 3:02 | 2023-07-03 | 2023-09-16 |
-| [Cupid](https://open.spotify.com/track/2t7RNUa8I8fbZAEAmZOkBl) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Dinner Is Not Over / There's Something Happening / Keyman / Cupid](https://open.spotify.com/album/5fj1GdFNLbru8pCOqNmLaK) | 3:40 | 2023-03-27 |  |
+| [Cupid](https://open.spotify.com/track/2t7RNUa8I8fbZAEAmZOkBl) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Dinner Is Not Over / There's Something Happening / Keyman / Cupid](https://open.spotify.com/album/5fj1GdFNLbru8pCOqNmLaK) | 3:40 | 2023-03-27 | 2024-03-09 |
 | [cut my fingers off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 | 2022-05-17 | 2023-01-14 |
 | [Danke Schoen](https://open.spotify.com/track/0udPmR2HQO8iaCMqF6rrIL) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/1kwJPORCIZEZ57iE9mziXZ) | 2:38 | 2023-02-02 | 2023-02-05 |
 | [Danke Schoen](https://open.spotify.com/track/4uq0JdZB0O52Zw3OHl3O1n) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71) | 2:38 | 2023-02-02 | 2023-06-28 |
@@ -334,6 +334,7 @@
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-03 | 2022-10-06 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2a5iijmK8wnmiwxiqsn8QL) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pop Favourites](https://open.spotify.com/album/0loQ9cO8DNmHEH8SgeWkT8) | 3:26 | 2022-10-21 | 2022-11-13 |
 | [Viva Las Vengeance](https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:27 | 2022-09-16 | 2022-11-26 |
+| [walk away](https://open.spotify.com/track/4qPlGME9gibeMHrhLLq1KR) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [walk away](https://open.spotify.com/album/5IELJPwvxu1C13dnZUmlxf) | 2:08 | 2024-03-08 |  |
 | [Waltz For Sweatpants](https://open.spotify.com/track/5NItQtFp7GdPaOG41vVXCk) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Waltz For Sweatpants](https://open.spotify.com/album/79BUAhiwMuRuyRouRwrZ36) | 3:15 | 2023-06-23 | 2023-08-23 |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2023-12-29 |  |
 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 | 2022-05-17 | 2022-08-06 |

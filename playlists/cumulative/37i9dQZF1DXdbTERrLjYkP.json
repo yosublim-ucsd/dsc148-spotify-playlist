@@ -2267,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "COOL!",
+        "url": "https://open.spotify.com/album/6tfaqFACwNtp8MjzubATFT"
+      },
+      "artists": [
+        {
+          "name": "Leanna Firestone",
+          "url": "https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176281,
+      "name": "COOL!",
+      "url": "https://open.spotify.com/track/3MaXsz7owIstIvophs0dm3"
+    },
+    {
+      "album": {
         "name": "Copout",
         "url": "https://open.spotify.com/album/3rpxPx8NubbxauNXDTsFh8"
       },
@@ -4299,6 +4317,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak In Heaven",
+        "url": "https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sklar",
+          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141368,
+      "name": "Heartbreak In Heaven",
+      "url": "https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs"
+    },
+    {
+      "album": {
         "name": "hell yeah",
         "url": "https://open.spotify.com/album/4qXrPD4TRtgX0CKdRpBRMN"
       },
@@ -4656,6 +4692,24 @@
       "duration_ms": 165000,
       "name": "How The Story Ends",
       "url": "https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi"
+    },
+    {
+      "album": {
+        "name": "how to not love you",
+        "url": "https://open.spotify.com/album/5v8AwJwRZnwRZDsHwqP4Dz"
+      },
+      "artists": [
+        {
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "how to not love you",
+      "url": "https://open.spotify.com/track/1S04uGKqIG10eTAnSXH9QG"
     },
     {
       "album": {
@@ -5286,6 +5340,24 @@
       "duration_ms": 214120,
       "name": "I'm Sorry, Tokyo",
       "url": "https://open.spotify.com/track/31eHodIKm5jNVeXjhqevNU"
+    },
+    {
+      "album": {
+        "name": "I'm The Sinner",
+        "url": "https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr"
+      },
+      "artists": [
+        {
+          "name": "Jared Benjamin",
+          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132821,
+      "name": "I'm The Sinner",
+      "url": "https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1234565,
+  "num_followers": 1234965,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Q4ZjVmMTg0OGJhMTE0MmE4NzFlNjg0NDRiZTUwMmM0ZDEzNWU5",
+  "snapshot_id": "MCw5NjNmNjI4YTJhYzBhNjcwYzJkMTJlZmMyZDFjNjQwZDk0ZDNiNzA0",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -253,20 +253,20 @@
       "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+        "name": "Somebody Loan Me A Dime (Remastered)",
+        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
       },
       "artists": [
         {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
         }
       ],
-      "duration_ms": 412960,
-      "name": "Have You Ever Loved A Woman?",
-      "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
+      "duration_ms": 176747,
+      "name": "Somebody Loan Me A Dime - Remastered",
+      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -285,20 +285,20 @@
       "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Somebody Loan Me A Dime (Remastered)",
-        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },
       "artists": [
         {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
         }
       ],
-      "duration_ms": 176747,
-      "name": "Somebody Loan Me A Dime - Remastered",
-      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
+      "duration_ms": 412960,
+      "name": "Have You Ever Loved A Woman?",
+      "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
     },
     {
       "added_at": "2018-03-29 19:44:07",

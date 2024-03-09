@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: MAZZEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,996 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,013 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 46 | [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 |
 | 47 | [THE SOUND](https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE) | 3:00 |
 | 48 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
-| 49 | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/album/7vGsOpaySuHwzja3LPHjfT) | 3:06 |
-| 50 | [LEVEL UP \- Sam Feldt Remix / Bonus Track](https://open.spotify.com/track/4jCreA0WDZfTX6htUzGg5I) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Road to A \(Global Edition\)](https://open.spotify.com/album/5KjdUUdo3ErrnbM3Tw0iXb) | 2:47 |
+| 49 | [LEVEL UP \- Sam Feldt Remix / Bonus Track](https://open.spotify.com/track/4jCreA0WDZfTX6htUzGg5I) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Road to A \(Global Edition\)](https://open.spotify.com/album/5KjdUUdo3ErrnbM3Tw0iXb) | 2:47 |
+| 50 | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/album/7vGsOpaySuHwzja3LPHjfT) | 3:06 |
 
-Snapshot ID: `MCw1MWVjNTY4MjdkOGY0NmNjZDk1ODcyNWE1OGVmNTM3NDdjYzFlMGJi`
+Snapshot ID: `MCw4YWM4NDg0ZjFmMzhlODIxNGI0MGU3ZjAxYWNhNzMxMThjNmVjZjEx`

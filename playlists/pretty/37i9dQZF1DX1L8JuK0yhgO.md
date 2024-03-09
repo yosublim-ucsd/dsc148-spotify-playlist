@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,501 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,500 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [LASER](https://open.spotify.com/track/3VoPBn2XM7eNulMu2m40pA) | [64DX](https://open.spotify.com/artist/68BRPNjNCEp6Ku8YMnAp2F), [DaXx](https://open.spotify.com/artist/4yR0OT3rxGMzFnjgNeG3HL), [64controll](https://open.spotify.com/artist/6T2kpIGh5xu7ZsXZ02vzPQ) | [LASER](https://open.spotify.com/album/718sjWMBAci0KNHkwkITN7) | 2:11 |
 | 70 | [Crystal](https://open.spotify.com/track/77NlLyX4TCDrggCOI7Vtmt) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Crystal](https://open.spotify.com/album/71mVMiVEsfype5XwCGFkGU) | 2:50 |
 
-Snapshot ID: `MCw0Yzg4YmM5MjhkZTZlZWIwZDg5ODk3MmJhZjA3MmRjOGVlNThhZWQ4`
+Snapshot ID: `MCxkNGQ1NmY0N2E0M2VhY2U1YTllOGU3N2QzNzhmYWY4NDkwNmRmM2Qw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Ajuliacosta, Duquesa, Mc Luanna, iamlope$$, LAI$ROSA",
+  "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Alee",
   "name": "O Drip",
   "tracks": [
     {
@@ -2035,6 +2035,36 @@
     },
     {
       "album": {
+        "name": "DIAS ANTES DO CAOS",
+        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "oson",
+          "url": "https://open.spotify.com/artist/6DNSSxc3DE7NDU1bZPafLH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "DIOR",
+      "url": "https://open.spotify.com/track/5DuoTr0y7FL2FDvn5YQQ3w"
+    },
+    {
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -2144,7 +2174,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 164917,
       "name": "Disritmia",
       "url": "https://open.spotify.com/track/3OcDNaJywe4rKAgFHk3sBA"
@@ -2982,7 +3012,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 105631,
       "name": "FILME MAFIOSO",
       "url": "https://open.spotify.com/track/3jDruglRjyE4P2aIZgtm8Y"
@@ -5462,7 +5492,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 165520,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/57XMBBf2cBh4H6bp1aHdmL"
@@ -6048,10 +6078,36 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 91890,
       "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
       "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170647,
+      "name": "N\u00fameros da Sorte",
+      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
     },
     {
       "album": {
@@ -6810,6 +6866,36 @@
       "duration_ms": 161221,
       "name": "Playboy Preto",
       "url": "https://open.spotify.com/track/6h78CkYMNpGolZwhjBz3i9"
+    },
+    {
+      "album": {
+        "name": "Poder Aquisitivo",
+        "url": "https://open.spotify.com/album/2ESgnOBqnvfeceu4IWWxk2"
+      },
+      "artists": [
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AnjO 005",
+          "url": "https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3"
+        },
+        {
+          "name": "JIRAYA",
+          "url": "https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210048,
+      "name": "Poder Aquisitivo",
+      "url": "https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB"
     },
     {
       "album": {
@@ -8942,6 +9028,32 @@
       "duration_ms": 196056,
       "name": "Yeezy Slide \"FREESTYLE 01\"",
       "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"
+    },
+    {
+      "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/1zsZRGQblJBIK7Bwt0FekC"
+      },
+      "artists": [
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "Buh",
+          "url": "https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v"
+        },
+        {
+          "name": "Liam Fenti",
+          "url": "https://open.spotify.com/artist/1xn0u925Z25C7ZW8FstGRX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169953,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/2YIBqBsce6JkJXnn6loXU2"
     },
     {
       "album": {

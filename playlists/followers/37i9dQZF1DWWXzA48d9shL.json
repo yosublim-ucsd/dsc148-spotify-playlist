@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 572071,
+  "2024-03-09": 572112,
   "date_first_scraped": "2022-01-10",
   "description": "Rap from hell. Cover: Scrim from $uicideboy$",
   "name": "TIRADE",
@@ -6264,6 +6264,28 @@
     },
     {
       "album": {
+        "name": "KILL ALL",
+        "url": "https://open.spotify.com/album/1ece0jN4ViEKMpqcl4ObjO"
+      },
+      "artists": [
+        {
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+        },
+        {
+          "name": "Kill Dyll",
+          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "KILL ALL",
+      "url": "https://open.spotify.com/track/7LsRygBuKonjbIuATZVEgf"
+    },
+    {
+      "album": {
         "name": "KILL EM BODY",
         "url": "https://open.spotify.com/album/39JVRr1HIaU8hzos7mCba3"
       },
@@ -10197,7 +10219,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"

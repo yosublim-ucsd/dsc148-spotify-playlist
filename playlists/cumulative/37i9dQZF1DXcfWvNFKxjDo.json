@@ -2960,10 +2960,36 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 125250,
       "name": "Cette Nuit",
       "url": "https://open.spotify.com/track/6MUBXKHYwVPwrwaZ47gkgH"
+    },
+    {
+      "album": {
+        "name": "Cette Nuit",
+        "url": "https://open.spotify.com/album/3H4AsS6y9tWzmCJ7UdCkvg"
+      },
+      "artists": [
+        {
+          "name": "Dario Rodriguez",
+          "url": "https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv"
+        },
+        {
+          "name": "Ambre Vallet",
+          "url": "https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF"
+        },
+        {
+          "name": "KLEPTO",
+          "url": "https://open.spotify.com/artist/7z1D2CiuB9P0F51HLjo8h1"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125250,
+      "name": "Cette Nuit",
+      "url": "https://open.spotify.com/track/7LkDWtNdibnLYn2mLWsZQW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=H8BU8UdpQx\-w\_ObkZTBumg">Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,450 likes - 91 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,487 likes - 91 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 90 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 |
 | 91 | [Belongs to you](https://open.spotify.com/track/2XNFPtWAxuNuO3vJ0IdaLA) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Belongs to you](https://open.spotify.com/album/2M91mM7OZJtNaeiH8pqa7O) | 2:13 |
 
-Snapshot ID: `MCw5MmUzM2Y4YmU4OWFhNzg5ZmQ3OTRmMTVjODQ0ZGU5MTliMGNkYWE4`
+Snapshot ID: `MCxiMzZmMWI2ZTI2YmVjZmNiOGZkYzJmMTU3ZjM1ODAyZjI5NmI3MTJh`

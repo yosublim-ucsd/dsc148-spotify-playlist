@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 211053,
       "name": "Even Jesus Got The Blues",
       "url": "https://open.spotify.com/track/3O6pwu8y1SGJudoAiLouGy"
@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 261293,
       "name": "Father's S\u00f8n",
       "url": "https://open.spotify.com/track/54a1TosE0ROHGcySrTnRIM"
@@ -3501,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184076,
+      "name": "Gettin' Rich, Goin' Broke",
+      "url": "https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3"
+    },
+    {
+      "album": {
         "name": "Total Freedom",
         "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
       },
@@ -3844,6 +3862,24 @@
       "duration_ms": 220706,
       "name": "Hard Line",
       "url": "https://open.spotify.com/track/1hoambC4hKUiVx4lM7VSIp"
+    },
+    {
+      "album": {
+        "name": "Hard Luck & Circumstances",
+        "url": "https://open.spotify.com/album/2feHLj9w7BcThwGsmBFO1E"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184575,
+      "name": "Hard Luck & Circumstances",
+      "url": "https://open.spotify.com/track/28ejnV7iWD3bIgBXwcTy5k"
     },
     {
       "album": {
@@ -10844,7 +10880,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 225708,
       "name": "Where It's Blue",
       "url": "https://open.spotify.com/track/6i7QP9auNhpIZgPopuXPOm"

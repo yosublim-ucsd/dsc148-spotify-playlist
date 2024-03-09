@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-211 songs - 13 hr 2 min
+213 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Calico](https://open.spotify.com/track/7CCjLo2MrzvWXOepY9PGnA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 3:51 | 2023-09-22 |  |
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2022-03-25 | 2023-12-09 |
 | [Candy Eyes](https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Candy Eyes](https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX) | 2:50 | 2022-03-25 | 2024-02-17 |
-| [Cape Forestier](https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h) | 3:52 | 2024-03-07 |  |
+| [Cape Forestier](https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h) | 3:52 | 2024-03-07 | 2024-03-09 |
+| [Cape Forestier](https://open.spotify.com/track/5koL7879f8j0pvdVGj3vcv) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/0SQR7IYc6zCvSoo31awLMz) | 3:52 | 2024-03-07 |  |
 | [captain's dance with the devil](https://open.spotify.com/track/5S7rqoAt14NRdZxfVNFtNf) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [captain's dance with the devil](https://open.spotify.com/album/53ZUMxyPB12MuCBkcRN5ig) | 2:26 | 2022-03-25 | 2023-09-23 |
 | [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 | 2022-08-25 | 2024-03-01 |
 | [Carry You](https://open.spotify.com/track/6csk7RGrFhxbi6hPwQImPf) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/3DBne1mcu8Glvx5au357Io) | 4:32 | 2022-03-25 | 2022-10-03 |
@@ -124,7 +125,8 @@
 | [Lifetime](https://open.spotify.com/track/6zkRSY91Ly8m2TkcBtH0u9) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 5:05 | 2024-02-16 |  |
 | [Light Years](https://open.spotify.com/track/37h2XJarKWKsd3lLTTIVW4) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Light Years](https://open.spotify.com/album/65FEWUHFBAmL4iPNQoXi2D) | 3:22 | 2022-06-17 | 2024-02-23 |
 | [Light Years](https://open.spotify.com/track/6BXwjlZvAOh5B8yy1kbpwV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Light Years](https://open.spotify.com/album/0KpHeB4Ddk9WuPrwyUuuYN) | 3:22 | 2022-03-25 | 2022-07-29 |
-| [Little Sadness](https://open.spotify.com/track/2XbvBSOmMyCwOcVcJK7UcL) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Little Sadness](https://open.spotify.com/album/4pD4Kemo4z4bwpdzEFg9F0) | 3:40 | 2024-03-07 |  |
+| [Little Sadness](https://open.spotify.com/track/2XbvBSOmMyCwOcVcJK7UcL) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Little Sadness](https://open.spotify.com/album/4pD4Kemo4z4bwpdzEFg9F0) | 3:40 | 2024-03-07 | 2024-03-09 |
+| [Little Sadness](https://open.spotify.com/track/49g1H0rJged6uMSSNWjVPK) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Little Sadness](https://open.spotify.com/album/5x1S070dZjshXHN5bwSPWN) | 3:40 | 2024-03-07 |  |
 | [Madeleine](https://open.spotify.com/track/7CTVIpoQqwCki0Lprz0ez6) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Madeleine](https://open.spotify.com/album/5R0aWhBYvDZmR3bdvEaVtf) | 3:00 | 2022-03-25 | 2024-02-17 |
 | [Making It Through](https://open.spotify.com/track/0qGEFPVwq5NMah8QFbVMkm) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 4:42 | 2024-02-16 |  |
 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 | 2022-03-25 | 2022-10-11 |

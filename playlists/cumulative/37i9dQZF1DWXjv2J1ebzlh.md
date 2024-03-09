@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,221 songs - 6 day 5 hr 19 min
+2,222 songs - 6 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1324,7 +1324,8 @@
 | [Maktoub Lah](https://open.spotify.com/track/38V4lodwlDMyXkfqptHERe) | [Fadoul](https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9) | [Al Zman Saib \(Habibi Funk 002\)](https://open.spotify.com/album/4GmHNGzQyJWr2sFZqvQTyZ) | 6:42 | 2022-10-31 |  |
 | [Maktoub Lah](https://open.spotify.com/track/73GKkROrqXPwKKzbwWHjYo) | [Fadoul](https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9) | [Al Zman Saib \(Habibi Funk 002\)](https://open.spotify.com/album/782K2oVoHhbLwQQ2M7CQWr) | 6:42 | 2022-07-12 | 2022-11-20 |
 | [Mal Élevé](https://open.spotify.com/track/5ZyQtic6gi2BlDdAmVD7Mm) | [Raoul Guillaume Et Son Groupe](https://open.spotify.com/artist/5oNgVj96yALgbbdNXgz7df) | [Haiti Direct \- Big Band, Mini Jazz & Twoubadou Sounds, 1960\-1978](https://open.spotify.com/album/6yabelYFJPpkXf1k0YhwUk) | 3:30 | 2022-06-09 | 2022-07-29 |
-| [Mal Élevé](https://open.spotify.com/track/79jn9hQP9u1uobtxIWDw43) | [Raoul Guillaume Et Son Groupe](https://open.spotify.com/artist/5oNgVj96yALgbbdNXgz7df) | [Haiti Direct \- Big Band, Mini Jazz & Twoubadou Sounds, 1960\-1978](https://open.spotify.com/album/3JIX1Ua9b5UPPsk5ovVg6m) | 3:30 | 2022-07-27 |  |
+| [Mal Élevé](https://open.spotify.com/track/79jn9hQP9u1uobtxIWDw43) | [Raoul Guillaume Et Son Groupe](https://open.spotify.com/artist/5oNgVj96yALgbbdNXgz7df) | [Haiti Direct \- Big Band, Mini Jazz & Twoubadou Sounds, 1960\-1978](https://open.spotify.com/album/3JIX1Ua9b5UPPsk5ovVg6m) | 3:30 | 2022-07-27 | 2024-03-09 |
+| [Mal Élevé](https://open.spotify.com/track/7vBTH6pVuccE3Z8wht7YSb) | [Raoul Guillaume Et Son Groupe](https://open.spotify.com/artist/5oNgVj96yALgbbdNXgz7df) | [Haiti Direct \- Big Band, Mini Jazz & Twoubadou Sounds, 1960\-1978](https://open.spotify.com/album/1YRubOYUmzlQWO9ipFOO9Z) | 3:30 | 2023-11-29 |  |
 | [Malak Ya Saly](https://open.spotify.com/track/02dI8n2MIXOWQkKRTpWO0E) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb) | 6:33 | 2022-07-12 | 2022-11-21 |
 | [Malak Ya Saly](https://open.spotify.com/track/6kbiPVSpEFgJ9MrNnnZ0Xf) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 6:33 | 2022-10-31 |  |
 | [Mali Cuba](https://open.spotify.com/track/7kAzkQJvYvLQMZS77an8Bk) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen) | [AfroCubism](https://open.spotify.com/album/2xeis5rXeObCoxaSVqQd5E) | 5:35 | 2023-10-06 |  |

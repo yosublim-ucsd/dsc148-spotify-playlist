@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate, in 2023.
 
-598 songs - 1 day 10 hr 32 min
+599 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [don't be so hard on yourself](https://open.spotify.com/track/0j69d3zENO7ZVjplwetmQp) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [it's good to hear your voice](https://open.spotify.com/album/5gaYJvbHf1NlOScEQvUSzZ) | 2:25 | 2022-04-29 | 2022-12-24 |
 | [Don't Let Go](https://open.spotify.com/track/70pZfY21iBNQZwSrNgIrKQ) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [Don't Let Go](https://open.spotify.com/album/1zKgeR3Y3VDFq73dLVWeSI) | 2:26 | 2023-03-17 | 2023-10-14 |
 | [Don't Look Back \(feat\. Kotomi & Ryan Elder\) \[From Rick and Morty: Season 4\]](https://open.spotify.com/track/1VbiENVGHwF5Y70Ywotwe1) | [Rick and Morty](https://open.spotify.com/artist/2M0kKcVuBsLFH5d12pW215), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Ryan Elder](https://open.spotify.com/artist/4Pb4bahbtpK9nkdfp4bHgi) | [Don't Look Back \(feat\. Kotomi & Ryan Elder\) \[From Rick and Morty: Season 4\]](https://open.spotify.com/album/36hmo7ODAmoUoLAy2mFa1P) | 3:27 | 2020-06-16 | 2022-01-22 |
+| [Don't Want A Love Song](https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don't Want A Love Song](https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe) | 3:03 | 2024-03-08 |  |
 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2022-06-10 | 2022-08-06 |
 | [Door](https://open.spotify.com/track/0x82ZV6zf2o5tOXIbN0aCF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Door](https://open.spotify.com/album/26gPb1EQQFK1Y0ij5E5rAE) | 5:22 | 2019-06-26 | 2022-07-29 |
 | [Doors To Kick](https://open.spotify.com/track/304031hRDCZEAIItiKxSol) | [Bobby Freemont](https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD), [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2) | [Doors To Kick](https://open.spotify.com/album/7cBQcCvIUy9MP78nK77xDp) | 3:26 | 2021-06-07 | 2023-01-14 |
@@ -555,7 +556,7 @@
 | [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 | 2022-11-25 | 2023-01-06 |
 | [Unkind](https://open.spotify.com/track/7DgW7jnyWYe2iOhwP7Uxog) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Unkind](https://open.spotify.com/album/6t0G0GALHFQGSjnIZOyZp9) | 3:18 | 2020-05-09 | 2022-01-22 |
 | [Up All Night](https://open.spotify.com/track/1MkNcbkKddbuLZq1a8Vx7o) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Up All Night](https://open.spotify.com/album/69q3coTXWa2EuyfCXFBQtz) | 2:57 | 2019-06-26 | 2022-08-20 |
-| [Vacation](https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Vacation](https://open.spotify.com/album/2yyJyMbVCggJxBxTguQdza) | 1:59 | 2022-09-19 |  |
+| [Vacation](https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Vacation](https://open.spotify.com/album/2yyJyMbVCggJxBxTguQdza) | 1:59 | 2022-09-19 | 2024-03-09 |
 | [Val!um](https://open.spotify.com/track/0yXU3XSY2yYs542ksvHLNL) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Val!um](https://open.spotify.com/album/7tCOA660KQ5c83XLJHtRYn) | 3:08 | 2020-02-12 | 2022-04-29 |
 | [Venus](https://open.spotify.com/track/3Ix717qz55IpboW4fz3cyf) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/277iuWreJUuseNVEXN5NrA) | 2:27 | 2023-04-28 | 2023-09-24 |
 | [Venus](https://open.spotify.com/track/4eNGVnQWq6FxBKpKHVRKkH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/0PQMRtZNljTn1i68vJtWO5) | 2:27 | 2023-04-28 |  |

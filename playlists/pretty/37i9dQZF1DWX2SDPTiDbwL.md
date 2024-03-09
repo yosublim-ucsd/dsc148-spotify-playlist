@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,942 likes - 61 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,968 likes - 61 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 36 | [Guitar Suite: I\. —](https://open.spotify.com/track/2PW2GLdLYxkdxUS0jnDFpM) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/1b89KybJIh8S51U48wdUjl) | 9:11 |
 | 37 | [Fragile](https://open.spotify.com/track/1PBV1R2LcU66EpHcrYxWlL) | [Carbe and Durand](https://open.spotify.com/artist/2u0aEnMHFuYP6ljH3lNcnN) | [A Bridge Between](https://open.spotify.com/album/37uKchLHOIox3APBTic8qu) | 5:51 |
 | 38 | [Dust in the Wind](https://open.spotify.com/track/0CrYxqgUeDqKB4CWMRiGJG) | [Pedro Javier González](https://open.spotify.com/artist/2Pj7GhoqwVMNz7Qck7V0XZ) | [Guitarra](https://open.spotify.com/album/2Ky0XoCjZXxzMsPNQxaWrj) | 3:20 |
-| 39 | [Deep Green Moss](https://open.spotify.com/track/5AVkWOBydjuuJSbSP1i30b) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/4q83V4R8vbdJOhLgbOOPCT) | 2:18 |
+| 39 | [Deep Green Moss](https://open.spotify.com/track/42ZrUDiodCYlmOqjgFtgeL) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/1cKukZ9Xf3PP2E4pxz82xd) | 2:18 |
 | 40 | [Corazón De Piedra](https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Corazón De Piedra](https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69) | 2:18 |
 | 41 | [Lozana](https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Lozana](https://open.spotify.com/album/4iHmLYrL4zab3KOyydNKNb) | 2:09 |
 | 42 | [Ojos de las Estrellas](https://open.spotify.com/track/344A5rwFf9gOulZPp06C42) | [Jim Stubblefield Group](https://open.spotify.com/artist/5IVxPvKxyxwoWyF2wrQLcQ) | [Rhythm of the Heart](https://open.spotify.com/album/2DHi5UXErkRa6Wvbd9Dvtk) | 5:36 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 60 | [Flowers of Genzano](https://open.spotify.com/track/7AFWXDnyopsDfGcdkRMtLZ) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/7ApW1Ydp8x4ZcApid1rNMy) | 3:32 |
 | 61 | [Bulerias](https://open.spotify.com/track/4ceIfkeFDxkmPF7uwcsd41) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 3:03 |
 
-Snapshot ID: `MCxkMzY4YjNmMTg5MzliNDgzNTdjNmMxYjAzOTBjNTFlN2M2ZjEyNGE2`
+Snapshot ID: `MCwyMDJmY2FiYjYxN2Q0OGMzMTM0NDYxNjg4ZTE2YzcxM2I5NDgxNjA2`

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57172,
+  "num_followers": 57182,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGM5ODNjMzc3NTUwNGY0YmVkMDdiMDZiODQ1NjYzM2IwNmQ3M2Jm",
+  "snapshot_id": "MCw4ZGRmZmFkNzljMDU1NzUwZDI1N2UyY2M0OTQ4MjRlM2JhNzFjYzZk",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -165,6 +165,26 @@
       "url": "https://open.spotify.com/track/1VnsZvkBpSb5oy5Q6BJESm"
     },
     {
+      "added_at": "2024-03-08 20:31:24",
+      "album": {
+        "name": "Kole Kole (From \"Ronny - The Ruler\")",
+        "url": "https://open.spotify.com/album/4YuSAqhtbhAglYE4Umzpii"
+      },
+      "artists": [
+        {
+          "name": "Vinayak Tukarama Kottary",
+          "url": "https://open.spotify.com/artist/1WoDsDTfwQXWDrzrevEfyd"
+        },
+        {
+          "name": "Mohan Kumar N",
+          "url": "https://open.spotify.com/artist/6IHdeveUdgaHWaYxYlbDIe"
+        }
+      ],
+      "duration_ms": 250071,
+      "name": "Kole Kole (From \"Ronny - The Ruler\")",
+      "url": "https://open.spotify.com/track/1WazpE5QqkqnGzHL5d0uyA"
+    },
+    {
       "added_at": "2024-03-04 11:32:38",
       "album": {
         "name": "Mehabooba Title Track (From \"Mehabooba\") - Single",
@@ -220,8 +240,8 @@
       },
       "artists": [
         {
-          "name": "Malu Nipanal",
-          "url": "https://open.spotify.com/artist/3qN5c8CnwDRdi0a7YY0Hfe"
+          "name": "Malu Nipanal Singer",
+          "url": "https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx"
         },
         {
           "name": "Shruthi Prahlada",
@@ -691,30 +711,6 @@
       "duration_ms": 212655,
       "name": "Mookanaagabeku (from \"Ondu Sarala Prema Kathe\")",
       "url": "https://open.spotify.com/track/7aEDig2vM0byzFFjFrofvW"
-    },
-    {
-      "added_at": "2024-02-05 05:56:29",
-      "album": {
-        "name": "Babu (No.1 Bullshit Guy) - Tamil",
-        "url": "https://open.spotify.com/album/0oibpTUaeSE7AOBxpRsSX0"
-      },
-      "artists": [
-        {
-          "name": "Pavan",
-          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
-        },
-        {
-          "name": "Shivam",
-          "url": "https://open.spotify.com/artist/4XJbBF8I2RxG9RNWTdYyon"
-        },
-        {
-          "name": "Madhurakavi",
-          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
-        }
-      ],
-      "duration_ms": 174797,
-      "name": "Babu (No.1 Bullshit Guy) Title Song",
-      "url": "https://open.spotify.com/track/7uqywamyCdTjAIxfw8AZgH"
     },
     {
       "added_at": "2024-02-12 11:58:12",

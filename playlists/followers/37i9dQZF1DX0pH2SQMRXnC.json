@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 1279542,
+  "2024-03-09": 1279811,
   "date_first_scraped": "2021-12-21",
   "description": "Only the biggest Hardstyle tracks!",
   "name": "Hardstyle Bangers",
@@ -2798,6 +2798,32 @@
     },
     {
       "album": {
+        "name": "Devastation",
+        "url": "https://open.spotify.com/album/59y5puJ5lKe23mXOGd5AbC"
+      },
+      "artists": [
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Devastation",
+      "url": "https://open.spotify.com/track/6zl6FaXnnUPkQvZoIvK0jc"
+    },
+    {
+      "album": {
         "name": "Dia De Los Muertos",
         "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
       },
@@ -4758,6 +4784,32 @@
     },
     {
       "album": {
+        "name": "Free (feat. Starsplash)",
+        "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Charly Lownoise",
+          "url": "https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W"
+        },
+        {
+          "name": "Starsplash",
+          "url": "https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Free (feat. Starsplash)",
+      "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
+    },
+    {
+      "album": {
         "name": "Free Fall",
         "url": "https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS"
       },
@@ -5271,7 +5323,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 188991,
       "name": "HALO",
       "url": "https://open.spotify.com/track/4R7k9w4XBSYSUhlmXFr4xm"
@@ -6559,7 +6611,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 174603,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/3FNx300XZ4FRDRYO7KlxNH"
@@ -7451,7 +7503,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 140000,
       "name": "Lift Me Up - Hard Mix",
       "url": "https://open.spotify.com/track/7t0KwFT5N5r1cFJloJAHGn"
@@ -7491,7 +7543,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 240822,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/228GIuoRODM4m1K2vcucvN"
@@ -7879,7 +7931,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 208937,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk"
@@ -8003,6 +8055,28 @@
       "duration_ms": 182709,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/6dY252zE6zlcsVk0ozMsmh"
+    },
+    {
+      "album": {
+        "name": "Maze Of Memories (Reverze Anthem 2024)",
+        "url": "https://open.spotify.com/album/1DpRBARXbd4YtGbnuOD9NT"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273273,
+      "name": "Maze Of Memories - Reverze Anthem 2024",
+      "url": "https://open.spotify.com/track/7hG04m8ODWqF5abbbX74ge"
     },
     {
       "album": {
@@ -11820,6 +11894,24 @@
     },
     {
       "album": {
+        "name": "Still Waiting",
+        "url": "https://open.spotify.com/album/1uJjGjQoX3bHNVcIU1raQM"
+      },
+      "artists": [
+        {
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/7ln4etuGQORCIq0MswsAyo"
+    },
+    {
+      "album": {
         "name": "Stop the Time",
         "url": "https://open.spotify.com/album/7MEWDIupZlzznyiH3aMH7L"
       },
@@ -12423,6 +12515,32 @@
       "duration_ms": 216774,
       "name": "Techno Syndrome (Mortal Kombat)",
       "url": "https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL"
+    },
+    {
+      "album": {
+        "name": "Temporary High",
+        "url": "https://open.spotify.com/album/6Sc1ya2ilJP2zOLXcdAAqP"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Blademasterz",
+          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
+        },
+        {
+          "name": "PRISKA",
+          "url": "https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167635,
+      "name": "Temporary High",
+      "url": "https://open.spotify.com/track/7rFFaaqzFqJNaNsILMOY24"
     },
     {
       "album": {

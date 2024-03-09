@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Ananda, Supercombo",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Ariah",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 247313,
       "name": "3x4",
       "url": "https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB"
+    },
+    {
+      "album": {
+        "name": "8 Ou 80",
+        "url": "https://open.spotify.com/album/0b3JIdj9r4N7QE8DEZaVII"
+      },
+      "artists": [
+        {
+          "name": "Ariah",
+          "url": "https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149653,
+      "name": "8 Ou 80",
+      "url": "https://open.spotify.com/track/6SsCiwzgVuKaGHtZXzpUD7"
     },
     {
       "album": {
@@ -4838,7 +4856,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 81933,
       "name": "NINGU\u00c9M SEGURA A GENTE",
       "url": "https://open.spotify.com/track/1IY7R5UlUoBnntviHe1Iyx"
@@ -6534,7 +6552,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 151642,
       "name": "Rem\u00e9dios",
       "url": "https://open.spotify.com/track/3MXugNQaPFyMhvFFpXq6JK"
@@ -7513,6 +7531,24 @@
     },
     {
       "album": {
+        "name": "Teoria",
+        "url": "https://open.spotify.com/album/3QrGBgooYRaA0XYQQJH1Yf"
+      },
+      "artists": [
+        {
+          "name": "The M\u00f6nic",
+          "url": "https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113547,
+      "name": "Teoria",
+      "url": "https://open.spotify.com/track/5ZzUvhcOhtN4tZNoipJ7WW"
+    },
+    {
+      "album": {
         "name": "The Pretender",
         "url": "https://open.spotify.com/album/5yWFXP10H3JZ27grcXe4DQ"
       },
@@ -7582,6 +7618,24 @@
       "duration_ms": 220687,
       "name": "Todo Dia \u00e9 Dia de Comemorar - Ao Vivo Quando A Terra Era Redonda",
       "url": "https://open.spotify.com/track/2FgMoBbrgy2hzetNNrbbXz"
+    },
+    {
+      "album": {
+        "name": "Todo Esse Querer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199201,
+      "name": "Todo Esse Querer - Ao Vivo",
+      "url": "https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O"
     },
     {
       "album": {
@@ -7668,7 +7722,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 154243,
       "name": "Trisal",
       "url": "https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY"

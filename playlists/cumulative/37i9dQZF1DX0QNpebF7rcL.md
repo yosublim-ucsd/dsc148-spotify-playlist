@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-354 songs - 23 hr 50 min
+356 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Animal In Me](https://open.spotify.com/track/0FIeSr04FRgHFAQsDDlaqo) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Animal In Me](https://open.spotify.com/album/7DGUiEkagecwFnpucvxKAj) | 2:54 | 2023-09-08 |  |
 | [As The Crow Flies](https://open.spotify.com/track/4RYAAiseMDi3NlWooNNdIz) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Open Road](https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV) | 4:25 | 2021-11-05 | 2023-08-05 |
 | [Baby We're Through](https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Baby We're Through](https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU) | 3:56 | 2022-02-25 | 2022-05-28 |
-| [Backbone Slip](https://open.spotify.com/track/0SeprpfgKltu37wRFpsDif) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Backbone Slip](https://open.spotify.com/album/1V7Sy4Jpilm8EGjpyGrM5f) | 4:19 | 2024-02-16 |  |
+| [Backbone Slip](https://open.spotify.com/track/0SeprpfgKltu37wRFpsDif) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Backbone Slip](https://open.spotify.com/album/1V7Sy4Jpilm8EGjpyGrM5f) | 4:19 | 2024-02-16 | 2024-03-09 |
 | [Bad Man](https://open.spotify.com/track/3YvsPZ2najCeA2yao47eKa) | [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) | [Bad Man](https://open.spotify.com/album/0PshEpATig6xpoqCOnQ8fg) | 4:39 | 2022-03-25 |  |
 | [Bad Woman Blues](https://open.spotify.com/track/0rw2FKykg4yKVbt7XelcwC) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [War In My Mind](https://open.spotify.com/album/3yDiN64DXyOgZSJ5oR6o7S) | 3:35 | 2020-12-14 | 2022-02-26 |
 | [Ball of Fire](https://open.spotify.com/track/3mtfFRcdAeHrrVnxbWpmI2) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [No More Worlds to Conquer](https://open.spotify.com/album/5RCGjONsYrTcNJpRjd27eL) | 3:51 | 2022-04-29 | 2023-08-19 |
@@ -100,6 +100,7 @@
 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 | 2021-10-08 | 2023-03-04 |
 | [Friendship](https://open.spotify.com/track/5tzYjX0mtDHks2utIpNWIF) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Friendship](https://open.spotify.com/album/0LqOdFRh3OrbyAEcpVVN0V) | 4:10 | 2023-06-16 | 2023-07-22 |
 | [Full Moon, Half Crazy](https://open.spotify.com/track/2mH1duZvwv83ft7fV56Y3z) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Full Moon, Half Crazy](https://open.spotify.com/album/4jaqIASmnRVNEpK54iXLyB) | 3:21 | 2021-08-20 | 2022-02-26 |
+| [Funky Music](https://open.spotify.com/track/640wmLH8Gum9QbtadiRL1H) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Funky Music](https://open.spotify.com/album/596i4DpXq6GdoZnFGZp0hp) | 4:10 | 2024-03-08 |  |
 | [Further](https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3) | [Dwight & Nicole](https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0) | [Further](https://open.spotify.com/album/5YU8wpgoWdOkiRrjuJCeNo) | 2:57 | 2021-10-08 | 2023-06-17 |
 | [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 | 2023-01-06 | 2023-09-16 |
 | [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 | 2022-04-29 | 2022-06-11 |
@@ -200,6 +201,7 @@
 | [Make Me Feel Alright](https://open.spotify.com/track/6m8QC3Gs7MAQJDQdFGjdme) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:43 | 2021-05-21 | 2022-06-04 |
 | [Malahani](https://open.spotify.com/track/0cW9utrnFumH3YpcBNVAYC) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 3:59 | 2023-03-10 | 2023-11-03 |
 | [Malahani](https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 3:59 | 2023-03-10 |  |
+| [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 | 2024-03-08 |  |
 | [Me And My Guitar](https://open.spotify.com/track/22Qh6AHPrwzgSzKFnaZZTr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:23 | 2020-12-14 | 2022-02-26 |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2021-10-29 | 2023-05-20 |
 | [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 | 2021-07-16 | 2022-11-24 |

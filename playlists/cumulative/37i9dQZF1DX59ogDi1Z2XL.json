@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Connor Price & Haviah Mighty",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Eva Shaw & DijahSB",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -606,6 +606,24 @@
       "duration_ms": 164938,
       "name": "555",
       "url": "https://open.spotify.com/track/5SSxXfqSqIyzWh7TYtOht1"
+    },
+    {
+      "album": {
+        "name": "6 mois",
+        "url": "https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202247,
+      "name": "6 mois",
+      "url": "https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t"
     },
     {
       "album": {
@@ -1253,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "ALL CAPS",
+        "url": "https://open.spotify.com/album/3ZakXqOyS8yXnCRbOsckK6"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128677,
+      "name": "ALL CAPS",
+      "url": "https://open.spotify.com/track/1pFJYserM8fThLZ5b3kl0N"
+    },
+    {
+      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/6Tjiq3iq7dcZ9S7ubbeyXM"
       },
@@ -1582,6 +1618,24 @@
       "duration_ms": 191861,
       "name": "American Nightmare",
       "url": "https://open.spotify.com/track/0kyZKb0LRPwfYprxGiqaV5"
+    },
+    {
+      "album": {
+        "name": "AMPHETAMINE MAN",
+        "url": "https://open.spotify.com/album/5RVeJSpI1w6LkrJTgjG6Q4"
+      },
+      "artists": [
+        {
+          "name": "Francesca Wexler",
+          "url": "https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140914,
+      "name": "AMPHETAMINE MAN",
+      "url": "https://open.spotify.com/track/3yTzDMqC9X1vUDTJJAnHTS"
     },
     {
       "album": {
@@ -2006,6 +2060,10 @@
         {
           "name": "DijahSB",
           "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Mina Lioness",
+          "url": "https://open.spotify.com/artist/7sFEp8jxrSyhj7sdVfuMPR"
         }
       ],
       "date_added": "2023-11-17",
@@ -3130,7 +3188,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 209523,
       "name": "Black For Green",
       "url": "https://open.spotify.com/track/3kOERXpPLWxPEag0cpKu4b"
@@ -3836,7 +3894,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 167641,
       "name": "BUSINESS CLASS",
       "url": "https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1"
@@ -5510,6 +5568,24 @@
       "duration_ms": 170298,
       "name": "DAMN RIGHT",
       "url": "https://open.spotify.com/track/3qsMusRYrSX3N6gR8jpnHU"
+    },
+    {
+      "album": {
+        "name": "Damn Sure",
+        "url": "https://open.spotify.com/album/4KFbkLGyNbgLL5YsamCAsx"
+      },
+      "artists": [
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161627,
+      "name": "Damn Sure",
+      "url": "https://open.spotify.com/track/1gYVhjMKDky9rOLeHXMg9y"
     },
     {
       "album": {
@@ -8963,6 +9039,28 @@
     },
     {
       "album": {
+        "name": "Get Back Up (feat. Fridayy)",
+        "url": "https://open.spotify.com/album/03FVqPZIjsv02LISaEBP29"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148801,
+      "name": "Get Back Up (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/5TOUaxJ6DVUYAA1OivsH1v"
+    },
+    {
+      "album": {
         "name": "Get Drunk",
         "url": "https://open.spotify.com/album/59Ib2wTfa41HM6SN6yBhgi"
       },
@@ -9232,7 +9330,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 125538,
       "name": "GLEE",
       "url": "https://open.spotify.com/track/02sSQjG0CFVM829FuGURB0"
@@ -13471,6 +13569,28 @@
     },
     {
       "album": {
+        "name": "BAKIN SOUL",
+        "url": "https://open.spotify.com/album/6a2Y9BYoJFkcDs0SwxZ4bm"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168978,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/3Tepsl8CqNWu5N8lqHvYdH"
+    },
+    {
+      "album": {
         "name": "I HOPE YOU'RE HAPPY",
         "url": "https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p"
       },
@@ -16404,7 +16524,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 205834,
       "name": "NO EMOTION / ADRENALINE",
       "url": "https://open.spotify.com/track/6Kv0nSSKP1GxJsZCCh3DrM"
@@ -17412,7 +17532,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 200720,
       "name": "On & On",
       "url": "https://open.spotify.com/track/1e7UBMdqcr3WqSBmDMk5YI"
@@ -20937,6 +21057,28 @@
     },
     {
       "album": {
+        "name": "RVPTVRE",
+        "url": "https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "RVPTVRE",
+      "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
+    },
+    {
+      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/3kH7ydR4ZC5c4ITNYxP8be"
       },
@@ -22188,7 +22330,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 117791,
       "name": "Stand On Business",
       "url": "https://open.spotify.com/track/7IAN3EmMNtK4ofh3eXekem"
@@ -23077,6 +23219,28 @@
     },
     {
       "album": {
+        "name": "Sure Enough",
+        "url": "https://open.spotify.com/album/0V67OpEYjaqlnRz50LsuDY"
+      },
+      "artists": [
+        {
+          "name": "Classified",
+          "url": "https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189498,
+      "name": "Sure Enough",
+      "url": "https://open.spotify.com/track/5WRZSiEsDtxzHbxfkXLfyi"
+    },
+    {
+      "album": {
         "name": "SURF",
         "url": "https://open.spotify.com/album/0bgXiSEnh5IlhmpSp620cO"
       },
@@ -23860,7 +24024,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 171267,
       "name": "The Hardy Boyds",
       "url": "https://open.spotify.com/track/3gqf9Pc6F65TUGnNOACAdB"
@@ -24064,7 +24228,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 221123,
       "name": "The Pure",
       "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
@@ -25836,7 +26000,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 180400,
       "name": "W Hotel (feat. Toosii)",
       "url": "https://open.spotify.com/track/5y0ZkrwaaXuTrW3Sbo4UI3"
@@ -27502,6 +27666,28 @@
       "duration_ms": 143341,
       "name": "Yuck",
       "url": "https://open.spotify.com/track/5xiYbj0gQNY3VyUpgo5s5K"
+    },
+    {
+      "album": {
+        "name": "Yuck Freestyle",
+        "url": "https://open.spotify.com/album/1KAO2EF40fFZxiURcxg36B"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180779,
+      "name": "Yuck Freestyle",
+      "url": "https://open.spotify.com/track/3ghsizSguSJxscu862JKry"
     },
     {
       "album": {

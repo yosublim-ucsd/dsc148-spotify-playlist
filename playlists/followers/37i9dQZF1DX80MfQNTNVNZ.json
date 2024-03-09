@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 175497,
+  "2024-03-09": 175580,
   "date_first_scraped": "2021-12-30",
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
   "name": "aloe",
@@ -1463,7 +1463,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 202204,
       "name": "Charge It Remix (feat. Smino)",
       "url": "https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS"
@@ -9283,6 +9283,28 @@
       "duration_ms": 224459,
       "name": "Woof - Kan Sano Remix",
       "url": "https://open.spotify.com/track/1Lx9LCHfi0UZ9faIyjCGa2"
+    },
+    {
+      "album": {
+        "name": "Work This Out",
+        "url": "https://open.spotify.com/album/6vb6Zec5YfjXBcizesC5yh"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178120,
+      "name": "Work This Out",
+      "url": "https://open.spotify.com/track/3VymabYos1p2fXzmk0cPKg"
     },
     {
       "album": {

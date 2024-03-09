@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiaguinho, Sorriso Maroto",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Presen\u00e7a",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -584,7 +584,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 572153,
       "name": "Eu Sei de Cor / Bem Pior Que Eu / Caso Indefinido / Notifica\u00e7\u00e3o Preferida / Nem \u00c9 Bom Lembrar - Ao Vivo",
       "url": "https://open.spotify.com/track/1mNoQIdkoiczA3XQB2TU3X"
@@ -632,6 +632,24 @@
       "duration_ms": 405154,
       "name": "Eu Vacilei / Preciso Viver / Na Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/3oLdEjZm0x46ycfdlRPYuX"
+    },
+    {
+      "album": {
+        "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331794,
+      "name": "Evid\u00eancias / Cara de Pau / Ela \u00c9 Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/5hciC7UYwDOMwBNbsCiMDl"
     },
     {
       "album": {
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 392302,
       "name": "Papo Furado / Quero Mais / Hist\u00f3ria de Cinema / Amor Eterno",
       "url": "https://open.spotify.com/track/2GfhSjgfkG601z4BLXnzNn"
@@ -1529,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327805,
+      "name": "Ref\u00e9m / Trov\u00e3o / Cansei de Farra - Ao Vivo",
+      "url": "https://open.spotify.com/track/78yISFDMff0e2JHdteBGhc"
+    },
+    {
+      "album": {
         "name": "Reinventar / Alucinado / Dorme Com Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/7amg22TylDWw2fC8XRAJIP"
       },
@@ -1704,7 +1740,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 271835,
       "name": "Sos Paix\u00e3o / Ex Namorada / Melhor Amiga da Minha Namorada - Ao Vivo",
       "url": "https://open.spotify.com/track/0r6UTnQUk4cbvPDnHuXphH"
@@ -1744,6 +1780,28 @@
       "duration_ms": 360815,
       "name": "Supera / Luz das Estrelas / Ainda \u00c9 Cedo pra Dizer Bye Bye / Desafio - Ao Vivo",
       "url": "https://open.spotify.com/track/00kVj18BmiLmiB8PUJWZ4G"
+    },
+    {
+      "album": {
+        "name": "Teu Sorriso / Faz Assim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7gg26wn6MAavECjumqq5lT"
+      },
+      "artists": [
+        {
+          "name": "T\u00f4 Te Querendo",
+          "url": "https://open.spotify.com/artist/01ZKmMOqWTXJaqXVvso7U5"
+        },
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227058,
+      "name": "Teu Sorriso / Faz Assim - Ao Vivo",
+      "url": "https://open.spotify.com/track/33vdVK4ypFiF8MvWyig5Lb"
     },
     {
       "album": {

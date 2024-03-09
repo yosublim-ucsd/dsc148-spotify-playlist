@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 60252,
+  "2024-03-09": 60256,
   "date_first_scraped": "2023-07-11",
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
   "name": "This Is N\u00edvea Soares",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 508432,
       "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
       "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 346128,
       "name": "Deus do Imposs\u00edvel, YAHWEH - Ao Vivo",
       "url": "https://open.spotify.com/track/22xPTz1KSuxHCwIcKVmAtl"

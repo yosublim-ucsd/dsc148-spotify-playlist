@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Il meglio del rap napoletano\. JELECROIS in cover\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,706 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,792 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 | 50 | [Realness](https://open.spotify.com/track/7bq0EaS7UDPUQGQTx0jeHn) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Realness](https://open.spotify.com/album/6WvpHmaySTeQGPLhRrVAiq) | 2:18 |
 
-Snapshot ID: `MCwyMDc4N2ZkMzEyMmE5NzQxNmEwMTQ4ZDlmZWNjYWVmOTViNzQ0ZjI0`
+Snapshot ID: `MCwwMWM1M2E0NmM3ZDM3MWYxNjcyZjc3ZjhkMDgwNGQyNjRhMDQ3YzIy`

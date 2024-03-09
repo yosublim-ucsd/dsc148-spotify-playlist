@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
-  "num_followers": 81452,
+  "num_followers": 81488,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWJhMmJiZTFiNGNlNDhjNTBlNGZlYmQzN2I0OWQwY2RmZTQxYWE0",
+  "snapshot_id": "MCw2YzlmMjRiYjU5ZTViMTRkZGYxYzFlM2IzNDJlNTFiODQxNmJhMzAx",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 183042,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "La Mudanza",
         "url": "https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl"
       },
@@ -1067,26 +1083,6 @@
       "duration_ms": 165586,
       "name": "Amor En Cuarentena",
       "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Trebol (II)",
-        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
-      },
-      "artists": [
-        {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        },
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 84558,
-      "name": "Aunque Me Cueste La Vida",
-      "url": "https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz"
     }
   ],
   "unique_name": "Lento.",

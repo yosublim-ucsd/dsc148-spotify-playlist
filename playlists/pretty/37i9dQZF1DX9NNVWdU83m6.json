@@ -1,13 +1,29 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 50660,
+  "num_followers": 50684,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTc4ZWU1M2Q4NWZhZDU4OTQ5NDY4NjY2MDRkNzc3Yzk3YTNiMGQ1",
+  "snapshot_id": "MCwwMWZhMjU2OTUwYTI2ZmJmM2ExZGI3MmFhNzRlNDQyZDUyMWI4NWFk",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Notbad",
+        "url": "https://open.spotify.com/album/6ysbCFN1LoILYOj5Y46yVb"
+      },
+      "artists": [
+        {
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        }
+      ],
+      "duration_ms": 249044,
+      "name": "Notbad",
+      "url": "https://open.spotify.com/track/2BRWFZdMZpWdEcS13RmVoB"
+    },
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {

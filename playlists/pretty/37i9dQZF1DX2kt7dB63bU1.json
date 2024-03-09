@@ -1,13 +1,61 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 137391,
+  "num_followers": 137439,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmEzNDg2MWUwNTYwZDRmZTExMTA4ZWUwYTdjYWQ4YWY3NDQwYjQx",
+  "snapshot_id": "MCwyZTMwZTM1ZmJmY2ZlNzRhYWIwNjVjOGU3ZDBjYzk3ZmMwMmNmNWY4",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "There Goes",
+        "url": "https://open.spotify.com/album/2ONlDZeDWomJwN52C7xonr"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 271263,
+      "name": "There Goes",
+      "url": "https://open.spotify.com/track/59AiOQODuznd7cayIRelBv"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "\u00e0 Fleur de Peau",
+        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "duration_ms": 258900,
+      "name": "Inside and Out",
+      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
+    },
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
@@ -693,26 +741,6 @@
       "url": "https://open.spotify.com/track/3Pc4kc5VGyzopInhgthkpR"
     },
     {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "September in the Rain",
-        "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 248862,
-      "name": "September In The Rain",
-      "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
-    },
-    {
       "added_at": "2023-09-08 04:01:00",
       "album": {
         "name": "The Big Time (Studio Cast Recording)",
@@ -1095,22 +1123,6 @@
       "duration_ms": 295745,
       "name": "The Heart Speaks (Antes E Depois)",
       "url": "https://open.spotify.com/track/4yUZufuzpvYysMDheYOIkq"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1663,38 +1675,6 @@
       "duration_ms": 285602,
       "name": "Lonely House",
       "url": "https://open.spotify.com/track/39htlA0YRdydszy3Hnhjrt"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "One Day, Forever",
-        "url": "https://open.spotify.com/album/4UIz8ZkbKx0S4XjLUhqOiV"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        },
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        },
-        {
-          "name": "Mulgrew Miller",
-          "url": "https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Carl Allen",
-          "url": "https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n"
-        }
-      ],
-      "duration_ms": 308192,
-      "name": "One Day, Forever",
-      "url": "https://open.spotify.com/track/4eHwXOVp2HX7e4ZI8CSl06"
     },
     {
       "added_at": "2022-11-11 04:00:00",

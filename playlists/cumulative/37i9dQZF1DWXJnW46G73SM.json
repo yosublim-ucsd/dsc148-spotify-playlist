@@ -8051,6 +8051,32 @@
     },
     {
       "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/5YTRFyWsYL3EVuzBwL3bFT"
+      },
+      "artists": [
+        {
+          "name": "DJ Totti",
+          "url": "https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda"
+        },
+        {
+          "name": "Hany El Dakkak",
+          "url": "https://open.spotify.com/artist/3lkpsAecG5PLOzsanTmfvo"
+        },
+        {
+          "name": "Ghalia Benali",
+          "url": "https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177241,
+      "name": "Mesh 3ayez W Man7ebesh",
+      "url": "https://open.spotify.com/track/2EsI3L6gZA9j2TPtLjTzKc"
+    },
+    {
+      "album": {
         "name": "Mesh Hategy (feat. Abo El Anwar)",
         "url": "https://open.spotify.com/album/6IVMIrWOyWsjfLXBATH3Jb"
       },
@@ -14980,6 +15006,24 @@
       "duration_ms": 258000,
       "name": "\u0643\u0627\u0646 \u0644\u064a\u0627 \u062d\u0628\u0627\u064a\u0628",
       "url": "https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0627\u0646 \u064a\u0627\u0645\u0627 \u0643\u0627\u0646",
+        "url": "https://open.spotify.com/album/0HqJNj4BLxv28jhxZud7m0"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Ehab",
+          "url": "https://open.spotify.com/artist/3P9Etdmy2JoRlvlelYxZVl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213616,
+      "name": "\u0643\u0627\u0646 \u064a\u0627\u0645\u0627 \u0643\u0627\u0646",
+      "url": "https://open.spotify.com/track/0U7LKLwPwAoRK5vF6CxY9I"
     },
     {
       "album": {

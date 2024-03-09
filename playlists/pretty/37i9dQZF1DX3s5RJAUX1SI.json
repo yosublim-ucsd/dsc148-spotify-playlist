@@ -1,12 +1,12 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 126101,
+  "num_followers": 126223,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDc3NzFiNWZhYTI2ZTk5M2VmM2EzN2ExMTk1OTJiOTIzMTEzNDY2",
+  "snapshot_id": "MCw2NGEwZTBmZTNhN2E4YmJlY2NiMjQ2OWRiNmQyNWUxOTA4ODhkYWQ0",
   "tracks": [
     {
       "added_at": "2023-08-08 23:46:08",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 173080,
       "name": "Un Mill\u00f3n de Primaveras",
       "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Hombre Afortunado",
-        "url": "https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V"
-      },
-      "artists": [
-        {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Qui\u00e9n Te Entiende",
-      "url": "https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Lo Mejor De Nosotros",
         "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 260829,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Hombre Afortunado",
+        "url": "https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V"
+      },
+      "artists": [
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Qui\u00e9n Te Entiende",
+      "url": "https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Juegos Del Amor",
         "url": "https://open.spotify.com/album/3nTnHOWSEuQnXGfppEEQ3R"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 216000,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/7IIYeNjeZBJaZfDBIcJlAm"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 164720,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 195117,
       "name": "Inventame - En Vivo",
       "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 164720,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+        "name": "Antonio Aguilar",
+        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 165506,
-      "name": "\u00a1Qu\u00e9 Va!",
-      "url": "https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc"
+      "duration_ms": 191483,
+      "name": "Ya Viene Amaneciendo",
+      "url": "https://open.spotify.com/track/7mSAko5rYKEaU3jaeAk4ZG"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Antonio Aguilar",
-        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 191483,
-      "name": "Ya Viene Amaneciendo",
-      "url": "https://open.spotify.com/track/7mSAko5rYKEaU3jaeAk4ZG"
+      "duration_ms": 165506,
+      "name": "\u00a1Qu\u00e9 Va!",
+      "url": "https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Te Llegar\u00e1 Mi Olvido",
-        "url": "https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ"
+        "name": "El Charro de M\u00e9xico",
+        "url": "https://open.spotify.com/album/4O87qGykYzHA5dk9PjLJnm"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 137866,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/3gTeuKp97kY5JAtERKfaIp"
+      "duration_ms": 194218,
+      "name": "El Aventurero (Yo El Aventurero)",
+      "url": "https://open.spotify.com/track/4v0CTkZMtlTrFSjNaD4Y27"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "El Charro de M\u00e9xico",
-        "url": "https://open.spotify.com/album/4O87qGykYzHA5dk9PjLJnm"
+        "name": "Te Llegar\u00e1 Mi Olvido",
+        "url": "https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 194218,
-      "name": "El Aventurero (Yo El Aventurero)",
-      "url": "https://open.spotify.com/track/4v0CTkZMtlTrFSjNaD4Y27"
+      "duration_ms": 137866,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/3gTeuKp97kY5JAtERKfaIp"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Estela Nu\u00f1ez... Sus Primeras E Inolvidables Grabaciones",
-        "url": "https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode"
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
       "artists": [
         {
-          "name": "Estela Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 233293,
-      "name": "Una L\u00e1grima (Una Lacrima)",
-      "url": "https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY"
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+        "name": "Estela Nu\u00f1ez... Sus Primeras E Inolvidables Grabaciones",
+        "url": "https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode"
       },
       "artists": [
         {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+          "name": "Estela Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0"
         }
       ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
+      "duration_ms": 233293,
+      "name": "Una L\u00e1grima (Una Lacrima)",
+      "url": "https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY"
     },
     {
       "added_at": "2023-08-08 23:46:08",

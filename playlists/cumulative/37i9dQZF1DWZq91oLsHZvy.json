@@ -770,7 +770,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 224773,
       "name": "Cannons",
       "url": "https://open.spotify.com/track/1tgLMyNVmgtLJcOfE0wbyJ"
@@ -2787,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "Let\u2019s keep it in the family",
+        "url": "https://open.spotify.com/album/0qhbLNl6p4kK3wb1gG6KnZ"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "ohmygod",
+      "url": "https://open.spotify.com/track/3EB4t4qPtUB46Dn9OaUvlk"
+    },
+    {
+      "album": {
         "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 174708,
       "name": "Redlight (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/4uTNk3wbViJoxwndrE6wqj"
@@ -3272,6 +3290,24 @@
       "duration_ms": 201080,
       "name": "Shooting Up Sunshine",
       "url": "https://open.spotify.com/track/2w7PDaxcHlBdy6AMJIrvp9"
+    },
+    {
+      "album": {
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280016,
+      "name": "Showtime",
+      "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
     },
     {
       "album": {

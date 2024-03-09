@@ -30865,6 +30865,24 @@
     },
     {
       "album": {
+        "name": "Praise Him",
+        "url": "https://open.spotify.com/album/2z6fQETg6izi0hTh7wlP7t"
+      },
+      "artists": [
+        {
+          "name": "Miracle V",
+          "url": "https://open.spotify.com/artist/2KkZT2Y0mlbVL1DuF18AdQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258532,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/5ODtZk0I6Z2IuskUQmXTi9"
+    },
+    {
+      "album": {
         "name": "Praise His Name",
         "url": "https://open.spotify.com/album/2E7QgMYaaqOjKwyg1dIeIL"
       },

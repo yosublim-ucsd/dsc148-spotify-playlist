@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 160686,
+  "2024-03-09": 160751,
   "date_first_scraped": "2022-05-01",
   "description": "Soundtrack your cozy dinner with bossa nova jazz.",
   "name": "Bossa Nova Dinner",
@@ -309,6 +309,24 @@
       "duration_ms": 270868,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/521g9IAwMmDwXsjWNNmEV5"
+    },
+    {
+      "album": {
+        "name": "Beatriz",
+        "url": "https://open.spotify.com/album/76KMP8gBAdDM04PCSvmXnW"
+      },
+      "artists": [
+        {
+          "name": "The Cloud",
+          "url": "https://open.spotify.com/artist/5XxGygPJsu9sVpxe4R97k9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227678,
+      "name": "Beatriz",
+      "url": "https://open.spotify.com/track/6LyuSgzToMUYVf6ebce8CJ"
     },
     {
       "album": {
@@ -637,6 +655,24 @@
       "duration_ms": 284274,
       "name": "B\u00fazios",
       "url": "https://open.spotify.com/track/0UvJGzL2FdEu5Mh37HtQrP"
+    },
+    {
+      "album": {
+        "name": "Call on me softly",
+        "url": "https://open.spotify.com/album/6yswi7kz4lWCyIevxBgF9J"
+      },
+      "artists": [
+        {
+          "name": "Joseph Gonzalez",
+          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207879,
+      "name": "Call on me softly",
+      "url": "https://open.spotify.com/track/34yyBDFvc815CHpHINtpMg"
     },
     {
       "album": {
@@ -2293,6 +2329,24 @@
       "duration_ms": 376440,
       "name": "Pra Machucar Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe"
+    },
+    {
+      "album": {
+        "name": "Praia de Ipanema",
+        "url": "https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1"
+      },
+      "artists": [
+        {
+          "name": "Jonah Anderson",
+          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241124,
+      "name": "Praia de Ipanema",
+      "url": "https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn"
     },
     {
       "album": {

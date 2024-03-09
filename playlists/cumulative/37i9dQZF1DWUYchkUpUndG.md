@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=snuRWBxSS82Rg\_747O3Vug>Limoblaze</a>
 
-2,135 songs - 6 day 12 hr 47 min
+2,136 songs - 6 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1526,6 +1526,7 @@
 | [Praise \- Afrobeat Remix](https://open.spotify.com/track/5S0eyHsGZID1X2rgfkWpVK) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Praise \(Afrobeat Remix\)](https://open.spotify.com/album/5eRNBhZeflHdRq4HmtmX1Y) | 1:31 | 2024-02-16 | 2024-03-01 |
 | [Praise Anthem](https://open.spotify.com/track/6SggGs62ILFrYXmushLa8C) | [Elvis E](https://open.spotify.com/artist/4LSiLtX7e1IRV9AQ2Zj9w4) | [Undeniable Love](https://open.spotify.com/album/4HHoMWPivUumtBDKR3xHY8) | 3:59 | 2023-11-03 | 2023-11-17 |
 | [Praise Combo](https://open.spotify.com/track/5qpAVwV8wgR0P7YIGnKCff) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Praise Combo](https://open.spotify.com/album/6pYXsuzai6a8iuGzCWZ3EP) | 2:47 | 2024-01-19 | 2024-02-02 |
+| [Praise Him](https://open.spotify.com/track/5ODtZk0I6Z2IuskUQmXTi9) | [Miracle V](https://open.spotify.com/artist/2KkZT2Y0mlbVL1DuF18AdQ) | [Praise Him](https://open.spotify.com/album/2z6fQETg6izi0hTh7wlP7t) | 4:18 | 2024-03-08 |  |
 | [Praise His Name](https://open.spotify.com/track/5BYea9IYcuxjIJD3zCY5wQ) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [Shem](https://open.spotify.com/artist/0v9lVBC9ZkSp2kRjXuFB6x) | [Praise His Name](https://open.spotify.com/album/2E7QgMYaaqOjKwyg1dIeIL) | 2:57 | 2024-03-01 | 2024-03-08 |
 | [Praise Jam Medley](https://open.spotify.com/track/4Y6GdcIoFSptK1woFKn2K3) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX) | [Praise Jam Medley](https://open.spotify.com/album/2edC1ACu2J0yhn9D4W4piD) | 4:57 | 2024-02-16 | 2024-03-01 |
 | [Praise On](https://open.spotify.com/track/5OaDDSDnkpJFHSiP9sBVdl) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Alicia Jay](https://open.spotify.com/artist/6crPJmpHR66WQbf7erAigJ) | [Praise On](https://open.spotify.com/album/6Zmqt5umPQib2KGfkdaVVy) | 2:15 | 2024-01-05 | 2024-01-19 |

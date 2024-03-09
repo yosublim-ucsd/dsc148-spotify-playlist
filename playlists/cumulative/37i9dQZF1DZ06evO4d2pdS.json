@@ -199,6 +199,24 @@
     },
     {
       "album": {
+        "name": "BIRTHDAY FREESTYLE",
+        "url": "https://open.spotify.com/album/4LqEhKLTVXwXUy3kTviW2d"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97645,
+      "name": "BIRTHDAY FREESTYLE",
+      "url": "https://open.spotify.com/track/5ac7sJvoNJePsYd6AmOE3E"
+    },
+    {
+      "album": {
         "name": "No Pressure (Pt. 2)",
         "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
       },

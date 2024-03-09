@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-417 songs - 1 day 6 hr 46 min
+418 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Desde Que O Samba E Samba](https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3) | [Caetano Veloso e Gilberto Gil](https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl) | [Tropicalia 2](https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg) | 5:11 | 2023-07-10 |  |
 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 | 2023-07-10 |  |
 | [Dolorosa](https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 4:25 | 2023-07-10 |  |
-| [Donde](https://open.spotify.com/track/6vyZChBXOy1jWnTHp2nm3K) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Eblis Alvarez](https://open.spotify.com/artist/6LhY07pLnOOZNtgIV5pawd) | [Donde](https://open.spotify.com/album/5CD5EJOEBfzlONn3rMA7lK) | 3:30 | 2023-12-15 |  |
+| [Donde](https://open.spotify.com/track/6vyZChBXOy1jWnTHp2nm3K) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Eblis Alvarez](https://open.spotify.com/artist/6LhY07pLnOOZNtgIV5pawd) | [Donde](https://open.spotify.com/album/5CD5EJOEBfzlONn3rMA7lK) | 3:30 | 2023-12-15 | 2024-03-09 |
 | [Doni Doni](https://open.spotify.com/track/1HL6VLMulQMCCOinuaS5ex) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Mon Pays](https://open.spotify.com/album/1LBvD0jnXocA0JCM08NoJI) | 4:14 | 2023-07-10 |  |
 | [Dooyo](https://open.spotify.com/track/09GZlaxVlta1K5USLQ0FoG) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y) | 3:49 | 2023-07-10 |  |
 | [Dreamworld](https://open.spotify.com/track/2MlqQ8PDprEVB3VRrKP48v) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Grown Backwards \(Deluxe Edition\)](https://open.spotify.com/album/2ZU2JtWIAnRUgBDoom4GG4) | 5:03 | 2023-12-15 | 2024-01-14 |
@@ -405,6 +405,7 @@
 | [Veinte Años](https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:32 | 2023-07-10 |  |
 | [Veneno de Coco](https://open.spotify.com/track/2d3sVtUcT74J8xCqYCArKD) | [Mía Rizzo](https://open.spotify.com/artist/5LvJ9CM92axGdZuOQ55H10) | [Veneno de Coco](https://open.spotify.com/album/4lz2uJTy5UX4nYW7hs3Xw6) | 3:24 | 2023-07-10 |  |
 | [Ventilaor R\-80](https://open.spotify.com/track/2PzuUx4CHOhtPm308Akht8) | [Ojos de Brujo](https://open.spotify.com/artist/6iKnagOuTEr3kLRAJlXRjq) | [Bari](https://open.spotify.com/album/5WNRhfXJhC8HGquGAFsZrz) | 3:20 | 2023-07-10 |  |
+| [Veo](https://open.spotify.com/track/66fKjdPhtnkS51WyEvE0Yb) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Veo](https://open.spotify.com/album/2z5cXEpesRnswpwomt6wJv) | 4:43 | 2024-03-08 |  |
 | [Viene de Mi](https://open.spotify.com/track/2z4UdFhJPFIRxv7toicES1) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/5pAJASef6SxMTZlm1eWHxH) | 3:50 | 2023-07-10 |  |
 | [Vinte Vinte](https://open.spotify.com/track/54E1t1JZPlp1nuBO7o0aQE) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7), [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [CONAN OSIRIS](https://open.spotify.com/artist/4oYolWgvQmCnjrvVNTymlf) | [Vinte Vinte](https://open.spotify.com/album/2WBunNLGUIdaJpSan8Yyy1) | 3:33 | 2023-07-10 |  |
 | [Vuelo](https://open.spotify.com/track/6AWh1dE8DE4cHabBBNuMqm) | [Marinah](https://open.spotify.com/artist/7mqFFfs8tz9ZzeWzXJvz0a), [Rocío Márquez](https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ), [Nakany Kanté](https://open.spotify.com/artist/1sEm6zWze3zrjgLNIlByeq) | [Vuelo](https://open.spotify.com/album/1nlYi9SFCFh9Br73gvkQm2) | 4:17 | 2023-07-10 |  |

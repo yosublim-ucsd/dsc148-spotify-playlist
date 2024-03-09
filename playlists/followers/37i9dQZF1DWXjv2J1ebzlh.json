@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 107502,
+  "2024-03-09": 107508,
   "date_first_scraped": "2022-06-10",
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
   "name": "Bon Voyage",
@@ -29741,10 +29741,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 250200,
       "name": "Palengue Palengue",
       "url": "https://open.spotify.com/track/0h1wnEV4VioEaoUyndMUc6"
+    },
+    {
+      "album": {
+        "name": "Afro-Colombian Sound Modernizers",
+        "url": "https://open.spotify.com/album/5HAxpndIx1dY8zwblmjEHz"
+      },
+      "artists": [
+        {
+          "name": "Son Palenque",
+          "url": "https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Palengue Palengue",
+      "url": "https://open.spotify.com/track/5lJOm0UNd3AFwxKvirEjYB"
     },
     {
       "album": {
@@ -39521,6 +39539,24 @@
     {
       "album": {
         "name": "On the Beach: The Anthology",
+        "url": "https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "When the Lights Are Low",
+      "url": "https://open.spotify.com/track/3RzklnCLyC35UhTN7WkVEr"
+    },
+    {
+      "album": {
+        "name": "On the Beach: The Anthology",
         "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
       },
       "artists": [
@@ -39549,7 +39585,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 185960,
       "name": "When The Lights Are Low",
       "url": "https://open.spotify.com/track/1QxSiJ0Xf0iUzyDIFh7FWF"

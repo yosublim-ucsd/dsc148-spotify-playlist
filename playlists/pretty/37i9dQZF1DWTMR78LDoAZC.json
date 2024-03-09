@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 151187,
+  "num_followers": 151251,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGQzZGNjNDZhYjRkY2Q1NzEyNDY2ZTk3ZjI5ZjU5MjlkOTM1OTQ1",
+  "snapshot_id": "MCxlYmI5NzM5NjllZjc3NTMzZjk0YjM3NDQ4N2YxMDFlOTI0YWQ3MTdi",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
     },
     {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
+    },
+    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Angel",
@@ -649,20 +665,20 @@
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
+      "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
+        "name": "forevher",
+        "url": "https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze"
       },
       "artists": [
         {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
+      "duration_ms": 247346,
+      "name": "religion (u can lay your hands on me)",
+      "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -679,22 +695,6 @@
       "duration_ms": 174888,
       "name": "del mar county fair 2008",
       "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "forevher",
-        "url": "https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "religion (u can lay your hands on me)",
-      "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Smog",
-        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 194451,
-      "name": "Smog",
-      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Tears can be so soft",
         "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 311928,
       "name": "Tears can be so soft",
       "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Smog",
+        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 194451,
+      "name": "Smog",
+      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/0mytPbo2GAlCTjA0zZ1Z8e"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/6Z5K0Y4OJRX7YGwmcrQti8"
-      },
-      "artists": [
-        {
-          "name": "Nova Knowles",
-          "url": "https://open.spotify.com/artist/1tHiXy97wjFFmrojUDq7qp"
-        }
-      ],
-      "duration_ms": 237165,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/2xnQS6llktzVGWKav2otE4"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Sex Education Original Soundtrack",
@@ -1251,6 +1235,22 @@
       "duration_ms": 222616,
       "name": "Love You So Bad",
       "url": "https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/6Z5K0Y4OJRX7YGwmcrQti8"
+      },
+      "artists": [
+        {
+          "name": "Nova Knowles",
+          "url": "https://open.spotify.com/artist/1tHiXy97wjFFmrojUDq7qp"
+        }
+      ],
+      "duration_ms": 237165,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/2xnQS6llktzVGWKav2otE4"
     }
   ],
   "unique_name": "Alternative Pride",

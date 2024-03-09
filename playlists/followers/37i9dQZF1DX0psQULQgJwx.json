@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 157675,
+  "2024-03-09": 157793,
   "date_first_scraped": "2022-09-09",
   "description": "Lounge sounds for SPA",
   "name": "SPA Lounge",
@@ -392,6 +392,24 @@
     },
     {
       "album": {
+        "name": "Cloud Whispers",
+        "url": "https://open.spotify.com/album/77Bqt3owWoeUNaKI9li5no"
+      },
+      "artists": [
+        {
+          "name": "Rannar Sillard",
+          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157026,
+      "name": "Cloud Whispers",
+      "url": "https://open.spotify.com/track/3EH4iguIiQ0YaFMxvd7VFn"
+    },
+    {
+      "album": {
         "name": "Conscious Journey",
         "url": "https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb"
       },
@@ -698,6 +716,24 @@
     },
     {
       "album": {
+        "name": "Fables",
+        "url": "https://open.spotify.com/album/3U8pUwGtCpdLUUJdFd8Xfp"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343504,
+      "name": "Fables",
+      "url": "https://open.spotify.com/track/040LGJRwswUENGiwHYRuft"
+    },
+    {
+      "album": {
         "name": "Fantasy of Koshi Kaval",
         "url": "https://open.spotify.com/album/2gj3bvTILGeJePm9L0AYH1"
       },
@@ -781,7 +817,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 109297,
       "name": "Forest of Hope",
       "url": "https://open.spotify.com/track/2aH3zeFIh14oUTOgJpBsI1"
@@ -929,6 +965,24 @@
       "duration_ms": 151530,
       "name": "In The Distance",
       "url": "https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp"
+    },
+    {
+      "album": {
+        "name": "Inner Deep",
+        "url": "https://open.spotify.com/album/6pUi1uAiffJv4NfIubyh5n"
+      },
+      "artists": [
+        {
+          "name": "Trevor Marson",
+          "url": "https://open.spotify.com/artist/4HY7iJRgI9SLocwSY7nZja"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Inner Deep",
+      "url": "https://open.spotify.com/track/0nnhYgP1kNc2ueZ8GyqH6C"
     },
     {
       "album": {

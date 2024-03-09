@@ -2567,6 +2567,32 @@
     },
     {
       "album": {
+        "name": "Brain",
+        "url": "https://open.spotify.com/album/6ZCx8cpvKbzgNBOUgGvczM"
+      },
+      "artists": [
+        {
+          "name": "Mat Weasel Busters",
+          "url": "https://open.spotify.com/artist/4OAC3olGybn9D0DJtzBsYa"
+        },
+        {
+          "name": "B.UNQ!",
+          "url": "https://open.spotify.com/artist/2HPFEeD62W0tYsMVT0js3I"
+        },
+        {
+          "name": "Floxytek",
+          "url": "https://open.spotify.com/artist/1v2lA2moEBT9UFfnRd6Pkx"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173873,
+      "name": "Brain",
+      "url": "https://open.spotify.com/track/5Nk0yiQupskIAaArw5qM0q"
+    },
+    {
+      "album": {
         "name": "DEVIL'S NIGHTMARE",
         "url": "https://open.spotify.com/album/1WOKfBZWmMvQWTR9SOP47F"
       },
@@ -3388,6 +3414,32 @@
       "duration_ms": 346885,
       "name": "Can't Stop Raving - DJ Noriken Remix",
       "url": "https://open.spotify.com/track/6wAOwFCsmHrhNYEIsWMiig"
+    },
+    {
+      "album": {
+        "name": "Cancel Cultuur (S-Kill Remix)",
+        "url": "https://open.spotify.com/album/2PenPBhiMhigiHDtXGcpZh"
+      },
+      "artists": [
+        {
+          "name": "S-KILL",
+          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
+        },
+        {
+          "name": "Nigel Sean",
+          "url": "https://open.spotify.com/artist/4INB4fkjhrcvgOrhkNtaxT"
+        },
+        {
+          "name": "Storm Verhage",
+          "url": "https://open.spotify.com/artist/3ZkOcWVKmyPV0jE4UZ7Xjs"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Cancel Cultuur - S-Kill Remix",
+      "url": "https://open.spotify.com/track/2rQJcSftMJQkvxSslNEm55"
     },
     {
       "album": {
@@ -7107,6 +7159,32 @@
     },
     {
       "album": {
+        "name": "Feel Your Echo",
+        "url": "https://open.spotify.com/album/6tCiSPl1zvzuKT7MVwj8OL"
+      },
+      "artists": [
+        {
+          "name": "Tweekacore",
+          "url": "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164884,
+      "name": "Feel Your Echo",
+      "url": "https://open.spotify.com/track/4PUu4eskDRUWV7ltSnq8Xx"
+    },
+    {
+      "album": {
         "name": "Feeling Blue",
         "url": "https://open.spotify.com/album/3qjIYkatqTwTsMJzSjDQmK"
       },
@@ -9337,6 +9415,24 @@
     },
     {
       "album": {
+        "name": "HARDSTYLE SUIXIDE",
+        "url": "https://open.spotify.com/album/3J9KxvomgfQC3DP1u8q8qD"
+      },
+      "artists": [
+        {
+          "name": "Zyon",
+          "url": "https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154875,
+      "name": "HARDSTYLE SUIXIDE",
+      "url": "https://open.spotify.com/track/1li2hcgEg612K0uNF9RtgP"
+    },
+    {
+      "album": {
         "name": "HATE OR LOVE IT",
         "url": "https://open.spotify.com/album/1SamA0QVmZnqpq47SRTgxJ"
       },
@@ -11287,6 +11383,24 @@
     },
     {
       "album": {
+        "name": "Keep on Waiting",
+        "url": "https://open.spotify.com/album/6VmgMRjwUCrCztONYYqJr1"
+      },
+      "artists": [
+        {
+          "name": "ExaMelodica",
+          "url": "https://open.spotify.com/artist/6VY7xbxDWoFBAViageVD0X"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144303,
+      "name": "Keep on Waiting",
+      "url": "https://open.spotify.com/track/3wgeAZSrg18b2gHjx3y6tX"
+    },
+    {
+      "album": {
         "name": "Frenchcore World",
         "url": "https://open.spotify.com/album/1EOVvoCHJO0RuYPrmTOhFt"
       },
@@ -11302,6 +11416,24 @@
       "duration_ms": 206400,
       "name": "Kerofobia",
       "url": "https://open.spotify.com/track/1KTF1HechU4bO2optLplhF"
+    },
+    {
+      "album": {
+        "name": "KICKS IN YA BRAIN",
+        "url": "https://open.spotify.com/album/0wh0g1iICx6MTgXVHhUzDV"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "KICKS IN YA BRAIN",
+      "url": "https://open.spotify.com/track/5H2u29LkCw7HyuDttyK4ms"
     },
     {
       "album": {
@@ -12759,6 +12891,24 @@
     },
     {
       "album": {
+        "name": "Luminosity (Don't you worry)",
+        "url": "https://open.spotify.com/album/37NieD9KxgeO10zVeXSsq9"
+      },
+      "artists": [
+        {
+          "name": "DJ Noriken",
+          "url": "https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145371,
+      "name": "Luminosity (Don't you worry)",
+      "url": "https://open.spotify.com/track/2jO8pPp7FGrTSPJL0Q0ewl"
+    },
+    {
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/1kOHm8tHAcs8UB9dvbx4Xc"
       },
@@ -13328,6 +13478,28 @@
       "duration_ms": 176400,
       "name": "MFKR",
       "url": "https://open.spotify.com/track/6gzFi92NdRhnesriPqNbDl"
+    },
+    {
+      "album": {
+        "name": "Miami Mania (Radio Mix)",
+        "url": "https://open.spotify.com/album/2PJ3u7YdoqlxAlzpVhQTbV"
+      },
+      "artists": [
+        {
+          "name": "Al Storm",
+          "url": "https://open.spotify.com/artist/12CfGGtVpvaQVgoQaFy7kM"
+        },
+        {
+          "name": "Darren Tyler",
+          "url": "https://open.spotify.com/artist/45MTI1GXLIefJC6tgYFMzb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235667,
+      "name": "Miami Mania - Radio Mix",
+      "url": "https://open.spotify.com/track/2rWF6RZGRB5kiOoPyduHpH"
     },
     {
       "album": {
@@ -16287,6 +16459,32 @@
     },
     {
       "album": {
+        "name": "Pretty Rave Girl (Rob IYF & Monster Mix)",
+        "url": "https://open.spotify.com/album/192IQ99if9h4pR8j4clN9s"
+      },
+      "artists": [
+        {
+          "name": "S3RL",
+          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
+        },
+        {
+          "name": "Rob IYF",
+          "url": "https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7"
+        },
+        {
+          "name": "Monster",
+          "url": "https://open.spotify.com/artist/3hX1PwfaJsk2CDkPxMaEhP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215117,
+      "name": "Pretty Rave Girl - Rob IYF & Monster Remix",
+      "url": "https://open.spotify.com/track/5TY0jCSRkxOvZnpHjORUV3"
+    },
+    {
+      "album": {
         "name": "Primal Energy (Haunted Grounds)",
         "url": "https://open.spotify.com/album/6Bsh7oMlPrSFzdlaGmGnui"
       },
@@ -17140,6 +17338,24 @@
       "duration_ms": 209828,
       "name": "Realize",
       "url": "https://open.spotify.com/track/28KbKarBWiWn8UqX8sVZYp"
+    },
+    {
+      "album": {
+        "name": "Recollection",
+        "url": "https://open.spotify.com/album/1XF6BI5mXtxvzcGLELkjjA"
+      },
+      "artists": [
+        {
+          "name": "Getty",
+          "url": "https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "Recollection",
+      "url": "https://open.spotify.com/track/3UjNsqmIr8Po865AdeJy2a"
     },
     {
       "album": {
@@ -19755,6 +19971,28 @@
     },
     {
       "album": {
+        "name": "XTREME XTASY",
+        "url": "https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        },
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165093,
+      "name": "TECHNO CITY",
+      "url": "https://open.spotify.com/track/0Ua3nDprcE2YVHpINa9ceM"
+    },
+    {
+      "album": {
         "name": "Teledildonics",
         "url": "https://open.spotify.com/album/1Qh1XXIRSnGtT8nqFFbFsq"
       },
@@ -19818,6 +20056,32 @@
       "duration_ms": 208200,
       "name": "Th3 Futur3",
       "url": "https://open.spotify.com/track/5v2OTwYsxDsMcWzpxtaY4v"
+    },
+    {
+      "album": {
+        "name": "Thank You (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/5BzrKhPS9ZVIUEbsrlRoHu"
+      },
+      "artists": [
+        {
+          "name": "Inquisitive",
+          "url": "https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw"
+        },
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
+        },
+        {
+          "name": "Pulsar",
+          "url": "https://open.spotify.com/artist/5tmXZZoksgHRk1uLumsGCo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Thank You (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/0nxzxVry3Dtc8bKg4kckez"
     },
     {
       "album": {
@@ -22963,6 +23227,28 @@
     },
     {
       "album": {
+        "name": "Weekend Offenders",
+        "url": "https://open.spotify.com/album/6samftYEZmAZ7MYcY6hqUx"
+      },
+      "artists": [
+        {
+          "name": "Barber",
+          "url": "https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W"
+        },
+        {
+          "name": "Samynator",
+          "url": "https://open.spotify.com/artist/0stG6nm18OkbJlJHWHxrPw"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155962,
+      "name": "Weekend Offenders",
+      "url": "https://open.spotify.com/track/7go0JqxmkRFZoQxvmnjHun"
+    },
+    {
+      "album": {
         "name": "Welcome To My Nightmare",
         "url": "https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui"
       },
@@ -23680,6 +23966,24 @@
       "duration_ms": 202002,
       "name": "XTREME - Extended Mix",
       "url": "https://open.spotify.com/track/6EEcpUxNI2h1jNaQz6JAEH"
+    },
+    {
+      "album": {
+        "name": "XTREME XTASY",
+        "url": "https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "XTREME XTASY",
+      "url": "https://open.spotify.com/track/7DIAUvqEp8uCAp9rL5pBEA"
     },
     {
       "album": {

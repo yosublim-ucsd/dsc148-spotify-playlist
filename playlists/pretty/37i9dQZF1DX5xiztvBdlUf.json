@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 622437,
+  "num_followers": 622569,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGQ3ZmEzYTZmZmYwZmNjNzMwMzRiZDFkZGRjYzk0ZTA0ODEzYjI4",
+  "snapshot_id": "MCwyOTEwNWY5MGY2NzUyNTM1MzBmODE5OTZhZWIwOTYxMzlmNjJkNTUx",
   "tracks": [
     {
       "added_at": "2023-11-14 11:01:57",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "These Things Will Come To Be",
-        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
+        "name": "Cenote",
+        "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "Sainte Vie",
+          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
         }
       ],
-      "duration_ms": 296360,
-      "name": "These Things Will Come To Be",
-      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
+      "duration_ms": 298335,
+      "name": "Cenote",
+      "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Cenote",
-        "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
+        "name": "These Things Will Come To Be",
+        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
       },
       "artists": [
         {
-          "name": "Sainte Vie",
-          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 298335,
-      "name": "Cenote",
-      "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
+      "duration_ms": 296360,
+      "name": "These Things Will Come To Be",
+      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "NA NA NA",
-        "url": "https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P"
-      },
-      "artists": [
-        {
-          "name": "WAALAAXXX",
-          "url": "https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ"
-        }
-      ],
-      "duration_ms": 430819,
-      "name": "NA NA NA",
-      "url": "https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "You Can Dance Now",
         "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 317003,
       "name": "La Perla - Tourist Remix",
       "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "NA NA NA",
+        "url": "https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P"
+      },
+      "artists": [
+        {
+          "name": "WAALAAXXX",
+          "url": "https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ"
+        }
+      ],
+      "duration_ms": 430819,
+      "name": "NA NA NA",
+      "url": "https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Petit Matin",
+        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 447066,
+      "name": "Petit Matin",
+      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Cold Shoulder (Helsloot Remix)",
         "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 246466,
       "name": "Cold Shoulder - Helsloot Remix",
       "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Petit Matin",
-        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 447066,
-      "name": "Petit Matin",
-      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Made of Wood Remixed",
-        "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        },
-        {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
-        }
-      ],
-      "duration_ms": 397882,
-      "name": "Copal - Super Flu Remix",
-      "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Future Memories",
         "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 383250,
       "name": "Teleport - Future Mix",
       "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Made of Wood Remixed",
+        "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "duration_ms": 397882,
+      "name": "Copal - Super Flu Remix",
+      "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1395,6 +1395,30 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Noso",
+        "url": "https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz"
+      },
+      "artists": [
+        {
+          "name": "Edu Imbernon",
+          "url": "https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088"
+        },
+        {
+          "name": "Nico Casal",
+          "url": "https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7"
+        },
+        {
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+        }
+      ],
+      "duration_ms": 443189,
+      "name": "Noso",
+      "url": "https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Lost Generation",
         "url": "https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC"
       },
@@ -1423,30 +1447,6 @@
       "duration_ms": 163902,
       "name": "Lost Generation - Edit",
       "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Noso",
-        "url": "https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz"
-      },
-      "artists": [
-        {
-          "name": "Edu Imbernon",
-          "url": "https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088"
-        },
-        {
-          "name": "Nico Casal",
-          "url": "https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7"
-        },
-        {
-          "name": "Solomon Grey",
-          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
-        }
-      ],
-      "duration_ms": 443189,
-      "name": "Noso",
-      "url": "https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML"
     },
     {
       "added_at": "2023-11-14 11:01:57",

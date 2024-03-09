@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : ANAÏS MVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,281 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,348 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 16 | [Les silences](https://open.spotify.com/track/7ohHHewIJczp32oPYHl6wv) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Et alors ?](https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw) | 3:43 |
 | 17 | [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 |
 | 18 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 |
-| 19 | [Madame](https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Curriculum vitae](https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF) | 3:31 |
+| 19 | [Madame](https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Curriculum Vitae](https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF) | 3:31 |
 | 20 | [Belle et douce](https://open.spotify.com/track/62EIK97xEvRVHCPMluN8bR) | [Enola Cox](https://open.spotify.com/artist/4FugFjuE5dLtKNtSbxe3gD) | [Mémoire d'un Été](https://open.spotify.com/album/59xVZaODpDUf84OtD7QwYJ) | 2:57 |
 | 21 | [Plus rien à perdre](https://open.spotify.com/track/1imBbvEq9JCGmpYe9S4e4D) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plus rien à perdre](https://open.spotify.com/album/6VVCYq9xfB0G5aiie7NBAN) | 2:48 |
 | 22 | [Crash](https://open.spotify.com/track/0QAkn0BvBwGqVLlDAHeCFG) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Monstrueuse](https://open.spotify.com/album/3ncHignlQNL2JTMxYMYz5X) | 3:28 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 48 | [sans mon soleil](https://open.spotify.com/track/7hUrPELY70yPmF4IVzM5Kw) | [Ferielle](https://open.spotify.com/artist/5mec3516HpwhOAlfoEmjKN) | [sans mon soleil](https://open.spotify.com/album/53pQvt5NAaAwQTwpXZtMQI) | 3:39 |
 | 49 | [Mes inconnus](https://open.spotify.com/track/0yiF9SR69R8ceBDjIet6NM) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [Mes inconnus](https://open.spotify.com/album/5qko1zYziTbwfo2VfNp6lU) | 2:56 |
 
-Snapshot ID: `MCwxY2FmN2U2MmE2MWM2MzFkYzljYzRmMjEzNGRjZDNlMmFkNjdhZDQ4`
+Snapshot ID: `MCwyODExM2FkMTc0ODk1ZjE2MzllNDQ2NjAwOTQ4NzYzNGU0ZDc0ODdk`

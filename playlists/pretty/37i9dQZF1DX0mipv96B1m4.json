@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1037,
+  "num_followers": 1038,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmNkODBhN2RlNWE0NjIxNjNhZTI5Mjg2M2NjMTM1Y2Q3ZGUzZjg0",
+  "snapshot_id": "MCwzZThlNzE5NWJiN2ZjNDMzNmMxMjZkZWNhZDA5YmU0MGE5ZGUwNTkx",
   "tracks": [
     {
       "added_at": "2024-03-01 12:07:08",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Rambada",
+        "url": "https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Rambada",
+      "url": "https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/3odxvb0YleysbfxNeBomkR"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 231000,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/7xZBxRmN04ut0FeOt4IkrW"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Rambada",
-        "url": "https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0"
-      },
-      "artists": [
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Rambada",
-      "url": "https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Kisses at Midnight",
+        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Gemazima",
         "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 181342,
       "name": "Gemazima",
       "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Kisses at Midnight",
-        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -551,26 +551,6 @@
       "duration_ms": 178808,
       "name": "Boss Lady",
       "url": "https://open.spotify.com/track/7prPv7oczw7wVWxO1hQZMG"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Karole Kasita",
-          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
-        }
-      ],
-      "duration_ms": 196963,
-      "name": "Gyal A Bubble",
-      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -659,6 +639,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Karole Kasita",
+          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
+        }
+      ],
+      "duration_ms": 196963,
+      "name": "Gyal A Bubble",
+      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Kyabazinga",
         "url": "https://open.spotify.com/album/4r9Hp0mKo45qZiDgao3NPK"
       },
@@ -727,46 +727,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
-      },
-      "artists": [
-        {
-          "name": "Arrow Bwoy",
-          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
-        },
-        {
-          "name": "Jackie Chandiru",
-          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Semi Final",
-        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Dush",
-          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
-        }
-      ],
-      "duration_ms": 172721,
-      "name": "Semi Final",
-      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Hot Like Dat",
         "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
       },
@@ -783,6 +743,26 @@
       "duration_ms": 166736,
       "name": "Hot Like Dat",
       "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
+      },
+      "artists": [
+        {
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -819,6 +799,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Semi Final",
+        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Dush",
+          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "Semi Final",
+      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Be humble",
         "url": "https://open.spotify.com/album/653kI0gglML45glmvgeBhh"
       },
@@ -847,6 +847,30 @@
       "duration_ms": 193859,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Sikyegomba",
+        "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Guvnor Ace",
+          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
+        },
+        {
+          "name": "DVJ Pofia",
+          "url": "https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC"
+        }
+      ],
+      "duration_ms": 210364,
+      "name": "Sikyegomba",
+      "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -891,30 +915,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Sikyegomba",
-        "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
-        },
-        {
-          "name": "DVJ Pofia",
-          "url": "https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC"
-        }
-      ],
-      "duration_ms": 210364,
-      "name": "Sikyegomba",
-      "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Lock Down",
         "url": "https://open.spotify.com/album/4a2WRG82z0bI5RWYK9AN1Q"
       },
@@ -931,22 +931,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Bwonjagala",
-        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
       },
       "artists": [
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         },
         {
-          "name": "Fille",
-          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
+          "name": "Cindy Sanyu & Beenie Gunter",
+          "url": "https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg"
         }
       ],
-      "duration_ms": 178834,
-      "name": "Bwonjagala",
-      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
+      "duration_ms": 282215,
+      "name": "DanceHall",
+      "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
     }
   ],
   "unique_name": "Kidandali Parte",

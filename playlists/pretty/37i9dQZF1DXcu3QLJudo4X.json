@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 82447,
+  "num_followers": 82561,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmNmNDIxNDY2MzZhY2I1YTAzYzdiNjhmNzJmMzU2ZjRiNGM2NzM5",
+  "snapshot_id": "MCw0YzUyMTNhMjFjM2E0ZWZjYzFhYTE4OTYxMjYxMjI4MmU3ZDhkYzlk",
   "tracks": [
     {
       "added_at": "2023-08-23 10:30:13",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Got My Mojo Workin'",
-        "url": "https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        }
-      ],
-      "duration_ms": 482626,
-      "name": "Got My Mojo Workin'",
-      "url": "https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Let The Good Times Roll: The Music Of Louis Jordan",
         "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 274840,
       "name": "Nobody Knows You When You're Down And Out",
       "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Got My Mojo Workin'",
+        "url": "https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 482626,
+      "name": "Got My Mojo Workin'",
+      "url": "https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Stack-O-Lee",
-      "url": "https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Blues With A Feeling",
         "url": "https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 225733,
       "name": "(You've Got To) Love Her With A Feeling",
       "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Stack-O-Lee",
+      "url": "https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD"
     },
     {
       "added_at": "2023-08-23 10:30:13",

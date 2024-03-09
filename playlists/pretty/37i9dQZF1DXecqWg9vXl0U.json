@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring ke onda.",
-  "num_followers": 48400,
+  "num_followers": 48403,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjYyYzliZWY5MDI3ZmM4ZDliOWMxMmJkNTkyOGIwYmJlNjBkYmE4",
+  "snapshot_id": "MCxkMjYwNGU1ZjMzYmEzYmI5ZDIwMTNlOWIyNGY5MThjMDNhYjg1MjE3",
   "tracks": [
     {
       "added_at": "2023-09-26 17:16:04",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "Muchas Cosas",
-        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Muchas Cosas",
-      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 No Contestas?",
         "url": "https://open.spotify.com/album/38uQE0pDHBVdNtWpg5j2bn"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 217609,
       "name": "\u00bfPor Qu\u00e9 No Contestas?",
       "url": "https://open.spotify.com/track/0wBd8LyJaEwwWkgYcsCXff"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "Muchas Cosas",
+        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Muchas Cosas",
+      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
         "name": "amor universal",
         "url": "https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+        "name": "O, de Crescendo",
+        "url": "https://open.spotify.com/album/0UOldbHk1CQwLMOnqY6svw"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
         }
       ],
-      "duration_ms": 213088,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
+      "duration_ms": 172655,
+      "name": "Antena",
+      "url": "https://open.spotify.com/track/7eXwrGcdv0jlzBBnNbEZXa"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "O, de Crescendo",
-        "url": "https://open.spotify.com/album/0UOldbHk1CQwLMOnqY6svw"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 172655,
-      "name": "Antena",
-      "url": "https://open.spotify.com/track/7eXwrGcdv0jlzBBnNbEZXa"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 239965,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "Instintos",
-        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
-      },
-      "artists": [
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 208723,
-      "name": "Instintos",
-      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -851,6 +831,26 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
+        "name": "Instintos",
+        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 208723,
+      "name": "Instintos",
+      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "Colores crom\u00e1ticos",
-        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 255524,
-      "name": "Colores crom\u00e1ticos",
-      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -915,6 +899,22 @@
       "duration_ms": 182481,
       "name": "for good (with RENEE)",
       "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "Colores crom\u00e1ticos",
+        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 255524,
+      "name": "Colores crom\u00e1ticos",
+      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "Veraneras",
-        "url": "https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 185789,
-      "name": "Amores De Colores",
-      "url": "https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "Horas Contigo",
         "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 159254,
       "name": "Horas Contigo",
       "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "Veraneras",
+        "url": "https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 185789,
+      "name": "Amores De Colores",
+      "url": "https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        },
+        {
+          "name": "Glass Cristina",
+          "url": "https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH"
+        }
+      ],
+      "duration_ms": 232895,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
         "name": "me pongo un poco sad",
         "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
       },
@@ -1203,22 +1223,6 @@
       "duration_ms": 199357,
       "name": "me pongo un poco sad",
       "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "Amanece Otra Vez",
-        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 247501,
-      "name": "Amanece Otra Vez",
-      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -1239,6 +1243,22 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
+        "name": "Amanece Otra Vez",
+        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 247501,
+      "name": "Amanece Otra Vez",
+      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
         "name": "\u00c1ngel",
         "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 178000,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        },
-        {
-          "name": "Glass Cristina",
-          "url": "https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH"
-        }
-      ],
-      "duration_ms": 232895,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU"
     },
     {
       "added_at": "2023-09-26 17:16:04",

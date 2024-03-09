@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,517 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,549 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 |
+| 1 | [Tu Reino Está Aquí](https://open.spotify.com/track/26oaPbdYRvDFEddhi6ApAu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 5:33 |
 | 2 | [Siguiéndote Los Pasos](https://open.spotify.com/track/7oKiPeuyHCuAeV8Idsep1T) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Apasionado Por Ti](https://open.spotify.com/album/17sFSyV70emgk2ES8zWdzd) | 3:00 |
 | 3 | [Tiene razón](https://open.spotify.com/track/0YVkK3eoqA9rmpqyMObT4h) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Indudablemente](https://open.spotify.com/album/59P6zsVljf0Gs8h4F8iWw4) | 3:19 |
 | 4 | [Tu Fan Number One](https://open.spotify.com/track/5lAtZmes9ELeVyEn1X0oqA) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Tu Fan Number One](https://open.spotify.com/album/4O5VnMxSs4kY3uqzBZZykI) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 49 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 |
 | 50 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 |
 
-Snapshot ID: `MCxhYWNjNTkwMzIwOTg5MjI3YzMzNTVjZTJkZWY3YjAzYWIzODZjMmI5`
+Snapshot ID: `MCxiOGVkOWNhZDI5YmQzOGIxNzlkYTdiZDA5NTQ2MWUxZjlhMWI1Mjhh`

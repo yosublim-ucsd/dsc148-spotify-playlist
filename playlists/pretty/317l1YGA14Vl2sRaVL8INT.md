@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > Its pop punk, its the best
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,961 likes - 80 songs - 4 hr 32 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,961 likes - 91 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,17 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 | 77 | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv) | 3:20 |
 | 78 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/6l70xzvmZdAJnM41s0iPDD) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:27 |
 | 79 | [Choke](https://open.spotify.com/track/4oOXPnAj2sSmybT9aaYsHC) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Mend, Move On](https://open.spotify.com/album/4bFdLj8gRfj2BnAtVuGGbc) | 1:01 |
-| 80 | [Over 'N' Over](https://open.spotify.com/track/5SyYMNUvjzdAGMzKgdyCx8) | [Spirit Weak](https://open.spotify.com/artist/1KHc3JjAjl9czNUb8mHRX3) | [Over 'N' Over](https://open.spotify.com/album/3lmZq5IQ3OyAL5cDcsoa2p) | 3:03 |
+| 80 | [SCUMBAG](https://open.spotify.com/track/1OBjOfNjS11tRSB0ub5wgK) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:06 |
+| 81 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 |
+| 82 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
+| 83 | [The American Dream Is Killing Me](https://open.spotify.com/track/0yq78eXBvWVgkqojBe46SX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:06 |
+| 84 | [More Like A Crash](https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a) | 2:47 |
+| 85 | [EDGING](https://open.spotify.com/track/08plGNpVLnsevWJbdvtpCK) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 2:29 |
+| 86 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 |
+| 87 | [How To Live With Yourself](https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU) | 2:45 |
+| 88 | [too young.](https://open.spotify.com/track/4M0eoJc018DM503clpBigM) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Life’s Going Great](https://open.spotify.com/album/0yXsEspUqhclhWF27TqUbq) | 3:19 |
+| 89 | [Anemia](https://open.spotify.com/track/1TfGgQOfUUc0EpRqAkMykU) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:56 |
+| 90 | [Heartbreak Of The Century](https://open.spotify.com/track/4ijqpIWc6VhVRTvHPJlBMw) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:49 |
+| 91 | [Thnx](https://open.spotify.com/track/3kUngdPstLUhp6QvbZlDvd) | [Spirit Weak](https://open.spotify.com/artist/1KHc3JjAjl9czNUb8mHRX3) | [Thnx](https://open.spotify.com/album/2c8YSRBnH6ZIe6cJ5PB2PR) | 3:48 |
 
-Snapshot ID: `Njc5OSwxMjA5MzNjOTY3YzZjMWEwOTBmYTY0NzE1Y2Q4ZGJlOTUxNWQ3MzYz`
+Snapshot ID: `NjgyNCw0NzIyYTMyZWI2NmFiN2JjMDliZWVhNWUzMzk3MDJhMzM1MjU1NzIy`

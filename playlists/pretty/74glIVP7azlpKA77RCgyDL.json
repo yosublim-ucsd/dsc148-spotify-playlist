@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Knocked Loose",
-  "num_followers": 8399,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: SeeYouSpaceCowboy",
+  "num_followers": 8401,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MzAxMiw0ZmQ0MmE1NGQzOTFlZTI0OTJkZTllZWQ3MDFlZWFiNzFhMzcyZjI5",
+  "snapshot_id": "MzAyMCw5ZDY5M2FmYzg3ZmM1NjQzMTcwMWI3OWQzZDY2YmQ4NmVmOGFkNzNm",
   "tracks": [
+    {
+      "added_at": "2024-03-08 19:58:05",
+      "album": {
+        "name": "Respite For A Tragic Tale / Silhouettes in Motion",
+        "url": "https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa"
+      },
+      "artists": [
+        {
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+        }
+      ],
+      "duration_ms": 167671,
+      "name": "Silhouettes In Motion",
+      "url": "https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE"
+    },
+    {
+      "added_at": "2024-03-08 19:58:10",
+      "album": {
+        "name": "Humdinger",
+        "url": "https://open.spotify.com/album/6rmPiDiMBZvv3HFQ8gc4Kw"
+      },
+      "artists": [
+        {
+          "name": "Excide",
+          "url": "https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Dis(re)member",
+      "url": "https://open.spotify.com/track/6itDwVEMBD9vzi1jYB4pyk"
+    },
+    {
+      "added_at": "2024-03-08 19:58:15",
+      "album": {
+        "name": "24 Thorns",
+        "url": "https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y"
+      },
+      "artists": [
+        {
+          "name": "Mugshot",
+          "url": "https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB"
+        },
+        {
+          "name": "Vomit Forth",
+          "url": "https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP"
+        }
+      ],
+      "duration_ms": 184356,
+      "name": "24 Thorns",
+      "url": "https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB"
+    },
+    {
+      "added_at": "2024-03-08 19:58:21",
+      "album": {
+        "name": "PUREST FORM",
+        "url": "https://open.spotify.com/album/1r11KOyGYKxz8kU5LnGkHz"
+      },
+      "artists": [
+        {
+          "name": "PUREST FORM",
+          "url": "https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro"
+        }
+      ],
+      "duration_ms": 120818,
+      "name": "SELF DESTRUCTION",
+      "url": "https://open.spotify.com/track/4KyGwrCkzTiTlMf6nmjgZS"
+    },
+    {
+      "added_at": "2024-03-08 19:58:27",
+      "album": {
+        "name": "Novocaine",
+        "url": "https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        },
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 295775,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz"
+    },
+    {
+      "added_at": "2024-03-08 19:58:38",
+      "album": {
+        "name": "Xenomorphic Organ Rearrangement",
+        "url": "https://open.spotify.com/album/5KFuwhggQY2baXGRJ0rnbf"
+      },
+      "artists": [
+        {
+          "name": "Mutilation Barbecue",
+          "url": "https://open.spotify.com/artist/1LxGvpRAZlXypb2rQR8jfX"
+        }
+      ],
+      "duration_ms": 196208,
+      "name": "Xenomorphic Organ Rearrangement",
+      "url": "https://open.spotify.com/track/3yYdQPpXchMHWMXKa6Ax7a"
+    },
     {
       "added_at": "2024-03-01 19:56:51",
       "album": {

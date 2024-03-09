@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-720 songs - 1 day 12 hr 21 min
+721 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,8 @@
 | [MündoGiRA](https://open.spotify.com/track/4t35uUObQgTRgDWarGUbBE) | [Diepretty Mercédes](https://open.spotify.com/artist/5wRAwalZoDe0kmLnpy4gwY) | [MündoGiRA](https://open.spotify.com/album/6O4E85erqahn3vIVEHaUXt) | 1:42 | 2022-08-04 | 2022-09-21 |
 | [N'ta Amau](https://open.spotify.com/track/2dQeZjABhYmAHOf8hoa3dr) | [Psyco Pdz](https://open.spotify.com/artist/4lEJQE8znF91LHaCVhm6ZX) | [N'ta Amau](https://open.spotify.com/album/7ClEhkAX46ygzQGE3VuSWU) | 3:36 | 2022-11-11 | 2023-01-27 |
 | [N1](https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [N1](https://open.spotify.com/album/0gcu1JxZaiOUAIqThGPoGN) | 3:51 | 2023-06-22 | 2023-10-06 |
-| [Na Vida Amor](https://open.spotify.com/track/1ktwc6bGOBReJR1Vb2Lqzn) | [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Na Vida Amor](https://open.spotify.com/album/2dZjslkb3UmfEpdJQdFmd2) | 3:45 | 2023-11-10 |  |
+| [Na Vida Amor](https://open.spotify.com/track/1ktwc6bGOBReJR1Vb2Lqzn) | [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Na Vida Amor](https://open.spotify.com/album/2dZjslkb3UmfEpdJQdFmd2) | 3:45 | 2023-11-10 | 2024-03-09 |
+| [Na Vida Amor](https://open.spotify.com/track/5wu4m694O2qTSFoLCLaaxA) | [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Na Vida Amor](https://open.spotify.com/album/1T0HjZ6o7AuST4mfq2peR0) | 3:45 | 2024-01-19 |  |
 | [Na Zona](https://open.spotify.com/track/2nryvguh2EFGc7jjJxyM4e) | [Fradick Draizzy](https://open.spotify.com/artist/3HSBs2HKfPygr1SpDhwQWO), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Na Zona](https://open.spotify.com/album/4vtf3jhaLrvdsEFbFDiC83) | 2:22 | 2023-01-06 | 2023-03-18 |
 | [Nada Mais Interessa](https://open.spotify.com/track/5V6iNdPfrNkRn1IK3e5JB5) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2) | [Nada Mais Interessa](https://open.spotify.com/album/4CMlLGXMAUdsqOLWSJKkbC) | 1:51 | 2023-08-03 | 2023-11-17 |
 | [Namora](https://open.spotify.com/track/1uwXGg0mhXqkt2QsoiXuBK) | [Faro G](https://open.spotify.com/artist/4seDADXKokUxbtWnCczwcK), [prodcerqueira](https://open.spotify.com/artist/0mOhVQ5TtY2dmbjo354qBk) | [Namora](https://open.spotify.com/album/6B3IQPXXEHlzXE7NzQ1png) | 3:27 | 2023-10-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,639 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,671 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 37 | [Night Bus](https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx) | 2:13 |
 | 38 | [I Will](https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 5:44 |
 | 39 | [Fading Lights Are Fading..\. / Reign Rebuilder \(Tail Out\)](https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Rebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 2:49 |
-| 40 | [dlp 2.1](https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu) | 10:50 |
-| 41 | [Cold Out There](https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 3:54 |
+| 40 | [Cold Out There](https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 3:54 |
+| 41 | [dlp 2.1](https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu) | 10:50 |
 | 42 | [Rivers of Sand](https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Venice](https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ) | 4:42 |
 | 43 | [Crimson Ways](https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 6:43 |
 | 44 | [We Say Goodbye To Ourselves](https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Talk Amongst the Trees](https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p) | 2:09 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 51 | [N.L.T.](https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Altar](https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC) | 3:49 |
 | 52 | [Under the Water It Glowed](https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 5:09 |
 | 53 | [Fib01a](https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ) | [Keith Fullerton Whitman](https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl) | [Playthroughs](https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW) | 8:01 |
-| 54 | [Jesus / Pop](https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Rebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 1:42 |
-| 55 | [Borderlands](https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [An Imaginary Country](https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R) | 4:46 |
+| 54 | [Borderlands](https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [An Imaginary Country](https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R) | 4:46 |
+| 55 | [Jesus / Pop](https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Rebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 1:42 |
 | 56 | [Silent Motels](https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 3:56 |
 | 57 | [Meissa](https://open.spotify.com/track/3eBgQ64Hwd1LX12UKwB1en) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Equatorial Stars](https://open.spotify.com/album/25us3iSYDeZ7DjV458Uems) | 8:08 |
 | 58 | [And Then I Turned Away](https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [So Long Orpheus](https://open.spotify.com/track/1LQKgRnOvDnghW6I4Hs6GV) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [24 Postcards In Full Colour](https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e) | 2:23 |
 | 100 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 |
 
-Snapshot ID: `MCw3YTRhNzBhZTgzZDk0Y2IyMDVmN2RkMmMyNDI1MmNhZWYzYjg1YWEy`
+Snapshot ID: `MCw2ODg3NGU2NzhkMjQyNjkxM2Q0ZmI0ZjhmN2FiM2UwYWIwOWQ4ZGEy`

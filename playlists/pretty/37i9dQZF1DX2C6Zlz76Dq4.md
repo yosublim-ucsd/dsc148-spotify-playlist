@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,446 likes - 103 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,431 likes - 103 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 102 | [Milk and Cookies \('till Santa's Gone\)](https://open.spotify.com/track/2Ocrrp9yiHYy08Qw0Ht4eo) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [The Clint Black Christmas Collection](https://open.spotify.com/album/2F1CtdI1ERhG5Sufzevk3l) | 2:41 |
 | 103 | [Winter Wonderland / Sleigh Ride](https://open.spotify.com/track/183egccUAzP1fEFSy2TSZQ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:41 |
 
-Snapshot ID: `MCxiOWQzN2Q1ZTcyMjJiMTk0MzMwMTM4MjQyZDA0MzYyNmE2ZTA1ODYx`
+Snapshot ID: `MCw2M2ZlY2FhNmU4Y2IzODE5YjQwNWQxY2YzZGQyZDNhZTA3ZjJjYzNk`

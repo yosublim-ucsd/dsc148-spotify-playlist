@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 2953,
+  "2024-03-09": 2951,
   "date_first_scraped": "2022-05-30",
   "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
   "name": "This Is Jon Hassell",
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 832160,
       "name": "Darbari Extension I",
       "url": "https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 144506,
       "name": "Night Moves (Fear)",
       "url": "https://open.spotify.com/track/5lFfcGyrJTTR2GvaxdtraU"

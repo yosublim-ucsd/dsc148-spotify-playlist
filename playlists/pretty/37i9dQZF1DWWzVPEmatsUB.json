@@ -1,13 +1,29 @@
 {
   "description": "Ease into the day",
-  "num_followers": 637681,
+  "num_followers": 637643,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjE2NTY5NGIwYjgwMzk4ODAwNzIxOGVlMjk0ZTZlNzQxNDlhMmE5",
+  "snapshot_id": "MCxmMGFlYjBlYTg4NWRkOTBlYTdlMzcxNTM1MzFlMzI3NDRlMzk1NDg4",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 195810,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/67Y1yh3VmubMkvYmO7X5h0"
+    },
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {

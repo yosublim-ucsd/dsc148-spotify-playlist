@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Lisl, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,409 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,414 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 42 | [Hands / Trees](https://open.spotify.com/track/016uLcvrFGSOuXdoER26C9) | [Almost Twins](https://open.spotify.com/artist/7xe5zbkg4tKrRQAAmscgQg) | [Hands / Trees](https://open.spotify.com/album/3QMOytePrNdnXvijYm9nnL) | 3:54 |
 | 43 | [Another Dirtbag](https://open.spotify.com/track/1byYnG0KoBJI5FvU7EHdVd) | [Bonheur](https://open.spotify.com/artist/7sotWiVs7bcM5YHhlvulNL) | [Another Dirtbag](https://open.spotify.com/album/00EhwE0OE8zEs43Oo5HkOS) | 3:55 |
 | 44 | [Katze](https://open.spotify.com/track/1H17wACf2TRrKpFePwGjGP) | [GALANT](https://open.spotify.com/artist/0XkSZeTdnlvtYgayECcutn) | [Katze](https://open.spotify.com/album/22Yf2txkeqzgmfy2XM31BI) | 2:54 |
-| 45 | [Rosenkohl](https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5) | 2:42 |
+| 45 | [Rosenkohl](https://open.spotify.com/track/5imD5rZGzUiekhPFNy87m7) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/5srSpRi5eecnIzIWU3dxlQ) | 2:42 |
 | 46 | [w0h1n](https://open.spotify.com/track/1XaocztXVNrRKYVySXQszD) | [kusskuss](https://open.spotify.com/artist/4asi4q2YHeEj8ORPC16u9S) | [w0h1n](https://open.spotify.com/album/2oIZqF72uART2D4P24m2sS) | 2:32 |
 | 47 | [Murderer in the Moonlight](https://open.spotify.com/track/48p0uLjnXC25DW1ulg4eQ0) | [MERIT](https://open.spotify.com/artist/7tBhBEIKZznYE8CI618tNv) | [Murderer in the Moonlight](https://open.spotify.com/album/68PX6TsfxjHyEAf5pcJWmm) | 3:17 |
 | 48 | [Die That Way](https://open.spotify.com/track/0wD5SAqDf3pKNWfgIduarV) | [Bootsy](https://open.spotify.com/artist/5qgIEpgDea1QlFu29VrTuI) | [Die That Way](https://open.spotify.com/album/5k4bDVMAgkjuZ3cKJ1L1al) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Traveller](https://open.spotify.com/track/4EW7dVVnUTiC4Xkebko4ko) | [mamari](https://open.spotify.com/artist/6XakLqegVbnu9xeY7vz7NM) | [Traveller](https://open.spotify.com/album/60lNNwEj7Y4vytTNHQsezm) | 4:47 |
 | 80 | [Falling Again](https://open.spotify.com/track/0LqE1XSOeqEAoZSpKqX5bC) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Falling Again](https://open.spotify.com/album/3KUTpdKpT4zvjSechCnIPL) | 2:50 |
 
-Snapshot ID: `MCxkZGQwYjZjYzllZDEwNTA4MjBhMjFkZTZjZjcxZWQxMDZjYzQ2MmJi`
+Snapshot ID: `MCw3ZjczN2Q0ODUzMzQwZTM5M2JiMThjZmM1Mzg2NzMwOWMxMjRlMTU3`

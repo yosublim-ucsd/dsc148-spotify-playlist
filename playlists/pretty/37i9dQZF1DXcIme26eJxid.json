@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 102007,
+  "num_followers": 102040,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWU0ZGY4MWYyY2U2ZWE5MWE1MGNmMWYyYzRlYWM4MjhkY2ZiMjMz",
+  "snapshot_id": "MCwxYmJlMmNjMzNkN2U1NGU5OGVhNWM2OWQzMjZmMDBkZDI5NWIxZTQw",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/0rnDmgcZvn9WPsOPqHbt16"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Weekend Special (USA Remixes)",
-        "url": "https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv"
-      },
-      "artists": [
-        {
-          "name": "Brenda & The Big Dudes",
-          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
-        }
-      ],
-      "duration_ms": 288109,
-      "name": "Weekend Special (with Brenda Fassie) - USA Remix",
-      "url": "https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG"
-    },
-    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Ivory Music Classics, Vol. 2",
@@ -571,6 +555,22 @@
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Weekend Special (USA Remixes)",
+        "url": "https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv"
+      },
+      "artists": [
+        {
+          "name": "Brenda & The Big Dudes",
+          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
+        }
+      ],
+      "duration_ms": 288109,
+      "name": "Weekend Special (with Brenda Fassie) - USA Remix",
+      "url": "https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG"
     },
     {
       "added_at": "2019-06-28 16:54:51",

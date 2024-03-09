@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Marari Vibes",
+        "url": "https://open.spotify.com/album/7El5vb5cGWoy9shvwiZYBT"
+      },
+      "artists": [
+        {
+          "name": "The Surrealers",
+          "url": "https://open.spotify.com/artist/6G9OIA19uLnfd7PNELBJI9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Marari Vibes",
+      "url": "https://open.spotify.com/track/7FGXxtTLhPXusdPJox3q8R"
+    },
+    {
+      "album": {
         "name": "Meditation Hang",
         "url": "https://open.spotify.com/album/7eHNKcRzBykX6q5Xyf9U5N"
       },
@@ -2132,6 +2150,24 @@
       "duration_ms": 288000,
       "name": "Useful Wisdom",
       "url": "https://open.spotify.com/track/1vpZOt4glHPLzTnt5TVnIM"
+    },
+    {
+      "album": {
+        "name": "Vasudha",
+        "url": "https://open.spotify.com/album/2ftE0pe8oCzP2NrvgQguIr"
+      },
+      "artists": [
+        {
+          "name": "Cypress West",
+          "url": "https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Vasudha",
+      "url": "https://open.spotify.com/track/5wxoBYfNCh415Wm4QFKgHm"
     },
     {
       "album": {

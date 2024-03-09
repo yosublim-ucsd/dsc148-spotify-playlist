@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539278,
+  "num_followers": 539295,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjdiNTA3NmUzYzA4N2E4MmJkOGEyODNmYTQ4MjRlYzhjOWE5MzA0",
+  "snapshot_id": "MCw3ZWZjYTFhZmNkNTBmMWRlNjUyMGQ4NTA4ZjQyYzJjOTk4Njg2OThi",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/1GyHRxKZ2DUsOrXSKuJUtC"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/6WGAMXLrez7idFa5DLeWrM"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 320333,
       "name": "Albatross",
       "url": "https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/1GyHRxKZ2DUsOrXSKuJUtC"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/6WGAMXLrez7idFa5DLeWrM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Dead Rock Commandos",
-        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
-      },
-      "artists": [
-        {
-          "name": "Nightstalker",
-          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "Dead Rock Commandos",
-      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Macho Libre",
         "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 230653,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Dead Rock Commandos",
+        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
+      },
+      "artists": [
+        {
+          "name": "Nightstalker",
+          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "Dead Rock Commandos",
+      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Vols. 11 & 12",
-        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
-      },
-      "artists": [
-        {
-          "name": "Desert Sessions",
-          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
-        }
-      ],
-      "duration_ms": 333859,
-      "name": "Noses in Roses, Forever",
-      "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Burning Village",
         "url": "https://open.spotify.com/album/5XEU2cfXUc3WUdo4vyS8mh"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 282217,
       "name": "The Dead Won't Sleep",
       "url": "https://open.spotify.com/track/2oeQxYynk2yTM9xeGx1ifl"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Vols. 11 & 12",
+        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
+      },
+      "artists": [
+        {
+          "name": "Desert Sessions",
+          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
+        }
+      ],
+      "duration_ms": 333859,
+      "name": "Noses in Roses, Forever",
+      "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Head Smashed In",
-        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
-      },
-      "artists": [
-        {
-          "name": "We Hunt Buffalo",
-          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
-        }
-      ],
-      "duration_ms": 290949,
-      "name": "Heavy Low",
-      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "John Garcia and the Band of Gold",
         "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 222169,
       "name": "Jim's Whiskers",
       "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Head Smashed In",
+        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
+      },
+      "artists": [
+        {
+          "name": "We Hunt Buffalo",
+          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
+        }
+      ],
+      "duration_ms": 290949,
+      "name": "Heavy Low",
+      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
     },
     {
       "added_at": "2024-02-09 05:00:00",

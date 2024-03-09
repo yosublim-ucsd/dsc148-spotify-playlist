@@ -1,9 +1,31 @@
 {
-  "2024-03-08": 177437,
+  "2024-03-09": 177530,
   "date_first_scraped": "2022-07-17",
-  "description": "Dillaz entra na zona. ",
+  "description": "ProfJam entra na zona. ",
   "name": "Na Zona",
   "tracks": [
+    {
+      "album": {
+        "name": "#SAFADA",
+        "url": "https://open.spotify.com/album/5hEQlGlZvoLaCpdqHcBrvu"
+      },
+      "artists": [
+        {
+          "name": "Uzzy",
+          "url": "https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi"
+        },
+        {
+          "name": "Ary Rafeiro",
+          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192391,
+      "name": "#SAFADA",
+      "url": "https://open.spotify.com/track/2ABo9zdcOY5U6K1gJT9qXj"
+    },
     {
       "album": {
         "name": "#Sextou",
@@ -429,7 +451,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 215454,
       "name": "Acorda \u00d2 Z\u00e9",
       "url": "https://open.spotify.com/track/139lGHAO6XTJboUSJMhRin"
@@ -1217,6 +1239,24 @@
       "duration_ms": 211069,
       "name": "Barraca ta abana",
       "url": "https://open.spotify.com/track/5x4Nsek38LUOo2M0dCgMvv"
+    },
+    {
+      "album": {
+        "name": "Basta",
+        "url": "https://open.spotify.com/album/23HBUml02THqdDUhAYSO3M"
+      },
+      "artists": [
+        {
+          "name": "Estraca",
+          "url": "https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/4EHWvN8Flghia7UHyJL4T8"
     },
     {
       "album": {
@@ -2327,7 +2367,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 208119,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
@@ -2493,7 +2533,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 224653,
       "name": "DAKAR",
       "url": "https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1"
@@ -3467,7 +3507,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 211394,
       "name": "Falam Muito",
       "url": "https://open.spotify.com/track/53mcQ80KjiD78AfkQ7fwJA"
@@ -4545,7 +4585,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 196709,
       "name": "INCOMODA",
       "url": "https://open.spotify.com/track/2muGXaGyDvLDSxDLQ8saH0"
@@ -4571,7 +4611,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 205894,
       "name": "Incondicional",
       "url": "https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy"
@@ -5709,7 +5749,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 170769,
       "name": "Miami Freestyle",
       "url": "https://open.spotify.com/track/4fOZ8NLB1EkEh4IC2uJDOL"
@@ -6432,6 +6472,24 @@
     },
     {
       "album": {
+        "name": "NR6",
+        "url": "https://open.spotify.com/album/3IWVaeKkVGpYAkwN6GUFRp"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267493,
+      "name": "NR6",
+      "url": "https://open.spotify.com/track/61r5JPTLkPZQ725NODvAcC"
+    },
+    {
+      "album": {
         "name": "Nu Bem Di Nada",
         "url": "https://open.spotify.com/album/6hnJoTWkmvtVPNRNmzJmT5"
       },
@@ -6687,6 +6745,28 @@
       "duration_ms": 218859,
       "name": "O Outro Lado Do Muro",
       "url": "https://open.spotify.com/track/6qfviK9gdL6uG4OvhBMzut"
+    },
+    {
+      "album": {
+        "name": "O Peixe Morre Pela Boca",
+        "url": "https://open.spotify.com/album/4e4U4mk7rUxVkaRMpHtenJ"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        },
+        {
+          "name": "Kosmo Da Gun",
+          "url": "https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153388,
+      "name": "O Peixe Morre Pela Boca",
+      "url": "https://open.spotify.com/track/3OxBtfWT4rEGBmVvSNybAP"
     },
     {
       "album": {
@@ -7895,8 +7975,8 @@
       },
       "artists": [
         {
-          "name": "zzzcadu",
-          "url": "https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf"
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
         },
         {
           "name": "Kuptz",
@@ -7935,6 +8015,28 @@
       "duration_ms": 208695,
       "name": "Quitada",
       "url": "https://open.spotify.com/track/2syKsGREUuYq4pzIBxInwQ"
+    },
+    {
+      "album": {
+        "name": "Red Eyes",
+        "url": "https://open.spotify.com/album/75hNFogm7XD0x3C35HYxpq"
+      },
+      "artists": [
+        {
+          "name": "LZ",
+          "url": "https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud"
+        },
+        {
+          "name": "XROOTZ",
+          "url": "https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188717,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/5ufHiz91MIA3J9RPEZsQif"
     },
     {
       "album": {
@@ -8087,6 +8189,28 @@
       "duration_ms": 177272,
       "name": "ROSAS",
       "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+    },
+    {
+      "album": {
+        "name": "Rubi",
+        "url": "https://open.spotify.com/album/5xkhtNrfNfIOezNhNguryF"
+      },
+      "artists": [
+        {
+          "name": "Lake",
+          "url": "https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p"
+        },
+        {
+          "name": "Dbraz",
+          "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130575,
+      "name": "Rubi",
+      "url": "https://open.spotify.com/track/2LP6gbt6tSMRH2aSASaJsR"
     },
     {
       "album": {
@@ -8703,7 +8827,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 212250,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/0RvCPkkRftz2xdUMXAylLW"
@@ -9454,6 +9578,28 @@
     },
     {
       "album": {
+        "name": "UHTRED",
+        "url": "https://open.spotify.com/album/2SDvzHEdud2DYF1sHeOaf6"
+      },
+      "artists": [
+        {
+          "name": "Remedy DON Dadda",
+          "url": "https://open.spotify.com/artist/4Pk4SkoJXaM7GCpRHKK8yL"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173005,
+      "name": "UHTRED",
+      "url": "https://open.spotify.com/track/34g7Rwoc29fVlzXH4e1ccj"
+    },
+    {
+      "album": {
         "name": "PRODIGIA-TE (Zuka Deluxe)",
         "url": "https://open.spotify.com/album/2A48hZ68pXrEbj4P04s6Go"
       },
@@ -9953,6 +10099,32 @@
       "duration_ms": 202760,
       "name": "Yeye",
       "url": "https://open.spotify.com/track/0k4lqIUYVQ3aFLDqFrx2Yu"
+    },
+    {
+      "album": {
+        "name": "ZONA VIP",
+        "url": "https://open.spotify.com/album/3zqgPrVEwFEdAl4hs6ekNI"
+      },
+      "artists": [
+        {
+          "name": "SOLUNA",
+          "url": "https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW"
+        },
+        {
+          "name": "C\u00edntia",
+          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
+        },
+        {
+          "name": "Dotorado Pro",
+          "url": "https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "ZONA VIP",
+      "url": "https://open.spotify.com/track/1N5QYK8cHKeP8jNTacR5xX"
     },
     {
       "album": {

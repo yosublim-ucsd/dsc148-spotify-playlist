@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 317340,
       "name": "BEM MELHOR",
       "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
@@ -3365,6 +3365,32 @@
     },
     {
       "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "Cupido Querido",
+      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+    },
+    {
+      "album": {
         "name": "C\u00e2mera Lenta",
         "url": "https://open.spotify.com/album/6q8T6xmxGEBDWUl0cw8D9D"
       },
@@ -3436,7 +3462,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 133090,
       "name": "c\u00ea mora t\u00e3o longe",
       "url": "https://open.spotify.com/track/3o3RKdKHOqtiKKDbExkLOz"
@@ -5444,6 +5470,28 @@
       "duration_ms": 121263,
       "name": "FESTA NA PISCINA",
       "url": "https://open.spotify.com/track/5QmIowtiQQMOHNQoOO0SQ1"
+    },
+    {
+      "album": {
+        "name": "FESTA NA PISCINA (Remix)",
+        "url": "https://open.spotify.com/album/70xQBJPL7dKbkBwjpQXxND"
+      },
+      "artists": [
+        {
+          "name": "JOTTAH",
+          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
+        },
+        {
+          "name": "Manocchio",
+          "url": "https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162947,
+      "name": "FESTA NA PISCINA - Remix",
+      "url": "https://open.spotify.com/track/1rRNGI9qwSmP3CN8hApeKv"
     },
     {
       "album": {
@@ -8911,6 +8959,28 @@
     },
     {
       "album": {
+        "name": "Na M\u00eddia",
+        "url": "https://open.spotify.com/album/3SMwBuhATR0Go1qsWcqIkb"
+      },
+      "artists": [
+        {
+          "name": "Canalha",
+          "url": "https://open.spotify.com/artist/6egerencVd9waJcHzuQA77"
+        },
+        {
+          "name": "Young World",
+          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Na M\u00eddia",
+      "url": "https://open.spotify.com/track/3TgpLBsZFo8DAe2JgUd3fV"
+    },
+    {
+      "album": {
         "name": "Na Onda",
         "url": "https://open.spotify.com/album/3IyF3CLMVZ9zYYbTvZ3dP9"
       },
@@ -9734,7 +9804,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 124363,
       "name": "O pre\u00e7o n\u00e3o \u00e9 teu sangue",
       "url": "https://open.spotify.com/track/6Ughq9M2pHg1xDAALjUlkJ"
@@ -10768,7 +10838,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 182891,
       "name": "Poesia Para Belas Damas",
       "url": "https://open.spotify.com/track/1gDH8T2QjvNNOVTeVRy8jK"
@@ -11450,6 +11520,36 @@
       "duration_ms": 149538,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/6Q4xInAtdoRP9lXREWl8nd"
+    },
+    {
+      "album": {
+        "name": "Quem Nunca Sonhou",
+        "url": "https://open.spotify.com/album/5EDen3KhtVXzxjrkaE29sz"
+      },
+      "artists": [
+        {
+          "name": "Didi",
+          "url": "https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi"
+        },
+        {
+          "name": "Dvasto",
+          "url": "https://open.spotify.com/artist/6aFCFfJzCIbZ8h4xLsduHf"
+        },
+        {
+          "name": "Jotta",
+          "url": "https://open.spotify.com/artist/0vp5aE4y1wHwSXS7RFpd2Y"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Quem Nunca Sonhou",
+      "url": "https://open.spotify.com/track/2jhYhlcnEwvkxh2yXL8Jol"
     },
     {
       "album": {
@@ -14258,6 +14358,28 @@
       "duration_ms": 145152,
       "name": "Vinho na Ta\u00e7a",
       "url": "https://open.spotify.com/track/78An0nOO8LbmRqwQnU28F0"
+    },
+    {
+      "album": {
+        "name": "Vira a Chave",
+        "url": "https://open.spotify.com/album/2I4igYeiqIzU6Soc6fyUzA"
+      },
+      "artists": [
+        {
+          "name": "Jackdi",
+          "url": "https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196779,
+      "name": "Vira a Chave",
+      "url": "https://open.spotify.com/track/5AMMdq7N2kTSOXACCPNruT"
     },
     {
       "album": {

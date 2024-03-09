@@ -1,13 +1,29 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 632611,
+  "num_followers": 632650,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTI3ZDk5YWI1NTk5YzI2N2M5ODgyNDI4YjJhYjU3YjJhNTI5ZTAy",
+  "snapshot_id": "MCxlMjRmOGEwZGM3OTY1Njc2Mjc2YjUwNGM0MGVlNTA5NmViNjE5NTgy",
   "tracks": [
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
+        "name": "Falling Blue Stars",
+        "url": "https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js"
+      },
+      "artists": [
+        {
+          "name": "Sal Lastra",
+          "url": "https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Falling Blue Stars",
+      "url": "https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw"
+    },
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
@@ -43,18 +59,18 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "Falling Blue Stars",
-        "url": "https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js"
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg"
       },
       "artists": [
         {
-          "name": "Sal Lastra",
-          "url": "https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa"
+          "name": "Aerin Villegas",
+          "url": "https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Falling Blue Stars",
-      "url": "https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw"
+      "duration_ms": 132000,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -71,22 +87,6 @@
       "duration_ms": 129103,
       "name": "S\u00f3lestur",
       "url": "https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg"
-      },
-      "artists": [
-        {
-          "name": "Aerin Villegas",
-          "url": "https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u"
+      },
+      "artists": [
+        {
+          "name": "Santiago Penitente",
+          "url": "https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
         "name": "From Another View",
         "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 202000,
       "name": "Always Sleepy",
       "url": "https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u"
-      },
-      "artists": [
-        {
-          "name": "Santiago Penitente",
-          "url": "https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR"
+      },
+      "artists": [
+        {
+          "name": "Calming Lesmo",
+          "url": "https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
         "name": "Morgong\u00e5va",
         "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
       },
@@ -507,6 +523,22 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ"
+      },
+      "artists": [
+        {
+          "name": "Koen Parker",
+          "url": "https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
         "name": "Axiom",
         "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
       },
@@ -519,6 +551,22 @@
       "duration_ms": 191320,
       "name": "Perception",
       "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK"
+      },
+      "artists": [
+        {
+          "name": "Nova Issue",
+          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -987,22 +1035,6 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "Jubran's Lake (432hz)",
-        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Jubran's Lake (432hz) - No Ambience",
-      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
         "name": "The Light of Day",
         "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
       },
@@ -1015,6 +1047,22 @@
       "duration_ms": 167386,
       "name": "The Light of Day",
       "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
+        "name": "Jubran's Lake (432hz)",
+        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Jubran's Lake (432hz) - No Ambience",
+      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -1051,22 +1099,6 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "Beautiful Morning",
-        "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
-      },
-      "artists": [
-        {
-          "name": "Ljomo",
-          "url": "https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
       },
@@ -1079,6 +1111,22 @@
       "duration_ms": 191000,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
+        "name": "Beautiful Morning",
+        "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
+      },
+      "artists": [
+        {
+          "name": "Ljomo",
+          "url": "https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -1143,6 +1191,22 @@
       "duration_ms": 160345,
       "name": "Precious 432 hz",
       "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
+        "name": "Behind Your Eyes",
+        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Behind Your Eyes",
+      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -1223,22 +1287,6 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
-        "name": "Behind Your Eyes",
-        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Behind Your Eyes",
-      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -1567,54 +1615,6 @@
       "duration_ms": 187636,
       "name": "Into Gratitude - Stripped",
       "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
-        "name": "Gotham",
-        "url": "https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c"
-      },
-      "artists": [
-        {
-          "name": "Claes Nilsson",
-          "url": "https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9"
-        }
-      ],
-      "duration_ms": 150550,
-      "name": "Gotham (acoustic)",
-      "url": "https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
-        "name": "Longevity",
-        "url": "https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Sandberg",
-          "url": "https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O"
-        }
-      ],
-      "duration_ms": 214951,
-      "name": "Longevity",
-      "url": "https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
-        "name": "Tranquillo",
-        "url": "https://open.spotify.com/album/6Ii8nqRSP1GXwaYx2Zl1sQ"
-      },
-      "artists": [
-        {
-          "name": "Nicol\u00f3 Lorenzo",
-          "url": "https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt"
-        }
-      ],
-      "duration_ms": 131339,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/4WukGsbJZHciloJygVdG63"
     }
   ],
   "unique_name": "DayDreamer",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: m tú
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,974 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,986 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 64 | [Tâm Ý](https://open.spotify.com/track/46ZAg8uD4otBIus3h5rsjG) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ), [Tuyết](https://open.spotify.com/artist/09pDLc11jZN8ECK9dz4r2K), [KayTee](https://open.spotify.com/artist/248WoYEoxyIPtzMbAmtSTF) | [Tâm Ý](https://open.spotify.com/album/3l8niA3XA4zCQMjctxfTwG) | 3:45 |
 | 65 | [PANADOL](https://open.spotify.com/track/2G9B5GJOWI8vREC93h52uV) | [Meii](https://open.spotify.com/artist/2ZAYNi4sNWslPjGvtG0qmi) | [PANADOL](https://open.spotify.com/album/2vUOgWyIDJW1kzx5k17kGx) | 2:32 |
 | 66 | [Vớ Vẩn](https://open.spotify.com/track/3ZPFZihOWSpSmDyQQZHMtp) | [H2N](https://open.spotify.com/artist/1YGubsONDzyJQMvWpirChb) | [Vớ Vẩn](https://open.spotify.com/album/5T6iNhsjL3tY0Xn9qUnbAn) | 2:47 |
-| 67 | [Thân Mật](https://open.spotify.com/track/1uHrEy6Y2MCso5IHQTCJgA) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB), [Uyennhi](https://open.spotify.com/artist/6pBtdDN3A7Xaw1tqVqcSZJ) | [Thân Mật](https://open.spotify.com/album/7b0p4er5yBoUzzg8C70cZh) | 3:05 |
+| 67 | [Thân Mật](https://open.spotify.com/track/4VPH156XiOHsQ1UcbvWupA) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB), [Uyennhi](https://open.spotify.com/artist/6pBtdDN3A7Xaw1tqVqcSZJ) | [Thân Mật](https://open.spotify.com/album/79V07Rj8SB6j2ogjGQcrrC) | 3:05 |
 | 68 | [thôi tìm nhau](https://open.spotify.com/track/4tgP2bUe0JYewd5ZkURAVU) | [Hoàng KayLee](https://open.spotify.com/artist/41TxXGX17thfgXvwCXZ9fq), [Dilo](https://open.spotify.com/artist/73DHEx4KHoW8ThiVDrE5jG) | [thôi tìm nhau](https://open.spotify.com/album/3ws8ztJoDxZQsJ5YuDvxrq) | 2:39 |
 | 69 | [Khi Nào Em Có Thể](https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG) | [Thiên Thanh Azura](https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT), [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Khi Nào Em Có Thể](https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH) | 3:46 |
 | 70 | [Tại Sao Không Nói](https://open.spotify.com/track/1N4T4aZm8lIEAqL2oSafId) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06) | [Tại Sao Không Nói](https://open.spotify.com/album/3rTrGvjT9ZMERZqLPlWVBh) | 4:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Lạc Mất Lối ?](https://open.spotify.com/track/0XlKUPSh3Kb1jKnEhURa6k) | [Lê Chí Hậu](https://open.spotify.com/artist/7A5aUdfbWEgALBnXS2Ne0x) | [Lạc Mất Lối ?](https://open.spotify.com/album/3q6hz2ifuPWW5dgmdaZ1Uh) | 1:00 |
 | 100 | [anh muốn mình như con thuyền kia lao vào em rồi đắm chìm](https://open.spotify.com/track/1Qnt8m0uB5Q9QtFNFGKP4c) | [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P), [Mhee](https://open.spotify.com/artist/5ZhTl7bT6oDSoXIq1Zzf53), [Bạn Có Tài Mà](https://open.spotify.com/artist/6FCF4ljKz7tzcsOyUExpS7) | [anh muốn mình như con thuyền kia lao vào em rồi đắm chìm](https://open.spotify.com/album/56qStkWFU20BjBD77Oaspr) | 3:25 |
 
-Snapshot ID: `MCw0N2ZlNjAzOWViZTVmMzVkZTU0OWVkZWVmZGRlNjRiZjRlYzFlYzk1`
+Snapshot ID: `MCxkMjQyMDExMWE5ZTkxZjY2ZDY1ZTY2NzQxZDM2ODEyZjgwM2UzNjA1`

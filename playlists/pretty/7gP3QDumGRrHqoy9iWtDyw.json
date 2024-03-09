@@ -6,8 +6,32 @@
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "MjI2Myw1MTU3NDk5OGE3ODEyNWVjZmE5NGExODlmYWNlNWYwMzM0MTIxZGEx",
+  "snapshot_id": "MjI2NSxlNWFmNWY0NTdmNWE0ZTk4OGUxYjIxZWZlMmYzNWE4NmJiNmRmNzBi",
   "tracks": [
+    {
+      "added_at": "2024-03-08 08:14:27",
+      "album": {
+        "name": "Giving Me Life",
+        "url": "https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Giving Me Life",
+      "url": "https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N"
+    },
     {
       "added_at": "2024-02-14 11:30:01",
       "album": {

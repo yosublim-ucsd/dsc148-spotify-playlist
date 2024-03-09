@@ -2219,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "INTEGRAL DUKE ELLINGTON 1958 - 1959",
+        "url": "https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341346,
+      "name": "Prima Bara Dubla",
+      "url": "https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT"
+    },
+    {
+      "album": {
         "name": "The Duke: The Columbia Years (1927-1962)",
         "url": "https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7"
       },

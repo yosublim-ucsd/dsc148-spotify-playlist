@@ -1,13 +1,209 @@
 {
-  "description": "New releases for the kids. Cover:  Casey Breves & Sam Tsui",
-  "num_followers": 17823,
+  "description": "New releases for the kids. Cover: Jack Black",
+  "num_followers": 17869,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTJmZmZkY2E5OWVkYmI3ZTYwNzZiOGFjNmQ0YjA1ZmZkMWViNGZl",
+  "snapshot_id": "MCxkODRiODhhMDdmNTE1NmU5ZmZmNDZiYTQ3ZmM1ZjNkZTk1NTBiZjU4",
   "tracks": [
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "...Baby One More Time (from Kung Fu Panda 4)",
+      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 130848,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Hello Everybody and Other Circle Time Songs",
+        "url": "https://open.spotify.com/album/19FPtlAvRYPpScvEqxqD2x"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "duration_ms": 119978,
+      "name": "Hello Everybody",
+      "url": "https://open.spotify.com/track/4123v3VopASU20AYlIS2Eh"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Feels Like Flying",
+        "url": "https://open.spotify.com/album/4POCLFtLLnv7bOzh1zZIvV"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        }
+      ],
+      "duration_ms": 141498,
+      "name": "Feels Like Flying",
+      "url": "https://open.spotify.com/track/65gVSEyOCGxvvHOkSpojHV"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Robot Song",
+        "url": "https://open.spotify.com/album/2vIczC4M4QngEdmbEyI8W1"
+      },
+      "artists": [
+        {
+          "name": "Hopscotch Songs",
+          "url": "https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x"
+        }
+      ],
+      "duration_ms": 177896,
+      "name": "The Robot Song",
+      "url": "https://open.spotify.com/track/36kx1FP8HjiGMVxGWqRgGK"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Baby in the Bath (Finny the Shark)",
+        "url": "https://open.spotify.com/album/6xT265hUm3CbmkWSFIRpQj"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Finny the Shark",
+          "url": "https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i"
+        }
+      ],
+      "duration_ms": 95560,
+      "name": "The Baby in the Bath (Finny the Shark)",
+      "url": "https://open.spotify.com/track/7bZoJcaI4Y6mgiBj1B7nua"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "When We Work Together",
+        "url": "https://open.spotify.com/album/65peX0LYAa8BqkYSemLsFl"
+      },
+      "artists": [
+        {
+          "name": "The Quokkas",
+          "url": "https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg"
+        }
+      ],
+      "duration_ms": 105704,
+      "name": "When We Work Together",
+      "url": "https://open.spotify.com/track/274L3hEEvLZMhMEHUGlJ1P"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Barracuda",
+        "url": "https://open.spotify.com/album/0lqVDL3JDHXeSm5fXnUYLs"
+      },
+      "artists": [
+        {
+          "name": "The Party Cats",
+          "url": "https://open.spotify.com/artist/2hCA1Ydi1AJZAYNmCP8Mvk"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/713NxSCpXnw0TbzXChrCEO"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Hot Wheels Let's Race Theme Song",
+        "url": "https://open.spotify.com/album/2aJkmEPmwl7fki60ZO0sVJ"
+      },
+      "artists": [
+        {
+          "name": "Hot Wheels Let's Race",
+          "url": "https://open.spotify.com/artist/47KiFGj9XRfpLHfUHtzxUL"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Hot Wheels Let's Race Theme Song",
+      "url": "https://open.spotify.com/track/5Jp4vRhQ4TLXrp9cnJfXu6"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Rock Goes On (Single From Fraggle Rock: Back To The Rock - Season 2)",
+        "url": "https://open.spotify.com/album/78mO9bfeCGTBhbnQ0aDtZ0"
+      },
+      "artists": [
+        {
+          "name": "Fraggle Rock",
+          "url": "https://open.spotify.com/artist/3Nxg9jbBUXycegdZFGuoEr"
+        }
+      ],
+      "duration_ms": 117266,
+      "name": "The Rock Goes On (Single From Fraggle Rock: Back To The Rock - Season 2)",
+      "url": "https://open.spotify.com/track/5aQVL0bWhq8Mr9pMYaCONN"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "FRIENDS ROCK!",
+        "url": "https://open.spotify.com/album/3WNm97PvuXfFNmsyKup2zH"
+      },
+      "artists": [
+        {
+          "name": "Rock and Roll Playhouse",
+          "url": "https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal"
+        }
+      ],
+      "duration_ms": 190698,
+      "name": "You're My Best Friend",
+      "url": "https://open.spotify.com/track/2OX1VPMZCZfP2jK5OP6c7c"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Glow-in-the-Dark Shapes Dance",
+        "url": "https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 213938,
+      "name": "The Glow-in-the-Dark Shapes Dance",
+      "url": "https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl"
+    },
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Anna Lille
 
-160 songs - 8 hr 14 min
+161 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2024-02-08 |  |
 | [Heaven](https://open.spotify.com/track/3jUOFLZ5MJvNrf022LKsDL) | [Adrian Knows](https://open.spotify.com/artist/7tzhTKYUV6uWR4BskFhzB9) | [Heaven](https://open.spotify.com/album/7jCx1Huyomf6QE1P3iAU19) | 4:11 | 2024-02-22 |  |
 | [Helix](https://open.spotify.com/track/5COA0GM1rhpcZYZQ1FKsHx) | [Yony x Malla](https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT) | [Android](https://open.spotify.com/album/2ZSYedTofYAc6wT1aEM1Ed) | 2:19 | 2024-02-08 | 2024-02-16 |
+| [Holding On](https://open.spotify.com/track/2IETnaGnIPYIEIZadmdFD2) | [Boytrill](https://open.spotify.com/artist/1yTrFJnL4ja3zzoUXA3rHT) | [Holding On](https://open.spotify.com/album/1ZEtu0FHOUPVWIlHPxZCL1) | 2:36 | 2024-03-07 |  |
 | [Home](https://open.spotify.com/track/0fYVIFMjjZ8XXdnwI794iS) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Home](https://open.spotify.com/album/6iPnfUPazsTRUJqnxpwoIO) | 2:42 | 2024-02-22 |  |
 | [Hurt](https://open.spotify.com/track/49vpNwWrbyhNeqDAuF11Lr) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Hurt](https://open.spotify.com/album/2jIlVr1qJAdriNKl4CkwvI) | 2:57 | 2024-02-08 | 2024-03-01 |
 | [I.O.U.](https://open.spotify.com/track/3EiUHdoEAu4l4rsfstEwnH) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O) | [I.O.U.](https://open.spotify.com/album/2ujHgoxDxzA8BA24tzaYjd) | 4:24 | 2024-03-07 |  |

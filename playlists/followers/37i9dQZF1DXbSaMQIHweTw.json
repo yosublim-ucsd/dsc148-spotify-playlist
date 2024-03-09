@@ -1,7 +1,7 @@
 {
-  "2024-03-08": 62931,
+  "2024-03-09": 62931,
   "date_first_scraped": "2023-03-30",
-  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Gravity",
+  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Emiway Bantai",
   "name": "Bambai Bantai",
   "tracks": [
     {
@@ -198,6 +198,28 @@
     },
     {
       "album": {
+        "name": "Wholeheartedly",
+        "url": "https://open.spotify.com/album/7kkrtWD5cDiRlVoXbILLfa"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Aksar",
+      "url": "https://open.spotify.com/track/5N317HiUWtkyBiVBESLseW"
+    },
+    {
+      "album": {
         "name": "ALAG BT",
         "url": "https://open.spotify.com/album/0w17qtUDmxXdh5fsHynOCm"
       },
@@ -305,7 +327,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 154105,
       "name": "Baatcheet",
       "url": "https://open.spotify.com/track/4dq90wNvpnKAHaxMx3oJp8"
@@ -2482,6 +2504,24 @@
     },
     {
       "album": {
+        "name": "Wholeheartedly",
+        "url": "https://open.spotify.com/album/7kkrtWD5cDiRlVoXbILLfa"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Tu Tera Dekh",
+      "url": "https://open.spotify.com/track/2VqfsN94NzeeG6a8iUMz0c"
+    },
+    {
+      "album": {
         "name": "Vichaar",
         "url": "https://open.spotify.com/album/5QXqqTxKpXR9ewBXXbaebs"
       },
@@ -2541,7 +2581,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 299401,
       "name": "Warning",
       "url": "https://open.spotify.com/track/5FwpiBGOwbqO8tFyC8Sjtu"

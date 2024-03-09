@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-92 songs - 5 hr 11 min
+93 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [My Heart Stood Still](https://open.spotify.com/track/23xrHsJ6yEz1WJuBBqX2wt) | [Cole Laurence](https://open.spotify.com/artist/1iw5lLOqWw7LhoKzm9G6dw) | [My Heart Stood Still](https://open.spotify.com/album/1TNCzrqc6KnESILZX2knda) | 2:20 | 2023-05-11 |  |
 | [My One and Only Love](https://open.spotify.com/track/0xcbO6hRJccqfTMt7DVrx5) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7) | [Day After Day](https://open.spotify.com/album/50jzk1dNkHn46RWQMb6ASM) | 3:53 | 2023-12-20 |  |
 | [My One and Only Love](https://open.spotify.com/track/2WoILWgDmo0bFmGF9zRiqz) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7) | [Day After Day](https://open.spotify.com/album/4CdfhCXT7I0uvRMssXrKd4) | 3:53 | 2022-10-13 | 2023-12-25 |
-| [My Romance](https://open.spotify.com/track/1Y2z2AZ25yiHNUK523QNBW) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [My Romance](https://open.spotify.com/album/6sY5uxe66omAQihy4VTHYi) | 3:48 | 2023-04-27 |  |
+| [My Romance](https://open.spotify.com/track/1Y2z2AZ25yiHNUK523QNBW) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [My Romance](https://open.spotify.com/album/6sY5uxe66omAQihy4VTHYi) | 3:48 | 2023-04-27 | 2024-03-09 |
+| [My Romance](https://open.spotify.com/track/4tXm4EZDDDWGZVbscYKDYy) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [My Romance](https://open.spotify.com/album/2MJFpIUmawfun460U8TPDr) | 3:48 | 2024-03-06 |  |
 | [Night And Day](https://open.spotify.com/track/39ZjNUQtrNnAFImdzxfwNa) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 2:56 | 2022-10-27 |  |
 | [On Green Dolphin Street](https://open.spotify.com/track/4ej1jTPGqVOUtpIUcI5eK3) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [On Green Dolphin Street](https://open.spotify.com/album/5QH5ucUt4QE6bws2AHNEg5) | 1:51 | 2023-01-26 | 2023-09-16 |
 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 | 2022-10-13 |  |

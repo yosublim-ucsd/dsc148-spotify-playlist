@@ -1,13 +1,29 @@
 {
   "description": "Your new favourite songs! Cover: LE SSERAFIM",
-  "num_followers": 73658,
+  "num_followers": 73736,
   "original_name": "Breaking Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjZhNjdiNjJiYzI2ZjBkMzEzOTYwZjk1ODYxODRmYTA2NzU3MjIy",
+  "snapshot_id": "MCxiOTRiYjc3NTg1ZjQxOGVlZmJmMjJlNGFiNmM4OTc2YzQ1OGE5NDRh",
   "tracks": [
+    {
+      "added_at": "2024-03-07 13:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
     {
       "added_at": "2024-03-07 13:00:00",
       "album": {

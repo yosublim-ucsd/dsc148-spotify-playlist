@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. Cover \- Asim Azhar\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-199 songs - 10 hr 39 min
+200 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Changes](https://open.spotify.com/track/1vu9t6ctWcJyp05cyYSPzC) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Arrival](https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD) | 3:19 | 2021-11-11 | 2022-07-19 |
 | [Chemistry](https://open.spotify.com/track/3Owi1WFOGSbb8rqspfVEO4) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK) | [Chemistry](https://open.spotify.com/album/3cx7Q9tJE4JZVWF9pghpAn) | 2:47 | 2021-11-11 | 2022-07-19 |
 | [Chidiya](https://open.spotify.com/track/0aoN9BQostK81IFddJn8Ej) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/6xecxwI17jdNrGKvHPIqVc) | 4:13 | 2024-02-22 |  |
+| [Chori Chori](https://open.spotify.com/track/06gywLVa2SQz9lqlDEOpy3) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Chori Chori](https://open.spotify.com/album/4CXtHDOWbfetK0RWxA2KV4) | 2:37 | 2024-03-08 |  |
 | [Cleopatra](https://open.spotify.com/track/0YIS5mqANRBYctDGoT48n7) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [SKYPEARL](https://open.spotify.com/album/4QJAdeUYpNo8d4Xcsc5q23) | 3:10 | 2022-07-18 | 2024-02-23 |
 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 | 2022-07-18 | 2024-02-23 |
 | [Conversation](https://open.spotify.com/track/5YO3GNlT1YvOx4Lnqxtqkh) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Conversation](https://open.spotify.com/album/27RE1xF0cjFdDeCD6JQbQD) | 3:24 | 2022-07-18 | 2023-06-20 |
@@ -205,7 +206,7 @@
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2022-07-18 | 2024-02-23 |
 | [Your Love](https://open.spotify.com/track/1E3uueAFlrPTWaInzUUHtg) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Your Love](https://open.spotify.com/album/1iDJsBJEJSMUqutPcRsauk) | 3:17 | 2022-08-08 | 2024-02-23 |
 | [YTL Yaar Tera LIT](https://open.spotify.com/track/0FOttmcxs2gtOhUHB9SmM3) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [YTL \- Yaar Tera LIT](https://open.spotify.com/album/1exeRQTKTvIdDywk5jCWud) | 3:25 | 2021-11-11 | 2022-07-19 |
-| [Zaalim](https://open.spotify.com/track/5DOaPukCbcKwSAtIhRx6wf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Zaalim](https://open.spotify.com/album/22WXefSLreKNa55EROGObB) | 2:49 | 2024-02-24 |  |
+| [Zaalim](https://open.spotify.com/track/5DOaPukCbcKwSAtIhRx6wf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Zaalim](https://open.spotify.com/album/22WXefSLreKNa55EROGObB) | 2:49 | 2024-02-24 |  |
 | [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 | 2024-02-22 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

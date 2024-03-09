@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 610580,
+  "2024-03-09": 610724,
   "date_first_scraped": "2021-12-21",
   "description": "Tech house technicians, featuring ACRAZE. 50% techno, 50% house",
   "name": "Tech House Operator",
@@ -7425,7 +7425,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 146250,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
@@ -21731,6 +21731,32 @@
       "duration_ms": 300041,
       "name": "Ready For The Blues",
       "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
+    },
+    {
+      "album": {
+        "name": "Ready or Not (Here I Come)",
+        "url": "https://open.spotify.com/album/39OgvRplZIJoudMe8CTqHO"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "CALVO",
+          "url": "https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv"
+        },
+        {
+          "name": "DAZZ",
+          "url": "https://open.spotify.com/artist/67hggymbjwkuVTf7qrZanz"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154404,
+      "name": "Ready or Not (Here I Come)",
+      "url": "https://open.spotify.com/track/3XVrQFwrjoj5rHMUK0N7mU"
     },
     {
       "album": {

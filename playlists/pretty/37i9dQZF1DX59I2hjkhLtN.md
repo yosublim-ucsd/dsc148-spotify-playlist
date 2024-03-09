@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 225 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 65 | [Bixho \- Jersey Drill](https://open.spotify.com/track/4KOBYsQsXhVzu3lVmoOXIH) | [João Tamura](https://open.spotify.com/artist/3sPu1TUK3Sg53uMqMBvNzT), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Meireles](https://open.spotify.com/artist/580dOPH0y6qmSC2ZDUHVTp) | [Bixho](https://open.spotify.com/album/5ZaPdJ3EG9xAzUun8G4qY0) | 2:26 |
 | 66 | [CCTV](https://open.spotify.com/track/0lCLNYtUE8BOO9mNfijvxJ) | [Sandrini 2830](https://open.spotify.com/artist/336uZ00PeB8m0gPWb2AcR2) | [CCTV](https://open.spotify.com/album/7ocUFN1RTtV5x26izeQYrX) | 2:41 |
 | 67 | [Deixa](https://open.spotify.com/track/7r3nqcHskM4rew92ZhkSpm) | [TuTu](https://open.spotify.com/artist/2NpSttd4scLuopeAOP3gzn) | [Deixa](https://open.spotify.com/album/4Nb7DPcC2NiIMcqA8bEbgn) | 2:49 |
-| 68 | [Na Vida Amor](https://open.spotify.com/track/1ktwc6bGOBReJR1Vb2Lqzn) | [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Na Vida Amor](https://open.spotify.com/album/2dZjslkb3UmfEpdJQdFmd2) | 3:45 |
+| 68 | [Na Vida Amor](https://open.spotify.com/track/5wu4m694O2qTSFoLCLaaxA) | [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Na Vida Amor](https://open.spotify.com/album/1T0HjZ6o7AuST4mfq2peR0) | 3:45 |
 | 69 | [Abismo](https://open.spotify.com/track/4Y19gfDi0pLbTSCVJLwFRI) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP), [DoG](https://open.spotify.com/artist/1mg1eLA0s55Mq7jAcoVR7R) | [Abismo](https://open.spotify.com/album/25We05uwp3c3TsE6kxUCn3) | 3:16 |
 | 70 | [STEP / ME OR SUM FREESTYLE](https://open.spotify.com/track/71cVW3oDzFab0TGD0qpW6e) | [Russo](https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC) | [DARK HOURS](https://open.spotify.com/album/3UTzqYgsmY88mEWZ7M5APx) | 3:26 |
 | 71 | [Paradoxo](https://open.spotify.com/track/0VVU6WXpkDjtuRQDwSUfMZ) | [Rudy21](https://open.spotify.com/artist/7BJNlefzGMxapgQy6XvZBf) | [Paradoxo](https://open.spotify.com/album/0aZYc9gXKNSDGNaaELACtM) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [TERRA DO NUNCA](https://open.spotify.com/track/1zRfFIkeNhH6UpqAT0r0uK) | [pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [OKAY OKAY](https://open.spotify.com/album/6iefuQOEzgoYh3UHbHpkQN) | 2:13 |
 | 100 | [TOP!AN](https://open.spotify.com/track/7HS2rF70uFwJn9fgM5G8hD) | [Floraby](https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85) | [TOP!AN](https://open.spotify.com/album/31a9nXSPEAtaU1hTMSO6vg) | 3:41 |
 
-Snapshot ID: `MCxlYmE5MDM2NzM0MWUyZDZiNzE4OWRlZDJkZWViMzhjODA5N2U4ZWMz`
+Snapshot ID: `MCxjYjk3NGY3MGJkZjdmODM5NWJlOWQyMzYwZGVlZTE3ZTJjZDk2NTU4`

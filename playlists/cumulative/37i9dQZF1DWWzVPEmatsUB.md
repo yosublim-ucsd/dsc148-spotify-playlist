@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-388 songs - 23 hr 27 min
+389 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Adeline](https://open.spotify.com/track/796IKFUy6xJKcJuV4loLrt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:32 | 2020-10-17 | 2022-07-30 |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 |  |
 | [All Of Me](https://open.spotify.com/track/0qK81UQieeWpsCPFLvHNWO) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Where To Find Me](https://open.spotify.com/album/1gDkVVQODZStmAx0kUl9Tn) | 2:25 | 2023-06-30 |  |
+| [All This Time](https://open.spotify.com/track/67Y1yh3VmubMkvYmO7X5h0) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:15 | 2024-03-08 |  |
 | [Almost Grown](https://open.spotify.com/track/5lTPGDWxdEKVRc4gKpUPmg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Living Room](https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P) | 5:25 | 2020-10-17 | 2022-04-19 |
 | [Along The Way](https://open.spotify.com/track/3J66iW5HU4hbWsDAWejomi) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [eda](https://open.spotify.com/artist/6GV7n7CYZreVNKXNSF1mMI) | [Along The Way](https://open.spotify.com/album/51GIJNNbbCHmB2C9qWTEOK) | 2:43 | 2022-07-22 |  |
 | [Amazing \- Strings Version](https://open.spotify.com/track/4SMNGYvfWjebzsHXl5CyRE) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Amazing \(Strings Version\)](https://open.spotify.com/album/0eVwqZNTNaLpBvD95NiN2d) | 2:58 | 2022-02-11 |  |

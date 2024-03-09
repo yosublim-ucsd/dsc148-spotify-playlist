@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 218070,
+  "2024-03-09": 218115,
   "date_first_scraped": "2021-12-21",
   "description": "Sit back, stay awhile, and savor the soft, sweet sounds of this collection. ",
   "name": "Front Porch",
@@ -35,10 +35,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 198303,
       "name": "A Day for the Hunter, A Day for the Prey",
       "url": "https://open.spotify.com/track/2QBTMrdX3S7QBOslBKlSm6"
+    },
+    {
+      "album": {
+        "name": "A day for the hunter, a day for the prey",
+        "url": "https://open.spotify.com/album/4J4u8xcpz1WTAJRcgenpBa"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198303,
+      "name": "A day for the hunter, a day for the prey",
+      "url": "https://open.spotify.com/track/3qVXB1xk9vuhHb5egYb0FT"
     },
     {
       "album": {

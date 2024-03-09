@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 133699,
+  "2024-03-09": 133993,
   "date_first_scraped": "2021-12-29",
   "description": "The Hottest Christian and Gospel music from across the African continent.  Cover:  <a href=\"https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=L5kMchupSyqaemFH_JfsDA\">Mercy Chinwo</a>",
   "name": "African Gospel Hits",
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 869867,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/26xEQqFIwdwiGa3l14lkDI"
@@ -2509,6 +2509,28 @@
       "duration_ms": 196750,
       "name": "Gods Love",
       "url": "https://open.spotify.com/track/4CKeG9hcOwkqcWGDo104xI"
+    },
+    {
+      "album": {
+        "name": "Good God II",
+        "url": "https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181710,
+      "name": "Good God II",
+      "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
     },
     {
       "album": {

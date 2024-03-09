@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 236355,
+  "num_followers": 236493,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmE3MWRlYTAzOGVjNTQyZGRlZDM1N2Y5OGFjMDY4Y2Y2ZGVhZTI3",
+  "snapshot_id": "MCxhZmVhOTM5YjU5YTMzMTVlMjQ2OGNmNDE3MzA3MmU2YWQwY2UyM2Vh",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Fields (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
-      },
-      "artists": [
-        {
-          "name": "Junip",
-          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3YlFtz805JwhDGy0fLasBO"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Before Today",
         "url": "https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 308680,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Fields (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3YlFtz805JwhDGy0fLasBO"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Fields (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
-      },
-      "artists": [
-        {
-          "name": "Junip",
-          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "Don't Let It Pass",
-      "url": "https://open.spotify.com/track/1ghaBtBdpuZMg5nV9E2qRU"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "King of the Beach",
         "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 158106,
       "name": "King of the Beach",
       "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Fields (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "Don't Let It Pass",
+      "url": "https://open.spotify.com/track/1ghaBtBdpuZMg5nV9E2qRU"
     },
     {
       "added_at": "2021-10-05 08:40:49",

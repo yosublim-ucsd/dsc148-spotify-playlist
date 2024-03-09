@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 972,
+  "2024-03-09": 972,
   "date_first_scraped": "2022-07-12",
   "description": "Fresh takes - from new revisions and iconic covers to unexpected versions and the <a href=\"https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82\">songwriter's</a> own covers. ",
   "name": "Otis Redding: Covered",
@@ -666,24 +666,6 @@
     },
     {
       "album": {
-        "name": "History of the Grateful Dead, Vol. 1 (Bear's Choice)",
-        "url": "https://open.spotify.com/album/5AShxlldX1DRSejBuyZmSG"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "date_added": "2021-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 375400,
-      "name": "Hard to Handle - 2001 Remaster",
-      "url": "https://open.spotify.com/track/34eaklDr2vqwS8L3LZvEB6"
-    },
-    {
-      "album": {
         "name": "Live In Las Vegas",
         "url": "https://open.spotify.com/album/36DandM0gqb1R6cNagnSLa"
       },
@@ -699,6 +681,24 @@
       "duration_ms": 148133,
       "name": "Hard To Handle - Live",
       "url": "https://open.spotify.com/track/19t8vEZJ1MJVgseKoxReXI"
+    },
+    {
+      "album": {
+        "name": "History of the Grateful Dead, Vol. 1 (Bear's Choice)",
+        "url": "https://open.spotify.com/album/5AShxlldX1DRSejBuyZmSG"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375400,
+      "name": "Hard to Handle - Live at Fillmore East, New York City, NY February 14, 1970; 2001 Remaster",
+      "url": "https://open.spotify.com/track/34eaklDr2vqwS8L3LZvEB6"
     },
     {
       "album": {

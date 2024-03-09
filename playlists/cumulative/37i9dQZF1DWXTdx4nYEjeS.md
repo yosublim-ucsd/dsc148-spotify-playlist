@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-990 songs - 2 day 12 hr 18 min
+991 songs - 2 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Arrancacorazones](https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:19 | 2022-04-13 |  |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-08 |  |
 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 | 2023-06-16 | 2023-07-29 |
+| [Así Es el Calor \(feat\. Andrés Calamaro\)](https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Así Es el Calor \(feat\. Andrés Calamaro\)](https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo) | 3:00 | 2024-03-08 |  |
 | [Ausente](https://open.spotify.com/track/5exqYvTUN4tm2TS2NT94tt) | [Lucas Heredia](https://open.spotify.com/artist/2kyFUFJ61joLNbZb9dnWlc) | [Ausente](https://open.spotify.com/album/4WwabDUI3p9Mcii2qqRDNC) | 3:26 | 2022-04-13 | 2022-04-21 |
 | [Autorretrato](https://open.spotify.com/track/5OqKWbI5oP4E2nLAbM27O3) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Autorretrato](https://open.spotify.com/album/4Byqehjd8bVrqUnvAPOtbJ) | 2:58 | 2022-04-08 | 2022-06-26 |
 | [Ave Atonal](https://open.spotify.com/track/27WyXAp1yo7z3zHuJvcaNN) | [Galean](https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Ave Atonal](https://open.spotify.com/album/5vg0oah99ZqCQp8TOrhJB7) | 2:39 | 2022-03-28 | 2022-04-12 |
@@ -126,7 +127,7 @@
 | [Big Girls Don't Cry \- Bossanova](https://open.spotify.com/track/3vetyGs0vfHn5BE8LpsElU) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Big Girls Don't Cry \(Bossanova\)](https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL) | 4:29 | 2022-03-24 | 2022-04-18 |
 | [BLENDER](https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:27 | 2022-09-23 | 2023-11-03 |
 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-25 | 2022-11-13 |
-| [BLENDER](https://open.spotify.com/track/5bV5ro4rvBpgxo7nAeveiT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 2:27 | 2023-11-10 |  |
+| [BLENDER](https://open.spotify.com/track/5bV5ro4rvBpgxo7nAeveiT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 2:27 | 2023-11-10 | 2024-03-09 |
 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 | 2023-05-05 | 2023-06-17 |
 | [Bloody Bloody Border](https://open.spotify.com/track/6BUVSwe1w4ypuSWXMecEmh) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Bloody Bloody Border](https://open.spotify.com/album/6tt6ih80VcCdBOwyxXjeEy) | 2:53 | 2022-03-24 | 2022-04-06 |
 | [Body And Soul](https://open.spotify.com/track/0iUSpN2AUy4E7ccYAOt0YN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Foreign Sound](https://open.spotify.com/album/4gLU5fUjpKtiZF22AZ3O2x) | 3:30 | 2022-03-24 | 2022-04-09 |

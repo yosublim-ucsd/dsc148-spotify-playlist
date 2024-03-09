@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 544265,
+  "2024-03-09": 544402,
   "date_first_scraped": "2022-04-14",
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
   "name": "Coffee + Chill",
@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 175355,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3aufVGeeYQHSq5coMrYFEd"
@@ -357,6 +357,24 @@
       "duration_ms": 170600,
       "name": "Candy Eyes",
       "url": "https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd"
+    },
+    {
+      "album": {
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232725,
+      "name": "Cape Forestier",
+      "url": "https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om"
     },
     {
       "album": {
@@ -1450,6 +1468,24 @@
     },
     {
       "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/6Y6vPRTT6n4uMIz3tC4vzp"
+      },
+      "artists": [
+        {
+          "name": "Lilly Carron",
+          "url": "https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -1555,6 +1591,28 @@
       "duration_ms": 231666,
       "name": "Homecoming Queen",
       "url": "https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0"
+    },
+    {
+      "album": {
+        "name": "honeymoon (feat. Lawson Hull)",
+        "url": "https://open.spotify.com/album/7yvalAYL0RK3gOVz4Phml9"
+      },
+      "artists": [
+        {
+          "name": "LOVELOVELOVE",
+          "url": "https://open.spotify.com/artist/71AkKjNLAa2eGpswzxbdM6"
+        },
+        {
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204492,
+      "name": "honeymoon (feat. Lawson Hull)",
+      "url": "https://open.spotify.com/track/7KD4gsj5Qkv60yDtA4TMXc"
     },
     {
       "album": {
@@ -2104,6 +2162,24 @@
     },
     {
       "album": {
+        "name": "Little Sadness",
+        "url": "https://open.spotify.com/album/4pD4Kemo4z4bwpdzEFg9F0"
+      },
+      "artists": [
+        {
+          "name": "Mel Parsons",
+          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Little Sadness",
+      "url": "https://open.spotify.com/track/2XbvBSOmMyCwOcVcJK7UcL"
+    },
+    {
+      "album": {
         "name": "Madeleine",
         "url": "https://open.spotify.com/album/5R0aWhBYvDZmR3bdvEaVtf"
       },
@@ -2418,6 +2494,24 @@
     },
     {
       "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP"
+    },
+    {
+      "album": {
         "name": "Paint",
         "url": "https://open.spotify.com/album/45bPUWarmAyPDY9yKCJ8kf"
       },
@@ -2512,6 +2606,24 @@
     },
     {
       "album": {
+        "name": "pocket protector",
+        "url": "https://open.spotify.com/album/7liiUvBztzf5TrSHwXIVxo"
+      },
+      "artists": [
+        {
+          "name": "Alexander Biggs",
+          "url": "https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "pocket protector",
+      "url": "https://open.spotify.com/track/0woOAqSvbjSMR8BDHxzEkw"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
       },
@@ -2523,7 +2635,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 309359,
       "name": "re: Stacks - Spotify Singles",
       "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
@@ -2621,6 +2733,24 @@
       "duration_ms": 173571,
       "name": "Simply The Best",
       "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
+    },
+    {
+      "album": {
+        "name": "Slow Down/Brother Pt. 2",
+        "url": "https://open.spotify.com/album/6hKSCcjNNIPVJLdp0cNiVa"
+      },
+      "artists": [
+        {
+          "name": "Tom Young",
+          "url": "https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217250,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/7g2trGGJHZA2nuoe4FECXI"
     },
     {
       "album": {
@@ -2881,7 +3011,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 266432,
       "name": "Stoned at the Nail Salon",
       "url": "https://open.spotify.com/track/38Zs2b75JPNB2tS7O7JQnS"
@@ -3421,6 +3551,24 @@
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
+    },
+    {
+      "album": {
+        "name": "Abington Grove (Deluxe)",
+        "url": "https://open.spotify.com/album/1bWbilcKkGTmwkX7eKFPhI"
+      },
+      "artists": [
+        {
+          "name": "Billy Lockett",
+          "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186050,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/2e7d58TsOtV2gNqs826Jnv"
     },
     {
       "album": {

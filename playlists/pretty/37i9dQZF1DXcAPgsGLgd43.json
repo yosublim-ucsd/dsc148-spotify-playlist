@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3990,
+  "num_followers": 3992,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmE1NTJkZmQzMGFlNjUwNWRhNzQ1ZWEzZTg1NjAzMjhlMTg0NTA4",
+  "snapshot_id": "MCw2MGM3NzZjZjJlMWE2ZGJiZjAwNWU5NTRjZDc1NzExMzg1ZmJmYmU5",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -963,22 +963,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "T\u00f3cate",
-        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
+        "name": "\u00a1Date Prisa!",
+        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
       },
       "artists": [
         {
-          "name": "Cach House",
-          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
         },
         {
-          "name": "Conrado",
-          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
         }
       ],
-      "duration_ms": 190393,
-      "name": "T\u00f3cate",
-      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
+      "duration_ms": 199687,
+      "name": "\u00a1Date Prisa!",
+      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1011,22 +1011,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "\u00a1Date Prisa!",
-        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+        "name": "T\u00f3cate",
+        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
       },
       "artists": [
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
         },
         {
-          "name": "STO CULTR",
-          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
         }
       ],
-      "duration_ms": 199687,
-      "name": "\u00a1Date Prisa!",
-      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
+      "duration_ms": 190393,
+      "name": "T\u00f3cate",
+      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Que Pasa",
-        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Que Pasa",
-      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 186713,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Que Pasa",
+        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Que Pasa",
+      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Balan\u00e7a",
-        "url": "https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X"
-      },
-      "artists": [
-        {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        },
-        {
-          "name": "PAVE",
-          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "Balan\u00e7a",
-      "url": "https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Bandolera (feat. Buza)",
         "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 175040,
       "name": "Bandolera (feat. Buza)",
       "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Balan\u00e7a",
+        "url": "https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "PAVE",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Balan\u00e7a",
+      "url": "https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "La Bulla",
-        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Many Malon",
-          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
-        }
-      ],
-      "duration_ms": 170403,
-      "name": "La Bulla",
-      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 322501,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "La Bulla",
+        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Many Malon",
+          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
+        }
+      ],
+      "duration_ms": 170403,
+      "name": "La Bulla",
+      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E"
-      },
-      "artists": [
-        {
-          "name": "Draxx (ITA)",
-          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
-        },
-        {
-          "name": "Blow (ITA)",
-          "url": "https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq"
-        }
-      ],
-      "duration_ms": 163144,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Ay Papi",
         "url": "https://open.spotify.com/album/0vvPwvAHIQUqHEUvjeLSqb"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 171785,
       "name": "Ay Papi",
       "url": "https://open.spotify.com/track/2EhWf9BWQFFCp8gOvOY7J7"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "Blow (ITA)",
+          "url": "https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq"
+        }
+      ],
+      "duration_ms": 163144,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Gitrox",
-        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Gitrox",
-      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Labios (La Noche)",
         "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 161760,
       "name": "Labios (La Noche)",
       "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Gitrox",
+        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Gitrox",
+      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1883,22 +1883,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Tomala",
-        "url": "https://open.spotify.com/album/1SxwEEXsi7urSOIk303YoY"
+        "name": "DALE",
+        "url": "https://open.spotify.com/album/4iikrDQdEDTJtWKGMmlZZA"
       },
       "artists": [
         {
-          "name": "Mark Di Meo",
-          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
         },
         {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+          "name": "ESSED",
+          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
         }
       ],
-      "duration_ms": 140671,
-      "name": "Tomala",
-      "url": "https://open.spotify.com/track/3J8H0G31LQnI5SAfho46DD"
+      "duration_ms": 153288,
+      "name": "DALE",
+      "url": "https://open.spotify.com/track/6DbEX6iIjLuEV9j4zvDdp0"
     }
   ],
   "unique_name": "Alma",

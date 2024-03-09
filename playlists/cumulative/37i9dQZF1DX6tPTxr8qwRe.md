@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Fletcher
+> Dark, hard hitting pop\. Cover: Haven Madison
 
-609 songs - 1 day 3 hr 56 min
+610 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [boy i'd like to kill](https://open.spotify.com/track/46upLPyvXHEh4n3Ernt4U6) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [boy i'd like to kill](https://open.spotify.com/album/6Gc6cvlf1UpJHF4cp6ZFu7) | 2:27 | 2024-02-16 |  |
 | [Boy in the Back](https://open.spotify.com/track/4SGEMgo0dBDqAznK9Q0CtL) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [Boy in the Back](https://open.spotify.com/album/0HW4sTSB9JRHJspGr8L3ce) | 2:31 | 2024-01-19 |  |
 | [Boy Of The Month](https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Boy Of The Month](https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu) | 1:46 | 2023-06-16 | 2023-09-09 |
-| [Boy Problems \- feat\. Cloudy June](https://open.spotify.com/track/4kApsVd9XGyO31gG5ahI6i) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Boy Problems \(feat\. Cloudy June\)](https://open.spotify.com/album/4CpEWtknVVYCD88k8yrL1O) | 2:48 | 2024-02-23 |  |
+| [Boy Problems \- feat\. Cloudy June](https://open.spotify.com/track/4kApsVd9XGyO31gG5ahI6i) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Boy Problems \(feat\. Cloudy June\)](https://open.spotify.com/album/4CpEWtknVVYCD88k8yrL1O) | 2:48 | 2024-02-23 | 2024-03-09 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-11 | 2022-07-02 |
 | [boyfriend](https://open.spotify.com/track/7I5Nx5XlEAolrnQEnDcblx) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [boyfriend](https://open.spotify.com/album/32IYSWV4RkXN5bqWPS486t) | 2:48 | 2023-04-28 | 2023-06-24 |
 | [boys beware](https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [boys beware](https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW) | 2:13 | 2023-11-10 |  |
@@ -364,6 +364,7 @@
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-02-25 | 2022-07-09 |
 | [Monica Lewinsky](https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Monica Lewinsky](https://open.spotify.com/album/6tXPymDqi4qhgSo9topFTt) | 2:12 | 2022-05-20 | 2022-09-17 |
 | [MONSTER](https://open.spotify.com/track/7kci5BIV3lQntWLztgsPdf) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [MONSTER](https://open.spotify.com/album/02C4IPMfqef1jih3U6xrKx) | 2:38 | 2023-03-31 | 2023-05-06 |
+| [Monster](https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Monster](https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE) | 3:19 | 2024-03-08 |  |
 | [Monster](https://open.spotify.com/track/1PRA8nmdhUV7dOF6pNqsdz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Monster](https://open.spotify.com/album/0ZNVOeu0n0XPdSkqRCfk6w) | 2:40 | 2022-09-30 | 2022-11-19 |
 | [MONSTERS IN MY MIND](https://open.spotify.com/track/1OFpHG8xgfp7NnmJRjpNsK) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [MONSTERS IN MY MIND](https://open.spotify.com/album/1q1jARykCzN5uVVHRtKxbZ) | 2:04 | 2022-10-28 | 2023-04-29 |
 | [Morally Grey \- Nation Haven Edition](https://open.spotify.com/track/7eVqXk41Uv6mUhc4s3sB2D) | [April Jai](https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ), [Nation Haven](https://open.spotify.com/artist/266zMJv8G84icIhwQMQ56L) | [Morally Grey \(Nation Haven Edition\)](https://open.spotify.com/album/3EPjtINkYOX4HPjK3Blr7X) | 2:43 | 2024-01-12 |  |

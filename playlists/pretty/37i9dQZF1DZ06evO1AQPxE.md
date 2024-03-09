@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,454 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,534 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [Mockingbird Valley \- Sped Up](https://open.spotify.com/track/0Cec2e3qm7pvF7j7awp2Va) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I'M REALLY LIKE THAT \(Sped Up\)](https://open.spotify.com/album/1tuRoAZVFzBfDf0Ng7CYrx) | 2:11 |
 | 50 | [HEAVY HITTER](https://open.spotify.com/track/7zJld1LpGmLsPt8IGOc0KL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:27 |
 
-Snapshot ID: `Mjg0OTY5MDYsMDAwMDAwMDA0YTc0NjQ3MGE0YjBlMTA2YmE0ZGVkODRhYjE3MjU0Mw==`
+Snapshot ID: `Mjg0OTgzNzksMDAwMDAwMDA1ZmQ0MTg0NzM4MjM0MTFiYmE0NDNhZTU0ODgyNzgzMA==`

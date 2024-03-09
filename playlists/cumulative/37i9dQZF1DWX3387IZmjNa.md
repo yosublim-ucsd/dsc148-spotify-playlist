@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Bryson Tiller
 
-474 songs - 1 day 0 hr 2 min
+476 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [About You](https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [About You](https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC) | 2:50 | 2021-12-03 | 2022-06-25 |
 | [Act Bad](https://open.spotify.com/track/5uzTQQDcW2BbTyPsOoZreP) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Act Bad](https://open.spotify.com/album/2F7hxeskVPFaHDqUT7lfz2) | 2:40 | 2023-04-14 | 2023-07-08 |
 | [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 | 2023-12-01 |  |
-| [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-03 |  |
+| [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-03 | 2024-03-09 |
+| [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-08 |  |
 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-03-01 |  |
 | [ADDICTIONS \(FEAT\. Tre' Amani\)](https://open.spotify.com/track/01VzuxoBYMAJLObfU0w6dI) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:12 | 2022-07-15 | 2023-01-21 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 |  |
@@ -400,6 +401,7 @@
 | [Till We Drop](https://open.spotify.com/track/3nD6o21RsGGvA2MTNaT54o) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Till We Drop](https://open.spotify.com/album/2BeAZCYBLLDiwhciEsAgeW) | 2:29 | 2023-02-17 | 2023-04-01 |
 | [Time Goes By](https://open.spotify.com/track/55KbAuNeK5FFQEnR9sY1QS) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [Time Goes By](https://open.spotify.com/album/7DRjRkSC5t3EJeMiN4Tpc4) | 2:38 | 2024-02-02 |  |
 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 | 2023-07-07 | 2024-02-17 |
+| [Too Deep](https://open.spotify.com/track/27SWMXDonOi2apKXgj5EYM) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Too Deep](https://open.spotify.com/album/0HfOaaQirIIiwkcJWkLfBN) | 2:19 | 2024-03-08 |  |
 | [Too Much](https://open.spotify.com/track/2sZmxXCO6mZCPTHd6DRcBH) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 3:47 | 2021-10-07\* | 2021-12-04 |
 | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw) | 3:00 | 2023-06-16 | 2023-07-08 |
 | [Touch You](https://open.spotify.com/track/6ISm3GwztEFGsDKuF2X8fl) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Touch You](https://open.spotify.com/album/4Mk7V7BkcDEobk4xs7HTft) | 2:38 | 2021-10-07\* | 2021-10-23 |
@@ -456,7 +458,7 @@
 | [Who I Am](https://open.spotify.com/track/7vq5N3HREotT71RnQoFTB8) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Who I Am](https://open.spotify.com/album/2OlZc3EjX8Yg3G2voQc6nd) | 2:45 | 2023-05-05 | 2023-05-13 |
 | [Who We Are \(feat\. Yung Bleu\)](https://open.spotify.com/track/2h0DSm6aLpjO5T8iBExkZD) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Who We Are](https://open.spotify.com/album/6DE3o3k2KbubhYaBsmf5as) | 2:45 | 2022-05-20 | 2022-07-30 |
 | [Why Did I](https://open.spotify.com/track/1t8ELLu3PQ2Lvd3mghcmM9) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Why Did I](https://open.spotify.com/album/3tsuymG1fHwb1EdhiOVOM5) | 2:25 | 2022-10-07 | 2022-11-12 |
-| [Why G\-Mix](https://open.spotify.com/track/6SC5XNHwdjLGauLI1xsK95) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Moone Walker](https://open.spotify.com/artist/1RVNKHIDdS6w0IS4NURHwq) | [Why G\-Mix](https://open.spotify.com/album/3tnMORNF2KHOtA2OBTXG0Y) | 1:44 | 2024-03-01 |  |
+| [Why G\-Mix](https://open.spotify.com/track/6SC5XNHwdjLGauLI1xsK95) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Moone Walker](https://open.spotify.com/artist/1RVNKHIDdS6w0IS4NURHwq) | [Why G\-Mix](https://open.spotify.com/album/3tnMORNF2KHOtA2OBTXG0Y) | 1:44 | 2024-03-01 | 2024-03-09 |
 | [Why G\-Mix](https://open.spotify.com/track/450LSI65a5Zt9uudRwaTLR) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Moone Walker](https://open.spotify.com/artist/1RVNKHIDdS6w0IS4NURHwq), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Why G\-Mix](https://open.spotify.com/album/0BLFZJatSVnYOoIzhvaySd) | 2:09 | 2024-03-01 | 2024-03-07 |
 | [Wife](https://open.spotify.com/track/3rGbTqECbeFc82sdYGv3Pz) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Some Like It Hot](https://open.spotify.com/album/3i47bG7gXG3OurOD0fpIVX) | 3:31 | 2023-07-14 | 2023-08-05 |
 | [Wild ASF](https://open.spotify.com/track/4Q8QYInISjCTYQXVpy29iN) | [Duece Uno](https://open.spotify.com/artist/1PdCdnAjBXPeCFhBMlhjBt), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Wild ASF](https://open.spotify.com/album/6ozSqsjmFAuBi7B3GPJ8xJ) | 2:30 | 2023-02-10 | 2023-03-11 |

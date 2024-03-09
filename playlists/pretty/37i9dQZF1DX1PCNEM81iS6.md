@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,033 likes - 43 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,079 likes - 43 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 | 3 | [ヒカリハナツ](https://open.spotify.com/track/4dvKQ8ic2ifWOFH87FBQdV) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [ヒカリハナツ](https://open.spotify.com/album/4UWYKyiyUnjkiTfrp8P3sU) | 3:20 |
 | 4 | [ココロトラベル](https://open.spotify.com/track/0DOVx6G53HGJ1ZduLJUxg0) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ココロトラベル](https://open.spotify.com/album/6BQDmo7rsb56PwwL44Yi4f) | 3:52 |
 | 5 | [Make Me Feel Better](https://open.spotify.com/track/48Hxgmy2rW0jT6YZUo18R8) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Make Me Feel Better](https://open.spotify.com/album/0VymrjRtKPZUvHkcJLaqby) | 4:29 |
-| 6 | [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 |
+| 6 | [SPARKLES](https://open.spotify.com/track/14X3tWKHmGj6pTtafPo0uA) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/5TKKesEMMoSijwDGpcAXI1) | 4:36 |
 | 7 | [浄歌](https://open.spotify.com/track/71cNVDcg9JsFCr0hLi7Pj9) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [浄歌](https://open.spotify.com/album/3hCHq9tpguiwxs3j9N373U) | 4:53 |
 | 8 | [CALL YOUR NAME](https://open.spotify.com/track/074pO3kz9J4Gg6MtreeXQX) | [Rimuru \(CV: Miho Okasaki\)](https://open.spotify.com/artist/7fGxo8dxQ6SdVXPmcTZsHH), [Satoru Mikami \(CV: Takuma Terashima\)](https://open.spotify.com/artist/58gJSLmnWvAAAg0mP132p2) | [永遠の絆 \(『劇場版 転生したらスライムだった件 紅蓮の絆編』主題歌・挿入歌アルバム\)](https://open.spotify.com/album/1boGPa9j67ZkY8C7u0a9G5) | 4:25 |
 | 9 | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/track/3x3A39JV2eNNqyOrYvWCg1) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb), [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/album/0hYzLWKc546vSOTimwWMyY) | 3:35 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 | 42 | [友情](https://open.spotify.com/track/5G2lRkV6JP2G7IhqCoaBZo) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 2:18 |
 | 43 | [繁栄](https://open.spotify.com/track/2LfIliPTd16k4z43kUWhtm) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 1:26 |
 
-Snapshot ID: `MCwzNmMzMmMxYjk2YTExZTU4ZmEwNmZhYTQ3NzgwYTgzZGFlOTY4NDk5`
+Snapshot ID: `MCw1ZDNiOTVjZmQxYzMwYzk4M2ZlYTJlM2UyZTYyNDI4MDYyNzgxMzA0`

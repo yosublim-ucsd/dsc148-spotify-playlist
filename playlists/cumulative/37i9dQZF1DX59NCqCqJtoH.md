@@ -4,7 +4,7 @@
 
 > We hear you.
 
-656 songs - 1 day 8 hr 30 min
+657 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Dead and Cold](https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Dead and Cold](https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU) | 1:29 | 2022-07-15 | 2022-12-24 |
 | [Dead and Cold](https://open.spotify.com/track/1A43TfohQt3H6K5zg28ExD) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Dead and Cold](https://open.spotify.com/album/4LtNfDv6yfcLlGesOnGK2A) | 1:29 | 2021-04-02 | 2022-06-23 |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2021-04-02 | 2022-04-15 |
-| [Deep End](https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Deep End](https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU) | 2:16 | 2023-07-07 |  |
+| [Deep End](https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Deep End](https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU) | 2:16 | 2023-07-07 | 2024-03-09 |
 | [Demons and Monsters](https://open.spotify.com/track/6pgSQuEY2hJhRkC4YpZfJQ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Demons and Monsters](https://open.spotify.com/album/7ppPbLDYHP6zPdUTwHQQ2g) | 3:17 | 2021-04-02 | 2022-05-30 |
 | [Demons and Monsters](https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Demons and Monsters](https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3) | 3:17 | 2022-07-15 | 2023-04-27 |
 | [Dialtone \(ft\. Quiet Luke\)](https://open.spotify.com/track/68RAS0hR8AkvWlhbDCPOpG) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9), [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF) | [Someone Will Be There For You](https://open.spotify.com/album/62H9eBjEbABHdejt9USJuX) | 3:02 | 2022-05-20 | 2022-07-04 |
@@ -563,6 +563,7 @@
 | [the bottom of the well](https://open.spotify.com/track/0RCVrU017Shdm5o99R0USi) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [the bottom of the well](https://open.spotify.com/album/5JSEwklzjrjyjl44IsbhHy) | 4:15 | 2022-01-25 | 2022-07-29 |
 | [the dog](https://open.spotify.com/track/0KtSVKfc0uDd7b0dpjIqer) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [the dog](https://open.spotify.com/album/0UEP9M5UNKJNGlqYlybXA0) | 2:46 | 2023-04-26 | 2023-05-19 |
 | [the fire in your eyes keeps me warm](https://open.spotify.com/track/076YCyUBs1GlrzAmOsZkFU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Arvnd](https://open.spotify.com/artist/03sj0tUmIbmENyauxKtulx) | [some boring love stories pt 5](https://open.spotify.com/album/26JLBgmg9yNxBcdBhX0f63) | 3:13 | 2021-04-02 | 2022-07-22 |
+| [The Gaping Mouth](https://open.spotify.com/track/4zIJESN3Y2Yu3aY9cJtbyG) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 4:38 | 2024-03-07 |  |
 | [THE GIRL WILL BE OKAY](https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx) | [RC AVENUE](https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w) | [THE GIRL WILL BE OKAY](https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts) | 1:36 | 2023-09-29 |  |
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2022-09-27 | 2022-12-24 |
 | [The Knots](https://open.spotify.com/track/6YbSyWJKrwvawpyYtxvAJy) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [The Knots](https://open.spotify.com/album/61nyeXkmqRtCa1VRn0uDNx) | 4:12 | 2022-03-23 | 2022-07-23 |

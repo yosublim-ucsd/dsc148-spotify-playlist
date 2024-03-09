@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 228266,
       "name": "Forest",
       "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 247991,
       "name": "In Your Mind",
       "url": "https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 282887,
       "name": "Knees",
       "url": "https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ"
@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Small Talk About Everything",
+        "url": "https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250307,
+      "name": "Small Talk About Everything",
+      "url": "https://open.spotify.com/track/68lrtGou1rovK9aYHlr660"
+    },
+    {
+      "album": {
         "name": "Lonely night",
         "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
       },
@@ -720,6 +738,24 @@
       "duration_ms": 250082,
       "name": "The Blue Night of Jeju Island",
       "url": "https://open.spotify.com/track/68OxmOeNzSDJnfB9QX6dzJ"
+    },
+    {
+      "album": {
+        "name": "The Little",
+        "url": "https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM"
+      },
+      "artists": [
+        {
+          "name": "Yeon seo",
+          "url": "https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "The Little",
+      "url": "https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt"
     },
     {
       "album": {
@@ -976,7 +1012,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 400870,
       "name": "\uc548\ub155 Bye (feat. LeeHi)",
       "url": "https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV"

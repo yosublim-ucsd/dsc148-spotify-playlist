@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 224000,
       "name": "Harujongil",
       "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
@@ -2433,6 +2433,28 @@
     },
     {
       "album": {
+        "name": "L&B",
+        "url": "https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Let off steam",
+      "url": "https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR"
+    },
+    {
+      "album": {
         "name": "Like Lovers (feat. Seol Hoseung (SURL) & HENG)",
         "url": "https://open.spotify.com/album/5EIwnlCXNwajZpFC6o0tJ8"
       },
@@ -2568,7 +2590,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 151880,
       "name": "LSD (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
@@ -4165,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "STILL YOUNG BOY L",
+        "url": "https://open.spotify.com/album/0x9dXa3HhLBstlkyarka7Q"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177581,
+      "name": "Two Pills",
+      "url": "https://open.spotify.com/track/6dLpWqTE8JM10tDOTB17Y3"
+    },
+    {
+      "album": {
         "name": "2021 Works: 02",
         "url": "https://open.spotify.com/album/1ojKLnT0m56ID6fiCtxjlK"
       },
@@ -4450,7 +4490,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 184133,
       "name": "White Snow (feat. prettyhappy)",
       "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
@@ -4638,6 +4678,24 @@
       "duration_ms": 244153,
       "name": "YOU KNOW (Feat. Okasian)",
       "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
+    },
+    {
+      "album": {
+        "name": "You're mine, You!",
+        "url": "https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT"
+      },
+      "artists": [
+        {
+          "name": "Shin Youme",
+          "url": "https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232751,
+      "name": "You\u2019re mine, You!",
+      "url": "https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd"
     },
     {
       "album": {

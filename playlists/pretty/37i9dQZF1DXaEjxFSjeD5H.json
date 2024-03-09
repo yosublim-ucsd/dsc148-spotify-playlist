@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 18505,
+  "num_followers": 18527,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGU3NWRiNjY4NTE1MzBhZDk4ZTRmZDA2ZGUyNDBjZDhjMzhmN2Iw",
+  "snapshot_id": "MCw5YTU4MjY3ZmQxYzIxZDkxZDBmMTIyMGRjMTk5NjhlNWU2Zjc0MTAw",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danz\u00f3n Inmortal",
-        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
-      },
-      "artists": [
-        {
-          "name": "Alex Lora Serna",
-          "url": "https://open.spotify.com/artist/7G80zio9xkTiB15XdToqNX"
-        }
-      ],
-      "duration_ms": 320806,
-      "name": "Danz\u00f3n de Lora",
-      "url": "https://open.spotify.com/track/6JRLkLO9e5DSq5dAWJv0It"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "55 A\u00f1os En El Danzon",
         "url": "https://open.spotify.com/album/69b6rtmaL5v3B3s6UznGMJ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 341720,
       "name": "Mi Consuelo Es Amarte",
       "url": "https://open.spotify.com/track/0ffVXZsBEORJTRMI8VC2Yc"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danz\u00f3n Inmortal",
+        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
+      },
+      "artists": [
+        {
+          "name": "Alex Lora Serna",
+          "url": "https://open.spotify.com/artist/7G80zio9xkTiB15XdToqNX"
+        }
+      ],
+      "duration_ms": 320806,
+      "name": "Danz\u00f3n de Lora",
+      "url": "https://open.spotify.com/track/6JRLkLO9e5DSq5dAWJv0It"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzonera Joven de Mexico de Chamaco Aguilar, Vol. 8",
-        "url": "https://open.spotify.com/album/3CCGZUuLXFevDPis8kFCtO"
+        "name": "Dios Mio Amparame",
+        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
       },
       "artists": [
         {
-          "name": "Danzonera Joven De Mexico De Chamaco Aguilar",
-          "url": "https://open.spotify.com/artist/6Fi7yJcvGE7amhDjYSg0fs"
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
         }
       ],
-      "duration_ms": 259765,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/3X0dPC4fhVM09yXmlzQkfc"
+      "duration_ms": 379626,
+      "name": "Hay Que Echar Manteca",
+      "url": "https://open.spotify.com/track/2gp3a4KYsboX8thnGHtpmH"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -759,34 +759,38 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
       "artists": [
         {
           "name": "Danzonera Veracruz",
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 302106,
-      "name": "El Coquero",
-      "url": "https://open.spotify.com/track/5HvxasN4SgIqYSIp37YYOl"
+      "duration_ms": 229040,
+      "name": "Sal\u00f3n Casa Blanca",
+      "url": "https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A"
     },
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Dios Mio Amparame",
-        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
+        "name": "Danzonera Joven de Mexico de Chamaco Aguilar, Vol. 8",
+        "url": "https://open.spotify.com/album/3CCGZUuLXFevDPis8kFCtO"
       },
       "artists": [
         {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+          "name": "Danzonera Joven De Mexico De Chamaco Aguilar",
+          "url": "https://open.spotify.com/artist/6Fi7yJcvGE7amhDjYSg0fs"
         }
       ],
-      "duration_ms": 379626,
-      "name": "Hay Que Echar Manteca",
-      "url": "https://open.spotify.com/track/2gp3a4KYsboX8thnGHtpmH"
+      "duration_ms": 259765,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/3X0dPC4fhVM09yXmlzQkfc"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -823,18 +827,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danz\u00f3n Inmortal",
-        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
+        "name": "Homenaje A Gonzalo Varela",
+        "url": "https://open.spotify.com/album/4hXkZQeGq4ucqpNYRIjHq2"
       },
       "artists": [
         {
-          "name": "Mario \u00c1lvarez",
-          "url": "https://open.spotify.com/artist/3ewwxi1gRlSoYfjaDF5ltV"
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
         }
       ],
-      "duration_ms": 211622,
-      "name": "Ofelia",
-      "url": "https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2"
+      "duration_ms": 294066,
+      "name": "Juan Va Pa'l Guerra",
+      "url": "https://open.spotify.com/track/2DJDXmZcKjvSxtFbp7j97z"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -855,18 +859,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "That Cuban Cha Cha",
-        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
+        "name": "Danz\u00f3n Inmortal",
+        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
       },
       "artists": [
         {
-          "name": "Orquesta Arag\u00f3n",
-          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+          "name": "Mario \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/3ewwxi1gRlSoYfjaDF5ltV"
         }
       ],
-      "duration_ms": 188160,
-      "name": "El Bodeguero",
-      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
+      "duration_ms": 211622,
+      "name": "Ofelia",
+      "url": "https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -883,6 +887,22 @@
       "duration_ms": 258530,
       "name": "Bodas de Oro",
       "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "That Cuban Cha Cha",
+        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "El Bodeguero",
+      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -915,22 +935,6 @@
       "duration_ms": 260040,
       "name": "Egipto Her\u00f3ico",
       "url": "https://open.spotify.com/track/01xlbAqU0ztqPLkuozMYuD"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Homenaje A Gonzalo Varela",
-        "url": "https://open.spotify.com/album/4hXkZQeGq4ucqpNYRIjHq2"
-      },
-      "artists": [
-        {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
-        }
-      ],
-      "duration_ms": 294066,
-      "name": "Juan Va Pa'l Guerra",
-      "url": "https://open.spotify.com/track/2DJDXmZcKjvSxtFbp7j97z"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1031,22 +1035,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
       },
       "artists": [
         {
           "name": "Danzonera Veracruz",
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 229040,
-      "name": "Sal\u00f3n Casa Blanca",
-      "url": "https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A"
+      "duration_ms": 302106,
+      "name": "El Coquero",
+      "url": "https://open.spotify.com/track/5HvxasN4SgIqYSIp37YYOl"
     },
     {
       "added_at": "2022-08-02 23:28:22",

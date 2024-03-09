@@ -1,13 +1,37 @@
 {
-  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] | Women's History Month | Cover: Chl\u00f6e",
-  "num_followers": 338337,
+  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] | Women's History Month | Cover: Lola Brooke",
+  "num_followers": 338328,
   "original_name": "Influence \ud83d\udc85 Hot Girl Era 2024",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzYyMyxiNzc5MTlkMjI2Y2YyNTliZWIyYjA0MzI0MDA4M2FhY2QzY2U0YjI3",
+  "snapshot_id": "MzYyNixmZWRjOTZkNGQ0MjljODgxMTY5ZjY2MTE5ZjRlMzU2Y2ViNGMwYjY2",
   "tracks": [
+    {
+      "added_at": "2024-03-08 14:25:42",
+      "album": {
+        "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
+        "url": "https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
+      "url": "https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y"
+    },
     {
       "added_at": "2024-03-01 14:51:23",
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-08": 190089,
+  "2024-03-09": 190101,
   "date_first_scraped": "2022-07-19",
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
   "name": "Terapia de Bosque",
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 321894,
       "name": "Cherry Blossom Petals Fall Like Heavy Snow",
       "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
@@ -4361,6 +4361,24 @@
       "duration_ms": 174239,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3PryCUaKSzRhMB0D1xr1Tt"
+    },
+    {
+      "album": {
+        "name": "Soft Touch",
+        "url": "https://open.spotify.com/album/3lktgmWsTCNDHafXOj7D1V"
+      },
+      "artists": [
+        {
+          "name": "Rama Fiore",
+          "url": "https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159129,
+      "name": "Soft Touch",
+      "url": "https://open.spotify.com/track/54cRF683yoAMcfefg1Drfu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 
 > The official soundtrack of Nike's NYvsNY, curated by the players\. We Outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,563 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,561 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 99 | [Gassed Up](https://open.spotify.com/track/6JjEVlMkfHWMeYavkEYzNO) | [Nebu Kiniza](https://open.spotify.com/artist/5lCY3tqdQxbeg5igSlObaT) | [Gassed Up](https://open.spotify.com/album/6YCcGxz3l1shgr3F7XbNee) | 3:13 |
 | 100 | [Resume](https://open.spotify.com/track/3U3gHqRwjam6CxwW68m30z) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Resume](https://open.spotify.com/album/3AkeMkUB4TxgC0BRc2KsVw) | 3:55 |
 
-Snapshot ID: `MCxlZGI5Njg2ZjAyMjRhZWJjOGJiN2IyMDBjYTc4NDUxZWE0ZGUwMDky`
+Snapshot ID: `MCwxYjU2OTViYTBhMzU4YzhiMDdmOWUzMzJlNTUyNTFlZjBlMDgxOTNm`

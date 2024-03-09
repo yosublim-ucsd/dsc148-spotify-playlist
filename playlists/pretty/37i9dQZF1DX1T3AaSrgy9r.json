@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 121894,
+  "num_followers": 121939,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGZmMzdiMTcwYmVmMDQ4NTI5OTI1MjEwNDgyZjEzMjM2Y2M0NDQ1",
+  "snapshot_id": "MCw5ZjBhMzA5ZDljYzhjYjRjZTc0OTk1N2E0ZDJiMDUwZmJiNDBhODUw",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Gettin' High On Your Own Supply",
-        "url": "https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP"
-      },
-      "artists": [
-        {
-          "name": "Apollo 440",
-          "url": "https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Stop the Rock",
-      "url": "https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Post",
         "url": "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 234333,
       "name": "Army of Me",
       "url": "https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Gettin' High On Your Own Supply",
+        "url": "https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP"
+      },
+      "artists": [
+        {
+          "name": "Apollo 440",
+          "url": "https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Stop the Rock",
+      "url": "https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Big Calm",
-        "url": "https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2"
-      },
-      "artists": [
-        {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
-        }
-      ],
-      "duration_ms": 348053,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Flat Beat",
         "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 325173,
       "name": "Flat Beat",
       "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Big Calm",
+        "url": "https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "duration_ms": 348053,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dead Cities",
-        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
+        "name": "You've Come A Long Way Baby",
+        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
       },
       "artists": [
         {
-          "name": "The Future Sound Of London",
-          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 379160,
-      "name": "We Have Explosive",
-      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
+      "duration_ms": 413880,
+      "name": "The Rockafeller Skank",
+      "url": "https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "You've Come A Long Way Baby",
-        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
+        "name": "Dead Cities",
+        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "The Future Sound Of London",
+          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
         }
       ],
-      "duration_ms": 413880,
-      "name": "The Rockafeller Skank",
-      "url": "https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp"
+      "duration_ms": 379160,
+      "name": "We Have Explosive",
+      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "90 Discomania",
-        "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
-      },
-      "artists": [
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 453880,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Spin Spin Sugar",
         "url": "https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 544093,
       "name": "Spin Spin Sugar - Armands Dark Garage Mix",
       "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "90 Discomania",
+        "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
+      },
+      "artists": [
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 453880,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dead Cities",
-        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
+        "name": "Halfway Between The Gutter And The Stars",
+        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
       },
       "artists": [
         {
-          "name": "The Future Sound Of London",
-          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 347106,
-      "name": "My Kingdom",
-      "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
+      "duration_ms": 345893,
+      "name": "Weapon Of Choice",
+      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Halfway Between The Gutter And The Stars",
-        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
+        "name": "Dead Cities",
+        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "The Future Sound Of London",
+          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
         }
       ],
-      "duration_ms": 345893,
-      "name": "Weapon Of Choice",
-      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
+      "duration_ms": 347106,
+      "name": "My Kingdom",
+      "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
     },
     {
       "added_at": "2021-07-14 17:36:34",
