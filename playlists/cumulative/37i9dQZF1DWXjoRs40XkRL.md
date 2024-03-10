@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-255 songs - 22 hr 25 min
+256 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Piya Sawre](https://open.spotify.com/track/6NDzy3yUSghgEPm2fbPbkY) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Shilpa Aggarwal](https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9) | [Piya Sawre](https://open.spotify.com/album/1ZinsKlEsh9tvXfYm5Gqpz) | 5:03 | 2023-07-20 |  |
 | [Piya Se Mila De](https://open.spotify.com/track/4Z2MfpavuPU4dNJUohBGRo) | [Ujwal Nagar](https://open.spotify.com/artist/09GQxWaCQICsreFokLcbzc), [Anindo Bose](https://open.spotify.com/artist/1G2v9z0cxtBy5FMHvZB5Hr) | [Piya Se Mila De](https://open.spotify.com/album/6Kr7joSInnPV3gWBRj5xN2) | 4:26 | 2024-01-10 |  |
 | [Piya: Basant Mukhari](https://open.spotify.com/track/32w1dhGQnuAoH4QiqtIWkH) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Junaid Bashir](https://open.spotify.com/artist/5LjIrV2myp40iKTOYOBcVa) | [Piya: Basant Mukhari](https://open.spotify.com/album/2u75yNIlGpJhdJ5zQfAxOl) | 5:41 | 2022-05-17 | 2023-07-06 |
-| [Preet](https://open.spotify.com/track/1ZwuDVU6JRUo4jZjz5mOKG) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Jogan / Preet](https://open.spotify.com/album/7wLuY53xqzFDf52LvxW4qS) | 4:00 | 2023-12-01 |  |
+| [Preet](https://open.spotify.com/track/1ZwuDVU6JRUo4jZjz5mOKG) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Jogan / Preet](https://open.spotify.com/album/7wLuY53xqzFDf52LvxW4qS) | 4:00 | 2023-12-01 | 2024-03-10 |
 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 | 2022-05-17 | 2023-10-10 |
 | [Purvi](https://open.spotify.com/track/4o67UGDLbGPDPjD4ABcJSy) | [Naad](https://open.spotify.com/artist/0vk6S4KUi6MkvCr9npFoud) | [Purvi](https://open.spotify.com/album/4pxhyzACOXcpagXUOcU26V) | 4:24 | 2023-03-10 | 2023-05-24 |
 | [Raah Piya](https://open.spotify.com/track/0ixfdWFlkqjbgTRsCLm7cQ) | [Pakshee](https://open.spotify.com/artist/6UP5gZf6GHQRegEkCDQMvh) | [Pakshee](https://open.spotify.com/album/3si2hUnaDjTT9MslMfZEjB) | 7:04 | 2022-05-17 | 2023-05-24 |
@@ -223,6 +223,7 @@
 | [Sagariya](https://open.spotify.com/track/092NFcCnJaSbcZQd76IGSf) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Sagariya](https://open.spotify.com/album/1hDVhG2pylmO3ef4y15jD0) | 6:52 | 2022-05-17 | 2023-08-02 |
 | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/track/3JMz4MfpBq6OOv5kfltzgL) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/album/5rrQPgEyjaB3CN527qAs9r) | 4:28 | 2022-05-17 | 2024-02-15 |
 | [Saiyyan](https://open.spotify.com/track/4GSvSi4BA4Pddnjmmqmw49) | [Lagori](https://open.spotify.com/artist/1qnNpqNICqHeFjbBLD58M6) | [Lagori](https://open.spotify.com/album/0haROYCw0OBoA5wXki40tY) | 4:35 | 2022-05-17 | 2022-09-24 |
+| [Sakal Ban \(From "Heeramandi"\) \- Original](https://open.spotify.com/track/7svwWqUNrqjhlmaHB6Dl3b) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA) | [Sakal Ban \(From "Heeramandi"\) \- Single](https://open.spotify.com/album/5naU4t5jHVZ0Y3bJlWeluh) | 2:30 | 2024-03-09 |  |
 | [Sakhi](https://open.spotify.com/track/1wnP0kMnl9NJC7Ek2rrHkB) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Is That So?](https://open.spotify.com/album/3ylCRdrUcCGJo47CkPtCDm) | 8:26 | 2022-05-17 | 2023-05-24 |
 | [Sakhi Re](https://open.spotify.com/track/5DymMqQjmD7KUtaLj6TyqN) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Sakhi Re](https://open.spotify.com/album/2fD4GmvzLRgwM2hiVsNtz3) | 2:37 | 2023-05-15 | 2023-08-24 |
 | [Sakhi Vasant Aaya](https://open.spotify.com/track/4DSORlBFO3jKHgrDB2esk0) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Sakhi Vasant Aaya](https://open.spotify.com/album/40a6zO11blPvhA4CnqCtw6) | 4:18 | 2022-05-17 | 2022-07-29 |

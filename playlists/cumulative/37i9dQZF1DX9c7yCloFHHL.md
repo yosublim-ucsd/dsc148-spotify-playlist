@@ -4,7 +4,7 @@
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Alaskan Tapes on cover.
 
-1,094 songs - 3 day 14 hr 52 min
+1,095 songs - 3 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Goldcurrent](https://open.spotify.com/track/0N4dhLD271v5Wi5udTOLCE) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Goldcurrent](https://open.spotify.com/album/38bBmV7QpCqr6DA6TKqGnK) | 4:18 | 2022-11-12 | 2023-03-04 |
 | [Golden Dust](https://open.spotify.com/track/3P4sYVYpQKyoHJ3ygjgqxR) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Late Reflections](https://open.spotify.com/album/7Jc4AN8OFaCoFfdSa6C6XY) | 1:56 | 2023-04-14 | 2023-04-15 |
 | [Golden Dust](https://open.spotify.com/track/4hUaTmX1C1TsbjGvcL6vRP) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Late Reflections](https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM) | 1:56 | 2023-04-14 | 2024-01-12 |
+| [Golden Dust](https://open.spotify.com/track/57eVjsTkA8YFT1tkx1bTHu) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Late Reflections](https://open.spotify.com/album/7a7YOE7qLNrQPWv9b0V9SH) | 1:56 | 2023-12-01 |  |
 | [Golden Galactic](https://open.spotify.com/track/1rYytjDuRhWSYLEvGVeX9m) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Golden Galactic](https://open.spotify.com/album/0NY36hD9nqw0e2wlJdkiz9) | 4:28 | 2022-07-08 | 2022-09-03 |
 | [Golden Galactic](https://open.spotify.com/track/5UV4bOGPyQyF5hnWuel6Zv) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Garden Gaia](https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m) | 4:28 | 2022-09-02 | 2023-01-01 |
 | [Golden Hour](https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS), [Simonel](https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR) | [Endlessness](https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE) | 3:19 | 2022-02-12 | 2022-03-03 |
@@ -818,7 +819,7 @@
 | [She's Your Gift](https://open.spotify.com/track/0cQXl3evlMYaDiy26tiiTZ) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Gold Dust](https://open.spotify.com/album/7q07UdbjEjUxD7FflG3kDj) | 2:10 | 2021-12-24 | 2022-03-11 |
 | [Shifting Winds](https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Shifting Winds](https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3) | 4:12 | 2023-01-16 | 2023-03-04 |
 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 | 2022-01-14 | 2022-03-11 |
-| [Sidney's Lullaby](https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Sidney's Lullaby](https://open.spotify.com/album/506gZaqv5DXu8OjrhYui9e) | 3:19 | 2021-12-24 |  |
+| [Sidney's Lullaby](https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Sidney's Lullaby](https://open.spotify.com/album/506gZaqv5DXu8OjrhYui9e) | 3:19 | 2021-12-24 | 2024-03-10 |
 | [Silence Befalls Tragedy](https://open.spotify.com/track/7p8Jr2FgEtcPpqGzT0xSMk) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ross Christopher](https://open.spotify.com/artist/44jyylTQIB8qkPlQUHI614) | [Wider Than the Sky](https://open.spotify.com/album/3xQoblvBc5jHCmg2sWnJrv) | 4:17 | 2022-11-12 | 2022-11-25 |
 | [Silence Is The Seed](https://open.spotify.com/track/6XPoesztuPzFMxVM4db9RL) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Silence Is The Seed](https://open.spotify.com/album/4eV3UnwUHzOqMvRDDRlUvx) | 4:14 | 2022-12-31 | 2023-03-04 |
 | [Silhouette](https://open.spotify.com/track/5XflWKyyLrg3HlvjlDn6Rk) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Silhouette](https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8) | 3:33 | 2022-06-17 | 2023-04-12 |

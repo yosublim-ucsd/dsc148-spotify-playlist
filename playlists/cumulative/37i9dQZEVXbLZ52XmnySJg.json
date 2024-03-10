@@ -1683,6 +1683,32 @@
     },
     {
       "album": {
+        "name": "Jhoomo Re",
+        "url": "https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "name": "Paresh Kamath",
+          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "name": "Naresh Kamath",
+          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316986,
+      "name": "Bam Lahiri",
+      "url": "https://open.spotify.com/track/6pf5fo5TRyimTOKSTZIP2t"
+    },
+    {
+      "album": {
         "name": "Shiddat",
         "url": "https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9"
       },
@@ -5932,7 +5958,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 354666,
       "name": "Har Har Shambhu Shiv Mahadeva",
       "url": "https://open.spotify.com/track/0aA3jlllhKSEiXTmGPGSWz"
@@ -9129,6 +9155,24 @@
     },
     {
       "album": {
+        "name": "Laagi Lagan Shankara",
+        "url": "https://open.spotify.com/album/1A6msgjgWVRcD4dqLZa5Kq"
+      },
+      "artists": [
+        {
+          "name": "Hansraj Raghuwanshi",
+          "url": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236355,
+      "name": "Laagi Lagan Shankara",
+      "url": "https://open.spotify.com/track/31ERGnSwXXxMqyOdeblMF7"
+    },
+    {
+      "album": {
         "name": "Laal Peeli Akhiyaan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
         "url": "https://open.spotify.com/album/0DfZ5sQoVE4yNpo1ofnZRv"
       },
@@ -9232,7 +9276,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
@@ -9910,7 +9954,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 161880,
       "name": "Love Ya",
       "url": "https://open.spotify.com/track/4Vaa9Mq34xA9cSX8B7PtCN"
@@ -11273,6 +11317,28 @@
     },
     {
       "album": {
+        "name": "Mera Bhola Hai Bhandari",
+        "url": "https://open.spotify.com/album/43BaPHhXH3cJElLBzCfGLZ"
+      },
+      "artists": [
+        {
+          "name": "Hansraj Raghuwanshi",
+          "url": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+        },
+        {
+          "name": "Suresh Verma",
+          "url": "https://open.spotify.com/artist/69febU0JNZWWYnd37vB1qL"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411689,
+      "name": "Mera Bhola Hai Bhandari",
+      "url": "https://open.spotify.com/track/5g8FuYMyAkFu4cmiVeVULC"
+    },
+    {
+      "album": {
         "name": "Mera Na",
         "url": "https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1"
       },
@@ -11366,7 +11432,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -12144,6 +12210,24 @@
       "duration_ms": 322250,
       "name": "Namo Namo",
       "url": "https://open.spotify.com/track/5QtQFSdyZEl0w4iDxAyv76"
+    },
+    {
+      "album": {
+        "name": "Kedarnath (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322250,
+      "name": "Namo Namo",
+      "url": "https://open.spotify.com/track/6DwBCjospi1c9WsRVfoCwN"
     },
     {
       "album": {
@@ -13152,6 +13236,24 @@
       "duration_ms": 168000,
       "name": "Parshawan",
       "url": "https://open.spotify.com/track/6IaHIJYxIG8xbosaRr25AC"
+    },
+    {
+      "album": {
+        "name": "Parvati Boli Shankar Se",
+        "url": "https://open.spotify.com/album/2E1EA901uiY8M7w7eL2EdT"
+      },
+      "artists": [
+        {
+          "name": "Hansraj Raghuwanshi",
+          "url": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439340,
+      "name": "Parvati Boli Shankar Se",
+      "url": "https://open.spotify.com/track/3G14d9YShBHtyRtPyH6RGS"
     },
     {
       "album": {
@@ -14546,7 +14648,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 171473,
       "name": "Saajan Ve",
       "url": "https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0"
@@ -14608,7 +14710,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 195681,
       "name": "Saanware",
       "url": "https://open.spotify.com/track/4LzjjNaJfnbPtJFYfMC8dc"
@@ -15397,6 +15499,24 @@
     },
     {
       "album": {
+        "name": "Shiv Sama Rahe",
+        "url": "https://open.spotify.com/album/2hEa2ELrtnczov6EWlrMVu"
+      },
+      "artists": [
+        {
+          "name": "Hansraj Raghuwanshi",
+          "url": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333322,
+      "name": "Shiv Sama Rahe",
+      "url": "https://open.spotify.com/track/2AQkuUb8lKvepVtu0wmE0L"
+    },
+    {
+      "album": {
         "name": "Legends - Top 10",
         "url": "https://open.spotify.com/album/3deyvB3fEavgoVcG1BmFZv"
       },
@@ -15408,7 +15528,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 553273,
       "name": "Shiv Tandav Stotram",
       "url": "https://open.spotify.com/track/0pA2HBr6nILi7x4xKRZsy9"
@@ -16578,7 +16698,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 266094,
       "name": "Tere Pyaar Mein",
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
@@ -17860,7 +17980,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 321225,
       "name": "Tum Se Hi",
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
@@ -18698,7 +18818,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 175999,
       "name": "White Brown Black",
       "url": "https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0"

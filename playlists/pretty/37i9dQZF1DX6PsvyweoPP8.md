@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,791 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,815 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 |
+| 1 | [Cheiro de Sexo](https://open.spotify.com/track/1axjkneyMaY05Vtbm0iodX) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Cheiro de Sexo](https://open.spotify.com/album/5ZxY0qSYAspKpIac8YcQO5) | 2:28 |
 | 2 | [Câmera Lenta](https://open.spotify.com/track/5QkWy7Hh5ruS2H4eEW2jJV) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [RealP7oficial](https://open.spotify.com/artist/1xZZFJdJSzrma6gAuGV7tz), [Drumond](https://open.spotify.com/artist/18MlhKAWJfNPtZiT0SwngM), [moyb](https://open.spotify.com/artist/4mWQPyioqqqZ9Lw4NX0GNg) | [Câmera Lenta](https://open.spotify.com/album/0VgoI3iDV1jxKJDClTUPto) | 2:41 |
 | 3 | [Explícito](https://open.spotify.com/track/6NYqvbaeS7XgcUse43r20R) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Carol Andrade](https://open.spotify.com/artist/3fctTsft6lHY1Aqayr1Tj7) | [Explícito](https://open.spotify.com/album/110KVzMll2pkSCue4TKblu) | 3:20 |
 | 4 | [Tempo](https://open.spotify.com/track/1iuwjakwN3yYnlLHguj2xE) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [O Cara Do Momento](https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV) | 2:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 84 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 |
 | 85 | [Mexe Mexe](https://open.spotify.com/track/0PKOVSMvvmAvQaVgtZVt6n) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO), [EarKid](https://open.spotify.com/artist/7HgyUDF9EbhOCBc0l29PD8) | [Tipo I\-Doser](https://open.spotify.com/album/67h12hjNOZvIDtJzDijc15) | 4:20 |
 
-Snapshot ID: `MCxkMGQyZThmODM1Yjg4YTA1MTkzOTU2ZGRjZjM3ZTk1OThjM2YwN2Ni`
+Snapshot ID: `MCxhNzUwMjljOTAyYjhhMjNmNTc3MDU1N2FiNjc3NTJmOGFkNTA4MjM2`

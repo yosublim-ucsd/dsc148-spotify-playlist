@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 200751,
+  "2024-03-10": 200771,
   "date_first_scraped": "2023-02-04",
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Jaimes x DubVision ",
   "name": "Electro Mix",
@@ -20301,6 +20301,32 @@
     {
       "album": {
         "name": "Young",
+        "url": "https://open.spotify.com/album/15vxnjkbXEMCBactDfr8ZX"
+      },
+      "artists": [
+        {
+          "name": "FIXL",
+          "url": "https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li"
+        },
+        {
+          "name": "KAYDI",
+          "url": "https://open.spotify.com/artist/45Uz55b0cOZG7vABsI0tiP"
+        },
+        {
+          "name": "LoudN\u00e6ss",
+          "url": "https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179478,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/4Vdk0u92ByPm7csuVx1BtJ"
+    },
+    {
+      "album": {
+        "name": "Young",
         "url": "https://open.spotify.com/album/2fSgbqkLaVuwaUnSMdbCt6"
       },
       "artists": [
@@ -20319,7 +20345,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 179478,
       "name": "Young",
       "url": "https://open.spotify.com/track/4mlWApr7spTrgeGwZCzLoY"

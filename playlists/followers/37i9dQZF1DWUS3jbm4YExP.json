@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 705664,
+  "2024-03-10": 705949,
   "date_first_scraped": "2021-12-28",
   "description": "Groovy sounds from around the world.",
   "name": "Global Groove",
@@ -2365,6 +2365,24 @@
       "duration_ms": 306863,
       "name": "Crux Australis",
       "url": "https://open.spotify.com/track/1pWWrnSxMW5DniwdPXDE3B"
+    },
+    {
+      "album": {
+        "name": "Malaka",
+        "url": "https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS"
+      },
+      "artists": [
+        {
+          "name": "Ali",
+          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211958,
+      "name": "Crystal Sand",
+      "url": "https://open.spotify.com/track/6okAEDxLESUnM50i8dQZGv"
     },
     {
       "album": {
@@ -5614,6 +5632,28 @@
     },
     {
       "album": {
+        "name": "Indio",
+        "url": "https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL"
+      },
+      "artists": [
+        {
+          "name": "A Vision of Panorama",
+          "url": "https://open.spotify.com/artist/7lmyXB45fWDt0HJq305PVY"
+        },
+        {
+          "name": "Lapa Dula",
+          "url": "https://open.spotify.com/artist/0t0tMAUyLklD3LYuMzArRC"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284106,
+      "name": "Indio",
+      "url": "https://open.spotify.com/track/3PqjKW6RHdOdn951ozbUg6"
+    },
+    {
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
       },
@@ -8739,7 +8779,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 221731,
       "name": "On Top (Guitar & Flute)",
       "url": "https://open.spotify.com/track/7dU0T4JFp273y4E0wOPqoI"
@@ -11087,7 +11127,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 272375,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic"

@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 431,
+  "2024-03-10": 432,
   "date_first_scraped": "2023-04-04",
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
   "name": "This Is Carlos Rafael Rivera",
@@ -165,6 +165,24 @@
       "duration_ms": 83131,
       "name": "Calvin",
       "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
+    },
+    {
+      "album": {
+        "name": "Monsieur Spade (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138226,
+      "name": "Clues",
+      "url": "https://open.spotify.com/track/3H3l6kMGyCKZu2Aq89yO6o"
     },
     {
       "album": {

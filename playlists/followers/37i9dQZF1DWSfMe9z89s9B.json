@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 1381505,
+  "2024-03-10": 1381640,
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Asha Imuno",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Chase Shakur",
   "name": "Vanguard",
   "tracks": [
     {
@@ -1698,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/4Hg474OtmWNu2QZJ9jrwJc"
+      },
+      "artists": [
+        {
+          "name": "Halima",
+          "url": "https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163614,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/7hW1ZGSfjSEW7cxwZKO7Ig"
+    },
+    {
+      "album": {
         "name": "Ctrl (Deluxe)",
         "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
       },
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 146763,
       "name": "best thing for me",
       "url": "https://open.spotify.com/track/77NzDYJZyAqIGnk6LvfsB9"
@@ -3835,6 +3853,24 @@
       "duration_ms": 130882,
       "name": "CINDERELLA, Pt. 2",
       "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
+    },
+    {
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148445,
+      "name": "circles",
+      "url": "https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC"
     },
     {
       "album": {
@@ -6153,7 +6189,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 172040,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7hfl0aCqTLiOtJa3bOgTzA"
@@ -9591,6 +9627,24 @@
       "duration_ms": 238160,
       "name": "ILLUSIONS",
       "url": "https://open.spotify.com/track/5brlbAE683E1wEzKDNT3B8"
+    },
+    {
+      "album": {
+        "name": "Imaan",
+        "url": "https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214088,
+      "name": "Imaan",
+      "url": "https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ"
     },
     {
       "album": {
@@ -14055,7 +14109,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214200,
-      "name": "PHONICS (feat. WESTSIDE BOOGIE & Tempest)",
+      "name": "PHONICS (feat. Tempest & WESTSIDE BOOGIE)",
       "url": "https://open.spotify.com/track/1xsgBPMUrBYyZPMP8RjiWC"
     },
     {
@@ -14555,7 +14609,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 194254,
       "name": "Practice",
       "url": "https://open.spotify.com/track/6J2ECbAbX4L4WgIkeXyeq6"
@@ -19767,7 +19821,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 132055,
       "name": "UR TURN",
       "url": "https://open.spotify.com/track/0dKWEbU5VxTcSOVvtReTGz"
@@ -21155,6 +21209,24 @@
       "duration_ms": 191483,
       "name": "YOGA",
       "url": "https://open.spotify.com/track/4Sp0JZpae4D08l3E6gV1D8"
+    },
+    {
+      "album": {
+        "name": "THE STUNT-MAN PACK",
+        "url": "https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171546,
+      "name": "YOLANDA",
+      "url": "https://open.spotify.com/track/2JPyIUTaDhW8PRwMUbSaRo"
     },
     {
       "album": {

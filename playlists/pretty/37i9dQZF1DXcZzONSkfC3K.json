@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 147877,
+  "num_followers": 147907,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWU0NzFhNzg3MzNkOTZmZmFiNTQ3ZGRjMjQ1ODM1ODUxZjJkMWM5",
+  "snapshot_id": "MCxiZTJlOTg4MjMyOWIzOGE2NDE1NDZiYzQ4YzNkNjQxYTQ0N2FjYzY0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3ZdJph6HFGqyiyv80cC87S"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 449640,
-      "name": "Aparentemente - En Vivo",
-      "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
+      "duration_ms": 274653,
+      "name": "Fabricando Fantas\u00edas - Salsa Version",
+      "url": "https://open.spotify.com/track/5giBWdb2pJwFl3avFUKGXj"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3ZdJph6HFGqyiyv80cC87S"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 274653,
-      "name": "Fabricando Fantas\u00edas - Salsa Version",
-      "url": "https://open.spotify.com/track/5giBWdb2pJwFl3avFUKGXj"
+      "duration_ms": 449640,
+      "name": "Aparentemente - En Vivo",
+      "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "A Band And Their Music: Campeones",
+        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 405093,
+      "name": "El Rey de la Puntualidad",
+      "url": "https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "The Greatest Salsa Ever",
         "url": "https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 296226,
       "name": "No Tires La Primera Piedra",
       "url": "https://open.spotify.com/track/0OFAo20H6VUQB78GyLoJQJ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "A Band And Their Music: Campeones",
-        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        }
-      ],
-      "duration_ms": 405093,
-      "name": "El Rey de la Puntualidad",
-      "url": "https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY"
     },
     {
       "added_at": "2023-08-11 04:00:00",

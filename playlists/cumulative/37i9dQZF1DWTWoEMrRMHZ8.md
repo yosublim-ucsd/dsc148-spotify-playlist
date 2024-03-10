@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Castello Branco
 
-639 songs - 1 day 13 hr 38 min
+640 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Abrigo](https://open.spotify.com/track/5nhJ79B02fCLIHIIQaybev) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [ØRGIA](https://open.spotify.com/album/2hi7x3OWSRjrXozCR8OwIA) | 4:33 | 2022-06-17 | 2022-07-16 |
 | [Absurdo](https://open.spotify.com/track/27D2NN2jAY8FR9Y3YPdGN2) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Samburá](https://open.spotify.com/album/6meKDPHVhWTjSXPlr9JOqg) | 4:04 | 2023-11-03 |  |
 | [Acabou](https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Acabou](https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim) | 2:58 | 2023-06-02 | 2023-09-02 |
-| [Acabou, mas tem...](https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1) | 3:55 | 2024-03-06 |  |
+| [Acabou, mas tem...](https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/3xhjxB13uDwnFf2kh59wxQ) | 3:55 | 2024-03-08 |  |
+| [Acabou, mas tem...](https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1) | 3:55 | 2024-03-06 | 2024-03-10 |
 | [Acender as Velas](https://open.spotify.com/track/4EeEwcqSLV8QmguC33sxE6) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Negra Ópera](https://open.spotify.com/album/12ruJLnnZM4RlCAlxPSq6f) | 4:27 | 2023-05-12 | 2023-06-17 |
 | [Adeus América](https://open.spotify.com/track/5peHuOuPp0eaaCJU2lgNa1) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Adeus América](https://open.spotify.com/album/0pEpQFIqJu7aW1OV0ydGpk) | 3:50 | 2023-07-14 | 2023-09-02 |
 | [Agora](https://open.spotify.com/track/1hBC2o7TjAN6unETxqcBgZ) | [Felipe Câmara](https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0), [Malú Lomando](https://open.spotify.com/artist/6u5Wnrt6qAc1hQekBvcLXm) | [Agora](https://open.spotify.com/album/5YoQlOgX2LFyCq7QKFTPWM) | 4:30 | 2022-04-01 | 2022-04-29 |

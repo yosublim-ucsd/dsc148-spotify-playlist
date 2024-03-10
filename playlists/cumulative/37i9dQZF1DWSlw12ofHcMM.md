@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-193 songs - 11 hr 8 min
+194 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Garden Dove](https://open.spotify.com/track/1izpe7cGpYSLWFoQsgjIqz) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [A Small Death](https://open.spotify.com/album/7veNlo53uwJjMtxwQUTNOx) | 3:50 | 2021-11-19 |  |
 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 | 2021-11-19 |  |
 | [Glitter & Gold](https://open.spotify.com/track/1aJtyIMev4kW8IMUxOjn1Y) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 2:56 | 2021-11-19 |  |
-| [God's Gonna Cut You Down](https://open.spotify.com/track/6RFkVsPmrM4pzlDkFswwJl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/40ObOkEaQKVmcJ6k1W2xMg) | 2:38 | 2021-11-19 |  |
+| [God's Gonna Cut You Down](https://open.spotify.com/track/6RFkVsPmrM4pzlDkFswwJl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/40ObOkEaQKVmcJ6k1W2xMg) | 2:38 | 2021-11-19 | 2024-03-10 |
+| [God's Gonna Cut You Down](https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/16VJRQuM2mXHkuppi3SNAh) | 2:38 | 2023-03-10 |  |
 | [Good Evening](https://open.spotify.com/track/398QU045BgD0nsMgxedVCG) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [Good Evening](https://open.spotify.com/album/2VkJ4a7OAtEhhxZZRDuAAV) | 4:39 | 2021-11-19 | 2022-07-29 |
 | [Good Evening](https://open.spotify.com/track/5DFELITzxqOwPROrMfCXNc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [El Astronauta](https://open.spotify.com/album/62UCTVNpAhCrmRMf4knpvS) | 4:39 | 2022-07-11 |  |
 | [Grave Digger](https://open.spotify.com/track/6UWmNaS12bUJzFBuQB6e7j) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Grave Digger](https://open.spotify.com/album/2QGm9wqX2SSeZNV3kdxHMi) | 3:57 | 2021-11-19 |  |

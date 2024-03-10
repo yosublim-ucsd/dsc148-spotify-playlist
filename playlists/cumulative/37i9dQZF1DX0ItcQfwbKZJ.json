@@ -484,10 +484,28 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 206413,
       "name": "Cumbia Africana",
       "url": "https://open.spotify.com/track/0NKgWh7y8wHhlbYE2NvJAN"
+    },
+    {
+      "album": {
+        "name": "Afro-Colombian Sound Modernizers",
+        "url": "https://open.spotify.com/album/5HAxpndIx1dY8zwblmjEHz"
+      },
+      "artists": [
+        {
+          "name": "Son Palenque",
+          "url": "https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206413,
+      "name": "Cumbia Africana",
+      "url": "https://open.spotify.com/track/4wA0D7Fl3DZPW7nb49HlRb"
     },
     {
       "album": {

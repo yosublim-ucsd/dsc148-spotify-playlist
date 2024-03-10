@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,836 likes - 265 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,991 likes - 265 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,7 +246,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 236 | [It Will Be Okay](https://open.spotify.com/track/0csJBTAnROtcbD5zKNxbEa) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Perspective](https://open.spotify.com/album/3NZcJBtYs1jDUcS3RA0Zz5) | 2:18 |
 | 237 | [Endangered species](https://open.spotify.com/track/4qCHzjO8vGdW5dCAGZSnZd) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Adam Dejnarowicz](https://open.spotify.com/artist/7HWiJb3mzF3vnEYs0wIBdJ) | [Endangered species](https://open.spotify.com/album/5DXbuP9LkdJLB7SXzYieJF) | 1:58 |
 | 238 | [Morning Sun](https://open.spotify.com/track/54s96Z1GPxY0YjTkZPDbDq) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Morning Sun](https://open.spotify.com/album/1NV2iVj9ZMGOfIecW7R43n) | 2:20 |
-| 239 | [Nothing Stays Forever](https://open.spotify.com/track/6McX4XwMmBZeEKW3LeeL7O) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [STILL ALIVE](https://open.spotify.com/album/1P28erNO6UqJiM4m5T4uLY) | 3:42 |
+| 239 | [Nothing Stays Forever](https://open.spotify.com/track/5yW8pNbHpiCS92iVcYEeEI) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [STILL ALIVE](https://open.spotify.com/album/6XrrWdMJLMkAmrTGX5Et3w) | 3:42 |
 | 240 | [Grapefruit Park](https://open.spotify.com/track/3yEYawa3IMccZnBfvsAvp3) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Grapefruit Garden](https://open.spotify.com/album/7cGS9vNywltuBBmpKdcf55) | 1:39 |
 | 241 | [Kick Back](https://open.spotify.com/track/0fiYMoRODdyelOSeuIg3mD) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Kick Back](https://open.spotify.com/album/54DDVudEhLEg1Si60x3Sh9) | 1:40 |
 | 242 | [Green Apple](https://open.spotify.com/track/75lI8teC4XoCbFosoDGrRk) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/44GAx3WI8GBIrTzBn4vB5e) | 2:45 |
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 264 | [Recollection](https://open.spotify.com/track/2kmvhCpX4xOyfBmCfk3Oy6) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Recollection](https://open.spotify.com/album/7ENS1n8vblqe9EcXpQxLDW) | 2:33 |
 | 265 | [Corals](https://open.spotify.com/track/2343xsreIBUaCjwbyLlDuk) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Corals](https://open.spotify.com/album/6F58s8DspnQzyyLRp0C58n) | 2:11 |
 
-Snapshot ID: `MCw4NjA1ZjMwZmJhNzk0YzQxZGM4ZmZkYWUxM2FiNWNkMWQ5MThiYjVj`
+Snapshot ID: `MCw2OTY4NjNmMzhlYmY0ODY1ZjNlYTg5NGE4YWE0NTliYmNlNGE4MjQz`

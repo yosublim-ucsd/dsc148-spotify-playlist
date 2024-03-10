@@ -1,12 +1,12 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
-  "num_followers": 51557,
+  "num_followers": 51599,
   "original_name": "Jiran Akrab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjBjZTQzYTJkMWVmOWIxMGY5ZjUwMWE3N2Q0NjhiNWI2ZjMxZWE1",
+  "snapshot_id": "MCxiYmJlZTdhMmM5ZGMzODQzMjU4NzNhNzI1Y2NlZTAzODM5M2MyYjdh",
   "tracks": [
     {
       "added_at": "2024-01-12 06:34:07",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
-      },
-      "artists": [
-        {
-          "name": "Irwansyah",
-          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "Pencinta Wanita",
-      "url": "https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "Untukmu Selamanya",
         "url": "https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 283360,
       "name": "Cinta Dalam Hati",
       "url": "https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Irwansyah",
+          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "Pencinta Wanita",
+      "url": "https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB"
     },
     {
       "added_at": "2024-01-12 06:34:07",

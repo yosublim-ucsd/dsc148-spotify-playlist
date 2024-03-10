@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 219297,
+  "num_followers": 219415,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDJmZWM0ZDE1NDBmOWI5MGI0Y2ZjYWZhZjM0ODA0NTlkM2ZjZDJh",
+  "snapshot_id": "MCw3NDY0OTViMjIzYTU0NDA4MzBhY2FlNDdkZDNiMWMzZGYzMzg2MGUz",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Enchanted Instrumentals and Whispers",
-        "url": "https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 256188,
-      "name": "Deep Swim",
-      "url": "https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "009 Sound System",
         "url": "https://open.spotify.com/album/5W3etTwlyw2ykgwk5sW8K3"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 277489,
       "name": "Dreamscape",
       "url": "https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Enchanted Instrumentals and Whispers",
+        "url": "https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N"
+      },
+      "artists": [
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        }
+      ],
+      "duration_ms": 256188,
+      "name": "Deep Swim",
+      "url": "https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Rose Gold (Deluxe)",
-        "url": "https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr"
+        "name": "Velocity: Design: Comfort.",
+        "url": "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2"
       },
       "artists": [
         {
-          "name": "Kitty",
-          "url": "https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV"
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
         }
       ],
-      "duration_ms": 180960,
-      "name": "Counting All The Starfish",
-      "url": "https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb"
+      "duration_ms": 346306,
+      "name": "Pro: Lov: Ad",
+      "url": "https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Velocity: Design: Comfort.",
-        "url": "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2"
+        "name": "Rose Gold (Deluxe)",
+        "url": "https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr"
       },
       "artists": [
         {
-          "name": "Sweet Trip",
-          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+          "name": "Kitty",
+          "url": "https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV"
         }
       ],
-      "duration_ms": 346306,
-      "name": "Pro: Lov: Ad",
-      "url": "https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw"
+      "duration_ms": 180960,
+      "name": "Counting All The Starfish",
+      "url": "https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": ".Temp",
-        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
-      },
-      "artists": [
-        {
-          "name": "Graham Kartna",
-          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
-        }
-      ],
-      "duration_ms": 96883,
-      "name": "Eternal.Temp",
-      "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "VOCALOID DYSTOPIA",
         "url": "https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 144875,
       "name": "VOCALOID UTOPIA",
       "url": "https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": ".Temp",
+        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
+      },
+      "artists": [
+        {
+          "name": "Graham Kartna",
+          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
+        }
+      ],
+      "duration_ms": 96883,
+      "name": "Eternal.Temp",
+      "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
     },
     {
       "added_at": "2023-07-18 20:06:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  Omar Sterling
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,246 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,258 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Prodigy](https://open.spotify.com/track/3mJP2ejsQtYioV8hAiXqfc) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Prodigy](https://open.spotify.com/album/1WosT5FWrSYcFHLbt3VEy4) | 2:42 |
 | 80 | [Gimme Grace](https://open.spotify.com/track/6ffqvYWjuFKYreV7DK6xfQ) | [R.B.D.](https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We), [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1) | [Gimme Grace](https://open.spotify.com/album/1Y5UvC1xVYr7ejO8AUws02) | 2:55 |
 
-Snapshot ID: `MCw2ZjUzNzQwOGFhOTE3Y2M5NmRmMmE2MTc4ZmU2M2NjNzU3MDk4Nzgx`
+Snapshot ID: `MCw4MTYxYjM2MzZiNTY1MjFlZWE5OTQ0ZjI3Y2FhYmQ1OWYxMzJlZDU4`

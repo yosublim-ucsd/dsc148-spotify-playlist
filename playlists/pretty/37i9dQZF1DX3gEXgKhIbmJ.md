@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,795 likes - 51 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,805 likes - 51 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Opções](https://open.spotify.com/track/27x579ayIvantoVe6PP97U) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [O Mais Novo Romântico](https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj) | 3:00 |
 | 2 | [Se Quiser Só Vai](https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:43 |
 | 3 | [Capa Vogue](https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7) | [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Capa Vogue](https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7) | 2:11 |
-| 4 | [Boa Sorte Mesmo](https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:26 |
+| 4 | [Boa Sorte Mesmo](https://open.spotify.com/track/0Rs4t4iTER9pQAXsMT7KYr) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Boa Sorte Mesmo](https://open.spotify.com/album/5oaoVNzfyIgJYhpm9TAGCH) | 2:26 |
 | 5 | [É o paco ou berro?](https://open.spotify.com/track/18CtlrryJwqsvSOyd9GBim) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Elipe](https://open.spotify.com/artist/5DYNCxrEXydchmfndMzzku) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:04 |
 | 6 | [Perdas \(Introdução\)](https://open.spotify.com/track/63ih7IytiVEosEaJPuYu9x) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 3:11 |
-| 7 | [RUSH](https://open.spotify.com/track/6pcVh06f60yGr6PRI2ar34) | [Youngui](https://open.spotify.com/artist/4cYPESnLDYxvl3eqb6OPCT), [Marabá Prod](https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB) | [RUSH](https://open.spotify.com/album/446Qzs6uDKjZ9eHauRmKly) | 1:53 |
+| 7 | [RUSH](https://open.spotify.com/track/6pcVh06f60yGr6PRI2ar34) | [Youngui](https://open.spotify.com/artist/4cYPESnLDYxvl3eqb6OPCT), [Marabá](https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB) | [RUSH](https://open.spotify.com/album/446Qzs6uDKjZ9eHauRmKly) | 1:53 |
 | 8 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
 | 9 | [Acesso](https://open.spotify.com/track/50DJ7gzjb5ZoNfZyh6JQB7) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Acesso](https://open.spotify.com/album/5wDZ8w72zU0MKc5bgodoYx) | 3:08 |
 | 10 | [NEBLINA pt\. 2](https://open.spotify.com/track/4VWwJYGKZjC8IIZwVizuTv) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:46 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 50 | [Drink Azul](https://open.spotify.com/track/7lmt01rNRrfzWCfzKQI4oS) | [Barcellos](https://open.spotify.com/artist/3P7RXjD1Ak6IETrHzuRk8P), [Sávio Pires](https://open.spotify.com/artist/05DQcsp8yVtc4vUhGEVggd) | [TROPICALBOYS vol.1](https://open.spotify.com/album/6TfKdNpeU0zAO9FXN4XzJ2) | 2:48 |
 | 51 | [Club](https://open.spotify.com/track/3rV9lzOTFC6YPnLO8zu7MY) | [PB999](https://open.spotify.com/artist/4EPlOOPkq9xBAwQWV3ibom), [mekesu](https://open.spotify.com/artist/5Jz8VtL4TocWu1LzGrDr3z) | [Club](https://open.spotify.com/album/3NXtqHHDsZPWBzSI22foTn) | 1:49 |
 
-Snapshot ID: `MCwwY2FiOGFmMzk1MWIxZmUyODU4MGY4YTc1ODcwYmVlZmJmNWMwNTJh`
+Snapshot ID: `MCxmZDRjMmU3NjRjZGJjZWY3NjEwNzFkMzJhNjM5ZjE4Njg5NjZjNGYw`

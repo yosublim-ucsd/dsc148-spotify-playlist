@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Diego Torres",
-  "num_followers": 28478,
+  "num_followers": 28530,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTViODY1NzM0OWM3MjYyMzlmMDdjZjNjMDY3YzM3NjZjNDQyMTZm",
+  "snapshot_id": "MCxjNzY4MmE5ODBkYWQzYzczMTYyZDAwMTFhZGVjZjY3NWM4NTRjNDVm",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -103,7 +103,7 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "As\u00ed Es el Calor (feat. Andr\u00e9s Calamaro)",
+        "name": "As\u00ed Es el Calor",
         "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
       },
       "artists": [
@@ -114,14 +114,10 @@
         {
           "name": "El Zar",
           "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
       "duration_ms": 180017,
-      "name": "As\u00ed Es el Calor (feat. Andr\u00e9s Calamaro)",
+      "name": "As\u00ed Es el Calor",
       "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
     },
     {
@@ -1455,6 +1451,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Emocionalmente Tuya",
+        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 250475,
+      "name": "Emocionalmente Tuya",
+      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/2gnITQUWyhtqnZn6DgcjoI"
       },
@@ -1487,22 +1499,6 @@
       "duration_ms": 122202,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Aqua di Emma",
-        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 162327,
-      "name": "Te Dar\u00eda",
-      "url": "https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr"
     }
   ],
   "unique_name": "Esto es Pop",

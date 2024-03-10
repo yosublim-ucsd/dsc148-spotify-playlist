@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 50646,
+  "2024-03-10": 50685,
   "date_first_scraped": "2022-05-30",
   "description": "New music from popular Hindi artists. Cover- Badshah",
   "name": "New Music Friday Hindi ",
@@ -2381,7 +2381,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 192711,
       "name": "Bawra Mann",
       "url": "https://open.spotify.com/track/4dNluJSlZl7DAfSjTO3vWo"
@@ -3858,6 +3858,28 @@
     },
     {
       "album": {
+        "name": "Darmiyaan",
+        "url": "https://open.spotify.com/album/3GjCnckZDWhDqUaxPAVxZU"
+      },
+      "artists": [
+        {
+          "name": "Rachit Shrivastava",
+          "url": "https://open.spotify.com/artist/5k3Iw8VrxwZyFdi4dBPeBn"
+        },
+        {
+          "name": "Swapnil Tare",
+          "url": "https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209704,
+      "name": "Darmiyaan",
+      "url": "https://open.spotify.com/track/00A5UNZB6peIXs2TFl0FRN"
+    },
+    {
+      "album": {
         "name": "Darta Hu Mai",
         "url": "https://open.spotify.com/album/01ZQhJ57JPYXAfx5qQ4OPT"
       },
@@ -4115,6 +4137,28 @@
       "duration_ms": 216380,
       "name": "Dekhte Reh Gaye",
       "url": "https://open.spotify.com/track/5uWpxV3uxJa8FIehaLkm0N"
+    },
+    {
+      "album": {
+        "name": "Dhaaga",
+        "url": "https://open.spotify.com/album/4iMpbyjVozzQpxvwXkYGnC"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Mukul Kashikar",
+          "url": "https://open.spotify.com/artist/60AKVZ5ZJLo5wElPMGO8qK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177487,
+      "name": "Dhaaga",
+      "url": "https://open.spotify.com/track/7Jc36Yx8LImQ8KmW497Xsa"
     },
     {
       "album": {
@@ -4431,7 +4475,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 218636,
       "name": "Dil Gaye Ja",
       "url": "https://open.spotify.com/track/26glf0z6oKPzZB742D6LTT"
@@ -5315,7 +5359,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 196904,
       "name": "Ek Din Main Aaunga",
       "url": "https://open.spotify.com/track/1xkf1V1xwIEU72yHeqgxWB"
@@ -6837,6 +6881,28 @@
       "duration_ms": 170909,
       "name": "Honey Ke Sang",
       "url": "https://open.spotify.com/track/33btrUI6LRI7EyGBzbmp8f"
+    },
+    {
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/6S8X2sG1FZ3xHWmrpdgFcG"
+      },
+      "artists": [
+        {
+          "name": "Akull",
+          "url": "https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss"
+        },
+        {
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/3hJ5fEOXMPqxpU6mdHFQCY"
     },
     {
       "album": {
@@ -8669,7 +8735,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 193170,
       "name": "Kaash Tu Meri Ho Jaaye",
       "url": "https://open.spotify.com/track/69JXBHaTBV7XWzqPMmhOl1"
@@ -9621,7 +9687,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 235947,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/1hlpcQkgSpvHTrdVIz79Ow"
@@ -11541,6 +11607,24 @@
       "duration_ms": 234444,
       "name": "Manmaani",
       "url": "https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc"
+    },
+    {
+      "album": {
+        "name": "Manmarziyan",
+        "url": "https://open.spotify.com/album/6ZpkotZG8f8sIlQXGtcI5R"
+      },
+      "artists": [
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231230,
+      "name": "Manmarziyan",
+      "url": "https://open.spotify.com/track/6T1q54Iri4mnFlqbhypLjl"
     },
     {
       "album": {
@@ -17359,6 +17443,36 @@
       "duration_ms": 288785,
       "name": "Tere Binn Dil Ye Mera",
       "url": "https://open.spotify.com/track/3RvkWLoGGXScNpD6qWIdko"
+    },
+    {
+      "album": {
+        "name": "Tere Bin\u2026",
+        "url": "https://open.spotify.com/album/7bFwGsx3fQriJIcomzlUnO"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210856,
+      "name": "Tere Bin\u2026",
+      "url": "https://open.spotify.com/track/3pVtj03sKxQz6U6GX7GnYN"
     },
     {
       "album": {

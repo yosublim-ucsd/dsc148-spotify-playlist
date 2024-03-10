@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Lal Salaam
 
-1,183 songs - 3 day 0 hr 23 min
+1,184 songs - 3 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1190,6 +1190,7 @@
 | [Yosichi Yosichi \(From "Andhagan"\)](https://open.spotify.com/track/61SbtTHEHp1yHkcmKvnCfq) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Yosichi Yosichi \(From "Andhagan"\)](https://open.spotify.com/album/1cThw8o36X9VSZ8D2aUiVa) | 4:07 | 2022-05-27 | 2022-06-10 |
 | [Zara \- From "Farhana"](https://open.spotify.com/track/4cRf7EgyYqXTavx4ZrisCB) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Zara \(From "Farhana"\)](https://open.spotify.com/album/5bB8dJNpVMRMkDWr4tVmxD) | 3:44 | 2022-12-13 | 2023-01-25 |
 | [Zoom Boom Doom Pathaan](https://open.spotify.com/track/3ktsYOpVAmAqoj4FhL64TU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Pathaan \- Tamil](https://open.spotify.com/album/6F4MQdnwoPa8VlEG1J2G9f) | 3:28 | 2022-12-22 | 2023-02-11 |
-| [Zoosa \(From "Vallavan Vaguthadhada"\)](https://open.spotify.com/track/1q2nWfPYIn1zldKyc95z5M) | [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex), [Charles](https://open.spotify.com/artist/1zQk335M5LE4TowdBTKOAp), [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm) | [Zoosa \(From "Vallavan Vaguthadhada"\)](https://open.spotify.com/album/5P5LH5qFUNQwdIcQyqzlQi) | 3:33 | 2024-03-08 |  |
+| [Zoosa \(From "Vallavan Vaguthadhada"\)](https://open.spotify.com/track/1q2nWfPYIn1zldKyc95z5M) | [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex), [Charles](https://open.spotify.com/artist/1zQk335M5LE4TowdBTKOAp), [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm) | [Zoosa \(From "Vallavan Vaguthadhada"\)](https://open.spotify.com/album/5P5LH5qFUNQwdIcQyqzlQi) | 3:33 | 2024-03-08 | 2024-03-10 |
+| [Zoosa \(From 'Vallavan Vaguthadhada"\)](https://open.spotify.com/track/30g1SznIOfHmiHTqegMj8M) | [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex), [Charles](https://open.spotify.com/artist/5qh9JtALCnTCX22BNzoqL5), [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm), [Varuon Thushyanthan](https://open.spotify.com/artist/7I1F56tkI5kgOgsI2VA6At) | [Zoosa \(From 'Vallavan Vaguthadhada"\)](https://open.spotify.com/album/23MDadoeMVcGgss21jp3hG) | 3:33 | 2024-03-08 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

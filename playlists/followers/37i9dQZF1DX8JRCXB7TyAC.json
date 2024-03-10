@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 32607,
+  "2024-03-10": 32648,
   "date_first_scraped": "2023-07-25",
   "description": "Workout with Haryanvi Songs. Cover: Ankit Baiyanpuria",
   "name": "Haryanvi Workout",
@@ -341,7 +341,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 206197,
       "name": "Bhaichara",
       "url": "https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 159135,
       "name": "Mein Banda Thik Nahi (feat. Kanishka Sharma,Amit Attri)",
       "url": "https://open.spotify.com/track/55D7IBTCePfG8B4Wflgucy"
@@ -1346,6 +1346,24 @@
     },
     {
       "album": {
+        "name": "Papi Purane",
+        "url": "https://open.spotify.com/album/1pV9QlaOmciHfC5lElLR6E"
+      },
+      "artists": [
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150688,
+      "name": "Papi Purane",
+      "url": "https://open.spotify.com/track/4XUHHkMuN4pPj7mX4UEQYz"
+    },
+    {
+      "album": {
         "name": "Pataka",
         "url": "https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P"
       },
@@ -1372,14 +1390,6 @@
         "url": "https://open.spotify.com/album/5iGqNO2rqsjGQYWlIhHA2F"
       },
       "artists": [
-        {
-          "name": "RK Crew",
-          "url": "https://open.spotify.com/artist/5F6yXom1OtJEXonwTvHsaw"
-        },
-        {
-          "name": "Harry Lather",
-          "url": "https://open.spotify.com/artist/7HMNlWHFbbJyWvICuRXNSt"
-        },
         {
           "name": "Mohit Sharma",
           "url": "https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1"
@@ -1447,6 +1457,28 @@
       "duration_ms": 162787,
       "name": "Pistal Te Mehnga Lehnga",
       "url": "https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v"
+      },
+      "artists": [
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        },
+        {
+          "name": "DRJ Sohail",
+          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173999,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw"
     },
     {
       "album": {
@@ -1541,7 +1573,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 148695,
       "name": "Russian",
       "url": "https://open.spotify.com/track/58iP9XZQkQSQWqx6NATm4l"
@@ -1867,6 +1899,28 @@
       "duration_ms": 140000,
       "name": "Yaar Haryane Te",
       "url": "https://open.spotify.com/track/36pCCXFo9bICfCXIPrIegh"
+    },
+    {
+      "album": {
+        "name": "Yaar Mustande",
+        "url": "https://open.spotify.com/album/2gMJm46YpZ6pZvgiwtvz2Z"
+      },
+      "artists": [
+        {
+          "name": "Raju Punjabi",
+          "url": "https://open.spotify.com/artist/5RnjdaS0Pqb4KgWvCoohs8"
+        },
+        {
+          "name": "Veer Guru",
+          "url": "https://open.spotify.com/artist/5PEw82Z44XSxsDZX1yzrL3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231964,
+      "name": "Yaar Mustande",
+      "url": "https://open.spotify.com/track/0kf3xOV5y92nGVD4vfALaP"
     },
     {
       "album": {

@@ -6676,7 +6676,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 157181,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/3q6ayHzfLJIx22oQXoYlyi"
@@ -8108,6 +8108,28 @@
       "duration_ms": 247666,
       "name": "Ekeina Ta Meri",
       "url": "https://open.spotify.com/track/5pKkx2psY8nq3dHukJaakC"
+    },
+    {
+      "album": {
+        "name": "Ekpaideutiki Ekdromi",
+        "url": "https://open.spotify.com/album/6ilcM9s5InfGMcsxgeXeAY"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160799,
+      "name": "Ekpaideutiki Ekdromi",
+      "url": "https://open.spotify.com/track/1rXxbGGDyboU0a6QJnzxwB"
     },
     {
       "album": {
@@ -11008,7 +11030,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 223543,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/2X30nxVvZWDLDRFY7uxCvp"
@@ -14201,6 +14223,32 @@
     },
     {
       "album": {
+        "name": "THE DEAL",
+        "url": "https://open.spotify.com/album/6MrQVsxWATii7CjY9MDs7n"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222604,
+      "name": "KATHE MERA",
+      "url": "https://open.spotify.com/track/3KotwW6ZXd9CeWc7rS2rWa"
+    },
+    {
+      "album": {
         "name": "Kathikon",
         "url": "https://open.spotify.com/album/7d3k9aWkP4DCWJTYzW4v9h"
       },
@@ -14832,7 +14880,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 152228,
       "name": "Kokkina Fanaria",
       "url": "https://open.spotify.com/track/2IzwQrJ6iGKinS3086jf12"
@@ -15044,7 +15092,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 131785,
       "name": "KRIMI",
       "url": "https://open.spotify.com/track/4h99eP3xJ0019CCTG1flKC"
@@ -16542,7 +16590,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 169714,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2TW4d5q3MtciLMLlzyqfDD"
@@ -17916,7 +17964,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 165000,
       "name": "ME N U",
       "url": "https://open.spotify.com/track/2ouWSRC1YsQX6JAwosfTFJ"
@@ -25223,6 +25271,44 @@
     },
     {
       "album": {
+        "name": "Selini",
+        "url": "https://open.spotify.com/album/2Jg7K58LZvwsHnBIGMaQxV"
+      },
+      "artists": [
+        {
+          "name": "Logos Timis",
+          "url": "https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s"
+        },
+        {
+          "name": "Sumo Beats",
+          "url": "https://open.spotify.com/artist/7v5615g0bsYcu6u2KEJIiF"
+        },
+        {
+          "name": "Koraki",
+          "url": "https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV"
+        },
+        {
+          "name": "Eleuthero Pneuma",
+          "url": "https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ"
+        },
+        {
+          "name": "Sativa",
+          "url": "https://open.spotify.com/artist/6xfmBXL6ndOsNpZPpxWz6w"
+        },
+        {
+          "name": "Tokesick",
+          "url": "https://open.spotify.com/artist/733tGeoTlbTeRjKHm7HAvQ"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216064,
+      "name": "Selini",
+      "url": "https://open.spotify.com/track/6gI4OPdbaH3CLdLTPda6HR"
+    },
+    {
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -28134,7 +28220,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 143052,
       "name": "Tik Tak",
       "url": "https://open.spotify.com/track/249Ccx4Udp9bMug0T505Vx"
@@ -29302,6 +29388,28 @@
       "duration_ms": 169444,
       "name": "Tropicana",
       "url": "https://open.spotify.com/track/1ob6WCVuZIO5qk7jiRrHjn"
+    },
+    {
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/1Cr60qK8ayT5M7bBHS3AWE"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232566,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4SM6VvnIRnjS0UW5drgiRy"
     },
     {
       "album": {
@@ -31470,6 +31578,24 @@
       "duration_ms": 157310,
       "name": "Zaddy",
       "url": "https://open.spotify.com/track/38Yd1n3ZjNgAtzyFtrQu1G"
+    },
+    {
+      "album": {
+        "name": "ZARI",
+        "url": "https://open.spotify.com/album/1sQlfXEIFzHXutnKTGlWbz"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180979,
+      "name": "ZARI",
+      "url": "https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Take a bite out of the official playlist for Vampire Academy, streaming Thursdays on Peacock.
 
-69 songs - 3 hr 40 min
+70 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Lessons](https://open.spotify.com/track/7L0duf4jzjBdAXGDGPdzgt) | [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie), [Alone Architect](https://open.spotify.com/artist/0vXrqJwfQ4zHxwSpKwSveW) | [Lessons](https://open.spotify.com/album/22ni1a5zxuAEI25bbJcZtR) | 3:30 | 2022-09-29 |  |
 | [Lil Piece of Heaven](https://open.spotify.com/track/37MylmH4HS7M2fhXIUasvT) | [Poison Ivory](https://open.spotify.com/artist/0Eq98DOd173KrJR9PkauF8) | [The Filth \- EP](https://open.spotify.com/album/5NyE9aoQJBrK1HCu2zC7Fm) | 3:19 | 2022-09-15 |  |
 | [Loco](https://open.spotify.com/track/5Sz92ycVYPenItcFre6tiH) | [Cool Futures](https://open.spotify.com/artist/6pg9YZ0Aw6Tdubp3LCN7Q7), [Willis](https://open.spotify.com/artist/2qsGYa4R5txYqlvYEYmbJd), [Trynket](https://open.spotify.com/artist/532KYewibPingKExTDrDbA) | [Campfire, Vol\. 3](https://open.spotify.com/album/2oFHx6sSeGa3DGg1miqCIj) | 2:53 | 2022-09-15 |  |
-| [LUSTFUL DESIRES](https://open.spotify.com/track/4uk0626CNgZfdMNzaPrH9t) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk) | [LOVE SONGS ABOUT NOBODY](https://open.spotify.com/album/7BdrlLjXopwWAUJz68o5eS) | 2:31 | 2022-09-15 |  |
+| [LUSTFUL DESIRES](https://open.spotify.com/track/0FnnNfRZJbLgHkrRSsH25z) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk) | [LOVE SONGS ABOUT NOBODY](https://open.spotify.com/album/3aYOTELJ17zQXhsQacDm51) | 2:31 | 2022-09-15 |  |
+| [LUSTFUL DESIRES](https://open.spotify.com/track/4uk0626CNgZfdMNzaPrH9t) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk) | [LOVE SONGS ABOUT NOBODY](https://open.spotify.com/album/7BdrlLjXopwWAUJz68o5eS) | 2:31 | 2022-09-15 | 2024-03-10 |
 | [More \(Prelude\)](https://open.spotify.com/track/5euZjHtfURez3oTpUdesV0) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [I Killed The Orchestra EP](https://open.spotify.com/album/6aWB16Ri58NuFoUZZQAr9v) | 2:14 | 2022-09-15 |  |
 | [Night So Long](https://open.spotify.com/track/34coTrM6Wi0SAw93tjbZmq) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:04 | 2022-09-15 |  |
 | [Night To Regret](https://open.spotify.com/track/6pcnGqTO8QVb3mHQswhs1B) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [Night To Regret](https://open.spotify.com/album/14qo8wVYn85q4wF1AqIogq) | 1:48 | 2022-10-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Nora Gonz\u00e1lez en portada. ",
-  "num_followers": 131274,
+  "num_followers": 131279,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDc1Mjg4ZWIwODY5MmY4OTVmOWRkNDU1NjkyZDQxYzQyYWM1NDdk",
+  "snapshot_id": "MCwxMTI0MTkxODJkYTZkMGY0YjQ3OTY0MmNhYzMxZjNkNjQ0NDFkYmI5",
   "tracks": [
     {
       "added_at": "2024-03-08 17:57:17",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-03-08 17:57:17",
       "album": {
+        "name": "...Y Lleg\u00f3 Para Quedarse",
+        "url": "https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7"
+    },
+    {
+      "added_at": "2024-03-08 17:57:17",
+      "album": {
         "name": "El Sinaloense",
         "url": "https://open.spotify.com/album/6EfyoRonwMcULLHbjH7BK2"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 157285,
       "name": "El Sinaloense",
       "url": "https://open.spotify.com/track/4h06vZxDLOpTwJ9poOn1dT"
-    },
-    {
-      "added_at": "2024-03-08 17:57:17",
-      "album": {
-        "name": "...Y Lleg\u00f3 Para Quedarse",
-        "url": "https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7"
     },
     {
       "added_at": "2024-03-08 17:57:17",

@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 176409,
+  "2024-03-10": 176411,
   "date_first_scraped": "2022-05-09",
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
   "name": "San Valentino 2024",
@@ -385,7 +385,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 165333,
       "name": "Blu (feat. Elisa)",
       "url": "https://open.spotify.com/track/0Q4v8N758nx98YxObfqkNC"
@@ -3435,6 +3435,24 @@
       "duration_ms": 177145,
       "name": "Sorriso (Milano Dateo)",
       "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
+    },
+    {
+      "album": {
+        "name": "Sotto Il Segno Dei Pesci",
+        "url": "https://open.spotify.com/album/0iLb2xEPwSGlWnTM8oxcqp"
+      },
+      "artists": [
+        {
+          "name": "Antonello Venditti",
+          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361493,
+      "name": "Sotto Il Segno Dei Pesci",
+      "url": "https://open.spotify.com/track/6XLq0b557873yQsYATC0Hz"
     },
     {
       "album": {

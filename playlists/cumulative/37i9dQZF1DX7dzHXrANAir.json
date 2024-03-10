@@ -1523,6 +1523,32 @@
     },
     {
       "album": {
+        "name": "Philip Glass: Etude No.2 Reworked",
+        "url": "https://open.spotify.com/album/4tUm9dqxJp0E77i2IU1rLL"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "AVR",
+          "url": "https://open.spotify.com/artist/3NHrUfg7qWM2H9UBwsr1bm"
+        },
+        {
+          "name": "Anna von Raison",
+          "url": "https://open.spotify.com/artist/2w099EQyT3f7SjtVfVLQX2"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Etude No.2 Reworked",
+      "url": "https://open.spotify.com/track/4etZiHNHhhCxDPXMxo3d8A"
+    },
+    {
+      "album": {
         "name": "Entanglement",
         "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
       },
@@ -4844,7 +4870,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 301299,
       "name": "Rose in Abstract - Portico Quartet Remix",
       "url": "https://open.spotify.com/track/4htEjLpOGBkjMHxoUslMgn"

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Belmont
 
-1,158 songs - 2 day 13 hr 11 min
+1,160 songs - 2 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Alaina](https://open.spotify.com/track/3Eoagt0ij670tloVT4FVId) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Alaina](https://open.spotify.com/album/5GAqYNRErpA63WXO6UHgfp) | 2:46 | 2021-12-10 | 2022-07-29 |
 | [Alaina](https://open.spotify.com/track/702Hp5evNiNQkK4ToupjF2) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Alaina](https://open.spotify.com/album/1uCkROQ25UpVXzDvroyGAN) | 2:46 | 2022-07-08 | 2022-08-03 |
 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-07-14 |  |
+| [ALEXITHYMIA](https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:15 | 2024-03-08 |  |
 | [ALL I EVER WANTED](https://open.spotify.com/track/6DEE4Ym6b3rfJjKdPjRz0D) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [ALL I EVER WANTED](https://open.spotify.com/album/11SFPa99Fx9dGYs4XW2UfJ) | 2:27 | 2022-03-25 | 2022-05-21 |
 | [All My Favorite Bands Use Long Song Titles So I Will Too](https://open.spotify.com/track/6QZIoJhQsIFP5Fzt7tDaQX) | [Anthony Amorim](https://open.spotify.com/artist/1tt29X4uRBgHBhu9M1vEXM) | [Sad Forever \(Deluxe\)](https://open.spotify.com/album/3JN2RiYf96DhIJT7zlUu5G) | 2:39 | 2021-12-10 | 2022-07-20 |
 | [All Out](https://open.spotify.com/track/4ZSuODy4xcQevETPu9vEbF) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [All Out \(The Singles\)](https://open.spotify.com/album/27lOeZ0KOk22hKxvF8d54F) | 3:24 | 2022-02-04 | 2022-05-06 |
@@ -893,7 +894,7 @@
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2022-10-07 | 2023-11-11 |
 | [sleepwalking](https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [sleepwalking](https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt) | 2:00 | 2023-04-10 |  |
 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 | 2023-04-10 | 2023-06-01 |
-| [Slow Dance](https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV) | [Life After Youth](https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2) | [Slow Dance](https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc) | 3:32 | 2024-01-19 |  |
+| [Slow Dance](https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV) | [Life After Youth](https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2) | [Slow Dance](https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc) | 3:32 | 2024-01-19 | 2024-03-10 |
 | [Slow Decline](https://open.spotify.com/track/5cp8mYB5hLuObilaSEaaZ3) | [Decay](https://open.spotify.com/artist/3ifyzut7ukOaKd3oQZS7S8) | [Slow Decline](https://open.spotify.com/album/0CuAfP45RJ9ILpt1nqSYW5) | 4:01 | 2022-03-25 | 2022-04-12 |
 | [Smash The Mirror](https://open.spotify.com/track/5VoegAxobTd8f8vS7tnPQN) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Smash The Mirror](https://open.spotify.com/album/5vqbCpq3mJmSXk6vk7lmKO) | 3:04 | 2023-12-08 | 2024-01-20 |
 | [Smile More](https://open.spotify.com/track/79L1l860HaLzVp52fEMI4a) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Daydreamer](https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp) | 2:47 | 2022-03-25 | 2022-04-11 |
@@ -911,6 +912,7 @@
 | [Some Kind of Miracle](https://open.spotify.com/track/59cvVKUHE92LWyTvkQ5wQA) | [High Wire](https://open.spotify.com/artist/5djG2fWMe75twMqdSDorI6) | [Some Kind of Miracle](https://open.spotify.com/album/4zrL79G2UxJ2iE3u0m3McK) | 3:36 | 2022-02-04 | 2022-04-20 |
 | [Somebody](https://open.spotify.com/track/52SHgfSMoaVZ3dyeQg9cNq) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Somebody](https://open.spotify.com/album/2VXYLA6qQE9qjlkELomwE0) | 2:58 | 2021-12-10 | 2022-06-14 |
 | [Someone Else](https://open.spotify.com/track/2difkxoCWFI8heCIu8deOE) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Someone Else](https://open.spotify.com/album/6iSpCFZpcvUUxpmcy3ThYQ) | 2:56 | 2021-12-10 | 2022-08-03 |
+| [Something Blue](https://open.spotify.com/track/1XQecFY99zarSryU7dS1RN) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Something Blue](https://open.spotify.com/album/46aNsiacKvNKDOQP535ORt) | 3:06 | 2024-03-08 |  |
 | [Songs on the Radio](https://open.spotify.com/track/5rrq3Q48Zh8kZ38mhC6rAm) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [Songs on the Radio](https://open.spotify.com/album/3zRLuo2FVdTAP0MozqAiOL) | 3:28 | 2023-05-12 | 2023-07-29 |
 | [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 | 2022-05-20 | 2023-04-12 |
 | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/track/38X7LavheHbSg0UwjRUNcf) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/album/0n7Nnzxv7WBKDdpUdhL8C2) | 2:49 | 2021-12-10 | 2023-04-11 |
@@ -1030,7 +1032,7 @@
 | [Tokyo](https://open.spotify.com/track/4d2LLQznXiskpF16zXJOgZ) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Christo Bowman](https://open.spotify.com/artist/6KSZuZigeTureDNedWHZxz) | [Tokyo](https://open.spotify.com/album/1n5OwfuisLP0M0OZItxsvv) | 3:20 | 2022-04-15 | 2022-05-20 |
 | [Tokyo](https://open.spotify.com/track/49DxDMEH8w7PZkHgiRiySs) | [Prey Drive](https://open.spotify.com/artist/4uzpqg3EzVZBYRybcBLanD) | [Once More with Feeling](https://open.spotify.com/album/41QrjV2C1jmXESAmxOKmwc) | 4:07 | 2021-12-10 | 2022-05-20 |
 | [Tone](https://open.spotify.com/track/56jon54HeRd8lsvWME7XsJ) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Tone](https://open.spotify.com/album/1WEIzM6htv1TJKroViJgxG) | 2:56 | 2021-12-10 | 2022-07-29 |
-| [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 | 2024-01-19 |  |
+| [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 | 2024-01-19 | 2024-03-10 |
 | [Tonight \(feat\. iann dior\)](https://open.spotify.com/track/6Tsro9u5bnTJxFjuzuNA7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Tonight \(feat\. iann dior\)](https://open.spotify.com/album/53jX1nt0x4HeHwOGRbQWQR) | 2:15 | 2021-12-10 | 2022-06-03 |
 | [Too Far Gone](https://open.spotify.com/track/565Q8A8Gl8n4EhgVhpEBBx) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Too Far Gone](https://open.spotify.com/album/6V7FXy0ikYJQqziP4JLLaB) | 2:56 | 2022-01-14 | 2022-04-11 |
 | [TOO MUCH](https://open.spotify.com/track/4K9CC7VFiolZH2F1f4Pz3s) | [Eli Hurts](https://open.spotify.com/artist/2SPTuVsyrbhH0kvnxQgwDa) | [TOO MUCH](https://open.spotify.com/album/5T8HPGHikCk9RFeDNK3CKN) | 2:29 | 2021-12-10 | 2022-07-28 |

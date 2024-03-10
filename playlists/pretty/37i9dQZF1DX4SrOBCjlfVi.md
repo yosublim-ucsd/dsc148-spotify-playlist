@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, Lola Brooke, Never Broke Again and more\. Cover: 4batz & Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,701 likes - 48 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,834 likes - 48 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 4 | [JUMPIN IN](https://open.spotify.com/track/2ycOgXY3dbujFBd4dJHO9P) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [JUMPIN IN / US](https://open.spotify.com/album/4BQjfJvlt7oCTZ6AhiV2Gr) | 2:43 |
 | 5 | [Work This Out](https://open.spotify.com/track/3VymabYos1p2fXzmk0cPKg) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Work This Out](https://open.spotify.com/album/6vb6Zec5YfjXBcizesC5yh) | 2:58 |
 | 6 | [Get Back Up \(feat\. Fridayy\)](https://open.spotify.com/track/5TOUaxJ6DVUYAA1OivsH1v) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Get Back Up \(feat\. Fridayy\)](https://open.spotify.com/album/03FVqPZIjsv02LISaEBP29) | 2:28 |
-| 7 | [4AM at Coffee Zone](https://open.spotify.com/track/5LwoAa34wJN6DLVHLs5HA1) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [4AM at Coffee Zone](https://open.spotify.com/album/66NR2OZONVrcKdN8ukHxgX) | 2:45 |
+| 7 | [4AM at Coffee Zone \(Florida Avengers\)](https://open.spotify.com/track/5LwoAa34wJN6DLVHLs5HA1) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [4AM at Coffee Zone \(Florida Avengers\)](https://open.spotify.com/album/66NR2OZONVrcKdN8ukHxgX) | 2:45 |
 | 8 | [Mad Man](https://open.spotify.com/track/5n5TvuwopZlAiyIn8Bai4O) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK), [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [Mad Man](https://open.spotify.com/album/3k0FLJ1pOWgC8XckfN3rjg) | 2:26 |
 | 9 | [Money On My Mind](https://open.spotify.com/track/1gAmZYaDy4ZxE1BabhnT68) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money On My Mind](https://open.spotify.com/album/0Ce9CRbkNFyPqKgiKQPSO6) | 1:59 |
 | 10 | [On God \(feat\. Earl Sweatshirt & Tony Shhnow\)](https://open.spotify.com/track/4j25WxLITRGhkYNmdezE8s) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Pinball](https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW) | 2:27 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 47 | [Yuck Freestyle](https://open.spotify.com/track/3ghsizSguSJxscu862JKry) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Yuck Freestyle](https://open.spotify.com/album/1KAO2EF40fFZxiURcxg36B) | 3:00 |
 | 48 | [ray j](https://open.spotify.com/track/3ctGFtG7uMljEQzOHOoBsk) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [ray j](https://open.spotify.com/album/0Rv40qhX7pN2fDoXS79c0i) | 1:17 |
 
-Snapshot ID: `MCw0OTdiMDZhZjNkOTI4YWFjNzI5MTZmZDU2YzJiZGE4MjA1NTM0YTQy`
+Snapshot ID: `MCw0YTczN2Q0ZTM0ZjlkMzQ1ZDY3ZmQyMWU1YWJmNjkzMGVkNmUxNDM3`

@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 283945,
+  "2024-03-10": 283952,
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Humbe",
+  "description": "Fresh Latin pop on the rise. Cover: Ana Mena",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -21,6 +21,28 @@
       "duration_ms": 198433,
       "name": "10 L\u00e1grimas",
       "url": "https://open.spotify.com/track/1Q4kIUJC6FMudx4jHoqMvi"
+    },
+    {
+      "album": {
+        "name": "1000COSAS",
+        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239482,
+      "name": "1000COSAS",
+      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
     },
     {
       "album": {
@@ -129,6 +151,24 @@
       "duration_ms": 203149,
       "name": "26 - ni tarde ni temprano",
       "url": "https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9"
+    },
+    {
+      "album": {
+        "name": "Baladas Tatuadas Vol. 1",
+        "url": "https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "5 > 1",
+      "url": "https://open.spotify.com/track/1dX0ZPraR1ZaQ2THFMwEOp"
     },
     {
       "album": {
@@ -4218,6 +4258,24 @@
     },
     {
       "album": {
+        "name": "flores",
+        "url": "https://open.spotify.com/album/2XugIhX8RmpvL64PR2UMq8"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82833,
+      "name": "flores",
+      "url": "https://open.spotify.com/track/0hhPjc9JW9AFSrB58erX5X"
+    },
+    {
+      "album": {
         "name": "Fondo de Pantalla",
         "url": "https://open.spotify.com/album/4cvJOfmAspEV4TMihhle73"
       },
@@ -5793,7 +5851,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 149543,
       "name": "Los Besos Que Te Di",
       "url": "https://open.spotify.com/track/0tJ0ZGuHUKJIseLFlPlkXC"
@@ -6627,7 +6685,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 168282,
       "name": "Milanoche",
       "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
@@ -7083,7 +7141,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 145800,
       "name": "ni\u00f1o azul",
       "url": "https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O"

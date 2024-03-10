@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-247 songs - 15 hr 30 min
+248 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [La Luna en tu Mirada](https://open.spotify.com/track/1hloghDRJ041GPwg7mdLlX) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [Bossa Cubana](https://open.spotify.com/album/2FzEVO0AIoZRFxiqw8RDF2) | 2:35 | 2021-10-16 | 2022-07-27 |
 | [la luna enamorada](https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 1:50 | 2021-10-16 |  |
 | [la luna enamorada](https://open.spotify.com/track/3YF2p7XLImHilI4gOvAjzl) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/0GaMO6MLhbmtAFnKmKrdXB) | 1:50 | 2021-10-16 | 2022-07-20 |
-| [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 | 2022-09-02 |  |
+| [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 | 2022-09-02 | 2024-03-10 |
 | [La Negra Atilia](https://open.spotify.com/track/4qlRBM1GLeJagwXku8Uub4) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [La Negra Atilia](https://open.spotify.com/album/6G0A9rEXgy6PyegCPravCb) | 1:37 | 2022-03-30 | 2022-07-29 |
 | [La Plegaria de la Noche](https://open.spotify.com/track/4CHnu9MmiPITxzCmQ5W1R2) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [La Plegaria de la Noche](https://open.spotify.com/album/1RVQVJBoyI5o8PC0l0JQ5e) | 4:14 | 2022-07-15 | 2022-09-10 |
 | [La Sirena](https://open.spotify.com/track/2j8n8FygTmS9lJuVbFic2e) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [La Sirena](https://open.spotify.com/album/3t9SjYpRsq9ThBfsfVes8A) | 3:46 | 2021-10-16 | 2022-07-29 |
@@ -158,6 +158,7 @@
 | [MCA](https://open.spotify.com/track/56cf07K2eebAbL5S0vo2ee) | [Los Choclok](https://open.spotify.com/artist/2iEDalkx4bi0VkRuW0QkYD), [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [MCA](https://open.spotify.com/album/3ILyFiZlUZfS7xnONgK75C) | 3:05 | 2022-09-03 | 2022-10-29 |
 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 | 2023-05-25 |  |
 | [Mejor Que Antes](https://open.spotify.com/track/3gYISdxnffMaR9AYzuJCRf) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx), [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL) | [Mejor Que Antes](https://open.spotify.com/album/6WskIARuYkGOhfHWbmVDiL) | 4:20 | 2023-06-02 | 2023-08-03 |
+| [Mentiras Con Cariño](https://open.spotify.com/track/2CyhpAB516q2OaNwcmTHyC) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Boleros Psicodélicos](https://open.spotify.com/album/4UPS9xWe3D9WkyR8rcZe8v) | 3:48 | 2022-03-30 |  |
 | [Mentiras Con Cariño](https://open.spotify.com/track/6fG0RBjFWG2ptGMWKmL7rK) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Mentiras Con Cariño](https://open.spotify.com/album/1hSA9BiaGVr9aqNoQ0jWQB) | 3:48 | 2022-03-30 | 2022-07-28 |
 | [Mentiras Con Cariño](https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Boleros Psicodélicos](https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG) | 3:48 | 2022-03-30 | 2023-03-18 |
 | [Mi Acento](https://open.spotify.com/track/6DxgdO95EnrXOVHGNFI33B) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:17 | 2023-01-02 | 2023-03-07 |

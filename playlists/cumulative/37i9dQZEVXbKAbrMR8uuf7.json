@@ -3161,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Cabin Crew",
+        "url": "https://open.spotify.com/album/7cAUjZx6RLNQNQZOrRStOd"
+      },
+      "artists": [
+        {
+          "name": "Laaawwd",
+          "url": "https://open.spotify.com/artist/2WYhypP77IhYJQcbTQ3KWS"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125925,
+      "name": "Cabin Crew",
+      "url": "https://open.spotify.com/track/048EqTbLirX0WTiZIVaI1T"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -4862,7 +4880,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/7cfO6HiRtuWOhqY9nbn1PH"
@@ -7674,7 +7692,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 181500,
       "name": "End as Friends",
       "url": "https://open.spotify.com/track/172huCxCHWHJB1BVNgZRwa"
@@ -7834,7 +7852,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 139728,
       "name": "Eso E",
       "url": "https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX"
@@ -23848,7 +23866,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 217133,
       "name": "THUNDER Y LIGHTNING",
       "url": "https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E"
@@ -24700,7 +24718,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 161975,
       "name": "Tu Fan",
       "url": "https://open.spotify.com/track/7spfJxRz5XIK3eP1QH473h"

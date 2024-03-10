@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,268 songs - 2 day 16 hr 50 min
+1,269 songs - 2 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,7 +668,7 @@
 | [Love Like This](https://open.spotify.com/track/5YcTAWLjb2M9BRB2tAcCYO) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Love Like This](https://open.spotify.com/album/6uORfmslCiljDMCz22R6rW) | 2:47 | 2021-05-16 | 2022-04-14 |
 | [Love Me Like Yesterday](https://open.spotify.com/track/3SWbLbAh2mglN4qegGXCUV) | [Un\-Ti](https://open.spotify.com/artist/76hAxBrc3yYu8OgifcZr2U) | [Love Me Like Yesterday](https://open.spotify.com/album/05iB8Pteu0aHcelZwlOruj) | 3:42 | 2020-01-22 | 2020-07-03 |
 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 | 2021-08-17 | 2022-07-29 |
-| [Love Not War \(The Tampa Beat\)](https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nuka](https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z) | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/album/3CHys9v5aX1NS861o6r556) | 3:12 | 2020-11-20 |  |
+| [Love Not War \(The Tampa Beat\)](https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nuka](https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z) | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/album/3CHys9v5aX1NS861o6r556) | 3:12 | 2020-11-20 | 2024-03-10 |
 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 | 2020-11-06 | 2022-07-29 |
 | [Love Or Lust](https://open.spotify.com/track/05EjphKqE2EJVMy0iORf1l) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/0M0Zxu7KVzFZZ8q4z2i4gi) | 2:56 | 2021-04-19 | 2022-04-15 |
 | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY) | 2:44 | 2022-03-24 | 2022-04-20 |
@@ -981,6 +981,7 @@
 | [Show You the Light \(feat\. Efraim Leo\)](https://open.spotify.com/track/5iDDr6bQhbsZ4hYCENtXY4) | [MARC](https://open.spotify.com/artist/7tRXG934ruoJ3SAKzCa5ap), [Efraim Leo](https://open.spotify.com/artist/3SwHW7YiRPiqokx3zCpyit) | [Show You the Light \(feat\. Efraim Leo\)](https://open.spotify.com/album/24TwMUS0WnnxG1t5ei8DYX) | 3:11 | 2019-07-31 | 2019-10-26 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-15 | 2022-09-30 |
 | [Shy \- Sistek Remix](https://open.spotify.com/track/5bbatvGFSUCGCZheztQM0k) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Shy \(Sistek Remix\)](https://open.spotify.com/album/4Nap9QYN0FWjbXk4YA3ci8) | 2:51 | 2019-12-30 | 2020-07-11 |
+| [Shy Away](https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:55 | 2024-02-12 |  |
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-21 | 2022-04-19 |
 | [SICK](https://open.spotify.com/track/7xuiQL40BUoD8k1AhiKpWb) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [SICK](https://open.spotify.com/album/3B8LEJ9ZwvGazc5xu1bhAQ) | 3:24 | 2019-11-08 | 2020-01-01 |
 | [Sick of Loving You](https://open.spotify.com/track/4KXvJmqIM5wYHlV349cSqh) | [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4) | [Sick of Loving You](https://open.spotify.com/album/4bOnShCUGz6JiLRLiPV8yN) | 3:17 | 2019-10-24 | 2020-05-16 |

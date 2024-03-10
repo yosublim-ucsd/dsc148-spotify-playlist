@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 64946,
+  "num_followers": 64978,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODE5ZGQyNjA4Njg3YjY3OWZiY2NlMzI5NTg2MWE0NjQ1Y2RkMzg4",
+  "snapshot_id": "MCxkOTkyODYxMTZmMjJlNjdmNTI2MTM1OWIwOGFjMWIyM2NkMjE3YzBl",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 256998,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Almond Blossom",
         "url": "https://open.spotify.com/album/5Mp4ZyBwspNMtls451hr9w"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 212767,
       "name": "Weilak Acoustik",
       "url": "https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 256998,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0645\u0641\u0631\u0642 48 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/03J6HvXUohmOkWMmxFM05S"
-      },
-      "artists": [
-        {
-          "name": "Maysa Daw",
-          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
-        },
-        {
-          "name": "Tamer Nafar",
-          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
-        }
-      ],
-      "duration_ms": 164595,
-      "name": "\u062a\u0639\u0627\u0644 \u0645\u0639\u064a",
-      "url": "https://open.spotify.com/track/7c47NwOZisO6IEmdfFN4Qv"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "El Nour",
         "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
       },
@@ -967,22 +947,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Checkpoint Rock: Canciones Desde Palestina",
-        "url": "https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "Memories Of A Palestinian Wound",
-      "url": "https://open.spotify.com/track/7EuovX8mMPgIuDjAPECG02"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Oumniya",
         "url": "https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb"
       },
@@ -995,6 +959,22 @@
       "duration_ms": 264506,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Checkpoint Rock: Canciones Desde Palestina",
+        "url": "https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "Memories Of A Palestinian Wound",
+      "url": "https://open.spotify.com/track/7EuovX8mMPgIuDjAPECG02"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1131,6 +1111,42 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Junction 48 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/50dtagok37BBMMJDU9fh5o"
+      },
+      "artists": [
+        {
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
+        },
+        {
+          "name": "Maysa Daw",
+          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+        }
+      ],
+      "duration_ms": 160381,
+      "name": "\u062a\u0639\u0627\u0644 \u0645\u0639\u064a",
+      "url": "https://open.spotify.com/track/4tqYr6yRevzOSDNkihfSFZ"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Fattah Al Ward",
+        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "Keber Al Alb",
+      "url": "https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Ombre de mon amant",
         "url": "https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 389472,
       "name": "Ombre de mon amant",
       "url": "https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Fattah Al Ward",
-        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "Keber Al Alb",
-      "url": "https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U"
     },
     {
       "added_at": "2022-05-09 08:05:11",

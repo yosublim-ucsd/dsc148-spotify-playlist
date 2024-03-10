@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,772 likes - 96 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,776 likes - 96 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 84 | [1979](https://open.spotify.com/track/3h5zik31hTTat9jmpCZZNC) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:23 |
 | 85 | [Follow You Down](https://open.spotify.com/track/6rqkwoZu5oX5hugeyiJCM8) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Congratulations I'm Sorry](https://open.spotify.com/album/3PsTJAxjU734jZSuiLHUtE) | 4:30 |
 | 86 | [They Don't Care About Us](https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:44 |
-| 87 | [世界の終わり \- Primitive Version](https://open.spotify.com/track/6BPdRjaewBFRzJb4nvfkY9) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [TMGE 106](https://open.spotify.com/album/5mc8BFEkYmVtguFT1UpP62) | 5:45 |
+| 87 | [世界の終わり \- Primitive Version](https://open.spotify.com/track/7aPAOQoDp7gzqliUmP61F0) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/3RsTbe4muNGtM2EmSgC84u) | 5:46 |
 | 88 | [Real Thing Shakes](https://open.spotify.com/track/7p2JtNfebLA8rkR11yNmLh) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [Real Thing Shakes](https://open.spotify.com/album/2LMjwfVSX1HA9IbLyHCyTN) | 4:11 |
 | 89 | [MIND CIRCUS](https://open.spotify.com/track/0gqTHvXLAkAKimqY7E4ngQ) | [Miki Nakatani](https://open.spotify.com/artist/0lQqccMaSieqmC4KN96fgs) | [食物連鎖](https://open.spotify.com/album/0rAypOqCpgSzKzuNRfVsux) | 5:16 |
 | 90 | [嘆きの雪](https://open.spotify.com/track/1TfJjhbjKuR5KjXSDTv0U1) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [嘆きの雪](https://open.spotify.com/album/2rZv82TuHW24YmOWOX2Gci) | 4:07 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 95 | [メロディー](https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [Cafe Japan](https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb) | 4:40 |
 | 96 | [誰より好きなのに](https://open.spotify.com/track/7a7RuBVD7ZXW9bFVWLcoTr) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [THE SINGLES SONY MUSIC YEARS 1993〜2002](https://open.spotify.com/album/6L0RnoV3X2PtQoyY203VZJ) | 4:39 |
 
-Snapshot ID: `MCwwOTQ2NDM1MjY0ZjVkN2JhMjA1YWQ1Zjk1MThiODQyZWYxZmEwZWRk`
+Snapshot ID: `MCw2ZDY1MTUwM2M4YWEyN2Q1ZWEwZGRhMDNlMGFmYTEyYTEwMTZiNTE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:5D3h9ZoobhetjXw3dKhcaq">Jon Foreman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,830 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,927 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 20 | [Where Can I Go \- Psalm 139](https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Where Can I Go \- Psalm 139](https://open.spotify.com/album/79urTMskFiBnMovdMAwUw1) | 4:37 |
 | 21 | [Love Above All Loves](https://open.spotify.com/track/1a9RJklCsU8xjJHBSCtUlg) | [Sam Bailey](https://open.spotify.com/artist/5Y4egWWGjGizCPH1eexuHu), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Love Above All Loves](https://open.spotify.com/album/1uCtJMcCejhRY5fvR1Co1F) | 4:37 |
 | 22 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God \(Live\)](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 |
-| 23 | [I Am The Lords \- Live](https://open.spotify.com/track/7jnEMDQNmkcqz9nS1N33fA) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [All My Life \(Live\)](https://open.spotify.com/album/3UI9KcOc9eywcLWocreewd) | 11:51 |
+| 23 | [I Am The Lord's \- Live](https://open.spotify.com/track/7jnEMDQNmkcqz9nS1N33fA) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [All My Life \(Live\)](https://open.spotify.com/album/3UI9KcOc9eywcLWocreewd) | 11:51 |
 | 24 | [So Will I \(100 Billion X\) \- Live](https://open.spotify.com/track/3LQCScj7cBoC2mt7CoKlyP) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [So Will I \(100 Billion X\) \[Live\]](https://open.spotify.com/album/28sPr0oWHphyRdWSPceidb) | 7:07 |
 | 25 | [Better / I Surrender All / What A Friend We Have In Jesus \- Live](https://open.spotify.com/track/7xVIBBhNFZVKiKHoRegTfj) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [Better](https://open.spotify.com/album/6U4dQQOToc1b47LBjm5wtX) | 9:41 |
 | 26 | [No One Like You \- Live](https://open.spotify.com/track/7JgdyPJEFHyoZYIqS2f8Om) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Bekah Sarah](https://open.spotify.com/artist/74sCtwDFX5dPbnzoydCdxS) | [No One Like You \(Live\)](https://open.spotify.com/album/5W4KiSupizhmQRqWOdevAO) | 6:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Hands on Me](https://open.spotify.com/track/4fJPzIrLQPeHl9ONB4bPCD) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Hands on Me](https://open.spotify.com/album/0biyWpaRqrmazzLwt0pqts) | 2:16 |
 | 100 | [The Way You Act](https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [The Way You Act](https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9) | 2:10 |
 
-Snapshot ID: `MCxiNmUyYWNmZjQ2MWJkOTg0NWEyNjY1YzUzYWRiOTAwZjk4ZDQ4Y2Qx`
+Snapshot ID: `MCw3OTZkNjNkMWJjODZmNjc0YjJiYWRjNzYxN2Y4N2ExZTEyMTM1YzAw`

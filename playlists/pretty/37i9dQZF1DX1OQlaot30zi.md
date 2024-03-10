@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ElMatador, Capo Plaza, Rose Villain, Rhove, Emis Killa e Simba, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,915 likes - 95 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,002 likes - 95 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 31 | [Giorno e Notte](https://open.spotify.com/track/45d6JVEhTKgRreoSejobpK) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Giorno e Notte](https://open.spotify.com/album/63h2qu6uw8HbULaUNegZoD) | 1:58 |
 | 32 | [Dentro di me](https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Dentro di me](https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if) | 2:37 |
 | 33 | [GENOVARABE FREESTYLE](https://open.spotify.com/track/7CZhoV5GBhmLv59tN13GD6) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [GENOVARABE FREESTYLE](https://open.spotify.com/album/5Skxsk1yZQSpKB3gslayHl) | 2:04 |
-| 34 | [MEZZI, linea uno](https://open.spotify.com/track/4x7rculyIPSJQ4b9wKSHlV) | [Garelli](https://open.spotify.com/artist/5appupCr1pI8I1k3AWstc6) | [MEZZI, linea uno](https://open.spotify.com/album/7zHsGGc3Fy4p2iGxZRpok8) | 3:05 |
+| 34 | [MEZZI, linea uno](https://open.spotify.com/track/4x7rculyIPSJQ4b9wKSHlV) | [Garelli](https://open.spotify.com/artist/5appupCr1pI8I1k3AWstc6), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T) | [MEZZI, linea uno](https://open.spotify.com/album/7zHsGGc3Fy4p2iGxZRpok8) | 3:05 |
 | 35 | [Wemby Freestyle](https://open.spotify.com/track/0nCjE1Hr2ErEEAzg1W18T4) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Wemby Freestyle](https://open.spotify.com/album/46pnBNwKDHoFH3G3jV3GaR) | 1:52 |
 | 36 | [EDEN](https://open.spotify.com/track/5dT3D34sji0ZDNgmoO0ren) | [HEVA](https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z) | [EDEN](https://open.spotify.com/album/2cUQEyWyhhxPPX3ZWZBDiC) | 2:26 |
 | 37 | [Degrado](https://open.spotify.com/track/5xZ8Ek6sa8L7R157qER1Mo) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Degrado](https://open.spotify.com/album/6kcuudci0erjGCdHkka2y7) | 2:23 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 94 | [Addosso](https://open.spotify.com/track/3Vvfh3Bx0A8dtK31QPzhI9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/2KfRdmJYAVdbQfAZSj5QUs) | 2:41 |
 | 95 | [Walter White](https://open.spotify.com/track/4C980lj6oDL9afqXL6B7CC) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Walter White](https://open.spotify.com/album/0bjfbfgm2hQte6OBSAwg90) | 2:10 |
 
-Snapshot ID: `MCw1ODg5YTYxZTc0YWJlYWY0MWY0NzNlNjNiYzc1Yjk2ZWIyMDI5Yzlh`
+Snapshot ID: `MCw4NTZkMjNhN2U2YzliNTNhNDc3ODYzZGRmZmI4MDkxNWZkMGFhODcx`

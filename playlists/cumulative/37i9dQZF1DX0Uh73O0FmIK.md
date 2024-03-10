@@ -4,7 +4,7 @@
 
 > 01101110 01100101 01110010 01100100
 
-210 songs - 14 hr 55 min
+211 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Peroxide](https://open.spotify.com/track/5r0nz4nalNOBQAPKchQKRY) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb) | 3:34 | 2022-05-19 | 2022-07-29 |
 | [Planisphere](https://open.spotify.com/track/18IARgL5t0TkfCvARd8Ndn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Audio, Video, Disco.](https://open.spotify.com/album/0dLnnm4PjeyqM4CoHqo6DI) | 17:39 | 2023-10-11 |  |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2022-05-19 | 2023-10-12 |
-| [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 | 2022-05-19 |  |
+| [Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM) | 3:46 | 2023-12-11 |  |
+| [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 | 2022-05-19 | 2024-03-10 |
 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 | 2022-05-19 | 2023-10-12 |
 | [Positif](https://open.spotify.com/track/3KEnGyuImTqe7asrYW0kUv) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 | 2022-05-19 | 2022-12-21 |
 | [Quarrel](https://open.spotify.com/track/2QP0Had2bpMHIxav66NYdZ) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Untune](https://open.spotify.com/album/0LuPSvQscnUD4g4UHW9II9) | 5:33 | 2023-10-11 |  |

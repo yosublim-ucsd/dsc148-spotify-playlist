@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Lismar",
-  "num_followers": 11676,
+  "num_followers": 11685,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjI4MDk1ZjcyZTAxYWIzNjljMGEwNTQ4MjM3MjljNzg1Yjk4MGVk",
+  "snapshot_id": "MCw4MTVlOWUxN2Y0NDkzOWY5YmViM2U0ZGI4OWJmNmJiODA2ZWNmZTVi",
   "tracks": [
     {
       "added_at": "2024-02-23 05:01:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Booty Puty",
-        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 176991,
-      "name": "Booty Puty",
-      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "Tumbao",
         "url": "https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 159590,
       "name": "Tumbao",
       "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Booty Puty",
+        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 176991,
+      "name": "Booty Puty",
+      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 129389,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
         "name": "Omaiga",
         "url": "https://open.spotify.com/album/5TIVcAaaSJSCcLfvWqJHn0"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 129389,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "Por ti",
         "url": "https://open.spotify.com/album/7J48NdfyjSayVLgEWduCPa"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 196870,
       "name": "Por ti",
       "url": "https://open.spotify.com/track/4q7qEtx8ZJ9wF4WJcCR3CP"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "TOKO",
-        "url": "https://open.spotify.com/album/0IKs9DTpEL26R4G8h0fW5z"
-      },
-      "artists": [
-        {
-          "name": "Moffa",
-          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "TOKO",
-      "url": "https://open.spotify.com/track/1kE0aGbuxGUOS6rUaBPhCe"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
+        "name": "TOKO",
+        "url": "https://open.spotify.com/album/0IKs9DTpEL26R4G8h0fW5z"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "TOKO",
+      "url": "https://open.spotify.com/track/1kE0aGbuxGUOS6rUaBPhCe"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
         "name": "SPICY",
         "url": "https://open.spotify.com/album/5D0lLOvY3tsKuo2WTFfj4d"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 180000,
       "name": "SPICY",
       "url": "https://open.spotify.com/track/3Qjwo4QZcSR79l5GaoHweR"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -879,18 +863,34 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "para mi (Freestyle)",
-        "url": "https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C"
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
       },
       "artists": [
         {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         }
       ],
-      "duration_ms": 170441,
-      "name": "Para Mi (Freestyle)",
-      "url": "https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25"
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
     }
   ],
   "unique_name": "Latin Frequency",

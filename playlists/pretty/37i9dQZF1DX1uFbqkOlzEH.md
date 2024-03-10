@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,833 likes - 123 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,834 likes - 123 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 49 | [Just](https://open.spotify.com/track/2QG6SmPx2pBkZiKjT70piL) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Young](https://open.spotify.com/album/0fT1WF1nu9VnqaZxkowFpl) | 3:12 |
 | 50 | [Outside](https://open.spotify.com/track/7rtIE6rmLN2FxMvL0cXBdm) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Outside](https://open.spotify.com/album/6yNxmnFeE9GmZmagxzaKAK) | 4:17 |
 | 51 | [Give It to Me](https://open.spotify.com/track/4w7P5OaLfcinkb0RTMNxqh) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:55 |
-| 52 | [Step By Step \(with yoonmirae\)](https://open.spotify.com/track/4yAfDvCKM0liEAC3M6eJBL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 4:32 |
+| 52 | [Step By Step \(with yoonmirae\)](https://open.spotify.com/track/4yAfDvCKM0liEAC3M6eJBL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 4:32 |
 | 53 | [Don't Be Shy](https://open.spotify.com/track/2HQMSfC1BeXwwCR3YJhroA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Outside](https://open.spotify.com/album/6yNxmnFeE9GmZmagxzaKAK) | 3:38 |
 | 54 | [From Midnight To Sunrise](https://open.spotify.com/track/3fm7b31sx02dMYHNjl92vD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [From Midnight To Sunrise](https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h) | 2:58 |
 | 55 | [Whatever You Do](https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:38 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 122 | [Peace \(Prod\. By Cosmic Boy\) \(Feat\. Crush, Choi LB\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |
 | 123 | [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/0sURxd4sQ6QQh15hwUnF6g) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/5ijvjY480KJkSRnqFgFs6O) | 4:25 |
 
-Snapshot ID: `MCwyY2QyZTgzYTMwMWNlNzdmYTAwZmU1MjViZjY3NTc2NGFiMTY5Nzdk`
+Snapshot ID: `MCxkNWZmYmMzZmEzNTg5MDQyZjczY2FkYTA4YTg0ZDFkMjg5ZDExMGRl`

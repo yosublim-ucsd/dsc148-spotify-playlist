@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 1310207,
+  "2024-03-10": 1310277,
   "date_first_scraped": "2021-10-07",
   "description": "Chillout hip-hop vibes. Cover: Erick The Architect",
   "name": "Mellow Bars",
@@ -211,7 +211,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 170007,
       "name": "2011 (feat. Venna)",
       "url": "https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD"
@@ -2553,6 +2553,28 @@
       "duration_ms": 139678,
       "name": "Burners & Bust Downs",
       "url": "https://open.spotify.com/track/73YEkgur2ewXnrtXpOnBBu"
+    },
+    {
+      "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/3BbEx59aAP3YPVr505lj3r"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146155,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/1f9pEIKbfGKEhgLvDEMa8M"
     },
     {
       "album": {
@@ -7951,7 +7973,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 256368,
       "name": "Jagger",
       "url": "https://open.spotify.com/track/2IOiwdXF9VipVZXC83I92W"
@@ -10296,6 +10318,28 @@
     },
     {
       "album": {
+        "name": "newhihat",
+        "url": "https://open.spotify.com/album/55WsHHBXgX7OzurN8ahqDy"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Blvck Svm",
+          "url": "https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189166,
+      "name": "newhihat",
+      "url": "https://open.spotify.com/track/5CNcYVcGAmcKrZQuc2RfKx"
+    },
+    {
+      "album": {
         "name": "Neybors",
         "url": "https://open.spotify.com/album/3JfIX9dEtzZ2KD9sZ2QLZu"
       },
@@ -12252,6 +12296,28 @@
     },
     {
       "album": {
+        "name": "Guilty Pleasures EP",
+        "url": "https://open.spotify.com/album/37QsJmyEMhhSu2It1IPLpH"
+      },
+      "artists": [
+        {
+          "name": "Azizi Gibson",
+          "url": "https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP"
+        },
+        {
+          "name": "Zombie Juice",
+          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144961,
+      "name": "Reload (feat. Zombie Juice)",
+      "url": "https://open.spotify.com/track/2VDU8KTzDosrmbWLjTNwWj"
+    },
+    {
+      "album": {
         "name": "C.I.T.Y.",
         "url": "https://open.spotify.com/album/3BpghLhPaXSD4g4mqopCZF"
       },
@@ -13177,7 +13243,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 147176,
       "name": "Six Feet",
       "url": "https://open.spotify.com/track/4YdJ4fQhWZvtzfbLxC0LOJ"

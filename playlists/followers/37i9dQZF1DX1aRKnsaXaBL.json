@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 6582,
+  "2024-03-10": 6590,
   "date_first_scraped": "2023-03-11",
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
   "name": "canciones para ver atardeceres",
@@ -21,6 +21,28 @@
       "duration_ms": 206941,
       "name": "98",
       "url": "https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ"
+    },
+    {
+      "album": {
+        "name": "a d\u00f3nde voy???",
+        "url": "https://open.spotify.com/album/5jEf06wCLfv0DIHLJARtKx"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Azul de Viena",
+          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195096,
+      "name": "a d\u00f3nde voy???",
+      "url": "https://open.spotify.com/track/6ieFir0Sk20XxcUxp3fIiS"
     },
     {
       "album": {
@@ -479,7 +501,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 235127,
       "name": "Delete",
       "url": "https://open.spotify.com/track/2nx1bryoL6yLPmCikpjJ0u"

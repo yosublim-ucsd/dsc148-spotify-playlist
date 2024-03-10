@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 895800,
+  "num_followers": 896018,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjdhYzEyMTViMzE2ODlmZGNlNDY5ZmQ3NjAzYWYxZjkzZjhjZTA3",
+  "snapshot_id": "MCxkN2JjYzFkYzBkMjFjOTczNDNlZDM5ZGVlZWQyZmMzNWYzNDRiM2Nj",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+        "name": "Mr. Tambourine Man",
+        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
       },
       "artists": [
         {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+      "duration_ms": 149466,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -971,34 +971,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Mr. Tambourine Man",
-        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
       },
       "artists": [
         {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
         }
       ],
-      "duration_ms": 149466,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1015,6 +999,22 @@
       "duration_ms": 238266,
       "name": "Evil Ways",
       "url": "https://open.spotify.com/track/5tmrnhMxx39jnu3kjopMdP"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Time Has Come: The Best Of The Chambers Brothers",
-        "url": "https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu"
-      },
-      "artists": [
-        {
-          "name": "The Chambers Brothers",
-          "url": "https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Time Has Come Today",
-      "url": "https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Small Faces - Deluxe Edition (2012 Remaster)",
         "url": "https://open.spotify.com/album/2MhAWzEg3wdOLaLYgmpF0i"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 166680,
       "name": "Itchycoo Park (Mono Version) - 2012 Remaster",
       "url": "https://open.spotify.com/track/5H0laZ62yDUPuKvHef8niK"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Time Has Come: The Best Of The Chambers Brothers",
+        "url": "https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu"
+      },
+      "artists": [
+        {
+          "name": "The Chambers Brothers",
+          "url": "https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Time Has Come Today",
+      "url": "https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm"
     },
     {
       "added_at": "2023-01-18 21:00:56",

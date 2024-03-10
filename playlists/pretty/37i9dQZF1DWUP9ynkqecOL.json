@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 21641,
+  "num_followers": 21650,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mjg2ZTQ4MDQ3MTc3MDJiYjQ4NzkyZjIwYWUxODg1Njc3Y2YyM2Yw",
+  "snapshot_id": "MCwyYWVkZDQ4NmUwMWE1N2JkMWIwODU3OTc3OGEwNjI2NTMxMTgwOGMz",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Muta",
+        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "Toca",
+      "url": "https://open.spotify.com/track/07VELk4yHZ0MpGndajSrMX"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Ceremonia",
         "url": "https://open.spotify.com/album/1pbBTqGMfMnXGHDbfJurP3"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 137104,
       "name": "Amo",
       "url": "https://open.spotify.com/track/0lTskhjbr24P0C9kPmylF6"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Muta",
-        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "Toca",
-      "url": "https://open.spotify.com/track/07VELk4yHZ0MpGndajSrMX"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Litoraleza",
-        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Gurisito Cosmico",
-      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 377684,
       "name": "Alma",
       "url": "https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Litoraleza",
+        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Gurisito Cosmico",
+      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "La L\u00ednea Del Rio (Remix)",
-        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
-        }
-      ],
-      "duration_ms": 546568,
-      "name": "La L\u00ednea Del Rio - Remix",
-      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Muchas Estrellas",
         "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 271000,
       "name": "Muchas Estrellas",
       "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "La L\u00ednea Del Rio (Remix)",
+        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
+        }
+      ],
+      "duration_ms": 546568,
+      "name": "La L\u00ednea Del Rio - Remix",
+      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Qu\u00e9 Canchero (New Sounds of Argentina)",
-        "url": "https://open.spotify.com/album/4IrnlEEygAbGfgUNvsJ48h"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/7MNrYniRIAvrpGfsBk2uFE"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Templo Andino",
         "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Qu\u00e9 Canchero (New Sounds of Argentina)",
+        "url": "https://open.spotify.com/album/4IrnlEEygAbGfgUNvsJ48h"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/7MNrYniRIAvrpGfsBk2uFE"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
         "url": "https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO"
       },
@@ -1415,6 +1415,42 @@
       "duration_ms": 241023,
       "name": "Peoncito de Estancia - Kaleema Remix",
       "url": "https://open.spotify.com/track/0zIiND609voPOWidaLjnYi"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
+      },
+      "artists": [
+        {
+          "name": "Ensamble Folkl\u00f3rico Digital",
+          "url": "https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI"
+        },
+        {
+          "name": "Villa Diamante",
+          "url": "https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD"
+        },
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        },
+        {
+          "name": "Bienvenidos a la Computadora",
+          "url": "https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Cehache Respira",
+          "url": "https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l"
+        }
+      ],
+      "duration_ms": 267353,
+      "name": "La Fuerza",
+      "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1455,42 +1491,6 @@
       "duration_ms": 281142,
       "name": "Do\u00f1a Ubenza - Remix",
       "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
-      },
-      "artists": [
-        {
-          "name": "Ensamble Folkl\u00f3rico Digital",
-          "url": "https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI"
-        },
-        {
-          "name": "Villa Diamante",
-          "url": "https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD"
-        },
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        },
-        {
-          "name": "Bienvenidos a la Computadora",
-          "url": "https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Cehache Respira",
-          "url": "https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l"
-        }
-      ],
-      "duration_ms": 267353,
-      "name": "La Fuerza",
-      "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
     }
   ],
   "unique_name": "Electro Folklore",

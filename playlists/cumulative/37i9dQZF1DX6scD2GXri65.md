@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-186 songs - 10 hr 19 min
+187 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Shine A Light](https://open.spotify.com/track/5K4InCkZlFv2SXvR20BXb2) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [KiFi](https://open.spotify.com/artist/4C26PDH7q4oJazjcHlSekc) | [Shine A Light](https://open.spotify.com/album/0Lwh23vnViC5aJSqsNIcaZ) | 3:16 | 2023-01-26 | 2024-02-16 |
 | [Showtime](https://open.spotify.com/track/5SrBKCrAiEFClYgHC6HqBr) | [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Showtime](https://open.spotify.com/album/60SJa31hlxeDjzlRLvTbs4) | 2:30 | 2023-02-09 | 2023-03-30 |
 | [Slave To The Rave](https://open.spotify.com/track/32ncEXDqBzDyblpzdcGRWB) | [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Slave To The Rave](https://open.spotify.com/album/3X68QkIEBNGdA3RTwV7YCO) | 3:42 | 2022-12-08 |  |
-| [Stay Alive 2K24](https://open.spotify.com/track/5o4rviue1So4SS4tECuaHB) | [D\-Attack](https://open.spotify.com/artist/79QnAdpXGrzcsIOFtW3gR4), [MC Diesel](https://open.spotify.com/artist/20rPxPH4gXyqj2G3ooE44c) | [Stay Alive 2K24](https://open.spotify.com/album/2biv7GpWXb9HKAjeGfEGAK) | 2:33 | 2024-02-15 |  |
+| [Stay Alive 2K24](https://open.spotify.com/track/5o4rviue1So4SS4tECuaHB) | [D\-Attack](https://open.spotify.com/artist/79QnAdpXGrzcsIOFtW3gR4), [MC Diesel](https://open.spotify.com/artist/20rPxPH4gXyqj2G3ooE44c) | [Stay Alive 2K24](https://open.spotify.com/album/2biv7GpWXb9HKAjeGfEGAK) | 2:33 | 2024-02-15 | 2024-03-10 |
 | [Step Your Game Up](https://open.spotify.com/track/0bd0OMTOxlrtwVrBbzhPxu) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Step Your Game Up](https://open.spotify.com/album/2CYIWPsYP66TcfgoNJY1g8) | 3:04 | 2022-12-08 | 2023-02-28 |
 | [STITCH ME UP](https://open.spotify.com/track/6x37HbiBJpoB74rMe3Un0Q) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [STITCH ME UP](https://open.spotify.com/album/1mMJKx5OAln3EflCiVPMqk) | 2:49 | 2023-11-09 |  |
 | [Stop the Time](https://open.spotify.com/track/2c5R73DJKgNZNACGnhlsQU) | [Steve Modana](https://open.spotify.com/artist/2RibwN2CQvXRHdfxap3KWh), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Stop the Time](https://open.spotify.com/album/7MEWDIupZlzznyiH3aMH7L) | 2:19 | 2023-01-26 |  |
@@ -184,6 +184,7 @@
 | [Vault Hunter](https://open.spotify.com/track/1aWrPLv8tFgyd7ju7Tx63L) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Vault Hunter](https://open.spotify.com/album/3drPydTq7HVSuXZerLCJTh) | 4:27 | 2022-12-08 |  |
 | [Warriors](https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Warriors](https://open.spotify.com/album/1s2toip8G6lKmOXyhVQjJq) | 3:45 | 2023-06-01 | 2023-09-08 |
 | [Wasted](https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Wasted](https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3) | 3:31 | 2023-12-04 |  |
+| [Watch Us Die](https://open.spotify.com/track/74as9DvHT2hAWpbbw4ewWA) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Juuls](https://open.spotify.com/artist/6rweqo57D993dY8dBCDYUd) | [Watch Us Die](https://open.spotify.com/album/20VqjNmHRnP4YgoutY2VvY) | 3:16 | 2024-03-07 |  |
 | [Way Of The Warrior](https://open.spotify.com/track/74i3mwBXn9RpmiYhy6krAu) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [Way Of The Warrior](https://open.spotify.com/album/6OJw0qC7WWsHEQ17o1hpuI) | 3:58 | 2023-05-10 | 2023-05-16 |
 | [WE AIN'T THE SAME](https://open.spotify.com/track/5qRAZhmiBhlAAznrdyExqE) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [WE AIN'T THE SAME](https://open.spotify.com/album/5ql8Jq6Ze6CJTD9rIgg2Hq) | 2:51 | 2023-02-09 | 2023-02-15 |
 | [We Go Up \- Da Tweekaz Remix](https://open.spotify.com/track/21eGoV8gNSgKWuYE6HCqXO) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [We Go Up \(Remixes\)](https://open.spotify.com/album/0lmlSYKEwEBY3U0c1haM5a) | 3:38 | 2023-02-09 | 2023-04-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcKoBYZbTj4.md) - [plain]
 
 > Versiones que andan por el camino del rey de la canción ranchera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,671 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,719 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcKoBYZbTj4.md) - [plain]
 | 49 | [Ella](https://open.spotify.com/track/6Q9CcOEnkvhpVUur8YOKUa) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Canciones Para Pistear y Llorar](https://open.spotify.com/album/1HUuGWdSCvpEV0K5DXy3qj) | 2:30 |
 | 50 | [Entre Tequila y Dolor](https://open.spotify.com/track/5ZMVoVKsCqch1UVQBpUFbB) | [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8) | [Al Rey José Alfredo Jiménez](https://open.spotify.com/album/4hw3Izk8UGHelvMzHRbQyI) | 2:52 |
 
-Snapshot ID: `MCw3ZmFlOTlkN2MzMjAyMDE5YjVjOTYyZDI3NmQ0MzM3MzgyYWEzM2E2`
+Snapshot ID: `MCwyZTMxNmI3YTVmYjRhMzUzYjdjMDQwODI0N2Q0ZmEzOTNkYTlhMjA4`

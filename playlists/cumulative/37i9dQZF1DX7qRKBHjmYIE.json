@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "Chico (English Version)",
+        "url": "https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178402,
+      "name": "Chico (English Version)",
+      "url": "https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z"
+    },
+    {
+      "album": {
         "name": "Chiki Bomb\u00f3n",
         "url": "https://open.spotify.com/album/1WEGwNXItdSQ4FubJpfzMn"
       },
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 225717,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5"

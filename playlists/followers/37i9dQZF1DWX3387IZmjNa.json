@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 2042238,
+  "2024-03-10": 2042553,
   "date_first_scraped": "2021-10-07",
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Bryson Tiller",
   "name": "B.A.E.",
@@ -411,10 +411,32 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
     },
     {
       "album": {
@@ -8206,6 +8228,24 @@
     },
     {
       "album": {
+        "name": "Too Deep",
+        "url": "https://open.spotify.com/album/0HfOaaQirIIiwkcJWkLfBN"
+      },
+      "artists": [
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139504,
+      "name": "Too Deep",
+      "url": "https://open.spotify.com/track/27SWMXDonOi2apKXgj5EYM"
+    },
+    {
+      "album": {
         "name": "In Due Time",
         "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
       },
@@ -9389,7 +9429,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 104810,
       "name": "Why G-Mix",
       "url": "https://open.spotify.com/track/6SC5XNHwdjLGauLI1xsK95"

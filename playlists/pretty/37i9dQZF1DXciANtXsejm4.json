@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 234578,
+  "num_followers": 234734,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjM5NDZjYzIxYTExMjRjYTRkM2FlZjhiNGVlOGRiZmNjNDkyMDI4",
+  "snapshot_id": "MCwxOTJkYzcxMGJkMmY4NDQxYWNkYzY2MWViMzVlNDY1YTkwM2I3MDE0",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -951,38 +951,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "La Segunda del Hombre del Acorde\u00f3n",
-        "url": "https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU"
+        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
+        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
       },
       "artists": [
         {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
-        },
-        {
-          "name": "Grupo Cali",
-          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
-        },
-        {
-          "name": "Gerardo Gross",
-          "url": "https://open.spotify.com/artist/0xpHGyu4fPxDalDVfjb1Ni"
-        },
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        },
-        {
-          "name": "Cuarteto Imperial",
-          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
-        },
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
         }
       ],
-      "duration_ms": 260566,
-      "name": "La Segunda del Hombre del Acorde\u00f3n",
-      "url": "https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF"
+      "duration_ms": 237949,
+      "name": "Ella Dijo",
+      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1039,18 +1019,38 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
-        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
+        "name": "La Segunda del Hombre del Acorde\u00f3n",
+        "url": "https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU"
       },
       "artists": [
         {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        },
+        {
+          "name": "Grupo Cali",
+          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
+        },
+        {
+          "name": "Gerardo Gross",
+          "url": "https://open.spotify.com/artist/0xpHGyu4fPxDalDVfjb1Ni"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "Cuarteto Imperial",
+          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
+        },
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 237949,
-      "name": "Ella Dijo",
-      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
+      "duration_ms": 260566,
+      "name": "La Segunda del Hombre del Acorde\u00f3n",
+      "url": "https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF"
     },
     {
       "added_at": "2023-12-15 03:00:00",

@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 1220633,
+  "2024-03-10": 1221108,
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Ryan Hurd",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Dasha",
   "name": "New Boots",
   "tracks": [
     {
@@ -4457,7 +4457,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 225960,
       "name": "Cab In A Solo",
       "url": "https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb"
@@ -6220,6 +6220,24 @@
     },
     {
       "album": {
+        "name": "Damn Near Normal",
+        "url": "https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224695,
+      "name": "Damn Near Normal",
+      "url": "https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x"
+    },
+    {
+      "album": {
         "name": "Damn Strait",
         "url": "https://open.spotify.com/album/3OBWkm9x8g5pWUjBGirmtg"
       },
@@ -6289,6 +6307,24 @@
       "duration_ms": 183413,
       "name": "Damn You",
       "url": "https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN"
+    },
+    {
+      "album": {
+        "name": "Chapter & Verse",
+        "url": "https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Dance Like No One\u2019s Watching",
+      "url": "https://open.spotify.com/track/5FpEdufuunZqzyQbyetevf"
     },
     {
       "album": {
@@ -6939,7 +6975,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 160866,
       "name": "Different About You",
       "url": "https://open.spotify.com/track/0S1fmk6xz49SHINeXXpStW"
@@ -6993,7 +7029,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 239346,
       "name": "Dirt Cheap",
       "url": "https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa"
@@ -10903,7 +10939,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 202789,
       "name": "Goin For Broke",
       "url": "https://open.spotify.com/track/5bu8p495FPdRySYSptdny2"
@@ -11957,7 +11993,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 197186,
       "name": "Growin\u2019 Up Raising You",
       "url": "https://open.spotify.com/track/3iuh5xyutKj3TkMjACNLMo"
@@ -12239,6 +12275,24 @@
       "duration_ms": 219333,
       "name": "Handle On You",
       "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
+    },
+    {
+      "album": {
+        "name": "Hands to Myself",
+        "url": "https://open.spotify.com/album/4wvwAOkfyDHyobeEckVkrK"
+      },
+      "artists": [
+        {
+          "name": "Michael Warren",
+          "url": "https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164464,
+      "name": "Hands to Myself",
+      "url": "https://open.spotify.com/track/1DY3vPRXeUHzCC57WXCjuq"
     },
     {
       "album": {
@@ -17293,7 +17347,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 163110,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z"
@@ -17394,6 +17448,24 @@
     },
     {
       "album": {
+        "name": "Kiss My Boots",
+        "url": "https://open.spotify.com/album/1dU5eqJrPOxxy7L6sktkDn"
+      },
+      "artists": [
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196906,
+      "name": "Kiss My Boots",
+      "url": "https://open.spotify.com/track/10cp4aOQWs8tFrbKK7A9nD"
+    },
+    {
+      "album": {
         "name": "Kiss Of Death",
         "url": "https://open.spotify.com/album/3tNYJylSZw5wiJEu1pekcZ"
       },
@@ -17405,7 +17477,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 160138,
       "name": "Kiss Of Death",
       "url": "https://open.spotify.com/track/66UwsbwSTHbG5EPPHrCo9i"
@@ -19395,6 +19467,24 @@
       "duration_ms": 198160,
       "name": "Make Em Wanna Change",
       "url": "https://open.spotify.com/track/1UzdHTjZ0b3XjCpBekeAxp"
+    },
+    {
+      "album": {
+        "name": "Make It Look Easy",
+        "url": "https://open.spotify.com/album/1ylXu63fdiBSoVrdnx6YXE"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152213,
+      "name": "Make It Look Easy",
+      "url": "https://open.spotify.com/track/2g6WCOlZS7mePH81Bxxa9s"
     },
     {
       "album": {
@@ -22325,7 +22415,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 207800,
       "name": "Nothing Compares To You (Feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
@@ -22383,6 +22473,24 @@
       "duration_ms": 205093,
       "name": "Nothing's Up",
       "url": "https://open.spotify.com/track/2S9UXgUr4lXfRQgYG3UJ7E"
+    },
+    {
+      "album": {
+        "name": "Nothin' Else",
+        "url": "https://open.spotify.com/album/53hWF4sR9MBWNSA60QUAT4"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187285,
+      "name": "Nothin\u2019 Else",
+      "url": "https://open.spotify.com/track/6ea9Cwx43U3VxFUZTu638P"
     },
     {
       "album": {
@@ -28222,6 +28330,24 @@
     },
     {
       "album": {
+        "name": "Sounds Like The Radio",
+        "url": "https://open.spotify.com/album/3Ca8JBhNiiE2bsPDwsxOdV"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218867,
+      "name": "Sounds Like the Radio",
+      "url": "https://open.spotify.com/track/5wCUOa3jSe5ZM3oXEutCdO"
+    },
+    {
+      "album": {
         "name": "Only Truck In Town",
         "url": "https://open.spotify.com/album/4nmRIzUzFHMcnNtufRc22I"
       },
@@ -31310,6 +31436,24 @@
     },
     {
       "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/2UUNuVIJzNruiPt08LElwZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Thinkin\u2019 Bout",
+      "url": "https://open.spotify.com/track/0yqrdWaQn312UCTSMkuGtJ"
+    },
+    {
+      "album": {
         "name": "This Ain't That Song",
         "url": "https://open.spotify.com/album/42y6GmqiT7KuwN1urAE5zF"
       },
@@ -32105,7 +32249,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 193133,
       "name": "Trucks, Ducks, Bucks & Beer",
       "url": "https://open.spotify.com/track/57cI63EBY6FqAhgzQxMSCT"
@@ -33958,6 +34102,24 @@
     },
     {
       "album": {
+        "name": "Whatcha See Is Whatcha Get",
+        "url": "https://open.spotify.com/album/1RnRoL3lFqVvXqSwQqxuZM"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149002,
+      "name": "Whatcha See Is Whatcha Get",
+      "url": "https://open.spotify.com/track/5Cwy5VbPoYIwc5NSFWP91C"
+    },
+    {
+      "album": {
         "name": "The Pink Slip EP",
         "url": "https://open.spotify.com/album/125iPOINAQO7FJ4GbyZ332"
       },
@@ -34807,7 +34969,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 196773,
       "name": "Whose Rearview",
       "url": "https://open.spotify.com/track/2HsgNeT6LrzRofhkykFKRT"
@@ -35455,6 +35617,24 @@
       "duration_ms": 224986,
       "name": "Without You",
       "url": "https://open.spotify.com/track/34slXA5D75T5S0dwYYRd4J"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/34Ya6PWAG8aOVRjUNIkmzq"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156706,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6fWBVn4vwRnaOZiu5292Gd"
     },
     {
       "album": {

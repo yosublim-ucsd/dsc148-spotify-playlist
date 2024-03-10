@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: bohemianvoodoo",
-  "num_followers": 27269,
+  "num_followers": 27279,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjVjYzI5ZDNlMmRmMjVjNDM3ZTZiNzlhNmMxZDJiMjk2YjljOWQy",
+  "snapshot_id": "MCw5OTM5ZjY3NmYyZmZkZjE3NGQ5Y2IwMWMzZjA3MDE0NTIyYzRjNjJi",
   "tracks": [
     {
       "added_at": "2024-02-27 15:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
-      },
-      "artists": [
-        {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
-        }
-      ],
-      "duration_ms": 128028,
-      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
-      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
         "name": "story",
         "url": "https://open.spotify.com/album/1DVDZf2wezbNIYjkWDbXR8"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 250152,
       "name": "atom",
       "url": "https://open.spotify.com/track/54baCiXqMz9UK8LqJ7nIPV"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "duration_ms": 128028,
+      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
+      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "AUTHENTIC",
-        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "Spring Kiss",
-      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
         "name": "Lm",
         "url": "https://open.spotify.com/album/7FYRKp0czfUFQk9IjWTx1m"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 210561,
       "name": "neguse",
       "url": "https://open.spotify.com/track/4nYY6rV75YL7XLsi7zuOPe"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

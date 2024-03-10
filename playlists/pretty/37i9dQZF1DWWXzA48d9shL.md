@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: Scrim from $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,112 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,191 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:16 |
 | 100 | [RECOIL](https://open.spotify.com/track/31jBzecMTqfx1gM48riFLd) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Pupa](https://open.spotify.com/album/44obgGVAFZpmAio7tHjvLq) | 1:50 |
 
-Snapshot ID: `MCwyODkzMTk5MDE0OWY5NWQ1YmUyMTgxNzI0MmExYjYzYjY0MjNkYzM5`
+Snapshot ID: `MCw4ODVhZmM5MmY2MGI3MzA4NWQxNDRiZmZjMjg4YWQyZmEzOGRkYTA3`

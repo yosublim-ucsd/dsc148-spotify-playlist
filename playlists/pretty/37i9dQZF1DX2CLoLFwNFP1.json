@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 35106,
+  "num_followers": 35130,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTcwYmMwZmVlOTZiZjA1ODg2M2Q4ZmIxM2Q5NDQ2YjY2YjcxZjM2",
+  "snapshot_id": "MCwwODQwZDRiMTg2NTJjMDczOWMyNWFhOTg0MDQ4ODRiZjc5ODc1ODk0",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1906,11 +1906,15 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KRNFX",
+          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
         }
       ],
-      "duration_ms": 209633,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
-      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
+      "duration_ms": 243593,
+      "name": "Limousine (Feat. KRNFX)",
+      "url": "https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1922,15 +1926,11 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KRNFX",
-          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
         }
       ],
-      "duration_ms": 243593,
-      "name": "Limousine (Feat. KRNFX)",
-      "url": "https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6"
+      "duration_ms": 209633,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
+      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
     },
     {
       "added_at": "2023-11-27 14:05:19",

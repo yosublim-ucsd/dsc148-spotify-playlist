@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Jessie Murph
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,363 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,497 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 84 | [A Lot With A Little](https://open.spotify.com/track/18pEQZgG2PMmUre3C2Tq74) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [A Lot With A Little](https://open.spotify.com/album/7kvd9kffW9lfOCpq0uUyqB) | 3:03 |
 | 85 | [Things I Take For Granted \- Remix](https://open.spotify.com/track/7xTz78HHTZwrAuIwRRKQuI) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Things I Take For Granted \(Remix\)](https://open.spotify.com/album/5aA5HrP6oaq8Omn9JW61w2) | 2:48 |
 
-Snapshot ID: `MCxiMDU3NjU4NzcxYTFkYjdhNzMzOWFkMTBlM2JlNjAyOGJhMmFlZTll`
+Snapshot ID: `MCwyOGVhNjkyNmQ3YzI1MjNkYWRhMmI4NWIzZDcwZjNhZmZiMGNkZmMy`

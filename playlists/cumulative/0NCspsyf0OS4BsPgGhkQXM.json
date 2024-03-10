@@ -2537,7 +2537,7 @@
     },
     {
       "album": {
-        "name": "Breathless",
+        "name": "BREATHLESS",
         "url": "https://open.spotify.com/album/1zQnD0tVmTaxXKD1TFu8Kg"
       },
       "artists": [
@@ -2558,7 +2558,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190344,
-      "name": "Breathless",
+      "name": "BREATHLESS",
       "url": "https://open.spotify.com/track/4jAfYYoloWzM9E7Zmej5uq"
     },
     {
@@ -7458,6 +7458,10 @@
         {
           "name": "Ben Maxwell",
           "url": "https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR"
+        },
+        {
+          "name": "KHALI",
+          "url": "https://open.spotify.com/artist/5PPzbmzMcsrMBVa6qCYKn6"
         }
       ],
       "date_added": "2023-10-13",
@@ -12026,6 +12030,10 @@
         {
           "name": "NITTI",
           "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "KHALI",
+          "url": "https://open.spotify.com/artist/5PPzbmzMcsrMBVa6qCYKn6"
         }
       ],
       "date_added": "2023-08-18",
@@ -19273,7 +19281,7 @@
     },
     {
       "album": {
-        "name": "The Top",
+        "name": "THE TOP",
         "url": "https://open.spotify.com/album/1JgNOCjF42tHnCy6uQVH8i"
       },
       "artists": [
@@ -19290,7 +19298,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185294,
-      "name": "The Top",
+      "name": "THE TOP",
       "url": "https://open.spotify.com/track/67iPIBMaCOyMfqxReI7Gry"
     },
     {

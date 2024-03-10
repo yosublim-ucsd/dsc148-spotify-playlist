@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 3798,
+  "2024-03-10": 3797,
   "date_first_scraped": "2022-10-12",
   "description": "\uac00\uc744 \uac10\uc131\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uacfc \ud568\uaed8 \uac10\uc0c1\uc5d0 \uc816\uc5b4\ubcf4\uc138\uc694. (Listen to K-Pop autumn songs)",
   "name": "\uac00\uc744\uac00\uc744\ud574",
@@ -1843,6 +1843,28 @@
       "duration_ms": 223160,
       "name": "Spring in September",
       "url": "https://open.spotify.com/track/5PkgKQxZ73NxGaKdWrAUNg"
+    },
+    {
+      "album": {
+        "name": "Spring Road",
+        "url": "https://open.spotify.com/album/60COHBzsOf9dEcYuBzz4x0"
+      },
+      "artists": [
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
+        },
+        {
+          "name": "D.Story",
+          "url": "https://open.spotify.com/artist/2AEhBDQu2S6EX9xKOrSFfD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173146,
+      "name": "Spring Road",
+      "url": "https://open.spotify.com/track/6gJwSGDQs5KHPPwmYLon1z"
     },
     {
       "album": {

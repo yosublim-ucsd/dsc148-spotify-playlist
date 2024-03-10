@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,707 likes - 48 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,708 likes - 48 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 | 41 | [Captain America](https://open.spotify.com/track/2OBzikeg3F6tHNxzkev6j8) | [YEAR OF THE OX](https://open.spotify.com/artist/614kirduDphBL5NZebU3Zi) | [Captain America](https://open.spotify.com/album/0qX5XZI6aYjjuvmnTCBhRM) | 3:44 |
 | 42 | [Brown Babies](https://open.spotify.com/track/4KQqpqEpGXDItKSQ3AqUTO) | [Rocky Rivera](https://open.spotify.com/artist/2GYpVuQKY90oIhLSA07G18) | [Nom de Guerre](https://open.spotify.com/album/4fIMCyVQ0QBfMijYuQas9S) | 3:06 |
 | 43 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
-| 44 | [Fighter \(feat\. Yoonmirae & Autolaser\)](https://open.spotify.com/track/4Faf5dhv1fAETedwbkeKnL) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Autolaser](https://open.spotify.com/artist/45sqz0r32KGuaur2QMd9iS), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Identity](https://open.spotify.com/album/5yCLcHxaYIV6xC1kTJO1W2) | 4:14 |
+| 44 | [Fighter \(feat\. Yoonmirae & Autolaser\)](https://open.spotify.com/track/4Faf5dhv1fAETedwbkeKnL) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Autolaser](https://open.spotify.com/artist/45sqz0r32KGuaur2QMd9iS), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Identity](https://open.spotify.com/album/5yCLcHxaYIV6xC1kTJO1W2) | 4:14 |
 | 45 | [The Apl Song](https://open.spotify.com/track/3RJscU6S1fLgCmH67OLIui) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 2:54 |
 | 46 | [Don't Sit Next To Me Just Because I'm Asian](https://open.spotify.com/track/4bCUYz5tMsUsyg8ER8xJyd) | [Bruce Lee Band](https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY) | [Bruce Lee Band](https://open.spotify.com/album/7IDAjCZvC6FGehfMb6Dm0N) | 17:59 |
 | 47 | [We are the Children](https://open.spotify.com/track/3JpMNtEjO9Vvfa7nHRdk2R) | [Chris Kando Iijima](https://open.spotify.com/artist/1FVzKO0L8p3o2buKGX2pat), [Nobuko Miyamoto](https://open.spotify.com/artist/2Jrux4LmFNPS1Nk6NmA5yZ), [Charlie Chin](https://open.spotify.com/artist/6eX31rTtOkt0GKJt53Omyn) | [A Grain of Sand: Music for the Struggle by Asians in America](https://open.spotify.com/album/7tEIA1YsNtFg7I5InBEDpq) | 2:54 |
 | 48 | [I Am Not a Virus](https://open.spotify.com/track/0Js0zMozqoPq2jpdtnLghs) | [Jordan Vanhemert](https://open.spotify.com/artist/2Evoan7fHtMomWN9ONOsNB), [Rob Smith](https://open.spotify.com/artist/09NsR9F3P1Q9ocmJ0ULb7v), [Lisa Sung](https://open.spotify.com/artist/3L0ZbGmFzTiPaygVqAAFdg), [Kazuki Takemura](https://open.spotify.com/artist/1nu6AnXuhLN5VE8YK3Cv2x), [Andy Wheelock](https://open.spotify.com/artist/1fdOyp1kPBFm0K3ksV6sku) | [I Am Not a Virus](https://open.spotify.com/album/4ZXwN59UAoFksXPPqUyOop) | 8:42 |
 
-Snapshot ID: `MCxjNmMzYTNiMDQxMDJiNjhjMGFkOWYyNzBkYWU1MmEyNTFkYmExZjE2`
+Snapshot ID: `MCwwYzVjZDJlYTI4MDc0ZmQ2MjFhYWU4ZGYxYmM4M2Y2MDA5NDE4YjE4`

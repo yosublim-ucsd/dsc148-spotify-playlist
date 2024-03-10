@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Marvvila com Luiza Martins, MC IG, Thiaguinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,040 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,241 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [Serena](https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [Serena](https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1) | 2:45 |
 | 50 | [Sonho de Rainha Rei](https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l) | [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [Sonho de Rainha Rei](https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ) | 4:11 |
 
-Snapshot ID: `MCxjYzZhNmQ4NmI4YWZjYjMyYTc3MDY4NTc0YjkwMmFkODQwOThiNzRm`
+Snapshot ID: `MCw1OTYyMTE0ZmQ2YzBmODg4N2UzMzQ1ZGJmZGZlZjUyZjI4YjlmODMw`

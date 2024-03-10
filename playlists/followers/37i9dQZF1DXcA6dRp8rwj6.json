@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 440071,
+  "2024-03-10": 440084,
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: ScHoolboy Q )",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Central Cee)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -413,6 +413,28 @@
       "duration_ms": 149613,
       "name": "2 LIVE",
       "url": "https://open.spotify.com/track/1pbSwjVmaoVgHIU2bQeuxI"
+    },
+    {
+      "album": {
+        "name": "2 Proud",
+        "url": "https://open.spotify.com/album/4JM1PmUrIx30TuZT9C1zs3"
+      },
+      "artists": [
+        {
+          "name": "apl.de.ap",
+          "url": "https://open.spotify.com/artist/6LB6kuJjrGvRzAkH6ddeWt"
+        },
+        {
+          "name": "Sandara Park",
+          "url": "https://open.spotify.com/artist/3LKVw6XQYcot0OZMFmf4IP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221927,
+      "name": "2 Proud",
+      "url": "https://open.spotify.com/track/5EhDe41LrlpFrOLMB8kx3X"
     },
     {
       "album": {
@@ -4074,6 +4096,32 @@
     },
     {
       "album": {
+        "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
+        "url": "https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
+      "url": "https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y"
+    },
+    {
+      "album": {
         "name": "BENZO",
         "url": "https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa"
       },
@@ -4467,6 +4515,24 @@
       "duration_ms": 208622,
       "name": "Bill",
       "url": "https://open.spotify.com/track/6Q8cOsrmZHZkz1WZtTegoU"
+    },
+    {
+      "album": {
+        "name": "BINBO",
+        "url": "https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138946,
+      "name": "BINBO",
+      "url": "https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL"
     },
     {
       "album": {
@@ -7220,6 +7286,28 @@
     },
     {
       "album": {
+        "name": "CHENSHINHAN",
+        "url": "https://open.spotify.com/album/1QMbDayWJsXOREGWWmgfuQ"
+      },
+      "artists": [
+        {
+          "name": "Drogas",
+          "url": "https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX"
+        },
+        {
+          "name": "Yaokai",
+          "url": "https://open.spotify.com/artist/1Q1u2GuyCUonalI2S4MDFf"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "CHENSHINHAN",
+      "url": "https://open.spotify.com/track/2Unx8luhPq5TzsotOsFqT4"
+    },
+    {
+      "album": {
         "name": "CHROME CASKETZ 2: ARMAGEDDON",
         "url": "https://open.spotify.com/album/5CRA4YBDWDTCd8wf3WfMwE"
       },
@@ -9179,6 +9267,24 @@
       "duration_ms": 164096,
       "name": "Dearly Beloved (feat. Flee Lord)",
       "url": "https://open.spotify.com/track/1e7aHgTmshZUnFqiqogWiP"
+    },
+    {
+      "album": {
+        "name": "DEATH",
+        "url": "https://open.spotify.com/album/1RjBJ7J8LLOdzKt7xA0Qji"
+      },
+      "artists": [
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "DEATH",
+      "url": "https://open.spotify.com/track/43YI0FF74feONzcXkUEI9R"
     },
     {
       "album": {
@@ -12022,6 +12128,24 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1e3ReOGDeVWyJxSWdMGiDX"
+      },
+      "artists": [
+        {
+          "name": "Yaung",
+          "url": "https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221102,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3xpvoBN6yTYBe4WVEE4GqL"
+    },
+    {
+      "album": {
         "name": "Fire At Ya Idle Mind",
         "url": "https://open.spotify.com/album/72KO53EPvkf6htRsk2qjCJ"
       },
@@ -14558,6 +14682,28 @@
     },
     {
       "album": {
+        "name": "Gyatt",
+        "url": "https://open.spotify.com/album/5RVxXWyW9GG3UnPSCk6Gbm"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/6ZIgt7yQuYVxpBpTdHxOQn"
+        },
+        {
+          "name": "Akeem Jahat",
+          "url": "https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157914,
+      "name": "Gyatt",
+      "url": "https://open.spotify.com/track/55l0NVQeCkygpxNjIj7X4B"
+    },
+    {
+      "album": {
         "name": "D-DAY",
         "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
       },
@@ -14755,6 +14901,28 @@
       "duration_ms": 144685,
       "name": "Hard To Sleep",
       "url": "https://open.spotify.com/track/2We63UGhJEyD2x4n74jwpa"
+    },
+    {
+      "album": {
+        "name": "Sir.Robert",
+        "url": "https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "harmless (Feat. CHANMINA)",
+      "url": "https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa"
     },
     {
       "album": {
@@ -20167,6 +20335,24 @@
       "duration_ms": 152058,
       "name": "lonrwrld (freestyle)",
       "url": "https://open.spotify.com/track/3zg2NCd83m0Y9gL5wKd6Q5"
+    },
+    {
+      "album": {
+        "name": "HATE ME",
+        "url": "https://open.spotify.com/album/5XlxyRqG5mr7eG6My0QkVT"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI"
     },
     {
       "album": {
@@ -28248,6 +28434,24 @@
     },
     {
       "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/0AuZ8ODGhm85yIAW3cbZSC"
+      },
+      "artists": [
+        {
+          "name": "Dtrue",
+          "url": "https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/07JXEGlEQmMWIrH9Kn6swl"
+    },
+    {
+      "album": {
         "name": "Repeat (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/0rdtKU3AkeqY9st4yQorjj"
       },
@@ -32174,6 +32378,28 @@
     },
     {
       "album": {
+        "name": "S.H.O.T.T.A.",
+        "url": "https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P"
+      },
+      "artists": [
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        },
+        {
+          "name": "Slim Jxmmi",
+          "url": "https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "SRT (feat. Slim Jxmmi)",
+      "url": "https://open.spotify.com/track/4tfUSfavhddmL6tmfjRdwc"
+    },
+    {
+      "album": {
         "name": "SSII.",
         "url": "https://open.spotify.com/album/24odUgXWSYdsGrC2ogiBm1"
       },
@@ -32974,6 +33200,24 @@
     },
     {
       "album": {
+        "name": "SU GILA KA",
+        "url": "https://open.spotify.com/album/4oRlUq7jj7aSucZxbyepgN"
+      },
+      "artists": [
+        {
+          "name": "Kid JD",
+          "url": "https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176080,
+      "name": "SU GILA KA",
+      "url": "https://open.spotify.com/track/1EiFLLkmJcuGBEvqc4cTTJ"
+    },
+    {
+      "album": {
         "name": "Sucka Or Sum",
         "url": "https://open.spotify.com/album/5gaVPtt0TIRuPeRfQeJ63P"
       },
@@ -33349,6 +33593,28 @@
       "duration_ms": 174021,
       "name": "Supercharge (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5UoKOaI2Dg2a9Qgw5TsStq"
+    },
+    {
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/4iJ7AXwW3ljCGt2adO26o4"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113313,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/6znLgQRXhiM0OcrfO9caWh"
     },
     {
       "album": {
@@ -38262,6 +38528,28 @@
     },
     {
       "album": {
+        "name": "19.5",
+        "url": "https://open.spotify.com/album/06uFaprW6BVk7Lckao8DsA"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "WE WANT!!! - feat.7",
+      "url": "https://open.spotify.com/track/2BxKxnjb7wsUjXpooz8dut"
+    },
+    {
+      "album": {
         "name": "Stoner's Night",
         "url": "https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb"
       },
@@ -39291,6 +39579,28 @@
       "duration_ms": 166227,
       "name": "Work",
       "url": "https://open.spotify.com/track/3N0srZgpRLSY2ziJ1FsJh9"
+    },
+    {
+      "album": {
+        "name": "Work This Out",
+        "url": "https://open.spotify.com/album/6vb6Zec5YfjXBcizesC5yh"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178120,
+      "name": "Work This Out",
+      "url": "https://open.spotify.com/track/3VymabYos1p2fXzmk0cPKg"
     },
     {
       "album": {

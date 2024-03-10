@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 237381,
+  "2024-03-10": 237379,
   "date_first_scraped": "2021-12-21",
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
   "name": "Ready for the Day",
@@ -7069,7 +7069,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 193983,
       "name": "Sunset Drive - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
@@ -7349,6 +7349,28 @@
       "duration_ms": 157570,
       "name": "The Problem Song",
       "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+    },
+    {
+      "album": {
+        "name": "The Sun Is Shining",
+        "url": "https://open.spotify.com/album/2Zm5F9dM0HfTYeDWNBOjKa"
+      },
+      "artists": [
+        {
+          "name": "NEVUSSIDE",
+          "url": "https://open.spotify.com/artist/1BEqm7J8ph9SePEMECpssy"
+        },
+        {
+          "name": "Chima Anya",
+          "url": "https://open.spotify.com/artist/2R5My3OkaH2tkHjCiJ51PE"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199191,
+      "name": "The Sun Is Shining",
+      "url": "https://open.spotify.com/track/58hS2FjP1m2P7PZSIeFXUI"
     },
     {
       "album": {

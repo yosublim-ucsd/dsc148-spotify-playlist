@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,782 songs - 3 day 21 hr 56 min
+1,784 songs - 3 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2021-10-29 | 2023-02-18 |
 | [Dog Days](https://open.spotify.com/track/3ZwEZ53kYpL1S8TzXkk5XF) | [Argonaut & Wasp](https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8) | [STARLIGHT 99](https://open.spotify.com/album/0ZfuYyN4t3A8wdhCfLcunx) | 3:35 | 2021-05-09 | 2021-10-14 |
 | [Dog Years](https://open.spotify.com/track/2o0G1uVhYPcZz4XcDICaCX) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia \(Deluxe\)](https://open.spotify.com/album/4hHP4S8QfwXBFyXUd5TOC9) | 2:21 | 2023-03-25 | 2023-04-01 |
+| [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-03-08 |  |
 | [dominoes](https://open.spotify.com/track/1VTr2yQEEKt8ctEL0sFn2m) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [dominoes](https://open.spotify.com/album/38UEwenNyPDRh8e0JhT3hJ) | 2:57 | 2022-01-28 | 2022-04-17 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-04-26 |
 | [Don't Forget Your Neighborhood](https://open.spotify.com/track/0f5oefcDaN8RCIZrVJa8Q7) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Don't Forget Your Neighborhood](https://open.spotify.com/album/2sse1UJ2m1BwZ243r8duR7) | 4:54 | 2021-06-03 | 2021-06-04 |
@@ -951,7 +952,7 @@
 | [littlebitwild](https://open.spotify.com/track/7maYVnkJyhgI3ObNeEyT3C) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [littlebitwild](https://open.spotify.com/album/4wkd3dJFopVf2GBPRfMsd4) | 3:05 | 2020-10-13\* | 2021-03-02 |
 | [Living Beings Pt.2 \(Metronomy Remix\)](https://open.spotify.com/track/5dRFeSGxFbTp2KlPp5L01A) | [Lean Logic](https://open.spotify.com/artist/0ZkSai2EyWzhAah82WYp7U) | [Living Beings Pt 2 \(Metronomy Remix\)](https://open.spotify.com/album/1eW1jpwTTQCYxhgKb6LBRA) | 3:21 | 2021-05-16 | 2021-05-28 |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-06-02 |  |
-| [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 | 2023-12-08 |  |
+| [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 | 2023-12-08 | 2024-03-10 |
 | [Lizzy](https://open.spotify.com/track/7GWGiYSGyN5CuKN0U2acXD) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Lizzy](https://open.spotify.com/album/6Y183V3T55txTmHKcjtv9N) | 3:50 | 2021-02-24 | 2021-10-14 |
 | [Lockeland](https://open.spotify.com/track/61ol3uXlr9VfTCMqy28Cgw) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Lockeland](https://open.spotify.com/album/2T3f5oNMflUc5WVuf9AU6h) | 3:41 | 2021-02-28 | 2021-05-26 |
 | [Lola](https://open.spotify.com/track/5VDmaEUjH0SGBDDjYgoxHW) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Lola](https://open.spotify.com/album/5U2Q1Z8FtcW5UPXKLK5753) | 2:41 | 2022-04-08 | 2022-08-06 |
@@ -1079,6 +1080,7 @@
 | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\] \- Icarus Better Daze Mix](https://open.spotify.com/track/6cb6DR6i07ZA0I0B1qnpQi) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram \[Icarus Better Daze Mix\]](https://open.spotify.com/album/5KGWv4VGrZkJYDYkEHhllt) | 4:26 | 2020-11-20 | 2021-01-15 |
 | [My Boy](https://open.spotify.com/track/1etxSghMDCTphS2HCYYagu) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [My Boy](https://open.spotify.com/album/2X7wrqEzYtdT4g34MNgKEX) | 2:55 | 2022-03-18 | 2022-04-15 |
 | [My House](https://open.spotify.com/track/69cOm540NYGkZpL4Jx2mUx) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [My House](https://open.spotify.com/album/3bC63CIq5bU9HnE7AnYtQF) | 3:42 | 2021-02-22 | 2021-05-28 |
+| [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 | 2024-03-08 |  |
 | [My Love](https://open.spotify.com/track/3akpDdQJUVckqG4r1bmR25) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/4pI2XhkcyVb6MJXfEDF67u) | 3:41 | 2020-10-20 | 2021-05-28 |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-18 | 2023-01-24 |
 | [my self](https://open.spotify.com/track/3Uz7KMfWOR2wAoUVYaZn1h) | [joey maxwell](https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq) | [my self](https://open.spotify.com/album/1uWtFaLy6aEe2HuRV3Ud2l) | 3:49 | 2020-11-03 | 2021-01-15 |
@@ -1657,7 +1659,7 @@
 | [Twin Flame](https://open.spotify.com/track/5mcV609IhNtRv4piyKSbWs) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Twin Flame](https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA) | 3:03 | 2023-06-09 | 2023-08-06 |
 | [UGLY](https://open.spotify.com/track/4se5MOrdbpU4nJUOrcf5td) | [Celeste Allison](https://open.spotify.com/artist/0w2MWipQo91kgrOdu5GjlB) | [UGLY](https://open.spotify.com/album/4Ea6zC1w8jWvmnMJvSxWmK) | 3:42 | 2022-02-25 | 2022-07-29 |
 | [Ugly Ending](https://open.spotify.com/track/3r9yXRs067jbw1GkWpQVlC) | [Best Frenz](https://open.spotify.com/artist/2gUtWSZwLhDitFVAezHsfv), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Jason Suwito](https://open.spotify.com/artist/74QeguyCOML1X9s4dXU2Dz) | [Ugly Ending](https://open.spotify.com/album/185zeWoF6jsptjvg2Ui1RG) | 3:58 | 2021-02-23 | 2021-05-26 |
-| [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-07-07 |  |
+| [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-07-07 | 2024-03-10 |
 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 | 2023-11-05 |
 | [UNBOUND \- Austin Millz Remix](https://open.spotify.com/track/7aiIY5CiuTP7htW4grQuaO) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [UNBOUND \(Austin Millz Remix\)](https://open.spotify.com/album/3jUoYwBHyDxjozwc6DpQyj) | 2:40 | 2020-11-03 | 2021-02-24 |
 | [Underdog](https://open.spotify.com/track/6h5BYxvBFe7jZ4Eih1sCFG) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Underdog](https://open.spotify.com/album/0Ea494IBRHAvQcvRcY9b2c) | 4:26 | 2023-06-09 | 2023-06-24 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 245384,
+  "2024-03-10": 245895,
   "date_first_scraped": "2023-02-09",
   "description": "Wander into the magical mix of music, water, birds, and calmness. ",
   "name": "Dreamy Forest Music",
@@ -1032,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "Eileanan",
+        "url": "https://open.spotify.com/album/61OZWMQSih7G253a5ediFD"
+      },
+      "artists": [
+        {
+          "name": "Hevios",
+          "url": "https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154833,
+      "name": "Eileanan",
+      "url": "https://open.spotify.com/track/0RF2PYLqYLIHhUXRBhj3rY"
+    },
+    {
+      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/4ugwhuEqJTGi11swTislS2"
       },
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 157200,
       "name": "Lumen",
       "url": "https://open.spotify.com/track/6a6UnuMT3YJrlxztbFIikY"

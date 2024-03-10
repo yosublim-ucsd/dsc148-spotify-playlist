@@ -1,12 +1,12 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 145293,
+  "num_followers": 145305,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDc3NWFmNzU2YWU1ZTY3NTlkZmU1OTcwNTdiOGQ5OGE4Y2JiM2Zl",
+  "snapshot_id": "MCxhOTI3ZjM4NDRjMGE2OTQxMzAyMTliOTQyN2NmMmU4YTU1MzQ3Zjlj",
   "tracks": [
     {
       "added_at": "2023-03-06 22:48:04",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Gera\u00e7\u00e3o Pop",
+        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Eu tamb\u00e9m quero beijar",
+      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Ax\u00e9 Bahia",
         "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 194533,
       "name": "A Luz De Tieta",
       "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Gera\u00e7\u00e3o Pop",
-        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Eu tamb\u00e9m quero beijar",
-      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -507,22 +507,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Sambas De Enredo Das Escolas De Samba 2019",
-        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
+        "name": "Leci Brand\u00e3o",
+        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
       },
       "artists": [
         {
-          "name": "Marquinho Art'Samba",
-          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
-        },
-        {
-          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
-          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
         }
       ],
-      "duration_ms": 271453,
-      "name": "Hist\u00f3ria Para Ninar Gente Grande",
-      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
+      "duration_ms": 204520,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -543,22 +539,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Leci Brand\u00e3o",
-        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
-      },
-      "artists": [
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Z\u00e9 Do Caro\u00e7o",
-      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Feij\u00e3o Com Arroz",
         "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 233466,
       "name": "Nobre Vagabundo",
       "url": "https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Sambas De Enredo Das Escolas De Samba 2019",
+        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
+      },
+      "artists": [
+        {
+          "name": "Marquinho Art'Samba",
+          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
+        },
+        {
+          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
+          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Hist\u00f3ria Para Ninar Gente Grande",
+      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -619,6 +619,22 @@
       "duration_ms": 249533,
       "name": "Os Orix\u00e1s",
       "url": "https://open.spotify.com/track/513U1dzs6DITfRum7dM90X"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Feij\u00e3o Com Arroz",
+        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Rapunzel",
+      "url": "https://open.spotify.com/track/5IocKfGOEyFiBolTgguc5c"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Feij\u00e3o Com Arroz",
-        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Rapunzel",
-      "url": "https://open.spotify.com/track/5IocKfGOEyFiBolTgguc5c"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Esta\u00e7\u00e3o da Luz",
         "url": "https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 202005,
       "name": "Esta\u00e7\u00e3o da Luz",
       "url": "https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Minha Voz",
-        "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Bloco Do Prazer",
-      "url": "https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Minha Voz",
+        "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Bloco Do Prazer",
+      "url": "https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Beleza Rara - O melhor De Banda Eva",
         "url": "https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Refavela",
-        "url": "https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna"
+        "name": "Daniela Mercury",
+        "url": "https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
         }
       ],
-      "duration_ms": 190173,
-      "name": "Il\u00ea ay\u00ea",
-      "url": "https://open.spotify.com/track/6L9okk7atrGuieV4FtZybt"
+      "duration_ms": 219133,
+      "name": "Swing da Cor",
+      "url": "https://open.spotify.com/track/4QvN1r5iloT7eKvx6mjNdq"
     },
     {
       "added_at": "2023-03-06 22:48:04",

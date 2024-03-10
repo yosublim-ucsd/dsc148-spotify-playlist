@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 93779,
+  "2024-03-10": 93811,
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: moon tang (Hong Kong)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Silica Gel (South Korea)",
   "name": ".ORG",
   "tracks": [
     {
@@ -4431,7 +4431,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 280000,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/3mZOvSK1AW3OaS5ybLAe8i"
@@ -12873,6 +12873,24 @@
       "duration_ms": 219414,
       "name": "NO PAIN",
       "url": "https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9"
+    },
+    {
+      "album": {
+        "name": "POWER ANDRE 99",
+        "url": "https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221390,
+      "name": "NO PAIN",
+      "url": "https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 305218,
+  "2024-03-10": 305421,
   "date_first_scraped": "2022-05-23",
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
   "name": "Cl\u00e1sicas del Mariachi",
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 195906,
       "name": "Estuve",
       "url": "https://open.spotify.com/track/2NLAraJgphfdy2sWQ4LWm4"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 195266,
       "name": "No",
       "url": "https://open.spotify.com/track/60tK9PZkMuCb5Uwv28oIJM"

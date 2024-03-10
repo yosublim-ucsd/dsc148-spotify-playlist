@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Amy Gadiaga\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,309 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,384 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All Black Everything](https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [All Black Everything](https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng) | 5:06 |
 | 2 | [Oumuamua](https://open.spotify.com/track/0bmdkYQVcRlQQ2VmYtphUI) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Uniri](https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA) | [Oumuamua](https://open.spotify.com/album/6nuVkm6dza8i2UAhTppVIg) | 3:49 |
 | 3 | [Satellites](https://open.spotify.com/track/6Rmc0ZAzhESwPH9e5hKdj8) | [Lucien Johnson](https://open.spotify.com/artist/3FRhEis2dHgap01tvdthBV) | [Satellites](https://open.spotify.com/album/5tA0Ykz8inSNmzTA9iLSsu) | 6:21 |
-| 4 | [From the Fire](https://open.spotify.com/track/7ptZN3udg7LZzmAcT2p85E) | [Audrey Powne](https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm) | [From the Fire](https://open.spotify.com/album/1bbB0rXdfZ8jO7TWuOZMmo) | 4:58 |
+| 4 | [From the Fire](https://open.spotify.com/track/7lvM9IebiXmefI2k94OaCc) | [Audrey Powne](https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm) | [From The Fire + Instrumental](https://open.spotify.com/album/1YWX3E6gPicRPN97Rksrf3) | 4:58 |
 | 5 | [Silk Road](https://open.spotify.com/track/6tdqqYdhKVnsw2lLiE3nYd) | [João Caetano](https://open.spotify.com/artist/2iIetRbZW5lWlYzl75cPHM), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Kourosh Kanani](https://open.spotify.com/artist/6NlTwp9LC329fcYzGfLOWV), [Aref Durvesh](https://open.spotify.com/artist/6HpVKlrV4UjNcce5ScEdJ9), [André Dias](https://open.spotify.com/artist/0pr9ecFPrF6upxyLvvdkXg) | [Silk Road](https://open.spotify.com/album/3Z4vpkdjX74Aj1KoK0ksGy) | 4:47 |
 | 6 | [Theodor Marmalade](https://open.spotify.com/track/4ySeqHdrig51vL16wHLND6) | [Apifera](https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr) | [Theodor Marmalade](https://open.spotify.com/album/7Ilc7jpSMIg99Oy9uZuvbF) | 3:43 |
 | 7 | [Scorched Earth](https://open.spotify.com/track/2my7N8zznV6BICQDkWNK7Z) | [Orbit Kid](https://open.spotify.com/artist/02JAIOhEOWVb66sekCzGqz) | [Scorched Earth](https://open.spotify.com/album/4XXEzNOWb07Ioo54JSX5FI) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Emergence](https://open.spotify.com/track/1Sw2x4OTceaCVnUjia3MZP) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [Emergence](https://open.spotify.com/album/41yktN4HFvhkIcDvm6YxWD) | 2:59 |
 | 50 | [Metamorphosis](https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Metamorphosis](https://open.spotify.com/album/4QdhwNxSlMYIqp74Y27pLO) | 4:06 |
 
-Snapshot ID: `MCwyMWMwMmJjMjEyY2MwOWY4N2JhYTFkOTIzZjMyMTkyNWE1ZGQwODc4`
+Snapshot ID: `MCxjZTEyNjgzZDRmNTI4NTk4YzkzZGE3YWRjNjlmYmZlZDU2NWQ4YzBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:1E2ZsvpZKP4qMPNARv36W5">Gocho,</a> <a href="spotify:artist:0CY3fhkYxiPZh9XCwBeao2">Onell Diaz,</a> y <a href="spotify:artist:3z4gWkynJfhlRmpULOrNEt">ULLOΛ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,922 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,941 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 7 | [Radikal 60](https://open.spotify.com/track/3R3sYduPzyhzsTDaV15wNs) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Radikal 60](https://open.spotify.com/album/42CTnl4aMbSRdFauo4AUIN) | 4:07 |
 | 8 | [L.E.Y.E.N.D.A.S.](https://open.spotify.com/track/121ZcgbRYVZIYYHwesqEuz) | [Wolandia](https://open.spotify.com/artist/46eL7q4TISdKjN2px64rhu), [Temperamento](https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [L.E.Y.E.N.D.A.S.](https://open.spotify.com/album/3yT5UFCz7Tf2TDanRTnQgw) | 4:00 |
 | 9 | [ALTITUD \(VOLAO\)](https://open.spotify.com/track/6Wc72zA3qXHYqSZrLdyBdf) | [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [SÉ ÉPICO](https://open.spotify.com/album/2AAexYoDaovG5uxjtKpcNL) | 2:47 |
-| 10 | [We Are The Revolution](https://open.spotify.com/track/3Lda5A8ejJkMgRUozj37GG) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [We Are The Revolution](https://open.spotify.com/album/4P4nEPXkUXnKeYxWOTjqdh) | 3:45 |
+| 10 | [we are the revolution](https://open.spotify.com/track/3Lda5A8ejJkMgRUozj37GG) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [we are the revolution](https://open.spotify.com/album/4P4nEPXkUXnKeYxWOTjqdh) | 3:45 |
 | 11 | [Eres Tu](https://open.spotify.com/track/17Mt4F6KHoL2CMzY4WPnhh) | [Genesis Benavides](https://open.spotify.com/artist/263vDSDm2KrjNixcgZunAr), [Jimmy Ortiz](https://open.spotify.com/artist/1FpVrAgfKjVUUi0R95XW7N) | [Eres Tu](https://open.spotify.com/album/26iFFvzeRlImsc3mIGtgEs) | 2:58 |
 | 12 | [Getsemaní](https://open.spotify.com/track/5JoYruh34jFDMjtofDxzYV) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Haury](https://open.spotify.com/artist/5lIeOHq9lhg4ZxIiPM3GTa) | [Getsemaní](https://open.spotify.com/album/0TpFUlVYvEnpoXLian5Opg) | 3:52 |
 | 13 | [Solo En Jesús](https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo En Jesús](https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Te Necesito Tanto](https://open.spotify.com/track/7gDbSsPfuSB7vn2vqZfT6g) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Te Necesito Tanto](https://open.spotify.com/album/2vu6dWoV5QWCyQAQdqlrmd) | 3:57 |
 | 100 | [Solo Tu](https://open.spotify.com/track/19fHZXYG18tJI5tYcrpf3e) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be) | [Solo Tu](https://open.spotify.com/album/2vIzAvSQrTDJADnngjmN1A) | 3:41 |
 
-Snapshot ID: `MCwyY2ZlZTY5N2MwMDMwMTc2ODc0YTViMWM2ZWExMjM1MDM2OGI5YWFj`
+Snapshot ID: `MCwwYzM2Y2UyYTE5ODc3N2Y1YWNiOGY5NTY2MWNjOThiMWE2ZTZlNjc5`

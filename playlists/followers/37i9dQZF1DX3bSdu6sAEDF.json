@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 513594,
+  "2024-03-10": 513654,
   "date_first_scraped": "2021-12-21",
   "description": "Let this smooth mix carry you home in style.",
   "name": "Evening Commute",
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 166483,
       "name": "Catching Feelings",
       "url": "https://open.spotify.com/track/6EGAYAiK2k89dKJNKf5avd"
@@ -3366,6 +3366,24 @@
     },
     {
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/0G4cgwbt1mLgThWFPOTZ7v"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178826,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6WXjSSZztubZ65hoMqhhyA"
+    },
+    {
+      "album": {
         "name": "know that you're not alone",
         "url": "https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl"
       },
@@ -5139,7 +5157,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 159608,
       "name": "See You In My Dreams",
       "url": "https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI"
@@ -5621,6 +5639,24 @@
       "duration_ms": 224226,
       "name": "State of Flight",
       "url": "https://open.spotify.com/track/21DOy3oZ7aKupTpVADoe09"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/4oItNqo0uuq2OFUGEd83Si"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180580,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0OYbLYm5m3CgPfsKjF4z1X"
     },
     {
       "album": {

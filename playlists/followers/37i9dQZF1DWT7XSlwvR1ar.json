@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 2076794,
+  "2024-03-10": 2076977,
   "date_first_scraped": "2019-07-29",
   "description": "Stay relaxed with these easy, laid-back songs.",
   "name": "Totally Stress Free",
@@ -1493,6 +1493,24 @@
       "duration_ms": 295703,
       "name": "Dirty Camaro (feat. Hiss Golden Messenger)",
       "url": "https://open.spotify.com/track/22ykDWfAaTq01S3A5wjv8F"
+    },
+    {
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "album": {
@@ -6629,7 +6647,7 @@
       ],
       "date_added": "2020-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 180048,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4XBznaFt4lPJY6s9VBHYUt"

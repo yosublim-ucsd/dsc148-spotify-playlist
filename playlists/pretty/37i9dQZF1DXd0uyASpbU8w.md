@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6?si=DGNkf\_77RySgppJ9XZwZaQ">Ariana Grande</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,044 likes - 56 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,095 likes - 56 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 55 | [Umfazi](https://open.spotify.com/track/50G9Ojjbs6kjSPF4gNgxhG) | [Marthe](https://open.spotify.com/artist/11LLLhmioRwkPeNLGUok3N), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Umfazi](https://open.spotify.com/album/4VsBHZTNuyIcQ0WZRKgHHg) | 4:53 |
 | 56 | [SHE A BADDIE](https://open.spotify.com/track/34ivB8FPA9MejRkYMQVnis) | [Emmanuel Rose](https://open.spotify.com/artist/2bAexN5Jo2aSa738MQBfHo) | [SHE A BADDIE](https://open.spotify.com/album/2DUMKTUH3rz9nNnkA4ZoMQ) | 2:29 |
 
-Snapshot ID: `MCw4NzdhM2UyYjVkMjhkYjE1MWJiNjQyNTk4N2I0YjIwZmZkYzQyY2M0`
+Snapshot ID: `MCw2ZWNjYjM5MTg1NGFmMjQ3Yjk3YTFkYjA2NmU0YzA5ZDM4ZDRlZmJj`

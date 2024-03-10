@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 130338,
+  "num_followers": 130428,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTEwMzY3ZWZhOGRhMGJlYzQzZjczNmQ0ZjFmNTFmNWJhMTUzMDc5",
+  "snapshot_id": "MCwyN2RiMDc0N2UxMzk5ZDg4NzlkMWJmYWVjMDJjMzc5Yzc5NTJkMWY5",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "Puras Arrolladoras",
+        "url": "https://open.spotify.com/album/3oVnh7uXcSSs2EiBXbyh4e"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 158853,
+      "name": "Era Cabr\u00f3n El Viejo",
+      "url": "https://open.spotify.com/track/1L8MkFekvJDFuvoYNutXQ8"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "Emilio Garra",
         "url": "https://open.spotify.com/album/7eXf8TK9XzmQHmaGDlW7pv"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 184188,
       "name": "Hace Falta Alfredo",
       "url": "https://open.spotify.com/track/3AVWAizGEQ5z10Ac3Y1I4R"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "Puras Arrolladoras",
-        "url": "https://open.spotify.com/album/3oVnh7uXcSSs2EiBXbyh4e"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 158853,
-      "name": "Era Cabr\u00f3n El Viejo",
-      "url": "https://open.spotify.com/track/1L8MkFekvJDFuvoYNutXQ8"
     },
     {
       "added_at": "2023-06-16 06:00:00",

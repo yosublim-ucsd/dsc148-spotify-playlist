@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: m tú
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,986 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,994 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Lạc Mất Lối ?](https://open.spotify.com/track/0XlKUPSh3Kb1jKnEhURa6k) | [Lê Chí Hậu](https://open.spotify.com/artist/7A5aUdfbWEgALBnXS2Ne0x) | [Lạc Mất Lối ?](https://open.spotify.com/album/3q6hz2ifuPWW5dgmdaZ1Uh) | 1:00 |
 | 100 | [anh muốn mình như con thuyền kia lao vào em rồi đắm chìm](https://open.spotify.com/track/1Qnt8m0uB5Q9QtFNFGKP4c) | [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P), [Mhee](https://open.spotify.com/artist/5ZhTl7bT6oDSoXIq1Zzf53), [Bạn Có Tài Mà](https://open.spotify.com/artist/6FCF4ljKz7tzcsOyUExpS7) | [anh muốn mình như con thuyền kia lao vào em rồi đắm chìm](https://open.spotify.com/album/56qStkWFU20BjBD77Oaspr) | 3:25 |
 
-Snapshot ID: `MCxkMjQyMDExMWE5ZTkxZjY2ZDY1ZTY2NzQxZDM2ODEyZjgwM2UzNjA1`
+Snapshot ID: `MCw0N2ZlNjAzOWViZTVmMzVkZTU0OWVkZWVmZGRlNjRiZjRlYzFlYzk1`

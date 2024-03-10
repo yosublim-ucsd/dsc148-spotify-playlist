@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Peytan Porter, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,828 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,858 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 54 | [Finding Firsts](https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [L Is For](https://open.spotify.com/album/623wRIGODh3IBqDv3rVKOk) | 3:29 |
 | 55 | [End of the Line \(feat\. Makena Hartlin\)](https://open.spotify.com/track/5q0sUOIMSVigoEGsTrtOJL) | [Austin Brown](https://open.spotify.com/artist/6cpT40sKg2vCnQsHDLxrxk), [Makena Hartlin](https://open.spotify.com/artist/2MzHCysoDydVG3tu8d2ItY) | [End of the Line \(feat\. Makena Hartlin\)](https://open.spotify.com/album/5OlOOvYXb2ZGxBT3XJEQ9b) | 2:56 |
 | 56 | [You Left Me](https://open.spotify.com/track/53z0W6inhxvtx0OWspvIAF) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [You Left Me](https://open.spotify.com/album/6GbSj3YCeoG1i79W6XIdvG) | 3:35 |
-| 57 | [Every Rain](https://open.spotify.com/track/0bcjnTMLmSrCvNtI8VfUCw) | [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ) | [Every Rain](https://open.spotify.com/album/55LqPCrWZZ7nNFicZpSrzD) | 3:16 |
+| 57 | [Every Rain](https://open.spotify.com/track/4jkjmYDBLnYzaeLTBCUIak) | [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ) | [Every Rain](https://open.spotify.com/album/3OikgceZSRm3YTQa4KW7v5) | 3:16 |
 | 58 | [Heart Don't Break Itself](https://open.spotify.com/track/4Xp2gukjRTmt3Ww81sdihf) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Heart Don't Break Itself](https://open.spotify.com/album/261hTUQVbY7FIT45S6qr2I) | 2:50 |
 | 59 | [Second Chances](https://open.spotify.com/track/0d177hWsiCYil2FF3nJ3lR) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Second Chances](https://open.spotify.com/album/5FH3qbQ4cp2ggcTPikqmml) | 3:02 |
 | 60 | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/track/0R0YOsO3yxQuWkVPwz1Wd8) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW), [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/album/0stqXK145N4g9pdxrOiUyx) | 3:33 |
-| 61 | [She Was Mine](https://open.spotify.com/track/6gnvpZnNRNi1vw8HvmCpSo) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Songs From A Breakup](https://open.spotify.com/album/6WLhSEAg80ccThstBTWqvX) | 3:24 |
+| 61 | [She Was Mine](https://open.spotify.com/track/2M2STJOOUstOvPvWIil46Z) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Songs From A Breakup](https://open.spotify.com/album/7JlXQn8KNUP71CO0cQoxyq) | 3:24 |
 | 62 | [Love Songs](https://open.spotify.com/track/2yqMupsh6bFwS7KevYhd0o) | [Timmy McKeever](https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N) | [Love Songs](https://open.spotify.com/album/6cSlfnRe12e57fymNrCG89) | 3:24 |
 | 63 | [Same Mistake Twice](https://open.spotify.com/track/39bzybw83bhqxDX81VyBkc) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Same Mistake Twice](https://open.spotify.com/album/5caTeEBzT9WGPera8jZ53p) | 2:57 |
 | 64 | [Pick My Own Flowers](https://open.spotify.com/track/6hv9JWeMGG37jTrJSJODlK) | [Erin Kirby](https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella) | [Pick My Own Flowers](https://open.spotify.com/album/3Q4CU0DEHbuofpgrYD74cn) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 99 | [Lonely Half](https://open.spotify.com/track/2BQnFxkXGlhK6DEKys1vcB) | [Nolan Gray](https://open.spotify.com/artist/1OYSaj41rLrzYgckKdMTBN) | [Lonely Half](https://open.spotify.com/album/69A6wpjebCtcaZMANUcJoZ) | 2:50 |
 | 100 | [Airplane](https://open.spotify.com/track/400dH8GoaaNGPyKm3yWqJD) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Airplane](https://open.spotify.com/album/0sGaAhqXXTtDHdXVZ5UR5e) | 3:32 |
 
-Snapshot ID: `MCxjNDRhMDEzZDkzYzVjNTcwOTcyNTM2ZTRlODhhYmQ4N2RhMmVjZGZi`
+Snapshot ID: `MCw5YjAzNGZlY2Y1OWE4ZTlhNWU0MmVjZDQ2MmM5OWFlNDNhNDM2Y2Ew`

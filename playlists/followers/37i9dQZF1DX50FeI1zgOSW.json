@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 8139,
+  "2024-03-10": 8191,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
   "name": "RADAR Tamil",
@@ -497,7 +497,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 151250,
       "name": "Callin",
       "url": "https://open.spotify.com/track/21ZfO35yXXVaz68RFq0j1u"
@@ -1257,6 +1257,28 @@
       "duration_ms": 190441,
       "name": "Ilanthalizhe",
       "url": "https://open.spotify.com/track/3WHTMsgJEdVAaNk4C4KUjn"
+    },
+    {
+      "album": {
+        "name": "Iraivi",
+        "url": "https://open.spotify.com/album/6UybZwoEfIp2NkxrvlYy7j"
+      },
+      "artists": [
+        {
+          "name": "Navneeth Sundar",
+          "url": "https://open.spotify.com/artist/5a90LDKvSIgq8c3e8IjZRe"
+        },
+        {
+          "name": "Navya Umesh",
+          "url": "https://open.spotify.com/artist/011CU7FddyoQO8f4JJvgI8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Iraivi",
+      "url": "https://open.spotify.com/track/4wFirzSvCLnSQ6nwtsluYT"
     },
     {
       "album": {
@@ -2440,6 +2462,32 @@
     },
     {
       "album": {
+        "name": "Manithakaari Sevvi",
+        "url": "https://open.spotify.com/album/7xWL735eBbUjdHKPBXL7f0"
+      },
+      "artists": [
+        {
+          "name": "Revaa",
+          "url": "https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc"
+        },
+        {
+          "name": "Bshaa",
+          "url": "https://open.spotify.com/artist/6irJTMyYRu8hCEuOOsPRMh"
+        },
+        {
+          "name": "Gana Vimala",
+          "url": "https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322227,
+      "name": "Manithakaari Sevvi",
+      "url": "https://open.spotify.com/track/01TQhZMxTdsgDs7L76BwD5"
+    },
+    {
+      "album": {
         "name": "Manjakizhange",
         "url": "https://open.spotify.com/album/4oV39FxFImDWG0xgyXnC9H"
       },
@@ -2798,6 +2846,28 @@
     },
     {
       "album": {
+        "name": "Natarajan Naatiyam",
+        "url": "https://open.spotify.com/album/5vwsvybTHEJwPRgPhd77Ff"
+      },
+      "artists": [
+        {
+          "name": "Nixen",
+          "url": "https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb"
+        },
+        {
+          "name": "Smith Asher",
+          "url": "https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210740,
+      "name": "Natarajan Naatiyam",
+      "url": "https://open.spotify.com/track/0byS4yFkICagbCKMctUdm1"
+    },
+    {
+      "album": {
         "name": "Nee Dhaan Parisae (From \"Woh Kaun Thi\") - Single",
         "url": "https://open.spotify.com/album/4zpOiUaT8VbpnBaWDHelSE"
       },
@@ -3013,7 +3083,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 235289,
       "name": "Neeyilla Vaanam",
       "url": "https://open.spotify.com/track/0wHQOJ5iXhKy9M5O5zmOl6"
@@ -3289,7 +3359,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 199553,
       "name": "Ovvoru Ponnukkum - DEAFFROGS RECORDS",
       "url": "https://open.spotify.com/track/7f8jsmd782N8XsqUwk9fV2"
@@ -3979,7 +4049,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 193000,
       "name": "Suger Bomb",
       "url": "https://open.spotify.com/track/4nzsbSuEAIDGtVLN3asIWM"
@@ -4009,10 +4079,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 195500,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/1qmoyvEpWxEzwu7qMdMZ1U"
+    },
+    {
+      "album": {
+        "name": "Tha Pop (DEAFFROGS RECORDS)",
+        "url": "https://open.spotify.com/album/3ycrzrsKtsXmmkS91fUTND"
+      },
+      "artists": [
+        {
+          "name": "TNC",
+          "url": "https://open.spotify.com/artist/5q79L7eL1FmDlIMsBF2u12"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "Tha Pop - DEAFFROGS RECORDS",
+      "url": "https://open.spotify.com/track/1U0idFt6d537Z3OFC0gdk8"
     },
     {
       "album": {
@@ -4973,6 +5061,28 @@
       "duration_ms": 236284,
       "name": "Vittu Pogathae",
       "url": "https://open.spotify.com/track/6pu4KNePO0edNqetGR8AEb"
+    },
+    {
+      "album": {
+        "name": "Vizhi",
+        "url": "https://open.spotify.com/album/55N7GixVbyi5islA1qaMs1"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Anila Rajeev",
+          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282352,
+      "name": "Vizhi",
+      "url": "https://open.spotify.com/track/0yfou1n7Osbq1objkFdawy"
     },
     {
       "album": {

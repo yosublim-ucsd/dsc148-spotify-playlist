@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Planet Giza",
-  "num_followers": 10638,
+  "num_followers": 10658,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmM1MjM2ZGY4OTg2OWEyMDE2ZTgxMjE1NjQyZTJkYWQ5M2Q5MmM5",
+  "snapshot_id": "MCxjYWQzNDczOWMzNWYzNmFlOTU2N2Y5N2I3NDQ2N2YyMWFhMTMxZmEy",
   "tracks": [
     {
       "added_at": "2024-03-08 01:38:34",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-03-08 01:38:34",
       "album": {
+        "name": "4Milli",
+        "url": "https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2"
+      },
+      "artists": [
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "duration_ms": 180748,
+      "name": "Live Up to My Name",
+      "url": "https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh"
+    },
+    {
+      "added_at": "2024-03-08 01:38:34",
+      "album": {
         "name": "Griselda Blanco",
         "url": "https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 207293,
       "name": "Griselda Blanco",
       "url": "https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8"
-    },
-    {
-      "added_at": "2024-03-08 01:38:34",
-      "album": {
-        "name": "4Milli",
-        "url": "https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2"
-      },
-      "artists": [
-        {
-          "name": "Baka Not Nice",
-          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
-        }
-      ],
-      "duration_ms": 180748,
-      "name": "Live Up to My Name",
-      "url": "https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh"
     },
     {
       "added_at": "2024-03-08 01:38:34",
@@ -871,30 +871,6 @@
     {
       "added_at": "2024-03-08 01:38:34",
       "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
-        },
-        {
-          "name": "6ixbuzz",
-          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Mansion",
-      "url": "https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf"
-    },
-    {
-      "added_at": "2024-03-08 01:38:34",
-      "album": {
         "name": "002 / LOVE ME",
         "url": "https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 266599,
       "name": "Come Inside (Kaytranada Edit)",
       "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
+    },
+    {
+      "added_at": "2024-03-08 01:38:34",
+      "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf"
     },
     {
       "added_at": "2024-03-08 01:38:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-08 01:38:34",
       "album": {
-        "name": "While You on Road",
-        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "While You on Road",
-      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
-    },
-    {
-      "added_at": "2024-03-08 01:38:34",
-      "album": {
         "name": "Northside Jane",
         "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 221596,
       "name": "No Favours",
       "url": "https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki"
+    },
+    {
+      "added_at": "2024-03-08 01:38:34",
+      "album": {
+        "name": "While You on Road",
+        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "While You on Road",
+      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
     },
     {
       "added_at": "2024-03-08 01:38:34",

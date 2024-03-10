@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01101110 01100101 01110010 01100100
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,589 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,605 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 30 | [Siberian](https://open.spotify.com/track/39ZViGJuG7zAjh78dxxLNp) | [El Tigr3](https://open.spotify.com/artist/0Z43xNK0ZhtPW2eKi1L1OP) | [Man\-Eater](https://open.spotify.com/album/3fBcR6oHIn8ZvTVYJAa2yS) | 3:44 |
 | 31 | [Night Hawk](https://open.spotify.com/track/0htat9e4HPGRe9WjCxgyyr) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 2:33 |
 | 32 | [Quartz](https://open.spotify.com/track/0X4ChG0plJjTV6NApEOgsT) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [Joshua](https://open.spotify.com/album/3yzN5sQahqRFKNtDM2YZSO) | 5:14 |
-| 33 | [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 |
+| 33 | [Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM) | 3:46 |
 | 34 | [Starfields](https://open.spotify.com/track/4gTl3JQCVkk6YxGVOFBETv) | [Maximum Love](https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ) | [Under the Shadow](https://open.spotify.com/album/3HRv1MX7BRwu1wQv0CMaQp) | 2:59 |
 | 35 | [Melancholia Staroy Pornozvezdy](https://open.spotify.com/track/4dj4UwGoigzV4Fvq8AhLBP) | [AL\-90](https://open.spotify.com/artist/5Um9iF4JwwEyx5K5TW4uE8), [Spurv](https://open.spotify.com/artist/4V5cDBPMMnbdefVmdMLReN) | [Code\-915913](https://open.spotify.com/album/1Pm3pNfib1zckTiH5k22je) | 5:57 |
 | 36 | [RGB](https://open.spotify.com/track/13m5qv9bHI7Q7J9ScWcZd8) | [Scattle](https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA) | [Sketch](https://open.spotify.com/album/7aqeGazGxWGxzPHLfvvByi) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 99 | [Knives](https://open.spotify.com/track/00Po3m9Jz0m5uNedPBw4ma) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 2:20 |
 | 100 | [Grrrrls](https://open.spotify.com/track/49ysUwJ6bPCpI74dI9aGbQ) | [Ricky Eat Acid](https://open.spotify.com/artist/4BO8wK4OAaFsi6PSzs366S) | [Haunt U Forever](https://open.spotify.com/album/0g2PJbscS69UolD4QyS3wp) | 2:01 |
 
-Snapshot ID: `MCwxOTkyYTU5ZTk5NGYwZDMwODBiNDQ1ZjhmNjkyMDQ4OTczNTJlNmEx`
+Snapshot ID: `MCxkY2EwMTA0YjQ2MTE2ZmU4MjM4ZGIzNDEyZGEwZWE4YTVjZDQyYTll`

@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 53857,
+  "2024-03-10": 53895,
   "date_first_scraped": "2022-01-21",
   "description": "\u00a1Mujeres de los Andes, a todo volumen! Con una selecci\u00f3n especial de Ventino.",
   "name": "EQUAL Andes",
@@ -783,7 +783,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 169438,
       "name": "Bossa y Goza",
       "url": "https://open.spotify.com/track/3PCqnL6Vh1ODPA16eQipl0"
@@ -3849,6 +3849,24 @@
       "duration_ms": 178295,
       "name": "Para No Esperarte M\u00e1s",
       "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
+    },
+    {
+      "album": {
+        "name": "Para Variar",
+        "url": "https://open.spotify.com/album/6T4lNaOLKBbWGjg65ZaXtw"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179084,
+      "name": "Para Variar",
+      "url": "https://open.spotify.com/track/4bJ4ysT06LxZ7utoLnqHA0"
     },
     {
       "album": {

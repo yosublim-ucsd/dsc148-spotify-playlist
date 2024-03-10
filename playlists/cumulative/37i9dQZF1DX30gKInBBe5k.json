@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/1TjuQgOgTp3QQahEk43laA"
+      },
+      "artists": [
+        {
+          "name": "Movietone",
+          "url": "https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237960,
+      "name": "Sun Drawing",
+      "url": "https://open.spotify.com/track/70qasR3ndc1ZsWnqPFJ1GD"
+    },
+    {
+      "album": {
         "name": "Day And Night",
         "url": "https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf"
       },
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 237973,
       "name": "Sun Drawing",
       "url": "https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj"

@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Chkoun Kan Ygoul",
+        "url": "https://open.spotify.com/album/4cQRws3OdhjIszeoHmDNXN"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207092,
+      "name": "Chkoun Kan Ygoul",
+      "url": "https://open.spotify.com/track/5AM9SDedaVbz0hbA4IDNTt"
+    },
+    {
+      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/6qL0TJQDp0ifUlPHBjna94"
       },
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 188800,
       "name": "Lili Nhari",
       "url": "https://open.spotify.com/track/3ukdQfWkGzNZN3gxB2us7O"

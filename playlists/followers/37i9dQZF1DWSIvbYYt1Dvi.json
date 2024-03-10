@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 1208133,
+  "2024-03-10": 1208145,
   "date_first_scraped": "2022-01-18",
-  "description": "froid e ecologyk \u00e9 AULAS ",
+  "description": "tasha & tracie \u00e9 AULAS ",
   "name": "AULAS",
   "tracks": [
     {
@@ -43,7 +43,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 216808,
       "name": "12 6 10",
       "url": "https://open.spotify.com/track/2iQMtShAfzwFouW1rJtSqK"
@@ -500,7 +500,7 @@
     },
     {
       "album": {
-        "name": "Acabou, mas tem",
+        "name": "Acabou, mas tem...",
         "url": "https://open.spotify.com/album/3xhjxB13uDwnFf2kh59wxQ"
       },
       "artists": [
@@ -513,7 +513,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235586,
-      "name": "Acabou, mas tem",
+      "name": "Acabou, mas tem...",
       "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
     },
     {
@@ -745,6 +745,32 @@
       "duration_ms": 172592,
       "name": "Areia Azul",
       "url": "https://open.spotify.com/track/5cJPetbFkt9FWHgCcXXbBn"
+    },
+    {
+      "album": {
+        "name": "As Preta Primeiro",
+        "url": "https://open.spotify.com/album/1HsXss4gvRvAJ79OcdkoZw"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157586,
+      "name": "As Preta Primeiro",
+      "url": "https://open.spotify.com/track/7L1JQv9Lg1QFMmiGvUmQDq"
     },
     {
       "album": {
@@ -2094,6 +2120,32 @@
     },
     {
       "album": {
+        "name": "Drop da Santa",
+        "url": "https://open.spotify.com/album/6ObK2QGCtSFaDxDYnKyKyZ"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Rapper Gregory",
+          "url": "https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164512,
+      "name": "Drop da Santa",
+      "url": "https://open.spotify.com/track/4m4ZQv1aPfi4jDpl8Kt5hK"
+    },
+    {
+      "album": {
         "name": "Easy Money",
         "url": "https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow"
       },
@@ -2335,7 +2387,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 130909,
       "name": "Eu Tamb\u00e9m Sou um Anjo",
       "url": "https://open.spotify.com/track/1O1UFctsYibDVbIJbbm7oa"
@@ -4040,6 +4092,28 @@
     },
     {
       "album": {
+        "name": "Negona",
+        "url": "https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP"
+      },
+      "artists": [
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186950,
+      "name": "Negona",
+      "url": "https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv"
+    },
+    {
+      "album": {
         "name": "Negr\u00e3o Demais",
         "url": "https://open.spotify.com/album/6mrxtUYxFHtDSkwZlP4GDW"
       },
@@ -5267,7 +5341,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 157250,
       "name": "Quebra",
       "url": "https://open.spotify.com/track/6vUdkL5RJnozINC7JBl8M3"

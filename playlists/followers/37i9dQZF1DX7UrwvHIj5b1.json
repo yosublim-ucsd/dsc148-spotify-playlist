@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 55143,
+  "2024-03-10": 55187,
   "date_first_scraped": "2023-02-08",
   "description": "Meditative dubstep rhythms for focus and contemplation. ",
   "name": "Deep Rhythm Focus",
@@ -365,6 +365,24 @@
       "duration_ms": 234433,
       "name": "Dread & Buried - Congi Remix",
       "url": "https://open.spotify.com/track/2AuzAvDq4piWEeSsfkZxqp"
+    },
+    {
+      "album": {
+        "name": "Edena EP",
+        "url": "https://open.spotify.com/album/6rIqB2yEtH1t0LqljYNGAN"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/7nbZmY3X0uzRAbFxshaIdl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308571,
+      "name": "Edena",
+      "url": "https://open.spotify.com/track/3fR8wYz7SEral2bTrwCp9t"
     },
     {
       "album": {

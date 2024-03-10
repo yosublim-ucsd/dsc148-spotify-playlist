@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Raim Laode
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,106 likes - 101 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,143 likes - 101 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 100 | [Lebih Dari Teman](https://open.spotify.com/track/3SUux6YLOZiIP3qJgbkPZU) | [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8), [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Lebih Dari Teman](https://open.spotify.com/album/3eZPI989kkozcOz7vyowwI) | 4:07 |
 | 101 | [Serious](https://open.spotify.com/track/37FxRSxWYJCmuBiF8tOlz4) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Serious](https://open.spotify.com/album/70TgrftyNNx9ksNZp2tGcO) | 3:20 |
 
-Snapshot ID: `MCwyN2Y4NDA2ZDA1OTFhNzlhZjUwOWU4MzIxMzFhZjdjYWE4NjcxMjFj`
+Snapshot ID: `MCw5ZGMyZGM3YWJhN2U3MzQxYzg5YmZhMjE2M2U4Yjg0NjJlMjJlNTVi`

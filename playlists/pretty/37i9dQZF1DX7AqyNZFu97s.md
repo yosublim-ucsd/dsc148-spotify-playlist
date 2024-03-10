@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: vi0let\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,612 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,626 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 89 | [Tread Water](https://open.spotify.com/track/78pExR0VWB6OPI0O2dyxJ9) | [Kitty](https://open.spotify.com/artist/6ahDtngazxljB9q5ISidBl) | [Tread Water](https://open.spotify.com/album/1KBQndePX3n5P46yK8t4MY) | 3:34 |
 | 90 | [Caroline](https://open.spotify.com/track/4xCbH4j4W3wqkqNVJCMElL) | [ALICE LILY](https://open.spotify.com/artist/76QfCo8TeN5wtqDoN6PbdQ) | [Caroline](https://open.spotify.com/album/5Fn9vv173RuHWjvONUWgoH) | 3:05 |
 
-Snapshot ID: `MCxlODk1NzNhMzI5Yzg2NTQwZThmZjYzNDA3MDg3OGNhNGI4N2Q2Zjc0`
+Snapshot ID: `MCxiZmZhNzIwNGUzYzcyN2ZmNzBiYjk4ZTI4ODI1OGIyOTQyYjk1ZjMz`

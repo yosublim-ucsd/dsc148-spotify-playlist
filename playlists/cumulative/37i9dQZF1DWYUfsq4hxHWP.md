@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Peytan Porter, Artwork: Fanélie Muselier
 
-2,187 songs - 4 day 22 hr 44 min
+2,189 songs - 4 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,8 @@
 | [Every Boy's Girl](https://open.spotify.com/track/5Abo95RRTF7gNxK43aJIP9) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [From The Writin' Room](https://open.spotify.com/album/4lyLy6TQ4gxsvOjV5acAuI) | 3:09 | 2024-01-31 |  |
 | [Every Girl is You](https://open.spotify.com/track/0lAx3Dr6YfbiYwQybhc7BZ) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Every Girl is You](https://open.spotify.com/album/3N0dPnPvxemLw9DtNTwfyz) | 2:59 | 2022-08-26 | 2022-09-29 |
 | [Every Last Thing](https://open.spotify.com/track/5qQNPkFOoOPT4IAlmHX0yH) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Every Last Thing](https://open.spotify.com/album/4vsOyrjgHxAsxklWp9DJ0X) | 2:44 | 2021-12-01 | 2022-01-13 |
-| [Every Rain](https://open.spotify.com/track/0bcjnTMLmSrCvNtI8VfUCw) | [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ) | [Every Rain](https://open.spotify.com/album/55LqPCrWZZ7nNFicZpSrzD) | 3:16 | 2024-01-31 |  |
+| [Every Rain](https://open.spotify.com/track/0bcjnTMLmSrCvNtI8VfUCw) | [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ) | [Every Rain](https://open.spotify.com/album/55LqPCrWZZ7nNFicZpSrzD) | 3:16 | 2024-01-31 | 2024-03-10 |
+| [Every Rain](https://open.spotify.com/track/4jkjmYDBLnYzaeLTBCUIak) | [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ) | [Every Rain](https://open.spotify.com/album/3OikgceZSRm3YTQa4KW7v5) | 3:16 | 2024-03-06 |  |
 | [Every Road](https://open.spotify.com/track/0Nr7GRIzd2TPnyUR1hoder) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q) | [Every Road](https://open.spotify.com/album/2lFnF6aYb6wOpVvRR79rk7) | 3:32 | 2022-08-03 | 2022-09-15 |
 | [Every Single Summer](https://open.spotify.com/track/3v9UHYWzdGvnFStsYApZ7V) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Every Single Summer](https://open.spotify.com/album/1Wp2dRrTZCwif820AT9MXY) | 2:59 | 2022-01-19 | 2022-03-03 |
 | [Every Small Town](https://open.spotify.com/track/0eX4hoyQtk1ntSiryh5LDa) | [Ben Gallaher](https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ) | [Every Small Town](https://open.spotify.com/album/4F44wmtUjHGWAivAPuthfi) | 3:21 | 2021-12-01 | 2022-01-13 |
@@ -1616,7 +1617,8 @@
 | [She Gets Me](https://open.spotify.com/track/52FbDyE8BA4FUkkVsnmmsi) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [She Gets Me](https://open.spotify.com/album/6cJW1WBOeFnS34C9kvdCwE) | 3:13 | 2023-02-08 | 2023-03-16 |
 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 | 2022-03-09 | 2022-04-27 |
 | [She Is](https://open.spotify.com/track/2RSuopUaWsxa7XtY7DRb5D) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [She Is](https://open.spotify.com/album/7scuY3U3YE0N6H32xHVOuE) | 3:29 | 2023-02-22 | 2023-03-30 |
-| [She Was Mine](https://open.spotify.com/track/6gnvpZnNRNi1vw8HvmCpSo) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Songs From A Breakup](https://open.spotify.com/album/6WLhSEAg80ccThstBTWqvX) | 3:24 | 2024-02-07 |  |
+| [She Was Mine](https://open.spotify.com/track/2M2STJOOUstOvPvWIil46Z) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Songs From A Breakup](https://open.spotify.com/album/7JlXQn8KNUP71CO0cQoxyq) | 3:24 | 2024-03-06 |  |
+| [She Was Mine](https://open.spotify.com/track/6gnvpZnNRNi1vw8HvmCpSo) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Songs From A Breakup](https://open.spotify.com/album/6WLhSEAg80ccThstBTWqvX) | 3:24 | 2024-02-07 | 2024-03-10 |
 | [She's Gonna Be a Song](https://open.spotify.com/track/0ThPck1tugo2TXvobasNM0) | [Travis Cormier](https://open.spotify.com/artist/4soE69pMaq60RVqoIq44XL) | [She's Gonna Be a Song](https://open.spotify.com/album/72reefqHo9ZweEht9O2ben) | 3:26 | 2022-01-12 | 2022-02-03 |
 | [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 | 2023-02-08 | 2024-01-11 |
 | [She's Like Home](https://open.spotify.com/track/0gNbxADNkKJJyeWIS5kWuc) | [Andrew Sullivan](https://open.spotify.com/artist/6QrSGsqr9JHi88EwDyNpr4) | [She's Like Home](https://open.spotify.com/album/5691GHjBdSyNbWG8sNobG7) | 3:18 | 2022-08-26 | 2022-09-29 |

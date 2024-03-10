@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Elephante & SABAI
 
-512 songs - 1 day 6 hr 44 min
+513 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [die 4 u](https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [die 4 u](https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8) | 2:54 | 2022-11-11 |  |
 | [Disappearing Now](https://open.spotify.com/track/2g9vY91OCirbr91b0fEBfa) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/35UyrSOJxObE9RHEVZcQV3) | 4:51 | 2023-01-13 | 2023-04-09 |
 | [Disappearing Now](https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz) | 4:51 | 2022-07-08 | 2023-02-16 |
-| [Discovery](https://open.spotify.com/track/3rtDFSbQvjmXmyoc5Ojab7) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Discovery](https://open.spotify.com/album/0SumNv7k4cSrdQHBx40I4f) | 3:11 | 2023-07-14 |  |
+| [Discovery](https://open.spotify.com/track/3rtDFSbQvjmXmyoc5Ojab7) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Discovery](https://open.spotify.com/album/0SumNv7k4cSrdQHBx40I4f) | 3:11 | 2023-07-14 | 2024-03-10 |
 | [Do Your Worst \(feat\. Elle Vee\)](https://open.spotify.com/track/2gOBTQhnvDRNAhdDBOb4BT) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Do Your Worst \(feat\. Elle Vee\)](https://open.spotify.com/album/5uO7IpFyX5oc7EFMLmmwmg) | 3:48 | 2022-07-08 | 2022-10-09 |
 | [Dodgeball](https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Dodgeball](https://open.spotify.com/album/6uwuw4B8fviW9Wu0awFi1N) | 3:07 | 2022-07-08 | 2023-05-27 |
 | [Don't Call Me](https://open.spotify.com/track/3RpXk1LylSSMccjNwpc18F) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Don’t Call Me](https://open.spotify.com/album/04tMzSuHEiqxK8PY0CsKCy) | 2:48 | 2023-03-24 | 2023-05-13 |
@@ -483,6 +483,7 @@
 | [UNKNOWN](https://open.spotify.com/track/2bm1bTyHpIRq7KPfOO3ToN) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [UNKNOWN](https://open.spotify.com/album/4NIcFYkYS4PkWjwXjJDjwP) | 3:20 | 2022-07-08 | 2023-05-14 |
 | [Urban Forest](https://open.spotify.com/track/4UP19aKl5h6WHQmpd3RYBT) | [Asher Shashaty](https://open.spotify.com/artist/7b8vXsCYaNBpm8ma1nj9Ux), [Rescve](https://open.spotify.com/artist/6tdGwAtXkFQ9OF4nP5ZL3x), [Miyoki](https://open.spotify.com/artist/1jSyzKmwy7ZqeZvZklLSas) | [Urban Forest](https://open.spotify.com/album/6tEcFbSmG7aOa4FxDfFayZ) | 4:19 | 2023-01-06 | 2023-03-04 |
 | [Violet Sky \(feat\. Sarah de Warren\)](https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Violet Sky \(feat\. Sarah de Warren\)](https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf) | 3:48 | 2023-06-30 |  |
+| [Voices](https://open.spotify.com/track/3QFK0Yga88uv2gC8Yz3P8j) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Voices](https://open.spotify.com/album/6kNbjMxKLsoplhgfPomGce) | 3:48 | 2024-03-08 |  |
 | [Waiting](https://open.spotify.com/track/3l5bgBsTb7lx6p72oJ9BWD) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Waiting / Paradise](https://open.spotify.com/album/24aWSkyPzUBq8RCJ2Kprdf) | 5:01 | 2023-09-15 |  |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-07-08 | 2023-04-09 |
 | [Walk On Water \- Love Is Gone pt\. 2](https://open.spotify.com/track/0ow0OPJOJKhvFvWyLqcHFJ) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RØRY](https://open.spotify.com/artist/1DxeVuzqAPt52cgjyGxwIj), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Walk On Water \- Love Is Gone pt\. 2](https://open.spotify.com/album/2vY3bVfVilUcZ9CfsAtb1e) | 6:23 | 2022-07-08 | 2023-03-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Sotam
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,133 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,159 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 40 | [J.O.B](https://open.spotify.com/track/3rtiVqkInMU2EcezNyYKnE) | [Mc Kelvinho](https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [A Moda Antiga](https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA) | 2:20 |
 | 41 | [Falar de Amor](https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP) | [Falar de Amor](https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3) | 3:51 |
 | 42 | [Bebeto & Romário](https://open.spotify.com/track/1UHfOlHWNVRK4jDnTZ4NeO) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Os Irmão Metralha](https://open.spotify.com/album/5CNVRlJD0CosQCBdoVkpyv) | 2:20 |
-| 43 | [Pela Manhã](https://open.spotify.com/track/59kwXEmcc52rvxweb6we9p) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C) | [Menino Barulhento](https://open.spotify.com/album/0osJKRTACneLPJI3f5oQea) | 4:00 |
-| 44 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
+| 43 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
+| 44 | [Pela Manhã](https://open.spotify.com/track/59kwXEmcc52rvxweb6we9p) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C) | [Menino Barulhento](https://open.spotify.com/album/0osJKRTACneLPJI3f5oQea) | 4:00 |
 | 45 | [Victoria's Secrets](https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Gabriel Xan](https://open.spotify.com/artist/48OAXgxXNHMfRgOPGy2oAK), [Doidão Beats](https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm), [PTKA](https://open.spotify.com/artist/4ChHh2DTGIbIUciPmoSxej) | [Victoria's Secrets](https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM) | 3:01 |
 | 46 | [Bandida](https://open.spotify.com/track/1GsOoDPsPpXhW1oJ2nPwNg) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:15 |
 | 47 | [Então Fala](https://open.spotify.com/track/1OPbTsylCpBg0GtrJkKzVs) | [Naul](https://open.spotify.com/artist/1cgvca5ZA1r3sB0cUyY4sM) | [Então Fala](https://open.spotify.com/album/09y2EY8F8K2TL0vw9aW6B1) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Capa Vogue](https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7) | [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Capa Vogue](https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7) | 2:11 |
 | 50 | [Metralha](https://open.spotify.com/track/4QPCbHjLAldR6qH6TZOqdG) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Os Irmão Metralha](https://open.spotify.com/album/5CNVRlJD0CosQCBdoVkpyv) | 3:00 |
 
-Snapshot ID: `MCw4NDZlZDQ2NzgyNTYwMzk5NzJjMGY4NDM1YTJmM2NhY2YyMGM4Mjgx`
+Snapshot ID: `MCw2ZWU1OGIzY2FiNTcyNDQ4ZjdlODdiNWU0NTE2NjdkMmE1Y2RiY2I1`

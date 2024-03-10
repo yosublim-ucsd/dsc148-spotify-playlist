@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Azzecca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975,068 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,975,124 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 68 | [BANANAS](https://open.spotify.com/track/3u1n0tFjgVtUblCLjcmJ9N) | [PUMP!](https://open.spotify.com/artist/5Lf6UvtlHP3ZIsZwE31ZuC) | [BANANAS](https://open.spotify.com/album/0AcsHt2hJ7RFFC96y7KLTL) | 3:16 |
 | 69 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 |
 | 70 | [Forever](https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Forever](https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2) | 4:13 |
-| 71 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Twinsoul](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
+| 71 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
 | 72 | [Regret The Morning](https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Regret The Morning](https://open.spotify.com/album/6tU5eRh9yr1IOBr5vUdx4D) | 2:46 |
 | 73 | [Never Felt \(So Good\)](https://open.spotify.com/track/2qRdBCPYR2mP8ve2kmgxHn) | [Jamie Unknown](https://open.spotify.com/artist/36R06i2wVdVfHNfyyGtrzF) | [Never Felt \(So Good\)](https://open.spotify.com/album/6PBR26ZC1Rxh4bcReXyaeu) | 3:00 |
 | 74 | [Foreign Love](https://open.spotify.com/track/0tV8BcMH8Y2SxRVeNAqNMx) | [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Foreign Love](https://open.spotify.com/album/3X2cNyUuEKzUh742B7YhZy) | 3:09 |
 | 75 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 |
 
-Snapshot ID: `MCw0M2FhNmFmYzI2MjdkY2ExMDg2NGYxNzQ0NTY4MWQxNmZiZGQ1MDAy`
+Snapshot ID: `MCw5M2M0YWM5YWVhNmQ1N2VjODI0YTU3Yjk0OGQzZGJiMDJhMmIxNzMy`

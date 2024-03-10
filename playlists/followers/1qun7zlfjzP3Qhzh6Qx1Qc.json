@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 35001,
+  "2024-03-10": 34998,
   "date_first_scraped": "2023-11-08",
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyonc\u00e9",
   "name": "Country Smash Hits",
@@ -514,6 +514,24 @@
     },
     {
       "album": {
+        "name": "Damn Near Normal",
+        "url": "https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224695,
+      "name": "Damn Near Normal",
+      "url": "https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x"
+    },
+    {
+      "album": {
         "name": "Dark Daze Blues",
         "url": "https://open.spotify.com/album/0b4tUVqtiR2VOoGqNjAsN0"
       },
@@ -781,7 +799,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 296563,
       "name": "God and a Good Man",
       "url": "https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc"
@@ -839,6 +857,24 @@
       "duration_ms": 205568,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5pNFOG7WqeKscjCPm580Nr"
+    },
+    {
+      "album": {
+        "name": "Hard Luck & Circumstances",
+        "url": "https://open.spotify.com/album/2feHLj9w7BcThwGsmBFO1E"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184575,
+      "name": "Hard Luck & Circumstances",
+      "url": "https://open.spotify.com/track/28ejnV7iWD3bIgBXwcTy5k"
     },
     {
       "album": {
@@ -1319,7 +1355,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 272811,
       "name": "Sober Thing",
       "url": "https://open.spotify.com/track/6seAvadjjutVTkggYOh1to"

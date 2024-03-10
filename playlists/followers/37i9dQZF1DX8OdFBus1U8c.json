@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 113004,
+  "2024-03-10": 113177,
   "date_first_scraped": "2023-03-30",
   "description": "Set the bars high with Malayalam Hip-Hop!\nCover : Vedan, Sushin Shyam",
   "name": "Hip-Hop Malayalam",
@@ -789,6 +789,24 @@
       "duration_ms": 183048,
       "name": "Christophonk (From \"Christopher\")",
       "url": "https://open.spotify.com/track/3XXWboGxbRNMBMvDFmrwNx"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2LibHdCD0kbHnJyEsy1QCl"
+      },
+      "artists": [
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/6YLYJEuTASwSvckjFzZ6mJ"
     },
     {
       "album": {
@@ -3093,7 +3111,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 220682,
       "name": "Waste Bins",
       "url": "https://open.spotify.com/track/6veJB3wjtm5dAdQfhTIWUi"

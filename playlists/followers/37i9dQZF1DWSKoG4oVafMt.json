@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 171956,
+  "2024-03-10": 172082,
   "date_first_scraped": "2021-12-28",
   "description": "The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu",
   "name": "Punjabi Pyar",
@@ -4136,6 +4136,24 @@
     },
     {
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/6AWc4FuqgQsYZmfBI8Ib4t"
+      },
+      "artists": [
+        {
+          "name": "Ravneet Singh",
+          "url": "https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190676,
+      "name": "Feelings (Pop)",
+      "url": "https://open.spotify.com/track/0zgYDCKKTVIczmMrMIc20k"
+    },
+    {
+      "album": {
         "name": "Ferozi Koka",
         "url": "https://open.spotify.com/album/58CBHd8bAudqjM2ySjMaqt"
       },
@@ -4941,7 +4959,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 176735,
       "name": "Gulaab",
       "url": "https://open.spotify.com/track/0WBxmNri8xbHC8Kf6P9AlM"
@@ -5509,7 +5527,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 172000,
       "name": "Ik Tera Pyar",
       "url": "https://open.spotify.com/track/41Osutq1zRAUAZWNFijQ4w"
@@ -5583,6 +5601,28 @@
       "duration_ms": 509764,
       "name": "Ikk Taara Tuta - From \"P.R.\"",
       "url": "https://open.spotify.com/track/0XpQ26NbTXPyqCRRCoZ9Zp"
+    },
+    {
+      "album": {
+        "name": "Ikko Jehe",
+        "url": "https://open.spotify.com/album/4QpYtJtoSMKRCHAWHMS9eF"
+      },
+      "artists": [
+        {
+          "name": "Sajjan Adeeb",
+          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
+        },
+        {
+          "name": "Mannat Noor",
+          "url": "https://open.spotify.com/artist/0MhfFmi9REfZWIkztxNYAr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191901,
+      "name": "Ikko Jehe",
+      "url": "https://open.spotify.com/track/0uG6SxCSZUgrzb5yNo2g1e"
     },
     {
       "album": {

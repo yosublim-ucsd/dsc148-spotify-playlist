@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Bryan Behr, DUDA BEAT",
-  "num_followers": 434078,
+  "num_followers": 434084,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGI5MjA0MTJjNTdkYzM4OWNkYjMzYmVhZTc5NzhkZjM1NTZmOTFl",
+  "snapshot_id": "MCxhMTYxNTc3NGFkZWI0ZjA0Mzk4ZjRhNGNiZTQ3NDExYzkzOTViODVh",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Breve",
-        "url": "https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07"
-      },
-      "artists": [
-        {
-          "name": "Marco Baptista",
-          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 213103,
-      "name": "Breve",
-      "url": "https://open.spotify.com/track/5gqsx2xuOtY20Hg4U8rV8x"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Breve",
+        "url": "https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07"
+      },
+      "artists": [
+        {
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 213103,
+      "name": "Breve",
+      "url": "https://open.spotify.com/track/5gqsx2xuOtY20Hg4U8rV8x"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -983,38 +983,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Como Tinha Que Ser",
-        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Como Tinha Que Ser",
-      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Montanha Russa",
-        "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 170965,
-      "name": "Montanha Russa",
-      "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL"
       },
@@ -1035,6 +1003,38 @@
       "duration_ms": 138688,
       "name": "Camomila",
       "url": "https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Montanha Russa",
+        "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 170965,
+      "name": "Montanha Russa",
+      "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Como Tinha Que Ser",
+        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Como Tinha Que Ser",
+      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Quero Bem Mais",
         "url": "https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 197052,
       "name": "Quero Bem Mais",
       "url": "https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Morena Surreal",
+        "url": "https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd"
+      },
+      "artists": [
+        {
+          "name": "Enry Sanches",
+          "url": "https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd"
+        }
+      ],
+      "duration_ms": 214676,
+      "name": "Morena Surreal",
+      "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Lugares",
         "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
       },
@@ -1467,34 +1483,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Morena Surreal",
-        "url": "https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd"
+        "name": "Brincando De Amor",
+        "url": "https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf"
       },
       "artists": [
         {
-          "name": "Enry Sanches",
-          "url": "https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd"
-        }
-      ],
-      "duration_ms": 214676,
-      "name": "Morena Surreal",
-      "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Amanheceu Assim",
-        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
-      },
-      "artists": [
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        },
         {
-          "name": "St\u00e9fano Ferraz",
-          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
+          "name": "Black News",
+          "url": "https://open.spotify.com/artist/3MzyZkQDfVH0qINfbB9WHb"
         }
       ],
-      "duration_ms": 204935,
-      "name": "Amanheceu Assim",
-      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
+      "duration_ms": 155822,
+      "name": "Brincando De Amor",
+      "url": "https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Brincando De Amor",
-        "url": "https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf"
+        "name": "Amanheceu Assim",
+        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
       },
       "artists": [
         {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        },
-        {
-          "name": "Black News",
-          "url": "https://open.spotify.com/artist/3MzyZkQDfVH0qINfbB9WHb"
+          "name": "St\u00e9fano Ferraz",
+          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
         }
       ],
-      "duration_ms": 155822,
-      "name": "Brincando De Amor",
-      "url": "https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ"
+      "duration_ms": 204935,
+      "name": "Amanheceu Assim",
+      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
     },
     {
       "added_at": "2024-03-08 03:00:00",

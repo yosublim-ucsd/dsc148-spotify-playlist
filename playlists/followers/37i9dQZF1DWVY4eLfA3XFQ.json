@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 610724,
+  "2024-03-10": 610867,
   "date_first_scraped": "2021-12-21",
   "description": "Tech house technicians, featuring ACRAZE. 50% techno, 50% house",
   "name": "Tech House Operator",
@@ -23623,7 +23623,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 193488,
       "name": "Shake What Yo Mama",
       "url": "https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd"
@@ -24187,6 +24187,28 @@
       "duration_ms": 218390,
       "name": "Sleep Walk (feat. Liz Cass)",
       "url": "https://open.spotify.com/track/5qZw8Y01dhAluWp6xdk4VV"
+    },
+    {
+      "album": {
+        "name": "Sleep When I'm Dead",
+        "url": "https://open.spotify.com/album/3gNVkWbi0ydkDqPQw5MXyl"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "Associanu",
+          "url": "https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182920,
+      "name": "Sleep When I'm Dead",
+      "url": "https://open.spotify.com/track/30yeok7NHCtILGL5MVmcbE"
     },
     {
       "album": {
@@ -26111,7 +26133,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 228092,
       "name": "Tears on the Dance Floor - Icona Pop DJ Edit",
       "url": "https://open.spotify.com/track/2khogvElDU87ouGOwIhQov"
@@ -28646,6 +28668,24 @@
     },
     {
       "album": {
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225029,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
+    },
+    {
+      "album": {
         "name": "Until The Morning",
         "url": "https://open.spotify.com/album/37pqVZhdyFnml6MFDHPX4d"
       },
@@ -28803,7 +28843,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 183858,
       "name": "Vai",
       "url": "https://open.spotify.com/track/4SMArjoMXS9Gd6j8zl7ime"
@@ -30141,6 +30181,24 @@
       "duration_ms": 180585,
       "name": "Where's Your Head At - Martin Ikin Remix - Edit",
       "url": "https://open.spotify.com/track/0EUgguVSAZFdHY8RSVCBUJ"
+    },
+    {
+      "album": {
+        "name": "While The Record Spins",
+        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "While The Record Spins",
+      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
       "album": {

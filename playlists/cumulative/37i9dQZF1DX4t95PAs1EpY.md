@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-497 songs - 19 hr 5 min
+498 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [Nostalgic Nites](https://open.spotify.com/track/4lPkVjs0htygD9B2XpWfoN) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Nostalgic Nites](https://open.spotify.com/album/6Uw7UIoOaYZ5wfr5VF72WP) | 2:03 | 2023-02-17 |  |
 | [Notes & Notes](https://open.spotify.com/track/5A9hqBLfGSiaxizL4hOqCI) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Notes & Notes](https://open.spotify.com/album/4FMg0ovfJvNeNNoYs8Rn5N) | 1:41 | 2021-12-07 | 2022-05-20 |
 | [Nothing Stays Forever](https://open.spotify.com/track/4xEllGKkPqykeyrmWfFwOT) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [Nothing Stays Forever](https://open.spotify.com/album/2mwWimoYUMqHIuqZc3J5VR) | 3:42 | 2022-11-11 | 2023-02-14 |
-| [Nothing Stays Forever](https://open.spotify.com/track/6McX4XwMmBZeEKW3LeeL7O) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [STILL ALIVE](https://open.spotify.com/album/1P28erNO6UqJiM4m5T4uLY) | 3:42 | 2023-02-07 |  |
+| [Nothing Stays Forever](https://open.spotify.com/track/6McX4XwMmBZeEKW3LeeL7O) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [STILL ALIVE](https://open.spotify.com/album/1P28erNO6UqJiM4m5T4uLY) | 3:42 | 2023-02-07 | 2024-03-10 |
+| [Nothing Stays Forever](https://open.spotify.com/track/5yW8pNbHpiCS92iVcYEeEI) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [STILL ALIVE](https://open.spotify.com/album/6XrrWdMJLMkAmrTGX5Et3w) | 3:42 | 2024-03-08 |  |
 | [Ohio](https://open.spotify.com/track/1yig3lUBlHAjXgDiFrjusj) | [TakeOff](https://open.spotify.com/artist/7byR68EzAwuOWkR0pwZ6DK) | [Ohio](https://open.spotify.com/album/5PFfLTv3qf8QEWcOjvT3hy) | 1:50 | 2021-12-07 | 2022-05-27 |
 | [On Repeat](https://open.spotify.com/track/3fY4AgYbIUJZvz7hl0326O) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [On Repeat](https://open.spotify.com/album/14CoxikyUkUvWAp9itXBjS) | 2:30 | 2021-12-07 |  |
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2021-12-07 | 2022-09-03 |

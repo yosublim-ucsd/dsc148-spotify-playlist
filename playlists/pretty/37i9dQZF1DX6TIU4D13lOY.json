@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 249562,
+  "num_followers": 249658,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzI3ODU0NGIzMDIwYTRlNWY0YzkyOGIxZmE2YTc4MzcxOTMwMTc5",
+  "snapshot_id": "MCwzZjA3NjY0MWZiMDNmMDA2NjVmYTg2ZjdjN2IwM2MwOGE5NzljMjQw",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Eye In The Sky (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
-      },
-      "artists": [
-        {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
-        }
-      ],
-      "duration_ms": 276280,
-      "name": "Eye In The Sky",
-      "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Eye In The Sky (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Eye In The Sky",
+      "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -228,7 +228,7 @@
           "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 198760,
+      "duration_ms": 196826,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza"
-      },
-      "artists": [
-        {
-          "name": "Henry Gross",
-          "url": "https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a"
-        }
-      ],
-      "duration_ms": 233676,
-      "name": "Shannon",
-      "url": "https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "The Best Of The Alessi Brothers",
         "url": "https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 199693,
       "name": "Oh Lori",
       "url": "https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza"
+      },
+      "artists": [
+        {
+          "name": "Henry Gross",
+          "url": "https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a"
+        }
+      ],
+      "duration_ms": 233676,
+      "name": "Shannon",
+      "url": "https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj"
     },
     {
       "added_at": "2020-01-07 15:31:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,790 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,799 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 84 | [baby please no](https://open.spotify.com/track/4hOovG1f9UlDXq7adR4jJi) | [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks), [Hassam Anwar](https://open.spotify.com/artist/1H4fzyg33NrcIRYwpEZrvm) | [baby please no](https://open.spotify.com/album/7qFqGvDCDEu9bwiAImx1ML) | 2:58 |
 | 85 | [Tera He](https://open.spotify.com/track/29e40jsIZoGF6Z5xaTrL44) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Tera He](https://open.spotify.com/album/5KtrNxdzIqQajheVrVCmDn) | 2:48 |
 
-Snapshot ID: `MCxmOWJmNDQzMTgwZjUyY2M0MzE3NzRlZjNmYjU0ZWQ0MGYzZDBkNWM0`
+Snapshot ID: `MCxiNDdiMzA1Y2JhZDM1MWRjZDc4NDg4MjY1NGYwYjcxNmFhMjkyNjE4`

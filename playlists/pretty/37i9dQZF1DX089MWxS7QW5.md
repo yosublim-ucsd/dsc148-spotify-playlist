@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Tabber\(태버\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,849 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,871 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Jimmy Choo](https://open.spotify.com/track/3gut085BLA8hSaWQU6UTaP) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6) | [Jimmy Choo](https://open.spotify.com/album/4ykEEw06qDPMb6Tdsu1w2Z) | 3:17 |
 | 50 | [Stupid \(feat\. Ashley Alisha & J.O.Y\)](https://open.spotify.com/track/1XuzCsFFgxgv2v21pmFZia) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Autumn Night](https://open.spotify.com/album/6OS1NCPPhr5GgQKBXipGCs) | 2:56 |
 
-Snapshot ID: `MCwwN2M2M2RjZGI4MmFjMDU4MDBhNzBkMGU1ZjYwNmUzYzBlZjlhZTAy`
+Snapshot ID: `MCwxNjQwMDZjMzk0OGU5YzYyZWFhZDM0M2VhMDc4ZWY4YTIyOGRlNDNj`

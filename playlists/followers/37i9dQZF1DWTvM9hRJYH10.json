@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 34650,
+  "2024-03-10": 34683,
   "date_first_scraped": "2022-01-02",
   "description": "Music from Nashville's emerging Singers and Songwriters. Cover: Jenna Davis",
   "name": "Young Nashville",
@@ -4437,6 +4437,24 @@
       "duration_ms": 214840,
       "name": "Slide",
       "url": "https://open.spotify.com/track/5bkI1sHZKGz4iFQzPX7GJI"
+    },
+    {
+      "album": {
+        "name": "Small Town Spinnin'",
+        "url": "https://open.spotify.com/album/79wkfXp4TSua9T9pZXMwlX"
+      },
+      "artists": [
+        {
+          "name": "MaRynn Taylor",
+          "url": "https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175897,
+      "name": "Small Town Spinnin'",
+      "url": "https://open.spotify.com/track/1J0o4mivHxK78JwzHAOXoU"
     },
     {
       "album": {

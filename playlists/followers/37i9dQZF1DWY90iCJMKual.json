@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 71101,
+  "2024-03-10": 71184,
   "date_first_scraped": "2022-12-01",
-  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: Felip, PLAYERTWO",
+  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: DEMI. International Women\u2019s Day takeover. Powered by <a href=\"spotify:genre:equal\">EQUAL</a>",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -1147,6 +1147,24 @@
       "duration_ms": 260000,
       "name": "Fuck It (I'm in Love Again)",
       "url": "https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s"
+    },
+    {
+      "album": {
+        "name": "Ganon ka rin?",
+        "url": "https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "Ganon ka rin?",
+      "url": "https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV"
     },
     {
       "album": {
@@ -3597,7 +3615,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 172500,
       "name": "SEEN",
       "url": "https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN"

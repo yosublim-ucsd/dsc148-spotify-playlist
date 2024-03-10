@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Sanjeeta Bhattacharya, Akanksha Sethi, Utsavi Jha & Sanjana Devarajan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,297 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,307 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 7 | [Farzipaney](https://open.spotify.com/track/1oYNeXaGc3PV5RXlFsHtoX) | [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Farzipaney](https://open.spotify.com/album/0JqQvHfOy2uz5rcHFresMq) | 3:48 |
 | 8 | [Shaamil](https://open.spotify.com/track/6UA8XUspm00dmSWR79pVzy) | [Rahi](https://open.spotify.com/artist/28g9DTPD5ZCC8sC9XI1dTs) | [Shaamil](https://open.spotify.com/album/1Bt8eZWC9Hq2T4V8CPe28Q) | 3:52 |
 | 9 | [Tum Mile](https://open.spotify.com/track/55kooTwqs6S0V4BqMKnS3r) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Prashant Marathe](https://open.spotify.com/artist/2j8QqSWMojyNw3aNnRB4kV) | [Tum Mile](https://open.spotify.com/album/4SrwkyadynfTn96r5Yv5oj) | 3:00 |
-| 10 | [Manki Bhasha](https://open.spotify.com/track/6JXLYNIutxzSLLiL7k3dKs) | [Sneha Bhattacharya](https://open.spotify.com/artist/4R3pfd3q5R5aMZcobk8InD) | [Manki Bhasha](https://open.spotify.com/album/15iWzadiIGsQMyQVZ2gg8H) | 3:02 |
+| 10 | [Manki Bhasha](https://open.spotify.com/track/6JXLYNIutxzSLLiL7k3dKs) | [Sneha Bhattacharya](https://open.spotify.com/artist/4R3pfd3q5R5aMZcobk8InD), [Shubham Upreti](https://open.spotify.com/artist/6Fry19RYWfGOZYEU45YlgD) | [Manki Bhasha](https://open.spotify.com/album/15iWzadiIGsQMyQVZ2gg8H) | 3:02 |
 | 11 | [Hayal](https://open.spotify.com/track/1myfx5vlJpQZL3S8jBdoKZ) | [Naad](https://open.spotify.com/artist/0vk6S4KUi6MkvCr9npFoud) | [Hayal](https://open.spotify.com/album/2KkursAWsPSztnS8TP04X1) | 5:19 |
 | 12 | [Lazeez](https://open.spotify.com/track/4mUhdsCpbiIJ8d0iPFmJeL) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Lazeez](https://open.spotify.com/album/4ssEr8PGrOhPXoccbgiQHF) | 3:11 |
 | 13 | [Zahir](https://open.spotify.com/track/1J86cSSBnwaYRnkfg8TmeS) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Zahir](https://open.spotify.com/album/3GX5jwzbv5mxXoq9p58vOQ) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 74 | [Parwaaz](https://open.spotify.com/track/30yLu7ZxVdCC78PeljUek0) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Parwaaz](https://open.spotify.com/album/3Hs3LgTNTl5zZyvbhsdPSm) | 3:30 |
 | 75 | [Arz e Dil](https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Arz e Dil](https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9) | 3:35 |
 
-Snapshot ID: `MCw5MzAzOTEwMzI2ZDFiNGI0YTI4MDQxMjVhMjdiYjQxMjc5ODJlNWZk`
+Snapshot ID: `MCw4YmE4NTQyZGRjMGQ4MjFkZDgzMWVkOThkMDQ0OWQxNzFiMWEyZGIy`

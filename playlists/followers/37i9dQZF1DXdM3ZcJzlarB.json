@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 13860,
+  "2024-03-10": 13874,
   "date_first_scraped": "2022-06-15",
   "description": "Lo nuevo y lo m\u00e1s destacado de la electr\u00f3nica nacional. Portada: Hernan Cattaneo",
   "name": "mint argentina",
@@ -1238,6 +1238,24 @@
     },
     {
       "album": {
+        "name": "Idk y I Like It",
+        "url": "https://open.spotify.com/album/1ZPtTcxbcBqEX67WbPGVpQ"
+      },
+      "artists": [
+        {
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Idk y I Like It",
+      "url": "https://open.spotify.com/track/3yp5b3oVwiFpdcAYwP9Rmj"
+    },
+    {
+      "album": {
         "name": "If I Lose Myself",
         "url": "https://open.spotify.com/album/1g0uCrgBP9mMowv9kFyUUm"
       },
@@ -1403,6 +1421,32 @@
       "duration_ms": 225134,
       "name": "Listen",
       "url": "https://open.spotify.com/track/0L8WTNC0GLcfAXkGMPIolF"
+    },
+    {
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/0doNVmS0C22OOq3wmsGbQK"
+      },
+      "artists": [
+        {
+          "name": "BRYCHTTA",
+          "url": "https://open.spotify.com/artist/11d0mQkJbUfW6S0g0Ka3KS"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        },
+        {
+          "name": "Jose Bonetto",
+          "url": "https://open.spotify.com/artist/4S7xNOFAEJGGEuiF2C6AIY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346285,
+      "name": "LOCOPUNK",
+      "url": "https://open.spotify.com/track/27Up1hF04zoiFrJWhhHDmx"
     },
     {
       "album": {
@@ -2321,6 +2365,24 @@
       "duration_ms": 186309,
       "name": "Sand Waves",
       "url": "https://open.spotify.com/track/19cecQlufpLqz369fFxfWv"
+    },
+    {
+      "album": {
+        "name": "Second Life",
+        "url": "https://open.spotify.com/album/0nHlgpleL6OiRZXwa6ahiM"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Dubiansky",
+          "url": "https://open.spotify.com/artist/2G0Wxv6zcebQJXq1NFKU4M"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377173,
+      "name": "Second Life",
+      "url": "https://open.spotify.com/track/3dsY4DI2jfvMR67FLlUvyG"
     },
     {
       "album": {

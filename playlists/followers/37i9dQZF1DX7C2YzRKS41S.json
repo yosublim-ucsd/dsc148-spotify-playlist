@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 113567,
+  "2024-03-10": 113646,
   "date_first_scraped": "2021-12-28",
-  "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
+  "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
   "name": "Amanhecer na Estrada",
   "tracks": [
     {
@@ -3405,7 +3405,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 264006,
       "name": "Jesus Christ 2005 God Bless America",
       "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
@@ -6693,6 +6693,24 @@
       "duration_ms": 256440,
       "name": "Space & Time",
       "url": "https://open.spotify.com/track/0UF2tfwzIgYT1nw8EEoPkd"
+    },
+    {
+      "album": {
+        "name": "Staring at the Wall",
+        "url": "https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271257,
+      "name": "Staring at the Wall",
+      "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
     },
     {
       "album": {

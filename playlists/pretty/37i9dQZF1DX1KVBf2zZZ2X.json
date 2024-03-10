@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 33303,
+  "num_followers": 33509,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWNjMjE5Y2I1ZWZiMmVmODViOWZhYmRkMGEzNzNhNzFjZWNlN2Yy",
+  "snapshot_id": "MCxiYjdkM2ZiODUxNzU3MmFhYzIxOWFjZmQyNDNjNTQ1NWE1OGZkYmY2",
   "tracks": [
     {
       "added_at": "2024-03-05 12:26:39",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "Open Windows",
-        "url": "https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7"
-      },
-      "artists": [
-        {
-          "name": "Leonore Baldwin",
-          "url": "https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Open Windows",
-      "url": "https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
         "name": "nature",
         "url": "https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "Take a Breath",
-        "url": "https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu"
+        "name": "Open Windows",
+        "url": "https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7"
       },
       "artists": [
         {
-          "name": "Moon Garden",
-          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+          "name": "Leonore Baldwin",
+          "url": "https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Take a Breath",
-      "url": "https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob"
+      "duration_ms": 162374,
+      "name": "Open Windows",
+      "url": "https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -551,6 +535,22 @@
       "duration_ms": 128250,
       "name": "Rhizome",
       "url": "https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
+        "name": "Take a Breath",
+        "url": "https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Take a Breath",
+      "url": "https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "Exploring Nature",
-        "url": "https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV"
-      },
-      "artists": [
-        {
-          "name": "Vidar Arvidsson",
-          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Boreal Forest",
-      "url": "https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
         "name": "Cosmic Major",
         "url": "https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 133714,
       "name": "Cosmic Major",
       "url": "https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
+        "name": "Exploring Nature",
+        "url": "https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Boreal Forest",
+      "url": "https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "Ra\u00f0lj\u00f3st",
-        "url": "https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa"
-      },
-      "artists": [
-        {
-          "name": "Kolbrun Stiger",
-          "url": "https://open.spotify.com/artist/3SCgJVq21LTIQ922B7hCHT"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Ra\u00f0lj\u00f3st",
-      "url": "https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
         "name": "Pentode",
         "url": "https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 159808,
       "name": "Pentode",
       "url": "https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
+        "name": "Ra\u00f0lj\u00f3st",
+        "url": "https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa"
+      },
+      "artists": [
+        {
+          "name": "Kolbrun Stiger",
+          "url": "https://open.spotify.com/artist/3SCgJVq21LTIQ922B7hCHT"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ra\u00f0lj\u00f3st",
+      "url": "https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa"
+        "name": "Morning on a STHLM Island",
+        "url": "https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU"
       },
       "artists": [
         {
-          "name": "Odette Pineda",
-          "url": "https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw"
+          "name": "The Gustaf",
+          "url": "https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2"
         }
       ],
-      "duration_ms": 187035,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM"
+      "duration_ms": 168374,
+      "name": "Morning on a STHLM Island",
+      "url": "https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1083,34 +1083,18 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "Morning on a STHLM Island",
-        "url": "https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa"
       },
       "artists": [
         {
-          "name": "The Gustaf",
-          "url": "https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2"
+          "name": "Odette Pineda",
+          "url": "https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw"
         }
       ],
-      "duration_ms": 168374,
-      "name": "Morning on a STHLM Island",
-      "url": "https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
-        "name": "Da Lat",
-        "url": "https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS"
-      },
-      "artists": [
-        {
-          "name": "Mikki Johansson",
-          "url": "https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT"
-        }
-      ],
-      "duration_ms": 122583,
-      "name": "Da Lat",
-      "url": "https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt"
+      "duration_ms": 187035,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "From the meadow",
-        "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
-      },
-      "artists": [
-        {
-          "name": "Alana Westwood",
-          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
-        }
-      ],
-      "duration_ms": 135144,
-      "name": "Song from the meadow",
-      "url": "https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
         "name": "Treetop Dreamers",
         "url": "https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw"
       },
@@ -1159,6 +1127,38 @@
       "duration_ms": 179813,
       "name": "Treetop Dreamers",
       "url": "https://open.spotify.com/track/1qSrmJpdEh0gbbqXfimXrj"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
+        "name": "Da Lat",
+        "url": "https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS"
+      },
+      "artists": [
+        {
+          "name": "Mikki Johansson",
+          "url": "https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT"
+        }
+      ],
+      "duration_ms": 122583,
+      "name": "Da Lat",
+      "url": "https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
+        "name": "From the meadow",
+        "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
+      },
+      "artists": [
+        {
+          "name": "Alana Westwood",
+          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
+        }
+      ],
+      "duration_ms": 135144,
+      "name": "Song from the meadow",
+      "url": "https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
+        "name": "A Cottage in a Storm",
+        "url": "https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1"
+      },
+      "artists": [
+        {
+          "name": "Birdwalk House",
+          "url": "https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "On the Cottage Floor",
+      "url": "https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
         "name": "Mystic Nature",
         "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 174500,
       "name": "Forest Dreams (432 Hz)",
       "url": "https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
-        "name": "A Cottage in a Storm",
-        "url": "https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1"
-      },
-      "artists": [
-        {
-          "name": "Birdwalk House",
-          "url": "https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "On the Cottage Floor",
-      "url": "https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "Honeydew",
-        "url": "https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y"
-      },
-      "artists": [
-        {
-          "name": "Elois Jacq",
-          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
-        }
-      ],
-      "duration_ms": 120374,
-      "name": "Honeydew",
-      "url": "https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
         "name": "...comes sunshine",
         "url": "https://open.spotify.com/album/27PmpZSLnHo4qjl3f7R7bm"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 187000,
       "name": "...comes sunshine",
       "url": "https://open.spotify.com/track/4HfWzLFR1tHW1rQuzKW3Be"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
+        "name": "Honeydew",
+        "url": "https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "duration_ms": 120374,
+      "name": "Honeydew",
+      "url": "https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1595,8 +1595,8 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "Noruega",
-        "url": "https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx"
+        "name": "Relaxing Dreams",
+        "url": "https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4"
       },
       "artists": [
         {
@@ -1604,9 +1604,9 @@
           "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
         }
       ],
-      "duration_ms": 225019,
-      "name": "Noruega",
-      "url": "https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN"
+      "duration_ms": 281904,
+      "name": "Relaxing Dreams",
+      "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1623,6 +1623,22 @@
       "duration_ms": 161124,
       "name": "Giardino Di Corde",
       "url": "https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
+        "name": "Forest Meditation",
+        "url": "https://open.spotify.com/album/6QglUf9LlWfLggtxTEaiG0"
+      },
+      "artists": [
+        {
+          "name": "Aviaries",
+          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
+        }
+      ],
+      "duration_ms": 177416,
+      "name": "Forest Meditation",
+      "url": "https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1675,6 +1691,22 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
+        "name": "Noruega",
+        "url": "https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx"
+      },
+      "artists": [
+        {
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
+        }
+      ],
+      "duration_ms": 225019,
+      "name": "Noruega",
+      "url": "https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
         "name": "Softly Now",
         "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
       },
@@ -1687,22 +1719,6 @@
       "duration_ms": 148000,
       "name": "Softly Now",
       "url": "https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
-        "name": "Relaxing Dreams",
-        "url": "https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4"
-      },
-      "artists": [
-        {
-          "name": "Mam\u00e1 Valiente",
-          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
-        }
-      ],
-      "duration_ms": 281904,
-      "name": "Relaxing Dreams",
-      "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1755,22 +1771,6 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "Alheimur Nature",
-        "url": "https://open.spotify.com/album/326NrHb78w1mFiCxolY3bK"
-      },
-      "artists": [
-        {
-          "name": "Recov",
-          "url": "https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Alheimur Nature",
-      "url": "https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
         "name": "Ocean Birds",
         "url": "https://open.spotify.com/album/5Yyy0uhrkeLfkWXt0kzETm"
       },
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "Forest Meditation",
-        "url": "https://open.spotify.com/album/6QglUf9LlWfLggtxTEaiG0"
+        "name": "Alheimur Nature",
+        "url": "https://open.spotify.com/album/326NrHb78w1mFiCxolY3bK"
       },
       "artists": [
         {
-          "name": "Aviaries",
-          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
+          "name": "Recov",
+          "url": "https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47"
         }
       ],
-      "duration_ms": 177416,
-      "name": "Forest Meditation",
-      "url": "https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId"
+      "duration_ms": 168500,
+      "name": "Alheimur Nature",
+      "url": "https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
-        "name": "The Old Grandfather Clock",
-        "url": "https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu"
-      },
-      "artists": [
-        {
-          "name": "Birdwalk House",
-          "url": "https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Sparrow",
-      "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
         "name": "Carpology",
         "url": "https://open.spotify.com/album/2HVhkzOKtK1M5yvbRfZdek"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 123500,
       "name": "Carpology",
       "url": "https://open.spotify.com/track/5eTwZHtaPzrRoVtyOUMgx1"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
+        "name": "The Old Grandfather Clock",
+        "url": "https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu"
+      },
+      "artists": [
+        {
+          "name": "Birdwalk House",
+          "url": "https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The Sparrow",
+      "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
     },
     {
       "added_at": "2024-03-05 12:26:39",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2024-03-05 12:26:39",
       "album": {
+        "name": "Don't Know Mind - Forest Sound Bath",
+        "url": "https://open.spotify.com/album/22KgajjdlBD7Ntg4d5cBGl"
+      },
+      "artists": [
+        {
+          "name": "Tsuchida Kasumi",
+          "url": "https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT"
+        }
+      ],
+      "duration_ms": 179308,
+      "name": "Don't Know Mind - Forest Sound Bath",
+      "url": "https://open.spotify.com/track/0l7RsztlECGX9Of6opJMSK"
+    },
+    {
+      "added_at": "2024-03-05 12:26:39",
+      "album": {
         "name": "On Quietude",
         "url": "https://open.spotify.com/album/5Rdpc4zu0Mv5401DI3V7qB"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 168214,
       "name": "On Quietude",
       "url": "https://open.spotify.com/track/5JiXbtZhm8I6O62S3NHqzi"
-    },
-    {
-      "added_at": "2024-03-05 12:26:39",
-      "album": {
-        "name": "Serene Dream",
-        "url": "https://open.spotify.com/album/4wzOVVcBdaUXPhw5Od3cf4"
-      },
-      "artists": [
-        {
-          "name": "Chris Haugen",
-          "url": "https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ"
-        }
-      ],
-      "duration_ms": 271384,
-      "name": "Serene Dream",
-      "url": "https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I"
     }
   ],
   "unique_name": "Soft Nature Music",

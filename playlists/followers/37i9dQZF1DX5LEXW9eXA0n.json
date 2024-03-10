@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 359520,
+  "2024-03-10": 359531,
   "date_first_scraped": "2021-12-21",
   "description": "New & hot K-Pop ballads. (Cover:\bLee Seung Gi(\uc774\uc2b9\uae30)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 259972,
       "name": "As Autumn Brings Cold Wind",
       "url": "https://open.spotify.com/track/6Nrkbf2TodraiIu0BHcFYN"
@@ -2377,6 +2377,24 @@
       "duration_ms": 218680,
       "name": "Boy in time - HUI Solo",
       "url": "https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf"
+    },
+    {
+      "album": {
+        "name": "Boy's Serenade",
+        "url": "https://open.spotify.com/album/2kDI7qKtQA2cO79P6wYqVK"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230333,
+      "name": "Boy\u2032s Serenade",
+      "url": "https://open.spotify.com/track/1cGHfJlCHQIF1RmeC53iuW"
     },
     {
       "album": {
@@ -5976,6 +5994,24 @@
     },
     {
       "album": {
+        "name": "Goodbye, My Love (2024)",
+        "url": "https://open.spotify.com/album/5OPussygFF3EJrzH4VKNKO"
+      },
+      "artists": [
+        {
+          "name": "Nam Hyun",
+          "url": "https://open.spotify.com/artist/2SkIi50NKZaUaQxy70x4bE"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "Goodbye, My Love (2024)",
+      "url": "https://open.spotify.com/track/1HAyBA0Yujb9CpNGKBywng"
+    },
+    {
+      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1"
       },
@@ -7201,6 +7237,28 @@
       "duration_ms": 230511,
       "name": "I hope",
       "url": "https://open.spotify.com/track/5ylBPTi0o2plQ4sFrhzd0s"
+    },
+    {
+      "album": {
+        "name": "I hope",
+        "url": "https://open.spotify.com/album/2ayYO3vjZ35F71IMt1XPxi"
+      },
+      "artists": [
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        },
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275506,
+      "name": "I hope",
+      "url": "https://open.spotify.com/track/20PWPGN3kY6bEoXbC5zHaw"
     },
     {
       "album": {
@@ -9645,7 +9703,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 264146,
       "name": "Lasting Scent",
       "url": "https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf"
@@ -12029,7 +12087,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 288015,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/72NNjExNWdzmGYbFlZ8qK0"
@@ -13676,6 +13734,24 @@
     },
     {
       "album": {
+        "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224413,
+      "name": "Peach Tree",
+      "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
+    },
+    {
+      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -14621,7 +14697,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 255000,
       "name": "Saying Goodbye",
       "url": "https://open.spotify.com/track/5vQboX1LeFD2CmBSjM0zGj"
@@ -14675,7 +14751,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 251906,
       "name": "SCRIBBLE",
       "url": "https://open.spotify.com/track/56Kg60sX4TdHoGpbQNFg8e"
@@ -16369,7 +16445,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 200928,
       "name": "Tears pouring down",
       "url": "https://open.spotify.com/track/3aWYxM7pExfpd8GtkGJoQZ"
@@ -16622,6 +16698,24 @@
     },
     {
       "album": {
+        "name": "That's how we broke up",
+        "url": "https://open.spotify.com/album/74OoVXsuHFVtAcht88SYaI"
+      },
+      "artists": [
+        {
+          "name": "YOONWON",
+          "url": "https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200227,
+      "name": "That's how we broke up",
+      "url": "https://open.spotify.com/track/746MjnzpbYsg1nTeZLIRZg"
+    },
+    {
+      "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A"
       },
@@ -16633,7 +16727,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 231759,
       "name": "That's You",
       "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
@@ -18125,6 +18219,24 @@
       "duration_ms": 101311,
       "name": "TRUST YOUR PACE",
       "url": "https://open.spotify.com/track/1aXBRHkH3zQiTKXAwpuikj"
+    },
+    {
+      "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/5uUDQGaLeElTjvLNlnza8H"
+      },
+      "artists": [
+        {
+          "name": "Im Ga Young",
+          "url": "https://open.spotify.com/artist/6BgU40lKJzHwS6AzWzjEue"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/2rgjOD5RmUh3V6rmx3eLkm"
     },
     {
       "album": {
@@ -21177,6 +21289,24 @@
       "duration_ms": 264461,
       "name": "\uc5b4\ub514\uc120\uac00 \ub098\ucc98\ub7fc \uc774 \ub178\ub7a0 \ub4e3\uace0 \uc788\uc744 \ub108\uc5d0\uac8c",
       "url": "https://open.spotify.com/track/1WXhJfb1BXQbaxQzVdS1zD"
+    },
+    {
+      "album": {
+        "name": "\uc5b8\uc81c\uae4c\uc9c0 \uc6c3\ub294\ucc99\uc744 \ud574\uc57c\ub9cc \ud574",
+        "url": "https://open.spotify.com/album/79WeX3vPX6lEmIzN5lsgyb"
+      },
+      "artists": [
+        {
+          "name": "NUGU",
+          "url": "https://open.spotify.com/artist/3I7aENNIC9ZlMoxrKvPUMV"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257706,
+      "name": "\uc5b8\uc81c\uae4c\uc9c0 \uc6c3\ub294\ucc99\uc744 \ud574\uc57c\ub9cc \ud574",
+      "url": "https://open.spotify.com/track/4dO2IxJCkwsJWa4B8jFWDi"
     },
     {
       "album": {

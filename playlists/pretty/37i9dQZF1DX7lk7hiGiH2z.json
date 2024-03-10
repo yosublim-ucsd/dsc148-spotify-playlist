@@ -1,12 +1,12 @@
 {
   "description": "Genie\u00dft die ersten Sonnenstrahlen mit der ganzen Familie.",
-  "num_followers": 36015,
+  "num_followers": 36062,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTY3NmUxZTI0MTYyNDZhMjIyYjEwNTM0YWI1MTE4YmQxYTQ2OTcy",
+  "snapshot_id": "MCwzMWRiNzJmY2JkMjQ4ZThhNmMzOGI3ODdlZWZiNjNhM2VlZGMxMzc2",
   "tracks": [
     {
       "added_at": "2024-03-01 14:36:42",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
-        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
-      },
-      "artists": [
-        {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
-        }
-      ],
-      "duration_ms": 166816,
-      "name": "Das kleine Kaninchen",
-      "url": "https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
         "name": "Encanto (Deutscher Original Film-Soundtrack)",
         "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 202226,
       "name": "Druck",
       "url": "https://open.spotify.com/track/6lq2ScYLYvIwQwTGEYjFW2"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
+        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 166816,
+      "name": "Das kleine Kaninchen",
+      "url": "https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -807,26 +807,18 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Willkommen auf dem singenden Bauernhof",
-        "url": "https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD"
+        "name": "Fr\u00fchling",
+        "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
       },
       "artists": [
         {
-          "name": "Der singende Bauernhof",
-          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
-        },
-        {
-          "name": "Otti Stubs",
-          "url": "https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB"
-        },
-        {
-          "name": "Sarah Schiffer",
-          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
+          "name": "Reinhard Horn",
+          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
         }
       ],
-      "duration_ms": 119240,
-      "name": "Der singende Bauernhof - Titelsong",
-      "url": "https://open.spotify.com/track/1KTA0xfBwFoqYVHCBqrR4d"
+      "duration_ms": 178186,
+      "name": "Fr\u00fchling, ich hab dich entdeckt!",
+      "url": "https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -855,6 +847,30 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
+        "name": "Willkommen auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        },
+        {
+          "name": "Otti Stubs",
+          "url": "https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB"
+        },
+        {
+          "name": "Sarah Schiffer",
+          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
+        }
+      ],
+      "duration_ms": 119240,
+      "name": "Der singende Bauernhof - Titelsong",
+      "url": "https://open.spotify.com/track/1KTA0xfBwFoqYVHCBqrR4d"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
         "name": "015/Abends im Walde",
         "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
       },
@@ -867,46 +883,6 @@
       "duration_ms": 123320,
       "name": "Fr\u00fchlingslied",
       "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "Fr\u00fchling",
-        "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Horn",
-          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Fr\u00fchling, ich hab dich entdeckt!",
-      "url": "https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "Ich lass mich nicht \u00e4rgern",
-        "url": "https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N"
-      },
-      "artists": [
-        {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
-        },
-        {
-          "name": "Berlin Radio Children's Choir",
-          "url": "https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Ich lass mich nicht \u00e4rgern",
-      "url": "https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -927,6 +903,22 @@
       "duration_ms": 66127,
       "name": "Das Schneegl\u00f6ckchen",
       "url": "https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Fr\u00fchlingsspa\u00df und Osterhas",
+        "url": "https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ"
+      },
+      "artists": [
+        {
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
+        }
+      ],
+      "duration_ms": 146546,
+      "name": "Bunte Blumen auf der Wiese",
+      "url": "https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6"
     }
   ],
   "unique_name": "Familienzeit: Fr\u00fchling",

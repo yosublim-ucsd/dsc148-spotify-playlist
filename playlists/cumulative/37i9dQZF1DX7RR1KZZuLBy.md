@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-246 songs - 22 hr 39 min
+247 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Liberty](https://open.spotify.com/track/2Qjl9RwO2qQZaLpXQgJqIZ) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [Liberty](https://open.spotify.com/album/6OT3uygECDrzpVjGd2rjy3) | 3:57 | 2023-09-15 | 2023-11-03 |
 | [Living Waters](https://open.spotify.com/track/01fqKF13vPT1nnfFtDob60) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Jesu Uyalalela](https://open.spotify.com/album/5TIRsel2yF68JyKn8kTzHP) | 4:52 | 2023-04-21 | 2023-11-03 |
 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 | 2023-04-21 | 2023-12-11 |
-| [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 | 2023-12-15 |  |
+| [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 | 2023-12-15 | 2024-03-10 |
 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 | 2019-08-15 | 2023-11-03 |
 | [Love Theory](https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Love Theory](https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5) | 4:11 | 2019-02-12 | 2023-04-21 |
 | [Makabongwe uJesu](https://open.spotify.com/track/1llOv5AOOgpT1Glx5lXhRg) | [Jumbo](https://open.spotify.com/artist/23GUiGOEzwVMvXhjpO3xYH) | [Siyabonga](https://open.spotify.com/album/58RCw7SK4RdMbATnm0yzdq) | 4:33 | 2023-05-12 | 2023-11-03 |
@@ -163,6 +163,7 @@
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/6ax2Ggo7GekdiKS8rnaQFP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Essential Christian Mix](https://open.spotify.com/album/3u318s3bi0JWwEH3p5zmaJ) | 8:55 | 2020-04-21 | 2022-11-13 |
 | [Oceans \(Where Feet May Fail\) \- Redux](https://open.spotify.com/track/4oxHDhN1my6y0Isk2k7GsV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(X\)](https://open.spotify.com/album/2XKmrW38QMmkXJqn9SgBLR) | 8:11 | 2023-09-15 | 2023-11-10 |
 | [Only Jesus](https://open.spotify.com/track/2txzErQliWk9JMlVNeolNh) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO), [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO), [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Sing Country](https://open.spotify.com/album/0AN0Rl9KP73tWdwJmAA2zv) | 3:48 | 2022-03-17 | 2023-04-28 |
+| [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-01 |  |
 | [Our Nation](https://open.spotify.com/track/1Z4sDTyCOdZbvbwD0SBzrn) | [Heinz Winckler](https://open.spotify.com/artist/5Q1ldmPI95BBLkF8RyPIHF), [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD) | [Our Nation](https://open.spotify.com/album/3SC4tuvjDTwnIsKDCx9jOQ) | 4:15 | 2020-10-09 | 2023-05-12 |
 | [Phendula Imithandazo](https://open.spotify.com/track/3mRQCsQk2RKfW36ZJbG82z) | [Mjakes The Producer](https://open.spotify.com/artist/1xPLC6Bv9F6olLAxpN6XLZ), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Phendula Imithandazo](https://open.spotify.com/album/0rbl6EdViK0hKcMKoPyvMs) | 4:24 | 2023-10-20 | 2023-11-10 |
 | [Planted](https://open.spotify.com/track/2BcDmPEM5hkeiP50TZMknX) | [Pursuit](https://open.spotify.com/artist/35c3E0sZRylpKozlrpO45M) | [iKhaya \(Home\)](https://open.spotify.com/album/5KbJFfhm0Tn8otT1oXkqf9) | 6:38 | 2023-09-29 | 2023-11-03 |

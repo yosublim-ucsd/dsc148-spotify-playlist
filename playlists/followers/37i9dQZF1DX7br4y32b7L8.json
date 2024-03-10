@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 27671,
+  "2024-03-10": 27735,
   "date_first_scraped": "2023-02-25",
   "description": "songs voor je playlist! #fyp",
   "name": "Viral Hits NL",
@@ -933,6 +933,24 @@
       "duration_ms": 182440,
       "name": "B\u00e9cane - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
+    },
+    {
+      "album": {
+        "name": "C'EST LA VIE (Lip Filler)",
+        "url": "https://open.spotify.com/album/2qI0RA6npmX2rv8NSqF5G6"
+      },
+      "artists": [
+        {
+          "name": "Z1NO",
+          "url": "https://open.spotify.com/artist/4bfQkUZTG4S8I7sP8UlXvU"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216841,
+      "name": "C'EST LA VIE (Lip Filler)",
+      "url": "https://open.spotify.com/track/1DZWlEkkYFWrswBQzGkaQ6"
     },
     {
       "album": {

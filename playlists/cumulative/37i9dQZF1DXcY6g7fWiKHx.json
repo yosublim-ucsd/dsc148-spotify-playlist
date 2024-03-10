@@ -3660,6 +3660,28 @@
     {
       "album": {
         "name": "Starlight",
+        "url": "https://open.spotify.com/album/633qkkNEqDVDuJpXV4ddg3"
+      },
+      "artists": [
+        {
+          "name": "AF13",
+          "url": "https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E"
+        },
+        {
+          "name": "Tyesha Blount",
+          "url": "https://open.spotify.com/artist/7ye6DfDfZt0YVuug54vRCz"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359621,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/3hsCeNM5xpc3qdbkafqRjb"
+    },
+    {
+      "album": {
+        "name": "Starlight",
         "url": "https://open.spotify.com/album/3V5dCh9IpkL9Eb5SyZhYQA"
       },
       "artists": [
@@ -3674,7 +3696,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 359621,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/6P7sCwqzJI0WjpZbD3Dq89"

@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 63416,
+  "2024-03-10": 63418,
   "date_first_scraped": "2022-01-09",
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: NEALA",
   "name": "Fresh Finds Indonesia",
@@ -18505,6 +18505,24 @@
       "duration_ms": 97627,
       "name": "Guts",
       "url": "https://open.spotify.com/track/4Nn07nMkw0LncICVwz3rwX"
+    },
+    {
+      "album": {
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/7iFIzslrs0bIh0tSSoamYO"
+      },
+      "artists": [
+        {
+          "name": "Tasha Bouslama",
+          "url": "https://open.spotify.com/artist/1QDSCNOEEgZMBM09n1783e"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203460,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/4so084KAl7FTLcXgfmqvY3"
     },
     {
       "album": {

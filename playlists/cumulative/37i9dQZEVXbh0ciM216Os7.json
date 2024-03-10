@@ -9683,6 +9683,28 @@
     },
     {
       "album": {
+        "name": "Hey Ladies",
+        "url": "https://open.spotify.com/album/044NSaWd8TZdTnbRCt3LkD"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/5VZZNvaaWdBt7t0eGDpKfL"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "Hey Ladies",
+      "url": "https://open.spotify.com/track/6SkugvmoottgZk3XWxIO7P"
+    },
+    {
+      "album": {
         "name": "Don't Mind If We Do",
         "url": "https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ"
       },
@@ -11980,7 +12002,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 167262,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3eo1hxQngQd5mPUfs9xBTs"
@@ -18432,7 +18454,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 365161,
       "name": "Roll Call",
       "url": "https://open.spotify.com/track/0RzetgoIPY1gVQPSRSGeXK"
@@ -25194,7 +25216,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 170633,
       "name": "Wildest Dreams - DragonForce's Version",
       "url": "https://open.spotify.com/track/5JUhpTh0Xuxo1Yd4ivHzbB"
@@ -25816,6 +25838,28 @@
       "duration_ms": 189952,
       "name": "You Know I'm With You (with Claire Wright & Mellodose)",
       "url": "https://open.spotify.com/track/4XsEZRVQTLXiu4motye7bj"
+    },
+    {
+      "album": {
+        "name": "You Know Where You Can Go",
+        "url": "https://open.spotify.com/album/7iDWFBtacfbocn7mWCnRWK"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne Collabos",
+          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201203,
+      "name": "You Know Where You Can Go",
+      "url": "https://open.spotify.com/track/0RwL2Cj7Ap2tsLmCEKYsMB"
     },
     {
       "album": {

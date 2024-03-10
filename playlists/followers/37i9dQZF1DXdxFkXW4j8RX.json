@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 302621,
+  "2024-03-10": 302637,
   "date_first_scraped": "2022-01-24",
   "description": "La casa de lxs MC's. Foto: Flor De Rap",
   "name": "Rap Chileno",
@@ -1465,7 +1465,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 202142,
       "name": "Flow Con Chile",
       "url": "https://open.spotify.com/track/33loMBQRY4NoftPVpi5tXP"
@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 149433,
       "name": "Heiki",
       "url": "https://open.spotify.com/track/4uXtZS82CZFe3cIQXdA1CD"
@@ -2740,6 +2740,28 @@
     },
     {
       "album": {
+        "name": "PAHPAHPAH",
+        "url": "https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt"
+      },
+      "artists": [
+        {
+          "name": "Juan Lopez",
+          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131874,
+      "name": "PAHPAHPAH",
+      "url": "https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef"
+    },
+    {
+      "album": {
         "name": "PEGAJOSA",
         "url": "https://open.spotify.com/album/7bJ3lXlq4EVFUf2ZJjzuBf"
       },
@@ -3505,6 +3527,28 @@
       "duration_ms": 203374,
       "name": "Soldiers",
       "url": "https://open.spotify.com/track/4AewmdlfU0o7v304BYvKgY"
+    },
+    {
+      "album": {
+        "name": "Soy Todo",
+        "url": "https://open.spotify.com/album/2rOtemlRB9ZvBIkUAF88D8"
+      },
+      "artists": [
+        {
+          "name": "DJ TEE",
+          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261336,
+      "name": "Soy Todo",
+      "url": "https://open.spotify.com/track/57f2X9Am4tNzizcxVIcPy8"
     },
     {
       "album": {

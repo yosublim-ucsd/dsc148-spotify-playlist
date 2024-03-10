@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 260809,
+  "2024-03-10": 260875,
   "date_first_scraped": "2021-12-29",
   "description": "Small Island artists taking over the world!",
   "name": "Xport",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 224727,
       "name": "16 Shots",
       "url": "https://open.spotify.com/track/2169IKAivSUUFGcedGASXc"
@@ -1835,7 +1835,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 202013,
       "name": "No Letting Go",
       "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"

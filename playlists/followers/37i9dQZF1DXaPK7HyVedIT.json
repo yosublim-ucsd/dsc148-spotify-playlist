@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 1194416,
+  "2024-03-10": 1194444,
   "date_first_scraped": "2023-07-23",
   "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Felguk, Watzgood",
   "name": "Dance Paradise",
@@ -777,7 +777,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 173333,
       "name": "Booty Pop",
       "url": "https://open.spotify.com/track/3IlA4U5Vca1pF6mutpcLUw"
@@ -1556,6 +1556,32 @@
     },
     {
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
+    },
+    {
+      "album": {
         "name": "End Of The Beginning",
         "url": "https://open.spotify.com/album/4O46V5aJRyrYiINs18RI78"
       },
@@ -1593,7 +1619,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 190595,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/2x5fhx5v2EPX5WnszVGcpY"
@@ -1767,6 +1793,28 @@
       "duration_ms": 213152,
       "name": "Fallen Leaf",
       "url": "https://open.spotify.com/track/3n7JiehINioOhgjaGpdSOu"
+    },
+    {
+      "album": {
+        "name": "Feel Your Touch",
+        "url": "https://open.spotify.com/album/4Wmge8kAedu9UW80MC1TwL"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Feel Your Touch",
+      "url": "https://open.spotify.com/track/4aC4m2wM7wd1uwY8XtrXq2"
     },
     {
       "album": {
@@ -2121,7 +2169,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 187607,
       "name": "Hear Me Now (Alok Remix)",
       "url": "https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n"
@@ -2356,6 +2404,24 @@
     },
     {
       "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/5UM3WxDcuJxZ494yrvP37S"
+      },
+      "artists": [
+        {
+          "name": "Dynamick",
+          "url": "https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177738,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/5nOO2c3fFgUFfUzIN6QTZn"
+    },
+    {
+      "album": {
         "name": "I Can Feel It",
         "url": "https://open.spotify.com/album/6Y80nrIwbNnJKAsRjhe7jV"
       },
@@ -2473,6 +2539,28 @@
       "duration_ms": 179999,
       "name": "If U Need It",
       "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
+    },
+    {
+      "album": {
+        "name": "In Your Life",
+        "url": "https://open.spotify.com/album/5nQrqlyRBi1y4HyuodhLUB"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Apple Gule",
+          "url": "https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "In Your Life",
+      "url": "https://open.spotify.com/track/6IX9PeBeUXYqFJbBxCdBQ5"
     },
     {
       "album": {
@@ -2829,7 +2917,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 148571,
       "name": "Like a Dream",
       "url": "https://open.spotify.com/track/3Ife8v33aqwXZyIGuPLSaJ"
@@ -3129,7 +3217,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
@@ -4330,6 +4418,24 @@
     },
     {
       "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162914,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
+    },
+    {
+      "album": {
         "name": "Speak Up (Slow Motion, Duarte Remix)",
         "url": "https://open.spotify.com/album/5mS4lf4iTrTdwxiCIgdI3Q"
       },
@@ -5221,7 +5327,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 198407,
       "name": "Welcome The Night",
       "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
@@ -5313,6 +5419,24 @@
       "duration_ms": 124142,
       "name": "With You",
       "url": "https://open.spotify.com/track/4pD7ds0WqjF6I5xrRJStkk"
+    },
+    {
+      "album": {
+        "name": "Wonderful World",
+        "url": "https://open.spotify.com/album/6XSo1T7humVgojhUsOCW2a"
+      },
+      "artists": [
+        {
+          "name": "Elekfantz",
+          "url": "https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200950,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/6n2AUUf4E7R9SDw0Yn8LmN"
     },
     {
       "album": {

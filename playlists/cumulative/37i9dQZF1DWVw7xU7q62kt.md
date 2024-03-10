@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-167 songs - 9 hr 7 min
+168 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,13 +47,14 @@
 | [Dusty](https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Dusty](https://open.spotify.com/album/5AuHEai8Ic7ZjJKCJDYVj9) | 3:11 | 2024-02-16 |  |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-22 |
 | [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 |  |
+| [Emerald](https://open.spotify.com/track/5OSGlRXM9SLoEdGAhZ2FoS) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Emerald](https://open.spotify.com/album/4AK1LTE4aVQKdjQGbKCK8k) | 2:50 | 2024-03-08 |  |
 | [Et Lite Øyeblikk Bare \- An NPR Tiny Desk Concert](https://open.spotify.com/track/0gNWFpkw3GFSMVIFwhDJfC) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [At Home \(An NPR Tiny Desk Concert\)](https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77) | 5:20 | 2023-12-08 |  |
 | [Even the Sun](https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Even the Sun](https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG) | 3:26 | 2023-10-13 |  |
 | [Everything We Don't Say](https://open.spotify.com/track/2WpL9ffTMRAafYzdjJ473x) | [Alsogood](https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG) | [Elsewhere](https://open.spotify.com/album/42B90GVqHsrQNOZYOHGOew) | 3:03 | 2024-01-26 |  |
 | [Extra Careless](https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Robert Sput Searight](https://open.spotify.com/artist/2XI18vjUTx9nsGBHMlXxcV), [Mono Neon](https://open.spotify.com/artist/0FlgFDbLxMB0JIAzijg1Cu), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Extra Careless](https://open.spotify.com/album/32IDleorcUx73pIkV3IBeR) | 2:50 | 2023-08-22 |  |
 | [Filigrani](https://open.spotify.com/track/4IWWbsB2He38Nt6TPpwghj) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Filigrani](https://open.spotify.com/album/6UFvVhCn9womYqY42Qj0Z3) | 3:28 | 2023-11-24 |  |
 | [Fire In Detroit](https://open.spotify.com/track/1vpDn2AeBEcKS0hSkbvh4K) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Phil Ranelin](https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1), [Wendell Harrison](https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka) | [Phil Ranelin and Wendell Harrison JID016](https://open.spotify.com/album/5pOeJp4lMFkrQVzIJvXPgl) | 4:59 | 2023-10-13 | 2024-02-29 |
-| [Fire In Detroit](https://open.spotify.com/track/2bfElfcCkUD7CyGqd36sd3) | [Phil Ranelin](https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1), [Wendell Harrison](https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Phil Ranelin and Wendell Harrison JID016](https://open.spotify.com/album/3HJHDhPks17PS9Xygh3c4T) | 4:59 | 2024-02-23 |  |
+| [Fire In Detroit](https://open.spotify.com/track/2bfElfcCkUD7CyGqd36sd3) | [Phil Ranelin](https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1), [Wendell Harrison](https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Phil Ranelin and Wendell Harrison JID016](https://open.spotify.com/album/3HJHDhPks17PS9Xygh3c4T) | 4:59 | 2024-02-23 | 2024-03-10 |
 | [Floatin'](https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB) | [Charlie Calz Beats](https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp) | [Floatin'](https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j) | 1:52 | 2023-08-22 |  |
 | [Focus Up](https://open.spotify.com/track/484tt1h7RV28dZ9swDWhKp) | [Emperose](https://open.spotify.com/artist/0BRMPrv2B9YgQuYQ3H4fja) | [Focus Up](https://open.spotify.com/album/1oweSRD0bh09QJRCedoGkg) | 2:41 | 2023-08-22 |  |
 | [folding edges](https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [folding edges](https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p) | 2:21 | 2023-08-22 |  |

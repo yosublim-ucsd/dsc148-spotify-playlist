@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 145834,
+  "num_followers": 145966,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmIxNzliODc1ZTdkZDg1YTYwOWI4ZjkxNWIxYWZhNTk3NmM2YmRk",
+  "snapshot_id": "MCw3NjE3MGQxZWFjMWVhZjdkM2JkMWMzZDY0ZWEyNTA3ZmQ3NDEyZWI1",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
-      "url": "https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Con el Mariachi de Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar",
         "url": "https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 245133,
       "name": "Inocente Pobre Amigo",
       "url": "https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Tesoros",
-        "url": "https://open.spotify.com/album/3cqWxJrSCEz1iFFLr2vUm6"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 240546,
-      "name": "A\u00fan Estoy de Pie",
-      "url": "https://open.spotify.com/track/3YvbKPUuXXUtbnmcEcYGpp"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Jose Jose 25 A\u00f1os Vol. 2",
         "url": "https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 218333,
       "name": "Piel de Az\u00facar",
       "url": "https://open.spotify.com/track/7qWfrXUmYD2UG82tI0pfKm"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Tesoros",
+        "url": "https://open.spotify.com/album/3cqWxJrSCEz1iFFLr2vUm6"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 240546,
+      "name": "A\u00fan Estoy de Pie",
+      "url": "https://open.spotify.com/track/3YvbKPUuXXUtbnmcEcYGpp"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 323933,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "El Pr\u00edncipe de la Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 242480,
-      "name": "Adi\u00f3s, Princesa",
-      "url": "https://open.spotify.com/track/2NlIbM3lP1XbiJLcUevGwc"
+      "duration_ms": 323933,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1191,6 +1175,22 @@
       "duration_ms": 249546,
       "name": "Con Tu Amor",
       "url": "https://open.spotify.com/track/4cusMbDIB1bt7Z3F8YXxXX"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "El Pr\u00edncipe de la Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 242480,
+      "name": "Adi\u00f3s, Princesa",
+      "url": "https://open.spotify.com/track/2NlIbM3lP1XbiJLcUevGwc"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
-        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Mariachi M\u00e9xico 70 De Pepe L\u00f3pez",
-          "url": "https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Siempre Estoy Pensando en Ti (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
-      "url": "https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 282133,
       "name": "Yo No S\u00e9 Que Me Pas\u00f3",
       "url": "https://open.spotify.com/track/0ZRZzgY6myZ67vLoUcZbsC"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Mariachi M\u00e9xico 70 De Pepe L\u00f3pez",
+          "url": "https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Siempre Estoy Pensando en Ti (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+      "url": "https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp"
     },
     {
       "added_at": "2021-12-29 23:33:57",

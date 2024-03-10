@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Vinka
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,005 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,021 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 28 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 |
 | 29 | [Binkolele](https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ) | [Kataleya & Kandle](https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4) | [Binkolele](https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w) | 3:11 |
 | 30 | [Kyekiliwo](https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyekiliwo](https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6) | 2:55 |
-| 31 | [Q'lalea](https://open.spotify.com/track/0VLklpLJUem9Vt80EFQi5M) | [Chaka Demus](https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN), [Mucho birbo](https://open.spotify.com/artist/66UHS8qt4af4tBrqjccxYH), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Q'lalea](https://open.spotify.com/album/5FBkaeCPyo9SAKYGTz4NTu) | 3:24 |
+| 31 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 |
 | 32 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 |
 | 33 | [Omwenge](https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Omwenge](https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT) | 3:45 |
-| 34 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 |
+| 34 | [Q'lalea](https://open.spotify.com/track/0VLklpLJUem9Vt80EFQi5M) | [Chaka Demus](https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN), [Mucho birbo](https://open.spotify.com/artist/66UHS8qt4af4tBrqjccxYH), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Q'lalea](https://open.spotify.com/album/5FBkaeCPyo9SAKYGTz4NTu) | 3:24 |
 | 35 | [Dreams](https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Dreams](https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH) | 3:06 |
 | 36 | [Gukuba](https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6), [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Gukuba](https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z) | 2:52 |
 | 37 | [Oasis](https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [OASIS](https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV) | 2:30 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 39 | [Ekyama](https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Will84](https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09) | [Ekyama](https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0) | 3:37 |
 | 40 | [Found You](https://open.spotify.com/track/06LtEowrZCsWiV2N2iScwJ) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Naava Grey](https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB) | [Found You](https://open.spotify.com/album/30EZO4mzKiVCNOwKwIz5zx) | 3:45 |
 | 41 | [Not Safe in the West](https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR) | [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [Not Safe in the West](https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic) | 2:58 |
-| 42 | [Baby Don't Go](https://open.spotify.com/track/7ereF3RNh0A92CqVD1Hrd0) | [Bright\-D](https://open.spotify.com/artist/7zPWBifsb7AHKrY2tPXniK), [Livforit](https://open.spotify.com/artist/68uhrd8OUr4OFZmmvvt6Vd), [MUVUNYI](https://open.spotify.com/artist/5L1TL5jBqCs3O2eS1IEB5x) | [Baby Don't Go](https://open.spotify.com/album/24GSq07wjmZqUSR6U1t1tA) | 3:04 |
-| 43 | [Kimugunyu](https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kimugunyu](https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE) | 3:00 |
-| 44 | [Practical](https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 3:11 |
+| 42 | [Kimugunyu](https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kimugunyu](https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE) | 3:00 |
+| 43 | [Practical](https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 3:11 |
+| 44 | [Baby Don't Go](https://open.spotify.com/track/7ereF3RNh0A92CqVD1Hrd0) | [Bright\-D](https://open.spotify.com/artist/7zPWBifsb7AHKrY2tPXniK), [Livforit](https://open.spotify.com/artist/68uhrd8OUr4OFZmmvvt6Vd), [MUVUNYI](https://open.spotify.com/artist/5L1TL5jBqCs3O2eS1IEB5x) | [Baby Don't Go](https://open.spotify.com/album/24GSq07wjmZqUSR6U1t1tA) | 3:04 |
 | 45 | [Muntu Wange](https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Muntu Wange](https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P) | 3:09 |
 | 46 | [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 |
 | 47 | [Tuli Ntinda](https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4) | [Finally](https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh) | 2:50 |
 | 48 | [Love Ganja](https://open.spotify.com/track/2openNGxPDRNjXFH1gA2Y1) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Song Boss](https://open.spotify.com/artist/4RSS0a9hCcQaAADJ67MxtG) | [Love Ganja](https://open.spotify.com/album/6oYTwznr45f7cUSgMT5iCK) | 2:13 |
 | 49 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 |
-| 50 | [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 |
+| 50 | [Yo Body](https://open.spotify.com/track/5IfuuYy11rSQFghYk6RUB2) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Yo Body](https://open.spotify.com/album/4NRlTxbeenzGsRORM3gLPC) | 3:15 |
 
-Snapshot ID: `MCwxZmVmODk4ZDgwMDllM2UyOWNiNDhlOTZmZWZjNmUzODlmMWZhZDM3`
+Snapshot ID: `MCw2ZjkxYWJiOWMyZTQwZDE0Njk1ODk4YzBmMDdjZjY1NmMzNDRhZjIx`

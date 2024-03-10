@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 191411,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/3rtDFSbQvjmXmyoc5Ojab7"
@@ -10624,6 +10624,28 @@
       "duration_ms": 228333,
       "name": "Violet Sky (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6kNbjMxKLsoplhgfPomGce"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3QFK0Yga88uv2gC8Yz3P8j"
     },
     {
       "album": {

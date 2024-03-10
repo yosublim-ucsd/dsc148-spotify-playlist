@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 112671,
+  "2024-03-10": 112687,
   "date_first_scraped": "2022-05-13",
   "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: Sherine",
   "name": "Fresh Arabic Pop",
@@ -4164,6 +4164,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0646\u0627 \u0645\u0634 \u0635\u0648\u062a\u0643",
+        "url": "https://open.spotify.com/album/1iU9abXK45PvgLdKkU2axL"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "\u0623\u0646\u0627 \u0645\u0634 \u0635\u0648\u062a\u0643",
+      "url": "https://open.spotify.com/track/2so4YlyW2pJ2hpkB8mDca3"
+    },
+    {
+      "album": {
         "name": "\u0627\u0628\u0646 \u0627\u0645\u0628\u0627\u0631\u062d",
         "url": "https://open.spotify.com/album/31igzNV5FN0huFzyxNNo1J"
       },
@@ -4979,7 +4997,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 202589,
       "name": "\u0643\u0644\u0648 \u0648\u0647\u0645",
       "url": "https://open.spotify.com/track/3XSlbOYVONZWgHUYsyv1kn"

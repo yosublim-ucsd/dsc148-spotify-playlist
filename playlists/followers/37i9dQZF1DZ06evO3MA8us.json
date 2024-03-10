@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 33029,
+  "2024-03-10": 33039,
   "date_first_scraped": "2023-03-11",
   "description": "This is Passion. The essential tracks, all in one playlist.",
   "name": "This Is Passion",
@@ -225,7 +225,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 277920,
       "name": "All My Hope - Live",
       "url": "https://open.spotify.com/track/0vlrjt3fBV68KuXKLHN6lX"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 291600,
       "name": "How Great Is Our God - Live",
       "url": "https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx"

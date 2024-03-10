@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3BAgmPNIK5IJl7zMK1wvMA">That Mexican OT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,769,844 likes - 105 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,769,926 likes - 105 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 2 | [Finesse](https://open.spotify.com/track/7FCBaE2gGhlWUzUaROPqoV) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [2 Slippery](https://open.spotify.com/album/4C0ygkaQ743p2qKoJSfkmk) | 2:09 |
 | 3 | [Secrets](https://open.spotify.com/track/0Bn39rVvLKs1sVV5bHyhqJ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Secrets](https://open.spotify.com/album/7IloJMuP7iZoBHCmN0IVSR) | 2:28 |
 | 4 | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/track/2EA5h6XD8KB070waaoclje) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2) | 3:11 |
-| 5 | [4AM at Coffee Zone](https://open.spotify.com/track/5LwoAa34wJN6DLVHLs5HA1) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [4AM at Coffee Zone](https://open.spotify.com/album/66NR2OZONVrcKdN8ukHxgX) | 2:45 |
+| 5 | [4AM at Coffee Zone \(Florida Avengers\)](https://open.spotify.com/track/5LwoAa34wJN6DLVHLs5HA1) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [4AM at Coffee Zone \(Florida Avengers\)](https://open.spotify.com/album/66NR2OZONVrcKdN8ukHxgX) | 2:45 |
 | 6 | [Money On My Mind](https://open.spotify.com/track/1gAmZYaDy4ZxE1BabhnT68) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money On My Mind](https://open.spotify.com/album/0Ce9CRbkNFyPqKgiKQPSO6) | 1:59 |
 | 7 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 |
 | 8 | [It's Us \(feat\. Luh Tyler\)](https://open.spotify.com/track/4Bx4S0eeZc3KElNPFYPccn) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [The X Tape \(Deluxe\)](https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4) | 2:33 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 33 | [PAIDNFULL](https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced](https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M) | 1:59 |
 | 34 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 |
 | 35 | [UP, LIT\. FREESTYLE](https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [UP, LIT\. FREESTYLE](https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ) | 1:56 |
-| 36 | [LUXURY](https://open.spotify.com/track/15sNOix5jm0pQ3tyGABCyr) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [RENT DUE](https://open.spotify.com/album/0dBvFFw0BJf90rDVvXY7cv) | 2:06 |
+| 36 | [LUXURY](https://open.spotify.com/track/36mO2Bb1nz4Oq5BhZKniJE) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [RENT DUE](https://open.spotify.com/album/1IoERGFV3rFT4CQVSI17Qr) | 2:06 |
 | 37 | [JUMPIN IN](https://open.spotify.com/track/2ycOgXY3dbujFBd4dJHO9P) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [JUMPIN IN / US](https://open.spotify.com/album/4BQjfJvlt7oCTZ6AhiV2Gr) | 2:43 |
 | 38 | [soak city \(do it\)](https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [lottery pick](https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw) | 2:03 |
 | 39 | [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 104 | [Express Myself](https://open.spotify.com/track/6gMSYXkEiXzHLK09ykXGac) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Express Myself](https://open.spotify.com/album/64JKDU3XXp4VbXSlhh6nHd) | 2:33 |
 | 105 | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/track/71S2e7v71Rcu3CH59pKdE8) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/album/3gNDqJwbeF8MOvSkxugVxS) | 3:33 |
 
-Snapshot ID: `MCw5ZDg2NTdkYzgzNzk3ZGNhZjgyZDJkNjdiNTI3MWI1OWFmNjZiOTIy`
+Snapshot ID: `MCw1MjhkNmM1NjRlNjdkMzk3YjAyNTJlMGNhMGIzMGM3MmIyYTQzMDM1`

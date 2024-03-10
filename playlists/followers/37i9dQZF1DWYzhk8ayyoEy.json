@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 32923,
+  "2024-03-10": 32987,
   "date_first_scraped": "2023-01-07",
   "description": "Warm, inspirational pop, that's good at heart. ",
   "name": "shine",
@@ -371,6 +371,24 @@
       "duration_ms": 170549,
       "name": "Build a Boat (feat. Gabby Barrett)",
       "url": "https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v"
+    },
+    {
+      "album": {
+        "name": "bulletproof",
+        "url": "https://open.spotify.com/album/1hCiqZ2uyJT5fWd4pxWwx0"
+      },
+      "artists": [
+        {
+          "name": "Jamie Fine",
+          "url": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "bulletproof",
+      "url": "https://open.spotify.com/track/4V2bBjCOgiOSNtgrTZL0og"
     },
     {
       "album": {
@@ -988,6 +1006,24 @@
     },
     {
       "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/6rUAGK4TYv78lFKSLTlCVl"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150621,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/13oM9UWEe1c79go5A2DoqZ"
+    },
+    {
+      "album": {
         "name": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (DELUXE)",
         "url": "https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq"
       },
@@ -1115,7 +1151,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 265627,
       "name": "Lift Us Up",
       "url": "https://open.spotify.com/track/4mJ00KHgwBFw2Na0JZxoOy"
@@ -2283,7 +2319,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 157500,
       "name": "You Got My Best",
       "url": "https://open.spotify.com/track/5nvcKHSJgMHXIfz6dKg418"

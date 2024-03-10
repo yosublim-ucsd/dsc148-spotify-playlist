@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 15 likes - 391 songs - 1 day 1 hr 19 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 15 likes - 398 songs - 1 day 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -399,5 +399,12 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 389 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 |
 | 390 | [Ghost of Chicago](https://open.spotify.com/track/1p67QqNBGvikWt0CZmkpDu) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [NOAH](https://open.spotify.com/album/4BIysF8o9wr5FArNPzak2t) | 3:07 |
 | 391 | [Green Flash Sunset](https://open.spotify.com/track/16ihWPgvFtnWjn4s38CRXp) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Green Flash Sunset](https://open.spotify.com/album/49TAkMy0qJzz1UrZqFfg10) | 2:55 |
+| 392 | [Highroad](https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Highroad](https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY) | 3:50 |
+| 393 | [Thieves](https://open.spotify.com/track/6lADdOFLdgO8aIGeFsOtcc) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Thieves](https://open.spotify.com/album/31RduMkBFIzZCUhLuM3jeE) | 3:29 |
+| 394 | [Crazy Bird](https://open.spotify.com/track/4va1JykAJeulnYV0uYkWhF) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [The Runaround](https://open.spotify.com/album/29n2e4SBSxtMmRkPOKElF7) | 3:58 |
+| 395 | [Making Love](https://open.spotify.com/track/5r8SYg3CHqMHlCNSgnCvBo) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Making Love](https://open.spotify.com/album/765mbVGahmLC5VCaE2mzR6) | 3:21 |
+| 396 | [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 |
+| 397 | [Get What You Want](https://open.spotify.com/track/2WhPJ77KAF4TkeyBn8qmEW) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:31 |
+| 398 | [She Want](https://open.spotify.com/track/1Ra4MS4TAzOSE2x1ZBgyYp) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:34 |
 
-Snapshot ID: `MTA5MSxlOGE4NDgxZTQ5N2Y1ODgyMWNiOTg2MjM0NTBlYjVkNWZiMGZkZDA5`
+Snapshot ID: `MTA5OSw0NWQ1Y2FjMTE0MTQxYWIyZWZhOTA5M2QwOGNhZTBkYjcyODEwNWJh`

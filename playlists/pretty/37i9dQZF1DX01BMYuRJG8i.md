@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01BMYuRJG8i.md) - [plain]
 
 > Music from "SHADOWS HOUSE"! /アニメ「シャドーハウス」の楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,656 likes - 30 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,662 likes - 30 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01BMYuRJG8i.md) - [plain]
 | 29 | [お披露目](https://open.spotify.com/track/5eoZ1f0hIRagC9F8mndbMv) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 2:36 |
 | 30 | [絆](https://open.spotify.com/track/1IgwadWZVzEuxIeEKltLW0) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 3:45 |
 
-Snapshot ID: `MCwyNjg3ZWRmY2M2MWQwMjc5MGJlZmM5ZWE4NmNjMmYxNTJmMzQ5NzU4`
+Snapshot ID: `MCwwMjQ0MDViZmU5MGM0OTQxMWI5OWFmODMxYjI0Y2EzYTM3NWQzOTBk`

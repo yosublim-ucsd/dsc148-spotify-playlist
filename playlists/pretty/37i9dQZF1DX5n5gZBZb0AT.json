@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 385732,
+  "num_followers": 386368,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODY5NThjMDA2NTBiY2ViMzM2MTViODlkY2EzMGI3MjIyNThjODVk",
+  "snapshot_id": "MCxkZjhlMmJlMWY5NTY2YzBjMDgzZTA5YmM1M2MwMjJlMTY1ZTYwNzhi",
   "tracks": [
     {
       "added_at": "2024-02-13 14:13:34",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-02-13 14:13:34",
       "album": {
-        "name": "Sequ\u00eancia da Dz7",
-        "url": "https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ"
-      },
-      "artists": [
-        {
-          "name": "TRASHXRL",
-          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 119231,
-      "name": "Sequ\u00eancia da Dz7",
-      "url": "https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7"
-    },
-    {
-      "added_at": "2024-02-13 14:13:34",
-      "album": {
         "name": "Hexada",
         "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 139200,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+    },
+    {
+      "added_at": "2024-02-13 14:13:34",
+      "album": {
+        "name": "Sequ\u00eancia da Dz7",
+        "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
+      },
+      "artists": [
+        {
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "duration_ms": 119184,
+      "name": "Sequ\u00eancia da Dz7",
+      "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
     },
     {
       "added_at": "2024-02-13 14:13:34",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
     },
     {
-      "added_at": "2024-02-13 14:13:34",
-      "album": {
-        "name": "WINTER ARC FUNK",
-        "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
-      },
-      "artists": [
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        }
-      ],
-      "duration_ms": 91875,
-      "name": "WINTER ARC FUNK",
-      "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
-    },
-    {
       "added_at": "2024-02-22 21:19:13",
       "album": {
         "name": "We Fell Apart",
@@ -655,6 +639,22 @@
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
+    },
+    {
+      "added_at": "2024-02-13 14:13:34",
+      "album": {
+        "name": "WINTER ARC FUNK",
+        "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "duration_ms": 91875,
+      "name": "WINTER ARC FUNK",
+      "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
     },
     {
       "added_at": "2024-02-13 14:13:34",

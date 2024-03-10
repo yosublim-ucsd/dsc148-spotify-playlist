@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 743527,
+  "2024-03-10": 743546,
   "date_first_scraped": "2020-12-08",
   "description": "Melt into the Atmospheric Calm with these mellow beats and ambient tones.",
   "name": "Atmospheric Calm",
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 289512,
       "name": "A Rising Wind (Instrumental)",
       "url": "https://open.spotify.com/track/6jC0JJ43NqpbBgY1mf5uZ9"
@@ -438,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Antennae",
+        "url": "https://open.spotify.com/album/0e0jmCeOYj542Untm7XqWN"
+      },
+      "artists": [
+        {
+          "name": "Lumious Dreamer",
+          "url": "https://open.spotify.com/artist/7oZwy1TQhQidpCUTLsPd98"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Antennae",
+      "url": "https://open.spotify.com/track/3P7a523ZweyG0V97exR3OT"
+    },
+    {
+      "album": {
         "name": "Night Walks",
         "url": "https://open.spotify.com/album/0DJF11KZgzQAfhxGxeVE33"
       },
@@ -593,7 +611,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 177230,
       "name": "Awa To Koi",
       "url": "https://open.spotify.com/track/7IuFNGDAQvfaVCwaHFX3d9"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 189795,
       "name": "Far Fetched Sleep",
       "url": "https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv"
@@ -1749,6 +1767,24 @@
       "duration_ms": 203728,
       "name": "Frozen In Time",
       "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
+    },
+    {
+      "album": {
+        "name": "Frozen waves",
+        "url": "https://open.spotify.com/album/0nuSAQCegaaVpIslk2buc4"
+      },
+      "artists": [
+        {
+          "name": "Furna",
+          "url": "https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161111,
+      "name": "Frozen waves",
+      "url": "https://open.spotify.com/track/6RA2OBqaRhntWewbRaFkQQ"
     },
     {
       "album": {
@@ -2094,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "Insightful",
+        "url": "https://open.spotify.com/album/06gZhh1yRVqsA3E6By30MH"
+      },
+      "artists": [
+        {
+          "name": "Noah Florence",
+          "url": "https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165414,
+      "name": "Insightful",
+      "url": "https://open.spotify.com/track/0NlByUffMwnOmFjoGgJNCs"
+    },
+    {
+      "album": {
         "name": "Breaking Point",
         "url": "https://open.spotify.com/album/56BmBSGXSbAQ0OtXqNc5UE"
       },
@@ -2375,7 +2429,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 183529,
       "name": "Komal",
       "url": "https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16"
@@ -3687,6 +3741,24 @@
       "duration_ms": 213787,
       "name": "Serenitivity",
       "url": "https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu"
+    },
+    {
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/03Al5TXt2KUtIo6vZkAxSt"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183001,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/1wlctHlUetiWICWw0ZZViF"
     },
     {
       "album": {

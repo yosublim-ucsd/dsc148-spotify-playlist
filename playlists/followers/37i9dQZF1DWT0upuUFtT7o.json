@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 208534,
+  "2024-03-10": 208584,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Zsela",
   "name": "Fresh Finds Indie",
@@ -10639,6 +10639,24 @@
       "duration_ms": 148853,
       "name": "Easy Going",
       "url": "https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu"
+    },
+    {
+      "album": {
+        "name": "Eating Me Alive",
+        "url": "https://open.spotify.com/album/0DQzRH23fb9Cf01H3ARMB5"
+      },
+      "artists": [
+        {
+          "name": "foamboy",
+          "url": "https://open.spotify.com/artist/1JuU4GHSf0kmi5dOCm1BeS"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254961,
+      "name": "Eating Me Alive",
+      "url": "https://open.spotify.com/track/6I1SWoRsbsSWrdVufccpwx"
     },
     {
       "album": {

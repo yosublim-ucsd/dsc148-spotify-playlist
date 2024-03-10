@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Smooth beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,858 likes - 205 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,015 likes - 205 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 45 | [Mirages](https://open.spotify.com/track/24EO0A4OgkJJMxd3MT5uvj) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Mirages](https://open.spotify.com/album/7gO57WSFQ0xoBH4XRrhSQ3) | 4:08 |
 | 46 | [Mist And Dust](https://open.spotify.com/track/5Js1urkjZ11PkD7cPwUGHb) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Mist And Dust](https://open.spotify.com/album/6UwgOJGv46mupcigqLET9y) | 2:54 |
 | 47 | [passion](https://open.spotify.com/track/61gU1pAQvkVNk634ziWeAJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [passion](https://open.spotify.com/album/5q6jCRB7axn9V3JbHKfdbW) | 2:26 |
-| 48 | [variomatic](https://open.spotify.com/track/1uxCLfcGWYFtwIZVXNy1hw) | [luvuto](https://open.spotify.com/artist/5jjdhw89A0Q9drbfysftNm) | [variomatic](https://open.spotify.com/album/7cptumLYPXisyTPC772YDr) | 1:55 |
+| 48 | [variomatic](https://open.spotify.com/track/1uxCLfcGWYFtwIZVXNy1hw) | [luvuto](https://open.spotify.com/artist/3a7ffdUFmZl09XoSWY58F1) | [variomatic](https://open.spotify.com/album/7cptumLYPXisyTPC772YDr) | 1:55 |
 | 49 | [goodnight moon](https://open.spotify.com/track/37INB6QCytlJLMoRVCrzKE) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [goodnight moon](https://open.spotify.com/album/5DrnhcL4WsBBCTXPCrvC63) | 2:32 |
 | 50 | [Sunday](https://open.spotify.com/track/3fI33pGId8m2csuVaVwIl6) | [Mellow Melt](https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ) | [Sunday](https://open.spotify.com/album/1mYw4GjZIdZMsguUOHn5tW) | 2:15 |
 | 51 | [Mindfeed](https://open.spotify.com/track/3DCTfQKjqFkLOH6h3RsviA) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Mindfeed](https://open.spotify.com/album/0qgpvMEpFqBZncu6mDlCwI) | 2:11 |
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 173 | [Midnight](https://open.spotify.com/track/2ot6dciYtrBq1agHgjwojD) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [Midnight](https://open.spotify.com/album/4gEyeinm1ECFzwKXYbI6SW) | 1:54 |
 | 174 | [A Place To Start](https://open.spotify.com/track/0QK6YzIcxKDXMmNwdsA6Tf) | [Fires In The Dark](https://open.spotify.com/artist/4gFdKcBLSzdrCQpp5XUbCY) | [A Place To Start](https://open.spotify.com/album/6pjmDVcyZDEmeF2SY1sVaa) | 2:15 |
 | 175 | [Loaf Mind](https://open.spotify.com/track/7KfmweUUdQGwA10A72OY7a) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [Vol\. 2](https://open.spotify.com/album/4r7MuuJpINnpOYeLFDibuG) | 1:59 |
-| 176 | [messy](https://open.spotify.com/track/5nvL2YxmnbQyuu7aGrI68K) | [luvuto](https://open.spotify.com/artist/5jjdhw89A0Q9drbfysftNm) | [messy](https://open.spotify.com/album/3630vAsANBxtui6vKFSigL) | 1:36 |
+| 176 | [messy](https://open.spotify.com/track/5nvL2YxmnbQyuu7aGrI68K) | [luvuto](https://open.spotify.com/artist/3a7ffdUFmZl09XoSWY58F1) | [messy](https://open.spotify.com/album/3630vAsANBxtui6vKFSigL) | 1:36 |
 | 177 | [Give in to you](https://open.spotify.com/track/2GYrasXjMJuZKD5WMKrLHs) | [Gachagchi](https://open.spotify.com/artist/4gYhpOBdTKEhnrjRsYrhXe) | [I am the one](https://open.spotify.com/album/0hN15c8jV4wx6Q8PkqWKZf) | 1:44 |
 | 178 | [silk umbrella](https://open.spotify.com/track/6AGzhBwJugJ1koUC5PcVcM) | [gamuri shun](https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N) | [silk umbrella](https://open.spotify.com/album/1SSIOoSuWglZbaZ0S266Nt) | 1:46 |
 | 179 | [Ten Ocean](https://open.spotify.com/track/4rgjOcbLnEyakVKfbvACRL) | [Grandmaster Tilden](https://open.spotify.com/artist/20yERPydly9DkcL45T65uJ) | [Sunshine Breeze](https://open.spotify.com/album/30ggGRKtPaLWpJh6nrptXa) | 2:36 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 204 | [Koya's adventure](https://open.spotify.com/track/3XSX6JQ403W9llQ1CHe9de) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [Koya's adventure](https://open.spotify.com/album/0R3CHnVqDJdINqfgJDaVN7) | 1:58 |
 | 205 | [airless](https://open.spotify.com/track/6mQ7nxbrTeDirFw3wvdFyW) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [kidnapped lofigirl](https://open.spotify.com/album/0QRZoZCgMb4LPmE1ypHKpB) | 1:46 |
 
-Snapshot ID: `MCw0NDYxOTdlMDlmYjg1OTkzMzJlMTg2MzlkMmNkMDVkY2M2NzJkZjUx`
+Snapshot ID: `MCwyY2Y3MGVmNWVhMmU5NTZhZjhjYmY1MmQzZjY3ZGRkNGI1Mzk4MDRj`

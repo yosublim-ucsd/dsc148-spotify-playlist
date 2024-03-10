@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,069 songs - 2 day 13 hr 4 min
+1,070 songs - 2 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [UnhappyNightTime](https://open.spotify.com/track/3mecOlb2x2jotPCvjks6zZ) | [レヴィ・エリファ](https://open.spotify.com/artist/6p4Dh2ZJXotjw5aoNoDQze) | [UnhappyNightTime](https://open.spotify.com/album/45dbvwos7Zvge33pbNsu7l) | 3:38 | 2024-01-09 | 2024-01-19 |
 | [UNION](https://open.spotify.com/track/0FwJwm3UOHhHWQIczIFzz7) | [アーリオ・オーリオ・エ・ペペロンチーノ](https://open.spotify.com/artist/2Dkaqg1r0QSXn526uMA09p) | [UNION](https://open.spotify.com/album/6QIBhxiIb7zpivphOHFsBS) | 3:50 | 2024-02-13 | 2024-02-21 |
 | [Unique](https://open.spotify.com/track/3DyaoTV9RUix1P7jKomn2d) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [Unique](https://open.spotify.com/album/38p2AoETPhydnxMHd7wkMl) | 4:20 | 2022-06-16 | 2022-06-18 |
-| [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 | 2023-12-22 |  |
+| [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 | 2023-12-22 | 2024-03-10 |
 | [Untouchable](https://open.spotify.com/track/060Xp31LRG4Ob8yy700GMG) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Untouchable](https://open.spotify.com/album/1UDryR2OAvsKnKmD15Nfcv) | 3:15 | 2022-06-28 | 2022-07-08 |
 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 | 2024-02-22 |  |
 | [Villain](https://open.spotify.com/track/1fQMilh0Zj2cPUjvBpVmWm) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Villain](https://open.spotify.com/album/6DpOA8kkxXT7a2HgXPrzHH) | 4:03 | 2022-07-12 | 2022-07-27 |
@@ -545,6 +545,7 @@
 | [キュートアグレッション](https://open.spotify.com/track/0BxmdoTgGqbBdgAYFAGvvg) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [キュートアグレッション](https://open.spotify.com/album/4xAGZZWjw4vtwgyIoD47l6) | 0:52 | 2022-06-09 | 2022-06-26 |
 | [キラッテラッテ](https://open.spotify.com/track/2Ugyo7kjFFli9gHf9KfK5A) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [キラッテラッテ](https://open.spotify.com/album/4L3xxw1jTt0q2QfMG5WfLv) | 3:08 | 2024-02-13 |  |
 | [キワメテカワイイ](https://open.spotify.com/track/1hE6pUXp2iNTyvDyXOEMRA) | [七海うらら](https://open.spotify.com/artist/2ozm6qPMgXtjAPowvV1621) | [Prism](https://open.spotify.com/album/5nweChuuGBZ2ws9SOz34iw) | 4:52 | 2024-01-09 | 2024-01-17 |
+| [クラクラ](https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:11 | 2024-03-07 |  |
 | [クリミナ](https://open.spotify.com/track/3BLNrZkS3rPp5PAKBd8n65) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [クリミナ](https://open.spotify.com/album/2nP2srW6dNQuuMiQF2cEyG) | 3:02 | 2024-01-25 | 2024-01-31 |
 | [クレイジーダンス](https://open.spotify.com/track/2eQYa3duBBkLnrH8QXF7uY) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [クレイジーダンス](https://open.spotify.com/album/4RH7UvyyXGGG7g5C0V1nTC) | 3:39 | 2022-06-09 | 2022-06-11 |
 | [クロックワークス](https://open.spotify.com/track/0AV3BrztA96ITVDd0dktl9) | [syudou × まふまふ](https://open.spotify.com/artist/6e8r6bPyKuCasj4mbtoRiK), [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [クロックワークス](https://open.spotify.com/album/3eqqfevg8PZzBmvJUTkpHS) | 3:22 | 2023-02-21 | 2023-02-23 |

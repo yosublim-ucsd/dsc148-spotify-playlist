@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 775505,
+  "2024-03-10": 775577,
   "date_first_scraped": "2023-02-14",
   "description": "essa \u00e9 pros apaixonados",
   "name": "Amor I Love You",
@@ -313,6 +313,28 @@
       "duration_ms": 218266,
       "name": "Apenas Mais uma de Amor",
       "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
+    },
+    {
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207110,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx"
     },
     {
       "album": {
@@ -1159,7 +1181,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
@@ -1860,6 +1882,24 @@
     },
     {
       "album": {
+        "name": "Sad Baile",
+        "url": "https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170614,
+      "name": "Sad Baile",
+      "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
+    },
+    {
+      "album": {
         "name": "Ivete Sangalo",
         "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
       },
@@ -2385,7 +2425,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 181077,
       "name": "Voc\u00ea Humilha - Ao Vivo",
       "url": "https://open.spotify.com/track/5kMKSkbbwi6VHiHDRegH7N"

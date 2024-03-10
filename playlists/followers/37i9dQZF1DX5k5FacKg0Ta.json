@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 10709,
+  "2024-03-10": 10713,
   "date_first_scraped": "2022-09-09",
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
   "name": "Jazzia Suomesta",
@@ -123,6 +123,24 @@
       "duration_ms": 325746,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/70DGWD6Cyl1iuKoEF0e0Sp"
+    },
+    {
+      "album": {
+        "name": "La Grande Odyss\u00e9e",
+        "url": "https://open.spotify.com/album/4CYgMZ3NIUbwMOOIG6Jgg1"
+      },
+      "artists": [
+        {
+          "name": "The Watercolors",
+          "url": "https://open.spotify.com/artist/5xbkbQqKZyoPSK49m7MjmU"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279853,
+      "name": "Adrift",
+      "url": "https://open.spotify.com/track/2MF5PmEeFCudJz87mbQ3aX"
     },
     {
       "album": {
@@ -2452,6 +2470,24 @@
     },
     {
       "album": {
+        "name": "Notbad",
+        "url": "https://open.spotify.com/album/6ysbCFN1LoILYOj5Y46yVb"
+      },
+      "artists": [
+        {
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249044,
+      "name": "Notbad",
+      "url": "https://open.spotify.com/track/2BRWFZdMZpWdEcS13RmVoB"
+    },
+    {
+      "album": {
         "name": "Varo",
         "url": "https://open.spotify.com/album/1v0xTiCWYokedWuVT8GBTW"
       },
@@ -2547,6 +2583,24 @@
       "duration_ms": 295889,
       "name": "Orlo",
       "url": "https://open.spotify.com/track/6JHImit1Hmvx8x7Qx6cAJd"
+    },
+    {
+      "album": {
+        "name": "Paint It Blue",
+        "url": "https://open.spotify.com/album/1vSTZbV19dtlr34CiqjLOx"
+      },
+      "artists": [
+        {
+          "name": "Olli Ahvenlahti",
+          "url": "https://open.spotify.com/artist/67Ab9p2xTxwNzuTZJfAO48"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316854,
+      "name": "Paint It Blue",
+      "url": "https://open.spotify.com/track/0o5TqLCM8VoKMZId4l8BpY"
     },
     {
       "album": {
@@ -3663,6 +3717,32 @@
       "duration_ms": 252826,
       "name": "tiet\u00e4isit vaan",
       "url": "https://open.spotify.com/track/5X9L245qdalFinGKzfIb1C"
+    },
+    {
+      "album": {
+        "name": "Time Manager",
+        "url": "https://open.spotify.com/album/3sR6AtQg0frCrG3FCbIbPP"
+      },
+      "artists": [
+        {
+          "name": "Arto Ik\u00e4valko",
+          "url": "https://open.spotify.com/artist/6fbXrjG4gnY40gjD0LQWgs"
+        },
+        {
+          "name": "Joonas Tuuri",
+          "url": "https://open.spotify.com/artist/39FhDhKtjqPOVn531rYne6"
+        },
+        {
+          "name": "Ville Luukkonen",
+          "url": "https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411280,
+      "name": "Time Manager",
+      "url": "https://open.spotify.com/track/1kfSr4tioostHyKf9yPXVk"
     },
     {
       "album": {

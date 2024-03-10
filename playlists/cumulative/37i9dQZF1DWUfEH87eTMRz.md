@@ -2,7 +2,7 @@
 
 ### [Festival Estéreo Picnic 2024](https://open.spotify.com/playlist/37i9dQZF1DWUfEH87eTMRz)
 
-> Parque Simón Bolívar, Marzo 21, 22, 23 y 24\. Foto: Feid
+> Parque Simón Bolívar, Marzo 21, 22, 23 y 24\. Foto: Sam Smith
 
 168 songs - 10 hr 9 min
 

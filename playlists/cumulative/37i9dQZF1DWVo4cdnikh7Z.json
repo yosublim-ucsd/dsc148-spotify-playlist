@@ -28764,10 +28764,40 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 213333,
       "name": "Zoosa (From \"Vallavan Vaguthadhada\")",
       "url": "https://open.spotify.com/track/1q2nWfPYIn1zldKyc95z5M"
+    },
+    {
+      "album": {
+        "name": "Zoosa (From 'Vallavan Vaguthadhada\")",
+        "url": "https://open.spotify.com/album/23MDadoeMVcGgss21jp3hG"
+      },
+      "artists": [
+        {
+          "name": "Sagishna Xavier",
+          "url": "https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/5qh9JtALCnTCX22BNzoqL5"
+        },
+        {
+          "name": "Vandana Srinivasan",
+          "url": "https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm"
+        },
+        {
+          "name": "Varuon Thushyanthan",
+          "url": "https://open.spotify.com/artist/7I1F56tkI5kgOgsI2VA6At"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Zoosa (From 'Vallavan Vaguthadhada\")",
+      "url": "https://open.spotify.com/track/30g1SznIOfHmiHTqegMj8M"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z"

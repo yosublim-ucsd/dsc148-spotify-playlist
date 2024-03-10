@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Amy Gadiaga\. Artwork: Joy Yamusangie.
 
-1,369 songs - 4 day 12 hr 24 min
+1,370 songs - 4 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,8 @@
 | [Freedom](https://open.spotify.com/track/68QPRGpwH8FE3g70bRDAbn) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Freedom](https://open.spotify.com/album/4OO0rwOyvtmnc3bGpnR3uS) | 3:54 | 2022-03-16 | 2022-04-21 |
 | [Freedom Song](https://open.spotify.com/track/0mKwcDAedUP0d8cNyub6M6) | [Christian Frentzen](https://open.spotify.com/artist/4Iyaicg8eJE4VKlVFahCBh), [Melane](https://open.spotify.com/artist/0tQTnAoprDT22fWfmn1yR1), [Mirta Junco Wambrug](https://open.spotify.com/artist/2Ka2PLF1L5xHyCK7Y751RP), [Tamara Lukasheva](https://open.spotify.com/artist/3snkvov7x2674l6tiwCFAq), [Eduardo Duquesne](https://open.spotify.com/artist/6lw4dvEsVIdQaFKVc00Ex0), [Mehmet Akbaş](https://open.spotify.com/artist/5w7QkcYW5i7OcKgQyVIHBT), [Maryam Akhondy](https://open.spotify.com/artist/4sqZ6DwT69aRaT3iLJ4CHI), [Naomi](https://open.spotify.com/artist/7gQKGxjVG4acu37e7GaTvQ), [Moslem Rahal](https://open.spotify.com/artist/74uLkJ54WgIqfJc4lh4Bgw) | [Freedom Song](https://open.spotify.com/album/5y83ZeDUZUq1FxukZ316nc) | 5:19 | 2023-03-15 | 2023-05-11 |
 | [Fri](https://open.spotify.com/track/7hobbyK1Esg7WF5LoDPlLT) | [Flammer Dance Band](https://open.spotify.com/artist/0M2maCJx5UrjKSWGHQmqOF) | [Fri](https://open.spotify.com/album/0LLBUHL76a0HUtlC2mFnx4) | 4:57 | 2023-03-29 | 2023-05-18 |
-| [From the Fire](https://open.spotify.com/track/7ptZN3udg7LZzmAcT2p85E) | [Audrey Powne](https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm) | [From the Fire](https://open.spotify.com/album/1bbB0rXdfZ8jO7TWuOZMmo) | 4:58 | 2024-03-08 |  |
+| [From the Fire](https://open.spotify.com/track/7lvM9IebiXmefI2k94OaCc) | [Audrey Powne](https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm) | [From The Fire + Instrumental](https://open.spotify.com/album/1YWX3E6gPicRPN97Rksrf3) | 4:58 | 2024-03-08 |  |
+| [From the Fire](https://open.spotify.com/track/7ptZN3udg7LZzmAcT2p85E) | [Audrey Powne](https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm) | [From the Fire](https://open.spotify.com/album/1bbB0rXdfZ8jO7TWuOZMmo) | 4:58 | 2024-03-08 | 2024-03-10 |
 | [Frontline](https://open.spotify.com/track/1ZwQchRRmFIvkKu38j3bPa) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0) | [Frontline](https://open.spotify.com/album/4prDPEeV7EteNa1m4sj0Ei) | 4:46 | 2022-03-09 | 2022-04-14 |
 | [Fruta de Andalucía](https://open.spotify.com/track/17rs7TS0p3jZXqe5tAZJCd) | [LADBREAKS](https://open.spotify.com/artist/6oYyVSxlrGPSiVzl8274Da) | [Travel](https://open.spotify.com/album/2q0I4dkNYvFrYITlJ8vG4T) | 4:40 | 2022-05-18 | 2022-06-16 |
 | [Funeka](https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [Funeka](https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5) | 4:03 | 2023-11-01 | 2023-12-09 |

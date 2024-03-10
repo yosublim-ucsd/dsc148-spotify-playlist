@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 39209,
+  "2024-03-10": 39301,
   "date_first_scraped": "2021-12-21",
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
   "name": "Hip-Hop & R&B for Kids",
@@ -1011,10 +1011,32 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 182357,
       "name": "I Am Love, I Am Light",
       "url": "https://open.spotify.com/track/4Pze9m7sM29Q4UfGrH1fox"
+    },
+    {
+      "album": {
+        "name": "I Am Love, I Am Light (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/3cFXhn6QHPY2VqwJTUwirO"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175833,
+      "name": "I Am Love, I Am Light - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/6MGDiGjJlLgoqlc4K1zFU6"
     },
     {
       "album": {
@@ -1591,6 +1613,24 @@
       "duration_ms": 163356,
       "name": "Months Of The Year",
       "url": "https://open.spotify.com/track/2lfQDNdqoCxdKC0Ixcmxnt"
+    },
+    {
+      "album": {
+        "name": "NO BULLY ZONE",
+        "url": "https://open.spotify.com/album/2kF2YdgplUMr4snQdE6XGU"
+      },
+      "artists": [
+        {
+          "name": "Coach Kody",
+          "url": "https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84705,
+      "name": "NO BULLY ZONE",
+      "url": "https://open.spotify.com/track/7FZKNZn3aTCUYfUeG8YubE"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 616999,
+  "2024-03-10": 617040,
   "date_first_scraped": "2022-01-24",
-  "description": "Muerejoven en la casa del Trap Argentino.",
+  "description": "JGonz & xuxu en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -2044,6 +2044,28 @@
     },
     {
       "album": {
+        "name": "Glopeta Negro Mate",
+        "url": "https://open.spotify.com/album/6y2ienRWYtxjOr39PrgcK5"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Riky Produce",
+          "url": "https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Glopeta Negro Mate",
+      "url": "https://open.spotify.com/track/66Yu3bkomkikDlnYaT2Hkb"
+    },
+    {
+      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg"
       },
@@ -3170,6 +3192,28 @@
     },
     {
       "album": {
+        "name": "Muy Pero No Tan",
+        "url": "https://open.spotify.com/album/2yzAXEbbmP0RqqANr65mmJ"
+      },
+      "artists": [
+        {
+          "name": "J Gonz",
+          "url": "https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL"
+        },
+        {
+          "name": "xuxu",
+          "url": "https://open.spotify.com/artist/0emznN01VIIhfW6kU2MXhs"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Muy Pero No Tan",
+      "url": "https://open.spotify.com/track/23hH3STU4sRLhYkSPVXZtj"
+    },
+    {
+      "album": {
         "name": "MVP'",
         "url": "https://open.spotify.com/album/5GKvvVEt9IIWMjsJYOF382"
       },
@@ -3955,7 +3999,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 189295,
       "name": "Pro Player",
       "url": "https://open.spotify.com/track/3WJnf9Xe51wEmCPzrYFihE"
@@ -4487,7 +4531,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 133272,
       "name": "Si lo ve Mam\u00e1",
       "url": "https://open.spotify.com/track/6ysA09ikVJH2DmnYy3IGSt"

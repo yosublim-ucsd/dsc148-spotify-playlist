@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130848,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98"
+    },
+    {
+      "album": {
         "name": "Trampoline",
         "url": "https://open.spotify.com/album/4nwy1TZpVSYvtPeKy6RKmP"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 28951,
+  "2024-03-10": 28970,
   "date_first_scraped": "2023-08-09",
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
   "name": "lofi mexa",
@@ -330,6 +330,28 @@
     },
     {
       "album": {
+        "name": "Place Of Time",
+        "url": "https://open.spotify.com/album/0Cyx07qXiAhlKaheWrMgrY"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Being Honest",
+      "url": "https://open.spotify.com/track/18hhnu42fi5F8rCnjauy8m"
+    },
+    {
+      "album": {
         "name": "Terra Incognita",
         "url": "https://open.spotify.com/album/2HE2I2GlIegVhwEMFLgMz5"
       },
@@ -417,6 +439,28 @@
       "duration_ms": 140000,
       "name": "Buena Onda",
       "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "album": {
+        "name": "bumpz",
+        "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121734,
+      "name": "bumpz",
+      "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
     },
     {
       "album": {
@@ -522,6 +566,50 @@
     },
     {
       "album": {
+        "name": "Chiflele",
+        "url": "https://open.spotify.com/album/2VVj8GhWnsfQ5p9ZLzjj7R"
+      },
+      "artists": [
+        {
+          "name": "ELEWAKA",
+          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Chiflele",
+      "url": "https://open.spotify.com/track/0CBDHQKcFrBfAkRzw3fbp5"
+    },
+    {
+      "album": {
+        "name": "Childhood Memories",
+        "url": "https://open.spotify.com/album/38QHeGs8XYADPWw315Epww"
+      },
+      "artists": [
+        {
+          "name": "Cloud E Daze",
+          "url": "https://open.spotify.com/artist/3L5niHcXdIPYCUlW937719"
+        },
+        {
+          "name": "yyoverr",
+          "url": "https://open.spotify.com/artist/5mXVW80gQPz7exF6JETNLu"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123582,
+      "name": "Childhood Memories",
+      "url": "https://open.spotify.com/track/4njcxrlpOJPF22YZawLuFC"
+    },
+    {
+      "album": {
         "name": "Chillaquil",
         "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
       },
@@ -591,7 +679,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 149040,
       "name": "Conchitas",
       "url": "https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7"
@@ -1773,7 +1861,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 137196,
       "name": "loving",
       "url": "https://open.spotify.com/track/3ARGtxntpoIsQfZdnBHZC6"
@@ -1831,7 +1919,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 167807,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/6I6t6DkS15e6BQx41qmd9h"
@@ -1853,7 +1941,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 76800,
       "name": "Mexico City, Mexico",
       "url": "https://open.spotify.com/track/3NwIPWV0d9qFZIjHAXqAqq"
@@ -2220,6 +2308,24 @@
     },
     {
       "album": {
+        "name": "Poco Amigo",
+        "url": "https://open.spotify.com/album/2EcMIcshwSzdJAh8WGhg90"
+      },
+      "artists": [
+        {
+          "name": "WX//CLTV",
+          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97093,
+      "name": "Poco Amigo",
+      "url": "https://open.spotify.com/track/5v2jo7WEmcQ1JGZv785jF1"
+    },
+    {
+      "album": {
         "name": "Ramito de Violetas",
         "url": "https://open.spotify.com/album/17ztHokcDbkWlHbij2grmv"
       },
@@ -2368,6 +2474,28 @@
     },
     {
       "album": {
+        "name": "Sleepy Suburbs",
+        "url": "https://open.spotify.com/album/7aRJBLnUsOAc7Gzaz9e3TV"
+      },
+      "artists": [
+        {
+          "name": "J. Lorenzo",
+          "url": "https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN"
+        },
+        {
+          "name": "Dormilon",
+          "url": "https://open.spotify.com/artist/5h6fEVz6nTxEzv5JXJKa1P"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Sleepy Suburbs",
+      "url": "https://open.spotify.com/track/0UEqYDmve0snOYnJ0qOXP8"
+    },
+    {
+      "album": {
         "name": "sol",
         "url": "https://open.spotify.com/album/1H46AyYosdxrhuROEbTHms"
       },
@@ -2459,7 +2587,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 135652,
       "name": "Sundown Reflections",
       "url": "https://open.spotify.com/track/5ss1SSBpwUrhz1ibWzNiJm"
@@ -2751,7 +2879,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 144283,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"

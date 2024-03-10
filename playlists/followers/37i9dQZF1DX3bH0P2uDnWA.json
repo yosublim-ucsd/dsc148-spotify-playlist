@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 378762,
+  "2024-03-10": 378788,
   "date_first_scraped": "2021-12-21",
   "description": "Bringing the roaring 20s into the 2020s",
   "name": "Electro Swing",
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 157187,
       "name": "Crazy Cat",
       "url": "https://open.spotify.com/track/1WeIE004KxqkSqL9llndbV"
@@ -1097,6 +1097,24 @@
       "duration_ms": 184077,
       "name": "Cream Soda",
       "url": "https://open.spotify.com/track/1HVrQh0RCA0H2cFb82Kje9"
+    },
+    {
+      "album": {
+        "name": "Dance (To Save Your Soul) [Electro Swing Radio Mix]",
+        "url": "https://open.spotify.com/album/1bhoYgDywsI5Nq8i7SCE3v"
+      },
+      "artists": [
+        {
+          "name": "Swing Sonix",
+          "url": "https://open.spotify.com/artist/73nuKeY2fd6Vd3j5jooqMk"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148278,
+      "name": "Dance (To Save Your Soul) - Electro Swing Radio Mix",
+      "url": "https://open.spotify.com/track/3pXQOgmtcy2AVysJuXKsxP"
     },
     {
       "album": {
@@ -2427,6 +2445,24 @@
       "duration_ms": 216352,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/0HKfe28JBiCJChmtcYrgmO"
+    },
+    {
+      "album": {
+        "name": "Hips That Swing",
+        "url": "https://open.spotify.com/album/7H6S9MScSyaXWG2yS5AVbe"
+      },
+      "artists": [
+        {
+          "name": "11 Acorn Lane",
+          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177916,
+      "name": "Hips That Swing",
+      "url": "https://open.spotify.com/track/42Vq47dELW8UIwXnIpLhl6"
     },
     {
       "album": {
@@ -4607,7 +4643,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 178084,
       "name": "Rug Cutter",
       "url": "https://open.spotify.com/track/2cpJJubKd3E8DiRZvnNgJZ"

@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 453829,
+  "2024-03-10": 453871,
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Meek Mill",
+  "description": "Up and down I-95. Cover: Cardi B",
   "name": "State of Mind",
   "tracks": [
     {
@@ -203,7 +203,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 199075,
       "name": "1998",
       "url": "https://open.spotify.com/track/5K7gHsFBKJ5iL0DTFpvQ5z"
@@ -349,6 +349,28 @@
       "duration_ms": 137706,
       "name": "2daside",
       "url": "https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8"
+    },
+    {
+      "album": {
+        "name": "GMTO Vol. 2 (Get Money Take Over)",
+        "url": "https://open.spotify.com/album/4Rlq4phDZy1DmoL1S7WOws"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        },
+        {
+          "name": "Kenzo B",
+          "url": "https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122251,
+      "name": "2Deep (feat. Kenzo B)",
+      "url": "https://open.spotify.com/track/6Zj3a93pZzni1VZNhxkFt3"
     },
     {
       "album": {
@@ -1706,6 +1728,32 @@
     },
     {
       "album": {
+        "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
+        "url": "https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
+      "url": "https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y"
+    },
+    {
+      "album": {
         "name": "Bent",
         "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
       },
@@ -2872,6 +2920,24 @@
     },
     {
       "album": {
+        "name": "Bryce Maximus",
+        "url": "https://open.spotify.com/album/0OzKbmrRLh7ToOI0Yqcnpk"
+      },
+      "artists": [
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78419,
+      "name": "Bryce Maximus",
+      "url": "https://open.spotify.com/track/4BVMNx3KFSLJXmMkrDn6Ai"
+    },
+    {
+      "album": {
         "name": "BSU (Shut Up)",
         "url": "https://open.spotify.com/album/5JJb31BBbCqMk1NScx7bw3"
       },
@@ -3261,6 +3327,28 @@
       "duration_ms": 185376,
       "name": "Chaa Chaa Chaa (feat. HoodCelebrityy)",
       "url": "https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ"
+    },
+    {
+      "album": {
+        "name": "Lavish Misery",
+        "url": "https://open.spotify.com/album/73VpGECa5lE0BM4t0YvVsV"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Chain of Command",
+      "url": "https://open.spotify.com/track/3TsHZSMdRyb8dPcOJi37bz"
     },
     {
       "album": {
@@ -3877,6 +3965,24 @@
       "duration_ms": 197593,
       "name": "COUNTING SHEEP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar"
+    },
+    {
+      "album": {
+        "name": "Crazy Story",
+        "url": "https://open.spotify.com/album/0PLMeXmt7b9iT01li0lzZm"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116394,
+      "name": "Crazy Story",
+      "url": "https://open.spotify.com/track/0YQQWN2wpo5qHSwmWmhRoG"
     },
     {
       "album": {
@@ -6803,7 +6909,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
@@ -7625,7 +7731,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 122355,
       "name": "Gotta Choose",
       "url": "https://open.spotify.com/track/7GPMJcc9gyb5pAzlmgPrbE"
@@ -9235,7 +9341,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 86790,
       "name": "It's Just Us",
       "url": "https://open.spotify.com/track/4xbzkF6TzrCSWzpFxiCIkL"
@@ -11170,6 +11276,28 @@
     },
     {
       "album": {
+        "name": "GMTO Vol. 2 (Get Money Take Over)",
+        "url": "https://open.spotify.com/album/4Rlq4phDZy1DmoL1S7WOws"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        },
+        {
+          "name": "Shawny Binladen",
+          "url": "https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197197,
+      "name": "Maybach Music (feat. Shawny Binladen)",
+      "url": "https://open.spotify.com/track/5RJjUe2LR9jJigIaE6Odso"
+    },
+    {
+      "album": {
         "name": "Me & My Weapon",
         "url": "https://open.spotify.com/album/3VDQqiahFQSOgA0eq6oxjr"
       },
@@ -12639,7 +12767,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 157762,
       "name": "NO SKI",
       "url": "https://open.spotify.com/track/2tJAZDQakPQbTUGrbDYROK"
@@ -13500,6 +13628,24 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/734DR7AxHV2crdRWN1JDn2"
+      },
+      "artists": [
+        {
+          "name": "Sugarhill Ddot",
+          "url": "https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143493,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5SqPTvrFYSwhaKm5kk4EOi"
+    },
+    {
+      "album": {
         "name": "Baby Goat 2",
         "url": "https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC"
       },
@@ -14053,7 +14199,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 165161,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/1IFqfmglO2wgaNdrZAw1eN"
@@ -16489,7 +16635,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 156000,
       "name": "Shook Up",
       "url": "https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA"
@@ -16693,7 +16839,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 123076,
       "name": "Sin City",
       "url": "https://open.spotify.com/track/1NU1Ee13eBlicWPRgLNWOc"

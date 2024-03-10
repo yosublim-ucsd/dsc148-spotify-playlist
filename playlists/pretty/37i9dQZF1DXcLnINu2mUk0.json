@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mizzy Miles com Bispo e Van Zee.",
-  "num_followers": 44367,
+  "num_followers": 44383,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDc0ZGU4ZTg5MzI2NWI5ODgwMTAwM2JmNTEwMDYwNDg1ZWNjNzNj",
+  "snapshot_id": "MCw1YzI3OWQwYmYyYzNkMWVhNmQwMjU2YmMyZWY1YzUyMzQyNDQzZjAz",
   "tracks": [
     {
       "added_at": "2024-03-08 00:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Neblina",
-        "url": "https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw"
-      },
-      "artists": [
-        {
-          "name": "Trista",
-          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "Neblina",
-      "url": "https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
         "name": "N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Heran\u00e7a",
-        "url": "https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n"
+        "name": "Neblina",
+        "url": "https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw"
       },
       "artists": [
         {
-          "name": "Silly",
-          "url": "https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx"
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Heran\u00e7a",
-      "url": "https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg"
+      "duration_ms": 203437,
+      "name": "Neblina",
+      "url": "https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 184444,
       "name": "Sonhos e Diamantes",
       "url": "https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "Heran\u00e7a",
+        "url": "https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n"
+      },
+      "artists": [
+        {
+          "name": "Silly",
+          "url": "https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Heran\u00e7a",
+      "url": "https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
+        "name": "Feiti\u00e7o",
+        "url": "https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        },
+        {
+          "name": "Stef\u00e2nia Leonel",
+          "url": "https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE"
+        }
+      ],
+      "duration_ms": 161392,
+      "name": "Feiti\u00e7o",
+      "url": "https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
         "name": "Leonor",
         "url": "https://open.spotify.com/album/6rNBKnFgPS7APToqmXIGjS"
       },
@@ -1267,42 +1287,6 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Feiti\u00e7o",
-        "url": "https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        },
-        {
-          "name": "Stef\u00e2nia Leonel",
-          "url": "https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE"
-        }
-      ],
-      "duration_ms": 161392,
-      "name": "Feiti\u00e7o",
-      "url": "https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
-        "name": "PRADA",
-        "url": "https://open.spotify.com/album/2HH3mTK5tiXuHlmwg9qtUx"
-      },
-      "artists": [
-        {
-          "name": "Lonny B",
-          "url": "https://open.spotify.com/artist/3xlBiTJH6m8cHyOl8gpE4m"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "PRADA",
-      "url": "https://open.spotify.com/track/2NlZ0iCKnLrZLxN6nTqxiI"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
         "name": "Se Tu N\u00e3o Falasses",
         "url": "https://open.spotify.com/album/05ew2ZZN66Z60FItm4lnbb"
       },
@@ -1319,34 +1303,18 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Quero Encontrar",
-        "url": "https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh"
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/2biPFtGNm3uQMsGzOFa4MZ"
       },
       "artists": [
         {
-          "name": "Burrz",
-          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+          "name": "DEL POZO",
+          "url": "https://open.spotify.com/artist/1zHygLBAuxN05NZ2B2M1SQ"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Quero Encontrar",
-      "url": "https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
-        "name": "Party All Night",
-        "url": "https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS"
-      },
-      "artists": [
-        {
-          "name": "Vinagre",
-          "url": "https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0"
+      "duration_ms": 168125,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/4TNOliJJl5bBOSTZsw4w2l"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -1383,18 +1351,50 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Mon Amour",
-        "url": "https://open.spotify.com/album/2biPFtGNm3uQMsGzOFa4MZ"
+        "name": "Party All Night",
+        "url": "https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS"
       },
       "artists": [
         {
-          "name": "DEL POZO",
-          "url": "https://open.spotify.com/artist/1zHygLBAuxN05NZ2B2M1SQ"
+          "name": "Vinagre",
+          "url": "https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5"
         }
       ],
-      "duration_ms": 168125,
-      "name": "Mon Amour",
-      "url": "https://open.spotify.com/track/4TNOliJJl5bBOSTZsw4w2l"
+      "duration_ms": 192000,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "Quero Encontrar",
+        "url": "https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh"
+      },
+      "artists": [
+        {
+          "name": "Burrz",
+          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Quero Encontrar",
+      "url": "https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "PRADA",
+        "url": "https://open.spotify.com/album/2HH3mTK5tiXuHlmwg9qtUx"
+      },
+      "artists": [
+        {
+          "name": "Lonny B",
+          "url": "https://open.spotify.com/artist/3xlBiTJH6m8cHyOl8gpE4m"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "PRADA",
+      "url": "https://open.spotify.com/track/2NlZ0iCKnLrZLxN6nTqxiI"
     },
     {
       "added_at": "2024-03-08 00:00:00",

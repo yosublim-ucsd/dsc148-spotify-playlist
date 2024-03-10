@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 223536,
+  "2024-03-10": 223654,
   "date_first_scraped": "2022-02-05",
   "description": "soft, chewy & good for the soul. uwu",
   "name": "tapioca",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 133897,
       "name": "24",
       "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 194072,
       "name": "All You Really Need (Is Love)",
       "url": "https://open.spotify.com/track/5rDVenhWv5PZnVtLGpuyUG"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 213868,
       "name": "alone with you",
       "url": "https://open.spotify.com/track/1u6O6WXGhuIGjIsvLkNU5A"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 184437,
       "name": "Be Yours",
       "url": "https://open.spotify.com/track/3Jjwrk3xgnJWPTc48GYhWg"
@@ -1636,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/5WFuSzNnwnmHB0ar7tJLIG"
+      },
+      "artists": [
+        {
+          "name": "Adriel",
+          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179672,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/6fvawfro1XFIpL73OWujh5"
+    },
+    {
+      "album": {
         "name": "bloom",
         "url": "https://open.spotify.com/album/53JYsTjyi67V8cJW6sPT12"
       },
@@ -1705,6 +1723,24 @@
       "duration_ms": 159927,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd"
+    },
+    {
+      "album": {
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/2Eecm6iYE9FNEOi7FeUiNS"
+      },
+      "artists": [
+        {
+          "name": "Layton Wu",
+          "url": "https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285089,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/32vQDKOMbDdxoRcdikE8hV"
     },
     {
       "album": {
@@ -2388,6 +2424,24 @@
     },
     {
       "album": {
+        "name": "Cold Rain",
+        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
+      },
+      "artists": [
+        {
+          "name": "Raine Cloud",
+          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "Cold Rain",
+      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
+    },
+    {
+      "album": {
         "name": "michigan/missinghim",
         "url": "https://open.spotify.com/album/3CUpup4zXABeyEfMZNDfA8"
       },
@@ -2573,7 +2627,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 162151,
       "name": "confidence in me",
       "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
@@ -3073,6 +3127,24 @@
       "duration_ms": 176000,
       "name": "dejavu",
       "url": "https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7"
+    },
+    {
+      "album": {
+        "name": "Lesson",
+        "url": "https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231603,
+      "name": "Devastated",
+      "url": "https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN"
     },
     {
       "album": {
@@ -4161,7 +4233,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 172427,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN"
@@ -4259,7 +4331,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 183970,
       "name": "Fell First, Fell Hard",
       "url": "https://open.spotify.com/track/4uBqMCNpMiSYxfQxYPmdbB"
@@ -4693,7 +4765,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 247745,
       "name": "Getaway (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/5JfLK7hYOhU3fj2xCxEKQ5"
@@ -4863,6 +4935,24 @@
       "duration_ms": 136800,
       "name": "GO SLOW - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5VnZTry3HpruQpTKhhuvvI"
+    },
+    {
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "album": {
@@ -5576,6 +5666,24 @@
     },
     {
       "album": {
+        "name": "His Way",
+        "url": "https://open.spotify.com/album/3DXndWkLpoRlEhZEYDlqC8"
+      },
+      "artists": [
+        {
+          "name": "FUG\u014c",
+          "url": "https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233640,
+      "name": "His Way",
+      "url": "https://open.spotify.com/track/4WWeTzsyYWKlMMyHJtKlya"
+    },
+    {
+      "album": {
         "name": "hold me",
         "url": "https://open.spotify.com/album/0JfAcmBChLcmkVhI7cF2n2"
       },
@@ -5587,7 +5695,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 211345,
       "name": "hold me",
       "url": "https://open.spotify.com/track/44rWxt3LrdLf0IclHzQe6v"
@@ -7116,6 +7224,24 @@
     },
     {
       "album": {
+        "name": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+        "url": "https://open.spotify.com/album/0kD66lHtMMohY7jcEHvs4X"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145568,
+      "name": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+      "url": "https://open.spotify.com/track/3aEHvzMByrqJSgYhtVkxrI"
+    },
+    {
+      "album": {
         "name": "It's Only Me (Studio Version)",
         "url": "https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4"
       },
@@ -7503,7 +7629,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 191116,
       "name": "KISS&TELL",
       "url": "https://open.spotify.com/track/4Q9GArihbyGgtxRZ9D65Dj"
@@ -7807,7 +7933,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 184996,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/5Ebew5zVj06DNez06ACadp"
@@ -8643,7 +8769,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 225360,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
@@ -8925,6 +9051,24 @@
       "duration_ms": 167779,
       "name": "marriott downtown",
       "url": "https://open.spotify.com/track/32pQxkJ1RFfac0BBvwuSrt"
+    },
+    {
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221490,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
     },
     {
       "album": {
@@ -10233,7 +10377,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 138666,
       "name": "OKIE",
       "url": "https://open.spotify.com/track/4mjWTBR4OsQwO3aow5ysrF"
@@ -10425,7 +10569,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 150421,
       "name": "Op Shop Lover",
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
@@ -11233,7 +11377,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 145777,
       "name": "rewind (prod. by MFMF.)",
       "url": "https://open.spotify.com/track/0yHtUulgJF0GEQRkyYcgJ8"
@@ -11685,7 +11829,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 252916,
       "name": "Say Ooh",
       "url": "https://open.spotify.com/track/32bkdxME3FzJAxeDOTG8Sg"
@@ -12315,7 +12459,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 192181,
       "name": "Slow (with Ciara)",
       "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
@@ -12373,7 +12517,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 184054,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/2B7MbBnHw59P4MGNCU4pJn"
@@ -13255,7 +13399,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
@@ -13667,6 +13811,24 @@
       "duration_ms": 187297,
       "name": "The Departure",
       "url": "https://open.spotify.com/track/6TN7BGFaqv62RReKpveqn0"
+    },
+    {
+      "album": {
+        "name": "The Girl That I Used To Be",
+        "url": "https://open.spotify.com/album/4tNsUBJJ9sI3BW24tKS332"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191223,
+      "name": "The Girl That I Used To Be",
+      "url": "https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK"
     },
     {
       "album": {
@@ -14091,7 +14253,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 250421,
       "name": "Thunder & Lightning",
       "url": "https://open.spotify.com/track/12GKiRkLkrsITNZfxEHoxF"
@@ -14543,7 +14705,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 220781,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/48k3HCHPnUuKLok43GUC41"
@@ -15831,7 +15993,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
@@ -16121,7 +16283,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 270594,
       "name": "Your Favorite Food",
       "url": "https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d"

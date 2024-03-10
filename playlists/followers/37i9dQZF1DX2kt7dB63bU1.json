@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 137439,
+  "2024-03-10": 137468,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz voices of today. Cover: Samara Joy",
   "name": "Vocal Jazz",
@@ -4155,7 +4155,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
@@ -4403,6 +4403,24 @@
       "duration_ms": 171268,
       "name": "Give Up!",
       "url": "https://open.spotify.com/track/0oPxBI36fZxAvMND85xhjm"
+    },
+    {
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "album": {
@@ -6309,6 +6327,24 @@
       "duration_ms": 212506,
       "name": "Inside",
       "url": "https://open.spotify.com/track/4fiHkebnCqTgCdFNszdwju"
+    },
+    {
+      "album": {
+        "name": "\u00e0 Fleur de Peau",
+        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258900,
+      "name": "Inside and Out",
+      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
     },
     {
       "album": {
@@ -9371,7 +9407,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 308192,
       "name": "One Day, Forever",
       "url": "https://open.spotify.com/track/4eHwXOVp2HX7e4ZI8CSl06"
@@ -10511,7 +10547,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 248862,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
@@ -12653,6 +12689,24 @@
       "duration_ms": 221480,
       "name": "There by the Door",
       "url": "https://open.spotify.com/track/6xuskbyiFsUyHKiibJyDsQ"
+    },
+    {
+      "album": {
+        "name": "There Goes",
+        "url": "https://open.spotify.com/album/2ONlDZeDWomJwN52C7xonr"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271263,
+      "name": "There Goes",
+      "url": "https://open.spotify.com/track/59AiOQODuznd7cayIRelBv"
     },
     {
       "album": {

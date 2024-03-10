@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 148816,
+  "2024-03-10": 148987,
   "date_first_scraped": "2022-05-11",
   "description": "The state of shoegaze, featuring over 20 new tracks added by flyingfish. ",
   "name": "Shoegaze Now",
@@ -5495,6 +5495,32 @@
       "duration_ms": 160885,
       "name": "kmart amen break",
       "url": "https://open.spotify.com/track/5ZmZfrXm35ak5SYvO9kAKk"
+    },
+    {
+      "album": {
+        "name": "krillin",
+        "url": "https://open.spotify.com/album/15V7baihpBBfFTTtxxOmgB"
+      },
+      "artists": [
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        },
+        {
+          "name": "Greg Mendez",
+          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
+        },
+        {
+          "name": "SUN ORGAN",
+          "url": "https://open.spotify.com/artist/13ZwcU5VGUsd4nB6hsUYCp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135154,
+      "name": "krillin",
+      "url": "https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO"
     },
     {
       "album": {

@@ -4647,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114226,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/6dr2T6DRymdT1jfSUxDgut"
+    },
+    {
+      "album": {
         "name": "Bounce Back",
         "url": "https://open.spotify.com/album/4XAscsjKLpfUBzzTWXAe9o"
       },
@@ -11516,6 +11534,24 @@
       "duration_ms": 144866,
       "name": "Fuck That",
       "url": "https://open.spotify.com/track/3VlCIYEdNORYA3OF5K0nQm"
+    },
+    {
+      "album": {
+        "name": "My Liver Will Handle What My Heart Can't",
+        "url": "https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150186,
+      "name": "Fuckthepopulation",
+      "url": "https://open.spotify.com/track/0XfsT6rbC7myipngFhWa9T"
     },
     {
       "album": {
@@ -19234,6 +19270,24 @@
       "duration_ms": 347226,
       "name": "Marvins Room",
       "url": "https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl"
+    },
+    {
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
     },
     {
       "album": {
@@ -34363,7 +34417,7 @@
     },
     {
       "album": {
-        "name": "wonder if u care",
+        "name": "wonder if you care",
         "url": "https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4"
       },
       "artists": [
@@ -34376,7 +34430,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 134556,
-      "name": "wonder if u care",
+      "name": "wonder if you care",
       "url": "https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4"
     },
     {

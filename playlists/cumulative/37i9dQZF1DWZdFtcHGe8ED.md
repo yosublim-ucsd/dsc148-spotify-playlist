@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-403 songs - 1 day 4 hr 40 min
+405 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Caught In A Mosh](https://open.spotify.com/track/03uCCpxPBtSqr18kXm9gfG) | [The L.I.F.E\. Project](https://open.spotify.com/artist/4CASo5ALuNEWrsKDpCKm5h) | [Caught In A Mosh](https://open.spotify.com/album/7kDsRPwoPQueml7zupFAMb) | 4:59 | 2022-04-01 | 2022-07-09 |
 | [Caustic Vomit Reveries](https://open.spotify.com/track/0MwicbXtEI0tV0NZONv6D5) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Caustic Vomit Reveries](https://open.spotify.com/album/4iH7RLCaup3C6f5w7WPJmr) | 3:41 | 2022-07-01 | 2022-07-12 |
 | [Certain Death](https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt) | [Sadus](https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu) | [Chemical Exposure](https://open.spotify.com/album/7pWX1741ZblBq93ZAEPLQT) | 4:14 | 2022-07-13 | 2022-10-14 |
-| [Chalice of Blood](https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 4:32 | 2022-07-13 |  |
+| [Chalice of Blood](https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 4:32 | 2022-07-13 | 2024-03-10 |
 | [Chaos Possession](https://open.spotify.com/track/1DHf4SG3bLDoHXAstlcAWV) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Chaos Possession](https://open.spotify.com/album/0vLCfHnHq5VcM8tt9gG8OP) | 3:53 | 2021-12-17 | 2022-07-28 |
 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:06 | 2022-07-13 |  |
 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/74Ijstyp0EXcdEZzyLOJy6) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/album/6EhTaVPe67FETk9tIbi8nq) | 4:06 | 2022-04-15 | 2022-08-27 |
@@ -133,7 +133,7 @@
 | [Fight Fire With Fire \(Remastered\)](https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 4:44 | 2022-07-13 | 2022-12-16 |
 | [Filth Upon Filth](https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 2:53 | 2022-07-13 |  |
 | [Filth Upon Filth](https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Filth Upon Filth](https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF) | 2:53 | 2022-07-08 | 2022-08-15 |
-| [Fire in the Hole](https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f) | [Laaz Rockit](https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR) | [Annihilation Principle](https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O) | 3:50 | 2022-07-13 |  |
+| [Fire in the Hole](https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f) | [Laaz Rockit](https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR) | [Annihilation Principle](https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O) | 3:50 | 2022-07-13 | 2024-03-10 |
 | [First World Solutions](https://open.spotify.com/track/2BKaYacYK33sCj0wQmelzs) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [Extinction](https://open.spotify.com/album/4v1qcY67EgCYu2xbUkUWPp) | 3:55 | 2021-12-17 | 2022-07-28 |
 | [Flames of Death](https://open.spotify.com/track/6tVBNgAnRuMzeptqFFlwFs) | [Gomorra](https://open.spotify.com/artist/4pR239AgGpMKJosbKZXsLv) | [Flames of Death](https://open.spotify.com/album/44Sf0IWt8DVpa0iuhe883w) | 4:31 | 2021-12-17 | 2022-07-19 |
 | [Flesh from Bone](https://open.spotify.com/track/5fopcFWgDjqmqWQK83QUlQ) | [Vio\-Lence](https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df) | [Flesh from Bone](https://open.spotify.com/album/3XAiBKyWClCBcJw64HIYHl) | 5:02 | 2022-01-14 | 2022-07-28 |
@@ -183,6 +183,7 @@
 | [Insane](https://open.spotify.com/track/0EussHoROH1wsSg3qhN0WO) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Insane](https://open.spotify.com/album/7DlA2Vm8witrWKt7mZEGyQ) | 3:02 | 2021-12-17 | 2023-04-05 |
 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 | 2022-12-15 |  |
 | [Interface with the Infinite](https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [V](https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0) | 4:02 | 2021-12-17 | 2022-07-29 |
+| [Intervention](https://open.spotify.com/track/4PaTT8J0ktwShZ2tEaoEwZ) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Tango & Thrash](https://open.spotify.com/album/2UirD4DbVjOVzeYjIi59wC) | 2:02 | 2024-03-08 |  |
 | [Into the Fray](https://open.spotify.com/track/5qsvdGQmUYMSWvJXGNc7VR) | [Warfect](https://open.spotify.com/artist/7CMDtotOom4MIRumUnpzzL) | [Into the Fray](https://open.spotify.com/album/5bkiZQ8vrdBae75WxJxEy0) | 5:12 | 2021-12-17 | 2022-02-22 |
 | [Into the Pit](https://open.spotify.com/track/5bv551r1rJZxuJBVAuuW4w) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The New Order](https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569) | 2:46 | 2022-07-13 | 2023-06-22 |
 | [Into the Pit](https://open.spotify.com/track/3r9jQQKWDHyhYlCG2YPE1N) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The New Order](https://open.spotify.com/album/3aZG385ojagRAjAvscAv37) | 2:46 | 2023-06-27 |  |
@@ -408,6 +409,7 @@
 | [Wrecking Crew](https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Taking Over](https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N) | 4:32 | 2022-07-13 |  |
 | [WWIII](https://open.spotify.com/track/0XnV89hrJWQxPkddqWtIln) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 4:48 | 2021-12-17 | 2023-09-27 |
 | [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 | 2024-01-12 |  |
+| [Ympyrä sulkeutuu](https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Myrsky](https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1) | 3:30 | 2024-03-08 |  |
 | [You Can't Bring Me Down](https://open.spotify.com/track/203xxdlledLFnkqrUleD72) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 5:48 | 2022-12-15 |  |
 | [You Weep](https://open.spotify.com/track/6XAlh4yszn9bSt9icRA7o5) | [Prestige](https://open.spotify.com/artist/48SgCx7WBM9A1jgu9KFuxn) | [You Weep](https://open.spotify.com/album/4F4iwuYKgphwmsyTqgVusZ) | 3:53 | 2021-12-17 | 2022-07-28 |
 | [Zeitgeist](https://open.spotify.com/track/1Dens6AGLroewjBldIJhQ7) | [The Very End](https://open.spotify.com/artist/4oJ1LUH8pL4QJFm1W7JijH) | [Zeitgeist](https://open.spotify.com/album/5jdnVOhoPKP4x2KADG4Kcq) | 4:00 | 2021-12-17 | 2022-07-18 |

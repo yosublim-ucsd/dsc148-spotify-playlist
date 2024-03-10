@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 157524,
+  "2024-03-10": 157554,
   "date_first_scraped": "2022-01-01",
-  "description": "The biggest rock songs of the moment. Cover: Mother Mother",
+  "description": "The biggest rock songs of the moment. Cover: The Beaches",
   "name": "Rock Now",
   "tracks": [
     {
@@ -621,7 +621,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 165833,
       "name": "all-american bitch",
       "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 187274,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/7aLtFOQyLWC1L1XPN8RC3b"
@@ -2829,6 +2829,24 @@
       "duration_ms": 226413,
       "name": "Deliver Me",
       "url": "https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo"
+    },
+    {
+      "album": {
+        "name": "Derailer",
+        "url": "https://open.spotify.com/album/72bQ2H2xbYK6QMjt7Gqpmw"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139753,
+      "name": "Derailer",
+      "url": "https://open.spotify.com/track/68qd3jmHgV7YLsJa6RJaF7"
     },
     {
       "album": {
@@ -4597,7 +4615,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 216698,
       "name": "Give Me My Halo",
       "url": "https://open.spotify.com/track/1hF3iuDDtQ6IvYs1ZS6Xjl"
@@ -4709,6 +4727,24 @@
       "duration_ms": 201029,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/7K4NDffzGp9eHZN7yRYuOV"
+    },
+    {
+      "album": {
+        "name": "Goon",
+        "url": "https://open.spotify.com/album/13Ffgt4rsG4GAE6hw7aB77"
+      },
+      "artists": [
+        {
+          "name": "Dear Rouge",
+          "url": "https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "Goon",
+      "url": "https://open.spotify.com/track/4yzP5W9Fg00sYwFOe0Ebux"
     },
     {
       "album": {
@@ -5297,6 +5333,24 @@
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/7GJRZmyEpMIou1RqG0ebd8"
+    },
+    {
+      "album": {
+        "name": "honey i'm home",
+        "url": "https://open.spotify.com/album/0SQs9fGTyqCxiw5mgrR7bZ"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150825,
+      "name": "honey, i'm home",
+      "url": "https://open.spotify.com/track/5kSmEV24v9UDWXMO2NZdIG"
     },
     {
       "album": {
@@ -7599,7 +7653,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 176910,
       "name": "Meet Me At The Riot",
       "url": "https://open.spotify.com/track/0NP5LPoZBL3MynRu4wr7Gc"
@@ -7823,6 +7877,24 @@
       "duration_ms": 164501,
       "name": "misfit",
       "url": "https://open.spotify.com/track/1Vxiyk7CfYutoQbR2e38Ur"
+    },
+    {
+      "album": {
+        "name": "Mon Argent",
+        "url": "https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217402,
+      "name": "Mon Argent",
+      "url": "https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK"
     },
     {
       "album": {
@@ -9095,7 +9167,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 202776,
       "name": "Paper Machete",
       "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
@@ -11341,6 +11413,24 @@
       "duration_ms": 198515,
       "name": "StuckintheMiddle",
       "url": "https://open.spotify.com/track/41wOSqwwI5BYv0Eke9yZHv"
+    },
+    {
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/0k5arnScjVZaqqvNFK3otb"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147031,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4Y2uEMxni1MDrcJBDSWULX"
     },
     {
       "album": {

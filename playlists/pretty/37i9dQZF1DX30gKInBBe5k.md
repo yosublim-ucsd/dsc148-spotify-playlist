@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,090 likes - 85 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,162 likes - 85 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 60 | [Wriding](https://open.spotify.com/track/1hYYF1K49BL636rXNbpyaH) | [Bluetile Lounge](https://open.spotify.com/artist/2PzpdQmH5Y5SpaykJkf3sY) | [Lowercase](https://open.spotify.com/album/7tp9E6sQTbjeHXrXJ0J154) | 8:02 |
 | 61 | [Emp\. Man's Blues](https://open.spotify.com/track/4k8IQYPRkaJHVJ0qe7qHI6) | [The For Carnation](https://open.spotify.com/artist/7LMO4vkA2xYpGYbzsggPbk) | [The For Carnation](https://open.spotify.com/album/1tNPikqGc63Qu4CVsRya6t) | 8:12 |
 | 62 | [Return From The Ice](https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [1992 \- 2001](https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW) | 5:19 |
-| 63 | [Sun Drawing](https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day And Night](https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf) | 3:57 |
+| 63 | [Sun Drawing](https://open.spotify.com/track/70qasR3ndc1ZsWnqPFJ1GD) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day and Night](https://open.spotify.com/album/1TjuQgOgTp3QQahEk43laA) | 3:57 |
 | 64 | [Nothing Left to Say](https://open.spotify.com/track/0MZmVxSYtBphmi5mrgTLXp) | [Tram](https://open.spotify.com/artist/5koTBxO31TIzxRzBvsxzwH) | [Heavy Black Frame](https://open.spotify.com/album/4iEJq1LRPTy6q2kNUDKV3o) | 4:31 |
 | 65 | [Centralia](https://open.spotify.com/track/6LKXHh3LCO3i7v3c8JJwwO) | [Early Day Miners](https://open.spotify.com/artist/7uRuXWkNhoHhzpqDnaEJLJ) | [Let Us Garlands Bring](https://open.spotify.com/album/3Rh7QDb2SSYoJ3d6inKR8c) | 5:09 |
 | 66 | [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 84 | [nail i couldn't bite](https://open.spotify.com/track/4ab7TT8m06fhTVN17wPXik) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [Hypnic Jerks](https://open.spotify.com/album/6YaOkSQMqAc3ZIK9s5YzEM) | 5:15 |
 | 85 | [Lullaby](https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 9:49 |
 
-Snapshot ID: `MCwyZWIwY2ZjNWQ0ZGQzYmI5YzVjYzc4NzAxYzY5NDQ2MzdhMGFmMDg0`
+Snapshot ID: `MCxiMWU2YTcwYzVkZTIzMDJlNGVmZDAwM2I0NWM3ODc2NzAwY2NiMzg1`

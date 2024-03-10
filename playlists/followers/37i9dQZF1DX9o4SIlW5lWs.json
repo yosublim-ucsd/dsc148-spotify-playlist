@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 214076,
+  "2024-03-10": 214371,
   "date_first_scraped": "2022-01-21",
-  "description": "Al coraz\u00f3n! Foto: Los Palmeras & j mena",
+  "description": "Al coraz\u00f3n! Foto: R\u00e1faga & Soledad.",
   "name": "Cumbia y Romance",
   "tracks": [
     {
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 206629,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/1eBGzGyfBTv1FsLoZVC2ib"
@@ -2841,7 +2841,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 140997,
       "name": "Hoy Me Embriagar\u00e9",
       "url": "https://open.spotify.com/track/7jDnlfXxpWqa2X1ADq0Lce"
@@ -3077,6 +3077,28 @@
       "duration_ms": 197282,
       "name": "La Estrategia",
       "url": "https://open.spotify.com/track/7rwBT0s2G44oK66I3cCzf4"
+    },
+    {
+      "album": {
+        "name": "La Luna y T\u00fa",
+        "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216734,
+      "name": "La Luna y T\u00fa",
+      "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
     },
     {
       "album": {
@@ -3907,7 +3929,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 123795,
       "name": "Modo Lunita - Remix",
       "url": "https://open.spotify.com/track/11XZad5eqTwHB7hdNjCFiR"
@@ -4901,6 +4923,24 @@
       "duration_ms": 127999,
       "name": "Primera y \u00daltima Vez",
       "url": "https://open.spotify.com/track/7HlYK2GEvPtvYGCdHA0vFM"
+    },
+    {
+      "album": {
+        "name": "Pu\u00f1o De Diamantes",
+        "url": "https://open.spotify.com/album/7g3NnKh1ghBJTVsYDiu87r"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228646,
+      "name": "Pu\u00f1o De Diamantes",
+      "url": "https://open.spotify.com/track/2jxaaIuLjr6Vk02m3WTEZC"
     },
     {
       "album": {
@@ -6171,7 +6211,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 187852,
       "name": "Tramposa",
       "url": "https://open.spotify.com/track/1lLTyKsX4IDBYtAiRWnJEQ"

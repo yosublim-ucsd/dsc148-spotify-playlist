@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0OTc3ODAsMDAwMDAwMDBlOGVkYzA4ZTRkM2I0YWQ3OWVhYTkyOTJkZDU3N2EzYg==",
+  "snapshot_id": "Mjg0OTc3ODAsMDAwMDAwMDA3YTg1NWI3NWI0ODJlMWI2NDNkZDIxMDkzZjJiMzI4OA==",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 610191,
-      "name": "Total Stranger - Pete Hammond Hi-Nrg Remix",
+      "name": "Total Stranger - Pete Hammond Hi-NRG Remix",
       "url": "https://open.spotify.com/track/7ok9Qb3I1tBva60yOFlQNx"
     },
     {
@@ -263,6 +263,22 @@
       "duration_ms": 292661,
       "name": "Legs - Live from the Blockbuster Pavilion San Bernardino, California on September 15, 1993, 2023 Remaster",
       "url": "https://open.spotify.com/track/1IGRPsbQuIF5F9dyoi67Xt"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "A Song to Save Us All",
+        "url": "https://open.spotify.com/album/5TtmNTJY8agkorkC4wsyy3"
+      },
+      "artists": [
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "duration_ms": 448120,
+      "name": "A Song to Save Us All",
+      "url": "https://open.spotify.com/track/7cDZWmXET8OfvwltJJokFd"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -803,22 +819,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "vol huis (Live)",
-        "url": "https://open.spotify.com/album/3tYOO1SUShFTDag2iNbzlu"
-      },
-      "artists": [
-        {
-          "name": "Focus",
-          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
-        }
-      ],
-      "duration_ms": 556495,
-      "name": "Eruption - Live",
-      "url": "https://open.spotify.com/track/6K3q2FCBIIKcoKkmT6M6NL"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Siempre en ti",
         "url": "https://open.spotify.com/album/0fd5nBpcWly2CwJTUU1RAs"
       },
@@ -915,94 +915,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
+        "name": "The Sun Is Shining",
+        "url": "https://open.spotify.com/album/79gnBqgc2PnKThDog3XNDm"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Rarezas",
-        "url": "https://open.spotify.com/album/2CqYIGEdBbHP6JukGsUHf4"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Chile SA",
-      "url": "https://open.spotify.com/track/4An8UjbADFO12XE9klWQLS"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Karmaflow The Rock Opera Videogame (Original Videogame Soundtrack)",
-        "url": "https://open.spotify.com/album/3NtVQ8ZcqehqRJgpjV6OS4"
-      },
-      "artists": [
-        {
-          "name": "Ivo van Dijk",
-          "url": "https://open.spotify.com/artist/1RXtVCK8tYct5L9i9l7n2x"
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
         },
         {
-          "name": "Marc Hudson",
-          "url": "https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r"
+          "name": "1 World",
+          "url": "https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa"
         },
         {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 315836,
-      "name": "The Muse and The Conductor (Dissonance)",
-      "url": "https://open.spotify.com/track/4ePpPebeQxroWuwZSL4ZLv"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Obra de Dios",
-        "url": "https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 217936,
-      "name": "Obra de Dios",
-      "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "El bar de los fracasos",
-        "url": "https://open.spotify.com/album/71rwUTsvTnAtXSGyZhcJDR"
-      },
-      "artists": [
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 275303,
-      "name": "El bar de los fracasos",
-      "url": "https://open.spotify.com/track/6kJWMgNgYKuLQGy2ULLCRm"
+      "duration_ms": 158740,
+      "name": "The Sun Is Shining",
+      "url": "https://open.spotify.com/track/1ROZwbJBndwmp5Cl2ig7TB"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1039,150 +971,6 @@
       "duration_ms": 164241,
       "name": "Beautiful Drug (feat. Avicii) - Remix",
       "url": "https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "VSQ Performs Taylor Swift",
-        "url": "https://open.spotify.com/album/4f5ciuGccXCtsdwfZkpGq3"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/3RlanDLlIDDQPe6dVIkyUl"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Foregone (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6TaVKA8OkhhGvrbxCtZPpy"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 208366,
-      "name": "Become One",
-      "url": "https://open.spotify.com/track/24cthHMisFuAn0QKaAYbsf"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Before We Drown (Remixes)",
-        "url": "https://open.spotify.com/album/3HaZATwWacP3S54I5IAhxo"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        },
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 355129,
-      "name": "Before We Drown - Innellea Remix",
-      "url": "https://open.spotify.com/track/5w8LVMfShMYk98IZgVAraZ"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Smoke On The Water (2024 Remix)",
-        "url": "https://open.spotify.com/album/7HG3fjbZ0O7vDXiBkI9PIs"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 369853,
-      "name": "Smoke On The Water - 2024 Remix",
-      "url": "https://open.spotify.com/track/7e6P8slzsQ1dFW1oPoSfL0"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "(O) rdinary [Synthwave Edition]",
-        "url": "https://open.spotify.com/album/6uJm20KmWYCDi4fTLV8SXD"
-      },
-      "artists": [
-        {
-          "name": "All The Damn Vampires",
-          "url": "https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH"
-        },
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 227478,
-      "name": "(O)rdinary - Synthwave Edition",
-      "url": "https://open.spotify.com/track/598o75t7QhZ3Rfk4zUY8KA"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Taste It (Youth 12'' Mix)",
-        "url": "https://open.spotify.com/album/0ldXBTOnBTGcKDWJJtB62X"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        },
-        {
-          "name": "Youth",
-          "url": "https://open.spotify.com/artist/1zf3mY5ZJ69hlt5W24EvYq"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Taste It - Youth 12\" Mix",
-      "url": "https://open.spotify.com/track/1oqEoGfHYE6LxS3xoz7mFh"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "One Love (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 297279,
-      "name": "War/No More Trouble - From \"Bob Marley: One Love\" Soundtrack",
-      "url": "https://open.spotify.com/track/060wim4wCw76nHhHr6fDjm"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "A Hopeful Sign",
-        "url": "https://open.spotify.com/album/1l9ofBd6w3dbmGcHt8CsQs"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/3FsFQaconSNDS6VB2CF84I"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

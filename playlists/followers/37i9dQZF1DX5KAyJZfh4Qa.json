@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 42090,
+  "2024-03-10": 42175,
   "date_first_scraped": "2022-11-28",
-  "description": "it's just one of those days w/ <a href=\"https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa?si=9cd8ab93c60b4919\"> Sweet Pill</a>.",
+  "description": "it's just one of those days w/ Microwave",
   "name": "emo right now",
   "tracks": [
     {
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 208503,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2FSS75moVpVpLi7uqhix6H"
@@ -317,6 +317,24 @@
       "duration_ms": 211592,
       "name": "Blood for the Blood God",
       "url": "https://open.spotify.com/track/5ykzMyjf4Mfi45iy5pyTAG"
+    },
+    {
+      "album": {
+        "name": "Bored of Being Sad",
+        "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200660,
+      "name": "Bored of Being Sad",
+      "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
     },
     {
       "album": {
@@ -745,7 +763,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 169045,
       "name": "Dark Blue",
       "url": "https://open.spotify.com/track/60vVj2WfNR4weWoMEiO9er"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 215755,
       "name": "Don't Lick The Swingset",
       "url": "https://open.spotify.com/track/2ux59Zvg7EDCJGfxD1pJF9"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 145106,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/1MpPv7wnIzfqJMdnSAnV6a"
@@ -1444,6 +1462,24 @@
     },
     {
       "album": {
+        "name": "Joan of Hill",
+        "url": "https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr"
+      },
+      "artists": [
+        {
+          "name": "Carly Cosgrove",
+          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Joan of Hill",
+      "url": "https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K"
+    },
+    {
+      "album": {
         "name": "Kathryn",
         "url": "https://open.spotify.com/album/0WqP089roU0sFhYcwmhmit"
       },
@@ -1531,6 +1567,24 @@
       "duration_ms": 202386,
       "name": "KO",
       "url": "https://open.spotify.com/track/468kQ0vnRFF9uS6XhCy4Ee"
+    },
+    {
+      "album": {
+        "name": "Leap Years",
+        "url": "https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159333,
+      "name": "Leap Years",
+      "url": "https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW"
     },
     {
       "album": {
@@ -1840,6 +1894,24 @@
     },
     {
       "album": {
+        "name": "NUMB",
+        "url": "https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR"
+      },
+      "artists": [
+        {
+          "name": "Have Mercy",
+          "url": "https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240953,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf"
+    },
+    {
+      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -2006,6 +2078,24 @@
     },
     {
       "album": {
+        "name": "Third Wind",
+        "url": "https://open.spotify.com/album/1wnpJAcnD5Q6X291ynnerQ"
+      },
+      "artists": [
+        {
+          "name": "Gulfer",
+          "url": "https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173414,
+      "name": "Prove",
+      "url": "https://open.spotify.com/track/3BuZNpEfBbcWo7KhQOP629"
+    },
+    {
+      "album": {
         "name": "Pursuit",
         "url": "https://open.spotify.com/album/0SpkDAB9r9amnfcWaY9RSd"
       },
@@ -2111,6 +2201,24 @@
       "duration_ms": 164621,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/4wGPKwafLV9d9DNzQN6sMN"
+    },
+    {
+      "album": {
+        "name": "Really Big Shrimp",
+        "url": "https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247025,
+      "name": "Really Big Shrimp",
+      "url": "https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT"
     },
     {
       "album": {
@@ -2291,6 +2399,24 @@
       "duration_ms": 159638,
       "name": "Sick As Your Secrets",
       "url": "https://open.spotify.com/track/1v7zwwBb8iKquvkApcnCHn"
+    },
+    {
+      "album": {
+        "name": "Respite For A Tragic Tale / Silhouettes in Motion",
+        "url": "https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa"
+      },
+      "artists": [
+        {
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167671,
+      "name": "Silhouettes In Motion",
+      "url": "https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE"
     },
     {
       "album": {
@@ -2719,7 +2845,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 127058,
       "name": "Too Slow",
       "url": "https://open.spotify.com/track/3WLlV0VSN58XV0CQGc5Gou"
@@ -2773,7 +2899,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 174000,
       "name": "Up In Smoke",
       "url": "https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf"

@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 153085,
+  "2024-03-10": 153094,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -7661,6 +7661,24 @@
       "duration_ms": 189226,
       "name": "ENCHULETIAO",
       "url": "https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9"
+    },
+    {
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/6H9hiHXJdSqwZ3xGxTtjOz"
+      },
+      "artists": [
+        {
+          "name": "Sage Sam",
+          "url": "https://open.spotify.com/artist/1DfajICHw7TuLzZIpdxsi8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "End as Friends",
+      "url": "https://open.spotify.com/track/172huCxCHWHJB1BVNgZRwa"
     },
     {
       "album": {
@@ -19657,7 +19675,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 162244,
       "name": "Quien Es Dei V?",
       "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
@@ -23137,7 +23155,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 207157,
       "name": "Tacos Gucci",
       "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
@@ -23525,7 +23543,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 189767,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/648AlW4EB178aVgNOaBU6a"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,172 likes - 97 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,264 likes - 97 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 | 96 | [Gentle Thoughts](https://open.spotify.com/track/1FxioajcNOU6zzMTbzXDbx) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [Contemplation](https://open.spotify.com/album/4515RLJJF5yZL5yPyOosoc) | 2:04 |
 | 97 | [Soft harp world](https://open.spotify.com/track/4Kx7N7sHcJ0MamSpuDKfV5) | [Lorenzo Tempesti](https://open.spotify.com/artist/0S6YGr0wEbA6C0BVpvvdJ6) | [Traveling in space](https://open.spotify.com/album/6b0oJa9QYiPNfF1os8pba9) | 3:38 |
 
-Snapshot ID: `MCxhMDk3ZTBlODlhNGQxODU5NGQyNDExNWQ1MmY3OTY4OGUxYTNmNjFm`
+Snapshot ID: `MCwxYTZiM2Q2ZTRjMTQ4ODVhMTgzNTRmZWViNWI4YjkyZTg1N2FjNTNi`

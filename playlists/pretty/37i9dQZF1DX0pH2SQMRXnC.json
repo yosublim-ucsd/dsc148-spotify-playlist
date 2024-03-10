@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1279811,
+  "num_followers": 1280132,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDMxNTYzM2MyOGM5NDM5ODkxYzNjY2NlMzg3Zjk1NzA5YmQyNjJk",
+  "snapshot_id": "MCw0NThlMTM3ZjkzYTY5MWE5Zjc3NzhkMTcwYmI4NzQ0ZjIxYzMyNTk4",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1347,30 +1347,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Vois Sur Ton Chemin (Hardstyle)",
-        "url": "https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR"
-      },
-      "artists": [
-        {
-          "name": "Bern-AT & WARLEX",
-          "url": "https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf"
-        },
-        {
-          "name": "Enmity",
-          "url": "https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh"
-        },
-        {
-          "name": "crypvolk",
-          "url": "https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS"
-        }
-      ],
-      "duration_ms": 239034,
-      "name": "Vois Sur Ton Chemin - Hardstyle",
-      "url": "https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Lose My Mind (Sub Zero Project Remix)",
         "url": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY"
       },
@@ -1391,6 +1367,30 @@
       "duration_ms": 253012,
       "name": "Lose My Mind - Sub Zero Project Remix",
       "url": "https://open.spotify.com/track/6FQTEo5HfXoMzXV513unv9"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Vois Sur Ton Chemin (Hardstyle)",
+        "url": "https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR"
+      },
+      "artists": [
+        {
+          "name": "Bern-AT & WARLEX",
+          "url": "https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf"
+        },
+        {
+          "name": "Enmity",
+          "url": "https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh"
+        },
+        {
+          "name": "crypvolk",
+          "url": "https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS"
+        }
+      ],
+      "duration_ms": 239034,
+      "name": "Vois Sur Ton Chemin - Hardstyle",
+      "url": "https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "STAR WALKIN'",
-        "url": "https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI"
-      },
-      "artists": [
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "NOTYPE",
-          "url": "https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "STAR WALKIN'",
-      "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Return Of The Return",
         "url": "https://open.spotify.com/album/06XWEMumYCHGHEaFEV2Hl4"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 175874,
       "name": "Return Of The Return",
       "url": "https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "STAR WALKIN'",
+        "url": "https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "NOTYPE",
+          "url": "https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "STAR WALKIN'",
+      "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "TOO HAPPY",
-        "url": "https://open.spotify.com/album/0UtFwIpGyQl2KDRgThrtna"
-      },
-      "artists": [
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 274968,
-      "name": "TOO HAPPY",
-      "url": "https://open.spotify.com/track/55UUc12En4gVEdzwNTFAkQ"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2AMzGsyHFKzWVJ86BLBxUg"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 250838,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/1YlZ6MetMORMdsrwWXLV85"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "TOO HAPPY",
+        "url": "https://open.spotify.com/album/0UtFwIpGyQl2KDRgThrtna"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 274968,
+      "name": "TOO HAPPY",
+      "url": "https://open.spotify.com/track/55UUc12En4gVEdzwNTFAkQ"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0Whzpt8bj4PPDr5n5gk4ip"
+      },
+      "artists": [
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        },
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2C9y2VMcVTxCRtxT3Afwqu"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Boom Boom Boom",
         "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
       },
@@ -1751,26 +1771,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0Whzpt8bj4PPDr5n5gk4ip"
-      },
-      "artists": [
-        {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
-        },
-        {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/2C9y2VMcVTxCRtxT3Afwqu"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/2ne3g0bzIJTOrfEmi1pbB6"
       },
@@ -1787,6 +1787,26 @@
       "duration_ms": 200292,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4j88dqy9AY39QhuRJir7xv"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "FLYIN' HIGH",
+        "url": "https://open.spotify.com/album/6BOQuHrxkGTWt41OsSgod7"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 230738,
+      "name": "FLYIN' HIGH",
+      "url": "https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -1859,26 +1879,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "FLYIN' HIGH",
-        "url": "https://open.spotify.com/album/6BOQuHrxkGTWt41OsSgod7"
-      },
-      "artists": [
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 230738,
-      "name": "FLYIN' HIGH",
-      "url": "https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -1939,58 +1939,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/5DLb0mlE8cGOJcOUqJ0y23"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 207069,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/21kG2uhhjqAh3yJXDFs0M0"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Primal Energy (Defqon.1 2020 Anthem)",
-        "url": "https://open.spotify.com/album/4JSAVsJOCKiUiEAiYrNWAx"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 316800,
-      "name": "Primal Energy - Defqon.1 2020 Anthem",
-      "url": "https://open.spotify.com/track/4WCjWUQGf66gxE6Re95Brp"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/3tDF74RCFMmoNcvFptOXxW"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Project X",
-      "url": "https://open.spotify.com/track/7q2EWEolm4VaE1qAnl7c1W"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "WKND!",
         "url": "https://open.spotify.com/album/60ghuelB3S5nXjgOXn8Gh0"
       },
@@ -2011,22 +1959,34 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Weekend Party",
-        "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
+        "name": "Primal Energy (Defqon.1 2020 Anthem)",
+        "url": "https://open.spotify.com/album/4JSAVsJOCKiUiEAiYrNWAx"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
         }
       ],
-      "duration_ms": 143600,
-      "name": "Weekend Party",
-      "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
+      "duration_ms": 316800,
+      "name": "Primal Energy - Defqon.1 2020 Anthem",
+      "url": "https://open.spotify.com/track/4WCjWUQGf66gxE6Re95Brp"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/5DLb0mlE8cGOJcOUqJ0y23"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 207069,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/21kG2uhhjqAh3yJXDFs0M0"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2051,6 +2011,46 @@
       "duration_ms": 241600,
       "name": "Now Or Never (Toneshifterz Remix)",
       "url": "https://open.spotify.com/track/39Xd2miEi3vR7sHl55O9Un"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/3tDF74RCFMmoNcvFptOXxW"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Project X",
+      "url": "https://open.spotify.com/track/7q2EWEolm4VaE1qAnl7c1W"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Weekend Party",
+        "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 143600,
+      "name": "Weekend Party",
+      "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2111,6 +2111,50 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Silence (feat. Sarah McLachlan) [Brennan Heart Remix]",
+        "url": "https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Silence - Brennan Heart Remix",
+      "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Died In Your Arms (Reloaded)",
+        "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 238455,
+      "name": "Died In Your Arms (Reloaded)",
+      "url": "https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "This Deejay",
         "url": "https://open.spotify.com/album/5Ee5i1mH1oGgm2NmfaYH9O"
       },
@@ -2135,30 +2179,6 @@
       "duration_ms": 195698,
       "name": "This Deejay",
       "url": "https://open.spotify.com/track/7ae1RGOiNP5KaBBU5V4yUG"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Silence (feat. Sarah McLachlan) [Brennan Heart Remix]",
-        "url": "https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr"
-      },
-      "artists": [
-        {
-          "name": "Delerium",
-          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
-        },
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "Silence - Brennan Heart Remix",
-      "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2199,26 +2219,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Died In Your Arms (Reloaded)",
-        "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 238455,
-      "name": "Died In Your Arms (Reloaded)",
-      "url": "https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Human Error",
         "url": "https://open.spotify.com/album/7x441M6ZTvLgD4Z4BD5Vf1"
       },
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Reflected Reality (Official Shockerz 2023 Anthem)",
-        "url": "https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx"
-      },
-      "artists": [
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 235348,
-      "name": "Reflected Reality - Official Shockerz 2023 Anthem",
-      "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "BEUK D\u2019R IN",
         "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 165660,
       "name": "BEUK D\u2019R IN",
       "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Reflected Reality (Official Shockerz 2023 Anthem)",
+        "url": "https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 235348,
+      "name": "Reflected Reality - Official Shockerz 2023 Anthem",
+      "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Everything is a Lie",
-        "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Everything is a Lie",
-      "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Orange Heart (feat. Sian Evans)",
         "url": "https://open.spotify.com/album/1AjWr3eqVWrYD0cUB9buhr"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 230321,
       "name": "Orange Heart",
       "url": "https://open.spotify.com/track/5pwVSplL0EaOyuTphPipJX"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Everything is a Lie",
+        "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Everything is a Lie",
+      "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 234165,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0zolxiS5uiL5towOJrsJi4"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
       },
@@ -2479,22 +2495,6 @@
       "duration_ms": 156705,
       "name": "Kriss Kross",
       "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 234165,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0zolxiS5uiL5towOJrsJi4"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2615,6 +2615,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Vendetta (X-Qlusive OST)",
+        "url": "https://open.spotify.com/album/07YoVUzYhdzlJvKeIriPTV"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "duration_ms": 219477,
+      "name": "Vendetta - X-Qlusive OST",
+      "url": "https://open.spotify.com/track/7hUjxqqihtkNajd5pGFaut"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Blow Up The Speakers (Again)",
         "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
       },
@@ -2631,22 +2647,6 @@
       "duration_ms": 208657,
       "name": "Blow Up The Speakers (Again)",
       "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Vendetta (X-Qlusive OST)",
-        "url": "https://open.spotify.com/album/07YoVUzYhdzlJvKeIriPTV"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 219477,
-      "name": "Vendetta - X-Qlusive OST",
-      "url": "https://open.spotify.com/track/7hUjxqqihtkNajd5pGFaut"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2671,6 +2671,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Summer Is Magic",
+        "url": "https://open.spotify.com/album/39SCxlZlsWq36TfHa4rEVP"
+      },
+      "artists": [
+        {
+          "name": "Stormerz",
+          "url": "https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf"
+        }
+      ],
+      "duration_ms": 174504,
+      "name": "Summer Is Magic",
+      "url": "https://open.spotify.com/track/4fGMjp3k7d7OAx6y9zAIDN"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "DYSYLM",
         "url": "https://open.spotify.com/album/7stU3YRinedh6SaVUlFL1M"
       },
@@ -2687,22 +2703,6 @@
       "duration_ms": 176051,
       "name": "DYSYLM",
       "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Summer Is Magic",
-        "url": "https://open.spotify.com/album/39SCxlZlsWq36TfHa4rEVP"
-      },
-      "artists": [
-        {
-          "name": "Stormerz",
-          "url": "https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf"
-        }
-      ],
-      "duration_ms": 174504,
-      "name": "Summer Is Magic",
-      "url": "https://open.spotify.com/track/4fGMjp3k7d7OAx6y9zAIDN"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2727,6 +2727,30 @@
       "duration_ms": 252236,
       "name": "Dance With The Devil",
       "url": "https://open.spotify.com/track/2gAdorDt9YDRvI6QW3AI26"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Das Boot",
+        "url": "https://open.spotify.com/album/0xzYXSeSEz4FMJ7uz2Qbnc"
+      },
+      "artists": [
+        {
+          "name": "Noisecontrollers",
+          "url": "https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Das Boot",
+      "url": "https://open.spotify.com/track/5qhB24xr7TbpHmpNXOAeMC"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2767,30 +2791,6 @@
       "duration_ms": 244133,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Das Boot",
-        "url": "https://open.spotify.com/album/0xzYXSeSEz4FMJ7uz2Qbnc"
-      },
-      "artists": [
-        {
-          "name": "Noisecontrollers",
-          "url": "https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z"
-        },
-        {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        },
-        {
-          "name": "B-Front",
-          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Das Boot",
-      "url": "https://open.spotify.com/track/5qhB24xr7TbpHmpNXOAeMC"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2847,22 +2847,26 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Superstring (Aftershock Remix)",
-        "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
+        "name": "End Of The World (Dr Phunk Remix)",
+        "url": "https://open.spotify.com/album/7mQzNEMcWOMwHOihmEQjfi"
       },
       "artists": [
         {
-          "name": "Cygnus X",
-          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
         },
         {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
         }
       ],
-      "duration_ms": 144020,
-      "name": "Superstring - Aftershock Remix",
-      "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
+      "duration_ms": 169593,
+      "name": "End Of The World - Dr Phunk Remix",
+      "url": "https://open.spotify.com/track/1PvfA3XKU7k7QAecko4Yb5"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -2887,26 +2891,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "End Of The World (Dr Phunk Remix)",
-        "url": "https://open.spotify.com/album/7mQzNEMcWOMwHOihmEQjfi"
+        "name": "Superstring (Aftershock Remix)",
+        "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
       },
       "artists": [
         {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+          "name": "Cygnus X",
+          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
         },
         {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        },
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
         }
       ],
-      "duration_ms": 169593,
-      "name": "End Of The World - Dr Phunk Remix",
-      "url": "https://open.spotify.com/track/1PvfA3XKU7k7QAecko4Yb5"
+      "duration_ms": 144020,
+      "name": "Superstring - Aftershock Remix",
+      "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -3195,22 +3195,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Running up That Hill",
-        "url": "https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS"
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
       },
       "artists": [
         {
-          "name": "Sub Sonik",
-          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
-        },
-        {
           "name": "DJ Gollum",
           "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
         }
       ],
-      "duration_ms": 223659,
-      "name": "Running up That Hill",
-      "url": "https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY"
+      "duration_ms": 188076,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -3255,22 +3255,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Somebody to Love",
-        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
+        "name": "Running up That Hill",
+        "url": "https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS"
       },
       "artists": [
         {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
         },
         {
-          "name": "Maxtreme",
-          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
         }
       ],
-      "duration_ms": 188076,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
+      "duration_ms": 223659,
+      "name": "Running up That Hill",
+      "url": "https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -3347,26 +3347,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Feel Love",
-        "url": "https://open.spotify.com/album/46YIGfrHT8RtYSnrdjpWsm"
-      },
-      "artists": [
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
-        },
-        {
-          "name": "Code Black",
-          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Feel Love",
-      "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/6YrVDZf2M8qLSOC4eichYG"
       },
@@ -3387,18 +3367,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "No Paradise",
-        "url": "https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9"
+        "name": "Feel Love",
+        "url": "https://open.spotify.com/album/46YIGfrHT8RtYSnrdjpWsm"
       },
       "artists": [
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
         }
       ],
-      "duration_ms": 241548,
-      "name": "No Paradise",
-      "url": "https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x"
+      "duration_ms": 182903,
+      "name": "Feel Love",
+      "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -3419,6 +3403,22 @@
       "duration_ms": 226500,
       "name": "WARHORN (E1: To War We Go)",
       "url": "https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "No Paradise",
+        "url": "https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 241548,
+      "name": "No Paradise",
+      "url": "https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -3639,22 +3639,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv"
-      },
-      "artists": [
-        {
-          "name": "Gammer",
-          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
         "url": "https://open.spotify.com/album/0YzBhIvuaOqtdBsVjmNnDq"
       },
@@ -3671,6 +3655,22 @@
       "duration_ms": 288000,
       "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
       "url": "https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv"
+      },
+      "artists": [
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -3747,6 +3747,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "I'm Alive",
+        "url": "https://open.spotify.com/album/48xlFpLxbA39xev84Cxi9d"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        }
+      ],
+      "duration_ms": 224903,
+      "name": "I'm Alive - Rebirth Anthem 2019",
+      "url": "https://open.spotify.com/track/0cOiXDYE0IO1ISwKW4oZWE"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Until the Day I Die",
         "url": "https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV"
       },
@@ -3771,22 +3787,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "I'm Alive",
-        "url": "https://open.spotify.com/album/48xlFpLxbA39xev84Cxi9d"
-      },
-      "artists": [
-        {
-          "name": "Adaro",
-          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
-        }
-      ],
-      "duration_ms": 224903,
-      "name": "I'm Alive - Rebirth Anthem 2019",
-      "url": "https://open.spotify.com/track/0cOiXDYE0IO1ISwKW4oZWE"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Fire And Ice (Radio Edit)",
         "url": "https://open.spotify.com/album/2ondbr9eOLVOgfyENFNE1x"
       },
@@ -3803,8 +3803,8 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "I'm Sorry",
-        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
       },
       "artists": [
         {
@@ -3812,13 +3812,13 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
         }
       ],
-      "duration_ms": 204387,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
+      "duration_ms": 231157,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -3839,22 +3839,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "The Rave Dome",
-        "url": "https://open.spotify.com/album/2NNtdRHLtQSRJSIDySbTnS"
-      },
-      "artists": [
-        {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
-        }
-      ],
-      "duration_ms": 205940,
-      "name": "The Rave Dome",
-      "url": "https://open.spotify.com/track/4Srdf7olznuLK2qC67Zjbp"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Hunters Lullaby 2020",
         "url": "https://open.spotify.com/album/3Zx1ups2lvkCmbX7kiccFv"
       },
@@ -3867,6 +3851,22 @@
       "duration_ms": 173754,
       "name": "Hunters Lullaby 2020",
       "url": "https://open.spotify.com/track/0ZvKkulRYWDCheU3Wb9yFY"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "The Rave Dome",
+        "url": "https://open.spotify.com/album/2NNtdRHLtQSRJSIDySbTnS"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        }
+      ],
+      "duration_ms": 205940,
+      "name": "The Rave Dome",
+      "url": "https://open.spotify.com/track/4Srdf7olznuLK2qC67Zjbp"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -3887,30 +3887,6 @@
       "duration_ms": 366290,
       "name": "Step Into The Game (Official Intents Festival 2020 Anthem)",
       "url": "https://open.spotify.com/track/6YwBd9LIpIb12swAydBS7n"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/2Vu78SBKc1DAyOOShWdRHo"
-      },
-      "artists": [
-        {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        },
-        {
-          "name": "Code Black",
-          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
-        },
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/2ybm6gECxGAXmmsoNUtgLc"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -3939,6 +3915,30 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/2Vu78SBKc1DAyOOShWdRHo"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        },
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/2ybm6gECxGAXmmsoNUtgLc"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Still Waiting",
         "url": "https://open.spotify.com/album/1uJjGjQoX3bHNVcIU1raQM"
       },
@@ -3955,8 +3955,8 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
       },
       "artists": [
         {
@@ -3964,13 +3964,13 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
         }
       ],
-      "duration_ms": 231157,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
+      "duration_ms": 204387,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
     },
     {
       "added_at": "2024-03-07 23:00:00",

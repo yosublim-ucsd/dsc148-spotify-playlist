@@ -1,12 +1,12 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 451761,
+  "num_followers": 451747,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmYyNGI1ODQwZGJhMTMzNjI1MjA2ZTJlYmJiMjJlNDY0NTNmMWFi",
+  "snapshot_id": "MCxkMjE0ZDFhZThhMTIwODJlZWJjOGNiNWViYmZjMzExMDMxMTUwOWNl",
   "tracks": [
     {
       "added_at": "2023-10-13 11:44:55",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Amor de Carnaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Tijol\u00e3o (ao Vivo)",
         "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 175219,
       "name": "Tijol\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "Amor de Carnaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "No Pelo Em Campo Grande (ao Vivo)",
-        "url": "https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie"
+        "name": "Singular",
+        "url": "https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo"
       },
       "artists": [
         {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
         }
       ],
-      "duration_ms": 176575,
-      "name": "Namorada Reserva - Ao Vivo",
-      "url": "https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj"
+      "duration_ms": 230943,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Singular",
-        "url": "https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo"
+        "name": "No Pelo Em Campo Grande (ao Vivo)",
+        "url": "https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie"
       },
       "artists": [
         {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
         }
       ],
-      "duration_ms": 230943,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE"
+      "duration_ms": 176575,
+      "name": "Namorada Reserva - Ao Vivo",
+      "url": "https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1075,6 +1075,22 @@
       "duration_ms": 168080,
       "name": "Libera Ela - Ao Vivo",
       "url": "https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Made in Ro\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
+      },
+      "artists": [
+        {
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+        }
+      ],
+      "duration_ms": 187595,
+      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1115,6 +1131,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 140442,
+      "name": "Trincadinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Cobaia",
         "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
@@ -1131,22 +1163,6 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Terra Sem Cep (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 140442,
-      "name": "Trincadinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1203,8 +1219,8 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Made in Ro\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
+        "name": "Mui\u00e9 Brava",
+        "url": "https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5"
       },
       "artists": [
         {
@@ -1212,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
         }
       ],
-      "duration_ms": 187595,
-      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
+      "duration_ms": 201560,
+      "name": "Mui\u00e9 brava",
+      "url": "https://open.spotify.com/track/0ysTJCguBamXVvxwR1BNzE"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1259,8 +1275,8 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "O Embaixador in Cariri (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU"
+        "name": "O Embaixador - The Legacy (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
       },
       "artists": [
         {
@@ -1268,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 154183,
-      "name": "Quem Traiu Levou - Ao Vivo",
-      "url": "https://open.spotify.com/track/17Ryox5vWKp92IDW87C5PI"
+      "duration_ms": 208383,
+      "name": "De Menina pra Mulher - Ao Vivo",
+      "url": "https://open.spotify.com/track/7snoDTJeoJ2oVMhf7eoF3t"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1291,22 +1307,6 @@
       "duration_ms": 194781,
       "name": "Moleque",
       "url": "https://open.spotify.com/track/0oMaaZT0hHsy7QMfpidYtI"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Mui\u00e9 Brava",
-        "url": "https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5"
-      },
-      "artists": [
-        {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
-        }
-      ],
-      "duration_ms": 201560,
-      "name": "Mui\u00e9 brava",
-      "url": "https://open.spotify.com/track/0ysTJCguBamXVvxwR1BNzE"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Esquenta do DVD",
+        "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 155661,
+      "name": "Sofro Onde Eu Quiser",
+      "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Resenha (ao Vivo)",
         "url": "https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Esquenta do DVD",
-        "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
+        "name": "Medida Certa",
+        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
       },
       "artists": [
         {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 155661,
-      "name": "Sofro Onde Eu Quiser",
-      "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
+      "duration_ms": 186816,
+      "name": "Medida Certa",
+      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Medida Certa",
-        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
+        "name": "Quem Ensinou Fui Eu",
+        "url": "https://open.spotify.com/album/1NY84KlDbmKBDevpfRzazH"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 186816,
-      "name": "Medida Certa",
-      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
+      "duration_ms": 151082,
+      "name": "Quem Ensinou Fui Eu",
+      "url": "https://open.spotify.com/track/1mBx8G3GBajrV0eTeYQshc"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Quem Ensinou Fui Eu",
-        "url": "https://open.spotify.com/album/1NY84KlDbmKBDevpfRzazH"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 151082,
-      "name": "Quem Ensinou Fui Eu",
-      "url": "https://open.spotify.com/track/1mBx8G3GBajrV0eTeYQshc"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Espelho Meu (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 161152,
       "name": "Espelho Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Ws Em Casa 2",
+        "url": "https://open.spotify.com/album/7f45wEiSd2W7zCLM07pvkn"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 162864,
+      "name": "N\u00e3o Valeu",
+      "url": "https://open.spotify.com/track/2K7ZoPZ9GUeJJqKBIB8D9R"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1495,22 +1511,6 @@
       "duration_ms": 172472,
       "name": "Teste da M\u00e3ozinha - Ao Vivo",
       "url": "https://open.spotify.com/track/0wshnPflQAjMVaCDIraSWk"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Ws Em Casa 2",
-        "url": "https://open.spotify.com/album/7f45wEiSd2W7zCLM07pvkn"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 162864,
-      "name": "N\u00e3o Valeu",
-      "url": "https://open.spotify.com/track/2K7ZoPZ9GUeJJqKBIB8D9R"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Na Conta da Loucura",
+        "url": "https://open.spotify.com/album/1a4IghNswBIY8FlWFu32hF"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 165074,
+      "name": "Na Conta da Loucura",
+      "url": "https://open.spotify.com/track/4uDtYKBYx6ucXktl0p6vMu"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "S\u00e3o Jo\u00e3o 2018",
         "url": "https://open.spotify.com/album/2vtTaoVQP4fGcblFZptHbH"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 172654,
       "name": "Romance Com Safadeza",
       "url": "https://open.spotify.com/track/0q4oI0SqCL4PpIO4AB5wUu"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Na Conta da Loucura",
-        "url": "https://open.spotify.com/album/1a4IghNswBIY8FlWFu32hF"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 165074,
-      "name": "Na Conta da Loucura",
-      "url": "https://open.spotify.com/track/4uDtYKBYx6ucXktl0p6vMu"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Ws Em Casa 2",
-        "url": "https://open.spotify.com/album/7f45wEiSd2W7zCLM07pvkn"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 165976,
-      "name": "Vai L\u00e1",
-      "url": "https://open.spotify.com/track/0s2DOPKPVg3VBodWBsXwF0"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Frieza (Ao Vivo)",
         "url": "https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 185761,
       "name": "Frieza - Ao Vivo",
       "url": "https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Juramento do Dedinho",
+        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        }
+      ],
+      "duration_ms": 164808,
+      "name": "Juramento do Dedinho",
+      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
     }
   ],
   "unique_name": "Sertanejo no Trabalho",

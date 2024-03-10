@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 126472,
+  "2024-03-10": 126477,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -2067,7 +2067,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 250533,
       "name": "Chroma",
       "url": "https://open.spotify.com/track/0Yf9BcL40KJplKTDwmpIPw"
@@ -8175,6 +8175,28 @@
       "duration_ms": 192400,
       "name": "New Worlds",
       "url": "https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE"
+    },
+    {
+      "album": {
+        "name": "NEXT LVL",
+        "url": "https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "NEXT LVL",
+      "url": "https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo"
     },
     {
       "album": {

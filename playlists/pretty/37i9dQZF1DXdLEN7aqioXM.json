@@ -1,12 +1,12 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 991038,
+  "num_followers": 991136,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzUyMDkxNWNhMWU4YjUxZmQ2OWM4ZGZkZWUwNDNjMTFmMGNiMjIx",
+  "snapshot_id": "MCw3ZTQ2NjBjZDc3ZWQwYWM3Y2NiODYwYzFhZDJkY2FlYWVhZTc2OGFl",
   "tracks": [
     {
       "added_at": "2023-11-27 18:55:30",
@@ -903,30 +903,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Less Than Zero (feat. King Protea) [Waveshaper Remix]",
-        "url": "https://open.spotify.com/album/0ii4KfMrtI7OSNfHnJj8S4"
-      },
-      "artists": [
-        {
-          "name": "Scandroid",
-          "url": "https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ"
-        },
-        {
-          "name": "King Protea",
-          "url": "https://open.spotify.com/artist/3PwDndbBVU4u5Pgvx0mf9c"
-        },
-        {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
-        }
-      ],
-      "duration_ms": 261566,
-      "name": "Less Than Zero - Waveshaper Remix",
-      "url": "https://open.spotify.com/track/3HwJmPyOpvA2uzQ9U48yP5"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "2078",
         "url": "https://open.spotify.com/album/2PvrElU6qbxUnA8Msn44IP"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 358413,
       "name": "Getting Started",
       "url": "https://open.spotify.com/track/49oqW7nyd1MvKCbVgiwYGY"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Less Than Zero (feat. King Protea) [Waveshaper Remix]",
+        "url": "https://open.spotify.com/album/0ii4KfMrtI7OSNfHnJj8S4"
+      },
+      "artists": [
+        {
+          "name": "Scandroid",
+          "url": "https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ"
+        },
+        {
+          "name": "King Protea",
+          "url": "https://open.spotify.com/artist/3PwDndbBVU4u5Pgvx0mf9c"
+        },
+        {
+          "name": "Waveshaper",
+          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+        }
+      ],
+      "duration_ms": 261566,
+      "name": "Less Than Zero - Waveshaper Remix",
+      "url": "https://open.spotify.com/track/3HwJmPyOpvA2uzQ9U48yP5"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF"
+        "name": "Timewarp",
+        "url": "https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C"
       },
       "artists": [
         {
-          "name": "SHADU",
-          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
+          "name": "Rogue VHS",
+          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70"
+      "duration_ms": 247431,
+      "name": "Timewarp",
+      "url": "https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF"
+      },
+      "artists": [
+        {
+          "name": "SHADU",
+          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Cosmic Voyage",
         "url": "https://open.spotify.com/album/3nDvD4T8sB20QeF8XsFSQZ"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 284892,
       "name": "Cosmic Voyage",
       "url": "https://open.spotify.com/track/5rZ4Y6hbo4URT781qcGlLB"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Timewarp",
-        "url": "https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C"
-      },
-      "artists": [
-        {
-          "name": "Rogue VHS",
-          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
-        }
-      ],
-      "duration_ms": 247431,
-      "name": "Timewarp",
-      "url": "https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1491,38 +1491,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/7z0iHq5JX8d5TYsPyYIST7"
-      },
-      "artists": [
-        {
-          "name": "Zane Alexander",
-          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/6HlNsdeHhgXyEYUHtgSipY"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC"
-      },
-      "artists": [
-        {
-          "name": "Mezhdunami",
-          "url": "https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw"
-        }
-      ],
-      "duration_ms": 169988,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Fractal Forms",
         "url": "https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6"
       },
@@ -1543,6 +1511,38 @@
       "duration_ms": 235862,
       "name": "Fractal Forms",
       "url": "https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC"
+      },
+      "artists": [
+        {
+          "name": "Mezhdunami",
+          "url": "https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw"
+        }
+      ],
+      "duration_ms": 169988,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/7z0iHq5JX8d5TYsPyYIST7"
+      },
+      "artists": [
+        {
+          "name": "Zane Alexander",
+          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/6HlNsdeHhgXyEYUHtgSipY"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/5t6yVw28KJI3drkaTZuVoV"
-      },
-      "artists": [
-        {
-          "name": "Space Tourist",
-          "url": "https://open.spotify.com/artist/2t1mY9H3gW7Z86pcuXIEm2"
-        }
-      ],
-      "duration_ms": 224654,
-      "name": "Iridescent",
-      "url": "https://open.spotify.com/track/0oeCXjVP3WBHZuVQQu9PZk"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Contact",
         "url": "https://open.spotify.com/album/3lzJ3fjoEil0E1K5VuI1aP"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 237783,
       "name": "Contact",
       "url": "https://open.spotify.com/track/1j7YLlEbojw8RGhpqRSv0z"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/5t6yVw28KJI3drkaTZuVoV"
+      },
+      "artists": [
+        {
+          "name": "Space Tourist",
+          "url": "https://open.spotify.com/artist/2t1mY9H3gW7Z86pcuXIEm2"
+        }
+      ],
+      "duration_ms": 224654,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/0oeCXjVP3WBHZuVQQu9PZk"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "F-zero",
-        "url": "https://open.spotify.com/album/4Ik5Q8sbb68GCKannWHxK1"
-      },
-      "artists": [
-        {
-          "name": "Mark Dee",
-          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
-        }
-      ],
-      "duration_ms": 264827,
-      "name": "F-zero",
-      "url": "https://open.spotify.com/track/3wIPZzVdlQRJ7eToQqEEq6"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Dreaming of the Deep",
         "url": "https://open.spotify.com/album/398LcZVqf9sLUiV2nyeFEx"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 207143,
       "name": "Ocean of Love - Ben's Gentle Re-Rub",
       "url": "https://open.spotify.com/track/2MPd4ZQH9WNQ6IIuYTFa13"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "F-zero",
+        "url": "https://open.spotify.com/album/4Ik5Q8sbb68GCKannWHxK1"
+      },
+      "artists": [
+        {
+          "name": "Mark Dee",
+          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
+        }
+      ],
+      "duration_ms": 264827,
+      "name": "F-zero",
+      "url": "https://open.spotify.com/track/3wIPZzVdlQRJ7eToQqEEq6"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Pathfinder",
-        "url": "https://open.spotify.com/album/7M7VL9seSZrzPwHlti9DBy"
-      },
-      "artists": [
-        {
-          "name": "Odyssette",
-          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Pathfinder",
-      "url": "https://open.spotify.com/track/1FabIctyu6k0cDMk640Iwf"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Lullabye",
         "url": "https://open.spotify.com/album/2OMmtZZdjI3CxBABLeNNwL"
       },
@@ -2335,18 +2319,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Kame House",
-        "url": "https://open.spotify.com/album/2gU8WHMubp57KZ2wBnIodF"
+        "name": "Pathfinder",
+        "url": "https://open.spotify.com/album/7M7VL9seSZrzPwHlti9DBy"
       },
       "artists": [
         {
-          "name": "Mooij",
-          "url": "https://open.spotify.com/artist/7lQg4lpuza29dzqz71GarH"
+          "name": "Odyssette",
+          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
         }
       ],
-      "duration_ms": 325423,
-      "name": "Kame House",
-      "url": "https://open.spotify.com/track/5AgOmwG54UUIYiaPOIOG5o"
+      "duration_ms": 224760,
+      "name": "Pathfinder",
+      "url": "https://open.spotify.com/track/1FabIctyu6k0cDMk640Iwf"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2367,18 +2351,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "SILHOUETTE",
-        "url": "https://open.spotify.com/album/6si1qI4PoJCdrOUkRVxclZ"
+        "name": "Kame House",
+        "url": "https://open.spotify.com/album/2gU8WHMubp57KZ2wBnIodF"
       },
       "artists": [
         {
-          "name": "Mord Fustang",
-          "url": "https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K"
+          "name": "Mooij",
+          "url": "https://open.spotify.com/artist/7lQg4lpuza29dzqz71GarH"
         }
       ],
-      "duration_ms": 331145,
-      "name": "SILHOUETTE",
-      "url": "https://open.spotify.com/track/7F74wZ1QC7uSi9GYpR4gcn"
+      "duration_ms": 325423,
+      "name": "Kame House",
+      "url": "https://open.spotify.com/track/5AgOmwG54UUIYiaPOIOG5o"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2395,6 +2379,22 @@
       "duration_ms": 208032,
       "name": "Teenage Dreams",
       "url": "https://open.spotify.com/track/5ieAZzAyXwaSnleRQgfz4z"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "SILHOUETTE",
+        "url": "https://open.spotify.com/album/6si1qI4PoJCdrOUkRVxclZ"
+      },
+      "artists": [
+        {
+          "name": "Mord Fustang",
+          "url": "https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K"
+        }
+      ],
+      "duration_ms": 331145,
+      "name": "SILHOUETTE",
+      "url": "https://open.spotify.com/track/7F74wZ1QC7uSi9GYpR4gcn"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Turnover",
-        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
-      },
-      "artists": [
-        {
-          "name": "Envotion",
-          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
-        }
-      ],
-      "duration_ms": 185100,
-      "name": "Turnover",
-      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Hanami",
         "url": "https://open.spotify.com/album/3Byp31mNTBKUSGPH3sX7QO"
       },
@@ -2519,22 +2503,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Fluorescence",
-        "url": "https://open.spotify.com/album/5TVBn9QpUdKzjGYtI3snGw"
+        "name": "Turnover",
+        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
       },
       "artists": [
         {
-          "name": "Odyssette",
-          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
-        },
-        {
-          "name": "Melllo",
-          "url": "https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc"
+          "name": "Envotion",
+          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
         }
       ],
-      "duration_ms": 235714,
-      "name": "Fluorescence",
-      "url": "https://open.spotify.com/track/4K3onPe55qb2WsgrvOZmu7"
+      "duration_ms": 185100,
+      "name": "Turnover",
+      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2575,18 +2555,38 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Sin",
-        "url": "https://open.spotify.com/album/4Twd8iMGjSbUt7LwhE1BiT"
+        "name": "Fluorescence",
+        "url": "https://open.spotify.com/album/5TVBn9QpUdKzjGYtI3snGw"
       },
       "artists": [
         {
-          "name": "Idrissi",
-          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+          "name": "Odyssette",
+          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
+        },
+        {
+          "name": "Melllo",
+          "url": "https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc"
         }
       ],
-      "duration_ms": 263076,
-      "name": "Sin",
-      "url": "https://open.spotify.com/track/1WWGZ20EZSVGaLF8tu9njX"
+      "duration_ms": 235714,
+      "name": "Fluorescence",
+      "url": "https://open.spotify.com/track/4K3onPe55qb2WsgrvOZmu7"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Memorie",
+        "url": "https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO"
+      },
+      "artists": [
+        {
+          "name": "Baldocaster",
+          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
+        }
+      ],
+      "duration_ms": 206593,
+      "name": "Persona",
+      "url": "https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2615,34 +2615,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Memorie",
-        "url": "https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO"
+        "name": "Sin",
+        "url": "https://open.spotify.com/album/4Twd8iMGjSbUt7LwhE1BiT"
       },
       "artists": [
         {
-          "name": "Baldocaster",
-          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
         }
       ],
-      "duration_ms": 206593,
-      "name": "Persona",
-      "url": "https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
-      },
-      "artists": [
-        {
-          "name": "Older Future",
-          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
-        }
-      ],
-      "duration_ms": 307747,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
+      "duration_ms": 263076,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/1WWGZ20EZSVGaLF8tu9njX"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2659,6 +2643,22 @@
       "duration_ms": 313034,
       "name": "Timeshift",
       "url": "https://open.spotify.com/track/2ZEOISOM5pxvClnCtAKQCQ"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
+      },
+      "artists": [
+        {
+          "name": "Older Future",
+          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
+        }
+      ],
+      "duration_ms": 307747,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
     },
     {
       "added_at": "2023-11-27 18:55:30",

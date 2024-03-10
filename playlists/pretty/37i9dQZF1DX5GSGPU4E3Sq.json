@@ -1,12 +1,12 @@
 {
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
-  "num_followers": 190101,
+  "num_followers": 190111,
   "original_name": "Terapia de Bosque",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjY1MjVlODUxMjA3MzRkMzJhZDE4Mzk4MjcyZTdlZDg2YTIxY2Qw",
+  "snapshot_id": "MCxjZGQ2MGI1MDNkNGQ4NWMyMGVkMWU0ODcwOTRjODBhM2Y0ZDE2YTMx",
   "tracks": [
     {
       "added_at": "2024-03-07 19:49:41",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
+        "name": "Soft Touch",
+        "url": "https://open.spotify.com/album/3lktgmWsTCNDHafXOj7D1V"
+      },
+      "artists": [
+        {
+          "name": "Rama Fiore",
+          "url": "https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366"
+        }
+      ],
+      "duration_ms": 159129,
+      "name": "Soft Touch",
+      "url": "https://open.spotify.com/track/54cRF683yoAMcfefg1Drfu"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
         "name": "A Magic Forest",
         "url": "https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Soft Touch",
-        "url": "https://open.spotify.com/album/3lktgmWsTCNDHafXOj7D1V"
-      },
-      "artists": [
-        {
-          "name": "Rama Fiore",
-          "url": "https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366"
-        }
-      ],
-      "duration_ms": 159129,
-      "name": "Soft Touch",
-      "url": "https://open.spotify.com/track/54cRF683yoAMcfefg1Drfu"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Silent Waters",
         "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "The Calm Sessions",
-        "url": "https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Couture",
-          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
-        }
-      ],
-      "duration_ms": 157481,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Sounds",
         "url": "https://open.spotify.com/album/6NMpDeOYccREmbSyeMbCoy"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 210272,
       "name": "Birds in Song",
       "url": "https://open.spotify.com/track/6AP5tmPtYpz14bX1Iut1mG"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "The Calm Sessions",
+        "url": "https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "duration_ms": 157481,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Diaphanous Dreamcoat",
-        "url": "https://open.spotify.com/album/5y3W3VE5Tot4VXQnRaqiJD"
-      },
-      "artists": [
-        {
-          "name": "Silver Maple",
-          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Diaphanous Dreamcoats",
-      "url": "https://open.spotify.com/track/2Yt6gHlJKspCebdgh2IROo"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Zentrera",
         "url": "https://open.spotify.com/album/6kwnMcWJVGzf6oRB4Z2W7u"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 172800,
       "name": "Zentrera",
       "url": "https://open.spotify.com/track/6aJTuwVY83SwEmFJxtKXoR"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Diaphanous Dreamcoat",
+        "url": "https://open.spotify.com/album/5y3W3VE5Tot4VXQnRaqiJD"
+      },
+      "artists": [
+        {
+          "name": "Silver Maple",
+          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Diaphanous Dreamcoats",
+      "url": "https://open.spotify.com/track/2Yt6gHlJKspCebdgh2IROo"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Brown / Beige",
-        "url": "https://open.spotify.com/album/01UZf2ysXY8Ki07JtpiN6i"
-      },
-      "artists": [
-        {
-          "name": "ANDYL",
-          "url": "https://open.spotify.com/artist/5WKziRzYO7w5akjuzcCr80"
-        }
-      ],
-      "duration_ms": 137600,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/45HEzbPMOdFlNjzf7mlG3F"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Relajar",
         "url": "https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 166677,
       "name": "pensamiento positivo",
       "url": "https://open.spotify.com/track/0RaaeawAa794NzQ8vezHIp"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Brown / Beige",
+        "url": "https://open.spotify.com/album/01UZf2ysXY8Ki07JtpiN6i"
+      },
+      "artists": [
+        {
+          "name": "ANDYL",
+          "url": "https://open.spotify.com/artist/5WKziRzYO7w5akjuzcCr80"
+        }
+      ],
+      "duration_ms": 137600,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/45HEzbPMOdFlNjzf7mlG3F"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "PHANTOM BRICKWORKS (IV & V)",
-        "url": "https://open.spotify.com/album/1YFFIE8haOc1zsefoE0Ka3"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 678013,
-      "name": "PHANTOM BRICKWORKS IV",
-      "url": "https://open.spotify.com/track/4e2kZbzHiRIVqkgCrhRacI"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "A Gentle Ending",
         "url": "https://open.spotify.com/album/2M3o7haqwBiQThb9Uo128w"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 185454,
       "name": "A Gentle Ending",
       "url": "https://open.spotify.com/track/1qxbBYzukR2ralqf0V8MTx"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "PHANTOM BRICKWORKS (IV & V)",
+        "url": "https://open.spotify.com/album/1YFFIE8haOc1zsefoE0Ka3"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 678013,
+      "name": "PHANTOM BRICKWORKS IV",
+      "url": "https://open.spotify.com/track/4e2kZbzHiRIVqkgCrhRacI"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Dim Lights",
-        "url": "https://open.spotify.com/album/79Yp8TckAsyRc3xLTeg6HE"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Clouds",
-          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
-        }
-      ],
-      "duration_ms": 180869,
-      "name": "Dim Lights",
-      "url": "https://open.spotify.com/track/6mJK355PtWnKdKjtpGL80W"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Relajar",
         "url": "https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 164449,
       "name": "gay\u0101",
       "url": "https://open.spotify.com/track/0qh1hvvSPTchiWltyuKG94"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Dim Lights",
+        "url": "https://open.spotify.com/album/79Yp8TckAsyRc3xLTeg6HE"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Clouds",
+          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Dim Lights",
+      "url": "https://open.spotify.com/track/6mJK355PtWnKdKjtpGL80W"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1651,6 +1651,22 @@
       "duration_ms": 170281,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/5pJvcUYWJoA12oNJsgU8CS"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0FnNwEb7LkeEAZDtJ3ijgY"
+      },
+      "artists": [
+        {
+          "name": "Kyrste",
+          "url": "https://open.spotify.com/artist/4oaGWEt8TqYBLB3Fc0Lo18"
+        }
+      ],
+      "duration_ms": 157712,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/6G0ssP9WI63lIvSSfGAmt0"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5gxTLnHZkpUd1LlmzWIAZm"
-      },
-      "artists": [
-        {
-          "name": "On Dunes",
-          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
-        }
-      ],
-      "duration_ms": 185214,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/4B5gx9mHHElyhR5agL2NU9"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Tranquillity",
         "url": "https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs"
       },
@@ -1795,6 +1795,22 @@
       "duration_ms": 201764,
       "name": "Tranquillity",
       "url": "https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5gxTLnHZkpUd1LlmzWIAZm"
+      },
+      "artists": [
+        {
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
+        }
+      ],
+      "duration_ms": 185214,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/4B5gx9mHHElyhR5agL2NU9"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Peace and Balance",
-        "url": "https://open.spotify.com/album/7EMmU20lXqzyELFOsjP34Z"
-      },
-      "artists": [
-        {
-          "name": "Source of Peace",
-          "url": "https://open.spotify.com/artist/2QHHpNVs763albcUDkhCwt"
-        }
-      ],
-      "duration_ms": 171713,
-      "name": "The Ground Beneath",
-      "url": "https://open.spotify.com/track/6izmMmLV1kyZp16F4gsHnS"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Forest Creeks",
         "url": "https://open.spotify.com/album/0v6HrufgzVstSVfet7u6Nf"
       },
@@ -1891,6 +1891,22 @@
       "duration_ms": 155905,
       "name": "Midmorning in the Forest",
       "url": "https://open.spotify.com/track/49kxZ12f0I1RYCZBCKlCMK"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Peace and Balance",
+        "url": "https://open.spotify.com/album/7EMmU20lXqzyELFOsjP34Z"
+      },
+      "artists": [
+        {
+          "name": "Source of Peace",
+          "url": "https://open.spotify.com/artist/2QHHpNVs763albcUDkhCwt"
+        }
+      ],
+      "duration_ms": 171713,
+      "name": "The Ground Beneath",
+      "url": "https://open.spotify.com/track/6izmMmLV1kyZp16F4gsHnS"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1943,22 +1959,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Shimmer",
-        "url": "https://open.spotify.com/album/26ueVkACHkCYBJnspwyLvv"
-      },
-      "artists": [
-        {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
-        }
-      ],
-      "duration_ms": 129657,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/7KX27IbaUuApRmJ8Q4zlWE"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Toulouse",
         "url": "https://open.spotify.com/album/0elj9tMQi6XMfd0FXlAdgj"
       },
@@ -1971,6 +1971,22 @@
       "duration_ms": 142094,
       "name": "Toulouse",
       "url": "https://open.spotify.com/track/4wvMF7ZYxzd2lLUThMpSAg"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/26ueVkACHkCYBJnspwyLvv"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 129657,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/7KX27IbaUuApRmJ8Q4zlWE"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2055,6 +2071,22 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
+        "name": "Favourite Australian Birdsong",
+        "url": "https://open.spotify.com/album/1grPfEodwAp9wkc6qX2QUO"
+      },
+      "artists": [
+        {
+          "name": "Andrew Skeoch & Sarah Koschak",
+          "url": "https://open.spotify.com/artist/5ecZ3EPRjF92aSORksRama"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "The Living Outback: Pied Butcherbird",
+      "url": "https://open.spotify.com/track/5S7AWoLSduXiiVOXYV2M43"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
         "name": "Dazzle Ships",
         "url": "https://open.spotify.com/album/1XoHVIy2pTAKTDseBfU2gJ"
       },
@@ -2083,22 +2115,6 @@
       "duration_ms": 429547,
       "name": "Windchimes",
       "url": "https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
-        "name": "Favourite Australian Birdsong",
-        "url": "https://open.spotify.com/album/1grPfEodwAp9wkc6qX2QUO"
-      },
-      "artists": [
-        {
-          "name": "Andrew Skeoch & Sarah Koschak",
-          "url": "https://open.spotify.com/artist/5ecZ3EPRjF92aSORksRama"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "The Living Outback: Pied Butcherbird",
-      "url": "https://open.spotify.com/track/5S7AWoLSduXiiVOXYV2M43"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2135,22 +2151,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Intertidal",
-        "url": "https://open.spotify.com/album/1wmJ9PxbMZX9desPZTNQ43"
-      },
-      "artists": [
-        {
-          "name": "Balearic Sea",
-          "url": "https://open.spotify.com/artist/77y7sSZazaAjLRH7ZMaZT6"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Photophores",
-      "url": "https://open.spotify.com/track/0t824TdL6NQj4G8HvDMlkc"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Sparrow Meadow",
         "url": "https://open.spotify.com/album/2kJFfzwMj8jdiXJ4OjBZc2"
       },
@@ -2183,18 +2183,18 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Always Sometimes",
-        "url": "https://open.spotify.com/album/6RyzF1MQrLOeGgUqgDP3LK"
+        "name": "Intertidal",
+        "url": "https://open.spotify.com/album/1wmJ9PxbMZX9desPZTNQ43"
       },
       "artists": [
         {
-          "name": "Nakuru",
-          "url": "https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1"
+          "name": "Balearic Sea",
+          "url": "https://open.spotify.com/artist/77y7sSZazaAjLRH7ZMaZT6"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Always Sometimes",
-      "url": "https://open.spotify.com/track/0CccKVvnGtDBJHfeb0IdiE"
+      "duration_ms": 156363,
+      "name": "Photophores",
+      "url": "https://open.spotify.com/track/0t824TdL6NQj4G8HvDMlkc"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2215,22 +2215,6 @@
       "duration_ms": 300734,
       "name": "Om mani palme hum",
       "url": "https://open.spotify.com/track/0FtC15WLzcESeYps3uDcpP"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0FnNwEb7LkeEAZDtJ3ijgY"
-      },
-      "artists": [
-        {
-          "name": "Kyrste",
-          "url": "https://open.spotify.com/artist/4oaGWEt8TqYBLB3Fc0Lo18"
-        }
-      ],
-      "duration_ms": 157712,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/6G0ssP9WI63lIvSSfGAmt0"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2263,6 +2247,22 @@
       "duration_ms": 157756,
       "name": "Effigy",
       "url": "https://open.spotify.com/track/6XXDWp5QSJ1IkLMreFK7Xm"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Always Sometimes",
+        "url": "https://open.spotify.com/album/6RyzF1MQrLOeGgUqgDP3LK"
+      },
+      "artists": [
+        {
+          "name": "Nakuru",
+          "url": "https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Always Sometimes",
+      "url": "https://open.spotify.com/track/0CccKVvnGtDBJHfeb0IdiE"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Cosmic Bliss",
-        "url": "https://open.spotify.com/album/5s6ila6z4pWVwrnPDVOxzP"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Night Music",
-          "url": "https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Human Endeavors",
-      "url": "https://open.spotify.com/track/3O2ErLKbR8ClnGgDFmPkZG"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6tVdXbTtIuqU4u46XVI8PF"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 198139,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1ZmXjqlQ7JQBPOwIhaCjIZ"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Cosmic Bliss",
+        "url": "https://open.spotify.com/album/5s6ila6z4pWVwrnPDVOxzP"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Night Music",
+          "url": "https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Human Endeavors",
+      "url": "https://open.spotify.com/track/3O2ErLKbR8ClnGgDFmPkZG"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Amplitude",
-        "url": "https://open.spotify.com/album/2sBHOOGlTnp4LhXTq5G6fX"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Blake",
-          "url": "https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv"
-        }
-      ],
-      "duration_ms": 167195,
-      "name": "Amplitude",
-      "url": "https://open.spotify.com/track/0F8nxG2gJ6xXpanrZlfp4D"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Pink Lotus",
         "url": "https://open.spotify.com/album/6s6WQ9eCaArieGMCsoe5vP"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 216000,
       "name": "Sweet Iris",
       "url": "https://open.spotify.com/track/3irGdDT3AonsGCNgpx7eAt"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Pampeano",
+        "url": "https://open.spotify.com/album/75T7bNuVXxahedg6q9knVS"
+      },
+      "artists": [
+        {
+          "name": "Osno",
+          "url": "https://open.spotify.com/artist/3XqgdBsuoShCOmDjwn5pWq"
+        }
+      ],
+      "duration_ms": 267937,
+      "name": "Pampeano",
+      "url": "https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR"
     }
   ],
   "unique_name": "Terapia de Bosque",

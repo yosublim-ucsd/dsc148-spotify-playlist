@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 859957,
+  "2024-03-10": 859975,
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: SG Lewis & Chlo\u00e9 Caillet",
+  "description": "The best indie dance tracks of the moment. Cover: Machinedrum & Tinashe",
   "name": "metropolis",
   "tracks": [
     {
@@ -2369,7 +2369,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 240000,
       "name": "BLINDED",
       "url": "https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8"
@@ -4647,7 +4647,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 136000,
       "name": "deep in the water",
       "url": "https://open.spotify.com/track/155hvjjETZnGJXg187HGXy"
@@ -8970,6 +8970,28 @@
     },
     {
       "album": {
+        "name": "High (Remix)",
+        "url": "https://open.spotify.com/album/38MrNIfXvvdnU0WxeArHSd"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "High - Remix",
+      "url": "https://open.spotify.com/track/1YTslvpUMCvbo2GMR25LTq"
+    },
+    {
+      "album": {
         "name": "High and I Like it",
         "url": "https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL"
       },
@@ -10503,6 +10525,24 @@
       "duration_ms": 171380,
       "name": "Inch Off The Earth",
       "url": "https://open.spotify.com/track/7CwAaS3gJk0UXWL6gbpsmV"
+    },
+    {
+      "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/5S2mpgI8SRO5apKCEFSHET"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/5lvB1y6l9FF5BiOSDPNM27"
     },
     {
       "album": {
@@ -13533,7 +13573,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 189306,
       "name": "Maybe I Need You",
       "url": "https://open.spotify.com/track/6cuhCnAklXM2Kg5b2KovAw"
@@ -14075,6 +14115,24 @@
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "album": {
+        "name": "MORNING",
+        "url": "https://open.spotify.com/album/0ye9pq49yrh7Am5yB8T7Fp"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "MORNING",
+      "url": "https://open.spotify.com/track/4h6PzI2Fbo5z4QXOHnsCWo"
     },
     {
       "album": {
@@ -16726,6 +16784,28 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/5rFQHgLwKko3D5OKB3BuqT"
+      },
+      "artists": [
+        {
+          "name": "Eli Mich",
+          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4KaUtCS52nF45jCbFUi1OM"
+    },
+    {
+      "album": {
         "name": "Prove It To You",
         "url": "https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J"
       },
@@ -18515,7 +18595,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 181998,
       "name": "Skrt",
       "url": "https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB"
@@ -18675,7 +18755,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 252187,
       "name": "Small Sanctuary - nimino Remix",
       "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
@@ -18853,7 +18933,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 243855,
       "name": "Some Kind of Static - Remix",
       "url": "https://open.spotify.com/track/72hQvlO5qg9uUXe2BIBFc5"
@@ -22150,6 +22230,24 @@
     },
     {
       "album": {
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197036,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
+    },
+    {
+      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -23805,6 +23903,28 @@
       "duration_ms": 311625,
       "name": "you\u2019ve changed, i\u2019ve changed",
       "url": "https://open.spotify.com/track/7yeX6FDsUUNzcyE30ROrBA"
+    },
+    {
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW"

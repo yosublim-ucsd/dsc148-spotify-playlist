@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-101 songs - 7 hr 46 min
+102 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,8 +93,9 @@
 | [ミエナイチカラ 〜INVISIBLE ONE〜](https://open.spotify.com/track/1B7JdytwORQ3snphFEbPW1) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ミエナイチカラ 〜INVISIBLE ONE〜 / MOVE](https://open.spotify.com/album/13hOMXiB9ydOwyIOY7JxoT) | 4:38 | 2023-07-22 |  |
 | [メロディー](https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [Cafe Japan](https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb) | 4:40 | 2023-07-22 |  |
 | [ラストシーン](https://open.spotify.com/track/6J4lSsvQqL7qvrdZvZ9mz0) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [King & Queen](https://open.spotify.com/album/1ircpdTv3ZM7oSNBoWBvDh) | 5:28 | 2023-07-22 |  |
-| [世界の終わり \- Primitive Version](https://open.spotify.com/track/6BPdRjaewBFRzJb4nvfkY9) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [TMGE 106](https://open.spotify.com/album/5mc8BFEkYmVtguFT1UpP62) | 5:45 | 2023-11-15 |  |
+| [世界の終わり \- Primitive Version](https://open.spotify.com/track/6BPdRjaewBFRzJb4nvfkY9) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [TMGE 106](https://open.spotify.com/album/5mc8BFEkYmVtguFT1UpP62) | 5:45 | 2023-11-15 | 2024-03-10 |
 | [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 | 2023-07-22 | 2024-03-07 |
+| [世界の終わり \- Primitive Version](https://open.spotify.com/track/7aPAOQoDp7gzqliUmP61F0) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/3RsTbe4muNGtM2EmSgC84u) | 5:46 | 2023-11-15 |  |
 | [冬のファンタジー](https://open.spotify.com/track/0IIod51MVVz0K5gCIfvedy) | [Cousin](https://open.spotify.com/artist/5JOAZKg6DBbDulvpP9Otg8) | [ラブ＆スマイル](https://open.spotify.com/album/2Re4xLfkm57CApVRZ7oSNj) | 4:57 | 2023-07-22 |  |
 | [名もなき詩](https://open.spotify.com/track/60ba7YZ3yqbCDGAkPNXzBh) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [深海](https://open.spotify.com/album/0URMrYr4RiKdPVfM5vWxUp) | 5:28 | 2023-07-22 |  |
 | [嘆きの雪](https://open.spotify.com/track/1TfJjhbjKuR5KjXSDTv0U1) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [嘆きの雪](https://open.spotify.com/album/2rZv82TuHW24YmOWOX2Gci) | 4:07 | 2023-07-22 |  |

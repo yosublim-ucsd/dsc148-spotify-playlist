@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 367064,
+  "2024-03-10": 367271,
   "date_first_scraped": "2023-09-07",
   "description": "All the stuff that will blow your speakers!",
   "name": "Bass Explosion",
@@ -413,7 +413,7 @@
     {
       "album": {
         "name": "Around the World (La La La)",
-        "url": "https://open.spotify.com/album/10VpbIxcPTE6lUijehThKK"
+        "url": "https://open.spotify.com/album/5tqjFbQv97WHcJQvHLJogR"
       },
       "artists": [
         {
@@ -436,6 +436,36 @@
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149488,
+      "name": "Around the World (La La La) - Quickdrop Edit",
+      "url": "https://open.spotify.com/track/0nbwOMyWHcEAdvirjym5ib"
+    },
+    {
+      "album": {
+        "name": "Around the World (La La La)",
+        "url": "https://open.spotify.com/album/10VpbIxcPTE6lUijehThKK"
+      },
+      "artists": [
+        {
+          "name": "Semitoo",
+          "url": "https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk"
+        },
+        {
+          "name": "DJane HouseKat",
+          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
+        },
+        {
+          "name": "Quickdrop",
+          "url": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
+        },
+        {
+          "name": "Ivan Fillini",
+          "url": "https://open.spotify.com/artist/4Lx8Q2i6Cg3RHCWa0lODGa"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-09",
       "duration_ms": 149488,
       "name": "Around the World (La La La) - Quickdrop Edit",
       "url": "https://open.spotify.com/track/6hhxzTEz5HjBHeVdWbylUy"
@@ -1283,7 +1313,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 138088,
       "name": "DJ Turn It Up - Ben Nicky Remix",
       "url": "https://open.spotify.com/track/5nqW6RAWDBynvve3TDXH9r"
@@ -3065,7 +3095,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 153585,
       "name": "Live Until I Die",
       "url": "https://open.spotify.com/track/4JjHBHKIBCuojHrL5wyMow"

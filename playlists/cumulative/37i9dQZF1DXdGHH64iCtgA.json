@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 486760,
       "name": "Animosity - SOPHIE Remix",
       "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
@@ -3848,6 +3848,24 @@
       "duration_ms": 324350,
       "name": "Salt",
       "url": "https://open.spotify.com/track/3jks0Wb2Pnq981bSX3X44x"
+    },
+    {
+      "album": {
+        "name": "TWINSOUL",
+        "url": "https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215417,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5"
     },
     {
       "album": {

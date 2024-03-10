@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 124704,
+  "2024-03-10": 124735,
   "date_first_scraped": "2023-08-09",
   "description": "Nuestra alma mater es la calle. El Makabelico en portada",
   "name": "Los Malportados ",
@@ -347,6 +347,24 @@
       "duration_ms": 142417,
       "name": "Camino Firme",
       "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
+    },
+    {
+      "album": {
+        "name": "Capitan Del Sur Oriente V2",
+        "url": "https://open.spotify.com/album/4JiHZF7q6K1rSKq5UALXcb"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287407,
+      "name": "Capitan Del Sur Oriente V2",
+      "url": "https://open.spotify.com/track/019YJhbrlmNlI8znHLnyZa"
     },
     {
       "album": {
@@ -811,7 +829,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 303093,
       "name": "Entre Tiburones",
       "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
@@ -943,6 +961,54 @@
       "duration_ms": 178785,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/2kY8eaR1Y5T69uMhXw3h1s"
+    },
+    {
+      "album": {
+        "name": "Gangsters En La Disco",
+        "url": "https://open.spotify.com/album/6zg980BJZT8M6Wei0A2Kcn"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Gangsters En La Disco",
+      "url": "https://open.spotify.com/track/7Iai1m3Y4ZQBPaj1cwpSzy"
+    },
+    {
+      "album": {
+        "name": "Glopeta Negro Mate",
+        "url": "https://open.spotify.com/album/6y2ienRWYtxjOr39PrgcK5"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Riky Produce",
+          "url": "https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Glopeta Negro Mate",
+      "url": "https://open.spotify.com/track/66Yu3bkomkikDlnYaT2Hkb"
     },
     {
       "album": {
@@ -1646,6 +1712,24 @@
     },
     {
       "album": {
+        "name": "Ni\u00f1o Del Hood",
+        "url": "https://open.spotify.com/album/4mUDP7Z8ewV7Uqv27VxWtR"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163220,
+      "name": "Ni\u00f1o Del Hood",
+      "url": "https://open.spotify.com/track/0MZltIM3rONXeMQz7RowkA"
+    },
+    {
+      "album": {
         "name": "No Cambio",
         "url": "https://open.spotify.com/album/57mBr7meCLPPOVv7bS4WEU"
       },
@@ -1831,7 +1915,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 292571,
       "name": "Padre Mio",
       "url": "https://open.spotify.com/track/0cMtiFwU0UzdzDaeyP4CqP"
@@ -1867,7 +1951,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 258795,
       "name": "Para San Judas Tadeo",
       "url": "https://open.spotify.com/track/2RSMjz5w4rwYl96HtIlUQM"
@@ -2373,7 +2457,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 206883,
       "name": "Uno",
       "url": "https://open.spotify.com/track/3MECaWf2a2va4nG2wRsPkR"

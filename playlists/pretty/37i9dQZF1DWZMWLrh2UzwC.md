@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\.  International Women’s Day takeover\. Powered by <a href="spotify:genre:equal">EQUAL</a> Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,527 likes - 95 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,542 likes - 95 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 24 | [Devastated](https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson](https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9) | 3:51 |
 | 25 | [2:10](https://open.spotify.com/track/2MP4oGxesMBDjDRxzFtXLU) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [2:10](https://open.spotify.com/album/0yWa2hga0p1oo1ZhuAJqtl) | 3:30 |
 | 26 | [新的一天 \- 《（真）新的一天》電影主題曲](https://open.spotify.com/track/3GSRDqTZkakjxOGwrDY3Ag) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [新的一天 \(《（真）新的一天》電影主題曲\)](https://open.spotify.com/album/7DNcBg0T3953z4vDfgZRgh) | 4:32 |
-| 27 | [偏見 \- 原創版](https://open.spotify.com/track/2X1DbZvL3t5wTXDKkWeIdy) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [偏見 \(原創版\)](https://open.spotify.com/album/3R0ifMoEgDToq4DPt4GD4G) | 4:09 |
+| 27 | [偏見 \(原創版\)](https://open.spotify.com/track/2X1DbZvL3t5wTXDKkWeIdy) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [偏見 \(原創版\)](https://open.spotify.com/album/3R0ifMoEgDToq4DPt4GD4G) | 4:09 |
 | 28 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 |
 | 29 | [When Spring Comes](https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [When Spring Comes](https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me) | 3:58 |
 | 30 | [Desire to fly](https://open.spotify.com/track/3G81cFKifTjjBeLYUoG5bK) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Desire to fly](https://open.spotify.com/album/5L4p78XkHQI4q5rE7kt9Yo) | 4:45 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 94 | [Skin2Skin](https://open.spotify.com/track/5eJgJBijctTUGinFJXgVDF) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Skin2Skin](https://open.spotify.com/album/3dg7iCJ10cACUNnMyg3Dow) | 3:04 |
 | 95 | [I'm Wrong](https://open.spotify.com/track/7pebHWXKUwybJKWD8LcavU) | [KRNA](https://open.spotify.com/artist/2MftvYgqbFb61tLmtRnybv) | [I'm Wrong](https://open.spotify.com/album/3tskRYWqYopzTKOES7QlR4) | 3:41 |
 
-Snapshot ID: `MCw0NjQxY2M0OTkzMWRjZWE0NzU1NGY3ODllYjIzNzk1MmNiZTgwNzU0`
+Snapshot ID: `MCwxYTViM2Y5NjM0N2VlNWQyMTNjMzQxZDNkZmMxMjYzMTFiYTMxMmMy`

@@ -2,9 +2,9 @@
 
 ### [Locker Room ](https://open.spotify.com/playlist/37i9dQZF1DX8SaiEt4OVJw)
 
-> One Ring, Two Champions <br/>🇳🇬🇨🇲
+> The Champion's Sound
 
-564 songs - 1 day 11 hr 13 min
+565 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 | 2024-02-02 | 2024-02-04 |
 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 | 2024-02-06 |  |
 | [I Shot The Sheriff](https://open.spotify.com/track/60e5PcqGmlVFQ0HHgUagCJ) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 4:40 | 2023-12-05 | 2024-01-13 |
+| [I Spy](https://open.spotify.com/track/46h7yzNgZQNuyn5BwBHQeS) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Greatest Hits](https://open.spotify.com/album/0AyaZjU2ofiBtPlJXk0Epv) | 2:50 | 2024-03-09 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-12-04 | 2024-01-13 |
 | [Icon](https://open.spotify.com/track/22nyEAEM29tcBRhukR089b) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [SYRE](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) | 3:40 | 2024-03-08 |  |
 | [Idda](https://open.spotify.com/track/1MI8d88U2gBYEXAjCXzkXF) | [Mia Guisse](https://open.spotify.com/artist/0S17uH3c9zczQrichFl24S) | [Idda](https://open.spotify.com/album/0oofqp32mNMf1zIPx48fiJ) | 3:11 | 2022-11-29 | 2023-07-12 |
@@ -555,7 +556,7 @@
 | [World In Union](https://open.spotify.com/track/0F7pij0rEvmbMaqzckKHNi) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [P.J\. Powers](https://open.spotify.com/artist/0CJNZPkAMKJwDj7FaZdRnB) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 3:50 | 2023-09-07 | 2023-11-19 |
 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 | 2024-02-02 | 2024-02-04 |
 | [Xale bi](https://open.spotify.com/track/5A8JVvC7RJ9OHEC411OdLb) | [Amira Abed](https://open.spotify.com/artist/4UtWbbJdQl4MXHgZ3Ol6ji) | [Xale bi](https://open.spotify.com/album/15xsr5C8VEYE8c9KUiTdgw) | 3:06 | 2022-11-29 | 2023-07-12 |
-| [Y'a Dieu dedans](https://open.spotify.com/track/0G8JSk6N6VMvLisq3ENE3B) | [Paulo Chakal](https://open.spotify.com/artist/0RmMqOdyj5lvgDY2GU2R8q), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Y'a Dieu dedans](https://open.spotify.com/album/5WScnf7AKjBhg499TE3EYu) | 3:40 | 2024-02-06 |  |
+| [Y'a Dieu dedans](https://open.spotify.com/track/0G8JSk6N6VMvLisq3ENE3B) | [Paulo Chakal](https://open.spotify.com/artist/0RmMqOdyj5lvgDY2GU2R8q), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Y'a Dieu dedans](https://open.spotify.com/album/5WScnf7AKjBhg499TE3EYu) | 3:40 | 2024-02-06 | 2024-03-10 |
 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [ASYLUM](https://open.spotify.com/album/27W7QteTVMhSPzBDnjODP2) | 4:56 | 2024-02-07 | 2024-02-10 |
 | [YAMO](https://open.spotify.com/track/681IDCzN67f7WN8FQHBrv1) | [Siju](https://open.spotify.com/artist/2lTnmPQNGklnouOsBEUaJd) | [YAMO](https://open.spotify.com/album/3VKrrNwMBPteTchws5stJe) | 2:45 | 2024-03-08 |  |
 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 | 2023-11-18 | 2023-12-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 626208,
+  "num_followers": 626272,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2Y1YjI5NTc5MDk1ZTk5MWMzMjg3Yjc0NzgxOTIzODRlMmJkMWRm",
+  "snapshot_id": "MCxjYTVjN2Y2NmE3NTUwZTI4OWIwYjE5YzM4ZmU1ZDEwMWZmMjBjZTEw",
   "tracks": [
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
-        "url": "https://open.spotify.com/album/3nR5pUJkbh6Jm42JPjuZxL"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        },
-        {
-          "name": "The Boys Choir Of Harlem",
-          "url": "https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11"
-        }
-      ],
-      "duration_ms": 250107,
-      "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
-      "url": "https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "No Stressing",
         "url": "https://open.spotify.com/album/6yLyw5SBhG17scBn29pGzP"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 214923,
       "name": "No Stressing",
       "url": "https://open.spotify.com/track/2AqUyHKFz2t28mloKBkosu"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
+        "url": "https://open.spotify.com/album/3nR5pUJkbh6Jm42JPjuZxL"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "The Boys Choir Of Harlem",
+          "url": "https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11"
+        }
+      ],
+      "duration_ms": 250107,
+      "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
+      "url": "https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7iLY9qLmJN2Wq4q9hgwPqN"
+      },
+      "artists": [
+        {
+          "name": "Keyla Richardson",
+          "url": "https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW"
+        }
+      ],
+      "duration_ms": 262315,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WOKwfCJmwbu46UX75Hgps"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "One True Gospel",
         "url": "https://open.spotify.com/album/1NkrJOPXOSTuRuUJ2RUY7z"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 370907,
       "name": "One True Gospel",
       "url": "https://open.spotify.com/track/4uBE9zsTXLWYtUuBCt3BSr"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7iLY9qLmJN2Wq4q9hgwPqN"
-      },
-      "artists": [
-        {
-          "name": "Keyla Richardson",
-          "url": "https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW"
-        }
-      ],
-      "duration_ms": 262315,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WOKwfCJmwbu46UX75Hgps"
     },
     {
       "added_at": "2024-02-02 06:37:59",

@@ -7809,6 +7809,42 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0UPlhRToVR1HDeaz9oQDnm"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60232,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/56ZRUAKVXkXtNg7pC0Ag85"
+    },
+    {
+      "album": {
+        "name": "Dreams (Violin Version)",
+        "url": "https://open.spotify.com/album/0Bj2EXJrPU1VC96s4oX2b0"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60232,
+      "name": "Dreams - Violin Version",
+      "url": "https://open.spotify.com/track/0BmyqOJOs8lyZusz99H6K9"
+    },
+    {
+      "album": {
         "name": "Afloat",
         "url": "https://open.spotify.com/album/0MPWCF5VwCxwfEzj8r2wNt"
       },

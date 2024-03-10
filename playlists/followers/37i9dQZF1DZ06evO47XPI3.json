@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 11028,
+  "2024-03-10": 11035,
   "date_first_scraped": "2022-05-26",
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
   "name": "This Is The Delfonics",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 201306,
       "name": "Baby I Miss You",
       "url": "https://open.spotify.com/track/1HkAiVdzgttlbrxvgFIlwh"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 326779,
       "name": "Just My Imagination - Live",
       "url": "https://open.spotify.com/track/5hxq2wCFTyJXydywcjxwgM"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 200906,
       "name": "La-La Means I Love You",
       "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 171426,
       "name": "Looking for a Girl",
       "url": "https://open.spotify.com/track/5HylsHxFBewHLod118HfHi"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 151600,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/01AnXmukGa0kP1Mog3DzAh"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 242299,
       "name": "Love On A Two Way Street - Live",
       "url": "https://open.spotify.com/track/1dZQXLbCGVjkKJXvcJ8CYX"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 186466,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/5AXQomuNhUW0iLVkzvyVJ5"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 119466,
       "name": "Ready or Not Here I Come (Can't Hide from Love)",
       "url": "https://open.spotify.com/track/5RnlUyTKgmd7V6tXdQcKVK"
@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 261456,
       "name": "Seventeen (And In Love)",
       "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 213413,
       "name": "Tell Me This Is a Dream",
       "url": "https://open.spotify.com/track/5iJ3TFsnziFusTvu8hM9pL"
@@ -1657,7 +1657,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 182280,
       "name": "Walk Right Up to the Sun",
       "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 168600,
       "name": "When You Get Right Down to It",
       "url": "https://open.spotify.com/track/3JpDpIUafzYIM1fXRPCjWX"

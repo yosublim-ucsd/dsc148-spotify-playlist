@@ -25,6 +25,6 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 15 | [2053](https://open.spotify.com/track/6qI5XzPWAYbnxkepQBjyyn) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [2053](https://open.spotify.com/album/0PSrPMEZvUN1y4b9E3N1tS) | 3:26 |
 | 16 | [One Milkali \(One Blood\)](https://open.spotify.com/track/74mWVYv6xPilcalOxrQa5Y) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [One Milkali \(One Blood\)](https://open.spotify.com/album/5gmCSsc0MTQaKSQNWswUao) | 2:56 |
 | 17 | [SPRING BREAK](https://open.spotify.com/track/0fV3Nb1weIkMQESKTrLC8T) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [SPRING BREAK](https://open.spotify.com/album/2gyfnpatVmFdIgKnrvpymg) | 2:07 |
-| 18 | [Alla vill \(feat\. Estraden\)](https://open.spotify.com/track/2EFfc7Z7rMneOxLfezQKxI) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Alla vill \(feat\. Estraden\)](https://open.spotify.com/album/3mzjCTMgep2TJKZCJfwgvI) | 2:53 |
+| 18 | [Alla vill \(feat\. estraden\)](https://open.spotify.com/track/2EFfc7Z7rMneOxLfezQKxI) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Alla vill \(feat\. estraden\)](https://open.spotify.com/album/3mzjCTMgep2TJKZCJfwgvI) | 2:53 |
 
 Snapshot ID: `MjY4OCxjNmU3M2UxMWExNTczODU0NDE4NDk1MTc2NjlhOWI2NjA0ZWVhNTMw`

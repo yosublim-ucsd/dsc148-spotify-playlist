@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 18061,
+  "2024-03-10": 18069,
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Diego Torres",
+  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Lara Project",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -181,6 +181,24 @@
       "duration_ms": 188583,
       "name": "4U (con Leo Rizzi)",
       "url": "https://open.spotify.com/track/68XBk9NDtBRYN5E52b3OHf"
+    },
+    {
+      "album": {
+        "name": "Baladas Tatuadas Vol. 1",
+        "url": "https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "5 > 1",
+      "url": "https://open.spotify.com/track/1dX0ZPraR1ZaQ2THFMwEOp"
     },
     {
       "album": {
@@ -1027,6 +1045,24 @@
       "duration_ms": 238893,
       "name": "Amantes Suicidas",
       "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
+    },
+    {
+      "album": {
+        "name": "Amarte Duele As\u00ed",
+        "url": "https://open.spotify.com/album/5SoaSY0mexom8MbC4sbzSP"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268009,
+      "name": "Amarte Duele As\u00ed",
+      "url": "https://open.spotify.com/track/5TE1mAaQJZS8VQPBN0eADT"
     },
     {
       "album": {
@@ -2044,6 +2080,24 @@
     },
     {
       "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152373,
+      "name": "Bless Mode",
+      "url": "https://open.spotify.com/track/2xYxG1Obz21lR7CybGvVKR"
+    },
+    {
+      "album": {
         "name": "P\u00e1nico",
         "url": "https://open.spotify.com/album/3DbhVw6p0iVdefGuSjXKdO"
       },
@@ -3005,6 +3059,28 @@
       "duration_ms": 159640,
       "name": "con los pies",
       "url": "https://open.spotify.com/track/2DkL2fH3VCPCKZZwhmqXwV"
+    },
+    {
+      "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242253,
+      "name": "Conf\u00eda",
+      "url": "https://open.spotify.com/track/5TsEZ02AJ9TSNlCejZxUd1"
     },
     {
       "album": {
@@ -5993,6 +6069,28 @@
       "duration_ms": 254152,
       "name": "Falso Amigo",
       "url": "https://open.spotify.com/track/1qX8mH7smBWIQox8rxO3cB"
+    },
+    {
+      "album": {
+        "name": "Feeling Low",
+        "url": "https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Feeling Low",
+      "url": "https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr"
     },
     {
       "album": {
@@ -10268,6 +10366,32 @@
     },
     {
       "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX"
+      },
+      "artists": [
+        {
+          "name": "ULLO\u039b",
+          "url": "https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt"
+        },
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "Nada Me Falta",
+      "url": "https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND"
+    },
+    {
+      "album": {
         "name": "Los Due\u00f1os De La Playa",
         "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
       },
@@ -10929,6 +11053,28 @@
       "duration_ms": 231066,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
+    },
+    {
+      "album": {
+        "name": "Baladas Tatuadas Vol. 1",
+        "url": "https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "MARI",
+          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "NTGES (feat. MARI)",
+      "url": "https://open.spotify.com/track/3fvUtWiUsaC1g3pGB1ZSK6"
     },
     {
       "album": {
@@ -11933,6 +12079,28 @@
       "duration_ms": 219144,
       "name": "Perdona si no es as\u00ed",
       "url": "https://open.spotify.com/track/26J884mAuQgyANciA1JTI2"
+    },
+    {
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158091,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/0X1rzEkRPq2NTNizARWYxm"
     },
     {
       "album": {
@@ -14300,6 +14468,24 @@
     },
     {
       "album": {
+        "name": "Camale\u00f3nica",
+        "url": "https://open.spotify.com/album/1lEuD7jDpzBax13ZBhuMUk"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "SNDA",
+      "url": "https://open.spotify.com/track/0ZVqhn9lLVVj0tcGSVjw3i"
+    },
+    {
+      "album": {
         "name": "Alterego",
         "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
       },
@@ -14987,6 +15173,24 @@
       "duration_ms": 91826,
       "name": "te amo",
       "url": "https://open.spotify.com/track/3SuQdW3lAioU7FOrr1VV38"
+    },
+    {
+      "album": {
+        "name": "Te Apareces",
+        "url": "https://open.spotify.com/album/6JqXt2Yfe5Nkp1GB1YbWQ7"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222558,
+      "name": "Te Apareces",
+      "url": "https://open.spotify.com/track/0Br5um5va4Ghv9qifdOp8Z"
     },
     {
       "album": {
@@ -16300,6 +16504,28 @@
     },
     {
       "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "ARON",
+          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Verona",
+      "url": "https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph"
+    },
+    {
+      "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
@@ -16939,6 +17165,28 @@
       "duration_ms": 237600,
       "name": "Ya No Tengo Tu Love",
       "url": "https://open.spotify.com/track/1koXGzfqMnrnb4M8FxOpWg"
+    },
+    {
+      "album": {
+        "name": "Baladas Tatuadas Vol. 1",
+        "url": "https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ya se que quiero, ya se que no (feat. Jeeiph)",
+      "url": "https://open.spotify.com/track/7D0ajxfWKAfCa5U98X9lgg"
     },
     {
       "album": {

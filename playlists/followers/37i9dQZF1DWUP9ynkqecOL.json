@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 21641,
+  "2024-03-10": 21650,
   "date_first_scraped": "2023-10-10",
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
   "name": "Electro Folklore",
@@ -335,6 +335,24 @@
       "duration_ms": 356983,
       "name": "Baguala de Tucuman",
       "url": "https://open.spotify.com/track/2lRIror5fKrJDFm17gSsMC"
+    },
+    {
+      "album": {
+        "name": "Bailarin",
+        "url": "https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217030,
+      "name": "Bailarin",
+      "url": "https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz"
     },
     {
       "album": {
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 208179,
       "name": "Sirenita",
       "url": "https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe"
@@ -1616,6 +1634,28 @@
     },
     {
       "album": {
+        "name": "Espuma de Mar ~ remixes",
+        "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
+      },
+      "artists": [
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        },
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224064,
+      "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
+      "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
+    },
+    {
+      "album": {
         "name": "Tierra de King Coya",
         "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
       },
@@ -1693,7 +1733,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 199578,
       "name": "Tierra Natal - Barzo Remix",
       "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"

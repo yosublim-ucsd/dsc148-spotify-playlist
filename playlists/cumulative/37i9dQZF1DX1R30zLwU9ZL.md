@@ -4,7 +4,7 @@
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-72 songs - 3 hr 45 min
+73 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Less Talk](https://open.spotify.com/track/56chRpAQ1KLIoe6lmlJvIQ) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Less Talk](https://open.spotify.com/album/1roICDuxcwa0TEtnPyi4OF) | 3:04 | 2023-02-27 |  |
 | [Light A Candle](https://open.spotify.com/track/6pArCsSmMYYyRH7CVuiAeP) | [The Clickettes](https://open.spotify.com/artist/0BsOIIanuv0SSyWJ3Le6zg) | [The Very Best Of The Clickettes](https://open.spotify.com/album/0sq0P0opmRaRQ3vs4p4ZSV) | 2:22 | 2023-02-27 |  |
 | [Looking at Me](https://open.spotify.com/track/1bg3zSbAIyXQyhPLZvUY9u) | [Hazel Rose](https://open.spotify.com/artist/2IvYOatDBg26XlW4476wPU), [ALLISTER X](https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g) | [Looking at Me](https://open.spotify.com/album/26aPdNPYKBygNEHDCszSW5) | 2:06 | 2023-02-27 |  |
-| [Mentiras Con Cariño](https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Boleros Psicodélicos](https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG) | 3:48 | 2023-02-27 |  |
+| [Mentiras Con Cariño](https://open.spotify.com/track/2CyhpAB516q2OaNwcmTHyC) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Boleros Psicodélicos](https://open.spotify.com/album/4UPS9xWe3D9WkyR8rcZe8v) | 3:48 | 2023-02-27 |  |
+| [Mentiras Con Cariño](https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Boleros Psicodélicos](https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG) | 3:48 | 2023-02-27 | 2024-03-10 |
 | [Mercury's Refrain](https://open.spotify.com/track/6fQSO4p50GTgrF8jZkBvrI) | [Olu Bliss](https://open.spotify.com/artist/678OPmqIs9qhpULpdD8T2h) | [Slum Sonata](https://open.spotify.com/album/1L8bIn6IYkVPCtXYv2AMIS) | 3:40 | 2023-02-27 |  |
 | [Merry Christmas To You](https://open.spotify.com/track/5ZZAM89fD92HblmfhEGFz7) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [A Joyful Sound](https://open.spotify.com/album/67B3XA5n35k731nWWuC7dx) | 2:28 | 2023-02-27 |  |
 | [Money Mouth](https://open.spotify.com/track/6L3kDfKAiQ2OVSo9qJCNou) | [Diamond Qing](https://open.spotify.com/artist/1pfbSeP4gfHhdWg5YZJcaz) | [Qing of Harlem](https://open.spotify.com/album/2109REvE184AYZZJPmLskm) | 1:52 | 2023-02-27 |  |

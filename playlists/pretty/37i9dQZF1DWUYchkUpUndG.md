@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=snuRWBxSS82Rg\_747O3Vug>Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,296 likes - 98 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,334 likes - 98 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 97 | [Fire and Rain](https://open.spotify.com/track/4StLEVHzdqm3MJtYOvpkd4) | [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk), [Jiritmwa Paul](https://open.spotify.com/artist/0tnm1DiWdW6EEeKMExGKft) | [Fire and Rain](https://open.spotify.com/album/6QqySGirysZ3XB2fLUpkuK) | 3:06 |
 | 98 | [Hello](https://open.spotify.com/track/6OeAGTYWTjlkkgUcOOnHtm) | [Favournice](https://open.spotify.com/artist/344Y9bjeLnfPNIs0CFeexh), [Emmanuel Joshua](https://open.spotify.com/artist/7nA1HRjapJ3Har96k8HWDo) | [Hello](https://open.spotify.com/album/4kWYv16FhztM861oj93raD) | 2:49 |
 
-Snapshot ID: `MCxhNzUxZDlmNjQyNGZmZWQ5NzExNTRlY2I0Y2JlNTBjMDFiMzA1OTRl`
+Snapshot ID: `MCw2NTMxY2JlZjNmNTNhMWRjZmE0MjM5YTVlYzkwNDc0YmIyMzY4ZTE4`

@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 13303,
+  "2024-03-10": 13311,
   "date_first_scraped": "2023-06-15",
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Aczino \ud83d\udc10\ud83d\udc51 en portada. ",
   "name": "Rimas Frescas ",
@@ -329,6 +329,24 @@
       "duration_ms": 217846,
       "name": "Acostumbr\u00e1ndome",
       "url": "https://open.spotify.com/track/4NJLfHPvTnRlwy8p54yM9u"
+    },
+    {
+      "album": {
+        "name": "Actitud",
+        "url": "https://open.spotify.com/album/2qSe4GZF1gh4KG2fy9RHUj"
+      },
+      "artists": [
+        {
+          "name": "Perro Zw",
+          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "Actitud",
+      "url": "https://open.spotify.com/track/7xxXLNEkBqQ0mVgZAXIHi6"
     },
     {
       "album": {
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 158851,
       "name": "Coge la Curva",
       "url": "https://open.spotify.com/track/0WBNyc8eVldfaVYaDVI3CX"
@@ -2287,6 +2305,24 @@
       "duration_ms": 157000,
       "name": "Cuatro 44",
       "url": "https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7"
+    },
+    {
+      "album": {
+        "name": "CUBA (Buena y Mala)",
+        "url": "https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr"
+      },
+      "artists": [
+        {
+          "name": "Akim 88",
+          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108217,
+      "name": "CUBA (Buena y Mala)",
+      "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
     },
     {
       "album": {
@@ -3213,7 +3249,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 150000,
       "name": "EL POINT",
       "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
@@ -4056,6 +4092,28 @@
     },
     {
       "album": {
+        "name": "F\u00e9 De M\u00e1s",
+        "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140930,
+      "name": "F\u00e9 De M\u00e1s",
+      "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
+    },
+    {
+      "album": {
         "name": "Warp 5",
         "url": "https://open.spotify.com/album/7AmvoeVoWIYt44Um1eRpkw"
       },
@@ -4487,7 +4545,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 162866,
       "name": "Imaginando Voy",
       "url": "https://open.spotify.com/track/2woVDlN4GzCB2LUQSd4QAA"
@@ -4755,6 +4813,28 @@
       "duration_ms": 180857,
       "name": "King Size",
       "url": "https://open.spotify.com/track/5cuhYEoFtVbSU9K8x1UMOT"
+    },
+    {
+      "album": {
+        "name": "KMI420 24/Siempre",
+        "url": "https://open.spotify.com/album/52tzuw2ChXKRpy9m7IKrll"
+      },
+      "artists": [
+        {
+          "name": "El Triangulo Estudio",
+          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
+        },
+        {
+          "name": "KMI420",
+          "url": "https://open.spotify.com/artist/27aZHh70FUjFxP5IPg7dra"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146747,
+      "name": "KMI420 24/Siempre",
+      "url": "https://open.spotify.com/track/1lrxvnqRFIOMYBkrjhES7W"
     },
     {
       "album": {
@@ -7383,7 +7463,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 239330,
       "name": "No Est\u00e1s II",
       "url": "https://open.spotify.com/track/5PnpsdSrjziwHQW9KJySE7"
@@ -8642,6 +8722,32 @@
     },
     {
       "album": {
+        "name": "Puro Mexa Rap ''Tengo Lo Mio''",
+        "url": "https://open.spotify.com/album/2KcsI74jS1WRqACqLFdLpj"
+      },
+      "artists": [
+        {
+          "name": "Leyruk",
+          "url": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+        },
+        {
+          "name": "Low Art",
+          "url": "https://open.spotify.com/artist/0HEeJuN4j72bW7I2fNc0AC"
+        },
+        {
+          "name": "Mc Sonick",
+          "url": "https://open.spotify.com/artist/6OsOHNmPl10hOlyhAZH7Yn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173175,
+      "name": "Puro Mexa Rap ''Tengo Lo Mio''",
+      "url": "https://open.spotify.com/track/1pila8zoMBMJswxgOukDxW"
+    },
+    {
+      "album": {
         "name": "Pyrena",
         "url": "https://open.spotify.com/album/5IsEaU2WTXyGBT9OwiTx2B"
       },
@@ -9851,7 +9957,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 208695,
       "name": "TARIMA",
       "url": "https://open.spotify.com/track/5VuXSFDNXr9NNWk1NrVNdy"
@@ -9877,7 +9983,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 228000,
       "name": "Taylor Made",
       "url": "https://open.spotify.com/track/5FnT5Jtn9WKrZqGAkkKxvi"
@@ -10913,6 +11019,24 @@
       "duration_ms": 204631,
       "name": "\u00bfD\u00f3nde Estar\u00e1s?",
       "url": "https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1"
+    },
+    {
+      "album": {
+        "name": "El Mundo en Abstinencia",
+        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
+      },
+      "artists": [
+        {
+          "name": "La Era de Gomes",
+          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145979,
+      "name": "\u00bfPor Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
     },
     {
       "album": {

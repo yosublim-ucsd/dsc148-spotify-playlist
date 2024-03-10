@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-329 songs - 22 hr 26 min
+330 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All Or Nothing At All](https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [All Or Nothing At All](https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz) | 3:44 | 2022-01-20 |  |
 | [All the Way](https://open.spotify.com/track/39Ir3aJpxxoDAZApZ9FzXK) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Pieces of Treasure](https://open.spotify.com/album/1uj9iLqDY2alHSLYnTE9wY) | 2:31 | 2023-05-30 | 2023-11-05 |
 | [All the Way](https://open.spotify.com/track/5oGarhTcFKX2KuQ9UtBl19) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Pieces of Treasure](https://open.spotify.com/album/2NnmbJtQghR6oPP96CRHPE) | 2:31 | 2023-12-28 |  |
+| [Always on my mind](https://open.spotify.com/track/43G5E8Tk4eedtIh7wBzC0W) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Always on my mind](https://open.spotify.com/album/2NGSJsqIrWirzY8wgKVBUb) | 3:31 | 2024-03-06 |  |
 | [Always on my mind](https://open.spotify.com/track/6kyUOXEadxHeG9ya0TuMIr) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Always on my mind](https://open.spotify.com/album/5pFidxPVBBynmTakbH5LNL) | 3:31 | 2022-03-10 | 2024-03-09 |
 | [And I Love Him](https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Travelin' Light](https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD) | 2:29 | 2022-01-20 |  |
 | [And If You Please](https://open.spotify.com/track/7065TeNvF2nMoBv6yD3CIz) | [Mario Romano](https://open.spotify.com/artist/2jFXgkiRAvxNTZQ4rQVg9b), [Jackie Richardson](https://open.spotify.com/artist/1pla8afeXCjPKlzJe6wyQA) | [Fenyrose Non Dimenticar](https://open.spotify.com/album/6Rhkna0aH4rERryCt4gSaa) | 4:31 | 2022-08-29 | 2022-11-16 |
@@ -86,7 +87,7 @@
 | [Day Dream](https://open.spotify.com/track/73meRvUTsRHm6Rf0klY4Jf) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Day Dream](https://open.spotify.com/album/7gzHf9YPAQUKBt7vdl0vl2) | 5:21 | 2023-03-15 |  |
 | [Denial](https://open.spotify.com/track/1OkXIIQaL1cvZi9tQZac8c) | [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Denial](https://open.spotify.com/album/4HkV28pa9pdLyGUHhtin2g) | 2:53 | 2022-09-27 | 2022-10-26 |
 | [Desperado](https://open.spotify.com/track/5Cbq127eIsrkHDvGweTzYB) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Desperado](https://open.spotify.com/album/37ZtGtGstCyBZRre6ashNa) | 3:59 | 2023-05-30 |  |
-| [Devil May Care](https://open.spotify.com/track/51zApQvjmJu06ZhUYQADJQ) | [Sherine 尚羚](https://open.spotify.com/artist/3jHGEibos6PbvirMBJlgFl), [Steve LaSpina](https://open.spotify.com/artist/5OmSSr7NqennGE7koYEUjn) | [Devil May Care](https://open.spotify.com/album/3rotHV6RMQaDfiekV9OlkK) | 3:31 | 2022-01-20 |  |
+| [Devil May Care](https://open.spotify.com/track/51zApQvjmJu06ZhUYQADJQ) | [Sherine 尚羚](https://open.spotify.com/artist/3jHGEibos6PbvirMBJlgFl), [Steve LaSpina](https://open.spotify.com/artist/5OmSSr7NqennGE7koYEUjn) | [Devil May Care](https://open.spotify.com/album/3rotHV6RMQaDfiekV9OlkK) | 3:31 | 2022-01-20 | 2024-03-10 |
 | [Disclosure](https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [Disclosure](https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ) | 4:47 | 2022-01-20 |  |
 | [Do I Love You](https://open.spotify.com/track/7fGcPsneoxIweHKdc14vlw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 4:48 | 2022-01-20 | 2022-02-18 |
 | [Do Nothing 'Til You Hear From Me](https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because Of Billie](https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB) | 4:23 | 2022-01-20 | 2022-07-29 |

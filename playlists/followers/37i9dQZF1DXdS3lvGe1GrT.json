@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 63084,
+  "2024-03-10": 63137,
   "date_first_scraped": "2022-05-30",
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Alycia Lang",
   "name": "Fresh Finds Folk ",
@@ -10219,6 +10219,24 @@
       "duration_ms": 191538,
       "name": "Kale",
       "url": "https://open.spotify.com/track/4YojHiM5K1UKxgDcRjKLvP"
+    },
+    {
+      "album": {
+        "name": "Keeper of the Shepherd",
+        "url": "https://open.spotify.com/album/36z8ptLj0Dag5rxBmwvFxe"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386040,
+      "name": "Keeper of the Shepherd",
+      "url": "https://open.spotify.com/track/6WO06FW9LqHcmTFGvyjTL9"
     },
     {
       "album": {

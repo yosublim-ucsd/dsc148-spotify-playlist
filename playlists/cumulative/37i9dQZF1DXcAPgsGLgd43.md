@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-194 songs - 10 hr 48 min
+195 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Benjamín Carrión](https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Alterego](https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2) | 2:57 | 2023-11-10 |  |
 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 | 2023-12-15 |  |
 | [Bim Boom Bam](https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Bim Boom Bam](https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k) | 2:24 | 2023-11-10 |  |
-| [Boca](https://open.spotify.com/track/4c0HhHcw6gIyRoVpkw4Mxr) | [Freaky DJs](https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0), [GeeKan](https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT) | [Boca](https://open.spotify.com/album/7ivFg8nNaoMCZRLSsN5wyu) | 3:00 | 2024-02-02 |  |
+| [Boca](https://open.spotify.com/track/4c0HhHcw6gIyRoVpkw4Mxr) | [Freaky DJs](https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0), [GeeKan](https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT) | [Boca](https://open.spotify.com/album/7ivFg8nNaoMCZRLSsN5wyu) | 3:00 | 2024-02-02 | 2024-03-10 |
 | [Bololo \- MichaelBM & Francesco V Remix](https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Francesco V](https://open.spotify.com/artist/44lpT2O5mBIXeyrXhVlj7Q) | [Bololo \(Remixes\)](https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2) | 2:23 | 2024-01-05 | 2024-03-02 |
 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 | 2021-10-08 | 2023-11-11 |
 | [Bueno](https://open.spotify.com/track/6vVPwFyG1i2cGbkooigqDM) | [Jora](https://open.spotify.com/artist/2AMvbDOcox78jmmgQN5UfX) | [Bueno](https://open.spotify.com/album/0CJtRHuxVxPmjvb6E3pau5) | 3:36 | 2023-12-08 |  |
@@ -110,6 +110,7 @@
 | [La Petronita](https://open.spotify.com/track/5w0OSwh9MmgIipn79aIz3R) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [La Petronita](https://open.spotify.com/album/5DABOax69Bnhi7H89iVM8a) | 3:23 | 2021-10-08 | 2023-09-22 |
 | [La Pista Es Mía \- Rony Seikaly Remix](https://open.spotify.com/track/5JDErC4ioBUoeVdFsslA94) | [Miguelle & Tons](https://open.spotify.com/artist/1U7nDI6jydkqHWaOtUdlkx), [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [La Pista Es Mía](https://open.spotify.com/album/5uuTO37yWyGsXYEF6ZvqHp) | 6:55 | 2024-02-09 | 2024-02-24 |
 | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn) | [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2), [Steve Andreas](https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH) | 2:52 | 2021-10-08 | 2023-11-11 |
+| [La Trumpeta](https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [La Trumpeta](https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd) | 3:20 | 2024-03-08 |  |
 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 | 2021-10-15 | 2023-11-11 |
 | [Labios \(La Noche\)](https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios \(La Noche\)](https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG) | 2:41 | 2023-11-10 |  |
 | [Lento](https://open.spotify.com/track/1OMRAjaY0XN5MUxQ3p3KOY) | [Paolo Pellegrino](https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Alessandro Calzolaio](https://open.spotify.com/artist/2M6UzmVfnaQ2Ku0Ygx7zCT) | [Lento](https://open.spotify.com/album/53Nn61QR2zPMyZotqnfIic) | 2:45 | 2023-11-10 | 2023-11-18 |

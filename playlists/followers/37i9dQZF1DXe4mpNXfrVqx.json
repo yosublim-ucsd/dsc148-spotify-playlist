@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 106343,
+  "2024-03-10": 106375,
   "date_first_scraped": "2022-03-24",
   "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Azzy",
   "name": "S\u00f3 as Minas",
@@ -125,6 +125,28 @@
       "duration_ms": 162302,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0ekFR7W6o4VPUHsDjn4ZU4"
+    },
+    {
+      "album": {
+        "name": "Ambi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4E7e0akZk9SuDTTcnRu9GQ"
+      },
+      "artists": [
+        {
+          "name": "LOH ALMEIDAH",
+          "url": "https://open.spotify.com/artist/3cOGQtOrVLFdII5VCawDAk"
+        },
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Ambi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/11GBZzXwJ12PcXmK2L6d7d"
     },
     {
       "album": {
@@ -1091,7 +1113,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 178583,
       "name": "Era Final",
       "url": "https://open.spotify.com/track/74i1NNwzsVYNwqXraf5s1N"

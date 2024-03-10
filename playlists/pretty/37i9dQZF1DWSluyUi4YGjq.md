@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > The state of shoegaze, featuring over 20 new tracks added by flyingfish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,816 likes - 122 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,987 likes - 122 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 7 | [Rose Cold](https://open.spotify.com/track/7DA0Lh82cOmd9Bt2uVxn1F) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Feels Like You](https://open.spotify.com/album/1fyZK4ivI8xZCOdOuOgPa7) | 5:25 |
 | 8 | [Fling](https://open.spotify.com/track/5OgP6Zv96nGHTiqGomqWSt) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 4:54 |
 | 9 | [gave you my all](https://open.spotify.com/track/4FkQp96ud503gquiM2Ur9l) | [juggler](https://open.spotify.com/artist/0HX7DEWAlnzbE3sikNXQik) | [gave you my all](https://open.spotify.com/album/6f2HSagGc0cJvZAZZraJqp) | 3:13 |
-| 10 | [wonder if u care](https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [wonder if u care](https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4) | 2:14 |
+| 10 | [wonder if you care](https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [wonder if you care](https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4) | 2:14 |
 | 11 | [between](https://open.spotify.com/track/4R6KQd4LPht1GQauuZACcM) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [anything else](https://open.spotify.com/album/3XxhfN0qjvOg9Q6LPIC1Fg) | 3:26 |
 | 12 | [The Oranges](https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 4:14 |
 | 13 | [당신의 사랑이 늘 행복하기를 Paradox](https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa) | [BrokenTeeth](https://open.spotify.com/artist/5kNGExA70Z5twMjo7mFYrW) | [당신의 사랑이 늘 행복하기를 Paradox](https://open.spotify.com/album/2swSZBnSV3brk5bTFiNLoW) | 4:48 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 121 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 |
 | 122 | [Mirror](https://open.spotify.com/track/2BEqWfZNSG8LF2YOXzcdW6) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Mirror](https://open.spotify.com/album/3N1aePkaiRx1sgcvviZmBX) | 3:26 |
 
-Snapshot ID: `MCw3OTEwZWRjYTgxYWNkNzhlMDYxOTkyMmY0OWIwOTUwYzFjYjllN2E0`
+Snapshot ID: `MCxkOTcwYWU5OWE4YWI2ZDdjMGY3ZjMwNTE4ZGNkOTMwYTA0ZjFjYTFl`

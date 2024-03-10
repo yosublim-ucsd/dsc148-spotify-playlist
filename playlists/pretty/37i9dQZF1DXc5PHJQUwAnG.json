@@ -1,12 +1,12 @@
 {
   "description": "Bienvenidx a la trampa mexa. Robot95 y Lucho SSJ en portada.",
-  "num_followers": 165255,
+  "num_followers": 165267,
   "original_name": "TRAPPERZ_MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTRlNTlmMjBlMjE4YjA3YzMzOTU0MjExOTZjNjVlYmU1ZmRmMGI3",
+  "snapshot_id": "MCw3OGI0MDJhZTg0NzdlYWE0ZTgxOTk2MDQ2NmQ3MGQxYThhYmU1ZDRi",
   "tracks": [
     {
       "added_at": "2024-03-08 06:00:00",
@@ -79,6 +79,26 @@
       "duration_ms": 93875,
       "name": "Tirando Flow Sesh #10",
       "url": "https://open.spotify.com/track/6WmCmQuse2SjjSVab5EHxg"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Rebote",
+        "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
+      },
+      "artists": [
+        {
+          "name": "Brain Hunters",
+          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "Rebote",
+      "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1487,8 +1507,8 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/2MjpzKes42bX6pnEvDaFlW"
+        "name": "Da Goat",
+        "url": "https://open.spotify.com/album/6YzonQO7AexkhgCfedsA9K"
       },
       "artists": [
         {
@@ -1506,7 +1526,7 @@
       ],
       "duration_ms": 198620,
       "name": "Coco",
-      "url": "https://open.spotify.com/track/5GIkV0ZWdFHamE4SDBVD2C"
+      "url": "https://open.spotify.com/track/5BflDV47IWZgBisQx0vlBP"
     },
     {
       "added_at": "2024-03-08 06:00:00",

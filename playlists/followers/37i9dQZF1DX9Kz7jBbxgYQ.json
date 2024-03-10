@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 146799,
+  "2024-03-10": 146900,
   "date_first_scraped": "2022-05-30",
   "description": "Home to the best of South Asian Indie scene. Cover: Chaar Diwari",
   "name": "Desi Indie",
@@ -141,6 +141,24 @@
     {
       "album": {
         "name": "Aarish",
+        "url": "https://open.spotify.com/album/5ZJA0NoFtbUPGOwVBoecQo"
+      },
+      "artists": [
+        {
+          "name": "Himasri Sarkar",
+          "url": "https://open.spotify.com/artist/5GPWLvu5S3lXQNG7vzxu4C"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261252,
+      "name": "Aarish",
+      "url": "https://open.spotify.com/track/4K5EIS3DM7A2TOu6wIjD3a"
+    },
+    {
+      "album": {
+        "name": "Aarish",
         "url": "https://open.spotify.com/album/4EYgwPkFVFA5C7fdir7toq"
       },
       "artists": [
@@ -151,7 +169,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 261252,
       "name": "Aarish",
       "url": "https://open.spotify.com/track/5gkERI7wlS357vbRIlUjQn"

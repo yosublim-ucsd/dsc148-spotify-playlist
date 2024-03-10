@@ -1,9 +1,27 @@
 {
-  "2024-03-09": 68731,
+  "2024-03-10": 68727,
   "date_first_scraped": "2023-07-23",
   "description": "Explode! is out! Foto: Mother Mother",
   "name": "do rockeeee",
   "tracks": [
+    {
+      "album": {
+        "name": "8 Ou 80",
+        "url": "https://open.spotify.com/album/0b3JIdj9r4N7QE8DEZaVII"
+      },
+      "artists": [
+        {
+          "name": "Ariah",
+          "url": "https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149653,
+      "name": "8 Ou 80",
+      "url": "https://open.spotify.com/track/6SsCiwzgVuKaGHtZXzpUD7"
+    },
     {
       "album": {
         "name": "<maybe> it's my fault",
@@ -491,7 +509,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 186357,
       "name": "fmk (with blackbear) - messier",
       "url": "https://open.spotify.com/track/5CO8EbwcxnvA28O7NCDKfJ"

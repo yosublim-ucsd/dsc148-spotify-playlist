@@ -4,7 +4,7 @@
 
 > This is Eva Shaw\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 27 min
+70 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [RAW \- Hype Hop Edit](https://open.spotify.com/track/6zc6ghB8QGGZszzMinhXl7) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Jaay Cee](https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM) | [HYPE HOP 002](https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0) | 2:53 | 2023-12-13 |  |
 | [Rise N Shine \(feat\. Poo Bear\) \- Justice Skolnik Remix](https://open.spotify.com/track/7IRQUCarlAan7Wnmm6zpTS) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [Justice Skolnik](https://open.spotify.com/artist/18bof4dt1gOAe3NGWRTamw) | [Rise N Shine \(feat\. Poo Bear\) \[Justice Skolnik Remix\]](https://open.spotify.com/album/1xQtIDxHbsIo36hVfPd9uc) | 3:07 | 2023-12-13 |  |
 | [ROWDYRUFF BOYZ \(with Eva Shaw\)](https://open.spotify.com/track/1Rj8B7kHHM92QMZF0bIcqN) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [ROWDYRUFF BOYZ \(with Eva Shaw\)](https://open.spotify.com/album/0wIJrXCHUAVOcoz8mzSDia) | 2:55 | 2023-12-13 |  |
+| [RVPTVRE](https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [RVPTVRE](https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq) | 3:34 | 2024-03-09 |  |
 | [Secret](https://open.spotify.com/track/5HLmbHuDV5XV3o4ycCExOa) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Secret](https://open.spotify.com/album/116sV035o9y6YoO5Hedty9) | 3:08 | 2023-12-13 |  |
 | [Sleep Like A Baby](https://open.spotify.com/track/4QdhJUYeuUTOp8UJfaQ7W5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Adult Supervision](https://open.spotify.com/album/4aP2gg2VRcv5jbSlKwbAhL) | 2:46 | 2023-12-13 |  |
 | [Snakes](https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa) | [Snakes](https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb) | 3:41 | 2023-12-13 |  |

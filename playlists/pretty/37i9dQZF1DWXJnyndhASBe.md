@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. <a href="spotify:genre:equal">EQUAL</a> takeover z okazji Dnia Kobiet\. Cover: bambi, Young Leosia
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,974 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,139 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Demony Szepczą](https://open.spotify.com/track/13XJ8fA9D2EaYkSNGVXCvs) | [Kacper HTA](https://open.spotify.com/artist/39lKxb2ZHaygwUTthI92SS), [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli) | [Demony Szepczą](https://open.spotify.com/album/57tJewtJYQUokSTMSyWzl1) | 2:54 |
 | 50 | [Daj mi powód](https://open.spotify.com/track/3AvpVQO3xcRp0QDl5sfdNg) | [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Kuba Hejz](https://open.spotify.com/artist/54FDfzo1I8n6TBqm9dkBWl) | [Daj mi powód](https://open.spotify.com/album/0iNJiuZHh2GWp1Cmvzc1U8) | 3:50 |
 
-Snapshot ID: `MCwzYTUzNDgwNTM1YTM0MzlmOGI1ZDJlZTJiYzk4YjZkZWRkOTJjZmY0`
+Snapshot ID: `MCxhNmI5YzAxY2ViNzc0NjE4ZGJkYjZlMTk4NGEwOTE3ZTFkMTdlOGE4`

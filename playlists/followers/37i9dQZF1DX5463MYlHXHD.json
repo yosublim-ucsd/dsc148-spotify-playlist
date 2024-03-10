@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 568246,
+  "2024-03-10": 568343,
   "date_first_scraped": "2023-05-28",
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
   "name": "Cumbia de Barrio",
@@ -171,6 +171,24 @@
       "duration_ms": 176796,
       "name": "Ahi Ahi",
       "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
+    },
+    {
+      "album": {
+        "name": "Yerba Brava: 20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5Hv1x7MLsD4XcS8CHTr2fo"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170426,
+      "name": "Ahora Estoy Solo",
+      "url": "https://open.spotify.com/track/6kiaJxn4WIVqKRRlkBaNFx"
     },
     {
       "album": {
@@ -610,6 +628,24 @@
     },
     {
       "album": {
+        "name": "El Autentico Creador De La Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
+      },
+      "artists": [
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215640,
+      "name": "Carta A Un Amigo",
+      "url": "https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02"
+    },
+    {
+      "album": {
         "name": "Me Declaro Culpable",
         "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
       },
@@ -947,7 +983,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 187173,
       "name": "Cumbia Villera",
       "url": "https://open.spotify.com/track/41Urh8nS7ZBnVuOsazuHfE"
@@ -2256,6 +2292,24 @@
     },
     {
       "album": {
+        "name": "La Morocha",
+        "url": "https://open.spotify.com/album/059QWHlbZgszSAf3rQ50Ag"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes del Penal",
+          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137793,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/4JRibFMCuyMseKEGWAJ4C7"
+    },
+    {
+      "album": {
         "name": "Lo Peor",
         "url": "https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc"
       },
@@ -2866,6 +2920,28 @@
     },
     {
       "album": {
+        "name": "Mi Bolsita",
+        "url": "https://open.spotify.com/album/7mjx39aBf5avHJUw65u233"
+      },
+      "artists": [
+        {
+          "name": "BYG MACK",
+          "url": "https://open.spotify.com/artist/0MYei0Sl7SfHF5XOHUYwgI"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149187,
+      "name": "Mi Bolsita",
+      "url": "https://open.spotify.com/track/50jb34WqIdJx6mwVS6TcPK"
+    },
+    {
+      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
@@ -2939,7 +3015,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 236840,
       "name": "Muero por T\u00ed",
       "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
@@ -4047,7 +4123,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 151224,
       "name": "Tal Para Cual",
       "url": "https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P"
@@ -4815,7 +4891,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 192075,
       "name": "Yo Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"

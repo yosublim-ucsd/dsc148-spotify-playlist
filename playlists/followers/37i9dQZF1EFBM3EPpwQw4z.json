@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 34,
+  "2024-03-10": 34,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw\">KLP</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By KLP",
@@ -1071,6 +1071,24 @@
       "duration_ms": 275672,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/29310yrKMYwmCw9yJwZJXV"
+    },
+    {
+      "album": {
+        "name": "Love Focus",
+        "url": "https://open.spotify.com/album/0kwAXI1WMtUShXlGIAMeXF"
+      },
+      "artists": [
+        {
+          "name": "Mell Hall",
+          "url": "https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238729,
+      "name": "Love Focus",
+      "url": "https://open.spotify.com/track/6ysLchNczIS4xLwU1xLTkU"
     },
     {
       "album": {

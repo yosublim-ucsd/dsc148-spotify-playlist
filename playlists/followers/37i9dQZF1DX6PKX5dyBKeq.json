@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 1356670,
+  "2024-03-10": 1356917,
   "date_first_scraped": "2020-05-22",
   "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: BXKS",
   "name": "Rap UK",
@@ -5931,6 +5931,24 @@
       "duration_ms": 165618,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/6MXTjM7YiZUnd2FjPG8Q4h"
+    },
+    {
+      "album": {
+        "name": "C'EST LA VIE (Lip Filler)",
+        "url": "https://open.spotify.com/album/2qI0RA6npmX2rv8NSqF5G6"
+      },
+      "artists": [
+        {
+          "name": "Z1NO",
+          "url": "https://open.spotify.com/artist/4bfQkUZTG4S8I7sP8UlXvU"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216841,
+      "name": "C'EST LA VIE (Lip Filler)",
+      "url": "https://open.spotify.com/track/1DZWlEkkYFWrswBQzGkaQ6"
     },
     {
       "album": {
@@ -15447,7 +15465,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 204808,
       "name": "I'm Old School",
       "url": "https://open.spotify.com/track/1raXtc1nzL6E3cPnJyIQa7"
@@ -15859,7 +15877,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 135063,
       "name": "Intro",
       "url": "https://open.spotify.com/track/02TFifnyJGfFahV6SF1Y96"
@@ -17285,7 +17303,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 175880,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv"
@@ -18115,7 +18133,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 208941,
       "name": "Like Us",
       "url": "https://open.spotify.com/track/5Dv9KUjKG4GTI73ax1mSw6"
@@ -31123,7 +31141,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 133633,
       "name": "Ten",
       "url": "https://open.spotify.com/track/6AN1ErDrPuvc6HzKmvpQpr"
@@ -32113,7 +32131,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 149938,
       "name": "TLC",
       "url": "https://open.spotify.com/track/1nXEbGvVAWGRFwVRBu1YSY"
@@ -32329,7 +32347,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 171346,
       "name": "Top Calibre",
       "url": "https://open.spotify.com/track/0oV6Lcdj4KLdTiE1OKU4HY"

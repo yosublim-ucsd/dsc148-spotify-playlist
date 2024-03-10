@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 0,
+  "2024-03-10": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -1922,6 +1922,24 @@
     },
     {
       "album": {
+        "name": "Aun la Flor",
+        "url": "https://open.spotify.com/album/4CC7oyUIggXN5mctAsgyeI"
+      },
+      "artists": [
+        {
+          "name": "PelySayon",
+          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167418,
+      "name": "Aun la Flor",
+      "url": "https://open.spotify.com/track/6rDaEXj7UwI28NmQma7JTx"
+    },
+    {
+      "album": {
         "name": "Aunque Los Pasos Toquen",
         "url": "https://open.spotify.com/album/4Qj6NrjTVzBkzQimsL8oxz"
       },
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 163809,
       "name": "Biochemical",
       "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
@@ -3151,6 +3169,24 @@
       "duration_ms": 256823,
       "name": "Cabalgando",
       "url": "https://open.spotify.com/track/0ddZU1EUOP6F8sKhtdZ9OM"
+    },
+    {
+      "album": {
+        "name": "Clear Cold Beyond",
+        "url": "https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265206,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j"
     },
     {
       "album": {
@@ -3706,6 +3742,24 @@
     },
     {
       "album": {
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/2CqYIGEdBbHP6JukGsUHf4"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257500,
+      "name": "Chile SA",
+      "url": "https://open.spotify.com/track/4An8UjbADFO12XE9klWQLS"
+    },
+    {
+      "album": {
         "name": "ASMR Rain Clouds",
         "url": "https://open.spotify.com/album/6DWqKUn5L9ppmCWfBuqGMH"
       },
@@ -3805,6 +3859,24 @@
       "duration_ms": 203636,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/03mQfTKwoRxaDLg2Vkf9vm"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298401,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/18GFHVWGCED0TCARMkHUr8"
     },
     {
       "album": {
@@ -4602,6 +4674,28 @@
     },
     {
       "album": {
+        "name": "Danz\u00f3n Para La Espera",
+        "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Failde",
+          "url": "https://open.spotify.com/artist/73pD7OtQXvDhvU0Cy6eo7T"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Danz\u00f3n Para La Espera",
+      "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
+    },
+    {
+      "album": {
         "name": "Dark Empath",
         "url": "https://open.spotify.com/album/6ywPoCmlwHdPnq2aAFXYSq"
       },
@@ -4635,6 +4729,24 @@
       "duration_ms": 290417,
       "name": "Dark Ice - Single Version",
       "url": "https://open.spotify.com/track/4WCnwHiyThWJmUaWFaUwFt"
+    },
+    {
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211720,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
     },
     {
       "album": {
@@ -5058,6 +5170,28 @@
     },
     {
       "album": {
+        "name": "Digging In The Dirt",
+        "url": "https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324436,
+      "name": "Digging In The Dirt",
+      "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
+    },
+    {
+      "album": {
         "name": "Dilemma",
         "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
       },
@@ -5243,6 +5377,28 @@
       "duration_ms": 328293,
       "name": "Don't Fight It - Live",
       "url": "https://open.spotify.com/track/0SUO9zBxf5FCyKtRPqEwIk"
+    },
+    {
+      "album": {
+        "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
+        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
+      },
+      "artists": [
+        {
+          "name": "Your Broken Hero",
+          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178432,
+      "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
+      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
     },
     {
       "album": {
@@ -5598,6 +5754,24 @@
     },
     {
       "album": {
+        "name": "Revuelta",
+        "url": "https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "D\u00e9jate Caer - 2024",
+      "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
+    },
+    {
+      "album": {
         "name": "D\u00eda De Luz (80 Aniversario)",
         "url": "https://open.spotify.com/album/0JsYMVZiJ63aAw3MiyW8WK"
       },
@@ -5631,7 +5805,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 280929,
       "name": "Echo",
       "url": "https://open.spotify.com/track/3whgOllsjHyZYNBmn7KpYA"
@@ -6052,6 +6226,32 @@
     },
     {
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
+    },
+    {
+      "album": {
         "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
         "url": "https://open.spotify.com/album/419PfoPpVGyQAKvsxBsqxb"
       },
@@ -6067,6 +6267,32 @@
       "duration_ms": 253968,
       "name": "En el Bald\u00edo - En Vivo",
       "url": "https://open.spotify.com/track/1hNT1e0igCiprBrETIhd55"
+    },
+    {
+      "album": {
+        "name": "En El Muelle De San Blas (LoFi Version)",
+        "url": "https://open.spotify.com/album/5JJRKVwFdlryO5oLcNelzi"
+      },
+      "artists": [
+        {
+          "name": "LoFi HITS",
+          "url": "https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7"
+        },
+        {
+          "name": "High and Low HITS",
+          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211080,
+      "name": "En El Muelle De San Blas - LoFi Version 3",
+      "url": "https://open.spotify.com/track/10G6oo1cWRUEF1Ib2DYTZo"
     },
     {
       "album": {
@@ -6562,6 +6788,24 @@
     },
     {
       "album": {
+        "name": "Falter",
+        "url": "https://open.spotify.com/album/1tPAdl5ojUZur7ynmEJepT"
+      },
+      "artists": [
+        {
+          "name": "Ceiling Spirits",
+          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503613,
+      "name": "Falter",
+      "url": "https://open.spotify.com/track/79QhTutYDFH81UaFYK3MvZ"
+    },
+    {
+      "album": {
         "name": "Live in Switzerland (Remastered 2023)",
         "url": "https://open.spotify.com/album/1DLdNlZoXWPL3ooXijwcEI"
       },
@@ -6747,6 +6991,32 @@
       "duration_ms": 560573,
       "name": "Finsterwacht",
       "url": "https://open.spotify.com/track/0Ktmk5jp4r6ym9hT2bWlQM"
+    },
+    {
+      "album": {
+        "name": "MELLODEATH Tapes Vol. I",
+        "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
     },
     {
       "album": {
@@ -9508,6 +9778,24 @@
     },
     {
       "album": {
+        "name": "I'm a Rat",
+        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130547,
+      "name": "I'm a Rat",
+      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
+    },
+    {
+      "album": {
         "name": "I'm Alice",
         "url": "https://open.spotify.com/album/1D2ABijgfmvAVALyb4XHSZ"
       },
@@ -9595,6 +9883,24 @@
       "duration_ms": 232247,
       "name": "i/o - Bright-Side Mix",
       "url": "https://open.spotify.com/track/2mLV96M3Ee4oQzShI2CwAK"
+    },
+    {
+      "album": {
+        "name": "Hit and Run (Live 1977)",
+        "url": "https://open.spotify.com/album/2oOS0hOiZYfYdPyifVo0NA"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216046,
+      "name": "Ice Cream Man - Live 1977",
+      "url": "https://open.spotify.com/track/0n8mKsSxspAi8qNiEsC92W"
     },
     {
       "album": {
@@ -10388,6 +10694,24 @@
     },
     {
       "album": {
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381067,
+      "name": "Invincible Shield",
+      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
+    },
+    {
+      "album": {
         "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
         "url": "https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84"
       },
@@ -10551,6 +10875,28 @@
       "duration_ms": 120532,
       "name": "I\u2019ll Never Give Up On You - Acoustic",
       "url": "https://open.spotify.com/track/5157ZEu0cK7k6uULpJ0KNU"
+    },
+    {
+      "album": {
+        "name": "Mayday Parade Lofi",
+        "url": "https://open.spotify.com/album/3mdFkyggQ0iKXiDiMRGcbY"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        },
+        {
+          "name": "Less Gravity",
+          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210578,
+      "name": "Jersey - Lofi",
+      "url": "https://open.spotify.com/track/76HueSHKUqdXKDCcY1sYpc"
     },
     {
       "album": {
@@ -11519,6 +11865,24 @@
       "duration_ms": 180400,
       "name": "Legendary (feat. Brandon Saller of Atreyu) - SNAILS Remix",
       "url": "https://open.spotify.com/track/1LN07pPVEzgXoZ9JkeJeBj"
+    },
+    {
+      "album": {
+        "name": "Legs (Live from the Blockbuster Pavilion San Bernardino, California on September 15, 1993, 2023 Remaster)",
+        "url": "https://open.spotify.com/album/1vrhMXQSZGt9aNTPpUvcAc"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292661,
+      "name": "Legs - Live from the Blockbuster Pavilion San Bernardino, California on September 15, 1993, 2023 Remaster",
+      "url": "https://open.spotify.com/track/1IGRPsbQuIF5F9dyoi67Xt"
     },
     {
       "album": {
@@ -14581,7 +14945,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 217890,
       "name": "Oh Well, Oh Well - Lofi",
       "url": "https://open.spotify.com/track/2RNyI4b0SOmA7PTgNIAX5R"
@@ -15208,6 +15572,28 @@
     },
     {
       "album": {
+        "name": "Owner of a Lonely Heart (Back2Back Remix)",
+        "url": "https://open.spotify.com/album/1M1qW4kgDAhi5ANvwhdzrE"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        },
+        {
+          "name": "Back2Back",
+          "url": "https://open.spotify.com/artist/7qmcGs3BN2KPTS3UyFrle8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Owner of a Lonely Heart (Back2Back Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/3FtbjGvQOJ8D7xerDsMpKp"
+    },
+    {
+      "album": {
         "name": "Owner Of A Lonely Heart (farfetch'd Edit)",
         "url": "https://open.spotify.com/album/5QNsNfBYB23lwvGXMLH3RK"
       },
@@ -15463,7 +15849,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 293972,
       "name": "Pena Feliz",
       "url": "https://open.spotify.com/track/0UrKSEW63OgB0b5CHfddvC"
@@ -15985,7 +16371,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 284512,
       "name": "Proud Mary - Acapella",
       "url": "https://open.spotify.com/track/3aD8ROkroxlRPRzIrEs8OA"
@@ -16925,6 +17311,24 @@
       "duration_ms": 196837,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "album": {
@@ -18592,6 +18996,24 @@
     },
     {
       "album": {
+        "name": "Someone's Daughter, Someone's Son",
+        "url": "https://open.spotify.com/album/1pCxbUrnRHbLMtdaFIFHtB"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251666,
+      "name": "Someone's Daughter, Someone's Son",
+      "url": "https://open.spotify.com/track/2OFmXtz8iAjqhRZF4zrxb9"
+    },
+    {
+      "album": {
         "name": "Something Beautiful (2023 Version)",
         "url": "https://open.spotify.com/album/3uRWZz7ECikDn9DecNMXjB"
       },
@@ -18842,6 +19264,28 @@
     },
     {
       "album": {
+        "name": "Soy Todo",
+        "url": "https://open.spotify.com/album/2rOtemlRB9ZvBIkUAF88D8"
+      },
+      "artists": [
+        {
+          "name": "DJ TEE",
+          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261336,
+      "name": "Soy Todo",
+      "url": "https://open.spotify.com/track/57f2X9Am4tNzizcxVIcPy8"
+    },
+    {
+      "album": {
         "name": "Space Age Love Song (Re-Recorded) [Sped Up] - Single",
         "url": "https://open.spotify.com/album/3tT28s54qwwB72lRK56iAb"
       },
@@ -19025,10 +19469,36 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 154376,
       "name": "Spicy Margarita - Acappella",
       "url": "https://open.spotify.com/track/4bIkWniFVT6m5iIGPh96ba"
+    },
+    {
+      "album": {
+        "name": "Spicy Margarita (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/3Fguc01648nZdb10np44hU"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164233,
+      "name": "Spicy Margarita - R3HAB Remix",
+      "url": "https://open.spotify.com/track/0njNPrUm5K7kmEC5gOi7o7"
     },
     {
       "album": {
@@ -19486,6 +19956,28 @@
     },
     {
       "album": {
+        "name": "Swan Lake",
+        "url": "https://open.spotify.com/album/4VTFF86TuZh2LUcSUb4knS"
+      },
+      "artists": [
+        {
+          "name": "BeatBoyNinja",
+          "url": "https://open.spotify.com/artist/4yy2jmTSCf7yj03JA9eZdM"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159054,
+      "name": "Swan Lake",
+      "url": "https://open.spotify.com/track/6eoHNG5FncwlHz9YRM6fNw"
+    },
+    {
+      "album": {
         "name": "Dark Academia - Edition I",
         "url": "https://open.spotify.com/album/7Agp69I1p5qufi98DDxzAP"
       },
@@ -19893,7 +20385,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 61942,
       "name": "Tchaikovsky: Suite from Pique Dame (Arr. for Trombone and Piano): XV",
       "url": "https://open.spotify.com/track/2hcwkNCroZ1s7Flo64a2wk"
@@ -20629,6 +21121,24 @@
       "duration_ms": 334430,
       "name": "The King",
       "url": "https://open.spotify.com/track/0Uz8mMqszbxBELP66p4s94"
+    },
+    {
+      "album": {
+        "name": "The Last Imagination",
+        "url": "https://open.spotify.com/album/4rZlDpT9yufJYWhzDaxbjX"
+      },
+      "artists": [
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227067,
+      "name": "The Last Imagination",
+      "url": "https://open.spotify.com/track/70vbbwbAEaWokZlGta6R8g"
     },
     {
       "album": {
@@ -22135,6 +22645,28 @@
       "duration_ms": 228000,
       "name": "Total Eclipse of the Heart - Re-Recorded - Sped Up",
       "url": "https://open.spotify.com/track/3XGn9coNotX8yEwT7T6qmA"
+    },
+    {
+      "album": {
+        "name": "Total Stranger (Pete Hammond Hi-NRG Remix)",
+        "url": "https://open.spotify.com/album/1MEOCfUR45t4BOf9FEZch4"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        },
+        {
+          "name": "Pete Hammond",
+          "url": "https://open.spotify.com/artist/0LYfg5xv5IpmpOTEn2B0Ql"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610191,
+      "name": "Total Stranger - Pete Hammond Hi-Nrg Remix",
+      "url": "https://open.spotify.com/track/7ok9Qb3I1tBva60yOFlQNx"
     },
     {
       "album": {

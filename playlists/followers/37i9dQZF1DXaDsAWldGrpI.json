@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 37668,
+  "2024-03-10": 37731,
   "date_first_scraped": "2022-01-02",
   "description": "Your favorite artists, caught in the act! Recorded Live...just like you were there. Cover: Luke Combs",
   "name": "Country Live",
@@ -741,6 +741,24 @@
       "duration_ms": 282530,
       "name": "Don't Take The Girl - Live From N.Y. / Acoustic",
       "url": "https://open.spotify.com/track/4ioXeATIefvluey7lVUNxq"
+    },
+    {
+      "album": {
+        "name": "Palm Trees & Palm Readers - Jake Owen: Live in Los Angeles (Set 1)",
+        "url": "https://open.spotify.com/album/5k8oL8fv6fV2CWGZLsoAgL"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343744,
+      "name": "Down to the Honky Tonk - Live from the Wiltern Theatre",
+      "url": "https://open.spotify.com/track/3qgnzKJazxtHkwW3BpbiKf"
     },
     {
       "album": {

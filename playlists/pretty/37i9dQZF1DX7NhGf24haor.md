@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Outsiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,089 likes - 92 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,224 likes - 92 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 91 | [End Of Time](https://open.spotify.com/track/0Zae2NHJb4SqqqnaFyFkmP) | [Break of Dawn](https://open.spotify.com/artist/6BcNg67AxzaaVnin8tqG6d), [Mark Eva](https://open.spotify.com/artist/4WdmBpeOI8EKByo2X3R9IO) | [End Of Time](https://open.spotify.com/album/56x9tz0pCNH3YjFUMuhp7P) | 3:24 |
 | 92 | [Won't Bow Down](https://open.spotify.com/track/5PWKB6obYDWWls0we9zy18) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Max Alexander](https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH) | [Won't Bow Down](https://open.spotify.com/album/1bVzAXj4kOf964LKJgjXdr) | 3:44 |
 
-Snapshot ID: `MCw4OWM3YjU2MzI3YWEwODBiMGVlZjc5MDQyZThkYmU2NjFkNWIwNjUw`
+Snapshot ID: `MCwxNWZjNDQyMjdiNzcwYmMzZTRjZWI3MTg0MzAwOWVhNTEwYzNmYmRi`

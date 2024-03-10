@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Mura Masa
 
-625 songs - 1 day 22 hr 47 min
+626 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,7 @@
 | [mr useless](https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [mr useless](https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ) | 2:29 | 2024-02-08 |  |
 | [Music Life](https://open.spotify.com/track/5A96rBUfMdcFbvpRVvzfMv) | [Kez YM](https://open.spotify.com/artist/7cNa9Z6p7WnQJK8B22vcsP) | [Music Life](https://open.spotify.com/album/1Z0GspxUE7tDnhdU5Vz8qL) | 6:40 | 2023-09-07 | 2023-11-11 |
 | [Must Be Right](https://open.spotify.com/track/4W3H4P0nAq92uht2krBYTi) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Must Be Right](https://open.spotify.com/album/3h21yHcNGfgl3AVX1ZSYT5) | 3:34 | 2023-05-04 | 2023-09-22 |
-| [My Crew \(feat\. Flowdan\)](https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np) | 3:25 | 2023-12-07 |  |
+| [My Crew \(feat\. Flowdan\)](https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np) | 3:25 | 2023-12-07 | 2024-03-10 |
 | [N.T\. \(Magical dub mix\)](https://open.spotify.com/track/75hUTtQaq1QOIF7sromJyN) | [Keita Sano](https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn) | [N.T\. \(Magical dub mix\)](https://open.spotify.com/album/2P9JAQMfngOo5p4utDw3BD) | 7:27 | 2023-08-24 | 2023-09-29 |
 | [Naked \- Totally Enormous Extinct Dinosaurs Extended Remix](https://open.spotify.com/track/3ZL5pUtlYGWxPGfWCEPsJ2) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Naked \(Totally Enormous Extinct Dinosaurs Extended Remix\)](https://open.spotify.com/album/0ecfJBqyxpxB7NAHEtYV7E) | 6:03 | 2023-12-07 | 2024-02-16 |
 | [Need You](https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Need You](https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF) | 3:34 | 2023-03-16 | 2023-05-05 |
@@ -502,6 +502,7 @@
 | [Sorbet \- LSDXOXO Remix](https://open.spotify.com/track/6agcpxNbvaijdICaroWF9g) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 4:31 | 2024-02-08 |  |
 | [Soulflow](https://open.spotify.com/track/34k8q1O8eAk4HWzU4jQ7ls) | [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj) | [Soulflow](https://open.spotify.com/album/0TR5psaj0Djq2l03VCstra) | 4:22 | 2023-03-16 | 2023-05-05 |
 | [Space Woman](https://open.spotify.com/track/2dSjOKbiTTUrFCTsy9PBQ5) | [Powder](https://open.spotify.com/artist/4uODGAg149IxrHfQ9z8Hzr) | [Space Woman](https://open.spotify.com/album/2SM1lb9iT98PCVNwH3T4LM) | 1:53 | 2023-04-06 | 2023-07-28 |
+| [Spectors Factory \(Inside\) \- Longer version](https://open.spotify.com/track/3Ez8aaOQjhPJFoNQDDfVZ4) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Apes In The Net](https://open.spotify.com/album/2kYpiUyMJXjBR2bpQq3MMx) | 5:25 | 2024-03-09 |  |
 | [Sport Cut](https://open.spotify.com/track/29vU5LPbgEvbyooRCog9LA) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 2:56 | 2023-05-19 | 2023-08-18 |
 | [Spring](https://open.spotify.com/track/1yD1YZMizn5MnINHhN4Hwr) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Spring](https://open.spotify.com/album/0xHQKa8pDmELqR2fOd3y31) | 4:22 | 2023-03-16 | 2023-06-09 |
 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-02-29 |  |

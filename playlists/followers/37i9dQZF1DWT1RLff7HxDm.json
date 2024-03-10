@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 169528,
+  "2024-03-10": 169571,
   "date_first_scraped": "2021-12-21",
   "description": "All live, all blues. Cover: Christone \"Kingfish\" Ingram",
   "name": "Blues Live & Loud",
@@ -439,6 +439,24 @@
       "duration_ms": 245400,
       "name": "Cold Black Night - Live at VH1",
       "url": "https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs"
+    },
+    {
+      "album": {
+        "name": "Swingin' Live at The Church in Tulsa",
+        "url": "https://open.spotify.com/album/1BS29Yn0GYgoJG7LAMkqXI"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310869,
+      "name": "Corrina",
+      "url": "https://open.spotify.com/track/21FbveXKY4LdlUbIRG80P6"
     },
     {
       "album": {
@@ -2691,7 +2709,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 269360,
       "name": "Walk In My Shadow - Live",
       "url": "https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3"

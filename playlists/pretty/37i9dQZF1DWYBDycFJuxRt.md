@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mega Shinnosuke + Skaai \*👉 <a href="https://spice.eplus.jp/articles/326842?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,293 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,334 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 74 | [Wilderness](https://open.spotify.com/track/6N2ogJhTUv26XLFIJRmWnt) | [Charlotte is Mine](https://open.spotify.com/artist/4qjYirCZfhEHkaixuexPTV) | [Wilderness](https://open.spotify.com/album/5gtRem5DPBMD1SeEVMGMlV) | 2:32 |
 | 75 | [heel](https://open.spotify.com/track/42VK2BbGox46jlYapDpqTT) | [くだらない1日](https://open.spotify.com/artist/0e11UZEaAK9dntRu5NAc6f) | [どいつもこいつも](https://open.spotify.com/album/19mgSXnbIi36lO2v0i7fXp) | 3:16 |
 
-Snapshot ID: `MCwwZGYxMTYwZGVjNjRiMTk4MWVmMTBiYmEwYzhmZjZlOTI4YTQwYWZk`
+Snapshot ID: `MCwwMTMyNWE0ODA3ZTcwOGZhOTIwMDA0MWUwNWQwYzg2NjA4MDMxNzUw`

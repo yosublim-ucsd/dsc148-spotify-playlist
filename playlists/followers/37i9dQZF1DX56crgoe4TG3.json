@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 260354,
+  "2024-03-10": 260402,
   "date_first_scraped": "2021-12-21",
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Town Mountain",
   "name": "Bluegrass Covers",
@@ -4535,6 +4535,24 @@
       "duration_ms": 187724,
       "name": "Walking on Sunshine",
       "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"
+    },
+    {
+      "album": {
+        "name": "We Just Disagree",
+        "url": "https://open.spotify.com/album/4ugzG0tOdg2rFmLN8S8fLd"
+      },
+      "artists": [
+        {
+          "name": "Volume Five",
+          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "We Just Disagree",
+      "url": "https://open.spotify.com/track/787fid8wl4wfd4UpIaI2Gz"
     },
     {
       "album": {

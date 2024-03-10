@@ -4,7 +4,7 @@
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Ariana Grande
 
-480 songs - 1 day 1 hr 42 min
+481 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Gotta Be You \- Thomas Gold Remix](https://open.spotify.com/track/6UrgeAzcjGEkLmg0jRjAR1) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Gotta Be You \(Thomas Gold Remix\)](https://open.spotify.com/album/49FMg1jg6Sm3cn3FlyOU5l) | 3:01 | 2021-05-15 | 2022-04-21 |
 | [Grand \- TroyBoi Remix](https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Grand \(TroyBoi Remix\)](https://open.spotify.com/album/2znOF5q6Bc0BK7krFhUknf) | 2:29 | 2022-09-30 | 2023-01-09 |
 | [Graveyard \- Axwell Remix](https://open.spotify.com/track/3Hah1es0TvdRG7HWNx5e3E) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Graveyard \(Axwell Remix\)](https://open.spotify.com/album/5zxQMuJlg24a3u7JJ9y0LP) | 3:29 | 2020-10-13\* | 2020-10-29 |
-| [greedy \- cassö remix](https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn) | [greedy \(remixes\)](https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC) | 2:36 | 2023-10-27 |  |
+| [greedy \- cassö remix](https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn) | [greedy \(remixes\)](https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC) | 2:36 | 2023-10-27 | 2024-03-10 |
+| [greedy \- cassö remix](https://open.spotify.com/track/4MhxagNeAqtTdy9ht8tQo5) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 2:36 | 2024-03-01 |  |
 | [Green Green Grass \- Sam Feldt Remix](https://open.spotify.com/track/5nS4GAbtHTLQzmLRf7kkg5) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Green Green Grass \(Sam Feldt Remix\)](https://open.spotify.com/album/5pV6QQhxoKOEI9keLU3YFV) | 2:18 | 2022-04-29 | 2022-12-12 |
 | [Green Green Grass \- Sam Feldt Remix](https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 2:18 | 2022-12-30 | 2024-01-10 |
 | [Guess I'm a Liar \- Tracy Young Radio Remix](https://open.spotify.com/track/3fiVsnxz9EYbR4btmLq0kf) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Tracy Young](https://open.spotify.com/artist/2rlC9S7Iw4cwxup4LyOWQy) | [Guess I'm a Liar \(Tracy Young Remix\)](https://open.spotify.com/album/4FppSidH59iwt0054FV2bY) | 2:47 | 2020-11-20 | 2021-09-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,439 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,474 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [La Nena](https://open.spotify.com/track/0gYz2AuLNsMcV6aHdXfL6j) | [Lil Yoe](https://open.spotify.com/artist/4stxKmVRFYmNNDqM5eaq4j) | [La Nena](https://open.spotify.com/album/0hsmOTmEjYRWwctrjMhLRK) | 2:55 |
 | 51 | [SIRENAS](https://open.spotify.com/track/4bILvgBZ0bd1erN8qNKYDz) | [Musiana](https://open.spotify.com/artist/3zCZhJL7lWjWjbWrxlETcz) | [SON DEL MAR](https://open.spotify.com/album/4BMrlZ9hVeyTLSUaKepGrH) | 3:48 |
 
-Snapshot ID: `MCwyNjhjM2I2NDJlNzUyYTllYTdkZTkzZWViZTNhMzc0Mjk0NTBlYWQw`
+Snapshot ID: `MCw1MTdhYTFiODc4OTNhYTM0MDJlYzU4MmVmNmU1YWQ5NmUwZGNkZmYz`

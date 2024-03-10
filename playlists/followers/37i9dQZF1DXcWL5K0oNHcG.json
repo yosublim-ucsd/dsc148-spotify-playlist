@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 210309,
+  "2024-03-10": 210384,
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Jasmine Myra. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Amy Gadiaga. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -145,6 +145,24 @@
       "duration_ms": 402440,
       "name": "(You Are) The Oracle (feat. Michael Mayo)",
       "url": "https://open.spotify.com/track/4Zm26xEmrdfnTQkSu2IZYn"
+    },
+    {
+      "album": {
+        "name": "1-0",
+        "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281914,
+      "name": "1-0",
+      "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
     },
     {
       "album": {
@@ -1035,6 +1053,24 @@
       "duration_ms": 308604,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/7H9hsm4OFJGHc7NG8wqN7c"
+    },
+    {
+      "album": {
+        "name": "All Black Everything",
+        "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
+      },
+      "artists": [
+        {
+          "name": "Amy Gadiaga",
+          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306714,
+      "name": "All Black Everything",
+      "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
     },
     {
       "album": {
@@ -5445,7 +5481,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 434352,
       "name": "Dance Of The White Shadow And Golden Kite",
       "url": "https://open.spotify.com/track/0WHjkvB6uAD7osvJwuFgBi"
@@ -6811,7 +6847,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 444718,
       "name": "E11",
       "url": "https://open.spotify.com/track/2VNTkhoJjWiPIfNhkqkbun"
@@ -7113,7 +7149,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 236333,
       "name": "Elephant Walk",
       "url": "https://open.spotify.com/track/1tLY4OlTjcK3nKDIUVTa4U"
@@ -8867,6 +8903,24 @@
       "duration_ms": 297345,
       "name": "Fri",
       "url": "https://open.spotify.com/track/7hobbyK1Esg7WF5LoDPlLT"
+    },
+    {
+      "album": {
+        "name": "From the Fire",
+        "url": "https://open.spotify.com/album/1bbB0rXdfZ8jO7TWuOZMmo"
+      },
+      "artists": [
+        {
+          "name": "Audrey Powne",
+          "url": "https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298733,
+      "name": "From the Fire",
+      "url": "https://open.spotify.com/track/7ptZN3udg7LZzmAcT2p85E"
     },
     {
       "album": {
@@ -17248,6 +17302,28 @@
     },
     {
       "album": {
+        "name": "Oumuamua",
+        "url": "https://open.spotify.com/album/6nuVkm6dza8i2UAhTppVIg"
+      },
+      "artists": [
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+        },
+        {
+          "name": "Uniri",
+          "url": "https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229270,
+      "name": "Oumuamua",
+      "url": "https://open.spotify.com/track/0bmdkYQVcRlQQ2VmYtphUI"
+    },
+    {
+      "album": {
         "name": "The Only Way Out Is Through",
         "url": "https://open.spotify.com/album/2Iy0Hjuf1i3gAGOGBq32UW"
       },
@@ -17365,7 +17441,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 314480,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/2tsB2qb8IcqQbL5VFdRhVs"
@@ -17971,7 +18047,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 142718,
       "name": "Plasma",
       "url": "https://open.spotify.com/track/0tN87uXOyp6KjCfUVms7o5"
@@ -19844,6 +19920,24 @@
     },
     {
       "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/5tA0Ykz8inSNmzTA9iLSsu"
+      },
+      "artists": [
+        {
+          "name": "Lucien Johnson",
+          "url": "https://open.spotify.com/artist/3FRhEis2dHgap01tvdthBV"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381286,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/6Rmc0ZAzhESwPH9e5hKdj8"
+    },
+    {
+      "album": {
         "name": "Saudade Vem Correndo",
         "url": "https://open.spotify.com/album/06ZqjJPD4uaffJMvGPO0yf"
       },
@@ -19895,6 +19989,24 @@
       "duration_ms": 232941,
       "name": "scatter function",
       "url": "https://open.spotify.com/track/5VToHtoRGM6KpDwRruCKHw"
+    },
+    {
+      "album": {
+        "name": "Scorched Earth",
+        "url": "https://open.spotify.com/album/4XXEzNOWb07Ioo54JSX5FI"
+      },
+      "artists": [
+        {
+          "name": "Orbit Kid",
+          "url": "https://open.spotify.com/artist/02JAIOhEOWVb66sekCzGqz"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177516,
+      "name": "Scorched Earth",
+      "url": "https://open.spotify.com/track/2my7N8zznV6BICQDkWNK7Z"
     },
     {
       "album": {
@@ -20427,6 +20539,40 @@
       "duration_ms": 258000,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/6WsJQKZ8ac2offKUVR33ji"
+    },
+    {
+      "album": {
+        "name": "Silk Road",
+        "url": "https://open.spotify.com/album/3Z4vpkdjX74Aj1KoK0ksGy"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Caetano",
+          "url": "https://open.spotify.com/artist/2iIetRbZW5lWlYzl75cPHM"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        },
+        {
+          "name": "Kourosh Kanani",
+          "url": "https://open.spotify.com/artist/6NlTwp9LC329fcYzGfLOWV"
+        },
+        {
+          "name": "Aref Durvesh",
+          "url": "https://open.spotify.com/artist/6HpVKlrV4UjNcce5ScEdJ9"
+        },
+        {
+          "name": "Andr\u00e9 Dias",
+          "url": "https://open.spotify.com/artist/0pr9ecFPrF6upxyLvvdkXg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287772,
+      "name": "Silk Road",
+      "url": "https://open.spotify.com/track/6tdqqYdhKVnsw2lLiE3nYd"
     },
     {
       "album": {
@@ -20965,7 +21111,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 154038,
       "name": "Soar",
       "url": "https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW"
@@ -24300,6 +24446,24 @@
     },
     {
       "album": {
+        "name": "Theodor Marmalade",
+        "url": "https://open.spotify.com/album/7Ilc7jpSMIg99Oy9uZuvbF"
+      },
+      "artists": [
+        {
+          "name": "Apifera",
+          "url": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223900,
+      "name": "Theodor Marmalade",
+      "url": "https://open.spotify.com/track/4ySeqHdrig51vL16wHLND6"
+    },
+    {
+      "album": {
         "name": "Theory of Chaos",
         "url": "https://open.spotify.com/album/3FU8DfD4fZcByyZ4NfIPcI"
       },
@@ -24311,7 +24475,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 183370,
       "name": "Theory of Chaos",
       "url": "https://open.spotify.com/track/3wmKZb33FftlqJN3IAyYaf"
@@ -24693,7 +24857,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 329622,
       "name": "Time's Arrow",
       "url": "https://open.spotify.com/track/2vRg6acFFC8BWfcnOEbjpw"
@@ -24967,7 +25131,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 206500,
       "name": "TRIP",
       "url": "https://open.spotify.com/track/3pM64kvoySAPp9m6MyyuNa"
@@ -25007,6 +25171,24 @@
       "duration_ms": 247320,
       "name": "Trippy 11 (Glitch Waltz)",
       "url": "https://open.spotify.com/track/3RH5JnLCFCWz9lnUIyL35V"
+    },
+    {
+      "album": {
+        "name": "Tropical Disco",
+        "url": "https://open.spotify.com/album/4zUfrhHQNe9MEUq0CjjFeu"
+      },
+      "artists": [
+        {
+          "name": "Starwolf",
+          "url": "https://open.spotify.com/artist/3Ls05mIE3GrqAuTqjdWDGV"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277106,
+      "name": "Tropical Disco",
+      "url": "https://open.spotify.com/track/3FbucvtW24qXXByZFO08u4"
     },
     {
       "album": {

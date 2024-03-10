@@ -6128,10 +6128,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 222267,
       "name": "Nothing Stays Forever",
       "url": "https://open.spotify.com/track/6McX4XwMmBZeEKW3LeeL7O"
+    },
+    {
+      "album": {
+        "name": "STILL ALIVE",
+        "url": "https://open.spotify.com/album/6XrrWdMJLMkAmrTGX5Et3w"
+      },
+      "artists": [
+        {
+          "name": "The Last Nation",
+          "url": "https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222296,
+      "name": "Nothing Stays Forever",
+      "url": "https://open.spotify.com/track/5yW8pNbHpiCS92iVcYEeEI"
     },
     {
       "album": {

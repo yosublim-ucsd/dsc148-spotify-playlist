@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 
 > Take a bite out of the official playlist for Vampire Academy, streaming Thursdays on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,854 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,860 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 | 41 | [Dynasties & Dystopia \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5EIkdrmuu2xkoQWOWjoeFY) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Dynasties & Dystopia \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6pToO8eUMMQo5hSpxE9XXh) | 2:58 |
 | 42 | [Show Me Where It Hurts](https://open.spotify.com/track/5jyhnTBLLGhixfIzOraYGp) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Skylar Grey](https://open.spotify.com/album/3PRWZgvrcCgUE3zRMkzPw4) | 4:18 |
 | 43 | [The Blues](https://open.spotify.com/track/3IeMnXuoVh0Eh926HHqA1F) | [Poison Ivory](https://open.spotify.com/artist/0Eq98DOd173KrJR9PkauF8) | [The Filth \- EP](https://open.spotify.com/album/5NyE9aoQJBrK1HCu2zC7Fm) | 3:50 |
-| 44 | [LUSTFUL DESIRES](https://open.spotify.com/track/4uk0626CNgZfdMNzaPrH9t) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk) | [LOVE SONGS ABOUT NOBODY](https://open.spotify.com/album/7BdrlLjXopwWAUJz68o5eS) | 2:31 |
+| 44 | [LUSTFUL DESIRES](https://open.spotify.com/track/0FnnNfRZJbLgHkrRSsH25z) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk) | [LOVE SONGS ABOUT NOBODY](https://open.spotify.com/album/3aYOTELJ17zQXhsQacDm51) | 2:31 |
 | 45 | [Dangerous](https://open.spotify.com/track/0n7vRZ6I3wwngwxSLkhHX9) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Marquis](https://open.spotify.com/artist/7Jodk9XhTYevqMoqcUID1l) | [Dangerous](https://open.spotify.com/album/1jpkP7nHdjKMIiGs3v8oBi) | 3:11 |
 | 46 | [Pufzi](https://open.spotify.com/track/5qntZHf9FkoQ39uVIUZCDF) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Disco Submarine](https://open.spotify.com/album/14XL6CtMLgmBzk0bgQCTKj) | 2:54 |
 | 47 | [Hide and Seek](https://open.spotify.com/track/7L6a63xl58vZqSE83iuCOd) | [Klergy](https://open.spotify.com/artist/1p9Lr8nFJ21Jej6dwMLngp), [Mindy Jones](https://open.spotify.com/artist/1CYbORDKUh2xePXSHGjW4J) | [Hide and Seek](https://open.spotify.com/album/3i5oJxfG6aMLStie6UnIRX) | 3:03 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 | 66 | [Walking On Fire](https://open.spotify.com/track/5OqHkOKpkNb5YeVS8NCP1X) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS) | [Walking On Fire](https://open.spotify.com/album/00eOzgNWZx6MZPUQJMZP3d) | 3:29 |
 | 67 | [Ride of Your Life](https://open.spotify.com/track/4yL1td9LfwBEILSqBDfTk5) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie) | [Ride of Your Life](https://open.spotify.com/album/5mud1u4a94wr9izYkfTtxR) | 2:28 |
 
-Snapshot ID: `MCxlMTU4ZWNjNGE1YzljODgyM2E2YWJjMzk4Yzc4NGNlNDllZjA5YjUx`
+Snapshot ID: `MCw2YzU4ZmUxMmUxYjlhMTI1YmE4YjhiZDA0NzgxODc4MWE1ZjAyMzI1`

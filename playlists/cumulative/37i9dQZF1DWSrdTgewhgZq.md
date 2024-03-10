@@ -2,7 +2,7 @@
 
 ### [DOPE.](https://open.spotify.com/playlist/37i9dQZF1DWSrdTgewhgZq)
 
-> The most flammable playlist ever\. That Mexican OT spiting fire 🔥
+> The most flammable playlist ever\. That Mexican OT spitting fire 🔥
 
 267 songs - 14 hr 12 min
 

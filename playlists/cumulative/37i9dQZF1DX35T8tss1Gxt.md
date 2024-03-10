@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-471 songs - 1 day 4 hr 6 min
+472 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Easy](https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Easy](https://open.spotify.com/album/54LWHBnYqAVc9lVI7LaJ9Q) | 2:45 | 2022-04-08 | 2024-01-10 |
 | [Easy!](https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Easy!](https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU) | 2:45 | 2022-07-08 | 2024-01-13 |
 | [El Shaddai](https://open.spotify.com/track/4w2rlg8ZTR3hH3E0MHA3y3) | [Dwayne Tryumf](https://open.spotify.com/artist/75sReJhZ3hjZctu6vtoGj6) | [El Shaddai](https://open.spotify.com/album/0USceD58hvtuCgFiUhAzdY) | 2:48 | 2022-06-25 | 2023-01-21 |
-| [Emmanuel](https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Denise Bamfo](https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO) | [Emmanuel](https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0) | 2:56 | 2023-01-20 |  |
+| [Emmanuel](https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Denise Bamfo](https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO) | [Emmanuel](https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0) | 2:56 | 2023-01-20 | 2024-03-10 |
 | [Eternal Eyes](https://open.spotify.com/track/7uj5EABJQit9vNb4IPwf3y) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Eternal Eyes](https://open.spotify.com/album/2jz9vu4a9y3oPe5jmxbjnC) | 4:00 | 2022-02-19 | 2022-06-12 |
 | [EVERY LITTLE THING](https://open.spotify.com/track/4Yj3DWigyBkTbd3XW0dPMr) | [Brandyn Kalani](https://open.spotify.com/artist/6ev8LXeWUuAT6N78OVjPvA) | [EVERY LITTLE THING](https://open.spotify.com/album/2MnnGRRWDUjSyvLq0bQLef) | 2:49 | 2022-03-05 | 2022-04-09 |
 | [Everyday](https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Everyday](https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3) | 3:04 | 2022-02-19 | 2022-06-26 |
@@ -422,6 +422,7 @@
 | [Unguilty Pleasure](https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Unguilty Pleasure](https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0) | 3:13 | 2022-06-25 | 2023-10-11 |
 | [Valley \- CalledOut Music Remix](https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf) | [DAYASOUL](https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Valley \(CalledOut Music Remix\)](https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp) | 3:07 | 2023-10-31 |  |
 | [VANILLA](https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [VANILLA](https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB) | 2:28 | 2022-06-25 | 2024-01-13 |
+| [Vans X Adidas](https://open.spotify.com/track/00CMZKw15Y1d2E00GvH33t) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Stained Glass Windows](https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb) | 3:53 | 2024-01-12 |  |
 | [Vans X Adidas](https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Vans X Adidas](https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe) | 3:54 | 2023-01-20 | 2023-05-21 |
 | [Victory](https://open.spotify.com/track/6yZu268Sq4D1xfEY0Q9x8f) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Johnny Haick](https://open.spotify.com/artist/3uSVYg6uMnIBv06tyILBj3) | [Victory](https://open.spotify.com/album/1IJgW1LInx1jkRSSLegyRL) | 7:55 | 2022-04-01 | 2022-05-18 |
 | [Wade In The Water \- Live](https://open.spotify.com/track/1xcC0GKNgEWDjWxawt29Nl) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Wade In The Water](https://open.spotify.com/album/41ulKBEAa83QkPZC29LBnb) | 3:19 | 2022-03-05 | 2022-06-23 |

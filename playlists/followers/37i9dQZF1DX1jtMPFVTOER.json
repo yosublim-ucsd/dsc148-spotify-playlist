@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 93950,
+  "2024-03-10": 93992,
   "date_first_scraped": "2022-01-01",
   "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
   "name": "Orbit",
@@ -9496,6 +9496,24 @@
     },
     {
       "album": {
+        "name": "Stop Calling Me",
+        "url": "https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B"
+      },
+      "artists": [
+        {
+          "name": "Blaque Dynamite",
+          "url": "https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327342,
+      "name": "STOP CALLING ME",
+      "url": "https://open.spotify.com/track/314r69preySjrl67vpaEI8"
+    },
+    {
+      "album": {
         "name": "TAO",
         "url": "https://open.spotify.com/album/6PpY8MTNORze0RspuiNqKR"
       },
@@ -10713,7 +10731,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 170882,
       "name": "Time To Lose",
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,031 likes - 49 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,107 likes - 49 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 7 | [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 |
 | 8 | [Africa Will Be Great Again](https://open.spotify.com/track/5g9OyUzyCsfXoXj8Rgdhzo) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [One People One World](https://open.spotify.com/album/46KJmojXzbfwKzoUCWXAF2) | 4:47 |
 | 9 | [Pulsos \(feat\. Antibalas Horns\)](https://open.spotify.com/track/3kp6IvmEaFGQZE1uvtK8n4) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU), [Antibalas Horns](https://open.spotify.com/artist/0VMmjlR5yE56cl2YYmDgE2) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:28 |
-| 10 | [Cumbia Africana](https://open.spotify.com/track/0NKgWh7y8wHhlbYE2NvJAN) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 3:26 |
+| 10 | [Cumbia Africana](https://open.spotify.com/track/4wA0D7Fl3DZPW7nb49HlRb) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/5HAxpndIx1dY8zwblmjEHz) | 3:26 |
 | 11 | [Blackman Know Yourself](https://open.spotify.com/track/7dUUAu2h1rHRLENswfBRfh) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Shoki Shoki](https://open.spotify.com/album/64SF6sZvPJ86whi2eSd5Vb) | 5:19 |
 | 12 | [Budos Theme](https://open.spotify.com/track/5sF287sBRhHMDJqO8gMbSp) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 3:09 |
 | 13 | [The Traitor](https://open.spotify.com/track/4hVGW01fTaqMbYXJyA8YWn) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC) | 2:42 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 48 | [Enwan](https://open.spotify.com/track/616eSjwX3yd5HhtPNCsjCI) | [The Anansa Professionals](https://open.spotify.com/artist/1qvjh1IbEqCRvjkXrd6vgr) | [Enwan](https://open.spotify.com/album/1ZsHa3jQnKwGZOnHHmw70L) | 5:31 |
 | 49 | [No Wrong Show](https://open.spotify.com/track/1lnHRzrx8GLtkPWEQRebWW) | [Thony Shorby Nyenwi](https://open.spotify.com/artist/3HcwWpnDRCp1zhnPRPDQhd) | [Afro Baby: The Evolution of the Afro\-Sound in Nigeria 1970\-79](https://open.spotify.com/album/3MRCjf7Np4Jn3K4bnNv10a) | 5:43 |
 
-Snapshot ID: `MCwxMzBjNTdjMTg0NWYyNWY5ODAyNjE0MmRhODk3MDA0NGRiZjJhNjNh`
+Snapshot ID: `MCxhMTAyYmEyNjQ5Y2Q3YzZjNTU3YTNmM2Y4OTIyOGQ2MmNhYzQ1OGMx`

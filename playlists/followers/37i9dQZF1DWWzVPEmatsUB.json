@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 637643,
+  "2024-03-10": 637796,
   "date_first_scraped": "2021-12-21",
   "description": "Ease into the day",
   "name": "Mellow Morning",
@@ -245,6 +245,24 @@
       "duration_ms": 145346,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0qK81UQieeWpsCPFLvHNWO"
+    },
+    {
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195810,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/67Y1yh3VmubMkvYmO7X5h0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-807 songs - 2 day 11 hr 42 min
+808 songs - 2 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,7 @@
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2022-08-19 |  |
 | [No One Like You \- 2015 Remaster](https://open.spotify.com/track/0hLQWHwB6GZlkASpS7DkdW) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 3:58 | 2023-05-26 | 2023-11-05 |
 | [No Pain No Gain](https://open.spotify.com/track/6Mz38ZM9eEqQ3QV1duTXyb) | [Austrian Death Machine](https://open.spotify.com/artist/0oxUux1OSwZpIpSK0JbqSS), [Craig Golias](https://open.spotify.com/artist/1phweDlzfACpfdwXWZDkKj), [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [No Pain No Gain](https://open.spotify.com/album/4IyzMlNKvYJt7tgTGbE66V) | 4:06 | 2023-10-27 | 2023-11-13 |
-| [No Prayer At Midnight](https://open.spotify.com/track/0VEYwIJluTQyPwq5y86EeZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [No Prayer At Midnight](https://open.spotify.com/album/32KYjm5c695xOIy3yL33AT) | 3:41 | 2023-03-10 |  |
+| [No Prayer At Midnight](https://open.spotify.com/track/0VEYwIJluTQyPwq5y86EeZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [No Prayer At Midnight](https://open.spotify.com/album/32KYjm5c695xOIy3yL33AT) | 3:41 | 2023-03-10 | 2024-03-10 |
 | [No Weapon Formed Shall Prosper](https://open.spotify.com/track/2nnKS05n7NKy9MyVecmuu8) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [No Weapon Formed Shall Prosper](https://open.spotify.com/album/31N18X9CowSYuidydcBHKL) | 3:53 | 2024-03-08 |  |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-22 |  |
 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 | 2022-08-19 |  |
@@ -684,6 +684,7 @@
 | [The Inmost Light](https://open.spotify.com/track/2OKcPu7AjhRK3d0M3gFpxV) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Michael Kiske](https://open.spotify.com/artist/0gCtlB8zAb5lkus3e4X1ET) | [The Inmost Light](https://open.spotify.com/album/1b2YboU69bMXC2QOtjHx4b) | 3:26 | 2022-09-23 | 2022-10-28 |
 | [The Inmost Light](https://open.spotify.com/track/75JDr0zjNQHKybrvUL1otS) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Michael Kiske](https://open.spotify.com/artist/0gCtlB8zAb5lkus3e4X1ET) | [A Paranormal Evening with the Moonflower Society](https://open.spotify.com/album/2iJh6o9qiZHBukshvWoRXI) | 3:26 | 2022-10-21 | 2023-01-02 |
 | [The Last Battle](https://open.spotify.com/track/0HJEr0nvjQXTMeGdPnXXYs) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [The Last Battle](https://open.spotify.com/album/19H6MQPub0ae4UnQL9NXIL) | 4:36 | 2021-12-17 | 2022-06-22 |
+| [The Last Imagination](https://open.spotify.com/track/70vbbwbAEaWokZlGta6R8g) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [The Last Imagination](https://open.spotify.com/album/4rZlDpT9yufJYWhzDaxbjX) | 3:47 | 2024-03-08 |  |
 | [The Last in Line](https://open.spotify.com/track/6LUGAFpbYVek4rRY0G9dV0) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [The Last in Line](https://open.spotify.com/album/4XAy5hk5sgMdDlORiNrVM9) | 5:44 | 2022-08-19 |  |
 | [The Moon](https://open.spotify.com/track/3j3QVCJXXZXfgB5sjN1TEY) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [The Moon](https://open.spotify.com/album/2iYLHZ81SJa5MY9BDjCek9) | 5:57 | 2021-12-17 | 2022-07-29 |
 | [The Motherload](https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:59 | 2022-08-12 |  |

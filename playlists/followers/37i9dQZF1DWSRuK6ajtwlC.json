@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 301248,
+  "2024-03-10": 301520,
   "date_first_scraped": "2023-03-11",
   "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Maquinar\u00eda Norte\u00f1a en portada.",
   "name": "Norte\u00f1o Sax",
@@ -389,10 +389,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 160106,
       "name": "Contigo S\u00ed",
       "url": "https://open.spotify.com/track/33cIhDF0Hd4KWL5Y8GjJ5m"
+    },
+    {
+      "album": {
+        "name": "Saxy",
+        "url": "https://open.spotify.com/album/5Xwc9hOidf3NsxTtY046d4"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160106,
+      "name": "Contigo S\u00ed",
+      "url": "https://open.spotify.com/track/6JHTxDUpbZrhEMROHFFV6a"
     },
     {
       "album": {

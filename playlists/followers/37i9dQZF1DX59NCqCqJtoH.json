@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 1186320,
+  "2024-03-10": 1186443,
   "date_first_scraped": "2021-12-30",
   "description": "We hear you.",
   "name": "idk.",
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 136686,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi"
@@ -10613,6 +10613,24 @@
       "duration_ms": 193170,
       "name": "the fire in your eyes keeps me warm",
       "url": "https://open.spotify.com/track/076YCyUBs1GlrzAmOsZkFU"
+    },
+    {
+      "album": {
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278952,
+      "name": "The Gaping Mouth",
+      "url": "https://open.spotify.com/track/4zIJESN3Y2Yu3aY9cJtbyG"
     },
     {
       "album": {

@@ -2957,6 +2957,36 @@
     },
     {
       "album": {
+        "name": "Ouro e Fuzil",
+        "url": "https://open.spotify.com/album/4hSHuC6etwG6XuzOKVtb2v"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Grone",
+          "url": "https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143253,
+      "name": "Ouro e fuzil",
+      "url": "https://open.spotify.com/track/0fUjx2kPBvYZwzQThbGB9G"
+    },
+    {
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -2980,7 +3010,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 143253,
       "name": "Ouro e fuzil",
       "url": "https://open.spotify.com/track/5mZiN4E6mMh3YL3BDh9bOm"

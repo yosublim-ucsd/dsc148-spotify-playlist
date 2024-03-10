@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "another life",
+        "url": "https://open.spotify.com/album/5FenmMucwb9skvgYUBy1QD"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        },
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131182,
+      "name": "another life",
+      "url": "https://open.spotify.com/track/1LRDoxji2NI4tkjkbYGCAC"
+    },
+    {
+      "album": {
         "name": "TAPE 2/FOMALHAUT",
         "url": "https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD"
       },
@@ -9272,7 +9294,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 194558,
       "name": "Second Guessing",
       "url": "https://open.spotify.com/track/2yttIliVUGCilaRFJ3mNb7"

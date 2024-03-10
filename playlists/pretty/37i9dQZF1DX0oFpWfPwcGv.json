@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 60146,
+  "num_followers": 60170,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmRhZTQ1MjMyZWJjN2MwZjI2MGYzMjIyMTU1ZWM5MjI0NmMyYTU0",
+  "snapshot_id": "MCw2YzlmMmU5YWRkMzk3NGJjNzRmMjY3NWRiNDI4ZjkzMGVhNzIyNDE2",
   "tracks": [
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "The Essential Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 391693,
-      "name": "Shame - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Essential Jean Carn - The PIR Years",
         "url": "https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 389373,
       "name": "Was That All It Was - 12\" Version",
       "url": "https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "The Essential Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
+      },
+      "artists": [
+        {
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+        }
+      ],
+      "duration_ms": 391693,
+      "name": "Shame - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
     },
     {
       "added_at": "2024-02-12 15:00:21",

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,066 songs - 2 day 7 hr 56 min
+1,067 songs - 2 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Down](https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Art By You](https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe) | 3:36 | 2023-11-16 | 2024-02-09 |
 | [Dragonfly](https://open.spotify.com/track/6iwcTqL7734NG9OOkRcoCm) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Dragonfly](https://open.spotify.com/album/6gIx9WqJJsZ3SRVBha3iI5) | 3:08 | 2022-09-29 | 2022-10-28 |
 | [Drifting Out \(feat\. Jakob Koranyi and Yo\-Yo Ma\)](https://open.spotify.com/track/3CNWq7lUjDrIdM32Hwdbbh) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Jakob Koranyi](https://open.spotify.com/artist/0t6zWYaTM3aHkDCGWLdjFL), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Drifting Out EP](https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh) | 3:45 | 2022-03-24 | 2022-04-02 |
-| [Drown out the noise](https://open.spotify.com/track/1BH975zc82rAvbJZrmkbgH) | [Moto Boy](https://open.spotify.com/artist/0sKQUWhiNgW8KBnnM0O7FL) | [Drown out the noise](https://open.spotify.com/album/2HI5X6ZZTWSEFPL3teLO96) | 3:53 | 2024-01-25 |  |
+| [Drown out the noise](https://open.spotify.com/track/1BH975zc82rAvbJZrmkbgH) | [Moto Boy](https://open.spotify.com/artist/0sKQUWhiNgW8KBnnM0O7FL) | [Drown out the noise](https://open.spotify.com/album/2HI5X6ZZTWSEFPL3teLO96) | 3:53 | 2024-01-25 | 2024-03-10 |
 | [Dränker mina tankar](https://open.spotify.com/track/22wxsQjzxWHm5LBGP2AM9Q) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Dränker mina tankar](https://open.spotify.com/album/46Z7Ia77aU9iT95eQjaewX) | 3:02 | 2022-04-01 | 2022-09-16 |
 | [Drömmare](https://open.spotify.com/track/2zEDpcn34OMwjC7SVPey4S) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Drömmare](https://open.spotify.com/album/7AEwJqMf2dlz3Qx659C6Xd) | 3:03 | 2021-12-16 | 2022-04-01 |
 | [Drömmer om andetag](https://open.spotify.com/track/1WKsFk6rFyrzzV0CdPDIBw) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Drömmer om andetag](https://open.spotify.com/album/3AK4IBdV1dWUcgLIUR8k3I) | 3:30 | 2021-12-16 | 2022-02-25 |
@@ -744,6 +744,7 @@
 | [Rule the World](https://open.spotify.com/track/3wegijGUPhF7eHGCIST2Rz) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/1KVlwAn0aLqaqxzgU5zItL) | 2:59 | 2022-04-01 | 2022-04-21 |
 | [Rules](https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Bloom](https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj) | 2:46 | 2022-12-22 | 2023-03-10 |
 | [Rulla eftertexten](https://open.spotify.com/track/32DulelwqqHmiNS3k9Wyxn) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut](https://open.spotify.com/album/4NqV0pKjmtudnuZ7SArHtG) | 3:26 | 2021-12-16 | 2022-03-11 |
+| [Run Away](https://open.spotify.com/track/7jXxNqwAOjEVLpGTTRQCAr) | [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Run Away](https://open.spotify.com/album/1IQe77166CRVgSeiRhHiuk) | 4:39 | 2024-03-07 |  |
 | [Run To The Hills](https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Run To The Hills](https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0) | 2:55 | 2022-03-03 | 2022-09-16 |
 | [Ruta Noll](https://open.spotify.com/track/6sl4osOhY4Phx4tCsdj9Yn) | [Wilden](https://open.spotify.com/artist/6Idl2AxJCkWHN4VTVfOEuK) | [Ruta Noll](https://open.spotify.com/album/543XPoKgO1q8T2Yj1Rsmk7) | 2:46 | 2023-11-23 | 2024-02-09 |
 | [Rymden och tillbaks](https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Så mycket bättre 2022 – Tolkningarna](https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon) | 2:53 | 2022-11-17 | 2023-10-06 |

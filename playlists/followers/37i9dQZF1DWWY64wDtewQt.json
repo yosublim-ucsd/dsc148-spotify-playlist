@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 7685962,
+  "2024-03-10": 7692343,
   "date_first_scraped": "2022-01-10",
   "description": "the beat of your drift",
   "name": "phonk",
@@ -1274,6 +1274,24 @@
     },
     {
       "album": {
+        "name": "Project Brazil (Slowed)",
+        "url": "https://open.spotify.com/album/1PdOfOLuiNuvk7H0Cye1In"
+      },
+      "artists": [
+        {
+          "name": "MRL",
+          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123473,
+      "name": "Automotivo Insufici\u00eancia - Slowed",
+      "url": "https://open.spotify.com/track/38WaXJLmp0pRWQcY7zFm2d"
+    },
+    {
+      "album": {
         "name": "AUTOMOTIVO PEGA 1.0",
         "url": "https://open.spotify.com/album/7u2xWRhQHjvi4h947qgDAf"
       },
@@ -2427,7 +2445,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 100476,
       "name": "CHIPI CHAPA BRAZIL",
       "url": "https://open.spotify.com/track/3RksMYhWbtDx6zicQFAn9F"
@@ -5439,7 +5457,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 125714,
       "name": "Heavenly Key",
       "url": "https://open.spotify.com/track/09m40hbfqNwnF5w2CbqIqt"
@@ -5605,6 +5623,28 @@
       "duration_ms": 160841,
       "name": "HERMIT",
       "url": "https://open.spotify.com/track/4m7eYTV0lPZeSf30EfK81l"
+    },
+    {
+      "album": {
+        "name": "hex (krushfunk version)",
+        "url": "https://open.spotify.com/album/7eziC95swFXg8VQH0qOxPL"
+      },
+      "artists": [
+        {
+          "name": "kxttn",
+          "url": "https://open.spotify.com/artist/0vpc365IuiA7Ex5sPRADYy"
+        },
+        {
+          "name": "the ANTI social club",
+          "url": "https://open.spotify.com/artist/4HHaOYzrEpSCPSipWPuVBd"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96545,
+      "name": "hex - krushfunk version",
+      "url": "https://open.spotify.com/track/4JgRo2cQU4jl4mxGk8gjyg"
     },
     {
       "album": {
@@ -6149,7 +6189,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 121846,
       "name": "JUJALARIM FUNK",
       "url": "https://open.spotify.com/track/7A9G0xZfgNVM17TvBysVzl"
@@ -6189,7 +6229,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 87679,
       "name": "KAMI",
       "url": "https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"
@@ -7153,7 +7193,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 100465,
       "name": "MANDA BALA",
       "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
@@ -9993,7 +10033,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 155471,
       "name": "Priviet Priviet Funk",
       "url": "https://open.spotify.com/track/3iyWPAOj05R88SIkFjBTdj"
@@ -11329,6 +11369,24 @@
       "duration_ms": 120187,
       "name": "showdown",
       "url": "https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn"
+    },
+    {
+      "album": {
+        "name": "SHOWTIME",
+        "url": "https://open.spotify.com/album/4z1jKFerf7aZlplVgGMPAX"
+      },
+      "artists": [
+        {
+          "name": "SHADXWRXGE",
+          "url": "https://open.spotify.com/artist/79xnSL6gmGSmRyeuYosQm3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149705,
+      "name": "SHOWTIME",
+      "url": "https://open.spotify.com/track/0F3n2iQAzTULYrB8sZHYY5"
     },
     {
       "album": {

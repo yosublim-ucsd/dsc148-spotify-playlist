@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 432577,
+  "2024-03-10": 432626,
   "date_first_scraped": "2020-10-13",
   "description": "glaivepilled",
   "name": "hyperpop",
@@ -15996,6 +15996,32 @@
     },
     {
       "album": {
+        "name": "higher",
+        "url": "https://open.spotify.com/album/7bU6287MqRe2gtSXbwMq0b"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        },
+        {
+          "name": "apatheater",
+          "url": "https://open.spotify.com/artist/31MBjhC4zjwYnrNKicwTTO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/7diyCFL8chcY1REunXR18F"
+    },
+    {
+      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -16055,6 +16081,28 @@
       "duration_ms": 242406,
       "name": "HIT 'EM WITH A POLE",
       "url": "https://open.spotify.com/track/7pgDk84wEctCGFZDuEuN6Q"
+    },
+    {
+      "album": {
+        "name": "Hitty",
+        "url": "https://open.spotify.com/album/0Fw4C3r8IHnIvSoUJqeXHB"
+      },
+      "artists": [
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176296,
+      "name": "Hitty",
+      "url": "https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1"
     },
     {
       "album": {
@@ -28980,6 +29028,24 @@
     },
     {
       "album": {
+        "name": "riddle/4u",
+        "url": "https://open.spotify.com/album/7vWNUTnV86tZ7HiFx7O5Bd"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144135,
+      "name": "riddle",
+      "url": "https://open.spotify.com/track/6rTyxMcBKW7TzBZvzrgqgb"
+    },
+    {
+      "album": {
         "name": "ride",
         "url": "https://open.spotify.com/album/41eJTBdTJAseoXyoIvD3qs"
       },
@@ -39081,6 +39147,32 @@
       "duration_ms": 188946,
       "name": "Yeah Right",
       "url": "https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL"
+    },
+    {
+      "album": {
+        "name": "yellow patches",
+        "url": "https://open.spotify.com/album/4Abhnyu7vS2zAxOkZJvonh"
+      },
+      "artists": [
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        },
+        {
+          "name": "Giant Claw",
+          "url": "https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc"
+        },
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "yellow patches",
+      "url": "https://open.spotify.com/track/6yHdpcPQnbjagFjz8wVTYq"
     },
     {
       "album": {

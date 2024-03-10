@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,116 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,118 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 65 | [Bend The Knee](https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Bend The Knee](https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE) | 3:07 |
 | 66 | [Be Okay \(with HRVY\)](https://open.spotify.com/track/18eulGR0pDx34cbGLIfk4j) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Be Okay \(with HRVY\)](https://open.spotify.com/album/10UqbuAqGIsMX6SCEazWM2) | 2:21 |
 | 67 | [Another You \(feat\. The Vamps\)](https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [BLOODLINE](https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Another You \(feat\. The Vamps\)](https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV) | 2:38 |
-| 68 | [Promises](https://open.spotify.com/track/7AVRMxljXWpqmL9NlzeCJw) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:21 |
-| 69 | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/album/2Cla1wK4qkDCdrVaZgeTFk) | 2:49 |
+| 68 | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/album/2Cla1wK4qkDCdrVaZgeTFk) | 2:49 |
+| 69 | [Promises](https://open.spotify.com/track/7AVRMxljXWpqmL9NlzeCJw) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:21 |
 | 70 | [Jacques \(with ‪Tove Lo\)](https://open.spotify.com/track/79JqbyvbJ7Shub94aKID7P) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 3:23 |
 | 71 | [Right Into You](https://open.spotify.com/track/68sRAo8UPT1QGtSdmEUgvz) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Right Into You](https://open.spotify.com/album/7gbcNX18avaFcPPYEh2eX4) | 3:13 |
 | 72 | [Swing \(feat\. Allday\)](https://open.spotify.com/track/2ks3RwyEr6tYG4S3bfqMjY) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Swing \(feat\. Allday\)](https://open.spotify.com/album/2Oc9TM1D0ud8AlNmHJE2Df) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 79 | [Flashing Lights](https://open.spotify.com/track/4jqpuhtQEkyvsuFyrK81BX) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS) | [You Got Me](https://open.spotify.com/album/730DV2yB8G1svAKIvD4pdh) | 2:57 |
 | 80 | [Agora Vai!](https://open.spotify.com/track/1xQZMFLNckpSQzwleLBKyL) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Agora Vai!](https://open.spotify.com/album/6l4qzArQvDKnzRLmFkrHE2) | 4:26 |
 
-Snapshot ID: `MCxkOGIyYmQ1MjlmNGRiZjA2OTY0MGI4YTQwZThkY2MwOWM4OGNlY2Mx`
+Snapshot ID: `MCw4ODFhZDZlNGE5NzJjYjVjM2I4N2NmNWU3ZjBiODA0MDY1NjE2Mzg1`

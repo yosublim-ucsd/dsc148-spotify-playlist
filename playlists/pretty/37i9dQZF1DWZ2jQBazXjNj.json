@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 63361,
+  "num_followers": 63479,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWU0MTllMjViMjU4MTk0MDE4ZjYyMTBiZmE0NTY0MjIwYjgyMDc0",
+  "snapshot_id": "MCw1MjkxY2EzNmRjNWVmZTUyY2VhOTFjZDVkOTY1NmM5YTkxZDM5OGYy",
   "tracks": [
     {
       "added_at": "2024-02-20 19:26:32",
@@ -839,18 +839,22 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO"
+        "name": "Pura Pieza de Mi Gusto",
+        "url": "https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/0Gb6YnVrJJHaP6yYmB9VZA"
         }
       ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O"
+      "duration_ms": 217276,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5WryQfin9lje7KFyXF3Qs1"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -875,22 +879,18 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Pura Pieza de Mi Gusto",
-        "url": "https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj"
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        },
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/0Gb6YnVrJJHaP6yYmB9VZA"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 217276,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5WryQfin9lje7KFyXF3Qs1"
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O"
     },
     {
       "added_at": "2024-02-20 19:26:32",

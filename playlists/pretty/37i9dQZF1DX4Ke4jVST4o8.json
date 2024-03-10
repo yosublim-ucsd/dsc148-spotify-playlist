@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 110660,
+  "num_followers": 110747,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjMzZTVhYjlhYTRkZTM1YzRlNmJkZDY0NWRmMmJjYWVjYzU2MjJi",
+  "snapshot_id": "MCxiYTc0OGIwMjBiMmQxZGM4MjU4NWRmNjdjNDVmYjQ4OTU2ZmEyYjU1",
   "tracks": [
     {
       "added_at": "2022-10-14 00:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Midnight City (Eric Prydz Private Remix)",
-        "url": "https://open.spotify.com/album/5oOaP8n5kFkbxQkzp86tlU"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 357241,
-      "name": "Midnight City - Eric Prydz Private Remix",
-      "url": "https://open.spotify.com/track/53YYzXe4shE5FF13XBrhGz"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Dirty Bass",
         "url": "https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 237106,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/5MWx5bkuRauFJenpG1w5wt"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Midnight City (Eric Prydz Private Remix)",
+        "url": "https://open.spotify.com/album/5oOaP8n5kFkbxQkzp86tlU"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 357241,
+      "name": "Midnight City - Eric Prydz Private Remix",
+      "url": "https://open.spotify.com/track/53YYzXe4shE5FF13XBrhGz"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Dirty Bass",
-        "url": "https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe"
-      },
-      "artists": [
-        {
-          "name": "Far East Movement",
-          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
-        },
-        {
-          "name": "Cover Drive",
-          "url": "https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Turn Up The Love",
-      "url": "https://open.spotify.com/track/2R0eIBJGHpiv1nKbSzW4zq"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "The Rules of Dada",
         "url": "https://open.spotify.com/album/7j3RkUHvdtlb08534NqGB2"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 160266,
       "name": "Mammoth - Radio Version",
       "url": "https://open.spotify.com/track/1j5jW3sBFEWYMPkO5Tl1oX"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Dirty Bass",
+        "url": "https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe"
+      },
+      "artists": [
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        },
+        {
+          "name": "Cover Drive",
+          "url": "https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Turn Up The Love",
+      "url": "https://open.spotify.com/track/2R0eIBJGHpiv1nKbSzW4zq"
     },
     {
       "added_at": "2022-10-14 00:00:00",

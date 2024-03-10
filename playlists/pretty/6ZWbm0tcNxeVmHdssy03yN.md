@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,363 likes - 91 songs - 4 hr 31 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,387 likes - 91 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 16 | [WYM](https://open.spotify.com/track/6UJKTLScivUkehvSVcmPtm) | [Figuero Jones](https://open.spotify.com/artist/0x07QTPyIoE2xSihIAncYF), [Aywy](https://open.spotify.com/artist/6r38VaW3wElzmIlJ69Cz2L) | [WYM](https://open.spotify.com/album/6YuHvxOZ9jkH9zWSxLWhE3) | 2:48 |
 | 17 | [Save by the bell](https://open.spotify.com/track/26eJ1A71oxzFGPEgp6pBox) | [NOXAZAMIA](https://open.spotify.com/artist/4jazXQoiHkyMNbCepSQK0L), [Lorena Viánca](https://open.spotify.com/artist/3zTeZ6yeiLQu1gbDXHg3UC) | [Save by the bell](https://open.spotify.com/album/7nhc2ozhQQZM6p3LIKe8hV) | 2:56 |
 | 18 | [TongueTwisted \(ft\. Eilidh McGuire\)](https://open.spotify.com/track/1gvo05rEDTQFFLgffDLl0v) | [OSWRLD](https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl), [Eilidh McGuire](https://open.spotify.com/artist/1x8xletofleaVrFIQlBG0Q) | [moonboy, the album](https://open.spotify.com/album/3bZEVYoRnHrHTMfs2JSUju) | 3:11 |
-| 19 | [Midnight Flex](https://open.spotify.com/track/4fqtief1hnDKzEGg57HcG6) | [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK), [TBG](https://open.spotify.com/artist/0orTGvta84KNvqOlBECp6H), [Benny the Greek](https://open.spotify.com/artist/4pxPebMzRgjtE7jYT9C1Xr) | [Midnight Flex](https://open.spotify.com/album/6lKH1EcnQiGje529wOJOs3) | 3:13 |
+| 19 | [Midnight Flex](https://open.spotify.com/track/4fqtief1hnDKzEGg57HcG6) | [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK), [TBG](https://open.spotify.com/artist/2ms7zUvy3rQyctemMkWrdZ), [Benny the Greek](https://open.spotify.com/artist/4pxPebMzRgjtE7jYT9C1Xr) | [Midnight Flex](https://open.spotify.com/album/6lKH1EcnQiGje529wOJOs3) | 3:13 |
 | 20 | [Acorralado](https://open.spotify.com/track/2jYppW6EzljhkE237q06JS) | [Divina Argentina](https://open.spotify.com/artist/6oSHgKQEQSIfBJmkaduG7o) | [Acorralado](https://open.spotify.com/album/7cy70FpChbev10al1Gmt1b) | 2:43 |
 | 21 | [Wag Naman](https://open.spotify.com/track/7BkZPPgzeuDMIoa44OPe8e) | [The Cohens](https://open.spotify.com/artist/5x3ZUgvYdLryFxvI4n1F1G) | [Wag Naman](https://open.spotify.com/album/65pOeGMiizBrW6NCBQHYBa) | 2:32 |
 | 22 | [Otro Plan](https://open.spotify.com/track/5M22QjDu86JMOvcS1r3K1D) | [MARTIN](https://open.spotify.com/artist/0WaT9IZwWiA0LuYWlVrKtL) | [ODISEO](https://open.spotify.com/album/2IeWimAG80cIj4FOlsvEWf) | 3:08 |

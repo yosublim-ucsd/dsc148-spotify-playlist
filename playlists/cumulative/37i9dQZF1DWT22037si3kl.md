@@ -4,7 +4,7 @@
 
 > bgl é seu estilo ser original vocês já sabem\. Foto: Alee
 
-346 songs - 16 hr 51 min
+347 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Celine \(Vestidin\)](https://open.spotify.com/track/2nzcvQ0FFdGvhQHVqtveix) | [Yamzin](https://open.spotify.com/artist/4QrqFit0q3dYCEKRklxOud), [Mal Beats](https://open.spotify.com/artist/1wYc612FBSvRvjrSd6vgUy) | [Celine \(Vestidin\)](https://open.spotify.com/album/0VnmZT3UScDREI1NuB6nDQ) | 3:01 | 2023-09-01 | 2023-09-23 |
 | [Centro de São Paulo](https://open.spotify.com/track/0yOc9p0JVvVX5zKBDPZAqm) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 4](https://open.spotify.com/album/3Lf4zUSuZ0ihmvpt72P8bx) | 2:53 | 2024-02-09 | 2024-02-24 |
 | [CHANEL](https://open.spotify.com/track/0AyrMxZtWCQEktWjNosyEc) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Tio Galera](https://open.spotify.com/artist/60LQdTUEVCRObjwjXB3hYH) | [CHANEL](https://open.spotify.com/album/3qLpcdoxdNBogI8oOrHLui) | 2:43 | 2022-10-14 | 2022-11-26 |
-| [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 | 2023-11-13 |  |
+| [Cheiro de Sexo](https://open.spotify.com/track/1axjkneyMaY05Vtbm0iodX) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Cheiro de Sexo](https://open.spotify.com/album/5ZxY0qSYAspKpIac8YcQO5) | 2:28 | 2024-03-08 |  |
+| [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 | 2023-11-13 | 2024-03-10 |
 | [Cifrão](https://open.spotify.com/track/6PCV5jgA8wBLvGIWbJR7la) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Joias do Bairro](https://open.spotify.com/album/4FbcW3acqCCa64ePx1fKOr) | 2:58 | 2022-07-29 | 2022-09-03 |
 | [Clickbait](https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Clickbait](https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ) | 2:41 | 2023-04-29 |  |
 | [Closet](https://open.spotify.com/track/1XRyaPfm8Y3Z3cX3Mzw04s) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Closet](https://open.spotify.com/album/6r89rNhNKEvGd6Uoviv5tJ) | 1:49 | 2022-07-01 | 2022-07-30 |

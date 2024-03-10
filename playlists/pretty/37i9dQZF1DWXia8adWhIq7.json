@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 89945,
+  "num_followers": 89990,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjFjZGY2Y2ZiZDI2NmY3Zjk1NGRhYzcwZTEyYmQzYWExZmEwY2Zk",
+  "snapshot_id": "MCwxZmMxMWFmMDQ3ZjI4MWJhNTc1YTZlMWNhZWQ5NjUxNmY2YTczN2I2",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp"
+      },
+      "artists": [
+        {
+          "name": "Thiago Ramalho",
+          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 236470,
       "name": "Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Eu Vou",
-        "url": "https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp"
-      },
-      "artists": [
-        {
-          "name": "Thiago Ramalho",
-          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -167,18 +167,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "De 1 At\u00e9 3",
-        "url": "https://open.spotify.com/album/7jmdlVQj7FLKPIA5VYJcLz"
+        "name": "Te Encontrei",
+        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Figueiredo",
-          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
         }
       ],
-      "duration_ms": 168725,
-      "name": "De 1 At\u00e9 3",
-      "url": "https://open.spotify.com/track/4Op3IMhQmQTiJ4ghAX2pCG"
+      "duration_ms": 184252,
+      "name": "Te Encontrei",
+      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Te Encontrei",
-        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
+        "name": "De 1 At\u00e9 3",
+        "url": "https://open.spotify.com/album/7jmdlVQj7FLKPIA5VYJcLz"
       },
       "artists": [
         {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
         }
       ],
-      "duration_ms": 184252,
-      "name": "Te Encontrei",
-      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
+      "duration_ms": 168725,
+      "name": "De 1 At\u00e9 3",
+      "url": "https://open.spotify.com/track/4Op3IMhQmQTiJ4ghAX2pCG"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -527,26 +527,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
-        }
-      ],
-      "duration_ms": 279191,
-      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Reconstituir",
         "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 262019,
       "name": "Reconstituir",
       "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
+        }
+      ],
+      "duration_ms": 279191,
+      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -707,30 +707,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Esperarei com Paci\u00eancia",
-        "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Andr\u00e9 Leono",
-          "url": "https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 329500,
-      "name": "Esperarei Com Paci\u00eancia",
-      "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "S\u00f3 o Come\u00e7o",
         "url": "https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 284153,
       "name": "S\u00f3 o Come\u00e7o",
       "url": "https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Esperarei com Paci\u00eancia",
+        "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Andr\u00e9 Leono",
+          "url": "https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 329500,
+      "name": "Esperarei Com Paci\u00eancia",
+      "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
     },
     {
       "added_at": "2023-12-22 03:00:00",

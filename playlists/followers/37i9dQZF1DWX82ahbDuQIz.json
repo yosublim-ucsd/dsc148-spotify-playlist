@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 515545,
+  "2024-03-10": 515582,
   "date_first_scraped": "2021-12-21",
   "description": "Musical songs from Broadway, the West End and beyond. Cover: Merrily We Roll Along",
   "name": "Best of Broadway",
@@ -2025,6 +2025,28 @@
       "duration_ms": 307906,
       "name": "Keep It Gay",
       "url": "https://open.spotify.com/track/6jUZ27rzs0wtkqFcFpdoP5"
+    },
+    {
+      "album": {
+        "name": "Keep Marching (from the Broadway musical \"Suffs\")",
+        "url": "https://open.spotify.com/album/5yomacDB0dw5lDid2JCkoT"
+      },
+      "artists": [
+        {
+          "name": "Shaina Taub",
+          "url": "https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA"
+        },
+        {
+          "name": "Original Broadway Cast of Suffs",
+          "url": "https://open.spotify.com/artist/1kskwE0A7A0TRvLjUGR5br"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237273,
+      "name": "Keep Marching (from the Broadway musical \"Suffs\")",
+      "url": "https://open.spotify.com/track/62gT1akd5YKj8uw5bUx9Fe"
     },
     {
       "album": {
@@ -4285,7 +4307,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 233209,
       "name": "You Coulda Knocked Me Over With A Feather",
       "url": "https://open.spotify.com/track/3Q6MFmutoKCc69hEVvX61k"

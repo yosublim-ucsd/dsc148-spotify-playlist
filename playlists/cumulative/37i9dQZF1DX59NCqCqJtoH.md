@@ -4,7 +4,7 @@
 
 > We hear you.
 
-657 songs - 1 day 8 hr 35 min
+658 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Alone](https://open.spotify.com/track/6tAqYm2Wcy2yrPixShJMS6) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [Alone](https://open.spotify.com/album/5fgpZBq4EvO63gemKv72Ce) | 2:40 | 2021-04-02 | 2022-06-08 |
 | [Alone Together](https://open.spotify.com/track/2lf0nT2QF3AXBuOLGKwLnv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Alone Together](https://open.spotify.com/album/0fgl599pd0rY0p5hDZCcLP) | 3:25 | 2021-10-08 | 2022-07-29 |
 | [Andy](https://open.spotify.com/track/7Bcenw3L04NpnXVcPDig4j) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Andy](https://open.spotify.com/album/0Wl7PMfBdmJH5YrNu1IVkl) | 3:38 | 2021-04-02 | 2022-04-21 |
+| [another life](https://open.spotify.com/track/1LRDoxji2NI4tkjkbYGCAC) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [another life](https://open.spotify.com/album/5FenmMucwb9skvgYUBy1QD) | 2:11 | 2024-03-07 |  |
 | [ANSWERS](https://open.spotify.com/track/6bm9OoERWQ8zfnIcN0pykg) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TAPE 2/FOMALHAUT](https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD) | 4:05 | 2021-10-26 | 2022-07-19 |
 | [Any Love](https://open.spotify.com/track/3x9uA9T40z2W6x0qG41Uqe) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 2:13 | 2023-06-02 |  |
 | [Any Love](https://open.spotify.com/track/7bxvEJTeHETJchJLrjxHPQ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 2:13 | 2022-11-22 | 2023-06-20 |
@@ -492,7 +493,7 @@
 | [say those things](https://open.spotify.com/track/3xiNoKG659HRaQwOoE7bHF) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [say those things](https://open.spotify.com/album/1XvickaUOGHJjeksW1aule) | 2:58 | 2021-04-02 | 2022-04-20 |
 | [Screams and Dreams \(Staying Friends\)](https://open.spotify.com/track/7ax2Jyn0CEjsWMZwrSREHy) | [Faye](https://open.spotify.com/artist/46OMcdfGCQJUOaA7o15lJG), [Sofflee](https://open.spotify.com/artist/5nnYwpUK0wd8uxU95JLU71) | [Screams and Dreams \(Staying Friends\)](https://open.spotify.com/album/1DnIl52atsyfrmlIkGC3CM) | 2:25 | 2021-04-02 | 2022-04-18 |
 | [Second Base](https://open.spotify.com/track/0krnQme22s9WqbuUq940fg) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Second Base](https://open.spotify.com/album/1CpVfieiYFzxzbiwckVBbl) | 2:37 | 2021-04-02 | 2022-07-27 |
-| [Second Guessing](https://open.spotify.com/track/2yttIliVUGCilaRFJ3mNb7) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Second Guessing](https://open.spotify.com/album/5YeZxTkGWw35NftIOWu0gP) | 3:14 | 2024-03-07 |  |
+| [Second Guessing](https://open.spotify.com/track/2yttIliVUGCilaRFJ3mNb7) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Second Guessing](https://open.spotify.com/album/5YeZxTkGWw35NftIOWu0gP) | 3:14 | 2024-03-07 | 2024-03-10 |
 | [Second Place](https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Second Place](https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK) | 2:08 | 2021-11-08 |  |
 | [Selfish](https://open.spotify.com/track/3fTd1AN7VM33g7OElNPJGb) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Selfish](https://open.spotify.com/album/3oM3S7CSJPRHjQxPoZs31a) | 2:57 | 2021-04-02 | 2022-07-29 |
 | [September 13th](https://open.spotify.com/track/5JzhtNahrk4YvntIa7jGNp) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Closure](https://open.spotify.com/album/3lLOJxYWfrolopz8MnKLIc) | 3:36 | 2021-04-02 | 2022-04-21 |

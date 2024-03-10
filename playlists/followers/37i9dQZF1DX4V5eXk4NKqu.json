@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 155990,
+  "2024-03-10": 155996,
   "date_first_scraped": "2022-03-28",
-  "description": "The best Latin Indie tracks of today, featuring Dromedarios M\u00e1gicos.",
+  "description": "The best Latin Indie tracks of today, featuring Elsa y Elmar.",
   "name": "Top Latin Indie",
   "tracks": [
     {
@@ -1436,6 +1436,24 @@
     },
     {
       "album": {
+        "name": "entre las piernas",
+        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211454,
+      "name": "entre las piernas",
+      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
+    },
+    {
+      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -2155,7 +2173,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 192546,
       "name": "i lied",
       "url": "https://open.spotify.com/track/4yp5r5RgUUe9TsPLrivkRm"

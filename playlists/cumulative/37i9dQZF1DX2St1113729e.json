@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 135529,
       "name": "Club Mood",
       "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"
@@ -1802,10 +1802,32 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 170531,
       "name": "Libre Robot",
       "url": "https://open.spotify.com/track/0wT2f17tmznhOEPNjeiViX"
+    },
+    {
+      "album": {
+        "name": "Lindo M \"EL INDOMABLE\"",
+        "url": "https://open.spotify.com/album/0mdeMS0adrN7oUUBRcscW1"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Iagh0st",
+          "url": "https://open.spotify.com/artist/1p1CC4qyRNYCzwp1GIdjWp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170531,
+      "name": "Libre Robot",
+      "url": "https://open.spotify.com/track/6LHqGkrxlRTDEQDE6xRMHg"
     },
     {
       "album": {
@@ -1920,7 +1942,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 144544,
       "name": "L\u00aa N\u00aave",
       "url": "https://open.spotify.com/track/2Qn5ZSdjOunwUFEaifjWhU"

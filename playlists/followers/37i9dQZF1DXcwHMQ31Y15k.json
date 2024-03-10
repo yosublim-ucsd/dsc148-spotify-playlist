@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 184072,
+  "2024-03-10": 184118,
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Evan Loss",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 256392,
       "name": "Janji Temani",
       "url": "https://open.spotify.com/track/6JLmc1SXTnF79K8pSiiPCL"
@@ -2248,6 +2248,24 @@
     },
     {
       "album": {
+        "name": "Lali Rasane Tresno",
+        "url": "https://open.spotify.com/album/62M6nuhMQ6M3unu0T2ct85"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "Lali Rasane Tresno",
+      "url": "https://open.spotify.com/track/0xIPbN7eQjyZzBwAiheDJ9"
+    },
+    {
+      "album": {
         "name": "Lamunan",
         "url": "https://open.spotify.com/album/0PWkZzZeAMyFxZ1I7QSwPt"
       },
@@ -2267,6 +2285,24 @@
       "duration_ms": 339744,
       "name": "Lamunan",
       "url": "https://open.spotify.com/track/1iY32hEqhRWFvgu1WokDmo"
+    },
+    {
+      "album": {
+        "name": "Lamunan",
+        "url": "https://open.spotify.com/album/7lNUodq1wzj8Oc8ocoy9E9"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250084,
+      "name": "Lamunan",
+      "url": "https://open.spotify.com/track/3lpjgJcdIjw6WVVzeGlCMT"
     },
     {
       "album": {
@@ -2881,7 +2917,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 316000,
       "name": "NEMEN",
       "url": "https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU"
@@ -2903,7 +2939,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 307548,
       "name": "Nemen - Cover",
       "url": "https://open.spotify.com/track/0Syc1MureY9jSdoaZRRS7o"
@@ -3936,6 +3972,24 @@
     },
     {
       "album": {
+        "name": "Putri Shanghai",
+        "url": "https://open.spotify.com/album/1XEzXnnc6uPNV3a7OkXzX5"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180322,
+      "name": "Putri Shanghai",
+      "url": "https://open.spotify.com/track/3WXVIA4xWlWVHgKQ7BzA1n"
+    },
+    {
+      "album": {
         "name": "Putusen Isun",
         "url": "https://open.spotify.com/album/4FIbk7xS83FyEBDaoP0YV5"
       },
@@ -4645,6 +4699,28 @@
       "duration_ms": 285615,
       "name": "satru 2",
       "url": "https://open.spotify.com/track/06mmODvS7e6gFPoz0Y52Gj"
+    },
+    {
+      "album": {
+        "name": "Sauro Utangmu (Genjrengan)",
+        "url": "https://open.spotify.com/album/1mI60JNFsKxSiC2E9IGD7V"
+      },
+      "artists": [
+        {
+          "name": "Sela Good",
+          "url": "https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu"
+        },
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68598,
+      "name": "Sauro Utangmu (Genjrengan)",
+      "url": "https://open.spotify.com/track/095Xxzpu6iz7Vt0RnEwgC5"
     },
     {
       "album": {
@@ -5407,7 +5483,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 247328,
       "name": "Wes Tatas",
       "url": "https://open.spotify.com/track/1eqJbOz1dIztx3W88CaRbM"

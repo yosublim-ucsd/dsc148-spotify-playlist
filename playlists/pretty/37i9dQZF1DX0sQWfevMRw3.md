@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DUNKA PLÅTEN OCH KÄNNA VI ÄR FRIA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,290 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,377 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Farväl](https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Farväl](https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ) | 2:38 |
 | 100 | [INKASSO](https://open.spotify.com/track/4U7lSJZBfQcbERhChyNxxy) | [FLÄDERPOJKARNA](https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd), [Lirare](https://open.spotify.com/artist/29fjkix5tB2c3s7Vfdn2wh) | [INKASSO](https://open.spotify.com/album/4IYXieF3IcosIOzwUwFlzh) | 2:25 |
 
-Snapshot ID: `MCw3ZGExZjE5YzA4YzQxN2Q5NWY4OThhYTUyNmRkMDM4MzI2ODBkMjk3`
+Snapshot ID: `MCxjYzhhYzRjM2QyYjljY2M4ZTJhYzA2ZDEwNzM5MDg4ZDEyNzY1Mjky`

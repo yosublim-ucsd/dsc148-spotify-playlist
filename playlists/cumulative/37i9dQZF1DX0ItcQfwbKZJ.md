@@ -4,7 +4,7 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-86 songs - 8 hr 14 min
+87 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Budos Theme](https://open.spotify.com/track/6VYSidKaYDQV1cXNBPfvu2) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/1DTr4zczUy1kfP9cISFH6v) | 3:09 | 2019-08-09 | 2023-04-30 |
 | [Business Before Pleasure](https://open.spotify.com/track/1gajkqzK3ZU47FFvcwZaX3) | [George Akaeze and His Augmented Hits](https://open.spotify.com/artist/6gRCYIOPgShQRHpMHnpev3) | [Nigeria Special: Modern Highlife, Afro\-Sounds & Nigerian Blues 1970\-6](https://open.spotify.com/album/02anNBQ72TFiWjpTcyvkuW) | 4:38 | 2019-08-09 |  |
 | [Crache La Douleur](https://open.spotify.com/track/6K4mkIv9jq5khtrDLXRhI4) | [Fanga](https://open.spotify.com/artist/7u17cR6KuOndz03h16dCmG) | [Contemporary Afro Beat](https://open.spotify.com/album/33lFnjJDTWmpTq8aoySfDE) | 5:05 | 2019-08-09 |  |
-| [Cumbia Africana](https://open.spotify.com/track/0NKgWh7y8wHhlbYE2NvJAN) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 3:26 | 2019-08-09 |  |
+| [Cumbia Africana](https://open.spotify.com/track/0NKgWh7y8wHhlbYE2NvJAN) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 3:26 | 2019-08-09 | 2024-03-10 |
+| [Cumbia Africana](https://open.spotify.com/track/4wA0D7Fl3DZPW7nb49HlRb) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/5HAxpndIx1dY8zwblmjEHz) | 3:26 | 2022-09-26 |  |
 | [Dirty Money](https://open.spotify.com/track/4NUgN3U3KwPfVAGYrzrQd9) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/3L7y27jC0aSXZAM67oEZCB) | 6:15 | 2019-08-09 | 2022-07-29 |
 | [Dirty Money](https://open.spotify.com/track/4kIcaK5ukJ1XwewfuO25XP) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/3XSANYFEaahq8DoY5FSwwM) | 6:15 | 2022-09-26 |  |
 | [Dirty Money](https://open.spotify.com/track/634Boo3ThjlnOkURPKQLBP) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/2iS8BbypqWnaU4GlJQlJAF) | 6:15 | 2019-08-09 | 2023-04-30 |

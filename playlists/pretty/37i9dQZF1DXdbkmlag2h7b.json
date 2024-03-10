@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 632650,
+  "num_followers": 632678,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjRmOGEwZGM3OTY1Njc2Mjc2YjUwNGM0MGVlNTA5NmViNjE5NTgy",
+  "snapshot_id": "MCwzOTI3ZDk5YWI1NTk5YzI2N2M5ODgyNDI4YjJhYjU3YjJhNTI5ZTAy",
   "tracks": [
     {
       "added_at": "2024-03-07 20:01:40",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "When It Was Just A Dream",
-        "url": "https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ"
-      },
-      "artists": [
-        {
-          "name": "Diya Wiler",
-          "url": "https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w"
-        }
-      ],
-      "duration_ms": 205051,
-      "name": "When It Was Just A Dream",
-      "url": "https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 132000,
       "name": "These Words",
       "url": "https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
+        "name": "When It Was Just A Dream",
+        "url": "https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ"
+      },
+      "artists": [
+        {
+          "name": "Diya Wiler",
+          "url": "https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w"
+        }
+      ],
+      "duration_ms": 205051,
+      "name": "When It Was Just A Dream",
+      "url": "https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "Armon\u00eda Serena",
-        "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
-      },
-      "artists": [
-        {
-          "name": "Abril Iluso",
-          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
-        }
-      ],
-      "duration_ms": 158823,
-      "name": "Armon\u00eda Serena",
-      "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
         "name": "Descanso",
         "url": "https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 174857,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
+        "name": "Armon\u00eda Serena",
+        "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "duration_ms": 158823,
+      "name": "Armon\u00eda Serena",
+      "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR"
+      },
+      "artists": [
+        {
+          "name": "Calming Lesmo",
+          "url": "https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7"
       },
@@ -343,6 +359,22 @@
       "duration_ms": 172090,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ"
+      },
+      "artists": [
+        {
+          "name": "Koen Parker",
+          "url": "https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -363,6 +395,22 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK"
+      },
+      "artists": [
+        {
+          "name": "Nova Issue",
+          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
       },
@@ -379,22 +427,6 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
-      },
-      "artists": [
-        {
-          "name": "Gabby Laurent",
-          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
-        }
-      ],
-      "duration_ms": 192309,
-      "name": "Entirely",
-      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
         "name": "Even Silence",
         "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
       },
@@ -407,6 +439,22 @@
       "duration_ms": 140000,
       "name": "Even Silence",
       "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
+      },
+      "artists": [
+        {
+          "name": "Gabby Laurent",
+          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
+        }
+      ],
+      "duration_ms": 192309,
+      "name": "Entirely",
+      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -475,22 +523,6 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "Solitaire",
-        "url": "https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR"
-      },
-      "artists": [
-        {
-          "name": "Calming Lesmo",
-          "url": "https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Solitaire",
-      "url": "https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
         "name": "Morgong\u00e5va",
         "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
       },
@@ -523,22 +555,6 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "Beyond",
-        "url": "https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ"
-      },
-      "artists": [
-        {
-          "name": "Koen Parker",
-          "url": "https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
         "name": "Axiom",
         "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 191320,
       "name": "Perception",
       "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK"
-      },
-      "artists": [
-        {
-          "name": "Nova Issue",
-          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "Sphere",
-        "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
-      },
-      "artists": [
-        {
-          "name": "Osterous",
-          "url": "https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Sphere",
-      "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
-    },
-    {
-      "added_at": "2024-03-07 20:01:40",
-      "album": {
         "name": "Charcoal",
         "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 329773,
       "name": "Such Owls As You",
       "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
+    },
+    {
+      "added_at": "2024-03-07 20:01:40",
+      "album": {
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
+      },
+      "artists": [
+        {
+          "name": "Osterous",
+          "url": "https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Sphere",
+      "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "432 hz Frequency of Universe",
-        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
+        "name": "The Acoustic Mind - Vol. 1",
+        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
       },
       "artists": [
         {
-          "name": "Binaural Landscapes",
-          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
+          "name": "Aur\u00e9lien Trigo",
+          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
         }
       ],
-      "duration_ms": 160345,
-      "name": "Precious 432 hz",
-      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
+      "duration_ms": 172589,
+      "name": "Headroom",
+      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "The Acoustic Mind - Vol. 1",
-        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
+        "name": "432 hz Frequency of Universe",
+        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
       },
       "artists": [
         {
-          "name": "Aur\u00e9lien Trigo",
-          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
+          "name": "Binaural Landscapes",
+          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
         }
       ],
-      "duration_ms": 172589,
-      "name": "Headroom",
-      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
+      "duration_ms": 160345,
+      "name": "Precious 432 hz",
+      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "Would I Bother",
-        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
+        "name": "Tensions",
+        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
       },
       "artists": [
         {
-          "name": "Fredrik Johansson",
-          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
         }
       ],
-      "duration_ms": 160941,
-      "name": "Would I Bother",
-      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
+      "duration_ms": 156428,
+      "name": "Tensions",
+      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
     },
     {
       "added_at": "2024-03-07 20:01:40",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-03-07 20:01:40",
       "album": {
-        "name": "Tensions",
-        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
+        "name": "Would I Bother",
+        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
       },
       "artists": [
         {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Tensions",
-      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
+      "duration_ms": 160941,
+      "name": "Would I Bother",
+      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
     },
     {
       "added_at": "2024-03-07 20:01:40",

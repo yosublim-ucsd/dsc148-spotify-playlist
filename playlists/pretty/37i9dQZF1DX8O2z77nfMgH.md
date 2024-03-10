@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,036 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,057 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [illa](https://open.spotify.com/track/0AJoxAmafc2UHaDGeR1INl) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [illa](https://open.spotify.com/album/1qtAxIrXLFbp071KuKQxYZ) | 3:49 |
 | 39 | [Nutela](https://open.spotify.com/track/26O1NVPNk922Ihf5K49M7f) | [SAIBU](https://open.spotify.com/artist/5mSb56qJRcHVRRDveOmcfO), [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Nutela](https://open.spotify.com/album/4vCZfIaRnhL33uum4byhkn) | 3:29 |
 | 40 | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [ROMEA](https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1) | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52) | 2:22 |
-| 41 | [WHY](https://open.spotify.com/track/6gSwhZ8iLayvvGW2zW28Nl) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO), [GIMARIO](https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [DJ Kendo](https://open.spotify.com/artist/5OYkaab5KaJZPdZF6knfJQ), [Monster](https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa) | [WHY](https://open.spotify.com/album/5iIhfMavOiN7uNntMyoE9c) | 3:46 |
+| 41 | [WHY](https://open.spotify.com/track/6gSwhZ8iLayvvGW2zW28Nl) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [GIMARIO](https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH), [DJ Kendo](https://open.spotify.com/artist/5OYkaab5KaJZPdZF6knfJQ), [Monster](https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa) | [WHY](https://open.spotify.com/album/5iIhfMavOiN7uNntMyoE9c) | 3:46 |
 | 42 | [SISAS](https://open.spotify.com/track/2ag2LcFiCd7f0v4jELhviB) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Mazio](https://open.spotify.com/artist/5eRJQkfQ1KVZyNoMHZIm2l) | [BOCHINCHE](https://open.spotify.com/album/32yYf57QqeWKkHiEKERQgH) | 2:32 |
 | 43 | [María](https://open.spotify.com/track/4YNEuxbsAJV2jcQ9JVgg8T) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [María](https://open.spotify.com/album/5GaPfak2nHpaRL7dtn1mHn) | 2:30 |
 | 44 | [La Casa del Amor Nocturno](https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9) | 5:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 |
 | 60 | [Me Conta Outra Piada \- Ao Vivo](https://open.spotify.com/track/4x074VDAnWsLgZbDFfTEHJ) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Só VVamo, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/7HHBhvp2mo6fr8tBzp7zai) | 2:25 |
 
-Snapshot ID: `MCw2MjczMjliYzVkZDUyNDYyZDk2YTQ5YmE3Y2M3OTNlOTZjNjE3Y2U0`
+Snapshot ID: `MCw2YzZmOWFmNTI1MjVhYWFjNTA4MjM3ZjBiYjJkMWQ3MTA5NDk3YjQ4`

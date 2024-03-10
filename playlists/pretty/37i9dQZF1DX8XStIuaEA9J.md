@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: コレサワ
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,152 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,220 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [花束](https://open.spotify.com/track/4X1l0LnI6LDrzw7DJV9jtt) | [arban](https://open.spotify.com/artist/52ci5W8O4sJ3Xf3X5xitke), [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [花束](https://open.spotify.com/album/69SpF2OssqRfpnDv7ZIAK8) | 5:33 |
 | 60 | [utatane](https://open.spotify.com/track/1h5ehmENTsi5d8P7bzI4t6) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Holy Night](https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam) | 3:01 |
 
-Snapshot ID: `MCw4ZWFkM2RmMDY2MWFlNDZmNjRmYTk0ZmFmYTc2NTU3MzljYzhjN2Qx`
+Snapshot ID: `MCw5NjlhZWEzYTcyNWNiYjM4ZThkMmM3ZTg3MzJkMTQ5NTU1NDcwOGJj`

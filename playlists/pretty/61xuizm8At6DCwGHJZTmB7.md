@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Celebrate Easter season with your favorite worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,311 likes - 152 songs - 14 hr 37 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,315 likes - 152 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 14 | [He Who Is To Come \- Live From Passion 2024](https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 6:30 |
 | 15 | [Revelation Song](https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Just As I Am \(A Legacy Of Hymns And Worship\)](https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv) | 5:56 |
 | 16 | [Everything At Your Feet \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/0tZ2gIuKTGST2pLdR4TepM) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Sunday, Vol\. 1 \(Live\)](https://open.spotify.com/album/4J60UHKXz09ZxxCpLJZP8i) | 7:20 |
-| 17 | [I Am The Lords \- Live](https://open.spotify.com/track/7jnEMDQNmkcqz9nS1N33fA) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [All My Life \(Live\)](https://open.spotify.com/album/3UI9KcOc9eywcLWocreewd) | 11:51 |
+| 17 | [I Am The Lord's \- Live](https://open.spotify.com/track/7jnEMDQNmkcqz9nS1N33fA) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [All My Life \(Live\)](https://open.spotify.com/album/3UI9KcOc9eywcLWocreewd) | 11:51 |
 | 18 | [Calvary's Enough](https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Calvary's Enough](https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8) | 3:17 |
 | 19 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
 | 20 | [The Lord Will Provide \- Live From Passion 2024](https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [The Lord Will Provide \(Live From Passion 2024\)](https://open.spotify.com/album/7vj92osEZGcvAfQrOwDnMJ) | 5:36 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 151 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
 | 152 | [Radical Love \(The Joy Song\) \- Live](https://open.spotify.com/track/2WeQ5ufNKqxIkCdcNms3tH) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Radical Love \(The Joy Song\) \[Live\]](https://open.spotify.com/album/4UYnCX4Xnlf4Po9jhgvoZy) | 5:21 |
 
-Snapshot ID: `NzcyMSw3OWM4ODZhZmI5MjIzMzJiZGMwMDAwZDAzNDZmNjliYjIzYjc3NjA4`
+Snapshot ID: `NzcyMixjZDJkZTllNjI3ZTdkNTJlNWFkZWVmNzc5Nzk1NGJhYThmOWRkY2Rl`

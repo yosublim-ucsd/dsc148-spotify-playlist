@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 486162,
+  "2024-03-10": 486744,
   "date_first_scraped": "2023-07-29",
   "description": "#fyp\n",
   "name": "t'as la ref ?",
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 401160,
       "name": "B\u00e9n\u00e9fice",
       "url": "https://open.spotify.com/track/45B8Dirdyo5wVKslxLO7Hu"
@@ -1071,6 +1071,40 @@
       "duration_ms": 155920,
       "name": "Capitaine",
       "url": "https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
       "album": {
@@ -1913,7 +1947,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 270960,
       "name": "DJ",
       "url": "https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS"
@@ -2771,7 +2805,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 111586,
       "name": "Jacque*** Bag",
       "url": "https://open.spotify.com/track/3q2DNvmHfx7RFBSHfaVLoW"
@@ -3543,7 +3577,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 178115,
       "name": "Ma muse",
       "url": "https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p"
@@ -3609,6 +3643,28 @@
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
+        "name": "Made in Romeni\u00e1 (Sahmiir Officiall Remix)",
+        "url": "https://open.spotify.com/album/2Kn8N2Et2cb3xny4jjBuBy"
+      },
+      "artists": [
+        {
+          "name": "Sahmiir Official",
+          "url": "https://open.spotify.com/artist/3CXyRvkXdBR1Dqk96vcYLq"
+        },
+        {
+          "name": "Sahmiir Officiall",
+          "url": "https://open.spotify.com/artist/43xc9kEoIRMxrIf0CCxOqQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Made in Romeni\u00e1 - Sahmiir Officiall Remix",
+      "url": "https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB"
     },
     {
       "album": {
@@ -4987,7 +5043,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 176026,
       "name": "Sad People",
       "url": "https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq"
@@ -5366,6 +5422,24 @@
     },
     {
       "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
+      "album": {
         "name": "Journal intime",
         "url": "https://open.spotify.com/album/7h7MqzSJ1wEXpjHzkevE6h"
       },
@@ -5606,6 +5680,44 @@
     },
     {
       "album": {
+        "name": "Te Bot\u00e9 (Clean Version)",
+        "url": "https://open.spotify.com/album/5IniTg5dxU8hYXkBBcsmak"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275693,
+      "name": "Te Bot\u00e9",
+      "url": "https://open.spotify.com/track/42FWqCxAw5aG1FvjyVjIlH"
+    },
+    {
+      "album": {
         "name": "Tek Tek (feat. MHD)",
         "url": "https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85"
       },
@@ -5683,6 +5795,28 @@
       "duration_ms": 142429,
       "name": "texto",
       "url": "https://open.spotify.com/track/2QYzsRBgtTsZpiHgQqX1DP"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/3qeagjakbHQDOkBnQOTMiO"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/38OibRn3CyUnQZg9RWLv7u"
     },
     {
       "album": {

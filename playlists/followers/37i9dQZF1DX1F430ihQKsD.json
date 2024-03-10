@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 109088,
+  "2024-03-10": 109091,
   "date_first_scraped": "2022-03-28",
   "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Afternoon Bike Ride",
   "name": "Montr\u00e9al Chill",
@@ -73,6 +73,24 @@
       "duration_ms": 138855,
       "name": "+1 (feat. Meggie Lennon & Virginie B)",
       "url": "https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS"
+    },
+    {
+      "album": {
+        "name": "Les teintes du ciel n'ont aucun sens",
+        "url": "https://open.spotify.com/album/2thduWVUqjxpdj4Iar5CMX"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300786,
+      "name": "1.25",
+      "url": "https://open.spotify.com/track/2DzAvXj0WgBFd65vcC9RNN"
     },
     {
       "album": {
@@ -606,6 +624,28 @@
     },
     {
       "album": {
+        "name": "Avant de redescendre",
+        "url": "https://open.spotify.com/album/7aZwJYADPJHtGypapaMn63"
+      },
+      "artists": [
+        {
+          "name": "Lucill",
+          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
+        },
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Avant de redescendre",
+      "url": "https://open.spotify.com/track/4UNQK6kvnSFYakfM66LBTI"
+    },
+    {
+      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
       },
@@ -1131,7 +1171,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 209454,
       "name": "Bye-Bye",
       "url": "https://open.spotify.com/track/12fPH6Lik4MALabj2UfdEX"
@@ -1964,6 +2004,24 @@
     },
     {
       "album": {
+        "name": "Distrust the Magician",
+        "url": "https://open.spotify.com/album/61I73dAC8MzN56vo2FX4SO"
+      },
+      "artists": [
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337520,
+      "name": "Distrust the Magician",
+      "url": "https://open.spotify.com/track/4EczFi15YP46BSa8u1p95v"
+    },
+    {
+      "album": {
         "name": "Dog Years (weird inside Remix)",
         "url": "https://open.spotify.com/album/4w49KsCkFCr70tlMIm436k"
       },
@@ -2019,7 +2077,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 180946,
       "name": "Douce r\u00e9p\u00e9tition",
       "url": "https://open.spotify.com/track/0HMF4ha6tszLkLCDy6IZZ8"
@@ -4048,6 +4106,28 @@
     },
     {
       "album": {
+        "name": "Les Heures",
+        "url": "https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        },
+        {
+          "name": "Dani Terreur",
+          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210286,
+      "name": "Les Heures",
+      "url": "https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR"
       },
@@ -4612,6 +4692,24 @@
     },
     {
       "album": {
+        "name": "Mon Argent",
+        "url": "https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217402,
+      "name": "Mon Argent",
+      "url": "https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK"
+    },
+    {
+      "album": {
         "name": "Moneytree",
         "url": "https://open.spotify.com/album/2RSdk3HLEhbQIvRSadqxaS"
       },
@@ -4717,7 +4815,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 207922,
       "name": "Mourir Demain",
       "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
@@ -5933,7 +6031,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 210312,
       "name": "Presque",
       "url": "https://open.spotify.com/track/2L0XLG0J78pQp8QwpHSUfT"
@@ -6543,7 +6641,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 208277,
       "name": "Shades of Blue",
       "url": "https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ"

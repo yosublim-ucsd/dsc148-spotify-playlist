@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 210003,
+  "2024-03-10": 210072,
   "date_first_scraped": "2022-05-14",
   "description": "A new take on a classic sound. Cover: Britti",
   "name": "Retro Soul",
@@ -1766,6 +1766,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2dMifVzH1LJCNbnAqftCVA"
+      },
+      "artists": [
+        {
+          "name": "Rome",
+          "url": "https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196181,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO"
+    },
+    {
+      "album": {
         "name": "Forget Me Not",
         "url": "https://open.spotify.com/album/3ieKNLfAZMLbg9uf7I6jiQ"
       },
@@ -3179,7 +3197,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 173905,
       "name": "Jean Leon",
       "url": "https://open.spotify.com/track/4UvTu4SIHtRQl173OZbFRj"

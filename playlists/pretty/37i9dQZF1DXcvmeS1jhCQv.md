@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Amble
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,494 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,527 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [Chris Pratt](https://open.spotify.com/track/6JOGJuVv7MKNbubKUwhU45) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Chris Pratt](https://open.spotify.com/album/1Bkd5tNY4W4Oo78U4vDply) | 3:51 |
 | 80 | [Stolen](https://open.spotify.com/track/71r6gdFkApNiV60zU6WjlI) | [Lea Heart](https://open.spotify.com/artist/18tR4JqMqRMeIQsexVMLHz) | [Stolen](https://open.spotify.com/album/4pkyc4VKlD6dTStSdWPFUX) | 3:40 |
 
-Snapshot ID: `MCxkZWQzZDIyYTRiNDE5ZTNkMGUyOTRjZTNjNjRiZjJhZTIyYWUxY2Yx`
+Snapshot ID: `MCw5NjBlNjAxNjhlMTQwNTNlYjhiZWNmMWRjMTk4NDY5NzE1MzVlYjky`

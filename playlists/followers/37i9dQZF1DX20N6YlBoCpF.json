@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 20694,
+  "2024-03-10": 20743,
   "date_first_scraped": "2022-10-01",
   "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=Cri33jcQSpi3WKsUmfMSBQ\">Bobby Van Jaarsveld</a>  ",
   "name": "Nuwe Afrikaans",
@@ -1737,6 +1737,28 @@
       "duration_ms": 189000,
       "name": "Bokswyn",
       "url": "https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5"
+    },
+    {
+      "album": {
+        "name": "Spoorsny",
+        "url": "https://open.spotify.com/album/6cfkfFuG6AQNE77E0h4w45"
+      },
+      "artists": [
+        {
+          "name": "Frieda van den Heever",
+          "url": "https://open.spotify.com/artist/39GnCS0FNh3jBO81XCyKSZ"
+        },
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209656,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/0NrSDP2mXZs6qYMOJD39vs"
     },
     {
       "album": {
@@ -13007,7 +13029,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 185220,
       "name": "Tappit",
       "url": "https://open.spotify.com/track/3m6AtGy5lijel7dhIjCj7a"

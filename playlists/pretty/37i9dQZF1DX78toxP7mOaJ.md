@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Thank You, I'm Sorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,665 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,722 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Temple of the Mind](https://open.spotify.com/track/7DrgRNtdIqzaabxfoCYRCj) | [Tomato Flower](https://open.spotify.com/artist/32g8Z2L0lqQH65njcLcBUG) | [Temple of the Mind](https://open.spotify.com/album/6LoUBQe7T8lfwVdLMtvzc3) | 1:54 |
 | 100 | [Ceremonia](https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Ceremonia](https://open.spotify.com/album/5HQvmkIIS9p9usaySiXESE) | 2:58 |
 
-Snapshot ID: `MCwyZjE4NjQyNTRjYWMyYWZlNDRkOTY3ZTAwNDJiZDQyOTgxYTA1OTdj`
+Snapshot ID: `MCwwYzBmMmQyMzQ3N2FiM2IyYmZiNDU3NDc4OGIxOWI2OThjYTM5MjIy`

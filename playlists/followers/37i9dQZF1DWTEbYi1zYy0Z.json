@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 60312,
+  "2024-03-10": 60336,
   "date_first_scraped": "2021-12-21",
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
   "name": "New Smooth Jazz",
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 248606,
       "name": "Can We Talk",
       "url": "https://open.spotify.com/track/0KUWTBINgTBrkrHwj5dEot"
@@ -1189,6 +1189,24 @@
       "duration_ms": 288371,
       "name": "Captivate Me",
       "url": "https://open.spotify.com/track/3nHdUHhCUlO1zUPT0lqhFV"
+    },
+    {
+      "album": {
+        "name": "Cash in",
+        "url": "https://open.spotify.com/album/7LnmMrvUf3PO6fP6og1rpp"
+      },
+      "artists": [
+        {
+          "name": "Eric Knight",
+          "url": "https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265709,
+      "name": "Cash in",
+      "url": "https://open.spotify.com/track/4LNNEPTtizak8Yknrg1wA1"
     },
     {
       "album": {
@@ -2534,6 +2552,24 @@
     },
     {
       "album": {
+        "name": "First Class - Radio Single",
+        "url": "https://open.spotify.com/album/5HdhCtgwEmctR0Dp5AbXkw"
+      },
+      "artists": [
+        {
+          "name": "U-Nam",
+          "url": "https://open.spotify.com/artist/2zZfDVGDSqHQTeITZzJRqs"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220570,
+      "name": "First Class (Radio Mix)",
+      "url": "https://open.spotify.com/track/2oExUGAS5aBhsZw2eRicwq"
+    },
+    {
+      "album": {
         "name": "Float",
         "url": "https://open.spotify.com/album/2e8uLf2PwWsjqf4NFMN2Xh"
       },
@@ -3139,7 +3175,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 219777,
       "name": "Here She Comes",
       "url": "https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG"
@@ -4425,7 +4461,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 260437,
       "name": "Mama Smiles",
       "url": "https://open.spotify.com/track/6F0XssVvn2ePxP49sXLPZP"
@@ -7473,6 +7509,24 @@
       "duration_ms": 509168,
       "name": "Ticket to Pittsburgh Roundtrip",
       "url": "https://open.spotify.com/track/03yIGoGXBosTeXJqBkuG5X"
+    },
+    {
+      "album": {
+        "name": "Tighten Up",
+        "url": "https://open.spotify.com/album/6zxIf0gr0GqrDBJNi7wvSi"
+      },
+      "artists": [
+        {
+          "name": "Dee Lucas",
+          "url": "https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259484,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/2UbVCeUDdrTeEPOXNep8AW"
     },
     {
       "album": {

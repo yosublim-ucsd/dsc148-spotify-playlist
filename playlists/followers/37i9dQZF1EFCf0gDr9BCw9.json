@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 579,
+  "2024-03-10": 579,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs\">Billy Strayhorn</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Billy Strayhorn",
@@ -2217,6 +2217,24 @@
       "duration_ms": 534560,
       "name": "Pretty Girl (aka The Star-Crossed Lovers)",
       "url": "https://open.spotify.com/track/3luMzvGFRxc8yFpdQGfviv"
+    },
+    {
+      "album": {
+        "name": "INTEGRAL DUKE ELLINGTON 1958 - 1959",
+        "url": "https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341346,
+      "name": "Prima Bara Dubla",
+      "url": "https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT"
     },
     {
       "album": {

@@ -1,9 +1,27 @@
 {
-  "2024-03-09": 17869,
+  "2024-03-10": 17949,
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover:  Casey Breves & Sam Tsui",
+  "description": "New releases for the kids. Cover: Jack Black",
   "name": "New Kids Music",
   "tracks": [
+    {
+      "album": {
+        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "...Baby One More Time (from Kung Fu Panda 4)",
+      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
+    },
     {
       "album": {
         "name": "A Broken Crayon",
@@ -315,6 +333,24 @@
       "duration_ms": 123058,
       "name": "Bark to the Beat (with blackbear) [From PAW Patrol: The Mighty Movie]",
       "url": "https://open.spotify.com/track/5k0Vd1kLeUFRozn6GiC8m1"
+    },
+    {
+      "album": {
+        "name": "Barracuda",
+        "url": "https://open.spotify.com/album/0lqVDL3JDHXeSm5fXnUYLs"
+      },
+      "artists": [
+        {
+          "name": "The Party Cats",
+          "url": "https://open.spotify.com/artist/2hCA1Ydi1AJZAYNmCP8Mvk"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259506,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/713NxSCpXnw0TbzXChrCEO"
     },
     {
       "album": {
@@ -1404,6 +1440,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Flying",
+        "url": "https://open.spotify.com/album/4POCLFtLLnv7bOzh1zZIvV"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141498,
+      "name": "Feels Like Flying",
+      "url": "https://open.spotify.com/track/65gVSEyOCGxvvHOkSpojHV"
+    },
+    {
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4ST8f5iI7KoSvYGYma4Yjp"
       },
@@ -1900,6 +1954,24 @@
     },
     {
       "album": {
+        "name": "Hello Everybody and Other Circle Time Songs",
+        "url": "https://open.spotify.com/album/19FPtlAvRYPpScvEqxqD2x"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119978,
+      "name": "Hello Everybody",
+      "url": "https://open.spotify.com/track/4123v3VopASU20AYlIS2Eh"
+    },
+    {
+      "album": {
         "name": "Hello World (from \"Back to the Outback\" soundtrack)",
         "url": "https://open.spotify.com/album/7obvzZVywrczcOAnSaOS91"
       },
@@ -2115,6 +2187,24 @@
       "duration_ms": 79800,
       "name": "Hold On To Hope",
       "url": "https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z"
+    },
+    {
+      "album": {
+        "name": "Hot Wheels Let's Race Theme Song",
+        "url": "https://open.spotify.com/album/2aJkmEPmwl7fki60ZO0sVJ"
+      },
+      "artists": [
+        {
+          "name": "Hot Wheels Let's Race",
+          "url": "https://open.spotify.com/artist/47KiFGj9XRfpLHfUHtzxUL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Hot Wheels Let's Race Theme Song",
+      "url": "https://open.spotify.com/track/5Jp4vRhQ4TLXrp9cnJfXu6"
     },
     {
       "album": {
@@ -4374,6 +4464,28 @@
     },
     {
       "album": {
+        "name": "The Baby in the Bath (Finny the Shark)",
+        "url": "https://open.spotify.com/album/6xT265hUm3CbmkWSFIRpQj"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Finny the Shark",
+          "url": "https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95560,
+      "name": "The Baby in the Bath (Finny the Shark)",
+      "url": "https://open.spotify.com/track/7bZoJcaI4Y6mgiBj1B7nua"
+    },
+    {
+      "album": {
         "name": "The BeeeeeOOP Walk",
         "url": "https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie"
       },
@@ -4465,6 +4577,24 @@
       "duration_ms": 159087,
       "name": "The Floor is Slime",
       "url": "https://open.spotify.com/track/6ShV9H9dz8HAYClYvIQ5NT"
+    },
+    {
+      "album": {
+        "name": "The Glow-in-the-Dark Shapes Dance",
+        "url": "https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213938,
+      "name": "The Glow-in-the-Dark Shapes Dance",
+      "url": "https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl"
     },
     {
       "album": {
@@ -4585,6 +4715,42 @@
       "duration_ms": 172758,
       "name": "The Road to Gettin' Better (Is Not a Straight Line)",
       "url": "https://open.spotify.com/track/6Pyfervdg8n1gKIoodYvjd"
+    },
+    {
+      "album": {
+        "name": "The Robot Song",
+        "url": "https://open.spotify.com/album/2vIczC4M4QngEdmbEyI8W1"
+      },
+      "artists": [
+        {
+          "name": "Hopscotch Songs",
+          "url": "https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177896,
+      "name": "The Robot Song",
+      "url": "https://open.spotify.com/track/36kx1FP8HjiGMVxGWqRgGK"
+    },
+    {
+      "album": {
+        "name": "The Rock Goes On (Single From Fraggle Rock: Back To The Rock - Season 2)",
+        "url": "https://open.spotify.com/album/78mO9bfeCGTBhbnQ0aDtZ0"
+      },
+      "artists": [
+        {
+          "name": "Fraggle Rock",
+          "url": "https://open.spotify.com/artist/3Nxg9jbBUXycegdZFGuoEr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117266,
+      "name": "The Rock Goes On (Single From Fraggle Rock: Back To The Rock - Season 2)",
+      "url": "https://open.spotify.com/track/5aQVL0bWhq8Mr9pMYaCONN"
     },
     {
       "album": {
@@ -4759,6 +4925,24 @@
       "duration_ms": 163760,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0"
+    },
+    {
+      "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130848,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98"
     },
     {
       "album": {
@@ -5112,6 +5296,24 @@
     },
     {
       "album": {
+        "name": "When We Work Together",
+        "url": "https://open.spotify.com/album/65peX0LYAa8BqkYSemLsFl"
+      },
+      "artists": [
+        {
+          "name": "The Quokkas",
+          "url": "https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105704,
+      "name": "When We Work Together",
+      "url": "https://open.spotify.com/track/274L3hEEvLZMhMEHUGlJ1P"
+    },
+    {
+      "album": {
         "name": "Wild and Free",
         "url": "https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI"
       },
@@ -5199,6 +5401,24 @@
       "duration_ms": 121881,
       "name": "you can fly",
       "url": "https://open.spotify.com/track/0zquapxRr9z4nFyC4eQ6CA"
+    },
+    {
+      "album": {
+        "name": "FRIENDS ROCK!",
+        "url": "https://open.spotify.com/album/3WNm97PvuXfFNmsyKup2zH"
+      },
+      "artists": [
+        {
+          "name": "Rock and Roll Playhouse",
+          "url": "https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190698,
+      "name": "You're My Best Friend",
+      "url": "https://open.spotify.com/track/2OX1VPMZCZfP2jK5OP6c7c"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6r25lY14UGk"

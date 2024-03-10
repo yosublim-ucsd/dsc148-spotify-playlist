@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 224827,
+  "2024-03-10": 225112,
   "date_first_scraped": "2023-02-25",
   "description": "from Stillwater to Nashville with Wyatt Flores",
   "name": "homegrown",
@@ -1625,6 +1625,24 @@
       "duration_ms": 244403,
       "name": "Gas Station Flowers",
       "url": "https://open.spotify.com/track/7q5DhpYZrHZxxG3UNMxFQN"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184076,
+      "name": "Gettin' Rich, Goin' Broke",
+      "url": "https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3"
     },
     {
       "album": {

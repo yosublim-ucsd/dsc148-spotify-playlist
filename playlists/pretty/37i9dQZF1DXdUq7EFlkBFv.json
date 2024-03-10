@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 16610,
+  "num_followers": 16642,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjFmNWZjMDQ4YWY1ZWJlMjBjNjNiNzkwNGI4ZGRlOTYzMDIwMTI1",
+  "snapshot_id": "MCxjOTBlMGU4MWIyNGFjMGQzMWE0ZjhmMDA4NTBjZDNkZjE2YzQwN2Q0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -391,6 +391,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Trip At Knight",
+        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 188025,
+      "name": "Matt Hardy 999",
+      "url": "https://open.spotify.com/track/4zkFR93VC5H04YhnYxr2zz"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Gardner Express",
         "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 141582,
       "name": "Off The Map",
       "url": "https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Trip At Knight",
-        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 188025,
-      "name": "Matt Hardy 999",
-      "url": "https://open.spotify.com/track/4zkFR93VC5H04YhnYxr2zz"
     },
     {
       "added_at": "2022-10-01 16:17:17",

@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 96868,
+  "num_followers": 96882,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjdlOTdmMGJmNDRjOTYzYmU4YTg2YTM2NWIxNTYwOTYyN2M1MTQw",
+  "snapshot_id": "MCwyNTYwZmVhOTY0ZjY1YmE4NzE3NDBiZjgzZmRiYmMzZDczYmNkOTgw",
   "tracks": [
     {
       "added_at": "2024-03-08 06:17:14",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-03-08 06:17:14",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 119401,
-      "name": "but I'll wait for you",
-      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
-    },
-    {
-      "added_at": "2024-03-08 06:17:14",
-      "album": {
         "name": "Far From the Madding City",
         "url": "https://open.spotify.com/album/43toiDnPej9XfkfNB821JD"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 211997,
       "name": "PIZZA",
       "url": "https://open.spotify.com/track/3xzl4MYc0YLQHJbaD6LxT6"
+    },
+    {
+      "added_at": "2024-03-08 06:17:14",
+      "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 119401,
+      "name": "but I'll wait for you",
+      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
     },
     {
       "added_at": "2024-03-08 06:17:14",

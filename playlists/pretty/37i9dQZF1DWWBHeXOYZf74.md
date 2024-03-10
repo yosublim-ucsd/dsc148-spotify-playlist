@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: tg.blk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,210 likes - 102 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,220 likes - 102 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 101 | [Off the Wall](https://open.spotify.com/track/2pkDvFyDw9J0GxAta8spSb) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Off the Wall](https://open.spotify.com/album/3RO3fuqDbCEGdVY8DsttaB) | 3:32 |
 | 102 | [Tell Me Why](https://open.spotify.com/track/4sX0BKWqewRYH8OArRUplH) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Tell Me Why](https://open.spotify.com/album/1Zgj2663nMdXF2Gt5KDoTS) | 3:51 |
 
-Snapshot ID: `MCwzYWIwYjM3NDg3MTE0NDMyODk4ZmZlOWY0ZmFiMzBmMDNlMmVkZTQy`
+Snapshot ID: `MCwxZTJjYzc3ZWQ2ZTUyYjFjOTQxOTQ5ZjBjY2MxODhlY2M1MGVjYzM5`

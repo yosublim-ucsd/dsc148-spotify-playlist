@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195686,
+      "name": "ALEXITHYMIA",
+      "url": "https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe"
+    },
+    {
+      "album": {
         "name": "ALL I EVER WANTED",
         "url": "https://open.spotify.com/album/11SFPa99Fx9dGYs4XW2UfJ"
       },
@@ -16778,7 +16796,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 212034,
       "name": "Slow Dance",
       "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
@@ -17116,6 +17134,24 @@
       "duration_ms": 176655,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/2difkxoCWFI8heCIu8deOE"
+    },
+    {
+      "album": {
+        "name": "Something Blue",
+        "url": "https://open.spotify.com/album/46aNsiacKvNKDOQP535ORt"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186137,
+      "name": "Something Blue",
+      "url": "https://open.spotify.com/track/1XQecFY99zarSryU7dS1RN"
     },
     {
       "album": {
@@ -19356,7 +19392,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 227309,
       "name": "Toneblerone",
       "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"

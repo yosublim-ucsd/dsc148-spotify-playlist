@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 30004,
+  "2024-03-10": 30044,
   "date_first_scraped": "2023-05-19",
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Pina Colada Blues",
   "name": "Malayalam Indie",
@@ -354,6 +354,28 @@
     },
     {
       "album": {
+        "name": "Bhagavathi",
+        "url": "https://open.spotify.com/album/1dIBUTZE5sRN6p33eWxSmT"
+      },
+      "artists": [
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Project Malabaricus",
+          "url": "https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "Bhagavathi",
+      "url": "https://open.spotify.com/track/7IveVDpt6GAmdO2KU3SPw0"
+    },
+    {
+      "album": {
         "name": "Bliss Adiche Dishqum Aayie (From \"Olam\")",
         "url": "https://open.spotify.com/album/4L9rh1Cfjg6m2Lx7csfrJl"
       },
@@ -479,7 +501,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 149000,
       "name": "Chayapattu",
       "url": "https://open.spotify.com/track/4d8u6nDK0hRliTXQ8lDKdt"
@@ -683,6 +705,32 @@
       "duration_ms": 96613,
       "name": "Dooram",
       "url": "https://open.spotify.com/track/73JZxTtYEusW3W7sJgkvdc"
+    },
+    {
+      "album": {
+        "name": "Duniyaav",
+        "url": "https://open.spotify.com/album/0FZItbmrkQxcQ2buwitxE0"
+      },
+      "artists": [
+        {
+          "name": "MUSLI",
+          "url": "https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO"
+        },
+        {
+          "name": "Vocal Dude",
+          "url": "https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI"
+        },
+        {
+          "name": "BSM",
+          "url": "https://open.spotify.com/artist/2KTMQdrxtZNOFAz2jxxth3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "Duniyaav",
+      "url": "https://open.spotify.com/track/3MS0WFDWxwJ3DNG4NUewEN"
     },
     {
       "album": {
@@ -1089,7 +1137,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 221538,
       "name": "Jupiter Mazha",
       "url": "https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p"
@@ -1441,7 +1489,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 295455,
       "name": "Kanne - Namah",
       "url": "https://open.spotify.com/track/3HIY7dBeJVAl8lIkFijDd7"
@@ -1751,7 +1799,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 231833,
       "name": "Mazha",
       "url": "https://open.spotify.com/track/6FQlgBbteed9kBiZIHfYuk"
@@ -2759,7 +2807,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 425606,
       "name": "Subrahmanyena Rakshitoham (Onwards & Upwards)",
       "url": "https://open.spotify.com/track/1bH7lEh2I1JD0oCWdT9sRc"
@@ -2933,7 +2981,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 511035,
       "name": "The Celestial Nymph (Manassi Dussaham)",
       "url": "https://open.spotify.com/track/5pSnPq1TGDAhF0PRdN4WuG"
@@ -2955,6 +3003,24 @@
       "duration_ms": 427394,
       "name": "The Seventh Ocean",
       "url": "https://open.spotify.com/track/4GuOd0hqHihlZXTNo8mwUT"
+    },
+    {
+      "album": {
+        "name": "Thedi Ninne",
+        "url": "https://open.spotify.com/album/7if2HqVWnVJmCZC1lhrDlJ"
+      },
+      "artists": [
+        {
+          "name": "P S Ajmal Shah",
+          "url": "https://open.spotify.com/artist/6UfrHGnTCdPQQvvB8XHPtR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186899,
+      "name": "Thedi Ninne",
+      "url": "https://open.spotify.com/track/77S4AzWeaNvBYEhZOKuvJp"
     },
     {
       "album": {

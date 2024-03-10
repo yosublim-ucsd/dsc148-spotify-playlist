@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 3311607,
+  "2024-03-10": 3312002,
   "date_first_scraped": "2022-10-25",
   "description": "This is The Beatles. The essential tracks, all in one playlist.",
   "name": "This Is The Beatles",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 154200,
       "name": "A Hard Day's Night - Remastered 2009",
       "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 180893,
       "name": "Penny Lane - Remastered 2009",
       "url": "https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA"

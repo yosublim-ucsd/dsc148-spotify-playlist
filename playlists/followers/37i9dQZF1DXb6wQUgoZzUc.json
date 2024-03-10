@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 897078,
+  "2024-03-10": 897431,
   "date_first_scraped": "2022-01-09",
   "description": "Un perreito en la pared...",
   "name": "La Casa del Perreo",
@@ -5796,6 +5796,32 @@
     },
     {
       "album": {
+        "name": "Nutela",
+        "url": "https://open.spotify.com/album/4vCZfIaRnhL33uum4byhkn"
+      },
+      "artists": [
+        {
+          "name": "SAIBU",
+          "url": "https://open.spotify.com/artist/5mSb56qJRcHVRRDveOmcfO"
+        },
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209989,
+      "name": "Nutela",
+      "url": "https://open.spotify.com/track/26O1NVPNk922Ihf5K49M7f"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -8345,7 +8371,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 161287,
       "name": "Tiempos de Plan B",
       "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"

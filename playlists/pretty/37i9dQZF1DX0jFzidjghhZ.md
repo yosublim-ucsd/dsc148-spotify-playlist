@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jFzidjghhZ.md) - [plain]
 
 > Des chansons pour sensibiliser vos enfants à la défense de l'environnement
 
-[Spotify](https://open.spotify.com/user/spotify) - 704 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 705 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jFzidjghhZ.md) - [plain]
 | 38 | [Recycle c'est magique](https://open.spotify.com/track/40ibJuC6qbFtIxIvkkv1SK) | [Dominique Dimey](https://open.spotify.com/artist/13JTWSRVp51EIrfDuUD5V7) | [Des voix pour la planète](https://open.spotify.com/album/55Rp9Sd7Keo3HoyMwA5CM6) | 2:51 |
 | 39 | [Et demain ?](https://open.spotify.com/track/4JGOGz0wbPMk5L4i2E4iP7) | [Et demain ? Le collectif](https://open.spotify.com/artist/2pCzfmIPJjOCcEfsOqSCFO) | [Et demain ?](https://open.spotify.com/album/1vo2c4KmsusDvfKZgsxhT0) | 3:15 |
 
-Snapshot ID: `MCxiYjQ2NGMyMDJlODkxZDFlZTE1NTJkZDM1NjA1ZDY3MGI4ZjVjNDFl`
+Snapshot ID: `MCxhMzFlZmM4NzYyMWIxZTJhMmViYzc2MjMwMWIxZTU5NDk3NjIzMDUz`

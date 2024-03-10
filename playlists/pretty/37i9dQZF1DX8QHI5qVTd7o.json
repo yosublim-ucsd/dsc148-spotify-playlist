@@ -1,12 +1,12 @@
 {
   "description": "You know all the tracks, you just can't sing-along. Cover: Martin Garrix.",
-  "num_followers": 192546,
+  "num_followers": 192552,
   "original_name": "Instrumental Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTBlMjU4N2M4ZDY2OTJhODMyZTI3NzU4NmRiYWI3Y2FlNGU5MmIz",
+  "snapshot_id": "MCw5MzliNmRkNGViM2ZlNDdhNTkyNTBlMWJiNDNkMTA3OGViODNjNjEx",
   "tracks": [
     {
       "added_at": "2021-12-22 06:41:48",
@@ -147,18 +147,22 @@
     {
       "added_at": "2021-12-22 06:41:48",
       "album": {
-        "name": "WOW",
-        "url": "https://open.spotify.com/album/1GGYP9NKuM7vSkvj0msOdH"
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/57LJYj1EAJ6DmWaRbYZvVA"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Michael Calfan",
+          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
         }
       ],
-      "duration_ms": 148125,
-      "name": "WOW",
-      "url": "https://open.spotify.com/track/3qPXWPkEZgUhUgPifbE99z"
+      "duration_ms": 166874,
+      "name": "Resurrection - Axwell's Recut Radio Version",
+      "url": "https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK"
     },
     {
       "added_at": "2021-12-22 06:41:48",
@@ -179,22 +183,18 @@
     {
       "added_at": "2021-12-22 06:41:48",
       "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/57LJYj1EAJ6DmWaRbYZvVA"
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/1GGYP9NKuM7vSkvj0msOdH"
       },
       "artists": [
         {
-          "name": "Michael Calfan",
-          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
-        },
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 166874,
-      "name": "Resurrection - Axwell's Recut Radio Version",
-      "url": "https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK"
+      "duration_ms": 148125,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/3qPXWPkEZgUhUgPifbE99z"
     },
     {
       "added_at": "2021-12-22 06:41:48",

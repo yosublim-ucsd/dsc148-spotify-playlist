@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 13163,
+  "num_followers": 13176,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTI0MjNiODlkMjAxNWRjOWJiNDcyYjViYWE2Y2M3NzA5OTkyYjhh",
+  "snapshot_id": "MCxjYjZlYmI1NDc1YWE0YjVlMWM5MzliMjkzZDgzMWYxOTUyNmQwNTY3",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Still Need Him",
-        "url": "https://open.spotify.com/album/1RAQZp4SUgNfFoZN3NulUu"
-      },
-      "artists": [
-        {
-          "name": "Mark Bishop",
-          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
-        }
-      ],
-      "duration_ms": 311013,
-      "name": "My Name Is Jesus",
-      "url": "https://open.spotify.com/track/4YCt6MI1Q2SXgPwd8KytpO"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 196500,
       "name": "Godfidence",
       "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "I Still Need Him",
+        "url": "https://open.spotify.com/album/1RAQZp4SUgNfFoZN3NulUu"
+      },
+      "artists": [
+        {
+          "name": "Mark Bishop",
+          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
+        }
+      ],
+      "duration_ms": 311013,
+      "name": "My Name Is Jesus",
+      "url": "https://open.spotify.com/track/4YCt6MI1Q2SXgPwd8KytpO"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Favorites: On Repeat",
+        "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
+      },
+      "artists": [
+        {
+          "name": "The Erwins",
+          "url": "https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD"
+        }
+      ],
+      "duration_ms": 270840,
+      "name": "Favorite Song of All",
+      "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "The Stories We Tell",
         "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 181000,
       "name": "Good in the Good Times",
       "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "He Touched Me",
-        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
-      },
-      "artists": [
-        {
-          "name": "The Singing Contractors",
-          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "He Touched Me",
-      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -779,18 +779,34 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Favorites: On Repeat",
-        "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
+        "name": "He Touched Me",
+        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
       },
       "artists": [
         {
-          "name": "The Erwins",
-          "url": "https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD"
+          "name": "The Singing Contractors",
+          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
         }
       ],
-      "duration_ms": 270840,
-      "name": "Favorite Song of All",
-      "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
+      "duration_ms": 207440,
+      "name": "He Touched Me",
+      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Heritage, Vol. 3",
+        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
+      },
+      "artists": [
+        {
+          "name": "Legacy Five",
+          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+        }
+      ],
+      "duration_ms": 154932,
+      "name": "Praise Medley",
+      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -823,22 +839,6 @@
       "duration_ms": 276000,
       "name": "On Jordan's Stormy Banks",
       "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Heritage, Vol. 3",
-        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
-      },
-      "artists": [
-        {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
-        }
-      ],
-      "duration_ms": 154932,
-      "name": "Praise Medley",
-      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Bring That Giant Down",
+        "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
+      },
+      "artists": [
+        {
+          "name": "11th Hour",
+          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
+        }
+      ],
+      "duration_ms": 208359,
+      "name": "Bring That Giant Down",
+      "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 208010,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Bring That Giant Down",
-        "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
-      },
-      "artists": [
-        {
-          "name": "11th Hour",
-          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
-        }
-      ],
-      "duration_ms": 208359,
-      "name": "Bring That Giant Down",
-      "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Give Me Jesus",
-        "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Give Me Jesus",
-      "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Good News From Jerusalem (Made Popular by Tribute Quartet) [Performance Track]",
         "url": "https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 237986,
       "name": "Good News From Jerusalem (Demonstration in C-C#-D)",
       "url": "https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Give Me Jesus",
+        "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Lord's Prayer",
-        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
-      },
-      "artists": [
-        {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Lord's Prayer",
-      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The World Needs a Song",
         "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 222064,
       "name": "I Bring You Jesus",
       "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Lord's Prayer",
+        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Lord's Prayer",
+      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
     },
     {
       "added_at": "2023-04-14 06:27:38",

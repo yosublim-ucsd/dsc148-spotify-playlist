@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 725325,
+  "2024-03-10": 725351,
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Schoolboy Q",
+  "description": "Holdin' it down for the westside. Cover: Saweetie",
   "name": "Westside Story",
   "tracks": [
     {
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 230612,
       "name": "Back n Love (feat. Devin Malik)",
       "url": "https://open.spotify.com/track/7sIShdqb3UI8EdoIZdgT9t"
@@ -1879,6 +1879,24 @@
       "duration_ms": 142661,
       "name": "Blueprint",
       "url": "https://open.spotify.com/track/1t1OFWl4MpfiIJhZe1t6I4"
+    },
+    {
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235317,
+      "name": "Blueslides",
+      "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
     },
     {
       "album": {
@@ -8178,6 +8196,28 @@
     },
     {
       "album": {
+        "name": "CHIZZLE",
+        "url": "https://open.spotify.com/album/4aSqc8dCaaWQho72mHd7ZB"
+      },
+      "artists": [
+        {
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158381,
+      "name": "Loc Dawg",
+      "url": "https://open.spotify.com/track/2ju2aQCew5BnBIXADpL2ny"
+    },
+    {
+      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/5vqQrL0w2FlyNe81I9zsLb"
       },
@@ -10621,7 +10661,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 171000,
       "name": "Paisley Dreams",
       "url": "https://open.spotify.com/track/49duYdF4SdqvooOhKHUP3t"
@@ -11565,6 +11605,24 @@
       "duration_ms": 223689,
       "name": "Right In - Remix",
       "url": "https://open.spotify.com/track/5swV28xY13yBRgZMiiuVlS"
+    },
+    {
+      "album": {
+        "name": "CHIZZLE",
+        "url": "https://open.spotify.com/album/4aSqc8dCaaWQho72mHd7ZB"
+      },
+      "artists": [
+        {
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144048,
+      "name": "RIP SUEDE",
+      "url": "https://open.spotify.com/track/0oIJgGKQYukfFx6I72NuGS"
     },
     {
       "album": {

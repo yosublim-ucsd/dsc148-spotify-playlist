@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 20810,
+  "2024-03-10": 20811,
   "date_first_scraped": "2021-12-21",
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
   "name": "Moving Castle Monthly",
@@ -3340,6 +3340,24 @@
     },
     {
       "album": {
+        "name": "Event Horizon EP",
+        "url": "https://open.spotify.com/album/6J0WuEJIPjzlOQblikWSfy"
+      },
+      "artists": [
+        {
+          "name": "Manics",
+          "url": "https://open.spotify.com/artist/3myc8xWoGmD2tiQY9H9u1G"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251612,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/09mSBiAXZ6QMktNUMC3H1q"
+    },
+    {
+      "album": {
         "name": "evergreen",
         "url": "https://open.spotify.com/album/7CWHFWCJnFiDTCtyDbrVOK"
       },
@@ -4219,6 +4237,32 @@
       "duration_ms": 220776,
       "name": "Gradient",
       "url": "https://open.spotify.com/track/3lyF43hdw1AULXQyvrfRpa"
+    },
+    {
+      "album": {
+        "name": "Gravity (Manila Killa & MYRNE Remix)",
+        "url": "https://open.spotify.com/album/46ESuwaQ6e4NcGJ3uYXk6a"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290909,
+      "name": "Gravity (Manila Killa & MYRNE Remix)",
+      "url": "https://open.spotify.com/track/5mZTYzyn7AOZOArUiNMz7O"
     },
     {
       "album": {

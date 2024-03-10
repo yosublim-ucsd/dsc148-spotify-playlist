@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 80854,
+  "num_followers": 80898,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWZlNGVhYmQ1ZGEzNzQ5OWIxNTIwNTRlYmVjYjU1YjI4ZjljMTMw",
+  "snapshot_id": "MCxmYmRjZTFhNDYwZDFmZjE1M2I2ZmY1NGU0YThlYjNkMmQyMTQ1OTE5",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Break From Jersey",
-        "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Break From Jersey",
-      "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Face of the What",
         "url": "https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 108000,
       "name": "WHO YOU TOUCH",
       "url": "https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Break From Jersey",
+        "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Break From Jersey",
+      "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "What Happened 2 Me?",
-        "url": "https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x"
-      },
-      "artists": [
-        {
-          "name": "Is0kenny",
-          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
-        }
-      ],
-      "duration_ms": 99688,
-      "name": "What Happened 2 Me?",
-      "url": "https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Defiant Presents: Jiggy In Jersey",
         "url": "https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "What Happened 2 Me?",
+        "url": "https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x"
+      },
+      "artists": [
+        {
+          "name": "Is0kenny",
+          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
+        }
+      ],
+      "duration_ms": 99688,
+      "name": "What Happened 2 Me?",
+      "url": "https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Chicago (Jersey Club)",
         "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
       },
@@ -1251,34 +1251,6 @@
       "duration_ms": 118256,
       "name": "Chicago (Jersey Club)",
       "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Bongos (feat. Megan Thee Stallion) [DJ SpinKing & DJ Taj Jersey Club Mix]",
-        "url": "https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "DJ SpinKing",
-          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
-        },
-        {
-          "name": "DJ Taj",
-          "url": "https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk"
-        }
-      ],
-      "duration_ms": 97714,
-      "name": "Bongos (feat. Megan Thee Stallion) - DJ SpinKing & DJ Taj Jersey Club Mix",
-      "url": "https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1307,6 +1279,34 @@
       "duration_ms": 116564,
       "name": "Hatin' Ass Bitches Anthem",
       "url": "https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Bongos (feat. Megan Thee Stallion) [DJ SpinKing & DJ Taj Jersey Club Mix]",
+        "url": "https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "DJ SpinKing",
+          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
+        },
+        {
+          "name": "DJ Taj",
+          "url": "https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk"
+        }
+      ],
+      "duration_ms": 97714,
+      "name": "Bongos (feat. Megan Thee Stallion) - DJ SpinKing & DJ Taj Jersey Club Mix",
+      "url": "https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8"
     },
     {
       "added_at": "2024-03-01 05:00:00",

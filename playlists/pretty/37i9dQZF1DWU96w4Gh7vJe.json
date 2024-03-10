@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 582980,
+  "num_followers": 582999,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTZjN2UyNTdiYmNlMGI2NjkyNGUwNDU4NjUzMjM3M2NjYmM2YTJm",
+  "snapshot_id": "MCwxMzJlNDZmNzEyOTM0MGRjYjlmZmNlY2Q1MGU5MTk0M2JmMmRiNTQ5",
   "tracks": [
     {
       "added_at": "2024-02-27 03:02:56",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Halina Sa Parokya",
-        "url": "https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL"
-      },
-      "artists": [
-        {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "Gitara",
-      "url": "https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
         "name": "Langit. Luha.",
         "url": "https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 241029,
       "name": "Pasensya Ka Na",
       "url": "https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
+        "name": "Halina Sa Parokya",
+        "url": "https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "Gitara",
+      "url": "https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "tila tala",
-        "url": "https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP"
-      },
-      "artists": [
-        {
-          "name": "syd hartha",
-          "url": "https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C"
-        }
-      ],
-      "duration_ms": 281296,
-      "name": "tila tala",
-      "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
         "name": "Monodramatic",
         "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 252214,
       "name": "o ninanais",
       "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
+        "name": "tila tala",
+        "url": "https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP"
+      },
+      "artists": [
+        {
+          "name": "syd hartha",
+          "url": "https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C"
+        }
+      ],
+      "duration_ms": 281296,
+      "name": "tila tala",
+      "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Aking Pahinga",
-        "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
-      },
-      "artists": [
-        {
-          "name": "Dro Perez",
-          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
-        },
-        {
-          "name": "I-Ghie",
-          "url": "https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "Aking Pahinga",
-      "url": "https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
         "name": "Mikasa",
         "url": "https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq"
       },
@@ -667,6 +647,26 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
+        "name": "Aking Pahinga",
+        "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
+      },
+      "artists": [
+        {
+          "name": "Dro Perez",
+          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
+        },
+        {
+          "name": "I-Ghie",
+          "url": "https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "Aking Pahinga",
+      "url": "https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Pity Ya",
-        "url": "https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4"
+        "name": "Closer You and I",
+        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
       },
       "artists": [
         {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
         }
       ],
-      "duration_ms": 192052,
-      "name": "Pity Ya",
-      "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
+      "duration_ms": 240000,
+      "name": "Closer You and I",
+      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Closer You and I",
-        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
+        "name": "Pity Ya",
+        "url": "https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4"
       },
       "artists": [
         {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Closer You and I",
-      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
+      "duration_ms": 192052,
+      "name": "Pity Ya",
+      "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
     },
     {
       "added_at": "2024-02-27 03:02:56",

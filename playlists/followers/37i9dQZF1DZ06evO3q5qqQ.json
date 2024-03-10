@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 106682,
+  "2024-03-10": 106721,
   "date_first_scraped": "2024-01-30",
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
   "name": "This Is Grupo Arriesgado",
@@ -199,7 +199,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 168277,
       "name": "El Apache",
       "url": "https://open.spotify.com/track/6JtzRe7OZeTp3np1d3qULV"
@@ -933,6 +933,28 @@
       "duration_ms": 179170,
       "name": "Que las Cuartitos No Falten",
       "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
+    },
+    {
+      "album": {
+        "name": "Rancherik Asterik",
+        "url": "https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD"
+      },
+      "artists": [
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134826,
+      "name": "Rancherik Asterik",
+      "url": "https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83"
     },
     {
       "album": {

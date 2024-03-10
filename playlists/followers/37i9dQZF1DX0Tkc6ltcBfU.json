@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 1198499,
+  "2024-03-10": 1198650,
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south. Cover: Don Toliver",
+  "description": "The hottest out the south. Cover: GloRilla",
   "name": "No Cap",
   "tracks": [
     {
@@ -332,6 +332,40 @@
     },
     {
       "album": {
+        "name": "4AM at Coffee Zone",
+        "url": "https://open.spotify.com/album/66NR2OZONVrcKdN8ukHxgX"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "4AM at Coffee Zone",
+      "url": "https://open.spotify.com/track/5LwoAa34wJN6DLVHLs5HA1"
+    },
+    {
+      "album": {
         "name": "4GOD II",
         "url": "https://open.spotify.com/album/5pgNt5QUGCJdDeux6gATIS"
       },
@@ -557,7 +591,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 172307,
       "name": "772 Love Pt. 3 (Your Love)",
       "url": "https://open.spotify.com/track/1MscIf89IpZW9N9SUtBpsE"
@@ -2442,6 +2476,32 @@
     },
     {
       "album": {
+        "name": "Compliments of Grave Digger Mountain",
+        "url": "https://open.spotify.com/album/3qwTr7e8qui32fbVgtWpMA"
+      },
+      "artists": [
+        {
+          "name": "Never Broke Again",
+          "url": "https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Lil Dump",
+          "url": "https://open.spotify.com/artist/5OirL1WOvVjqHL87U4rCgT"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Bling (Never Broke Again feat. YoungBoy Never Broke Again & Lil Dump)",
+      "url": "https://open.spotify.com/track/3yziqj3fYjXWwzXxGNoa6F"
+    },
+    {
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/1xgHi3qOIa25dlJwdA0pxl"
       },
@@ -3033,7 +3093,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 149864,
       "name": "Breezy Take Off",
       "url": "https://open.spotify.com/track/4qFy0uDvjsuCqQaoI5jaqE"
@@ -3619,7 +3679,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 115013,
       "name": "Change My Wayz",
       "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
@@ -5797,7 +5857,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 198000,
       "name": "FACTS",
       "url": "https://open.spotify.com/track/52sUnIQRojLUTxo7OWW2qv"
@@ -10180,6 +10240,24 @@
     },
     {
       "album": {
+        "name": "JUMPIN IN / US",
+        "url": "https://open.spotify.com/album/4BQjfJvlt7oCTZ6AhiV2Gr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "JUMPIN IN",
+      "url": "https://open.spotify.com/track/2ycOgXY3dbujFBd4dJHO9P"
+    },
+    {
+      "album": {
         "name": "Just In Time",
         "url": "https://open.spotify.com/album/5gKEIPtqlPK7WWOEUdB6W9"
       },
@@ -11879,7 +11957,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 100975,
       "name": "Lyrical Eazy",
       "url": "https://open.spotify.com/track/6xVdq7lcNHpELteLBfrkY2"
@@ -11927,6 +12005,28 @@
       "duration_ms": 180459,
       "name": "Mad At Her",
       "url": "https://open.spotify.com/track/7nW1oORHIjElSCjC6cWEkA"
+    },
+    {
+      "album": {
+        "name": "Mad Man",
+        "url": "https://open.spotify.com/album/3k0FLJ1pOWgC8XckfN3rjg"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        },
+        {
+          "name": "Rundown Choppaboy",
+          "url": "https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146802,
+      "name": "Mad Man",
+      "url": "https://open.spotify.com/track/5n5TvuwopZlAiyIn8Bai4O"
     },
     {
       "album": {
@@ -14820,6 +14920,24 @@
     },
     {
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/0WDhmIOdHARiH22yIKQCZ5"
+      },
+      "artists": [
+        {
+          "name": "Foolio",
+          "url": "https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194784,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/1IhH4zWZRwHZimPE6v8RM8"
+    },
+    {
+      "album": {
         "name": "Holy Goat 2",
         "url": "https://open.spotify.com/album/5wDguEom5rr6ZV51Ap5yQR"
       },
@@ -16137,6 +16255,28 @@
       "duration_ms": 188512,
       "name": "Real Drip",
       "url": "https://open.spotify.com/track/3fwIVLw8KgouF6hZbAtVTq"
+    },
+    {
+      "album": {
+        "name": "Real One (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/32EmBtxeF2ORdRHTcmljWN"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166138,
+      "name": "Real One (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/5iltqBmJh9uCPKtLjdRZya"
     },
     {
       "album": {
@@ -22799,7 +22939,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 151906,
       "name": "\ufeffBlood Splatter",
       "url": "https://open.spotify.com/track/6hLhe1Q8kZQw5pfAK1SGY7"

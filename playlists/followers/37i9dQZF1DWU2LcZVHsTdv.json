@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 278587,
+  "2024-03-10": 278613,
   "date_first_scraped": "2021-12-21",
   "description": "The country way of testifying.",
   "name": "Country by the Grace of God",
@@ -709,6 +709,28 @@
       "duration_ms": 198142,
       "name": "Churches and Bars",
       "url": "https://open.spotify.com/track/5rdrGT068PeZfY1J32mcDn"
+    },
+    {
+      "album": {
+        "name": "Climb My Way to Heaven (and Cory Asbury)",
+        "url": "https://open.spotify.com/album/09hZnQxjUy2LLL1oSMXpXx"
+      },
+      "artists": [
+        {
+          "name": "Tayler Holder",
+          "url": "https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205008,
+      "name": "Climb My Way to Heaven (and Cory Asbury)",
+      "url": "https://open.spotify.com/track/0X6rZaz9IhOPsjLgDk3f5f"
     },
     {
       "album": {

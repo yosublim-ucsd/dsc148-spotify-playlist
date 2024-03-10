@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Fredz",
-  "num_followers": 39923,
+  "num_followers": 39938,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTIwMDg2Yzc5MDZlOTE0NmU1NmFkMjE3MDIwN2Y3YmRiMWYxMWY5",
+  "snapshot_id": "MCxiM2ZlMDVhOGJmOTJhMTc3M2EzMDhlYWNlN2YyNzQ4NDYwNDYyYmUw",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "3 MAI 2025",
-        "url": "https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG"
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 166143,
-      "name": "3 MAI 2025",
-      "url": "https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT"
+      "duration_ms": 141226,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
+        "name": "3 MAI 2025",
+        "url": "https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 141226,
-      "name": "Position",
-      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
+      "duration_ms": 166143,
+      "name": "3 MAI 2025",
+      "url": "https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Saison 2",
-        "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        },
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 141893,
-      "name": "Ferrero (feat. Gambi)",
-      "url": "https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Fio Maravilha",
         "url": "https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 188946,
       "name": "Fio Maravilha",
       "url": "https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Saison 2",
+        "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 141893,
+      "name": "Ferrero (feat. Gambi)",
+      "url": "https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -619,6 +619,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "SOLSAD",
+        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Loin d'ici",
+      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m"
       },
@@ -643,26 +663,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "SOLSAD",
-        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Loin d'ici",
-      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "HEARTBREAK LIFE II",
         "url": "https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 149133,
       "name": "CALMANT",
       "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "CORLEONE II",
+        "url": "https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 138015,
+      "name": "CORLEONE II",
+      "url": "https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -715,6 +731,26 @@
       "duration_ms": 221440,
       "name": "MAUVAIS PAYEUR",
       "url": "https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -771,38 +807,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "CORLEONE II",
-        "url": "https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 138015,
-      "name": "CORLEONE II",
-      "url": "https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "JUNGLE",
-      "url": "https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Noise",
         "url": "https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC"
       },
@@ -823,6 +827,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "JUNGLE",
+      "url": "https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl"
       },
@@ -835,6 +855,22 @@
       "duration_ms": 186883,
       "name": "ADN",
       "url": "https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Le Rang des \u00c9toiles",
+        "url": "https://open.spotify.com/album/3iQda7g4gHv1ynJHXrHFph"
+      },
+      "artists": [
+        {
+          "name": "Biga*Ranx",
+          "url": "https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX"
+        }
+      ],
+      "duration_ms": 111780,
+      "name": "Le Rang des \u00c9toiles",
+      "url": "https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -859,22 +895,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Le Rang des \u00c9toiles",
-        "url": "https://open.spotify.com/album/3iQda7g4gHv1ynJHXrHFph"
-      },
-      "artists": [
-        {
-          "name": "Biga*Ranx",
-          "url": "https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX"
-        }
-      ],
-      "duration_ms": 111780,
-      "name": "Le Rang des \u00c9toiles",
-      "url": "https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Terminer",
         "url": "https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2"
       },
@@ -891,38 +911,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Picoler",
-        "url": "https://open.spotify.com/album/1zgN4DsdOYeUFMTGID32S3"
+        "name": "_jun perseides",
+        "url": "https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe"
       },
       "artists": [
         {
-          "name": "Gambino",
-          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
         }
       ],
-      "duration_ms": 189883,
-      "name": "Picoler",
-      "url": "https://open.spotify.com/track/3MmOIpXW9jZLCcqNRzR0gJ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "LE FOND (feat. Zokush)",
-        "url": "https://open.spotify.com/album/3R6HVhMY57HehOkLVk6mYv"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        },
-        {
-          "name": "Zokush",
-          "url": "https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "LE FOND (feat. Zokush)",
-      "url": "https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd"
+      "duration_ms": 176040,
+      "name": "_jun perseides",
+      "url": "https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

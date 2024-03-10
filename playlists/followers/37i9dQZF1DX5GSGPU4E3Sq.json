@@ -1,5 +1,5 @@
 {
-  "2024-03-09": 190101,
+  "2024-03-10": 190111,
   "date_first_scraped": "2022-07-19",
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
   "name": "Terapia de Bosque",
@@ -3597,7 +3597,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 267937,
       "name": "Pampeano",
       "url": "https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR"
@@ -4585,6 +4585,24 @@
       "duration_ms": 195306,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0FnNwEb7LkeEAZDtJ3ijgY"
+      },
+      "artists": [
+        {
+          "name": "Kyrste",
+          "url": "https://open.spotify.com/artist/4oaGWEt8TqYBLB3Fc0Lo18"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157712,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/6G0ssP9WI63lIvSSfGAmt0"
     },
     {
       "album": {

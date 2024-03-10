@@ -714,10 +714,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 170270,
       "name": "For All The Times I Fell On My Face",
       "url": "https://open.spotify.com/track/3TX9akJC4oWLHvaIF9R169"
+    },
+    {
+      "album": {
+        "name": "For All the Times I Fell on My Face",
+        "url": "https://open.spotify.com/album/2UMiOMR9wZU1MHzc15jhLO"
+      },
+      "artists": [
+        {
+          "name": "Damien Styles",
+          "url": "https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170270,
+      "name": "For All the Times I Fell on My Face",
+      "url": "https://open.spotify.com/track/49mFYi8xN7QCz7D7bRRvnW"
     },
     {
       "album": {

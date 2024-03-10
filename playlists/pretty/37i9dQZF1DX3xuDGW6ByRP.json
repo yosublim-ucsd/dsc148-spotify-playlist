@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47917,
+  "num_followers": 47922,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTVlMjFkZDY0MmVhMzFjOWVhYmNmMDU5NmJkNGM4Nzk3OGJmMGFi",
+  "snapshot_id": "MCxkNzUyZjdhNGQwZmI3Y2QyZWRmMTNmMTllMjgwYjQzYjc1NDBlZjNj",
   "tracks": [
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1231,22 +1231,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "melhor ou pior",
-        "url": "https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9"
+        "name": "EMO NAS BAHAMAS",
+        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
       },
       "artists": [
         {
-          "name": "THAIS",
-          "url": "https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29"
-        },
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+          "name": "BAKA",
+          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
         }
       ],
-      "duration_ms": 164000,
-      "name": "melhor ou pior",
-      "url": "https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt"
+      "duration_ms": 148880,
+      "name": "VOU ALI DORMIR",
+      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "EMO NAS BAHAMAS",
-        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
+        "name": "melhor ou pior",
+        "url": "https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9"
       },
       "artists": [
         {
-          "name": "BAKA",
-          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
+          "name": "THAIS",
+          "url": "https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29"
+        },
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
         }
       ],
-      "duration_ms": 148880,
-      "name": "VOU ALI DORMIR",
-      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
+      "duration_ms": 164000,
+      "name": "melhor ou pior",
+      "url": "https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt"
     },
     {
       "added_at": "2024-02-22 17:25:15",

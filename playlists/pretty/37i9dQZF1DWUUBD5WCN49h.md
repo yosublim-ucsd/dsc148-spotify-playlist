@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Guchi
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,384 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,388 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 6 | [Getaway](https://open.spotify.com/track/1rygCbBVSKhfwTLvEWAEsF) | [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r) | [Getaway](https://open.spotify.com/album/4K9LHHHW7DOrW0FS9kz6Cr) | 2:26 |
 | 7 | [14:02](https://open.spotify.com/track/0rIDiFRgtsNB81roHxRPx6) | [Kholi](https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze) | [14:02](https://open.spotify.com/album/3NAOgVCijgJpyauvqHis0a) | 3:12 |
 | 8 | [Bum Bum](https://open.spotify.com/track/4pNkfzo9Yzec9QQ2eKroxn) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA), [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [YOU WILL KNOW MY NAME](https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87) | 2:42 |
-| 9 | [Tonight](https://open.spotify.com/track/2y2tmHmV5f2UvQDQLqBpwZ) | [Plug Music](https://open.spotify.com/artist/1oLFSlAW97YRIhXAWWmCdU), [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [Firefly](https://open.spotify.com/artist/31lt312E2FmmnrGqd1Mcv9) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 2:43 |
+| 9 | [Tonight](https://open.spotify.com/track/2y2tmHmV5f2UvQDQLqBpwZ) | [Plug Music](https://open.spotify.com/artist/2kPe18aOot6tf7q2MCF9VQ), [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [Firefly](https://open.spotify.com/artist/31lt312E2FmmnrGqd1Mcv9) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 2:43 |
 | 10 | [All In \- Fender Acoustic](https://open.spotify.com/track/0ptUNefO7UXD5tSJv2cjUB) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [All In \(Fender Acoustic\)](https://open.spotify.com/album/28OBI9u2IlOmvZuDU9lNwC) | 3:52 |
 | 11 | [Fast](https://open.spotify.com/track/6UCvdFpOt1vQwKaOvl0LCq) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 2:27 |
 | 12 | [Adrenaline](https://open.spotify.com/track/278AalYy22hO0zxeQAzZ73) | [Celo](https://open.spotify.com/artist/57jnGVKiJf3uOsUuw7UB5c) | [Adrenaline](https://open.spotify.com/album/1uJC481nbSKN0XoYibANlN) | 3:08 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 36 | [Onye Ije](https://open.spotify.com/track/2bYdxvjMZA6T9YK5JMM8w4) | [Alenu](https://open.spotify.com/artist/2Gyi48nUYchPtoJDF6eCul) | [The Walking Man](https://open.spotify.com/album/0Fcs9ZCVb4UeITuoUDDWnW) | 2:57 |
 | 37 | [Tension](https://open.spotify.com/track/3tZsUsu3PZ1V48hpApVOFF) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Fed Up / Tension](https://open.spotify.com/album/12l63NT7yZ7bFf0mRJ9Y0l) | 2:36 |
 | 38 | [SINK OR SWIM](https://open.spotify.com/track/6fB5xCqHjkLGud3ZPyNbq4) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt) | [SINK OR SWIM](https://open.spotify.com/album/34Db2WinZb68Nk0cvWirdt) | 3:10 |
-| 39 | [Hot Box](https://open.spotify.com/track/7sEYYNhpjS2XUoS2YXmmBO) | [Plug Music](https://open.spotify.com/artist/1oLFSlAW97YRIhXAWWmCdU), [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ), [Peb](https://open.spotify.com/artist/3bvytC8mIZgNlMGiWtzTU1), [Reynbow](https://open.spotify.com/artist/61XaM5gMcoCAslh87geEVQ), [Yoma](https://open.spotify.com/artist/0Ifsqx9PTlmpGRqE0jnXNK) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 2:10 |
+| 39 | [Hot Box](https://open.spotify.com/track/7sEYYNhpjS2XUoS2YXmmBO) | [Plug Music](https://open.spotify.com/artist/2kPe18aOot6tf7q2MCF9VQ), [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ), [Peb](https://open.spotify.com/artist/3bvytC8mIZgNlMGiWtzTU1), [Reynbow](https://open.spotify.com/artist/61XaM5gMcoCAslh87geEVQ), [Yoma](https://open.spotify.com/artist/0Ifsqx9PTlmpGRqE0jnXNK) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 2:10 |
 | 40 | [Na Die](https://open.spotify.com/track/1TKw7IaM6KS2l7JxY9oplQ) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Na Die](https://open.spotify.com/album/2EoNzxyyu0EAXxjiV5t0j5) | 2:27 |
 | 41 | [Delusion](https://open.spotify.com/track/7atJqz72vCyJyNIiRo33XO) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Delusion](https://open.spotify.com/album/02Sbm2LatYl69bi0sWv4zc) | 2:50 |
 | 42 | [Suleja \(Remix\)](https://open.spotify.com/track/74dRyGZI4LRrfunus25OJ3) | [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Suleja \(Remix\)](https://open.spotify.com/album/5i4vHD1u0bPDLQ7bhryOxh) | 2:32 |
 | 43 | [Dynamite](https://open.spotify.com/track/4HHMYC5atoi0ZRQfmkxuLB) | [Sherizz](https://open.spotify.com/artist/2f3cw59N6NrXxJIEwiCgDt) | [Dynamite](https://open.spotify.com/album/1XpuyYKixpvqeENPZL0MyA) | 2:36 |
 | 44 | [Blown Away](https://open.spotify.com/track/196N8YPLcFDmOEYcOU4bF2) | [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [Blown Away](https://open.spotify.com/album/77VtoRKxOTGVDR9EmBAWTx) | 3:08 |
-| 45 | [You Need To](https://open.spotify.com/track/5yC1nqnRKZMrP8TsZd25zB) | [Plug Music](https://open.spotify.com/artist/1oLFSlAW97YRIhXAWWmCdU), [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 3:00 |
+| 45 | [You Need To](https://open.spotify.com/track/5yC1nqnRKZMrP8TsZd25zB) | [Plug Music](https://open.spotify.com/artist/2kPe18aOot6tf7q2MCF9VQ), [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 3:00 |
 | 46 | [Jeje](https://open.spotify.com/track/3J6yVWwtgHvYazpP0E8evl) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Jeje](https://open.spotify.com/album/3kOBu4Rnj58f6W3LvwvFYD) | 2:49 |
 | 47 | [Day One](https://open.spotify.com/track/3YzUIlfLuv53ssSn8YCtyQ) | [F3line](https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ) | [Day One](https://open.spotify.com/album/3H51Qj4Aty2rnlM7hHS0vY) | 3:11 |
 | 48 | [easy \(feat\. Afua\)](https://open.spotify.com/track/1zX7otE7kMi929DVLEyJ73) | [RMHA](https://open.spotify.com/artist/4NGk52qqUT4Q4QnwCBSnD4), [Afua](https://open.spotify.com/artist/2Rq1eSq5vXjTrHSu2HKIrB) | [easy \(feat\. Afua\)](https://open.spotify.com/album/1YgFFaVyZUxP7uMcVZMECP) | 4:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 69 | [Butterfly](https://open.spotify.com/track/19otAriajhp52Uo23vCRJ9) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw) | [Butterfly](https://open.spotify.com/album/6Wkf2TL4mufO0wLrfqsfzF) | 2:59 |
 | 70 | [Problems](https://open.spotify.com/track/2pnNn9p4qGkSApyBeMM2Gc) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Problems](https://open.spotify.com/album/3CIFG7DN9QuTAl6UgiqS12) | 2:47 |
 
-Snapshot ID: `MCxjMzBlNWI0OTFjNDgxMDFkYzBhNDE3YzllNWM3ZmJkOWViNjEzNWYy`
+Snapshot ID: `MCxjYTc3MGFlNTMxM2M0ZjlhZTQyMzRmMzk4NTIxY2E4ZTAzNmM2Y2Vh`

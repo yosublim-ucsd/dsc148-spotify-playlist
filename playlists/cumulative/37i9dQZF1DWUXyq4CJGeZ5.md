@@ -455,7 +455,7 @@
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-03-10 |  |
 | [Watercolor Tears](https://open.spotify.com/track/23J46AHR6peFeGAGTWeKYs) | [Brian Crain](https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb) | [Watercolor Tears](https://open.spotify.com/album/01JltJK8hpA8QBOPb0t5XJ) | 3:15 | 2023-03-10 |  |
 | [Watzmann](https://open.spotify.com/track/0LTym92HfbaGJLCqYlmK9O) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Nachtvogel](https://open.spotify.com/album/1ZBeC4dVVod4hgdXU4aij2) | 3:14 | 2023-10-10 |  |
-| [We Persist](https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [We Persist](https://open.spotify.com/album/7xalfDfiAV5jIbebi7uwtX) | 2:39 | 2023-03-10 |  |
+| [We Persist](https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [We Persist](https://open.spotify.com/album/7xalfDfiAV5jIbebi7uwtX) | 2:39 | 2023-03-10 | 2024-03-10 |
 | [We Won't Waltz Together](https://open.spotify.com/track/3tFwWjy78LQ2NOWANzWMdS) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [We Won't Waltz Together](https://open.spotify.com/album/5QMCSEHMqFmqOQhSWFQGWD) | 2:06 | 2023-03-10 |  |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2023-03-10 |  |
 | [What She Said](https://open.spotify.com/track/01DgyWLmCNuUBJJGuokRiq) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [What She Said](https://open.spotify.com/album/4b6MJlepYeFPi7MYuaRUiT) | 2:04 | 2023-03-10 |  |
@@ -480,6 +480,6 @@
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2023-03-10 |  |
 | [Your Own Kind](https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Your Own Kind](https://open.spotify.com/album/1WV5E90TCHTaGKRYU9QfoH) | 1:54 | 2023-03-10 | 2023-10-11 |
 | [Zadar](https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Zadar](https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz) | 2:03 | 2023-03-10 |  |
-| [Zarah](https://open.spotify.com/track/28vLvC18x4OjW9pNmlsO0x) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Volatile](https://open.spotify.com/album/7yrDD8D5wJzMWnfkUXpjcG) | 3:28 | 2023-10-10 | 2024-01-29 |
+| [Zarah](https://open.spotify.com/track/28vLvC18x4OjW9pNmlsO0x) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Volatile](https://open.spotify.com/album/7yrDD8D5wJzMWnfkUXpjcG) | 3:28 | 2023-10-10 |  |
 
 \*This playlist was first scraped on 2023-09-08. Prior content cannot be recovered.

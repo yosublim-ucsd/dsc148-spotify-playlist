@@ -1,7 +1,7 @@
 {
-  "2024-03-09": 983319,
+  "2024-03-10": 983438,
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:6piIAIurGAryW5h1rqQC16\">Passion</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:3LoDhoZo5Mkue9sAuj1KHb\">VOUS Worship</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1757,6 +1757,24 @@
       "duration_ms": 365185,
       "name": "Christ Our King - Live From Camp",
       "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
+    },
+    {
+      "album": {
+        "name": "Christ Our Wisdom (Live)",
+        "url": "https://open.spotify.com/album/5sqkIGjzqHqX1gnEug16fh"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222498,
+      "name": "Christ Our Wisdom - Live",
+      "url": "https://open.spotify.com/track/1Kgr0o5i7GOBufM0ki9ipM"
     },
     {
       "album": {
@@ -5048,6 +5066,28 @@
     },
     {
       "album": {
+        "name": "Jesus, Lamb Of God (Live)",
+        "url": "https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520293,
+      "name": "Jesus, Lamb Of God - Live",
+      "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
+    },
+    {
+      "album": {
         "name": "Jesus, My Brother + Like Jesus (Live)",
         "url": "https://open.spotify.com/album/6FF25x5ZScHJpGXQtHuANN"
       },
@@ -5443,6 +5483,24 @@
       "duration_ms": 274666,
       "name": "Let Go - Live",
       "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
+    },
+    {
+      "album": {
+        "name": "Always A Good Time (Live)",
+        "url": "https://open.spotify.com/album/7rN4VE06iIyRYZRknPF0N8"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240134,
+      "name": "Let It Flow - Live",
+      "url": "https://open.spotify.com/track/6EP33vME23wA0pX2ZeG7mH"
     },
     {
       "album": {
@@ -6249,7 +6307,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 354600,
       "name": "Never Been",
       "url": "https://open.spotify.com/track/2GA5R0AVGt0DIf1cY2APhv"
@@ -7793,7 +7851,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 396666,
       "name": "Sacred Fire - Live",
       "url": "https://open.spotify.com/track/3Rz4UDQAKNMVmc2V01IMYp"
@@ -8117,7 +8175,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-09",
       "duration_ms": 227586,
       "name": "Sing - Live",
       "url": "https://open.spotify.com/track/3qcEDT85hn5vpNCxaBFHim"
