@@ -1,4 +1,4 @@
-## Playlists \(7639\)
+## Playlists \(7640\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -6686,6 +6686,7 @@
 - [Urkult 2012](/playlists/pretty/7b1rMSnmiYfj8nH8spIjxF.md)
 - [Usain Bolt's Taste](/playlists/pretty/37i9dQZF1DX6Bb2CGbkkCE.md)
 - [V\-Pop Không Thể Thiếu](/playlists/pretty/37i9dQZF1DX4g8Gs5nUhpp.md)
+- [VALORANT \- Music of Game Changers Sao Paulo](/playlists/pretty/71kt7mHLzNDQFmmUOVWA6Q.md)
 - [VOL.4](/playlists/pretty/25wn6E4IiaAaTH6HBnGJ8y.md)
 - [VOLAC's DJ Mix](/playlists/pretty/37i9dQZF1DWUmMjKFzN3Ka.md)
 - [VOLUME](/playlists/pretty/37i9dQZF1DWWJOmJ7nRx0C.md)
