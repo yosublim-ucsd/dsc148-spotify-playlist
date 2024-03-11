@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Ajuliacosta, Mc Luanna, Duquesa, Iamlope$$, LAI$ROSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388,914 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389,297 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [My Boo](https://open.spotify.com/track/57XMBBf2cBh4H6bp1aHdmL) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [My Boo](https://open.spotify.com/album/0IvpAd8VMNzoPfKp0SUL5F) | 2:45 |
 | 50 | [7 NOVINHA PRA 2 MLK \- BONUS TRACK](https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 3:00 |
 
-Snapshot ID: `MCxiMzRkMThiNWYzYzk1NWQ3ODg2MTQ5ZTk2Mzk2NThhMzIzMGFhMDA5`
+Snapshot ID: `MCw0NmIwMGRkNzQ4MDNjMWRlMzRhNzJjZDNjZWNmODFkNWExYjY3MTdk`

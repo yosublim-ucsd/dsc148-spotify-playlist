@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 200766,
+  "num_followers": 200846,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmUxMjQyMWIyYmE3MDJjMmVmMGYzMmZmMmNjOTg0NjkwZGEwMWZm",
+  "snapshot_id": "MCxkNGE2M2M2YzgyMmZiNDU3NDk2MWQ4ZmIxYTgzODU1MjUzOWMyMjYw",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "The Way It Was",
-        "url": "https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF"
-      },
-      "artists": [
-        {
-          "name": "Parachute",
-          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
-        }
-      ],
-      "duration_ms": 248960,
-      "name": "Forever And Always",
-      "url": "https://open.spotify.com/track/3NCg46FWgnANZc9HQHQOQR"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Strangeland",
         "url": "https://open.spotify.com/album/7CrzFBSIGuZA07hjRM6HxH"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 218840,
       "name": "Sovereign Light Caf\u00e9",
       "url": "https://open.spotify.com/track/38v9pKVik1eEJhpSuh97oc"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "The Way It Was",
+        "url": "https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF"
+      },
+      "artists": [
+        {
+          "name": "Parachute",
+          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+        }
+      ],
+      "duration_ms": 248960,
+      "name": "Forever And Always",
+      "url": "https://open.spotify.com/track/3NCg46FWgnANZc9HQHQOQR"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "BANNERS",
-        "url": "https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "Start A Riot",
-      "url": "https://open.spotify.com/track/3cpOqFZ30z5cUJUC9MYaar"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Zombies On Broadway",
         "url": "https://open.spotify.com/album/4scns5rvvp6KbYQgSsQ8Zv"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 204840,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/6uCmU6ldcsVpLAKNCojVg8"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "BANNERS",
+        "url": "https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "Start A Riot",
+      "url": "https://open.spotify.com/track/3cpOqFZ30z5cUJUC9MYaar"
     },
     {
       "added_at": "2022-11-17 15:48:46",

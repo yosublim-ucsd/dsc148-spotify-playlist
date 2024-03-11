@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 82858,
+  "2024-03-11": 82885,
   "date_first_scraped": "2022-01-02",
   "description": "Fresh country music by independent artists every Wednesday. Cover: Peytan Porter, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
@@ -10589,10 +10589,28 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 196825,
       "name": "Every Rain",
       "url": "https://open.spotify.com/track/0bcjnTMLmSrCvNtI8VfUCw"
+    },
+    {
+      "album": {
+        "name": "Every Rain",
+        "url": "https://open.spotify.com/album/3OikgceZSRm3YTQa4KW7v5"
+      },
+      "artists": [
+        {
+          "name": "Luke Borchelt",
+          "url": "https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196825,
+      "name": "Every Rain",
+      "url": "https://open.spotify.com/track/4jkjmYDBLnYzaeLTBCUIak"
     },
     {
       "album": {
@@ -29231,6 +29249,24 @@
     {
       "album": {
         "name": "Songs From A Breakup",
+        "url": "https://open.spotify.com/album/7JlXQn8KNUP71CO0cQoxyq"
+      },
+      "artists": [
+        {
+          "name": "Roman Alexander",
+          "url": "https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204873,
+      "name": "She Was Mine",
+      "url": "https://open.spotify.com/track/2M2STJOOUstOvPvWIil46Z"
+    },
+    {
+      "album": {
+        "name": "Songs From A Breakup",
         "url": "https://open.spotify.com/album/6WLhSEAg80ccThstBTWqvX"
       },
       "artists": [
@@ -29241,7 +29277,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 204873,
       "name": "She Was Mine",
       "url": "https://open.spotify.com/track/6gnvpZnNRNi1vw8HvmCpSo"

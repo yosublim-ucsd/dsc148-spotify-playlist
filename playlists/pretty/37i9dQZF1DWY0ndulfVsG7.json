@@ -1,12 +1,12 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
-  "num_followers": 51599,
+  "num_followers": 51649,
   "original_name": "Jiran Akrab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmJlZTdhMmM5ZGMzODQzMjU4NzNhNzI1Y2NlZTAzODM5M2MyYjdh",
+  "snapshot_id": "MCw5ZjBjZTQzYTJkMWVmOWIxMGY5ZjUwMWE3N2Q0NjhiNWI2ZjMxZWE1",
   "tracks": [
     {
       "added_at": "2024-01-12 06:34:07",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Angin Kencang",
-        "url": "https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf"
-      },
-      "artists": [
-        {
-          "name": "Noh Salleh",
-          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
-        }
-      ],
-      "duration_ms": 237243,
-      "name": "Angin Kencang",
-      "url": "https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "King of Soundtrack",
         "url": "https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 285693,
       "name": "Sumpah dan Cinta Matiku",
       "url": "https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "Angin Kencang",
+        "url": "https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf"
+      },
+      "artists": [
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        }
+      ],
+      "duration_ms": 237243,
+      "name": "Angin Kencang",
+      "url": "https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9"
+      },
+      "artists": [
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        }
+      ],
+      "duration_ms": 228386,
+      "name": "Sedih Tak Berujung",
+      "url": "https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 264853,
       "name": "Dealova",
       "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
-        "name": "Selamat Pagi, Dunia!",
-        "url": "https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9"
-      },
-      "artists": [
-        {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Akhir Cerita Cinta",
-      "url": "https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Cinta Sejati (From \"Habibie & Ainun\")",
-        "url": "https://open.spotify.com/album/3cMuELN6TQ1pF5fkOcdhpv"
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9"
       },
       "artists": [
         {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
         }
       ],
-      "duration_ms": 300933,
-      "name": "Cinta Sejati - From \"Habibie & Ainun\"",
-      "url": "https://open.spotify.com/track/7zPiwqd1uxBkiHuk2OoBWJ"
+      "duration_ms": 240280,
+      "name": "Akhir Cerita Cinta",
+      "url": "https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3"
     }
   ],
   "unique_name": "Jiran Akrab",

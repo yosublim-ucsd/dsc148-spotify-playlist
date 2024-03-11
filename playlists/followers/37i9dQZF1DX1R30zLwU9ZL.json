@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 23441,
+  "2024-03-11": 23443,
   "date_first_scraped": "2023-03-02",
   "description": "Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix. ",
   "name": "Freeridge Official Playlist",
@@ -701,7 +701,7 @@
     {
       "album": {
         "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+        "url": "https://open.spotify.com/album/4UPS9xWe3D9WkyR8rcZe8v"
       },
       "artists": [
         {
@@ -716,6 +716,28 @@
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/2CyhpAB516q2OaNwcmTHyC"
+    },
+    {
+      "album": {
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-10",
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"

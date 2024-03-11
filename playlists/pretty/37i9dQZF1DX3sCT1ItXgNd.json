@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Omar Montes, Abraham Mateo",
-  "num_followers": 975301,
+  "num_followers": 975320,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmVjOTgxYWYxODE0ZTUyZGEzMjAzOWMwMzZmZjkxOTA2MTRhMjM1",
+  "snapshot_id": "MCwxOTg0MDQ3ZGU0MmY3ZDkzZmZhNmRhODYzZmY0NGE0MGYzOWE5MzFk",
   "tracks": [
     {
       "added_at": "2024-03-07 23:01:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 222550,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
         "name": "Palabra Prohibida",
         "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 211127,
       "name": "COMO YO TE QUIERO (DELUXE)",
       "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 222550,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -735,22 +735,18 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Te conozco desde siempre",
-        "url": "https://open.spotify.com/album/0VVKagAo5uNYBZP68lVHbW"
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/3ZSEujqEgBhdkqTLtH3Izs"
       },
       "artists": [
         {
-          "name": "Bombai",
-          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
-        },
-        {
-          "name": "Paula Mattheus",
-          "url": "https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR"
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 172737,
-      "name": "Te conozco desde siempre",
-      "url": "https://open.spotify.com/track/0mPFXn6ZBitDfpb6X1JiWF"
+      "duration_ms": 164771,
+      "name": "Gigante",
+      "url": "https://open.spotify.com/track/0wGjhr72nOAN4UHTTtEEVA"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -775,34 +771,38 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/3ZSEujqEgBhdkqTLtH3Izs"
+        "name": "Te conozco desde siempre",
+        "url": "https://open.spotify.com/album/0VVKagAo5uNYBZP68lVHbW"
       },
       "artists": [
         {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+          "name": "Bombai",
+          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
+        },
+        {
+          "name": "Paula Mattheus",
+          "url": "https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR"
         }
       ],
-      "duration_ms": 164771,
-      "name": "Gigante",
-      "url": "https://open.spotify.com/track/0wGjhr72nOAN4UHTTtEEVA"
+      "duration_ms": 172737,
+      "name": "Te conozco desde siempre",
+      "url": "https://open.spotify.com/track/0mPFXn6ZBitDfpb6X1JiWF"
     },
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "La Balada",
-        "url": "https://open.spotify.com/album/3TDvcjRcNio7vXFUTVNgPZ"
+        "name": "Polonia",
+        "url": "https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ"
       },
       "artists": [
         {
-          "name": "Chema Rivas",
-          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
         }
       ],
-      "duration_ms": 225750,
-      "name": "La Balada",
-      "url": "https://open.spotify.com/track/2fEkjxvVZi37s7E80sOwfT"
+      "duration_ms": 165267,
+      "name": "Polonia",
+      "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -823,26 +823,18 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Frenes\u00ed",
-        "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
+        "name": "La Balada",
+        "url": "https://open.spotify.com/album/3TDvcjRcNio7vXFUTVNgPZ"
       },
       "artists": [
         {
-          "name": "Danny Romero",
-          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
-        },
-        {
-          "name": "Fabbio",
-          "url": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4"
-        },
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
         }
       ],
-      "duration_ms": 204492,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
+      "duration_ms": 225750,
+      "name": "La Balada",
+      "url": "https://open.spotify.com/track/2fEkjxvVZi37s7E80sOwfT"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -867,18 +859,26 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Polonia",
-        "url": "https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ"
+        "name": "Frenes\u00ed",
+        "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
       },
       "artists": [
         {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+          "name": "Danny Romero",
+          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
+        },
+        {
+          "name": "Fabbio",
+          "url": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
         }
       ],
-      "duration_ms": 165267,
-      "name": "Polonia",
-      "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
+      "duration_ms": 204492,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
     },
     {
       "added_at": "2024-03-07 23:01:00",

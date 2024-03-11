@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-678 songs - 1 day 17 hr 36 min
+679 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [I Should Have Known Better \- Mono / Remastered 2001](https://open.spotify.com/track/1LzqCMbpcz5edctDsq45pR) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Beach Boys Party! \(Remastered\)](https://open.spotify.com/album/0TfICuUVNoaytFJ7oahGO2) | 1:40 | 2022-04-29 | 2023-09-26 |
 | [I Touch Myself \- Live in NYC](https://open.spotify.com/track/7aJEEuTo97fpMSiFPsbbSA) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Spotify Sessions](https://open.spotify.com/album/5Y0CjOQAbTBEx131DYLJs5) | 4:33 | 2022-02-11 | 2022-02-18 |
 | [I Try](https://open.spotify.com/track/7Irvj5Fb079b3efPypVShO) | [Karizma Duo](https://open.spotify.com/artist/4AG4GdKn7FmC3EPk8m6dxg) | [Acoustic 80s and 90s Covers](https://open.spotify.com/album/1byy5XYlIUUcBfW8G9PY23) | 3:56 | 2021-10-20 | 2022-07-29 |
+| [I Wanna Dance With Somebody](https://open.spotify.com/track/2G4u3UrPJdJzxIBaHFN5AC) | [Matt Alber](https://open.spotify.com/artist/3v2p34eAq6fINTEyJ1w2vK) | [I Wanna Dance With Somebody](https://open.spotify.com/album/13hU1yDQOLqMdmFhuIrcW4) | 4:13 | 2023-10-23 |  |
 | [I Wanna Dance With Somebody](https://open.spotify.com/track/1oKk34AkV6CxhaXHgZHduM) | [Matt Alber](https://open.spotify.com/artist/3v2p34eAq6fINTEyJ1w2vK), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Acoustic Covers: The Album](https://open.spotify.com/album/2YavnI3XojV5n6kWYFo4L6) | 4:09 | 2021-10-20 | 2022-07-29 |
 | [I Wanna Dance with Somebody](https://open.spotify.com/track/2wpebYFWzZ06RNYkOZgw6x) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [I Wanna Dance with Somebody](https://open.spotify.com/album/0KZXzOjVz4fFGwhu0zdvZ2) | 4:16 | 2021-10-20 |  |
 | [I Wanna Dance with Somebody](https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY) | [Rachel Brown](https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE) | [The Band](https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0) | 3:39 | 2021-10-20 |  |
@@ -634,7 +635,7 @@
 | [White Flag](https://open.spotify.com/track/5YQdjvqe9fCrrkbU6BPtjQ) | [Ryan Corn](https://open.spotify.com/artist/6HOBJhMPSZxZEsfTcSPD0m) | [White Flag](https://open.spotify.com/album/4RgtpOkCDxykmCR9KyLCjG) | 3:31 | 2021-10-20 | 2022-07-29 |
 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 | 2021-10-20 |  |
 | [Why Georgia \(RAWsession\) \[originally by John Mayer\]](https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [Jess Delgado RAWsession \- 5.25.10](https://open.spotify.com/album/0ECa20b3UM57SWWLc9MTLV) | 4:26 | 2021-10-20 | 2022-07-29 |
-| [Why Georgia \- RAWsession](https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [RAWsession \- 5.25.10](https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP) | 4:26 | 2022-06-10 |  |
+| [Why Georgia \- RAWsession](https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [RAWsession \- 5.25.10](https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP) | 4:26 | 2022-06-10 | 2024-03-11 |
 | [Wichita Lineman](https://open.spotify.com/track/5MbBh3SOR5DQOgmKgIXCTb) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Wichita Lineman](https://open.spotify.com/album/34y6ahezJ2avjLIAZ91ST7) | 3:14 | 2022-06-10 | 2022-07-27 |
 | [Wicked Game](https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Gun Shy](https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6) | 4:11 | 2022-06-10 |  |
 | [Wicked Game \(Electric Deluxe Session\)](https://open.spotify.com/track/69UihJzTCLwaNHvJZcinB8) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Wicked Game \(Electric Deluxe Session\)](https://open.spotify.com/album/5mF4WnKgIDfL1LpuBunkWn) | 4:46 | 2023-08-04 |  |

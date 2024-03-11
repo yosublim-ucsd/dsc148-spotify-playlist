@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,895 likes - 118 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,911 likes - 118 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 92 | [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 |
 | 93 | [let it burn](https://open.spotify.com/track/3ujIVVDn51IOKmUx9W4GKw) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [let it burn](https://open.spotify.com/album/6JaAd7cOMfHNeAhuKwWvrs) | 3:04 |
 | 94 | [reflection](https://open.spotify.com/track/2gVH2Nq1DJGi6UYy4fthAD) | [IMAN](https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e) | [reflection](https://open.spotify.com/album/4whH5aA1qwr25lY2UuhfWk) | 3:23 |
-| 95 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 |
+| 95 | [JOY \(Life Goes On\)](https://open.spotify.com/track/3xUbmStWnQjHAfot43uLbl) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Where I'm Meant To Be \(Deluxe Edition\)](https://open.spotify.com/album/6IUfw3LGKbOaKGGEMJQDMd) | 3:41 |
 | 96 | [news](https://open.spotify.com/track/5AATaBvPvVwJ477t3883bE) | [sweepy](https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P) | [NEWS](https://open.spotify.com/album/6EqRUPFcV0BfQohl7VWus3) | 1:25 |
 | 97 | [Get Back Up \(feat\. Fridayy\)](https://open.spotify.com/track/5TOUaxJ6DVUYAA1OivsH1v) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Get Back Up \(feat\. Fridayy\)](https://open.spotify.com/album/03FVqPZIjsv02LISaEBP29) | 2:28 |
 | 98 | [Kanske blir bäst](https://open.spotify.com/track/5vxayeeeiAijEdv4MGlJRT) | [STRøM](https://open.spotify.com/artist/0ZxQA85NuvdHxrcjGbkHKt), [JIEF](https://open.spotify.com/artist/0UOGtCsP2Y4nv8vO30cBfs) | [Kanske blir bäst](https://open.spotify.com/album/7oCY86ttQwUI6nzzTGOfHA) | 3:19 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 117 | [När ett hjärta gråter](https://open.spotify.com/track/5HZRnyC6UmG9VFoBfGQF0G) | [Donnez](https://open.spotify.com/artist/4rMk4gSVtsxoOb7NPwF6hA) | [När ett hjärta gråter](https://open.spotify.com/album/4yY9LcSLU9ukHp0eQE9dgj) | 3:09 |
 | 118 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 |
 
-Snapshot ID: `MCw4M2I2ZWE3ZWYzMjFmZDVmNDJlNWRmMzU1NGI4OTc0Mjk5N2UyNjk5`
+Snapshot ID: `MCxmNTkxYjg4MTI2NjZlYzVkYzAyNzA3MjkzYjIwZGUyMTRlNzFhYjhl`

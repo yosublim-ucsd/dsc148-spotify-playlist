@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,129 likes - 70 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,147 likes - 70 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 69 | [Starlight](https://open.spotify.com/track/0KOf5jmkQkCudX434vaMlq) | [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX) | [Starlight](https://open.spotify.com/album/01jiI42ZCqSIlnGwGIia8Y) | 7:20 |
 | 70 | [Holi](https://open.spotify.com/track/0KPRVpZipfBa416bU01fTp) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Niki4](https://open.spotify.com/artist/3ZIPK1vx39AtBHleH80CzV) | [Holi EP](https://open.spotify.com/album/3MaaYmcDVNUw3jKTRAx5nE) | 6:45 |
 
-Snapshot ID: `MCxhMjAzMTIzZTc2NDJkNmFhM2JmMGVhZTU5MjUzODgzMjY3ZjUyYTNk`
+Snapshot ID: `MCw1ZDQ0MTBjN2ZiZGNmNWQ2YmRjMjA1NjA0N2Q5MWRlNGFmM2Q5NjQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: magicHour
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,651 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,685 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 34 | [アクトレス](https://open.spotify.com/track/63OcxkxY055VQZIsUODz3a) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/0rBEgMduJWpRUxqJ58miU3) | 4:53 |
 | 35 | [カゲロウ](https://open.spotify.com/track/5KfTpP3h0EoHHCn4CVWKNX) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [カゲロウ](https://open.spotify.com/album/1vpZgqS9Z8OAfWPDacpZDD) | 4:14 |
 | 36 | [Cooen](https://open.spotify.com/track/1mAl9vXJ2Y98ZC2M9NjRkL) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Garage](https://open.spotify.com/album/1KEKsRBbyD1aRchr3M82E0) | 4:14 |
-| 37 | [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 |
+| 37 | [Prepare Yourself!](https://open.spotify.com/track/0vBPojhtgWvIZORtXr0Nl4) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 3:54 |
 | 38 | [Deep blue](https://open.spotify.com/track/23TTaxMTqaw5WxjKDSqhNz) | [the Sheep Beam](https://open.spotify.com/artist/1LVCYP6CnLCX1LEkq2A1Yp) | [Deep blue](https://open.spotify.com/album/59I14KpXCkcn5NshQrKBjC) | 4:32 |
 | 39 | [choose me \- RE: i\-dep ver.](https://open.spotify.com/track/0R2Iie16VglcSk6cXeZ41N) | [i\-dep](https://open.spotify.com/artist/1s0PMSVk5LQQshjbyYjsIr) | [choose me \(RE: i\-dep ver.\)](https://open.spotify.com/album/1qSDX5wHcO4BkDKjShvdx3) | 4:03 |
 | 40 | [こだま](https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [こだま](https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [harumau sora](https://open.spotify.com/track/3wtc2pGSSDLAF2deTXeDQV) | [Karin](https://open.spotify.com/artist/2NMVmmT0al17xSOnWO1J1M) | [harumau sora](https://open.spotify.com/album/0S3GvKqRnwHvYLDBnQrVt1) | 5:10 |
 | 80 | [胎盤 \-Waterbird Habitat\-](https://open.spotify.com/track/0hYBCjw2jA7KpDKABLzqJN) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [あなたの骨が、オパールにかわる頃](https://open.spotify.com/album/4tYdfajjjVCRxPWGZSnSOY) | 3:41 |
 
-Snapshot ID: `MCwzZDZkYTk5YTBiNTEzMDY5NmJmMWNjYjQ0YjE1ZTQ3ODIwYTU1OWQ1`
+Snapshot ID: `MCxmZDczODc0YmIyOTQzZDU5ZDkzNWI2YzExNTE1NjEyNzFkZGViMzFh`

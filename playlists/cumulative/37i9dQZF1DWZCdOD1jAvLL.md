@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Don Diablo & Major Lazer
 
-654 songs - 1 day 11 hr 57 min
+655 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Hov](https://open.spotify.com/track/0TyAdWCeWxjOy4ve1AajDl) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [100m's](https://open.spotify.com/artist/3DqGUfCidr1acIyds7GWxl) | [Hov](https://open.spotify.com/album/4XJojTas5NZRk04xXbVZBc) | 2:31 | 2022-02-25 | 2022-04-02 |
 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 | 2022-09-03 |
 | [How We Do](https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [How We Do](https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw) | 3:07 | 2022-02-18 | 2022-06-25 |
-| [Human](https://open.spotify.com/track/04zVcQYcV9iPQVsQVVDkKD) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Human](https://open.spotify.com/album/1jRulCRI6kVDGpQ5OC9uN6) | 4:00 | 2023-09-29 |  |
+| [Human](https://open.spotify.com/track/04zVcQYcV9iPQVsQVVDkKD) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Human](https://open.spotify.com/album/1jRulCRI6kVDGpQ5OC9uN6) | 4:00 | 2023-09-29 | 2024-03-11 |
 | [Human](https://open.spotify.com/track/5i9khhoOkeogB49q54KOIz) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Machine Made](https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB) | [Human](https://open.spotify.com/album/7brW7G3kHHkhr3eu838HhH) | 4:05 | 2023-09-01 | 2023-11-18 |
 | [Human League](https://open.spotify.com/track/23urM0HEdculuZPJyhImwB) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Human League](https://open.spotify.com/album/3JSeeVJd5spZaA1o63WKj7) | 4:11 | 2022-01-14 | 2022-01-29 |
 | [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2022-12-02 | 2023-04-18 |
@@ -454,6 +454,7 @@
 | [Paper Moon](https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [ARE WE DREAMING](https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa) | [HOLLOW WORLD](https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719) | 3:45 | 2023-09-01 | 2023-11-18 |
 | [PARADISE](https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PARADISE](https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ) | 2:43 | 2024-02-16 |  |
 | [Paradise](https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [OMEM](https://open.spotify.com/artist/6PEbhxAoBVdvwWFGwDmfoN) | [Paradise](https://open.spotify.com/album/6TUnvAYhgmJs2G8MuoQ3eb) | 2:54 | 2022-01-14 | 2022-01-22 |
+| [Paranoid](https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Paranoid](https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp) | 2:54 | 2024-03-08 |  |
 | [Party All Night](https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Chi City](https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF) | [Supah Fly](https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0) | 2:25 | 2022-11-18 | 2023-09-24 |
 | [Party Crashers](https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Party Crashers](https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l) | 2:35 | 2023-09-01 |  |
 | [Party Diva](https://open.spotify.com/track/5n7zRKeW16p5o42sasOmah) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Party Diva](https://open.spotify.com/album/4vVbfW76h5gKz396zd5CMR) | 3:12 | 2022-09-23 | 2022-10-29 |

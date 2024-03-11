@@ -1489,6 +1489,28 @@
     },
     {
       "album": {
+        "name": "Love Loud",
+        "url": "https://open.spotify.com/album/7ofobncYCierBbrI0Gmo5x"
+      },
+      "artists": [
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        },
+        {
+          "name": "Ciaran McAuley presents El\u00ef",
+          "url": "https://open.spotify.com/artist/0mD8WnekMqwZfNT3s5CwCp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Love Loud",
+      "url": "https://open.spotify.com/track/3DGlzGu8B8YE0Eklb4QIdG"
+    },
+    {
+      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/5zgVbEqb773OX6liiiZ7Ap"
       },
@@ -1558,7 +1580,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 229248,
       "name": "Maybe, It's Possible",
       "url": "https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe"

@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 298304,
+  "2024-03-11": 298340,
   "date_first_scraped": "2022-11-08",
   "description": "The 100 greatest FIFA tracks of all time",
   "name": "Ultimate FIFA Soundtrack",
@@ -1561,7 +1561,7 @@
     {
       "album": {
         "name": "Idealism",
-        "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
+        "url": "https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM"
       },
       "artists": [
         {
@@ -1572,6 +1572,24 @@
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L"
+    },
+    {
+      "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-10",
       "duration_ms": 226466,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ"

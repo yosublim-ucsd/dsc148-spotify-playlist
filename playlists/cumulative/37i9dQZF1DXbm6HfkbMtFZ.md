@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-547 songs - 1 day 8 hr 53 min
+548 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Back to the Future \(Part I\)](https://open.spotify.com/track/6hAFh200VpVUPg1P14oaJr) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:22 | 2022-03-30 | 2022-04-17 |
 | [Bad Bad News](https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Bet Ain't Worth the Hand / Bad Bad News](https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7) | 3:27 | 2022-03-30 | 2022-04-17 |
 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 | 2022-07-26 | 2023-02-14 |
+| [Base Camp](https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf) | 3:25 | 2024-03-07 |  |
 | [Be Thankful for What You've Got \- David Todd Remix](https://open.spotify.com/track/5ndGYGQJGv1hbpTKD6gzLZ) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/171sgXlr8rxJFQhsbJFrQP) | 6:54 | 2021-12-16 | 2022-08-11 |
 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 | 2021-12-16 |  |
 | [Beatin’ tha Breaks \- Freddie Joachim Remix](https://open.spotify.com/track/4pL8MP37x4cMmXk6Tcn1dS) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [Future Disco: Beach Life](https://open.spotify.com/album/7BQpUHRGyTvl6q5gOj0vAz) | 4:08 | 2021-12-16 | 2022-07-01 |
@@ -475,7 +476,7 @@
 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 | 2023-12-07 |  |
 | [The Rain Song](https://open.spotify.com/track/4cpEjk1FaYNiv5jrUMQuaH) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [Midnight Movement / The Rain Song](https://open.spotify.com/album/7BG7bh5EW2SwKOyBkKd7ho) | 3:52 | 2021-12-16 | 2022-07-29 |
 | [The Smoke](https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 3:39 | 2023-12-07 |  |
-| [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 | 2023-06-20 |  |
+| [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 | 2023-06-20 | 2024-03-11 |
 | [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 | 2021-12-16 |  |
 | [The Weight Is Gone](https://open.spotify.com/track/1wYlzUVWctxU8taZ5OjCzM) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [The Weight is Gone](https://open.spotify.com/album/6nrByBETfiav5wLAcUCybG) | 3:32 | 2022-03-30 | 2022-04-20 |
 | [Think I'm In Love](https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [The Information](https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF) | 3:19 | 2022-03-30 |  |

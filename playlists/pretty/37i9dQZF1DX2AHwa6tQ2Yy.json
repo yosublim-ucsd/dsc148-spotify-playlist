@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 46793,
+  "num_followers": 46804,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzVlNDczYWM3ZTZiY2FhMWVjYjVlOWI2ZWEyMzljNzY4YjE1ZGFh",
+  "snapshot_id": "MCxhNzI5MDc5NGZhOTVjOTVjMWUxY2I4NTYxZmU1OTI0ZGIxODRjMDNj",
   "tracks": [
     {
       "added_at": "2024-02-29 15:26:04",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-02-29 15:26:04",
       "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Finding Peace",
+      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
+    },
+    {
+      "added_at": "2024-02-29 15:26:04",
+      "album": {
         "name": "Alone Together (feat. Keyon Harrold)",
         "url": "https://open.spotify.com/album/0k3H2zaKbA51uJtMR6JymR"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-02-29 15:26:04",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Finding Peace",
-      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
-    },
-    {
-      "added_at": "2024-02-29 15:26:04",
-      "album": {
         "name": "Something To Feel",
         "url": "https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-29 15:26:04",
       "album": {
-        "name": "I Chose Good",
-        "url": "https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS"
-      },
-      "artists": [
-        {
-          "name": "Guy Sebastian",
-          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
-        }
-      ],
-      "duration_ms": 163914,
-      "name": "I Chose Good",
-      "url": "https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag"
-    },
-    {
-      "added_at": "2024-02-29 15:26:04",
-      "album": {
         "name": "LOVE is WAR, Volume 6",
         "url": "https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 230103,
       "name": "ViBRATiON",
       "url": "https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR"
+    },
+    {
+      "added_at": "2024-02-29 15:26:04",
+      "album": {
+        "name": "I Chose Good",
+        "url": "https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS"
+      },
+      "artists": [
+        {
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+        }
+      ],
+      "duration_ms": 163914,
+      "name": "I Chose Good",
+      "url": "https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag"
     },
     {
       "added_at": "2024-02-29 15:26:04",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-02-29 15:26:04",
       "album": {
-        "name": "TMF",
-        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 211283,
-      "name": "TMF",
-      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
-    },
-    {
-      "added_at": "2024-02-29 15:26:04",
-      "album": {
         "name": "I Won't Let You Down",
         "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 244200,
       "name": "I Won't Let You Down",
       "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
+    },
+    {
+      "added_at": "2024-02-29 15:26:04",
+      "album": {
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 211283,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
       "added_at": "2024-02-29 15:26:04",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-02-29 15:26:04",
       "album": {
-        "name": "No Apologies 1.9 V2_demo",
-        "url": "https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS"
+        "name": "Chronicles of a Diamond",
+        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
       },
       "artists": [
         {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 127329,
-      "name": "No Apologies 1.9 V2_demo",
-      "url": "https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1"
+      "duration_ms": 305160,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6"
     }
   ],
   "unique_name": "Soulful",

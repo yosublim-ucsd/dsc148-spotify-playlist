@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,460 likes - 150 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,498 likes - 150 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 149 | [Ain't Nothing Wrong with That](https://open.spotify.com/track/4a8mshDjwAIwNcgDvCtMMa) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Colorblind \(U.S\. Version\)](https://open.spotify.com/album/7lsD2fAcYKfTe4FKbeZIbj) | 3:30 |
 | 150 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 |
 
-Snapshot ID: `MCxmODU5ODFjM2MxOGI0OTRiZGRkMGMzYTJiYzQxMGM3ZjUxM2JlNjdl`
+Snapshot ID: `MCw1M2M2MTc4ZGI0ODU5Yzc1MzFhNDM0NWI1ZGU1OWVjNDY3MWFmNzRl`

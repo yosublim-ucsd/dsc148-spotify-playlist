@@ -4,7 +4,7 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-106 songs - 4 hr 44 min
+107 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,8 +107,9 @@
 | [Twist à Saint\-Tropez](https://open.spotify.com/track/5zUJlRQyzxw09Jv1hDgL5h) | [Les Chats Sauvages](https://open.spotify.com/artist/60U5Nsvpj5mJics5PcIkmd), [Dick Rivers](https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR) | [Est\-ce que tu le sais ? \(avec Dick Rivers\)](https://open.spotify.com/album/2eusU9U7fLiHhsQwoiFiou) | 1:44 | 2021-07-26 |  |
 | [Un verre de whisky](https://open.spotify.com/track/6mWJLNSVLNJDa2f0Quqa3X) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Les années 60, Vol\. 2](https://open.spotify.com/album/7psc0MrG0TGTKXwSTsjRom) | 2:11 | 2022-06-28 | 2023-09-30 |
 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 | 2021-07-26 |  |
-| [Viens danser le twist](https://open.spotify.com/track/5QLZEGOnjRYhqjAii9JAaP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:04 | 2022-06-28 |  |
+| [Viens danser le twist](https://open.spotify.com/track/5QLZEGOnjRYhqjAii9JAaP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:04 | 2022-06-28 | 2024-03-11 |
 | [Viens danser le twist](https://open.spotify.com/track/0CibYO3SSIBM8skoXwHKpr) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Viens danser le Twist \(Stéréo\)](https://open.spotify.com/album/6FFZtB7pXVbL13lxNH1VQA) | 2:06 | 2021-07-26 | 2022-07-29 |
+| [Viens danser le twist](https://open.spotify.com/track/1SQe9OHaDTwvk2s6IcwoMM) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Viens danser le Twist \(Stéréo\)](https://open.spotify.com/album/1rNd7SNM2PtfXR3yz9lYjD) | 2:06 | 2022-06-28 |  |
 | [Vous les copains](https://open.spotify.com/track/0iBuBfrOhxRgOWS0OS5GfP) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Écoute ce disque](https://open.spotify.com/album/7bpj2WDFw6pukdOPDEbFwp) | 2:13 | 2021-07-26 |  |
 | [Vous permettez Monsieur](https://open.spotify.com/track/7ooXNiHvxOaVJ8Bfb4hnic) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Les N°1](https://open.spotify.com/album/1LL8Bpuu24eNeOyxqAUFSd) | 2:56 | 2021-07-26 | 2022-07-29 |
 | [Vous permettez, monsieur ?](https://open.spotify.com/track/1zuKBLFQF8xlBcA8VrN3LU) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Le disque d'or \(Remastered\)](https://open.spotify.com/album/5W64Efp3Z9rSRRgCncuRRV) | 3:02 | 2022-06-28 | 2022-11-13 |

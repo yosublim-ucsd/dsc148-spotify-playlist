@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 131704,
+  "2024-03-11": 131755,
   "date_first_scraped": "2023-12-19",
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
   "name": "Ruta 2",
@@ -162,7 +162,7 @@
     },
     {
       "album": {
-        "name": "As\u00ed Es el Calor (feat. Andr\u00e9s Calamaro)",
+        "name": "As\u00ed Es el Calor",
         "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
       },
       "artists": [
@@ -173,17 +173,13 @@
         {
           "name": "El Zar",
           "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180017,
-      "name": "As\u00ed Es el Calor (feat. Andr\u00e9s Calamaro)",
+      "name": "As\u00ed Es el Calor",
       "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
     },
     {
@@ -1103,7 +1099,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 261626,
       "name": "La parte de adelante",
       "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
@@ -1999,7 +1995,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"

@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 148166,
+  "2024-03-11": 148249,
   "date_first_scraped": "2022-01-02",
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
   "name": "Nashville Stripped",
@@ -165,6 +165,24 @@
       "duration_ms": 153249,
       "name": "Again - Stripped Bare",
       "url": "https://open.spotify.com/track/1bhOH57HFef45IWSAcqC6G"
+    },
+    {
+      "album": {
+        "name": "Live From Echo Mountain",
+        "url": "https://open.spotify.com/album/1bALhDEJ1lpNzqbhiObQim"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233442,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/1EnisnWLM0Zaoshg2zuoMl"
     },
     {
       "album": {
@@ -933,7 +951,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 171320,
       "name": "Creek Will Rise - Acoustic",
       "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"

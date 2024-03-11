@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 広瀬香美 ■小沢健二の「LIFE」がヒット ■「すったもんだがありました」（宮沢りえ）、「イチロー \(効果\)」、「同情するならカネをくれ」（安達祐実）が新語・流行語大賞の年間大賞 ■ ジュリアナ東京閉店。 ■「プレイステーション」発売。■ 映画「ショーシャンクの空に」が世界的ヒット
 
-99 songs - 7 hr 44 min
+100 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 | 2023-07-22 |  |
 | [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 5:22 | 2023-07-22 |  |
 | [Rocks](https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Give Out But Don't Give Up](https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8) | 3:37 | 2023-07-22 |  |
-| [ROSIER](https://open.spotify.com/track/5zDJTh29etPW72SpGNEQfx) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [MOTHER](https://open.spotify.com/album/3SyCeupAce56jzn0GjG5gM) | 5:23 | 2023-07-22 |  |
+| [ROSIER](https://open.spotify.com/track/5zDJTh29etPW72SpGNEQfx) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [MOTHER](https://open.spotify.com/album/3SyCeupAce56jzn0GjG5gM) | 5:23 | 2023-07-22 | 2024-03-11 |
 | [Rusty Nail](https://open.spotify.com/track/5GJGFjDSTKqixsHGmfcrhV) | [X JAPAN](https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx) | [X JAPAN \(MOVIES SELECTION\)](https://open.spotify.com/album/4bHVX99Zj7lPJZpC1H3PRl) | 5:25 | 2023-07-22 |  |
 | [Secret](https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 5:04 | 2023-07-22 |  |
 | [SPY \- 2012 Remaster](https://open.spotify.com/track/3qUIWZNchXShb7z0QDkVPs) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [PHARMACY \(2012 Remaster\)](https://open.spotify.com/album/4k9cR7taLPTl0TOd4bvVc8) | 4:36 | 2023-07-22 |  |
@@ -105,6 +105,7 @@
 | [歩いて帰ろう](https://open.spotify.com/track/0Yhwo0vxoHNVww5i1Y6cGU) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [ワンダフルフィッシュ](https://open.spotify.com/album/14ffIxtvMWUNqFqf8E9dgT) | 3:32 | 2023-07-22 |  |
 | [永遠のパズル](https://open.spotify.com/track/5jF9NDUA9oqNOt8RJmlno0) | [Izumi Tachibana](https://open.spotify.com/artist/3LYoUr0rRFurqwRzFvnk2p) | [こぼれおちるもの](https://open.spotify.com/album/09Br63RpOEmbS1M2sLvayM) | 5:03 | 2023-07-22 |  |
 | [渋谷で5時\(Romantic Single Version\)](https://open.spotify.com/track/3OFmJeYeDymWktj369dnDv) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [違う、そうじゃない/渋谷で5時 〜Romantic Single Version〜](https://open.spotify.com/album/1BjKUZnYBDOR3aPwAzxjQE) | 4:23 | 2023-07-22 |  |
+| [瞳そらさないで](https://open.spotify.com/track/71yk8y7zQp7kU036K3W9wa) | [DEEN](https://open.spotify.com/artist/1Tg3cYxIGONHrwVagR1QlG) | [瞳そらさないで](https://open.spotify.com/album/7HoGU5ziUFjdDBR1JwvZRs) | 4:42 | 2024-03-10 |  |
 | [祭りのあと](https://open.spotify.com/track/2bVWhLQUl70vdpIu3nvSFJ) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [TOP OF THE POPS](https://open.spotify.com/album/0Hi41ccpXRu4Httjo6O83v) | 4:51 | 2023-07-22 |  |
 | [空と君のあいだに](https://open.spotify.com/track/29NdfvdZu1eymPW07pmpAd) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [空と君のあいだに/ファイト!](https://open.spotify.com/album/3OvwrlUZdeJJua1fNRIZDT) | 5:35 | 2023-07-22 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,805 likes - 51 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,809 likes - 51 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 40 | [Twerk](https://open.spotify.com/track/1iHneRZXPvuNGBJCC32dPR) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Matrix](https://open.spotify.com/album/7HMJeHkmIyCxRSHotWeJ2K) | 1:55 |
 | 41 | [Romance de Novela](https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:08 |
 | 42 | [Fanfic](https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Fanfic](https://open.spotify.com/album/3NkH1qv483kYFZRTilS6IC) | 2:44 |
-| 43 | [G5](https://open.spotify.com/track/0EReA9hlAx4GmiNZzJMG1P) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Enzo from the Block](https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3) | [Zzz, Vol\. 2](https://open.spotify.com/album/5qg05BeqESDoMFCYZl3Od0) | 2:11 |
+| 43 | [G5](https://open.spotify.com/track/3Yg4nn1ECtptmQfniWAOn2) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Enzo from the Block](https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3) | [Zzz, Vol\. 2](https://open.spotify.com/album/51kX2muIvK8Z8I8mb9H1Y6) | 2:11 |
 | 44 | [Só Quero Paz](https://open.spotify.com/track/6ha0SNOb0eUgdMdTiArK5D) | [Mingas The Teen](https://open.spotify.com/artist/6mcBDsPPbdnR64MTjkMRlm), [Ph](https://open.spotify.com/artist/6c0iWNjEIdiKn1lxdIAFwK), [SHYY BEATS](https://open.spotify.com/artist/0DPr6TVQvHfTEMnW5j1dtE) | [Só Quero Paz](https://open.spotify.com/album/62TCz9CO7BJILiQgJzqKo2) | 2:15 |
 | 45 | [Naipe Vagabundo](https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Naipe Vagabundo](https://open.spotify.com/album/2EBo00f8mLpLWtZHdlaATT) | 2:16 |
 | 46 | [Momentâneo](https://open.spotify.com/track/7LnQQ9mdAz9KvbA4mGOwdm) | [tocha mc](https://open.spotify.com/artist/5Q7xswJypfPZvBjRMc0mW3), [NóizProd](https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ), [Young San](https://open.spotify.com/artist/5wMAlBMvbJBVF6fkwJ4BBb) | [Momentâneo](https://open.spotify.com/album/1ZZSiw9bzU1WZ9syPzVcJa) | 2:42 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 50 | [Drink Azul](https://open.spotify.com/track/7lmt01rNRrfzWCfzKQI4oS) | [Barcellos](https://open.spotify.com/artist/3P7RXjD1Ak6IETrHzuRk8P), [Sávio Pires](https://open.spotify.com/artist/05DQcsp8yVtc4vUhGEVggd) | [TROPICALBOYS vol.1](https://open.spotify.com/album/6TfKdNpeU0zAO9FXN4XzJ2) | 2:48 |
 | 51 | [Club](https://open.spotify.com/track/3rV9lzOTFC6YPnLO8zu7MY) | [PB999](https://open.spotify.com/artist/4EPlOOPkq9xBAwQWV3ibom), [mekesu](https://open.spotify.com/artist/5Jz8VtL4TocWu1LzGrDr3z) | [Club](https://open.spotify.com/album/3NXtqHHDsZPWBzSI22foTn) | 1:49 |
 
-Snapshot ID: `MCxmZDRjMmU3NjRjZGJjZWY3NjEwNzFkMzJhNjM5ZjE4Njg5NjZjNGYw`
+Snapshot ID: `MCwwY2FiOGFmMzk1MWIxZmUyODU4MGY4YTc1ODcwYmVlZmJmNWMwNTJh`

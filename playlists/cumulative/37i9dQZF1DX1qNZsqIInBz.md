@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-200 songs - 8 hr 56 min
+201 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Beat Mágico Que Mexe Com a Sua Mente \- Slowed](https://open.spotify.com/track/2gUNdKtSKZF4JlYvPkwW9Q) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [Beat Mágico Que Mexe Com a Sua Mente](https://open.spotify.com/album/43zFYKD9jD4bcrPx5NaaBp) | 3:01 | 2023-06-16 | 2023-08-11 |
 | [Beat Mágico Que Mexe Com a Sua Mente \- Slowed](https://open.spotify.com/track/0P9QYHt9rMj7fLgYPC7til) | [KlaizeeXD](https://open.spotify.com/artist/0TLjMY8T4eHJ2HB7rc38e0), [uruz](https://open.spotify.com/artist/6SDPgl2EpwuZ1teHe7mTpH) | [Beat Mágico Que Mexe Com a Sua Mente \- Slowed](https://open.spotify.com/album/0BGWDHOJbbUsJbwNIjxzXG) | 3:02 | 2023-06-16 | 2023-08-17 |
 | [Before End](https://open.spotify.com/track/2IYDMilyoTEDXMiz2Uxb1P) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Before End](https://open.spotify.com/album/0FLuJwdZPZ5wbUbYzyfJvj) | 2:30 | 2023-01-20 | 2023-06-10 |
-| [Black Road](https://open.spotify.com/track/1sNsATLRBh2hFIcBm6dSQd) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Black Road](https://open.spotify.com/album/0AdPyiohHcRY1DxxBIkoJC) | 3:05 | 2023-03-10 |  |
+| [Black Road](https://open.spotify.com/track/1sNsATLRBh2hFIcBm6dSQd) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Black Road](https://open.spotify.com/album/0AdPyiohHcRY1DxxBIkoJC) | 3:05 | 2023-03-10 | 2024-03-11 |
 | [Black Road](https://open.spotify.com/track/4CyrXp09zI9cJvWwDF3QZ8) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Black Road](https://open.spotify.com/album/70HBya0gUFpkwUiXCu1i6q) | 3:05 | 2022-10-10 | 2023-08-19 |
 | [BLESSED BY THE FALLEN](https://open.spotify.com/track/2B1Xx9NLZQUhU27Ssh3caZ) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP), [Puhf](https://open.spotify.com/artist/6Wg5mZaSksZatBkTApBsPj) | [BLESSED BY THE FALLEN](https://open.spotify.com/album/1fbidNqwgNIePyy9u88z5u) | 3:05 | 2023-10-13 |  |
 | [Blow With The Hoe](https://open.spotify.com/track/0coSp8V3oTqsQa9QQoNsXl) | [Falxce](https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk) | [Blow With The Hoe](https://open.spotify.com/album/6te7TxptWjXLBRk6cjAiZk) | 1:31 | 2022-10-10 | 2023-02-05 |
@@ -104,6 +104,7 @@
 | [LIGHTS XFF](https://open.spotify.com/track/1hxhlE5DUTZTcToXlCDTSk) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LIGHTS XFF](https://open.spotify.com/album/285Vwbiv1lPB5hjFHUra02) | 2:20 | 2022-10-10 | 2024-01-27 |
 | [look around](https://open.spotify.com/track/4uZVyTm6D7HdM8h4NRlieW) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [look around](https://open.spotify.com/album/7mRzNvTeo13aKg3NWPOMVY) | 2:07 | 2022-10-10 |  |
 | [Lost Generation](https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [HEARTIXE](https://open.spotify.com/artist/6Gl15cYrIWazH6VTDKCcCk) | [Lost Generation](https://open.spotify.com/album/7gztQGFnpztN5N2rR4rnwm) | 2:44 | 2022-10-10 | 2023-10-21 |
+| [lost my way.](https://open.spotify.com/track/3LDOh5ufbKc9RMu1eOzL5V) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [lost my way.](https://open.spotify.com/album/4vdFAzl8OXWKlBrnVoV8WX) | 2:06 | 2024-03-10 |  |
 | [Lost Orion](https://open.spotify.com/track/3arscwcDkbfPtFUBXVVmt6) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/1D7xOjPYBLdkSnJzkQQSGf) | 3:06 | 2023-03-10 |  |
 | [Lost Orion](https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:06 | 2022-10-10 | 2023-08-18 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-09-08 |  |

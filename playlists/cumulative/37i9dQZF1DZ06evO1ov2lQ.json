@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 304460,
       "name": "Arafura",
       "url": "https://open.spotify.com/track/2yJMu2hzbQ8MQur8HwaSVV"
@@ -544,6 +544,28 @@
       "duration_ms": 363903,
       "name": "Decryption",
       "url": "https://open.spotify.com/track/0xlN3TAg9tMkuALgL0bsno"
+    },
+    {
+      "album": {
+        "name": "Patashnik [Decrypted By Sketch]",
+        "url": "https://open.spotify.com/album/1ufomz4DidAU7QxfXkhpQE"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        },
+        {
+          "name": "Sketch",
+          "url": "https://open.spotify.com/artist/0WIvZeTr7H3B4qvY4aAKzl"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 975005,
+      "name": "Decryption - Sketch Remix 1",
+      "url": "https://open.spotify.com/track/3OhW6WrTctMrHUOjBNH2ea"
     },
     {
       "album": {
@@ -1116,7 +1138,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 398306,
       "name": "Iberia Eterea",
       "url": "https://open.spotify.com/track/64O74NcCUUafwf3wmoVisX"
@@ -1492,7 +1514,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 64178,
       "name": "La Sconsolata",
       "url": "https://open.spotify.com/track/0e3vabGuru2Y3MUv9m29Wy"

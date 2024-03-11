@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 29442,
+  "num_followers": 29457,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjViNTRhNDVjZGIzZTM0ZmJmYmI2ZjUxNDY5NDUxMDdlNTY5Yzli",
+  "snapshot_id": "MCxlOTg5ODhhMzlmNThiYmNkOGM5NGE5ODI4MzNmOTBjM2ZlNjZjNDM0",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:35",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Las Canciones de Luis Mariano",
-        "url": "https://open.spotify.com/album/1bdNIETtvmNfOHGw08CMKR"
-      },
-      "artists": [
-        {
-          "name": "Luis Mariano",
-          "url": "https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Violetas Imperiales",
-      "url": "https://open.spotify.com/track/1U9XfOxsCfuPk3J1Xak9QQ"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Sus Mejores Boleros",
         "url": "https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 176000,
       "name": "No Me Platiques M\u00e1s",
       "url": "https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Las Canciones de Luis Mariano",
+        "url": "https://open.spotify.com/album/1bdNIETtvmNfOHGw08CMKR"
+      },
+      "artists": [
+        {
+          "name": "Luis Mariano",
+          "url": "https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Violetas Imperiales",
+      "url": "https://open.spotify.com/track/1U9XfOxsCfuPk3J1Xak9QQ"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
-        "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
-      },
-      "artists": [
-        {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Recordar\u00e9 tu amor (remastered)",
-      "url": "https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Cienfuegos (Remastered)",
         "url": "https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 161782,
       "name": "El agarrao - Remastered",
       "url": "https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
+        "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
+      },
+      "artists": [
+        {
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Recordar\u00e9 tu amor (remastered)",
+      "url": "https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK"
     },
     {
       "added_at": "2023-02-17 20:56:35",

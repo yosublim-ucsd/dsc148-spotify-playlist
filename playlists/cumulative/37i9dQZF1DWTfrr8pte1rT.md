@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Marshmello \\m/
 
-381 songs - 21 hr 45 min
+382 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Behind Blue Eyes](https://open.spotify.com/track/1E7BFqr1XUEk9jB9PFFsQA) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Behind Blue Eyes](https://open.spotify.com/album/5P85sgKleHRMZj4qPQvubb) | 2:50 | 2022-04-01 | 2022-04-21 |
 | [Berserker](https://open.spotify.com/track/3kAvZ3KbdJTK8JqcoHBiRL) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Berserker](https://open.spotify.com/album/6mXaDdXuuISDjMEFHBjtnm) | 4:25 | 2021-12-10 | 2022-04-02 |
 | [Better Than Before](https://open.spotify.com/track/2TRSQ4CTkyaAGM4N9nI9ef) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6), [Vanthe](https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE) | [Better Than Before](https://open.spotify.com/album/6355ImRWAhH4xOHwuG6CWL) | 2:44 | 2022-07-08 | 2022-11-06 |
-| [Better Than Before](https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6), [Vanthe](https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE) | [Better Than Before](https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up) | 2:44 | 2022-07-08 |  |
+| [Better Than Before](https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6), [Vanthe](https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE) | [Better Than Before](https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up) | 2:44 | 2022-07-08 | 2024-03-11 |
 | [Better Than Gold](https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996), [Andrew Hellier](https://open.spotify.com/artist/5UAiCq7VKP2MrMG2RAkPl8) | [Better Than Gold](https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh) | 5:20 | 2024-01-26 |  |
 | [BITCH](https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Dichotomy](https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V) | 3:41 | 2022-05-24 | 2023-11-04 |
 | [Bitter](https://open.spotify.com/track/2qxSDSCNGnAcmYyHzjfSFP) | [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n), [REEBZ](https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t) | [Bitter](https://open.spotify.com/album/4DouZKdjc4nddOIHZxOK2n) | 4:04 | 2023-02-17 | 2023-03-26 |
@@ -52,6 +52,7 @@
 | [Bricks To The Butterfly](https://open.spotify.com/track/13vNaEHJ9272KmqFrHfCKx) | [Whyel](https://open.spotify.com/artist/49VoPmXaPH0vInz18MTeaM) | [Bricks To The Butterfly](https://open.spotify.com/album/6SrvYJ38uTmTgR3uOk3BjX) | 4:22 | 2021-12-10 | 2022-04-02 |
 | [Bruises](https://open.spotify.com/track/59OZiGqFfWmry6o9pTx8i8) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Bruises \(Destinations\)](https://open.spotify.com/album/03JxDRu3gVW98sAknhq8dq) | 3:40 | 2021-12-10 | 2022-04-02 |
 | [Brunt](https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Nosphere](https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td) | [Brunt](https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb) | 3:25 | 2023-12-15 |  |
+| [Buried Beneath You](https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Buried Beneath You](https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU) | 3:31 | 2024-03-08 |  |
 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 | 2021-12-10 |  |
 | [By Your Side](https://open.spotify.com/track/06KgkNaJPuhFTkiwsLr0xX) | [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro), [PatFromLastYear](https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro) | [By Your Side](https://open.spotify.com/album/18dw5dQmUapO6Io1q20L98) | 3:15 | 2023-12-08 |  |
 | [California](https://open.spotify.com/track/0o6V0Ij0wf7nZiTxPTiWgQ) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [California](https://open.spotify.com/album/1bwm2WcKV53zVrowa9TdPy) | 3:11 | 2022-10-14 | 2023-12-02 |

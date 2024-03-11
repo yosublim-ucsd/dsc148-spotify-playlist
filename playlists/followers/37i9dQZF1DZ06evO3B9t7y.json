@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 840231,
+  "2024-03-11": 840796,
   "date_first_scraped": "2022-06-02",
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
   "name": "This Is Carin Leon",
@@ -1032,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226488,
+      "name": "La Posible Manera - En Vivo",
+      "url": "https://open.spotify.com/track/4dKdZqYLNYQKko5z1ZU6hy"
+    },
+    {
+      "album": {
         "name": "La Tipica",
         "url": "https://open.spotify.com/album/1hPw3w27KcDVAKp6CDvdIZ"
       },
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 226339,
       "name": "Que Triste",
       "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"

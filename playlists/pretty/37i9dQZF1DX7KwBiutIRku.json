@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 88892,
+  "num_followers": 88990,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWM3YTM5NzM0YjNhZGFmMjBlMWQ4MTQzMjMyZDExMDM2M2I1OWU2",
+  "snapshot_id": "MCw1YWQ5YTQ1NGMxYTM1YmRmNDMyYTUzZjI0ZTNhNjFmNjEyMzg5ZGI1",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Spirit In The Sky (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
-      },
-      "artists": [
-        {
-          "name": "Norman Greenbaum",
-          "url": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Tars Of India - Deluxe Edition",
-      "url": "https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Vagabonds Of The Western World",
         "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 294400,
       "name": "Mama Nature Said",
       "url": "https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Spirit In The Sky (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
+      },
+      "artists": [
+        {
+          "name": "Norman Greenbaum",
+          "url": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Tars Of India - Deluxe Edition",
+      "url": "https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,766 likes - 104 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,783 likes - 104 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 103 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 104 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [ChromaJ](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCwzMThmZWZhNjU3Y2Y2ZGMwYjFmNzc3YWVhYzJkZGNmOTEzMjkwOTE3`
+Snapshot ID: `MCw2NmNjNDc3OGRkNjEwNWVjNjkwZWJhOWJjZmJkMDI0NjU4ZTFjZjQ4`

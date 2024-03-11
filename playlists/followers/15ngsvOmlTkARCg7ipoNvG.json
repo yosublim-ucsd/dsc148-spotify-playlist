@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 18959,
+  "2024-03-11": 18960,
   "date_first_scraped": "2022-10-03",
   "description": "Beautiful instrumental music to keep you in the flow as you code or study. An ideal playlist for programming during stressful times --- | program | programmer | software | software engineer | computer science | concentrate | concentration | focusing |",
   "name": "CODING FOCUS",
@@ -7807,6 +7807,42 @@
       "duration_ms": 62788,
       "name": "Dreaming Of Spring",
       "url": "https://open.spotify.com/track/1f7tweDAoR2CYvHSiC6Guq"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0UPlhRToVR1HDeaz9oQDnm"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60232,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/56ZRUAKVXkXtNg7pC0Ag85"
+    },
+    {
+      "album": {
+        "name": "Dreams (Violin Version)",
+        "url": "https://open.spotify.com/album/0Bj2EXJrPU1VC96s4oX2b0"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60232,
+      "name": "Dreams - Violin Version",
+      "url": "https://open.spotify.com/track/0BmyqOJOs8lyZusz99H6K9"
     },
     {
       "album": {

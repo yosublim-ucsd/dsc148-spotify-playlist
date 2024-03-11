@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Big Soto en portada.
 
-304 songs - 17 hr 19 min
+305 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Dangerous](https://open.spotify.com/track/5lXgD4rhegsXgu1e0B3z3l) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Dangerous](https://open.spotify.com/album/57kemSNzw4eIfcB4Txky8L) | 3:10 | 2022-11-07 | 2022-12-17 |
 | [De La Mata](https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [De La Mata](https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0) | 2:40 | 2023-12-22 |  |
 | [De Oro](https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [De Oro](https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk) | 2:47 | 2023-10-27 |  |
-| [De Por Vida](https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [DE POR VIDA](https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS) | 3:04 | 2024-03-08 |  |
+| [De Por Vida](https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [DE POR VIDA](https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS) | 3:04 | 2024-03-08 | 2024-03-11 |
+| [De Por Vida](https://open.spotify.com/track/3zWgcYQdN7dC6jj0zrHbpG) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [DE POR VIDA](https://open.spotify.com/album/5imAOsZHY1dRpPkezBf1ml) | 3:04 | 2024-03-08 |  |
 | [De Todo Un Poco](https://open.spotify.com/track/19ucvAFRVyPIf093e7ArrR) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [De Todo Un Poco](https://open.spotify.com/album/6IMPQbEBdoWF3xzKfd2NFC) | 3:15 | 2023-03-03 | 2023-12-02 |
 | [Defectos y Taras](https://open.spotify.com/track/36bpPEAwmSzy3IKDWvalmL) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ) | [Inkebrantable](https://open.spotify.com/album/2rWMEx26W79N05xBT5uEF4) | 3:56 | 2023-03-17 | 2023-07-18 |
 | [Delivery](https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Delivery](https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9) | 3:29 | 2023-01-13 |  |

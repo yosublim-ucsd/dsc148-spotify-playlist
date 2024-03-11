@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 10860,
+  "2024-03-11": 10868,
   "date_first_scraped": "2024-01-30",
   "description": "Take a bite out of the official playlist for Vampire Academy, streaming Thursdays on Peacock. ",
   "name": "Vampire Academy Official Playlist",
@@ -729,7 +729,7 @@
     {
       "album": {
         "name": "LOVE SONGS ABOUT NOBODY",
-        "url": "https://open.spotify.com/album/7BdrlLjXopwWAUJz68o5eS"
+        "url": "https://open.spotify.com/album/3aYOTELJ17zQXhsQacDm51"
       },
       "artists": [
         {
@@ -740,6 +740,24 @@
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 151120,
+      "name": "LUSTFUL DESIRES",
+      "url": "https://open.spotify.com/track/0FnnNfRZJbLgHkrRSsH25z"
+    },
+    {
+      "album": {
+        "name": "LOVE SONGS ABOUT NOBODY",
+        "url": "https://open.spotify.com/album/7BdrlLjXopwWAUJz68o5eS"
+      },
+      "artists": [
+        {
+          "name": "Jourdin Pauline",
+          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-10",
       "duration_ms": 151120,
       "name": "LUSTFUL DESIRES",
       "url": "https://open.spotify.com/track/4uk0626CNgZfdMNzaPrH9t"

@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 28505,
+  "num_followers": 28508,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTdiYzZmNTQ0ZmQ0MWJjYWIxZjNkMTk5ZTEyZmI4OGI2NTAyNTQw",
+  "snapshot_id": "MCxmNzgyOGEwM2YxNTQyMWQ2Y2FjOTI5YTZhMjJmNjQ2YzkwOGI4Nzcz",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -919,22 +919,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Corridors",
-        "url": "https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jalbert",
-          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Corridor",
-      "url": "https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
         "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 287253,
       "name": "Si j'\u00e9tais un homme",
       "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Corridors",
+        "url": "https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jalbert",
+          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Corridor",
+      "url": "https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -967,22 +967,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Tant qu'il y aura des enfants",
-        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
-      },
-      "artists": [
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Je sais je sais",
-      "url": "https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "35th Anniversary Collection",
         "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 263786,
       "name": "Echapp\u00e9 belle - 2008 Digital Remaster",
       "url": "https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Tant qu'il y aura des enfants",
+        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
+      },
+      "artists": [
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Je sais je sais",
+      "url": "https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Volume un",
-        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Je reviendrai \u00e0 montr\u00e9al",
-      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les grands succ\u00e8s de Diane Dufresne",
         "url": "https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 173080,
       "name": "Un souvenir heureux",
       "url": "https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Volume un",
+        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
+      },
+      "artists": [
+        {
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Je reviendrai \u00e0 montr\u00e9al",
+      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Star Acad\u00e9mie 2004",
-        "url": "https://open.spotify.com/album/1LeElbISsZ2YWjcz89zyC5"
+        "name": "Pied De Poule",
+        "url": "https://open.spotify.com/album/0lcQiR9XjcrzXQGRCYQnha"
       },
       "artists": [
         {
-          "name": "Les Acad\u00e9miciens 2004",
-          "url": "https://open.spotify.com/artist/0ngR9CsCD7CZUqY4gUnFyZ"
+          "name": "Genevi\u00e8ve Lapointe",
+          "url": "https://open.spotify.com/artist/0tTy0BCNGPog9pkYZuqpey"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Un nouveau jour va se lever",
-      "url": "https://open.spotify.com/track/76LS5dHm0faY67uTILq24m"
+      "duration_ms": 245933,
+      "name": "Pied De Poule",
+      "url": "https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2"
     }
   ],
   "unique_name": "Fromage",

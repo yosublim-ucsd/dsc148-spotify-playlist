@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "En Otra Cama",
+        "url": "https://open.spotify.com/album/7vUdOpuX16e2IW7L2vc9H2"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227837,
+      "name": "En Otra Cama",
+      "url": "https://open.spotify.com/track/22k8A4wCNKyfpLfzxnL3lo"
+    },
+    {
+      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
@@ -3964,7 +3982,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 228239,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,325 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,365 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 24 | [C.R.E.A.M.](https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Enter The 37th Chamber](https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5) | 2:54 |
 | 25 | [Lights Out](https://open.spotify.com/track/1KQNMRm4F8qcm1EiittCne) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Crossing](https://open.spotify.com/album/1w7lmZQuLm9AXIWoLD7Qbt) | 2:37 |
 | 26 | [Finally Moving](https://open.spotify.com/track/3WS7spXVlbeC5kjePmHMQW) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [Taking up Your Precious Time](https://open.spotify.com/album/5E5U9ckjlBvJ3qkNAAqESY) | 4:37 |
-| 27 | [U Can Get It](https://open.spotify.com/track/7hgCSM590WO7HC02mgnXvh) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Curses from Past Times EP](https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael) | 4:28 |
+| 27 | [U Can Get It](https://open.spotify.com/track/7hgCSM590WO7HC02mgnXvh) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Curses from Past Times](https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael) | 4:28 |
 | 28 | [Distant Graphite](https://open.spotify.com/track/0mP794DC011KhYyhqwy8rQ) | [Blazo](https://open.spotify.com/artist/089rQ02K5KBRF0XRYcQ9LX) | [Colors of Jazz](https://open.spotify.com/album/4O4EW5fWTbGuI3wl2uVCQ0) | 2:11 |
-| 29 | [Faidherbe Square](https://open.spotify.com/track/2hHNFmRgj2KUCeCcJH0QLP) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Curses from Past Times EP](https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael) | 3:27 |
+| 29 | [Faidherbe Square](https://open.spotify.com/track/2hHNFmRgj2KUCeCcJH0QLP) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Curses from Past Times](https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael) | 3:27 |
 | 30 | [Shoulder Kiss](https://open.spotify.com/track/3ZB4h7rWKKIMC06EzFiuE9) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF) | [Study Guide](https://open.spotify.com/album/46LudqPGBEIX9l8FlVqe9x) | 2:36 |
 | 31 | [Runnin' \- Extended](https://open.spotify.com/track/6x0fMgsxvhpiOspnhykuF2) | [Visioneers](https://open.spotify.com/artist/1PjrwJuTm8jNItVJ1GDrrD) | [Marc Mac presents Visioneers \- Dirty Old Hip Hop](https://open.spotify.com/album/7ytasfSaRrQtKyjkiiYibW) | 4:06 |
 | 32 | [The World \(Is Going Up in Flames\) \- Instrumental](https://open.spotify.com/track/1svVkDlWJxvHHWxervwVwl) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/7eAYCzrJin96tMT4SPumyo) | 3:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 59 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 |
 | 60 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
 
-Snapshot ID: `MCw2MjQ3ZTgyZjliYzM0NzZkYmM2MDkwMTEwODk2YTA4NzAxNWFlNmRh`
+Snapshot ID: `MCxkODE3Mjc5YTkwYjhhYjA1M2E2ZTAxYTAxNGE1YjhmMmViODBlZjQ2`

@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: magicHour
 
-5,396 songs - 13 day 14 hr 32 min
+5,397 songs - 13 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2212,7 +2212,8 @@
 | [Precious](https://open.spotify.com/track/5kn2g75RCLUFj9FEY3aoYh) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7), [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT) | [Precious](https://open.spotify.com/album/4XDaGZKHjIe20QW8NQJ978) | 3:11 | 2022-08-01 | 2022-08-16 |
 | [Precious](https://open.spotify.com/track/66P1tXujQ27E8fKXAbgs7d) | [Miu Sakamoto](https://open.spotify.com/artist/53MtqYIMvV1Z2L6FCh9f3h) | [HATSUKOI](https://open.spotify.com/album/1SM8DeWjbBzT5KRUB1WQ1i) | 4:14 | 2022-08-23 | 2022-08-30 |
 | [PRECIOUS DEAL](https://open.spotify.com/track/2RD1NrSYHy8tOUQ7DiZmhd) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [GUITARHYTHM Ⅲ](https://open.spotify.com/album/4omFtE8YCOrICNFtCXNSfY) | 4:32 | 2023-09-11 | 2023-09-20 |
-| [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 | 2024-03-04 |  |
+| [Prepare Yourself!](https://open.spotify.com/track/0vBPojhtgWvIZORtXr0Nl4) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 3:54 | 2024-03-04 |  |
+| [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 | 2024-03-04 | 2024-03-11 |
 | [present](https://open.spotify.com/track/1Ybxyg0UEjS4JI9ipOPg40) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [present](https://open.spotify.com/album/115lTHBJkODIGmuUeX6P7m) | 3:07 | 2022-10-31 | 2022-11-22 |
 | [Pretender](https://open.spotify.com/track/3xzNsww5yJOad8q2DtkbTe) | [二宮和也](https://open.spotify.com/artist/0FcX6LktU0zirOd1u2cgpR) | [〇〇と二宮と](https://open.spotify.com/album/05y4bt1trh1Qm8kdg9J7X6) | 3:28 | 2022-06-27 | 2022-07-05 |
 | [PRETTY EYES](https://open.spotify.com/track/5KibiBw3eWT0FCYGNCxYrh) | [hitomi](https://open.spotify.com/artist/5rdloWitZKhrtedmOBdhG8) | [PRETTY EYES](https://open.spotify.com/album/2aMxROwC4v07uvBwEUIsag) | 5:31 | 2023-01-24 | 2023-02-01 |

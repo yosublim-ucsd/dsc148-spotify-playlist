@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Castello Branco",
-  "num_followers": 346328,
+  "num_followers": 346335,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGY3YTk4Y2Q0MDJkMGE1YmYwNGFkNDNjYWI1OTI3MDlhOWY0ZTJk",
+  "snapshot_id": "MCxhZDdmODIzNGJhNTRkODVjZDhmM2NmOTNlZmE2Y2NmOWI0OTYwNjA4",
   "tracks": [
     {
       "added_at": "2024-03-08 19:08:15",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
-      "duration_ms": 176173,
-      "name": "saudade boa",
-      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+      "duration_ms": 176173,
+      "name": "saudade boa",
+      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -455,6 +455,26 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+    },
+    {
+      "added_at": "2024-03-08 19:08:15",
+      "album": {
         "name": "Pecadinho",
         "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 126000,
       "name": "Pecadinho",
       "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
-    },
-    {
-      "added_at": "2024-03-08 19:08:15",
-      "album": {
-        "name": "Codinome Beija-Flor",
-        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
-        "name": "Caravana Sair\u00e9",
-        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        }
-      ],
-      "duration_ms": 240834,
-      "name": "Lembran\u00e7a de um Beijo",
-      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
-    },
-    {
-      "added_at": "2024-03-08 19:08:15",
-      "album": {
         "name": "Amor Todinho",
         "url": "https://open.spotify.com/album/6twToesubSRehurAORMXrC"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 157118,
       "name": "Amor Todinho",
       "url": "https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux"
+    },
+    {
+      "added_at": "2024-03-08 19:08:15",
+      "album": {
+        "name": "Caravana Sair\u00e9",
+        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        }
+      ],
+      "duration_ms": 240834,
+      "name": "Lembran\u00e7a de um Beijo",
+      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
-        "name": "Novo Samba Sempre Novo",
-        "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
-      },
-      "artists": [
-        {
-          "name": "Benito 80",
-          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
-        },
-        {
-          "name": "Ju\u00e7ara Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i"
-        }
-      ],
-      "duration_ms": 237234,
-      "name": "Retalhos De Cetim",
-      "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
-    },
-    {
-      "added_at": "2024-03-08 19:08:15",
-      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
+    },
+    {
+      "added_at": "2024-03-08 19:08:15",
+      "album": {
+        "name": "Novo Samba Sempre Novo",
+        "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
+      },
+      "artists": [
+        {
+          "name": "Benito 80",
+          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
+        },
+        {
+          "name": "Ju\u00e7ara Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i"
+        }
+      ],
+      "duration_ms": 237234,
+      "name": "Retalhos De Cetim",
+      "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
+        "name": "V\u00e9spera",
+        "url": "https://open.spotify.com/album/1wtRT6kvBB1kros2zJhTnm"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 195472,
+      "name": "V\u00e9spera",
+      "url": "https://open.spotify.com/track/33F9hre8luwI7mkN6bklqw"
+    },
+    {
+      "added_at": "2024-03-08 19:08:15",
+      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
-        "name": "V\u00e9spera",
-        "url": "https://open.spotify.com/album/1wtRT6kvBB1kros2zJhTnm"
+        "name": "O Meu Guri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
       },
       "artists": [
         {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
         }
       ],
-      "duration_ms": 195472,
-      "name": "V\u00e9spera",
-      "url": "https://open.spotify.com/track/33F9hre8luwI7mkN6bklqw"
+      "duration_ms": 228933,
+      "name": "O Meu Guri",
+      "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
-        "name": "O Meu Guri (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "O Meu Guri",
-      "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
-    },
-    {
-      "added_at": "2024-03-08 19:08:15",
-      "album": {
         "name": "Preciso Me Encontrar (Cita\u00e7\u00e3o: Deixe Me Ir)",
         "url": "https://open.spotify.com/album/1AAnkhQRdXs5Z1TVcCfxCI"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 163268,
       "name": "Preciso Me Encontrar (Cita\u00e7\u00e3o: Deixe Me Ir)",
       "url": "https://open.spotify.com/track/3AyvCLfKJx3hvzKPLaM1TP"
-    },
-    {
-      "added_at": "2024-03-08 19:08:15",
-      "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -1291,6 +1275,22 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
+    },
+    {
+      "added_at": "2024-03-08 19:08:15",
+      "album": {
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
+        "name": "A Menina Da Felicidade",
+        "url": "https://open.spotify.com/album/6ntWpW5Vr7cEzvj3VIX0AT"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        },
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "duration_ms": 211914,
+      "name": "A Menina Da Felicidade",
+      "url": "https://open.spotify.com/track/1ZPNgIHGgtoaY4wjdHOvIu"
+    },
+    {
+      "added_at": "2024-03-08 19:08:15",
+      "album": {
         "name": "Alagados",
         "url": "https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst"
       },
@@ -1403,26 +1423,6 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
-        "name": "A Menina Da Felicidade",
-        "url": "https://open.spotify.com/album/6ntWpW5Vr7cEzvj3VIX0AT"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        },
-        {
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "duration_ms": 211914,
-      "name": "A Menina Da Felicidade",
-      "url": "https://open.spotify.com/track/1ZPNgIHGgtoaY4wjdHOvIu"
-    },
-    {
-      "added_at": "2024-03-08 19:08:15",
-      "album": {
         "name": "De: Terra; Para: Humanidade",
         "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
       },
@@ -1439,6 +1439,26 @@
       "duration_ms": 230441,
       "name": "De: Terra; Para: Humanidade",
       "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
+    },
+    {
+      "added_at": "2024-03-08 19:08:15",
+      "album": {
+        "name": "Cheguei pra ficar",
+        "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "duration_ms": 150394,
+      "name": "Cheguei pra ficar",
+      "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -1515,26 +1535,6 @@
       "duration_ms": 244500,
       "name": "Absurdo",
       "url": "https://open.spotify.com/track/27D2NN2jAY8FR9Y3YPdGN2"
-    },
-    {
-      "added_at": "2024-03-08 19:08:15",
-      "album": {
-        "name": "Cheguei pra ficar",
-        "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Mestrinho",
-          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "Cheguei pra ficar",
-      "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
+        "name": "Caminho de Quem Passa",
+        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
+      },
+      "artists": [
+        {
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+        }
+      ],
+      "duration_ms": 208572,
+      "name": "Caminho de Quem Passa",
+      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
+    },
+    {
+      "added_at": "2024-03-08 19:08:15",
+      "album": {
         "name": "Euf\u00f3tico",
         "url": "https://open.spotify.com/album/0dFqIyj6yuJz3BWCeznW8U"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2024-03-08 19:08:15",
       "album": {
-        "name": "Caminho de Quem Passa",
-        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
+        "name": "Sonho de Rainha Rei",
+        "url": "https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ"
       },
       "artists": [
         {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
         }
       ],
-      "duration_ms": 208572,
-      "name": "Caminho de Quem Passa",
-      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
+      "duration_ms": 251686,
+      "name": "Sonho de Rainha Rei",
+      "url": "https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l"
     },
     {
       "added_at": "2024-03-08 19:08:15",
@@ -1687,22 +1703,6 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2024-03-08 19:08:15",
-      "album": {
-        "name": "Sonho de Rainha Rei",
-        "url": "https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ"
-      },
-      "artists": [
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 251686,
-      "name": "Sonho de Rainha Rei",
-      "url": "https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l"
     },
     {
       "added_at": "2024-03-08 19:08:15",

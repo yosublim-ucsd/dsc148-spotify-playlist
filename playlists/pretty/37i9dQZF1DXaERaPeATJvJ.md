@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Thank you for the music, Barefood \(2009\-2023\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,788 likes - 110 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,797 likes - 110 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 71 | [I'm OK](https://open.spotify.com/track/69xEITRbwTnRYEBGTdy3Kp) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Electroduce Yourself](https://open.spotify.com/album/2BhBRPic40xAcJMKMt8Fzk) | 3:51 |
 | 72 | [Rindu](https://open.spotify.com/track/3bgzKtiWqtUkzTQvvX7QQf) | [Planetbumi](https://open.spotify.com/artist/6Gowlt8jc4QjTj8bhDSbPI) | [The Rest of Planet Bumi](https://open.spotify.com/album/4nsL12Cl2TIugB7O9RAZjk) | 4:42 |
 | 73 | [Lara Jiwa](https://open.spotify.com/track/0sdb241qppgCn1Q918ujCn) | [Astrolab](https://open.spotify.com/artist/0wp0iMyEsrQjUDYSHXsSup) | [The Blue Thread Saga](https://open.spotify.com/album/3iob7TFfoadjFlKyeq4zun) | 3:53 |
-| 74 | [Suburban Love](https://open.spotify.com/track/5idywMLoczcnF9P3w26bTq) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside](https://open.spotify.com/album/6Zt1SG67JijuskYbTSwxDs) | 5:10 |
+| 74 | [Suburban Love](https://open.spotify.com/track/7yaIMTgpZ6LeYERcEfdjoU) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside EP](https://open.spotify.com/album/1pMz5XuqVY07Hhg96cZdlH) | 5:10 |
 | 75 | [\(Ouch\) Mighty Love](https://open.spotify.com/track/6fKHg8pucl8ZFj07NVEBvk) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j) | [Unrescued World](https://open.spotify.com/album/0knRYnWDxaU96s6cOEu8BF) | 4:11 |
 | 76 | [Malaikat](https://open.spotify.com/track/3LBoldNcoz7ALLUGEieC6O) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Let Me Begin](https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy) | 5:27 |
 | 77 | [Aku Lupa Aku Luka](https://open.spotify.com/track/3kBV8olpppGCIbhrh8TV6o) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Blacklight](https://open.spotify.com/album/6EaWZ06yNvOjeaCY0aSz15) | 4:31 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 109 | [Lovelies \- Live](https://open.spotify.com/track/2s9kJ7sZHgozm1cXqqtCTN) | [Sweaters](https://open.spotify.com/artist/24wCIVc6T6hmBCjJ8aiAKl) | [Sweaters \(Live\)](https://open.spotify.com/album/45QGhx0C4sVXp60VoRhkIE) | 4:43 |
 | 110 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 |
 
-Snapshot ID: `MCxlZjBlZGNmYjU5NWQ1MGZiMmNhNjhiMzk1ODBiNTFmYjFkOTZjNjE0`
+Snapshot ID: `MCwwMjFhNzU3N2I3N2E4MGFmMWMyZDYyNzk3MWNjOTc1OWFkNzNjNzA4`

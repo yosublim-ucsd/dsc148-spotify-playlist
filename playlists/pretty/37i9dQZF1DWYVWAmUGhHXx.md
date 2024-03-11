@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > enciende la llama de la pasión con estas rolas seleccionadas por El Mali 😈🥂🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,715 likes - 90 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,789 likes - 90 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 31 | [Una Noche Mas](https://open.spotify.com/track/6s4Fyxy3vnTwb33Q9IlLo4) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Yannc](https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1), [Andre TG](https://open.spotify.com/artist/2OHDHtDUjiP1K0rUXDC3vm) | [Una Noche Mas](https://open.spotify.com/album/6OrjxCmeYvPDpkhxmh0H5w) | 3:43 |
 | 32 | [Tentación](https://open.spotify.com/track/5oBHAOpcBlYEgqiJk5brmW) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [Tentación](https://open.spotify.com/album/7GX4Co9D39IqrAbW86BGgH) | 3:46 |
 | 33 | [Recuerdos](https://open.spotify.com/track/6rSt4NV3lM9bkv4FGEOeNa) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Los G4 New Generation](https://open.spotify.com/album/3KbUmyN1eDVPnBYZxnSdfP) | 4:26 |
-| 34 | [Mi Facha](https://open.spotify.com/track/62gh30MVB1SeMdwcLc0JSy) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Mi Facha](https://open.spotify.com/album/5hFqiyEaMcMEC9uBuG8U6Y) | 3:03 |
+| 34 | [Mi Facha](https://open.spotify.com/track/6rxPmVaZ5DNFoDD7Fn7eCb) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Mi Facha](https://open.spotify.com/album/1MzbBUZiIBGayBxbjvyPER) | 3:03 |
 | 35 | [Mi Religión](https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:57 |
 | 36 | [Maltrátame](https://open.spotify.com/track/3pchcoNKjxCcwcSJoMjP8h) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Maltrátame](https://open.spotify.com/album/0hohrEPo7rk6ymYcGtFc8S) | 3:14 |
 | 37 | [La Bebe \- Remix](https://open.spotify.com/track/5Sb0EXDlZGms2pi7iN1Pme) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Diviértete](https://open.spotify.com/album/39z6PNTj66HNLXdJyN0Iwf) | 3:54 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 89 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
 | 90 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 |
 
-Snapshot ID: `MCxkNWM3OTljYjg3YzNhYzllZDQ0NTA1ZWJiY2YzMzdkYWJmNTVjN2Qw`
+Snapshot ID: `MCxlMTgyZGJiZDk1Y2RiOWZkYTU3NjQ4NTk5OGVhMGRiZmY2ZjQzMDVl`

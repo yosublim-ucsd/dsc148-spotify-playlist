@@ -2,7 +2,7 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Suboi
+> Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
 140 songs - 8 hr 5 min
 
@@ -16,7 +16,7 @@
 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 | 2023-10-19 |  |
 | [Anh Chưa Biết Em](https://open.spotify.com/track/0U9TFIiCYcOqULZ2dYJcmu) | [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3) | [Anh Chưa Biết Em](https://open.spotify.com/album/3AtUCcrqH1LnCRjkixPcKQ) | 2:58 | 2023-12-24 |  |
 | [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 | 2024-01-24 | 2024-02-03 |
-| [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 | 2023-10-19 |  |
+| [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 | 2023-10-19 | 2024-03-11 |
 | [Anh Đã Lớn Hơn Thế Nhiều](https://open.spotify.com/track/2cz7Y3oZBxzzoNWEdkKbkO) | [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [Michelle Ngn](https://open.spotify.com/artist/4UNxVBu6nZNsJOnCA2CDEi) | [Anh Đã Lớn Hơn Thế Nhiều](https://open.spotify.com/album/6rENYaeiQqfJQdc1gfceyO) | 5:15 | 2024-03-02 | 2024-03-05 |
 | [Anh Đã Ổn Hơn](https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:14 | 2023-10-19 |  |
 | [Biết Đâu Mà Lần](https://open.spotify.com/track/4OrnZo2V8A7uaaXHPdLyIm) | [Tage](https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW), [Raw](https://open.spotify.com/artist/7yjeqYoHtLcPmIfqPViAEd) | [Biết Đâu Mà Lần](https://open.spotify.com/album/1NIRLE8VAB6M51brK7bMaY) | 3:49 | 2023-10-19 | 2023-10-30 |
@@ -71,7 +71,7 @@
 | [Kiểu Như Tâm Tình](https://open.spotify.com/track/2vpG2yT8rrKLFzl9ONoebu) | [NamLee](https://open.spotify.com/artist/4qUaWOfUkpVho3uRUuFoQI), [Boyzed](https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb) | [Kiểu Như Tâm Tình](https://open.spotify.com/album/6BxLPWEC7vK2vLuoNZbfFQ) | 3:32 | 2023-10-19 | 2024-02-12 |
 | [Ký Giấy Tờ \(prod\. Wokeup\)](https://open.spotify.com/track/0u9kV2szGMgBiYBrw74DNv) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 3:11 | 2023-11-14 | 2023-11-24 |
 | [Lift \(feat\. $A Milo\)](https://open.spotify.com/track/048dxNqgKzQGMcyojw7zyp) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [$A Milo](https://open.spotify.com/artist/55YrB6LSt3ZShzAiBXTEcA) | [Đan Xinh In Love](https://open.spotify.com/album/3e5xMNYYXwVCpLwxUJDud5) | 3:20 | 2023-11-02 | 2023-11-09 |
-| [Liệu Giờ](https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG) | 4:18 | 2023-10-19 | 2024-01-26 |
+| [Liệu Giờ](https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG) | 4:18 | 2023-10-19 |  |
 | [Love Story](https://open.spotify.com/track/0XTTzGnLOqHhfFrCNZjwQ6) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 2:36 | 2024-02-18 | 2024-03-01 |
 | [Lý Do Yêu Nhau Đến Già](https://open.spotify.com/track/2b2UUtbB97osFePjK073JU) | [Di Di](https://open.spotify.com/artist/2GFbIax8VZLFzOIUBSMaBg), [Longg](https://open.spotify.com/artist/25PilakcHJVYBi2onpxxtI), [Captain](https://open.spotify.com/artist/1pKPrziZw7C4GvOlBIXqP5) | [Lý Do Yêu Nhau Đến Già](https://open.spotify.com/album/5uspFtYoCMCHqBeWqAZKVc) | 3:22 | 2023-12-24 | 2024-01-02 |
 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 | 2023-10-19 |  |

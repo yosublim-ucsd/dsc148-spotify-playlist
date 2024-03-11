@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 90936,
+  "2024-03-11": 90937,
   "date_first_scraped": "2023-04-07",
   "description": "Sonidos de lluvia para descansar y dormir.",
   "name": "Lluvia de Noche",
@@ -971,7 +971,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 192124,
       "name": "Das Unwetter",
       "url": "https://open.spotify.com/track/7D9DQF0eBc7E3OLBNXaKIu"
@@ -4769,7 +4769,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 182368,
       "name": "Rain On The Lake",
       "url": "https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i"

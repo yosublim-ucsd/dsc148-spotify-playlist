@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-327 songs - 1 day 0 hr 29 min
+328 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,10 +174,11 @@
 | [Lazy Afternoon](https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H) | [Heidi Skjerve](https://open.spotify.com/artist/7yQwGCbUgmOy5uK5GpqUQB), [Daniel Formo](https://open.spotify.com/artist/1TE9dWxNyEb7IHOyJRFHLz), [Bjørn Marius Hegge](https://open.spotify.com/artist/0iXjovxW8QucGrQeA8KzKj), [Håkon Mjåset Johansen](https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I), [Klaus Ellerhusen Holm](https://open.spotify.com/artist/6Fx5X9rVPeuPKJ56JNZndv), [Marthe Belsvik Stavrum](https://open.spotify.com/artist/4QQEUXQffz5kZynvfMfENr) | [I'm Glad There Is You](https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl) | 5:32 | 2022-02-17 |  |
 | [Let There Be Love](https://open.spotify.com/track/1RrdcQQ5nyoZGc9xYnX5DI) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc) | [At First Light](https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A) | 3:16 | 2021-12-17 |  |
 | [Let's Try This Again](https://open.spotify.com/track/5zgT7IAtYZ0wOMojcdYgNf) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Return To You](https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj) | 3:42 | 2021-12-17 |  |
-| [Life Came into Colour](https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD) | [Katharine Timoney](https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7) | [Life Came into Colour](https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv) | 5:16 | 2022-05-31 |  |
+| [Life Came into Colour](https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD) | [Katharine Timoney](https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7) | [Life Came into Colour](https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv) | 5:16 | 2022-05-31 | 2024-03-11 |
 | [Like Someone In Love](https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 3:30 | 2021-12-17 |  |
 | [Little Jazz Bird](https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Spark Bird](https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN) | 4:06 | 2023-04-03 |  |
 | [Little Paradise](https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dance Of Time](https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP) | 4:59 | 2021-12-17 |  |
+| [Lonely Waltz](https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Lonely Waltz](https://open.spotify.com/album/1O5FU2y0MJNOnPjFVicYfJ) | 3:14 | 2024-03-06 |  |
 | [Lost in a Dream](https://open.spotify.com/track/20FcwDOSkqdduKzJ35RQrb) | [Joshua Jaswon Octet](https://open.spotify.com/artist/3LQftaWF3PsW2cWmSscvuK), [Joshua Jaswon](https://open.spotify.com/artist/1hgFAM0wgN4PdJIq1AAtAU), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [Polar Waters](https://open.spotify.com/album/7jBQ4bmBWX5SpCieIHFr85) | 6:06 | 2023-06-01 | 2024-01-26 |
 | [Lounge Lizard](https://open.spotify.com/track/39mehRLHX9wvfrooKeiWxa) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Lounge Lizard](https://open.spotify.com/album/4W6s4LdmewGx1WB1f0kWR0) | 3:49 | 2023-11-17 | 2024-01-18 |
 | [Loving You](https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Move On: A Sondheim Adventure](https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs) | 2:51 | 2022-02-18 |  |

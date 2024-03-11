@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 1674920,
+  "2024-03-11": 1674991,
   "date_first_scraped": "2021-12-21",
   "description": "Pass the sticks & press play. ",
   "name": "Hip-Hop Controller",
@@ -1465,7 +1465,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 200469,
       "name": "Back Again (with Snoop Dogg)",
       "url": "https://open.spotify.com/track/5Xeoc9cN5lq76CTzOybJuU"
@@ -16271,6 +16271,24 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
+      "album": {
+        "name": "INSANO (NITRO MEGA)",
+        "url": "https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307693,
+      "name": "SUPERBOY",
+      "url": "https://open.spotify.com/track/4YtYrEB1utkTC75rvlsH97"
     },
     {
       "album": {

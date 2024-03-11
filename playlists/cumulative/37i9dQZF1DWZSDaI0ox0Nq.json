@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Un sue\u00f1o de barrio",
+        "url": "https://open.spotify.com/album/5GbLnADafneDEQM3qK9rfa"
+      },
+      "artists": [
+        {
+          "name": "Mirta Uguet",
+          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208384,
+      "name": "Confidencias",
+      "url": "https://open.spotify.com/track/5clL06dw4iPrD3w6MIDYtf"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Maldito",
         "url": "https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT"
       },
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 198693,
       "name": "Sur",
       "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"

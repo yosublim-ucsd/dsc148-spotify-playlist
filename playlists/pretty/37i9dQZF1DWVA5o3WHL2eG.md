@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Co\-curated by: Philine Sonny
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,505 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,651 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Gewinner/Verlierer](https://open.spotify.com/track/0vI6FSBe84ukpxPqxeJ3J7) | [Sandra](https://open.spotify.com/artist/3cnQzVpUDcSTevTmiDthJ7) | [Gewinner/Verlierer](https://open.spotify.com/album/3jnNB8BNnn1CbnXvTh2rYb) | 3:55 |
 | 17 | [Nah Homie](https://open.spotify.com/track/60Zc1B4Dnnw80mjRbUW82y) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Nah Homie](https://open.spotify.com/album/4I2tqbzQouTe4RD8V2ERiI) | 2:36 |
 | 18 | [notfallkontakt](https://open.spotify.com/track/109bR6XBcMXL8aDs3WCTXJ) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [notfallkontakt](https://open.spotify.com/album/3S3xMZu8K08zcNw9UGDCVA) | 2:16 |
-| 19 | [Hölle \(TW\)](https://open.spotify.com/track/12u7o9mLjgFOy7V2V2IGqg) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Hölle \(TW\)](https://open.spotify.com/album/0oo1trj26v7QHN1N3KkBqT) | 2:52 |
-| 20 | [Flashback 98](https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Flashback 98](https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP) | 3:31 |
+| 19 | [Flashback 98](https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Flashback 98](https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP) | 3:31 |
+| 20 | [Hölle \(TW\)](https://open.spotify.com/track/12u7o9mLjgFOy7V2V2IGqg) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Hölle \(TW\)](https://open.spotify.com/album/0oo1trj26v7QHN1N3KkBqT) | 2:52 |
 | 21 | [Rosarot](https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rosarot](https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1) | 2:39 |
 | 22 | [HAPPY NEVER AFTER](https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SCARYTALE](https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g) | 3:39 |
 | 23 | [Haut an Haut](https://open.spotify.com/track/6EnbDyYbqgbXaRSkThqAJT) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Haut an Haut](https://open.spotify.com/album/4325ICNjKQcasJwVKCmrxy) | 2:28 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [Angst](https://open.spotify.com/track/6nZ79sRvJ3auF6vqocFVE8) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Angst](https://open.spotify.com/album/31KlZ623EYkLAaHUSEOvNN) | 2:35 |
 | 38 | [Boo](https://open.spotify.com/track/72EZc3MXWL2tk7u2qjLF0a) | [NASHI44](https://open.spotify.com/artist/2v6rUpbFB5iHW6hR91BIpL) | [Boo](https://open.spotify.com/album/2EME7prHxKUh4O7zm5GQ84) | 1:52 |
 | 39 | [I Will Eat Your God](https://open.spotify.com/track/50fSMJZuhlRBTWBfrP5Ok2) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [I Will Eat Your God](https://open.spotify.com/album/6sxjCVFBShuKQmVghGFFn5) | 2:42 |
-| 40 | [Cleopatra](https://open.spotify.com/track/3a4JqVlVcCeey7FxJMMEyO) | [HONNY](https://open.spotify.com/artist/62aclYsGZKLP2kgEShQBx7) | [Straight Outta Tanger](https://open.spotify.com/album/5YAsunlDLu4XnwwgIiGyAq) | 2:19 |
-| 41 | [grütze \- bist du gut im atmen](https://open.spotify.com/track/43pKbbLyLJZl47GxMtsGmy) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [grütze \- bist du gut im atmen](https://open.spotify.com/album/1TNb8ZZ30qT6FhnOFAtPEy) | 3:39 |
+| 40 | [grütze \- bist du gut im atmen](https://open.spotify.com/track/43pKbbLyLJZl47GxMtsGmy) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [grütze \- bist du gut im atmen](https://open.spotify.com/album/1TNb8ZZ30qT6FhnOFAtPEy) | 3:39 |
+| 41 | [Cleopatra](https://open.spotify.com/track/3a4JqVlVcCeey7FxJMMEyO) | [HONNY](https://open.spotify.com/artist/62aclYsGZKLP2kgEShQBx7) | [Straight Outta Tanger](https://open.spotify.com/album/5YAsunlDLu4XnwwgIiGyAq) | 2:19 |
 | 42 | [Where's Smoke There's Fire](https://open.spotify.com/track/5SdDzXGqS2VukVESZzLTyz) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Where's Smoke There's Fire](https://open.spotify.com/album/4WgzulcshF4eYgVlrfNkIs) | 3:03 |
 | 43 | [Kalte Schulter](https://open.spotify.com/track/4bTis2gVldWMF55hsdYNMC) | [Taby Pilgrim](https://open.spotify.com/artist/6oS2OIN8AtdBOenF1bm2eI) | [Kalte Schulter](https://open.spotify.com/album/5Q1jdh1D5Yoy4rOG3rW9wT) | 2:18 |
 | 44 | [Tell Me](https://open.spotify.com/track/52GXQHYHOW1etnRugP381I) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Tell Me](https://open.spotify.com/album/3SnuIssNUoUTmGrSaDvsPT) | 5:11 |
 | 45 | [everything but](https://open.spotify.com/track/1xZgQmXqsEC8R25JVyskhb) | [fraen](https://open.spotify.com/artist/0BmSxSKl373sqmoGAdHKTT) | [everything but](https://open.spotify.com/album/1mzDa80RbGVDz8N5unzqmZ) | 2:22 |
 | 46 | [Radikal Banal](https://open.spotify.com/track/28cDOb9EYaRwUdtSsHVVa1) | [Brenda Blitz](https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd) | [Radikal Banal](https://open.spotify.com/album/2c7guZ0nilZ0U3iu7Clbl4) | 2:07 |
 | 47 | [Bevor du gehst](https://open.spotify.com/track/2W0JVzy0rdVX9uX3n1I3LK) | [Elena Rud](https://open.spotify.com/artist/7H55j50FUEqEhAVqJbIBuE) | [Bevor du gehst](https://open.spotify.com/album/4VQYlBCywSBvIVsa7RPrwi) | 2:59 |
-| 48 | [Slumber Party](https://open.spotify.com/track/52dvoTzRkbAEFdURrRKPQw) | [Tigerhead](https://open.spotify.com/artist/53UMZDKX6Ddh8KV5MYDlcE), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Slumber Party](https://open.spotify.com/album/1ILkp7RlyLsgFwdBGKyV7N) | 5:54 |
-| 49 | [Dynamo](https://open.spotify.com/track/7m9TviLYsDh1wbjXcYglzb) | [Magdalena](https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc) | [The Sky Above / Dynamo](https://open.spotify.com/album/5SCfKJEHzs03qMqPuco8uP) | 6:21 |
+| 48 | [Dynamo](https://open.spotify.com/track/7m9TviLYsDh1wbjXcYglzb) | [Magdalena](https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc) | [The Sky Above / Dynamo](https://open.spotify.com/album/5SCfKJEHzs03qMqPuco8uP) | 6:21 |
+| 49 | [Slumber Party](https://open.spotify.com/track/52dvoTzRkbAEFdURrRKPQw) | [Tigerhead](https://open.spotify.com/artist/53UMZDKX6Ddh8KV5MYDlcE), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Slumber Party](https://open.spotify.com/album/1ILkp7RlyLsgFwdBGKyV7N) | 5:54 |
 | 50 | [Sweatpants](https://open.spotify.com/track/4osqqu4H2Ts6muCYD94sCZ) | [Wonda](https://open.spotify.com/artist/5PMaM5VNkcijAx2PjszugR) | [Sweatpants](https://open.spotify.com/album/3GrSygb044hjoQZhpW8g1h) | 2:16 |
 
-Snapshot ID: `MCxlZmIwMzM2YTFhMWZlYjEwYTY4ODliODQ4NzMxOTZkODc1OTcxYTBh`
+Snapshot ID: `MCxjMmFjMDc3YjFkYWFmM2M1Mzk0OWZkMzRmNDU2N2MwOGQ0ODlmNWZm`

@@ -5343,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "Rock Bottom In Cincinnati 1995 (Live In Cincinnati, 1995)",
+        "url": "https://open.spotify.com/album/43qbDgAEajocqwWRqXXN5S"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289608,
+      "name": "Doctor Doctor - Live in Cincinnati, 1995",
+      "url": "https://open.spotify.com/track/7m7KWX7rnqqBlua3GSMePl"
+    },
+    {
+      "album": {
         "name": "Live In Vienna 1998",
         "url": "https://open.spotify.com/album/0zEmVfGL3K1lMqF3IpwCPs"
       },
@@ -17490,7 +17508,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 626307,
       "name": "Rock Bottom - Live in Cincinnati, 1995",
       "url": "https://open.spotify.com/track/6i6rKOIFyjICxufDfEYYMn"

@@ -4,7 +4,7 @@
 
 > ¡Esto es punta!
 
-90 songs - 6 hr 21 min
+91 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Pai](https://open.spotify.com/track/4o4I53Z5NypMoz5MTsY3Ij) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Éxitos: Las Chicas Rolands](https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud) | 3:23 | 2020-05-26 |  |
 | [Pai](https://open.spotify.com/track/7nVxxifuVHGa97WVNIVoMG) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Exitos: Las Chicas Rolands](https://open.spotify.com/album/4T4kwbbas6ZdwBYUCVPfeY) | 3:23 | 2020-05-26 | 2022-07-29 |
 | [Pedazo De Mujer](https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 4:00 | 2020-05-26 |  |
-| [Pobre Marinero](https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 5:08 | 2020-05-26 |  |
+| [Pobre Marinero](https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 5:08 | 2020-05-26 | 2024-03-11 |
 | [Por la Playa](https://open.spotify.com/track/56NlIztGmrboS6icu0s8us) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 4:16 | 2020-05-26 |  |
 | [Punta MIX 2019](https://open.spotify.com/track/4w4DKjVsfiOyzrDmmaKkKF) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Punta MIX 2019](https://open.spotify.com/album/3ZLQoQNQidVeEyoO3SwM1T) | 5:01 | 2020-05-26 | 2022-07-29 |
 | [Punta Mix 2019](https://open.spotify.com/track/5LP391Nx0za8MUzi9WynnX) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA) | [Punta Mix 2019](https://open.spotify.com/album/1yUOla9I4KEqzzAJH9JgW7) | 5:01 | 2020-05-26 | 2023-11-27 |
@@ -82,6 +82,7 @@
 | [Punta Raton Remix](https://open.spotify.com/track/6xzNauBXbf3rfOfRbJqjtb) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Batalla de las Puntas, Vol\. 3](https://open.spotify.com/album/3xO2uyWrSS2Xty3Kik2BJR) | 4:08 | 2020-05-26 | 2023-08-06 |
 | [Punta Raton Remix](https://open.spotify.com/track/23rClcdGCsb1hR9ijBPnS1) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puntas Garifunas Con Cache](https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l) | 4:09 | 2020-05-26 |  |
 | [Punta Silver](https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD) | 4:42 | 2020-05-26 | 2024-01-16 |
+| [Puntas Criollas](https://open.spotify.com/track/6jE4iYv4mBZr0ll7QuKvhM) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de Puntas 3: Power Mix](https://open.spotify.com/album/0o1vklFA22yhpeq7mYPiSO) | 5:42 | 2020-05-26 |  |
 | [Puntas Criollas](https://open.spotify.com/track/5wX1o7xplHkvs1zUkUL5sJ) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 3](https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R) | 5:42 | 2020-05-26 | 2022-07-28 |
 | [Puntas Garifunas Criollas](https://open.spotify.com/track/1dIQDYKOOoE4GuUXO5ReV9) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/1vEUcr8MsYafqKDkSF4ptW) | 7:23 | 2020-05-26 | 2023-03-31 |
 | [Puntas Garifunas Criollas 2](https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW) | 7:24 | 2020-05-26 |  |

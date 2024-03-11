@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain]
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,277 likes - 66 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,408 likes - 66 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain]
 | 65 | [Impromptu No\. 2 in F\-Sharp Major, Op\. 36: Andantino](https://open.spotify.com/track/44wAptfudnb3SpcxWdsoOV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Stanislav Bunin](https://open.spotify.com/artist/66FKyV4BpyUu5AyRpEaTb2) | [Chopin: Impromptus opp\. 29, 36, 51, 66; Valses op\. posth.; Ecossaises op\. 72 No\. 3; Mazurkas opp\. 30,2\-41,1\-63,3\-56,2\-67,3 u\. 4, Polonaise\-Fantaisie op.61](https://open.spotify.com/album/0d9uOvRavWulH17RIB4Wh1) | 6:37 |
 | 66 | [Andante spianato and Grande Polonaise Brillante, Op\. 22: Grande polonaise brillante](https://open.spotify.com/track/5KoStcjKUconPkWFbqVXCh) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Eldar Nebolsin](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX), [Warsaw Philharmonic Orchestra](https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED), [Antoni Wit](https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh) | [Chopin: Piano Concerto No\. 2 \- Variations on La ci darem \- Andante spianato and Grande polonaise brillante](https://open.spotify.com/album/4wJI6GbiR951BmUdbrVkFE) | 9:35 |
 
-Snapshot ID: `MCw1ZTQ3OGIwZDVhNWUzNzY0NDU5NmQ2YjhhNDhhOGRhYTUwODIxNzJl`
+Snapshot ID: `MCw2NjQ4MDM3OGU0NzU3MWE5YjJkMGJjOTJhYTg4Y2I5N2QwYzMwMGUx`

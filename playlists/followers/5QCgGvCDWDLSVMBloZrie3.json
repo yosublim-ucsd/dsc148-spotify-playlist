@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 15,
+  "2024-03-11": 15,
   "date_first_scraped": "2024-02-23",
   "description": "",
   "name": "main playlist",
@@ -1230,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "The Runaround",
+        "url": "https://open.spotify.com/album/29n2e4SBSxtMmRkPOKElF7"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238390,
+      "name": "Crazy Bird",
+      "url": "https://open.spotify.com/track/4va1JykAJeulnYV0uYkWhF"
+    },
+    {
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -2334,6 +2352,24 @@
     },
     {
       "album": {
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/1YrapTceavDda547u6Z9yg"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271426,
+      "name": "Get What You Want",
+      "url": "https://open.spotify.com/track/2WhPJ77KAF4TkeyBn8qmEW"
+    },
+    {
+      "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
@@ -2713,6 +2749,24 @@
       "duration_ms": 231475,
       "name": "High Infidelity",
       "url": "https://open.spotify.com/track/5kiZGSxgqPdv6rbqL9THdd"
+    },
+    {
+      "album": {
+        "name": "Highroad",
+        "url": "https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230656,
+      "name": "Highroad",
+      "url": "https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0"
     },
     {
       "album": {
@@ -3778,6 +3832,24 @@
     },
     {
       "album": {
+        "name": "Making Love",
+        "url": "https://open.spotify.com/album/765mbVGahmLC5VCaE2mzR6"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201687,
+      "name": "Making Love",
+      "url": "https://open.spotify.com/track/5r8SYg3CHqMHlCNSgnCvBo"
+    },
+    {
+      "album": {
         "name": "Summer Mixtape",
         "url": "https://open.spotify.com/album/6O4uH6QxqSUfIgYsXB4cMa"
       },
@@ -4746,6 +4818,24 @@
     },
     {
       "album": {
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/1YrapTceavDda547u6Z9yg"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Party City",
+      "url": "https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa"
+    },
+    {
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -5335,6 +5425,24 @@
       "duration_ms": 243815,
       "name": "She Calls Me Back",
       "url": "https://open.spotify.com/track/1LvU6IFqQnXOIwJyBDb2io"
+    },
+    {
+      "album": {
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/1YrapTceavDda547u6Z9yg"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274253,
+      "name": "She Want",
+      "url": "https://open.spotify.com/track/1Ra4MS4TAzOSE2x1ZBgyYp"
     },
     {
       "album": {
@@ -6537,6 +6645,24 @@
       "duration_ms": 265798,
       "name": "There\u2019d Better Be A Mirrorball",
       "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
+    },
+    {
+      "album": {
+        "name": "Thieves",
+        "url": "https://open.spotify.com/album/31RduMkBFIzZCUhLuM3jeE"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209512,
+      "name": "Thieves",
+      "url": "https://open.spotify.com/track/6lADdOFLdgO8aIGeFsOtcc"
     },
     {
       "album": {

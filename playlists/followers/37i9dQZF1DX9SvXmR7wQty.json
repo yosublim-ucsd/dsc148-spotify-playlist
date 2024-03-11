@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 39938,
+  "2024-03-11": 39943,
   "date_first_scraped": "2022-01-01",
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Fredz",
   "name": "Nouveaut\u00e9s francophones",
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 176040,
       "name": "_jun perseides",
       "url": "https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10"
@@ -16900,6 +16900,28 @@
     },
     {
       "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+    },
+    {
+      "album": {
         "name": "H\u00e9ritage",
         "url": "https://open.spotify.com/album/5PZa10Sd89gIJq7eDQPqQP"
       },
@@ -23273,7 +23295,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 171000,
       "name": "LE FOND (feat. Zokush)",
       "url": "https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd"
@@ -32645,7 +32667,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 189883,
       "name": "Picoler",
       "url": "https://open.spotify.com/track/3MmOIpXW9jZLCcqNRzR0gJ"

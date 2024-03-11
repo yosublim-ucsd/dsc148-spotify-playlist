@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 46717,
+  "num_followers": 46773,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmMzMWM3OGNiMzM3MTFkYzBmZTVjYTZmYWQ1YmJkNzliYjJkMzk1",
+  "snapshot_id": "MCxkMWU0ZmFjN2M2ZDdmZmEyNDY4ZjA1N2NlYTRkNjI0Zjk4NDdhNTk2",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Wrong or Right",
-      "url": "https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 240895,
       "name": "None of This",
       "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Wrong or Right",
+      "url": "https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow"
     },
     {
       "added_at": "2022-10-01 20:14:07",

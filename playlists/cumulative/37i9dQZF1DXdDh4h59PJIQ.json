@@ -6891,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/2GzH1LH8MLswKVDGx0X4uO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Burns",
+          "url": "https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305685,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/2JYFkjDG2Viz6bYdKjI9iX"
+    },
+    {
+      "album": {
         "name": "This Ain't Bristol - Celebrations",
         "url": "https://open.spotify.com/album/55wqcZtZMMmj9XZmVDwS8S"
       },
@@ -6902,7 +6920,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 305685,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/49hKsRKD6Tgjbd0F1nYGvm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,260 likes - 76 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,275 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 75 | [Intenção](https://open.spotify.com/track/2pKBHF2hqzaKNeY4HNnUos) | [West Reis](https://open.spotify.com/artist/5MZ71Xv0o1bOzgC0OYKkRp), [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6) | [Intenção](https://open.spotify.com/album/6NzOjC8Cd7kuldD5GqPDOl) | 3:48 |
 | 76 | [Viagem Cara](https://open.spotify.com/track/3WHBt5JazrLheCvzygxCv1) | [Souffran](https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Viagem Cara](https://open.spotify.com/album/2nktvT2yjahIlYVoLQ1CiV) | 2:16 |
 
-Snapshot ID: `MCxmMjA4NmE4ZWZiNzNkOGE5ODFhZDA5NWMzYzdkZTU5M2Y0MDA2N2E2`
+Snapshot ID: `MCxmZDdiN2JkODE3NDBmODA0MmE0NmJkZTZjMjVhZTA4MmI0YzAwNjAy`

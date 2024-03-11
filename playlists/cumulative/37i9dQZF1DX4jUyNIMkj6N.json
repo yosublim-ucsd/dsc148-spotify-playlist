@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Desert",
+        "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
+      },
+      "artists": [
+        {
+          "name": "Ask Carol",
+          "url": "https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331785,
+      "name": "Desert",
+      "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
+    },
+    {
+      "album": {
         "name": "I'll Be Waiting For You (In the Grey)",
         "url": "https://open.spotify.com/album/6lTDlqYzdZHPZfjoOBtS0f"
       },
@@ -4238,7 +4256,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 231586,
       "name": "v\u00e1r",
       "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"

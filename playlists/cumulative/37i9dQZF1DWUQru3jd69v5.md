@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Cover: Ele A\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-987 songs - 1 day 18 hr 48 min
+988 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [ABC](https://open.spotify.com/track/3xjRhNob5rFbDxweCrLvio) | [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw) | [ABC](https://open.spotify.com/album/7IlpOV61uPQtUhq2Lqs7gV) | 2:16 | 2023-01-12 | 2023-02-03 |
 | [ABUBAKAR](https://open.spotify.com/track/3XXRBZMiNrDpEewxmirGHJ) | [MA7DI](https://open.spotify.com/artist/4qHOnCnQ7cKuAIstfD7ATj) | [ABUBAKAR](https://open.spotify.com/album/2Ktl0YNuLWN5nxsetgWZhg) | 3:01 | 2024-02-22 | 2024-03-08 |
 | [Acciughe Salate](https://open.spotify.com/track/3InchJ2isJ0FMogDnz1jLV) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [Acciughe Salate](https://open.spotify.com/album/0QFaV3Pddc7Mk7uSiFoA1N) | 3:22 | 2024-01-18 | 2024-02-09 |
-| [Addosso](https://open.spotify.com/track/3Vvfh3Bx0A8dtK31QPzhI9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/2KfRdmJYAVdbQfAZSj5QUs) | 2:41 | 2024-02-15 |  |
+| [Addosso](https://open.spotify.com/track/3Vvfh3Bx0A8dtK31QPzhI9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/2KfRdmJYAVdbQfAZSj5QUs) | 2:41 | 2024-02-15 | 2024-03-11 |
+| [Addosso](https://open.spotify.com/track/6q40i1kf85LSF35cadTAw9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/4r1T5CWIHeIER0eRZdl2A6) | 2:41 | 2024-03-07 |  |
 | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5F5STJurlkKk31rguyet4N) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4) | 3:02 | 2023-08-03 | 2023-12-12 |
 | [Adrenalina](https://open.spotify.com/track/7pT26uheHUHvjXhTz1UdVe) | [Daxter](https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa), [Tradez](https://open.spotify.com/artist/39oUK0McNh3XvEG5MyU4lm) | [Adrenalina](https://open.spotify.com/album/3jeA3LCdrI9XdDYIcrhVDF) | 2:36 | 2023-11-30 | 2023-12-15 |
 | [Again 'N' Again](https://open.spotify.com/track/1xbkI3UxrulX1saP7iMx5s) | [Cage.488](https://open.spotify.com/artist/40YEqYNJznSOojw3fxBvgN), [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P) | [Again 'N' Again](https://open.spotify.com/album/1GaHmqWHW21a4RHPpCqsqY) | 2:58 | 2022-05-26 | 2022-06-17 |

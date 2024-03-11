@@ -3652,7 +3652,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 177506,
       "name": "Que Bonito",
       "url": "https://open.spotify.com/track/5ctUlKWjf53PUEwKFn59B3"
@@ -3674,6 +3674,24 @@
       "duration_ms": 177706,
       "name": "Que Bonito",
       "url": "https://open.spotify.com/track/35Z9JAZSJ4RfeoqZ17nC9F"
+    },
+    {
+      "album": {
+        "name": "Junto Al Mar",
+        "url": "https://open.spotify.com/album/1sMSzYnpq6WzMCaS28OHp2"
+      },
+      "artists": [
+        {
+          "name": "Banda Cana Verde",
+          "url": "https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177706,
+      "name": "Que Bonito",
+      "url": "https://open.spotify.com/track/6rUf6nv9WQawqpBo58X2XE"
     },
     {
       "album": {
@@ -4253,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Solo Esta Vez, Con Sabor a Ca\u00f1a Verde",
+        "url": "https://open.spotify.com/album/5g8cvuIjvCCR4cryxrhpfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Cana Verde",
+          "url": "https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200015,
+      "name": "Solo Esta Vez",
+      "url": "https://open.spotify.com/track/50PKcjHSvh1oVjig3kC69k"
+    },
+    {
+      "album": {
         "name": "Solo Esta Vez, Con Sabor a Ca\u00f1a Verde...!",
         "url": "https://open.spotify.com/album/4KtrknMzLGD9HZEAdfVUVG"
       },
@@ -4264,7 +4300,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 200046,
       "name": "Solo Esta Vez",
       "url": "https://open.spotify.com/track/1wkoejavhjDSCsahWjsSxW"

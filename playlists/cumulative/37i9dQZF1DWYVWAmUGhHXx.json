@@ -2288,10 +2288,28 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 183986,
       "name": "Mi Facha",
       "url": "https://open.spotify.com/track/62gh30MVB1SeMdwcLc0JSy"
+    },
+    {
+      "album": {
+        "name": "Mi Facha",
+        "url": "https://open.spotify.com/album/1MzbBUZiIBGayBxbjvyPER"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183986,
+      "name": "Mi Facha",
+      "url": "https://open.spotify.com/track/6rxPmVaZ5DNFoDD7Fn7eCb"
     },
     {
       "album": {

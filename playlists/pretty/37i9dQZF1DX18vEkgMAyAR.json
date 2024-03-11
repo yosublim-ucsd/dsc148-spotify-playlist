@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 67449,
+  "num_followers": 67476,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzlhMTEzM2Y0ODlmMzcyMGZmYmI5NWE2NDEwZGVjNjg2NmEwYjM3",
+  "snapshot_id": "MCxiNTBiYThkMzc3ZTBiOWFkZGMyODZkNjVmNTI3NmM3YThjYzU5MjAw",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Oh My Soul (Bloukaas Remix)",
-        "url": "https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs"
+        "name": "Say You Will Remember Me",
+        "url": "https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be"
       },
       "artists": [
         {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
         }
       ],
-      "duration_ms": 260125,
-      "name": "Oh My Soul (Bloukaas Remix)",
-      "url": "https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC"
+      "duration_ms": 202035,
+      "name": "Say You Will Remember Me",
+      "url": "https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F"
     }
   ],
   "unique_name": "Feel Good Look Good",

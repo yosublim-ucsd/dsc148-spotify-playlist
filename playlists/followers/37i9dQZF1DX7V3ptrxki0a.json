@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 197027,
+  "2024-03-11": 197121,
   "date_first_scraped": "2023-08-09",
   "description": "Agarren su pareja que es momento de mover ese botecito.",
   "name": "Cumbia Norte\u00f1a",
@@ -467,10 +467,28 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 252000,
       "name": "El P\u00e1vido N\u00e1vido",
       "url": "https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR"
+    },
+    {
+      "album": {
+        "name": "A Bailar Huapangos",
+        "url": "https://open.spotify.com/album/4rAl5BSej3ygV2BWk8yQbg"
+      },
+      "artists": [
+        {
+          "name": "Los Igualados",
+          "url": "https://open.spotify.com/artist/6H9GCi2trd6KkKlGrGuDfj"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252055,
+      "name": "El P\u00e1vido N\u00e1vido",
+      "url": "https://open.spotify.com/track/2uLCHFZczr8mQpdGbk30DT"
     },
     {
       "album": {

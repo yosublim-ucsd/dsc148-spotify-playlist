@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: NE:ON\(니온\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-674 songs - 1 day 12 hr 35 min
+675 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [D.I.M.E \(Feat\. JUSTHIS\)](https://open.spotify.com/track/6UmSylnabtV1qfbSzdDGUh) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [D.I.M.E \(Feat\. JUSTHIS\)](https://open.spotify.com/album/67dg4k1O64jXpZls8H5moQ) | 3:49 | 2022-10-07 | 2022-11-02 |
 | [D.R.E.A.M\. \(feat\. pH\-1\)](https://open.spotify.com/track/5OuTSgILh3Mkgj6ir9x9Pz) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:19 | 2022-10-28 | 2023-01-20 |
 | [Daisy \(Feat\. Han Yo Han\)](https://open.spotify.com/track/2ZdhVj2NAYOxY36rMjgN6b) | [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Daisy](https://open.spotify.com/album/0EjZp5PnEXF0UD1OXlwUXk) | 3:05 | 2023-01-25 | 2023-02-16 |
-| [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2022-04-01 |  |
+| [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2022-04-01 | 2024-03-11 |
 | [Dangerous \(feat\. Ruf.d\)](https://open.spotify.com/track/50mWLy36Ib9tMjjd9pZSpz) | [Emetsound](https://open.spotify.com/artist/4dKJnc3oBTZWbuNQiQvFLd), [Ruf.d](https://open.spotify.com/artist/14YZN6ahjzUJWTqFYc3945) | [Dangerous \(feat\. Ruf.d\)](https://open.spotify.com/album/6HDaYXCwPtlr7i2mXJE4Gu) | 2:44 | 2022-06-13 | 2022-06-19 |
 | [Dank](https://open.spotify.com/track/46sgzGh1EoiaGqZDBikbDe) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii) | 3:18 | 2022-04-21 | 2022-07-23 |
 | [Dank](https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:18 | 2022-07-24 |  |
@@ -249,6 +249,7 @@
 | [Have A Little Fun](https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:20 | 2022-07-24 | 2023-09-22 |
 | [HAWAII \- Remaster](https://open.spotify.com/track/00BUYjfn30RNGvEESffAvs) | [YELLA](https://open.spotify.com/artist/3mY5lOpRpnHu90zikCYuCw) | [21 Colorful \(Remaster\)](https://open.spotify.com/album/53h1Vmb7UNXFVLTVLfo0sP) | 3:19 | 2022-07-14 | 2022-07-18 |
 | [HEAT](https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [HEAT](https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk) | 3:13 | 2022-04-21 | 2022-07-28 |
+| [help me out o kill me not](https://open.spotify.com/track/6sdYTTPhLOWVlIg11mgvh7) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:20 | 2024-03-08 |  |
 | [HIT N" RUN](https://open.spotify.com/track/4klhpAWhKZtTO7QOYvZdfA) | [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Joyrider's Avenue](https://open.spotify.com/album/0VVgt0RedKxHj5upa62Kwn) | 2:52 | 2023-07-17 | 2023-08-17 |
 | [Hitchhike me \(Feat\. Sik\-K\)](https://open.spotify.com/track/1V4hA20IMYlJ383HwyYKFZ) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:43 | 2022-05-11 | 2022-07-05 |
 | [home dance](https://open.spotify.com/track/4Qa5wyZdRc6rFy4nrg89i3) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc) | [wallflower](https://open.spotify.com/album/1vp1KDamSYYyWjhbGzk0vF) | 3:04 | 2022-04-01 | 2022-07-29 |

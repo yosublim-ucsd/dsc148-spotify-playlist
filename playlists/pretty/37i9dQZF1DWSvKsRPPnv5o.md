@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Saweetie
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,351 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,383 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 26 | [Needed Love](https://open.spotify.com/track/05pmuzmey74gjkNqw08FuB) | [DJFMCT](https://open.spotify.com/artist/4MNGrSE02x0eS2pS8mI6Rb), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Needed Love](https://open.spotify.com/album/6RaT7nAYrmXWNtCuxZh6DJ) | 2:24 |
 | 27 | [Still In Shocc](https://open.spotify.com/track/2dmbxOmABBBJzVNSTVH5T9) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Still In Shocc](https://open.spotify.com/album/6gStbu2InOcGRzpUAKxTpN) | 2:29 |
 | 28 | [5 seater](https://open.spotify.com/track/4sPrKPhOFAugXVoGjAoBy6) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 2:37 |
-| 29 | [KING KONG](https://open.spotify.com/track/47t4RubecWq6Yz3IguRuKd) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [KING KONG](https://open.spotify.com/album/3iMC72oE5hsEApvx7apo6s) | 2:12 |
+| 29 | [KING KONG](https://open.spotify.com/track/37xVrDsnZRn6AsQ2MZ6O2q) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [RENT DUE](https://open.spotify.com/album/1IoERGFV3rFT4CQVSI17Qr) | 2:12 |
 | 30 | [Ghetto Barbie](https://open.spotify.com/track/5q4AyMRaXeAZ61ns0moZg6) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Fenix Flexin Vol\. 3](https://open.spotify.com/album/1ZefxpDa6v1nUij91wY62w) | 2:14 |
 | 31 | [Obviously](https://open.spotify.com/track/5wruY6p3CCjSuR1OCOKrp1) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Obviously](https://open.spotify.com/album/3FUo0QMZ5BPtvVSOhlvQbj) | 2:01 |
 | 32 | [This Yo Song](https://open.spotify.com/track/0DI2azijIBAPh0IAxJHRhA) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Out The Way](https://open.spotify.com/album/4Q6x7xl8C0Dfsays5iXumP) | 2:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 79 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 |
 | 80 | [Han Solo](https://open.spotify.com/track/7Fl6CFzsNVjnxYBAG2YfD7) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Han Solo](https://open.spotify.com/album/4SAWZ46pT9XJnQYtUW9UdS) | 2:22 |
 
-Snapshot ID: `MCwxYjMzOWZlMTMxZGZiMjMwNjNmYjY5NTY5NTRhNDUyOGFhZjcxYWRl`
+Snapshot ID: `MCwzNTU1NGRlNGUyODkxODkyN2UzMmNhYzVlOTZkYzljNGJjMjYzOTQw`

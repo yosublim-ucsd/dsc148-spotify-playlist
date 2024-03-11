@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 77637,
+  "num_followers": 77730,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjUwMDk4NmFmMDY3YzQxOWNmNGE0MTZmNGQ1NzY2MGUwYzgyZmVi",
+  "snapshot_id": "MCxjYWU3NTg5YWFkMTdlN2ZhNWZmYjAwNTE4YzZlNDE5MWMxODdiY2Zh",
   "tracks": [
     {
       "added_at": "2024-01-03 15:04:20",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Love Me, Please Love Me",
+      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
         "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
       },
@@ -455,22 +471,6 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Love Me, Please Love Me",
-      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
         "name": "Toi + Moi",
         "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Babacar (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "Evidemment - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
         "name": "\u00c0 la faveur de l'automne",
         "url": "https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 223706,
       "name": "\u00c0 la faveur de l'automne",
       "url": "https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
+        "name": "Babacar (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "Evidemment - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Sentiments",
-        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Le bateau coule",
-      "url": "https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
         "name": "Ch\u00e2telet les Halles",
         "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 319493,
       "name": "Et un jour une femme",
       "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Le bateau coule",
+      "url": "https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Secret",
-        "url": "https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
         "name": "&",
         "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
       },
@@ -715,18 +699,38 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Jamais Content",
-        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw"
       },
       "artists": [
         {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 211213,
-      "name": "All\u00f4 maman bobo",
-      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
+      "duration_ms": 190026,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
+        "name": "Best Of & Variations",
+        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        },
+        {
+          "name": "Jeanne Moreau",
+          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Le tourbillon de la vie",
+      "url": "https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -751,22 +755,18 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Best Of & Variations",
-        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
+        "name": "Jamais Content",
+        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
       },
       "artists": [
         {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        },
-        {
-          "name": "Jeanne Moreau",
-          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
         }
       ],
-      "duration_ms": 179240,
-      "name": "Le tourbillon de la vie",
-      "url": "https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l"
+      "duration_ms": 211213,
+      "name": "All\u00f4 maman bobo",
+      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
     },
     {
       "added_at": "2024-01-03 15:04:20",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-01-03 15:04:20",
       "album": {
-        "name": "Les Frangines (Nouvelle \u00e9dition)",
-        "url": "https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5"
-      },
-      "artists": [
-        {
-          "name": "Les Frangines",
-          "url": "https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Pour une seconde",
-      "url": "https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW"
-    },
-    {
-      "added_at": "2024-01-03 15:04:20",
-      "album": {
         "name": "Louane",
         "url": "https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 153800,
       "name": "Si t'\u00e9tais l\u00e0",
       "url": "https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH"
+    },
+    {
+      "added_at": "2024-01-03 15:04:20",
+      "album": {
+        "name": "Les Frangines (Nouvelle \u00e9dition)",
+        "url": "https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5"
+      },
+      "artists": [
+        {
+          "name": "Les Frangines",
+          "url": "https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Pour une seconde",
+      "url": "https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW"
     },
     {
       "added_at": "2024-01-03 15:04:20",

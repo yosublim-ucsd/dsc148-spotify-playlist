@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,479 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,583 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 52 | [¿Quién De Los Dos Será?](https://open.spotify.com/track/4bk3DB7VC88NDLw8Du4IJA) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién De Los Dos Será?](https://open.spotify.com/album/61Pq9DBSvk4JJ8s9n72t0G) | 3:01 |
 | 53 | [Cupido](https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Cupido](https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU) | 3:27 |
 | 54 | [¡Corre!](https://open.spotify.com/track/6ilNwC7wduo4SwKndbAVMs) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [¡Corre!](https://open.spotify.com/album/2MqawFf2jM9H5TJej3vCyK) | 3:47 |
-| 55 | [Si Estuviésemos Juntos](https://open.spotify.com/track/2JY8fqytS4pcn2pGti7v0f) | [Impacto Sinaloense](https://open.spotify.com/artist/2ZWWur7iqubIBL3NKLw8wh) | [Sesiones 1.0](https://open.spotify.com/album/2t67oYw41wR7BIJDUiUQgT) | 2:40 |
-| 56 | [Dia De Suerte](https://open.spotify.com/track/5weX1mT8BiBEf2UGqxJ4kl) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Covers](https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh) | 3:23 |
+| 55 | [Dia De Suerte](https://open.spotify.com/track/5weX1mT8BiBEf2UGqxJ4kl) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Covers](https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh) | 3:23 |
+| 56 | [Si Estuviésemos Juntos](https://open.spotify.com/track/2JY8fqytS4pcn2pGti7v0f) | [Impacto Sinaloense](https://open.spotify.com/artist/2ZWWur7iqubIBL3NKLw8wh) | [Sesiones 1.0](https://open.spotify.com/album/2t67oYw41wR7BIJDUiUQgT) | 2:40 |
 | 57 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0) | 2:50 |
 | 58 | [Ignorantes](https://open.spotify.com/track/3dtof2jkInLUhPssyHlj2D) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Mientras Otros Duermen](https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV) | 2:44 |
 | 59 | [El Primer Dia Sin Ti](https://open.spotify.com/track/47gCQYcKNjN82RKCnuTQmH) | [Grupo Resguardo](https://open.spotify.com/artist/19NXOgDp9Z2Ad7AQquqIqz) | [El Primer Dia Sin Ti](https://open.spotify.com/album/5cecIDuiscrYS6zTwjwG0O) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 74 | [Andar Conmigo](https://open.spotify.com/track/77LbleaiKaiviCOD6QiAOc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 4:07 |
 | 75 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 |
 
-Snapshot ID: `MCw1MjkxY2EzNmRjNWVmZTUyY2VhOTFjZDVkOTY1NmM5YTkxZDM5OGYy`
+Snapshot ID: `MCxkMWU0MTllMjViMjU4MTk0MDE4ZjYyMTBiZmE0NTY0MjIwYjgyMDc0`

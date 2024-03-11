@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Big Soto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,569 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,611 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [De Por Vida](https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [DE POR VIDA](https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS) | 3:04 |
+| 1 | [De Por Vida](https://open.spotify.com/track/3zWgcYQdN7dC6jj0zrHbpG) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [DE POR VIDA](https://open.spotify.com/album/5imAOsZHY1dRpPkezBf1ml) | 3:04 |
 | 2 | [ODIOSOTORIUS](https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [ODIOSOTORIUS](https://open.spotify.com/album/1Hbgu9thBNAmynMfZf8XWK) | 2:03 |
 | 3 | [LOCO GENIO](https://open.spotify.com/track/5V6JCRvqNbuPEWWmYzqOfp) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [LOCO GENIO](https://open.spotify.com/album/2mrfqvEYxcZVpZxQanKko6) | 2:25 |
 | 4 | [fre3styl3](https://open.spotify.com/track/7lmMgmcg73b5Mjh3pRPFoT) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [la nena de un gang$ter](https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9) | 1:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
 | 100 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 
-Snapshot ID: `MCxjNTA1YmIwODc4MjkzNDdhZjFiYWEwNWQ5MDNiNWUxYWQzYzMwZTRi`
+Snapshot ID: `MCw4N2JjNWNkODJhMTAxYjhmOGJkNTA2MGE4YWQ4MjYyZGY4ZTBmMmY0`

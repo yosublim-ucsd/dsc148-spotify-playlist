@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 63479,
+  "num_followers": 63583,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjkxY2EzNmRjNWVmZTUyY2VhOTFjZDVkOTY1NmM5YTkxZDM5OGYy",
+  "snapshot_id": "MCxkMWU0MTllMjViMjU4MTk0MDE4ZjYyMTBiZmE0NTY0MjIwYjgyMDc0",
   "tracks": [
     {
       "added_at": "2024-02-20 19:26:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Sesiones 1.0",
-        "url": "https://open.spotify.com/album/2t67oYw41wR7BIJDUiUQgT"
-      },
-      "artists": [
-        {
-          "name": "Impacto Sinaloense",
-          "url": "https://open.spotify.com/artist/2ZWWur7iqubIBL3NKLw8wh"
-        }
-      ],
-      "duration_ms": 160293,
-      "name": "Si Estuvi\u00e9semos Juntos",
-      "url": "https://open.spotify.com/track/2JY8fqytS4pcn2pGti7v0f"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 203503,
       "name": "Dia De Suerte",
       "url": "https://open.spotify.com/track/5weX1mT8BiBEf2UGqxJ4kl"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "Sesiones 1.0",
+        "url": "https://open.spotify.com/album/2t67oYw41wR7BIJDUiUQgT"
+      },
+      "artists": [
+        {
+          "name": "Impacto Sinaloense",
+          "url": "https://open.spotify.com/artist/2ZWWur7iqubIBL3NKLw8wh"
+        }
+      ],
+      "duration_ms": 160293,
+      "name": "Si Estuvi\u00e9semos Juntos",
+      "url": "https://open.spotify.com/track/2JY8fqytS4pcn2pGti7v0f"
     },
     {
       "added_at": "2024-02-20 19:26:32",

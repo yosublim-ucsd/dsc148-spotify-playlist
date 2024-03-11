@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: Azmari
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,650 likes - 80 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,656 likes - 80 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Playtime's Over](https://open.spotify.com/track/3GQuSqujob9VWXOldntc8O) | [Yannick Peeters](https://open.spotify.com/artist/56mocJpAyqTTNCYwrWKbl8), [Tom Rainey](https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO), [Frederik Leroux](https://open.spotify.com/artist/3YV0ck6nM0n2Ee7BCifHmR), [Frans Van Isacker](https://open.spotify.com/artist/0CWdD3PavKLREUxKbT4KJK) | [GingerBlackGinger](https://open.spotify.com/album/0mUMafVCDN7R7KipvLo7Cy) | 6:41 |
-| 2 | [The Houses](https://open.spotify.com/track/06OJTgjpwhCxRsXBff6z4f) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [The Houses](https://open.spotify.com/album/5MMKR9lXuOrc0doVmEthog) | 3:42 |
+| 2 | [The Houses](https://open.spotify.com/track/1mepkedgTd68S38nfR9KkI) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Papir Freedom](https://open.spotify.com/album/6ffk58AJ2lwlSylw02IYR6) | 3:42 |
 | 3 | [Abyssal Wandering](https://open.spotify.com/track/4NMNkomvSRGBmUc2ifC7kN) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Maelström](https://open.spotify.com/album/2tg20LGxMn7y2GW651dFDJ) | 6:42 |
 | 4 | [Amulet](https://open.spotify.com/track/6MksNP1yBT38UMVBt1Daqk) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [The Cycle Repeats](https://open.spotify.com/album/2GtnEumRpH310S1lKgVxTe) | 4:01 |
 | 5 | [Little Ghost](https://open.spotify.com/track/5DRpk9OOJBbT9alKCqCud1) | [OOOTOKO](https://open.spotify.com/artist/4h2TjjbpGgzYjn4ovwB52c) | [Little Ghost](https://open.spotify.com/album/45HbdPoqL1ctz87ghrhuDz) | 4:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 79 | [Cascade\(s\)](https://open.spotify.com/track/136X5PnHEO3jUiAm3bU6kF) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Cascade\(s\)](https://open.spotify.com/album/5QNydaZL1yVLAqWFN9fA8H) | 4:16 |
 | 80 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 |
 
-Snapshot ID: `MCwzMWIwODE1MzQ0ZDM4YzdmNTUxOTY0NTZhNTU4YjRjOWYxYzBjNjQ2`
+Snapshot ID: `MCxiYzMwYWRmOTYyMmVjYzY5MDgwYWYzZjM5Yzk4M2MxODk2YjA2MTlm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\.  International Women’s Day takeover\. Powered by <a href="spotify:genre:equal">EQUAL</a> Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,542 likes - 95 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,554 likes - 95 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 94 | [Skin2Skin](https://open.spotify.com/track/5eJgJBijctTUGinFJXgVDF) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Skin2Skin](https://open.spotify.com/album/3dg7iCJ10cACUNnMyg3Dow) | 3:04 |
 | 95 | [I'm Wrong](https://open.spotify.com/track/7pebHWXKUwybJKWD8LcavU) | [KRNA](https://open.spotify.com/artist/2MftvYgqbFb61tLmtRnybv) | [I'm Wrong](https://open.spotify.com/album/3tskRYWqYopzTKOES7QlR4) | 3:41 |
 
-Snapshot ID: `MCwxYTViM2Y5NjM0N2VlNWQyMTNjMzQxZDNkZmMxMjYzMTFiYTMxMmMy`
+Snapshot ID: `MCw0NjQxY2M0OTkzMWRjZWE0NzU1NGY3ODllYjIzNzk1MmNiZTgwNzU0`

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Fredz
 
-2,370 songs - 5 day 6 hr 32 min
+2,372 songs - 5 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Cliché](https://open.spotify.com/track/0WAQ3Re10tB2s70r5jmWt3) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/3hbj2Bt2SECsLk8piLHwCL) | 2:50 | 2022-03-11 | 2022-03-26 |
 | [Cliché Heartache \- V.F.](https://open.spotify.com/track/5iP9BnP1EDfx01Tu6mom2H) | [Gabrielle Goulet](https://open.spotify.com/artist/4wknf6JgQ4i5tne5K152g3) | [Cliché Heartache \(V.F.\)](https://open.spotify.com/album/2GWFTvvn7mjygdv3b7BzBx) | 3:09 | 2022-03-04 | 2022-03-12 |
 | [Clio 2](https://open.spotify.com/track/1OMlctls08MhPNv7E62Qpx) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Clio 2](https://open.spotify.com/album/3Z6PePHPZbhpLFewrXKIkJ) | 3:00 | 2023-03-03 | 2023-03-18 |
+| [Clique](https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Clique](https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN) | 3:01 | 2024-03-08 |  |
 | [Clit Is Good](https://open.spotify.com/track/162VxrGfWcY4uE0LW6jbeQ) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Clit Is Good](https://open.spotify.com/album/1MzcGJruvNRVX49q5ZR9wt) | 3:01 | 2022-04-15 | 2022-04-23 |
 | [CLUB](https://open.spotify.com/track/5BQWYo6YSL4XcUZcYEtoid) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [CLUB](https://open.spotify.com/album/5Ud8KvdMkCM5Z0kZr0IbEj) | 2:55 | 2023-01-06 | 2023-01-21 |
 | [Cléo](https://open.spotify.com/track/4XeOoFtBcUbtgTyygdzX0s) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Cléo](https://open.spotify.com/album/6cw0g0xUnBvDK0MBZJ4wQz) | 3:34 | 2022-12-02 | 2023-01-06 |
@@ -1420,6 +1421,7 @@
 | [Mayo](https://open.spotify.com/track/2Iv8Dp0SvEp8GxVv9cvAG5) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT), [Dany Placard](https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp) | [Mayo](https://open.spotify.com/album/0NkmWgsAGhJ7kJvoPHZTUW) | 3:08 | 2022-01-28 | 2022-02-12 |
 | [Mbappé](https://open.spotify.com/track/0FWIA89SfPbCWyx1PrfXFr) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Mbappé](https://open.spotify.com/album/3IlbVKdsA35Si13YkWj2RG) | 3:06 | 2023-05-19 | 2023-07-08 |
 | [Me croirez\-vous ?](https://open.spotify.com/track/2QHh8H1ybiPjr47XwCqBfn) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [Me croirez\-vous ?](https://open.spotify.com/album/30mozVFL0FCPZB8K9Nidtd) | 3:25 | 2022-09-16 | 2022-10-01 |
+| [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-08 |  |
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 | 2022-02-26 |
 | [MEILLEUR ET MIEUX](https://open.spotify.com/track/4qkGvhAFs6PZLz7Esr0rR6) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [MEILLEUR ET MIEUX](https://open.spotify.com/album/2OnXflJw1aJzBNJsSfPaAn) | 3:07 | 2023-06-30 | 2023-07-08 |
 | [Mens\-moi](https://open.spotify.com/track/4sgJKKqvENZZ9hp9gMY5Ll) | [Brigitte Boisjoli](https://open.spotify.com/artist/2oHveiOBJleFuHBLypRrNw) | [Mens\-moi](https://open.spotify.com/album/0027t7xScawIuMqxJOSg4x) | 3:41 | 2022-05-27 | 2022-06-04 |
@@ -2081,7 +2083,7 @@
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 |  |
 | [Temps Mort](https://open.spotify.com/track/5SjDYaaYpyuNqYgNFrwLJv) | [RIP](https://open.spotify.com/artist/5VyEjYKwnt9lyULWcLJS9f) | [Temps Mort](https://open.spotify.com/album/4pKgXmDrEJL7kKKPftkOYt) | 2:51 | 2022-04-08 | 2022-04-16 |
 | [Temps perdu](https://open.spotify.com/track/0YFuRRuUdNgpvM3G2a9lQ9) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Caméléon](https://open.spotify.com/album/7uUTDl6Q5EXTkC7pF0sGid) | 3:27 | 2022-03-04 | 2022-03-12 |
-| [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-02-16 |  |
+| [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-02-16 | 2024-03-11 |
 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 | 2023-10-20 | 2024-01-24 |
 | [Terre de nos aïeux](https://open.spotify.com/track/41lSwH24Xl5Pc31P3OdYzX) | [Katia Rock](https://open.spotify.com/artist/2pAWfapBk0lzkyTMIJIrcb) | [Terre de nos aïeux](https://open.spotify.com/album/27Wzl8f2PhavvspsLTmaci) | 3:52 | 2022-01-14 | 2022-01-22 |
 | [Tes mots couverture](https://open.spotify.com/track/5raETuowQmDMYsQCjRyrbP) | [Charles Robert](https://open.spotify.com/artist/1R7v1ckHaqIzDpi1exOK9h) | [Tes mots couverture](https://open.spotify.com/album/6o93nVkzc6wEpa6QtemMDW) | 3:00 | 2022-10-14 | 2022-10-22 |
@@ -2242,7 +2244,7 @@
 | [Vanille](https://open.spotify.com/track/0xk8f8yJPn2z3H9SEcunic) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Vanille](https://open.spotify.com/album/0FkprGiBKN6MKMLXNTCSB1) | 2:57 | 2022-05-27 | 2022-06-11 |
 | [Vaslaw](https://open.spotify.com/track/5Tsc2kib1Ver0jqZloT8nY) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Vaslaw](https://open.spotify.com/album/3AAj7Qak7bNlcwUqSF20Yc) | 4:34 | 2022-04-22 | 2022-05-07 |
 | [Vautours](https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Vautours](https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK) | 3:10 | 2023-10-06 | 2023-12-16 |
-| [VDM \(feat\. Leto\)](https://open.spotify.com/track/2Bgh9sUZDtRo43Z491TaBd) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [VDM \(feat\. Leto\)](https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj) | 3:31 | 2024-02-02 |  |
+| [VDM \(feat\. Leto\)](https://open.spotify.com/track/2Bgh9sUZDtRo43Z491TaBd) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [VDM \(feat\. Leto\)](https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj) | 3:31 | 2024-02-02 | 2024-03-11 |
 | [Vendeur de bière](https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1) | [L'an 8000](https://open.spotify.com/album/7i55NtPr5ZQ1hsg42WemjU) | 2:48 | 2021-12-31 | 2022-01-15 |
 | [Vendredi](https://open.spotify.com/track/4hdSkfUs1LUisa1owTWqe4) | [Rouge Pompier](https://open.spotify.com/artist/6juqd2DiJxLYeldyOvjzql) | [Vendredi](https://open.spotify.com/album/0SMlVogwTii9DqvIetc129) | 3:34 | 2023-11-17 | 2023-11-25 |
 | [Verre de trop](https://open.spotify.com/track/3TP7rff5C07nasdDYOtVMD) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 2:39 | 2023-03-17 | 2023-04-15 |

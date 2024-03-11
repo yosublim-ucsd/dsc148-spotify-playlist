@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,057 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,086 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 |
 | 60 | [Me Conta Outra Piada \- Ao Vivo](https://open.spotify.com/track/4x074VDAnWsLgZbDFfTEHJ) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Só VVamo, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/7HHBhvp2mo6fr8tBzp7zai) | 2:25 |
 
-Snapshot ID: `MCw2YzZmOWFmNTI1MjVhYWFjNTA4MjM3ZjBiYjJkMWQ3MTA5NDk3YjQ4`
+Snapshot ID: `MCw2MjczMjliYzVkZDUyNDYyZDk2YTQ5YmE3Y2M3OTNlOTZjNjE3Y2U0`

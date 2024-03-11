@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > Our editor’s picks for best songs from the misfits 2.0 universe in 2023\. Cover: Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,532 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,527 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 49 | [LEAVE WIV ME \(FEAT\. ZAND + REMÉE\)](https://open.spotify.com/track/70rzwfKW74Dv6hzAXoTTaK) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury), [Remée](https://open.spotify.com/artist/1ozEVEKprToJtdXwPkalMT) | [CLOWN BLOOD](https://open.spotify.com/album/1SIukunLtMfZyi00Olbc5t) | 1:37 |
 | 50 | [Not Enough](https://open.spotify.com/track/5XHgv7lChS8EvqzwoTG4gB) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Not Enough](https://open.spotify.com/album/1Hnn5WMNMYM7DBE1U9fdIR) | 2:41 |
 
-Snapshot ID: `MCw4NjE1YmMwYjlkMDg1ODY2YmMzZjdhMzE2ZTcwY2JmNDYxYjZhYjJl`
+Snapshot ID: `MCw5MDlhY2MzMDJjYjlmZDYxZDZkMzQxZjU1ODkxZjRhYzMwODU0ZmVj`

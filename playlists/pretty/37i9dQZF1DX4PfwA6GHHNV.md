@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,107 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,116 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 30 | [Luar](https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Luar](https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk) | 3:14 |
 | 31 | [Do Nada](https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah) | [Do Nada](https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F) | 3:25 |
 | 32 | [Não Prometeu Nada](https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf) | [Victor sant's](https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp), [Pivet Panda](https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW) | [Não Prometeu Nada](https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS) | 2:55 |
-| 33 | [Me Diz](https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL) | [Neittan](https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n), [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns), [AlmaViva Música](https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG) | [Me Diz](https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP) | 2:42 |
-| 34 | [Perigo](https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ) | [Peninha'](https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Perigo](https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT) | 2:40 |
-| 35 | [Quando cê vem](https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Quando cê vem](https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX) | 3:36 |
-| 36 | [VERÃO](https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 3:34 |
+| 33 | [Perigo](https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ) | [Peninha'](https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Perigo](https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT) | 2:40 |
+| 34 | [Me Diz](https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL) | [Neittan](https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n), [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns), [AlmaViva Música](https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG) | [Me Diz](https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP) | 2:42 |
+| 35 | [VERÃO](https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 3:34 |
+| 36 | [Quando cê vem](https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Quando cê vem](https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX) | 3:36 |
 | 37 | [Só Minha](https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Só Minha](https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn) | 2:29 |
 | 38 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 |
 | 39 | [Não Me Ligue Mais](https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV) | [Cleiton Oliveira](https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs), [Jovem Ralph](https://open.spotify.com/artist/3BqCREDFLYfJiX8yZrKtrR) | [Fatossíntese](https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 49 | [Enquanto o tempo passa](https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Enquanto o tempo passa](https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0) | 2:11 |
 | 50 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 |
 
-Snapshot ID: `MCxjNzgzNzU1MTBkMmEzNjk3YzU4NjE2NGYyMjM5ZTE4OGMwMzc4MDZh`
+Snapshot ID: `MCwyNzk2MzgyNTU0NDQ4MTAwMGNkZTg5ZjlhM2JkYzA1ZDdkZTAwZjk4`

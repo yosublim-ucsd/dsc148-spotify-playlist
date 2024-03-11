@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits de la electrónica en el 2024!
 
-324 songs - 16 hr 9 min
+325 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,8 @@
 | [Vole Little a Vealwav](https://open.spotify.com/track/1zXkPCjdZ7rQSV1YsH0duA) | [Nigma 遮蔽](https://open.spotify.com/artist/2vqFl9TETQoy3qc2wUN0t4) | [Vole Little a Vealwav](https://open.spotify.com/album/6f5S9IzxBHktmEbMzSLfC7) | 3:07 | 2023-02-13 | 2023-11-18 |
 | [Water \(feat\. ZOHARA\)](https://open.spotify.com/track/6KddlPfPQ0L8MyffEpo63p) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [ZOHARA](https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2) | [Water \(feat\. ZOHARA\)](https://open.spotify.com/album/6WUWZOs8AO2hO18VAGpB4t) | 3:12 | 2021-10-22 | 2023-11-18 |
 | [Way Too Long](https://open.spotify.com/track/4YMApzzqCO31TPxPvgdHhh) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Way Too Long](https://open.spotify.com/album/4PeGJQ4bZiathdzJ0bpj0X) | 2:30 | 2021-10-22 | 2022-08-10 |
-| [Weekend](https://open.spotify.com/track/49hKsRKD6Tgjbd0F1nYGvm) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [This Ain't Bristol \- Celebrations](https://open.spotify.com/album/55wqcZtZMMmj9XZmVDwS8S) | 5:05 | 2022-08-09 |  |
+| [Weekend](https://open.spotify.com/track/2JYFkjDG2Viz6bYdKjI9iX) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Weekend](https://open.spotify.com/album/2GzH1LH8MLswKVDGx0X4uO) | 5:05 | 2024-01-05 |  |
+| [Weekend](https://open.spotify.com/track/49hKsRKD6Tgjbd0F1nYGvm) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [This Ain't Bristol \- Celebrations](https://open.spotify.com/album/55wqcZtZMMmj9XZmVDwS8S) | 5:05 | 2022-08-09 | 2024-03-11 |
 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 | 2021-10-22 | 2022-02-23 |
 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 | 2021-10-22 | 2024-01-06 |
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2022-02-22 | 2023-11-18 |

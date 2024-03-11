@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-565 songs - 21 hr 34 min
+567 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Cold](https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Cold](https://open.spotify.com/album/6EXP2j4i43fQjPy1qdIecE) | 2:15 | 2024-01-05 |  |
 | [Color Violet](https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Color Violet](https://open.spotify.com/album/2tmTKjBGtFNnSZqabuflcE) | 2:08 | 2024-01-05 |  |
 | [Colores](https://open.spotify.com/track/78nzT9F1FCU7f3Qg9tQU2E) | [Tufflo](https://open.spotify.com/artist/5NBNuJ9Yv7r01DfbhTCkR5) | [Green Tea](https://open.spotify.com/album/2dJ098DRzbBvIzoftA2E3x) | 2:26 | 2024-01-05 |  |
-| [Coming Home](https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Coming Home](https://open.spotify.com/album/1NXR10O0pSgK506mnnzXpA) | 2:13 | 2024-01-05 |  |
+| [Coming Home](https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Coming Home](https://open.spotify.com/album/1NXR10O0pSgK506mnnzXpA) | 2:13 | 2024-01-05 | 2024-03-11 |
 | [Con Bajo Fidelidad](https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Con Bajo Fidelidad](https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg) | 2:10 | 2024-01-05 |  |
 | [Cosmetics](https://open.spotify.com/track/57JRVNAO9gTmmLVIlkqibb) | [Mr Zakky](https://open.spotify.com/artist/7JHrK8hjsA4ndEFOU8hN9O) | [Cosmetics](https://open.spotify.com/album/3iv3djrrxI7UnqO7J2OrVT) | 1:44 | 2024-01-05 |  |
 | [Couch Vibes](https://open.spotify.com/track/2xJKFoxhnWsG2vPxqZJxFL) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Couch Vibes](https://open.spotify.com/album/2ybbG29HdBzYcwnzcf6xP5) | 2:34 | 2024-03-01 |  |
@@ -142,6 +142,7 @@
 | [Enchanté](https://open.spotify.com/track/2DrgL0r61Hen8m0pV3zyW1) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Enchanté](https://open.spotify.com/album/4i8j7sK7dQ6ESbIDopluL8) | 2:36 | 2024-01-05 |  |
 | [endless](https://open.spotify.com/track/1DgFzDddCvohdbma1Mgeyp) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [endless](https://open.spotify.com/album/4aSNr7wccU4oFKg3QnqjsJ) | 2:03 | 2024-01-05 |  |
 | [Eunoia](https://open.spotify.com/track/0xLMlmoGZY2LhZcLMU6VvK) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Eunoia](https://open.spotify.com/album/4fBD47tpwDlksDgQSimWfX) | 2:13 | 2024-01-05 |  |
+| [everfree](https://open.spotify.com/track/4nG1tpT3hVheAPdFSDfGW6) | [alamodilla](https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN) | [everfree](https://open.spotify.com/album/710gczhcTTGB3dilssAhr6) | 2:17 | 2024-03-08 |  |
 | [Everything you need](https://open.spotify.com/track/77DrQhfJtki3fUcMd7oQgB) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Everything you need](https://open.spotify.com/album/1WCLmsAFHVG2UaKQlYMu8N) | 2:22 | 2024-01-05 |  |
 | [Exhale](https://open.spotify.com/track/4pQUl96NzlzIgt9gJSN1Qg) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Exhale](https://open.spotify.com/album/4ZDOyfZij7YmgVhV2qucI6) | 2:16 | 2024-01-05 |  |
 | [Exploring Time](https://open.spotify.com/track/3384bG1DpYYZnQanvYS2rQ) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Exploring Time](https://open.spotify.com/album/3eF8x8rc3UvZJ5WRe9AdNk) | 1:44 | 2024-01-05 |  |
@@ -374,7 +375,7 @@
 | [Pagans](https://open.spotify.com/track/6OrK4sjjGOvTuqQlx4QHhe) | [Brother Took](https://open.spotify.com/artist/1pZIRdqI2jk41VuxmqS9e1) | [Pagans](https://open.spotify.com/album/4zGcYEFzgMUKyT2lyNlHqP) | 2:13 | 2024-03-01 |  |
 | [pan au chocolat + cappuccino](https://open.spotify.com/track/2YXVBCH7FV1tPJ8sqTzbIx) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [pan au chocolat + cappuccino](https://open.spotify.com/album/0MBNo9eQbqiFdy5Sp3hVnP) | 1:53 | 2024-01-05 |  |
 | [Paper Heart](https://open.spotify.com/track/1Hc3WJFNoEVScMuJ8ofDxB) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [Paper Heart](https://open.spotify.com/album/5cmzgPNKOMs9bWGWbullff) | 1:37 | 2024-01-05 |  |
-| [Pareidolia](https://open.spotify.com/track/6jhIjPKENwizw0sKmJNiUO) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Pareidolia](https://open.spotify.com/album/3CjKtpWA51sPu7tiir84nX) | 2:20 | 2024-01-05 |  |
+| [Pareidolia](https://open.spotify.com/track/6jhIjPKENwizw0sKmJNiUO) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Pareidolia](https://open.spotify.com/album/3CjKtpWA51sPu7tiir84nX) | 2:20 | 2024-01-05 | 2024-03-11 |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2024-01-05 |  |
 | [Park Life](https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A) | [Mooseplant](https://open.spotify.com/artist/41f1LonnqCGklJb2ewxewh) | [Park Life](https://open.spotify.com/album/5bCGymt5IOhp1ankpc5K5l) | 2:18 | 2024-01-05 |  |
 | [Particles](https://open.spotify.com/track/5iutyPUPT8BD6NmUjMVVj2) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Particles](https://open.spotify.com/album/0wVaLUlQyunU42SVFMlnj5) | 2:09 | 2024-02-09 |  |
@@ -462,6 +463,7 @@
 | [Snowflakes](https://open.spotify.com/track/2y0qzhtfsdGqYjsfKIh2kP) | [Fyre Bath](https://open.spotify.com/artist/1f29BRRWVJwf2PtNFWF3lK) | [Snowflakes](https://open.spotify.com/album/2PYdJp6yFkA1zegp52eHHp) | 2:33 | 2024-01-05 |  |
 | [sofa pretty good](https://open.spotify.com/track/2fqGIW69iH9zPtwTHVcLMM) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [sofa pretty good](https://open.spotify.com/album/6EY9QyyvvyTYvKdorHsxkt) | 2:01 | 2024-01-05 |  |
 | [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2024-01-05 |  |
+| [Solitude](https://open.spotify.com/track/4mjZxP6wc7FKV3ylwblakq) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Solitude](https://open.spotify.com/album/0odJztdVdqQTnC8AcWJuz7) | 2:25 | 2024-03-08 |  |
 | [Someday](https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Someday](https://open.spotify.com/album/2hSAOh15pAteCBD9wP2vOB) | 2:03 | 2024-01-05 |  |
 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 | 2024-01-05 |  |
 | [somethings up](https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [somethings up](https://open.spotify.com/album/3f5XgiJhXdkBL7yqY9PuP9) | 1:52 | 2024-01-15 |  |

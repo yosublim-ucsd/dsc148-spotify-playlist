@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V?si=Tnz3X844TKquGDIRzvuvow">Luke Beling</a>
 
-682 songs - 1 day 15 hr 5 min
+683 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 | 2022-08-18 | 2022-12-16 |
 | [Be Safe](https://open.spotify.com/track/4ew3JQ22NjwC0zyyzx0tob) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Be Safe](https://open.spotify.com/album/4kziQRgKsbodafWnaShxUM) | 3:25 | 2022-07-21 | 2022-11-25 |
 | [Beach House](https://open.spotify.com/track/4X5fbAxCG8JTsHotIRUNIX) | [Kloudink](https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P) | [Beach House](https://open.spotify.com/album/432SsG5QIPGqnRfl1d6q5M) | 3:12 | 2024-01-11 |  |
-| [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-09 |  |
+| [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 | 2024-02-09 |  |
+| [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-09 | 2024-03-11 |
 | [Beautiful Day \(Acoustic Cover\)](https://open.spotify.com/track/4Cx4C0D4w8zAgb2UFqfoPL) | [Cloud Illusions](https://open.spotify.com/artist/1E4Zlw4mvjAYIqFO6HxMBp) | [Beautiful Day \(Acoustic Cover\)](https://open.spotify.com/album/51zhilUUY6kaqSh5J3MHcF) | 4:05 | 2023-06-22 | 2023-08-05 |
 | [Before The Sun Comes Up](https://open.spotify.com/track/4wQIXWOu1YmQanVtbo8R1P) | [The Charles Géne Suite](https://open.spotify.com/artist/5IY1vGqRklTMkio7Pi33ci), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Lerato lichaba](https://open.spotify.com/artist/2kGjcOOtMDyTEK9po6n9l4) | [Suite Nites](https://open.spotify.com/album/5fUfrJpzgHUemAw8TVAz4r) | 6:42 | 2022-07-21 | 2022-11-04 |
 | [Being Square](https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Being Square](https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE) | 3:07 | 2023-04-06 | 2023-06-16 |

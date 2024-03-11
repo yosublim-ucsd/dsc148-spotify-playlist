@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di ElMatador, Capo Plaza, Rose Villain, Rhove, Emis Killa e Simba, e tanti altri.
 
-3,205 songs - 6 day 1 hr 0 min
+3,206 songs - 6 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Addicted](https://open.spotify.com/track/0lSPX8kKA0ESoJmqGVYSff) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk), [Dium](https://open.spotify.com/artist/0DOCRpygciQ0cTkWCJKnfZ) | [Bizness](https://open.spotify.com/album/0c3AyEfNzDaMzFbW9nzlbl) | 2:29 | 2023-05-04 | 2023-05-19 |
 | [Addio, me del passato](https://open.spotify.com/track/0NLjhpUJqaKV0W70R3eVDR) | [EGO SMISURATO](https://open.spotify.com/artist/3fl4yQE0eM2ahZsC9xnUpK), [Zano](https://open.spotify.com/artist/2WaJkMEav3HhVXRAv6Ugbm), [xxxROGOxxx](https://open.spotify.com/artist/3qS0Nl2dEdTdZOKTmVDAx1), [KID VICIOUS](https://open.spotify.com/artist/5pLhTM3UBXlXQm2Ns4SceM) | [Addio, me del passato](https://open.spotify.com/album/6VPeM9iNyK764ZSwmS4n6r) | 3:00 | 2023-06-29 | 2023-07-14 |
 | [Addo Staje](https://open.spotify.com/track/3AE8w0nzeosiLXfXRVQOXg) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Addo Staje](https://open.spotify.com/album/1nAiRosddjANStcOVnGUxF) | 3:15 | 2023-05-04 | 2023-05-19 |
-| [Addosso](https://open.spotify.com/track/3Vvfh3Bx0A8dtK31QPzhI9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/2KfRdmJYAVdbQfAZSj5QUs) | 2:41 | 2024-02-15 |  |
+| [Addosso](https://open.spotify.com/track/3Vvfh3Bx0A8dtK31QPzhI9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/2KfRdmJYAVdbQfAZSj5QUs) | 2:41 | 2024-02-15 | 2024-03-11 |
+| [Addosso](https://open.spotify.com/track/6q40i1kf85LSF35cadTAw9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/4r1T5CWIHeIER0eRZdl2A6) | 2:41 | 2024-03-07 |  |
 | [Adesso e ora](https://open.spotify.com/track/1WG7INmzIDlc6nY0FdHBES) | [Aleam](https://open.spotify.com/artist/7wDD1hvJRRHrs2WSEFlswM), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Adesso e ora](https://open.spotify.com/album/59KLkV4qeoNnZUCKIplYyx) | 3:17 | 2023-09-28 | 2023-10-13 |
 | [Adieu](https://open.spotify.com/track/7KsegfbIqlAl5ykS6TXlFI) | [Braco](https://open.spotify.com/artist/1evoOh9Y07fI6PMjnvBe8E) | [Adieu](https://open.spotify.com/album/3zjbnwSLAtsQwcMBGn2SzB) | 2:16 | 2023-05-18 | 2023-05-26 |
 | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5F5STJurlkKk31rguyet4N) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4) | 3:02 | 2023-08-03 | 2023-09-15 |

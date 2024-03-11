@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,091 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,104 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 48 | [Foolish](https://open.spotify.com/track/6Ul6j61QulfLucooYMcrtV) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Foolish](https://open.spotify.com/album/1MKF7YY7sSoNFqA5muU38C) | 3:10 |
 | 49 | [Can't Get Enough](https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1) | 3:06 |
 
-Snapshot ID: `MCw5NWFkZTEwZWY5ZGUwODViZWQyZmM2MTZlZmFiNWQwMzEyNDAyMjdm`
+Snapshot ID: `MCw4MDNhODRhNzg5YjYzZWZmNTVmNDc3NmVkNTNiMThjZGUxMjBkYzI4`

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that rocks. Cover: Austin Snell",
-  "num_followers": 587213,
+  "num_followers": 587379,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYThiYzM3NTZlNDU0MmQyYzkwODc5MjEwYWUyOTBmOTBkOTFmNjc4",
+  "snapshot_id": "MCw3N2UwM2U1MjYyMzZhMWY0NDhiZTQzZTYxNGMwNjZlMGZmNzc3MDRh",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1671,26 +1671,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "Excuse the Mess",
+        "url": "https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
         }
       ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
+      "duration_ms": 171819,
+      "name": "Excuse the Mess",
+      "url": "https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI"
     }
   ],
   "unique_name": "Country Rocks",

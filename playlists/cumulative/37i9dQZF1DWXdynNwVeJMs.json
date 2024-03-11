@@ -3228,10 +3228,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 222094,
       "name": "The Houses",
       "url": "https://open.spotify.com/track/06OJTgjpwhCxRsXBff6z4f"
+    },
+    {
+      "album": {
+        "name": "Papir Freedom",
+        "url": "https://open.spotify.com/album/6ffk58AJ2lwlSylw02IYR6"
+      },
+      "artists": [
+        {
+          "name": "De Beren Gieren",
+          "url": "https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222094,
+      "name": "The Houses",
+      "url": "https://open.spotify.com/track/1mepkedgTd68S38nfR9KkI"
     },
     {
       "album": {

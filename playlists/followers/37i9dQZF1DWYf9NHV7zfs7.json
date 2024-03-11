@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 28530,
+  "2024-03-11": 28567,
   "date_first_scraped": "2023-10-15",
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Diego Torres",
   "name": "Esto es Pop",
@@ -296,7 +296,7 @@
     },
     {
       "album": {
-        "name": "As\u00ed Es el Calor (feat. Andr\u00e9s Calamaro)",
+        "name": "As\u00ed Es el Calor",
         "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
       },
       "artists": [
@@ -307,17 +307,13 @@
         {
           "name": "El Zar",
           "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180017,
-      "name": "As\u00ed Es el Calor (feat. Andr\u00e9s Calamaro)",
+      "name": "As\u00ed Es el Calor",
       "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
     },
     {
@@ -1031,7 +1027,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 250475,
       "name": "Emocionalmente Tuya",
       "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
@@ -3593,7 +3589,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 162327,
       "name": "Te Dar\u00eda",
       "url": "https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr"

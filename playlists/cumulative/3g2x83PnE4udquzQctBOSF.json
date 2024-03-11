@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "Amused EP",
+        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Amused",
+      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
+    },
+    {
+      "album": {
         "name": "Annihilator",
         "url": "https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 201750,
       "name": "Beat",
       "url": "https://open.spotify.com/track/41zbZ3ed6BYG3cGgG0Csk2"
@@ -800,7 +818,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 148953,
       "name": "Boom",
       "url": "https://open.spotify.com/track/7AJy67TqJVYSSlp4z01H4d"
@@ -945,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Bring The Action",
+        "url": "https://open.spotify.com/album/3Is4RYx6tTGJZgxLLIQda7"
+      },
+      "artists": [
+        {
+          "name": "Rello",
+          "url": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Bring The Action",
+      "url": "https://open.spotify.com/track/69kvxgM6Tp6YmqyuT582ja"
+    },
+    {
+      "album": {
         "name": "Mi Viejo",
         "url": "https://open.spotify.com/album/5jAeE2I082qPlcKYWx6Nbc"
       },
@@ -1076,7 +1112,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
@@ -1558,7 +1594,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 384000,
       "name": "Dimension",
       "url": "https://open.spotify.com/track/4PBW79WVzYojdwSPdzHXjA"
@@ -2074,7 +2110,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 326504,
       "name": "Face To Face",
       "url": "https://open.spotify.com/track/4xc2PKPPWvHs4z6zRdQwyx"
@@ -2208,7 +2244,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 196666,
       "name": "Fire Starter",
       "url": "https://open.spotify.com/track/4A5zw4ohqaPLWwFElhA6kV"
@@ -2706,10 +2742,36 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 155076,
       "name": "Give You",
       "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
+    },
+    {
+      "album": {
+        "name": "Giving Me Life",
+        "url": "https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Giving Me Life",
+      "url": "https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N"
     },
     {
       "album": {
@@ -3687,6 +3749,32 @@
     },
     {
       "album": {
+        "name": "Lighting",
+        "url": "https://open.spotify.com/album/08yI0064i4jNY1e3uYw0ma"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Agostino",
+          "url": "https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ"
+        },
+        {
+          "name": "Davide Marsala",
+          "url": "https://open.spotify.com/artist/1SNXTiPxArdBh9psV06qEZ"
+        },
+        {
+          "name": "JANJ",
+          "url": "https://open.spotify.com/artist/0uEhJUryKUYMYWpiKG0VmV"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202944,
+      "name": "Lighting",
+      "url": "https://open.spotify.com/track/4ih96mUUXqv4Bym6IB4Sl6"
+    },
+    {
+      "album": {
         "name": "Lights Down",
         "url": "https://open.spotify.com/album/53Sw1CP6lxm9ABzFwQfbJe"
       },
@@ -4036,7 +4124,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 190393,
       "name": "Mind Off",
       "url": "https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp"
@@ -4181,6 +4269,28 @@
     },
     {
       "album": {
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "album": {
         "name": "Jack The House 4",
         "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
       },
@@ -4308,6 +4418,24 @@
       "duration_ms": 325327,
       "name": "NVRBE",
       "url": "https://open.spotify.com/track/5VhcagXIZLl89yVBMKXcdX"
+    },
+    {
+      "album": {
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/6k7OxcVJipXt5Y7ySOeNjH"
+      },
+      "artists": [
+        {
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354461,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/4g46R8Fz2YR77jXZjw8PJA"
     },
     {
       "album": {
@@ -4489,6 +4617,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/06wkyiYorhBRoSLgQhhbvS"
+      },
+      "artists": [
+        {
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177304,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/0oa5iPL8Y9Vad48UA3AQJi"
+    },
+    {
+      "album": {
         "name": "Playa",
         "url": "https://open.spotify.com/album/5Ys8n1I5tFS0uvFAlaRna0"
       },
@@ -4602,7 +4748,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 202105,
       "name": "Prodigy",
       "url": "https://open.spotify.com/track/6HIV6cFs5NWjduJ5CJvmuy"
@@ -5303,6 +5449,24 @@
     },
     {
       "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162914,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
+    },
+    {
+      "album": {
         "name": "TANZPARTEI (Mixtape)",
         "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
@@ -5336,6 +5500,24 @@
       "duration_ms": 180267,
       "name": "Sombrero Galaxy",
       "url": "https://open.spotify.com/track/1oQoDktIuJITi7TQXpJ5Jx"
+    },
+    {
+      "album": {
+        "name": "Some More",
+        "url": "https://open.spotify.com/album/0K9XP2XPW1R5vx6IV9pnvC"
+      },
+      "artists": [
+        {
+          "name": "GREEDO",
+          "url": "https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "Some More",
+      "url": "https://open.spotify.com/track/5nKoXD5R3PN5KwmxrkoCHb"
     },
     {
       "album": {
@@ -5444,6 +5626,24 @@
       "duration_ms": 195381,
       "name": "Step Into It",
       "url": "https://open.spotify.com/track/533T9iIMBhmRXcKVH48CxO"
+    },
+    {
+      "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "album": {
@@ -5905,6 +6105,24 @@
     },
     {
       "album": {
+        "name": "I'm Ready EP",
+        "url": "https://open.spotify.com/album/66h6uOgDSkRrTD0eG0PE4W"
+      },
+      "artists": [
+        {
+          "name": "Arnold & Lane",
+          "url": "https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187559,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2AsEtnstQ2rOThdttbqTbL"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/27LkHeHrRMtJRYZvgPvlmP"
       },
@@ -6272,7 +6490,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 217790,
       "name": "Wu Tang",
       "url": "https://open.spotify.com/track/2pZZo8nD0TTbtad8az4tPF"
@@ -6344,7 +6562,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 213333,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv"

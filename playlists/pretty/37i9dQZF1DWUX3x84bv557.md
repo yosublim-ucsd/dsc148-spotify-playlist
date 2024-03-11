@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Zoë Livay
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,731 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,720 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 37 | [Bodem Van De Fles](https://open.spotify.com/track/6ZfSzVtNstrFVbud4qH5RV) | [Ritse](https://open.spotify.com/artist/7CKb0N4FZ4f1MG1vViQB1d) | [Bodem Van De Fles](https://open.spotify.com/album/5qpANpV4y9DFcJixLp2rG7) | 2:41 |
 | 38 | [DOPAMINE](https://open.spotify.com/track/6Z0ydsxwmkKL8yPX0RFjT0) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [DOPAMINE](https://open.spotify.com/album/4kA2V4fDHI0krhrwkb5XDn) | 2:44 |
 | 39 | [Maar Niet Met Jou Erbij](https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Maar Niet Met Jou Erbij](https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey) | 3:01 |
-| 40 | [Tankstation](https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Tankstation](https://open.spotify.com/album/4eu8csS8j5wIwZuTVIRes3) | 3:22 |
+| 40 | [Tankstation](https://open.spotify.com/track/6l6QN2twTWU0nnhGJn76lR) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Tankstation](https://open.spotify.com/album/57Iitonh5nrjh1BU8nn6LJ) | 3:22 |
 | 41 | [Kan Je Me Laten](https://open.spotify.com/track/0WiLq7KevSxwPjwPT6QDzt) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Kan Je Me Laten](https://open.spotify.com/album/6FrYMFvJal8M2go84iwQhT) | 2:22 |
 | 42 | [Blauwe Maandag](https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Blauwe Maandag](https://open.spotify.com/album/6Un53AaCAlWAcBl8olQlQK) | 2:19 |
 | 43 | [veilig](https://open.spotify.com/track/6AA25bMKeaifeQtJssZhYz) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [veilig](https://open.spotify.com/album/0Nd7v2vZvVEQt615Pl27uz) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Thuis Thuis](https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Thuis Thuis](https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb) | 3:08 |
 | 60 | [Niet Alleen](https://open.spotify.com/track/6yzyosFCPny55uVpzvYJZD) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Niet Alleen](https://open.spotify.com/album/4JYgA4oW437SVYr6k6f8eX) | 2:54 |
 
-Snapshot ID: `MCxkMDNiMzIxYzI5NDJiNWY2MTA1ZjM2MmIyOTJjMzk1MTc3MjMzNjU5`
+Snapshot ID: `MCxlZWY0Mzg5ZGQ1MTU2M2MzNzQ4ODkzZjMxMzY5MmVmZTA1ZmY2MzEy`

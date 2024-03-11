@@ -1,12 +1,12 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 389486,
+  "num_followers": 389765,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2FhNmNiNGU2ZmZmZDNiMzNhYzQ5YjA2NjNkNTg2MjRjM2U3OTVk",
+  "snapshot_id": "MCxiY2U0MGM4MGExOThmYTM3MjRlMjE0OTRkMmMxOTI3OWQ2NTZkZDk5",
   "tracks": [
     {
       "added_at": "2023-10-27 12:45:10",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Them Bones (2022 Remaster)",
-      "url": "https://open.spotify.com/track/4A065x9kJt955eGVqf813g"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "Permission to Land",
         "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 216453,
       "name": "I Believe in a Thing Called Love",
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Them Bones (2022 Remaster)",
+      "url": "https://open.spotify.com/track/4A065x9kJt955eGVqf813g"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "The Pick Of Destiny",
         "url": "https://open.spotify.com/album/3tYcwViLCWsT1ssa5p7V7A"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 165960,
       "name": "The Metal",
       "url": "https://open.spotify.com/track/3pYKJaLiixRcDFfcNhxZKK"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Five",
-        "url": "https://open.spotify.com/album/7MJ3l1iCbgr6trDod3ZOci"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 234774,
-      "name": "California Dreaming",
-      "url": "https://open.spotify.com/track/64PdmaMsjQ1ZMjHHz2F56r"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "Breaking the Chains",
         "url": "https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 231706,
       "name": "Breaking The Chains",
       "url": "https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Five",
+        "url": "https://open.spotify.com/album/7MJ3l1iCbgr6trDod3ZOci"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 234774,
+      "name": "California Dreaming",
+      "url": "https://open.spotify.com/track/64PdmaMsjQ1ZMjHHz2F56r"
     },
     {
       "added_at": "2023-10-27 12:45:10",

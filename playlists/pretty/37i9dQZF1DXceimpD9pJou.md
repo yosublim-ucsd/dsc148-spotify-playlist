@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:1E2ZsvpZKP4qMPNARv36W5">Gocho,</a> <a href="spotify:artist:0CY3fhkYxiPZh9XCwBeao2">Onell Diaz,</a> y <a href="spotify:artist:3z4gWkynJfhlRmpULOrNEt">ULLOΛ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,941 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,959 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Te Necesito Tanto](https://open.spotify.com/track/7gDbSsPfuSB7vn2vqZfT6g) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Te Necesito Tanto](https://open.spotify.com/album/2vu6dWoV5QWCyQAQdqlrmd) | 3:57 |
 | 100 | [Solo Tu](https://open.spotify.com/track/19fHZXYG18tJI5tYcrpf3e) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be) | [Solo Tu](https://open.spotify.com/album/2vIzAvSQrTDJADnngjmN1A) | 3:41 |
 
-Snapshot ID: `MCwwYzM2Y2UyYTE5ODc3N2Y1YWNiOGY5NTY2MWNjOThiMWE2ZTZlNjc5`
+Snapshot ID: `MCwyY2ZlZTY5N2MwMDMwMTc2ODc0YTViMWM2ZWExMjM1MDM2OGI5YWFj`

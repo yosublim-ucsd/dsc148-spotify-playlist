@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17917,
+  "num_followers": 17914,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzM2YWU4OTc4NmY2MzNhZjE2NjNjNDBiZDQ5M2RmMTUxM2RjYzRk",
+  "snapshot_id": "MCxkNDMxNDNiNmJkNGJkYTEyNTljYTM3MTY5OGE2YzZiNTM5MjYyMTFk",
   "tracks": [
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1111,30 +1111,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Roteiro Pra A\u00efnouz (Vol. 3)",
-        "url": "https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Nego Gallo",
-          "url": "https://open.spotify.com/artist/4nOrR26qgm2LzspkdRPdpq"
-        },
-        {
-          "name": "DJ Caique",
-          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
-        }
-      ],
-      "duration_ms": 368024,
-      "name": "Aquela F\u00e9",
-      "url": "https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Poetas no Topo 1",
         "url": "https://open.spotify.com/album/2TXsGcsDKimJKtcJ01Yy4y"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 270188,
       "name": "Mente do Vil\u00e3o",
       "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Roteiro Pra A\u00efnouz (Vol. 3)",
+        "url": "https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Nego Gallo",
+          "url": "https://open.spotify.com/artist/4nOrR26qgm2LzspkdRPdpq"
+        },
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        }
+      ],
+      "duration_ms": 368024,
+      "name": "Aquela F\u00e9",
+      "url": "https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r"
     },
     {
       "added_at": "2024-02-23 18:00:29",

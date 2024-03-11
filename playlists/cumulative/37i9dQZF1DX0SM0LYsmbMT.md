@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,053 songs - 6 day 10 hr 54 min
+4,054 songs - 6 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,7 +874,7 @@
 | [Did It Yesterday](https://open.spotify.com/track/3qcDDIxV01o13XtN21BRHk) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Did It Yesterday](https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo) | 3:08 | 2022-03-24 | 2022-03-31 |
 | [Didlidlada](https://open.spotify.com/track/7xjxkRFcivyukN5Fdvdgwc) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Didlidlada](https://open.spotify.com/album/27rl2aL3EFuapozRlYaiFH) | 2:01 | 2019-10-25 | 2020-04-18 |
 | [Die Brücke](https://open.spotify.com/track/2G97Y9X9QvNlWKdoH9nago) | [Marius Schiffer](https://open.spotify.com/artist/3slLCBXYLkr6Gj1ogFGxGL), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Polychronis Pastourmatzis](https://open.spotify.com/artist/490q8KxyWRWmpJiY51ijnX) | [Kafka](https://open.spotify.com/album/6qrTpWnQF9Ci5AQQYb51Xg) | 1:48 | 2019-06-22 | 2019-11-08 |
-| [Different Story](https://open.spotify.com/track/6Hb20OfR9YBA7FQQKLdYx2) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Different Story](https://open.spotify.com/album/7rqxvfoZTbKM3xYGKfQi3C) | 1:58 | 2024-03-07 |  |
+| [Different Story](https://open.spotify.com/track/6Hb20OfR9YBA7FQQKLdYx2) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Different Story](https://open.spotify.com/album/7rqxvfoZTbKM3xYGKfQi3C) | 1:58 | 2024-03-07 | 2024-03-11 |
 | [Dig This Vibe](https://open.spotify.com/track/6mN4GW8gitB9Ah4AIV9ijY) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Dig This Vibe](https://open.spotify.com/album/45IgHtBzmB4ygUFLUzZUdI) | 2:00 | 2023-04-06 | 2023-11-24 |
 | [Diggin' in Japan](https://open.spotify.com/track/4wBhrjxTqAv3Lf9E78vlGQ) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [You Don't Know What Love Is](https://open.spotify.com/album/1ujIpuxtWkMjAnVn1QeFvt) | 3:01 | 2019-08-30 | 2020-02-22 |
 | [Dinner On Me](https://open.spotify.com/track/0xVoUtNNgGK44tq1lEd0VB) | [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Dinner On Me](https://open.spotify.com/album/5fbc4Kyezue49piNFlPOGq) | 2:33 | 2020-07-31 | 2020-09-11 |
@@ -2108,6 +2108,7 @@
 | [Marinata](https://open.spotify.com/track/5k6LcuhawfebDgPYBzhOAc) | [Drama Hights](https://open.spotify.com/artist/1HXuU92IClL1yGDNQ1kClF) | [Marinata](https://open.spotify.com/album/5yzgXeDOJdi01fCodYV2jn) | 2:31 | 2020-07-03 | 2021-03-06 |
 | [Mario Kart](https://open.spotify.com/track/2wvbihlkxT0VvECJtVCVsz) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Cycles](https://open.spotify.com/album/4RkxmMOK61XzMPA9qyVwRU) | 1:41 | 2021-04-20 | 2021-05-28 |
 | [Marseille](https://open.spotify.com/track/06Ck50qEeY1Ka8Q7RSFyfM) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [William Shine](https://open.spotify.com/artist/31qJcWRmZuRNILCRbn9idq) | [Marseille](https://open.spotify.com/album/5Iywk43RWPJGaMNOcsd6iB) | 2:58 | 2023-10-19 | 2023-11-14 |
+| [Marseille 68](https://open.spotify.com/track/3BvBhuurU2basXBOSfxXyQ) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Marseille 68](https://open.spotify.com/album/0nKktUnh8wPVJlFocjAMWN) | 2:19 | 2024-03-07 |  |
 | [Mashup](https://open.spotify.com/track/0qEaBH8oLqTteftCDatAtM) | [ilover](https://open.spotify.com/artist/7hP2RufxOMB3558ETkkK3z) | [Mashup](https://open.spotify.com/album/44jqZ2iWq6XYh2NxwNhIC1) | 2:51 | 2021-04-03 | 2021-08-06 |
 | [Matagal](https://open.spotify.com/track/5hUjfGbIJlv89IqEt74kAI) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Matagal](https://open.spotify.com/album/782uk1vb0JanYy9QJcALjo) | 2:41 | 2020-12-09 | 2021-03-14 |
 | [Matura](https://open.spotify.com/track/615dueLshTDN5G4Rkvdh8g) | [ORSO](https://open.spotify.com/artist/6CUtexEoHrRbt4Ro9V2leN) | [Matura](https://open.spotify.com/album/3vbt8xcmCxiKm9NlHEzhMm) | 1:48 | 2024-01-15 |  |

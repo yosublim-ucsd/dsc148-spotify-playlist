@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-183 songs - 9 hr 7 min
+184 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bailando](https://open.spotify.com/track/37DUuymoNwvzuxmlsIeUEB) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [TESFY](https://open.spotify.com/artist/2ElvCuSMCZ357wrmbDvz2C), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/55D7V1U0QxSauay1loyOsS) | 2:40 | 2023-06-29 | 2023-07-22 |
 | [Barbie Girl RMX](https://open.spotify.com/track/3GnXG8EvUeuo0IWH3kXFec) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Barbie Girl RMX](https://open.spotify.com/album/5ZgTuCjlxomuHqtRnFt9OR) | 2:56 | 2023-08-16 | 2023-10-01 |
 | [Because The Night](https://open.spotify.com/track/6T4pigGxYcBBOi6q4pdTDl) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:21 | 2022-12-05 | 2023-01-13 |
+| [BELIEVE](https://open.spotify.com/track/5wbOCSgL2J390XSAv2cagW) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [BassWar & CaoX](https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX) | [BELIEVE](https://open.spotify.com/album/4PVQayLg2VKRGKRkCGacjv) | 3:00 | 2024-03-07 |  |
 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 | 2022-12-05 | 2023-06-16 |
 | [Bella Ciao](https://open.spotify.com/track/0aSdsoufzNzGKFkRTkBYzM) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Bella Ciao](https://open.spotify.com/album/1l2IEJRSiiM8dyo9bzMYDY) | 3:18 | 2022-12-05 | 2023-02-17 |
 | [Better Off Alone \- Hardstyle](https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y), [LEOJ](https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB) | [Better Off Alone \(Hardstyle\)](https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW) | 2:41 | 2023-04-27 | 2023-10-31 |
@@ -178,7 +179,7 @@
 | [Turn The Tide Revisited](https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Turn The Tide Revisited](https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz) | 3:08 | 2023-04-20 | 2023-07-14 |
 | [Twerk Anthem](https://open.spotify.com/track/0cZ6KOvnLf0C0GKLti31No) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Twerk Anthem](https://open.spotify.com/album/3cWHRG6B0GYAgusM50re31) | 2:50 | 2023-02-02 | 2023-04-30 |
 | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/track/2oh6jvkOXFs2DTn4ZRtA2i) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/album/0gCd0ywIXYZPmxsNu42vm7) | 3:15 | 2023-02-23 | 2023-03-31 |
-| [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-02 |  |
+| [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-02 | 2024-03-11 |
 | [Vamos A La Playa \- Dr Rude Remix](https://open.spotify.com/track/20HZWH7V52mxvcy0D9LZY8) | [Hak op de Tak](https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e), [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [Vamos A La Playa \(Dr Rude Remix\)](https://open.spotify.com/album/5A9pHSSbNyu4RN5ak3KP8q) | 2:37 | 2023-02-09 | 2023-04-12 |
 | [Vois Sur Ton Chemin \- Hardstyle](https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa) | [Bern\-AT & WARLEX](https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf), [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [Vois Sur Ton Chemin \(Hardstyle\)](https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR) | 3:59 | 2023-12-04 |  |
 | [Wake Me Up \- Hardstyle Remix](https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Patrick Lentz](https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0) | [Wake Me Up \(Hardstyle Remix\)](https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF) | 3:06 | 2022-12-28 | 2023-04-12 |

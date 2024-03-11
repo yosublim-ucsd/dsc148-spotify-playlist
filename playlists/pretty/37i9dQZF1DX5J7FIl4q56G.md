@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: SeeYouSpaceCowboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,175 likes - 69 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,242 likes - 69 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 23 | [Architect](https://open.spotify.com/track/4Eg6Y3G01dRFNuBFofXOrE) | [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [Architect](https://open.spotify.com/album/2GRkmkjAuJ0m8KFy3dII6c) | 3:16 |
 | 24 | [BAD DECISIONS](https://open.spotify.com/track/6ItNJBafyjtSNxF13Ar8kD) | [REDDSTAR](https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK), [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [BAD DECISIONS](https://open.spotify.com/album/2hwTtYQsiUieoiFywHhug2) | 3:32 |
 | 25 | [Glory Days](https://open.spotify.com/track/0vZyBihPgujGitRXqC7D5H) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Glory Days](https://open.spotify.com/album/3wtiGyapEfhtEzvw6kdXue) | 3:56 |
-| 26 | [MURDER \(feat\. INHUMAN\)](https://open.spotify.com/track/0SXHYLK8GYc2jAtFJXiL0Y) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [MURDER \(feat\. INHUMAN\)](https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP) | 3:12 |
+| 26 | [MURDER \(feat\. Code:Pandorum\)](https://open.spotify.com/track/0SXHYLK8GYc2jAtFJXiL0Y) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [MURDER \(feat\. Code:Pandorum\)](https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP) | 3:12 |
 | 27 | [Who Of You Will Persevere?](https://open.spotify.com/track/0uFljE9LwGIDY6Kmuen4fB) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Who Of You Will Persevere?](https://open.spotify.com/album/32SgUz9vBk5fV6A2BZ3qKD) | 3:23 |
 | 28 | [Chaos Sequence](https://open.spotify.com/track/0Q4biqqYKXRr4ZIxEFGKrO) | [Before The Dawn](https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7) | [Chaos Sequence](https://open.spotify.com/album/2Gy0J9sne2BRZxdY7XuUny) | 3:25 |
 | 29 | [The Unholy Grail \(feat\. Dominum, Orden Ogan\)](https://open.spotify.com/track/4XlUgHnEKPQ0ALHVWXBMWW) | [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI), [DOMINUM](https://open.spotify.com/artist/4Nm9FxM65RZa6EgFV2z8S9), [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [The Unholy Grail](https://open.spotify.com/album/3GoxiYK5rimYv6UL395ipL) | 3:51 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 68 | [Identity Disorder](https://open.spotify.com/track/3S4ORKfjQ1ihx6L40wzpV2) | [Pale Path](https://open.spotify.com/artist/7guXfR9IZ23NkaKn0OdpvD) | [Identity Disorder](https://open.spotify.com/album/2sBiIAi9Oh3cvlDBxTTymH) | 3:42 |
 | 69 | [Nine Nights Of Sacrifice](https://open.spotify.com/track/5z1ee0Lfhjx3huYdcMU2Ca) | [Carved In Blood](https://open.spotify.com/artist/0Sy9P30OkcZj6hsj9IGOfp) | [Nine Nights Of Sacrifice](https://open.spotify.com/album/4ifdiSP0P2qYjuU2o4xNlI) | 4:50 |
 
-Snapshot ID: `MCxiZWVlY2ZmYTJiMDc0MzA1OWQ5NzA2MDIxZGFmMWYxZTBmMGIwYzg4`
+Snapshot ID: `MCw4MzZhZGJhOGNjZmVmZTA4NDQ2YWIzMDg4MTNmZDM0YjE0N2I3NDQ1`

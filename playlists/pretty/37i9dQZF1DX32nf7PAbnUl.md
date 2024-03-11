@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,197 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,322 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [Me Gusta](https://open.spotify.com/track/6P3FBaZfUjeWYExU2ShaPZ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [On ira où ?](https://open.spotify.com/album/3fUfQjOcEGe7vvnPA29GBh) | 2:55 |
 | 40 | [La machine](https://open.spotify.com/track/4YcK0u6DgSg1jQqWYCXTBq) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [AYA](https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC) | 3:03 |
 
-Snapshot ID: `MCw3MmViYmVhYzEzNGE0M2FkYjM5ZTk0MjM4ZDlkYTRmZDA4ZGNlNDY0`
+Snapshot ID: `MCxiODc4ZGNhMDY4NTlkNmY5YjcxZWVjM2VlODVhZWMyYWM5YTRlYThl`

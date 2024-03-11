@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Scrim from $uicideboy$
 
-610 songs - 23 hr 58 min
+611 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,7 +603,8 @@
 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 | 2022-06-10 | 2023-12-30 |
 | [Wretched](https://open.spotify.com/track/7xCL5AOdqtcixelQJDBve0) | [Bleed The Wicked Menace](https://open.spotify.com/artist/36lCD1wpgG2iZFY57owCNi) | [Wretched](https://open.spotify.com/album/5Sss4ZBp2HzvFQDZqAjqsL) | 1:17 | 2024-03-08 |  |
 | [WTF 2](https://open.spotify.com/track/2gzIb9rrsQKz1AGBE2WmKF) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/5ERveSd2VSGk3x37LPgjYy) | 2:06 | 2024-02-23 | 2024-03-02 |
-| [WTF 2](https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn) | 2:07 | 2024-02-23 |  |
+| [WTF 2](https://open.spotify.com/track/66QWqZPA5Mxe8LpRjewkVv) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/2njFsjrcCYquIi53DQ9CiX) | [WTF 2](https://open.spotify.com/album/7ebZRkmaweJp2FKLP5NoFt) | 2:06 | 2024-02-23 |  |
+| [WTF 2](https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn) | 2:07 | 2024-02-23 | 2024-03-11 |
 | [WTF!](https://open.spotify.com/track/5po4XqNwlBnXXAYLtRcvpT) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [WTF!](https://open.spotify.com/album/0LWrRIg4YsEn1Xo0njNzVa) | 2:10 | 2022-05-06 | 2022-07-27 |
 | [Xanny Bar](https://open.spotify.com/track/629O8nN3Z3I5RrBBirnGLB) | [Sinny](https://open.spotify.com/artist/4yFMTPSQAun7AXk06kLgHJ), [HELLFXRMANCE](https://open.spotify.com/artist/5SAfqbTKypuqia3PlUNUuZ) | [Xanny Bar](https://open.spotify.com/album/2r8TSBLlXxCDF3bzN2xkVz) | 1:35 | 2022-09-16 | 2022-10-15 |
 | [XTC](https://open.spotify.com/track/10Gu5xREaHENiWT53WycZR) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/4gfe52IH6Rtm58PC16i95I) | 1:52 | 2023-05-26 | 2023-10-25 |

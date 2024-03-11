@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,406,730 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,406,788 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/track/6Ow5yGcdb7YhjRmZJ2cViv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/6eg4SmA5q6IwAfRJ3r140S) | 3:24 |
 | 75 | [MIND YOUR BUSINESS \- David Guetta Remix](https://open.spotify.com/track/7iXLa8DhoOyxB6UQ1iEt5h) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [MIND YOUR BUSINESS \(David Guetta Remix\)](https://open.spotify.com/album/1KCmhvH1PSIUMJ88JmcqOp) | 1:58 |
 
-Snapshot ID: `MCxiMDFkMjg2NjgxZmU5MDA2MjYyZDI4NjgxMDk5Y2ZjNWE2OTU1ODJm`
+Snapshot ID: `MCw0Njc0MjU2MmEwOWEzNjU4Y2E1MGNhYzdkZjE4MzcyMmQyYjc1NzBl`

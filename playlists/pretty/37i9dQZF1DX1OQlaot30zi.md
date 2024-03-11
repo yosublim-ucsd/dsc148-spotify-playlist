@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ElMatador, Capo Plaza, Rose Villain, Rhove, Emis Killa e Simba, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,002 likes - 95 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,068 likes - 95 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 91 | [Bimba](https://open.spotify.com/track/1bWzv2TNJrRLE2L6w8qX2M) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bimba](https://open.spotify.com/album/4I52eMbRnqpUZPaBtkqgbR) | 2:39 |
 | 92 | [NEVE SULLE JORDAN \(feat\. Capo Plaza\)](https://open.spotify.com/track/3825sviXclbrTvBpjmjXiR) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/5uYRRiyE4BsOIIeu3y1o1F) | 3:00 |
 | 93 | [Pharrell Freestyle](https://open.spotify.com/track/0Ka1Jc9CobgLcrz5bNuWQp) | [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH) | [Pharrell Freestyle](https://open.spotify.com/album/3GO1ZJaCOohxymzMJ9M9OT) | 2:20 |
-| 94 | [Addosso](https://open.spotify.com/track/3Vvfh3Bx0A8dtK31QPzhI9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/2KfRdmJYAVdbQfAZSj5QUs) | 2:41 |
+| 94 | [Addosso](https://open.spotify.com/track/6q40i1kf85LSF35cadTAw9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/4r1T5CWIHeIER0eRZdl2A6) | 2:41 |
 | 95 | [Walter White](https://open.spotify.com/track/4C980lj6oDL9afqXL6B7CC) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Walter White](https://open.spotify.com/album/0bjfbfgm2hQte6OBSAwg90) | 2:10 |
 
-Snapshot ID: `MCw4NTZkMjNhN2U2YzliNTNhNDc3ODYzZGRmZmI4MDkxNWZkMGFhODcx`
+Snapshot ID: `MCw1ODg5YTYxZTc0YWJlYWY0MWY0NzNlNjNiYzc1Yjk2ZWIyMDI5Yzlh`

@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 6605,
+  "2024-03-11": 6637,
   "date_first_scraped": "2023-12-31",
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
   "name": "This Is Mc Luanna",
@@ -1015,6 +1015,36 @@
       "duration_ms": 246965,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
+    },
+    {
+      "album": {
+        "name": "Poder Aquisitivo",
+        "url": "https://open.spotify.com/album/2ESgnOBqnvfeceu4IWWxk2"
+      },
+      "artists": [
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AnjO 005",
+          "url": "https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3"
+        },
+        {
+          "name": "JIRAYA",
+          "url": "https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210048,
+      "name": "Poder Aquisitivo",
+      "url": "https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB"
     },
     {
       "album": {

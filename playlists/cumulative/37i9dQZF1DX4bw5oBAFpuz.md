@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-343 songs - 20 hr 0 min
+344 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,13 +76,14 @@
 | [Dream Go](https://open.spotify.com/track/7DwtE2gzC9yzmd5EyZKRid) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [Loop & Dream Go](https://open.spotify.com/album/6mqRQ2RqCs9UdlUPArUcXo) | 2:59 | 2023-06-06 |  |
 | [Dreamer \- Simple Song Mix](https://open.spotify.com/track/26LZaJ0KUKHRgtYk21rfxN) | [DINAND](https://open.spotify.com/artist/5eGojGYQg5eSfygyglTpuv) | [Dreamer](https://open.spotify.com/album/5Kp79NsFQhoE2eAbDIfwIK) | 2:44 | 2023-02-23 | 2023-04-07 |
 | [Drift Away](https://open.spotify.com/track/2XXWxbULM7crzDMiXgcw4Q) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Vantage Point](https://open.spotify.com/album/0brAypU3M5W90PnDBs0aGH) | 2:59 | 2023-02-23 |  |
+| [Drop It](https://open.spotify.com/track/3cQw1dHuin6zpmrmmh2rIs) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [While I'm Awake](https://open.spotify.com/album/7kh3Mxf4Gg6WrQtaQ8JaC6) | 4:00 | 2024-02-29 |  |
 | [Drop It](https://open.spotify.com/track/5oqwXc3BRpbeinJ0AoMhbN) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [While I'm Awake](https://open.spotify.com/album/6wOVVwm4qn4zYSbM9AmUXb) | 4:00 | 2023-04-25 | 2023-12-21 |
 | [Earth Meets Water](https://open.spotify.com/track/7zjZ7SOUTlliB60rAdgkYD) | [Rigby](https://open.spotify.com/artist/5K6oqBPwyLKhMWEe5sa5x0) | [Island on Mainland](https://open.spotify.com/album/5NfwnudvRmAD12r6sHd1zr) | 3:22 | 2023-02-23 |  |
 | [Easy](https://open.spotify.com/track/0Ep95NHSRnEPeSNJMNtmzo) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Easy](https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX) | 2:34 | 2023-02-23 |  |
 | [Elephants](https://open.spotify.com/track/0y33xGEGrnMTuHoK8ExbtI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [De Zwarte Lijst](https://open.spotify.com/album/4mb8ZVI5MmAApY7909j5YK) | 3:30 | 2023-02-23 | 2023-04-26 |
 | [Ella](https://open.spotify.com/track/5RzwjmsN0rQ1yUZcQyvnbV) | [Kreem](https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD) | [Ella](https://open.spotify.com/album/1v4Sce3MaJwQ8bmcHIE4nG) | 3:42 | 2023-09-07 |  |
 | [Ella](https://open.spotify.com/track/6K6zBaUTbDyLSAVhGSDEl3) | [Kreem](https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD) | [Ella](https://open.spotify.com/album/3Ks48SHWdrZ8wx8ddHetd6) | 3:42 | 2023-04-25 | 2023-10-07 |
-| [Embrace](https://open.spotify.com/track/3pJHB3hEoZbBQGtodxU0xM) | [Dazzled Kid](https://open.spotify.com/artist/5qxWXQ3Dgux2hrMKN2sz4h) | [Fire Needs Air](https://open.spotify.com/album/2dxp5vmUww5VZpbJVkwZTw) | 2:45 | 2023-04-25 |  |
+| [Embrace](https://open.spotify.com/track/3pJHB3hEoZbBQGtodxU0xM) | [Dazzled Kid](https://open.spotify.com/artist/5qxWXQ3Dgux2hrMKN2sz4h) | [Fire Needs Air](https://open.spotify.com/album/2dxp5vmUww5VZpbJVkwZTw) | 2:45 | 2023-04-25 | 2024-03-11 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-02-23 | 2023-04-26 |
 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 | 2023-02-23 |  |
 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 | 2023-02-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,623 likes - 95 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,673 likes - 95 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 40 | [Behula](https://open.spotify.com/track/18KPyTq6Al56l0vMPQFjR1) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Behula](https://open.spotify.com/album/5IWfT7VFhPUUpBMZ75lJKG) | 3:52 |
 | 41 | [Shei Tumi](https://open.spotify.com/track/36QrilHTYyAkjzgHvNRYZV) | [TAPOSH](https://open.spotify.com/artist/6zOQ0nUPn7uoRZDJirukxz), [Ayub Bachchu](https://open.spotify.com/artist/7fP06sphQmnvvioXOWZMCF) | [Shei Tumi](https://open.spotify.com/album/1zYR45tErinHvw1jpqr4sZ) | 4:35 |
 | 42 | [Taray Taray](https://open.spotify.com/track/3Ty0K7mafgndKVXhYrDb1x) | [Nogor Baul James](https://open.spotify.com/artist/33HfLLFWgE1OFdOINScjrS) | [Best of James](https://open.spotify.com/album/1sKH2wZXCbi7TSArR9rSdc) | 5:33 |
-| 43 | [Shey Amare](https://open.spotify.com/track/0nkJfYDa3wb28oWuR29Qi3) | [Ashes Bangladesh](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/3iFjGwNdRHb4xv8Pz0Wx9s) | 6:02 |
+| 43 | [Shey Amare](https://open.spotify.com/track/5Wf3eV9Y0WI8kBRR6RgJcD) | [Ashes Bangladesh](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/4zdE65VrMlQnCHEyDqRQnX) | 6:02 |
 | 44 | [Na Pawar Golpo](https://open.spotify.com/track/1vz2SrkLov7vyaZEtZBJLK) | [Encore](https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7) | [Na Pawar Golpo](https://open.spotify.com/album/6q6vxChMMbZYeEHhiNNsXg) | 5:01 |
 | 45 | [Cholo Arekbar Uri](https://open.spotify.com/track/6BnrcE0vfX8ZcjpcXxRaoo) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bhaar](https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8) | 4:43 |
 | 46 | [ONUBHUTI](https://open.spotify.com/track/6gOYHUPMviZ9kNdIkNgKjq) | [Arbovirus](https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle) | [ONUBHUTI](https://open.spotify.com/album/5Gs4vwvB68JbP2TbBtsigY) | 3:59 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 94 | [Ondho Deyal](https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 5:37 |
 | 95 | [Chaya](https://open.spotify.com/track/6YdezeXuIAkGaLRgbC08Ny) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Chaya](https://open.spotify.com/album/5DHclWpAoKJglHp93WrQ2F) | 6:25 |
 
-Snapshot ID: `MCxjNGNiMzlmYjM4MTVjYWRhMzgzNTM1NDJiZTVmMTUyNGE2NzExNWMz`
+Snapshot ID: `MCxjMDkzMzUxMzMxZjIxZjEwOTNiYTY0NDZkMDBlNGEyODBmYWY2OWE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Cami.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,404 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,425 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 23 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 |
 | 24 | [Arza y Toma](https://open.spotify.com/track/7Jwb6OyKlFaNwCcLKbhzKz) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Arza y Toma](https://open.spotify.com/album/4dU7Ci3JxiHQdfZWkVVyIe) | 3:34 |
 | 25 | [Sismo](https://open.spotify.com/track/5rXwuI5uiv1ZaSOXm9o4Gm) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Sismo](https://open.spotify.com/album/4vQmVKGg34lT3BYRwWI0cO) | 3:52 |
-| 26 | [Negociemos](https://open.spotify.com/track/2uWe03F58LgGYg1px68izl) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [...Más Canciones De Amor](https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7) | 2:44 |
-| 27 | [Adentro](https://open.spotify.com/track/65nQli6Slisl9Ksu6o0yLN) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/3WTzAP8jDP47QJ5XxpfgOt) | 3:18 |
+| 26 | [Adentro](https://open.spotify.com/track/65nQli6Slisl9Ksu6o0yLN) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/3WTzAP8jDP47QJ5XxpfgOt) | 3:18 |
+| 27 | [Negociemos](https://open.spotify.com/track/2uWe03F58LgGYg1px68izl) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [...Más Canciones De Amor](https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7) | 2:44 |
 | 28 | [14F](https://open.spotify.com/track/4kJrtSLNJCJnhvk0VDFyqr) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [14F](https://open.spotify.com/album/2VOzU65Y6m4Yp4okBNu5D0) | 2:22 |
 | 29 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 |
 | 30 | [Tiempo al tiempo](https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Ese Té](https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE) | [Tiempo al tiempo](https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz) | 2:22 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 36 | [antes de marchitarme](https://open.spotify.com/track/3SebSOyNzn2PWib9xiOlJO) | [Antipatriarka](https://open.spotify.com/artist/5rZyPEZVynb13WM1T0AA1p) | [ANTÍDOTO](https://open.spotify.com/album/26rubL6YMJu0GFTpyDcHxX) | 2:33 |
 | 37 | [entre las sombras,](https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 4:30 |
 | 38 | [Olvídame](https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy) | [Cromantis](https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1) | [Olvídame](https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ) | 3:16 |
-| 39 | [Voy a hacer las cosas lento](https://open.spotify.com/track/49duWGcDtY71As1gHIuQGz) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Las Cosas Lento](https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj) | 3:28 |
-| 40 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 |
-| 41 | [For Real](https://open.spotify.com/track/3O5XAiurMosdHxiOYckoYS) | [Esteza](https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3), [LUCATO](https://open.spotify.com/artist/7g45ys9hIN4FYd3evubK8l) | [Culona y Llorona.](https://open.spotify.com/album/2LeboBZBofMm9cUz6MYKAF) | 2:37 |
-| 42 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
-| 43 | [Baby del Rey](https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Baby del Rey](https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB) | 3:20 |
+| 39 | [Baby del Rey](https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Baby del Rey](https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB) | 3:20 |
+| 40 | [Voy a hacer las cosas lento](https://open.spotify.com/track/49duWGcDtY71As1gHIuQGz) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Las Cosas Lento](https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj) | 3:28 |
+| 41 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 |
+| 42 | [For Real](https://open.spotify.com/track/3O5XAiurMosdHxiOYckoYS) | [Esteza](https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3), [LUCATO](https://open.spotify.com/artist/7g45ys9hIN4FYd3evubK8l) | [Culona y Llorona.](https://open.spotify.com/album/2LeboBZBofMm9cUz6MYKAF) | 2:37 |
+| 43 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
 | 44 | [Cuarta pared](https://open.spotify.com/track/1gADJxAF0of5vxTRisUWCj) | [Javiera Electra](https://open.spotify.com/artist/7c2QpfLeD8s647evep6Mbp) | [REPRÍS](https://open.spotify.com/album/6VV0FKDFoMDWL1vAuL2DBP) | 4:29 |
 | 45 | [Dunas](https://open.spotify.com/track/6Dpo39yzOfHjhM0tGNPT98) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Dunas](https://open.spotify.com/album/6wj89F0gGAMks3pJnlQ6hE) | 4:04 |
 | 46 | [Ella](https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Ella](https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Asumir](https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Asumir](https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY) | 3:47 |
 | 50 | [La Muerte](https://open.spotify.com/track/0yaSwRYXIriSk12LHaUSc0) | [Rocío Peña](https://open.spotify.com/artist/3sxc4zdETNUXmbex0OEJ8z) | [Del Trueno](https://open.spotify.com/album/0XDq3spP4uE6DEiX30mxZU) | 2:34 |
 
-Snapshot ID: `MCxkZGMzYzI3NzdjZWZmYTIyMWQ1ODFhZGZmY2Q0NThkYzM1NDBiNDEy`
+Snapshot ID: `MCwwMDUxNmQ1Njg2MDllZWRmMDFkMjljZDFmZjhmYjMzZmU1ZTE0N2U0`

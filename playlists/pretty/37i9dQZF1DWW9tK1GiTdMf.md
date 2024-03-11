@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Giuze in cover\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,010 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,014 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 80 | [ogni volta mi spezzi](https://open.spotify.com/track/4yHUWl2Ls2JGe00A3q7DQz) | [lento](https://open.spotify.com/artist/7gNMn4clO3XYSxG1DAEqbv) | [ogni volta mi spezzi](https://open.spotify.com/album/2F1Gx036eEmVX1txd4JWP4) | 2:11 |
 | 81 | [OTTOBRE](https://open.spotify.com/track/2EaYpdHtbZOpbhz7xnEEjz) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [OTTOBRE](https://open.spotify.com/album/6pJMdxKlCy3OX0mVqHbbi9) | 2:53 |
 | 82 | [Con Nessuno \(feat\. Øjne\)](https://open.spotify.com/track/6VEAICgujKbc3cAYnqv3dq) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ), [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Con Nessuno \(feat\. Øjne\)](https://open.spotify.com/album/0F5mnWJlABzWDk4IKelAE2) | 2:49 |
-| 83 | [hostage](https://open.spotify.com/track/4c1prDEgRB8bDIEiuF1gcQ) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/6wMJeF1ICiUr9r3ovHFzWD) | 2:43 |
+| 83 | [hostage](https://open.spotify.com/track/5iQrF3TEjpz2tBZed7Qy9N) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [HEADSPLIT](https://open.spotify.com/album/460fhxEztqiD7DkxTAETRL) | 2:43 |
 | 84 | [paranoie lowcost](https://open.spotify.com/track/4c7Uw6OhH5tYKw6W2LluQk) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC) | [paranoie lowcost](https://open.spotify.com/album/5NmfFLvPPXmX8VICqOruf0) | 3:32 |
 | 85 | [ANIME // LACRIME](https://open.spotify.com/track/2uXMhura9A8WAQ6hJhwWVb) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb) | [ANIME // LACRIME](https://open.spotify.com/album/0nNR2YC1WWGwxjd4X4KbJU) | 2:58 |
 
-Snapshot ID: `MCw5MWUxYmVmMzFmZmNmZTY1ZWU4YjZlZDIwYmJhZmFmOTQ3MzEyYTZh`
+Snapshot ID: `MCwyNThkZDc5MDZmNDAxMWNkOWNhNDQ1ZDBkYTc5OGM3NjQ5MWYwNTFh`

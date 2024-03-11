@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Those Were the Days",
+        "url": "https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5"
+      },
+      "artists": [
+        {
+          "name": "Damian McGinty",
+          "url": "https://open.spotify.com/artist/55vhWUMlow4Z91foJtpm1Y"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190357,
+      "name": "Don't Wake Me",
+      "url": "https://open.spotify.com/track/6PWxbGXyK8X8FNbnprbfk7"
+    },
+    {
+      "album": {
         "name": "I Found You EP",
         "url": "https://open.spotify.com/album/5h5ux1uJHaRo82sDyhNOin"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Co-curated by: Philine Sonny",
-  "num_followers": 33505,
+  "num_followers": 33651,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmIwMzM2YTFhMWZlYjEwYTY4ODliODQ4NzMxOTZkODc1OTcxYTBh",
+  "snapshot_id": "MCxjMmFjMDc3YjFkYWFmM2M1Mzk0OWZkMzRmNDU2N2MwOGQ0ODlmNWZm",
   "tracks": [
     {
       "added_at": "2024-03-07 12:02:21",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-03-07 12:02:21",
       "album": {
-        "name": "H\u00f6lle (TW)",
-        "url": "https://open.spotify.com/album/0oo1trj26v7QHN1N3KkBqT"
-      },
-      "artists": [
-        {
-          "name": "Marisabelle",
-          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "H\u00f6lle (TW)",
-      "url": "https://open.spotify.com/track/12u7o9mLjgFOy7V2V2IGqg"
-    },
-    {
-      "added_at": "2024-03-07 12:02:21",
-      "album": {
         "name": "Flashback 98",
         "url": "https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 211764,
       "name": "Flashback 98",
       "url": "https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV"
+    },
+    {
+      "added_at": "2024-03-07 12:02:21",
+      "album": {
+        "name": "H\u00f6lle (TW)",
+        "url": "https://open.spotify.com/album/0oo1trj26v7QHN1N3KkBqT"
+      },
+      "artists": [
+        {
+          "name": "Marisabelle",
+          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "H\u00f6lle (TW)",
+      "url": "https://open.spotify.com/track/12u7o9mLjgFOy7V2V2IGqg"
     },
     {
       "added_at": "2024-03-07 12:02:21",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-07 12:02:21",
       "album": {
-        "name": "Straight Outta Tanger",
-        "url": "https://open.spotify.com/album/5YAsunlDLu4XnwwgIiGyAq"
-      },
-      "artists": [
-        {
-          "name": "HONNY",
-          "url": "https://open.spotify.com/artist/62aclYsGZKLP2kgEShQBx7"
-        }
-      ],
-      "duration_ms": 139531,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/3a4JqVlVcCeey7FxJMMEyO"
-    },
-    {
-      "added_at": "2024-03-07 12:02:21",
-      "album": {
         "name": "gr\u00fctze - bist du gut im atmen",
         "url": "https://open.spotify.com/album/1TNb8ZZ30qT6FhnOFAtPEy"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 219609,
       "name": "gr\u00fctze - bist du gut im atmen",
       "url": "https://open.spotify.com/track/43pKbbLyLJZl47GxMtsGmy"
+    },
+    {
+      "added_at": "2024-03-07 12:02:21",
+      "album": {
+        "name": "Straight Outta Tanger",
+        "url": "https://open.spotify.com/album/5YAsunlDLu4XnwwgIiGyAq"
+      },
+      "artists": [
+        {
+          "name": "HONNY",
+          "url": "https://open.spotify.com/artist/62aclYsGZKLP2kgEShQBx7"
+        }
+      ],
+      "duration_ms": 139531,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/3a4JqVlVcCeey7FxJMMEyO"
     },
     {
       "added_at": "2024-03-07 12:02:21",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-03-07 12:02:21",
       "album": {
+        "name": "The Sky Above / Dynamo",
+        "url": "https://open.spotify.com/album/5SCfKJEHzs03qMqPuco8uP"
+      },
+      "artists": [
+        {
+          "name": "Magdalena",
+          "url": "https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc"
+        }
+      ],
+      "duration_ms": 381199,
+      "name": "Dynamo",
+      "url": "https://open.spotify.com/track/7m9TviLYsDh1wbjXcYglzb"
+    },
+    {
+      "added_at": "2024-03-07 12:02:21",
+      "album": {
         "name": "Slumber Party",
         "url": "https://open.spotify.com/album/1ILkp7RlyLsgFwdBGKyV7N"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 354453,
       "name": "Slumber Party",
       "url": "https://open.spotify.com/track/52dvoTzRkbAEFdURrRKPQw"
-    },
-    {
-      "added_at": "2024-03-07 12:02:21",
-      "album": {
-        "name": "The Sky Above / Dynamo",
-        "url": "https://open.spotify.com/album/5SCfKJEHzs03qMqPuco8uP"
-      },
-      "artists": [
-        {
-          "name": "Magdalena",
-          "url": "https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc"
-        }
-      ],
-      "duration_ms": 381199,
-      "name": "Dynamo",
-      "url": "https://open.spotify.com/track/7m9TviLYsDh1wbjXcYglzb"
     },
     {
       "added_at": "2024-03-07 12:02:21",

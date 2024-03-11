@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 214325,
+  "2024-03-11": 214479,
   "date_first_scraped": "2022-01-26",
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
   "name": "Sweet Jazz",
@@ -411,6 +411,24 @@
       "duration_ms": 151213,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5oGarhTcFKX2KuQ9UtBl19"
+    },
+    {
+      "album": {
+        "name": "Always on my mind",
+        "url": "https://open.spotify.com/album/2NGSJsqIrWirzY8wgKVBUb"
+      },
+      "artists": [
+        {
+          "name": "Lisa \u00d6stergren",
+          "url": "https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211528,
+      "name": "Always on my mind",
+      "url": "https://open.spotify.com/track/43G5E8Tk4eedtIh7wBzC0W"
     },
     {
       "album": {
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 211408,
       "name": "Devil May Care",
       "url": "https://open.spotify.com/track/51zApQvjmJu06ZhUYQADJQ"

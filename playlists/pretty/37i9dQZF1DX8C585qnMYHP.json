@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Amina Cyu on cover. Artwork by Thami Nabil",
-  "num_followers": 154156,
+  "num_followers": 154241,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjNmNjEwMTUwOWNkMDBiZGY3MWJlNTBiZTk0MDIzZGJmZmZkZmFi",
+  "snapshot_id": "MCxhMWI0ZjFjMTE3MTYyNDk1YmY2ZDlmMTI0NjI0N2E5ZmM4ZWQ1Zjkx",
   "tracks": [
     {
       "added_at": "2024-03-06 06:00:00",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
     },
     {
-      "added_at": "2024-01-24 03:58:32",
-      "album": {
-        "name": "Me she said",
-        "url": "https://open.spotify.com/album/5aqxaHuCa2twoBbAql8ZSe"
-      },
-      "artists": [
-        {
-          "name": "toechter",
-          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "Me she said",
-      "url": "https://open.spotify.com/track/2aX2Zojj2dhYdusf2hGRhN"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Nomad",
@@ -351,6 +335,22 @@
       "duration_ms": 275253,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
+    },
+    {
+      "added_at": "2024-01-24 03:58:32",
+      "album": {
+        "name": "Me she said",
+        "url": "https://open.spotify.com/album/5aqxaHuCa2twoBbAql8ZSe"
+      },
+      "artists": [
+        {
+          "name": "toechter",
+          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "Me she said",
+      "url": "https://open.spotify.com/track/2aX2Zojj2dhYdusf2hGRhN"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -461,6 +461,30 @@
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
     },
     {
+      "added_at": "2024-01-24 03:58:32",
+      "album": {
+        "name": "something that lasts",
+        "url": "https://open.spotify.com/album/0zBqpV65kUId8AQLTm4Wbf"
+      },
+      "artists": [
+        {
+          "name": "Immaterialize",
+          "url": "https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by"
+        },
+        {
+          "name": "Lipsticism",
+          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
+        },
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        }
+      ],
+      "duration_ms": 238750,
+      "name": "something that lasts",
+      "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
+    },
+    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Noche",
@@ -497,30 +521,6 @@
       "url": "https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl"
     },
     {
-      "added_at": "2024-01-24 03:58:32",
-      "album": {
-        "name": "something that lasts",
-        "url": "https://open.spotify.com/album/0zBqpV65kUId8AQLTm4Wbf"
-      },
-      "artists": [
-        {
-          "name": "Immaterialize",
-          "url": "https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by"
-        },
-        {
-          "name": "Lipsticism",
-          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
-        },
-        {
-          "name": "Fire-Toolz",
-          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
-        }
-      ],
-      "duration_ms": 238750,
-      "name": "something that lasts",
-      "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
-    },
-    {
       "added_at": "2023-08-02 14:55:57",
       "album": {
         "name": "Ulaan",
@@ -553,6 +553,38 @@
       "url": "https://open.spotify.com/track/0F2wG8xPitaD0mw6KC6O1W"
     },
     {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Demon Muppy",
+        "url": "https://open.spotify.com/album/1fDOFgGZtEyXDIT3FMQtA4"
+      },
+      "artists": [
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "YATKAMAN3000",
+      "url": "https://open.spotify.com/track/3hsMgDto5riKNTHnrlTGLd"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Sampler 1 B1 (Regis Edit)",
@@ -575,38 +607,6 @@
       "duration_ms": 321082,
       "name": "Sampler 1 B1 - Regis Edit",
       "url": "https://open.spotify.com/track/3hJyVn1GKQthsNbg7rTwKx"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Demon Muppy",
-        "url": "https://open.spotify.com/album/1fDOFgGZtEyXDIT3FMQtA4"
-      },
-      "artists": [
-        {
-          "name": "Niontay",
-          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "YATKAMAN3000",
-      "url": "https://open.spotify.com/track/3hsMgDto5riKNTHnrlTGLd"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
+        "name": "onomatopoeia",
+        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
+      },
+      "artists": [
+        {
+          "name": "J. Albert",
+          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
+        }
+      ],
+      "duration_ms": 269812,
+      "name": "tdU_du_tdu_tdu",
+      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
         "name": "Ferris Parade",
         "url": "https://open.spotify.com/album/3K0m77uugdjUASwQosIksy"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 166764,
       "name": "Ferris Parade",
       "url": "https://open.spotify.com/track/3VXnOLGKahjTbkiulsFjox"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "onomatopoeia",
-        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
-      },
-      "artists": [
-        {
-          "name": "J. Albert",
-          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
-        }
-      ],
-      "duration_ms": 269812,
-      "name": "tdU_du_tdu_tdu",
-      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -779,6 +779,22 @@
       "duration_ms": 173525,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Slime Patrol 2",
+        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
+      },
+      "artists": [
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 214941,
+      "name": "You Know I Got That / Wont Stop Callin",
+      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -847,22 +863,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Slime Patrol 2",
-        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
-      },
-      "artists": [
-        {
-          "name": "Khadija Al Hanafi",
-          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
-        }
-      ],
-      "duration_ms": 214941,
-      "name": "You Know I Got That / Wont Stop Callin",
-      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "Us, In Between The Blinded",
         "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
       },
@@ -909,6 +909,22 @@
       "url": "https://open.spotify.com/track/4tbc7xmFrymbMc7kYDLWrL"
     },
     {
+      "added_at": "2023-06-07 12:55:36",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Notes on Listening",
@@ -925,20 +941,20 @@
       "url": "https://open.spotify.com/track/5dHVl3VXApP4q5WQ3lDLSh"
     },
     {
-      "added_at": "2023-06-07 12:55:36",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+        "name": "Ignore",
+        "url": "https://open.spotify.com/album/2rAaBEPv2cTqzkPGUuMY3E"
       },
       "artists": [
         {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
         }
       ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+      "duration_ms": 188889,
+      "name": "Ignore",
+      "url": "https://open.spotify.com/track/5WlZMqOIDB4O1y4kONHMOa"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 211800,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/6DQxEmCC0BKGxMWEY0pRKJ"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Ignore",
-        "url": "https://open.spotify.com/album/2rAaBEPv2cTqzkPGUuMY3E"
-      },
-      "artists": [
-        {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Ignore",
-      "url": "https://open.spotify.com/track/5WlZMqOIDB4O1y4kONHMOa"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1233,20 +1233,20 @@
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Hit With The Most",
-        "url": "https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE"
+        "name": "Scorpion Deathlock",
+        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
       },
       "artists": [
         {
-          "name": "RIBBON STAGE",
-          "url": "https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ"
+          "name": "The Golden Age of Wrestling",
+          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
         }
       ],
-      "duration_ms": 105739,
-      "name": "Sulfate",
-      "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
+      "duration_ms": 173226,
+      "name": "Ferrari Rocher",
+      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
     },
     {
       "added_at": "2024-01-10 04:07:01",
@@ -1265,20 +1265,20 @@
       "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
+      "added_at": "2024-01-10 04:24:05",
       "album": {
-        "name": "Scorpion Deathlock",
-        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
+        "name": "Hit With The Most",
+        "url": "https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE"
       },
       "artists": [
         {
-          "name": "The Golden Age of Wrestling",
-          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
+          "name": "RIBBON STAGE",
+          "url": "https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ"
         }
       ],
-      "duration_ms": 173226,
-      "name": "Ferrari Rocher",
-      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
+      "duration_ms": 105739,
+      "name": "Sulfate",
+      "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Echo's Disintegration",
-        "url": "https://open.spotify.com/album/0B1NIU0bjLtGQTNAdEMBj8"
-      },
-      "artists": [
-        {
-          "name": "Alliyah Enyo",
-          "url": "https://open.spotify.com/artist/611MzFC9UqaAVtEFb4TXNS"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "Choral Fragmentation *latenights*",
-      "url": "https://open.spotify.com/track/4QoBFxEsDlkZSCtpG2b4Uq"
-    },
-    {
       "added_at": "2023-07-19 01:03:01",
       "album": {
         "name": "RPG",
@@ -1343,6 +1327,22 @@
       "duration_ms": 205000,
       "name": "Real World",
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Echo's Disintegration",
+        "url": "https://open.spotify.com/album/0B1NIU0bjLtGQTNAdEMBj8"
+      },
+      "artists": [
+        {
+          "name": "Alliyah Enyo",
+          "url": "https://open.spotify.com/artist/611MzFC9UqaAVtEFb4TXNS"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "Choral Fragmentation *latenights*",
+      "url": "https://open.spotify.com/track/4QoBFxEsDlkZSCtpG2b4Uq"
     },
     {
       "added_at": "2024-01-10 04:24:05",

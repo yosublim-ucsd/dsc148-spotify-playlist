@@ -6,7 +6,7 @@
     "name": "Sally_e713",
     "url": "https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u"
   },
-  "snapshot_id": "MTA5OSw0NWQ1Y2FjMTE0MTQxYWIyZWZhOTA5M2QwOGNhZTBkYjcyODEwNWJh",
+  "snapshot_id": "MTEwMCxlNjUxYzgzMTMzOTI3MjlhZGZmYjUxZDY4NjcxNzMxYmRiM2MzM2E5",
   "tracks": [
     {
       "added_at": "2022-04-11 12:00:45",
@@ -6603,6 +6603,22 @@
       "duration_ms": 274253,
       "name": "She Want",
       "url": "https://open.spotify.com/track/1Ra4MS4TAzOSE2x1ZBgyYp"
+    },
+    {
+      "added_at": "2024-03-10 21:26:08",
+      "album": {
+        "name": "I Know Better",
+        "url": "https://open.spotify.com/album/67PM09778AoAOxAEeIvJbp"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "duration_ms": 257193,
+      "name": "I Know Better",
+      "url": "https://open.spotify.com/track/2nzzNKvjQaD85bOGwRsNg0"
     }
   ],
   "unique_name": "main playlist",

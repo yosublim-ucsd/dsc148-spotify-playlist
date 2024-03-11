@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,698 likes - 300 songs - 10 hr 51 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,701 likes - 300 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,7 +198,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 188 | [Daylight](https://open.spotify.com/track/4AKmJveuKQnjDmTK3JO75j) | [Rhino Beats](https://open.spotify.com/artist/2wpj4fwPIhFXe1uX307PNK) | [Daylight](https://open.spotify.com/album/2y6Eun4yYdKFq8ShpHzx8B) | 2:00 |
 | 189 | [downfall](https://open.spotify.com/track/1Zz6OAkPvIrvB1ckmczIyX) | [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Longlaïx](https://open.spotify.com/artist/7vOSW2ZHQ08ri8a7wlE0A4), [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT) | [downfall](https://open.spotify.com/album/6U8X8wjCW9XiclD3YyRlDg) | 1:44 |
 | 190 | [peace of mind](https://open.spotify.com/track/2oDj62dfi0RlTIHFqwJc3q) | [Happy Tobi](https://open.spotify.com/artist/1GyfVIZcP7PfEgpNnars9N) | [peace of mind](https://open.spotify.com/album/3OMgTig17XO1V1SAsNrgwM) | 1:32 |
-| 191 | [Pancake time](https://open.spotify.com/track/4WpJW0BaVMRaNU3FBXlr0L) | [minimog](https://open.spotify.com/artist/0fBNLX3OVz4zGbZNFuOiwf), [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz), [New Peace Music](https://open.spotify.com/artist/6xzCXXU145WI6ymKsNTRLy) | [Pancake time](https://open.spotify.com/album/7oVDymw2Hr8Hs2QsF3nlSH) | 1:54 |
+| 191 | [Pancake time](https://open.spotify.com/track/4WpJW0BaVMRaNU3FBXlr0L) | [minimog](https://open.spotify.com/artist/0fBNLX3OVz4zGbZNFuOiwf), [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz) | [Pancake time](https://open.spotify.com/album/7oVDymw2Hr8Hs2QsF3nlSH) | 1:54 |
 | 192 | [Mooncry](https://open.spotify.com/track/1PGnn0zaP5bpMonjk6Y6yN) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Mooncry](https://open.spotify.com/album/3VUaAS98NOEWSOwI8Xsajz) | 1:14 |
 | 193 | [Primavera](https://open.spotify.com/track/1HsM1m5BQGIwlvKOXEXeWp) | [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Primavera](https://open.spotify.com/album/2pOBHxkhPm9TRgdkh3wTvf) | 1:30 |
 | 194 | [City Life](https://open.spotify.com/track/08MWt3FCY1ek1gwUb7GkjN) | [marbre](https://open.spotify.com/artist/2blo5YYX36yUbDlleqNSA7), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [City Life](https://open.spotify.com/album/7HFxW0ZdljOqgpTxPWgQGm) | 2:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: ZOOKARADERU \(ズーカラデル\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,449 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,589 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Broken Lovers](https://open.spotify.com/track/21e5VSkDCzL5FdL52TLk2X) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Broken Lovers](https://open.spotify.com/album/11XIM09huBMtaV7dYWXCLf) | 4:52 |
 | 100 | [Before It's Too Late](https://open.spotify.com/track/1uT4odyKXCLbuO6OqRm5gp) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Before It's Too Late](https://open.spotify.com/album/4r8IpdgaSZqSiX9RXaNjq0) | 3:39 |
 
-Snapshot ID: `MCw3NmJlMzA1MWM3ZTVlNmZhOWIyNDlkN2Y0NzM0MmYyYjdjYTY4Y2Rm`
+Snapshot ID: `MCxiMjMxMDY5YTdlZTU5MzUxOGU1YmEwZTYxZmJhZTMzODY4OWVlMjky`

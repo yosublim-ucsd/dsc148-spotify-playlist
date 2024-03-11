@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 83775,
+  "num_followers": 83801,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGVhMTA3YmZhZDcxNjY3NjkwNTMxYzZhMDQxOTA3ODU3MTczMjE3",
+  "snapshot_id": "MCxjYzJmYjZlNzFmMWNmMjEwYjkyODYyZjA0MWU1NDg4MTRlZDQ3N2E2",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -691,18 +691,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        },
+        {
+          "name": "herhexx",
+          "url": "https://open.spotify.com/artist/7AI9yB4mqXc2h9fONnHgqA"
         }
       ],
-      "duration_ms": 128983,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
+      "duration_ms": 157522,
+      "name": "i want to be by your side",
+      "url": "https://open.spotify.com/track/5ZfMb1vgKdvG9Mr2iRXXN2"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -727,22 +731,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        },
-        {
-          "name": "herhexx",
-          "url": "https://open.spotify.com/artist/7AI9yB4mqXc2h9fONnHgqA"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 157522,
-      "name": "i want to be by your side",
-      "url": "https://open.spotify.com/track/5ZfMb1vgKdvG9Mr2iRXXN2"
+      "duration_ms": 128983,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
     },
     {
       "added_at": "2022-08-16 22:06:35",

@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 499319,
+  "2024-03-11": 499364,
   "date_first_scraped": "2023-04-02",
   "description": "Just good energy",
   "name": "Vibe Check",
@@ -1757,7 +1757,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 189087,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
@@ -2433,7 +2433,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 164233,
       "name": "Spicy Margarita - R3HAB Remix",
       "url": "https://open.spotify.com/track/0njNPrUm5K7kmEC5gOi7o7"

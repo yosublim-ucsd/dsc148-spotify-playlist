@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Paloma Mami is bringing the heat to Fuego\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,884,732 likes - 20 songs - 54 min 32 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,884,701 likes - 20 songs - 54 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [Modo Avion](https://open.spotify.com/track/45oiFFQxGnwymmlWcbRqCh) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Modo Avion](https://open.spotify.com/album/22XhY7ZtyYNTkPm7no6fAG) | 2:51 |
 | 20 | [Era De Cristal](https://open.spotify.com/track/5X87e196WTJXTHYOMgggRD) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Era De Cristal](https://open.spotify.com/album/7B95gPtQhlq8FimvJiluKl) | 2:39 |
 
-Snapshot ID: `MCxmN2EwMzllZGI3MDlkYzFmMzIzZDYyOTgxMWVlODI4YWVlYTVjZGRj`
+Snapshot ID: `MCw0ZTY2YTM3M2E0YzczNzIyM2Q0NzFmYTM4YjIxNGMxOGQxNjE2ZGYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: CHUNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,181 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,219 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Saturn](https://open.spotify.com/track/0n2i4PUlKn7go2xINo5s3u) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon), [Ayo Cheetah](https://open.spotify.com/artist/1fHyYweFVbtQvAaeqx0cRk) | [Saturn](https://open.spotify.com/album/5VpoVz6c1JIk69WtpFV1tr) | 2:28 |
 | 80 | [Wussup](https://open.spotify.com/track/2yXFlx0Q1XV7jxneJoFeg9) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [Wussup](https://open.spotify.com/album/0rDuXGjUvTkUgGeFX1yJem) | 2:12 |
 
-Snapshot ID: `MCxkZjg2ZWU0NGQwYTIxYmMyNTRiYzkzMjI4ZDI5MzEzYjliNmJkMTdk`
+Snapshot ID: `MCwwNjZhYzIxZDkwMDU4ZjhmYzRmZmNlYjg3M2ZiMDRjNWIzZDEzMTE5`

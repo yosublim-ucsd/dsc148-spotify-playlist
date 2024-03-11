@@ -1,29 +1,13 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 53255,
+  "num_followers": 53335,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGZhN2NlM2JiYjlhMzhiN2NlNTU0NzY1NmExMmMyNWE3ZTQ5NjI5",
+  "snapshot_id": "MCxmOWY5NDc0NzMyYTBmYjJlMmM5MjIxMjE4YTYwNzc2OTU4MTJkNTZi",
   "tracks": [
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Amistad y Pesos",
-        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 338901,
-      "name": "Mi \u00daltima Caravana",
-      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
-    },
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 231877,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/1YwdJ7TVMa5uLt7JgCD9IK"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Amistad y Pesos",
+        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 338901,
+      "name": "Mi \u00daltima Caravana",
+      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "El Alba\u00f1il",
-        "url": "https://open.spotify.com/album/3E7KG2YrZfnOCaMAV1UShV"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 235701,
-      "name": "El Alba\u00f1il",
-      "url": "https://open.spotify.com/track/6Cp7mxrHFobJvo7YSv0zEb"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Enamorado de Ti... (Los creadores del Sacadito)",
         "url": "https://open.spotify.com/album/4913geA8ahnB651ej4zI8g"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 207807,
       "name": "Donde Quiera Que Est\u00e9s",
       "url": "https://open.spotify.com/track/4lYHKPAAwwQlQF6anqMRH6"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "El Alba\u00f1il",
+        "url": "https://open.spotify.com/album/3E7KG2YrZfnOCaMAV1UShV"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 235701,
+      "name": "El Alba\u00f1il",
+      "url": "https://open.spotify.com/track/6Cp7mxrHFobJvo7YSv0zEb"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -219,18 +219,22 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Evolucion",
-        "url": "https://open.spotify.com/album/779LWwiN1DzQslUNywZvaZ"
+        "name": "El Valiente",
+        "url": "https://open.spotify.com/album/3T0VfR68lFdvzrr9VpwDSA"
       },
       "artists": [
         {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 208000,
-      "name": "400 Mil Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/4VGUCIgdO6i6oYE6NyefYT"
+      "duration_ms": 186413,
+      "name": "El Valiente",
+      "url": "https://open.spotify.com/track/5XDLUnGv37XHGzYLuxoGD3"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -267,22 +271,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "El Valiente",
-        "url": "https://open.spotify.com/album/3T0VfR68lFdvzrr9VpwDSA"
+        "name": "Evolucion",
+        "url": "https://open.spotify.com/album/779LWwiN1DzQslUNywZvaZ"
       },
       "artists": [
         {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
         }
       ],
-      "duration_ms": 186413,
-      "name": "El Valiente",
-      "url": "https://open.spotify.com/track/5XDLUnGv37XHGzYLuxoGD3"
+      "duration_ms": 208000,
+      "name": "400 Mil Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/4VGUCIgdO6i6oYE6NyefYT"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -351,8 +351,8 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
+        "name": "El Campesino y el Sol",
+        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
       },
       "artists": [
         {
@@ -360,25 +360,9 @@
           "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
         }
       ],
-      "duration_ms": 164337,
-      "name": "Son las Dos de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "No Pares",
-      "url": "https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg"
+      "duration_ms": 234653,
+      "name": "El Campesino Y El Sol",
+      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -395,6 +379,22 @@
       "duration_ms": 171177,
       "name": "El Huerfanito",
       "url": "https://open.spotify.com/track/7CJb6lBzRKbWmyBGKPn49b"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "No Pares",
+      "url": "https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "El Baile del Sacadito",
-      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Yo Soy de la Sierra",
         "url": "https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j"
       },
@@ -483,8 +467,24 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "El Campesino y el Sol",
-        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "El Baile del Sacadito",
+      "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
         }
       ],
-      "duration_ms": 234653,
-      "name": "El Campesino Y El Sol",
-      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
+      "duration_ms": 164337,
+      "name": "Son las Dos de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Ni Te Vas Ni Me Voy",
-        "url": "https://open.spotify.com/album/5CuKWiKac7zUnPwPKT8E1Y"
-      },
-      "artists": [
-        {
-          "name": "La Mar-K De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
-        }
-      ],
-      "duration_ms": 196873,
-      "name": "Ni Te Vas Ni Me Voy",
-      "url": "https://open.spotify.com/track/1btyt1Szf8JQBhKNro66YX"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "15 \u00c9xitos Flechadores",
         "url": "https://open.spotify.com/album/5jTc61gfXoEWR0BIxBpipj"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 169406,
       "name": "Suerte He Tenido",
       "url": "https://open.spotify.com/track/64LbugQLMBjEBG7KLeP77k"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Ni Te Vas Ni Me Voy",
+        "url": "https://open.spotify.com/album/5CuKWiKac7zUnPwPKT8E1Y"
+      },
+      "artists": [
+        {
+          "name": "La Mar-K De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
+        }
+      ],
+      "duration_ms": 196873,
+      "name": "Ni Te Vas Ni Me Voy",
+      "url": "https://open.spotify.com/track/1btyt1Szf8JQBhKNro66YX"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Exitos de La Nobleza de Aguililla",
-        "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
-      },
-      "artists": [
-        {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
-        }
-      ],
-      "duration_ms": 247386,
-      "name": "Las Joyas De Mi Vida",
-      "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 199053,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Exitos de La Nobleza de Aguililla",
+        "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
+      },
+      "artists": [
+        {
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+        }
+      ],
+      "duration_ms": 247386,
+      "name": "Las Joyas De Mi Vida",
+      "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/6YjIfnOf74sUNqN5rDjPnl"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
         "name": "Rolonononas Pa la Raza",
         "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 150499,
       "name": "De Ma\u00f1ana en Ocho D\u00edas",
       "url": "https://open.spotify.com/track/2NmSosT5CMbD4VLQLs37re"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/6YjIfnOf74sUNqN5rDjPnl"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
-      },
-      "artists": [
-        {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 158906,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Traficantes Michoacanos",
-        "url": "https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2"
+        "name": "La Bestia Del Cuento",
+        "url": "https://open.spotify.com/album/6S98fKolA6NR4RykVCZAGR"
       },
       "artists": [
         {
-          "name": "Los hermanos Jimenez",
-          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
+          "name": "La Mar-K De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
         }
       ],
-      "duration_ms": 161373,
-      "name": "Traficantes Michoacanos",
-      "url": "https://open.spotify.com/track/3InbOGb8IJdbzjYUlLkrPf"
+      "duration_ms": 215551,
+      "name": "Te Cedo Mis Derechos",
+      "url": "https://open.spotify.com/track/56vDgRq8PJv3lA0RfnJte6"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "La Bestia Del Cuento",
-        "url": "https://open.spotify.com/album/6S98fKolA6NR4RykVCZAGR"
+        "name": "Traficantes Michoacanos",
+        "url": "https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2"
       },
       "artists": [
         {
-          "name": "La Mar-K De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
+          "name": "Los hermanos Jimenez",
+          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
         }
       ],
-      "duration_ms": 215551,
-      "name": "Te Cedo Mis Derechos",
-      "url": "https://open.spotify.com/track/56vDgRq8PJv3lA0RfnJte6"
+      "duration_ms": 161373,
+      "name": "Traficantes Michoacanos",
+      "url": "https://open.spotify.com/track/3InbOGb8IJdbzjYUlLkrPf"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Tercia de Reyes",
-        "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
-      },
-      "artists": [
-        {
-          "name": "Los hermanos Jimenez",
-          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
-        }
-      ],
-      "duration_ms": 148520,
-      "name": "No Compro Amores",
-      "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Casita de Adobe",
         "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
       },
@@ -1591,38 +1575,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "El Amor de Tu Vida",
-        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
-      },
-      "artists": [
-        {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Si No Te Tengo",
-        "url": "https://open.spotify.com/album/4XSIM7krDX3o7ztE226Ykq"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 223221,
-      "name": "Si No Te Tengo",
-      "url": "https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Huaraches de Ara\u00f1a",
         "url": "https://open.spotify.com/album/67BXYWWXGlywtjEZC9wlNK"
       },
@@ -1639,6 +1591,38 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
+        "name": "El Amor de Tu Vida",
+        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
+      },
+      "artists": [
+        {
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Tercia de Reyes",
+        "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Jimenez",
+          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
+        }
+      ],
+      "duration_ms": 148520,
+      "name": "No Compro Amores",
+      "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
         "name": "Camionero",
         "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 229346,
       "name": "El Camionero",
       "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Si No Te Tengo",
+        "url": "https://open.spotify.com/album/4XSIM7krDX3o7ztE226Ykq"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 223221,
+      "name": "Si No Te Tengo",
+      "url": "https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Aguilar",
-        "url": "https://open.spotify.com/album/4g8YPdnxDXOkpXXvrLyVhx"
+        "name": "El Pisto es Primero",
+        "url": "https://open.spotify.com/album/1qOHzqT4mFim7vPG6239yT"
       },
       "artists": [
         {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+          "name": "Coraz\u00f3n Gitano",
+          "url": "https://open.spotify.com/artist/2EXhLsjbYOxGiMh0pfRYhp"
         }
       ],
-      "duration_ms": 202875,
-      "name": "Aguilar",
-      "url": "https://open.spotify.com/track/6tHi4fd8R9248pT7w050Un"
+      "duration_ms": 164937,
+      "name": "El Pisto es Primero",
+      "url": "https://open.spotify.com/track/5KRRfHOsVuiK8ZB9d9CLa9"
     }
   ],
   "unique_name": "Tierra Caliente",

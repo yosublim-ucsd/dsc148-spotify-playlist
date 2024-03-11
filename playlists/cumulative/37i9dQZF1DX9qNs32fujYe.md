@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-808 songs - 2 day 11 hr 45 min
+809 songs - 2 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Am I Evil?](https://open.spotify.com/track/1bqxO1wuMODj6x7fiCCovB) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Am I Evil?](https://open.spotify.com/album/3Kq7zsHEu1aueV2ukmjwKA) | 8:25 | 2021-12-17 | 2022-11-13 |
 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 | 2022-07-13 | 2023-03-11 |
 | [Angel In Disgrace](https://open.spotify.com/track/2yoCtR2C0sMFgII70RosuY) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [The Raven Age](https://open.spotify.com/album/59xXjvaaliSM6MUAxcZ6Ho) | 5:28 | 2021-12-17 | 2022-07-09 |
-| [Angel In Disgrace](https://open.spotify.com/track/4qxXNYWAnjQhLDy0fAg9bL) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [The Raven Age](https://open.spotify.com/album/4sxjCBlUj4Gq4KecyQDS07) | 5:28 | 2022-07-08 |  |
+| [Angel In Disgrace](https://open.spotify.com/track/4qxXNYWAnjQhLDy0fAg9bL) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [The Raven Age](https://open.spotify.com/album/4sxjCBlUj4Gq4KecyQDS07) | 5:28 | 2022-07-08 | 2024-03-11 |
 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 | 2022-07-13 |  |
 | [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 | 2021-12-17 | 2023-10-30 |
 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 | 2022-07-08 | 2023-01-02 |
@@ -111,6 +111,7 @@
 | [Burn in Hell](https://open.spotify.com/track/64SX0Q9EM9HIRSb8HXy059) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Burn in Hell](https://open.spotify.com/album/6aZDFczcI6rfSIdBJUoWyh) | 4:18 | 2021-12-17 | 2022-05-31 |
 | [Burning Times](https://open.spotify.com/track/3jq0ula2HD54lHumVcEx8b) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [The Blessed And The Damned](https://open.spotify.com/album/3Cg1jiRfFHatnPx40pqGL3) | 3:43 | 2022-03-22 | 2022-06-21 |
 | [Calamity](https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Calamity](https://open.spotify.com/album/0Ux6ZxV51wrLE5dWkaLPci) | 2:53 | 2023-10-27 |  |
+| [California](https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Clear Cold Beyond](https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3) | 4:25 | 2024-03-08 |  |
 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 | 2022-08-19 | 2023-02-11 |
 | [Catastrophist](https://open.spotify.com/track/32pOmdexX8M7me2PdINJYb) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Catastrophist](https://open.spotify.com/album/6JT2F5KpNWy8Lg6OJLDXGx) | 6:28 | 2021-12-17 | 2022-07-13 |
 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 | 2022-07-08 |  |

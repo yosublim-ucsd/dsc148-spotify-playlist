@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232191,
+  "num_followers": 232214,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGQxZTIyYTVkNzc5NWY2MTJjYmMzYmU2YzZlOTcwNDRiYTY4MzZk",
+  "snapshot_id": "MCxmYzQ1ZDIyNWVmYmRhYjhiZTIyNTRlYTgxNzc5NGM5MTAxY2Q2MTk1",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Ao Vivo Com Os Amigos",
-        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
-      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Ao Vivo Com Os Amigos",
+        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
+      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 194291,
-      "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "De M\u00e3os Dadas",
         "url": "https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 174000,
       "name": "Promessa",
       "url": "https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 194291,
+      "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "Tive Raz\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "A Voz Do Samba (Disco 03)",
         "url": "https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 189080,
       "name": "Exalta\u00e7\u00e3o \u00e0 mangueira",
       "url": "https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "Tive Raz\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
     },
     {
       "added_at": "2023-08-04 03:01:00",

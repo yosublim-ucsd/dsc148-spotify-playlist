@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-948 songs - 2 day 13 hr 56 min
+949 songs - 2 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Bang, Bang](https://open.spotify.com/track/4bsIkm7Cs5TVyNkQCLsZtY) | [Cheerleader](https://open.spotify.com/artist/40kHkqamhwCMOaQtiaPDiX) | [Bang, Bang](https://open.spotify.com/album/4y50cmoj2o9hBEoeGnD9lD) | 3:53 | 2021-04-02 | 2022-04-21 |
 | [Be Cool](https://open.spotify.com/track/4TN1EDQ5WRwgxr8d09KFYB) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Waiting Days](https://open.spotify.com/album/5yGt0bFfz9IV0z8XXjaO8H) | 3:38 | 2021-11-05 | 2022-07-29 |
 | [Be Yourself](https://open.spotify.com/track/2GV1Oif2Y3jDk380qfgsz8) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Be Yourself](https://open.spotify.com/album/4uQjXmaXCFSdrVDqOPKelo) | 2:58 | 2023-01-27 | 2023-03-25 |
-| [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-16 |  |
+| [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 | 2024-02-16 |  |
+| [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-16 | 2024-03-11 |
 | [Believe It All](https://open.spotify.com/track/18g0dbNld1sghMgOofVq6N) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [Believe It All](https://open.spotify.com/album/6wlVXIT3BuEGCYsj6a1GOu) | 4:07 | 2022-11-10 | 2023-01-28 |
 | [Bellyache](https://open.spotify.com/track/62e4OXEaBAIx246KNSwezM) | [Yak](https://open.spotify.com/artist/2EVlbKnHoS3sRVmm4gPf3x) | [Bellyache](https://open.spotify.com/album/4dp1C1s51Z5RkWZXwAWoxm) | 3:41 | 2021-04-02 | 2022-04-20 |
 | [Beluga Baby](https://open.spotify.com/track/051j6UH25Tkif0uPdsBybg) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Beluga Baby](https://open.spotify.com/album/4Hzq3RmqiOLSH6nKkg6AhZ) | 2:40 | 2021-04-02 | 2022-07-29 |

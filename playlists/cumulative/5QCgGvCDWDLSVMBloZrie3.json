@@ -3041,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "I Know Better",
+        "url": "https://open.spotify.com/album/67PM09778AoAOxAEeIvJbp"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257193,
+      "name": "I Know Better",
+      "url": "https://open.spotify.com/track/2nzzNKvjQaD85bOGwRsNg0"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },

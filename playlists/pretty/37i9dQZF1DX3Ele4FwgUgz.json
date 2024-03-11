@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 14782,
+  "num_followers": 14801,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWY5YmZiYTViYTc0NWViODc5NmFiMjIzZTA2OWFjMzI4Yjc5Y2U2",
+  "snapshot_id": "MCxmMDIxMzc1MWUwNTY4M2IwNzc1MDJjZTRkN2U1OTNhOWVkNzg0MmY2",
   "tracks": [
     {
       "added_at": "2024-01-23 18:34:42",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e0a\u539f\u6b69\u5922\u76e4)",
-        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
+        "name": "Vroom Vroom",
+        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
       },
       "artists": [
         {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
         }
       ],
-      "duration_ms": 258105,
-      "name": "Dream with You",
-      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
+      "duration_ms": 186666,
+      "name": "\u30d0\u30d6\u30eb\u30aa\u30fc\u30d0\u30fc\uff01",
+      "url": "https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd"
     },
     {
       "added_at": "2024-01-23 18:34:42",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u671d\u9999\u679c\u6797\u76e4)",
-        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
-      },
-      "artists": [
-        {
-          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
-          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "VIVID WORLD",
-      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
-    },
-    {
-      "added_at": "2024-01-23 18:34:42",
-      "album": {
         "name": "Sing & Smile!!",
         "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
@@ -483,18 +467,34 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "Vroom Vroom",
-        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e0a\u539f\u6b69\u5922\u76e4)",
+        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
       },
       "artists": [
         {
-          "name": "R3BIRTH",
-          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
         }
       ],
-      "duration_ms": 186666,
-      "name": "\u30d0\u30d6\u30eb\u30aa\u30fc\u30d0\u30fc\uff01",
-      "url": "https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd"
+      "duration_ms": 258105,
+      "name": "Dream with You",
+      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
+    },
+    {
+      "added_at": "2024-01-23 18:34:42",
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u671d\u9999\u679c\u6797\u76e4)",
+        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "VIVID WORLD",
+      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
     },
     {
       "added_at": "2024-01-23 18:34:42",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "Dream Land!Dream World!",
-        "url": "https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "A\u30fbZU\u30fbNA",
-          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 231840,
-      "name": "Dream Land!Dream World!",
-      "url": "https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b"
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2024-01-23 18:34:42",
@@ -579,34 +579,34 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
       },
       "artists": [
         {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
         }
       ],
-      "duration_ms": 281920,
-      "name": "Sing & Smile!!",
-      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
+      "duration_ms": 236746,
+      "name": "MONSTER GIRLS",
+      "url": "https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73"
     },
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+        "name": "Dream Land!Dream World!",
+        "url": "https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN"
       },
       "artists": [
         {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
         }
       ],
-      "duration_ms": 234880,
-      "name": "\u30aa\u30fc\u30c9\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh"
+      "duration_ms": 231840,
+      "name": "Dream Land!Dream World!",
+      "url": "https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b"
     },
     {
       "added_at": "2024-01-23 18:34:42",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "\u30aa\u30fc\u30c9\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh"
+    },
+    {
+      "added_at": "2024-01-23 18:34:42",
+      "album": {
         "name": "TOKIMEKI Runners",
         "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 270040,
       "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
-    },
-    {
-      "added_at": "2024-01-23 18:34:42",
-      "album": {
-        "name": "MONSTER GIRLS",
-        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
-      },
-      "artists": [
-        {
-          "name": "R3BIRTH",
-          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "MONSTER GIRLS",
-      "url": "https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73"
     },
     {
       "added_at": "2024-01-23 18:34:42",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-23 18:34:42",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
-          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "\u3081\u3063\u3061\u3083Going!!",
-      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
-    },
-    {
-      "added_at": "2024-01-23 18:34:42",
-      "album": {
         "name": "L\uff01L\uff01L\uff01 (Love the Life We Live)",
         "url": "https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 221613,
       "name": "\u591c\u660e\u73e0",
       "url": "https://open.spotify.com/track/7oSb75m9a29yoyHTzgMmu8"
+    },
+    {
+      "added_at": "2024-01-23 18:34:42",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "\u3081\u3063\u3061\u3083Going!!",
+      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
     },
     {
       "added_at": "2024-01-23 18:34:42",

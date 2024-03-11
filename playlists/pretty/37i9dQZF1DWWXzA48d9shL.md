@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: Scrim from $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,191 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,299 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 21 | [maserati slick](https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy](https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB) | 2:23 |
 | 22 | [BUSINESS MAN \(feat\. Juicy J\)](https://open.spotify.com/track/1Mw3psWtFi2ojE9gudDpm1) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [BUSINESS MAN \(feat\. Juicy J\)](https://open.spotify.com/album/6x8lWNQO52kkPpsQ7TpFyP) | 3:30 |
 | 23 | [Live From Da Deep End \(feat\. Black Kray\)](https://open.spotify.com/track/0emzIVyxMRBwJOH1N8qwZn) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [Black Kray](https://open.spotify.com/artist/7EmyqxxYZltYLKFk9sAHzM) | [Live From Da Deep End](https://open.spotify.com/album/2wd8bZfdg08HNSkCH1IVyO) | 2:58 |
-| 24 | [WTF 2](https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn) | 2:07 |
+| 24 | [WTF 2](https://open.spotify.com/track/66QWqZPA5Mxe8LpRjewkVv) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/2njFsjrcCYquIi53DQ9CiX) | [WTF 2](https://open.spotify.com/album/7ebZRkmaweJp2FKLP5NoFt) | 2:06 |
 | 25 | [Hearse](https://open.spotify.com/track/3nWjClTcD4IfHDNrgfKLsD) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Hearse](https://open.spotify.com/album/2k0qVhJOTZBHjUKNQ3zleM) | 3:33 |
 | 26 | [GOODFELLAS](https://open.spotify.com/track/6pIoCKMe157Scoi5dd02CB) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [GOODFELLAS](https://open.spotify.com/album/4cEItjSWyNg4WIm0fCgvQk) | 2:12 |
 | 27 | [loser](https://open.spotify.com/track/4KK0jzmappJathv3Y12AUt) | [soap.](https://open.spotify.com/artist/5lTnwUte8BouX1eyVqsY08) | [loser](https://open.spotify.com/album/4kCML7PXMGNOnRYG1URRCp) | 1:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:16 |
 | 100 | [RECOIL](https://open.spotify.com/track/31jBzecMTqfx1gM48riFLd) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Pupa](https://open.spotify.com/album/44obgGVAFZpmAio7tHjvLq) | 1:50 |
 
-Snapshot ID: `MCw4ODVhZmM5MmY2MGI3MzA4NWQxNDRiZmZjMjg4YWQyZmEzOGRkYTA3`
+Snapshot ID: `MCwyODkzMTk5MDE0OWY5NWQ1YmUyMTgxNzI0MmExYjYzYjY0MjNkYzM5`

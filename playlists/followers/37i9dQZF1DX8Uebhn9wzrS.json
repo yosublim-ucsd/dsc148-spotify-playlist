@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 1958399,
+  "2024-03-11": 1958751,
   "date_first_scraped": "2022-04-20",
   "description": "The perfect study beats. Find your focus, crush your productivity. ",
   "name": "chill lofi study beats",
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 138795,
       "name": "Amu",
       "url": "https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg"
@@ -9147,6 +9147,24 @@
     {
       "album": {
         "name": "Elevator",
+        "url": "https://open.spotify.com/album/3xzPR62gpoezzrvy1Ybmkw"
+      },
+      "artists": [
+        {
+          "name": "Cosmoo",
+          "url": "https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71316,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/5iPB9VskHHAsEcpOf4dpxw"
+    },
+    {
+      "album": {
+        "name": "Elevator",
         "url": "https://open.spotify.com/album/7wXpxaQcmX3LpZW6w8CsGy"
       },
       "artists": [
@@ -9291,7 +9309,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 156666,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/2DrgL0r61Hen8m0pV3zyW1"
@@ -13253,7 +13271,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 121428,
       "name": "Hauga",
       "url": "https://open.spotify.com/track/4Zt4YhDZ0SoMIR8lzXZw7I"
@@ -16324,6 +16342,24 @@
     },
     {
       "album": {
+        "name": "Laundry Tessomancy",
+        "url": "https://open.spotify.com/album/0EJbkfTfesTIJYAPoInRKG"
+      },
+      "artists": [
+        {
+          "name": "Violet Blanca",
+          "url": "https://open.spotify.com/artist/2CeqZvB8v9HCGr2tVb42rj"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "Laundry Tessomancy",
+      "url": "https://open.spotify.com/track/043xe58AMUGPJgCnRJynj9"
+    },
+    {
+      "album": {
         "name": "Laurel Canyon",
         "url": "https://open.spotify.com/album/3d1wydqwhtpXOvGFJqWYsq"
       },
@@ -16997,6 +17033,24 @@
       "duration_ms": 84023,
       "name": "Liquid Force",
       "url": "https://open.spotify.com/track/10bPPpQ60lkYCmoHYB6Y1o"
+    },
+    {
+      "album": {
+        "name": "Lisabon",
+        "url": "https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86"
+      },
+      "artists": [
+        {
+          "name": "cmd f",
+          "url": "https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "Lisabon",
+      "url": "https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF"
     },
     {
       "album": {
@@ -20185,7 +20239,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 135375,
       "name": "Mowet",
       "url": "https://open.spotify.com/track/39U3Csv6FnR77n4dZURepR"
@@ -22747,7 +22801,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 138593,
       "name": "Pacific Coast",
       "url": "https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5"
@@ -27937,7 +27991,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 158000,
       "name": "Soft Light",
       "url": "https://open.spotify.com/track/2Wsb2fbA8no8F1Xe6BJiTT"
@@ -32469,7 +32523,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 91428,
       "name": "True",
       "url": "https://open.spotify.com/track/3Elj8kE6dLDym1iIBy6JeC"

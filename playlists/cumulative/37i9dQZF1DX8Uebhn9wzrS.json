@@ -6292,7 +6292,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 120490,
       "name": "collogue",
       "url": "https://open.spotify.com/track/5sw8eqqQPKLkXydIyoLg2K"
@@ -13353,6 +13353,24 @@
     },
     {
       "album": {
+        "name": "head in the clouds",
+        "url": "https://open.spotify.com/album/341MeGEteHymZVwmd0xspK"
+      },
+      "artists": [
+        {
+          "name": "drewbee",
+          "url": "https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134825,
+      "name": "head in the clouds",
+      "url": "https://open.spotify.com/track/0GdZ6vlb3nC8t5B5MP6TqP"
+    },
+    {
+      "album": {
         "name": "Headhunter",
         "url": "https://open.spotify.com/album/2gWbKnvUPFhGuGOKV5kYRV"
       },
@@ -13646,6 +13664,24 @@
       "duration_ms": 102374,
       "name": "high above",
       "url": "https://open.spotify.com/track/4iIFJ3anp1aKw6fx0tg8jD"
+    },
+    {
+      "album": {
+        "name": "High five, low-fi",
+        "url": "https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo"
+      },
+      "artists": [
+        {
+          "name": "Dusty Kadinsky",
+          "url": "https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128294,
+      "name": "High five, low-fi",
+      "url": "https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y"
     },
     {
       "album": {
@@ -15516,7 +15552,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 138000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic"
@@ -16761,6 +16797,24 @@
     },
     {
       "album": {
+        "name": "letter to amtis",
+        "url": "https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf"
+      },
+      "artists": [
+        {
+          "name": "nightnotes",
+          "url": "https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94874,
+      "name": "letter to amtis",
+      "url": "https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V"
+    },
+    {
+      "album": {
         "name": "Let\u2019s back that up",
         "url": "https://open.spotify.com/album/3lD0APreTYsNXr0qli3Qdq"
       },
@@ -17712,6 +17766,24 @@
       "duration_ms": 121500,
       "name": "Lost in LA",
       "url": "https://open.spotify.com/track/4dZBeDiuLJ6dKmB3NDqjui"
+    },
+    {
+      "album": {
+        "name": "Lost in the Mail",
+        "url": "https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Lost in the Mail",
+      "url": "https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP"
     },
     {
       "album": {
@@ -31256,7 +31328,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 137143,
       "name": "The Night Cruise",
       "url": "https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7"
@@ -32630,7 +32702,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 96000,
       "name": "Tryna Ball",
       "url": "https://open.spotify.com/track/4K5RujJ9IOPKEfTBDvunHS"

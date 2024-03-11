@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Amy Gadiaga\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,384 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,435 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Emergence](https://open.spotify.com/track/1Sw2x4OTceaCVnUjia3MZP) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [Emergence](https://open.spotify.com/album/41yktN4HFvhkIcDvm6YxWD) | 2:59 |
 | 50 | [Metamorphosis](https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Metamorphosis](https://open.spotify.com/album/4QdhwNxSlMYIqp74Y27pLO) | 4:06 |
 
-Snapshot ID: `MCxjZTEyNjgzZDRmNTI4NTk4YzkzZGE3YWRjNjlmYmZlZDU2NWQ4YzBi`
+Snapshot ID: `MCwyMWMwMmJjMjEyY2MwOWY4N2JhYTFkOTIzZjMyMTkyNWE1ZGQwODc4`

@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 0,
+  "2024-03-11": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -101,7 +101,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 227478,
       "name": "(O)rdinary - Synthwave Edition",
       "url": "https://open.spotify.com/track/598o75t7QhZ3Rfk4zUY8KA"
@@ -529,6 +529,24 @@
       "duration_ms": 410466,
       "name": "A Self Made Man - Live",
       "url": "https://open.spotify.com/track/5kOZBQqbPEAMVGKbdfSbbs"
+    },
+    {
+      "album": {
+        "name": "A Song to Save Us All",
+        "url": "https://open.spotify.com/album/5TtmNTJY8agkorkC4wsyy3"
+      },
+      "artists": [
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448120,
+      "name": "A Song to Save Us All",
+      "url": "https://open.spotify.com/track/7cDZWmXET8OfvwltJJokFd"
     },
     {
       "album": {
@@ -2411,7 +2429,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 208366,
       "name": "Become One",
       "url": "https://open.spotify.com/track/24cthHMisFuAn0QKaAYbsf"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 355129,
       "name": "Before We Drown - Innellea Remix",
       "url": "https://open.spotify.com/track/5w8LVMfShMYk98IZgVAraZ"
@@ -3753,7 +3771,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 257500,
       "name": "Chile SA",
       "url": "https://open.spotify.com/track/4An8UjbADFO12XE9klWQLS"
@@ -4743,7 +4761,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
@@ -5935,7 +5953,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 275303,
       "name": "El bar de los fracasos",
       "url": "https://open.spotify.com/track/6kJWMgNgYKuLQGy2ULLCRm"
@@ -6533,7 +6551,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 556495,
       "name": "Eruption - Live",
       "url": "https://open.spotify.com/track/6K3q2FCBIIKcoKkmT6M6NL"
@@ -12899,7 +12917,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 228613,
       "name": "Lover",
       "url": "https://open.spotify.com/track/3RlanDLlIDDQPe6dVIkyUl"
@@ -14901,7 +14919,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 217936,
       "name": "Obra de Dios",
       "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
@@ -15265,7 +15283,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 299000,
       "name": "Only One",
       "url": "https://open.spotify.com/track/3FsFQaconSNDS6VB2CF84I"
@@ -18827,7 +18845,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 369853,
       "name": "Smoke On The Water - 2024 Remix",
       "url": "https://open.spotify.com/track/7e6P8slzsQ1dFW1oPoSfL0"
@@ -20359,7 +20377,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 280426,
       "name": "Taste It - Youth 12\" Mix",
       "url": "https://open.spotify.com/track/1oqEoGfHYE6LxS3xoz7mFh"
@@ -21405,7 +21423,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 315836,
       "name": "The Muse and The Conductor (Dissonance)",
       "url": "https://open.spotify.com/track/4ePpPebeQxroWuwZSL4ZLv"
@@ -21929,6 +21947,32 @@
       "duration_ms": 242106,
       "name": "The Sun Ain't Gonna Shine Anymore - (Trevor Horn Remix) [2023 Remaster]",
       "url": "https://open.spotify.com/track/6pDCfwTeLNAbzhKJlue7Qx"
+    },
+    {
+      "album": {
+        "name": "The Sun Is Shining",
+        "url": "https://open.spotify.com/album/79gnBqgc2PnKThDog3XNDm"
+      },
+      "artists": [
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        },
+        {
+          "name": "1 World",
+          "url": "https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158740,
+      "name": "The Sun Is Shining",
+      "url": "https://open.spotify.com/track/1ROZwbJBndwmp5Cl2ig7TB"
     },
     {
       "album": {
@@ -22665,7 +22709,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 610191,
-      "name": "Total Stranger - Pete Hammond Hi-Nrg Remix",
+      "name": "Total Stranger - Pete Hammond Hi-NRG Remix",
       "url": "https://open.spotify.com/track/7ok9Qb3I1tBva60yOFlQNx"
     },
     {
@@ -23799,7 +23843,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 297279,
       "name": "War/No More Trouble - From \"Bob Marley: One Love\" Soundtrack",
       "url": "https://open.spotify.com/track/060wim4wCw76nHhHr6fDjm"

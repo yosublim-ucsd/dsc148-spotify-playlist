@@ -4,7 +4,7 @@
 
 > 
 
-1,172 songs - 2 day 17 hr 27 min
+1,176 songs - 2 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Abracadabra](https://open.spotify.com/track/1kCdb5b3aTYm20d6wQDPko) | [Stereotype](https://open.spotify.com/artist/0XvAc2MBJgzxDdzuzOjsmr) | [Abracadabra EP](https://open.spotify.com/album/6luFYJgV2OnVawoAOFaCgC) | 3:46 | 2023-01-27 |  |
 | [Absolute Nightmare](https://open.spotify.com/track/27UccShXEtB5B82a0bLWgg) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [THE 4TH DIMENSION](https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8) | 2:58 | 2023-11-01 |  |
 | [Acid Rain](https://open.spotify.com/track/5KlVbtMqWyBxGq2OWQMTjB) | [Qlarabelle](https://open.spotify.com/artist/0OFH5neCOMOLrAuKpf6fwf), [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [Acid Rain](https://open.spotify.com/album/6lFUbwnJmbdW52aNy13roV) | 2:52 | 2023-03-18 |  |
+| [Activation](https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Activation](https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES) | 2:55 | 2024-03-10 |  |
 | [ADAM \- Extended Ver.](https://open.spotify.com/track/7D81RKvDlRj7VQRMzVyRdx) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [Fabuloustars](https://open.spotify.com/album/2qheP0UaggqWpFz9RrMX3I) | 3:50 | 2022-08-17 |  |
 | [Addicted](https://open.spotify.com/track/5iLyI8LnSGP7y48JKGfCoh) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Addicted](https://open.spotify.com/album/2EqVo5W8w8jHlXE3eIDIqe) | 2:55 | 2023-11-10 |  |
 | [Addicts 2.0](https://open.spotify.com/track/7zgQDPZJXI9azbU9RQ8QND) | [Hatred](https://open.spotify.com/artist/3TvVKqrkgwoHXuj8r71GEJ) | [Addicts 2.0](https://open.spotify.com/album/4YMnbNMEywlMuolTWO1khw) | 2:37 | 2022-11-21 |  |
@@ -111,6 +112,7 @@
 | [Bitch I Can \- Dominator Edit](https://open.spotify.com/track/6w4k0Gk5tG2wXdPNgkRI60) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE) | [Dominator \- Maze Of Martyr](https://open.spotify.com/album/3jfhhU4NjCEcUBXHKmSkNo) | 1:33 | 2022-11-21 |  |
 | [Bitch I Can \- Yoshiko & Doris Remix](https://open.spotify.com/track/3CHXflxrQwNXxTe1A2XyP7) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Doris](https://open.spotify.com/artist/6GMuNB7yEleCIuMyk0qskf) | [Bitch I Can \(Yoshiko & Doris Remix\)](https://open.spotify.com/album/67yDkmMGeLFDqrVOsk3P5W) | 3:03 | 2023-09-28 |  |
 | [Bitch Mode](https://open.spotify.com/track/0cvG4H7gxMnNwXbQdoyJGO) | [KimSize](https://open.spotify.com/artist/0lx6sUv47x7B44muGCbVCY) | [Bitch Mode](https://open.spotify.com/album/1dY28SiJXRDITrbEdSM727) | 2:43 | 2022-11-07 |  |
+| [BIYF](https://open.spotify.com/track/2hSvnFgEnPeBpamTT6uKrI) | [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT) | [BIYF](https://open.spotify.com/album/23bpWrc7BYWRksui9A8maN) | 2:37 | 2024-03-10 |  |
 | [Black Altar](https://open.spotify.com/track/3nxknuaDAVIm9GJXz42eVs) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Black Altar](https://open.spotify.com/album/5aMkiqcIQ5L5dTSDtUdHbA) | 3:16 | 2023-05-20 |  |
 | [BLACK HOLE](https://open.spotify.com/track/6Y1Tfjr061t8Nw8VWFnlW6) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21), [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [BLACK HOLE](https://open.spotify.com/album/2lQcmqlp3Aeyc6VcsOvhWE) | 2:57 | 2023-10-06 |  |
 | [BLACK HOLE](https://open.spotify.com/track/2zHjYnNKADys8LidsZUIjG) | [Griever](https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a) | [BLACK HOLE](https://open.spotify.com/album/4s4jnEYCM5gQalByOEXQqo) | 2:53 | 2022-09-09 |  |
@@ -618,6 +620,7 @@
 | [Lose Myself](https://open.spotify.com/track/0Wib9uDgXe9CKKu0MRkllK) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [Lunatic](https://open.spotify.com/album/3imYzR1MfxzRhloeDm3nVH) | 2:55 | 2023-07-29 |  |
 | [Lost](https://open.spotify.com/track/6eATQXpy9fvMGaGIXbd1xm) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Nightcraft](https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV) | [Lost](https://open.spotify.com/album/0IkllSjUWHzxiqR88Si3HS) | 2:42 | 2023-12-02 |  |
 | [LOST](https://open.spotify.com/track/5EiIe0G8978NoYLCikwDR7) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [ETERNITY](https://open.spotify.com/album/7jvsHlV2dNJ5d8U1IeMehT) | 3:46 | 2023-03-21 |  |
+| [lost in the music](https://open.spotify.com/track/0slcxb5XFnUzsiElvNWLjN) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [lost in the music](https://open.spotify.com/album/67Z7SVxao0NMJ7EK9IcEIb) | 2:52 | 2024-03-10 |  |
 | [LOST IN THE MUSIC](https://open.spotify.com/track/7mr2nG3DMAwDGDLO8qQNd8) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 2:30 | 2023-04-16 |  |
 | [Lost In The Music](https://open.spotify.com/track/0jN59wksahhmhRcxJY2f46) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx) | [Lost In The Music](https://open.spotify.com/album/6XOcQjC94fgoypqcuXcjdE) | 3:16 | 2023-03-21 |  |
 | [Louder Generation](https://open.spotify.com/track/22mTYEazHE0rCp8nSyRlDp) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [Louder Generation](https://open.spotify.com/album/2I9roE7oFoKfvMIGktWFGw) | 3:26 | 2023-12-17 |  |
@@ -719,6 +722,7 @@
 | [Nightlife](https://open.spotify.com/track/5Fz21h9GRuZCuouoYpLsrW) | [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [Nightlife](https://open.spotify.com/album/5mvxRsGpmdJ4bXxvDz3ha7) | 2:32 | 2023-02-02 |  |
 | [No Cookie](https://open.spotify.com/track/7czIG3XJlTm3KI8XJptY2W) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [No Cookie](https://open.spotify.com/album/4DzS1bG7lAFgO8ksOF57Mw) | 3:17 | 2022-09-06 |  |
 | [No Escape](https://open.spotify.com/track/1eZGT67bRyXkSeuqKXweTk) | [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM) | [No Escape](https://open.spotify.com/album/0bL0GGpR6KWCvYgNX0cG5P) | 3:37 | 2022-08-10 |  |
+| [no limit](https://open.spotify.com/track/5467IDDBHQNm4Nd8b7I1XK) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [no limit](https://open.spotify.com/album/0JleTPyQkeBUI6EGAJYcKG) | 3:24 | 2024-03-10 |  |
 | [No Matter](https://open.spotify.com/track/33C0wJkcVVMIy2aMIhgnVJ) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [No Matter](https://open.spotify.com/album/3HRodgTtyTaMaXqMFIKWsh) | 3:47 | 2022-09-06 |  |
 | [No Mercy](https://open.spotify.com/track/1r3svpSWxXB3BiFxFD4TIr) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Alternate Identity](https://open.spotify.com/album/0r0MQ2rse313JcNiYtvdjV) | 3:46 | 2023-04-10 |  |
 | [No More Pain](https://open.spotify.com/track/0FVKF9GVdY4AC1J2XhlvZi) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Kamikaze](https://open.spotify.com/artist/6QzshKdtq6NS0Jac1nMn6I) | [Supermax](https://open.spotify.com/album/35XgR3Tg1pZnu8SBEu3eVM) | 4:06 | 2022-08-11 |  |

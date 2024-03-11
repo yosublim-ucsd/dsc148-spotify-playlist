@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 136676,
+  "num_followers": 136706,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGE5ZTA4NDkyNjQzNmM4NWVmM2FlZWE5Yjg2Yzc1NDgwODkyOGM1",
+  "snapshot_id": "MCwyNjlkNzA1ZGJmZGIyNWE5YmQ0N2MxNjJjNGJlZWU5YjU1YmIxMjk3",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Rotina",
+        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
+      },
+      "artists": [
+        {
+          "name": "Esdras Gondim",
+          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+        }
+      ],
+      "duration_ms": 273994,
+      "name": "N\u00e3o Te Abandono",
+      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Rotina",
-        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
+        "name": "N\u00e3o Sou T\u00e3o Forte",
+        "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
       },
       "artists": [
         {
-          "name": "Esdras Gondim",
-          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 273994,
-      "name": "N\u00e3o Te Abandono",
-      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
+      "duration_ms": 235309,
+      "name": "Botas Velhas",
+      "url": "https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -455,22 +471,6 @@
       "duration_ms": 258749,
       "name": "Meu Repouso",
       "url": "https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "N\u00e3o Sou T\u00e3o Forte",
-        "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 235309,
-      "name": "Botas Velhas",
-      "url": "https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Cuide",
+        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Cuide",
+      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Intimidade",
         "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 201247,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Cuide",
-        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Cuide",
-      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
     },
     {
       "added_at": "2023-10-06 04:04:27",

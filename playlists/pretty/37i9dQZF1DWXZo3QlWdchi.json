@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 299217,
+  "num_followers": 299261,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2MwZGI1YjhhNzkxYzUxNGI1N2JmYjk1MTU3ZDY2ZWVkMDI5N2Y4",
+  "snapshot_id": "MCwzOTkyMmQ4NTczYTkwZjBmNmQxOGYwYTQ0YTU3YTcwNWY2YmYxOTYw",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "00070725 Live At Studio 606",
-        "url": "https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "My Hero - Live at Studio 606 West, Northridge, CA - September 2007",
-      "url": "https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Tit\u00e3s Trio Ac\u00fastico",
         "url": "https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 224066,
       "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
       "url": "https://open.spotify.com/track/27653ZiyisDWx0K25dH2Sa"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "00070725 Live At Studio 606",
+        "url": "https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 279453,
+      "name": "My Hero - Live at Studio 606 West, Northridge, CA - September 2007",
+      "url": "https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr"
     },
     {
       "added_at": "2024-03-08 03:01:00",

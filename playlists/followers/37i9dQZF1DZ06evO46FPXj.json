@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 6288,
+  "2024-03-11": 6288,
   "date_first_scraped": "2022-05-30",
   "description": "This is Autechre. The essential tracks, all in one playlist.",
   "name": "This Is Autechre",
@@ -2026,6 +2026,24 @@
     },
     {
       "album": {
+        "name": "PLUS",
+        "url": "https://open.spotify.com/album/1uFL8idnNTz0CdvLYyCGBC"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306101,
+      "name": "lux 106 mod",
+      "url": "https://open.spotify.com/track/7lU1Ltr3EvRBB876lryXgC"
+    },
+    {
+      "album": {
         "name": "SIGN",
         "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
       },
@@ -2631,7 +2649,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 212080,
       "name": "Pir",
       "url": "https://open.spotify.com/track/7KqchmQ1hlHszPlEiLMGme"

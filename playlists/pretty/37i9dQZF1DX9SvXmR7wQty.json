@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Fredz",
-  "num_followers": 39938,
+  "num_followers": 39943,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2ZlMDVhOGJmOTJhMTc3M2EzMDhlYWNlN2YyNzQ4NDYwNDYyYmUw",
+  "snapshot_id": "MCwyOTIwMDg2Yzc5MDZlOTE0NmU1NmFkMjE3MDIwN2Y3YmRiMWYxMWY5",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Yebisa Bango / Bijou",
-        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 149932,
-      "name": "Yebisa Bango",
-      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Fr\u00e8res Ennemis",
         "url": "https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 179280,
       "name": "Amiri jeans",
       "url": "https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Yebisa Bango / Bijou",
+        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 149932,
+      "name": "Yebisa Bango",
+      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -567,6 +567,42 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "CORLEONE II",
+        "url": "https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 138015,
+      "name": "CORLEONE II",
+      "url": "https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Lamborghini",
         "url": "https://open.spotify.com/album/2BaNOV1st3WvTlFNbDFBxx"
       },
@@ -599,26 +635,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "D\u00e9ter (feat. Soolking)",
-        "url": "https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG"
-      },
-      "artists": [
-        {
-          "name": "Doria",
-          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "D\u00e9ter (feat. Soolking)",
-      "url": "https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "SOLSAD",
         "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
       },
@@ -635,6 +651,26 @@
       "duration_ms": 203720,
       "name": "Loin d'ici",
       "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "D\u00e9ter (feat. Soolking)",
+        "url": "https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG"
+      },
+      "artists": [
+        {
+          "name": "Doria",
+          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "D\u00e9ter (feat. Soolking)",
+      "url": "https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -683,22 +719,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "CORLEONE II",
-        "url": "https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 138015,
-      "name": "CORLEONE II",
-      "url": "https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Ta peine",
         "url": "https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 221440,
       "name": "MAUVAIS PAYEUR",
       "url": "https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl"
+      },
+      "artists": [
+        {
+          "name": "Fresh La Douille",
+          "url": "https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL"
+        }
+      ],
+      "duration_ms": 186883,
+      "name": "ADN",
+      "url": "https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Noise",
         "url": "https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl"
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
       },
       "artists": [
         {
-          "name": "Fresh La Douille",
-          "url": "https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 186883,
-      "name": "ADN",
-      "url": "https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH"
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -875,38 +891,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "VDM (feat. Leto)",
-        "url": "https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj"
+        "name": "Clique",
+        "url": "https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN"
       },
       "artists": [
         {
-          "name": "Lamatrix",
-          "url": "https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
         }
       ],
-      "duration_ms": 211463,
-      "name": "VDM (feat. Leto)",
-      "url": "https://open.spotify.com/track/2Bgh9sUZDtRo43Z491TaBd"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Terminer",
-        "url": "https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2"
-      },
-      "artists": [
-        {
-          "name": "Wejdene",
-          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
-        }
-      ],
-      "duration_ms": 183312,
-      "name": "Terminer",
-      "url": "https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU"
+      "duration_ms": 181974,
+      "name": "Clique",
+      "url": "https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS"
     },
     {
       "added_at": "2024-03-08 05:00:00",

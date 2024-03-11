@@ -6,7 +6,7 @@
     "name": "Jesseka",
     "url": "https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6"
   },
-  "snapshot_id": "MTIxNSw1NmMxZTY0YTBkZWQ1NjJkMDEyOWJlNWJmNTdiNTdmOTBmMjA5N2Vm",
+  "snapshot_id": "MTIxOSwyOTQ0MjI0MWY1YzczMTk1NjVmZTIzMjk0MTc0ZTBjZTZiMzdmY2M4",
   "tracks": [
     {
       "added_at": "2021-11-26 04:21:31",
@@ -21983,6 +21983,70 @@
       "duration_ms": 161379,
       "name": "Recollection",
       "url": "https://open.spotify.com/track/3UjNsqmIr8Po865AdeJy2a"
+    },
+    {
+      "added_at": "2024-03-10 05:11:20",
+      "album": {
+        "name": "lost in the music",
+        "url": "https://open.spotify.com/album/67Z7SVxao0NMJ7EK9IcEIb"
+      },
+      "artists": [
+        {
+          "name": "Bumloco",
+          "url": "https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "lost in the music",
+      "url": "https://open.spotify.com/track/0slcxb5XFnUzsiElvNWLjN"
+    },
+    {
+      "added_at": "2024-03-10 05:14:39",
+      "album": {
+        "name": "no limit",
+        "url": "https://open.spotify.com/album/0JleTPyQkeBUI6EGAJYcKG"
+      },
+      "artists": [
+        {
+          "name": "Bumloco",
+          "url": "https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "no limit",
+      "url": "https://open.spotify.com/track/5467IDDBHQNm4Nd8b7I1XK"
+    },
+    {
+      "added_at": "2024-03-10 22:04:29",
+      "album": {
+        "name": "Activation",
+        "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 175874,
+      "name": "Activation",
+      "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
+    },
+    {
+      "added_at": "2024-03-10 23:42:40",
+      "album": {
+        "name": "BIYF",
+        "url": "https://open.spotify.com/album/23bpWrc7BYWRksui9A8maN"
+      },
+      "artists": [
+        {
+          "name": "Hard Instruction",
+          "url": "https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT"
+        }
+      ],
+      "duration_ms": 157860,
+      "name": "BIYF",
+      "url": "https://open.spotify.com/track/2hSvnFgEnPeBpamTT6uKrI"
     }
   ],
   "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",

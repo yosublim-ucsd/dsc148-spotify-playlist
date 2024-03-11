@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. El Guero MP, Galvancillo en portada.",
-  "num_followers": 60631,
+  "num_followers": 60653,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjVmYWRhNTU2YzNjODhhMGRiMzYwNGE5MWJkNDcxZTM3MTUzY2Ux",
+  "snapshot_id": "MCw2ZjQ0NzY3YzM4OWRiM2YzNWE1NjI2MWFmOTM0MjBjMjdmMzVmN2M5",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Mi Legado",
-        "url": "https://open.spotify.com/album/3QMVjlxC8BTaVtgPSLpjMf"
-      },
-      "artists": [
-        {
-          "name": "Al Tiro de Armando Ramos",
-          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "Mi Legado",
-      "url": "https://open.spotify.com/track/2cwLGVTFOG6lyoj2RUOuU7"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "ERRE5",
         "url": "https://open.spotify.com/album/5OkbVUJf64FcXxd4JBqLBI"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 184942,
       "name": "XQ SOY AS\u00cd?",
       "url": "https://open.spotify.com/track/0WeoE3MQUlSjrZ3JTNv8lc"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Mi Legado",
+        "url": "https://open.spotify.com/album/3QMVjlxC8BTaVtgPSLpjMf"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "Mi Legado",
+      "url": "https://open.spotify.com/track/2cwLGVTFOG6lyoj2RUOuU7"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Ah\u00ed Les Encargo (En Vivo)",
-        "url": "https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 171721,
-      "name": "Ah\u00ed Les Encargo (En Vivo)",
-      "url": "https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Pago Por Ver",
         "url": "https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 182586,
       "name": "Pago Por Ver",
       "url": "https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Ah\u00ed Les Encargo (En Vivo)",
+        "url": "https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 171721,
+      "name": "Ah\u00ed Les Encargo (En Vivo)",
+      "url": "https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "CELOSO",
+        "url": "https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "CELOSO",
+      "url": "https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "LTMA",
         "url": "https://open.spotify.com/album/1WDMkmmU6wzlcPskWZOGFo"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 209373,
       "name": "LTMA",
       "url": "https://open.spotify.com/track/2180OKo5exwyPswlzK5Lrz"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "CELOSO",
-        "url": "https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "CELOSO",
-      "url": "https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Llegar A La Luna",
-        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
-      },
-      "artists": [
-        {
-          "name": "Jassiel Gutierrez",
-          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Llegar A La Luna",
-      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "El Emblema",
         "url": "https://open.spotify.com/album/5gEsiD51OeDdiQcVYVcbqG"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 150500,
       "name": "El Emblema",
       "url": "https://open.spotify.com/track/2Y6X84p4FFyx9VNRF4OfYE"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Llegar A La Luna",
+        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
+      },
+      "artists": [
+        {
+          "name": "Jassiel Gutierrez",
+          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Llegar A La Luna",
+      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Arriba La Sierra Vol. 2",
-        "url": "https://open.spotify.com/album/2kDZRL7hhdeNTl0K17Rw8I"
-      },
-      "artists": [
-        {
-          "name": "El Halcon De La Sierra Jr",
-          "url": "https://open.spotify.com/artist/0pG7nBqR0BLBGo5NJlKljQ"
-        },
-        {
-          "name": "Jose Juan Rosas",
-          "url": "https://open.spotify.com/artist/6w49c4MLk5ZrdGLqVivnda"
-        }
-      ],
-      "duration_ms": 196325,
-      "name": "El Medico",
-      "url": "https://open.spotify.com/track/6fdLv5BPnXWxqCcqXdmSKa"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "La Tostada",
         "url": "https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 209026,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Arriba La Sierra Vol. 2",
+        "url": "https://open.spotify.com/album/2kDZRL7hhdeNTl0K17Rw8I"
+      },
+      "artists": [
+        {
+          "name": "El Halcon De La Sierra Jr",
+          "url": "https://open.spotify.com/artist/0pG7nBqR0BLBGo5NJlKljQ"
+        },
+        {
+          "name": "Jose Juan Rosas",
+          "url": "https://open.spotify.com/artist/6w49c4MLk5ZrdGLqVivnda"
+        }
+      ],
+      "duration_ms": 196325,
+      "name": "El Medico",
+      "url": "https://open.spotify.com/track/6fdLv5BPnXWxqCcqXdmSKa"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Pa La Amanecida (En Vivo)",
+        "url": "https://open.spotify.com/album/6WLyJET2xFT9i8iHLSv3qX"
+      },
+      "artists": [
+        {
+          "name": "Oscar Calin",
+          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
+        }
+      ],
+      "duration_ms": 234424,
+      "name": "Si Quieres - En Vivo",
+      "url": "https://open.spotify.com/track/0iRkOUNC7mMnpx7C4vYgi7"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Quiero Decirte Que Te Amo",
         "url": "https://open.spotify.com/album/5gJXHX6LzFFlFpewqOzu4x"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Pa La Amanecida (En Vivo)",
-        "url": "https://open.spotify.com/album/6WLyJET2xFT9i8iHLSv3qX"
+        "name": "Te Volvi a Mirar",
+        "url": "https://open.spotify.com/album/3X76mWqhlM83nYFc30iR8t"
       },
       "artists": [
         {
-          "name": "Oscar Calin",
-          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
+          "name": "Pastrana",
+          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
         }
       ],
-      "duration_ms": 234424,
-      "name": "Si Quieres - En Vivo",
-      "url": "https://open.spotify.com/track/0iRkOUNC7mMnpx7C4vYgi7"
+      "duration_ms": 168000,
+      "name": "Te Volvi a Mirar",
+      "url": "https://open.spotify.com/track/4tFpyXYKcBRQgCyAi4Phh9"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1195,22 +1211,6 @@
       "duration_ms": 170933,
       "name": "Lo Elegiste A \u00c9l",
       "url": "https://open.spotify.com/track/5aV72PbCRUDikF8lGS14Sf"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Te Volvi a Mirar",
-        "url": "https://open.spotify.com/album/3X76mWqhlM83nYFc30iR8t"
-      },
-      "artists": [
-        {
-          "name": "Pastrana",
-          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Te Volvi a Mirar",
-      "url": "https://open.spotify.com/track/4tFpyXYKcBRQgCyAi4Phh9"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/1HPXSHM0hlI8HdQO1qzkiD"
-      },
-      "artists": [
-        {
-          "name": "Karla Yolanda",
-          "url": "https://open.spotify.com/artist/6vushJHZNgYvKVcGu2QtZN"
-        }
-      ],
-      "duration_ms": 200038,
-      "name": "Antolog\u00eda",
-      "url": "https://open.spotify.com/track/67MWzAGhDafoTbmMyjDqeW"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/4X4pNm2ByzuQrE6N0eGUEH"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "La Ma\u00f1ana Que Se Fue (En Vivo)",
-        "url": "https://open.spotify.com/album/53o2MORHeBWzDCJDWzSgvK"
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/1HPXSHM0hlI8HdQO1qzkiD"
       },
       "artists": [
         {
-          "name": "Car\u00e1cter Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
+          "name": "Karla Yolanda",
+          "url": "https://open.spotify.com/artist/6vushJHZNgYvKVcGu2QtZN"
         }
       ],
-      "duration_ms": 211805,
-      "name": "La Ma\u00f1ana Que Se Fue - En Vivo",
-      "url": "https://open.spotify.com/track/6lqBES7074NB8NEsDpGpBO"
+      "duration_ms": 200038,
+      "name": "Antolog\u00eda",
+      "url": "https://open.spotify.com/track/67MWzAGhDafoTbmMyjDqeW"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1551,6 +1535,22 @@
       "duration_ms": 210187,
       "name": "Corazon Duro - En Vivo",
       "url": "https://open.spotify.com/track/1GNfOr5QynMN4pr9RR7ddN"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "La Ma\u00f1ana Que Se Fue (En Vivo)",
+        "url": "https://open.spotify.com/album/53o2MORHeBWzDCJDWzSgvK"
+      },
+      "artists": [
+        {
+          "name": "Car\u00e1cter Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
+        }
+      ],
+      "duration_ms": 211805,
+      "name": "La Ma\u00f1ana Que Se Fue - En Vivo",
+      "url": "https://open.spotify.com/track/6lqBES7074NB8NEsDpGpBO"
     },
     {
       "added_at": "2024-02-23 06:00:00",

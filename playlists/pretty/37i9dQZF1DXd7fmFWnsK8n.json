@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 69098,
+  "num_followers": 69106,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDU2NDc5OGZjZWY0NGM1M2VmNzMyNWZhNDk1ZmQ5MmM3YzY0OGY1",
+  "snapshot_id": "MCxiNTVhNGM2MzczNzUxYjExZDAyM2FjMjMzNTMzMWZmYWE2Yjk5ODM4",
   "tracks": [
     {
       "added_at": "2024-02-13 15:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
+        "name": "\u30ab\u30e9\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "\u30ab\u30e9\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
         "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\u301cMATSURI\u301c",
         "url": "https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 230933,
       "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\u301cMATSURI\u301c",
       "url": "https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "\u30ab\u30e9\u30d5\u30eb",
-        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "\u30ab\u30e9\u30d5\u30eb",
-      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u30ad\u30ba\u30ca",
-        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "\u30ad\u30ba\u30ca",
-      "url": "https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "\u30d5\u30ec\u30d5\u30ec!\u9752\u6625\u8cdb\u6b4c",
         "url": "https://open.spotify.com/album/4rjnUjqBUNA7jSKMvjrLal"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 269453,
       "name": "\u30d5\u30ec\u30d5\u30ec!\u9752\u6625\u8cdb\u6b4c",
       "url": "https://open.spotify.com/track/2HUtzutGkRfBBY3MB59pWY"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "\u30ad\u30ba\u30ca",
+        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "\u30ad\u30ba\u30ca",
+      "url": "https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K"
     },
     {
       "added_at": "2024-02-13 15:00:00",

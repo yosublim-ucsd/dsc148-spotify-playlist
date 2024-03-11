@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 184983,
+  "2024-03-11": 185097,
   "date_first_scraped": "2022-05-30",
   "description": "Hits, repackaged by Bollywood. Cover - Badrinath Ki Dulhania",
   "name": "Bollywood 2.O",
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 158215,
       "name": "Ishare Tere (From \"Kuch Khattaa Ho Jaay\")",
       "url": "https://open.spotify.com/track/5MgJSfWzLzXveqM7xcvuMG"
@@ -2787,6 +2787,28 @@
       "duration_ms": 220169,
       "name": "Saat Samundar Paar",
       "url": "https://open.spotify.com/track/5Gq0epZpXXuPg4PQZx1iPG"
+    },
+    {
+      "album": {
+        "name": "Sakal Ban (From \"Heeramandi\") - Single",
+        "url": "https://open.spotify.com/album/5naU4t5jHVZ0Y3bJlWeluh"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
+          "name": "Raja Hasan",
+          "url": "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150131,
+      "name": "Sakal Ban (From \"Heeramandi\") - Original",
+      "url": "https://open.spotify.com/track/7svwWqUNrqjhlmaHB6Dl3b"
     },
     {
       "album": {

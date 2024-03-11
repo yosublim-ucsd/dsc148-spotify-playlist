@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: DAESUNG\(대성\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,091 likes - 309 songs - 17 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,129 likes - 309 songs - 17 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 308 | [day of week \(feat\. Kang hankook\)](https://open.spotify.com/track/2c4jc0Hx50K5iagxDYGeJe) | [Normalpuppy](https://open.spotify.com/artist/4KlCq5oUwey00hDMSfrCwK), [Kang hankook](https://open.spotify.com/artist/6wwQNsg4rgLCUdObLieOkC) | [day of week](https://open.spotify.com/album/4yC6YJWmYFpzFVgoMsAzrg) | 2:53 |
 | 309 | [My wish is](https://open.spotify.com/track/5i3DriksizZFCIyN383sr1) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp), [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX) | [My wish is](https://open.spotify.com/album/46m7xAEPH32SxEMRKDMmgE) | 4:10 |
 
-Snapshot ID: `MCw3ZjEwZWM3OTgzMjM5Zjc3YzI0NzRjYWUzYzAyNmUzN2JhZjQzM2Yy`
+Snapshot ID: `MCwwNzg5MzU5NDRjMDEyNDQyMTViZDcwNTcwODZjYTg2ZmE2MGE0YTg1`

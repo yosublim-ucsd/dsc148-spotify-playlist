@@ -1250,6 +1250,24 @@
     {
       "album": {
         "name": "While I'm Awake",
+        "url": "https://open.spotify.com/album/7kh3Mxf4Gg6WrQtaQ8JaC6"
+      },
+      "artists": [
+        {
+          "name": "Giovanca",
+          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240506,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/3cQw1dHuin6zpmrmmh2rIs"
+    },
+    {
+      "album": {
+        "name": "While I'm Awake",
         "url": "https://open.spotify.com/album/6wOVVwm4qn4zYSbM9AmUXb"
       },
       "artists": [
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 165853,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/3pJHB3hEoZbBQGtodxU0xM"

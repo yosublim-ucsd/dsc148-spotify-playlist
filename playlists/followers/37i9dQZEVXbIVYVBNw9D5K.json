@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 821572,
+  "2024-03-11": 821616,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -729,7 +729,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 171382,
       "name": "Al Aram\u0131zdan",
       "url": "https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK"
@@ -3101,7 +3101,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 195348,
       "name": "Bir \u015eehri Sevmek",
       "url": "https://open.spotify.com/track/6jDRPXjvUv2N9ACBXR6sTh"
@@ -3685,7 +3685,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 147510,
       "name": "Can Dostum",
       "url": "https://open.spotify.com/track/6tHhAUAMwUwlEGpAVq1jlX"
@@ -6853,7 +6853,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 123765,
       "name": "G\u00fcl\u00fc\u015f\u00fcne Yan\u0131yorum",
       "url": "https://open.spotify.com/track/1u2disQzfl3rUEhfZx35gL"
@@ -7988,6 +7988,24 @@
     },
     {
       "album": {
+        "name": "\u0130la\u00e7 Ol Yaralar\u0131ma",
+        "url": "https://open.spotify.com/album/6gAZdkl3yuYOLg6t6GDvNW"
+      },
+      "artists": [
+        {
+          "name": "Mavi Gri",
+          "url": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160512,
+      "name": "\u0130la\u00e7 Ol Yaralar\u0131ma",
+      "url": "https://open.spotify.com/track/5EYVnR5HANvHYrg3ooXX0K"
+    },
+    {
+      "album": {
         "name": "Kar\u0131\u015f\u0131k Kaset",
         "url": "https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg"
       },
@@ -8043,7 +8061,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 146818,
       "name": "\u0130lle De Sen",
       "url": "https://open.spotify.com/track/4okPOMAwj6xzDBLPmntzdL"
@@ -9669,6 +9687,24 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "album": {
+        "name": "Lan",
+        "url": "https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26"
+      },
+      "artists": [
+        {
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196075,
+      "name": "Lan",
+      "url": "https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH"
     },
     {
       "album": {
@@ -13685,7 +13721,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 122000,
       "name": "SENIN UGRUNA",
       "url": "https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5"
@@ -13745,6 +13781,24 @@
       "duration_ms": 209454,
       "name": "Sensizlik Yarim",
       "url": "https://open.spotify.com/track/7C4azcFK7GaKT75dhHYgVM"
+    },
+    {
+      "album": {
+        "name": "Sessizim",
+        "url": "https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Mert Ko\u00e7",
+          "url": "https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181019,
+      "name": "Sessizim",
+      "url": "https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr"
     },
     {
       "album": {
@@ -16401,7 +16455,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 246960,
       "name": "Zalim (Ellerine Sa\u011fl\u0131k) - Remastered",
       "url": "https://open.spotify.com/track/6aEEq4m2qAuRKV8wr3Y40Y"

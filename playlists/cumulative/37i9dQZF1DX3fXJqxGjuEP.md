@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-497 songs - 1 day 5 hr 50 min
+498 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [4am](https://open.spotify.com/track/0WXBLLPbYbYllFJWU61hwa) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [4am](https://open.spotify.com/album/4E39syrDiQYSJamBhVAIBy) | 3:37 | 2021-10-20 | 2022-04-19 |
 | [A la Madrugada](https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 4:21 | 2021-10-20 | 2023-10-08 |
 | [A La Madrugada](https://open.spotify.com/track/5N2I59WWXb2sxyATLkhCLI) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0PdHrBTszQMv7M2nqhMy6z) | 4:21 | 2021-10-20 | 2022-07-23 |
-| [A la Madrugada](https://open.spotify.com/track/10LdL0dPRj9USXdfT0Vt4p) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 4:22 | 2021-10-20 |  |
+| [A la Madrugada](https://open.spotify.com/track/10LdL0dPRj9USXdfT0Vt4p) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 4:22 | 2021-10-20 | 2024-03-11 |
 | [A La Vida](https://open.spotify.com/track/7MQx0JhzfO64mciunnkD7o) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj), [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Off The Record](https://open.spotify.com/album/3ltOG1Zcq6fbqYvwIGBXeu) | 3:05 | 2021-10-20 | 2022-07-29 |
 | [A Shot in the Dark](https://open.spotify.com/track/1S2dznj3rS24uBd7ZtkiEh) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [A Shot in the Dark](https://open.spotify.com/album/0hMnDUlrEBy6TxGCdppD8G) | 3:13 | 2021-10-20 | 2022-04-20 |
 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 | 2021-10-20 | 2022-04-21 |
@@ -458,6 +458,7 @@
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2022-06-08 |
 | [Trago Coqueto](https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:02 | 2023-10-10 | 2023-12-13 |
 | [Tropical \(feat\. Ondina\)](https://open.spotify.com/track/6AEHWKKEglbd8oBJeenGD5) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI), [Ondina](https://open.spotify.com/artist/3PiOyb43kGMgy66LQ9lAQ1) | [Tropical](https://open.spotify.com/album/6IBlw7e0Ycqypby7DgzSqH) | 3:15 | 2021-10-20 | 2022-04-17 |
+| [Tu Me Dijiste Que Venias](https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Archivos Pt.1](https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu) | 2:37 | 2021-10-20 |  |
 | [Tusa](https://open.spotify.com/track/14jaIxzz2KHx46jTo0XlCz) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [re\-COVER\-sión VOL.1](https://open.spotify.com/album/1b1S7xbjXzkv0vZXwmg4Pk) | 2:31 | 2021-10-20 | 2022-07-29 |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2021-10-20 |  |
 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 | 2021-10-20 |  |

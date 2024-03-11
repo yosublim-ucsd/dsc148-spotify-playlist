@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,237 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,254 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 99 | [CMYK](https://open.spotify.com/track/09alZMvBX6qVQGzfFsRi9X) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Iotdxi](https://open.spotify.com/album/3VOh4ZvVfyIDe4hlW300qv) | 3:39 |
 | 100 | [Love Songz \- BRC Club Mix](https://open.spotify.com/track/10DDRKxUnhNOuGQntqVIpL) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Sound Is Like Water, 202% THC Remix Package](https://open.spotify.com/album/14Jux3zGjXq252Fg28R3pZ) | 3:42 |
 
-Snapshot ID: `MCxkOTUyMDA4ZmM0MzlmZjZhODdmOWQ1NDQwMmIyYzg5ZTYyNzdlZTgy`
+Snapshot ID: `MCw0NjI0ZTYyODNjOTM0NThlOWZmZGVmYmY1YWUxODZiOTRjODA4ODZj`

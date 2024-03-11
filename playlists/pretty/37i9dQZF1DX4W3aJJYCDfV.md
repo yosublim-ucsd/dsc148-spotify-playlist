@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ariana Grande \(pictured\), FLO, Hannah Laing and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,408 likes - 119 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,427 likes - 119 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 22 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 |
 | 23 | [Baby I'm Bad](https://open.spotify.com/track/6lXIFf6lUbe6zCHtHz8DnT) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Shugz](https://open.spotify.com/artist/4tMlRT8e6fHXzLSbbVpvcV), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Baby I'm Bad](https://open.spotify.com/album/1eY0NDrf95EpnIe7mh4a06) | 2:15 |
 | 24 | [Halfway There](https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Halfway There](https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY) | 3:15 |
-| 25 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 |
+| 25 | [JOY \(Life Goes On\)](https://open.spotify.com/track/3xUbmStWnQjHAfot43uLbl) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Where I'm Meant To Be \(Deluxe Edition\)](https://open.spotify.com/album/6IUfw3LGKbOaKGGEMJQDMd) | 3:41 |
 | 26 | [Alley Rose](https://open.spotify.com/track/63PCEHeJ7ZgTLpmzjkuWoy) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Alley Rose](https://open.spotify.com/album/0UhDmGYpV3BlEWQXuff5DF) | 3:28 |
 | 27 | [Fancy \(feat\. Chow Lee\)](https://open.spotify.com/track/4cMsSuziecXIO8Tjr4yD0W) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Fancy \(feat\. Chow Lee\)](https://open.spotify.com/album/4D7voPeO3xQSInmGHv4QWx) | 2:04 |
 | 28 | [Mamma You Were Right](https://open.spotify.com/track/5DtWvhEIqJqU0q7OstdwIU) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Mamma You Were Right](https://open.spotify.com/album/68M4jklzOpy5sSOtfL7Xxj) | 2:47 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 118 | [Green Shirt](https://open.spotify.com/track/1Lgx5ZUYGcJiDQMqQ6jAGo) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Green Shirt](https://open.spotify.com/album/0ac6cMBpx1ICVqKFSnztEt) | 2:08 |
 | 119 | [Disco Bunny](https://open.spotify.com/track/1i1hfyNnWJWFchHPe6pmE5) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [What Will The Neighbours Say? \(20th Anniversary Edition\)](https://open.spotify.com/album/7yksu8pTU4mDIiVCyKtV5R) | 3:16 |
 
-Snapshot ID: `MCw5ODAyZWRkYjhjZmRhYzJlYTE5ODUxMTZlYTNhZDg3NGE0YTZiMzIw`
+Snapshot ID: `MCxjOWZlY2M0YmM4NWY5N2ExMTBhMTIxYmY1NGYxM2VhODQ1MjJlN2Vl`

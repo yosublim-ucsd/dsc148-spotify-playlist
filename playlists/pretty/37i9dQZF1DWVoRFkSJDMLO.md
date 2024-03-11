@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Aya Nakamura 🇲🇱 & Ayra Starr 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,413 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,447 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [Jump Off](https://open.spotify.com/track/6on03Tw14NWeIjumedTL71) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Godflow](https://open.spotify.com/artist/0QsEQ9wcaW5ruKmXNWxUJC) | [Jump Off](https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK) | 2:09 |
 | 100 | [LumSum](https://open.spotify.com/track/22bgXkhzcJ3gqqhQw838Cx) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [LumSum](https://open.spotify.com/album/7iANuyu5V1UXLG7pRyvWdM) | 2:26 |
 
-Snapshot ID: `MCwzYWU4ZDBkYTE1ZDFkYTcwNmQ2NTEyOTczYmQ1NDM5MzgzOTM0YjFm`
+Snapshot ID: `MCw4YWI3NTk3ZjRiMDcxNTVlNjA2MDgyYmNiNjI2ODNhOTQ3MDFjZjAw`

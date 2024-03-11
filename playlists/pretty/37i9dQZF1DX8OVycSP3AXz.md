@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,619 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,628 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 5 | [Harley Davidson](https://open.spotify.com/track/0wXKL7dVWwl8LZjbhKMGPr) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot Show 67](https://open.spotify.com/album/0uhqJFy7MI5yJHdgofylnN) | 2:28 |
 | 6 | [J'entends siffler le train](https://open.spotify.com/track/487LFx8UVLxUsDAdetnCp2) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [les plus belles chansons](https://open.spotify.com/album/0dvnB0KschqGz0ezdnWsmO) | 3:23 |
 | 7 | [Zou bisou bisou](https://open.spotify.com/track/4qqf1avpzRUnVowNQd1jFw) | [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Twistin’ The Rock, Vol\. 9](https://open.spotify.com/album/0MSicRahv1o4WgJ6pXjUkg) | 2:15 |
-| 8 | [Viens danser le twist](https://open.spotify.com/track/5QLZEGOnjRYhqjAii9JAaP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:04 |
+| 8 | [Viens danser le twist](https://open.spotify.com/track/1SQe9OHaDTwvk2s6IcwoMM) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Viens danser le Twist \(Stéréo\)](https://open.spotify.com/album/1rNd7SNM2PtfXR3yz9lYjD) | 2:06 |
 | 9 | [L'école est finie \- Version stéréo](https://open.spotify.com/track/4Kgq5PpWPsqMLOId5CvoYF) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Sheila \(Compilation 2006\)](https://open.spotify.com/album/6ixot8kh9JC9usgdNBKkZB) | 2:39 |
 | 10 | [Salut les copains](https://open.spotify.com/track/0h1Yfiy1LEHsyQTzGIZklu) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Salut les copains](https://open.spotify.com/album/5FDxqiMUFTJvINVP4N6K7K) | 2:36 |
 | 11 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/3rakh6DtVFDNlxLfYwiGsl) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Romance](https://open.spotify.com/album/1GbMzpbeGFaR7fnJQYOc0P) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [La nuit n'en finit plus](https://open.spotify.com/track/5dPrYYQcqfZh3Wg3cnS43w) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/5vcS1aftWAi42Jw7I8UXWP) | 2:58 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MCxjNjBlMDg4MDA3ZmZkYzIwOGQzZWIyMzUzMjU5YWJhNmRiOWY0NDc3`
+Snapshot ID: `MCw1Y2YyMDgxNGM1YzJkNTRlYmYwNjczNmQ1MjBiZmE4OTMyOTRmODg4`

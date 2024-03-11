@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: MD Chefe, Filipe Ret
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,390 likes - 76 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,442 likes - 76 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 75 | [Sem Competição](https://open.spotify.com/track/4cMs4UogHQq5avftmKA3sr) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [MT RARO](https://open.spotify.com/artist/6gchtkIzZHW6OTPICIK0pv), [Kyoto.mp3](https://open.spotify.com/artist/0sfIusXkJOp74u87M1NCvP), [K2.icee](https://open.spotify.com/artist/5h91fWdSDnOSAdTg9H5Eee), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Sem Competição](https://open.spotify.com/album/0MLSe7CLxMQ7097eONYcsK) | 3:49 |
 | 76 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 
-Snapshot ID: `MCxjOGMxNGE0MzIxZjBhYWVjYzE1YTAzMzVmMDY0MTc3ODYxOTU1ZDRm`
+Snapshot ID: `MCw4Y2M1NTcxYTkxNTBjMWMxYjQyMzdmZmU0YTIwMjBiOGEzMjE2YWI5`

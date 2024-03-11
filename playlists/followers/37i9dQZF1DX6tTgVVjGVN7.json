@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 121124,
+  "2024-03-11": 121159,
   "date_first_scraped": "2022-06-30",
   "description": "Bandas legendarias y canciones que hicieron historia. Foto: Los Prisioneros.",
   "name": "Cl\u00e1sicos del Rock",
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 231800,
       "name": "Sabor a Chocolate",
       "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
@@ -2427,6 +2427,24 @@
       "duration_ms": 217849,
       "name": "Ven aqui",
       "url": "https://open.spotify.com/track/0VyBSVzyZXXB4LnC4a4moo"
+    },
+    {
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217840,
+      "name": "Ven Aqu\u00ed",
+      "url": "https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO"
     },
     {
       "album": {

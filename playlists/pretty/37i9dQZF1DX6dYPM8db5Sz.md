@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V?si=Tnz3X844TKquGDIRzvuvow">Luke Beling</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,153 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,156 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 45 | [Boy](https://open.spotify.com/track/2ZbeStK3ZswSaOFemOoxV5) | [Claire Hesom](https://open.spotify.com/artist/1g3HqeAt5fLOOeIfsHWSLm) | [Boy](https://open.spotify.com/album/6uAvupdRQdApzjWyWWzYUx) | 3:12 |
 | 46 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 47 | [Setting Suns](https://open.spotify.com/track/0GB6NBQY3nYvuwaCApTbFx) | [Brandon Grant](https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU) | [Setting Suns](https://open.spotify.com/album/3BqqPFVR6zGtNkkAtLb68y) | 3:19 |
-| 48 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 |
+| 48 | [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 |
 | 49 | [Rooms](https://open.spotify.com/track/1ZFljzwln96fkNjsJOBt8y) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Rooms](https://open.spotify.com/album/0s8g8Jsxba84hRGpc8vxoB) | 3:15 |
 | 50 | [Untitled](https://open.spotify.com/track/3JIyX72qvZaQG6ZUZRYzlA) | [From East](https://open.spotify.com/artist/5WPRnxQehw3OGUBUiSegT0) | [Untitled](https://open.spotify.com/album/67EkGON97rQstf3pGJJdvG) | 6:24 |
 | 51 | [Madonna](https://open.spotify.com/track/152r40YkplZWECHc392lTa) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Madonna](https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 74 | [Destruction](https://open.spotify.com/track/42KMBiE1JoR1dFaVYHUhdM) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Destruction](https://open.spotify.com/album/7nIWEqV79H835Uwp0UJHhn) | 4:00 |
 | 75 | [Friends](https://open.spotify.com/track/6652ZJ7gXOKZtXTTgUDYFs) | [Mtwana](https://open.spotify.com/artist/70ewNHz36HOPCyctw0oUnt) | [Friends](https://open.spotify.com/album/3sSpQCJ1P8uowaX1jbXghS) | 2:49 |
 
-Snapshot ID: `MCxiM2JlMGFkMTg4MjljMmNmNjczNzNjOTdiZGNiOWY2NjVmOTE5YTI4`
+Snapshot ID: `MCw3YzgzZWM1NDc2NjZiYmJhNzU0NWM3OGQ1MWM3OGM2NjUyNzJkMzEx`

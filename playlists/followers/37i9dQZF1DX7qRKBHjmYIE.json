@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 751773,
+  "2024-03-11": 751760,
   "date_first_scraped": "2021-12-30",
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con The Mar\u00edas.",
   "name": "Mixto",
@@ -1895,6 +1895,24 @@
       "duration_ms": 136562,
       "name": "CHEAP WINE",
       "url": "https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5"
+    },
+    {
+      "album": {
+        "name": "Chico (English Version)",
+        "url": "https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178402,
+      "name": "Chico (English Version)",
+      "url": "https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z"
     },
     {
       "album": {
@@ -3981,7 +3999,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 225717,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5"

@@ -186,10 +186,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 138459,
       "name": "Beggin U",
       "url": "https://open.spotify.com/track/1P4XWA7DvVqxseeaepFmed"
+    },
+    {
+      "album": {
+        "name": "Beggin U",
+        "url": "https://open.spotify.com/album/2IyIQ2IoPif6McYZpd75Gr"
+      },
+      "artists": [
+        {
+          "name": "riverhood",
+          "url": "https://open.spotify.com/artist/1NZnfMY7RAKXVcxDaQD6Dj"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138472,
+      "name": "Beggin U",
+      "url": "https://open.spotify.com/track/6xacjqiieBkAatAJuke0V9"
     },
     {
       "album": {

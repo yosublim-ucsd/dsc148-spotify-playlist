@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,297 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,448 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 49 | [Abeja Reina](https://open.spotify.com/track/7C0xpS2Dt5pRVPmGjaZout) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:53 |
 | 50 | [Que Lloro \(En Vivo\)](https://open.spotify.com/track/7G8adLAFqsylEBqKAgpJ00) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [De Mis Favoritas \(En Vivo\) Vol\. 1](https://open.spotify.com/album/4L14L29uPwSUzYo3f4vEz8) | 2:53 |
 
-Snapshot ID: `Mjg0OTk4NzgsMDAwMDAwMDAzM2M4MDZjYTg0NTdjNDY2MjJjMTVhODRhMzM0ODkyMw==`
+Snapshot ID: `Mjg1MDEyNDEsMDAwMDAwMDBmMTRhMmZmNjdmMDNhM2FhNjViZWVmZjI4MDk0YTFiZA==`

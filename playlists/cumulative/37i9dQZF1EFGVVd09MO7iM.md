@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-454 songs - 1 day 5 hr 44 min
+455 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Ayos Lang](https://open.spotify.com/track/0RqYgpSayvpZAIcIv3mlYK) | [Siakol](https://open.spotify.com/artist/3l9mRJIGzW7RrEE2H8Ldvq) | [Rekta](https://open.spotify.com/album/2xRcb3YZ5wIRcCInzpNNjg) | 4:18 | 2024-01-29 |  |
 | [Años Luz](https://open.spotify.com/track/7ikBuouzgk31Z03FQBD5TN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:41 | 2024-01-29 |  |
 | [Baby](https://open.spotify.com/track/4AMNVe8rOzR1uR0HOlIc3w) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:06 | 2024-01-29 |  |
+| [Baby Doll](https://open.spotify.com/track/3CUgMeKdZlHUyMIH5o6Ufd) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:43 | 2024-03-10 |  |
 | [Bad Girl \(feat\. Trey Songz & Robin Thicke\)](https://open.spotify.com/track/3KIPN9BE8rh6ueIFYZHrIZ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:49 | 2024-01-29 |  |
 | [Bailan](https://open.spotify.com/track/20hJHh3rZS3qharPd6jAKj) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Pretty Girls Like Trap Music](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) | 3:50 | 2024-01-30 |  |
 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 | 2024-01-29 |  |
@@ -365,7 +366,7 @@
 | [SILVER TOOTH\. \(with A$AP Ferg\)](https://open.spotify.com/track/5Xb9LkVG98JiLorzV9O56r) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 2:22 | 2024-02-01 |  |
 | [Sing](https://open.spotify.com/track/6u0oHknFYrnUd42A6rvFly) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 3:55 | 2024-01-29 |  |
 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 | 2024-01-29 |  |
-| [Slow Down](https://open.spotify.com/track/1FmeMRONpObCjib16FuG7P) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:30 | 2024-01-29 |  |
+| [Slow Down](https://open.spotify.com/track/1FmeMRONpObCjib16FuG7P) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:30 | 2024-01-29 | 2024-03-11 |
 | [So Ambitious](https://open.spotify.com/track/0Oi1wJRbRy3ZP5phE9kNMC) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:12 | 2024-01-29 |  |
 | [So Many Pros](https://open.spotify.com/track/1cnbQIZmuKlMQLENaGl6Bo) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 4:06 | 2024-01-29 |  |
 | [So Many Pros](https://open.spotify.com/track/4IKe8LUX0pIre0iE86X7yb) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [So Many Pros \(Video\)](https://open.spotify.com/album/2Qq5zptRXJcjlvG9YwyCMi) | 4:32 | 2024-01-30 | 2024-02-01 |

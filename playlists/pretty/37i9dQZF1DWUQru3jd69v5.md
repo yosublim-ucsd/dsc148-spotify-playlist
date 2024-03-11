@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: Ele A\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,240 likes - 55 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,236 likes - 55 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 11 | [Amigo \(feat\. Néza\)](https://open.spotify.com/track/3noL2g1plR2OC4fSk4Wu5m) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Ninho De La Calle](https://open.spotify.com/album/5kY0llILiYXXRouvjRSBEB) | 2:11 |
 | 12 | [Fortissima Freestyle](https://open.spotify.com/track/5YUuwDY0ydgcx4oeUG0xbZ) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Sangue](https://open.spotify.com/album/2ODTNZ6HLMTNiiu05e4kHO) | 2:03 |
 | 13 | [CORVIALE TESTACCIO \(feat\. Side Baby\)](https://open.spotify.com/track/7qKkElxxnWyuTDZsDdG5Tm) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [CORVIALE TESTACCIO \(feat\. Side Baby\)](https://open.spotify.com/album/04l5q5CxrXJnM3UfAPUdFQ) | 3:02 |
-| 14 | [Addosso](https://open.spotify.com/track/3Vvfh3Bx0A8dtK31QPzhI9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/2KfRdmJYAVdbQfAZSj5QUs) | 2:41 |
+| 14 | [Addosso](https://open.spotify.com/track/6q40i1kf85LSF35cadTAw9) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Addosso](https://open.spotify.com/album/4r1T5CWIHeIER0eRZdl2A6) | 2:41 |
 | 15 | [HANGAR](https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [HANGAR](https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp) | 2:53 |
 | 16 | [No Stop](https://open.spotify.com/track/6enSx9neDjRa51R39HvXzz) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [No Stop](https://open.spotify.com/album/4O6Rk4CLWUNmuiZv1qwCkJ) | 2:06 |
 | 17 | [Tarantola](https://open.spotify.com/track/7EE9L2acFBfLl8Z3wA6Wlv) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Tarantola](https://open.spotify.com/album/4ssbmYL7GCoMKzZVTgryES) | 2:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [WHAT IT IS](https://open.spotify.com/track/77FI7CSoa21Yka87v5i2d4) | [sir prodige](https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp) | [WHAT IT IS](https://open.spotify.com/album/42ae053zJUGhopSCIgdW9g) | 2:32 |
 | 55 | [5 BISTURI](https://open.spotify.com/track/78rjW2uyocigUK9MpX8wrZ) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [5 BISTURI](https://open.spotify.com/album/0S2orBnCAFLwF3nrqCsLJ6) | 3:06 |
 
-Snapshot ID: `MCxlMGYzMjBlOWFlMTAxMzI3YjA2ZDk5M2UyYzNlMmYxMjBmOTNkYmIw`
+Snapshot ID: `MCwyNmU5MDNkNmE4YmE0NDMzNzkyMjNjZDFjNTcyYjVhZWNiYjVmMDU0`

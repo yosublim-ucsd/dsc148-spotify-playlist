@@ -1,12 +1,12 @@
 {
   "description": "Genie\u00dft die ersten Sonnenstrahlen mit der ganzen Familie.",
-  "num_followers": 36062,
+  "num_followers": 36093,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWRiNzJmY2JkMjQ4ZThhNmMzOGI3ODdlZWZiNjNhM2VlZGMxMzc2",
+  "snapshot_id": "MCxmOTY3NmUxZTI0MTYyNDZhMjIyYjEwNTM0YWI1MTE4YmQxYTQ2OTcy",
   "tracks": [
     {
       "added_at": "2024-03-01 14:36:42",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
+        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
+        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 143732,
+      "name": "Yammi Yammi",
+      "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
         "name": "Sch\u00fcttel es ab",
         "url": "https://open.spotify.com/album/7tsUaxEkh5WKU1H06p0Ivk"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 147750,
       "name": "Sch\u00fcttel es ab",
       "url": "https://open.spotify.com/track/2GVGoXmj1aqdKLKsRLl6qf"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
-        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
-      },
-      "artists": [
-        {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
-        }
-      ],
-      "duration_ms": 143732,
-      "name": "Yammi Yammi",
-      "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -847,6 +847,38 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
+        "name": "015/Abends im Walde",
+        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
+      },
+      "artists": [
+        {
+          "name": "Unser Sandm\u00e4nnchen",
+          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "Fr\u00fchlingslied",
+      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Fr\u00fchlingsspa\u00df und Osterhas",
+        "url": "https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ"
+      },
+      "artists": [
+        {
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
+        }
+      ],
+      "duration_ms": 146546,
+      "name": "Bunte Blumen auf der Wiese",
+      "url": "https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
         "name": "Willkommen auf dem singenden Bauernhof",
         "url": "https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD"
       },
@@ -871,22 +903,6 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "015/Abends im Walde",
-        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
-      },
-      "artists": [
-        {
-          "name": "Unser Sandm\u00e4nnchen",
-          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
-        }
-      ],
-      "duration_ms": 123320,
-      "name": "Fr\u00fchlingslied",
-      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
         "name": "Die 40 besten Fingerspiel-Lieder",
         "url": "https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 66127,
       "name": "Das Schneegl\u00f6ckchen",
       "url": "https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "Fr\u00fchlingsspa\u00df und Osterhas",
-        "url": "https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ"
-      },
-      "artists": [
-        {
-          "name": "Detlev J\u00f6cker",
-          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
-        }
-      ],
-      "duration_ms": 146546,
-      "name": "Bunte Blumen auf der Wiese",
-      "url": "https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6"
     }
   ],
   "unique_name": "Familienzeit: Fr\u00fchling",

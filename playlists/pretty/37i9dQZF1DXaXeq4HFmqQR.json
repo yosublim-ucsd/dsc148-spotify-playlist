@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
-  "num_followers": 13404,
+  "num_followers": 13425,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGMzYzI3NzdjZWZmYTIyMWQ1ODFhZGZmY2Q0NThkYzM1NDBiNDEy",
+  "snapshot_id": "MCwwMDUxNmQ1Njg2MDllZWRmMDFkMjljZDFmZjhmYjMzZmU1ZTE0N2U0",
   "tracks": [
     {
       "added_at": "2024-03-07 22:05:46",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-07 22:05:46",
       "album": {
-        "name": "...M\u00e1s Canciones De Amor",
-        "url": "https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Negociemos",
-      "url": "https://open.spotify.com/track/2uWe03F58LgGYg1px68izl"
-    },
-    {
-      "added_at": "2024-03-07 22:05:46",
-      "album": {
         "name": "Adentro",
         "url": "https://open.spotify.com/album/3WTzAP8jDP47QJ5XxpfgOt"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 198729,
       "name": "Adentro",
       "url": "https://open.spotify.com/track/65nQli6Slisl9Ksu6o0yLN"
+    },
+    {
+      "added_at": "2024-03-07 22:05:46",
+      "album": {
+        "name": "...M\u00e1s Canciones De Amor",
+        "url": "https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Negociemos",
+      "url": "https://open.spotify.com/track/2uWe03F58LgGYg1px68izl"
     },
     {
       "added_at": "2024-03-07 22:05:46",
@@ -679,6 +679,26 @@
     {
       "added_at": "2024-03-07 22:05:46",
       "album": {
+        "name": "Baby del Rey",
+        "url": "https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB"
+      },
+      "artists": [
+        {
+          "name": "Bby Lean",
+          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "Baby del Rey",
+      "url": "https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI"
+    },
+    {
+      "added_at": "2024-03-07 22:05:46",
+      "album": {
         "name": "Las Cosas Lento",
         "url": "https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 212702,
       "name": "casas de cart\u00f3n",
       "url": "https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh"
-    },
-    {
-      "added_at": "2024-03-07 22:05:46",
-      "album": {
-        "name": "Baby del Rey",
-        "url": "https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB"
-      },
-      "artists": [
-        {
-          "name": "Bby Lean",
-          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "Baby del Rey",
-      "url": "https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI"
     },
     {
       "added_at": "2024-03-07 22:05:46",

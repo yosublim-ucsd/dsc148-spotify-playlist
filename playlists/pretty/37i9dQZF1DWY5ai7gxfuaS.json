@@ -1,12 +1,12 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 280123,
+  "num_followers": 280211,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGYxNjQ1NDZmZWYxYjdiOGNkZjU0Y2JiYzY5YTg2N2I4YzJmMWM2",
+  "snapshot_id": "MCw0YjJiMzMxMWUyOTFjZGJjOWNiY2I0YzA0OTk3ZTQ4OTdkMzJkMWY1",
   "tracks": [
     {
       "added_at": "2023-12-07 20:09:02",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "The Gereg",
-        "url": "https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Yuve Yuve Yu",
-      "url": "https://open.spotify.com/track/2huR9BaWUtNT8Txwy3nPOx"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Barbie & Ken",
         "url": "https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 135000,
       "name": "Barbie & Ken",
       "url": "https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "The Gereg",
+        "url": "https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "Yuve Yuve Yu",
+      "url": "https://open.spotify.com/track/2huR9BaWUtNT8Txwy3nPOx"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "DOWN (feat. Malevolence)",
         "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
       },
@@ -279,22 +295,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 118863,
-      "name": "Pink Rover",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Cheers To Goodbye (feat. Spencer Charnas)",
         "url": "https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5"
       },
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
-      },
-      "artists": [
-        {
-          "name": "Kim Dracula",
-          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
@@ -443,18 +459,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "I Wish A Bitch Would",
-        "url": "https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw"
+        "name": "MILF",
+        "url": "https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO"
       },
       "artists": [
         {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
         }
       ],
-      "duration_ms": 206617,
-      "name": "I Wish A Bitch Would",
-      "url": "https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY"
+      "duration_ms": 120000,
+      "name": "MILF",
+      "url": "https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -471,22 +487,6 @@
       "duration_ms": 235736,
       "name": "Paranoid (Crash & Burn)",
       "url": "https://open.spotify.com/track/1Q1SYwGXe7dFtcTgkgblwF"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "MILF",
-        "url": "https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "MILF",
-      "url": "https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Full Spectrum",
-        "url": "https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ"
-      },
-      "artists": [
-        {
-          "name": "The Chronicles of Manimal and Samara",
-          "url": "https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8"
-        }
-      ],
-      "duration_ms": 461306,
-      "name": "Love in the Time of Pestilence",
-      "url": "https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Blood Year",
         "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "RedZone / Dead or Alive",
-        "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
+        "name": "Full Spectrum",
+        "url": "https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ"
       },
       "artists": [
         {
-          "name": "Crossfaith",
-          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+          "name": "The Chronicles of Manimal and Samara",
+          "url": "https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8"
         }
       ],
-      "duration_ms": 227706,
-      "name": "RedZone",
-      "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
+      "duration_ms": 461306,
+      "name": "Love in the Time of Pestilence",
+      "url": "https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -975,6 +959,22 @@
       "duration_ms": 254368,
       "name": "Storm",
       "url": "https://open.spotify.com/track/5C4y8xih0UowIf9yPgSAYT"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "RedZone / Dead or Alive",
+        "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
+      },
+      "artists": [
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "RedZone",
+      "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "An Investigation Into Perceived Heaviness",
-        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
-      },
-      "artists": [
-        {
-          "name": "LIONFIGHT",
-          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Heaviness",
-      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "overstimulation brain porridge",
         "url": "https://open.spotify.com/album/6O4apo5JpFLzhCDwS844Tn"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 261206,
       "name": "be no one",
       "url": "https://open.spotify.com/track/79sLgm42dVXtLAModGd7CJ"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "An Investigation Into Perceived Heaviness",
+        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
+      },
+      "artists": [
+        {
+          "name": "LIONFIGHT",
+          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
     },
     {
       "added_at": "2023-12-07 20:09:02",

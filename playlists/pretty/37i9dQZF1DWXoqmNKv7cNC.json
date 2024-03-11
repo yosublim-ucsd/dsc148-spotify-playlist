@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas ic\u00f3nicas del 2023 a todo volumen! ",
-  "num_followers": 101673,
+  "num_followers": 101703,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWIxNGViM2QzNTc4OGMzMzc2MzM5MWI2YzAzOWYwZDhkOTU4MTlm",
+  "snapshot_id": "MCxhMWViYTA5M2MzNzdhYzY4NWIzMWJiZGNkZDQxNWMzYTdmMGZiZWFl",
   "tracks": [
     {
       "added_at": "2024-01-03 06:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-01-03 06:00:00",
       "album": {
-        "name": "Hola Lola",
-        "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
-      },
-      "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        }
-      ],
-      "duration_ms": 237142,
-      "name": "Hola Lola",
-      "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
-    },
-    {
-      "added_at": "2024-01-03 06:00:00",
-      "album": {
         "name": "POLVO",
         "url": "https://open.spotify.com/album/4vdhfstIdiL9CkqhnUSAaD"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 240000,
       "name": "POLVO",
       "url": "https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa"
+    },
+    {
+      "added_at": "2024-01-03 06:00:00",
+      "album": {
+        "name": "Hola Lola",
+        "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
+      },
+      "artists": [
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        }
+      ],
+      "duration_ms": 237142,
+      "name": "Hola Lola",
+      "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
     },
     {
       "added_at": "2024-01-03 06:00:00",

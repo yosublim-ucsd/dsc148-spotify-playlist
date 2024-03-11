@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: MONNI(\ubabd\ub2c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 464868,
+  "num_followers": 464896,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjFiY2UwOWNhYjRhYTE4NThiZTgyYTY3YjdmMzFlZjE0OTVmNzcw",
+  "snapshot_id": "MCxhYWFhOWUzNDgwYTE2MTRkNzU3MDA0YWUwYzYyMGM1YzVlY2U2NWUx",
   "tracks": [
     {
       "added_at": "2024-03-08 06:32:51",
@@ -619,22 +619,18 @@
     {
       "added_at": "2024-03-08 06:32:51",
       "album": {
-        "name": "RAL 9002",
-        "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 189533,
-      "name": "RAL 9002 (Feat. Heize)",
-      "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2024-03-08 06:32:51",
@@ -675,18 +671,22 @@
     {
       "added_at": "2024-03-08 06:32:51",
       "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+        "name": "RAL 9002",
+        "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+      "duration_ms": 189533,
+      "name": "RAL 9002 (Feat. Heize)",
+      "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
     },
     {
       "added_at": "2024-03-08 06:32:51",

@@ -10384,7 +10384,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 115538,
       "name": "Encima De Mi",
       "url": "https://open.spotify.com/track/5ul8goxRfS5qh1JBEUbICd"
@@ -14306,7 +14306,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 159254,
       "name": "Horas contigo",
       "url": "https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL"
@@ -35734,6 +35734,28 @@
     {
       "album": {
         "name": "WTF 2",
+        "url": "https://open.spotify.com/album/7ebZRkmaweJp2FKLP5NoFt"
+      },
+      "artists": [
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        },
+        {
+          "name": "EF",
+          "url": "https://open.spotify.com/artist/2njFsjrcCYquIi53DQ9CiX"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126897,
+      "name": "WTF 2",
+      "url": "https://open.spotify.com/track/66QWqZPA5Mxe8LpRjewkVv"
+    },
+    {
+      "album": {
+        "name": "WTF 2",
         "url": "https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn"
       },
       "artists": [
@@ -36640,6 +36662,24 @@
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "album": {
+        "name": "Somos uno y lo mismo",
+        "url": "https://open.spotify.com/album/7EKKJ9YE2jrskhrZaSZZGT"
+      },
+      "artists": [
+        {
+          "name": "Adrian Barba",
+          "url": "https://open.spotify.com/artist/5KK1FO30lzYPqnPYyS9bu5"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "\u00c1ngeles Fuimos",
+      "url": "https://open.spotify.com/track/16rIILwXsRYk8TfCaPp8z6"
     },
     {
       "album": {

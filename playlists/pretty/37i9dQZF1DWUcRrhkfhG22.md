@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,035 likes - 85 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,057 likes - 85 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 20 | [Heartbreaker \(Pt\. I, Pt\. II\)](https://open.spotify.com/track/487lDz6QPxnAgrVTpykRHb) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:15 |
 | 21 | [Imagination](https://open.spotify.com/track/64CJhB3uGmoLnf8x4z5mog) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [All Night Long](https://open.spotify.com/album/6CgKJxu3TjAVV7lyc1CLGi) | 3:05 |
 | 22 | [Get Down](https://open.spotify.com/track/3QWAJIKolXy48uNu5Arms2) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch) | [Get Down](https://open.spotify.com/album/3AqLlB80sloKlgipS9UJ1z) | 2:35 |
-| 23 | [I Can Make Ya](https://open.spotify.com/track/5kkbdQmOMbSReknRRGi72G) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [I Can Make Ya](https://open.spotify.com/album/7nME0SUHAOYMtWxIyAanan) | 3:58 |
+| 23 | [I Can Make Ya](https://open.spotify.com/track/5G5WPmrYWnTBEeLMRqICP9) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [I Can Make Ya](https://open.spotify.com/album/5Jr1bpcJsXsXPJpKhl3Spr) | 3:58 |
 | 24 | [She's drivin me crazy](https://open.spotify.com/track/6ehsvuQU6rrGTKBulK4TDP) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt) | [Sound of Tha Tube](https://open.spotify.com/album/43xWKRfPQtIzXdguOWiXjW) | 3:01 |
 | 25 | [When I Hit the Block](https://open.spotify.com/track/4Vy23imXjy2kg8zaaX5D7O) | [Throwback Zack](https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv) | [Cloud 9](https://open.spotify.com/album/4gvxF2lP3osUa2MXxq3atT) | 3:46 |
 | 26 | [Call Me Up](https://open.spotify.com/track/2JGRHnNYsYsWGFZsAv3uvS) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork: Deluxe Edition](https://open.spotify.com/album/4lPn10rqeU3aSMSApE1Ff8) | 4:11 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 84 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 |
 | 85 | [Pomslap](https://open.spotify.com/track/1o93PmeUiSJopZ70Z4LlMK) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ) | 4:04 |
 
-Snapshot ID: `MCw0MGY2NTdjNTZjMTNiMTIzMmQ2M2NlOTQyY2MyZTYwMzA5Zjc5NWQ4`
+Snapshot ID: `MCw0NWEwYWRmOWI3YTBiMjY2MjE5MTViOTkwYmQ1OTM3MjMxY2Q4Y2My`

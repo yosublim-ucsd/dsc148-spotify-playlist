@@ -1,5 +1,5 @@
 {
-  "2024-03-10": 42455,
+  "2024-03-11": 42537,
   "date_first_scraped": "2022-10-01",
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
   "name": "Gospel Greatness",
@@ -2469,7 +2469,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-10",
       "duration_ms": 219514,
       "name": "Look At God",
       "url": "https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz"
@@ -3253,6 +3253,24 @@
       "duration_ms": 228786,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/2txzErQliWk9JMlVNeolNh"
+    },
+    {
+      "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312980,
+      "name": "Only You Satisfy",
+      "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
     },
     {
       "album": {
