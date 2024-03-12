@@ -1,12 +1,12 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 154499,
+  "num_followers": 154594,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDNhYTE2NjdhZDgwMWIyZjQ1ZWIyNTRiNjY1ZGU5YTFhNmIzNzQw",
+  "snapshot_id": "MCw5ZDk3N2EzOWM0NGMxZGZmYWZhN2JkZGQwZjA0ODJlZmY5ZWViMTFi",
   "tracks": [
     {
       "added_at": "2024-03-07 08:02:16",
@@ -188,26 +188,6 @@
       },
       "artists": [
         {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        },
-        {
-          "name": "Emma Stone",
-          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "A Lovely Night",
-      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
-    },
-    {
-      "added_at": "2024-03-07 08:02:16",
-      "album": {
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
-      },
-      "artists": [
-        {
           "name": "Justin Hurwitz",
           "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
         }
@@ -235,6 +215,26 @@
       "duration_ms": 193573,
       "name": "Si tu vois ma m\u00e8re - Slow",
       "url": "https://open.spotify.com/track/5FWn20xrAQ1IdbA8Dml6pj"
+    },
+    {
+      "added_at": "2024-03-07 08:02:16",
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "A Lovely Night",
+      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
     },
     {
       "added_at": "2024-03-07 08:02:16",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-03-07 08:02:16",
       "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Overture - From \"Whiplash\"",
+      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
+    },
+    {
+      "added_at": "2024-03-07 08:02:16",
+      "album": {
         "name": "Amarcord (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 127786,
       "name": "Amarcord",
       "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
-    },
-    {
-      "added_at": "2024-03-07 08:02:16",
-      "album": {
-        "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Overture - From \"Whiplash\"",
-      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
     },
     {
       "added_at": "2024-03-07 08:02:16",
@@ -427,22 +427,6 @@
       "duration_ms": 213333,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
-    },
-    {
-      "added_at": "2024-03-07 08:02:16",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 111266,
-      "name": "Bigger Than Us",
-      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
     },
     {
       "added_at": "2024-03-07 08:02:16",
@@ -491,6 +475,22 @@
       "duration_ms": 157680,
       "name": "The Pink Panther Theme - From \"The Pink Panther\"",
       "url": "https://open.spotify.com/track/0juPSJLFnLFim7BK6VzTes"
+    },
+    {
+      "added_at": "2024-03-07 08:02:16",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
     },
     {
       "added_at": "2024-03-07 08:02:16",
@@ -675,6 +675,26 @@
     {
       "added_at": "2024-03-07 08:02:16",
       "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        },
+        {
+          "name": "James P. Nichols",
+          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
+        }
+      ],
+      "duration_ms": 282200,
+      "name": "A Reluctant Hero / Betsy / End Credits",
+      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
+    },
+    {
+      "added_at": "2024-03-07 08:02:16",
+      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 164586,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/5X0M16GjlZYN1WjPNzerb5"
-    },
-    {
-      "added_at": "2024-03-07 08:02:16",
-      "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        },
-        {
-          "name": "James P. Nichols",
-          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
-        }
-      ],
-      "duration_ms": 282200,
-      "name": "A Reluctant Hero / Betsy / End Credits",
-      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
     },
     {
       "added_at": "2024-03-07 08:02:16",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-03-07 08:02:16",
       "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "duration_ms": 101466,
+      "name": "Thank God for the Rain",
+      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
+    },
+    {
+      "added_at": "2024-03-07 08:02:16",
+      "album": {
         "name": "The Bee's Knees (The EMI Years 1957 - 1962)",
         "url": "https://open.spotify.com/album/1V8isrWhBs8RhDV6qduH0Q"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 229866,
       "name": "The Lady is a Tramp",
       "url": "https://open.spotify.com/track/3ktv2iqF2G7r2RNUyJK7jj"
-    },
-    {
-      "added_at": "2024-03-07 08:02:16",
-      "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        }
-      ],
-      "duration_ms": 101466,
-      "name": "Thank God for the Rain",
-      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
     },
     {
       "added_at": "2024-03-07 08:02:16",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-07 08:02:16",
       "album": {
-        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
-        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Linus And Lucy",
-      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
-    },
-    {
-      "added_at": "2024-03-07 08:02:16",
-      "album": {
         "name": "Chico & Rita",
         "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
@@ -1187,6 +1171,46 @@
       "duration_ms": 76773,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke"
+    },
+    {
+      "added_at": "2024-03-07 08:02:16",
+      "album": {
+        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
+        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Linus And Lucy",
+      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
+    },
+    {
+      "added_at": "2024-03-07 08:02:16",
+      "album": {
+        "name": "Moonstruck (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
+      },
+      "artists": [
+        {
+          "name": "Harry Warren",
+          "url": "https://open.spotify.com/artist/6vOhSMuCQ8BXVkLJOamR8Z"
+        },
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+        }
+      ],
+      "duration_ms": 186080,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4oAUu2DDEAgDIWdoelMx5I"
     },
     {
       "added_at": "2024-03-07 08:02:16",
@@ -1223,30 +1247,6 @@
       "duration_ms": 503066,
       "name": "Love Theme (From \"Chinatown\")",
       "url": "https://open.spotify.com/track/66tYxA2RBooo0Y6kBj7W7F"
-    },
-    {
-      "added_at": "2024-03-07 08:02:16",
-      "album": {
-        "name": "Moonstruck (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
-      },
-      "artists": [
-        {
-          "name": "Harry Warren",
-          "url": "https://open.spotify.com/artist/6vOhSMuCQ8BXVkLJOamR8Z"
-        },
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Dick Stabile And His Orchestra",
-          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
-        }
-      ],
-      "duration_ms": 186080,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/4oAUu2DDEAgDIWdoelMx5I"
     },
     {
       "added_at": "2024-03-07 08:02:16",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-03-07 08:02:16",
       "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
-    },
-    {
-      "added_at": "2024-03-07 08:02:16",
-      "album": {
         "name": "Sweet Smell Of Success (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7vdGhIdDZsLHmJfdxnZL8X"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 299720,
       "name": "Goodbye Baby - From The Motion Picture \"Sweet Smell Of Success\"",
       "url": "https://open.spotify.com/track/2ZPz9ZUr4U8ReQG5vRzuIH"
+    },
+    {
+      "added_at": "2024-03-07 08:02:16",
+      "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
     },
     {
       "added_at": "2024-03-07 08:02:16",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2024-03-07 08:02:16",
       "album": {
-        "name": "The Motown Anthology",
-        "url": "https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc"
+        "name": "Hello Louis - The Hit Years (1963-1969)",
+        "url": "https://open.spotify.com/album/5bg0svB3kklUxFziXta8it"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 142266,
-      "name": "Good Morning Heartache - From \"Lady Sings The Blues\" Soundtrack",
-      "url": "https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P"
+      "duration_ms": 192200,
+      "name": "We Have all The Time in the World",
+      "url": "https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV"
     }
   ],
   "unique_name": "Jazz Soundtracks",

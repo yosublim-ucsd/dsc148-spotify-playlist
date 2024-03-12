@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 70889,
+  "2024-03-12": 70948,
   "date_first_scraped": "2022-09-24",
   "description": "self-reinvention never sounded so good.",
   "name": "hair dye",
@@ -901,7 +901,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 130479,
       "name": "Gary Ashby",
       "url": "https://open.spotify.com/track/10yQwebXPazuU2KxH1XR4r"
@@ -1395,6 +1395,24 @@
       "duration_ms": 77466,
       "name": "Kiss the Ladder",
       "url": "https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj"
+    },
+    {
+      "album": {
+        "name": "Light On",
+        "url": "https://open.spotify.com/album/7J3RuK5FVXZry7VhVU4GaU"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233463,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/0QzcgQmOWVT1qqVAsqGFh1"
     },
     {
       "album": {

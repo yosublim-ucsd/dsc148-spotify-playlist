@@ -11508,10 +11508,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 164443,
       "name": "WELCOME TO THE MOON",
       "url": "https://open.spotify.com/track/4SK0t01YG0xYa50pAiUzVi"
+    },
+    {
+      "album": {
+        "name": "MOON RAVE",
+        "url": "https://open.spotify.com/album/00uEhYLv1VinqryCZrTxH0"
+      },
+      "artists": [
+        {
+          "name": "Kakes ON",
+          "url": "https://open.spotify.com/artist/3ZN2MVf7GNPJATGmu4dIHZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164443,
+      "name": "WELCOME TO THE MOON",
+      "url": "https://open.spotify.com/track/5r320HbpXeu7iipcmIVGXB"
     },
     {
       "album": {

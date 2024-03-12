@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> New music each and every Friday\. In honor of Black History Month, we’re giving flowers to prominent artists and their managers\. <a href="https://www.instagram.com/p/C38GTj9Lzev/?utm\_source=ig\_web\_copy\_link&igsh=MzRlODBiNWFlZA==">Let's get into it</a><br/><br/>Cover: Larry June and David Ali
+> New music each and every Friday\. Happy Women's History Month! Cover: SZA
 
 2,931 songs - 6 day 3 hr 0 min
 

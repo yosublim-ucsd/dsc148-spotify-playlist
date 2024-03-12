@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 145126,
+  "2024-03-12": 145244,
   "date_first_scraped": "2022-01-26",
   "description": "A soft and slow soundtrack to play in the background to all your activities.",
   "name": "Soft Jazz",
@@ -4891,7 +4891,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 296020,
       "name": "For EH",
       "url": "https://open.spotify.com/track/2FbnvVjodpaYP9L8CKMgOw"
@@ -9166,6 +9166,24 @@
     },
     {
       "album": {
+        "name": "Love For Free",
+        "url": "https://open.spotify.com/album/6awm6EihJwIoQ5YrEoJG22"
+      },
+      "artists": [
+        {
+          "name": "Akio",
+          "url": "https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213562,
+      "name": "Love For Free",
+      "url": "https://open.spotify.com/track/4s5I0RCLDgPjUpmmlQbpP1"
+    },
+    {
+      "album": {
         "name": "Love in the First Degree",
         "url": "https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00"
       },
@@ -9235,6 +9253,24 @@
       "duration_ms": 183688,
       "name": "Love on a Lonely Street",
       "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
+    },
+    {
+      "album": {
+        "name": "Don't Talk (Put Your Head on My Shoulder)",
+        "url": "https://open.spotify.com/album/5yZjhFDydVDlGniKbYRxTJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340596,
+      "name": "Love Theme From Chinatown",
+      "url": "https://open.spotify.com/track/2c6wQCi3dt5vjbpysZIpdr"
     },
     {
       "album": {
@@ -10511,6 +10547,24 @@
       "duration_ms": 212500,
       "name": "My Lonely Heart",
       "url": "https://open.spotify.com/track/3srN5HvrKjhlzZcl2wdR2G"
+    },
+    {
+      "album": {
+        "name": "My Mistakes",
+        "url": "https://open.spotify.com/album/4Uv6cZ7LsTVkPzQb9U1XIW"
+      },
+      "artists": [
+        {
+          "name": "Gjermund Skar",
+          "url": "https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234433,
+      "name": "My Mistakes",
+      "url": "https://open.spotify.com/track/7s4oZhKqHTi77Qx4RPIOmx"
     },
     {
       "album": {
@@ -13797,7 +13851,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 194866,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/4j5uqScA9Gv7rgRMwaoReo"
@@ -17099,7 +17153,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 302480,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/3fsiMFP50UJWm1TJlckFUq"

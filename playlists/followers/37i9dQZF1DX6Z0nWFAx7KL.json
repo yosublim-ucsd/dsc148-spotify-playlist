@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 47979,
+  "2024-03-12": 47987,
   "date_first_scraped": "2022-09-17",
   "description": "You can dance or chill.",
   "name": "Dance Chill",
@@ -999,7 +999,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 184994,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 154137,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO"

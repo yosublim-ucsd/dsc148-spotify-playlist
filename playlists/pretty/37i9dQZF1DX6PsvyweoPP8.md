@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,827 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,884 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 84 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 |
 | 85 | [Mexe Mexe](https://open.spotify.com/track/0PKOVSMvvmAvQaVgtZVt6n) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO), [EarKid](https://open.spotify.com/artist/7HgyUDF9EbhOCBc0l29PD8) | [Tipo I\-Doser](https://open.spotify.com/album/67h12hjNOZvIDtJzDijc15) | 4:20 |
 
-Snapshot ID: `MCxkMGQyZThmODM1Yjg4YTA1MTkzOTU2ZGRjZjM3ZTk1OThjM2YwN2Ni`
+Snapshot ID: `MCw5YzIzYmI0YzBmNWNkNThkZWY3ZjBiNmZlOTJiN2I1NGJhNzBjOGI4`

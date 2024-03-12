@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,879 songs - 2 day 23 hr 36 min
+1,880 songs - 2 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,6 +943,7 @@
 | [Longing Beats](https://open.spotify.com/track/2S8x2UmgZFqGNPQxe2zLL4) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Longing Beats](https://open.spotify.com/album/1GuLPS3yf1YOdrpnweE0b9) | 2:22 | 2022-04-15 | 2023-08-18 |
 | [Longing for summer](https://open.spotify.com/track/7I6VIP00dwIA97Ge5AK1YP) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Longing for summer](https://open.spotify.com/album/4FGN3nnZpSUtQ0tbzccpmX) | 2:20 | 2023-02-21 |  |
 | [Looking Back](https://open.spotify.com/track/3Egy2qks6AS2LYP1RmnLCn) | [m.sorlii](https://open.spotify.com/artist/5yZq1pWTwP9YNCbuCBfROH), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Looking Back](https://open.spotify.com/album/6mjTeqLjOIdGvj86dVQj4c) | 2:28 | 2022-11-18 | 2023-03-25 |
+| [looking back](https://open.spotify.com/track/0dxMj3mOuLH0igqGZQYEPe) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [looking back](https://open.spotify.com/album/1MgY24AwMIAt8E6w89K9Rq) | 2:10 | 2024-03-08 |  |
 | [Loose Changes](https://open.spotify.com/track/2TwnlyZK8MUipdASFzPSPl) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [Loose Changes](https://open.spotify.com/album/6hW0KKfZpxIDwlSQDbE0Zo) | 2:08 | 2023-03-20 |  |
 | [Lost And Found](https://open.spotify.com/track/3FeSqMVjKFDcARrMBz9zvV) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Lost And Found](https://open.spotify.com/album/1wDBfVn0vYBPB93Xsfcl22) | 1:51 | 2022-07-29 | 2022-08-12 |
 | [Lost in LA](https://open.spotify.com/track/4dZBeDiuLJ6dKmB3NDqjui) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Lost in LA](https://open.spotify.com/album/1jmrcNqyUhff0IGK1AwxVb) | 2:01 | 2023-01-20 |  |
@@ -1593,7 +1594,7 @@
 | [Sunrays](https://open.spotify.com/track/0uJWwpRKgHFmFDIyXQtsji) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Sunrays](https://open.spotify.com/album/30sK54lSHYBcB95sRJn0QF) | 2:30 | 2022-11-18 | 2023-02-07 |
 | [Sunrise](https://open.spotify.com/track/7Kg3YSa4bilbvyFRSWScG0) | [Clipsheet](https://open.spotify.com/artist/2aGZ09xbqrkGKqDLMFl9r2) | [Sunrise](https://open.spotify.com/album/2MYdmyaARWA73eRLaD0PWi) | 1:43 | 2022-11-25 | 2023-09-16 |
 | [sunset](https://open.spotify.com/track/5NO2HocQGechq8BaHmvbIa) | [Aran Brôg](https://open.spotify.com/artist/7ba3vzhS4RU7esRdjexxwA) | [sunset](https://open.spotify.com/album/6hBdzlZdJVZZmDyT1fHMnT) | 2:20 | 2022-11-25 | 2023-02-07 |
-| [sunset](https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sunset](https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u) | 2:44 | 2023-09-08 |  |
+| [sunset](https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sunset](https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u) | 2:44 | 2023-09-08 | 2024-03-12 |
 | [Sunset](https://open.spotify.com/track/25E3oiuIVUsjow8jWW7GAf) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Coastal](https://open.spotify.com/album/5Vl92yFBmLGcr5bJ8p2vQ6) | 2:33 | 2022-10-07 | 2023-01-13 |
 | [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2022-04-15 | 2022-08-12 |
 | [Sunset](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Sunset](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 2:17 | 2022-12-16 |  |

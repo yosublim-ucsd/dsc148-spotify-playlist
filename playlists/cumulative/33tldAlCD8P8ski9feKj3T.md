@@ -2,7 +2,7 @@
 
 ### [Alternative Indie Today](https://open.spotify.com/playlist/33tldAlCD8P8ski9feKj3T)
 
-> The best in new Modern Music\. Featuring: <a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz?si=SG75sGTeTrKqESWSWc4n7g">Linkin Park</a>, Mother Mother, Wallows, Great Gable, NewDad, Michael Marcagi, ThxSoMch and many more.
+> The best in new Modern Music\. Featuring: <a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx?si=4JprYKKMRNOzfRUudP4jeA">Twenty One Pilots</a>, Mother Mother, Linkin Park, Wallows, Great Gable, NewDad, Michael Marcagi, ThxSoMch and many more.
 
 144 songs - 7 hr 51 min
 

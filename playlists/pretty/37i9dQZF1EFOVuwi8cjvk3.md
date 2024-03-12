@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230 likes - 227 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 229 likes - 227 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,8 +193,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 183 | [Hamburg](https://open.spotify.com/track/7A4fgIoGHXViGO8aD0TEiH) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Smith & Wesson](https://open.spotify.com/artist/6XIVSItA4ieQMxvkSRG4Rt) | [Late Nights: Europe](https://open.spotify.com/album/7fA1iHkq1YpylDaZewt65w) | 3:26 |
 | 184 | [Love You Like I Do \(feat\. RITTYBO & Jammy\)](https://open.spotify.com/track/0259HVL0Yxn7v8mbDZK2Zo) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [RITTYBO](https://open.spotify.com/artist/7jMC5T6FVLrmlTyvrjp8NJ), [Jammy](https://open.spotify.com/artist/2JyMaoNqyKyWNcASw5b5X8) | [The Beautiful & Damned \(Deluxe Edition\)](https://open.spotify.com/album/3MH4gUVIghBW3W6Jr3aWh9) | 3:53 |
 | 185 | [Always Come Back](https://open.spotify.com/track/4VrYMRno1pW8bQuAtLsfjt) | [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Starrah X Diplo](https://open.spotify.com/album/39q6pRlgy5ZqaTDj1llXR3) | 3:16 |
-| 186 | [We Alive](https://open.spotify.com/track/4Ir1Dfv018qxVndX1zCiG3) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:03 |
-| 187 | [Miracles](https://open.spotify.com/track/390gklCmVREtgzEVf3L3CU) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Miracles](https://open.spotify.com/album/7B54uESsR5n8xPhAfr4Qkq) | 3:23 |
+| 186 | [Miracles](https://open.spotify.com/track/390gklCmVREtgzEVf3L3CU) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Miracles](https://open.spotify.com/album/7B54uESsR5n8xPhAfr4Qkq) | 3:23 |
+| 187 | [We Alive](https://open.spotify.com/track/4Ir1Dfv018qxVndX1zCiG3) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:03 |
 | 188 | [Immortal](https://open.spotify.com/track/4x613Sidnl3JLiI6diDJvs) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6) | [All Love Lost](https://open.spotify.com/album/38jzfwvKmwgz4pKbPubaIY) | 5:14 |
 | 189 | [Hi, I'm Frank Dukes](https://open.spotify.com/track/0eNA9rbzq1pLOIH8LXrXKa) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:43 |
 | 190 | [Separate](https://open.spotify.com/track/6dnamiwr1ceCqEXp015E5E) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 2:27 |
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 226 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 227 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Mjg1MDIwNDAsMDAwMDAwMDBhM2ZiNmE0YWZhNzhmNzg0OGZjNmZkODliMjYzODljNA==`
+Snapshot ID: `Mjg1MDM0ODAsMDAwMDAwMDA0OGJmY2JiOWQ4MzhjMzQ0OGM3N2QxZGNkZDVjZWM5Mw==`

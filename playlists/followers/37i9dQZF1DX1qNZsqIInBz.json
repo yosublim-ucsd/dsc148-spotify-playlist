@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 306150,
+  "2024-03-12": 306880,
   "date_first_scraped": "2022-11-13",
   "description": "smooth drifting only",
   "name": "cosmic phonk",
@@ -383,7 +383,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 185142,
       "name": "Black Road",
       "url": "https://open.spotify.com/track/1sNsATLRBh2hFIcBm6dSQd"
@@ -1895,6 +1895,24 @@
       "duration_ms": 164164,
       "name": "Lost Generation",
       "url": "https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf"
+    },
+    {
+      "album": {
+        "name": "lost my way.",
+        "url": "https://open.spotify.com/album/4vdFAzl8OXWKlBrnVoV8WX"
+      },
+      "artists": [
+        {
+          "name": "PHARA\u00d8H",
+          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126786,
+      "name": "lost my way.",
+      "url": "https://open.spotify.com/track/3LDOh5ufbKc9RMu1eOzL5V"
     },
     {
       "album": {

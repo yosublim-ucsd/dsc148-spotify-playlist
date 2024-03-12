@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 102663,
+  "2024-03-12": 102682,
   "date_first_scraped": "2023-12-19",
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Lendakaris Muertos.",
   "name": "Punk Espa\u00f1ol",
@@ -299,7 +299,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 88800,
       "name": "Carmina",
       "url": "https://open.spotify.com/track/6sBOPHCgO76219oKKdcNRk"
@@ -1279,6 +1279,24 @@
       "duration_ms": 88386,
       "name": "No Komas Keso en Exzeso",
       "url": "https://open.spotify.com/track/18fkVDXRuHvCYN7yZS6H74"
+    },
+    {
+      "album": {
+        "name": "Bellotaris Fallecidos II",
+        "url": "https://open.spotify.com/album/5HTaEEXBPjEpSKkkv1W70J"
+      },
+      "artists": [
+        {
+          "name": "Bellotaris Fallecidos",
+          "url": "https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "No Me Pongas M\u00e1s May\u00e9utica",
+      "url": "https://open.spotify.com/track/7EnEOTJAGMy957k3BjdsqJ"
     },
     {
       "album": {

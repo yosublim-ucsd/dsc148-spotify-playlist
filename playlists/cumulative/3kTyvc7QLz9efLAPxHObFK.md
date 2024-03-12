@@ -4,7 +4,7 @@
 
 > 
 
-1,176 songs - 2 day 17 hr 39 min
+1,177 songs - 2 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,6 +652,7 @@
 | [Makin Me Dirty \- Radio Mix](https://open.spotify.com/track/0vkcfbHfDflGPM9QZ7FtOz) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [Al Storm](https://open.spotify.com/artist/12CfGGtVpvaQVgoQaFy7kM), [Vicky Fee](https://open.spotify.com/artist/1ZdAYef0OB5B5sSwjbeVWG) | [Makin Me Dirty](https://open.spotify.com/album/4wChuhD2OxTWqP24Wt5m8d) | 3:05 | 2022-09-20 |  |
 | [Man In The Moon](https://open.spotify.com/track/4EScr2nCRkyHTvwcHiPncx) | [Mike Reverie](https://open.spotify.com/artist/66BGGk95uamfiRchHngiCz), [Elov8](https://open.spotify.com/artist/4FFMEbceBkR0jhKvaBJXLt) | [Man In The Moon](https://open.spotify.com/album/6bwsFzxgOKxMxk1bmh7RP9) | 3:49 | 2022-08-22 |  |
 | [Man On The Moon](https://open.spotify.com/track/2rtPJAoZWyR7amEHMngAUc) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Man On The Moon](https://open.spotify.com/album/020Go8Jdd1dcE0WoIfQEgJ) | 4:12 | 2022-02-14 |  |
+| [Maniac](https://open.spotify.com/track/6MF9azgLJJ0JnWGF825liQ) | [Neutronix](https://open.spotify.com/artist/0DIzzJ1buMRNtrsAad0K40) | [Maniac](https://open.spotify.com/album/76lj2EbgZpE758nuG7lBtS) | 2:24 | 2024-03-11 |  |
 | [Maniac Raver](https://open.spotify.com/track/3DFswmDIUoiHU8AscFNJl9) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Maniac Raver](https://open.spotify.com/album/28hWePvGcIWDYKjkVNS5uU) | 3:07 | 2023-07-29 |  |
 | [Masked Voices](https://open.spotify.com/track/6KC4rAyOrV2ZuRopExUlyX) | [Mr\. Bassmeister](https://open.spotify.com/artist/5aT7fqsgVA5IKJHtkfpPDw), [Goblin Grave](https://open.spotify.com/artist/1z54PqrKf4Z6qRhdxbK6k2) | [Masked Voices](https://open.spotify.com/album/3013iyoXksMX2U9HbdYq20) | 3:14 | 2022-04-19 |  |
 | [MASSACRE](https://open.spotify.com/track/7lHLZsYfPTTVCY1dob6hPI) | [Eggedd](https://open.spotify.com/artist/0c41gp29ZkkV0ty4CGZ5SL), [Zero Decay](https://open.spotify.com/artist/6jeIVSYtovQyTuskys78hD) | [MASSACRE](https://open.spotify.com/album/1d9qg3OkURW6MvIRgFI1Lu) | 3:48 | 2023-05-01 |  |

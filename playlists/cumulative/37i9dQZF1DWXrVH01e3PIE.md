@@ -2,7 +2,7 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> JGonz & xuxu en la casa del Trap Argentino.
+> J Gonz & xuxu en la casa del Trap Argentino.
 
 268 songs - 12 hr 57 min
 

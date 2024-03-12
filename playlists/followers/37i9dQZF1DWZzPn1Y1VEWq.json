@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 366740,
+  "2024-03-12": 366799,
   "date_first_scraped": "2023-07-30",
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
   "name": "Los 2000 Argentina",
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 234753,
       "name": "Complicado y Aturdido / Mulher de Fases",
       "url": "https://open.spotify.com/track/1EkrLhI0P5Iml6qYHHKk30"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"

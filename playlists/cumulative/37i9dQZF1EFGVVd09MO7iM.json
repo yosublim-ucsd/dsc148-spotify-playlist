@@ -5443,6 +5443,24 @@
     },
     {
       "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476626,
+      "name": "Lost Queen",
+      "url": "https://open.spotify.com/track/2SYCj35WXBydywsRJl91cE"
+    },
+    {
+      "album": {
         "name": "Lift Your Spirit",
         "url": "https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF"
       },
@@ -7372,7 +7390,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 270866,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/1FmeMRONpObCjib16FuG7P"
@@ -7576,7 +7594,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 326586,
       "name": "Special",
       "url": "https://open.spotify.com/track/74z465KvfBQrAqovUVLkpo"
@@ -8876,7 +8894,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 221893,
       "name": "We Got It For Cheap (Intro)",
       "url": "https://open.spotify.com/track/3YKR7Wglf9JvWg5O7xdA5g"

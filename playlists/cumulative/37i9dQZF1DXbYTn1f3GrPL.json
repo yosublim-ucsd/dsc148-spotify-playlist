@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "All You Want",
+        "url": "https://open.spotify.com/album/4STwzDy8LTnUsA6AImZZy7"
+      },
+      "artists": [
+        {
+          "name": "Gunnel Boek",
+          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "All You Want",
+      "url": "https://open.spotify.com/track/5hJYtuUAsHMnmRe1aogTfX"
+    },
+    {
+      "album": {
         "name": "Hypnotic Tune",
         "url": "https://open.spotify.com/album/1Y6zf7Hh7jnhp5y3Y5qksK"
       },
@@ -3090,6 +3108,24 @@
       "duration_ms": 131400,
       "name": "Sibylline",
       "url": "https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P"
+    },
+    {
+      "album": {
+        "name": "Silent Among Strangers",
+        "url": "https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL"
+      },
+      "artists": [
+        {
+          "name": "Yeer Ifinies",
+          "url": "https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150180,
+      "name": "Silent Among Strangers",
+      "url": "https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1"
     },
     {
       "album": {

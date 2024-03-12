@@ -976,10 +976,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 202682,
       "name": "FWU",
       "url": "https://open.spotify.com/track/01QarjS3RWHEXJMWYZeyJG"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295977,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6"
     },
     {
       "album": {

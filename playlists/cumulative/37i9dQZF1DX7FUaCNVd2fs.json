@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "All You Want",
+        "url": "https://open.spotify.com/album/4STwzDy8LTnUsA6AImZZy7"
+      },
+      "artists": [
+        {
+          "name": "Gunnel Boek",
+          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "All You Want",
+      "url": "https://open.spotify.com/track/5hJYtuUAsHMnmRe1aogTfX"
+    },
+    {
+      "album": {
         "name": "Time Line",
         "url": "https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns"
       },

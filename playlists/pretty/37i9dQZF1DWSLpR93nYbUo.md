@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Sterium
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,103 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,117 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 3 | [City of Lights](https://open.spotify.com/track/3i88BattarCOjHp9floMKS) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [City of Lights](https://open.spotify.com/album/2sbMrM0xT4eKphg68TUNma) | 2:53 |
 | 4 | [Ivy's Piece](https://open.spotify.com/track/4LUoTs21FZAWJjJK3pjttW) | [CACO](https://open.spotify.com/artist/1slQSH6zMspzewKxkcDXHN), [Soul Alchemist](https://open.spotify.com/artist/4F5PvBXWTjlJDWQZ2OQvdg), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ivy's Piece](https://open.spotify.com/album/4Zr4wh2gbUKHbmIiOG52GP) | 5:35 |
 | 5 | [Shattered](https://open.spotify.com/track/23kaHmoKicGnc4csWAoOh6) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI), [The Frontier](https://open.spotify.com/artist/0JwymukVmFtZeyMWWfzwrV) | [Shattered](https://open.spotify.com/album/3qBKgyLnwdRRrifrtGbIij) | 2:17 |
-| 6 | [Closer](https://open.spotify.com/track/3L3VrwqT1bMnEkdBI6JCjN) | [verk](https://open.spotify.com/artist/6VTs7LSFnN636jvXUTkUgo) | [Closer](https://open.spotify.com/album/3cABtJ6Rakb7cYl862nJql) | 2:27 |
+| 6 | [Closer](https://open.spotify.com/track/3L3VrwqT1bMnEkdBI6JCjN) | [Verk](https://open.spotify.com/artist/2LohREFk0OwDipUCsd7J4j) | [Closer](https://open.spotify.com/album/3cABtJ6Rakb7cYl862nJql) | 2:27 |
 | 7 | [Bandolera](https://open.spotify.com/track/6OxL2hvPiqmqh1tqlxC7Rn) | [Edson Faiolli](https://open.spotify.com/artist/5zQqfkTJNj7rodrMI0UjU5), [Dropbusterz](https://open.spotify.com/artist/4rv8s8PHSHezu1eJnxLQbB), [Delayz](https://open.spotify.com/artist/0gtmyc6bAV1XoQHwOHF7NX) | [Bandolera](https://open.spotify.com/album/3XLgwnpDnuoszAE3ytJUmZ) | 3:09 |
 | 8 | [Back Again](https://open.spotify.com/track/2rZCirycRAokqUr4g1kygx) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Back Again](https://open.spotify.com/album/11qCeNOwkYtNUZiJq4mqPy) | 2:55 |
 | 9 | [Mosquito](https://open.spotify.com/track/1MqXdIOVbUnfMPFnNifMnD) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Mosquito](https://open.spotify.com/album/5YGN3odNnAtZ7MXL4VIiLE) | 3:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 69 | [Oh Low](https://open.spotify.com/track/7nI3oWYKEMWwcddD4SpUvg) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Oh Low](https://open.spotify.com/album/0rOH0FxIi30rsZ8kYbb2zR) | 2:53 |
 | 70 | [Ordinary World](https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [JOY RIVO & JTO](https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg) | [Ordinary World](https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb) | 4:12 |
 
-Snapshot ID: `MCw2Y2FiNjcwNTBkNTNiN2U3ZjU5YTkzNWZjYjQ0OTBkMGVhZTI1MWQz`
+Snapshot ID: `MCxjODg4YThmZmI0NTEyZTBmMzBhMzIyOWY0N2Y2ZmJlNmRmNGEzOTYx`

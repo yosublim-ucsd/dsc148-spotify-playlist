@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 572299,
+  "2024-03-12": 572358,
   "date_first_scraped": "2022-01-10",
   "description": "Rap from hell. Cover: Scrim from $uicideboy$",
   "name": "TIRADE",
@@ -12185,6 +12185,28 @@
     {
       "album": {
         "name": "WTF 2",
+        "url": "https://open.spotify.com/album/7ebZRkmaweJp2FKLP5NoFt"
+      },
+      "artists": [
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        },
+        {
+          "name": "EF",
+          "url": "https://open.spotify.com/artist/2njFsjrcCYquIi53DQ9CiX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126897,
+      "name": "WTF 2",
+      "url": "https://open.spotify.com/track/66QWqZPA5Mxe8LpRjewkVv"
+    },
+    {
+      "album": {
+        "name": "WTF 2",
         "url": "https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn"
       },
       "artists": [
@@ -12199,7 +12221,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,146 likes - 46 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,296 likes - 45 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,6 +53,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 43 | [War of the Hearts](https://open.spotify.com/track/1s7cklguCg0rkLeBGA7quh) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 6:47 |
 | 44 | [I Never Thought I'd See the Day](https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:13 |
 | 45 | [Love Is Found](https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:08 |
-| 46 | [Like A Tattoo \- Slowed Down](https://open.spotify.com/track/6BBjvruQhRiJsrxr7qJThj) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [slowed down audioss](https://open.spotify.com/artist/6bMREuqsHFPKAi9ZtVxp0G) | [Like A Tattoo \(Slowed Down\)](https://open.spotify.com/album/10CvU2TbBrLTcLXqGr8R2L) | 4:49 |
 
-Snapshot ID: `Mjg1MDEyNDEsMDAwMDAwMDAyYjExNzQ3YmM3ODA2OTY4MDM4Yjg5NWViYzE0MDE5Nw==`
+Snapshot ID: `Mjg1MDI2MTUsMDAwMDAwMDA5N2FlZWFiZDRkMzA1NzM1Zjk2N2QzM2U1YzMyNTQxZQ==`

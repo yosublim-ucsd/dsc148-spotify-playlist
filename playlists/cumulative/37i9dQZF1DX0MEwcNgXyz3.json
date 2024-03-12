@@ -454,10 +454,28 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 184489,
       "name": "C\u2019est la Vie",
       "url": "https://open.spotify.com/track/2C8mQmjO77XZp7yjBUZADD"
+    },
+    {
+      "album": {
+        "name": "C\u2019est la Vie (Graham Lake Edit)",
+        "url": "https://open.spotify.com/album/6WG8xBDH9ia8hFSH72QSWA"
+      },
+      "artists": [
+        {
+          "name": "Graham Lake",
+          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144081,
+      "name": "C\u2019est la Vie - Graham Lake Edit",
+      "url": "https://open.spotify.com/track/6pWPMNxEGOhuiBWwtFvg8w"
     },
     {
       "album": {
@@ -1684,6 +1702,24 @@
       "duration_ms": 239266,
       "name": "Sankta Lucia",
       "url": "https://open.spotify.com/track/68JHQul9BJoRgsQL24uQUQ"
+    },
+    {
+      "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/3SM3OD3q5P7oukO8LWbY7Y"
+      },
+      "artists": [
+        {
+          "name": "Graham Lake",
+          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151762,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/1zbSt3myJBHpoIXLVguK67"
     },
     {
       "album": {

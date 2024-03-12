@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 216797,
+  "num_followers": 216859,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjg5Yjc2Njg1MDViYzM4OTk5NTMwODJiMDVjZTQ2N2U2OTk0ZTVi",
+  "snapshot_id": "MCxlOTkzYTk0MzY4YWJkOWUzMzdhNGE4MWEwMjVhODhiZjNhNjU3YzI1",
   "tracks": [
     {
       "added_at": "2024-03-05 05:44:43",
@@ -23,6 +23,38 @@
       "duration_ms": 291771,
       "name": "Lovegaze",
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
+    },
+    {
+      "added_at": "2024-03-11 23:29:50",
+      "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
+    },
+    {
+      "added_at": "2024-03-11 23:29:50",
+      "album": {
+        "name": "Life of the Forbidden",
+        "url": "https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "duration_ms": 249208,
+      "name": "An Embroidery",
+      "url": "https://open.spotify.com/track/3fGOSGKCGV4WTnDIOhD22M"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -59,22 +91,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "I'm A Man",
-        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -95,6 +111,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "I'm A Man",
+        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "Weighing of the Heart",
         "url": "https://open.spotify.com/album/1wv2yreeNsyBNnvlhOhvjO"
       },
@@ -107,22 +139,6 @@
       "duration_ms": 205120,
       "name": "Zone 1 to 6000",
       "url": "https://open.spotify.com/track/4dKYEhGEEpTZFOXBAhDOcA"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Spinning",
-        "url": "https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 374468,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -175,6 +191,22 @@
       "duration_ms": 240476,
       "name": "Carmina XVII",
       "url": "https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 374468,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -399,22 +431,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 227212,
-      "name": "Mata Hari",
-      "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Ki moun ou ye",
         "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
       },
@@ -427,6 +443,22 @@
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 227212,
+      "name": "Mata Hari",
+      "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -555,6 +587,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "Of Air",
         "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
       },
@@ -571,22 +619,6 @@
       "duration_ms": 188250,
       "name": "Of Air",
       "url": "https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -631,22 +663,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "CLOUD 9",
-        "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 208458,
-      "name": "CLOUD 9",
-      "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Closer Now",
         "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
@@ -659,6 +675,22 @@
       "duration_ms": 282920,
       "name": "Closer Now",
       "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "CLOUD 9",
+        "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 208458,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -795,6 +827,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 187861,
+      "name": "Cloudbreath",
+      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ"
       },
@@ -823,22 +871,6 @@
       "duration_ms": 363346,
       "name": "Makkuroi Mizu",
       "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
-      },
-      "artists": [
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 187861,
-      "name": "Cloudbreath",
-      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -891,26 +923,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "BLUE (feat. Moor Mother)",
-        "url": "https://open.spotify.com/album/6hPd5eE0nlAyW5WmGjbzTY"
-      },
-      "artists": [
-        {
-          "name": "R.Y.F.",
-          "url": "https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe"
-        },
-        {
-          "name": "Moor Mother",
-          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "BLUE (feat. Moor Mother)",
-      "url": "https://open.spotify.com/track/0Wq5LVoXfyPJ1HXqv6bXUW"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Hrudja",
         "url": "https://open.spotify.com/album/6BJAIjSg0DyxXNW2XEViMs"
       },
@@ -939,6 +951,26 @@
       "duration_ms": 149433,
       "name": "MY BLACK CAT",
       "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "BLUE (feat. Moor Mother)",
+        "url": "https://open.spotify.com/album/6hPd5eE0nlAyW5WmGjbzTY"
+      },
+      "artists": [
+        {
+          "name": "R.Y.F.",
+          "url": "https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "BLUE (feat. Moor Mother)",
+      "url": "https://open.spotify.com/track/0Wq5LVoXfyPJ1HXqv6bXUW"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -995,26 +1027,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Pillow Fight At Sandwich Bay",
-        "url": "https://open.spotify.com/album/5FVE08vFPuatuXZmgfZH7r"
-      },
-      "artists": [
-        {
-          "name": "Ciro Vitiello",
-          "url": "https://open.spotify.com/artist/750ohCN5oKj9vhLdfTYX7s"
-        },
-        {
-          "name": "CR\u00c6BABE",
-          "url": "https://open.spotify.com/artist/6QD8kdNaNHM4dXu03a9zUo"
-        }
-      ],
-      "duration_ms": 145874,
-      "name": "Pillow Fight at Sandwich Bay",
-      "url": "https://open.spotify.com/track/33KypzTjc6TL2jPTkxXDU8"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Pillar / New Sun",
         "url": "https://open.spotify.com/album/2RqvxTcNYJdxiHtwULBXPg"
       },
@@ -1027,22 +1039,6 @@
       "duration_ms": 585901,
       "name": "Pillar",
       "url": "https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "QUANTA 1:11",
-        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 396071,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1063,6 +1059,42 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "QUANTA 1:11",
+        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 396071,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Pillow Fight At Sandwich Bay",
+        "url": "https://open.spotify.com/album/5FVE08vFPuatuXZmgfZH7r"
+      },
+      "artists": [
+        {
+          "name": "Ciro Vitiello",
+          "url": "https://open.spotify.com/artist/750ohCN5oKj9vhLdfTYX7s"
+        },
+        {
+          "name": "CR\u00c6BABE",
+          "url": "https://open.spotify.com/artist/6QD8kdNaNHM4dXu03a9zUo"
+        }
+      ],
+      "duration_ms": 145874,
+      "name": "Pillow Fight at Sandwich Bay",
+      "url": "https://open.spotify.com/track/33KypzTjc6TL2jPTkxXDU8"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "Image Langage",
         "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
       },
@@ -1075,6 +1107,22 @@
       "duration_ms": 176000,
       "name": "The House That Agnes Built",
       "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+      },
+      "artists": [
+        {
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+        }
+      ],
+      "duration_ms": 196891,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1095,22 +1143,6 @@
       "duration_ms": 410397,
       "name": "Oracles",
       "url": "https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 196891,
-      "name": "The Fountain",
-      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1183,22 +1215,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "An Ocean",
-        "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Chua",
-          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
-        }
-      ],
-      "duration_ms": 259648,
-      "name": "An Ocean",
-      "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Dois Litorais",
         "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
       },
@@ -1211,6 +1227,22 @@
       "duration_ms": 520719,
       "name": "Dois Litorais",
       "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "An Ocean",
+        "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+        }
+      ],
+      "duration_ms": 259648,
+      "name": "An Ocean",
+      "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1243,42 +1275,6 @@
       "duration_ms": 282863,
       "name": "A Garden by the Sea",
       "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "I Am You (Space Afrika Remix)",
-        "url": "https://open.spotify.com/album/7LnWTaScRI9JfHhOQqU4EU"
-      },
-      "artists": [
-        {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
-        },
-        {
-          "name": "Space Afrika",
-          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
-        }
-      ],
-      "duration_ms": 258366,
-      "name": "I Am You - Space Afrika Remix",
-      "url": "https://open.spotify.com/track/2dqc2QouSxBbbPpu84peJh"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Wanci",
-        "url": "https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS"
-      },
-      "artists": [
-        {
-          "name": "Tarawangsawelas",
-          "url": "https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il"
-        }
-      ],
-      "duration_ms": 344074,
-      "name": "Selalu",
-      "url": "https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32"
     }
   ],
   "unique_name": "Terra Incognita",

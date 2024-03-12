@@ -4,7 +4,7 @@
 
 > All the stuff that will blow your speakers!
 
-275 songs - 13 hr 36 min
+276 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Flow \- Techno](https://open.spotify.com/track/5EleE3RB1U7cOopEvFAkBO) | [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1) | [Flow \(Techno\)](https://open.spotify.com/album/5iotlT1hOOiS1uHmMkWXal) | 2:11 | 2024-01-25 | 2024-02-23 |
 | [For You](https://open.spotify.com/track/1K3yNNl8YK3XPYGfl0cU3b) | [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro), [OPAVA](https://open.spotify.com/artist/3WjKAoLZYKLaPl0ZeRKRSf) | [For You](https://open.spotify.com/album/2gs4QvAfH7gA4kByrfAioG) | 2:51 | 2023-09-21 | 2023-10-13 |
 | [Fuck It Up](https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Fuck It Up](https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2) | 3:16 | 2023-11-09 | 2023-11-17 |
+| [Fuck The Pain Away](https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:43 | 2024-03-07 |  |
 | [Fuego](https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Fuego](https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX) | 2:32 | 2023-09-14 | 2024-01-06 |
 | [GASOLINA & COCAINA](https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [GASOLINA & COCAINA](https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az) | 3:12 | 2023-08-31 |  |
 | [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 | 2024-01-25 |  |
@@ -143,7 +144,7 @@
 | [LIFT ME UP](https://open.spotify.com/track/7LNiEbgn9x43HQGQywRoYC) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [LIFT ME UP](https://open.spotify.com/album/4P4mMZqsPVTzwAxpdMrHVe) | 3:47 | 2024-03-07 |  |
 | [Lift Me Up \- Hard Mix](https://open.spotify.com/track/7t0KwFT5N5r1cFJloJAHGn) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Lift Me Up \(Hard Mix\)](https://open.spotify.com/album/5QPKhPol4vmOWPk4K4XXHu) | 2:20 | 2023-09-07 | 2023-10-06 |
 | [Little Lies](https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [HALO](https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Little Lies](https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy) | 2:03 | 2024-02-15 |  |
-| [Live Until I Die](https://open.spotify.com/track/4JjHBHKIBCuojHrL5wyMow) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Live Until I Die](https://open.spotify.com/album/0rKojF4WQPUshCkKwafY2S) | 2:33 | 2024-02-29 |  |
+| [Live Until I Die](https://open.spotify.com/track/4JjHBHKIBCuojHrL5wyMow) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Live Until I Die](https://open.spotify.com/album/0rKojF4WQPUshCkKwafY2S) | 2:33 | 2024-02-29 | 2024-03-12 |
 | [Lonely \(Brennan Heart Remix\)](https://open.spotify.com/track/6xjHeCdwsBoUYrEN2kJ998) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Lonely \(Brennan Heart Remix\)](https://open.spotify.com/album/1fUbkjcFgBhw185phdtJJX) | 3:50 | 2023-08-31 | 2023-09-08 |
 | [Lonely \- Macon's HYPERTECHNO Remix](https://open.spotify.com/track/6sepj69cC5Qqawb8SgZmhp) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Lonely \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/713qOUVt8LY9hE8srppV7U) | 2:57 | 2023-09-21 | 2023-09-29 |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-09-14 |  |

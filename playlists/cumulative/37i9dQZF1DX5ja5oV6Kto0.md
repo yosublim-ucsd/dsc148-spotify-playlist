@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Prettyboy D\-O
 
-577 songs - 1 day 3 hr 58 min
+578 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,8 @@
 | [WDYWFM \(feat\. L0la\)](https://open.spotify.com/track/48m7Kit1AFXmJuH244X4x7) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [L0la](https://open.spotify.com/artist/0Ba1FVGkH6ur9DLz6o9P62) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:01 | 2022-11-24 | 2022-12-09 |
 | [We Can Go Again](https://open.spotify.com/track/7eepRUI31ki6mOiOSvIlzn) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [We Can Go Again](https://open.spotify.com/album/6dzlZcFmAnV6TZMDhbuMNb) | 2:41 | 2022-10-28 | 2022-12-09 |
 | [We're Made For Each Other](https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 2:28 | 2022-03-03 | 2022-03-12 |
-| [WELCOME TO THE MOON](https://open.spotify.com/track/4SK0t01YG0xYa50pAiUzVi) | [Kakes ON](https://open.spotify.com/artist/3ZN2MVf7GNPJATGmu4dIHZ) | [MOON RAVE](https://open.spotify.com/album/3B8GUcf5RMCOYrFPRAGgcH) | 2:44 | 2023-12-15 |  |
+| [WELCOME TO THE MOON](https://open.spotify.com/track/4SK0t01YG0xYa50pAiUzVi) | [Kakes ON](https://open.spotify.com/artist/3ZN2MVf7GNPJATGmu4dIHZ) | [MOON RAVE](https://open.spotify.com/album/3B8GUcf5RMCOYrFPRAGgcH) | 2:44 | 2023-12-15 | 2024-03-12 |
+| [WELCOME TO THE MOON](https://open.spotify.com/track/5r320HbpXeu7iipcmIVGXB) | [Kakes ON](https://open.spotify.com/artist/3ZN2MVf7GNPJATGmu4dIHZ) | [MOON RAVE](https://open.spotify.com/album/00uEhYLv1VinqryCZrTxH0) | 2:44 | 2024-03-08 |  |
 | [Wet](https://open.spotify.com/track/4UYvRJDzEIKvyHRMA8LPNC) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Wet](https://open.spotify.com/album/5ResSYzjEMB3SbKvC8XmxQ) | 2:58 | 2022-07-28 | 2023-01-28 |
 | [Wetin Dey](https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 2:26 | 2023-04-28 | 2024-01-05 |
 | [What To Expect When Expecting](https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [What To Expect When Expecting](https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf) | 2:48 | 2022-09-09 | 2022-09-30 |

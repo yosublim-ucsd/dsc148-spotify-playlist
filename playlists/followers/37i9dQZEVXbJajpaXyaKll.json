@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 127953,
+  "2024-03-12": 127947,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Argentina.",
   "name": "Viral 50 - Argentina",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
@@ -592,6 +592,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica de las Sagas de Drag\u00f3n Ball",
+        "url": "https://open.spotify.com/album/1llvtkXOEVrjuoRd1hTCRt"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Silva",
+          "url": "https://open.spotify.com/artist/2lCmsUtLSxA7esbqH1bUW7"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Chala Head Chala (Opening \"D.B.Z.\" Versi\u00f3n Cl\u00e1sica)",
+      "url": "https://open.spotify.com/track/2m7KGTVbqqo2xo3AaaJO8s"
+    },
+    {
+      "album": {
         "name": "Meet The Lilithz",
         "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
       },
@@ -701,7 +719,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 202508,
       "name": "Dance You Outta My Head",
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 145658,
       "name": "Donde Te Pillemos Tarara Tarara Rkt",
       "url": "https://open.spotify.com/track/4zYWtqpOzMlBeyyIvD9IIF"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -817,6 +835,24 @@
       "duration_ms": 230732,
       "name": "El Hechizo RKT (Techengue) - Remix",
       "url": "https://open.spotify.com/track/4XMXxeAxTaHxfPGZetCWak"
+    },
+    {
+      "album": {
+        "name": "Somos uno y lo mismo",
+        "url": "https://open.spotify.com/album/7EKKJ9YE2jrskhrZaSZZGT"
+      },
+      "artists": [
+        {
+          "name": "Adrian Barba",
+          "url": "https://open.spotify.com/artist/5KK1FO30lzYPqnPYyS9bu5"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "El Poder Nuestro Es",
+      "url": "https://open.spotify.com/track/2wZJFeW0H1WnokB2V0gMhm"
     },
     {
       "album": {
@@ -867,6 +903,24 @@
       "duration_ms": 383369,
       "name": "El Super Junte Rkt",
       "url": "https://open.spotify.com/track/1dtFrIzrr4DJZOHHESVwbt"
+    },
+    {
+      "album": {
+        "name": "Pafuera Telara\u00f1as",
+        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
+      },
+      "artists": [
+        {
+          "name": "Bebe",
+          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
     },
     {
       "album": {
@@ -1643,7 +1697,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
@@ -2037,7 +2091,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
@@ -2995,7 +3049,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 286493,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"

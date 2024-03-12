@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 104735,
+  "num_followers": 104780,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGVmNGMxOGJjNDY4MDcxYTVlOGY3NjExNDUxMjc0ODczZTgyZTJm",
+  "snapshot_id": "MCxjZmYzZjlkNDhmMTJjOTllYTdiNGRjNjViMGE2NTBiNzI2NmI1Nzk0",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Jesus Freak (Remastered)",
-        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
-      },
-      "artists": [
-        {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
-        }
-      ],
-      "duration_ms": 305480,
-      "name": "In The Light - Remastered 2013",
-      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Essential Kirk Franklin",
         "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 305666,
       "name": "Stomp (Remix)",
       "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Jesus Freak (Remastered)",
+        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 305480,
+      "name": "In The Light - Remastered 2013",
+      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Jars Of Clay",
+        "url": "https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "duration_ms": 286266,
+      "name": "Love Song For A Savior",
+      "url": "https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "BarlowGirl",
         "url": "https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr"
       },
@@ -543,38 +559,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Jars Of Clay",
-        "url": "https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ"
-      },
-      "artists": [
-        {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
-        }
-      ],
-      "duration_ms": 286266,
-      "name": "Love Song For A Savior",
-      "url": "https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -623,6 +607,38 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Sonicpraise",
+        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "Ready To Fly",
         "url": "https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 239306,
       "name": "Basic Instructions",
       "url": "https://open.spotify.com/track/1P2U3LMx2Rj3pVmnmT4LSd"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "Sonicpraise",
-        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
-      },
-      "artists": [
-        {
-          "name": "Sonicflood",
-          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
-        }
-      ],
-      "duration_ms": 381600,
-      "name": "Lord I Lift Your Name on High",
-      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
     },
     {
       "added_at": "2023-02-01 04:53:20",

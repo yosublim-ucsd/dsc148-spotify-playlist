@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Alycia Lang
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,189 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,230 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Andy](https://open.spotify.com/track/38PLSvrjsvz2CUwyfiwn6U) | [Pelvis Wrestley](https://open.spotify.com/artist/1swnRUP8Yp7HHUswDjVO5p) | [Andy](https://open.spotify.com/album/6jC2JDOo1f9kHqBw1h0UOG) | 4:47 |
 | 100 | [These Ghosts](https://open.spotify.com/track/6mutJYePzlpQXk2Kf9PGYt) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [These Ghosts](https://open.spotify.com/album/1pZAR1QGc0ZC1VZ0RFwZLP) | 4:32 |
 
-Snapshot ID: `MCw5OGZjMzRkMTcyZmUyNWZkNmQ2NDhhNWJmNWI3N2ZiMjY1ZDhmOGZm`
+Snapshot ID: `MCxmMGIwYzhkZTAzNzI2MWMxMmEzM2RhYzEzNWI2M2FmY2ZlZTkzZTgx`

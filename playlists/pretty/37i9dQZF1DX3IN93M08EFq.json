@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 62738,
+  "num_followers": 62743,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWQ5NDZjYmNiYTViYzQ1NjVlNzFiNWYzOTU5OTFkZDNmNDM5ZTIw",
+  "snapshot_id": "MCxhYzgwNzhlZjQ1ZjViYzFjNjQ0OTkxNDY3OGJkZTYyOTJkMTM3YzJl",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Dance with Somebody",
-        "url": "https://open.spotify.com/album/0hBqYpJwRfDl1maghOp2zM"
-      },
-      "artists": [
-        {
-          "name": "Mando Diao",
-          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Dance with Somebody - Radio Version",
-      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Wounded Rhymes",
         "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 228466,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Dance with Somebody",
+        "url": "https://open.spotify.com/album/0hBqYpJwRfDl1maghOp2zM"
+      },
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Dance with Somebody - Radio Version",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Yours Truly, Angry Mob",
-        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 278080,
       "name": "Dancing On My Own - Radio Edit",
       "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Yours Truly, Angry Mob",
+        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
     },
     {
       "added_at": "2021-06-15 09:25:05",

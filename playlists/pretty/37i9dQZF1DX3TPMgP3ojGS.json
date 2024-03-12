@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 408425,
+  "num_followers": 408585,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzYyM2E2NTZmY2NkMDkwNTQ3NWIyOWJmMTRjMDhhNThiOWNiMDg2",
+  "snapshot_id": "MCw0MjU1ZWI5MjcyMzEyMTYzOWU3NzczNjBiOWYzOGVkZjkyN2Q2MmUw",
   "tracks": [
     {
       "added_at": "2024-02-22 05:36:01",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "Adieux",
+        "url": "https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Adieux",
+      "url": "https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Fall a hundred times",
         "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 200550,
       "name": "land in sight",
       "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "Adieux",
-        "url": "https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Adieux",
-      "url": "https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "For A Moment",
-        "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
-      },
-      "artists": [
-        {
-          "name": "Haley Morrison",
-          "url": "https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "For A Moment",
-      "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Eridani",
         "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 152500,
       "name": "Eridani",
       "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "For A Moment",
+        "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
+      },
+      "artists": [
+        {
+          "name": "Haley Morrison",
+          "url": "https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "For A Moment",
+      "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "Muse Of History",
+        "url": "https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi"
+      },
+      "artists": [
+        {
+          "name": "Roland Toubin",
+          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
+        }
+      ],
+      "duration_ms": 141814,
+      "name": "Muse Of History",
+      "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Calm Wind",
         "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Muse Of History",
-        "url": "https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi"
-      },
-      "artists": [
-        {
-          "name": "Roland Toubin",
-          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
-        }
-      ],
-      "duration_ms": 141814,
-      "name": "Muse Of History",
-      "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Under a tree",
         "url": "https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Astray",
-        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
-      },
-      "artists": [
-        {
-          "name": "Simon Vouet",
-          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
-        }
-      ],
-      "duration_ms": 120941,
-      "name": "Astray",
-      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Autumn Sky",
         "url": "https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 158723,
       "name": "Autumn Sky",
       "url": "https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
+      },
+      "artists": [
+        {
+          "name": "Simon Vouet",
+          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
+        }
+      ],
+      "duration_ms": 120941,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "To Bring Rest",
-        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Austin",
-          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
-        }
-      ],
-      "duration_ms": 137749,
-      "name": "To Bring Rest",
-      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "To Bring Rest",
+        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "duration_ms": 137749,
+      "name": "To Bring Rest",
+      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Fields Of Love",
-        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Krause",
-          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
-        }
-      ],
-      "duration_ms": 137743,
-      "name": "Fields Of Love",
-      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Brume Matinale",
         "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 166910,
       "name": "Brume Matinale",
       "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Fields Of Love",
+        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Krause",
+          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
+        }
+      ],
+      "duration_ms": 137743,
+      "name": "Fields Of Love",
+      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Window Seat",
-        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
-      },
-      "artists": [
-        {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
-        }
-      ],
-      "duration_ms": 145120,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "The swan",
         "url": "https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "Window Seat",
+        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "duration_ms": 145120,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Come close",
         "url": "https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 170500,
       "name": "Come close",
       "url": "https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -875,22 +891,6 @@
       "duration_ms": 139375,
       "name": "Elysian",
       "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
-      },
-      "artists": [
-        {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "A Safe Space",
+        "url": "https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU"
+      },
+      "artists": [
+        {
+          "name": "Aramis Morel",
+          "url": "https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4"
+        }
+      ],
+      "duration_ms": 148299,
+      "name": "A Safe Space",
+      "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Passeggiata Serale",
         "url": "https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "A Safe Space",
-        "url": "https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU"
-      },
-      "artists": [
-        {
-          "name": "Aramis Morel",
-          "url": "https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4"
-        }
-      ],
-      "duration_ms": 148299,
-      "name": "A Safe Space",
-      "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Grand Canyon",
         "url": "https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 170641,
       "name": "Grand Canyon",
       "url": "https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "Jean Paul errant",
-        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
-      },
-      "artists": [
-        {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
-        }
-      ],
-      "duration_ms": 140823,
-      "name": "Jean Paul errant",
-      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1115,6 +1099,22 @@
       "duration_ms": 139411,
       "name": "Waitings",
       "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Jean Paul errant",
+        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 140823,
+      "name": "Jean Paul errant",
+      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "To New Beginnings",
-        "url": "https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui"
-      },
-      "artists": [
-        {
-          "name": "Una Luna",
-          "url": "https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7"
-        }
-      ],
-      "duration_ms": 129250,
-      "name": "To New Beginnings",
-      "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "To New Beginnings",
+        "url": "https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui"
+      },
+      "artists": [
+        {
+          "name": "Una Luna",
+          "url": "https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7"
+        }
+      ],
+      "duration_ms": 129250,
+      "name": "To New Beginnings",
+      "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Full Bloom",
-        "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
-      },
-      "artists": [
-        {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
-        }
-      ],
-      "duration_ms": 142763,
-      "name": "Full Bloom",
-      "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "From Home",
         "url": "https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 202732,
       "name": "From Home",
       "url": "https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "duration_ms": 142763,
+      "name": "Full Bloom",
+      "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Sonnet 1",
-        "url": "https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz"
-      },
-      "artists": [
-        {
-          "name": "Frederico Morales",
-          "url": "https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx"
-        }
-      ],
-      "duration_ms": 131451,
-      "name": "Sonnet 1",
-      "url": "https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 163916,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Sonnet 1",
+        "url": "https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz"
+      },
+      "artists": [
+        {
+          "name": "Frederico Morales",
+          "url": "https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx"
+        }
+      ],
+      "duration_ms": 131451,
+      "name": "Sonnet 1",
+      "url": "https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT"
     },
     {
       "added_at": "2024-02-22 05:36:01",

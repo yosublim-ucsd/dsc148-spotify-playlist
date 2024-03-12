@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 2466,
+  "num_followers": 2472,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTZkM2EzNmJlYjVhMWJmZGM1OWFkMTQxMzkzMDU0ZWM3ODk4Y2I0",
+  "snapshot_id": "MCw3ZWFhMGJlZGEwOTliNzcwNDM1NzY4MWQ2MmRmOWM3NTNhNTNkMDRm",
   "tracks": [
     {
       "added_at": "2024-03-08 06:18:01",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-03-08 06:18:01",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 223402,
-      "name": "Dali, Van, Picasso",
-      "url": "https://open.spotify.com/track/1qF1S4e4WBw6nG1mglWfEH"
-    },
-    {
-      "added_at": "2024-03-08 06:18:01",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
       },
@@ -235,22 +219,6 @@
       "duration_ms": 181173,
       "name": "Black Swan (Feat. Leellamarz, DON MALIK)",
       "url": "https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0"
-    },
-    {
-      "added_at": "2024-03-08 06:18:01",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "merlot",
-      "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
     },
     {
       "added_at": "2024-03-08 06:18:01",
@@ -315,6 +283,38 @@
     {
       "added_at": "2024-03-08 06:18:01",
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 223402,
+      "name": "Dali, Van, Picasso",
+      "url": "https://open.spotify.com/track/1qF1S4e4WBw6nG1mglWfEH"
+    },
+    {
+      "added_at": "2024-03-08 06:18:01",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "merlot",
+      "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
+    },
+    {
+      "added_at": "2024-03-08 06:18:01",
+      "album": {
         "name": "Primary And The Messengers LP",
         "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-03-08 06:18:01",
       "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 173413,
-      "name": "ice coffee",
-      "url": "https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB"
-    },
-    {
-      "added_at": "2024-03-08 06:18:01",
-      "album": {
         "name": "BASS",
         "url": "https://open.spotify.com/album/1h7jDj6mhlPnArM1blyqy4"
       },
@@ -399,6 +383,38 @@
       "duration_ms": 200607,
       "name": "BASS",
       "url": "https://open.spotify.com/track/19QvAYMXYN4iQMlzer1JEC"
+    },
+    {
+      "added_at": "2024-03-08 06:18:01",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "ice coffee",
+      "url": "https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB"
+    },
+    {
+      "added_at": "2024-03-08 06:18:01",
+      "album": {
+        "name": "PROTOTYPE RESEARCH #0063",
+        "url": "https://open.spotify.com/album/3Sk7Kyj2vUI0W3sCOV2drx"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 185204,
+      "name": "Gyeongsan-si",
+      "url": "https://open.spotify.com/track/2XdZkoQYRyn0KNcz0B9Thx"
     },
     {
       "added_at": "2024-03-08 06:18:01",
@@ -423,22 +439,6 @@
     {
       "added_at": "2024-03-08 06:18:01",
       "album": {
-        "name": "PROTOTYPE RESEARCH #0063",
-        "url": "https://open.spotify.com/album/3Sk7Kyj2vUI0W3sCOV2drx"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 185204,
-      "name": "Gyeongsan-si",
-      "url": "https://open.spotify.com/track/2XdZkoQYRyn0KNcz0B9Thx"
-    },
-    {
-      "added_at": "2024-03-08 06:18:01",
-      "album": {
         "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
         "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
       },
@@ -455,46 +455,6 @@
       "duration_ms": 274493,
       "name": "Stay Cool",
       "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
-    },
-    {
-      "added_at": "2024-03-08 06:18:01",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 233376,
-      "name": "Mannequin (Feat. Beenzino & SURAN)",
-      "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
-    },
-    {
-      "added_at": "2024-03-08 06:18:01",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "gucci girl",
-      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
     },
     {
       "added_at": "2024-03-08 06:18:01",
@@ -535,6 +495,46 @@
       "duration_ms": 179925,
       "name": "Fake Flower (feat. Nucksal)",
       "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
+    },
+    {
+      "added_at": "2024-03-08 06:18:01",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 233376,
+      "name": "Mannequin (Feat. Beenzino & SURAN)",
+      "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
+    },
+    {
+      "added_at": "2024-03-08 06:18:01",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "gucci girl",
+      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
     },
     {
       "added_at": "2024-03-08 06:18:01",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-03-08 06:18:01",
       "album": {
+        "name": "WALKIN', Vol. 1",
+        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
+      },
+      "artists": [
+        {
+          "name": "PEEJAY",
+          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+        }
+      ],
+      "duration_ms": 257687,
+      "name": "I Get Lifted X Beenzino",
+      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
+    },
+    {
+      "added_at": "2024-03-08 06:18:01",
+      "album": {
         "name": "Shininryu",
         "url": "https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2024-03-08 06:18:01",
       "album": {
-        "name": "WALKIN', Vol. 1",
-        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
       },
       "artists": [
         {
-          "name": "PEEJAY",
-          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
         }
       ],
-      "duration_ms": 257687,
-      "name": "I Get Lifted X Beenzino",
-      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
+      "duration_ms": 193013,
+      "name": "been",
+      "url": "https://open.spotify.com/track/2MDyIYGyysalcAUI6hObMn"
     },
     {
       "added_at": "2024-03-08 06:18:01",
@@ -779,22 +795,6 @@
       "duration_ms": 240094,
       "name": "Girl in New York (jazz)",
       "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
-    },
-    {
-      "added_at": "2024-03-08 06:18:01",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "been",
-      "url": "https://open.spotify.com/track/2MDyIYGyysalcAUI6hObMn"
     },
     {
       "added_at": "2024-03-08 06:18:01",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-03-08 06:18:01",
       "album": {
-        "name": "My Original Sound Track",
-        "url": "https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm"
-      },
-      "artists": [
-        {
-          "name": "Jung Jin Woo",
-          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
-        }
-      ],
-      "duration_ms": 191480,
-      "name": "SOAP",
-      "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
-    },
-    {
-      "added_at": "2024-03-08 06:18:01",
-      "album": {
         "name": "NEVERLAND",
         "url": "https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 243760,
       "name": "\ubcc0\ud558\uc9c0 \uc54a\uc544 (Feat. HAON, CHANGMO)",
       "url": "https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x"
+    },
+    {
+      "added_at": "2024-03-08 06:18:01",
+      "album": {
+        "name": "My Original Sound Track",
+        "url": "https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm"
+      },
+      "artists": [
+        {
+          "name": "Jung Jin Woo",
+          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "SOAP",
+      "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
     },
     {
       "added_at": "2024-03-08 06:18:01",

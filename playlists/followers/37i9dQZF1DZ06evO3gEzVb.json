@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 5147,
+  "2024-03-12": 5149,
   "date_first_scraped": "2021-12-29",
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
   "name": "This Is Daddy Lumba",
@@ -754,6 +754,24 @@
     },
     {
       "album": {
+        "name": "Play Boy",
+        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323813,
+      "name": "Odo Beba Na Mawu",
+      "url": "https://open.spotify.com/track/0XUiMXrm7KFQQnMstRXyaA"
+    },
+    {
+      "album": {
         "name": "Sika Asem",
         "url": "https://open.spotify.com/album/1vmud1QfmKGiCaMooqZps8"
       },
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 383426,
       "name": "Ohia Asem",
       "url": "https://open.spotify.com/track/7mChIAlmvRxpLwyAkymGT3"

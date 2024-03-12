@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 27151,
+  "num_followers": 27175,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTY1YWE5MjE3NDhkYjEyYjA3YjhiMTA1YjEyYmYxYWJmMDE4NzJm",
+  "snapshot_id": "MCxiY2I1ODEyY2RhNjgwYWZjODY3OWY0NzBlY2QyZTRmYWM0MWI0ZmVk",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Hitstory Deluxe Edition",
         "url": "https://open.spotify.com/album/21SiB3EmnL1D1uXbYWH3gv"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
+      },
+      "artists": [
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Righeira The 80's Hit Songs",
         "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
       },
@@ -587,6 +587,26 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
+        }
+      ],
+      "duration_ms": 151720,
+      "name": "Guarda come dondolo",
+      "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -619,26 +639,6 @@
       "duration_ms": 233744,
       "name": "Maracaibo",
       "url": "https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 151720,
-      "name": "Guarda come dondolo",
-      "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "MITO '60 la meravigliosa estate italiana Vol.1",
-        "url": "https://open.spotify.com/album/57o2sEB0CkBP3IKOnNDY11"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Pezzettini di bikini",
-      "url": "https://open.spotify.com/track/5UoFz0CjuclVc5kzpUdlfy"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "MITO '60 la meravigliosa estate italiana Vol.1",
+        "url": "https://open.spotify.com/album/57o2sEB0CkBP3IKOnNDY11"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Pezzettini di bikini",
+      "url": "https://open.spotify.com/track/5UoFz0CjuclVc5kzpUdlfy"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Nostalgia Italiana - 1965",
         "url": "https://open.spotify.com/album/7evzx1x6grEBAuCaYgSEvb"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 176200,
       "name": "Ciao Ciao",
       "url": "https://open.spotify.com/track/5SmMAmpv3m84b4CGm6ZyQl"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "RCA 100 A\u00f1os De Musica - Segunda Parte - Lo Mejor De Italia",
-        "url": "https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH"
-      },
-      "artists": [
-        {
-          "name": "Nico Fidenco",
-          "url": "https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "Con Te Sulla Spiaggia",
-      "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -819,6 +803,22 @@
       "duration_ms": 180453,
       "name": "Il mare nel cassetto",
       "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica - Segunda Parte - Lo Mejor De Italia",
+        "url": "https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH"
+      },
+      "artists": [
+        {
+          "name": "Nico Fidenco",
+          "url": "https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP"
+        }
+      ],
+      "duration_ms": 156920,
+      "name": "Con Te Sulla Spiaggia",
+      "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
     }
   ],
   "unique_name": "Sapore di Sale",

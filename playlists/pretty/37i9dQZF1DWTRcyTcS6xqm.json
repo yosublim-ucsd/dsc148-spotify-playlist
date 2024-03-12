@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 11255,
+  "num_followers": 11262,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2Y4MGRiNmI4NmQzZTk4MWNmMzA1YjEwMjMzYTRmNTc1NWNlZDk0",
+  "snapshot_id": "MCw1MmM3Y2QyNzk2N2I2YTY1NTZiMWRlNjdlYWQ0MDMxNDdiYTkxNjky",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Times Have Changed",
         "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 233560,
       "name": "Come On Up",
       "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -845,20 +845,20 @@
       "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "Girls With Guitars",
-        "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
+        "name": "She Got Some Money",
+        "url": "https://open.spotify.com/album/6dvZHqoGgZjlTnNhYRpmjc"
       },
       "artists": [
         {
-          "name": "Cassie Taylor / Dani Wilde / Samantha Fish",
-          "url": "https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc"
+          "name": "Eddie 9V",
+          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
         }
       ],
-      "duration_ms": 214133,
-      "name": "Mr. Loving Man",
-      "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
+      "duration_ms": 182893,
+      "name": "She Got Some Money",
+      "url": "https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ"
     }
   ],
   "unique_name": "Blues Party",

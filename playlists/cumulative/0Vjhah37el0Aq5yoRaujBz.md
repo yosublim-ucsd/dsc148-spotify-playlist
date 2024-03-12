@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Victoria's Secret Models \- Whethan Remix](https://open.spotify.com/track/6m7CKXj6KatyQfJV9vK5oC) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Whethan](https://open.spotify.com/artist/38ogDkM1sStlU05k8bpJ0s) | [10 Victoria's Secret Models \(Whethan Remix\)](https://open.spotify.com/album/6o8gMWswupBjwvsyNankO0) | 3:35 | 2016-09-06 |  |
+| [10 Victoria's Secret Models \- Whethan Remix](https://open.spotify.com/track/6m7CKXj6KatyQfJV9vK5oC) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [10 Victoria's Secret Models \(Whethan Remix\)](https://open.spotify.com/album/6o8gMWswupBjwvsyNankO0) | 3:35 | 2016-09-06 |  |
 | [2 Heads](https://open.spotify.com/track/5RK8kePPbYkBqMu1e23zuv) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [Coleman Hell \- EP](https://open.spotify.com/album/6460HzDCsGBhGF3PEMbUV7) | 3:32 | 2016-05-16 |  |
 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 | 2015-09-18 |  |
 | [Activate Me \- Hoodboi Remix](https://open.spotify.com/track/2c5ZXiw3KCKjYIHMZEYYQU) | [ASTR](https://open.spotify.com/artist/3GJhraAgCA8s8XHENnDsXq), [Hoodboi](https://open.spotify.com/artist/1521R3ksLyQyFeqdtaSZUZ) | [Activate Me \(Hoodboi Remix\)](https://open.spotify.com/album/4CdRBt13F9ldNba47r6LYE) | 4:44 | 2016-01-08 |  |

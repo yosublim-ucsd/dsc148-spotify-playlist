@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 24 | [Fiona Coyne](https://open.spotify.com/track/0dvS6gcGGKvXPWo0mC6UVP) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7) | 4:09 |
 | 25 | [Go Bang](https://open.spotify.com/track/7sPKwl78bZIhXuBZvOykFD) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6FhmsyMDKvnpHx8JgefrvC) | 11:04 |
 
-Snapshot ID: `MCw2NjJhMDhlYWI3YmZlNjAwNGE3NWFjYzJkMDAxMzkxMDdmOTRjMDU1`
+Snapshot ID: `MCxkNzk1ZmJkNTMzMDUzYTQ0NmE3ZTkwNmRjODZmOTEyOTM4MGNkOGI1`

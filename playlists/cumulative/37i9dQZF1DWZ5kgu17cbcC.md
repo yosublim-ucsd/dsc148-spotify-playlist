@@ -2,7 +2,7 @@
 
 ### [Hulu Hits](https://open.spotify.com/playlist/37i9dQZF1DWZ5kgu17cbcC)
 
-> Music from shows and movies you love including Only Murders in the Building, Flamin’ Hot, A Small Light, Tiny Beautiful Things, and more.
+> Music from shows and movies you love including Only Murders in the Building, Flamin’ Hot, A Small Light, Tiny Beautiful Things, and FX's SHOGUN, now streaming on Hulu.
 
 91 songs - 4 hr 16 min
 

@@ -4,7 +4,7 @@
 
 > Celebrate Easter season with your favorite worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-409 songs - 1 day 15 hr 44 min
+410 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,8 +108,9 @@
 | [Faithful](https://open.spotify.com/track/2VQJFp46zYr6L4QyzstmRz) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Miracle Maker + Faithful](https://open.spotify.com/album/3xbSzDKD6mggwMXii4TiGd) | 4:40 | 2022-02-17 | 2022-04-05 |
 | [Faithful](https://open.spotify.com/track/4HCsfA9kLHCG1Modb1RzQD) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Faithful](https://open.spotify.com/album/7ARtMK1EgWMgh3rwdmEylb) | 4:44 | 2022-02-17 | 2022-06-10 |
 | [Fall Afresh](https://open.spotify.com/track/7N2y4URYFzeoON8IJPiVse) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [Fall Afresh](https://open.spotify.com/album/41FngW0FFs9zqIp2oeEzCI) | 6:07 | 2022-07-13 | 2023-04-15 |
-| [Fall Like Rain \- Live From LIFT: Creative Conference](https://open.spotify.com/track/6MK94qHfqRZBK1EDmlHEu9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From LIFT: Creative Conference](https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3) | 4:31 | 2023-07-28 |  |
+| [Fall Like Rain \- Live From LIFT: Creative Conference](https://open.spotify.com/track/6MK94qHfqRZBK1EDmlHEu9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From LIFT: Creative Conference](https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3) | 4:31 | 2023-07-28 | 2024-03-12 |
 | [Fall Like Rain \- Live From Passion 2023](https://open.spotify.com/track/6YiUx9yyiJCjdMuxP5lkzR) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 8:36 | 2023-03-10 |  |
+| [Fall Like Rain \- Live From Passion 2024](https://open.spotify.com/track/1e1HPM8FnWNSzap6ZI6s4f) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 6:55 | 2024-03-11 |  |
 | [Fear Of God](https://open.spotify.com/track/4suQfEsmdDRFEEGty1KBaq) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Fear Of God](https://open.spotify.com/album/4okOlln6a3ZLVjODMppfJI) | 4:22 | 2023-08-25 |  |
 | [Feet Of Jesus \- Live](https://open.spotify.com/track/7qFFLnZWMwWfPz7a48rfD9) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Brian Nhira](https://open.spotify.com/artist/7D9JzM95gIe11f6L3h1w1L) | [Feet Of Jesus](https://open.spotify.com/album/1VASykZhXp5GVqqaGefALC) | 5:13 | 2024-02-23 | 2024-03-02 |
 | [Fight Like Heaven \- Live](https://open.spotify.com/track/5T2VAEWGNEn9jTYWybdx98) | [Open Heaven](https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw) | [Fight Like Heaven \(Live\)](https://open.spotify.com/album/2spilxwgXTY5KhbkUumcSU) | 6:08 | 2024-03-04 |  |

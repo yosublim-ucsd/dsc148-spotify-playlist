@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-541 songs - 1 day 21 hr 41 min
+542 songs - 1 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Dagdikt](https://open.spotify.com/track/7nKPNvHglxykdArk6jcIBA) | [Karl Seglem](https://open.spotify.com/artist/0byRdidl3crTKAt9Kj4iuS), [Odd Einar Nordheim](https://open.spotify.com/artist/6ZtgWmUro9BMk4pjD7Zmxk), [Andreas Ulvo](https://open.spotify.com/artist/16RiMHKbHZAG0gI9CSEMb1) | [Dagdikt](https://open.spotify.com/album/1sfheonLEr2x7M5VGXsJJj) | 4:55 | 2021-12-16 | 2023-04-12 |
 | [Dark Side Riddim](https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dark Side Riddim / Samuel L.Riddim](https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY) | 5:14 | 2021-12-16 |  |
 | [Dawn](https://open.spotify.com/track/7gbMWvNFc5HXRSVV0a2Wmg) | [Matthew Jamison](https://open.spotify.com/artist/71GC0QhqCTHmY8K5LQMlNd) | [The Journey](https://open.spotify.com/album/4M8V2iShVVJhfnnrshqAuf) | 3:02 | 2022-02-10 | 2024-01-15 |
+| [Day By Day](https://open.spotify.com/track/6jOnbWtzD253g8jnthZj89) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Gary Bartz JID006](https://open.spotify.com/album/0aS8bv57heLwkFg3rhUX0Q) | 4:55 | 2022-02-10 |  |
 | [Day By Day](https://open.spotify.com/track/2ehV1aHQC92xL9T7X5NDeq) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Gary Bartz JID006](https://open.spotify.com/album/1XN0Mj1xIRhvTStoqlsCXZ) | 4:55 | 2022-02-10 | 2023-04-30 |
 | [Day By Day](https://open.spotify.com/track/2kTiF9CAcAXAHBfsF58O0N) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Gary Bartz JID006](https://open.spotify.com/album/0T1a9YKLmxsu7MwituMMqP) | 4:55 | 2022-02-10 | 2024-02-28 |
 | [Day By Day](https://open.spotify.com/track/2nJTbCUSqva9qCjLFFQJhu) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Day By Day](https://open.spotify.com/album/48n17knZcV17EROw3ndSRm) | 4:55 | 2021-12-16 | 2022-07-29 |
@@ -121,7 +122,7 @@
 | [Division](https://open.spotify.com/track/226Id3O5YPAl5PtPkeZNPd) | [Wandering Monster](https://open.spotify.com/artist/76qpgEBPZBE8obznb3DBHy) | [Metropolis/Division](https://open.spotify.com/album/6ikLQJbUDB7zulZthJ8CWT) | 9:03 | 2021-12-21 | 2022-07-23 |
 | [Don’t Go](https://open.spotify.com/track/0pcxvYCWcYn4FOlRM5aoW9) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [GoGo Penguin](https://open.spotify.com/album/5dNyGCWbvGFcR2Zgad3cse) | 3:39 | 2021-12-16 |  |
 | [Don’t miss that train](https://open.spotify.com/track/4qXccS6FwIo6S4zYZdUkt7) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Universal Language](https://open.spotify.com/album/5NerkQCeXbV9phVaKSi85K) | 5:14 | 2021-12-16 |  |
-| [Dovetail](https://open.spotify.com/track/5oAVKxskrZwZ6aTcyLpzKh) | [Girls in Airports](https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr), [Aarhus Jazz Orchestra](https://open.spotify.com/artist/1VdLMRDzrV0JtFSOnk2em6) | [Leap](https://open.spotify.com/album/0TlHXFeMKawrZDpDPNSsls) | 6:40 | 2021-12-16 |  |
+| [Dovetail](https://open.spotify.com/track/5oAVKxskrZwZ6aTcyLpzKh) | [Girls in Airports](https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr), [Aarhus Jazz Orchestra](https://open.spotify.com/artist/1VdLMRDzrV0JtFSOnk2em6) | [Leap](https://open.spotify.com/album/0TlHXFeMKawrZDpDPNSsls) | 6:40 | 2021-12-16 | 2024-03-12 |
 | [Dreamers](https://open.spotify.com/track/6Sqz4CWXYDwOq0Opsh40ow) | [Mark Lockheart](https://open.spotify.com/artist/4VulWjL9yvdpHbTIZhjgic) | [Dreamers](https://open.spotify.com/album/3eLkBnP846iLeo9rIZc5JN) | 5:28 | 2021-12-21 | 2022-07-29 |
 | [Dreaming In Lions: How I Love](https://open.spotify.com/track/5vSwti4CRQjSPlTN3C1AWr) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [The Afro Latin Jazz Ensemble](https://open.spotify.com/artist/2K3sn0NdY2mQcrkzMoVCsn) | [Dreaming In Lions: How I Love](https://open.spotify.com/album/3nsOSgcutEzfzjUNKjsdoL) | 4:31 | 2021-12-16 | 2022-07-29 |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2021-12-21 |  |

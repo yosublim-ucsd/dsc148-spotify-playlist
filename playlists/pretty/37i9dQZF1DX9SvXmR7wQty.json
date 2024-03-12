@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Fredz",
-  "num_followers": 39943,
+  "num_followers": 39945,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTIwMDg2Yzc5MDZlOTE0NmU1NmFkMjE3MDIwN2Y3YmRiMWYxMWY5",
+  "snapshot_id": "MCxiNTlhMzBhYTBjNmE0YTFkZWI5NGVhNDJjNDIxNTM2OGUwMzIxMzY5",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -231,22 +231,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Chambre 140 (Part.3)",
-        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
       },
       "artists": [
         {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 138933,
-      "name": "Faut pas",
-      "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
+      "duration_ms": 141226,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -291,18 +287,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
+        "name": "3 MAI 2025",
+        "url": "https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 141226,
-      "name": "Position",
-      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
+      "duration_ms": 166143,
+      "name": "3 MAI 2025",
+      "url": "https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -327,18 +323,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "3 MAI 2025",
-        "url": "https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG"
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 166143,
-      "name": "3 MAI 2025",
-      "url": "https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT"
+      "duration_ms": 138933,
+      "name": "Faut pas",
+      "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Chambre 140 (Part.2)",
-        "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Mignon tout plein",
-      "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "La Cour des Miracles",
         "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 202666,
       "name": "Love de toi",
       "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Chambre 140 (Part.2)",
+        "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Mignon tout plein",
+      "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -503,6 +503,42 @@
       "duration_ms": 183453,
       "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
       "url": "https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "CORLEONE II",
+        "url": "https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 138015,
+      "name": "CORLEONE II",
+      "url": "https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -567,38 +603,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+        "name": "SOLSAD",
+        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "CORLEONE II",
-        "url": "https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 138015,
-      "name": "CORLEONE II",
-      "url": "https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL"
+      "duration_ms": 203720,
+      "name": "Loin d'ici",
+      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -631,26 +651,6 @@
       "duration_ms": 197000,
       "name": "Si t'es pas l\u00e0",
       "url": "https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "SOLSAD",
-        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Loin d'ici",
-      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl"
       },
@@ -819,6 +835,22 @@
       "duration_ms": 186883,
       "name": "ADN",
       "url": "https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Clique",
+        "url": "https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "duration_ms": 181974,
+      "name": "Clique",
+      "url": "https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -859,18 +891,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+        "name": "blue (yes, i love you)",
+        "url": "https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
         }
       ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+      "duration_ms": 102000,
+      "name": "blue (yes, i love you)",
+      "url": "https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -887,38 +923,6 @@
       "duration_ms": 111780,
       "name": "Le Rang des \u00c9toiles",
       "url": "https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Clique",
-        "url": "https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN"
-      },
-      "artists": [
-        {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
-        }
-      ],
-      "duration_ms": 181974,
-      "name": "Clique",
-      "url": "https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "_jun perseides",
-        "url": "https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "_jun perseides",
-      "url": "https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

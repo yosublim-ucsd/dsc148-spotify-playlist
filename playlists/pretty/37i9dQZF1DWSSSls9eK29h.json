@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 135013,
+  "num_followers": 135067,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODM3MTliMjJjN2MxZDlmMTNkOTFjODFiMTkzYzMwMzVkOTg0MjU0",
+  "snapshot_id": "MCw2MzAyMjE1YzhlMDQ2NWM2NmE1MmVkNDg0OGIxZTViY2I5MDZhZDQ3",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "That's The Way Love Goes",
-      "url": "https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Pleasure Seeker",
         "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Color Rit (Remastered)",
-        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
       },
       "artists": [
         {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 256173,
-      "name": "I Can\u2019t Let Go - Remastered",
-      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+      "duration_ms": 285466,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -263,6 +247,22 @@
       "duration_ms": 286733,
       "name": "Doc",
       "url": "https://open.spotify.com/track/7MJBBBCfhjj716IaUq4HVG"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Color Rit (Remastered)",
+        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "I Can\u2019t Let Go - Remastered",
+      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -395,6 +395,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Dave Koz",
         "url": "https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 297973,
       "name": "Sunset Bay",
       "url": "https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Hidden Agenda",
-        "url": "https://open.spotify.com/album/4EpH6ucX2QlCa9xlqIHdHA"
-      },
-      "artists": [
-        {
-          "name": "Greg Adams",
-          "url": "https://open.spotify.com/artist/5JLlu8IDh3Aj1nT3cUJUUY"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Burma Road",
-      "url": "https://open.spotify.com/track/4E01hW7den04JgdXH2LkOz"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Touchdown",
         "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5"
+        "name": "Hidden Agenda",
+        "url": "https://open.spotify.com/album/4EpH6ucX2QlCa9xlqIHdHA"
       },
       "artists": [
         {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+          "name": "Greg Adams",
+          "url": "https://open.spotify.com/artist/5JLlu8IDh3Aj1nT3cUJUUY"
         }
       ],
-      "duration_ms": 320973,
-      "name": "I Just Can't Stop Thinking About You",
-      "url": "https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm"
+      "duration_ms": 288933,
+      "name": "Burma Road",
+      "url": "https://open.spotify.com/track/4E01hW7den04JgdXH2LkOz"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -567,6 +551,22 @@
       "duration_ms": 308400,
       "name": "Follow Your Bliss",
       "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 320973,
+      "name": "I Just Can't Stop Thinking About You",
+      "url": "https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Playing It Cool",
-        "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 265253,
-      "name": "South Of Market",
-      "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "I Came To Play",
         "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 317800,
       "name": "Let's Wait Awhile",
       "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Playing It Cool",
+        "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+        }
+      ],
+      "duration_ms": 265253,
+      "name": "South Of Market",
+      "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "The Way To You",
-      "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "For The Love Of You",
         "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 301080,
       "name": "For The Love Of You",
       "url": "https://open.spotify.com/track/6v1PdVz3ZIpa7TeiljQTJL"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "The Way To You",
+      "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A River In The Desert",
-        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "The East from the West",
-      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Saxtress",
         "url": "https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 320840,
       "name": "Greener Grass",
       "url": "https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "A River In The Desert",
+        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "The East from the West",
+      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -959,18 +959,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "I Came To Play",
-        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
+        "name": "East",
+        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
       },
       "artists": [
         {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+          "name": "Hiroshima",
+          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
         }
       ],
-      "duration_ms": 355533,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw"
+      "duration_ms": 327733,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
     }
   ],
   "unique_name": "Smooth Jazz Classics",

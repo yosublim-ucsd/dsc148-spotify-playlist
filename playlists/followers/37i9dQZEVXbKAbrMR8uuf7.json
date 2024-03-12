@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 153104,
+  "2024-03-12": 153108,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -2186,6 +2186,32 @@
     },
     {
       "album": {
+        "name": "Baja Lento",
+        "url": "https://open.spotify.com/album/4lLhQ9iQCFW4JknPntrTFB"
+      },
+      "artists": [
+        {
+          "name": "Alti Cardioking",
+          "url": "https://open.spotify.com/artist/2UL4FCPglQSPnBUEt4OckP"
+        },
+        {
+          "name": "Mackie",
+          "url": "https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203750,
+      "name": "Baja Lento",
+      "url": "https://open.spotify.com/track/4lLTnC6yZGddintzDpHg1L"
+    },
+    {
+      "album": {
         "name": "Bajo Mundo",
         "url": "https://open.spotify.com/album/5ndn0oBqrG6iZhzF3HJ6WY"
       },
@@ -3173,7 +3199,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 125925,
       "name": "Cabin Crew",
       "url": "https://open.spotify.com/track/048EqTbLirX0WTiZIVaI1T"
@@ -4757,7 +4783,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 171860,
       "name": "Culiacan",
       "url": "https://open.spotify.com/track/3OnNXgTn3FEauIP4wz1CgZ"
@@ -4881,7 +4907,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/7cfO6HiRtuWOhqY9nbn1PH"
@@ -7835,6 +7861,24 @@
       "duration_ms": 138510,
       "name": "ESCALOFR\u00cdOS",
       "url": "https://open.spotify.com/track/5CVMsPYtSJ3l7UxYiI2lt7"
+    },
+    {
+      "album": {
+        "name": "exitos",
+        "url": "https://open.spotify.com/album/57LiF8vmY19Hs4VxmZr7NK"
+      },
+      "artists": [
+        {
+          "name": "donati",
+          "url": "https://open.spotify.com/artist/5JcOb6zIttnc8Cp1UgRmYR"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139168,
+      "name": "eso e",
+      "url": "https://open.spotify.com/track/2Ac2SsdSCW3dUsCBV7tXgM"
     },
     {
       "album": {
@@ -14027,7 +14071,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 185795,
       "name": "Mami tu te pasas",
       "url": "https://open.spotify.com/track/4pTRYHAJTRwfSXekgVYzj6"
@@ -16955,7 +16999,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 143789,
       "name": "OKI DOKI",
       "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu"
@@ -17977,7 +18021,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4PBdIae0zykvqRJtrTQa8f"

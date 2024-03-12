@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:4WsiLOvvpCEdV40Wg1kzui">Zuta</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,756 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,755 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 98 | [Sír i dôr](https://open.spotify.com/track/6dg7EAvS3kuE4lFL69nZmv) | [izdeb](https://open.spotify.com/artist/2qxZhFhW3LoxfSrXnm497e) | [Sír i dôr](https://open.spotify.com/album/5BDOsMI83hov0AcDU6babt) | 3:05 |
 | 99 | [lodowate dłonie](https://open.spotify.com/track/5VQB4LoJpJk1Ifw9oopuvT) | [levie](https://open.spotify.com/artist/2f8SMIZ9FwAohqtDNKWwh2) | [lodowate dłonie](https://open.spotify.com/album/0WlYWe8PjzWymXls1Azy3R) | 1:56 |
 
-Snapshot ID: `MCwzOGM3Zjg5N2JkOWE1ODA4ZjY1MmQ5MWZhNThmNmE5ZjI5MzIxZTgw`
+Snapshot ID: `MCxkMzdjYjVkOWNiNDM5NTExZDgxOGM4ODUwMTBjNWE0YWY4NmZmYzE1`

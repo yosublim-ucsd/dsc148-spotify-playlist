@@ -2,7 +2,7 @@
 
 ### [Nightstorms](https://open.spotify.com/playlist/37i9dQZF1DX4aYNO8X5RpR)
 
-> 12 hours of comforting sounds of thunder and rain.
+> Hours of comforting sounds of thunder and rain.
 
 318 songs - 14 hr 12 min
 

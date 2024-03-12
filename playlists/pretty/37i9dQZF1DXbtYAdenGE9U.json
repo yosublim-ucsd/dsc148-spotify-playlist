@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 540454,
+  "num_followers": 540814,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTdlMTM3YzQ1Mjg4MzFhNWRkMzkzM2FkODYzMjJmMjUwYzI4MmU5",
+  "snapshot_id": "MCxiY2I4OWNhOWMwYzNhMzEwYTRmYWJlMDc3MTBiMGJjY2M1YjQ3OTU3",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -139,26 +139,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Encore Une Fois - Future Breeze Edit",
-      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Forever Faithless - The Greatest Hits",
         "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
       },
@@ -215,6 +195,26 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Greatest Hits & Remixes",
         "url": "https://open.spotify.com/album/3kzFmML169KngWKdeutrhc"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 203440,
       "name": "Komodo (Radio Edit)",
       "url": "https://open.spotify.com/track/3NjmHXAKcpg5e0BseNJtUJ"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -267,22 +251,6 @@
       "duration_ms": 197160,
       "name": "On The Beach - Mauro Picotto's CRW Remix",
       "url": "https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Headliners",
-        "url": "https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -315,6 +283,38 @@
       "duration_ms": 212000,
       "name": "As The Rush Comes",
       "url": "https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Headliners",
+        "url": "https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -391,34 +391,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Faithless 2.0",
-        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "Rollo Armstrong",
-          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
-        },
-        {
-          "name": "Sister Bliss",
-          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
-        },
-        {
-          "name": "Goetz",
-          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
-        }
-      ],
-      "duration_ms": 518221,
-      "name": "Insomnia - Monster Mix",
-      "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Airwave",
         "url": "https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8"
       },
@@ -487,6 +459,34 @@
       "duration_ms": 259200,
       "name": "Feel the Beat",
       "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Faithless 2.0",
+        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Rollo Armstrong",
+          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
+        },
+        {
+          "name": "Sister Bliss",
+          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
+        },
+        {
+          "name": "Goetz",
+          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
+        }
+      ],
+      "duration_ms": 518221,
+      "name": "Insomnia - Monster Mix",
+      "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Seven Cities",
-        "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
-      },
-      "artists": [
-        {
-          "name": "Solarstone",
-          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
-        },
-        {
-          "name": "Andy Bury",
-          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Seven Cities - Solarstone's Atlantis Mix",
-      "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Greece 2000",
         "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 219000,
       "name": "Greece 2000 - Edit",
       "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Seven Cities",
+        "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
+      },
+      "artists": [
+        {
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        },
+        {
+          "name": "Andy Bury",
+          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Seven Cities - Solarstone's Atlantis Mix",
+      "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
     },
     {
       "added_at": "2023-08-11 10:02:57",

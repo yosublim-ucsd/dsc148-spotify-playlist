@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,250 songs - 3 day 15 hr 33 min
+1,251 songs - 3 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Asphalt Meadows \- Acoustic](https://open.spotify.com/track/0rIq5bmf5owV5LB8atmQTM) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows \(Acoustic\)](https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK) | 4:09 | 2023-03-31 | 2023-04-09 |
 | [Astronaut](https://open.spotify.com/track/1ujzje23n9CutTP8VhJpgp) | [Sparrow Sleeps](https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any Sleep](https://open.spotify.com/album/4I4mQUzDqkUS5fXorBtPF0) | 5:02 | 2023-12-15 | 2023-12-18 |
 | [Atomic Punk](https://open.spotify.com/track/1s9XjQrapQl5JhEjVhAKXS) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Atomic Punk](https://open.spotify.com/album/3MkqtonMItMQnix7BxI3U1) | 3:00 | 2023-06-02 | 2023-07-02 |
+| [Atomic Punk \- Live 1977](https://open.spotify.com/track/1ivSwursqkZQLYbCmjc7up) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Hit and Run \(Live 1977\)](https://open.spotify.com/album/2oOS0hOiZYfYdPyifVo0NA) | 3:30 | 2024-03-08 |  |
 | [Aun la Flor](https://open.spotify.com/track/6rDaEXj7UwI28NmQma7JTx) | [PelySayon](https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T) | [Aun la Flor](https://open.spotify.com/album/4CC7oyUIggXN5mctAsgyeI) | 2:47 | 2024-03-08 |  |
 | [Aunque Los Pasos Toquen](https://open.spotify.com/track/2pOAHrx64N8CX44f3bcdrd) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Aunque Los Pasos Toquen](https://open.spotify.com/album/4Qj6NrjTVzBkzQimsL8oxz) | 5:50 | 2023-09-15 | 2023-10-15 |
 | [Autopoiética](https://open.spotify.com/track/7vNHNUWpNNW9G5hokRWVpH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 2:32 | 2023-11-10 | 2023-12-03 |
@@ -502,7 +503,7 @@
 | [I've Seen All Good People \- Live: Yale Bowl, USA 24th July 1971](https://open.spotify.com/track/79E74cEOPLkFbdOdnErNjl) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Live USA..\. '71](https://open.spotify.com/album/0l0c222KP2LfzeXfQTCrTo) | 7:08 | 2023-09-08 | 2023-09-22 |
 | [I've Seen All Good People: Your Move / All Good People \(Early Take\) \- 2023 Remaster](https://open.spotify.com/track/2VXqRP3kCtw3yGentTz16W) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [I've Seen All Good People: Your Move / All Good People \(Early Take\) \[2023 Remaster\]](https://open.spotify.com/album/0cnJiazhNlQWgP9fuUITwP) | 3:51 | 2023-10-06 | 2023-10-29 |
 | [i/o \- Bright\-Side Mix](https://open.spotify.com/track/2mLV96M3Ee4oQzShI2CwAK) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o \(Bright\-Side Mix\)](https://open.spotify.com/album/0zCeZc7mhxfKvQRawdS8wr) | 3:52 | 2023-04-07 | 2023-04-15 |
-| [Ice Cream Man \- Live 1977](https://open.spotify.com/track/0n8mKsSxspAi8qNiEsC92W) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Hit and Run \(Live 1977\)](https://open.spotify.com/album/2oOS0hOiZYfYdPyifVo0NA) | 3:36 | 2024-03-08 |  |
+| [Ice Cream Man \- Live 1977](https://open.spotify.com/track/0n8mKsSxspAi8qNiEsC92W) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Hit and Run \(Live 1977\)](https://open.spotify.com/album/2oOS0hOiZYfYdPyifVo0NA) | 3:36 | 2024-03-08 | 2024-03-12 |
 | [Iconic \(feat\. Jax\)](https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Iconic \(feat\. Jax\)](https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d) | 3:06 | 2023-10-13 | 2023-11-14 |
 | [If Darkness Had a Son](https://open.spotify.com/track/1DrRFignz0xbQBSlBQrJL9) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/4InfBU6v65fzQM6vpSdDJf) | 6:36 | 2023-03-03 | 2023-03-18 |
 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral](https://open.spotify.com/track/1V6NzxBCNjl5ikDilYGNfN) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 4:54 | 2023-05-19 | 2023-05-27 |

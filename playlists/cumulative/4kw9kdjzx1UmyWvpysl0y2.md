@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-676 songs - 1 day 15 hr 4 min
+677 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Garden Of The Gods](https://open.spotify.com/track/4AZEvIDQpzyib7BX4Cd91U) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Discognition](https://open.spotify.com/artist/1VTyOD5RJcYUGn9uPFV5my), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Garden Of The Gods](https://open.spotify.com/album/7KYoqdpnKj02uvmm9iMkQq) | 4:21 | 2022-05-06 | 2022-07-16 |
 | [Garden's Edge](https://open.spotify.com/track/1uuTI3HJbxIB08RwfIzbir) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Garden's Edge](https://open.spotify.com/album/495RJ4HV475juBo05YQXBh) | 3:06 | 2022-11-02 | 2023-01-26 |
 | [Gaze](https://open.spotify.com/track/0wDxpyi7AzoZaY6dt0FnXg) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Gaze](https://open.spotify.com/album/0RMBhqzBhd1tQBb6NkTwZI) | 4:34 | 2022-06-08 | 2022-08-20 |
+| [GENESIS](https://open.spotify.com/track/4iGe6FbKTT6oToK5L5ZlOz) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [GENESIS](https://open.spotify.com/album/1GsDZlQC18uiWoGvbKuUtB) | 3:58 | 2024-03-11 |  |
 | [GET IN THE CAR](https://open.spotify.com/track/3vSYhCUWQ9K1OaUEjQBqfk) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [GET IN THE CAR](https://open.spotify.com/album/575QrauoGUh5a8620xO0bT) | 1:44 | 2023-09-07 | 2024-01-11 |
 | [Get Through](https://open.spotify.com/track/1aByvbcFFDPTCEA4mTVJhW) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Get Through](https://open.spotify.com/album/5iDeNESrto46Zim2KP4bfX) | 3:24 | 2023-01-23 | 2023-04-07 |
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-14 | 2022-06-25 |
@@ -260,7 +261,7 @@
 | [HAPPY SONG](https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [HAPPY SONG](https://open.spotify.com/album/2X2n5AtyOVFBKajAVQkBg6) | 3:47 | 2023-05-26 | 2023-08-20 |
 | [Hate U/Miss U](https://open.spotify.com/track/0RX7vFXvhylgh1xoPAjmPL) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Lani Daye](https://open.spotify.com/artist/1fYnA1IkOOJ3mtWl02xKk3) | [Hate U/Miss U](https://open.spotify.com/album/1cLVwfsFCR0tqndu3YaNEO) | 2:25 | 2022-03-08 | 2022-05-20 |
 | [Haunt You](https://open.spotify.com/track/3gYigEsIAyHuRCBm4LZ4mt) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Haunt You](https://open.spotify.com/album/7kbbAUEAQZ1ToFY70O13cJ) | 2:42 | 2023-04-25 | 2023-07-22 |
-| [haunted](https://open.spotify.com/track/7rMhXwRXJc2C6oLYzkdt2J) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [lucid](https://open.spotify.com/album/19rvrdBIeSrbvQG8wSiyRM) | 2:59 | 2023-11-28 |  |
+| [haunted](https://open.spotify.com/track/7rMhXwRXJc2C6oLYzkdt2J) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [lucid](https://open.spotify.com/album/19rvrdBIeSrbvQG8wSiyRM) | 2:59 | 2023-11-28 | 2024-03-12 |
 | [haunted](https://open.spotify.com/track/5mUu3ORxehXOXQwqrLwBTt) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Kazukii](https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga) | [haunted](https://open.spotify.com/album/3Vb9NYVMJFam1G2IFTqUYO) | 2:14 | 2023-09-18 | 2024-01-11 |
 | [Haze](https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Haze](https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ) | 4:36 | 2022-09-28 | 2022-12-01 |
 | [HEADCASE](https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [HEADCASE](https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z) | 2:02 | 2023-11-20 | 2024-03-02 |

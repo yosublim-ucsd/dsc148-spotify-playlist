@@ -1,12 +1,12 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 31869,
+  "num_followers": 31877,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTAwZmJjNmI3NzhjM2QyOTIwZjM0YTJjYjVkZjlmYTJhOTQ2YzM0",
+  "snapshot_id": "MCxlZjg1NGU4Mjk1YTUyZTc5NDkxMmJmOGNkMzljZjNiNmU1ZWI0MjM5",
   "tracks": [
     {
       "added_at": "2021-07-06 14:22:02",
@@ -203,18 +203,18 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "Untamed",
+        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Feathered Indians",
-      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
+      "duration_ms": 231333,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -235,34 +235,18 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Follow Your Arrow",
-      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
-        "name": "Untamed",
-        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Burning House",
-      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
+      "duration_ms": 241320,
+      "name": "Long White Line",
+      "url": "https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -283,18 +267,34 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+        "name": "Port Saint Joe",
+        "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 241320,
-      "name": "Long White Line",
-      "url": "https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK"
+      "duration_ms": 192680,
+      "name": "I Don't Remember Me (Before You)",
+      "url": "https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -315,18 +315,18 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Port Saint Joe",
-        "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 192680,
-      "name": "I Don't Remember Me (Before You)",
-      "url": "https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN"
+      "duration_ms": 224946,
+      "name": "Feathered Indians",
+      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -367,18 +367,18 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Lady May",
-      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
+      "duration_ms": 146106,
+      "name": "Life of Sin",
+      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Life of Sin",
-      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "Here We Rest",
         "url": "https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Maybe A Moment / Graceland",
-        "url": "https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW"
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
       "artists": [
         {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 194640,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2"
+      "duration_ms": 183533,
+      "name": "Lady May",
+      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -463,18 +447,18 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
+        "url": "https://open.spotify.com/album/1S6sk9yusYQoadSAbx3ZB8"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 280786,
-      "name": "Whitehouse Road",
-      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
+      "duration_ms": 269663,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/0NkiEX9bdIm7a06pJBbOYs"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -495,6 +479,38 @@
       "duration_ms": 199786,
       "name": "All My Favorite People (feat. Brothers Osborne)",
       "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Maybe A Moment / Graceland",
+        "url": "https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "Whitehouse Road",
+      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -551,22 +567,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
-        "url": "https://open.spotify.com/album/1S6sk9yusYQoadSAbx3ZB8"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 269663,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/0NkiEX9bdIm7a06pJBbOYs"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "Reunions",
         "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
       },
@@ -599,6 +599,22 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
         "name": "Find a Light",
         "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 225165,
       "name": "Till the Wheels Fall Off",
       "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
-        "name": "Old News",
-        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 251498,
-      "name": "All of These Years",
-      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -647,34 +647,18 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+        "name": "Old News",
+        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
         }
       ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 183164,
-      "name": "Hope the High Road",
-      "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
+      "duration_ms": 251498,
+      "name": "All of These Years",
+      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -727,6 +711,22 @@
       "duration_ms": 193931,
       "name": "Rodeo Clown",
       "url": "https://open.spotify.com/track/0rbXbCiZAocA7bYP8JbQx2"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 183164,
+      "name": "Hope the High Road",
+      "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Girl Going Nowhere",
-        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 242440,
-      "name": "American Scandal",
-      "url": "https://open.spotify.com/track/5ktple5iUVzyQ6SJ8Z8xTK"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "Welcome to Hard Times",
         "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 185754,
       "name": "Welcome to Hard Times",
       "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Girl Going Nowhere",
+        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 242440,
+      "name": "American Scandal",
+      "url": "https://open.spotify.com/track/5ktple5iUVzyQ6SJ8Z8xTK"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Weight of the World",
-        "url": "https://open.spotify.com/album/2AEiFEuAhmxXnThxQDxBno"
-      },
-      "artists": [
-        {
-          "name": "Western Centuries",
-          "url": "https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp"
-        }
-      ],
-      "duration_ms": 347106,
-      "name": "Off the Shelf",
-      "url": "https://open.spotify.com/track/0VovTymtgbuwSL0s56ITWU"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 190173,
       "name": "Over Drinking",
       "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Weight of the World",
+        "url": "https://open.spotify.com/album/2AEiFEuAhmxXnThxQDxBno"
+      },
+      "artists": [
+        {
+          "name": "Western Centuries",
+          "url": "https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp"
+        }
+      ],
+      "duration_ms": 347106,
+      "name": "Off the Shelf",
+      "url": "https://open.spotify.com/track/0VovTymtgbuwSL0s56ITWU"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "Turn Off The News (Build A Garden)",
         "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 177447,
       "name": "Lotta Fun",
       "url": "https://open.spotify.com/track/4Qpm33fWxkNNV4wJ0rTLYE"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
     }
   ],
   "unique_name": "The Road Less Traveled",

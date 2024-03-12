@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,645 songs - 10 day 11 hr 51 min
+6,646 songs - 10 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1185,6 +1185,7 @@
 | [Cold Leftovers](https://open.spotify.com/track/4nd1Dzjir8lGYXTq5gPkgd) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Cherry Gummy](https://open.spotify.com/album/2zgJcyGollZV9lW0fyL1sX) | 2:14 | 2023-05-23 | 2023-09-16 |
 | [Colibri](https://open.spotify.com/track/5vTVVlNOddVbqPfAhBomWj) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Colibri](https://open.spotify.com/album/0384J4D6YAteUQ0NID7QTQ) | 1:38 | 2022-12-02 | 2023-11-11 |
 | [Colibri](https://open.spotify.com/track/40f2TBpij5i6sDLujNfDmQ) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [Colibri](https://open.spotify.com/album/1ctld4PUVgtxVxabfWMrxs) | 1:49 | 2022-07-15 | 2022-10-28 |
+| [Collecting Dust](https://open.spotify.com/track/2Rr4GXLsUy7vJy2PB3mSYj) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [Collecting Dust](https://open.spotify.com/album/7skBVQm0odohFoMrrTbRNH) | 2:10 | 2024-03-08 |  |
 | [Collecting Fluffy Stuff](https://open.spotify.com/track/2YWnkjiPKJHG8t4LRC0IFg) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Collecting Fluffy Stuff](https://open.spotify.com/album/47sWKMPyGzRpDIYU1tuFI6) | 2:44 | 2022-01-07 | 2022-08-27 |
 | [Collection](https://open.spotify.com/track/7wOGFhYnKOIMdUxQRtg273) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [Collection](https://open.spotify.com/album/7tnhTs8ZEHYBJ6XtAHemLs) | 3:01 | 2021-11-05 | 2022-05-27 |
 | [Collins Avenue](https://open.spotify.com/track/2yVDbSSbJzJGMwy7N5Chid) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [Collins Avenue](https://open.spotify.com/album/3q5TZtQOaDHHP6z37jnagc) | 3:06 | 2021-10-26 | 2022-04-24 |
@@ -2848,7 +2849,7 @@
 | [It's All Subjective](https://open.spotify.com/track/4ZEu6K8xFemBWjKXxthzt6) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [It's All Subjective](https://open.spotify.com/album/0QNx282qfBlTUAVhVmc5Ib) | 1:58 | 2020-08-30 | 2021-10-02 |
 | [it's been hard](https://open.spotify.com/track/6vW0MOQKhtSYjcQSaVWeJX) | [sadcake](https://open.spotify.com/artist/3sAildqE9A05H1oPYTbXw9) | [it's been hard](https://open.spotify.com/album/059ykWyDoz6guc4nXvsmwd) | 2:38 | 2023-01-06 |  |
 | [It's Beginning to look a lot like Christmas](https://open.spotify.com/track/4zZ0lH4eRt8cvD2t3h9tcs) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:48 | 2021-12-17 | 2021-12-27 |
-| [It's Good Now](https://open.spotify.com/track/0wjAnt1huXSY6GTKTnTv1n) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [It's Good Now](https://open.spotify.com/album/0WCDH2mTAK3Wr7DHXBH6lo) | 1:30 | 2024-03-08 |  |
+| [It's Good Now](https://open.spotify.com/track/0wjAnt1huXSY6GTKTnTv1n) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [It's Good Now](https://open.spotify.com/album/0WCDH2mTAK3Wr7DHXBH6lo) | 1:30 | 2024-03-08 | 2024-03-12 |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2019-05-26\* | 2020-10-21 |
 | [It's Ok To Be Sad \- Instrumental](https://open.spotify.com/track/3QAvC7eJiR50jr2w9ltseq) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [It's Ok To Be Sad \(Instrumental\)](https://open.spotify.com/album/2GNVjCk4KMcWhYwqNpnPqX) | 2:01 | 2022-10-28 | 2023-09-16 |
 | [It's OK to Cry](https://open.spotify.com/track/5utrtANUaATItHm4Twgp6Z) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [It's OK to Cry](https://open.spotify.com/album/0U1nbx9Tk1b9LN9amhNYmL) | 1:42 | 2019-06-06 | 2020-02-08 |

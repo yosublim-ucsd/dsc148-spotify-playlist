@@ -1,13 +1,29 @@
 {
-  "description": "i am literally just a girl ",
-  "num_followers": 242232,
+  "description": "i'm just ken and i'm enough and I'm great at doing stuff \ud83d\udc51",
+  "num_followers": 242225,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTAwNTBiMjhhMjVlMzNhOGMxOTBjNmRkMGI3YTY2MjQzMzBmY2Qx",
+  "snapshot_id": "MCxmZTdiMzg1ZmM3MjBiMmFmNWY1NjRkNGQwNDY4ZWI2NDY3YTIwNWNi",
   "tracks": [
+    {
+      "added_at": "2024-03-11 08:49:53",
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "duration_ms": 222633,
+      "name": "I\u2019m Just Ken",
+      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
+    },
     {
       "added_at": "2024-02-20 12:09:31",
       "album": {
@@ -123,6 +139,38 @@
       "duration_ms": 235960,
       "name": "P\u00e4rlor",
       "url": "https://open.spotify.com/track/5YCKObb1A7YIeOKzXhREwz"
+    },
+    {
+      "added_at": "2024-03-11 08:49:53",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7LJDPOglV0dhqpO1DGrvob"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "duration_ms": 168845,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j"
+    },
+    {
+      "added_at": "2024-03-11 10:14:02",
+      "album": {
+        "name": "Still the one",
+        "url": "https://open.spotify.com/album/7fsBNhZshWlYMVyTrm00XV"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Gustafsson",
+          "url": "https://open.spotify.com/artist/488cj6lweUKYoeDENEOTrv"
+        }
+      ],
+      "duration_ms": 178791,
+      "name": "Still the one",
+      "url": "https://open.spotify.com/track/3VIWpZLeOxeexXkF2hBKwA"
     },
     {
       "added_at": "2024-02-14 14:24:22",

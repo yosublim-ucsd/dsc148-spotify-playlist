@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 137764,
       "name": "Atlantic.Wav",
       "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
@@ -858,6 +858,24 @@
       "duration_ms": 84030,
       "name": "crush on you",
       "url": "https://open.spotify.com/track/3Cc3LdR3jKVhd4QFg6giXD"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/3nKsQItD6HUjL1khVAHK8s"
+      },
+      "artists": [
+        {
+          "name": "Stolast",
+          "url": "https://open.spotify.com/artist/3qsMMCUdmNO97QnFQxsmY6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84030,
+      "name": "Crush on You",
+      "url": "https://open.spotify.com/track/3qbkNOfupIxZBuhCm7YGMy"
     },
     {
       "album": {

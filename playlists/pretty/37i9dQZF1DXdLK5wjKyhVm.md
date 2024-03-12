@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,107 likes - 220 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,341 likes - 220 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 219 | [Sleep Under The Stars](https://open.spotify.com/track/6HSkMIBullPJkgOO0c4pWX) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Sleep Under The Stars](https://open.spotify.com/album/71CXx9D1fV8T4a0xzB8037) | 2:57 |
 | 220 | [Bye Bye Love](https://open.spotify.com/track/2X3AvZ5i1s43gmmO2MWGA3) | [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN) | [Bye Bye Love](https://open.spotify.com/album/5lVuEMCIGGyDIVbm6s1FP0) | 1:38 |
 
-Snapshot ID: `MCxiYzY3MDc0OGExNGY2NGZmN2M2ZjY3YjI1YzAzOGJmZDEwOGIwYTVi`
+Snapshot ID: `MCwwNzY3MTAwMjZkZTA5ZjkwYjAyODg0MDNhNWY5NGNhNGQwOGZlZmRj`

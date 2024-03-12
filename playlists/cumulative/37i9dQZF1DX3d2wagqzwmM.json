@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 251933,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu"
@@ -472,6 +472,28 @@
       "duration_ms": 209776,
       "name": "Back To Where We Started",
       "url": "https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo"
+    },
+    {
+      "album": {
+        "name": "Bad Cop",
+        "url": "https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj"
+      },
+      "artists": [
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140575,
+      "name": "Bad Cop",
+      "url": "https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv"
     },
     {
       "album": {

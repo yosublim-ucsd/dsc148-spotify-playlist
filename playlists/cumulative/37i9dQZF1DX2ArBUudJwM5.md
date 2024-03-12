@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Lali.
 
-932 songs - 2 day 2 hr 5 min
+933 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,6 +677,7 @@
 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 | 2022-11-30 | 2024-03-07 |
 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 | 2024-03-06 |  |
 | [Pensándote](https://open.spotify.com/track/0eBXYmenc3IatPxBOtX91D) | [Luz Pereyra](https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA) | [Pensándote](https://open.spotify.com/album/7CfRSumqqyPF6u17A9BXXm) | 3:20 | 2022-05-04 | 2022-07-07 |
+| [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:41 | 2024-03-11 |  |
 | [Perra Teteo](https://open.spotify.com/track/73dtGgdvdq0CF0fTwtlgE4) | [Chulimane](https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6) | [Perra Teteo](https://open.spotify.com/album/6kSUyEdpC8hKHREe3LpUGb) | 2:19 | 2023-03-01 | 2023-05-04 |
 | [PERREO PA LAS NENAS](https://open.spotify.com/track/5nTIro0TwwOaUIiJ2t6Gmk) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:56 | 2023-03-01 | 2023-04-06 |
 | [Perspectiva](https://open.spotify.com/track/54gV08eukqnNl8NwRu9rN6) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Perspectiva](https://open.spotify.com/album/2zsxjBGs0k2XkMukaXnKSF) | 2:32 | 2022-02-02 | 2022-03-09 |

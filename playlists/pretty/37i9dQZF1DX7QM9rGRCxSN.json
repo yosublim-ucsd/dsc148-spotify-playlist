@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 29926,
+  "num_followers": 29935,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjJjN2ZjNjYxMTk1NjE4NTE4N2FiMDg0MmJjZThjZmRlNzczY2Nj",
+  "snapshot_id": "MCxmODQ2OWVjZmE4ZWQxNGVlZDJmMGZlNDg5MTFmNzgzMjJiNDA1NWYy",
   "tracks": [
     {
       "added_at": "2024-02-02 05:19:16",
@@ -173,6 +173,22 @@
       "url": "https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv"
     },
     {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "te odio",
+        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 170126,
+      "name": "te odio",
+      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
+    },
+    {
       "added_at": "2023-11-24 06:00:00",
       "album": {
         "name": "Cancionero de los Cielos",
@@ -191,22 +207,6 @@
       "duration_ms": 235015,
       "name": "Jupiter and Beyond the Infinite",
       "url": "https://open.spotify.com/track/2naI19G3CIvBAa6fdyN9Wv"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "te odio",
-        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 170126,
-      "name": "te odio",
-      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Margaritas Podridas",
         "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+        "name": "Unidad De Desplazamiento",
+        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
         }
       ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+      "duration_ms": 279800,
+      "name": "Santos Que Yo Te Pinte",
+      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Unidad De Desplazamiento",
-        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
-      },
-      "artists": [
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Santos Que Yo Te Pinte",
-      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Lejos de M\u00ed",
         "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 196630,
       "name": "Lejos de M\u00ed",
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Margaritas Podridas",
-        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 174343,
-      "name": "Purpura",
-      "url": "https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -439,6 +423,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Margaritas Podridas",
+        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 174343,
+      "name": "Purpura",
+      "url": "https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Todo Va a Estar Bien",
         "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 328040,
       "name": "Hasta Que el Tiempo No Nos Separe",
       "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
-        "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
-      },
-      "artists": [
-        {
-          "name": "Coma Pony",
-          "url": "https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9"
-        }
-      ],
-      "duration_ms": 188728,
-      "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
-      "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
+        "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
+      },
+      "artists": [
+        {
+          "name": "Coma Pony",
+          "url": "https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9"
+        }
+      ],
+      "duration_ms": 188728,
+      "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
+      "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/5KeUNMEECvCWzmtJSmXprZ"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 242813,
       "name": "Especial",
       "url": "https://open.spotify.com/track/1nkXSpEZCAHEI7yTxm5ZZp"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Margaritas Podridas",
-        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 299999,
-      "name": "Ceremonia",
-      "url": "https://open.spotify.com/track/4E7o5iEkv5jl7NIvXfcUUV"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -567,22 +551,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Amor de Furgoneta",
-        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 192865,
-      "name": "Amor de Furgoneta",
-      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Margaritas Podridas",
+        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 299999,
+      "name": "Ceremonia",
+      "url": "https://open.spotify.com/track/4E7o5iEkv5jl7NIvXfcUUV"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Amor de Furgoneta",
+        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 192865,
+      "name": "Amor de Furgoneta",
+      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
     },
     {
       "added_at": "2023-05-05 06:00:00",

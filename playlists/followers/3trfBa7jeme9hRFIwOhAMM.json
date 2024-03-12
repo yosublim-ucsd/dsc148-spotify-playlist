@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 4201,
+  "2024-03-12": 4202,
   "date_first_scraped": "2023-07-04",
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
   "name": "ALL THINGS HOUSE - CURBI PRESENTS",
@@ -91,6 +91,32 @@
       "duration_ms": 145263,
       "name": "Acid",
       "url": "https://open.spotify.com/track/2TjsMOYiHCcHC0DvVzdcb0"
+    },
+    {
+      "album": {
+        "name": "Ain't No Mountain",
+        "url": "https://open.spotify.com/album/71ODnsWScGKqVcMLaVpskY"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Thousand Kids",
+          "url": "https://open.spotify.com/artist/5pAaSIooaMTPOhCu7J4dRU"
+        },
+        {
+          "name": "MERAKI",
+          "url": "https://open.spotify.com/artist/3qREC2G2u5sUK9M0NDxEWp"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Ain't No Mountain",
+      "url": "https://open.spotify.com/track/6pYInbFNcmHrUhQr1NKowc"
     },
     {
       "album": {
@@ -343,7 +369,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 144507,
       "name": "Body & Heart",
       "url": "https://open.spotify.com/track/19w3QapQGXhrst75ujk5Op"
@@ -449,7 +475,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 196875,
       "name": "ChemicaLS Dreams",
       "url": "https://open.spotify.com/track/61A1R2xcFH0QM8kNyqwNf0"
@@ -959,7 +985,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 155409,
       "name": "Get Em",
       "url": "https://open.spotify.com/track/30H1BOmD8WUzW6DI81QByu"
@@ -1145,7 +1171,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 204094,
       "name": "Hustlin",
       "url": "https://open.spotify.com/track/6ZXx80XqjXSJIWxjS9EdY1"
@@ -1440,6 +1466,28 @@
     },
     {
       "album": {
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/1bXfdsuhUKLUyiHambDUFO"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        },
+        {
+          "name": "Single Spark",
+          "url": "https://open.spotify.com/artist/2CHQJ8gVz5R8GPjcV1V7P9"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/1jMYyomHmE32xaSifYDego"
+    },
+    {
+      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/4JaEtqJosVVf3IGmH6DXu0"
       },
@@ -1495,7 +1543,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 180000,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/4OtRerwQgp4qEnYsrrhYCN"
@@ -2012,6 +2060,24 @@
     },
     {
       "album": {
+        "name": "Oldskool",
+        "url": "https://open.spotify.com/album/1z8f4TO7hSS6ZIVzQR3QZ3"
+      },
+      "artists": [
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "Oldskool",
+      "url": "https://open.spotify.com/track/2eEhqIjo81t9CrLFbvSOhK"
+    },
+    {
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
       },
@@ -2041,7 +2107,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 194072,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/1xlflYpC5NkXEHkWLUCzor"
@@ -2251,7 +2317,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 194243,
       "name": "Quick Highs",
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
@@ -2485,7 +2551,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 139047,
       "name": "Samduck",
       "url": "https://open.spotify.com/track/3cwPm46wCBpPx6fnPEowUR"
@@ -2755,7 +2821,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 167640,
       "name": "Te Recorde",
       "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
@@ -2871,7 +2937,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 174028,
       "name": "The Seed (2.0)",
       "url": "https://open.spotify.com/track/0Nlxe96Ldr1KoQimV4NYiS"
@@ -3213,7 +3279,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 159069,
       "name": "Want To Go Higher",
       "url": "https://open.spotify.com/track/21145DXQcPT6tiSUC111yx"
@@ -3297,6 +3363,46 @@
       "duration_ms": 148800,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/3XPlFMrSk6pdGX7bkWAenR"
+    },
+    {
+      "album": {
+        "name": "Where R U Now?",
+        "url": "https://open.spotify.com/album/4MjxW1a58loQAR90I7x9dd"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189441,
+      "name": "Where R U Now?",
+      "url": "https://open.spotify.com/track/6ZcJBxBI0xenp4XoJ2VwTc"
+    },
+    {
+      "album": {
+        "name": "While The Record Spins",
+        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "While The Record Spins",
+      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
       "album": {

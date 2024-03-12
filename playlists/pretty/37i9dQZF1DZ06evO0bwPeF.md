@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,695 likes - 41 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,700 likes - 41 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 40 | [Gun Fluf](https://open.spotify.com/track/3d3s4k7Si5iF1Zr3qosz6r) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 3:29 |
 | 41 | [Big Shot](https://open.spotify.com/track/0Wh7bvzAM3RA4iXXPG3R5S) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 2:43 |
 
-Snapshot ID: `Mjg1MDEyNDEsMDAwMDAwMDA2ZjA3NDRjMWFjNjRmMDdhZTg1MGRhZGEwMGQ3Y2I2Yw==`
+Snapshot ID: `Mjg1MDI2MTUsMDAwMDAwMDBjMDk5ZTI1N2IyOWI1ZTJmM2VlMWMwMTZiMDFlYjE1Mw==`

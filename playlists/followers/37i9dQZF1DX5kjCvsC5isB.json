@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 290442,
+  "2024-03-12": 290561,
   "date_first_scraped": "2021-12-21",
   "description": "Women who rock our world. Cover: The Last Dinner Party",
   "name": "Fierce Femmes",
@@ -763,7 +763,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 201400,
       "name": "Big Bite",
       "url": "https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY"
@@ -2999,10 +2999,28 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 163736,
       "name": "hostage",
       "url": "https://open.spotify.com/track/4c1prDEgRB8bDIEiuF1gcQ"
+    },
+    {
+      "album": {
+        "name": "HEADSPLIT",
+        "url": "https://open.spotify.com/album/460fhxEztqiD7DkxTAETRL"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163736,
+      "name": "hostage",
+      "url": "https://open.spotify.com/track/5iQrF3TEjpz2tBZed7Qy9N"
     },
     {
       "album": {
@@ -4157,7 +4175,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 195226,
       "name": "Love Goes On",
       "url": "https://open.spotify.com/track/3xeyZGEEVW8SZPmteR9Fw6"

@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 1184110,
+  "2024-03-12": 1184187,
   "date_first_scraped": "2021-12-21",
   "description": "Kick back with the perfect mix of covers.",
   "name": "Ultimate Covers",
@@ -5513,6 +5513,24 @@
       "duration_ms": 236000,
       "name": "I Try",
       "url": "https://open.spotify.com/track/7Irvj5Fb079b3efPypVShO"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance With Somebody",
+        "url": "https://open.spotify.com/album/13hU1yDQOLqMdmFhuIrcW4"
+      },
+      "artists": [
+        {
+          "name": "Matt Alber",
+          "url": "https://open.spotify.com/artist/3v2p34eAq6fINTEyJ1w2vK"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "I Wanna Dance With Somebody",
+      "url": "https://open.spotify.com/track/2G4u3UrPJdJzxIBaHFN5AC"
     },
     {
       "album": {
@@ -11709,7 +11727,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 266813,
       "name": "Why Georgia - RAWsession",
       "url": "https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B"

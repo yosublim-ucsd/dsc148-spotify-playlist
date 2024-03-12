@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:2mWd2GZ0OtmKom3LSqvjcH">GIMA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,085 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,086 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Pillow Fight at Sandwich Bay](https://open.spotify.com/track/33KypzTjc6TL2jPTkxXDU8) | [Ciro Vitiello](https://open.spotify.com/artist/750ohCN5oKj9vhLdfTYX7s), [CRÆBABE](https://open.spotify.com/artist/6QD8kdNaNHM4dXu03a9zUo) | [Pillow Fight At Sandwich Bay](https://open.spotify.com/album/5FVE08vFPuatuXZmgfZH7r) | 2:25 |
 | 50 | [no joke](https://open.spotify.com/track/7I7Gio8PT7A0ZPA3ukK7b0) | [Sleap\-e](https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS) | [no joke](https://open.spotify.com/album/6Xh7hory69fuNd3yAdJEn0) | 3:27 |
 
-Snapshot ID: `MCwwMWNjY2UyN2I3ZjE1ODAyNjU1NDFhNGI0YWRiN2Q3NjQ0Y2VlODIy`
+Snapshot ID: `MCxlNzU3MDcyOTcwMzA3YzBiZDhjNzAxODU4NjE3YTQwMWFjMTE3NzU2`

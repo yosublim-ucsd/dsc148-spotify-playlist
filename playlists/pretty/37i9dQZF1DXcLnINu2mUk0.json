@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mizzy Miles com Bispo e Van Zee.",
-  "num_followers": 44390,
+  "num_followers": 44401,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDc0ZGU4ZTg5MzI2NWI5ODgwMTAwM2JmNTEwMDYwNDg1ZWNjNzNj",
+  "snapshot_id": "MCw0Yjc5MTI4ZjFhZTI5ZGI5MzAzZjkzMzc0NDM4Y2I3ZjIzMDc2MGJk",
   "tracks": [
     {
       "added_at": "2024-03-08 00:00:00",
@@ -31,22 +31,18 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Chakras",
-        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+        "name": "Afro Fado",
+        "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 196384,
-      "name": "Chakras",
-      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+      "duration_ms": 222427,
+      "name": "Ultimamente",
+      "url": "https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -131,18 +127,22 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Afro Fado",
-        "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
         }
       ],
-      "duration_ms": 222427,
-      "name": "Ultimamente",
-      "url": "https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7"
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -167,22 +167,22 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "ROSAS",
-        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
       "artists": [
         {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         },
         {
-          "name": "MUN",
-          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 177272,
-      "name": "ROSAS",
-      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 243180,
       "name": "Do You No Wrong",
       "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -595,38 +595,6 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Trovador",
-        "url": "https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "If U Love Me",
-      "url": "https://open.spotify.com/track/47D98I1Fp6Ncpt06bEjMyh"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
-        "name": "CorDaPele",
-        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 178815,
-      "name": "CorDaPele",
-      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
         "name": "P\u00e9 Descal\u00e7o",
         "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
       },
@@ -639,22 +607,6 @@
       "duration_ms": 214677,
       "name": "P\u00e9 Descal\u00e7o",
       "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
-        "name": "Para Casa",
-        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Para Casa",
-      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -679,6 +631,22 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "If U Love Me",
+      "url": "https://open.spotify.com/track/47D98I1Fp6Ncpt06bEjMyh"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
         "name": "Gota D'Espa\u00e7o",
         "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
       },
@@ -691,6 +659,22 @@
       "duration_ms": 236571,
       "name": "Ar",
       "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "CorDaPele",
+        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 178815,
+      "name": "CorDaPele",
+      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -743,6 +727,22 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "Para Casa",
+        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 248421,
+      "name": "Para Casa",
+      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+        "name": "Desilus\u00e3o",
+        "url": "https://open.spotify.com/album/0Pb9Hmn5HWVAy066gySw8t"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
         }
       ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+      "duration_ms": 222391,
+      "name": "Desilus\u00e3o",
+      "url": "https://open.spotify.com/track/5dOYPsUc993w5JZp1omn5a"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -927,38 +927,18 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "\u00c0 Tua Porta",
-        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 211636,
-      "name": "\u00c0 Tua Porta",
-      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
-        "name": "Desilus\u00e3o",
-        "url": "https://open.spotify.com/album/0Pb9Hmn5HWVAy066gySw8t"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        }
-      ],
-      "duration_ms": 222391,
-      "name": "Desilus\u00e3o",
-      "url": "https://open.spotify.com/track/5dOYPsUc993w5JZp1omn5a"
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -979,6 +959,26 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "\u00c0 Tua Porta",
+        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "\u00c0 Tua Porta",
+      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
+        "name": "Sonhos e Diamantes",
+        "url": "https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym"
+      },
+      "artists": [
+        {
+          "name": "Londone",
+          "url": "https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "Sonhos e Diamantes",
+      "url": "https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
         "name": "Vistas",
         "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 180000,
       "name": "Vistas",
       "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
-        "name": "Sonhos e Diamantes",
-        "url": "https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym"
-      },
-      "artists": [
-        {
-          "name": "Londone",
-          "url": "https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "Sonhos e Diamantes",
-      "url": "https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Bonnie & Claide",
-        "url": "https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9"
-      },
-      "artists": [
-        {
-          "name": "Mufvsza",
-          "url": "https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y"
-        }
-      ],
-      "duration_ms": 176601,
-      "name": "Bonnie & Claide",
-      "url": "https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
         "name": "Feiti\u00e7o",
         "url": "https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 161392,
       "name": "Feiti\u00e7o",
       "url": "https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "Bonnie & Claide",
+        "url": "https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9"
+      },
+      "artists": [
+        {
+          "name": "Mufvsza",
+          "url": "https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y"
+        }
+      ],
+      "duration_ms": 176601,
+      "name": "Bonnie & Claide",
+      "url": "https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "O Que N\u00f3s Fomos",
-        "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
-      },
-      "artists": [
-        {
-          "name": "Blutab",
-          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
-        }
-      ],
-      "duration_ms": 158081,
-      "name": "O Que N\u00f3s Fomos",
-      "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
         "name": "Se Tu N\u00e3o Falasses",
         "url": "https://open.spotify.com/album/05ew2ZZN66Z60FItm4lnbb"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Tudo Para Seguir",
-        "url": "https://open.spotify.com/album/3iMbU9zYAvjUF9wJliLFz8"
+        "name": "O Que N\u00f3s Fomos",
+        "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
       },
       "artists": [
         {
-          "name": "DIGGA",
-          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+          "name": "Blutab",
+          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
         }
       ],
-      "duration_ms": 146823,
-      "name": "Tudo Para Seguir",
-      "url": "https://open.spotify.com/track/1BJgqgbG3SJYaL0jfRcH46"
+      "duration_ms": 158081,
+      "name": "O Que N\u00f3s Fomos",
+      "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 154800,
       "name": "Pedi Amor",
       "url": "https://open.spotify.com/track/7k73lGQZlcAFtcOpDHq2aU"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "Tudo Para Seguir",
+        "url": "https://open.spotify.com/album/3iMbU9zYAvjUF9wJliLFz8"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Tudo Para Seguir",
+      "url": "https://open.spotify.com/track/1BJgqgbG3SJYaL0jfRcH46"
     },
     {
       "added_at": "2024-03-08 00:00:00",

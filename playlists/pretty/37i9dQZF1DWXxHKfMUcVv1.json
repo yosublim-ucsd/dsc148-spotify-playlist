@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 114465,
+  "num_followers": 114497,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTBmODQ2YWU3Y2ZmNzdmZjdiODBlMDkyMjhmMTA0NWUyMGVmNWI5",
+  "snapshot_id": "MCw2ZjhiMjE5ZjUyZTNhZjkyNzYwMzA4ZThjMzI0NTUzZTU5MjUyMTVm",
   "tracks": [
     {
       "added_at": "2024-01-12 16:17:07",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 303413,
-      "name": "Dificil de igualar",
-      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -275,6 +259,22 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 303413,
+      "name": "Dificil de igualar",
+      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -307,8 +307,8 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Canciones Que Amo",
-        "url": "https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn"
+        "name": "Sentimientos Encontrados",
+        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 224093,
-      "name": "Hechicera",
-      "url": "https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2"
+      "duration_ms": 211240,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Pense Que Te Olvide (feat. 8 Corazones)",
-        "url": "https://open.spotify.com/album/6JrEX1kd59eIxeJW1fqldp"
-      },
-      "artists": [
-        {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
-        },
-        {
-          "name": "8 Corazones",
-          "url": "https://open.spotify.com/artist/4i3xTXTC1XOldF8KAIOwma"
-        }
-      ],
-      "duration_ms": 182204,
-      "name": "Pense Que Te Olvide (feat. 8 Corazones)",
-      "url": "https://open.spotify.com/track/39gWip1Y0ihun0akUpA270"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -451,8 +431,8 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Sentimientos Encontrados",
-        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
+        "name": "Canciones Que Amo",
+        "url": "https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn"
       },
       "artists": [
         {
@@ -460,9 +440,29 @@
           "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 211240,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
+      "duration_ms": 224093,
+      "name": "Hechicera",
+      "url": "https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Pense Que Te Olvide (feat. 8 Corazones)",
+        "url": "https://open.spotify.com/album/6JrEX1kd59eIxeJW1fqldp"
+      },
+      "artists": [
+        {
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+        },
+        {
+          "name": "8 Corazones",
+          "url": "https://open.spotify.com/artist/4i3xTXTC1XOldF8KAIOwma"
+        }
+      ],
+      "duration_ms": 182204,
+      "name": "Pense Que Te Olvide (feat. 8 Corazones)",
+      "url": "https://open.spotify.com/track/39gWip1Y0ihun0akUpA270"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -479,6 +479,22 @@
       "duration_ms": 237844,
       "name": "Ay Que Vida",
       "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Si Yo Fuera El",
+      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -511,22 +527,6 @@
       "duration_ms": 223242,
       "name": "Perdi mi amor",
       "url": "https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Si Yo Fuera El",
-      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Banda Santa Fe, con m\u00e1s estilo...",
-        "url": "https://open.spotify.com/album/2wcBjXnBHcj9aEpiXI9XNT"
-      },
-      "artists": [
-        {
-          "name": "Banda Santa Fe",
-          "url": "https://open.spotify.com/artist/1qBjaneNSXBteutRVWFsgG"
-        }
-      ],
-      "duration_ms": 233038,
-      "name": "Amarte a la antigua",
-      "url": "https://open.spotify.com/track/5aHoyryz0I6llzRyhPyEQR"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Olv\u00eddame Si Puedes",
         "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198773,
       "name": "Pobre De Mis Ojos",
       "url": "https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Banda Santa Fe, con m\u00e1s estilo...",
+        "url": "https://open.spotify.com/album/2wcBjXnBHcj9aEpiXI9XNT"
+      },
+      "artists": [
+        {
+          "name": "Banda Santa Fe",
+          "url": "https://open.spotify.com/artist/1qBjaneNSXBteutRVWFsgG"
+        }
+      ],
+      "duration_ms": 233038,
+      "name": "Amarte a la antigua",
+      "url": "https://open.spotify.com/track/5aHoyryz0I6llzRyhPyEQR"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Qmbia Base",
-        "url": "https://open.spotify.com/album/24BnA1nhiPNXjOIx81hSzY"
+        "name": "Nena Buena",
+        "url": "https://open.spotify.com/album/68GJuJAXjGNo1XXa726aUR"
       },
       "artists": [
         {
-          "name": "Qmbia Base",
-          "url": "https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU"
+          "name": "Japiaguar",
+          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
         }
       ],
-      "duration_ms": 217385,
-      "name": "T\u00fa y yo",
-      "url": "https://open.spotify.com/track/2aZka304WFsTFRVk5MQsy4"
+      "duration_ms": 153933,
+      "name": "Nena Buena",
+      "url": "https://open.spotify.com/track/6mVv3xXy1P398JJcJwaFTq"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

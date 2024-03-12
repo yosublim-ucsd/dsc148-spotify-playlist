@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-565 songs - 1 day 9 hr 23 min
+566 songs - 1 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Mercurio](https://open.spotify.com/track/4A6Xvi8gu5xBDw8oKrintA) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Mercurio](https://open.spotify.com/album/11o8WvVx0QdodULqx6bmYY) | 2:03 | 2023-08-18 | 2023-10-06 |
 | [Metralleta](https://open.spotify.com/track/3L7RYCRoKOnqsgDL9cXdUD) | [Acuario Cosmico](https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY) | [Metralleta](https://open.spotify.com/album/5nY5psozTUXskeoczm947N) | 2:35 | 2022-07-01 | 2022-07-28 |
 | [Metropolice](https://open.spotify.com/track/1pvhJFdzNVeqqqxsCx2MQE) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [CRO9UIS](https://open.spotify.com/album/6pPaMqRFOp0JAEp5lDju7U) | 4:54 | 2022-07-01 | 2022-07-25 |
+| [Mi Conexión](https://open.spotify.com/track/5u1fbnjaJc0rCQPnQ1xUqJ) | [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Mi Conexión](https://open.spotify.com/album/1Ln7ztMv81IaZuGPVv8vep) | 5:24 | 2024-03-07 |  |
 | [Mi Generación](https://open.spotify.com/track/6ikDyxIA451wrhNzdKTQGK) | [Marcelo Saccomanno](https://open.spotify.com/artist/2Sb6nU04HNObQnSBjIAnwr), [LeGüero](https://open.spotify.com/artist/6Q6GGQ9zLNN5I4LCkYmEbN) | [Mi Generación](https://open.spotify.com/album/5cfherksWvvP9ou8gMS8dj) | 4:34 | 2024-02-09 |  |
 | [Mi Lugar](https://open.spotify.com/track/6KAZ0FZgGR1uh7IupPnhxy) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Mi Lugar](https://open.spotify.com/album/3UPvbNI1syOcOrvNdxPV2C) | 2:53 | 2022-07-15 | 2022-07-18 |
 | [Mi Vida Como Vacaciones](https://open.spotify.com/track/0Ah0ztfqxCvZYrFYXMa7Ub) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Mi Vida Como Vacaciones](https://open.spotify.com/album/1fjaV0jSolAyJnkqGsE4Dt) | 3:46 | 2022-10-28 | 2022-11-13 |
@@ -491,7 +492,7 @@
 | [Su Forma de Mirar](https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Su Forma de Mirar](https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb) | 4:50 | 2023-09-01 | 2023-09-16 |
 | [Suavemente Entusiasmado](https://open.spotify.com/track/1sFJ4OmvhDydbdDBX3kkNx) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Suavemente Entusiasmado](https://open.spotify.com/album/0pScdvoykEIAnmQLyQkLIZ) | 3:56 | 2022-12-09 | 2023-06-10 |
 | [Suavemente Entusiasmado](https://open.spotify.com/track/4imx5CrSaZv0xvhpmsJdCV) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Suavemente entusiasmado](https://open.spotify.com/album/0AOQ9H0w7MEcAnX6J3u8g2) | 3:56 | 2022-06-03 | 2022-12-11 |
-| [Subiendo](https://open.spotify.com/track/2kGHeQIYbEStvCA64yKauG) | [Koyi](https://open.spotify.com/artist/26kdmWEHUotjdBzNWJv5JD) | [Subiendo](https://open.spotify.com/album/0zdCOOgW9DBNKJ1tuIiIjb) | 3:01 | 2024-02-09 |  |
+| [Subiendo](https://open.spotify.com/track/2kGHeQIYbEStvCA64yKauG) | [Koyi](https://open.spotify.com/artist/26kdmWEHUotjdBzNWJv5JD) | [Subiendo](https://open.spotify.com/album/0zdCOOgW9DBNKJ1tuIiIjb) | 3:01 | 2024-02-09 | 2024-03-12 |
 | [SUELO](https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [SUELO](https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM) | 2:49 | 2023-12-22 |  |
 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 | 2022-06-03 | 2022-11-27 |
 | [Sueño Tsunami](https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv) | 2:57 | 2022-11-11 | 2023-06-10 |

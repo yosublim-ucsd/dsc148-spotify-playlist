@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 140364,
+  "2024-03-12": 140400,
   "date_first_scraped": "2023-12-19",
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
   "name": "This Is Labrinth",
@@ -413,7 +413,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 32864,
       "name": "I Don't Know If I'm a Good Person",
       "url": "https://open.spotify.com/track/5h2Yjx4DAA75OYtK5mATWd"
@@ -973,6 +973,24 @@
       "duration_ms": 163889,
       "name": "The Producer",
       "url": "https://open.spotify.com/track/0j2hRG0vWQ5t7aWaLazbkP"
+    },
+    {
+      "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30260,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/2pzle6gc8hnsckQdECy2J0"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Classic Country](https://open.spotify.com/playlist/37i9dQZF1DX5gMBaRFQjOY)
 
-> We're celebrating 100 years of Hank Williams on Classic Country!
+> Country classics you know and love.
 
 96 songs - 4 hr 28 min
 

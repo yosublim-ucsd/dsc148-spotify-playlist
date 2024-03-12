@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 104,
+  "2024-03-12": 104,
   "date_first_scraped": "2023-12-14",
   "description": "This is Harrison. The essential tracks, all in one playlist.",
   "name": "This Is Harrison",
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 142500,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
@@ -1393,6 +1393,24 @@
       "duration_ms": 224327,
       "name": "Wavestation",
       "url": "https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2"
+    },
+    {
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146459,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/4WjYVP5dZtOhK86ntwMY7i"
     },
     {
       "album": {

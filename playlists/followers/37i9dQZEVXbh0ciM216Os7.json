@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 0,
+  "2024-03-12": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -17257,7 +17257,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 242823,
       "name": "Pop a toast",
       "url": "https://open.spotify.com/track/6mUYLmH6hK8I5swS4ZGkCT"
@@ -18413,6 +18413,28 @@
       "duration_ms": 132464,
       "name": "Rockin' Around the Christmas Tree",
       "url": "https://open.spotify.com/track/030heL91n8NNvUHZGmAAZy"
+    },
+    {
+      "album": {
+        "name": "RockStarLife(R.S.L)",
+        "url": "https://open.spotify.com/album/4TDnVpFoBZlyenm5l7AXsq"
+      },
+      "artists": [
+        {
+          "name": "WiseWords",
+          "url": "https://open.spotify.com/artist/3QgpcPG4ZszgJeM7UWBhA7"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231530,
+      "name": "RockStarLife(R.S.L)",
+      "url": "https://open.spotify.com/track/6dTLJBx8gNU2Xr5kJJ5OrW"
     },
     {
       "album": {
@@ -25005,10 +25027,36 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 173861,
       "name": "Where They At",
       "url": "https://open.spotify.com/track/1xttwGi6u3k4FjplxqySDJ"
+    },
+    {
+      "album": {
+        "name": "Mac & Cheese 5 (Deluxe)",
+        "url": "https://open.spotify.com/album/4AGjxCGVc1sddtxLXtZa58"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173861,
+      "name": "Where They At",
+      "url": "https://open.spotify.com/track/21kD7hZ91FOh5RfoWaWXKQ"
     },
     {
       "album": {
@@ -25783,10 +25831,32 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 170645,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/3vk05FiwhukSG2CgVj09eZ"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170645,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/7ENUyxIeDry1kGp3Sbzpnh"
     },
     {
       "album": {

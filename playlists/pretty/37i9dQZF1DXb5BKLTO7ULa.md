@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: The Indien \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">Spotify RADAR\-artiest</a>\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,532 likes - 86 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,521 likes - 86 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 85 | [Digging In The Dirt](https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Digging In The Dirt](https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL) | 5:24 |
 | 86 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 |
 
-Snapshot ID: `MCw3ZTQ3MDBkOWY2ZGYwYzJhYjcyMjNkYmRiYTgwMmIwMGNlZmZhMzk0`
+Snapshot ID: `MCxlYzQwZGY2NmIwYmM4YjUyNWM2NzE5NTRlZWMwZDhkMjg5NjY5NDE1`

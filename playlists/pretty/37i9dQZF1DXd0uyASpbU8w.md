@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6?si=DGNkf\_77RySgppJ9XZwZaQ">Ariana Grande</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,142 likes - 56 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,187 likes - 56 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 43 | [HOME](https://open.spotify.com/track/4MKnbbcCLbuTMWo8JBk8ej) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Karabo](https://open.spotify.com/artist/2nPtQTbG4YCBrkSftUoiG3) | [FOR YOU, FOREVER](https://open.spotify.com/album/6q8rLOzjZMAGt2M1f4syHl) | 3:22 |
 | 44 | [Sweetest Thing](https://open.spotify.com/track/3huGq5x6LKmTqXzpcmAN2X) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [SMYLE AGAIN](https://open.spotify.com/album/5SmUcpJVuEdQu5Gv7gSSsI) | 3:42 |
 | 45 | [UYANG'User \(feat\. Chley, Rif effect\)](https://open.spotify.com/track/3XIzwztNVbZpAObLtA7qOn) | [Tranquillo](https://open.spotify.com/artist/32TvTT0hZmelw2ZmrJpM31), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Rif effect](https://open.spotify.com/artist/71AWhgWBj2ETQsU6JMyh0R) | [UYANG'User \(feat\. Chley, Rif effect\)](https://open.spotify.com/album/4J7gSo6aO9PeKJa7CrAbhT) | 6:42 |
-| 46 | [I Want You](https://open.spotify.com/track/7c3oDw6MPSTP6qhZU0ufcL) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [SZON](https://open.spotify.com/artist/6Bd7TXZhgQpAKlAAFug8BD) | [NGWINO](https://open.spotify.com/album/684csa2gkBzmwUT0tMYKr3) | 5:12 |
+| 46 | [I Want You](https://open.spotify.com/track/7c3oDw6MPSTP6qhZU0ufcL) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Szon](https://open.spotify.com/artist/7gDtr9MZnzuXBzzbeO5Of1) | [NGWINO](https://open.spotify.com/album/684csa2gkBzmwUT0tMYKr3) | 5:12 |
 | 47 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/2f2IEt2d3pE96RTf3no7n6) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Groove Terminator](https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/album/6SDrxmkS9EJQoYDt2WaQRr) | 3:11 |
 | 48 | [Bobby](https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Bobby](https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz) | 2:48 |
 | 49 | [Up Up & Away](https://open.spotify.com/track/7abaGoWNY2x7h1TFbUltLY) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [Up Up & Away](https://open.spotify.com/album/1ng4Axv6ENDftW7QN1nNCv) | 2:22 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 55 | [Umfazi](https://open.spotify.com/track/50G9Ojjbs6kjSPF4gNgxhG) | [Marthe](https://open.spotify.com/artist/11LLLhmioRwkPeNLGUok3N), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Umfazi](https://open.spotify.com/album/4VsBHZTNuyIcQ0WZRKgHHg) | 4:53 |
 | 56 | [SHE A BADDIE](https://open.spotify.com/track/34ivB8FPA9MejRkYMQVnis) | [Emmanuel Rose](https://open.spotify.com/artist/2bAexN5Jo2aSa738MQBfHo) | [SHE A BADDIE](https://open.spotify.com/album/2DUMKTUH3rz9nNnkA4ZoMQ) | 2:29 |
 
-Snapshot ID: `MCw4NzdhM2UyYjVkMjhkYjE1MWJiNjQyNTk4N2I0YjIwZmZkYzQyY2M0`
+Snapshot ID: `MCwyOWMyNmExMzA2MWQ5ZjNkMjNjNjM2ZGU3ZmU1NzZjYzYyNmU4MTdi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,289 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,319 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Dans l'âme \- A COLORS SHOW](https://open.spotify.com/track/1hfC7uB2OPnuaxeKk46NjJ) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [Dans l'âme \- A COLORS SHOW](https://open.spotify.com/album/5ZYw8uJ18yrygOWPeMhnO1) | 3:17 |
 | 40 | [Djali](https://open.spotify.com/track/3rAuJYIXR7LaW2FROUcr92) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Djali](https://open.spotify.com/album/2bNZrCOEARuzjfGPLYYxQV) | 3:35 |
 
-Snapshot ID: `MCxiMTA3MDRjZWU3MDM3YWE3NGQzNGE0ZjlhNWJhMWU5YzY0YjIwNGVl`
+Snapshot ID: `MCxkOWM1M2YxMDdiZDQzYTBlMmEzZTY0MzAxNDkwZTVlYjE3MzkyNDYw`

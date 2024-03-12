@@ -771,6 +771,32 @@
     },
     {
       "album": {
+        "name": "Boy In The Picture",
+        "url": "https://open.spotify.com/album/7MlzrIAecngRdLwUnzoqYa"
+      },
+      "artists": [
+        {
+          "name": "Kid Cr\u00e8me",
+          "url": "https://open.spotify.com/artist/21LRoheW1z49N5d52wlQ5X"
+        },
+        {
+          "name": "Jolyon Petch",
+          "url": "https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42"
+        },
+        {
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207161,
+      "name": "Boy In The Picture",
+      "url": "https://open.spotify.com/track/3V95FzQssIWw3wcqV1a9sy"
+    },
+    {
+      "album": {
         "name": "Boy's a liar",
         "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
       },

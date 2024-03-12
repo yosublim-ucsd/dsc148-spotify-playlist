@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 89079,
+  "num_followers": 89119,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTYxYjUzNjA2ZWUwYzA1NGMwZGY1MmMxNmQ2YTE4NGY0YzdlMDI1",
+  "snapshot_id": "MCxkOTAyNDcyMTE3MzEyNzBiOWU5MTRlMGQwYjg4YjNlZGMzZTFkMzA4",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "The 1971 Fillmore East Recordings",
-        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Crossroads (Original Sountrack)",
         "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 256826,
       "name": "Feelin' Bad Blues - 2008 Remaster",
       "url": "https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 192661,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Fight For Your Mind",
         "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
       },
@@ -439,6 +423,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 192661,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Fantastic Negrito Deluxe EP",
         "url": "https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 380266,
       "name": "Congo Square",
       "url": "https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 135106,
+      "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
+      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "Best - Southern Blues",
+        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
         }
       ],
-      "duration_ms": 135106,
-      "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
-      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
+      "duration_ms": 237680,
+      "name": "Taylor's Rock",
+      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -695,38 +711,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Best - Southern Blues",
-        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
-      },
-      "artists": [
-        {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Taylor's Rock",
-      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Deuce (Remastered 2017)",
-        "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 344492,
-      "name": "In Your Town",
-      "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "The Best of Peter Green's Fleetwood Mac",
         "url": "https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 219637,
       "name": "Mississippi (feat. Tyler Bryant)",
       "url": "https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Deuce (Remastered 2017)",
+        "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 344492,
+      "name": "In Your Town",
+      "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
     },
     {
       "added_at": "2023-01-16 21:05:55",

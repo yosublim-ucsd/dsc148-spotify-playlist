@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 9495,
+  "2024-03-12": 9504,
   "date_first_scraped": "2023-06-30",
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Aqyila",
   "name": "R&B Rewind",
@@ -187,7 +187,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 160052,
       "name": "Bad Neighbors",
       "url": "https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY"
@@ -2121,7 +2121,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 196949,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/58uTw3T5gfAMvvQuNhJPJH"

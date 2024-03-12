@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 96097,
+  "2024-03-12": 96343,
   "date_first_scraped": "2022-11-25",
   "description": "A hypnotic journey through Melodic Techno.",
   "name": "Melodic Techno Elements",
@@ -1973,7 +1973,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 340000,
       "name": "Eclips",
       "url": "https://open.spotify.com/track/2ltZFK5dudMtP0TFpc4SOa"
@@ -8139,6 +8139,28 @@
       "duration_ms": 208124,
       "name": "The Otherside (feat. Robinson)",
       "url": "https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3"
+    },
+    {
+      "album": {
+        "name": "The Point Of Living (Omnya Remix)",
+        "url": "https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232380,
+      "name": "The Point Of Living (Omnya Remix)",
+      "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
     },
     {
       "album": {

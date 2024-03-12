@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Fuerza Regida & Marshmello
 
-300 songs - 15 hr 33 min
+301 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Parcera](https://open.spotify.com/track/56oomeTRgamzypt6iObrvA) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Parcera](https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm) | 2:32 | 2023-08-11 |  |
 | [Pasa\_je\_ro \(J\. Cross Remix\)](https://open.spotify.com/track/6ukkR8zXQO06ohLyuPEQd9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [J\. Cross](https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd) | [Pasa\_je\_ro \(J\. Cross Remix\)](https://open.spotify.com/album/4dbEfyoiIFfVQMwuDkzYX2) | 2:47 | 2023-09-01 |  |
 | [PASAJERO](https://open.spotify.com/track/1uFAI2C6r3YBQmXCAPGzZv) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:29 | 2023-09-01 |  |
+| [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-11 |  |
 | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/track/3BQn0kOqvoCtV83QAVGd0e) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [El Chima En La Casa](https://open.spotify.com/artist/2m54qKxJNbCGH7OZN0xuL1), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/album/6ba7djkJEIp1Zx9kTqi7Uf) | 2:31 | 2023-03-31 | 2023-08-12 |
 | [PE$OS \- 2DEEP Remix](https://open.spotify.com/track/13VEuKLyYPyEhYnVmin5kS) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [On The One](https://open.spotify.com/artist/1rCW6VZVxnL6tBuoqL3FNh), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS \(2DEEP Remix\)](https://open.spotify.com/album/1vtOCTbr6WLRpBiBypXM8I) | 3:02 | 2023-05-08 |  |
 | [Pega](https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Pega](https://open.spotify.com/album/167hCxWi15k96f2XJfqGPM) | 2:47 | 2023-08-18 |  |

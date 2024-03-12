@@ -5946,7 +5946,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
@@ -31916,7 +31916,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 65984,
       "name": "Ph Vem Desestressar",
       "url": "https://open.spotify.com/track/3BZpoUZfuIHElkPiNt16OC"
@@ -31952,7 +31952,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 65984,
       "name": "Ph Vem Desestressar",
       "url": "https://open.spotify.com/track/7cF4pg0gsUA7AJknmgH69H"
@@ -32842,7 +32842,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 127689,
       "name": "Poison - Hazbin Hotel Original Soundtrack",
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
@@ -34746,7 +34746,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 124312,
       "name": "recadin no espelho",
       "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
@@ -38348,6 +38348,24 @@
       "duration_ms": 137000,
       "name": "Sorrisin de Puto",
       "url": "https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY"
+    },
+    {
+      "album": {
+        "name": "Sorriso Resplandecente (Dragon Ball GT)",
+        "url": "https://open.spotify.com/album/4ERlDf6SlccSQlQjFYGtJO"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Junior",
+          "url": "https://open.spotify.com/artist/6pSFsvV7CZPK6RQrJEvfVo"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Sorriso Resplandecente - Dragon Ball GT",
+      "url": "https://open.spotify.com/track/2x1fGRP6FCJg7KRbmZ3Zcp"
     },
     {
       "album": {

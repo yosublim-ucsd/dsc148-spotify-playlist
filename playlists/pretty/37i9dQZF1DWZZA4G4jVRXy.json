@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 127966,
+  "num_followers": 127983,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjE0Nzg1MmZlNGNmMzcyODk5ZTJkYmYzZjZmMTEyODRjMjU1ZDVh",
+  "snapshot_id": "MCxmZTkxNzRmNTk4ZDhiOTJjZmNkMThlMDc4YzQ4ZWFlNDk1YTkwNGE1",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -141,22 +141,6 @@
       "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 71266,
-      "name": "Hii Lawe",
-      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Best Of Martin Denny's Exotica",
@@ -171,6 +155,22 @@
       "duration_ms": 158653,
       "name": "Misirlou - 1995 Digital Remaster",
       "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 71266,
+      "name": "Hii Lawe",
+      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Sacred Idol",
+        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Fruit Of Dreams",
+      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Swingin' sounds for the Jungle Jetset !",
@@ -235,22 +251,6 @@
       "duration_ms": 276693,
       "name": "Alika",
       "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Sacred Idol",
-        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Fruit Of Dreams",
-      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Voodoo!",
-        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
-      },
-      "artists": [
-        {
-          "name": "Robert Drasnin",
-          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "The Soul Of The Drums",
@@ -447,6 +431,22 @@
       "duration_ms": 128066,
       "name": "Taboo Tu",
       "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Voodoo!",
+        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
+      },
+      "artists": [
+        {
+          "name": "Robert Drasnin",
+          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
     },
     {
       "added_at": "2022-03-30 01:46:18",
@@ -515,22 +515,6 @@
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -611,18 +595,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Makani Olu'olu",
-        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
       },
       "artists": [
         {
-          "name": "Na Palapalai",
-          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 163786,
-      "name": "Lepe Ula'ula",
-      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -639,6 +623,22 @@
       "duration_ms": 198466,
       "name": "Terry's Theme (From \"Limelight)",
       "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Makani Olu'olu",
+        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+      },
+      "artists": [
+        {
+          "name": "Na Palapalai",
+          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Lepe Ula'ula",
+      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -673,20 +673,20 @@
       "url": "https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
-        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
+        "name": "Ultra-Lounge: Bongoland",
+        "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
       },
       "artists": [
         {
-          "name": "Chick Floyd",
-          "url": "https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN"
+          "name": "Terry Snyder & The All-Stars",
+          "url": "https://open.spotify.com/artist/37Bie7mBZSCP1OlJxk1zl6"
         }
       ],
-      "duration_ms": 196226,
-      "name": "Hana Maui - Digitally Remastered 1995",
-      "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
+      "duration_ms": 341760,
+      "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
+      "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -705,20 +705,20 @@
       "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Ultra-Lounge: Bongoland",
-        "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
+        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
+        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
       },
       "artists": [
         {
-          "name": "Terry Snyder & The All-Stars",
-          "url": "https://open.spotify.com/artist/37Bie7mBZSCP1OlJxk1zl6"
+          "name": "Chick Floyd",
+          "url": "https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN"
         }
       ],
-      "duration_ms": 341760,
-      "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
-      "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
+      "duration_ms": 196226,
+      "name": "Hana Maui - Digitally Remastered 1995",
+      "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Mareld 2021",
-        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 182096,
-      "name": "Mareld 2021",
-      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Savage And The Sensuous Bongos",
         "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Xavier Cugat - M\u00fasica para Bailar!",
-        "url": "https://open.spotify.com/album/488JrAteaK9HPFPB4ryg3O"
+        "name": "Mareld 2021",
+        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
       },
       "artists": [
         {
-          "name": "Xavier Cugat",
-          "url": "https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R"
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
         }
       ],
-      "duration_ms": 207773,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/5SaOX5WmvmvyNIVGmyBJGp"
+      "duration_ms": 182096,
+      "name": "Mareld 2021",
+      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -831,6 +815,22 @@
       "duration_ms": 149000,
       "name": "Mini Skirt",
       "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Xavier Cugat - M\u00fasica para Bailar!",
+        "url": "https://open.spotify.com/album/488JrAteaK9HPFPB4ryg3O"
+      },
+      "artists": [
+        {
+          "name": "Xavier Cugat",
+          "url": "https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/5SaOX5WmvmvyNIVGmyBJGp"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Fly Me to the Moon and the Bossa Nova Pops",
-        "url": "https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm"
-      },
-      "artists": [
-        {
-          "name": "Joe Harnell His Piano And Orchestra",
-          "url": "https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Loads of Love",
-      "url": "https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge / Tiki Sampler",
         "url": "https://open.spotify.com/album/1M1KRm2CzwxzwJvQ3ZqzlU"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 142106,
       "name": "My Three Sons - Remastered",
       "url": "https://open.spotify.com/track/67OLtDm3jaMdhywCIxZNgP"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Fly Me to the Moon and the Bossa Nova Pops",
+        "url": "https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm"
+      },
+      "artists": [
+        {
+          "name": "Joe Harnell His Piano And Orchestra",
+          "url": "https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "Loads of Love",
+      "url": "https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz"
     },
     {
       "added_at": "2021-01-20 03:50:53",

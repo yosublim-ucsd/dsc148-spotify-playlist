@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 213280,
+  "2024-03-12": 213357,
   "date_first_scraped": "2022-04-20",
   "description": "aggressive. heavy. unhinged. make a mess of it.",
   "name": "Sludge",
@@ -1031,10 +1031,32 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 126456,
       "name": "deprecating",
       "url": "https://open.spotify.com/track/2IwAU6QS3k8dP8qSEj8uB9"
+    },
+    {
+      "album": {
+        "name": "HEADSPLIT",
+        "url": "https://open.spotify.com/album/460fhxEztqiD7DkxTAETRL"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126456,
+      "name": "deprecating",
+      "url": "https://open.spotify.com/track/3OBIepWxoJFgdQ2HTIEEuD"
     },
     {
       "album": {

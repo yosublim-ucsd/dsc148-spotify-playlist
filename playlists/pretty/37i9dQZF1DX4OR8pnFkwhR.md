@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: サバシスター
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,945 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,956 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [路地裏ねこみたいに](https://open.spotify.com/track/0N5BGS5uB15Yu3dVMHHE3e) | [原田ねくら](https://open.spotify.com/artist/4qIx6BtpXmDOxKxhpk3JXL) | [路地裏ねこみたいに](https://open.spotify.com/album/73fACwYn5CZxXkRPx8lZdT) | 3:07 |
 | 70 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 |
 
-Snapshot ID: `MCw0MGZmY2FiMGRhNzBlZTRiZGYzNDQ3MGRhNzcyNGVlNmFjZTdiYWU0`
+Snapshot ID: `MCxlMWE5ZjgwODJhYzA0N2JlZWVlN2FkNTQzMWVjYjg2MmYwNDFlNDRm`

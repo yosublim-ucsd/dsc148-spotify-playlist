@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 583020,
+  "num_followers": 583114,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTZjN2UyNTdiYmNlMGI2NjkyNGUwNDU4NjUzMjM3M2NjYmM2YTJm",
+  "snapshot_id": "MCxlYzVhYzM1NmQ0YTY5ODMxMDEwMjVkNDEwNDBjYjhiMzg4NTI1YmJm",
   "tracks": [
     {
       "added_at": "2024-02-27 03:02:56",
@@ -123,26 +123,6 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Gusto",
-        "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        },
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Gusto feat. Al James",
-      "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
         "name": "Pakundangan (feat. Hev Abi)",
         "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 197933,
       "name": "Pakundangan (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
+        "name": "Gusto",
+        "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Gusto feat. Al James",
+      "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -303,38 +303,6 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
         "name": "Halina Sa Parokya",
         "url": "https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL"
       },
@@ -363,6 +331,38 @@
       "duration_ms": 241029,
       "name": "Pasensya Ka Na",
       "url": "https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 270233,
-      "name": "Bulong",
-      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
         "name": "Pulso",
         "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
       },
@@ -447,18 +431,34 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Popcorn",
-        "url": "https://open.spotify.com/album/5h7SARmqKueZqYztB10nhx"
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
       },
       "artists": [
         {
-          "name": "Moonstar88",
-          "url": "https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n"
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
         }
       ],
-      "duration_ms": 264202,
-      "name": "Torete",
-      "url": "https://open.spotify.com/track/14NYrkbcxzarp4y7LlTtQF"
+      "duration_ms": 270233,
+      "name": "Bulong",
+      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
+        "name": "Monodramatic",
+        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Sa'yo",
+      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
+        "name": "Popcorn",
+        "url": "https://open.spotify.com/album/5h7SARmqKueZqYztB10nhx"
+      },
+      "artists": [
+        {
+          "name": "Moonstar88",
+          "url": "https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n"
+        }
+      ],
+      "duration_ms": 264202,
+      "name": "Torete",
+      "url": "https://open.spotify.com/track/14NYrkbcxzarp4y7LlTtQF"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
         "name": "o ninanais",
         "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 252214,
       "name": "o ninanais",
       "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
-        "name": "Monodramatic",
-        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
-      },
-      "artists": [
-        {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Sa'yo",
-      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
+        "name": "Mikasa",
+        "url": "https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        },
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Mikasa",
+      "url": "https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
         "name": "Michael Pangilinan",
         "url": "https://open.spotify.com/album/5smhvbie90IDjoJoQTI7lk"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 274285,
       "name": "Aking Pahinga",
       "url": "https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
-        "name": "Mikasa",
-        "url": "https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Mikasa",
-      "url": "https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B"
     },
     {
       "added_at": "2024-02-27 03:02:56",

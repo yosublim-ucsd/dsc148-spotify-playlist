@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 262743,
       "name": "Ajnabi Yeh Raasta",
       "url": "https://open.spotify.com/track/4d8SLyEZhKw7baBkVjFjkH"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 249176,
       "name": "Bacardi Love",
       "url": "https://open.spotify.com/track/5rLrXNir0IKxHJItvVosAb"
@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Kaisa Hai Tu",
+        "url": "https://open.spotify.com/album/42ymCah47LkmJtV1AhjJAj"
+      },
+      "artists": [
+        {
+          "name": "Tirth Thakkar",
+          "url": "https://open.spotify.com/artist/3b98XmPzCYNOIX2m8GzqAf"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195257,
+      "name": "Kaisa Hai Tu",
+      "url": "https://open.spotify.com/track/7ha7c175FMuemBB38vvIrl"
+    },
+    {
+      "album": {
         "name": "Kaisi Jadugari",
         "url": "https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL"
       },
@@ -3469,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "Big Girls Don\u2019T Cry",
+        "url": "https://open.spotify.com/album/2roFrzdSEJ1IKTM4UzlnwW"
+      },
+      "artists": [
+        {
+          "name": "Aneet Padda",
+          "url": "https://open.spotify.com/artist/3mhogAa7LlKVkgcm1P7CGI"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267043,
+      "name": "Masoom",
+      "url": "https://open.spotify.com/track/1Bq5DRGjTStmHKIScZ4poF"
+    },
+    {
+      "album": {
         "name": "Maula Mere Maula (Unplugged) - Single",
         "url": "https://open.spotify.com/album/2P4Ah2ZCSihdOfama7aMJy"
       },
@@ -3956,7 +3992,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 182002,
       "name": "Parinda",
       "url": "https://open.spotify.com/track/37iaU5dRe1Iq4eWQSikR44"
@@ -4028,7 +4064,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 251351,
       "name": "Parwaaz",
       "url": "https://open.spotify.com/track/4ZKNx6PVTkX5zUtPUHX2tW"
@@ -4079,6 +4115,28 @@
     },
     {
       "album": {
+        "name": "Big Girls Don\u2019T Cry",
+        "url": "https://open.spotify.com/album/2roFrzdSEJ1IKTM4UzlnwW"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216062,
+      "name": "Pehli Sharam",
+      "url": "https://open.spotify.com/track/5VqWH46kP3CM1B6goFqOSU"
+    },
+    {
+      "album": {
         "name": "Kuhu Kuhu",
         "url": "https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg"
       },
@@ -4124,6 +4182,24 @@
       "duration_ms": 254091,
       "name": "Piya Tose Naina Lage Re",
       "url": "https://open.spotify.com/track/3DsIkyKjAe4yOvTsaS6dnn"
+    },
+    {
+      "album": {
+        "name": "Pyaar",
+        "url": "https://open.spotify.com/album/1zJMlunXj3rYzXJ1KYBOWw"
+      },
+      "artists": [
+        {
+          "name": "Nikul Sabalpara",
+          "url": "https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148065,
+      "name": "Pyaar",
+      "url": "https://open.spotify.com/track/1DvFc1hozo6IhBj8Ae4GfN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXanDkFGa4syx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXanDkFGa4syx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXanDkFGa4syx)
 
-### [Gen\-Z Nostalgie](https://open.spotify.com/playlist/37i9dQZF1DXanDkFGa4syx)
+### [Gen\-Z Nostalgie ❤️‍🔥](https://open.spotify.com/playlist/37i9dQZF1DXanDkFGa4syx)
 
 > basic emotions, ik wil terug naar toen
 

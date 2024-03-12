@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 83234,
+  "2024-03-12": 83219,
   "date_first_scraped": "2021-12-30",
   "description": "The playlist version of a warm hug",
   "name": "Sweater Weather",
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 227651,
       "name": "Folding",
       "url": "https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1"
@@ -3789,7 +3789,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 267266,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,770 songs - 4 day 1 hr 12 min
+1,771 songs - 4 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [Flottur Skrákur 2 \- Intro](https://open.spotify.com/track/3jY72YSLwnLsaxckwLgsrH) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [KBE kynnir: Flottur Skrákur 2](https://open.spotify.com/album/3fhZVuHw3gbUOBJpzX8bxf) | 1:34 | 2021-09-02 | 2021-09-05 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 | 2023-03-12 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-09-27 |
-| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-26 |  |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-26 | 2024-03-12 |
 | [Flugdreki](https://open.spotify.com/track/1K7d2QSYW8Km6tImvAq2I9) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Flugdreki](https://open.spotify.com/album/0GXiHEYsIcSgL5bxDYKEIX) | 4:53 | 2022-03-20 | 2022-03-28 |
 | [FLÝG UPP](https://open.spotify.com/track/2GiTm3JELDl8D7MNlMRI9X) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [FLÝG UPP](https://open.spotify.com/album/4LSVHtJqXpoURAd0sOtmwB) | 4:12 | 2021-05-03 | 2021-06-27 |
 | [FLÝG UPP](https://open.spotify.com/track/2iHiVyfDAm6EjhkGELpqPK) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [ANDI, LÍF, HJARTA, SÁL](https://open.spotify.com/album/7z3kzUHg0g0UuSsjAvog0m) | 4:12 | 2021-06-27 | 2024-01-24 |
@@ -1505,6 +1505,7 @@
 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 | 2022-02-16 | 2022-02-21 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-11-03 | 2024-02-07 |
 | [The One](https://open.spotify.com/track/44kgtDJyAFv4Z01z7bIxco) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:46 | 2023-04-29 | 2023-05-01 |
+| [The Vice](https://open.spotify.com/track/7fhmb4dQ7QMf2BkUhEgxkq) | [Luanne Hunt](https://open.spotify.com/artist/49eKhQW117vj7sKKOc4qrP) | [Miles & Memories](https://open.spotify.com/album/5FgcecPexW6FFX5CzlemlS) | 4:10 | 2024-03-11 |  |
 | [The Wrong Place](https://open.spotify.com/track/6riWD7fUly0edv1gUZaguM) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Hidden Stories](https://open.spotify.com/album/0hLdIt0UanXnwLrRJPgjIa) | 2:56 | 2021-05-23 | 2021-05-28 |
 | [Think About Things](https://open.spotify.com/track/2iRniYXjMHKmwXqA2jYXP7) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Think About Things](https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt) | 2:53 | 2021-05-22 | 2021-06-02 |
 | [Thinking with My Dick \(feat\. Juicy J\)](https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Stranger Than Fiction](https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia) | 2:45 | 2022-03-11 | 2022-03-25 |

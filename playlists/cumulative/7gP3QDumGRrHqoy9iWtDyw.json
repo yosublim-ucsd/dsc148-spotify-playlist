@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Dunns EP",
+        "url": "https://open.spotify.com/album/1zOFzIsU07Qqr4AvIpZhw7"
+      },
+      "artists": [
+        {
+          "name": "Bastian Bux",
+          "url": "https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311450,
+      "name": "Howyalldoin",
+      "url": "https://open.spotify.com/track/6vLau6Em7Vy3oGKzF2uUwI"
+    },
+    {
+      "album": {
         "name": "If U Need It",
         "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
       },
@@ -3666,6 +3684,28 @@
       "duration_ms": 230400,
       "name": "Yes Man - Radio Edit",
       "url": "https://open.spotify.com/track/47xypX1JI0skOo1wrqJpOP"
+    },
+    {
+      "album": {
+        "name": "Yo Yo Get Funky (Andre Zimmer Remix)",
+        "url": "https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY"
+      },
+      "artists": [
+        {
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
+        },
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Yo Yo Get Funky - Andre Zimmer Remix",
+      "url": "https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B"
     },
     {
       "album": {

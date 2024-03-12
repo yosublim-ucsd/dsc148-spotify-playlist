@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Enzo Cello
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,667 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,670 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Ballet](https://open.spotify.com/track/6VasN6Pv5tTRvuXqRNsoCL) | [COTTA7](https://open.spotify.com/artist/1Qvo147JM9wMycIfAOrpCi), [VAZZ](https://open.spotify.com/artist/4kVfBdkQWOjDJWC1FeZoj9), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [Ballet](https://open.spotify.com/album/16Cw7qd4kuWcImaCsapBzi) | 1:53 |
 | 75 | [Pagode](https://open.spotify.com/track/6sCRQGwPBaNYC0A0xdzqjI) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Pagode](https://open.spotify.com/album/7fMte3P5NRTFkwiy1NR6I9) | 3:33 |
 
-Snapshot ID: `MCw0MDQ1YjQ5NGNlOWUzNWY0Y2VmZWUwZmZhNmJkY2RkNDZjZTEyNjg1`
+Snapshot ID: `MCw2M2E1NjA0NTExODAxNjhmNjIzOTk1ZTliNGU1MmU0MmEyOWFiNTVm`

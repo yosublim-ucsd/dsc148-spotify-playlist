@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. <br/> Cover:  <a href="spotify:artist:4rc8nzClXj7sUjvsHVg6AD">Naomi Raine</a> and <a href="spotify:artist:0liXA3xwx6pncxYQA30ahT">Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,586,716 likes - 102 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,586,861 likes - 102 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 101 | [Running Home](https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:42 |
 | 102 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
 
-Snapshot ID: `MCxlNGI0YjU2ZDY5N2UwOTc3MDNmZmM2ZmRjMGU1ODUzNGQ5NGI5OTUx`
+Snapshot ID: `MCxkNzMzM2MyMGY1NmI1YmQ2NDNlNGYzN2U2N2RiZjY5MGFjMGNkZmM1`

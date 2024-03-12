@@ -2,7 +2,7 @@
 
 ### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
 
-> Rock with a Drop\. Cover: Marshmello \\m/
+> Rock with a Drop\. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/
 
 382 songs - 21 hr 48 min
 

@@ -1,28 +1,28 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Wegh",
-  "num_followers": 1336437,
+  "num_followers": 1336579,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODQwZDRlMDU0MTViY2NmYTNjZDRiZjRmYjYyODRhMDYzNmQ0MGI1",
+  "snapshot_id": "MCwxNmI0OTQzMDVjNGYwYjY5YTljYTVkYTc0NDRmZjgyZTA0MmMwZmNi",
   "tracks": [
     {
       "added_at": "2024-03-07 21:00:00",
       "album": {
-        "name": "pVg",
-        "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
+        "name": "Kennedy'i Ben Vurdum",
+        "url": "https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq"
       },
       "artists": [
         {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
         }
       ],
-      "duration_ms": 243779,
-      "name": "pVg",
-      "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
+      "duration_ms": 138363,
+      "name": "Kennedy'i Ben Vurdum",
+      "url": "https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8"
     },
     {
       "added_at": "2024-03-07 21:00:00",
@@ -47,50 +47,18 @@
     {
       "added_at": "2024-03-07 21:00:00",
       "album": {
-        "name": "Kennedy'i Ben Vurdum",
-        "url": "https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq"
+        "name": "pVg",
+        "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
       },
       "artists": [
         {
-          "name": "Wegh",
-          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
         }
       ],
-      "duration_ms": 138363,
-      "name": "Kennedy'i Ben Vurdum",
-      "url": "https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8"
-    },
-    {
-      "added_at": "2024-03-07 21:00:00",
-      "album": {
-        "name": "IKARUS",
-        "url": "https://open.spotify.com/album/3cHnTYTcjEvbTVlPrVYny4"
-      },
-      "artists": [
-        {
-          "name": "\u015eehin\u015fah",
-          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "IKARUS",
-      "url": "https://open.spotify.com/track/70UianNaU6egim5vxSSPJT"
-    },
-    {
-      "added_at": "2024-03-07 21:00:00",
-      "album": {
-        "name": "B2LA",
-        "url": "https://open.spotify.com/album/2scj0YG10DXcGLkgQ3KvSw"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "B2LA",
-      "url": "https://open.spotify.com/track/4rz4fCQqbxjBQZW3cQXiL5"
+      "duration_ms": 243779,
+      "name": "pVg",
+      "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
     },
     {
       "added_at": "2024-03-07 21:00:00",
@@ -115,22 +83,90 @@
     {
       "added_at": "2024-03-07 21:00:00",
       "album": {
-        "name": "NOLYYRIC\u26e7",
-        "url": "https://open.spotify.com/album/1hLNbbg0oBy3QbTecWDidW"
+        "name": "IKARUS",
+        "url": "https://open.spotify.com/album/3cHnTYTcjEvbTVlPrVYny4"
       },
       "artists": [
         {
-          "name": "13 Killoki",
-          "url": "https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK"
-        },
-        {
-          "name": "SWIRF",
-          "url": "https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG"
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
         }
       ],
-      "duration_ms": 88590,
-      "name": "LYYRIC\u26e7 (Original 150mg)",
-      "url": "https://open.spotify.com/track/311vJ3PivHPW12YkV5sMjU"
+      "duration_ms": 218293,
+      "name": "IKARUS",
+      "url": "https://open.spotify.com/track/70UianNaU6egim5vxSSPJT"
+    },
+    {
+      "added_at": "2024-03-07 21:00:00",
+      "album": {
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Risk (feat. UZI & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3bYADKpgBpTUAYYPOslHtW"
+    },
+    {
+      "added_at": "2024-03-07 21:00:00",
+      "album": {
+        "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
+        "url": "https://open.spotify.com/album/75stAff8dVdEedkMHAsB74"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 156004,
+      "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
+      "url": "https://open.spotify.com/track/490MqlRWgEby3jzfYi8ULn"
+    },
+    {
+      "added_at": "2024-03-07 21:00:00",
+      "album": {
+        "name": "B2LA",
+        "url": "https://open.spotify.com/album/2scj0YG10DXcGLkgQ3KvSw"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "B2LA",
+      "url": "https://open.spotify.com/track/4rz4fCQqbxjBQZW3cQXiL5"
+    },
+    {
+      "added_at": "2024-03-07 21:00:00",
+      "album": {
+        "name": "MINI TERORISTA",
+        "url": "https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "MINI TERORISTA",
+      "url": "https://open.spotify.com/track/6kvf06eThDCrvYknMY32To"
     },
     {
       "added_at": "2024-03-07 21:00:00",
@@ -159,26 +195,46 @@
     {
       "added_at": "2024-03-07 21:00:00",
       "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
+        "name": "NOLYYRIC\u26e7",
+        "url": "https://open.spotify.com/album/1hLNbbg0oBy3QbTecWDidW"
       },
       "artists": [
         {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+          "name": "13 Killoki",
+          "url": "https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK"
         },
         {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "SWIRF",
+          "url": "https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG"
         }
       ],
-      "duration_ms": 191133,
-      "name": "Risk (feat. UZI & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/3bYADKpgBpTUAYYPOslHtW"
+      "duration_ms": 88590,
+      "name": "LYYRIC\u26e7 (Original 150mg)",
+      "url": "https://open.spotify.com/track/311vJ3PivHPW12YkV5sMjU"
+    },
+    {
+      "added_at": "2024-03-07 21:00:00",
+      "album": {
+        "name": "Gidemem",
+        "url": "https://open.spotify.com/album/1oXVgFvLiexNS48eLlEuLV"
+      },
+      "artists": [
+        {
+          "name": "Tefo",
+          "url": "https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low"
+        },
+        {
+          "name": "Seko",
+          "url": "https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh"
+        },
+        {
+          "name": "Kibariye",
+          "url": "https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90"
+        }
+      ],
+      "duration_ms": 148969,
+      "name": "Gidemem",
+      "url": "https://open.spotify.com/track/5VzWVTB0F3nVSK25OsJxVw"
     },
     {
       "added_at": "2024-03-07 21:00:00",
@@ -219,62 +275,6 @@
       "duration_ms": 162581,
       "name": "Her An\u0131m\u0131z Yalan",
       "url": "https://open.spotify.com/track/04NyI7FUO6arfT5KnoX9el"
-    },
-    {
-      "added_at": "2024-03-07 21:00:00",
-      "album": {
-        "name": "Gidemem",
-        "url": "https://open.spotify.com/album/1oXVgFvLiexNS48eLlEuLV"
-      },
-      "artists": [
-        {
-          "name": "Tefo",
-          "url": "https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low"
-        },
-        {
-          "name": "Seko",
-          "url": "https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh"
-        },
-        {
-          "name": "Kibariye",
-          "url": "https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90"
-        }
-      ],
-      "duration_ms": 148969,
-      "name": "Gidemem",
-      "url": "https://open.spotify.com/track/5VzWVTB0F3nVSK25OsJxVw"
-    },
-    {
-      "added_at": "2024-03-07 21:00:00",
-      "album": {
-        "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
-        "url": "https://open.spotify.com/album/75stAff8dVdEedkMHAsB74"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 156004,
-      "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
-      "url": "https://open.spotify.com/track/490MqlRWgEby3jzfYi8ULn"
-    },
-    {
-      "added_at": "2024-03-07 21:00:00",
-      "album": {
-        "name": "MINI TERORISTA",
-        "url": "https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG"
-      },
-      "artists": [
-        {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "MINI TERORISTA",
-      "url": "https://open.spotify.com/track/6kvf06eThDCrvYknMY32To"
     },
     {
       "added_at": "2024-03-07 21:00:00",

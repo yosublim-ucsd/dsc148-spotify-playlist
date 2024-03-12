@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 161720,
+  "2024-03-12": 161729,
   "date_first_scraped": "2023-02-25",
   "description": "De nieuwste Nederlandse pop! Cover: Zo\u00eb Livay",
   "name": "Je Moerstaal",
@@ -7855,10 +7855,28 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 202200,
       "name": "Tankstation",
       "url": "https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY"
+    },
+    {
+      "album": {
+        "name": "Tankstation",
+        "url": "https://open.spotify.com/album/57Iitonh5nrjh1BU8nn6LJ"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "Tankstation",
+      "url": "https://open.spotify.com/track/6l6QN2twTWU0nnhGJn76lR"
     },
     {
       "album": {

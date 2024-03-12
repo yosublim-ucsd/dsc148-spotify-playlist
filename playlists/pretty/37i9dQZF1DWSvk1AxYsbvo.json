@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13505,
+  "num_followers": 13513,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2RkYmMxY2Q0NTE0MTA4MTlmYWZhMDQ0NmE3M2FiZTcwN2YyMTk3",
+  "snapshot_id": "MCw1YWVhNmM0MjU1NjBhN2ZkZGYxMDA4OGQzNDljZDU0YTk1YjZkYzkz",
   "tracks": [
     {
       "added_at": "2024-03-08 06:34:29",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
+        "name": "sleepless nights (My Sweden Laundry #1)",
+        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "sleepless nights (My Sweden Laundry #1)",
+      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
         "name": "Lean On Me (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "sleepless nights (My Sweden Laundry #1)",
-        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "sleepless nights (My Sweden Laundry #1)",
-      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
         "name": "\ub108\ub294 \uc5b4\ub5bb\uac8c How Did You",
         "url": "https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E"
       },
@@ -355,22 +355,6 @@
       "duration_ms": 224736,
       "name": "Sapporo",
       "url": "https://open.spotify.com/track/0x0Ph3JNjxQ4I2qZalZaUQ"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
-        "name": "Winded",
-        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
-      },
-      "artists": [
-        {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Winded",
-      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -423,6 +407,22 @@
       "duration_ms": 400870,
       "name": "\uc548\ub155 Bye (feat. LeeHi)",
       "url": "https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
+        "name": "Winded",
+        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Winded",
+      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -563,38 +563,6 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
-        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
-      },
-      "artists": [
-        {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
-        }
-      ],
-      "duration_ms": 219939,
-      "name": "beautiful inside",
-      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
-        "name": "\uc228\uc744 \uc270\ub2e4 breathe breathe",
-        "url": "https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ"
-      },
-      "artists": [
-        {
-          "name": "parkjiyoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "\ub10c You - 2022 Album Remastered",
-      "url": "https://open.spotify.com/track/433VlbJeMs6InuQJZGfYnB"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
         "name": "What Should I do",
         "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
@@ -611,6 +579,22 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
+        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 219939,
+      "name": "beautiful inside",
+      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
         "name": "When It's Cold",
         "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 183824,
       "name": "When It\u2019s Cold",
       "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
+        "name": "\uc228\uc744 \uc270\ub2e4 breathe breathe",
+        "url": "https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "\ub10c You - 2022 Album Remastered",
+      "url": "https://open.spotify.com/track/433VlbJeMs6InuQJZGfYnB"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
-        "name": "PLAYLIST (Original Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
         "name": "Don't Know",
         "url": "https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-03-08 06:34:29",
       "album": {
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
         "name": "i and i",
         "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 178493,
       "name": "i and i",
       "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
-    },
-    {
-      "added_at": "2024-03-08 06:34:29",
-      "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "To My Friend",
-      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     },
     {
       "added_at": "2024-03-08 06:34:29",
@@ -771,6 +755,22 @@
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
+    },
+    {
+      "added_at": "2024-03-08 06:34:29",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "To My Friend",
+      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     },
     {
       "added_at": "2024-03-08 06:34:29",

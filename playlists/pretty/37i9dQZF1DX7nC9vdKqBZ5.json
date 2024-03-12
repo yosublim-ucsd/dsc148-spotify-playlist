@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1522202,
+  "num_followers": 1522256,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDhmMTJkNWQ0YTkxODNiZGViNmRiNjRhZmIwNzA2MjdmNjlhYzAx",
+  "snapshot_id": "MCxjMTE0ZmZhMWIzNGFjZTMzMzBlMmJlMDU4YjkxYmQwNTZiNGM3NGU2",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -59,22 +59,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Deixa (feat. Ana Gabriela)",
-        "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
+        "name": "Cheiro do Mato (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/58UBmFSA3MNkDloRrt2Mxr"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
         }
       ],
-      "duration_ms": 176025,
-      "name": "Deixa (feat. Ana Gabriela)",
-      "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4XcWXKMKp53c8OU3HHlxgL"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -95,18 +91,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Cheiro do Mato (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/58UBmFSA3MNkDloRrt2Mxr"
+        "name": "Deixa (feat. Ana Gabriela)",
+        "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
       "artists": [
         {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 322736,
-      "name": "Amor e F\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4XcWXKMKp53c8OU3HHlxgL"
+      "duration_ms": 176025,
+      "name": "Deixa (feat. Ana Gabriela)",
+      "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "M\u00fasica Popular Cai\u00e7ara: Edi\u00e7\u00e3o Luxo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6oXMHZ4TuFId1OgRb4Eb3Y"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "C\u00e9u Azul - Ao Vivo",
-      "url": "https://open.spotify.com/track/1z1EeTXwnz3gvoUvzvkkdw"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "M\u00fasica Popular Cai\u00e7ara: Edi\u00e7\u00e3o Luxo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6oXMHZ4TuFId1OgRb4Eb3Y"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 200071,
+      "name": "C\u00e9u Azul - Ao Vivo",
+      "url": "https://open.spotify.com/track/1z1EeTXwnz3gvoUvzvkkdw"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 252789,
+      "name": "Sentimento - Ao vivo",
+      "url": "https://open.spotify.com/track/0vaISMFBEhY4ssii1zCGUQ"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Eu Feat. Voc\u00ea",
         "url": "https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 214249,
       "name": "Cabelo De Anjo",
       "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 252789,
-      "name": "Sentimento - Ao vivo",
-      "url": "https://open.spotify.com/track/0vaISMFBEhY4ssii1zCGUQ"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -343,22 +343,6 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 192714,
-      "name": "Agora Eu Quero Ir",
-      "url": "https://open.spotify.com/track/0wHLjfLyc26xILjHVMGIHN"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -411,6 +395,22 @@
       "duration_ms": 198193,
       "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/0wHLjfLyc26xILjHVMGIHN"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Ac\u00fastico MTV",
-        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 296773,
-      "name": "Os Cegos do Castelo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
         "url": "https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 245538,
       "name": "relic\u00e1rio",
       "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico MTV",
+        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "Os Cegos do Castelo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "VI",
-        "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Por Onde Voc\u00ea Anda?",
-      "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "OutroEu",
         "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 258720,
       "name": "Ai de Mim",
       "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "VI",
+        "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Por Onde Voc\u00ea Anda?",
+      "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Coisa Linda - Ao Vivo",
-      "url": "https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -803,22 +787,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 145304,
-      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
@@ -835,6 +803,38 @@
       "duration_ms": 237696,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 145304,
+      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Coisa Linda - Ao Vivo",
+      "url": "https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Casa de Praia 2 (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Pijama - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/2mi7uRYUk8qaBvGWAuuIbH"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 215340,
       "name": "Amar Amei - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5D0TL90eyFI27ucNfIemko"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Casa de Praia 2 (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Pijama - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Todas as Praias (Ax\u00e9) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4Z8nVx6G8nEpbhVjMqtiIz"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
         "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 191839,
       "name": "Certeza - Ao Vivo",
       "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Todas as Praias (Ax\u00e9) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Z8nVx6G8nEpbhVjMqtiIz"
     },
     {
       "added_at": "2023-10-13 03:00:00",

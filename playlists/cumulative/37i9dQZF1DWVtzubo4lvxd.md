@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-253 songs - 9 hr 48 min
+254 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 | 2022-04-15 | 2022-07-29 |
 | [another.wun](https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [another.wun](https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS) | 1:45 | 2022-04-15 |  |
 | [another.wun](https://open.spotify.com/track/6auvpJaVDpfgtYnpNwqF2x) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [another.wun](https://open.spotify.com/album/2nsg6lRwaX0YxvpPlUOeX7) | 1:45 | 2022-04-15 | 2022-12-15 |
-| [Atlantic.Wav](https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [Atlantic.Wav](https://open.spotify.com/album/2gzZTSiK4sGXGe2xyy6Kyk) | 2:17 | 2022-04-15 |  |
+| [Atlantic.Wav](https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [Atlantic.Wav](https://open.spotify.com/album/2gzZTSiK4sGXGe2xyy6Kyk) | 2:17 | 2022-04-15 | 2024-03-12 |
 | [Autumn Chills](https://open.spotify.com/track/1Mg5n0Gvx8PphL8ZpJVKyT) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Autumn Chills](https://open.spotify.com/album/0LeD9H3MwdhpdQRdLtEPBE) | 1:54 | 2022-04-15 | 2023-07-13 |
 | [Autumn Chills](https://open.spotify.com/track/1QeNanRwlzQT8gQ2RDsSqP) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Autumn Chills](https://open.spotify.com/album/6YwhevuTpiBj2f4ABjntyF) | 1:54 | 2022-04-15 | 2022-11-21 |
 | [Autumn Chills](https://open.spotify.com/track/75reExYuxnJtFw5HYdR4ZW) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Jazzterfield](https://open.spotify.com/album/5CkqnEDMBl32m3lkZWRsxe) | 1:54 | 2022-04-15 | 2022-07-29 |
@@ -52,6 +52,7 @@
 | [crush on you](https://open.spotify.com/track/5nwZjXqJNYVJHV4uLqYxcG) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/7w1VLFYPh1KxlgvRhnqQtv) | 1:24 | 2022-04-15 | 2022-12-07 |
 | [crush on you](https://open.spotify.com/track/5VcEDw61pCPNiSjqh9cNwN) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s), [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B) | [crush on you](https://open.spotify.com/album/2t8wIgXAwnWnfvdat3nXjR) | 1:24 | 2022-04-15 | 2024-02-04 |
 | [crush on you](https://open.spotify.com/track/3Cc3LdR3jKVhd4QFg6giXD) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s) | [crush on you](https://open.spotify.com/album/1JTdnT0NeG7mRf64KXmIE0) | 1:24 | 2022-04-15 | 2024-01-20 |
+| [Crush on You](https://open.spotify.com/track/3qbkNOfupIxZBuhCm7YGMy) | [Stolast](https://open.spotify.com/artist/3qsMMCUdmNO97QnFQxsmY6) | [Crush on You](https://open.spotify.com/album/3nKsQItD6HUjL1khVAHK8s) | 1:24 | 2022-04-15 |  |
 | [Cujo](https://open.spotify.com/track/4reSkHtZwtc3dGnmG8blkE) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Cujo](https://open.spotify.com/album/3hWNMSeDkARnpSCgmQUyLF) | 1:40 | 2022-04-15 | 2022-07-29 |
 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 | 2022-04-15 |  |
 | [Daydream](https://open.spotify.com/track/4zf41XjqWlQPJOqQIVX3Xw) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ), [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC) | [Hide Away](https://open.spotify.com/album/6LUJ3AHJDYiP4mhsfIRh9t) | 2:48 | 2022-04-15 | 2022-07-24 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 1929,
+  "2024-03-12": 1931,
   "date_first_scraped": "2022-05-30",
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
@@ -897,7 +897,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 162785,
       "name": "Dwarf",
       "url": "https://open.spotify.com/track/0r3u5kfZhNaIDOYEtcYhul"
@@ -1543,7 +1543,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 276146,
       "name": "Llanto",
       "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 43468,
       "name": "Marley Bell",
       "url": "https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn"
@@ -2387,7 +2387,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 171589,
       "name": "See Them Out There",
       "url": "https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP"
@@ -3117,7 +3117,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 510912,
       "name": "The War on the Poor",
       "url": "https://open.spotify.com/track/0QzXHnMXyxyMei1sYboG6E"
@@ -3225,7 +3225,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 592026,
       "name": "Zamorra",
       "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"

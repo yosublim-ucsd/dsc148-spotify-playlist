@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Nahaze\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,487 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,498 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 60 | [DIAMANTI](https://open.spotify.com/track/4L55Pn45FpcUCrBH7EN24p) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [DIAMANTI](https://open.spotify.com/album/21ZS1meqFOHjtm9uL85pK9) | 2:36 |
 | 61 | [La parte più bella di me \- RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 |
 
-Snapshot ID: `MCxkMGU0NDUzNTgyY2Y3YTQ5YzExYWQ3NDdiMGM1ZWVmMmY5NDZhMWU0`
+Snapshot ID: `MCxkNjgyYjNlOTQ3OTcyMzA1NmMxMWEyYTRhYjhmYjhiNGI2ZWM1NTUw`

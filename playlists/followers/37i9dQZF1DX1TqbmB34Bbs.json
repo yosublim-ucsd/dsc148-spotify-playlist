@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 18263,
+  "2024-03-12": 18263,
   "date_first_scraped": "2022-05-30",
   "description": "Illest hardcore K-hip hop tracks are here. (Cover: Daniel Jikal(\ub2e4\ub2c8\uc5d8 \uc9c0\uce7c)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 271937,
       "name": "+82 Bars",
       "url": "https://open.spotify.com/track/2J5fF0d4ePNQfPRIS1LGJU"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 125226,
       "name": "5 Gawd Remix",
       "url": "https://open.spotify.com/track/2c119fwkd1qbsx2ZpQgmnJ"
@@ -18196,6 +18196,32 @@
     },
     {
       "album": {
+        "name": "Upgrade V",
+        "url": "https://open.spotify.com/album/1uukXrk6p4B3oNbgkmUgRk"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        },
+        {
+          "name": "Street Baby",
+          "url": "https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213173,
+      "name": "PORN FLICK (Feat. YANGHONGWON, Street Baby) (Prod. Matt)",
+      "url": "https://open.spotify.com/track/2Qvr1LlQyKexI7eCUm1l6x"
+    },
+    {
+      "album": {
         "name": "Porsche (Feat. Owen, Loopy)",
         "url": "https://open.spotify.com/album/0N9j6s2Vt7uvfSDN1ydukE"
       },
@@ -25877,6 +25903,24 @@
       "duration_ms": 203546,
       "name": "WON",
       "url": "https://open.spotify.com/track/3TPXLtxrAkSKNxuRExwzYE"
+    },
+    {
+      "album": {
+        "name": "Upgrade V",
+        "url": "https://open.spotify.com/album/1uukXrk6p4B3oNbgkmUgRk"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159813,
+      "name": "WORK",
+      "url": "https://open.spotify.com/track/0gINJfVy7dCxkSwrJmH0u2"
     },
     {
       "album": {

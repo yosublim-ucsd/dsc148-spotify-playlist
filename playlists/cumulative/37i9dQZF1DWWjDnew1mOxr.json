@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: The Snuts",
+  "description": "Boss music for boss people. Cover: Catfish & The Bottlemen",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 125213,
       "name": "Afternoon",
       "url": "https://open.spotify.com/track/76Ae2kmof1uEsE0uMmE5tC"
+    },
+    {
+      "album": {
+        "name": "All You'll Ever Be",
+        "url": "https://open.spotify.com/album/3yNSpndtwZkdsIqeavzrCB"
+      },
+      "artists": [
+        {
+          "name": "The Native",
+          "url": "https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228881,
+      "name": "All You'll Ever Be",
+      "url": "https://open.spotify.com/track/55EIz1KqJdfTqZ5lZFNKGX"
     },
     {
       "album": {
@@ -369,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Black and Blue",
+        "url": "https://open.spotify.com/album/3Fb2CtRLLUdvTrvnODxW5u"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206122,
+      "name": "Black and Blue",
+      "url": "https://open.spotify.com/track/0ZjSPaQetMbISiOX29JPCa"
+    },
+    {
+      "album": {
         "name": "Black Cat",
         "url": "https://open.spotify.com/album/4nbnUaUzLFai1ZW3SP8vOb"
       },
@@ -614,7 +650,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 193426,
       "name": "Cavalryman",
       "url": "https://open.spotify.com/track/3JDeaSeCZi33RvPNZOTdIf"
@@ -3362,7 +3398,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 199513,
       "name": "somebody to talk about",
       "url": "https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz"
@@ -3463,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/3wEckVQAgY7X74TqBlvvpg"
+      },
+      "artists": [
+        {
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191635,
+      "name": "Talk of the Town - Radio Edit",
+      "url": "https://open.spotify.com/track/0OQAreS9Acr21Py2yr0hNb"
+    },
+    {
+      "album": {
         "name": "That Was A Joke",
         "url": "https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF"
       },
@@ -3492,7 +3546,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 252035,
       "name": "The Back Seat",
       "url": "https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ"

@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 1260888,
+  "2024-03-12": 1261088,
   "date_first_scraped": "2021-12-28",
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: The Cure",
   "name": "Alternative 90s",
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 236960,
       "name": "Country House - 2012 Remaster",
       "url": "https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb"
@@ -3933,7 +3933,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 461946,
       "name": "Tender",
       "url": "https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6"

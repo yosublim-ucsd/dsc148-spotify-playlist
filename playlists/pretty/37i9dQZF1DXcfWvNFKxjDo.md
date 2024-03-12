@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVA CROWN, CERES
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,568 likes - 79 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,697 likes - 79 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 78 | [Cette Nuit](https://open.spotify.com/track/7LkDWtNdibnLYn2mLWsZQW) | [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF), [KLEPTO](https://open.spotify.com/artist/7z1D2CiuB9P0F51HLjo8h1) | [Cette Nuit](https://open.spotify.com/album/3H4AsS6y9tWzmCJ7UdCkvg) | 2:05 |
 | 79 | [Trembling Love](https://open.spotify.com/track/1qELZ89k1seR1mzHpaFjjh) | [Eveek](https://open.spotify.com/artist/4Eei141tHJhmr3vvM8iHfw), [TOM](https://open.spotify.com/artist/3gL1pO7pQ2jVvii2nOlGpU), [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Trembling Love](https://open.spotify.com/album/7Fz3TRth85l8vjZTAv0rqL) | 2:35 |
 
-Snapshot ID: `MCw3MzhhNDhlNmE1M2NlNDc1ZjkwMDBiZWQ1MmVlM2UyYWRmZmQ5M2Fj`
+Snapshot ID: `MCwyMGMxYWNkM2ExM2M3NmY4Yzk0OTM2Mzg5ODI2YTA4NDgwNGE4ODBh`

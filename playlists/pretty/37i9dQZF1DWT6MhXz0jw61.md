@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Erick The Architect
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,310,322 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310,421 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Issues](https://open.spotify.com/track/2691Dfg2PDNQmVSguPUDP8) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Issues](https://open.spotify.com/album/2dwXtTmetx1aqBXOXawsZI) | 2:59 |
 | 100 | [SINCE ELEMENTARY](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [SINCE ELEMENTARY](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
 
-Snapshot ID: `MCxhMTA0NmJlN2JlZDcyYmU2ZTFjMTNjNmNiMDUwOGVkOWZjZWZhYzdk`
+Snapshot ID: `MCw2Y2FiYTUyZTZhMjljZjU0OGI0MDAwNzk3ZTczOTFlZmE4YWMzNTRk`

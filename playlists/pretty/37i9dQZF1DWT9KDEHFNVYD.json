@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 11799,
+  "num_followers": 11801,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzI0NDA2MWM3YWQxZmMwNDI5YTRmOWNiNWRmYWQxNzhlY2JhNGQz",
+  "snapshot_id": "MCwyYjcyY2NmN2FiMzMwYjZlZmIxNjk4N2VkMjY4MmM0MzA5ODM5Njdm",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ege Bamyasi (Remastered Version)",
-        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
-      },
-      "artists": [
-        {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
-        }
-      ],
-      "duration_ms": 214066,
-      "name": "Vitamin C - 2004 Remastered Version",
-      "url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 236746,
       "name": "Blankenship",
       "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Ege Bamyasi (Remastered Version)",
+        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
+      },
+      "artists": [
+        {
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+        }
+      ],
+      "duration_ms": 214066,
+      "name": "Vitamin C - 2004 Remastered Version",
+      "url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -219,18 +219,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zitilites",
-        "url": "https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c"
+        "name": "Flying Microtonal Banana",
+        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
       },
       "artists": [
         {
-          "name": "Kashmir",
-          "url": "https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 266546,
-      "name": "Surfing The Warm Industry",
-      "url": "https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ"
+      "duration_ms": 468093,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
     },
     {
       "added_at": "2024-02-02 05:39:17",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Flying Microtonal Banana",
-        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
+        "name": "Zitilites",
+        "url": "https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Kashmir",
+          "url": "https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu"
         }
       ],
-      "duration_ms": 468093,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
+      "duration_ms": 266546,
+      "name": "Surfing The Warm Industry",
+      "url": "https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
+        "name": "Rose City Band",
+        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Rose City Band",
+          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
         }
       ],
-      "duration_ms": 387786,
-      "name": "We Carry On",
-      "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
+      "duration_ms": 394323,
+      "name": "Rivers of Mind",
+      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
     },
     {
       "added_at": "2024-02-23 00:15:43",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Rose City Band",
-        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
+        "name": "Third",
+        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
       },
       "artists": [
         {
-          "name": "Rose City Band",
-          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 394323,
-      "name": "Rivers of Mind",
-      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
+      "duration_ms": 387786,
+      "name": "We Carry On",
+      "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -607,6 +607,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Silver Apples",
         "url": "https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya"
       },
@@ -623,18 +639,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
+        "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Andrea Balency",
+          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
         }
       ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
+      "duration_ms": 334979,
+      "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
+      "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -715,26 +735,6 @@
       "duration_ms": 189040,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
-        "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Andrea Balency",
-          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
-        }
-      ],
-      "duration_ms": 334979,
-      "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
-      "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
     },
     {
       "added_at": "2022-08-09 01:36:21",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "The Power Out",
+        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Love Builds Up",
+      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Chinese Restaurant",
         "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
       },
@@ -1099,38 +1115,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Toy",
-        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
-      },
-      "artists": [
-        {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "Motoring",
-      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "The Power Out",
-        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Love Builds Up",
-      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 311600,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
+      },
+      "artists": [
+        {
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Motoring",
+      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
     },
     {
       "added_at": "2022-03-04 01:55:34",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": ">>>",
-        "url": "https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn"
-      },
-      "artists": [
-        {
-          "name": "Beak>",
-          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
-        }
-      ],
-      "duration_ms": 231377,
-      "name": "Brean Down",
-      "url": "https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Panther Rotate",
         "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
       },
@@ -1277,20 +1261,20 @@
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
     },
     {
-      "added_at": "2022-03-18 05:36:55",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+        "name": ">>>",
+        "url": "https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn"
       },
       "artists": [
         {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+          "name": "Beak>",
+          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
         }
       ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
+      "duration_ms": 231377,
+      "name": "Brean Down",
+      "url": "https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn"
     },
     {
       "added_at": "2023-01-12 03:40:17",
@@ -1307,6 +1291,22 @@
       "duration_ms": 221893,
       "name": "Panic In The Isles Of Splendor",
       "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
+      "added_at": "2022-03-18 05:36:55",
+      "album": {
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
     },
     {
-      "added_at": "2023-09-04 19:37:16",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 310093,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
-    },
-    {
       "added_at": "2022-03-29 02:06:14",
       "album": {
         "name": "QUAKENBR\u00dcCK [Version]",
@@ -1531,6 +1515,22 @@
       "duration_ms": 279601,
       "name": "Quakenbr\u00fcck - version",
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
+    },
+    {
+      "added_at": "2023-09-04 19:37:16",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 310093,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
       "added_at": "2021-07-30 14:56:06",

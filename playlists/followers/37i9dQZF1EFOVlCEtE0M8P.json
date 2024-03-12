@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 981,
+  "2024-03-12": 989,
   "date_first_scraped": "2024-03-08",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1\">Jennifer Decilveo</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Jennifer Decilveo",
@@ -884,6 +884,24 @@
     },
     {
       "album": {
+        "name": "Doing Better",
+        "url": "https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153746,
+      "name": "Doing Better",
+      "url": "https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc"
+    },
+    {
+      "album": {
         "name": "MERIDIAN",
         "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
       },
@@ -979,6 +997,24 @@
       "duration_ms": 178224,
       "name": "Enfer",
       "url": "https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei"
+    },
+    {
+      "album": {
+        "name": "Eras Of Us",
+        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168668,
+      "name": "Eras Of Us",
+      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10552,
+  "num_followers": 10554,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmZjYTQwNzg0ZDEyMjU4ZTQwYmFjZWRhYTk4MDg5MWM0YmJkYzNh",
+  "snapshot_id": "MCw1OGQzMThkNjg3ZDgzNWNlNzMyOTMzNGY4ODJjM2NiODA1NzA0YTk4",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -227,6 +227,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Live Songs",
+        "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Passing Through - Live",
+      "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Leonard Cohen: I'm Your Man",
         "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 241666,
       "name": "Bird On A Wire",
       "url": "https://open.spotify.com/track/0iBSH25UyYu5Wu3WZHOZMx"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Live Songs",
-        "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Passing Through - Live",
-      "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -355,6 +355,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Be for Real",
+      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Be for Real",
-      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Ron Sexsmith",
         "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
       },
@@ -491,6 +491,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 482493,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s",
         "url": "https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 246760,
       "name": "Story Of Isaac",
       "url": "https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 482493,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -585,38 +585,6 @@
       "url": "https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV"
     },
     {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Songs I Love Vol.1",
-        "url": "https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF"
-      },
-      "artists": [
-        {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "Who By Fire",
-      "url": "https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Tower of Song",
-        "url": "https://open.spotify.com/album/2H1XuZINLqrAIFhETlDzKu"
-      },
-      "artists": [
-        {
-          "name": "Henry Wagons",
-          "url": "https://open.spotify.com/artist/3jRsf763TfMHcHVvRhE2TK"
-        }
-      ],
-      "duration_ms": 213019,
-      "name": "Tower of Song",
-      "url": "https://open.spotify.com/track/7kwr5jYEbgw2yf2NAzQSWc"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "You Want It Darker",
@@ -639,6 +607,54 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Songs I Love Vol.1",
+        "url": "https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF"
+      },
+      "artists": [
+        {
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "Who By Fire",
+      "url": "https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Dear Heather",
+        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Tower of Song",
+        "url": "https://open.spotify.com/album/2H1XuZINLqrAIFhETlDzKu"
+      },
+      "artists": [
+        {
+          "name": "Henry Wagons",
+          "url": "https://open.spotify.com/artist/3jRsf763TfMHcHVvRhE2TK"
+        }
+      ],
+      "duration_ms": 213019,
+      "name": "Tower of Song",
+      "url": "https://open.spotify.com/track/7kwr5jYEbgw2yf2NAzQSWc"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Sings Leonard Cohen",
         "url": "https://open.spotify.com/album/1es9chKTaPwJHhMRnsJC4a"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 263466,
       "name": "In My Secret Life",
       "url": "https://open.spotify.com/track/6qwLJ7MfY235DPBO9PbGQL"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Bird on the Wire: The Songs of Leonard Cohen",
-        "url": "https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz"
-      },
-      "artists": [
-        {
-          "name": "Perla Batalla",
-          "url": "https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd"
-        }
-      ],
-      "duration_ms": 376946,
-      "name": "Ballad of the Absent Mare",
-      "url": "https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC"
     }
   ],
   "unique_name": "Leonard Cohen: Covered",

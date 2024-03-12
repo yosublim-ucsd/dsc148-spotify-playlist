@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 1,176 songs - 2 day 17 hr 39 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 1,177 songs - 2 day 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1184,5 +1184,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1174 | [no limit](https://open.spotify.com/track/5467IDDBHQNm4Nd8b7I1XK) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [no limit](https://open.spotify.com/album/0JleTPyQkeBUI6EGAJYcKG) | 3:24 |
 | 1175 | [Activation](https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Activation](https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES) | 2:55 |
 | 1176 | [BIYF](https://open.spotify.com/track/2hSvnFgEnPeBpamTT6uKrI) | [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT) | [BIYF](https://open.spotify.com/album/23bpWrc7BYWRksui9A8maN) | 2:37 |
+| 1177 | [Maniac](https://open.spotify.com/track/6MF9azgLJJ0JnWGF825liQ) | [Neutronix](https://open.spotify.com/artist/0DIzzJ1buMRNtrsAad0K40) | [Maniac](https://open.spotify.com/album/76lj2EbgZpE758nuG7lBtS) | 2:24 |
 
-Snapshot ID: `MTIxOSwyOTQ0MjI0MWY1YzczMTk1NjVmZTIzMjk0MTc0ZTBjZTZiMzdmY2M4`
+Snapshot ID: `MTIyMCw3MzZjMDAwN2I4YjM5OTVjZTE3NzY1NzZhOWMzMjIyNWVmZmE4MDM3`

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-598 songs - 1 day 5 hr 44 min
+599 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Still Want More](https://open.spotify.com/track/5hUo9HsV4UTUYFLbv411qA) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq) | [Still Want More](https://open.spotify.com/album/06Jb0ksKDRgkHT99MEhjTL) | 2:52 | 2023-08-18 | 2023-09-26 |
 | [Stompin'](https://open.spotify.com/track/6vX3yVd2YIcaKZamN9q0Lz) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Stompin'](https://open.spotify.com/album/7Dnc7LfmU5Udoq5GDODc6M) | 3:07 | 2023-11-17 |  |
 | [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/track/1KrqHhPJFuN9RNqNycwUdx) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/album/1lQk3JKq0iz3u8PO8ckF5l) | 2:42 | 2024-02-29 |  |
+| [Stop](https://open.spotify.com/track/5yyeiEZfWlDN6baL4RWpck) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Stop](https://open.spotify.com/album/2ly2gMYkdPRP3CUrydtkDo) | 2:41 | 2024-03-11 |  |
 | [STRESS \- Andry J Remix](https://open.spotify.com/track/2Zie9bbu0a4d8n4AHMuQjN) | [YuB](https://open.spotify.com/artist/4jebwGrnlyNNecjXMuIxqi), [DJ Keys](https://open.spotify.com/artist/6dE1DevqS4To8Mb5VuvTbL), [Andry J](https://open.spotify.com/artist/2hAfluo80uBMGpmRI1kLF7) | [STRESS \(Andry J Remix\)](https://open.spotify.com/album/2m4fi5kR9BNloNaIS0hkeF) | 2:20 | 2023-03-31 | 2023-04-15 |
 | [Sublime](https://open.spotify.com/track/4mYFelexMuf7kgSbGBdbJv) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO) | [Sublime](https://open.spotify.com/album/4rxSLDjau3Kqk1cPspR3bv) | 2:55 | 2024-02-09 |  |
 | [SUCK](https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCK](https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF) | 2:20 | 2023-06-19 | 2023-07-14 |

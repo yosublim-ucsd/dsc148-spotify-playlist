@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTQxNyxmY2VlODQ0MGQ0MmFjNDY3NWJmNTUzMjViZTA0ODZhNmJlNmVjMzkx",
+  "snapshot_id": "MTQyNCwyYmJjMjMwYzMxNTBmOTdhNTEyMmRlOTdhYTg2MzJmMDQ2ZjJhOGE0",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -5013,22 +5013,6 @@
       "url": "https://open.spotify.com/track/23UUCJfCR7V19EszpVctmK"
     },
     {
-      "added_at": "2024-01-04 08:21:52",
-      "album": {
-        "name": "Not Real",
-        "url": "https://open.spotify.com/album/4J2or5UZfwCFPtPOobZwZQ"
-      },
-      "artists": [
-        {
-          "name": "Stealing Sheep",
-          "url": "https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Sequence",
-      "url": "https://open.spotify.com/track/1sxLbBQVXUvFRkEMiHjQ99"
-    },
-    {
       "added_at": "2024-01-04 08:24:46",
       "album": {
         "name": "Patience",
@@ -7783,6 +7767,102 @@
       "duration_ms": 207468,
       "name": "Time Ain't Accidental",
       "url": "https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ"
+    },
+    {
+      "added_at": "2024-03-11 02:59:47",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 105533,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/76u71tQ2GALnwY0VJyOu83"
+    },
+    {
+      "added_at": "2024-03-11 04:00:31",
+      "album": {
+        "name": "Rare Feeling",
+        "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
+      },
+      "artists": [
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "duration_ms": 320548,
+      "name": "Solar Pilgrim",
+      "url": "https://open.spotify.com/track/1UhfqG8us3X5rygBwy4POa"
+    },
+    {
+      "added_at": "2024-03-11 19:01:08",
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241853,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC"
+    },
+    {
+      "added_at": "2024-03-11 23:52:42",
+      "album": {
+        "name": "Sweet Heart Sweet Light",
+        "url": "https://open.spotify.com/album/4hrpqNai22Fpg51cmHmUCm"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 61133,
+      "name": "Huh? (Intro)",
+      "url": "https://open.spotify.com/track/2KlgoBhIRYyGt0BbOeyjlN"
+    },
+    {
+      "added_at": "2024-03-11 23:52:49",
+      "album": {
+        "name": "The Mysterious Production of Eggs",
+        "url": "https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 299653,
+      "name": "A Nervous Tic Motion of the Head to the Left",
+      "url": "https://open.spotify.com/track/6SjXkEmPg9jP66HsWbK2A0"
+    },
+    {
+      "added_at": "2024-03-11 23:55:20",
+      "album": {
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/3bOrSzGgJnjGOa9kOybRCs"
+      },
+      "artists": [
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        }
+      ],
+      "duration_ms": 23440,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/2cOUR3ruOEkI5EPRB8sWTe"
     }
   ],
   "unique_name": "Zacklog",

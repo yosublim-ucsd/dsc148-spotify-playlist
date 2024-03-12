@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 1733149,
+  "2024-03-12": 1733088,
   "date_first_scraped": "2023-10-15",
   "description": "Tu karaoke personal para darlo todo cantando.",
   "name": "Karaoke 2024",
@@ -2727,7 +2727,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 231813,
       "name": "Son de Amores",
       "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
@@ -3089,7 +3089,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 185106,
       "name": "That's the Way (I Like It) - 2004 Remaster",
       "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"

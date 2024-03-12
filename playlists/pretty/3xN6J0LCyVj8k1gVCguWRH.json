@@ -6,8 +6,60 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "Nzc2NyxlODkzODQxM2FkYzc4NzAyMzdlZGIzOGExNTc5ZDJmODg5NTJkOWE2",
+  "snapshot_id": "Nzc4MywxMWM4ZDM4MDMyODJhNzM5OWJjODA0YjRkZGZiZjUyNDUyMjFkNzhl",
   "tracks": [
+    {
+      "added_at": "2024-03-12 00:11:06",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
+    },
+    {
+      "added_at": "2024-03-12 00:21:20",
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2024-03-11 14:10:39",
+      "album": {
+        "name": "Fabric of Dreams",
+        "url": "https://open.spotify.com/album/2OqNX2RvhoN3bRiay6cDrL"
+      },
+      "artists": [
+        {
+          "name": "Joy Bogat",
+          "url": "https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg"
+        }
+      ],
+      "duration_ms": 219775,
+      "name": "Milk and Honey",
+      "url": "https://open.spotify.com/track/66NOUPPKKNK0WF5clNOoBX"
+    },
     {
       "added_at": "2023-07-20 21:11:20",
       "album": {
@@ -481,26 +533,6 @@
       "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
-      "added_at": "2024-03-10 00:00:49",
-      "album": {
-        "name": "Things You Do (ALWZ SNNY Remix)",
-        "url": "https://open.spotify.com/album/13MeUCeGSRNH6TchgVdtlC"
-      },
-      "artists": [
-        {
-          "name": "Parker Matthews",
-          "url": "https://open.spotify.com/artist/0ooRSJF7rQhoaLpHq0VBtb"
-        },
-        {
-          "name": "Alwz Snny",
-          "url": "https://open.spotify.com/artist/46O431V3IfnBwEDudtheNw"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Things You Do - ALWZ SNNY Remix",
-      "url": "https://open.spotify.com/track/5JOFTV2T9viwtDOw0P4T8W"
-    },
-    {
       "added_at": "2023-07-20 21:40:50",
       "album": {
         "name": "Oh Mercy",
@@ -531,6 +563,22 @@
       "duration_ms": 256866,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/5jkd3e1qgmsTWJm3NvQ7X4"
+    },
+    {
+      "added_at": "2024-03-12 01:23:04",
+      "album": {
+        "name": "Afraid Of Love",
+        "url": "https://open.spotify.com/album/6SUkomHCMylDL1QnhWfHxq"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Afraid Of Love",
+      "url": "https://open.spotify.com/track/3bAw3BSH1bEiQkKDI7PrMe"
     },
     {
       "added_at": "2023-07-20 21:42:35",
@@ -2169,6 +2217,54 @@
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
     },
     {
+      "added_at": "2024-03-11 23:32:30",
+      "album": {
+        "name": "Dreamers Ball",
+        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Poole",
+          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
+        }
+      ],
+      "duration_ms": 283960,
+      "name": "Dreamers Ball",
+      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
+    },
+    {
+      "added_at": "2024-03-11 22:32:05",
+      "album": {
+        "name": "El Efectivo",
+        "url": "https://open.spotify.com/album/4kw3OLTzF70nrOJOAHC8bX"
+      },
+      "artists": [
+        {
+          "name": "Axell Vi",
+          "url": "https://open.spotify.com/artist/0mp4hhZGTs9UADnWGoXRCJ"
+        }
+      ],
+      "duration_ms": 184411,
+      "name": "El Efectivo",
+      "url": "https://open.spotify.com/track/2GvMgNyf7dTKvs82xLRzsm"
+    },
+    {
+      "added_at": "2024-03-11 17:31:07",
+      "album": {
+        "name": "Tainted Skies",
+        "url": "https://open.spotify.com/album/47qj6YzwEVdMBlYcB8V5rm"
+      },
+      "artists": [
+        {
+          "name": "O.One",
+          "url": "https://open.spotify.com/artist/0kLVcfYrCVBim1Epi47oBo"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Tainted Skies",
+      "url": "https://open.spotify.com/track/0r0aeH7krnKE4NKMaY75mM"
+    },
+    {
       "added_at": "2024-03-10 20:31:32",
       "album": {
         "name": "INTOXICATED",
@@ -2199,6 +2295,26 @@
       "duration_ms": 164999,
       "name": "Hace Calor",
       "url": "https://open.spotify.com/track/4rHonGCjoqsUUvsdPvwRI7"
+    },
+    {
+      "added_at": "2024-03-10 00:00:49",
+      "album": {
+        "name": "Things You Do (ALWZ SNNY Remix)",
+        "url": "https://open.spotify.com/album/13MeUCeGSRNH6TchgVdtlC"
+      },
+      "artists": [
+        {
+          "name": "Parker Matthews",
+          "url": "https://open.spotify.com/artist/0ooRSJF7rQhoaLpHq0VBtb"
+        },
+        {
+          "name": "Alwz Snny",
+          "url": "https://open.spotify.com/artist/46O431V3IfnBwEDudtheNw"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Things You Do - ALWZ SNNY Remix",
+      "url": "https://open.spotify.com/track/5JOFTV2T9viwtDOw0P4T8W"
     },
     {
       "added_at": "2024-03-09 15:32:51",
@@ -2369,22 +2485,6 @@
       "url": "https://open.spotify.com/track/0XjVXSVRHXD9fykj6yYJmT"
     },
     {
-      "added_at": "2024-03-07 06:37:52",
-      "album": {
-        "name": "Send My Soul to Texas",
-        "url": "https://open.spotify.com/album/52AaBhUOJUYDEHvxcnCqBu"
-      },
-      "artists": [
-        {
-          "name": "Jim Duff",
-          "url": "https://open.spotify.com/artist/77cRDwBbdRfGLuDnw6bkyN"
-        }
-      ],
-      "duration_ms": 211817,
-      "name": "Cryin Shame",
-      "url": "https://open.spotify.com/track/6WIVT5BTx5c9WfM26KIUDa"
-    },
-    {
       "added_at": "2024-03-08 02:32:11",
       "album": {
         "name": "Time Traveler",
@@ -2399,6 +2499,22 @@
       "duration_ms": 215898,
       "name": "Time Traveler",
       "url": "https://open.spotify.com/track/4jUvdO8LHaz3mqCelNuYU6"
+    },
+    {
+      "added_at": "2024-03-07 06:37:52",
+      "album": {
+        "name": "Send My Soul to Texas",
+        "url": "https://open.spotify.com/album/52AaBhUOJUYDEHvxcnCqBu"
+      },
+      "artists": [
+        {
+          "name": "Jim Duff",
+          "url": "https://open.spotify.com/artist/77cRDwBbdRfGLuDnw6bkyN"
+        }
+      ],
+      "duration_ms": 211817,
+      "name": "Cryin Shame",
+      "url": "https://open.spotify.com/track/6WIVT5BTx5c9WfM26KIUDa"
     },
     {
       "added_at": "2024-03-07 01:31:45",
@@ -2469,22 +2585,6 @@
       "url": "https://open.spotify.com/track/3vTbIMDAauRBZHQ3dPfnMp"
     },
     {
-      "added_at": "2024-03-04 23:31:15",
-      "album": {
-        "name": "Be Myself",
-        "url": "https://open.spotify.com/album/6JUwSSAlJpJH1dF9zil3Kk"
-      },
-      "artists": [
-        {
-          "name": "LeRoy Bell",
-          "url": "https://open.spotify.com/artist/72GenUi51ywKWtJmQTU1XE"
-        }
-      ],
-      "duration_ms": 197224,
-      "name": "Be Myself",
-      "url": "https://open.spotify.com/track/1LUew6UDbhqUKujhMpPXgj"
-    },
-    {
       "added_at": "2024-03-05 04:31:26",
       "album": {
         "name": "Extra\u00f1ando El Verano",
@@ -2499,22 +2599,6 @@
       "duration_ms": 208729,
       "name": "La Soledad Me Elige",
       "url": "https://open.spotify.com/track/54jbUuPstiaL4r3YM3yYRU"
-    },
-    {
-      "added_at": "2024-03-04 16:33:14",
-      "album": {
-        "name": "Sin Piezas",
-        "url": "https://open.spotify.com/album/2jWulsE5KWL83wzklqjOfM"
-      },
-      "artists": [
-        {
-          "name": "Giulianna",
-          "url": "https://open.spotify.com/artist/1vN6MlKggoxbXYYYRJydod"
-        }
-      ],
-      "duration_ms": 140663,
-      "name": "Sin Piezas",
-      "url": "https://open.spotify.com/track/4Etnql7HKVNAkZiwWVvRdO"
     },
     {
       "added_at": "2024-03-03 12:01:10",
@@ -2631,22 +2715,6 @@
       "duration_ms": 121782,
       "name": "Watch My Step",
       "url": "https://open.spotify.com/track/5K4SG5e4PAwedC1Xo0dspD"
-    },
-    {
-      "added_at": "2024-03-01 06:02:51",
-      "album": {
-        "name": "Be Ok",
-        "url": "https://open.spotify.com/album/1g1a1eUJs2of2IFI0UMbuT"
-      },
-      "artists": [
-        {
-          "name": "kelly Jewel",
-          "url": "https://open.spotify.com/artist/5n2BwjefqshnG72ZaZSZpy"
-        }
-      ],
-      "duration_ms": 197432,
-      "name": "Be Ok",
-      "url": "https://open.spotify.com/track/3veYT9ZXC2r1nHoDkAIbYm"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2024",

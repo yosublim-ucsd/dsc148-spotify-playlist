@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Winona Fighter
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,561 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,643 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Ultrasound](https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ultrasound](https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui) | 2:36 |
 | 100 | [The Same Ordinary](https://open.spotify.com/track/54R07VskSEqrvrtKxn2bW5) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Rationale](https://open.spotify.com/album/653MF1FIBn8pYkgqsg4bxV) | 1:10 |
 
-Snapshot ID: `MCw0Y2EzYWQzZTYxYWM5NTBhNWY5Y2YzN2RmZjMxMDJmM2EyZmNhZGZh`
+Snapshot ID: `MCw1MDBlYTgxMjZkOTUzZGU1NTc4ZGI2ZDRjMGZkMDliN2M2NWY4NDhj`

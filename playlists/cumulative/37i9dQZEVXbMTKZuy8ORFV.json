@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 125493,
       "name": "Alma de Guitarra",
       "url": "https://open.spotify.com/track/15rItEDtByw9rSzbG2umJ0"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 126600,
       "name": "Buen Tipo",
       "url": "https://open.spotify.com/track/1ITyoiqlLwTl9GeIfKltYt"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 149187,
       "name": "ERROR 403",
       "url": "https://open.spotify.com/track/0LWwRQvunwufzUbWARrtX4"
@@ -1148,6 +1148,24 @@
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
     },
     {
       "album": {
@@ -2103,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Dragon Ball GT",
+        "url": "https://open.spotify.com/album/28bqDhECSrv4hV656tzYpB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Montalvo",
+          "url": "https://open.spotify.com/artist/1MmC4gHYHB5GlVPfLapkmi"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213546,
+      "name": "Mi Coraz\u00f3n Encantado",
+      "url": "https://open.spotify.com/track/6NVX0ugkjMSeXJN8wB9JTn"
+    },
+    {
+      "album": {
         "name": "Talento de Vida",
         "url": "https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH"
       },
@@ -2632,7 +2668,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 127689,
       "name": "Poison - Hazbin Hotel Original Soundtrack",
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
@@ -3120,7 +3156,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 264880,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/0eJGouVmEGxPktWPSTfpuI"
@@ -3386,7 +3422,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

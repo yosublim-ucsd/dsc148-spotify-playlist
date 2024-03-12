@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 196903,
+  "num_followers": 197069,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjFlZmEyZmY4OWY4Zjk0ZTA2MzYzNGZjZmQzNThmZTcyMmVlOTI4",
+  "snapshot_id": "MCw1MzdlZmQ1MTcwZDk4NTkxNjZlZDc5OTQ2YzRhOWRlMDAyNzBmZjBi",
   "tracks": [
     {
       "added_at": "2024-03-07 23:01:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 247001,
-      "name": "Everybody Everybody",
-      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
         "name": "Melanch\u00f3lia",
         "url": "https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 255000,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Give Me Love - 1977",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 263508,
       "name": "Disco Sole",
       "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Give Me Love - 1977",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
         "name": "I Need You Tonite / Tonight",
         "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 231691,
       "name": "Melody (1983 Radio Version)",
       "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Malocchio (Sam Ruffillo Remix)",
-        "url": "https://open.spotify.com/album/57k1ZA47Cg3EKIkLqXRCXE"
-      },
-      "artists": [
-        {
-          "name": "Bruno Belissimo",
-          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
-        },
-        {
-          "name": "Sam Ruffillo",
-          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
-        }
-      ],
-      "duration_ms": 281904,
-      "name": "Malocchio - Sam Ruffillo Remix",
-      "url": "https://open.spotify.com/track/3ulh9mrHNJOdFFJRJokCM2"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
         "name": "Baby I Love You (Original) - Single",
         "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 432404,
       "name": "Under the Ice - Original 12 Inch Version",
       "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Malocchio (Sam Ruffillo Remix)",
+        "url": "https://open.spotify.com/album/57k1ZA47Cg3EKIkLqXRCXE"
+      },
+      "artists": [
+        {
+          "name": "Bruno Belissimo",
+          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
+        },
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        }
+      ],
+      "duration_ms": 281904,
+      "name": "Malocchio - Sam Ruffillo Remix",
+      "url": "https://open.spotify.com/track/3ulh9mrHNJOdFFJRJokCM2"
     }
   ],
   "unique_name": "Italo Disco",

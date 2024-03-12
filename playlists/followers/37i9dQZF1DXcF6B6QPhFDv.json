@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 4675811,
+  "2024-03-12": 4674737,
   "date_first_scraped": "2021-10-20",
   "description": "St. Vincent along with today's Rock songs you need to know.",
   "name": "Rock This",
@@ -3271,10 +3271,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 163736,
       "name": "hostage",
       "url": "https://open.spotify.com/track/4c1prDEgRB8bDIEiuF1gcQ"
+    },
+    {
+      "album": {
+        "name": "HEADSPLIT",
+        "url": "https://open.spotify.com/album/460fhxEztqiD7DkxTAETRL"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163736,
+      "name": "hostage",
+      "url": "https://open.spotify.com/track/5iQrF3TEjpz2tBZed7Qy9N"
     },
     {
       "album": {

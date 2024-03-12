@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 84412,
+  "num_followers": 84429,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzcyYzJjNmExMGJjNzk5NGZhYzFlZjFjNWQxOTU3MjY0NTkzN2Y1",
+  "snapshot_id": "MCxjODExMWQyNGJlMmVkZTVlZjgxMjI2ZGNiYjc1OWQzN2FlZmVhY2E2",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
-        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
-      },
-      "artists": [
-        {
-          "name": "Leon Bates",
-          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Fascinatin' Rhythm",
-      "url": "https://open.spotify.com/track/7MQ1HfXBLl4y23fHNEZMgQ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
         "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 199387,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/3yoCcX8jaVBWXb9c8Q5nW2"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
+      },
+      "artists": [
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Fascinatin' Rhythm",
+      "url": "https://open.spotify.com/track/7MQ1HfXBLl4y23fHNEZMgQ"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
         }
       ],
-      "duration_ms": 131400,
-      "name": "Three-Quarter Blues",
-      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
         }
       ],
-      "duration_ms": 47426,
-      "name": "I'll Build a Stairway to Paradise",
-      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
+      "duration_ms": 131400,
+      "name": "Three-Quarter Blues",
+      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
     },
     {
       "added_at": "2022-08-05 04:02:00",

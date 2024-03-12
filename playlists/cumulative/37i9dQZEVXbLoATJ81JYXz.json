@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 176315,
       "name": "Ahumma",
       "url": "https://open.spotify.com/track/3FekVM62XSKijk621AAaP3"
@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 176178,
       "name": "Before You Leave Me",
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -5632,7 +5632,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 179362,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/77XfCHwNuiRjMwFysSSNR5"
@@ -8644,7 +8644,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 176070,
       "name": "En s\u00e5ng om sommaren",
       "url": "https://open.spotify.com/track/1X58GqS1Q4JvF1IGyEF2mh"
@@ -16582,7 +16582,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
@@ -20674,7 +20674,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 194133,
       "name": "Miss Decibel",
       "url": "https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB"
@@ -26400,7 +26400,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -28755,6 +28755,24 @@
     },
     {
       "album": {
+        "name": "Still the one",
+        "url": "https://open.spotify.com/album/7fsBNhZshWlYMVyTrm00XV"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Gustafsson",
+          "url": "https://open.spotify.com/artist/488cj6lweUKYoeDENEOTrv"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178791,
+      "name": "Still the one",
+      "url": "https://open.spotify.com/track/3VIWpZLeOxeexXkF2hBKwA"
+    },
+    {
+      "album": {
         "name": "Stj\u00e4rnorna",
         "url": "https://open.spotify.com/album/4X9JpQTFbAJJOc2vQTtnDT"
       },
@@ -30654,7 +30672,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 177346,
       "name": "The Silence After You",
       "url": "https://open.spotify.com/track/12K5d7vKIzjYd3V3acJpjf"

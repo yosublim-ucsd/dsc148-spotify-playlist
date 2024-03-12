@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Grupo Marca Registrada, Maluma & Octavio Cuadras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,205 likes - 118 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,229 likes - 118 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 117 | [Cómo Duele el Silencio \(feat\. Luis Coronel\) \- Banda Version](https://open.spotify.com/track/1qclsFzzplrtjZMXFrDaDM) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL), [Adolfo Valenzuela](https://open.spotify.com/artist/2vpjdguqL8ArFWntZBcjK4) | [Cómo Duele el Silencio \(feat\. Luis Coronel\) \[Banda Version\]](https://open.spotify.com/album/1Os8kNHTAwUmYcOFyjOkCv) | 3:05 |
 | 118 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 |
 
-Snapshot ID: `MCwwODdhMDg4MTZmZDkyOWE5NDI4OTE5NGZmNGQzZDczNzgxYmM5OWZj`
+Snapshot ID: `MCxjOTQyY2IzMWZjZDlmZGMwMmZjNTk3MmVlMmRmMDE3Yjk2M2FjZjYw`

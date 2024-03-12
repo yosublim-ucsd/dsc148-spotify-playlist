@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 35407,
+  "num_followers": 35434,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2VmOGFhN2QxZGUxZTU4ODY3OTY4MjQ5Mjk0OWFjNjE0NDNkMWU1",
+  "snapshot_id": "MCwyNWYyNzI0ZWE4Njk3Yzc2OTMzNDIyMDk3ZjdmZmNmNzZmMjg5YjEz",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:27",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Suspenso Infernal",
+      "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "Homenaje a Johnny Laboriel Con los Rebeldes del Rock",
         "url": "https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 178651,
       "name": "Siluetas",
       "url": "https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Suspenso Infernal",
-      "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "Leroy",
+      "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "Palabra De Rey",
         "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 166066,
       "name": "El Ladr\u00f3n",
       "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "Leroy",
-      "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Mon\u00f3logo",
-      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Los Incre\u00edbles Machucambos",
         "url": "https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 177893,
-      "name": "Cuando Calienta el Sol",
-      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
+      "duration_ms": 176093,
+      "name": "Mon\u00f3logo",
+      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -631,6 +615,22 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Cuando Calienta el Sol",
+      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "A Mi Amor Con Mi Amor",
         "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
       },
@@ -663,38 +663,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Ven Que Te Quiero",
-        "url": "https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP"
-      },
-      "artists": [
-        {
-          "name": "Los Impala",
-          "url": "https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto"
-        }
-      ],
-      "duration_ms": 193782,
-      "name": "Ven Que Te Quiero",
-      "url": "https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "22 Superexitos (Idolos Norte\u00f1os y Texanos)",
         "url": "https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi"
       },
@@ -707,6 +675,22 @@
       "duration_ms": 125176,
       "name": "Ya No Llores",
       "url": "https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Ven Que Te Quiero",
+        "url": "https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP"
+      },
+      "artists": [
+        {
+          "name": "Los Impala",
+          "url": "https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto"
+        }
+      ],
+      "duration_ms": 193782,
+      "name": "Ven Que Te Quiero",
+      "url": "https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -775,8 +759,8 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP"
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
       },
       "artists": [
         {
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 163120,
-      "name": "El Malquerido",
-      "url": "https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD"
+      "duration_ms": 150333,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -803,6 +787,22 @@
       "duration_ms": 157880,
       "name": "M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
     },
     {
       "added_at": "2023-02-17 20:56:27",

@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 560812,
+  "2024-03-12": 560859,
   "date_first_scraped": "2023-12-14",
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
   "name": "This Is Fall Out Boy",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 203413,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
@@ -671,6 +671,24 @@
     {
       "album": {
         "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211026,
+      "name": "Miss Missing You",
+      "url": "https://open.spotify.com/track/05Z77MHLPcBA2Wd5eDSJzl"
+    },
+    {
+      "album": {
+        "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
@@ -883,7 +901,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 210426,
       "name": "Tell That Mick He Just Made My List of Things to Do Today",
       "url": "https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 204506,
       "name": "Young Volcanoes",
       "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"

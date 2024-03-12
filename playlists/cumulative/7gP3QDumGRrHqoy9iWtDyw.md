@@ -4,7 +4,7 @@
 
 > 
 
-184 songs - 11 hr 57 min
+186 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [House All The Time](https://open.spotify.com/track/3K3asUF88k0nKWtkm4eqLr) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [House All The Time](https://open.spotify.com/album/5qtlIlnuhHC3puaGDNYjVc) | 2:44 | 2023-04-04 |  |
 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 |  |
 | [How We Do It \- Radio Edit](https://open.spotify.com/track/75JyRZbX9Oy3S0cwPZcYVR) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5) | [How We Do It](https://open.spotify.com/album/0oHtt2ORZEYRPfh2ktOFQF) | 4:02 | 2023-01-29 |  |
+| [Howyalldoin](https://open.spotify.com/track/6vLau6Em7Vy3oGKzF2uUwI) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD) | [Dunns EP](https://open.spotify.com/album/1zOFzIsU07Qqr4AvIpZhw7) | 5:11 | 2024-03-11 |  |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2023-11-10 |  |
 | [In & Out](https://open.spotify.com/track/6xxnvkIzK4v3Zikxby6iaX) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [In & Out](https://open.spotify.com/album/16i9dIlGUZDgdM2zRmxG5P) | 3:25 | 2023-07-20 |  |
 | [In My Mind](https://open.spotify.com/track/5IonXbwquaUI5Zai9ocTOe) | [Steal Tapes](https://open.spotify.com/artist/1fiyToHIN35Atu1FGxYCyp) | [In My Mind EP](https://open.spotify.com/album/2n1ZL8V0GdS5dqdkY5H8vN) | 3:30 | 2022-12-12 |  |
@@ -190,6 +191,7 @@
 | [Work](https://open.spotify.com/track/4BSkKV0SIAoPF54KFvwQHR) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD) | [Jungle Kitty](https://open.spotify.com/album/17X6ujjoDdeStFqXuX8C4u) | 2:52 | 2022-03-22 |  |
 | [Work \- Franky Rizardo Remix](https://open.spotify.com/track/7lBcBg4THRZgzj4zczNvOS) | [The 2 Bears](https://open.spotify.com/artist/0tCMgjr8y7UKNmE3B1Uwbl), [Franky Rizardo Remix](https://open.spotify.com/artist/5n6Cdis4xlORQgfih56nnW) | [Work](https://open.spotify.com/album/5BQA0Mz8d7GA8dEYyF0B2Y) | 6:18 | 2017-08-12 |  |
 | [Yes Man \- Radio Edit](https://open.spotify.com/track/47xypX1JI0skOo1wrqJpOP) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Yes Man](https://open.spotify.com/album/7kdcsS4EJ0lXtIS9kLhpqg) | 3:50 | 2023-01-05 |  |
+| [Yo Yo Get Funky \- Andre Zimmer Remix](https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Yo Yo Get Funky \(Andre Zimmer Remix\)](https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY) | 3:30 | 2024-03-11 |  |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-19 |  |
 | [You Know Where The Floor Is](https://open.spotify.com/track/1RnEVv1M950IEiklbd01j1) | [Bad Intentions](https://open.spotify.com/artist/1EJZkoVUvWhgY0OJvdAXHw), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [You Know Where The Floor Is](https://open.spotify.com/album/1mvKgax9KJhxdNRrVjtFyQ) | 3:48 | 2023-12-26 |  |
 

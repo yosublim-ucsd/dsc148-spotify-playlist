@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EyWjGitssT.md) - [plain]
 
 > Coming down from your altitude high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,213 likes - 51 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,302 likes - 51 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EyWjGitssT.md) - [plain]
 | 50 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 |
 | 51 | [Stop This Train](https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:45 |
 
-Snapshot ID: `MCwwYmQxOWJiODEyMmM3OTFlNGQ2ODExY2E5NTlmYzNlYmI3OGE1YTY2`
+Snapshot ID: `MCxlZjg3YjAwZjNjMzMzZTc1NzQwNDBiNDgxMWY0OTNkYWFiMjdhNjBh`

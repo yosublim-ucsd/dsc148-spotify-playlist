@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 78265,
+  "num_followers": 78314,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGFmNTI4ZjVmZmZiMDI5YTY1NDBiNzcxN2RiOTJmZWNiZmEzNGUy",
+  "snapshot_id": "MCxhMWVlY2JjYjg1OTU3M2ZhOTE0MmNlY2VkNTM5ZGU0NzYzMzFmYjQx",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Ultimamente Speed",
-        "url": "https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4"
-      },
-      "artists": [
-        {
-          "name": "dreko",
-          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
-        }
-      ],
-      "duration_ms": 130254,
-      "name": "Ultimamente Speed",
-      "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "O QUE ADIANTA B\u00ca SER T\u00c3O GOSTOSA SE ELA \u00c9 DA FARRA",
         "url": "https://open.spotify.com/album/5GUVCqmrD82qhBss7iDv2B"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 121543,
       "name": "O QUE ADIANTA B\u00ca SER T\u00c3O GOSTOSA SE ELA \u00c9 DA FARRA",
       "url": "https://open.spotify.com/track/0ztwjRobHt6HUncGW9N2ni"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Ultimamente Speed",
+        "url": "https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4"
+      },
+      "artists": [
+        {
+          "name": "dreko",
+          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
+        }
+      ],
+      "duration_ms": 130254,
+      "name": "Ultimamente Speed",
+      "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Deixa Escondido (Speed) [Remix]",
-        "url": "https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh"
-      },
-      "artists": [
-        {
-          "name": "Vitux",
-          "url": "https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t"
-        }
-      ],
-      "duration_ms": 151341,
-      "name": "Deixa Escondido (Speed) - Remix",
-      "url": "https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Subzero (Speed Plug)",
         "url": "https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 125156,
       "name": "Subzero (Speed Plug)",
       "url": "https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Deixa Escondido (Speed) [Remix]",
+        "url": "https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh"
+      },
+      "artists": [
+        {
+          "name": "Vitux",
+          "url": "https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t"
+        }
+      ],
+      "duration_ms": 151341,
+      "name": "Deixa Escondido (Speed) - Remix",
+      "url": "https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -543,6 +543,30 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Ananda (Speed)",
+        "url": "https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 163835,
+      "name": "Portugal (Speed)",
+      "url": "https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Levante",
         "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 115714,
       "name": "SUV - Remix",
       "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Ananda (Speed)",
-        "url": "https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 163835,
-      "name": "Portugal (Speed)",
-      "url": "https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Virgulado",
+        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
+      },
+      "artists": [
+        {
+          "name": "Nino Leone",
+          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
+        },
+        {
+          "name": "Goodboysut",
+          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
+        }
+      ],
+      "duration_ms": 127011,
+      "name": "Virgulado - Speed",
+      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
         "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
       },
@@ -903,6 +923,22 @@
       "duration_ms": 176538,
       "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
       "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Ah Vai Ter Que Descer - Remix",
+        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
+      },
+      "artists": [
+        {
+          "name": "LC DE VV",
+          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
+        }
+      ],
+      "duration_ms": 102511,
+      "name": "Ah Vai Ter Que Descer - Remix",
+      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -927,42 +963,6 @@
       "duration_ms": 168615,
       "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
       "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Virgulado",
-        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
-      },
-      "artists": [
-        {
-          "name": "Nino Leone",
-          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
-        },
-        {
-          "name": "Goodboysut",
-          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
-        }
-      ],
-      "duration_ms": 127011,
-      "name": "Virgulado - Speed",
-      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Ah Vai Ter Que Descer - Remix",
-        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
-      },
-      "artists": [
-        {
-          "name": "LC DE VV",
-          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
-        }
-      ],
-      "duration_ms": 102511,
-      "name": "Ah Vai Ter Que Descer - Remix",
-      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Rede Social (Speed)",
         "url": "https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 154818,
       "name": "Rede Social - Speed",
       "url": "https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2023-12-27 14:18:14",

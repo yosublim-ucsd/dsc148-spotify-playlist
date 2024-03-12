@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 212146,
+  "2024-03-12": 212171,
   "date_first_scraped": "2022-04-20",
   "description": "Trendy x Chill K-Hip Hop.  (Cover: NE:ON(\ub2c8\uc628)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
@@ -2691,7 +2691,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 189480,
       "name": "Daisy (feat. pH-1)",
       "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
@@ -5189,6 +5189,24 @@
       "duration_ms": 193000,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH"
+    },
+    {
+      "album": {
+        "name": "Sir.Robert",
+        "url": "https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "help me out o kill me not",
+      "url": "https://open.spotify.com/track/6sdYTTPhLOWVlIg11mgvh7"
     },
     {
       "album": {

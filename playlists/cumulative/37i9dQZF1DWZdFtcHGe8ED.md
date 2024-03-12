@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-405 songs - 1 day 4 hr 45 min
+406 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Fight Fire With Fire \(Remastered\)](https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 4:44 | 2022-07-13 | 2022-12-16 |
 | [Filth Upon Filth](https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 2:53 | 2022-07-13 |  |
 | [Filth Upon Filth](https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Filth Upon Filth](https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF) | 2:53 | 2022-07-08 | 2022-08-15 |
-| [Fire in the Hole](https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f) | [Laaz Rockit](https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR) | [Annihilation Principle](https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O) | 3:50 | 2022-07-13 |  |
+| [Fire in the Hole](https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f) | [Laaz Rockit](https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR) | [Annihilation Principle](https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O) | 3:50 | 2022-07-13 | 2024-03-12 |
 | [First World Solutions](https://open.spotify.com/track/2BKaYacYK33sCj0wQmelzs) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [Extinction](https://open.spotify.com/album/4v1qcY67EgCYu2xbUkUWPp) | 3:55 | 2021-12-17 | 2022-07-28 |
 | [Flames of Death](https://open.spotify.com/track/6tVBNgAnRuMzeptqFFlwFs) | [Gomorra](https://open.spotify.com/artist/4pR239AgGpMKJosbKZXsLv) | [Flames of Death](https://open.spotify.com/album/44Sf0IWt8DVpa0iuhe883w) | 4:31 | 2021-12-17 | 2022-07-19 |
 | [Flesh from Bone](https://open.spotify.com/track/5fopcFWgDjqmqWQK83QUlQ) | [Vio\-Lence](https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df) | [Flesh from Bone](https://open.spotify.com/album/3XAiBKyWClCBcJw64HIYHl) | 5:02 | 2022-01-14 | 2022-07-28 |
@@ -387,6 +387,7 @@
 | [Upon Their Cross](https://open.spotify.com/track/4PSmqz3YU0K3aT9q2mWG1r) | [Vio\-Lence](https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df) | [Let the World Burn](https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn) | 5:27 | 2022-03-04 | 2022-07-29 |
 | [Vanguardian](https://open.spotify.com/track/79E5z2MEFopfp422zFzgcg) | [Inkvisitor](https://open.spotify.com/artist/34EnxIEEX9tUQ3RuWa5trg) | [Vanguardian](https://open.spotify.com/album/2iuZkn3s2Z1CDEdYdr1yIO) | 3:51 | 2021-12-17 | 2022-07-13 |
 | [Vicious Cycle](https://open.spotify.com/track/0qF4xqpP1jTTmFLqgGPSYX) | [Slackjaw](https://open.spotify.com/artist/1Y4F23k7mxcA9Jxm9kpYlw) | [Vicious Cycle](https://open.spotify.com/album/5BIAY8cLV0a2hOrpp8Ss9n) | 6:10 | 2022-02-25 |  |
+| [Virtues of Destruction](https://open.spotify.com/track/1ACpMQW2yIPcLDrpHlrY7l) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Profane Prayer](https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa) | 2:54 | 2024-03-08 |  |
 | [Voyage Of The Disturbed](https://open.spotify.com/track/4SNmIjbSWwYlqB6HV3GiFp) | [Mortal Sin](https://open.spotify.com/artist/3Pxc8FkiGcuuVhE2WcHb7g) | [Face of Despair](https://open.spotify.com/album/2d4iPSQfwwQZDN5F4woNvi) | 5:06 | 2022-07-13 | 2022-07-29 |
 | [W.T.Y.D.](https://open.spotify.com/track/4puBhL71XaixTPxpK02yog) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Alice In Hell](https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY) | 3:56 | 2022-07-13 |  |
 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 | 2022-12-15 |  |

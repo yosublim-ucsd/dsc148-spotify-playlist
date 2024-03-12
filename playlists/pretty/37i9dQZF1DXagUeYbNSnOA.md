@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Miranda del Sol\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,386 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,388 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 14 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
 | 15 | [BODHI](https://open.spotify.com/track/6C1E6noANrQ98jbhQ4zF7O) | [Usb Gad](https://open.spotify.com/artist/5vkRwmJS3T2WTuGF3Lzyj7) | [BODHI](https://open.spotify.com/album/7tdHmix1p8rQEl4NMNqV6O) | 4:07 |
 | 16 | [Falso Verano](https://open.spotify.com/track/14SHSUgzpMzp1hyMk6vbrx) | [Tom Vin](https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc) | [Falso Verano](https://open.spotify.com/album/24hME3rIQJbIv8Emn8IPvv) | 3:12 |
-| 17 | [MUSCARI](https://open.spotify.com/track/6wXw4KbsL6d4KR5MeAgztA) | [Zully](https://open.spotify.com/artist/227RkF2rZ8lg2O5HMUFiZn), [Inconsciente Colectivo](https://open.spotify.com/artist/39n26t1ksGP6zwBmfIPkPN) | [MUSCARI](https://open.spotify.com/album/2LXzmk1YMWQa8VUWGjsAq9) | 2:15 |
+| 17 | [MUSCARI](https://open.spotify.com/track/6wXw4KbsL6d4KR5MeAgztA) | [Zully](https://open.spotify.com/artist/227RkF2rZ8lg2O5HMUFiZn), [Inconsciente Colectivo](https://open.spotify.com/artist/2W27y8QBzvzO2AXmmrYE2T) | [MUSCARI](https://open.spotify.com/album/2LXzmk1YMWQa8VUWGjsAq9) | 2:15 |
 | 18 | [Perras](https://open.spotify.com/track/0rubyqwioKK8SVK8cIsBL5) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [Perras](https://open.spotify.com/album/7q1E5UjJDs17ENd7SgM3Vo) | 2:43 |
 | 19 | [Verano Eterno](https://open.spotify.com/track/68YgHUrLytapZ8xOar18My) | [Punto y Pacífico](https://open.spotify.com/artist/2Eh1KAvaiVKFDbzHh9KFhR), [Pablo Neptuno](https://open.spotify.com/artist/3wcvDHkiKo11isqS7yvjyG) | [Verano Eterno](https://open.spotify.com/album/6GO7PNwZ7vpZ4kwN2G8hUR) | 3:44 |
 | 20 | [lo q necesitabas](https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [lo q necesitabas](https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT) | 1:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Lento](https://open.spotify.com/track/2CRkU1UFD7xkFF60h9ettD) | [Julais](https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF) | [Lento](https://open.spotify.com/album/5lhvJ7639JKCNEU8yXdNSR) | 3:57 |
 | 50 | [WAYLT?](https://open.spotify.com/track/2k5E0qxP0sV6vm64tHCVPJ) | [DEIIN](https://open.spotify.com/artist/3ChKSHdD8xLvHcPrt9lIS6) | [WAYLT?](https://open.spotify.com/album/37phbsMBqwtcjvwR2TAmlA) | 2:46 |
 
-Snapshot ID: `MCw4YTg0YjQzNDg1OTc5ZWI1MGIwNThkZDFlYTg0OWM0YjIzYmMwOTkw`
+Snapshot ID: `MCxkYmFhMGIzMzJlZGVkMWI0MzY5ZmQ5MDJlYmU4YjhlZTQyMzZjZTA0`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/33tldAlCD8P8ski9feKj3T.md) - [plain]
 
 ### [Alternative Indie Today](https://open.spotify.com/playlist/33tldAlCD8P8ski9feKj3T)
 
-> The best in new Modern Music\. Featuring: <a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz?si=SG75sGTeTrKqESWSWc4n7g">Linkin Park</a>, Mother Mother, Wallows, Great Gable, NewDad, Michael Marcagi, ThxSoMch and many more.
+> The best in new Modern Music\. Featuring: <a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx?si=4JprYKKMRNOzfRUudP4jeA">Twenty One Pilots</a>, Mother Mother, Linkin Park, Wallows, Great Gable, NewDad, Michael Marcagi, ThxSoMch and many more.
 
 [Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 22,137 likes - 65 songs - 3 hr 29 min
 
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/33tldAlCD8P8ski9feKj3T.md) - [plain]
 | 64 | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/track/0yCPzPMUg3cJintNml4h6H) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/album/5ZQj7tgOar5vGfrYslvFMp) | 3:05 |
 | 65 | [i don't know you anymore](https://open.spotify.com/track/5FCMqNc9fodjQRIXbG7Ld1) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [i don't know you anymore](https://open.spotify.com/album/4lih3eiFN9LVskoAk8FDWm) | 3:47 |
 
-Snapshot ID: `MTI1OTMsYmZhMDgxY2M2ZWRlYTc4NmM3OTE3MGZlMWQ4YjJjMGY5YWEwNDcyOQ==`
+Snapshot ID: `MTI1OTQsMDhlMWM4ZGZmOThkZjFjOTUzMjg4OGI4ZWIzYzcyZmNiNzIxYjFiZQ==`

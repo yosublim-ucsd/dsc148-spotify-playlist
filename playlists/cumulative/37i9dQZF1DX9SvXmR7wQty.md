@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Fredz
 
-2,372 songs - 5 day 6 hr 39 min
+2,373 songs - 5 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [92i MAYBACH](https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [ROUGE NÉON](https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj) | 2:41 | 2023-04-28 | 2023-06-17 |
 | [???](https://open.spotify.com/track/1VypWHiTxUHNJKYNY6pY9n) | [Kimezaa](https://open.spotify.com/artist/3gpDegDcUdkEFX0EGWus2x) | [???](https://open.spotify.com/album/5JTdgcqhaTSvO8ez5fajhM) | 2:08 | 2021-12-31 | 2022-01-22 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2022-08-20 |
-| [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 | 2024-03-01 |  |
+| [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 | 2024-03-01 | 2024-03-12 |
 | [\_sept magie mauve](https://open.spotify.com/track/0OO8vt6iCMZAqZe8xrW2ky) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Saisons](https://open.spotify.com/album/111xYY3jdnUL7fVhItgOVy) | 3:57 | 2023-12-01 | 2023-12-21 |
 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 | 2023-09-15 | 2023-11-01 |
 | [A toi](https://open.spotify.com/track/1mbAF6RCv2HRseMBwg8L4f) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love Therapy](https://open.spotify.com/album/5a5C4f2S7NvcMCdwQFqT48) | 3:19 | 2023-04-21 | 2023-05-28 |
@@ -237,6 +237,7 @@
 | [Bloqué](https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Bloqué](https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8) | 3:18 | 2022-08-05 | 2022-08-27 |
 | [Blue](https://open.spotify.com/track/0QWTSUL3mTStCXLMkPEh2u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Blue](https://open.spotify.com/album/2pJgvL6pmjgyRsApaegLNP) | 3:12 | 2023-07-21 | 2023-07-29 |
 | [blue](https://open.spotify.com/track/00GOKHaT4oeUbTL3Tj7NFC) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [tentacle](https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae) | 2:40 | 2023-01-27 | 2023-02-11 |
+| [blue \(yes, i love you\)](https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [blue \(yes, i love you\)](https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV) | 1:42 | 2024-03-08 |  |
 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 | 2022-04-01 | 2022-04-16 |
 | [Boire un coup](https://open.spotify.com/track/7Jl9wKc0k5aeQp7FEMGZ4n) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [Boire un coup](https://open.spotify.com/album/6b1mz1YY8VZ8y4dDRilk3c) | 2:34 | 2022-01-14 | 2022-01-22 |
 | [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-01-21 | 2022-01-29 |

@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 155348,
       "name": "Armonikos",
       "url": "https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ"
@@ -4432,6 +4432,24 @@
       "duration_ms": 207000,
       "name": "Rain Gravitat",
       "url": "https://open.spotify.com/track/7oC2TTCDwexaML468NqBlp"
+    },
+    {
+      "album": {
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/2hhN0BhSiM9MgBickzVA3k"
+      },
+      "artists": [
+        {
+          "name": "Aural Veneer",
+          "url": "https://open.spotify.com/artist/2KxXrvu8Ji2aHsMLwrE0Go"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184401,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/6aFkocMc8DruHQocIyMMFi"
     },
     {
       "album": {

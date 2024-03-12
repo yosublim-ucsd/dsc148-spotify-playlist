@@ -2,7 +2,7 @@
 
 ### [Top Sharqi Hits](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: Kadim Al Sahir
+> Top Sharqi hits right now\. Cover: AL SHAMI
 
 149 songs - 8 hr 48 min
 

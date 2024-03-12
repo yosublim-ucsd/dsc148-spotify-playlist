@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195297,
+      "name": "99",
+      "url": "https://open.spotify.com/track/6bozqRXCia64pVDU7FfZMM"
+    },
+    {
+      "album": {
         "name": "Abales",
         "url": "https://open.spotify.com/album/7rqsUMg3760eEoY4yGNFpY"
       },
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 196206,
       "name": "Dawly",
       "url": "https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU"
@@ -1560,6 +1578,24 @@
       "duration_ms": 149908,
       "name": "ElNaw Wy",
       "url": "https://open.spotify.com/track/1vQOTZPsWE4r2Sm9nKi9iw"
+    },
+    {
+      "album": {
+        "name": "WELAD EL 7ARA",
+        "url": "https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL"
+      },
+      "artists": [
+        {
+          "name": "Begad",
+          "url": "https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158187,
+      "name": "ERZO2NA YA KAREEM",
+      "url": "https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ"
     },
     {
       "album": {
@@ -2098,6 +2134,24 @@
       "duration_ms": 158848,
       "name": "HARAZEEK",
       "url": "https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx"
+    },
+    {
+      "album": {
+        "name": "Hashesh",
+        "url": "https://open.spotify.com/album/5YTfEONRM3UgbeJoMCtmYL"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125062,
+      "name": "Hashesh",
+      "url": "https://open.spotify.com/track/3fLlbxAckoknuMDb91V1Ub"
     },
     {
       "album": {
@@ -2968,7 +3022,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 181370,
       "name": "Mashakel Kteera",
       "url": "https://open.spotify.com/track/2puegkqXvCbBEXZmRlcXg3"
@@ -3380,7 +3434,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 101250,
       "name": "Microwave",
       "url": "https://open.spotify.com/track/0ZVVwfsJEA1g4rdCJyEa14"
@@ -4856,7 +4910,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 149350,
       "name": "X",
       "url": "https://open.spotify.com/track/1au78dVSUm2AysZJcIl2Hx"
@@ -5098,7 +5152,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 132912,
       "name": "\u0627\u0644\u062e\u0644\u0637\u0647",
       "url": "https://open.spotify.com/track/6gp6662FXHbmmZbM64y1vC"

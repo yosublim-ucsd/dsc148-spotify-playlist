@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 42068,
+  "2024-03-12": 42120,
   "date_first_scraped": "2022-05-12",
   "description": "Sempre aggiornata. Con nuovi brani di ElMatador, Capo Plaza, Rose Villain, Rhove, Emis Killa e Simba, e tanti altri.",
   "name": "Novit\u00e0 Rap Italiano",
@@ -2993,10 +2993,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 161706,
       "name": "Addosso",
       "url": "https://open.spotify.com/track/3Vvfh3Bx0A8dtK31QPzhI9"
+    },
+    {
+      "album": {
+        "name": "Addosso",
+        "url": "https://open.spotify.com/album/4r1T5CWIHeIER0eRZdl2A6"
+      },
+      "artists": [
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161706,
+      "name": "Addosso",
+      "url": "https://open.spotify.com/track/6q40i1kf85LSF35cadTAw9"
     },
     {
       "album": {

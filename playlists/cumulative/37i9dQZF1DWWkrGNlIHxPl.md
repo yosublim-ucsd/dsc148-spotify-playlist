@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: MC Abdul & Saint Levant
 
-326 songs - 18 hr 7 min
+327 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [I Miss You So](https://open.spotify.com/track/2A9K8umLwHLCo1RKDdEkHG) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [I Miss You So](https://open.spotify.com/album/1xxM6IffyyGSq959QBgleA) | 3:34 | 2023-02-27 | 2023-03-13 |
 | [I'M HERE](https://open.spotify.com/track/0sQuYu2RP49JdqprLskHbB) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [I'M HERE](https://open.spotify.com/album/5RiGTzqHWdL9k5cYf5HvuG) | 2:10 | 2022-05-27 | 2022-12-08 |
 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 | 2023-03-12 | 2023-03-15 |
-| [IL0V3Y0U](https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [IL0V3Y0U](https://open.spotify.com/album/3f2hRnl0alXw9bz8PpQSWz) | 2:43 | 2023-09-19 |  |
+| [IL0V3Y0U](https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [IL0V3Y0U](https://open.spotify.com/album/3f2hRnl0alXw9bz8PpQSWz) | 2:43 | 2023-09-19 | 2024-03-12 |
 | [Illbealright](https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Illbealright](https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6) | 3:32 | 2023-06-02 |  |
 | [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 | 2024-02-08 |  |
 | [In My Head](https://open.spotify.com/track/6ijfznxnQ4bxt3aESRanLG) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [In My Head](https://open.spotify.com/album/5p5RkbJwuXyM5lfmgfoPF6) | 2:35 | 2022-11-19 | 2022-12-08 |
@@ -204,7 +204,7 @@
 | [Never Last](https://open.spotify.com/track/7Aoqpwlh9Sgc0bQDx5R1U4) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Never Last](https://open.spotify.com/album/4EX4DGxYcU5nlDUPvlitUx) | 2:46 | 2023-09-06 |  |
 | [New Era](https://open.spotify.com/track/0V5wxdRtOGkvTDV8r6aUnq) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [New Era](https://open.spotify.com/album/1KkYvkaccUSlh19UBjfkRJ) | 2:43 | 2023-02-25 | 2023-05-27 |
 | [nights in LA](https://open.spotify.com/track/6uoZkDpJvNKtX0QbviMv3m) | [sobhhï](https://open.spotify.com/artist/0nRWv1xU9ooWFExNxKTKef), [NIVO](https://open.spotify.com/artist/6x7vGmycbgmj5h2kexW5fY), [NHYN](https://open.spotify.com/artist/70zsYc3eGQ87Culaq7eYm5) | [LUXURY CASUAL II](https://open.spotify.com/album/5sZOgDWkKHGNtr8Spr45ya) | 2:52 | 2022-07-28 | 2022-12-08 |
-| [No Stoppin It](https://open.spotify.com/track/4mAudBIutouYr6kFgBdDx8) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s) | [No Stoppin It](https://open.spotify.com/album/2axWjKUsJF0aFX9iamTOhc) | 2:24 | 2023-12-29 |  |
+| [No Stoppin It](https://open.spotify.com/track/4mAudBIutouYr6kFgBdDx8) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s) | [No Stoppin It](https://open.spotify.com/album/2axWjKUsJF0aFX9iamTOhc) | 2:24 | 2023-12-29 | 2024-03-12 |
 | [Nobody](https://open.spotify.com/track/6XjENN2LsFNLOsAOpDv7ze) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Nobody](https://open.spotify.com/album/0hEo7Gh3anOoce9xCMLDNn) | 3:27 | 2021-12-16 | 2022-03-18 |
 | [Nobody Pass You](https://open.spotify.com/track/1RsJEjWqWK5DfxvxiPIrza) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Weyinmi](https://open.spotify.com/artist/0xf5q9m5lHOBdPh13Kp16c) | [Nobody Pass You](https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3) | 2:39 | 2022-07-18 | 2022-12-08 |
 | [Nouar](https://open.spotify.com/track/7kYE92jx3dkVo6aYhz4GFG) | [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [Nouar](https://open.spotify.com/album/3P0GnsGZmo6FGQdX4KRmwR) | 6:19 | 2022-06-06 | 2022-06-24 |
@@ -315,6 +315,7 @@
 | [Watch Me](https://open.spotify.com/track/2MrJjA7IsGMImbA6qwhCiW) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [Watch Me](https://open.spotify.com/album/0ENzBRcf1PtiP8sl1Nsnxy) | 2:35 | 2023-08-14 | 2023-10-05 |
 | [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-14 | 2023-08-20 |
 | [WATER](https://open.spotify.com/track/6s3GAR8XAY06Qk05V4A0z7) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [WATER](https://open.spotify.com/album/6Q7Q1IbhWKDthIVE6CF2ud) | 3:37 | 2022-12-07 | 2023-04-25 |
+| [Wavy in Brooklyn](https://open.spotify.com/track/1C8KiYm5khCfsqJkqlfWkb) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf), [Mo Stank](https://open.spotify.com/artist/09mbQueasspgFFhkE1pc7V) | [Wavy in Brooklyn](https://open.spotify.com/album/4CClVr9DFvedg0LX4Q8bQD) | 2:56 | 2024-03-11 |  |
 | [What I Mean](https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [What I Mean](https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY) | 2:49 | 2022-12-07 | 2023-02-25 |
 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 | 2021-12-16 | 2022-11-20 |
 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 | 2022-12-07 | 2023-06-25 |

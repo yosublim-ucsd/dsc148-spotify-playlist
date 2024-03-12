@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126468,
+  "num_followers": 126513,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDYwMSw1ZDI0ZTMxOTcyYTM1NGY0MjJkMTJlYTI4M2JhOGZhZDI2MmUzNGUx",
+  "snapshot_id": "NDYwNCxhMjhiMTFiOGZiZTlkNzg0NTUyNTkxODI2ZGQ5NjQzMTZhZTFiMmM2",
   "tracks": [
+    {
+      "added_at": "2024-03-11 19:04:38",
+      "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/1GsDZlQC18uiWoGvbKuUtB"
+      },
+      "artists": [
+        {
+          "name": "SKYLER",
+          "url": "https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9"
+        },
+        {
+          "name": "REMNANT.exe",
+          "url": "https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/4iGe6FbKTT6oToK5L5ZlOz"
+    },
     {
       "added_at": "2024-03-08 17:06:14",
       "album": {
@@ -1143,22 +1163,6 @@
       "duration_ms": 178124,
       "name": "STEREO",
       "url": "https://open.spotify.com/track/7BF0YStgkz3SbuEWkodlP5"
-    },
-    {
-      "added_at": "2023-11-28 15:44:00",
-      "album": {
-        "name": "lucid",
-        "url": "https://open.spotify.com/album/19rvrdBIeSrbvQG8wSiyRM"
-      },
-      "artists": [
-        {
-          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
-          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "haunted",
-      "url": "https://open.spotify.com/track/7rMhXwRXJc2C6oLYzkdt2J"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

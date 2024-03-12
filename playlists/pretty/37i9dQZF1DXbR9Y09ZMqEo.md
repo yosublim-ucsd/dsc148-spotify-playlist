@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 
 > Listen to music from and inspired by You Are So Not Invited To My Bat Mitzvah, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,604 likes - 53 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,615 likes - 53 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 | 52 | [Credits](https://open.spotify.com/track/1BQox2F40JFMA2zUEf10lo) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 1:18 |
 | 53 | [What's Mine Is Yours](https://open.spotify.com/track/42ZVy4bY9hFT21Cb70oqit) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 1:14 |
 
-Snapshot ID: `MCw0N2FkZjViNmIzYWMzMTdhMzg1MzUzNDUyYWY3NzI4NDlkYjkwMWM4`
+Snapshot ID: `MCwzMTE3ZDk2OTFmODljYzIxMWNhNzVhMTY1OGFkYmRiZWVjY2JhNWQ1`

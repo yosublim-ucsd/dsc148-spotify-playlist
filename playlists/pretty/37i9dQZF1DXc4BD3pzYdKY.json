@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:7jyr9Co4MKL1iWML1G7vch\">Zauntee</a>",
-  "num_followers": 150530,
+  "num_followers": 150594,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGQ2ZTRhNWE0YzEwODBjZTdjNDk1NjVkNjdkN2QwYzE3ZTYzZjIy",
+  "snapshot_id": "MCw4NDQwZjdiMDNjZDcwOWYxM2UyMTEyOTFlZTMzNTQ2MjZlYjBiYzkx",
   "tracks": [
     {
       "added_at": "2024-02-23 09:44:29",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Real Talk",
-        "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
-      },
-      "artists": [
-        {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
-        },
-        {
-          "name": "Shawndy",
-          "url": "https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "We Know",
         "url": "https://open.spotify.com/album/3uf57UIYtHoATjGCrL35h9"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 126666,
       "name": "We Know",
       "url": "https://open.spotify.com/track/6XDfILr6lkW93PtaapDj0x"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        },
+        {
+          "name": "Shawndy",
+          "url": "https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1015,38 +1015,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "UH HUH",
-        "url": "https://open.spotify.com/album/5XVwW33gOcLb5Qsdh25gBu"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 135302,
-      "name": "UH HUH",
-      "url": "https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "hollow",
         "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
       },
@@ -1059,6 +1027,22 @@
       "duration_ms": 152031,
       "name": "hollow",
       "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "UH HUH",
+        "url": "https://open.spotify.com/album/5XVwW33gOcLb5Qsdh25gBu"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 135302,
+      "name": "UH HUH",
+      "url": "https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1079,6 +1063,22 @@
       "duration_ms": 196578,
       "name": "Potential",
       "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/7G0esvWTtqyussJ1KWkuTp"
-      },
-      "artists": [
-        {
-          "name": "IMRHAN",
-          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
-        }
-      ],
-      "duration_ms": 201717,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/3rAGol5YWMzVBKqjXoJzp2"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/5EVL8WwIapteEq99UjlJnj"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 168000,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/0wKC7y3mxlZf4JQv3mOIqg"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/7G0esvWTtqyussJ1KWkuTp"
+      },
+      "artists": [
+        {
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+        }
+      ],
+      "duration_ms": 201717,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/3rAGol5YWMzVBKqjXoJzp2"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "HE BACK!",
-        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 115434,
-      "name": "HE BACK!",
-      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "That Ain't It",
         "url": "https://open.spotify.com/album/4hqUjrpp4zDaZU5CNdAnBV"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 219375,
       "name": "That Ain't It",
       "url": "https://open.spotify.com/track/7rFQRFe1bOVQweyZUBKkqe"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "HE BACK!",
+        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 115434,
+      "name": "HE BACK!",
+      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "I Got Time Today",
-        "url": "https://open.spotify.com/album/1mYJiUuB476nfzqmYbcZ1v"
-      },
-      "artists": [
-        {
-          "name": "International Show",
-          "url": "https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "I Got Time Today",
-      "url": "https://open.spotify.com/track/2d1D16AjKX5L63mMYjAf4j"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Steve Austin",
         "url": "https://open.spotify.com/album/7AOKuoJt2Rk58ADL73Dlvc"
       },
@@ -1695,6 +1675,26 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "I Got Time Today",
+        "url": "https://open.spotify.com/album/1mYJiUuB476nfzqmYbcZ1v"
+      },
+      "artists": [
+        {
+          "name": "International Show",
+          "url": "https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "I Got Time Today",
+      "url": "https://open.spotify.com/track/2d1D16AjKX5L63mMYjAf4j"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/7ECAeZLU0DckjhWcMYYU6h"
       },
@@ -1707,22 +1707,6 @@
       "duration_ms": 131531,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/56IrJBpaNkq8Gg2TUlqAS5"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Lines Drawn",
-        "url": "https://open.spotify.com/album/7mAuU95Sm5byNiQMx4LAQT"
-      },
-      "artists": [
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        }
-      ],
-      "duration_ms": 154320,
-      "name": "Lines Drawn",
-      "url": "https://open.spotify.com/track/0ksMUGFdTv6853Jj9d2ISc"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1743,6 +1727,22 @@
       "duration_ms": 175773,
       "name": "Girls Don't Cry (Gibberish)",
       "url": "https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Lines Drawn",
+        "url": "https://open.spotify.com/album/7mAuU95Sm5byNiQMx4LAQT"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        }
+      ],
+      "duration_ms": 154320,
+      "name": "Lines Drawn",
+      "url": "https://open.spotify.com/track/0ksMUGFdTv6853Jj9d2ISc"
     },
     {
       "added_at": "2024-02-23 09:44:29",

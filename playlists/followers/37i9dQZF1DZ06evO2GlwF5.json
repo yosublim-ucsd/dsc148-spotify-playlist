@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 15065,
+  "2024-03-12": 15067,
   "date_first_scraped": "2022-08-11",
   "description": "This is Maaya Sakamoto. The essential tracks, all in one playlist.",
   "name": "This Is Maaya Sakamoto",
@@ -237,7 +237,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 241640,
       "name": "discord",
       "url": "https://open.spotify.com/track/1TJsSCtejwPzbhXM9IyZrL"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 316866,
       "name": "\u3053\u308c\u304b\u3089",
       "url": "https://open.spotify.com/track/5LDIB7WhwNvV4emxxEfq7g"

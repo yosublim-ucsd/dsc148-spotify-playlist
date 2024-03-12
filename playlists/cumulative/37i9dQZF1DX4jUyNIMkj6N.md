@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-263 songs - 16 hr 13 min
+264 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Darkest Night](https://open.spotify.com/track/0WjjBxrfnjtW8c2WSHZDJF) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Darkest Night](https://open.spotify.com/album/38Zutwd997e5hLl2565HfV) | 2:45 | 2023-10-05 | 2023-12-30 |
 | [Dead Of The Night](https://open.spotify.com/track/5uwd5yUWXV4AtPCBIdz0WB) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Dead Of The Night](https://open.spotify.com/album/5cyHGjBQvgZv3zHK2Q1y71) | 10:07 | 2021-12-02 | 2022-07-29 |
 | [Demo of a One Night Stand \- Live](https://open.spotify.com/track/1RE5F9AkTYPQzcglYbd5K2) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Acoustic Session – Live in Oslo](https://open.spotify.com/album/0tBtWCAAGMGs7aV3NjRrOS) | 2:43 | 2022-05-26 | 2022-07-28 |
+| [Departure](https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ) | [Rasmus Fynbo](https://open.spotify.com/artist/3gPzywCcsWpiH9alPFXPaZ), [Camila Castellani](https://open.spotify.com/artist/5jjt3rudOSHIajX5YEnAGv) | [Departure](https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx) | 3:42 | 2024-03-07 |  |
 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 | 2024-03-07 |  |
 | [Don't Belong](https://open.spotify.com/track/2rAsSCMSh2KqZSrzPeNuCe) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [I'll Be Waiting For You \(In the Grey\)](https://open.spotify.com/album/6lTDlqYzdZHPZfjoOBtS0f) | 2:44 | 2021-12-02 | 2022-06-03 |
 | [Don't Waste Our Time](https://open.spotify.com/track/5Htz8oOxwK7GrggPuUQtCk) | [Maria Toresen](https://open.spotify.com/artist/2wzYrzIHrbBH2B8DVCa8sh) | [Don't Waste Our Time](https://open.spotify.com/album/77cCfoG0wBrss1KBjReemN) | 3:51 | 2021-12-02 | 2022-06-24 |
@@ -229,7 +230,7 @@
 | [Ulveham](https://open.spotify.com/track/6awPQdcqY8IYdHzqhEYm3s) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/1GtVgb3TUKeAn466kCjgwJ) | 3:02 | 2024-02-08 |  |
 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 | 2022-07-14 | 2023-11-24 |
 | [Unknown](https://open.spotify.com/track/3fXbUuDBRoe0PMQ3BItnAc) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown/Running](https://open.spotify.com/album/1doaAaHu3x7uxJ6NO1nxak) | 4:10 | 2021-12-02 | 2022-07-27 |
-| [Van Gogh](https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Postcards](https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH) | 2:54 | 2023-09-28 |  |
+| [Van Gogh](https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Postcards](https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH) | 2:54 | 2023-09-28 | 2024-03-12 |
 | [Vega](https://open.spotify.com/track/2Vo7t22exoxAEqjCUJMpJk) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Sindre Hotvedt](https://open.spotify.com/artist/6UzXqmZCFu0Qq5v6NbyC14) | [Vega](https://open.spotify.com/album/3vbNof55CDxh6favNsfI68) | 6:43 | 2021-12-02 | 2022-07-28 |
 | [Vegvisir](https://open.spotify.com/track/11uFxNr49ZWoEDJvupsRQx) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Sindre Hotvedt](https://open.spotify.com/artist/6UzXqmZCFu0Qq5v6NbyC14) | [Vegvisir](https://open.spotify.com/album/2BrY4jpqzewSvlmVVHRsBS) | 5:14 | 2022-03-10 | 2022-07-29 |
 | [Veronica](https://open.spotify.com/track/5MulsCSWNznHXELAlB6xpe) | [My Bubba](https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d), [Elsa Håkansson](https://open.spotify.com/artist/4q7HtD6vr5asdQr8CJmFME) | [Veronica & Veronika](https://open.spotify.com/album/66DdGBAMdsopKPTdSYQXjv) | 3:52 | 2021-12-02 | 2022-07-29 |

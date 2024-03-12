@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 669777,
+  "2024-03-12": 669847,
   "date_first_scraped": "2022-01-13",
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
   "name": "Vibra Tropical",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 262353,
       "name": "A la Madrugada",
       "url": "https://open.spotify.com/track/10LdL0dPRj9USXdfT0Vt4p"
@@ -8991,6 +8991,24 @@
       "duration_ms": 195186,
       "name": "Tropical (feat. Ondina)",
       "url": "https://open.spotify.com/track/6AEHWKKEglbd8oBJeenGD5"
+    },
+    {
+      "album": {
+        "name": "Archivos Pt.1",
+        "url": "https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu"
+      },
+      "artists": [
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157522,
+      "name": "Tu Me Dijiste Que Venias",
+      "url": "https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1"
     },
     {
       "album": {

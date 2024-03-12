@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Nur zu Besuch",
+        "url": "https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178089,
+      "name": "Version von mir",
+      "url": "https://open.spotify.com/track/5bUwD8idvi8RpRF4Yuewbk"
+    },
+    {
+      "album": {
         "name": "Versprich mir du gehst",
         "url": "https://open.spotify.com/album/0pK7yVTUsuHjDWV9BGw8nm"
       },
@@ -1242,6 +1260,24 @@
       "duration_ms": 178423,
       "name": "Versprich mir du gehst",
       "url": "https://open.spotify.com/track/3aQJMAHkaEFNt2fD9JvDXa"
+    },
+    {
+      "album": {
+        "name": "Nur zu Besuch",
+        "url": "https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154507,
+      "name": "Was wei\u00df ich schon",
+      "url": "https://open.spotify.com/track/0EwlWEJ8TkA8UUTOmrsyiM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:  MFS
 
-537 songs - 1 day 3 hr 31 min
+538 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [サイコロ](https://open.spotify.com/track/2PyS0Dvx9eiAXWLgjg4qtN) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [サイコロ](https://open.spotify.com/album/1Z6zdkNk4CnvDypdOnSKa1) | 2:28 | 2024-02-06 | 2024-02-08 |
 | [ソールとSoul](https://open.spotify.com/track/5B2riCpFmUMebY1W9eABPj) | [TKdaKurobuchi](https://open.spotify.com/artist/3YeqRPuVdUg4RbLJkIMrY8), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [ソールとSoul](https://open.spotify.com/album/3AizpdSBOGiEqkSKGrbGfd) | 2:22 | 2023-11-22 | 2023-11-23 |
 | [チーム友達](https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [チーム友達](https://open.spotify.com/album/0PDx6CYUwXxQo2i6iwFb1x) | 2:32 | 2024-02-12 | 2024-02-14 |
+| [チーム友達 \- Remix](https://open.spotify.com/track/7L23oYq9gQRjoxX8UlARLX) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [チーム友達 \(Remix\)](https://open.spotify.com/album/6KqsbAQf7MTlQCxE1hHla2) | 3:38 | 2024-03-11 |  |
 | [ビリケン](https://open.spotify.com/track/4uw7rnFgYs9g3pdexIIL7L) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [ビリケン](https://open.spotify.com/album/5Um8TaZJ6QluqpqlMMs2db) | 2:30 | 2023-10-12 | 2023-11-30 |
 | [マイク持つ者よ](https://open.spotify.com/track/4xoAuuAsvHADpTVPvvYgaV) | [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [マイク持つ者よ](https://open.spotify.com/album/54m6bdrnOFu8i9mYFxwRhN) | 3:33 | 2024-02-28 |  |
 | [上にあるバッズ](https://open.spotify.com/track/4YOgeNWNFqgTTAgvPJGXZS) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [TaeyoungBoy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n) | [上にあるバッズ](https://open.spotify.com/album/33A352cI9mBFRpMmuIvZwk) | 2:28 | 2023-09-26 | 2023-09-28 |

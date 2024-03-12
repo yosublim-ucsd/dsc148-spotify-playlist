@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,210 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,225 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 29 | [Runnin'](https://open.spotify.com/track/1nubuBHtzxsRgS5CCqpXD7) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [Runnin'](https://open.spotify.com/album/2T2lRiB4PIWoUCzdziQ0V6) | 4:22 |
 | 30 | [Take a Walk](https://open.spotify.com/track/06vYbNsOQfGrgyQ31xZuZO) | [Nerd Magnet](https://open.spotify.com/artist/5GMWMP2vINSe4wq4mS5xle) | [Take a Walk](https://open.spotify.com/album/2lEQja3m8xAgpj1tWGRyqN) | 3:00 |
 
-Snapshot ID: `MCxkODNjOGQyNjA3NzJhMzEyYWY0YmUzNDkwY2Y2M2FmZTkzZjM4OTMz`
+Snapshot ID: `MCw2MjkzZjY2ZGMwMWU0ZTUxZDg0YWNlNjJjMGQxOTc4MWUyOTliNzBk`

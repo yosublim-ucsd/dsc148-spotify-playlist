@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Mohammed Saeed
 
-184 songs - 11 hr 14 min
+185 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bla'i Hali](https://open.spotify.com/track/33TYziNjMe6yNuV2tgkmq8) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 2:59 | 2021-12-23 | 2023-04-24 |
 | [Btehlawi](https://open.spotify.com/track/66UCyK1oHFYh5ZPWQ4HDM8) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Btehlawi](https://open.spotify.com/album/6RMeF8BJpHflkaQkgrgSvH) | 3:58 | 2022-02-17 | 2023-04-24 |
 | [Btes2aleeni](https://open.spotify.com/track/5HEQVHnRMqcBT2PP7GYYlR) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Btes2aleeni](https://open.spotify.com/album/0jeLyqrrLW3ZTFhrvgIKOH) | 4:03 | 2023-04-23 |  |
+| [Darje Darje](https://open.spotify.com/track/5G9XsnblainR7Z2Nl2kkOv) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Darje Darje](https://open.spotify.com/album/5oifBz7xSqJW28vwBZyDGD) | 2:24 | 2024-03-11 |  |
 | [Daye3 Albi](https://open.spotify.com/track/5oGI0mFfViPH2i8sP8XnnS) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Daye3 Albi](https://open.spotify.com/album/0KYywGAwgeVKlWqAoohIw2) | 2:10 | 2022-07-23 |  |
 | [Denia Dour](https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Denia Dour](https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o) | 5:30 | 2021-12-23 | 2023-04-24 |
 | [El Wuhoosh](https://open.spotify.com/track/3Kfq9shpeUGbB8gMnalAGg) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Wuhoosh](https://open.spotify.com/album/4BhtJo1x8FOBIULIT0IddN) | 3:31 | 2023-04-23 | 2023-08-24 |

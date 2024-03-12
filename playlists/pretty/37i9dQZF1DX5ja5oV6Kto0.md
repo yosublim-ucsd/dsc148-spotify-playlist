@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Prettyboy D\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,237 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,274 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 77 | [BornAloneD!eAlone](https://open.spotify.com/track/2kOsUzjJ7wQKbnfdMTo0Lg) | [Kwelit](https://open.spotify.com/artist/3H0hY5Y8gwHixRK5QoQ0wZ) | [MORE PA!N](https://open.spotify.com/album/62xFOaBYQCZuE8sO7GeetJ) | 2:00 |
 | 78 | [DLT](https://open.spotify.com/track/3CcdZzxO4zi9PJ4wABNsPz) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [ALT SOUL, Vol\. 1](https://open.spotify.com/album/3xZmmPqI56XhwpiRAfqsDN) | 2:37 |
 | 79 | [Cruise](https://open.spotify.com/track/7qQwxISOOlWNyMs7IZOmfL) | [YDN](https://open.spotify.com/artist/5qOCIzIkrgsvC9ZuupxN2F), [King Bulu](https://open.spotify.com/artist/29LKeyND9TWaTZwnfBiXvU) | [Cruise](https://open.spotify.com/album/7n6lBzsDCMgjTbnfM6NFSw) | 2:55 |
-| 80 | [WELCOME TO THE MOON](https://open.spotify.com/track/4SK0t01YG0xYa50pAiUzVi) | [Kakes ON](https://open.spotify.com/artist/3ZN2MVf7GNPJATGmu4dIHZ) | [MOON RAVE](https://open.spotify.com/album/3B8GUcf5RMCOYrFPRAGgcH) | 2:44 |
+| 80 | [WELCOME TO THE MOON](https://open.spotify.com/track/5r320HbpXeu7iipcmIVGXB) | [Kakes ON](https://open.spotify.com/artist/3ZN2MVf7GNPJATGmu4dIHZ) | [MOON RAVE](https://open.spotify.com/album/00uEhYLv1VinqryCZrTxH0) | 2:44 |
 
-Snapshot ID: `MCxiNmQxMDI2NmE1N2M4ODg1ZDk0MzcxNjRjMmI1OTE4ZTkzM2U1ZDNi`
+Snapshot ID: `MCw0M2FiNGM2NTQ5YzE2ZWVlMmQ5ODBhZjdmMzE2Y2QwYzcyZWJlYmQx`

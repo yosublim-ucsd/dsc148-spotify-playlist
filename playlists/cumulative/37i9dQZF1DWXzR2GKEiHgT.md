@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-236 songs - 11 hr 27 min
+237 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Dreaming with Waves](https://open.spotify.com/track/50AAtRY8C26WF5zVjvXTNT) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Dreaming with Waves](https://open.spotify.com/album/4ozRatx3Bo0zXwXRdoyteX) | 3:28 | 2021-11-11 |  |
 | [Drifting Away Into The Ocean](https://open.spotify.com/track/4P0SFSpUawfTshT7vf05NE) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Deluxe Wave Sounds](https://open.spotify.com/album/4ap2CpNw9Uu7uIBe9xeV8E) | 3:02 | 2021-11-11 | 2023-12-14 |
 | [Ebb and Flow of the Ocean's Waves](https://open.spotify.com/track/1eobb7qGQjjEg97j8UxTfh) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Waves of Bliss](https://open.spotify.com/album/1GmylbiB9fL0N2L1mdQ9hC) | 2:11 | 2023-06-19 | 2024-02-26 |
+| [Ebb and Flow of the Tidal Waves](https://open.spotify.com/track/3X4tQh9ck7HeTuyUY2AEXF) | [Brain Timbre](https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1) | [Oceanic Oasis](https://open.spotify.com/album/0mLSpNwGD3VldWIIX4Vvhc) | 2:01 | 2023-06-19 |  |
 | [Falling Asleep at the Shore](https://open.spotify.com/track/0I2FETV7Ce2FZ22E9Xkizl) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Waves](https://open.spotify.com/album/27CDKjjwubPm4ZAQVNqsPq) | 2:59 | 2021-11-11 |  |
 | [Float Me To Sleep](https://open.spotify.com/track/43hRFRjcErwjh2s5iZH0MK) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Norwegian Streams](https://open.spotify.com/album/58FeGOWPRsEEGkYYZcEc55) | 2:08 | 2021-11-11 |  |
 | [Floating On Water](https://open.spotify.com/track/5nuD0hboqE9JlsnVR08qmk) | [Monterio](https://open.spotify.com/artist/2FPcGoYsX7uC8f9EZae0of) | [Floating On Water](https://open.spotify.com/album/5TMLFO1i8z3u1SddUErsNy) | 2:39 | 2021-11-11 |  |
@@ -184,7 +185,7 @@
 | [Stream Of Sleep](https://open.spotify.com/track/2sntSmbUc6xYEAh82RfreY) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Liquid Dream](https://open.spotify.com/album/0tnqwi45420HdLVOC1V9rn) | 2:24 | 2021-11-11 |  |
 | [Stress Relieving Sounds](https://open.spotify.com/track/0YbufbfIS8GR6UHPHYvkPW) | [Hidden Baltic Waves](https://open.spotify.com/artist/4wfduTyoMdvRNrbexmxn97) | [Wave Sounds For Sleep](https://open.spotify.com/album/3tvZj6qxgRKRg4WQEJiMGP) | 2:45 | 2022-01-21 |  |
 | [Summer Night By The Sea](https://open.spotify.com/track/6LDwyydIaHcrWxfonI0mIH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 2:42 | 2021-11-11 |  |
-| [Summer Ocean Waves](https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 2:45 | 2023-02-15 |  |
+| [Summer Ocean Waves](https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 2:45 | 2023-02-15 | 2024-03-12 |
 | [Sunday Night Waves](https://open.spotify.com/track/4wyrnxzpwN3ja8TPHfB7xP) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 3:10 | 2021-11-11 |  |
 | [Super Cold Waves](https://open.spotify.com/track/7J851Pjup3zK2XuEoOlaIZ) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Across The Ocean](https://open.spotify.com/album/1qLrKZJ5wFbTOrkNrANeHa) | 3:14 | 2021-11-11 |  |
 | [Super Soothing Evening Waves](https://open.spotify.com/track/6L8AUW3COyY7Z2Ww1RIEVH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:45 | 2021-11-11 | 2022-12-20 |

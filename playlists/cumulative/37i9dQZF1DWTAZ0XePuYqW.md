@@ -2,7 +2,7 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> That's that big energy\. Cover: <a href="spotify:artist:7kpAW7boBJFRFCMydZpjUd">Sadboi</a>
+> That's that big energy\. Cover: <a href="spotify:artist:7kpAW7boBJFRFCMydZpjUd">SadBoi</a>
 
 245 songs - 11 hr 55 min
 

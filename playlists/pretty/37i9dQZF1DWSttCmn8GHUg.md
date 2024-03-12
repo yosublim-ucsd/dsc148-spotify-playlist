@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,912 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,060 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 99 | [Gone But Not Forgotten](https://open.spotify.com/track/1lJuY06cD1aBtPJ4Xh9LFK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Gone But Not Forgotten](https://open.spotify.com/album/37snSBOMCp6s8pvK6gb8dL) | 2:53 |
 | 100 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 |
 
-Snapshot ID: `MCw1ZmY2ZGQ5YTU4MDFhYmIwNWM3NzdkNWQ4YjI0YjQ3NjhlMzY4YWYx`
+Snapshot ID: `MCxjNTJkYjEwYzJjMmVhZjViNDYyZDZlNTQyNGQyYWM3ZGZjZjRiZDU0`

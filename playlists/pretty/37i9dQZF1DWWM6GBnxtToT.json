@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 584108,
+  "num_followers": 584160,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmYzMWI4MjE0ZjY2MmJmZmU5OThhMzI0MjI3MjYyZTA2ODk3NTEx",
+  "snapshot_id": "MCxmNTZiYWNhNTlmN2IzNDNmMjA5MjViYzY5ZTE1Y2ZhZTliNzdiMWUy",
   "tracks": [
     {
       "added_at": "2024-02-05 09:30:14",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
       },
@@ -175,22 +159,18 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Unknown Song",
-        "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Paulina Eisenberg",
-          "url": "https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 250521,
-      "name": "Unknown Song",
-      "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -207,22 +187,6 @@
       "duration_ms": 247493,
       "name": "Sisyphus",
       "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
-        "name": "How Have You Been?",
-        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/45c4L5n0wh6KRv0SOf879S"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -247,6 +211,42 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/45c4L5n0wh6KRv0SOf879S"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Unknown Song",
+        "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Paulina Eisenberg",
+          "url": "https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT"
+        }
+      ],
+      "duration_ms": 250521,
+      "name": "Unknown Song",
+      "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Heartworks",
         "url": "https://open.spotify.com/album/0WBpc7PSDbgRZIHZ4mAY0q"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
         "name": "Only For A Moment",
         "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 161960,
       "name": "ich mags",
       "url": "https://open.spotify.com/track/5v41kP2xGYclmWX6bMhKzj"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -563,6 +547,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
         "name": "Hotel Surrender",
         "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
       },
@@ -595,26 +595,6 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
-        "name": "Don\u2019t Let Me Down",
-        "url": "https://open.spotify.com/album/427L6hniDKMN8kWwSI4uc8"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/2i7oYx3jb0r7sQtKovIfNz"
-        }
-      ],
-      "duration_ms": 200391,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/5hsOIinKbxVIVIggR55OAQ"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -695,6 +675,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -715,22 +711,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Home of Sanity (the playlist)",
-        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "ophelie",
-      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Someone You Love",
         "url": "https://open.spotify.com/album/3osxMWTR97vYigGuiqVhxM"
       },
@@ -747,18 +727,38 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
+        "name": "Don\u2019t Let Me Down",
+        "url": "https://open.spotify.com/album/427L6hniDKMN8kWwSI4uc8"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/2i7oYx3jb0r7sQtKovIfNz"
         }
       ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
+      "duration_ms": 200391,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/5hsOIinKbxVIVIggR55OAQ"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Home of Sanity (the playlist)",
+        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "ophelie",
+      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 262798,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/2Z8UT1hMeJlpCj1p7RUmcH"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 262798,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/2Z8UT1hMeJlpCj1p7RUmcH"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Go Out",
-        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 154452,
-      "name": "Go Out",
-      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Sweet Melancholy",
         "url": "https://open.spotify.com/album/3eR4Py7KIGQ0hsLtnFUYH8"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 178240,
       "name": "Sweet Melancholy",
       "url": "https://open.spotify.com/track/6pPQ49LVCxxxjxJArSvdxl"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Go Out",
+        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 154452,
+      "name": "Go Out",
+      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "More Than Happiness",
-        "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
-      },
-      "artists": [
-        {
-          "name": "Matija",
-          "url": "https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9"
-        }
-      ],
-      "duration_ms": 238186,
-      "name": "More Than Happiness",
-      "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "To Feel Something At All",
         "url": "https://open.spotify.com/album/46vIcaJA2Si8q22eFQkGEH"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 169533,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2WPhVFDTP6OyrfT2Hwg75K"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "More Than Happiness",
+        "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
+      },
+      "artists": [
+        {
+          "name": "Matija",
+          "url": "https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9"
+        }
+      ],
+      "duration_ms": 238186,
+      "name": "More Than Happiness",
+      "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO"
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
       },
       "artists": [
         {
-          "name": "Charlotte OC",
-          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
+          "name": "BILBAO",
+          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
         }
       ],
-      "duration_ms": 206290,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q"
+      "duration_ms": 184706,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
-      },
-      "artists": [
-        {
-          "name": "BILBAO",
-          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "Young Romance (Deluxe)",
         "url": "https://open.spotify.com/album/2naZrGbgsZ5YEQS4IZMjUy"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 279676,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/4yC3bN8quQSuJw4vK6AYtW"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte OC",
+          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
+        }
+      ],
+      "duration_ms": 206290,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q"
     },
     {
       "added_at": "2024-02-05 09:30:14",

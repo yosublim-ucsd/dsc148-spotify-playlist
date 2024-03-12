@@ -4,7 +4,7 @@
 
 > Santa au top des 50 hits de variété française du moment.
 
-109 songs - 5 hr 44 min
+110 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Laissez\-moi danser](https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Laissez\-moi danser](https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK) | 2:52 | 2023-09-28 |  |
 | [Le bruit du silence](https://open.spotify.com/track/063IwEdb1LaITJk0LOP0h9) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 3:02 | 2023-12-07 |  |
 | [Le chant est libre](https://open.spotify.com/track/75mPIntRqq7cjqnwOImjoA) | [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq) | [Le chant est libre](https://open.spotify.com/album/0oc0MJZSiphw6KpY9KgKum) | 3:42 | 2024-02-01 |  |
-| [Le chemin \(Lénie & Pierre\)](https://open.spotify.com/track/0N6vb3WsrfQqadaq7lWrnb) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/38uH901kwJKt0N1DkIextc) | 3:12 | 2024-02-15 |  |
+| [Le chemin \(Lénie & Pierre\)](https://open.spotify.com/track/0N6vb3WsrfQqadaq7lWrnb) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/38uH901kwJKt0N1DkIextc) | 3:12 | 2024-02-15 | 2024-03-12 |
+| [Le chemin \(Lénie & Pierre\)](https://open.spotify.com/track/6QSNzAdn3lJeYtO3qynUUR) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:12 | 2024-03-07 |  |
 | [Le feu](https://open.spotify.com/track/6dEysAhgnVJ9905XmZmwty) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/6XC68VDmRFxnFcybq2D0UP) | 3:57 | 2023-12-07 | 2024-03-01 |
 | [Le feu](https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:57 | 2023-09-28 | 2023-12-09 |
 | [Le hall des départs](https://open.spotify.com/track/5OSiXJYZvfXGCJh7XCfeWi) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Marie Poulain](https://open.spotify.com/artist/0tHVDfybuHROQ71GCPp5hS) | [Le hall des départs](https://open.spotify.com/album/66pvkJqMZ590mHlqAxlq7B) | 4:14 | 2023-09-28 | 2024-01-05 |

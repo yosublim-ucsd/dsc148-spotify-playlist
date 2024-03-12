@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Maddix
 
-412 songs - 21 hr 48 min
+413 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [AIR](https://open.spotify.com/track/7LCsrG7NKsd1gb7dVT2qxk) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [AIR](https://open.spotify.com/album/3tYIMhkgftIuiTtdKpnySC) | 2:25 | 2022-04-14 | 2022-07-12 |
 | [Alive Again](https://open.spotify.com/track/2P7Vn6uJ9hRKTJVYMmjppN) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Alive Again](https://open.spotify.com/album/3jsZSRV7pLrjFCD8FObfok) | 3:32 | 2022-04-14 | 2022-11-28 |
 | [All Around The World \(La La La La La\)](https://open.spotify.com/track/6m4wKDh7iIqfgKRbrIPbz9) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [All Around The World \(La La La La La\)](https://open.spotify.com/album/0Y8Eqjhf8X11esnBPRXpp7) | 2:17 | 2024-01-11 |  |
-| [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 | 2023-05-16 |  |
+| [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 | 2023-05-16 | 2024-03-12 |
 | [Andromeda](https://open.spotify.com/track/7i3uPLPnfPvssc3gvzIKdQ) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Sammy Boyle](https://open.spotify.com/artist/5D59iWwWhVFmQqqVdfKkU6) | [Andromeda](https://open.spotify.com/album/6upKHQtrjGQpI6c8LN33G6) | 3:06 | 2022-04-21 | 2022-07-12 |
 | [Andromeda](https://open.spotify.com/track/4cXtPGaAVwKygE3vVdYfbT) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Andromeda](https://open.spotify.com/album/0qUyM1v4xv2u5jW6lL9tmc) | 2:52 | 2023-11-16 | 2023-12-01 |
 | [Annihilate](https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Annihilate](https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk) | 2:45 | 2022-09-22 | 2023-09-15 |
@@ -31,6 +31,7 @@
 | [Away](https://open.spotify.com/track/0jlOSE3AQyktZ1syrahVxq) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Away](https://open.spotify.com/album/7p0C05QUXFD5TaJjA029Gn) | 3:05 | 2022-04-14 | 2022-06-24 |
 | [Baby, We Go Fast](https://open.spotify.com/track/5zAD7yXhRIun5y9SJ3O4Ec) | [KROMI](https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs) | [Baby, We Go Fast](https://open.spotify.com/album/6SodAOzVREjC27qIMnPlTB) | 3:30 | 2024-01-25 | 2024-02-16 |
 | [Back To Where We Started](https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Back To Where We Started](https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa) | 3:29 | 2022-11-10 | 2023-01-06 |
+| [Bad Cop](https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Bad Cop](https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj) | 2:20 | 2024-03-07 |  |
 | [Balança](https://open.spotify.com/track/2Bopu1tgBNg0xoWlHzsiqK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [Balança](https://open.spotify.com/album/0URvtoYBh6LaOqt72zPAjw) | 2:47 | 2023-02-09 | 2023-03-14 |
 | [BANG!](https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [BANG!](https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa) | 2:48 | 2023-08-24 | 2024-02-06 |
 | [Bassman](https://open.spotify.com/track/0X8PiJHcTFmmUwsGpvtFik) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Bassman](https://open.spotify.com/album/0DqcG0ERIGT3N9R5WtReg9) | 2:40 | 2022-04-14 | 2023-07-21 |

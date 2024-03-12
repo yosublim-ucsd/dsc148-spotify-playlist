@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Everybody Move",
+        "url": "https://open.spotify.com/album/5g9ZPYUnWl79HQWchAwoce"
+      },
+      "artists": [
+        {
+          "name": "F. Noize",
+          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Everybody Move",
+      "url": "https://open.spotify.com/track/3vodvhteZsq3Wydz9Y0kbX"
+    },
+    {
+      "album": {
         "name": "F#ck The Haters",
         "url": "https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM"
       },
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 227294,
       "name": "Made it to Thunderdome",
       "url": "https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe"
@@ -3110,7 +3128,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 192324,
       "name": "Number One Thriller",
       "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
@@ -3974,6 +3992,24 @@
       "duration_ms": 184461,
       "name": "Somebody Scream",
       "url": "https://open.spotify.com/track/4CdpHd15INaUXln3uZYwYN"
+    },
+    {
+      "album": {
+        "name": "Someone To Understand",
+        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Someone To Understand",
+      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
     },
     {
       "album": {

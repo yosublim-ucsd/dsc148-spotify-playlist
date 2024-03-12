@@ -11637,6 +11637,32 @@
     },
     {
       "album": {
+        "name": "\u30c1\u30fc\u30e0\u53cb\u9054 (Remix)",
+        "url": "https://open.spotify.com/album/6KqsbAQf7MTlQCxE1hHla2"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        },
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218613,
+      "name": "\u30c1\u30fc\u30e0\u53cb\u9054 - Remix",
+      "url": "https://open.spotify.com/track/7L23oYq9gQRjoxX8UlARLX"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30ea\u30b1\u30f3",
         "url": "https://open.spotify.com/album/5Um8TaZJ6QluqpqlMMs2db"
       },

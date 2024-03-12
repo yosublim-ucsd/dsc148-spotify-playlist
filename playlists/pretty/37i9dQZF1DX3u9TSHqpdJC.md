@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Carlina de Place\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,097 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,152 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 98 | [wreck](https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8) | [wreck](https://open.spotify.com/album/2RS3dR9XAsMRbglQ6azUT9) | 3:14 |
 | 99 | [Sinister](https://open.spotify.com/track/5g3VLhRVLUpWJghanBJkMm) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Sinister](https://open.spotify.com/album/2kOKgoaflXbstlzKnc9V7T) | 2:57 |
 
-Snapshot ID: `MCw1MGUwMjNhNDA4MzU5YWNjYTA4ZTYyM2FhYjk4OWRhZmUzNTM1ZGQ2`
+Snapshot ID: `MCxmMDEwYjkxMDRhZTNkMWYxMDk0NWY4ODg4ZWQ3ODYyMGIxYzlhYzU3`

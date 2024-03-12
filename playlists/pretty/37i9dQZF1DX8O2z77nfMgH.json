@@ -1,12 +1,12 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. Portada: Young Miko",
-  "num_followers": 901086,
+  "num_followers": 901105,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjczMjliYzVkZDUyNDYyZDk2YTQ5YmE3Y2M3OTNlOTZjNjE3Y2U0",
+  "snapshot_id": "MCxiYzY4ZTllOTZiYjZmMzk4YmViZDEzY2EwYzZhNDhjOGU4NGU1NjRh",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -47,6 +47,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Ya Pedo Qui\u00e9n Sabe",
+        "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 191284,
+      "name": "Ya Pedo Qui\u00e9n Sabe",
+      "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "1000COSAS",
         "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
       },
@@ -67,6 +87,98 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Calumnia",
+        "url": "https://open.spotify.com/album/4vEn1u4njtUh83FAncUiEX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Calumnia",
+      "url": "https://open.spotify.com/track/2AX7b01Rmdf215GOK3OIF8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "T\u00fa y yo",
+        "url": "https://open.spotify.com/album/4E9gLf1UriwtVl3sLBzrYT"
+      },
+      "artists": [
+        {
+          "name": "Pablito Pesadilla",
+          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 229250,
+      "name": "T\u00fa y yo",
+      "url": "https://open.spotify.com/track/44f6iQsFMOSYzEbiVQrP4q"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "BIEN :(",
+        "url": "https://open.spotify.com/album/4ibU38APxYukWF4ozigVz0"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Raul Clyde",
+          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+        }
+      ],
+      "duration_ms": 182660,
+      "name": "BIEN :(",
+      "url": "https://open.spotify.com/track/7tuYsmPjYHqsIJg42w2XGQ"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "MONEY EDITION",
+        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158841,
+      "name": "MONEY EDITION",
+      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Sentimientos",
         "url": "https://open.spotify.com/album/4oBWOgQpxPdX8NFQkNdo8c"
       },
@@ -79,6 +191,26 @@
       "duration_ms": 203674,
       "name": "Sentimientos",
       "url": "https://open.spotify.com/track/0J5CkzitOsAEXwGHGDA0Bn"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 187087,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -143,58 +275,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "BIEN :(",
-        "url": "https://open.spotify.com/album/4ibU38APxYukWF4ozigVz0"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Raul Clyde",
-          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
-        }
-      ],
-      "duration_ms": 182660,
-      "name": "BIEN :(",
-      "url": "https://open.spotify.com/track/7tuYsmPjYHqsIJg42w2XGQ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "T\u00fa y yo",
-        "url": "https://open.spotify.com/album/4E9gLf1UriwtVl3sLBzrYT"
-      },
-      "artists": [
-        {
-          "name": "Pablito Pesadilla",
-          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 229250,
-      "name": "T\u00fa y yo",
-      "url": "https://open.spotify.com/track/44f6iQsFMOSYzEbiVQrP4q"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Abuela",
         "url": "https://open.spotify.com/album/6q1BDJrKoGk8jADGrwmltN"
       },
@@ -211,62 +291,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Ya Pedo Qui\u00e9n Sabe",
-        "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
+        "name": "La Luna y T\u00fa",
+        "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         },
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 191284,
-      "name": "Ya Pedo Qui\u00e9n Sabe",
-      "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "YCQVM",
-        "url": "https://open.spotify.com/album/7lurBuFjNftY7NNRV1WWRr"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
-        }
-      ],
-      "duration_ms": 185416,
-      "name": "YCQVM",
-      "url": "https://open.spotify.com/track/0DhXBCJuq3cImBDmGNgT7A"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "MONEY EDITION",
-        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158841,
-      "name": "MONEY EDITION",
-      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
+      "duration_ms": 216734,
+      "name": "La Luna y T\u00fa",
+      "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -283,26 +323,6 @@
       "duration_ms": 218267,
       "name": "Amarte a la Antigua",
       "url": "https://open.spotify.com/track/1SpO1TuC0yVzDnfLcZ85xA"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Calumnia",
-        "url": "https://open.spotify.com/album/4vEn1u4njtUh83FAncUiEX"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Calumnia",
-      "url": "https://open.spotify.com/track/2AX7b01Rmdf215GOK3OIF8"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -327,22 +347,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd"
+        "name": "Papi Chulo",
+        "url": "https://open.spotify.com/album/73NL3nDazInhZlZVscrl5f"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
         },
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "elgaboaraya",
+          "url": "https://open.spotify.com/artist/4Sdq3EMi1CR3AEvQuNnSBE"
         }
       ],
-      "duration_ms": 187087,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
+      "duration_ms": 149041,
+      "name": "PAPI CHULO",
+      "url": "https://open.spotify.com/track/3NkL1NXmq8OwklrdcekTAG"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -387,6 +411,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "YCQVM",
+        "url": "https://open.spotify.com/album/7lurBuFjNftY7NNRV1WWRr"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        }
+      ],
+      "duration_ms": 185416,
+      "name": "YCQVM",
+      "url": "https://open.spotify.com/track/0DhXBCJuq3cImBDmGNgT7A"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
         "url": "https://open.spotify.com/album/4tjJGUArl5zuJzbTMpZoDE"
       },
@@ -403,26 +447,6 @@
       "duration_ms": 204705,
       "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6QmQXIf2VffSXXlyPe85lv"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "La Luna y T\u00fa",
-        "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "La Luna y T\u00fa",
-      "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -595,30 +619,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Papi Chulo",
-        "url": "https://open.spotify.com/album/73NL3nDazInhZlZVscrl5f"
-      },
-      "artists": [
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "elgaboaraya",
-          "url": "https://open.spotify.com/artist/4Sdq3EMi1CR3AEvQuNnSBE"
-        }
-      ],
-      "duration_ms": 149041,
-      "name": "PAPI CHULO",
-      "url": "https://open.spotify.com/track/3NkL1NXmq8OwklrdcekTAG"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Soy Todo",
         "url": "https://open.spotify.com/album/2rOtemlRB9ZvBIkUAF88D8"
       },
@@ -635,6 +635,26 @@
       "duration_ms": 261336,
       "name": "Soy Todo",
       "url": "https://open.spotify.com/track/57f2X9Am4tNzizcxVIcPy8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Ke Ganas de No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52"
+      },
+      "artists": [
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "ROMEA",
+          "url": "https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1"
+        }
+      ],
+      "duration_ms": 142517,
+      "name": "Ke Ganas de No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -767,26 +787,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Ke Ganas de No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52"
-      },
-      "artists": [
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "ROMEA",
-          "url": "https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1"
-        }
-      ],
-      "duration_ms": 142517,
-      "name": "Ke Ganas de No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "WHY",
         "url": "https://open.spotify.com/album/5iIhfMavOiN7uNntMyoE9c"
       },
@@ -875,42 +875,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Mala Suerte",
-        "url": "https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte"
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5TUeBr9Jqy5a8XFyuoYl1D"
       },
       "artists": [
         {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
         }
       ],
-      "duration_ms": 180312,
-      "name": "Mala Suerte",
-      "url": "https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Epicentro",
-        "url": "https://open.spotify.com/album/1jyslMKqM5FO4UAT7ZWl5C"
-      },
-      "artists": [
-        {
-          "name": "Las Bachas",
-          "url": "https://open.spotify.com/artist/1txC5Z2zkLl7L70EWvU7u9"
-        },
-        {
-          "name": "Bumont",
-          "url": "https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa"
-        },
-        {
-          "name": "Chato Bachas",
-          "url": "https://open.spotify.com/artist/6xHW7LtKC8Rp7Xf0SuTa1r"
-        }
-      ],
-      "duration_ms": 147505,
-      "name": "Mal Tr\u00e1fico Sonoro",
-      "url": "https://open.spotify.com/track/5kqftit8LnXbPzq7VLQwaK"
+      "duration_ms": 167575,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/196BZ6BCrFfuVcRKr0DzUn"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1051,6 +1027,46 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Epicentro",
+        "url": "https://open.spotify.com/album/1jyslMKqM5FO4UAT7ZWl5C"
+      },
+      "artists": [
+        {
+          "name": "Las Bachas",
+          "url": "https://open.spotify.com/artist/1txC5Z2zkLl7L70EWvU7u9"
+        },
+        {
+          "name": "Bumont",
+          "url": "https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa"
+        },
+        {
+          "name": "Chato Bachas",
+          "url": "https://open.spotify.com/artist/6xHW7LtKC8Rp7Xf0SuTa1r"
+        }
+      ],
+      "duration_ms": 147505,
+      "name": "Mal Tr\u00e1fico Sonoro",
+      "url": "https://open.spotify.com/track/5kqftit8LnXbPzq7VLQwaK"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Mala Suerte",
+        "url": "https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte"
+      },
+      "artists": [
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "duration_ms": 180312,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "desbarat\u00e1ndome",
         "url": "https://open.spotify.com/album/1JhFONe2KrAFPeSzX6fyRp"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 142687,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/206LMFOOS67922M9KOj0ac"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/5TUeBr9Jqy5a8XFyuoYl1D"
-      },
-      "artists": [
-        {
-          "name": "Kreizy k",
-          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
-        }
-      ],
-      "duration_ms": 167575,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/196BZ6BCrFfuVcRKr0DzUn"
     },
     {
       "added_at": "2024-03-08 05:00:00",

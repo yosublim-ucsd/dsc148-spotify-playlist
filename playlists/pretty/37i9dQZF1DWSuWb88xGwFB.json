@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33330,
+  "num_followers": 33347,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2YwYTFiY2RkOTliZmM1ZGMzNzZkZjNiZjdiYjgxNTRjNzVhZDVh",
+  "snapshot_id": "MCw3MWRlMWNmODA3YTUxZmEzZjUzZTc1ZTg3NjI0MjBhMmRhNjdiZTlh",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "I Get Lifted",
-        "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
       },
       "artists": [
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
         }
       ],
-      "duration_ms": 433373,
-      "name": "I Get Lifted (The Underground Network Mix)",
-      "url": "https://open.spotify.com/track/07nT2GYH0JJbPwtWmrmJFf"
+      "duration_ms": 430867,
+      "name": "Unbe (Erick 'More' Mix)",
+      "url": "https://open.spotify.com/track/5tDlZhntGKCwqFKJZXRYAv"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -467,34 +467,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+        "name": "I Get Lifted",
+        "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
       },
       "artists": [
         {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 430867,
-      "name": "Unbe (Erick 'More' Mix)",
-      "url": "https://open.spotify.com/track/5tDlZhntGKCwqFKJZXRYAv"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
-        "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 595093,
-      "name": "Witch Doktor (The Dark Ages Mix)",
-      "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
+      "duration_ms": 433373,
+      "name": "I Get Lifted (The Underground Network Mix)",
+      "url": "https://open.spotify.com/track/07nT2GYH0JJbPwtWmrmJFf"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -531,6 +515,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
+        "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 595093,
+      "name": "Witch Doktor (The Dark Ages Mix)",
+      "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Blues for You",
         "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 377093,
       "name": "Blues for You (Vocal Mix #1)",
       "url": "https://open.spotify.com/track/6o96U40oTGxjZXGt8dcQis"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Asuca",
+        "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 356676,
+      "name": "Asuca (Tribal Mix)",
+      "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -595,22 +611,6 @@
       "duration_ms": 519506,
       "name": "Higher State of Consciousness (DJ Wink's Hardhouse Mix)",
       "url": "https://open.spotify.com/track/2arz9AFJf2utACXWeynydn"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Asuca",
-        "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 356676,
-      "name": "Asuca (Tribal Mix)",
-      "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -703,38 +703,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Spark da Meth",
-        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
-      },
-      "artists": [
-        {
-          "name": "Da Mongoloids",
-          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
-        }
-      ],
-      "duration_ms": 398566,
-      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
-      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Phuture",
-        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
-      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Tyler Moore Mary (Mixes)",
         "url": "https://open.spotify.com/album/0yLhyujDegVpusv5ILwz0S"
       },
@@ -751,6 +719,22 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/2GR2SyVgjnJCDyCxajyCEB"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Spark da Meth",
+        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
+      },
+      "artists": [
+        {
+          "name": "Da Mongoloids",
+          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
+        }
+      ],
+      "duration_ms": 398566,
+      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
+      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -783,6 +767,22 @@
       "duration_ms": 483750,
       "name": "You Don't Know (MuthaFunkaz Tribute Mix)",
       "url": "https://open.spotify.com/track/2jzgWTrE0qUp7Pap6AHBRZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Phuture",
+        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
+      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama (Broder Mix)",
+      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Justify",
         "url": "https://open.spotify.com/album/6PhheNrljrGFJyhGe6RQSH"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 368466,
       "name": "Equinox (Henrik Schwarz Remix)",
       "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama (Broder Mix)",
-      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance (M.A.S. Club Vocal)",
-      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Jump & Sing / Work Me",
         "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
       },
       "artists": [
         {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+      "duration_ms": 479440,
+      "name": "Everybody Dance (M.A.S. Club Vocal)",
+      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1191,6 +1175,54 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+        }
+      ],
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9",
+          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+        }
+      ],
+      "duration_ms": 334220,
+      "name": "We Can Make It (The \u2018I Believe' Dub)",
+      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
+        }
+      ],
+      "duration_ms": 260065,
+      "name": "Shine (Sundown Dub)",
+      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Strictly Rhythms, Vol. 1",
         "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
       },
@@ -1223,38 +1255,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
-        }
-      ],
-      "duration_ms": 334220,
-      "name": "We Can Make It (The \u2018I Believe' Dub)",
-      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "DJ Sneak EP-Dancin'",
-        "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
-      },
-      "artists": [
-        {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
-        }
-      ],
-      "duration_ms": 731735,
-      "name": "Dancin",
-      "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Keep On Jumpin' (feat. Chazzie)",
         "url": "https://open.spotify.com/album/3uDbWkbSKipKALdmI8ZOUE"
       },
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+        "name": "DJ Sneak EP-Dancin'",
+        "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
       },
       "artists": [
         {
-          "name": "Barbara Douglas",
-          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
         }
       ],
-      "duration_ms": 260065,
-      "name": "Shine (Sundown Dub)",
-      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+      "duration_ms": 731735,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
     },
     {
       "added_at": "2022-03-03 13:59:16",

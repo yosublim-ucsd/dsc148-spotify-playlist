@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 210488,
+  "2024-03-12": 210523,
   "date_first_scraped": "2022-06-09",
   "description": "Put some pep in your step with these upbeat jams. Updated monthly. ",
   "name": "March Motivation ",
@@ -1053,7 +1053,7 @@
     {
       "album": {
         "name": "Beanie",
-        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+        "url": "https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ"
       },
       "artists": [
         {
@@ -1064,6 +1064,24 @@
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/0NOaEisILvRznCAco87cpI"
+    },
+    {
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-11",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"

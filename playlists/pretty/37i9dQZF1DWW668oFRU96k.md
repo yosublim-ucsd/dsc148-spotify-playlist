@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Jaimes x DubVision
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,782 likes - 91 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,800 likes - 91 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 90 | [Gaze Riddim](https://open.spotify.com/track/5Xq7NJfg5tS5qBG1iW0k9Z) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Justri](https://open.spotify.com/artist/538AGkkV4ipbxcHx47TvxA) | [Gaze Riddim](https://open.spotify.com/album/5Xzat1xqYPrvGcntlRUIgN) | 2:32 |
 | 91 | [Hostage](https://open.spotify.com/track/7ljHWDkPS449wZCcsaKPAE) | [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt), [Redeem](https://open.spotify.com/artist/6u1kWzXYc0GmRXyoWnkzPM) | [Hostage](https://open.spotify.com/album/5jFdwkp4wQL3a7PWAlIncg) | 2:50 |
 
-Snapshot ID: `MCxlMjIzYjVhYjk2NTU0YmM1NThkYjBmNWMzYWFiYzlmNGVmMmYxOWQx`
+Snapshot ID: `MCxmYzhjYTk1Nzc2NzI1YzkwMjQ2ZDEzNjBhZDlmZGI1MDA0ODg2ZmM2`

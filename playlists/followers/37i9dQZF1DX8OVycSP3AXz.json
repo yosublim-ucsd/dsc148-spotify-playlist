@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 71628,
+  "2024-03-12": 71635,
   "date_first_scraped": "2021-12-21",
   "description": "Replongez dans les plus grands tubes de la p\u00e9riode y\u00e9y\u00e9. Photo : Fran\u00e7oise Hardy",
   "name": "Salut les y\u00e9y\u00e9s",
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 124093,
       "name": "Viens danser le twist",
       "url": "https://open.spotify.com/track/5QLZEGOnjRYhqjAii9JAaP"
@@ -1829,6 +1829,24 @@
       "duration_ms": 126813,
       "name": "Viens danser le twist",
       "url": "https://open.spotify.com/track/0CibYO3SSIBM8skoXwHKpr"
+    },
+    {
+      "album": {
+        "name": "Viens danser le Twist (St\u00e9r\u00e9o)",
+        "url": "https://open.spotify.com/album/1rNd7SNM2PtfXR3yz9lYjD"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126813,
+      "name": "Viens danser le twist",
+      "url": "https://open.spotify.com/track/1SQe9OHaDTwvk2s6IcwoMM"
     },
     {
       "album": {

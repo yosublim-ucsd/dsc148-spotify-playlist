@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1549599,
+  "num_followers": 1549866,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjM4MjQ2MTVmZTY0ZDZhMjE5ZmExMDQ1YjdlZDY0MTQ3MTQ2ZjA4",
+  "snapshot_id": "MCxlZDBkNGRkODg2NzZhOWQ1NmYzZjM5NDY5ZjcyN2I3Zjc0YjFkOGIw",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Pjanoo",
         "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 243160,
       "name": "Push The Feeling On - Mk Dub Revisited Edit",
       "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -719,30 +719,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Cozi",
-          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Baby When the Light (feat. Cozi)",
-      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Guetta Blaster",
         "url": "https://open.spotify.com/album/2YKWh8IkQkekPgg5RIEtOn"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Cozi",
+          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Baby When the Light (feat. Cozi)",
+      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "It's Too Late",
-        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
-      },
-      "artists": [
-        {
-          "name": "Dirty South",
-          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
-        },
-        {
-          "name": "Evermore",
-          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
-        }
-      ],
-      "duration_ms": 181230,
-      "name": "It's Too Late - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 211533,
       "name": "Together - Radio Edit",
       "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "It's Too Late",
+        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Evermore",
+          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
+        }
+      ],
+      "duration_ms": 181230,
+      "name": "It's Too Late - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "L.E.F.",
-        "url": "https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 354613,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 168793,
       "name": "Faded",
       "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "L.E.F.",
+        "url": "https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 354613,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm"
     },
     {
       "added_at": "2023-03-22 14:00:00",

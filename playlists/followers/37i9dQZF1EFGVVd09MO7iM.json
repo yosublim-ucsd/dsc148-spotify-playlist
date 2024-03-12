@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 3126,
+  "2024-03-12": 3126,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp\">Pharrell Williams</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Pharrell Williams",
@@ -531,6 +531,24 @@
       "duration_ms": 246426,
       "name": "Baby",
       "url": "https://open.spotify.com/track/4AMNVe8rOzR1uR0HOlIc3w"
+    },
+    {
+      "album": {
+        "name": "In Search Of...",
+        "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "Baby Doll",
+      "url": "https://open.spotify.com/track/3CUgMeKdZlHUyMIH5o6Ufd"
     },
     {
       "album": {
@@ -7355,7 +7373,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 270866,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/1FmeMRONpObCjib16FuG7P"

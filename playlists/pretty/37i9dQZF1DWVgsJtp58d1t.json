@@ -1,28 +1,28 @@
 {
-  "description": "New music each and every Friday. In honor of Black History Month, we\u2019re giving flowers to prominent artists and their managers. <a href=\"https://www.instagram.com/p/C38GTj9Lzev/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\">Let's get into it</a>\n\nCover: Larry June and David Ali",
-  "num_followers": 1012179,
+  "description": "New music each and every Friday. Happy Women's History Month! Cover: SZA",
+  "num_followers": 1012368,
   "original_name": "This Is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTcwOTQ2NTA1YWEwZmUzYzRlMzUwMDVmNTI5OTViNWJlNTY3ZDVj",
+  "snapshot_id": "MCxiYTljYTA0MmYxODY4Yzg2NjEzNDY3OGNjMTRhMWJhZWJjMGFiZDIz",
   "tracks": [
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Dreamin",
-        "url": "https://open.spotify.com/album/6rZjKpK2kAK0cNPofSloqS"
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
       },
       "artists": [
         {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 157799,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/4XSHcdeXjk0Xsq7hFo3BpB"
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -47,34 +47,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "THE STUNT-MAN PACK",
-        "url": "https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B"
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/6rZjKpK2kAK0cNPofSloqS"
       },
       "artists": [
         {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
         }
       ],
-      "duration_ms": 171546,
-      "name": "YOLANDA",
-      "url": "https://open.spotify.com/track/2JPyIUTaDhW8PRwMUbSaRo"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Money On My Mind",
-        "url": "https://open.spotify.com/album/0Ce9CRbkNFyPqKgiKQPSO6"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 119250,
-      "name": "Money On My Mind",
-      "url": "https://open.spotify.com/track/1gAmZYaDy4ZxE1BabhnT68"
+      "duration_ms": 157799,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/4XSHcdeXjk0Xsq7hFo3BpB"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -243,6 +227,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "THE STUNT-MAN PACK",
+        "url": "https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "YOLANDA",
+      "url": "https://open.spotify.com/track/2JPyIUTaDhW8PRwMUbSaRo"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/4iJ7AXwW3ljCGt2adO26o4"
       },
@@ -259,6 +259,22 @@
       "duration_ms": 113313,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6znLgQRXhiM0OcrfO9caWh"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Money On My Mind",
+        "url": "https://open.spotify.com/album/0Ce9CRbkNFyPqKgiKQPSO6"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 119250,
+      "name": "Money On My Mind",
+      "url": "https://open.spotify.com/track/1gAmZYaDy4ZxE1BabhnT68"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -939,22 +955,6 @@
       "duration_ms": 235636,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "added_at": "2024-03-01 05:01:00",

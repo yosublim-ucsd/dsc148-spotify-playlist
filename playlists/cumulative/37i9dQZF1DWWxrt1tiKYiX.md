@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-239 songs - 13 hr 12 min
+240 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4dgY5vCvBBSylaRvgEd6dj) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 3:07 | 2022-07-15 | 2022-11-17 |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/6bnT4Xhs1lkOHgFjHq6M3b) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [i'm so tired..\. \(Stripped \- Live in LA\)](https://open.spotify.com/album/3bKSufZXpfGRvQ5qKBLJNh) | 3:07 | 2022-01-28 | 2022-07-29 |
 | [If We Ever Broke Up \- Acoustic](https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up \(Acoustic\)](https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj) | 2:27 | 2023-04-14 |  |
+| [imperfect for you \- acoustic](https://open.spotify.com/track/0blfewz7XXrjsZd5WnHwgE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 3:03 | 2024-03-11 |  |
 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 | 2023-06-30 |  |
 | [In Your Arms \(with X Ambassadors\) \- Stripped](https://open.spotify.com/track/33w2gkvsI5iAnMI8z8mYln) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [In Your Arms \(with X Ambassadors\) \- Stripped](https://open.spotify.com/album/1wXEZNc51l2gJSP3fm6Cni) | 4:04 | 2022-01-28 | 2022-11-26 |
 | [Intentions \- Acoustic](https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Intentions \(Acoustic\)](https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc) | 2:40 | 2022-01-28 |  |
@@ -181,7 +182,7 @@
 | [Paradise \- Guitar Acoustic](https://open.spotify.com/track/6GlMK7hhbyC0mlC3x5r3IY) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(The Acoustics\)](https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK) | 3:05 | 2022-10-14 | 2022-11-13 |
 | [Paradise \- Guitar Acoustic](https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(Guitar Acoustic\)](https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47) | 3:05 | 2022-07-15 | 2023-05-20 |
 | [Perfect](https://open.spotify.com/track/4pjBBVpRwXVHkp5yFlUyWU) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:06 | 2023-06-09 | 2024-02-10 |
-| [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 | 2023-09-29 |  |
+| [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 | 2023-09-29 | 2024-03-12 |
 | [Remember \- Acoustic](https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Acoustic\)](https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM) | 2:58 | 2022-01-28 |  |
 | [Remember That Night? \- Acoustic](https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night? \(Acoustic\)](https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd) | 3:42 | 2022-01-28 |  |
 | [RUNAWAY \- Acoustic](https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY \(Acoustic\)](https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3) | 2:22 | 2023-08-18 |  |

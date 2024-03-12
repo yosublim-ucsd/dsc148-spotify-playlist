@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,792 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,806 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [Hot Tub Time Machine](https://open.spotify.com/track/6KDHALPczYRgug40ohucum) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Hot Tub Time Machine](https://open.spotify.com/album/0GfkXTfETvRJAXRBhPbq6S) | 3:00 |
 | 70 | [Where Does The Light Go](https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Where Does The Light Go](https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3) | 3:42 |
 
-Snapshot ID: `MCwxMzY2YjA1MWUzMjAxMzdmZDM0M2Y4ZjBjZmNiNGNkNTBhNjMwNTA5`
+Snapshot ID: `MCwzZDYzYjJlZGJlNmY1MTE4OGM0ZWVjOTE5ZTc1MThiOTk1NGU3ZWJh`

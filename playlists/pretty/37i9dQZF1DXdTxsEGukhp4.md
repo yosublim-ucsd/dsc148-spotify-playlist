@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: PSYCHIC FEVER from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,801 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,808 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [twilight](https://open.spotify.com/track/4RointGDAgN9lumV9VY27q) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [twilight](https://open.spotify.com/album/5UT8tarzeeubxICZb7IAuQ) | 4:06 |
 | 50 | [スマイリーを探して](https://open.spotify.com/track/0XgoXio6L2d5tFhIq0K0ty) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:31 |
 
-Snapshot ID: `MCw1ZDIwYjZiYThlMTY5YjBhYTg2NjEyOTU0NzBjZjM1ZmJkMzE1Y2Yz`
+Snapshot ID: `MCw5ZWFkYzNjNzgyN2JkN2YxNGRhYWUzOWQ3N2Q5YzA0ZTAwZThhNjUz`

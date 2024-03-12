@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camil\u00fa & Karina",
-  "num_followers": 181283,
+  "num_followers": 181308,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTU5OWRhNDMxZDEzODAwYzNjYzM4NGU4YWE0OTc5MjQwMGQzOGMz",
+  "snapshot_id": "MCxhNjVkMzZhOTcyZTNkMmJjZDYyZTJlYmIyMGM2MTZmNjUzMzBjNjIx",
   "tracks": [
     {
       "added_at": "2024-03-07 20:51:00",
@@ -195,42 +195,6 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
-    },
-    {
-      "added_at": "2024-03-07 20:51:00",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2024-03-07 20:51:00",
-      "album": {
         "name": "Canciones Elegidas 93-04",
         "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
       },
@@ -267,18 +231,38 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 294146,
-      "name": "Entre Canibales - MTV Unplugged",
-      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
+      "duration_ms": 275440,
+      "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
+    },
+    {
+      "added_at": "2024-03-07 20:51:00",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -315,6 +299,22 @@
       "duration_ms": 251853,
       "name": "Agua Marfil",
       "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
+    },
+    {
+      "added_at": "2024-03-07 20:51:00",
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 294146,
+      "name": "Entre Canibales - MTV Unplugged",
+      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
-        "name": "Ac\u00fastico Gran Rex",
-        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 276853,
-      "name": "Pasan las Horas - En Vivo Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
-    },
-    {
-      "added_at": "2024-03-07 20:51:00",
-      "album": {
         "name": "El Acustico",
         "url": "https://open.spotify.com/album/2SIzqRpTyyyW61LU3i7WSR"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 276200,
       "name": "La \u00daltima L\u00e1grima",
       "url": "https://open.spotify.com/track/0cHVi2rirbT62DlX3uabke"
+    },
+    {
+      "added_at": "2024-03-07 20:51:00",
+      "album": {
+        "name": "Ac\u00fastico Gran Rex",
+        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 276853,
+      "name": "Pasan las Horas - En Vivo Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 246858,
+      "name": "Tan Solo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
+    },
+    {
+      "added_at": "2024-03-07 20:51:00",
+      "album": {
         "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
         "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 266824,
       "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
       "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
-    },
-    {
-      "added_at": "2024-03-07 20:51:00",
-      "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 246858,
-      "name": "Tan Solo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
-        "name": "Vitali Sessions #3 (En vivo)",
-        "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
-      },
-      "artists": [
-        {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
-        },
-        {
-          "name": "Vitali Sessions",
-          "url": "https://open.spotify.com/artist/0qygzhCoNDqxeoer3H2M4Y"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Como vos - En vivo",
-      "url": "https://open.spotify.com/track/2On90QefesETPtJw7LePV2"
-    },
-    {
-      "added_at": "2024-03-07 20:51:00",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -1247,18 +1227,22 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0"
+        "name": "Vitali Sessions #3 (En vivo)",
+        "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
       },
       "artists": [
         {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        },
+        {
+          "name": "Vitali Sessions",
+          "url": "https://open.spotify.com/artist/0qygzhCoNDqxeoer3H2M4Y"
         }
       ],
-      "duration_ms": 232263,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
+      "duration_ms": 198500,
+      "name": "Como vos - En vivo",
+      "url": "https://open.spotify.com/track/2On90QefesETPtJw7LePV2"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 232263,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
+    },
+    {
+      "added_at": "2024-03-07 20:51:00",
+      "album": {
         "name": "D\u00e9jame Dejarte Atr\u00e1s",
         "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 204775,
       "name": "D\u00e9jame Dejarte Atr\u00e1s",
       "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2024-03-07 20:51:00",
+      "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 243185,
       "name": "Pitada",
       "url": "https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0"
-    },
-    {
-      "added_at": "2024-03-07 20:51:00",
-      "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
-        "name": "Oma",
-        "url": "https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198405,
-      "name": "Oma",
-      "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
-    },
-    {
-      "added_at": "2024-03-07 20:51:00",
-      "album": {
         "name": "Frontera / Fuji",
         "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 278964,
       "name": "Fuji",
       "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
+    },
+    {
+      "added_at": "2024-03-07 20:51:00",
+      "album": {
+        "name": "Oma",
+        "url": "https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 198405,
+      "name": "Oma",
+      "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
     },
     {
       "added_at": "2024-03-07 20:51:00",

@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 131535,
+  "2024-03-12": 131544,
   "date_first_scraped": "2021-12-28",
   "description": "Fresh takes\u2014from new revisions and iconic covers to unexpected versions and the songwriter's own covers. Cover: <a href=\"spotify:artist:74ASZWbe4lXaubB36ztrGX\">Bob Dylan</a>",
   "name": "Bob Dylan: Covered",
@@ -1826,6 +1826,24 @@
     },
     {
       "album": {
+        "name": "Unhalfbricking (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/4iBu85RXwpJbpNLa8SMqrx"
+      },
+      "artists": [
+        {
+          "name": "Fairport Convention",
+          "url": "https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406986,
+      "name": "Percy's Song",
+      "url": "https://open.spotify.com/track/6v2IJEjc46hgOOf9R5ah6x"
+    },
+    {
+      "album": {
         "name": "Meet On The Ledge: The Classic Years (1967-1975)",
         "url": "https://open.spotify.com/album/6lHi6BAQFyyoEviq9ii9ii"
       },
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2018-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 407226,
       "name": "Percy's Song",
       "url": "https://open.spotify.com/track/42AculhBjoTlwLF4xz8Sit"

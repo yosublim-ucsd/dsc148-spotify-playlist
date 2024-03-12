@@ -4,7 +4,7 @@
 
 > The prince and Simon are determined to be together, but will they jeopardize their freedom and love in conflict with Royal ideals, traditions, and responsibilities?? Young Royals season 3, now on Netflix.
 
-108 songs - 5 hr 37 min
+110 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Club Believer](https://open.spotify.com/track/16GcTUKAsORkkuSUm8AXeO) | [Jeak](https://open.spotify.com/artist/4JUettwlB4WVsbyV4nesPo), [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [Electronic Dance Music](https://open.spotify.com/album/0NQ6fkJ9IQp43f1Bw8SoXY) | 3:17 | 2022-11-01 |  |
 | [Come to Play](https://open.spotify.com/track/4JW0wko97pint9Q7mGmlVK) | [Ty Frankel](https://open.spotify.com/artist/4DBLbQhhkjakBkjLK6qKbL), [Andrey Tatarinov](https://open.spotify.com/artist/0H6dLr0u8ZG6XgtZzbeBUX), [Nathan Bodiker](https://open.spotify.com/artist/1w3hZYAkeJgtpR9jf5PFJw) | [Supernatural Electro](https://open.spotify.com/album/5onl1JGIiTItlMfu1uFr8R) | 2:16 | 2022-11-01 |  |
 | [Converter](https://open.spotify.com/track/7kbLgu3ZU8wdigWyxtqOAB) | [Mega Drive](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8) | [Mega Drive](https://open.spotify.com/album/1ElCD6TWjAh7XWXaOCc4o6) | 6:42 | 2022-11-01 |  |
-| [C’est la Vie](https://open.spotify.com/track/2C8mQmjO77XZp7yjBUZADD) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [C’est la Vie](https://open.spotify.com/album/0rHZPg4fi6aHcFdXTwD8GW) | 3:04 | 2024-03-10 |  |
+| [C’est la Vie](https://open.spotify.com/track/2C8mQmjO77XZp7yjBUZADD) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [C’est la Vie](https://open.spotify.com/album/0rHZPg4fi6aHcFdXTwD8GW) | 3:04 | 2024-03-10 | 2024-03-12 |
+| [C’est la Vie \- Graham Lake Edit](https://open.spotify.com/track/6pWPMNxEGOhuiBWwtFvg8w) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [C’est la Vie \(Graham Lake Edit\)](https://open.spotify.com/album/6WG8xBDH9ia8hFSH72QSWA) | 2:24 | 2024-03-11 |  |
 | [Do It](https://open.spotify.com/track/7umGmLGG7JSYaNLVEWn44z) | [Total Ape](https://open.spotify.com/artist/6pUYaWjHnY2HdN6RC6ELml) | [Do It](https://open.spotify.com/album/5U9GxYiYEGQbZ5KQu568J8) | 2:00 | 2024-03-10 |  |
 | [Drama End](https://open.spotify.com/track/2357fNm3oeHHTLxo5lXRGd) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:44 | 2022-11-01 |  |
 | [Drama End](https://open.spotify.com/track/7tdukkbRcObCy8nqHXRbgM) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 2:44 | 2022-11-01 | 2022-11-17 |
@@ -95,6 +96,7 @@
 | [Sad Love](https://open.spotify.com/track/7LivawPPGfY0L3nQV1cvJx) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:25 | 2022-11-01 |  |
 | [Samurai Swords \- Acoustic Version](https://open.spotify.com/track/6Lq3so9twcIAyF1vLMaDwb) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Samurai Swords \(Acoustic Version\)](https://open.spotify.com/album/6SwPIxfYwDHpBjgumnPdip) | 3:48 | 2022-11-01 |  |
 | [Sankta Lucia](https://open.spotify.com/track/68JHQul9BJoRgsQL24uQUQ) | [Stella \- Solvieg Ågrens Kammarkör](https://open.spotify.com/artist/3BxHMhtalYAEU7Wt1QQr8K) | [Julens stjärna \- Christmas in Sweden](https://open.spotify.com/album/5Mv9u5upMxRPjxd1Zlz5ND) | 3:59 | 2022-11-01 |  |
+| [Say Less](https://open.spotify.com/track/1zbSt3myJBHpoIXLVguK67) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Say Less](https://open.spotify.com/album/3SM3OD3q5P7oukO8LWbY7Y) | 2:31 | 2024-03-11 |  |
 | [Scream](https://open.spotify.com/track/3IYXsHxBmcPPf3DoVo4m1z) | [WTRGRL](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9), [Zhone](https://open.spotify.com/artist/7lNLNqeV3RNOxVQVvs2OYg) | [Scream](https://open.spotify.com/album/2YklTT9ykWkc3tnlqwiKbR) | 2:40 | 2024-03-10 |  |
 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 | 2022-11-01 |  |
 | [Set Me Free](https://open.spotify.com/track/2ZKRfXesOlB5eXIL8ahV6G) | [Nicolas Boscovic](https://open.spotify.com/artist/4FE2Lo0zW2t0lfxXM2puyg) | [La Compilation 16](https://open.spotify.com/album/00gNKksWcLIDre47ZrsbnP) | 3:49 | 2024-03-10 |  |

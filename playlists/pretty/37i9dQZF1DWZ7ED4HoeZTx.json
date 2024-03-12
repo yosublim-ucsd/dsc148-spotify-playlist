@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 120494,
+  "num_followers": 120575,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTM5NTMyYWE3MmU2NjY3YzE3NmJhYmZhZDRiNTYwNjhjMDQ5MTc0",
+  "snapshot_id": "MCxhODRmYzQ4NmQ3YzZjZjI1NTM2MzlkYWMzYzk4ZTYxZjQ4ZjJiMGMw",
   "tracks": [
     {
       "added_at": "2024-02-01 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "Shogeki",
-        "url": "https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh"
-      },
-      "artists": [
-        {
-          "name": "Yuko Ando",
-          "url": "https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3"
-        }
-      ],
-      "duration_ms": 181594,
-      "name": "Shogeki",
-      "url": "https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO"
-    },
-    {
-      "added_at": "2024-02-01 03:00:00",
-      "album": {
         "name": "\u5c0f\u558b\u65e5\u548c",
         "url": "https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 227625,
       "name": "\u5c0f\u558b\u65e5\u548c",
       "url": "https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN"
+    },
+    {
+      "added_at": "2024-02-01 03:00:00",
+      "album": {
+        "name": "Shogeki",
+        "url": "https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh"
+      },
+      "artists": [
+        {
+          "name": "Yuko Ando",
+          "url": "https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3"
+        }
+      ],
+      "duration_ms": 181594,
+      "name": "Shogeki",
+      "url": "https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO"
     },
     {
       "added_at": "2024-02-01 03:00:00",

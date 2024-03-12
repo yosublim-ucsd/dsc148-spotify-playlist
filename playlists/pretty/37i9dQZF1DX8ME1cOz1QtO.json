@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 86470,
+  "num_followers": 86510,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWQ4OWI2MzgyMDFlYWI0ZWJkMTdlZTdkYzViZjRhNGNlYjA3ZGZh",
+  "snapshot_id": "MCwxMDEyMzQyZWE4YzQyMmNlNDU1MzQ0Mjg4MzBiNDYwZDQyNzVhNDI4",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -91,18 +91,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Blade Runner (Music From The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+        "name": "Desert Vision",
+        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
       },
       "artists": [
         {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+        },
+        {
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Rachel's Song",
-      "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
+      "duration_ms": 210600,
+      "name": "Desert Rain",
+      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -127,54 +131,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Desert Vision",
-        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
       "artists": [
         {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        },
-        {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 210600,
-      "name": "Desert Rain",
-      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 499266,
-      "name": "Kindred Spirit",
-      "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Cusco 2",
-        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Lake of the Ozarks",
-      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
+      "duration_ms": 288000,
+      "name": "Rachel's Song",
+      "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -215,6 +183,70 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Tubular Bells",
+        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 1397160,
+      "name": "Tubular Bells - Pt. II",
+      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 499266,
+      "name": "Kindred Spirit",
+      "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Cusco 2",
+        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Lake of the Ozarks",
+      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "The Essential Yanni",
+        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "The Mermaid",
+      "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "\u00c9quinoxe",
         "url": "https://open.spotify.com/album/4jz8xe3ErCHfGc0m0aGGau"
       },
@@ -247,38 +279,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Tubular Bells",
-        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 1397160,
-      "name": "Tubular Bells - Pt. II",
-      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "The Essential Yanni",
-        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "The Mermaid",
-      "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "New Age Of Earth",
         "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
       },
@@ -291,22 +291,6 @@
       "duration_ms": 349666,
       "name": "Deep Distance",
       "url": "https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Oxyg\u00e8ne, Pt. 3",
-      "url": "https://open.spotify.com/track/0QFSD48AcHzEqLBORGGLK6"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -355,22 +339,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 546106,
-      "name": "To the Unknown Man",
-      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Natural States",
         "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
       },
@@ -415,6 +383,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Oxyg\u00e8ne, Pt. 3",
+      "url": "https://open.spotify.com/track/0QFSD48AcHzEqLBORGGLK6"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Inside The Taj Mahal",
         "url": "https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP"
       },
@@ -427,22 +411,6 @@
       "duration_ms": 204000,
       "name": "Mumtaz Mahal",
       "url": "https://open.spotify.com/track/5B081R4ZB10dcY1w9sGcCq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "The Celts",
-        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -471,6 +439,38 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 546106,
+      "name": "To the Unknown Man",
+      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "The Celts",
+        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Ambient 3: Day Of Radiance",
         "url": "https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 1127173,
       "name": "Meditation No. 1",
       "url": "https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -555,6 +539,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Oasis [Remastered]",
+        "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 384133,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Caverna Magica (...Under The Tree - In The Cave...)",
         "url": "https://open.spotify.com/album/6RL8XkIxNFhMEwXeiNepu4"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 320493,
       "name": "Belladonna",
       "url": "https://open.spotify.com/track/1YQENHyvQPW2NZ9buace7G"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Oasis [Remastered]",
-        "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 384133,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "San",
-        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 414106,
-      "name": "Spirales",
-      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Keys To Imagination",
         "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
       },
@@ -703,34 +687,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+        "name": "San",
+        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
       },
       "artists": [
         {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Seven Waves",
-        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 317733,
-      "name": "The Third Wave - Love In The Waves",
-      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
+      "duration_ms": 414106,
+      "name": "Spirales",
+      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -747,6 +715,22 @@
       "duration_ms": 489093,
       "name": "Cosmic Energy",
       "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+      },
+      "artists": [
+        {
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 317733,
+      "name": "The Third Wave - Love In The Waves",
+      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 206146,
       "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Keys To Imagination",
+        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 399066,
+      "name": "Looking Glass",
+      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -851,38 +867,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
-      },
-      "artists": [
-        {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
-        }
-      ],
-      "duration_ms": 416026,
-      "name": "Midnight On Mars",
-      "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Keys To Imagination",
-        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 399066,
-      "name": "Looking Glass",
-      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Valley In The Clouds",
         "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
       },
@@ -915,22 +899,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Planet Voyage",
-        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Ursa Minor",
-      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Quiet Joy / Domestic Peace",
         "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
       },
@@ -943,6 +911,38 @@
       "duration_ms": 182453,
       "name": "Quiet Joy",
       "url": "https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+      },
+      "artists": [
+        {
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+        }
+      ],
+      "duration_ms": 416026,
+      "name": "Midnight On Mars",
+      "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Planet Voyage",
+        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Ursa Minor",
+      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Stepping Stars",
-      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
         "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 399560,
       "name": "Li Sun",
       "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Stepping Stars",
+      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
-      },
-      "artists": [
-        {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
-        }
-      ],
-      "duration_ms": 672226,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Images of Flutes in Nature",
         "url": "https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
+      },
+      "artists": [
+        {
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+        }
+      ],
+      "duration_ms": 672226,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Galaxies",
         "url": "https://open.spotify.com/album/1RD4b4SZU8Zu3dWaP406AJ"
       },
@@ -1415,6 +1415,26 @@
       "duration_ms": 200080,
       "name": "Crystal Petals",
       "url": "https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "The Best of the Golden Voyage",
+        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
+      },
+      "artists": [
+        {
+          "name": "Robert Bearns",
+          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
+        },
+        {
+          "name": "Ron Dexter",
+          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
+        }
+      ],
+      "duration_ms": 308360,
+      "name": "Flowers of Our Childhood",
+      "url": "https://open.spotify.com/track/71pXxbHZstxr3b6zTtgFPy"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1451,26 +1471,6 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "The Best of the Golden Voyage",
-        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
-      },
-      "artists": [
-        {
-          "name": "Robert Bearns",
-          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
-        },
-        {
-          "name": "Ron Dexter",
-          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
-        }
-      ],
-      "duration_ms": 308360,
-      "name": "Flowers of Our Childhood",
-      "url": "https://open.spotify.com/track/71pXxbHZstxr3b6zTtgFPy"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "Boreale - Remastered",
+      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Hear and Be Yonder",
         "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
       },
@@ -1587,38 +1603,6 @@
       "duration_ms": 465986,
       "name": "Carmel Valley Sunset",
       "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 394826,
-      "name": "Soaring: Crown Chakra",
-      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
-      },
-      "artists": [
-        {
-          "name": "Bernard Xolotl",
-          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1639,6 +1623,22 @@
       "duration_ms": 273180,
       "name": "Be-Muse-Ment",
       "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Procession",
+        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
+      },
+      "artists": [
+        {
+          "name": "Bernard Xolotl",
+          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1668,9 +1668,25 @@
           "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
         }
       ],
-      "duration_ms": 254626,
-      "name": "Boreale - Remastered",
-      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
+      "duration_ms": 1041569,
+      "name": "Pagnifico - Remastered",
+      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 394826,
+      "name": "Soaring: Crown Chakra",
+      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1719,22 +1735,6 @@
       "duration_ms": 553800,
       "name": "Elysian E",
       "url": "https://open.spotify.com/track/0ZO2xe48ituknhCWgzftnY"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Dragon Wings and Wizard Tales",
-        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
-      },
-      "artists": [
-        {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Lifeforce Celebration",
-      "url": "https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu"
     }
   ],
   "unique_name": "Early New Age",

@@ -2,9 +2,9 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:3VKQYnCpM6ofG8QUmlnW6d">Zalia</a>
 
-135 songs - 6 hr 43 min
+139 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 | 2023-07-31 |  |
 | [Duch](https://open.spotify.com/track/6YHsgC9zWTgjuqVgc1IIH5) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Duch](https://open.spotify.com/album/2AU8LM1soAwmbearqrb60K) | 4:01 | 2022-08-26 | 2023-03-14 |
 | [echo](https://open.spotify.com/track/3NAkWxTUKUGNTyl3V01mZf) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [echo](https://open.spotify.com/album/6mKo5zXgRUbxAEsVwvP5eu) | 2:12 | 2023-11-10 |  |
-| [Egoistka](https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/0Liumm2scg9ecS9Gqnva96) | 2:48 | 2022-08-26 |  |
+| [Egoistka](https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/0Liumm2scg9ecS9Gqnva96) | 2:48 | 2022-08-26 | 2024-03-12 |
+| [Every Single Person I Know](https://open.spotify.com/track/5uyfnKPivwc9im9rRXEU0u) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Every Single Person I Know](https://open.spotify.com/album/54QwxJC74lJG6A5M4SN6Je) | 2:07 | 2024-03-11 |  |
 | [Everybody’s Lonely](https://open.spotify.com/track/11Oz14NCrbx7sOLNoGEEa9) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Everybody’s Lonely](https://open.spotify.com/album/3R70FcNveS6yOfxvOpa0TX) | 2:16 | 2023-05-16 |  |
 | [Facetime](https://open.spotify.com/track/4GODMnu9X4jmPWFx6Dc0K1) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Facetime](https://open.spotify.com/album/1cYgJN1fXanHfUgm9ajCJQ) | 2:18 | 2022-08-26 | 2023-09-02 |
 | [Freestyle](https://open.spotify.com/track/21edHwVjnKC1X2QLjpp5Oi) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Freestyle](https://open.spotify.com/album/6pgZMKPMrzdMQdkdYbEfnV) | 2:06 | 2024-02-02 |  |
@@ -64,8 +65,9 @@
 | [Mam Już Dość](https://open.spotify.com/track/2PRPX3pHeEaY2BL5C8yu37) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Filip Leon](https://open.spotify.com/artist/3iBwYiThZoCMOWt0Vc69gv) | [Mam Już Dość](https://open.spotify.com/album/5ppmozRB4JkpmsEu5KHMVk) | 2:21 | 2023-04-14 | 2024-02-03 |
 | [mam kogoś lepszego \- Skytech Remix](https://open.spotify.com/track/5jrgxqv21VtnVURWPAWoaS) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [moja ciemność \(deluxe edition\)](https://open.spotify.com/album/5JDuoSUawI1hto3pkbvyVS) | 2:49 | 2022-08-26 | 2023-02-07 |
 | [mam kogoś lepszego \- Skytech Remix](https://open.spotify.com/track/6cSf2RDQlzZXd2Cdefnp7d) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [mam kogoś lepszego \(Skytech Remix\)](https://open.spotify.com/album/5Pm8jJBgEDWGcNqNe4bAWD) | 2:49 | 2022-09-23 | 2022-11-13 |
+| [Mam koleżankę](https://open.spotify.com/track/0OM0RY3tiPFLXf3xQvg1Ln) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Mam koleżankę](https://open.spotify.com/album/05PFH0lCFfQf5ugOwjDHL9) | 3:31 | 2024-03-11 |  |
 | [MAMA MI MÓWIŁA](https://open.spotify.com/track/3CsgwSk7PEFHfT7noqWPhb) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [MAMA MI MÓWIŁA](https://open.spotify.com/album/1ISKoGgtP6kGnDReCubHRh) | 2:53 | 2024-02-02 |  |
-| [Mamacita](https://open.spotify.com/track/7pEwr3iyJdZis2Fh0ILG7l) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Mamacita](https://open.spotify.com/album/6zmv8HnUVGnYcEEPdkDGOK) | 2:08 | 2022-08-26 |  |
+| [Mamacita](https://open.spotify.com/track/7pEwr3iyJdZis2Fh0ILG7l) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Mamacita](https://open.spotify.com/album/6zmv8HnUVGnYcEEPdkDGOK) | 2:08 | 2022-08-26 | 2024-03-12 |
 | [Maria, Maria \(Agora Muzyka Live Sessions\)](https://open.spotify.com/track/6OtpTU9SgpVZbiYBEqkzLD) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Maria, Maria \(Agora Muzyka Live Sessions\)](https://open.spotify.com/album/1sC0Ds8LKQaQFlCJLS9dIs) | 2:57 | 2022-08-26 |  |
 | [Met the God](https://open.spotify.com/track/2ZsDOLES3F0RdAKY4xC7tF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Power](https://open.spotify.com/album/05sLsId1SGFrPDJFf09rrS) | 2:58 | 2022-08-26 | 2023-06-05 |
 | [Miasto tętni](https://open.spotify.com/track/1Z1sQqU0FQ1ZZAESeRxlhO) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Miasto tętni](https://open.spotify.com/album/0EtJlxmS8iAqAUQbVoATOa) | 2:24 | 2023-09-01 | 2023-11-11 |
@@ -83,7 +85,7 @@
 | [neonowe laczki](https://open.spotify.com/track/6iNm8Px8IQwiFRfFlARt80) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [jestem bryska \(mini album\)](https://open.spotify.com/album/694sraSss3PDwTtbnn0U8N) | 2:30 | 2022-09-23 | 2023-03-14 |
 | [Niebieska Noc](https://open.spotify.com/track/5urPVqVx8tb3mUY8m9MLAo) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Niebieska Noc](https://open.spotify.com/album/1DyTAOv7dXCE2WuawmUzVh) | 2:47 | 2023-02-06 | 2023-03-14 |
 | [Niebieski sweter](https://open.spotify.com/track/28JkH7zChrtA1EWKZsIA2V) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Blaza](https://open.spotify.com/album/0gw1Iu0Qy9i6ZClil2iHp9) | 3:46 | 2023-02-06 | 2023-09-17 |
-| [Niebieski sweter](https://open.spotify.com/track/5CEWAINwbUzDrOYQqHZ7wq) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Blaza](https://open.spotify.com/album/1DSTAwlXX9gMup8yXeqoNo) | 3:46 | 2023-09-15 |  |
+| [Niebieski sweter](https://open.spotify.com/track/5CEWAINwbUzDrOYQqHZ7wq) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Blaza](https://open.spotify.com/album/1DSTAwlXX9gMup8yXeqoNo) | 3:46 | 2023-09-15 | 2024-03-12 |
 | [Niebieski sweter](https://open.spotify.com/track/7e6tfAscP8KHxBimBXVlmc) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Niebieski sweter](https://open.spotify.com/album/4OjFUK09FKHX6WROvvFNRi) | 3:46 | 2023-09-15 | 2023-09-18 |
 | [Niepewność](https://open.spotify.com/track/7rMtFn0tDxMB0WqN2DHKTd) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Niepewność](https://open.spotify.com/album/7g9YalkkMEqvtfXweACsRd) | 2:54 | 2023-10-05 |  |
 | [Nothin’ to worry](https://open.spotify.com/track/2r9c6RIWi7elZWGDxQZC0n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Nothin’ to worry](https://open.spotify.com/album/1jnB1ZnjhNLSv6EZii6iRv) | 2:42 | 2022-08-26 | 2023-10-06 |
@@ -98,7 +100,8 @@
 | [Paranoje](https://open.spotify.com/track/6GTPiI6jzm8rrITO1bq0bj) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Paranoje](https://open.spotify.com/album/2CxrNr8fIO0axRTxVdQqxz) | 3:39 | 2023-04-14 |  |
 | [Peter Pan](https://open.spotify.com/track/59CaZAXx7Qorn2KGjxvsCc) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [PARANOJE](https://open.spotify.com/album/7rSEyUq8J0e0jVMakQ07ps) | 3:56 | 2023-05-16 |  |
 | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/track/5WkvdnhbWZVJsmUiXvfHzq) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/album/08q8H2kQRgUlfdtkLsde84) | 4:29 | 2023-11-10 |  |
-| [plany](https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [plany](https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR) | 2:39 | 2022-08-26 |  |
+| [Plan F](https://open.spotify.com/track/0eqprQs8afmriQbN1tkA3I) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Plan F](https://open.spotify.com/album/2GFdILR5ikSH6JYtNw0RyP) | 2:11 | 2024-03-11 |  |
+| [plany](https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [plany](https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR) | 2:39 | 2022-08-26 | 2024-03-12 |
 | [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 | 2023-05-16 | 2024-02-28 |
 | [Poker](https://open.spotify.com/track/6B9KKY7xNGeyO1KV69wKMA) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7FWuvpwtVgLsMlg85KPG9A) | 1:46 | 2024-02-02 |  |
 | [Promil](https://open.spotify.com/track/2V11pbwkbgi3gj2tei1zl7) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Promil](https://open.spotify.com/album/1P0XxaPUVjqD9T8C7Km4qt) | 3:26 | 2022-08-26 |  |
@@ -140,6 +143,7 @@
 | [Zapomnieli](https://open.spotify.com/track/00NRXYw9q24APKKfHK7Z4w) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Zapomnieli](https://open.spotify.com/album/6rsxb4mxMY0lnALsVO2fnw) | 2:24 | 2023-03-13 | 2023-08-01 |
 | [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 | 2022-08-26 |  |
 | [Zgiełk](https://open.spotify.com/track/5aNYiszdl6gFgg8MAzbj4X) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Zgiełk](https://open.spotify.com/album/1rZ696lpMnNWJs58ICTWMQ) | 3:25 | 2023-09-01 |  |
+| [znowu sam](https://open.spotify.com/track/3LsWDZo1SpXNAzwQX35gPh) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [znowu sam](https://open.spotify.com/album/5kPIe6YX1PrxG91Axzhmfd) | 2:40 | 2024-03-11 |  |
 | [Złudzenia](https://open.spotify.com/track/2n5jDzn5XWO90vc6C7zRAs) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Złudzenia](https://open.spotify.com/album/2ISFdvufeOH0wtRUfF39RZ) | 3:29 | 2023-05-16 | 2023-11-11 |
 | [Złudzenia](https://open.spotify.com/track/0xechEr9xpwHY6eP2wrQud) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 3:31 | 2024-02-02 |  |
 | [Łezki](https://open.spotify.com/track/1wZ6X3kcv5tm7IQ1DbducM) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Łezki](https://open.spotify.com/album/27be3kNoeONlByK8LPKwCk) | 3:14 | 2022-08-26 | 2023-02-07 |

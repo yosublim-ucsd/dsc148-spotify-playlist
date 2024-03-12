@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 154986,
       "name": "Bisschen Liebe",
       "url": "https://open.spotify.com/track/3xJiVml80WEbicBuukBKD6"
@@ -2189,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Lumi Une",
+        "url": "https://open.spotify.com/album/7vGU5ssVjf96I70nCm61rd"
+      },
+      "artists": [
+        {
+          "name": "Irkenc Hyka",
+          "url": "https://open.spotify.com/artist/2IjzQBz1eSjEiop2L4omdu"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Lumi Une",
+      "url": "https://open.spotify.com/track/7GYvfyzpwBIUejDlXQ5XGh"
+    },
+    {
+      "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
@@ -2514,7 +2532,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 182623,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
@@ -3436,7 +3454,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 179473,
       "name": "Teresa & Maria",
       "url": "https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF"

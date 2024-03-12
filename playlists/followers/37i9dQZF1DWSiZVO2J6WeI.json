@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 776882,
+  "2024-03-12": 776936,
   "date_first_scraped": "2022-01-17",
   "description": "Hypnotic bliss.",
   "name": "Dreamy Vibes",
@@ -1054,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "Calming Endless",
+        "url": "https://open.spotify.com/album/5fHqJxKKzRBgVWdEB83RqQ"
+      },
+      "artists": [
+        {
+          "name": "Sanyo Green",
+          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177627,
+      "name": "Calming Endless",
+      "url": "https://open.spotify.com/track/2Ruhx1KsOZ7AW7KciDquSp"
+    },
+    {
+      "album": {
         "name": "Calmness",
         "url": "https://open.spotify.com/album/6rl4AYZm2ceF0B15vSkGtZ"
       },
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 174000,
       "name": "Equilibrium - Loopable with No Fade",
       "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
@@ -2877,7 +2895,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 170624,
       "name": "Incondizionatamente",
       "url": "https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv"
@@ -5192,6 +5210,24 @@
     },
     {
       "album": {
+        "name": "Starlit Solace",
+        "url": "https://open.spotify.com/album/3DJYbutHRmQ3beMWnK5sA3"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Nova",
+          "url": "https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166015,
+      "name": "Starlit Solace",
+      "url": "https://open.spotify.com/track/5PjgkvFBUCr4EKqLoN01C6"
+    },
+    {
+      "album": {
         "name": "Partly Cloudy",
         "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
       },
@@ -5347,7 +5383,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 188000,
       "name": "Takamatsu",
       "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
@@ -5567,6 +5603,24 @@
       "duration_ms": 179727,
       "name": "Unendlich",
       "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+    },
+    {
+      "album": {
+        "name": "Unfolding",
+        "url": "https://open.spotify.com/album/0yOaKPEteOBVPdhpHs0Xs7"
+      },
+      "artists": [
+        {
+          "name": "Manolakas",
+          "url": "https://open.spotify.com/artist/1I2mrOO7itWnvfrda514vi"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152986,
+      "name": "Unfolding",
+      "url": "https://open.spotify.com/track/5lgb2a2KzgBsk1Dmv87dKL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Sum 41
 
-369 songs - 18 hr 18 min
+370 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [is this what you wanted](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [is this what you wanted](https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA) | 3:45 | 2023-05-18 |  |
 | [It's Always Been You](https://open.spotify.com/track/0Ckr0nKhtub7GfoBzAl5bU) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [It's Always Been You](https://open.spotify.com/album/6a3CrpuNvaZ3JAXhKm2DBn) | 2:40 | 2022-07-04 | 2022-08-19 |
 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 | 2022-11-10 |  |
+| [Joan of Hill](https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Joan of Hill](https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr) | 4:13 | 2024-02-23 |  |
 | [Juice](https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG), [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo), [Oliver Baxxter](https://open.spotify.com/artist/1C3ukvfqNRUyRVi8Vvrz1b) | [Juice](https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA) | 3:11 | 2022-08-05 | 2023-05-19 |
 | [jump](https://open.spotify.com/track/2NbTcTv3m8t7wAGUvPhhp0) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT) | 2:40 | 2021-12-20 | 2022-07-19 |
 | [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-02-03 |  |
@@ -255,7 +256,7 @@
 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 | 2021-12-20 | 2022-07-19 |
 | [Poor Boy](https://open.spotify.com/track/07ITRcap7oVcCcfRScfvxX) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Poor Boy](https://open.spotify.com/album/345I2XOebtr1j2UqaGS6FY) | 2:33 | 2023-04-21 | 2023-05-16 |
 | [Portuguese Knives](https://open.spotify.com/track/2xiaqtvivM2PUPpSVqaIw6) | [Lost Love](https://open.spotify.com/artist/5IAbKA1N8YXggDLpdheaVh) | [Portuguese Knives](https://open.spotify.com/album/7sbcjY48QJNHxzOjEOnxRK) | 1:40 | 2021-12-20 | 2022-03-01 |
-| [Pretty Boy](https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Pretty Boy](https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ) | 2:55 | 2023-09-22 |  |
+| [Pretty Boy](https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Pretty Boy](https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ) | 2:55 | 2023-09-22 | 2024-03-12 |
 | [Promise](https://open.spotify.com/track/4hyMz2XnHVcms6Tb6hKmOo) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/2GhbRogqOKDZ2LCUBZ0K05) | 3:13 | 2022-11-10 | 2023-05-19 |
 | [Promise](https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz) | 3:13 | 2022-10-13 | 2022-12-19 |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-08-18 | 2023-07-07 |

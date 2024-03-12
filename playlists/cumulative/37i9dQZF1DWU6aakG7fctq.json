@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "carameloraro",
+        "url": "https://open.spotify.com/album/7y80vpcuTS0FIXmFOQaKau"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "carameloraro",
+      "url": "https://open.spotify.com/track/02kt7DDcT88R3dRt71qqr8"
+    },
+    {
+      "album": {
         "name": "Carbon Copy",
         "url": "https://open.spotify.com/album/5oqxbFXnvb6GXQXbT5AliN"
       },
@@ -2496,7 +2514,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 219636,
       "name": "Donde Se Fue el Sol",
       "url": "https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8"

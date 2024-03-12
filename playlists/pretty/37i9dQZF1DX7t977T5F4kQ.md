@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,222 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,232 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Chemistry](https://open.spotify.com/track/1odYuNwkJ51VtGyfR8DiVl) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [Chemistry](https://open.spotify.com/album/7kPLCFzzaPgJzCOCBFZ3ag) | 3:41 |
 | 80 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 |
 
-Snapshot ID: `MCxmYTI1MmE1NTc2MDE1Njk0NjFmZDMzMTUyZDA2NWU2ZmFlYTRlY2Qw`
+Snapshot ID: `MCwzNWNiODg3ZTQwYzM5ZjU3ZjNkZTBiNTUyYjA4NjZmOGU4NDE3MWU3`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,414 songs - 2 day 17 hr 32 min
+1,415 songs - 2 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1384,7 +1384,7 @@
 | [Шум](https://open.spotify.com/track/3bghEsjRvDLVt6PE3Loc4G) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [Шум](https://open.spotify.com/album/1xV2NAiAcc4WMO0jekaJHS) | 3:58 | 2021-05-25 | 2021-05-30 |
 | [Шёлковая простынь](https://open.spotify.com/track/2cRE1GZn09vQPtdxxiZF3X) | [O.G EzzY](https://open.spotify.com/artist/6Z8cDRcxWP1dtB7NardbEv) | [Шёлковая простынь](https://open.spotify.com/album/30evRwE110O8MXnxDoQYSF) | 3:03 | 2022-07-14 | 2022-07-23 |
 | [Щедра ніч](https://open.spotify.com/track/5MrUX20W8fhEslSpxM1mbR) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Щедра ніч](https://open.spotify.com/album/6FVaH8Xt87g6V1Uy3dQgaX) | 2:55 | 2023-12-25 | 2023-12-27 |
-| [Щоб не було](https://open.spotify.com/track/63hgMQantc0DLZM8BN180N) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Щоб не було](https://open.spotify.com/album/1DU1pDRECcDA475YVGkC8b) | 1:50 | 2024-02-02 |  |
+| [Щоб не було](https://open.spotify.com/track/63hgMQantc0DLZM8BN180N) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Щоб не було](https://open.spotify.com/album/1DU1pDRECcDA475YVGkC8b) | 1:50 | 2024-02-02 | 2024-03-12 |
 | [Щоб не було](https://open.spotify.com/track/7krNeHssTmY3ijTox4OBbD) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Щоб не було](https://open.spotify.com/album/00hex8Oa9MjhX3IVjj81sb) | 1:50 | 2022-12-10 | 2024-02-03 |
 | [Эй](https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Сборник хуйни и картинки](https://open.spotify.com/album/6bNQ6UFOF8C70iz7IajffH) | 2:15 | 2023-09-07 | 2024-01-31 |
 | [Эйя](https://open.spotify.com/track/1JIvXMC0aCeLnOCs1EHpNW) | [Канги](https://open.spotify.com/artist/0R4IeWuUpTkmca5hnS0j6b) | [Том I\. «Жить не запретишь»](https://open.spotify.com/album/3WFJkKCQugxNAQ0Jyfmf86) | 2:51 | 2021-04-18 | 2021-04-29 |
@@ -1407,6 +1407,7 @@
 | [Я поднимаю свою голову вверх](https://open.spotify.com/track/6PLtAhB74CfLT4VwmE5IBM) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [Я поднимаю свою голову вверх](https://open.spotify.com/album/075RSBB537dqc2j6A0QDc0) | 2:45 | 2023-08-10 | 2023-08-14 |
 | [я понял \- skit](https://open.spotify.com/track/46T22qAGkE8pDG8KBHsr29) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 1:20 | 2022-10-22 | 2022-10-24 |
 | [Я тобі брехала](https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Я тобі брехала](https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs) | 2:17 | 2024-02-14 |  |
+| [Я тобі брехала \- Amphiphil REMIX](https://open.spotify.com/track/1lGJjfu98UuYT58Zb9lLCT) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [Amphiphil](https://open.spotify.com/artist/6eLbNb1ECr1xqeu04vnbtD) | [Я тобі брехала \(Amphiphil REMIX\)](https://open.spotify.com/album/6jFXFD3ETaHtp3F609DXyp) | 1:54 | 2024-03-11 |  |
 | [Я уёбываю в джаз](https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/2AvnyNwfyaS3qNawe1eqxK) | 2:24 | 2023-02-06 | 2023-10-01 |
 | [Я уёбываю в джаз](https://open.spotify.com/track/3VeWIV9WTXUl8PcOusFjYv) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/00lCeyD5dYeohpChwbpueT) | 2:24 | 2022-01-05 | 2022-01-07 |
 | [Я хочу тебя трахать](https://open.spotify.com/track/12GNcuMwxsLQQG4A9flx9r) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Пропаганда денег](https://open.spotify.com/album/5LfOhXW4R8BAtuE1rGkK54) | 2:24 | 2022-04-16 | 2022-05-06 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 15,
+  "2024-03-12": 15,
   "date_first_scraped": "2024-02-23",
   "description": "",
   "name": "main playlist",
@@ -3039,6 +3039,24 @@
       "duration_ms": 84800,
       "name": "I got you, you got me",
       "url": "https://open.spotify.com/track/03qiLqFscvVrhBscAAWW3J"
+    },
+    {
+      "album": {
+        "name": "I Know Better",
+        "url": "https://open.spotify.com/album/67PM09778AoAOxAEeIvJbp"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257193,
+      "name": "I Know Better",
+      "url": "https://open.spotify.com/track/2nzzNKvjQaD85bOGwRsNg0"
     },
     {
       "album": {

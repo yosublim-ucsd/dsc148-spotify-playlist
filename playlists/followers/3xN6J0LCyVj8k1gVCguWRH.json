@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 107779,
+  "2024-03-12": 107779,
   "date_first_scraped": "2019-09-29",
   "description": "Some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2024",
@@ -17795,7 +17795,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 180872,
       "name": "Fire in the Heart",
       "url": "https://open.spotify.com/track/6JLCJFrHbT5KvpNObbQhaD"
@@ -21412,6 +21412,24 @@
     },
     {
       "album": {
+        "name": "Hace Calor",
+        "url": "https://open.spotify.com/album/44syB3GecTTDbqTYAfp9nr"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Jaramillo",
+          "url": "https://open.spotify.com/artist/1gAzUE1AN0yRSBOqWANrQf"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164999,
+      "name": "Hace Calor",
+      "url": "https://open.spotify.com/track/4rHonGCjoqsUUvsdPvwRI7"
+    },
+    {
+      "album": {
         "name": "Lenguajes del instinto",
         "url": "https://open.spotify.com/album/7J8A6zlLdsxwXOaMGwciRk"
       },
@@ -23201,7 +23219,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 164452,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4PrnKfyAzn2k6x64RBjcwx"
@@ -26107,6 +26125,24 @@
       "duration_ms": 137077,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/7mnuBuSAUe1UUErw1dTgrM"
+    },
+    {
+      "album": {
+        "name": "INTOXICATED",
+        "url": "https://open.spotify.com/album/1pZu75gXgMI4nwbMYoHZoj"
+      },
+      "artists": [
+        {
+          "name": "DosiRo",
+          "url": "https://open.spotify.com/artist/78Y3oUHXPqMiKsIB4RgePP"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163735,
+      "name": "INTOXICATED",
+      "url": "https://open.spotify.com/track/75tQhhigB2RmUfn3oPhkOI"
     },
     {
       "album": {

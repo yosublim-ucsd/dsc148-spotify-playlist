@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Life of the Forbidden",
+        "url": "https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249208,
+      "name": "An Embroidery",
+      "url": "https://open.spotify.com/track/3fGOSGKCGV4WTnDIOhD22M"
+    },
+    {
+      "album": {
         "name": "The Disorder of Appearances",
         "url": "https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x"
       },
@@ -1151,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
+    },
+    {
+      "album": {
         "name": "QUANTA 1:11",
         "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
       },
@@ -1538,7 +1574,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 258366,
       "name": "I Am You - Space Afrika Remix",
       "url": "https://open.spotify.com/track/2dqc2QouSxBbbPpu84peJh"
@@ -3290,7 +3326,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 344074,
       "name": "Selalu",
       "url": "https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32"

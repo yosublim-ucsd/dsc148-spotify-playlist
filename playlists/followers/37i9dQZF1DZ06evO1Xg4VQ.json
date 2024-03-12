@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 68609,
+  "2024-03-12": 68620,
   "date_first_scraped": "2023-12-19",
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
   "name": "This Is Lila Downs",
@@ -159,6 +159,24 @@
       "duration_ms": 275506,
       "name": "Cuando Me Tocas T\u00fa",
       "url": "https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p"
+    },
+    {
+      "album": {
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "Dignificada",
+      "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
     },
     {
       "album": {
@@ -381,7 +399,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 276000,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/4JM6RkLoNpC0H0eApxXzNX"

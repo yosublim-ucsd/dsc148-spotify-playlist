@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Guchi
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,407 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,421 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 69 | [Butterfly](https://open.spotify.com/track/19otAriajhp52Uo23vCRJ9) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw) | [Butterfly](https://open.spotify.com/album/6Wkf2TL4mufO0wLrfqsfzF) | 2:59 |
 | 70 | [Problems](https://open.spotify.com/track/2pnNn9p4qGkSApyBeMM2Gc) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Problems](https://open.spotify.com/album/3CIFG7DN9QuTAl6UgiqS12) | 2:47 |
 
-Snapshot ID: `MCxjMzBlNWI0OTFjNDgxMDFkYzBhNDE3YzllNWM3ZmJkOWViNjEzNWYy`
+Snapshot ID: `MCwxYzlmNDQwNzVjY2NiNzYxMjQ2YzNkNTJkYTA3YWM2NDRlZjNkMzBk`

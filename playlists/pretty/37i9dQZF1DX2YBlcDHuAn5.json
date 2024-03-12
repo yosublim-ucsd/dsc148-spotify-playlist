@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6965,
+  "num_followers": 6975,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWEyYTQzOWNlMzgzMWJkZDE4YTdhNWIwNjlkMGY3ODk0NzllZGIw",
+  "snapshot_id": "MCxlZGNjYTQyMTMxZjc5ZjJmZDhkNDNjYzM5MmQxOTY3ZDYzYWIzNDUx",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 220885,
-      "name": "Quittin' Time",
-      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Someone You Love",
         "url": "https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 254174,
       "name": "Someone You Love",
       "url": "https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 194474,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 299306,
       "name": "Tower Of Song",
       "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 194474,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Take A Ride",
         "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
       },
@@ -695,6 +679,38 @@
       "duration_ms": 213168,
       "name": "Take A Ride",
       "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -719,18 +735,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
       },
       "artists": [
         {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -747,22 +763,6 @@
       "duration_ms": 215440,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
-      },
-      "artists": [
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Times",
-        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
-      },
-      "artists": [
-        {
-          "name": "Marlayne",
-          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
-        },
-        {
-          "name": "Hans Vermeulen",
-          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
-        }
-      ],
-      "duration_ms": 244060,
-      "name": "Times",
-      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Times",
+        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
+      },
+      "artists": [
+        {
+          "name": "Marlayne",
+          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
+        },
+        {
+          "name": "Hans Vermeulen",
+          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
+        }
+      ],
+      "duration_ms": 244060,
+      "name": "Times",
+      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
     },
     {
       "added_at": "2024-03-07 23:00:00",

@@ -13333,6 +13333,24 @@
     },
     {
       "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/76lj2EbgZpE758nuG7lBtS"
+      },
+      "artists": [
+        {
+          "name": "Neutronix",
+          "url": "https://open.spotify.com/artist/0DIzzJ1buMRNtrsAad0K40"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144015,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/6MF9azgLJJ0JnWGF825liQ"
+    },
+    {
+      "album": {
         "name": "Maniac Raver",
         "url": "https://open.spotify.com/album/28hWePvGcIWDYKjkVNS5uU"
       },

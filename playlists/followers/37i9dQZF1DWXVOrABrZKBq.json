@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 15478,
+  "2024-03-12": 15482,
   "date_first_scraped": "2023-03-09",
   "description": "Le rap francophone est en forme. Photo: Werenoi, Damso",
   "name": "Connexion Rap",
@@ -1653,10 +1653,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 170413,
       "name": "Mauvais r\u00eave",
       "url": "https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5"
+    },
+    {
+      "album": {
+        "name": "Demain il fera beau",
+        "url": "https://open.spotify.com/album/2u89QX2fEHo9MaZjC1XHiw"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170413,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/7zncDTvklYVSZ4xOPDQtqb"
     },
     {
       "album": {

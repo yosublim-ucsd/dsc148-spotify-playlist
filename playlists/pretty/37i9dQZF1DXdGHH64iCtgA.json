@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 74929,
+  "num_followers": 74948,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmIwZWU5OWQ4ZWYyMzM0NGE2NmMyOGIzYmZlZmMwY2Q4YTEzYjlh",
+  "snapshot_id": "MCxkYmRmNDg5NWE2MjVkYzE3YWVkMWZjMDQyZDhjYTZiN2U2ODYyM2Zm",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 349693,
-      "name": "oh baby",
-      "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 221813,
       "name": "La Rua Madureira",
       "url": "https://open.spotify.com/track/2NTZ1nzUqueH7odDcjLq5s"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 349693,
+      "name": "oh baby",
+      "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+      },
+      "artists": [
+        {
+          "name": "Class Fools",
+          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "HEAVEN'S GATES (feat. Izzy Camina) [Manila Killa Remix]",
         "url": "https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 240000,
       "name": "HEAVEN'S GATES (feat. Izzy Camina) - Manila Killa Remix",
       "url": "https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
-      },
-      "artists": [
-        {
-          "name": "Class Fools",
-          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Euphories",
-        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
-      },
-      "artists": [
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Suricate - ODZ",
-      "url": "https://open.spotify.com/track/2wLpYTxV3laz3kaGL3xH38"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "DREAMLAND (DELUXE)",
         "url": "https://open.spotify.com/album/7yMUYER67OvjIuGqBgrdZO"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 228586,
       "name": "Zhudio54",
       "url": "https://open.spotify.com/track/2mIHEm6ZbKQ6ieeUeAlag3"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Suricate - ODZ",
+      "url": "https://open.spotify.com/track/2wLpYTxV3laz3kaGL3xH38"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Strut",
-      "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "First Album (2009 Reissue)",
         "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 319493,
       "name": "1982",
       "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1007,6 +1007,22 @@
       "duration_ms": 400373,
       "name": "Pain In The Ass",
       "url": "https://open.spotify.com/track/4DTgh1qUGqIGqzmrsa8wSj"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "TWINSOUL",
+        "url": "https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        }
+      ],
+      "duration_ms": 215417,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "TWINSOUL",
-        "url": "https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        }
-      ],
-      "duration_ms": 215417,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Bromance #1 - Single",
         "url": "https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "acts of rebellion",
-        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 360987,
-      "name": "they told us it was hard, but they were wrong.",
-      "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "No Hay Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 423601,
       "name": "No Hay Ma\u00f1ana - Club Mix",
       "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "acts of rebellion",
+        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 360987,
+      "name": "they told us it was hard, but they were wrong.",
+      "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Working Class Woman",
-        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
-      },
-      "artists": [
-        {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        }
-      ],
-      "duration_ms": 306187,
-      "name": "So Right",
-      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Working Class Woman",
+        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "duration_ms": 306187,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
     }
   ],
   "unique_name": "Runway",

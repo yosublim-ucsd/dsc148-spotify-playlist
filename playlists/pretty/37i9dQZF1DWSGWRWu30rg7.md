@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: NEALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,431 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,435 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 69 | [Why Can't I](https://open.spotify.com/track/5umoaDBuH6bIV7oazLwouw) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [Why Can't I](https://open.spotify.com/album/335eRtnoExauLL8Zbj0MoK) | 3:20 |
 | 70 | [Malam Tak Berjudul](https://open.spotify.com/track/72G8Le8BhpTKe5abDqZQEE) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Malam Tak Berjudul](https://open.spotify.com/album/7lCDU5y9iZ9f4T2WULA5eS) | 3:09 |
 
-Snapshot ID: `MCxkOTA2MzQyNjI5NjJkOGQ0ZmFiOGFiNTg4NmNmODE2NjY5YTI5ZmU1`
+Snapshot ID: `MCwzZWQ0NTE5YjVlZmE4MTJmZWY5NmM2NDIzZDRhOWVlZGI1OTIwZGE2`

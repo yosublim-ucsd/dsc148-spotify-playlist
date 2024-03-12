@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,810 likes - 30 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,826 likes - 30 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 29 | [Que putas le pasa al destino](https://open.spotify.com/track/2f845lg1LiI25lAGWRLbwr) | [Sebas Barcenas](https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk) | [Que putas le pasa al destino](https://open.spotify.com/album/0WBzU8hZCmc1WI1pSLdCsd) | 3:09 |
 | 30 | [Cositas Sucias](https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Cositas Sucias](https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj) | 2:21 |
 
-Snapshot ID: `MCxmMmZmYjY5OWUyZTVhZmIyYzIzNjQ4NjI1ZWYzNjJlNTI2ZjYyYTc1`
+Snapshot ID: `MCwxMGVkN2U3YmE5NmQxYzE3NjkxM2RkYTI5ZTYwNjM3YjE3MmZiMjFk`

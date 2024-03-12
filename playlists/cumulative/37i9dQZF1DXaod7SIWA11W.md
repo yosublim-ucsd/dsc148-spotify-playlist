@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-329 songs - 20 hr 15 min
+330 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Black Reconstruction](https://open.spotify.com/track/0lbpGauOZfYxbRk3Y0onnY) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Juneteenth: Faith & Freedom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NI0e8jehopq2DfA3KTZeZ) | 4:00 | 2022-07-17 | 2022-10-01 |
 | [Blak Sheep Freestyle](https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:05 | 2023-07-13 | 2024-02-03 |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-02-02 |  |
-| [Bless Him Some More \(feat\. John Dreher\)](https://open.spotify.com/track/4oXjuBmnWiXM9dGUbpyzon) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [John Dreher](https://open.spotify.com/artist/2xPTT6nveKcSqdSdHLsDtM) | [Bless Him Some More \(feat\. John Dreher\)](https://open.spotify.com/album/5mEoo6c6XTboSBq9p9abJB) | 8:42 | 2024-02-02 |  |
+| [Bless Him Some More \(feat\. John Dreher\)](https://open.spotify.com/track/4oXjuBmnWiXM9dGUbpyzon) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [John Dreher](https://open.spotify.com/artist/2xPTT6nveKcSqdSdHLsDtM) | [Bless Him Some More \(feat\. John Dreher\)](https://open.spotify.com/album/5mEoo6c6XTboSBq9p9abJB) | 8:42 | 2024-02-02 | 2024-03-12 |
 | [Bless Me](https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 4:32 | 2023-07-13 | 2024-02-03 |
 | [Bless Me](https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Bless Me](https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL) | 4:32 | 2022-06-01 | 2023-07-27 |
 | [Blessed Mode](https://open.spotify.com/track/7JPlYKKFQ6iKWAxsFZF3IS) | [Kel Mitchell](https://open.spotify.com/artist/1OnPFoy7Udp0M5R6xjfCcR), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Blessed Mode](https://open.spotify.com/album/15x3jykJeOXdE43DommQlB) | 3:03 | 2022-06-01 | 2022-07-18 |
@@ -53,6 +53,7 @@
 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 | 2022-09-30 | 2023-12-16 |
 | [By the River](https://open.spotify.com/track/52ivV2XnZz3M9JufTsInV1) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [By the River](https://open.spotify.com/album/4R63Gff88BFdSCdpsAbMK7) | 2:51 | 2023-02-02 | 2024-02-27 |
 | [CALL](https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [CALL](https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j) | 2:40 | 2022-06-01 | 2023-12-16 |
+| [Can I Get a Witness](https://open.spotify.com/track/4wa9fDSypocJR9E08iMkaS) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [Can I Get a Witness](https://open.spotify.com/album/3SGtDcEbFg8ilsXmwEs1RM) | 3:10 | 2024-02-02 |  |
 | [Cardio](https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Cardio](https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU) | 3:36 | 2023-11-02 |  |
 | [CATFISH](https://open.spotify.com/track/6tSD4UimW65YowULzt7eSz) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [CATFISH](https://open.spotify.com/album/2a9DwZ7PIgBX9sV956vyID) | 2:48 | 2022-06-01 | 2022-10-01 |
 | [CELEBRATE](https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ) | [CELEBRATE](https://open.spotify.com/album/0CxfDSY6xqyagbrgAYWPJ3) | 3:44 | 2022-06-01 | 2022-12-17 |

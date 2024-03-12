@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 187623,
+  "num_followers": 187692,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWNjMmRhYzFiMWE0MTQzYWYxOWFlM2MxN2MyNzFmMDg3YWVlZGQx",
+  "snapshot_id": "MCw5OWZkMDBhYjMzN2NlYjg1OWI5MWI5OThkZTg1MjY0MDg5ZDM1NDYy",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 196942,
+      "name": "the kids aren't alright",
+      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 176617,
       "name": "Fall Asleep",
       "url": "https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 196942,
-      "name": "the kids aren't alright",
-      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Girls With Glasses",
-        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
-      },
-      "artists": [
-        {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
-        }
-      ],
-      "duration_ms": 129706,
-      "name": "Girls With Glasses",
-      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "The Seduction of Kansas",
         "url": "https://open.spotify.com/album/7LFNJk5W0KLjtdgo9W4WmQ"
       },
@@ -1227,6 +1211,38 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Girls With Glasses",
+        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
+      },
+      "artists": [
+        {
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+        }
+      ],
+      "duration_ms": 129706,
+      "name": "Girls With Glasses",
+      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Home Recordings 2020 - 2021",
+        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
+      },
+      "artists": [
+        {
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Girlracer",
+      "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Try to Be Hopeful",
         "url": "https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 128880,
       "name": "Queer For You",
       "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Every Now and Then",
-        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
-      },
-      "artists": [
-        {
-          "name": "Wolf Girl",
-          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Dream Partner",
-      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     }
   ],
   "unique_name": "Queercore",

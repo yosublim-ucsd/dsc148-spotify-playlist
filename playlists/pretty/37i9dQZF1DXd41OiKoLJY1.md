@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: 25hearts Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,289 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,294 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [No Forever](https://open.spotify.com/track/1MEF4r2OceRBPgwpJqNozn) | [Sin Santos](https://open.spotify.com/artist/6ObY07YC4aESI52KJ16vQ5) | [No Forever](https://open.spotify.com/album/3dYgA9cA0oDhv0pFkXUCyF) | 2:52 |
 | 100 | [Forever](https://open.spotify.com/track/0sePmqjCBmvtsp7MqVBud5) | [Max Ayeza](https://open.spotify.com/artist/00kijE6MwdXfq2hBg80a1V) | [Forever](https://open.spotify.com/album/7g9mTCjYqstT5SpJe9wHbx) | 2:44 |
 
-Snapshot ID: `MCw5MzkzMTM1Mzg2ZTdlODc3N2ZiMGMzMzZlMzQ3NzRjNWE0ZWYzOTAz`
+Snapshot ID: `MCxmMjFkMDZmMzA3ZjU5NTVlMzk2ZGYzMjVhOTNhMzFjMWE3Y2E2ZmEx`

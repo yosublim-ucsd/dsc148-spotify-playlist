@@ -1,5 +1,5 @@
 {
-  "2024-03-11": 366514,
+  "2024-03-12": 366795,
   "date_first_scraped": "2022-01-24",
   "description": "Let's go!",
   "name": "Indie x Running",
@@ -1966,6 +1966,24 @@
     },
     {
       "album": {
+        "name": "Happy Customers",
+        "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170340,
+      "name": "Happy Customers",
+      "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
+    },
+    {
+      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -2391,7 +2409,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-11",
       "duration_ms": 228026,
       "name": "Jealous (I Ain't With It)",
       "url": "https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by"
