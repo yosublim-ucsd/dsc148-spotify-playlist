@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "name": "Krautrock Highway",
+  "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
+  "name": "Krautrock",
   "tracks": [
     {
       "album": {
@@ -2047,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "NEU! 75",
+        "url": "https://open.spotify.com/album/5jFhHUqOLlGag9HlhmlDVC"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431760,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/6qs0du8wCYvQLrLvKUS5bs"
+    },
+    {
+      "album": {
         "name": "Neu! Digital Box",
         "url": "https://open.spotify.com/album/7HRlqkxth9vE0F35S6JGvM"
       },
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 247900,
       "name": "I'm Not Living in the Past Anymore",
       "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
@@ -3020,6 +3038,24 @@
       "duration_ms": 217133,
       "name": "Like Foxes Through Fences",
       "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
+    },
+    {
+      "album": {
+        "name": "33641 (Instrumental Version)",
+        "url": "https://open.spotify.com/album/6gRt01llWuDsh96iVOFA6W"
+      },
+      "artists": [
+        {
+          "name": "Manic Vila",
+          "url": "https://open.spotify.com/artist/6l8cL9AYxzM9OqJlLLeVrd"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72746,
+      "name": "Lookin Up - Instrumental Version",
+      "url": "https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw"
     },
     {
       "album": {
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 124933,
       "name": "Synapse",
       "url": "https://open.spotify.com/track/7vwIzkbkgex07UkXbTr5L2"

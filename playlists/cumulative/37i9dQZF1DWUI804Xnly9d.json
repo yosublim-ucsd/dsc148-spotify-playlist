@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 217894,
       "name": "Khwaishein Meri",
       "url": "https://open.spotify.com/track/3Dbf1x9E6L8dyezdEQyzqP"
@@ -3364,6 +3364,28 @@
       "duration_ms": 243008,
       "name": "Le Aaunga (From \"Satyaprem Ki Katha\")",
       "url": "https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad"
+    },
+    {
+      "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/1yCz8yC7MWRjSo8HwhcSyi"
+      },
+      "artists": [
+        {
+          "name": "Reshabh Chhabra",
+          "url": "https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk"
+        },
+        {
+          "name": "KNOJIA",
+          "url": "https://open.spotify.com/artist/0giaHm23OwBcUmSVKXndAB"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194368,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/2uo1gmZZrFGkEP5gAqDhR7"
     },
     {
       "album": {
@@ -4764,7 +4786,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 234959,
       "name": "Tabeer",
       "url": "https://open.spotify.com/track/3JFEpoKGheoQ5EOrNJ1nJn"
@@ -5762,6 +5784,24 @@
       "duration_ms": 304125,
       "name": "Wo Mere Saath Saath",
       "url": "https://open.spotify.com/track/4duYnnrZthODike5XEcARR"
+    },
+    {
+      "album": {
+        "name": "Yaad",
+        "url": "https://open.spotify.com/album/0M53powa09z2dvfgYBfIX1"
+      },
+      "artists": [
+        {
+          "name": "Rahul Jain",
+          "url": "https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Yaad",
+      "url": "https://open.spotify.com/track/7r0CegHHWW1c5R1F9DfLLr"
     },
     {
       "album": {

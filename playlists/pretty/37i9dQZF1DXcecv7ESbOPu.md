@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,914 likes - 118 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,910 likes - 118 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 117 | [När ett hjärta gråter](https://open.spotify.com/track/5HZRnyC6UmG9VFoBfGQF0G) | [Donnez](https://open.spotify.com/artist/4rMk4gSVtsxoOb7NPwF6hA) | [När ett hjärta gråter](https://open.spotify.com/album/4yY9LcSLU9ukHp0eQE9dgj) | 3:09 |
 | 118 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 |
 
-Snapshot ID: `MCw5OGZlMmU1MjJjNjM2MjU4MDE3ZTJiYzgxZjVhMzZjNDkxZGNkMTA5`
+Snapshot ID: `MCwwMWIzZDY3NmE3MzEyZmEyMzM0ZGEwZGU1OTY2NGJhNTQ3MmE3YmE3`

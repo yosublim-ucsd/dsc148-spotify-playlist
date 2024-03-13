@@ -1,12 +1,12 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1130295,
+  "num_followers": 1130339,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzk5YzAwYjg5ZGE1N2Y4MGQ5M2IxMzBlNjkxYzk4ZDYxYWU3NGQ1",
+  "snapshot_id": "MCxjZGQ2MTZiYTRiOTVmOTlmMWYyNzBlMTVlOGQ1ZTA1ZDQ3M2Y4YmEy",
   "tracks": [
     {
       "added_at": "2024-02-09 20:08:05",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 265962,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/2oUkMuFYBhdBmMsLLkE0Uy"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 229466,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
-        "name": "Nothing to Lose",
-        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 265962,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/2oUkMuFYBhdBmMsLLkE0Uy"
     },
     {
       "added_at": "2024-02-09 20:08:05",

@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217729,
+  "num_followers": 217755,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTAwZDgwNmNlYmRjYTk2ZmEzNGI3MjhmNTYxMjc5ZjVlMjNkYjhh",
+  "snapshot_id": "MCxlZTJlNDQ1MmFlN2EwMzYxZGQ1YTJjZmFjNTE3NTk4MDZiOWZhNjNl",
   "tracks": [
     {
       "added_at": "2024-02-27 13:54:42",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Lamento",
-        "url": "https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm"
-      },
-      "artists": [
-        {
-          "name": "Sara Hoffman",
-          "url": "https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1"
-        }
-      ],
-      "duration_ms": 154750,
-      "name": "Lamento",
-      "url": "https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 137000,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Lamento",
+        "url": "https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm"
+      },
+      "artists": [
+        {
+          "name": "Sara Hoffman",
+          "url": "https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1"
+        }
+      ],
+      "duration_ms": 154750,
+      "name": "Lamento",
+      "url": "https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "An Inward Stillness",
-        "url": "https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW"
-      },
-      "artists": [
-        {
-          "name": "Augustino",
-          "url": "https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC"
-        }
-      ],
-      "duration_ms": 162938,
-      "name": "An Inward Stillness",
-      "url": "https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Before You Leave",
         "url": "https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 128946,
       "name": "Before You Leave",
       "url": "https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "An Inward Stillness",
+        "url": "https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW"
+      },
+      "artists": [
+        {
+          "name": "Augustino",
+          "url": "https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC"
+        }
+      ],
+      "duration_ms": 162938,
+      "name": "An Inward Stillness",
+      "url": "https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "duration_ms": 174426,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
         "name": "Dreamscape",
         "url": "https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
-      },
-      "artists": [
-        {
-          "name": "Algot Brooke",
-          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
-        }
-      ],
-      "duration_ms": 174426,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Spruces and pines",
         "url": "https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3"
-      },
-      "artists": [
-        {
-          "name": "Allard Sidonia",
-          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
-        }
-      ],
-      "duration_ms": 131106,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Chanson Pour Un Amour Perdu",
         "url": "https://open.spotify.com/album/4wSJswIZfgIzd3yxGdckFn"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 123628,
       "name": "Chanson Pour Un Amour Perdu",
       "url": "https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3"
+      },
+      "artists": [
+        {
+          "name": "Allard Sidonia",
+          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
+        }
+      ],
+      "duration_ms": 131106,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
+        "name": "A Day In June",
+        "url": "https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd"
+      },
+      "artists": [
+        {
+          "name": "Half Giant",
+          "url": "https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk"
+        }
+      ],
+      "duration_ms": 120080,
+      "name": "A Day In June",
+      "url": "https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
         "name": "Sorgl\u00f8s",
         "url": "https://open.spotify.com/album/1rZTPCZzEuYn9uzChNGdTw"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "A Day In June",
-        "url": "https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd"
+        "name": "Prati",
+        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
       },
       "artists": [
         {
-          "name": "Half Giant",
-          "url": "https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk"
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
         }
       ],
-      "duration_ms": 120080,
-      "name": "A Day In June",
-      "url": "https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus"
+      "duration_ms": 145566,
+      "name": "Prati",
+      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -907,18 +923,18 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Prati",
-        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+        "name": "Incision In The Silence",
+        "url": "https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN"
       },
       "artists": [
         {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
         }
       ],
-      "duration_ms": 145566,
-      "name": "Prati",
-      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
+      "duration_ms": 129563,
+      "name": "Incision In The Silence",
+      "url": "https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
-      },
-      "artists": [
-        {
-          "name": "Catherine Peterson",
-          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Peaceful Rebellion",
         "url": "https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI"
       },
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Incision In The Silence",
-        "url": "https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
       },
       "artists": [
         {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+          "name": "Catherine Peterson",
+          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
         }
       ],
-      "duration_ms": 129563,
-      "name": "Incision In The Silence",
-      "url": "https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83"
+      "duration_ms": 155750,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Pyramidale",
-        "url": "https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A"
-      },
-      "artists": [
-        {
-          "name": "Alicia Premi\u00e8re",
-          "url": "https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Pyramidale",
-      "url": "https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Just One More Time",
         "url": "https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 196312,
       "name": "Just One More Time",
       "url": "https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Pyramidale",
+        "url": "https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A"
+      },
+      "artists": [
+        {
+          "name": "Alicia Premi\u00e8re",
+          "url": "https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Pyramidale",
+      "url": "https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Fallen Leaves",
-        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
-      },
-      "artists": [
-        {
-          "name": "V\u00edgi Seaghdh",
-          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Fallen Leaves",
-      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Woman traveling alone",
         "url": "https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Del Mar",
-        "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
+        "name": "Fallen Leaves",
+        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
       },
       "artists": [
         {
-          "name": "Josh Jacobson",
-          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
+          "name": "V\u00edgi Seaghdh",
+          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
         }
       ],
-      "duration_ms": 160064,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
+      "duration_ms": 157626,
+      "name": "Fallen Leaves",
+      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Night Solace",
-        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
+        "name": "Del Mar",
+        "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
       },
       "artists": [
         {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+          "name": "Josh Jacobson",
+          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
         }
       ],
-      "duration_ms": 161469,
-      "name": "Night Solace",
-      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
+      "duration_ms": 160064,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1499,6 +1483,22 @@
       "duration_ms": 136000,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Night Solace",
+        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 161469,
+      "name": "Night Solace",
+      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Feuille",
-        "url": "https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX"
-      },
-      "artists": [
-        {
-          "name": "Elijah Reeves",
-          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "Feuille",
-      "url": "https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Fictional Reality",
         "url": "https://open.spotify.com/album/4pii8aE4Kr2mC3x8QxdXU6"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 140385,
       "name": "Fictional Reality",
       "url": "https://open.spotify.com/track/3Ro52fuPSWBfMqhbu9NTX8"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Feuille",
+        "url": "https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX"
+      },
+      "artists": [
+        {
+          "name": "Elijah Reeves",
+          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "Feuille",
+      "url": "https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO"
     },
     {
       "added_at": "2024-02-27 13:54:42",

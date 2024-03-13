@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Missy Raines
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,980 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,998 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 66 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 |
 | 67 | [Too Old to Die Young](https://open.spotify.com/track/0qzNCJhYq5m0jv0L5Eav6I) | [Bobby Osborne](https://open.spotify.com/artist/7t4RPufBc87g351q3Fp4tI), [C.J\. Lewandowski](https://open.spotify.com/artist/0AGFQ08HU9KSOL5hDiVlhh) | [Too Old to Die Young](https://open.spotify.com/album/1HURUQNowgOqFea2x9zqhM) | 2:46 |
 | 68 | [Orphan Annie](https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 5:00 |
-| 69 | [In Tall Buildings](https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Radio John: Songs of John Hartford](https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV) | 3:28 |
-| 70 | [Shays' Rebellion](https://open.spotify.com/track/1DUfLULXb2XLJF3dFqRRy9) | [The Mountain Grass Unit](https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl) | [Places I've Been](https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw) | 3:08 |
-| 71 | [Running Out Of Hope, Arkansas](https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Ain’t Through Honky Tonkin’ Yet](https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop) | 2:45 |
-| 72 | [I Call Her Sunshine](https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY) | [The Kody Norris Show](https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha) | [Rhinestone Revival](https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv) | 2:53 |
+| 69 | [Shays' Rebellion](https://open.spotify.com/track/1DUfLULXb2XLJF3dFqRRy9) | [The Mountain Grass Unit](https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl) | [Places I've Been](https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw) | 3:08 |
+| 70 | [In Tall Buildings](https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Radio John: Songs of John Hartford](https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV) | 3:28 |
+| 71 | [I Call Her Sunshine](https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY) | [The Kody Norris Show](https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha) | [Rhinestone Revival](https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv) | 2:53 |
+| 72 | [Running Out Of Hope, Arkansas](https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Ain’t Through Honky Tonkin’ Yet](https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop) | 2:45 |
 | 73 | [Crooked Mind](https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 3:18 |
 | 74 | [The More I Learn](https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [The More I Learn](https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b) | 4:06 |
 | 75 | [Sweet Spot](https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Sweet Spot](https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV) | 4:23 |
@@ -90,12 +90,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 80 | [Old Gods](https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Old Gods](https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk) | 3:46 |
 | 81 | [Fall Like Rain](https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX) | [Justin Moses](https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola) | [Fall Like Rain](https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY) | 4:22 |
 | 82 | [Graveyard Fields](https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p) | [Appalachian Road Show](https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM) | [Jubilation](https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh) | 2:59 |
-| 83 | [Well](https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Well](https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS) | 2:56 |
-| 84 | [East Virginia Blues](https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/3mgMv7LuXPwpflL8qUUYIG) | 3:42 |
+| 83 | [East Virginia Blues](https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/3mgMv7LuXPwpflL8qUUYIG) | 3:42 |
+| 84 | [Well](https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Well](https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS) | 2:56 |
 | 85 | [Blue Railroad Train](https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Blue Railroad Train](https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm) | 3:08 |
 | 86 | [The Whole of the Moon](https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs) | [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [The Whole of the Moon](https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC) | 4:42 |
-| 87 | [Heartbreak Train](https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ) | [Caroline Owens](https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE) | [Heartbreak Train](https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0) | 2:40 |
-| 88 | [Traveler](https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Travelers Rest](https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy) | 3:37 |
+| 87 | [Traveler](https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Travelers Rest](https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy) | 3:37 |
+| 88 | [Heartbreak Train](https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ) | [Caroline Owens](https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE) | [Heartbreak Train](https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0) | 2:40 |
 | 89 | [Maybelle](https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 2:19 |
 | 90 | [Long Gone](https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc) | [Authentic Unlimited](https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO) | [Authentic Unlimited](https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn) | 3:00 |
 | 91 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [Charlie Pickle](https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV) | [Sad Daddy](https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV) | [Way Up In The Hills](https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv) | 4:16 |
 | 100 | [Love Train](https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Rebecca Lynn Howard](https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD) | [Love Train](https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK) | 3:29 |
 
-Snapshot ID: `MCw5MWIzZDAzZDYzZmU4N2ZjYTNkN2U5Y2EyOWQzMWIzMjJiZDg4YmY5`
+Snapshot ID: `MCxjZjU3MGExMzY2NWU2NWU4ZThkNTcyMTI3ZWExMjlkNzg1NmE2M2Iw`

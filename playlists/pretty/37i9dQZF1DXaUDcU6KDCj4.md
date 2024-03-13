@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mt\. Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,601 likes - 151 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,674 likes - 151 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 150 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 |
 | 151 | [How Good](https://open.spotify.com/track/7fLGmNTDCV2Q79RxvOunTE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [How Good](https://open.spotify.com/album/0vh6Re7uiZecWV5coraF0I) | 3:00 |
 
-Snapshot ID: `MCxiMDJjNjQ0YmE2ZDhlY2MyNjZiMDhlZjA3ZjM5MTk4MWY4ZDc1NGRm`
+Snapshot ID: `MCw2Mjc3NmI3MDJkYjE5ZTQ2YTkyYTM1NTJjMWUzMzgzNjBmMmY1NGNl`

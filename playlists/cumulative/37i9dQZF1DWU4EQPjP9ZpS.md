@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-442 songs - 1 day 0 hr 36 min
+443 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Quesadilla Daddy](https://open.spotify.com/track/1a0naAlCwOaSQL7ykIbpXD) | [Limousine](https://open.spotify.com/artist/411IJ9TOjFsm7Jc8ZE9CJT) | [Quesadilla Daddy](https://open.spotify.com/album/6u9fCdmBhiMFKvsHPlnk5Y) | 1:39 | 2023-07-18 |  |
 | [Rash Devices \(FM Skyline Remix\)](https://open.spotify.com/track/4YmYML44U2s4QgdAP0oNrM) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L), [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Rash Devices \(FM Skyline Remix\)](https://open.spotify.com/album/1K6ONT5q55ZqSqdOlN0QFD) | 3:51 | 2022-06-06 | 2022-12-04 |
 | [Rash Devices \(FM Skyline Remix\)](https://open.spotify.com/track/79wLhsvLec9W97QcIDgtvQ) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L), [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Us Ephemeral \(Deluxe\)](https://open.spotify.com/album/75pYKbZ1Z2puVc7NpBfEgM) | 3:51 | 2022-09-11 | 2023-01-25 |
-| [Ready](https://open.spotify.com/track/5nyQzFdSrpty5ogo2pQH1h) | [Ambientcloud](https://open.spotify.com/artist/1YAxvWH0nQeTwtPxOzynf6) | [Ready](https://open.spotify.com/album/38idADPCBOedtHFKSaeMva) | 2:17 | 2022-01-26 |  |
+| [Ready](https://open.spotify.com/track/5nyQzFdSrpty5ogo2pQH1h) | [Ambientcloud](https://open.spotify.com/artist/1YAxvWH0nQeTwtPxOzynf6) | [Ready](https://open.spotify.com/album/38idADPCBOedtHFKSaeMva) | 2:17 | 2022-01-26 | 2024-03-13 |
 | [Real Time Lover](https://open.spotify.com/track/2dOvBBtJFetqjje2vZwbl2) | [Skeleton Lipstick](https://open.spotify.com/artist/05MvGEWQ5WcQVKnaQNzjdG) | [Real Time Lover](https://open.spotify.com/album/29Us2Mha3vkZxmxW4AFJgh) | 3:38 | 2022-04-12 | 2022-07-24 |
 | [Relax](https://open.spotify.com/track/0p9jPV9H74VqFEKsX1P1fV) | [Ahero](https://open.spotify.com/artist/1hONUxozR8WgZbGQb0EwTv) | [Cloud Zero](https://open.spotify.com/album/3VABoV6hfnboGf0JMInFEw) | 2:52 | 2022-09-11 | 2022-11-28 |
 | [Reliving the Present Past in the Future](https://open.spotify.com/track/6GrEzQ1XbxzDTLko0vaXlS) | [Mindspring Memories](https://open.spotify.com/artist/1dAnRR4DknhrKRSITF8xSr) | [Myst](https://open.spotify.com/album/0MDCornsE9fCOn28sgV4NH) | 5:55 | 2022-02-27 | 2022-04-20 |
@@ -315,6 +315,7 @@
 | [SECRET STEREO](https://open.spotify.com/track/2z73LFU7JDpHui9ITygjzq) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [SECRET STEREO](https://open.spotify.com/album/7Llx67uaeZOxKjvO4gMc2r) | 7:04 | 2022-01-26 | 2022-07-18 |
 | [SECRETS OF MY AGE](https://open.spotify.com/track/7v1tCi9eKKrmuXSzdWBAnU) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE), [ローマンRoman](https://open.spotify.com/artist/0Zm7QPcsR7LVXmZWcwlvCP) | [Class of '84](https://open.spotify.com/album/5e1DOeDqSV0EyBMswcoInh) | 3:07 | 2023-07-18 |  |
 | [see/D](https://open.spotify.com/track/3ZNG1UkA9phiIiCecYttfI) | [Satin Sheets](https://open.spotify.com/artist/00BuicDYmtptdvONaQwUSo) | [see/D](https://open.spotify.com/album/5N2OYLY8rYPA6tosA70Opw) | 3:02 | 2022-06-06 | 2022-07-22 |
+| [Self İsolation Boogie](https://open.spotify.com/track/7hXam7MynDVFyk4LJcUMxV) | [SloFevero](https://open.spotify.com/artist/22dZXkSMXDZVHZ2cF4nDsq) | [Self İsolation Boogie](https://open.spotify.com/album/1EpqkHPnMzzUERe5bDtFQf) | 1:44 | 2023-07-18 |  |
 | [Self\-Isolation Boogie](https://open.spotify.com/track/5R6l0pIwuRyF4AiYZ9Rdpv) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [CoronaWave: コロナウイルス](https://open.spotify.com/album/36TxAJXg1qqM2ALaO9FJjz) | 1:43 | 2021-12-08 | 2024-02-14 |
 | [Semitropic 2000](https://open.spotify.com/track/1TpHzhuUg6LBSHyzrzaX0B) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Semitropic 2000](https://open.spotify.com/album/0uHdOS7NAZpd4ndc0IVCpR) | 3:20 | 2021-12-08 | 2022-07-28 |
 | [She's Got the Stuff](https://open.spotify.com/track/3TnDiVltOXzokzIPPjRTPz) | [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [She's Got the Stuff](https://open.spotify.com/album/6ox9DgqhXkZe6Lyyz19f5i) | 2:41 | 2021-12-08 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,329 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,400 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 45 | [Lembra Aquele Cara](https://open.spotify.com/track/4O4zPFoJ5HWnqbGYlCA2qc) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Mc Pelourinho](https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx), [DJ Kennedy OBraboo](https://open.spotify.com/artist/0We5nkC71G4o6OHkLfx9uh) | [Vamo de Nova](https://open.spotify.com/album/7EO5s1F4RLF6gS3kycvxAt) | 2:05 |
 | 46 | [Erro Gostoso \- Ao Vivo](https://open.spotify.com/track/6vq7r1Pqd3pyI07u63cPZV) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/7lLjDECsr4tJUs0BEulGbU) | 2:58 |
 | 47 | [Morena \- Ao Vivo](https://open.spotify.com/track/0KqVaOxvmYJMz10w3SbiaV) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Morena \(Ao Vivo\)](https://open.spotify.com/album/5EfQ5PwczBX8nsllntPnLK) | 2:43 |
-| 48 | [TUM BÁ TUM](https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Dj Vitin do Pc](https://open.spotify.com/artist/2GAcS9WZyORyDBzd5bwfU5), [MC JF](https://open.spotify.com/artist/70l3FIdU2mVxemr3ahhgFs), [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS) | [Baile do Bruxo \(DELUXE\)](https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA) | 2:01 |
+| 48 | [TUMBÁTUM](https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Dj Vitin do Pc](https://open.spotify.com/artist/2GAcS9WZyORyDBzd5bwfU5), [MC JF](https://open.spotify.com/artist/70l3FIdU2mVxemr3ahhgFs), [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS) | [Baile do Bruxo \(DELUXE\)](https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA) | 2:01 |
 | 49 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
 | 50 | [Péssima Hora \- Ao Vivo](https://open.spotify.com/track/2BPZCE8hyWgaURPxQNA7pq) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Vegas In Goiânia \(Ao Vivo\)](https://open.spotify.com/album/4cSsbfrvBbjlz1gKQGvtHa) | 2:57 |
 
-Snapshot ID: `NzYzNTIxNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzYzNjA4MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

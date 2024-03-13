@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 22139,
+  "num_followers": 22147,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTBjMDE2ZjNiZGMyNmNiN2IzMmQxZWExYTg1Zjk5Y2RiYzkxMTE2",
+  "snapshot_id": "MCwwZTQ1ZjNlMGNiY2I3YWFhMTQwMThmZTNiOGY2MmQ2NDkxMGY1N2Ux",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -175,22 +175,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Earth Music for Aliens",
-        "url": "https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3"
-      },
-      "artists": [
-        {
-          "name": "Tony Spinner",
-          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
-        }
-      ],
-      "duration_ms": 302640,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 365440,
       "name": "You're Everything",
       "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Earth Music for Aliens",
+        "url": "https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3"
+      },
+      "artists": [
+        {
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+        }
+      ],
+      "duration_ms": 302640,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -421,6 +421,26 @@
       "url": "https://open.spotify.com/track/2HYvSsxyLiCMUMtM7ux8rd"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Bottleneck Stomp",
+        "url": "https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC"
+      },
+      "artists": [
+        {
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
+        }
+      ],
+      "duration_ms": 201859,
+      "name": "Bottleneck Stomp",
+      "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
+    },
+    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Boarding House Reach",
@@ -451,26 +471,6 @@
       "duration_ms": 218413,
       "name": "Anything But Time",
       "url": "https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Bottleneck Stomp",
-        "url": "https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC"
-      },
-      "artists": [
-        {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "Johnny Stachela",
-          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
-        }
-      ],
-      "duration_ms": 201859,
-      "name": "Bottleneck Stomp",
-      "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Middle of the Road",
         "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 277160,
       "name": "Change In Me (The Rebirth)",
       "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
-    },
-    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -767,6 +751,22 @@
       "duration_ms": 63720,
       "name": "Rattlin' Change",
       "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -849,20 +849,20 @@
       "url": "https://open.spotify.com/track/6WwKPvUMydIJFX0QAZfHYj"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
+      "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Mile End",
-        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
+        "name": "Royal Tea",
+        "url": "https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i"
       },
       "artists": [
         {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
+      "duration_ms": 268733,
+      "name": "Royal Tea",
+      "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
     }
   ],
   "unique_name": "Modern Blues Guitar",

@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 537646,
+  "num_followers": 537746,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2Y2N2IwMTE2MDcxY2M2NTI5NWQyZDc2YmFjYWViMDhkM2U2NDdl",
+  "snapshot_id": "MCxjNjIyYmU0OTc1ODdjOTZiZjgyZDEyNDAxYmEyNGIzYTMwNzBlYWYz",
   "tracks": [
     {
       "added_at": "2023-11-25 18:30:00",
@@ -403,6 +403,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "All Gone",
+        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
+      },
+      "artists": [
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Jacob",
+          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "All Gone",
+      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Aliyu",
         "url": "https://open.spotify.com/album/7LN85I2vF2ogylhUePHpsY"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 231000,
       "name": "Aliyu",
       "url": "https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "All Gone",
-        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
-      },
-      "artists": [
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Jacob",
-          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
-        }
-      ],
-      "duration_ms": 229436,
-      "name": "All Gone",
-      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "You Make Me Feel - Radio Version",
+      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Drivin Me Insane",
         "url": "https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 195724,
       "name": "Drivin Me Insane",
       "url": "https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
-      },
-      "artists": [
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "You Make Me Feel - Radio Version",
-      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI"
-      },
-      "artists": [
-        {
-          "name": "Synthatic",
-          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
-        }
-      ],
-      "duration_ms": 327887,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 452173,
       "name": "Silence",
       "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI"
+      },
+      "artists": [
+        {
+          "name": "Synthatic",
+          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
+        }
+      ],
+      "duration_ms": 327887,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/31OFHrOtxs6uuf1mu3GNiR"
+      },
+      "artists": [
+        {
+          "name": "Dang3r",
+          "url": "https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr"
+        }
+      ],
+      "duration_ms": 443186,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/7m8eozR3eg3MFxWomFcA8L"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/3R5bwfK41PlcujliH2X2UZ"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 215142,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/2peA9evFHZedrys82CcDr4"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/31OFHrOtxs6uuf1mu3GNiR"
-      },
-      "artists": [
-        {
-          "name": "Dang3r",
-          "url": "https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr"
-        }
-      ],
-      "duration_ms": 443186,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/7m8eozR3eg3MFxWomFcA8L"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1491,22 +1491,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal"
+        "name": "Other Days",
+        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
       },
       "artists": [
         {
-          "name": "Jilax",
-          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
         },
         {
-          "name": "Crazy Box",
-          "url": "https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP"
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
         }
       ],
-      "duration_ms": 290704,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk"
+      "duration_ms": 245357,
+      "name": "Other Days",
+      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1531,22 +1531,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Other Days",
-        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal"
       },
       "artists": [
         {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+          "name": "Jilax",
+          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
         },
         {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+          "name": "Crazy Box",
+          "url": "https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP"
         }
       ],
-      "duration_ms": 245357,
-      "name": "Other Days",
-      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
+      "duration_ms": 290704,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk"
     },
     {
       "added_at": "2023-11-25 18:30:00",

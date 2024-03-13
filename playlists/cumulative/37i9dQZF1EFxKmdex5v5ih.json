@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 247040,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW"
@@ -3378,6 +3378,28 @@
       "duration_ms": 183398,
       "name": "In The Stars (Benson Boone) - Sped Up Version",
       "url": "https://open.spotify.com/track/0nkpidxRN9kSxxEs0bxwvc"
+    },
+    {
+      "album": {
+        "name": "In The Stars (French Version)",
+        "url": "https://open.spotify.com/album/2VmbPgtq2R4rqZbZQjWD3u"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        },
+        {
+          "name": "Philippine Lavrey",
+          "url": "https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176688,
+      "name": "In The Stars - French Version",
+      "url": "https://open.spotify.com/track/0GucRM0BPRGxuzYPN3tF6T"
     },
     {
       "album": {
@@ -7312,7 +7334,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 198484,
       "name": "Up On A Hill",
       "url": "https://open.spotify.com/track/5MEeXlgf7c1GBpV2ffNFe4"
@@ -7532,7 +7554,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 388986,
       "name": "While We Are",
       "url": "https://open.spotify.com/track/1qmo10n1v2uEjQwDZpWppF"

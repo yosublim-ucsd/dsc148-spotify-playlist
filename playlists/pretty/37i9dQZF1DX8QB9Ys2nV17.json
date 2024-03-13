@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 175362,
+  "num_followers": 175437,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjY5NjA2OTFmZGMxYWM3ZWIxNzAxY2RkZTYxN2YwMDJjNDA5ZTJj",
+  "snapshot_id": "MCwyNGM1OWQ4OTFkZTVkZmMyOTI3Zjk0MDc2Y2RkYjU0MTk5OGY4MjRk",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Tricky Thing",
-        "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
-      },
-      "artists": [
-        {
-          "name": "Jessy Martens and Band",
-          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "Tricky Thing",
-      "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Soft Place To Fall",
         "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Tricky Thing",
+        "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
+      },
+      "artists": [
+        {
+          "name": "Jessy Martens and Band",
+          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "Tricky Thing",
+      "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 222826,
       "name": "Love on the Rocks",
       "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Ain't Gonna Hush!",
-        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
-      },
-      "artists": [
-        {
-          "name": "Saffire-The Uppity Blues Women",
-          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "Ain't Gonna Hush",
-      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -563,6 +547,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Shut Your Mouth and Do Something",
+        "url": "https://open.spotify.com/album/7iMlb5kEboQwsdOjbaa6of"
+      },
+      "artists": [
+        {
+          "name": "Ali Handal",
+          "url": "https://open.spotify.com/artist/5JG9RkDazTt64kyVpQDc5N"
+        }
+      ],
+      "duration_ms": 200449,
+      "name": "Shut Your Mouth and Do Something",
+      "url": "https://open.spotify.com/track/5rbX4du6LNRAvMm0zCIPCV"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Road I Call Home",
         "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 219945,
       "name": "Medicine Man",
       "url": "https://open.spotify.com/track/3Lr0bBluqoWt2F2njzyNLd"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ain't Gonna Hush!",
+        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
+      },
+      "artists": [
+        {
+          "name": "Saffire-The Uppity Blues Women",
+          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "Ain't Gonna Hush",
+      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -623,22 +639,6 @@
       "duration_ms": 251613,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Shut Your Mouth and Do Something",
-        "url": "https://open.spotify.com/album/7iMlb5kEboQwsdOjbaa6of"
-      },
-      "artists": [
-        {
-          "name": "Ali Handal",
-          "url": "https://open.spotify.com/artist/5JG9RkDazTt64kyVpQDc5N"
-        }
-      ],
-      "duration_ms": 200449,
-      "name": "Shut Your Mouth and Do Something",
-      "url": "https://open.spotify.com/track/5rbX4du6LNRAvMm0zCIPCV"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "10,000 Feet Below",
+        "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
+      },
+      "artists": [
+        {
+          "name": "Eliza Neals",
+          "url": "https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb"
+        }
+      ],
+      "duration_ms": 264521,
+      "name": "You Ain't My Dog No More",
+      "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Moon Goes Missing",
         "url": "https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 289026,
       "name": "Unintended Consequence Of Love",
       "url": "https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "10,000 Feet Below",
-        "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
-      },
-      "artists": [
-        {
-          "name": "Eliza Neals",
-          "url": "https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb"
-        }
-      ],
-      "duration_ms": 264521,
-      "name": "You Ain't My Dog No More",
-      "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
     },
     {
       "added_at": "2022-03-08 14:01:09",

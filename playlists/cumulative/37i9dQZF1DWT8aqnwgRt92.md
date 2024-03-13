@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,219 songs - 3 day 4 hr 43 min
+1,221 songs - 3 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A lonely night ～ひとりぼっちのGet Wild～](https://open.spotify.com/track/2HqmDb5HE9W9bh15VRZCHw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [アイニー](https://open.spotify.com/artist/1PqSi9Rgp6H0LhdCefCyPi), [RED](https://open.spotify.com/artist/5bVJRJd9mUtOh6b1sxM9gb) | [A lonely night ～ひとりぼっちのGet Wild～](https://open.spotify.com/album/7Av4wZIVDisfPaIzarh3UC) | 3:59 | 2023-09-19 | 2023-10-25 |
 | [A NEW DAY](https://open.spotify.com/track/6MLjkhdkMiC3IVpS9205Xf) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [A NEW DAY](https://open.spotify.com/album/2Ng7IKU01WIZL0NkjYbr5q) | 3:35 | 2023-07-13 | 2023-07-26 |
 | [A piece of cake](https://open.spotify.com/track/4pae88hho7DMgeCKukQXet) | [Kiyono Yasuno](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [A PIECE OF CAKE](https://open.spotify.com/album/4o9TQA0PoS0iea2MmA8ofx) | 2:41 | 2022-07-28 | 2022-09-21 |
+| [A.B.SECRET](https://open.spotify.com/track/4BaEWsa2psex2e7aGBKbOq) | [LIP×LIP](https://open.spotify.com/artist/5LtKPfXlcnoOvks1fj2c3b), [勇次郎 \(CV:内山昂輝\)](https://open.spotify.com/artist/6zcLeTGwFoddrcExg57vI4), [愛蔵 \(CV:島﨑信長\)](https://open.spotify.com/artist/1iOh71mDLOpHEdKPvDYKoc) | [A.B.SECRET](https://open.spotify.com/album/6dPCE5QeWOMRpdyEq5eQe3) | 2:39 | 2024-03-12 |  |
 | [abnormalize \(10th anniversary mix\)](https://open.spotify.com/track/0QKp0szQKadRZyv8Z41Xsz) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [アレキシサイミアスペア](https://open.spotify.com/album/2aqEPOonU6GGvuxJjVR5tr) | 3:41 | 2023-05-09 | 2023-07-05 |
 | [Abracada\-Boo](https://open.spotify.com/track/6sScdgu1m1tey48IoeMDkt) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Abracada\-Boo](https://open.spotify.com/album/2HdzJMCn6VXTuBJni0ANJ7) | 4:35 | 2022-08-02 | 2022-10-09 |
 | [Abyss\-Over](https://open.spotify.com/track/1EN4v238bm5XLgjT3qa323) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Abyss\-Over](https://open.spotify.com/album/1WN888rItH426MpIBh4zcq) | 3:52 | 2024-01-09 | 2024-01-31 |
@@ -470,6 +471,7 @@
 | [Otowa](https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Otowa](https://open.spotify.com/album/2nYVX9H4mPqz2a8A9efxzW) | 3:56 | 2024-01-09 | 2024-02-14 |
 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 | 2022-05-28 | 2022-07-06 |
 | [OveR](https://open.spotify.com/track/1HIyf8vbVjdKMAvz2iU3dU) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [OveR](https://open.spotify.com/album/5zl60jmeD0n8kmMnElcH3L) | 4:06 | 2022-05-28 | 2022-06-03 |
+| [Overture](https://open.spotify.com/track/7C98cHPoJtGblsTcoOa46d) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [VIVID](https://open.spotify.com/album/0ej3wD67mgjmuKAixMHW9n) | 1:12 | 2024-03-12 |  |
 | [Paper Bouquet](https://open.spotify.com/track/4rkcFNlUtrTidZO9AmWWUt) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Paper Bouquet](https://open.spotify.com/album/14p81Xh8T5AHUmguXhMVir) | 3:28 | 2022-05-28 | 2022-06-24 |
 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 | 2023-03-02 | 2023-04-21 |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-04 | 2023-07-14 |
@@ -630,7 +632,7 @@
 | [SURVIVE](https://open.spotify.com/track/1N2ftX938NJAeCZBiBbFiB) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [SURVIVE](https://open.spotify.com/album/7q6pacKSTnoHdyFoVa83DV) | 3:54 | 2023-04-11 | 2023-07-05 |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 | 2022-11-14 |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-10 | 2023-07-12 |
-| [Taikutsu Escape](https://open.spotify.com/track/7kwj5TKesYwBUdkRQl5zO0) | [出雲天花\(CV:内田真礼\)](https://open.spotify.com/artist/40t7MWYZLou0Eeg0AV0Yea) | [Taikutsu Escape](https://open.spotify.com/album/4TkmEa7eX7INv4foLN9m9t) | 4:07 | 2024-02-15 |  |
+| [Taikutsu Escape](https://open.spotify.com/track/7kwj5TKesYwBUdkRQl5zO0) | [出雲天花\(CV:内田真礼\)](https://open.spotify.com/artist/40t7MWYZLou0Eeg0AV0Yea) | [Taikutsu Escape](https://open.spotify.com/album/4TkmEa7eX7INv4foLN9m9t) | 4:07 | 2024-02-15 | 2024-03-13 |
 | [Tailwind](https://open.spotify.com/track/5zF2p0QeKLWGjcmF8D25ik) | [Kanae](https://open.spotify.com/artist/14iTK9oNk2bqL8k5rUQLll) | [Tailwind](https://open.spotify.com/album/3jAeeZ772d3RsqCsOkmiGd) | 3:51 | 2023-10-03 | 2023-10-13 |
 | [Tailwind](https://open.spotify.com/track/3cco1SyVp3QgkOsrVnVGhA) | [Katagiri](https://open.spotify.com/artist/5duYVbF1t32VmVaI33fYAS) | [Tailwind](https://open.spotify.com/album/47L5KBCqVmyFBLr7MU2C2M) | 4:02 | 2023-10-03 | 2023-10-13 |
 | [tailwind](https://open.spotify.com/track/4eWA4UcHed1NTE8kdTVL7U) | [katagiri](https://open.spotify.com/artist/0ncQh2zi1V4dWyYO1XdQKn) | [tailwind](https://open.spotify.com/album/3OUb3n5zuO0taxE6h29fl6) | 4:02 | 2023-10-03 | 2023-10-05 |
@@ -708,7 +710,7 @@
 | [White Love](https://open.spotify.com/track/3B1EQrVkFiaHHTFbspLrwX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [White Love](https://open.spotify.com/album/4Mk7ZN64AnujZEE2lgZ2JA) | 5:36 | 2022-11-24 | 2022-12-07 |
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-01-10 | 2023-06-09 |
 | [WHO ARE ME？](https://open.spotify.com/track/0GNW0n51GebjUm7rNkAheS) | [峯田茉優](https://open.spotify.com/artist/6upQVPtLKJ0PQJRsw9LiRy) | [WHO ARE ME？](https://open.spotify.com/album/0Osc6NIlI0TOSsIE1ncgmq) | 3:00 | 2023-08-01 | 2023-10-04 |
-| [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 | 2023-12-28 |  |
+| [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 | 2023-12-28 | 2024-03-13 |
 | [WILDER](https://open.spotify.com/track/6iczknaVftpxX229RnqOzY) | [UPSTART](https://open.spotify.com/artist/4PLPwM88KIwvLnDqSt5S6M) | [WILDER](https://open.spotify.com/album/7gyD3siobyffjzTIz2ZRxz) | 3:18 | 2023-08-01 | 2023-10-04 |
 | [WILDER \- feat\. Hiro from MY FIRST STORY](https://open.spotify.com/track/45ox7i49tAE2cyJHhHYK6C) | [UPSTART](https://open.spotify.com/artist/4PLPwM88KIwvLnDqSt5S6M), [Hiro from MY FIRST STORY](https://open.spotify.com/artist/7BYZgMC85TULFyMg1KFNZO) | [WILDER \(feat\. Hiro from MY FIRST STORY\)](https://open.spotify.com/album/7hipmZB6fH7K44ZUHtydc2) | 3:18 | 2023-10-03 | 2023-10-27 |
 | [WINNER](https://open.spotify.com/track/3hRqmUI4Mzh5h0drGk24AF) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [WINNER](https://open.spotify.com/album/2i7pkoWfNRHz9aIrTQ3Lmp) | 3:32 | 2022-10-18 | 2022-11-25 |

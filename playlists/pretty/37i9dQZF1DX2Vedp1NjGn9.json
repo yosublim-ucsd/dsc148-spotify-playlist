@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 113853,
+  "num_followers": 113918,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTdkZGI1OTE0OGYzZGVhZGE1MGEyYTQ0MWMxYWJmYmMxN2Y3NDUx",
+  "snapshot_id": "MCxjYWIxMTlmMDc5YTk0ZTMxNTA2NDViYjk0MjFiNTExYTc1NThkODc0",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -683,18 +683,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 257786,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
+      "duration_ms": 196040,
+      "name": "Corinne",
+      "url": "https://open.spotify.com/track/6guXQ9rHmOofkqp8uHYO8r"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Corinne",
-      "url": "https://open.spotify.com/track/6guXQ9rHmOofkqp8uHYO8r"
+      "duration_ms": 257786,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "His Young Heart",
-        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Landfill",
-      "url": "https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 127640,
       "name": "The Cascades",
       "url": "https://open.spotify.com/track/0doAllpYP3hnusnTwFqmdG"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "His Young Heart",
+        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Landfill",
+      "url": "https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c"
     },
     {
       "added_at": "2021-09-02 08:15:11",

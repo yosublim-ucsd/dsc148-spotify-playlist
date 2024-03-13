@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 33894,
+  "2024-03-13": 33898,
   "date_first_scraped": "2021-12-28",
   "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0634\u0645\u0627 \u062d\u0645\u062f\u0627\u0646",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
@@ -3244,6 +3244,24 @@
     },
     {
       "album": {
+        "name": "Rabea Youm",
+        "url": "https://open.spotify.com/album/0ttIhY7IARi9VAsKgEs0Ae"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266799,
+      "name": "Rabea Youm",
+      "url": "https://open.spotify.com/track/1JC6xks3zK45wSeRR9AYvX"
+    },
+    {
+      "album": {
         "name": "Radet Fe3el",
         "url": "https://open.spotify.com/album/7rZk47vpKjUXywxtwwUyjH"
       },
@@ -4731,7 +4749,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 323376,
       "name": "\u0627\u0644\u0639\u062c\u0628 \u0641\u064a \u0627\u0644\u0647\u0648\u0649",
       "url": "https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk"

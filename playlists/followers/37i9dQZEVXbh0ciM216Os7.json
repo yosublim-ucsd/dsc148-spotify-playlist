@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 0,
+  "2024-03-13": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -17876,6 +17876,28 @@
     },
     {
       "album": {
+        "name": "All Heat",
+        "url": "https://open.spotify.com/album/0w8TQC9rjOahmibxJLsVmb"
+      },
+      "artists": [
+        {
+          "name": "Steven Cooper",
+          "url": "https://open.spotify.com/artist/4qFYJ5Gbp4DpskZDJ7LtAa"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178326,
+      "name": "Raise A Toast",
+      "url": "https://open.spotify.com/track/7ednoLa4RUVZeuMODz9gDJ"
+    },
+    {
+      "album": {
         "name": "Ramble on Rose (Live at RFK Stadium, Washington, DC 6/10/73)",
         "url": "https://open.spotify.com/album/4gpoaqWAAeYUIB3RNzWbLb"
       },
@@ -18431,7 +18453,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 231530,
       "name": "RockStarLife(R.S.L)",
       "url": "https://open.spotify.com/track/6dTLJBx8gNU2Xr5kJJ5OrW"
@@ -25027,7 +25049,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 173861,
       "name": "Where They At",
       "url": "https://open.spotify.com/track/1xttwGi6u3k4FjplxqySDJ"
@@ -25053,7 +25075,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 173861,
       "name": "Where They At",
       "url": "https://open.spotify.com/track/21kD7hZ91FOh5RfoWaWXKQ"
@@ -25831,7 +25853,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 170645,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"
@@ -25853,7 +25875,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 170645,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/7ENUyxIeDry1kGp3Sbzpnh"

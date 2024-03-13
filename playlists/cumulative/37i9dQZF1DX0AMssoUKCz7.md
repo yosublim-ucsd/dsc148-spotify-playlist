@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-689 songs - 1 day 10 hr 55 min
+690 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Are You Mine](https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn) | [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7), [Rakan](https://open.spotify.com/artist/5lzSBbiehAGDkNqhH3Ishd) | [Are You Mine](https://open.spotify.com/album/3qBbXUvA3V4814pbJh08sF) | 3:29 | 2022-01-14 | 2022-07-30 |
 | [Are You With Me](https://open.spotify.com/track/39QlSLkqq5shnpAXchT9sI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me](https://open.spotify.com/album/63zsZVaIMUW10wP6QanS42) | 2:18 | 2022-01-14 | 2022-04-19 |
 | [Are You With Me \- Radio Edit](https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:18 | 2024-01-02 |  |
-| [Awa Ni](https://open.spotify.com/track/4ob71GMH7PAokRzPhejagR) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Awa Ni](https://open.spotify.com/album/0JcasIRv6rbQG0Bb98o7In) | 3:39 | 2022-01-14 |  |
+| [Awa Ni](https://open.spotify.com/track/4ob71GMH7PAokRzPhejagR) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Awa Ni](https://open.spotify.com/album/0JcasIRv6rbQG0Bb98o7In) | 3:39 | 2022-01-14 | 2024-03-13 |
 | [Away](https://open.spotify.com/track/2bPP8qC8YUkvTxloHEttEw) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Away](https://open.spotify.com/album/19ElrpjyvrjR7J3fefSZkt) | 2:14 | 2023-08-25 |  |
 | [Away](https://open.spotify.com/track/3oNycDho9rJAMHma0XC6kT) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Away](https://open.spotify.com/album/7aGnO45kEvux1ShpP7Lh76) | 2:14 | 2022-11-18 | 2023-07-27 |
 | [Baby](https://open.spotify.com/track/1bA2ZK7CFxEMnyn1dWP2jp) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baby](https://open.spotify.com/album/73S00PIhiseZOiQpgol0fK) | 2:40 | 2022-01-14 |  |
@@ -182,6 +182,7 @@
 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 | 2022-04-01 | 2022-04-16 |
 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 | 2022-02-18 | 2022-04-11 |
 | [First Time \(feat\. iann dior\) \- Sam Feldt Remix](https://open.spotify.com/track/3oNaNQlmABqzAMQTmyAjaP) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time \(feat\. iann dior\) \[Sam Feldt Remix\]](https://open.spotify.com/album/1WrIwYFxIbh5iHMPKUG4kl) | 2:49 | 2022-01-14 | 2022-05-07 |
+| [Floating On Forever](https://open.spotify.com/track/4lGsyxLCUy89VWQm9rM1ad) | [Laurentius](https://open.spotify.com/artist/2TCVmKZV4q5rtGd0smRBFo), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Jeffrey James](https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D) | [Floating On Forever](https://open.spotify.com/album/5jwZyfoVyp6t3VfDMFSVQw) | 2:30 | 2024-03-01 |  |
 | [Follow Me](https://open.spotify.com/track/19aAvyfu96PEYMVigkJTgN) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Follow Me](https://open.spotify.com/album/1dc9eva5qEPPxnGX9LZ4eX) | 3:00 | 2022-02-18 | 2022-04-14 |
 | [Follow the Sun](https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Follow the Sun](https://open.spotify.com/album/1lSdGLnnafiYlTMRKvXFae) | 2:34 | 2022-07-01 |  |
 | [Follow the Sun](https://open.spotify.com/track/1WSkQNWCHM70GTEalSYzbz) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Follow the Sun](https://open.spotify.com/album/4fK4H2s7ScUevkJwfSb8vm) | 1:56 | 2022-04-08 | 2024-01-03 |

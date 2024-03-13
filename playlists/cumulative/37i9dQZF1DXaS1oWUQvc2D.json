@@ -5,6 +5,50 @@
   "tracks": [
     {
       "album": {
+        "name": "100 Horses",
+        "url": "https://open.spotify.com/album/02ptXb81KT1dEJWISwxBHO"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        },
+        {
+          "name": "atsou",
+          "url": "https://open.spotify.com/artist/6TRgIFqqTDlwIULInhGKoD"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225505,
+      "name": "100 Horses",
+      "url": "https://open.spotify.com/track/0SVqCkxTPijeBRug9BiKbV"
+    },
+    {
+      "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/3OoicpcoGvhPi0PgbWLo3H"
+      },
+      "artists": [
+        {
+          "name": "Nawfel",
+          "url": "https://open.spotify.com/artist/6GOC5kFP9ItbuvthbJIZH5"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395000,
+      "name": "6 Million Ways To Die - Original Mix",
+      "url": "https://open.spotify.com/track/0ynJ2fir5obWesL5qwsbZ8"
+    },
+    {
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -16,7 +60,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 327750,
       "name": "After You",
       "url": "https://open.spotify.com/track/74bfHdLcObe6vc0DWZ61W1"
@@ -112,7 +156,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 411306,
       "name": "Belarej - Mr. ID Remix",
       "url": "https://open.spotify.com/track/15a66AHjhbpQUA3Zn4FK6M"
@@ -141,6 +185,28 @@
     },
     {
       "album": {
+        "name": "Calins Sal\u00e9s",
+        "url": "https://open.spotify.com/album/5sF54fBBTD40LLuIyLYE4u"
+      },
+      "artists": [
+        {
+          "name": "Osfur",
+          "url": "https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO"
+        },
+        {
+          "name": "Rita Mdn",
+          "url": "https://open.spotify.com/artist/0GgW6SaFWGhoJf39HREHQ7"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301947,
+      "name": "Calins Sal\u00e9s - Dynamic Club Mix",
+      "url": "https://open.spotify.com/track/2eW5J4NAI8X5ndWfFy2sm9"
+    },
+    {
+      "album": {
         "name": "Caravans",
         "url": "https://open.spotify.com/album/5ZNGTDtEnN5USSqVf05v76"
       },
@@ -156,6 +222,28 @@
       "duration_ms": 400000,
       "name": "Caravans",
       "url": "https://open.spotify.com/track/4aUsG52cGWHK3WPBfGXtRv"
+    },
+    {
+      "album": {
+        "name": "Chest",
+        "url": "https://open.spotify.com/album/56n7ENPfrLstgt2918Pgkp"
+      },
+      "artists": [
+        {
+          "name": "&lez",
+          "url": "https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq"
+        },
+        {
+          "name": "Bit",
+          "url": "https://open.spotify.com/artist/1wzNXx7pKR34qNbprbZrYn"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312923,
+      "name": "Chest",
+      "url": "https://open.spotify.com/track/1tf2e6CrlRo03qNZImFbkC"
     },
     {
       "album": {
@@ -182,7 +270,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 400000,
       "name": "Common Ground - Paso Doble Remix",
       "url": "https://open.spotify.com/track/04mpJmzWgFIH3CBEcAS8kg"
@@ -230,7 +318,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 232779,
       "name": "Dame Percu",
       "url": "https://open.spotify.com/track/5wDjbCArHeCNWURorADfsC"
@@ -292,6 +380,24 @@
       "duration_ms": 418880,
       "name": "Doldrums",
       "url": "https://open.spotify.com/track/55rda9S1nCx4Jew9Mtx6q1"
+    },
+    {
+      "album": {
+        "name": "DPCT 5",
+        "url": "https://open.spotify.com/album/5SHrGcwKWoEtEsviT0OTiD"
+      },
+      "artists": [
+        {
+          "name": "Masaki Morii",
+          "url": "https://open.spotify.com/artist/3wumvz83FrtgSBu4Ijjz9s"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409756,
+      "name": "DPCT 5",
+      "url": "https://open.spotify.com/track/1e1aztzbMADtbuZrqDNBCe"
     },
     {
       "album": {
@@ -358,7 +464,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 321739,
       "name": "Everybody - Original Mix",
       "url": "https://open.spotify.com/track/1z4VXGRNhl0U1MSYai6iNT"
@@ -435,6 +541,84 @@
     },
     {
       "album": {
+        "name": "Huma Kusu",
+        "url": "https://open.spotify.com/album/4he5Jno36tKHeoJKzYxlbN"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX"
+        },
+        {
+          "name": "Diass",
+          "url": "https://open.spotify.com/artist/1Y9gbwVk4auhrDJFzfkMkb"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400742,
+      "name": "Huma Kusu - Afro House Mix",
+      "url": "https://open.spotify.com/track/39kdpoI2iylnrlAcMMARbY"
+    },
+    {
+      "album": {
+        "name": "Huma Kusu",
+        "url": "https://open.spotify.com/album/4he5Jno36tKHeoJKzYxlbN"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX"
+        },
+        {
+          "name": "Diass",
+          "url": "https://open.spotify.com/artist/1Y9gbwVk4auhrDJFzfkMkb"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475124,
+      "name": "Huma Kusu - Melodic mix",
+      "url": "https://open.spotify.com/track/5gaAbVnyetQmPvCrhmiYFo"
+    },
+    {
+      "album": {
+        "name": "Huma Kusu",
+        "url": "https://open.spotify.com/album/4he5Jno36tKHeoJKzYxlbN"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX"
+        },
+        {
+          "name": "Diass",
+          "url": "https://open.spotify.com/artist/1Y9gbwVk4auhrDJFzfkMkb"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Huma Kusu - Soulful House Mix",
+      "url": "https://open.spotify.com/track/6Jtf3cPXFDqecyFiqbr9Fc"
+    },
+    {
+      "album": {
         "name": "Bargrooves Summer Sessions 2016",
         "url": "https://open.spotify.com/album/1C4ZouQJnCTafen0aHPc3i"
       },
@@ -450,7 +634,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 332451,
       "name": "If Only I Could (feat. Steve Lucas) - Boston Bun Remix",
       "url": "https://open.spotify.com/track/5dVTlMG4RnAWWcsoqQD4gL"
@@ -588,7 +772,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
@@ -768,7 +952,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 230474,
       "name": "Nha Manera - Mr. ID Remix - edit",
       "url": "https://open.spotify.com/track/2Rga0GYOLXHFLrzp4hy4fH"
@@ -1021,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/3JHlgfejy9BDrSs7hAuK5H"
+      },
+      "artists": [
+        {
+          "name": "Boddhi Satva",
+          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/5hnRg0Gylxn3yexge2fk3F"
+    },
+    {
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1135,6 +1337,28 @@
     },
     {
       "album": {
+        "name": "Talkin' Drums",
+        "url": "https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        },
+        {
+          "name": "Tour\u00e9 Kunda",
+          "url": "https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Talkin' Drums",
+      "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
+    },
+    {
+      "album": {
         "name": "Balance Presents Hannes Bieger (Mixed)",
         "url": "https://open.spotify.com/album/33aQoDjAwGlK2ymDnLs3zt"
       },
@@ -1206,7 +1430,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 349209,
       "name": "Tied Home",
       "url": "https://open.spotify.com/track/4iblJnCc7E4WTqw7OUwMdE"
@@ -1348,7 +1572,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 244802,
       "name": "You Can Dance Now",
       "url": "https://open.spotify.com/track/0d4IgteyFTq1EjDX45j1Uj"

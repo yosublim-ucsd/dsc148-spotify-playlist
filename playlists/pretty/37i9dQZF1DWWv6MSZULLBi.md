@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,734 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,737 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 33 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 |
 | 34 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 35 | [Float On Now](https://open.spotify.com/track/3fQzuzwkf0U4kJnXt3OYYn) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Float On Now](https://open.spotify.com/album/1nGrvEoFsho3KsDtk4FYzd) | 4:00 |
-| 36 | [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 |
+| 36 | [Good To Be](https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o) | 2:27 |
 | 37 | [Monogamy](https://open.spotify.com/track/06lClREmXPgjQmqXoTOibz) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn, More](https://open.spotify.com/album/7luXeiReXJUtjhqSqBORT7) | 3:16 |
 | 38 | [Fixture](https://open.spotify.com/track/1pxTRXqbjTdBLeZj4HMwjs) | [Sam Tudor](https://open.spotify.com/artist/4s7wRrRsAQMuLQlkRo2Khk) | [Fixture](https://open.spotify.com/album/7tVjMX7KnkmoutWOwgiDsQ) | 3:21 |
 | 39 | [To Hell With You](https://open.spotify.com/track/6x4MmOfqPZ3u0OZTtDzHk7) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [To Hell With You](https://open.spotify.com/album/5UnKpDB9duylUpCRrHTACe) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [What You Don’t Know](https://open.spotify.com/track/6tp9ZObhuYqZb1lNPyMXxf) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [What You Don't Know](https://open.spotify.com/album/1fKYAXIj2jDoT5amgBVbSc) | 2:59 |
 | 100 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
 
-Snapshot ID: `MCw2ZTA0ODE0YjU2MDgxZjcwNTgzMTBiYzdjZjk5MGFkZGFjNjJkMWZk`
+Snapshot ID: `MCxmYjJjMTJhNzJiNjUxYTJlNmNiZWRiMzllZGYwNmMyYjYwZTY5YmZm`

@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 78323,
+  "2024-03-13": 78358,
   "date_first_scraped": "2023-03-30",
   "description": "Keep it Punjabi, Keep it Real. Cover: Tarsem Jassar",
   "name": "Ghaint Flow",
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 185346,
       "name": "Brand Deals",
       "url": "https://open.spotify.com/track/2iUY2m9C0mCdYJVvGuhEGm"
@@ -1854,6 +1854,32 @@
     },
     {
       "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/0ziChr9CGn1b6TW2f0IFA2"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        },
+        {
+          "name": "Mandeep Maavi",
+          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/5Qezc8ITTq5MZqtKMc3i5Q"
+    },
+    {
+      "album": {
         "name": "ENGINE",
         "url": "https://open.spotify.com/album/6LQnAKk8awpYGj2KjR6qhl"
       },
@@ -2155,6 +2181,32 @@
       "duration_ms": 183260,
       "name": "Fight",
       "url": "https://open.spotify.com/track/49wyLmS7QnyAu2GbQCMcax"
+    },
+    {
+      "album": {
+        "name": "Foes To Fans",
+        "url": "https://open.spotify.com/album/0iQ3tA1tOHAwbSfOkhHMCy"
+      },
+      "artists": [
+        {
+          "name": "Armaan Dhillon",
+          "url": "https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC"
+        },
+        {
+          "name": "Prabh Bains",
+          "url": "https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y"
+        },
+        {
+          "name": "Jashan Inder",
+          "url": "https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Foes To Fans",
+      "url": "https://open.spotify.com/track/18CZdFGVEwYp2LYv0HcNCQ"
     },
     {
       "album": {
@@ -4769,7 +4821,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 118987,
       "name": "No Safety",
       "url": "https://open.spotify.com/track/20UbVolWK6m0Z0ombwnJuv"

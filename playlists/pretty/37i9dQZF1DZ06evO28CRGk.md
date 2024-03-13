@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28CRGk.md) - [plain]
 
 > This is Marco Polo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395 likes - 42 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 394 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28CRGk.md) - [plain]
 | 40 | [Get Busy](https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Copywrite](https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 4:24 |
 | 41 | [BK 2 NJ](https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Newport Authority 2](https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O) | 3:18 |
 | 42 | [G.U.R.U.](https://open.spotify.com/track/1lCCn7sRZQSPzHZP8tNzd7) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [G.U.R.U.](https://open.spotify.com/album/2zGzjKOL0cjNipoqjXRaLg) | 4:28 |
+| 43 | [Hold Up](https://open.spotify.com/track/31OZegULDzG3uE33Nl8iSw) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Sean Price](https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [Double Barrel](https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY) | 3:07 |
 
-Snapshot ID: `Mjg1MDI2MTUsMDAwMDAwMDA4MGFjNDI0Yzk1YzAwOGZlMzJhNjlmZGNhN2QzNDNjMQ==`
+Snapshot ID: `Mjg1MDQxMTgsMDAwMDAwMDA0N2RkNzU2NGQ5MWI1MDMyZjlhMjI2NmJkNTNkNDA4NA==`

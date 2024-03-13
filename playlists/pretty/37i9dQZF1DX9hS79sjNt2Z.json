@@ -1,31 +1,31 @@
 {
-  "description": "Easter songs for the whole family.",
-  "num_followers": 4469,
+  "description": "Celebrate the Risen Savior with songs for the whole family.",
+  "num_followers": 4471,
   "original_name": "Family Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzRkYTI0MGRhZDJhMjVhYWI4Y2YwYmYyMDVkNTkzOWI4NDcxYzdh",
+  "snapshot_id": "MCw0NDkyZGZiOGQwNGIxMzJmNDZjMGU5MWU2YTBhOWY3MWEzYzFiYThk",
   "tracks": [
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
-        "name": "Kids Sing Favorite Easter Songs",
-        "url": "https://open.spotify.com/album/3msrrfMbwnI1B0otC8oxfx"
+        "name": "Bible Songs",
+        "url": "https://open.spotify.com/album/74ca4MQy3cfsZNyvNMpNTE"
       },
       "artists": [
         {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
         }
       ],
-      "duration_ms": 144373,
-      "name": "Easter's Just Around The Corner",
-      "url": "https://open.spotify.com/track/2GUUh2zqfuiUmFcclc5iDL"
+      "duration_ms": 132426,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/4RQHs94Y99QaGuYDzzSoSO"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Happy Day Everyday",
         "url": "https://open.spotify.com/album/3XxNDjaH8AS7LTUyyjPHRv"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1C9GzLSV6dYRzeRHf9cInr"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/0vpSj9bEfrkaG7ggdE6tbk"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/4G46VgTSuWhtWFD4qHZ0iO"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Easter Wonder",
         "url": "https://open.spotify.com/album/2YydZZFVOOoTDdQnL4ifyA"
@@ -77,7 +77,27 @@
       "url": "https://open.spotify.com/track/4BRsKAav6GkT3DNr5YX9JQ"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
+      "album": {
+        "name": "SPARKLE. POP. RAMPAGE.",
+        "url": "https://open.spotify.com/album/278spUCAxNbIf5sVtQnike"
+      },
+      "artists": [
+        {
+          "name": "Rend Co. Kids",
+          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
+        },
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 238093,
+      "name": "Story Of The Cross",
+      "url": "https://open.spotify.com/track/2i4xrOyaxhLUz6OHMhm1Jg"
+    },
+    {
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Essential Songs for Kids - This Little Light of Mine",
         "url": "https://open.spotify.com/album/4G0OKBYCcT9HyL8u3YH7tk"
@@ -93,7 +113,23 @@
       "url": "https://open.spotify.com/track/3qyZcGymLRGDEGUzui4k54"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
+      "album": {
+        "name": "Sunday School Songs",
+        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 113013,
+      "name": "He's Got The Whole World",
+      "url": "https://open.spotify.com/track/2EKmcipc4bfMJjCzGnZupr"
+    },
+    {
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Sing Favorite Easter Verses",
         "url": "https://open.spotify.com/album/7xGr68B1Jo7TDEcxvhkQK5"
@@ -109,7 +145,7 @@
       "url": "https://open.spotify.com/track/1qpfRkwHsIAdSV7yZhOOtv"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "He's Alive, He's Alive",
         "url": "https://open.spotify.com/album/6WnN79X2HZ6U8stxD4miO6"
@@ -129,7 +165,27 @@
       "url": "https://open.spotify.com/track/4bUVGCACXNYlJINgDxN6PH"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
+      "album": {
+        "name": "Believe It",
+        "url": "https://open.spotify.com/album/0OJoZlzmq86SyIH5ec4VCa"
+      },
+      "artists": [
+        {
+          "name": "Gateway Kids Worship",
+          "url": "https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E"
+        },
+        {
+          "name": "Rebecca Brewer",
+          "url": "https://open.spotify.com/artist/0ZQA9R0eMLJhrmJV7V1C8Q"
+        }
+      ],
+      "duration_ms": 267549,
+      "name": "It Is Finished",
+      "url": "https://open.spotify.com/track/2IOq1qsWG3WdN14cRdZIci"
+    },
+    {
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Sing Easter Songs",
         "url": "https://open.spotify.com/album/7k96z6PC4ViB8GvRKRhV5I"
@@ -145,7 +201,23 @@
       "url": "https://open.spotify.com/track/60UzXAnUUki6QOxAiuIM4G"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
+      "album": {
+        "name": "The Gospel Project for Kids Vol. 9: Jesus The Savior",
+        "url": "https://open.spotify.com/album/5Rt6zfF75SDo2uiOjUDP4q"
+      },
+      "artists": [
+        {
+          "name": "Lifeway Kids Worship",
+          "url": "https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx"
+        }
+      ],
+      "duration_ms": 191755,
+      "name": "Alive Forever",
+      "url": "https://open.spotify.com/track/1LZZBIeWTItBLdxAe2ECp2"
+    },
+    {
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "His Love Has Won : Easter Kids Worship",
         "url": "https://open.spotify.com/album/0oBm79SQHdA5Y7vjAWIoMC"
@@ -161,7 +233,23 @@
       "url": "https://open.spotify.com/track/3hnR99yAtmqG237HPrNoWA"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
+      "album": {
+        "name": "Kids Sing Favorite Easter Songs",
+        "url": "https://open.spotify.com/album/3msrrfMbwnI1B0otC8oxfx"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "Easter's Just Around The Corner",
+      "url": "https://open.spotify.com/track/2GUUh2zqfuiUmFcclc5iDL"
+    },
+    {
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Easter Bunny Songs!",
         "url": "https://open.spotify.com/album/0oGAsQqWZh5MIxFgs3UST7"
@@ -181,39 +269,7 @@
       "url": "https://open.spotify.com/track/0dkextwm106FDaSMFkfGwh"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
-      "album": {
-        "name": "Easter Wonder",
-        "url": "https://open.spotify.com/album/2YydZZFVOOoTDdQnL4ifyA"
-      },
-      "artists": [
-        {
-          "name": "God's Kids Worship Band",
-          "url": "https://open.spotify.com/artist/4ps6pooxJprtllhZ1hR1Xc"
-        }
-      ],
-      "duration_ms": 222312,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/1a0V3HFe90DLvRQhlznIIJ"
-    },
-    {
-      "added_at": "2021-03-24 21:32:54",
-      "album": {
-        "name": "Kids Sing Easter Songs",
-        "url": "https://open.spotify.com/album/7k96z6PC4ViB8GvRKRhV5I"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 157999,
-      "name": "Christ the Lord Has Risen Today",
-      "url": "https://open.spotify.com/track/1WPzTgmAbR9hBBTmL0ueqg"
-    },
-    {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "A Very, Very, Very Big God",
         "url": "https://open.spotify.com/album/3RgCTduZ0zCbipyirCEBdb"
@@ -229,7 +285,7 @@
       "url": "https://open.spotify.com/track/2nkvejSUbGKn67amq9E3Pj"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Singin' Praise Tots Easter",
         "url": "https://open.spotify.com/album/15Hxq7h2c1bJIL81u8kjnK"
@@ -245,7 +301,7 @@
       "url": "https://open.spotify.com/track/6kDcslmJPGR71E0B4DvUkF"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Hop Little Bunnies! Happy Easter Nursery Rhymes",
         "url": "https://open.spotify.com/album/4l8ubVl3ZuL18cIC4qgF7L"
@@ -261,7 +317,7 @@
       "url": "https://open.spotify.com/track/6ijiS6TK6bPNuLLHRUgAiD"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "80 Bible Songs for Kids",
         "url": "https://open.spotify.com/album/2rqMWucFteHin9aXPGRPEC"
@@ -277,7 +333,7 @@
       "url": "https://open.spotify.com/track/3V5YkUwHqcA31lNy1J4imj"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Sing Favorite Easter Verses",
         "url": "https://open.spotify.com/album/7xGr68B1Jo7TDEcxvhkQK5"
@@ -293,7 +349,7 @@
       "url": "https://open.spotify.com/track/45kkw7M1Iofs2YwPO5sJOB"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "A Very Veggie Easter",
         "url": "https://open.spotify.com/album/5a1G1mo2BhpX6Xdgt6BRZ0"
@@ -309,7 +365,7 @@
       "url": "https://open.spotify.com/track/3OaedH1p7l7ey66DxJYNso"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "I Believe (An Easter Curriculum)",
         "url": "https://open.spotify.com/album/1XI67b6DN7yvPAscGjrjMr"
@@ -325,7 +381,7 @@
       "url": "https://open.spotify.com/track/4M5DsrFTEboNqIjlrtbKfB"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Sing Easter Hymns",
         "url": "https://open.spotify.com/album/6pCJF76lwE3kM5zCBPFF0j"
@@ -341,7 +397,7 @@
       "url": "https://open.spotify.com/track/6lRKAZdAf5D3Mzsh6e9bPs"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Seeds of Faith",
         "url": "https://open.spotify.com/album/6KYh5WhHb6ScsskC6JPPyw"
@@ -357,7 +413,7 @@
       "url": "https://open.spotify.com/track/3hs7pFQlZT8gobfVihXRvV"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "I Believe (An Easter Curriculum)",
         "url": "https://open.spotify.com/album/1XI67b6DN7yvPAscGjrjMr"
@@ -373,7 +429,7 @@
       "url": "https://open.spotify.com/track/25MAOAQjQ9Rp6t6YbZkIvp"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "A Very Veggie Easter",
         "url": "https://open.spotify.com/album/5a1G1mo2BhpX6Xdgt6BRZ0"
@@ -389,7 +445,7 @@
       "url": "https://open.spotify.com/track/7KIVvfAQV2REZktLtmT2OJ"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Easter Songs for Children",
         "url": "https://open.spotify.com/album/4D1fMZtiKK0uB4QUGokMD5"
@@ -405,7 +461,7 @@
       "url": "https://open.spotify.com/track/6tlpnSxi9lo0xGFlk6KGhS"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Singin' Praise Tots Easter",
         "url": "https://open.spotify.com/album/15Hxq7h2c1bJIL81u8kjnK"
@@ -421,7 +477,7 @@
       "url": "https://open.spotify.com/track/1QdicPb11mIwAJk2E3RAn9"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Easter Wonder",
         "url": "https://open.spotify.com/album/2YydZZFVOOoTDdQnL4ifyA"
@@ -437,7 +493,7 @@
       "url": "https://open.spotify.com/track/4Kpk37Boe5aANObG434h9O"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Seeds of Easter",
         "url": "https://open.spotify.com/album/75B31cBodpojH4fk7i3GET"
@@ -453,7 +509,7 @@
       "url": "https://open.spotify.com/track/6U0e4ItflAwI58gFVO2bKr"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Easter Wonder",
         "url": "https://open.spotify.com/album/2YydZZFVOOoTDdQnL4ifyA"
@@ -469,7 +525,7 @@
       "url": "https://open.spotify.com/track/4X7vjOk96FAglbxQCDk1J9"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "He Rose",
         "url": "https://open.spotify.com/album/4MKjwB0fU4zSrsxCAJXBHf"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/3MHW0dOJIV1tOaX6dd3MgR"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Easter Songs for Children",
         "url": "https://open.spotify.com/album/4D1fMZtiKK0uB4QUGokMD5"
@@ -501,7 +557,7 @@
       "url": "https://open.spotify.com/track/3SRTU4d750jjpoKzAyteGk"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "God Is Here",
         "url": "https://open.spotify.com/album/00MoSFw6UXISxCjwZby5TV"
@@ -517,7 +573,7 @@
       "url": "https://open.spotify.com/track/2UJPE9y4UrhJMEoufssWOV"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "I Believe (An Easter Curriculum)",
         "url": "https://open.spotify.com/album/1XI67b6DN7yvPAscGjrjMr"
@@ -533,7 +589,7 @@
       "url": "https://open.spotify.com/track/6SPnO1v4T3TraOc5lPacGs"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Sing Easter Songs",
         "url": "https://open.spotify.com/album/7k96z6PC4ViB8GvRKRhV5I"
@@ -549,7 +605,7 @@
       "url": "https://open.spotify.com/track/4OzcdElOOHyJULyPcePFGn"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Boss of the Cross",
         "url": "https://open.spotify.com/album/54GHJVVB77PyoJRAuazmfo"
@@ -565,7 +621,7 @@
       "url": "https://open.spotify.com/track/2ywhjnLZRvIvzbYMByhuMq"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Pop Songs for Easter",
         "url": "https://open.spotify.com/album/3710jZ7w18fCMjjwtleXDl"
@@ -581,7 +637,7 @@
       "url": "https://open.spotify.com/track/2I8DxBSiYv8wyq89RfqrKY"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Easter Bunny Song",
         "url": "https://open.spotify.com/album/4kwLm89dxeSbzyaOczfgHm"
@@ -597,7 +653,7 @@
       "url": "https://open.spotify.com/track/0JPlozTo20nLGrjZXmL1BI"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Boss of the Cross",
         "url": "https://open.spotify.com/album/54GHJVVB77PyoJRAuazmfo"
@@ -613,7 +669,7 @@
       "url": "https://open.spotify.com/track/3ZU7LI3XOn8p17orSX1nZL"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Sing Easter Hymns",
         "url": "https://open.spotify.com/album/6pCJF76lwE3kM5zCBPFF0j"
@@ -629,7 +685,7 @@
       "url": "https://open.spotify.com/track/00uKYabMtNbg9rJ6M3A6Vf"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Sing Favorite Easter Songs",
         "url": "https://open.spotify.com/album/3msrrfMbwnI1B0otC8oxfx"
@@ -645,7 +701,7 @@
       "url": "https://open.spotify.com/track/6FfCbDjWtYkQgDpDJ2UXRN"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Let's Rock to Get Ready for Easter",
         "url": "https://open.spotify.com/album/2ns9vKKbNAYvVC7nY9K2U5"
@@ -661,7 +717,7 @@
       "url": "https://open.spotify.com/track/5K1fY5zQeBgjcaDSVU3N0L"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Sing Favorite Easter Verses",
         "url": "https://open.spotify.com/album/7xGr68B1Jo7TDEcxvhkQK5"
@@ -677,23 +733,7 @@
       "url": "https://open.spotify.com/track/438cOtz9pojmDbLxeDjjoK"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
-      "album": {
-        "name": "Kids Sing Easter Hymns",
-        "url": "https://open.spotify.com/album/6pCJF76lwE3kM5zCBPFF0j"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 119759,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/46muM5gzyuEUVEirIpV3g7"
-    },
-    {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Easter Story in Song",
         "url": "https://open.spotify.com/album/6jv4pCnDBAEjofziBjt2LH"
@@ -709,7 +749,7 @@
       "url": "https://open.spotify.com/track/00WhoH1xjgIqFSWlDYEI2S"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Meet The Rizers",
         "url": "https://open.spotify.com/album/4W2YtLiJtZVTL3Eey3ah03"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/5kjp2A5T4KacnzeoxykROp"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Sing On!",
         "url": "https://open.spotify.com/album/7czlczSMXxLag77gacdDXF"
@@ -741,7 +781,7 @@
       "url": "https://open.spotify.com/track/4g3rBwicdavvBNUzkes8BE"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Who's Got Their Armor On?",
         "url": "https://open.spotify.com/album/2KsupcAkXkOxbILzYu7L3O"
@@ -757,7 +797,7 @@
       "url": "https://open.spotify.com/track/2LPsEFXoTjwhmFKbk2mOIF"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
@@ -773,7 +813,7 @@
       "url": "https://open.spotify.com/track/7fucXeHyqlSrm2DtacEuDM"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Top 100 Kids",
         "url": "https://open.spotify.com/album/1HB2bui7MaE3MV2d5yK8Yl"
@@ -789,7 +829,7 @@
       "url": "https://open.spotify.com/track/6RkH6h8wNvXk8TpOwz0er4"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "10,000 Reasons Kids Worship",
         "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
@@ -805,7 +845,7 @@
       "url": "https://open.spotify.com/track/7DujnHzxp14dg6UED5Fmwd"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Sunday School Songs",
         "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
@@ -821,7 +861,7 @@
       "url": "https://open.spotify.com/track/5WwhyjDIDD6em908WYhlAJ"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Living Color",
         "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
@@ -837,7 +877,7 @@
       "url": "https://open.spotify.com/track/5EoAur4HHfzioXziQsfYCI"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Capitol Kids! Hits",
         "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
@@ -853,7 +893,7 @@
       "url": "https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Getty Kids Hymnal \u2013 Family Hymn Sing",
         "url": "https://open.spotify.com/album/7B7T6Cqj9VNvkP2ZPpBXZ7"
@@ -869,7 +909,7 @@
       "url": "https://open.spotify.com/track/5i4Fodr6ibckW5Mxk0nI9N"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "A Very Veggie Easter",
         "url": "https://open.spotify.com/album/5a1G1mo2BhpX6Xdgt6BRZ0"
@@ -885,7 +925,7 @@
       "url": "https://open.spotify.com/track/2WYU1ypomaGbBRdjRU0q0S"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Gospel Bible Songs",
         "url": "https://open.spotify.com/album/1VgUj9JfMGh9We013XioCi"
@@ -901,7 +941,7 @@
       "url": "https://open.spotify.com/track/6pEhmBLWt3zoEzVGG2YomQ"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "The Gospel Project for Kids Vol. 12: All Things New",
         "url": "https://open.spotify.com/album/2bOFfbvqjfIyLxyBv8H12J"
@@ -917,7 +957,7 @@
       "url": "https://open.spotify.com/track/3rjxn2TY1oCoAO4RswOgoq"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "10,000 Reasons Kids Worship",
         "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
@@ -933,7 +973,7 @@
       "url": "https://open.spotify.com/track/3tv8ezImi6vPL0hAN800yK"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Top 50 Kids' Praise! Company",
         "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
@@ -949,7 +989,7 @@
       "url": "https://open.spotify.com/track/6aO37JOrMFEyHoZmC3yx00"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "A Very Veggie Easter",
         "url": "https://open.spotify.com/album/5a1G1mo2BhpX6Xdgt6BRZ0"
@@ -965,7 +1005,7 @@
       "url": "https://open.spotify.com/track/2TNWpxNqG6Qwr4xNIENrPR"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Bible Songs",
         "url": "https://open.spotify.com/album/74ca4MQy3cfsZNyvNMpNTE"
@@ -981,7 +1021,7 @@
       "url": "https://open.spotify.com/track/0vgRqRdtMH9ld2Z5YwlCbG"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Living Color",
         "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
@@ -997,7 +1037,7 @@
       "url": "https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "The Gospel Project for Kids Vol. 7: Jesus the Messiah",
         "url": "https://open.spotify.com/album/7aCnaf4WEtbAtCXmFtEcHC"
@@ -1013,7 +1053,7 @@
       "url": "https://open.spotify.com/track/61Xfnf1zfcZJAYDcXYojti"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "No Reason To Wait",
         "url": "https://open.spotify.com/album/44Mu2Ro9HziVZsRh86n1dG"
@@ -1029,23 +1069,7 @@
       "url": "https://open.spotify.com/track/0EK9p0MwzkfjJPlJOQn514"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
-      "album": {
-        "name": "Top 25 Kids' Praise Songs 2012",
-        "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
-      },
-      "artists": [
-        {
-          "name": "Kids Praise Kids",
-          "url": "https://open.spotify.com/artist/7L9B1hkpFdV6zeMvxqQ3DD"
-        }
-      ],
-      "duration_ms": 178979,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/5u7GLDyCeMPcVsIUuN6Zvs"
-    },
-    {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Living Color",
         "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
@@ -1061,7 +1085,7 @@
       "url": "https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Songs Of The Bible Vol. 1",
         "url": "https://open.spotify.com/album/0O5taoj9lmi9AO7TddqHl0"
@@ -1077,7 +1101,7 @@
       "url": "https://open.spotify.com/track/7lgQuSvyzn9GuwPUvw7R6M"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Getty Kids Hymnal \u2013 Family Hymn Sing",
         "url": "https://open.spotify.com/album/7B7T6Cqj9VNvkP2ZPpBXZ7"
@@ -1093,7 +1117,7 @@
       "url": "https://open.spotify.com/track/3GPvvTWtp81rlOHHDI3V4a"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Top 25 Kids' Praise Songs 2012",
         "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
@@ -1109,39 +1133,7 @@
       "url": "https://open.spotify.com/track/2HLhjO1RuzdAnbKN1NXasT"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
-      "album": {
-        "name": "Can You Believe It!?",
-        "url": "https://open.spotify.com/album/1fsVpCIerFhDqPnwQEABi0"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Kids",
-          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/7gXv6onNoiWXfnpuHr7FRM"
-    },
-    {
-      "added_at": "2021-04-01 19:29:02",
-      "album": {
-        "name": "Worship Together Kids (Vol. 5)",
-        "url": "https://open.spotify.com/album/4KNt81ugtXOAhV2Zs8wIlG"
-      },
-      "artists": [
-        {
-          "name": "Worship Together Kids",
-          "url": "https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4"
-        }
-      ],
-      "duration_ms": 274722,
-      "name": "Is He Worthy",
-      "url": "https://open.spotify.com/track/3zR5JaOjCj45GpSP7UhtCV"
-    },
-    {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Capitol Kids! Hits",
         "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
@@ -1157,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6fy2TI3l5n7x7GzzgtkCr7"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Top 50 Kids' Praise! Company",
         "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
@@ -1173,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5iRcg27IeJvdrn4lV92s70"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Getty Kids Hymnal \u2013 Family Hymn Sing",
         "url": "https://open.spotify.com/album/7B7T6Cqj9VNvkP2ZPpBXZ7"
@@ -1189,7 +1181,7 @@
       "url": "https://open.spotify.com/track/4c2UX5hNDgnrLKnXMQMSyF"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "A Very Veggie Easter",
         "url": "https://open.spotify.com/album/5a1G1mo2BhpX6Xdgt6BRZ0"
@@ -1205,7 +1197,7 @@
       "url": "https://open.spotify.com/track/0utns5xbl185C8Xqgwn9Nw"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Worship Together Kids (Vol. 4)",
         "url": "https://open.spotify.com/album/4oCdAmUL9HHSU7Xio5Ke07"
@@ -1221,7 +1213,7 @@
       "url": "https://open.spotify.com/track/5h0Oa3yjxqUMpHljNSo87o"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Top 25 Kids' Praise Songs 2012",
         "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
@@ -1237,7 +1229,7 @@
       "url": "https://open.spotify.com/track/2ljGI7Fr0PNMMwEohiTReJ"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Hosanna! Today's Top Worship Songs For Kids",
         "url": "https://open.spotify.com/album/1PYT5eVkB5CrP1iElrTzxo"
@@ -1253,7 +1245,7 @@
       "url": "https://open.spotify.com/track/2QAMdU7LKk1YJ6w1qmdy4s"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "10,000 Reasons Kids Worship",
         "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
@@ -1269,7 +1261,7 @@
       "url": "https://open.spotify.com/track/7iNaSqWO7ytcFnDfTlRBPi"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Top 50 Kids' Praise! Songs",
         "url": "https://open.spotify.com/album/3xU9JVLn5TiQrJeMn2flOp"
@@ -1285,7 +1277,7 @@
       "url": "https://open.spotify.com/track/1upGUWlZTlCtmwoosTtr20"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "I'll Fly Away - Gospel Songs Sing-Along",
         "url": "https://open.spotify.com/album/2NL0dKttx817IAIDtGozEm"
@@ -1301,7 +1293,7 @@
       "url": "https://open.spotify.com/track/5e0lNpdaKF9Hk4Q5NqYVdS"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "10,000 Reasons Kids Worship",
         "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
@@ -1317,7 +1309,7 @@
       "url": "https://open.spotify.com/track/77Hp9S37oZ1uKqB2yHhjWS"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "VeggieTales Easter Collection",
         "url": "https://open.spotify.com/album/0hgRjQSBRsWYLO6LnEUkID"
@@ -1333,7 +1325,7 @@
       "url": "https://open.spotify.com/track/3oUxeOTZk6oVNVbcSJg6s7"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Shine!",
         "url": "https://open.spotify.com/album/7s4Vo4wBqLcqUOyaZaVXhd"
@@ -1353,7 +1345,7 @@
       "url": "https://open.spotify.com/track/3uaJqtBGtSJl1e52GcQVR2"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Can You Believe It!?",
         "url": "https://open.spotify.com/album/1fsVpCIerFhDqPnwQEABi0"
@@ -1369,7 +1361,7 @@
       "url": "https://open.spotify.com/track/501pYqkSxT75eu3XXBfhNX"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "10,000 Reasons Kids Worship",
         "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
@@ -1385,7 +1377,7 @@
       "url": "https://open.spotify.com/track/18YUruzGgAsiaXgss3SLSp"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "No Reason To Wait",
         "url": "https://open.spotify.com/album/44Mu2Ro9HziVZsRh86n1dG"
@@ -1401,7 +1393,7 @@
       "url": "https://open.spotify.com/track/4VqM1lBsKMQr2Zf63RgmjE"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Hey God! Songs of Worship",
         "url": "https://open.spotify.com/album/3cLYK3GixgbLmz9YXTl8DE"
@@ -1417,7 +1409,7 @@
       "url": "https://open.spotify.com/track/3nQ7jspt2SrtTo4TmZxUol"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "No Reason To Wait",
         "url": "https://open.spotify.com/album/44Mu2Ro9HziVZsRh86n1dG"
@@ -1433,7 +1425,7 @@
       "url": "https://open.spotify.com/track/0GqoRAUwBt2npT0eqaLU8U"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Kids Praise! Company - 10,000 Reasons (Bless The Lord)",
         "url": "https://open.spotify.com/album/501UjKdxLrnu6wdQ3W3Khw"
@@ -1449,7 +1441,7 @@
       "url": "https://open.spotify.com/track/5weZpJM3cm3hu6W4OtDVa5"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Jesus Is My Super Hero (Live)",
         "url": "https://open.spotify.com/album/1K0Zez4ioepzv2iBbljsNN"
@@ -1465,7 +1457,7 @@
       "url": "https://open.spotify.com/track/25kvPBLbgkvHwpX9XGHOGs"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "From The Inside Out For Kids",
         "url": "https://open.spotify.com/album/4y3m1W01TTK2nT2i2ViRtD"
@@ -1481,7 +1473,7 @@
       "url": "https://open.spotify.com/track/6L1oMyfO5pOlBvSXTz4kPl"
     },
     {
-      "added_at": "2021-03-24 21:32:54",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "A Very Veggie Easter",
         "url": "https://open.spotify.com/album/5a1G1mo2BhpX6Xdgt6BRZ0"
@@ -1497,7 +1489,7 @@
       "url": "https://open.spotify.com/track/4199tKqLnscPVcAvWd64bn"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Shout!",
         "url": "https://open.spotify.com/album/5WO8XzRKsiwwr2PhjLZ1hP"
@@ -1517,7 +1509,7 @@
       "url": "https://open.spotify.com/track/0LCayR2YFRV7KryxEeJY0R"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "No Reason To Wait",
         "url": "https://open.spotify.com/album/44Mu2Ro9HziVZsRh86n1dG"
@@ -1533,7 +1525,7 @@
       "url": "https://open.spotify.com/track/4CPPqurqMt12kNXOv41gaV"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Capitol Kids! Hits",
         "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
@@ -1549,7 +1541,7 @@
       "url": "https://open.spotify.com/track/3bAANkVBFauerlNWmQb4bs"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Evensong - Hymns And Lullabies At The Close Of Day",
         "url": "https://open.spotify.com/album/0oBLcWqQ05GQkajclUcqhW"
@@ -1569,7 +1561,7 @@
       "url": "https://open.spotify.com/track/2k86OXY6wnSCgWdoJumgMO"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Worship Together Kids (Vol. 4)",
         "url": "https://open.spotify.com/album/4oCdAmUL9HHSU7Xio5Ke07"
@@ -1585,7 +1577,7 @@
       "url": "https://open.spotify.com/track/3S9IhUOOFQzG8B7UpQCrXL"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Shout!",
         "url": "https://open.spotify.com/album/5WO8XzRKsiwwr2PhjLZ1hP"
@@ -1605,7 +1597,7 @@
       "url": "https://open.spotify.com/track/3y54qDxtrZa6vNqKcy90E3"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Hide 'Em In Your Heart: Bible Memory Melodies (Vol. 1)",
         "url": "https://open.spotify.com/album/58kaa7tWGiebuNc1f4KjzR"
@@ -1621,7 +1613,7 @@
       "url": "https://open.spotify.com/track/304NKHW00JM5vusfYa7JCK"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Good Good Father",
         "url": "https://open.spotify.com/album/79hijgvISuI86XQD7Q9By2"
@@ -1637,7 +1629,7 @@
       "url": "https://open.spotify.com/track/6OJZWfDfxubWxWYWhHI0Og"
     },
     {
-      "added_at": "2021-04-01 19:29:02",
+      "added_at": "2024-03-13 01:46:07",
       "album": {
         "name": "Getty Kids Hymnal - In Christ Alone",
         "url": "https://open.spotify.com/album/7yiENPxEnhGvOLisic94jw"

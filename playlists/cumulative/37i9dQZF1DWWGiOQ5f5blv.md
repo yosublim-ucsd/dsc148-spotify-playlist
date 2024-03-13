@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [안신애](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 | 2023-05-22 |  |
-| [A Day For Me \- Instrumental](https://open.spotify.com/track/54GQ7fVI1o5utWKYjeAAeh) | [안신애](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 | 2023-05-22 |  |
+| [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 | 2023-05-22 |  |
+| [A Day For Me \- Instrumental](https://open.spotify.com/track/54GQ7fVI1o5utWKYjeAAeh) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 | 2023-05-22 |  |
 | [After this night](https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4) | 4:16 | 2023-05-15 |  |
 | [After this night \- Instrumental](https://open.spotify.com/track/2RR3SMCgcEgt8v7Nz77mxh) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4) | 4:16 | 2023-05-15 |  |
 | [Alone](https://open.spotify.com/track/4UVa6uMDD4ngcd2CXVQZ47) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/41qO8KPuWWoGOzQYJ8ObV4) | 2:50 | 2023-04-21 |  |

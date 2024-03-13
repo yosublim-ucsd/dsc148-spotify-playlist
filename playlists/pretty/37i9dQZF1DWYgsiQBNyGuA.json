@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 77524,
+  "num_followers": 77576,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzc0NGViZjg4NTE5YWE1NmE1NGEyMTE2NjE0NmFjZjE2MzhjZTk1",
+  "snapshot_id": "MCw5YWU5Y2U5MWM5ZjRmNjgxZTVjMTczYWUxOWMwZTIzZDNiYmU1YzRm",
   "tracks": [
     {
       "added_at": "2024-03-08 13:51:25",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 290422,
-      "name": "GotItBad",
-      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Durand Jones & The Indications",
         "url": "https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 229403,
       "name": "Smile",
       "url": "https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 290422,
+      "name": "GotItBad",
+      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "BLACCJACK THE MAC",
-        "url": "https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp"
       },
       "artists": [
         {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
         }
       ],
-      "duration_ms": 137079,
-      "name": "BLACCJACK THE MAC",
-      "url": "https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk"
+      "duration_ms": 176803,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp"
+        "name": "BLACCJACK THE MAC",
+        "url": "https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM"
       },
       "artists": [
         {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
         }
       ],
-      "duration_ms": 176803,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
+      "duration_ms": 137079,
+      "name": "BLACCJACK THE MAC",
+      "url": "https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk"
     },
     {
       "added_at": "2024-03-08 13:51:25",

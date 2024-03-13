@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 396290,
+  "num_followers": 396329,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzM1NTE1YjA4MDY2MTQ2ZWI3ZDk5Mjk0NTJkMzVhOWNlMjUzOWI0",
+  "snapshot_id": "MCxjMWQ2ZGU5ODJiZGNkYTVkNzc1YjZhYjYzNWI4MTFkYWI0ZDE3ZTcx",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -869,28 +869,20 @@
       "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
+      "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Your Mind Is on Vacation",
-        "url": "https://open.spotify.com/album/7lDZoPjoOVUJaO08NtTGzK"
+        "name": "Presenting Thad Jones-Mel Lewis & The Jazz Orchestra",
+        "url": "https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh"
       },
       "artists": [
         {
-          "name": "Lou Pomanti",
-          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
-        },
-        {
-          "name": "David Clayton-Thomas",
-          "url": "https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa"
-        },
-        {
-          "name": "John Finley",
-          "url": "https://open.spotify.com/artist/5jUfKEW1EYW7tpOerSOWWr"
+          "name": "Thad Jones-Mel Lewis Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc"
         }
       ],
-      "duration_ms": 186598,
-      "name": "Your Mind Is on Vacation",
-      "url": "https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ"
+      "duration_ms": 348733,
+      "name": "Three In One",
+      "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
     }
   ],
   "unique_name": "Big Band",

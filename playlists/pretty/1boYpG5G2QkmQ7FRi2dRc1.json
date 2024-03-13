@@ -1,13 +1,57 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 296625,
+  "num_followers": 296614,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "MjAzMywwYjQ0N2VlYTlhNWFhZWY3Njc2MzY5YjJkMGM5ODFjZDBiZGUzZWM5",
+  "snapshot_id": "MjAzNiwyNTU0OTE2N2ExY2Y2YTJkZTNmNDIxZGYyMTg4OTdhNmM2Y2YwOTJh",
   "tracks": [
+    {
+      "added_at": "2024-03-12 14:14:45",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
+    },
+    {
+      "added_at": "2024-03-12 14:14:56",
+      "album": {
+        "name": "Biochemical",
+        "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Biochemical",
+      "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
+    },
     {
       "added_at": "2024-02-22 15:04:19",
       "album": {
@@ -131,6 +175,22 @@
       "duration_ms": 166875,
       "name": "Breakaway - Instrumental Mix",
       "url": "https://open.spotify.com/track/3NkSWP8Z2OfQaM2Ja5AYwC"
+    },
+    {
+      "added_at": "2024-03-12 14:15:36",
+      "album": {
+        "name": "Grove (Rework)",
+        "url": "https://open.spotify.com/album/0f6Em0XdEvhx5WkVjP3W9e"
+      },
+      "artists": [
+        {
+          "name": "S. Salter",
+          "url": "https://open.spotify.com/artist/1rr2n5xm79tKtt2vAANMGB"
+        }
+      ],
+      "duration_ms": 383534,
+      "name": "Grove - Rework",
+      "url": "https://open.spotify.com/track/53uC0fy3JXOmt1DjlP1ipP"
     },
     {
       "added_at": "2024-02-16 19:43:03",

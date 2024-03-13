@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: Ele A\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,228 likes - 55 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,219 likes - 55 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [WHAT IT IS](https://open.spotify.com/track/77FI7CSoa21Yka87v5i2d4) | [sir prodige](https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp) | [WHAT IT IS](https://open.spotify.com/album/42ae053zJUGhopSCIgdW9g) | 2:32 |
 | 55 | [5 BISTURI](https://open.spotify.com/track/78rjW2uyocigUK9MpX8wrZ) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [5 BISTURI](https://open.spotify.com/album/0S2orBnCAFLwF3nrqCsLJ6) | 3:06 |
 
-Snapshot ID: `MCxjY2FjNDUwZDNjZmVhYmM4YjczZDcwZDYxMzFkZmRjNzI2MWZjZTNj`
+Snapshot ID: `MCwwM2ZmN2QwODBmODZkZmRhM2IzMDk0ZTQ0ZmQ3YjFhZGNiZjhmOTI4`

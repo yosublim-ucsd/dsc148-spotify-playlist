@@ -4,7 +4,7 @@
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-120 songs - 8 hr 0 min
+122 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,11 @@
 | [39](https://open.spotify.com/track/5ZVKlvVj2I3uvNPXsQTxAW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39](https://open.spotify.com/album/5kGi7b284QLCIhuwXMHnHf) | 3:39 | 2021-09-23 | 2022-07-29 |
 | [39 Music!](https://open.spotify.com/track/7DZrnvfd78FMJgPYa8FSEy) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39 Music!](https://open.spotify.com/album/22mBVLZToKGQ2Qc4DN6pPP) | 4:25 | 2021-09-23 |  |
 | [39みゅーじっく!](https://open.spotify.com/track/11NoD6DdxrVB8LGUSIzadp) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [39みゅーじっく!](https://open.spotify.com/album/6EjzwcflTxIFvHlOhyb9m8) | 4:25 | 2021-09-23 | 2022-07-29 |
+| [A.D.P \(feat\. 初音ミク&巡音ルカ\)](https://open.spotify.com/track/36LCkZ6vBe7mbUCvBZ0Ldy) | [Twinfield](https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [A.D.P](https://open.spotify.com/album/4OUP5VSYJylNFSDhlmWHaD) | 3:03 | 2024-03-13 |  |
 | [B S X](https://open.spotify.com/track/2rBDFqAXUWyN2R2eZvnEVj) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [\[USA\]](https://open.spotify.com/album/6tu6n9zKNQGSxtZGGnmUhu) | 2:51 | 2021-09-23 | 2022-06-26 |
 | [Bad ∞ End ∞ Night](https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [After the partY](https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw) | 4:08 | 2021-09-23 |  |
 | [Because You're Here](https://open.spotify.com/track/5t60rC3e9mXv8Jy9eGZbkE) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Because You're Here](https://open.spotify.com/album/6Y4oOL7j48ijoIbIrdDSdm) | 4:32 | 2021-09-23 |  |
+| [Bubble×Kidz! \(feat\. 鏡音リン&鏡音レン\)](https://open.spotify.com/track/68s9uYSOddgEIy9OmSrINY) | [Twinfield](https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [Bubble×Kidz!](https://open.spotify.com/album/1wTzqA6J68udMrYJX1eDto) | 2:53 | 2024-03-13 |  |
 | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) | 2:47 | 2021-09-23 |  |
 | [DAYO ROCK \(feat\. 初音ミク\)](https://open.spotify.com/track/3OnUBz96WoMEgTzIepEr5j) | [BIGHEAD](https://open.spotify.com/artist/2H1LiROfuxEO0EORx0hFD4) | [DAYO](https://open.spotify.com/album/6sK0PVEQunnwDDJ7e8E2mT) | 2:43 | 2021-09-23 | 2022-07-07 |
 | [Decade \(feat\. 初音ミク\)](https://open.spotify.com/track/0rh5OTy00ngziGgEgZQweu) | [Dixie Flatline](https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Decade](https://open.spotify.com/album/1MaTgBzwVwbfMJ7VSir6Zb) | 3:38 | 2021-09-23 |  |

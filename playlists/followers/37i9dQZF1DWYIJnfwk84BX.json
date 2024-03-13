@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 32891,
+  "2024-03-13": 32904,
   "date_first_scraped": "2024-01-15",
   "description": "Trilhas sonoras e grandes cl\u00e1ssicos para te ajudar a relaxar durante a leitura.",
   "name": "M\u00fasica Cl\u00e1ssica para Ler",
@@ -768,6 +768,32 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Pavane, Op. 50 (Instrumental Version)",
+        "url": "https://open.spotify.com/album/2DCcls428Vj9ZTn1WV42Fq"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379400,
+      "name": "Faur\u00e9: Pavane, Op. 50 (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3sg7nnmspc5BJZRumucr7i"
+    },
+    {
+      "album": {
         "name": "Mozart: Eine Kleine Nachtmusik etc.",
         "url": "https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9"
       },
@@ -787,7 +813,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 379400,
       "name": "Faur\u00e9: Pavane, Op. 50 (Instrumental Version)",
       "url": "https://open.spotify.com/track/7yYONuFhNa72Bf5WFx8hSW"

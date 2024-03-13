@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 131599,
+  "2024-03-13": 131631,
   "date_first_scraped": "2023-11-11",
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
   "name": "This Is Bj\u00f6rk",
@@ -257,7 +257,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 608760,
       "name": "Black Lake",
       "url": "https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe"
@@ -399,6 +399,24 @@
     {
       "album": {
         "name": "Volta",
+        "url": "https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253453,
+      "name": "Declare Independence",
+      "url": "https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG"
+    },
+    {
+      "album": {
+        "name": "Volta",
         "url": "https://open.spotify.com/album/64EKrS1Ubw2rQ9qn9QRUq3"
       },
       "artists": [
@@ -409,7 +427,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 253453,
       "name": "Declare Independence",
       "url": "https://open.spotify.com/track/7gy9d7iBHW9BWhMNPjHuFf"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 393573,
       "name": "The Gate",
       "url": "https://open.spotify.com/track/7g2YQhm3jIxHnkMAeLjduf"
@@ -1343,10 +1361,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 282560,
       "name": "Venus As A Boy",
       "url": "https://open.spotify.com/track/0NNgY2gc1TUwBQoVp98Fxw"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282560,
+      "name": "Venus as a Boy",
+      "url": "https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 486297,
+  "num_followers": 486357,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWQyMmIxNzg1NGY5MjIzNzhiZDUyYWE5ZjA2NmE4ZTBmMzA4ODlm",
+  "snapshot_id": "MCw3OTRkNzllNTM2YzdjODkzMzZkNGU3N2Y2MTA4NDM3YjM3NjM3N2E2",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -875,22 +875,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Push Time",
-        "url": "https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG"
+        "name": "Warm & Easy",
+        "url": "https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl"
       },
       "artists": [
         {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
-        },
-        {
-          "name": "Super Cat",
-          "url": "https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM"
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Push Time",
-      "url": "https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK"
+      "duration_ms": 295333,
+      "name": "Warm & Easy",
+      "url": "https://open.spotify.com/track/2K02J8shfay33u49WhlaZg"
     }
   ],
   "unique_name": "Just Smile",

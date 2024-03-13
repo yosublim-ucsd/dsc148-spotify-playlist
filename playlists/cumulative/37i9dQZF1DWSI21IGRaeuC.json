@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 166153,
       "name": "Jump In",
       "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
@@ -4204,6 +4204,24 @@
       "duration_ms": 289752,
       "name": "Small Things",
       "url": "https://open.spotify.com/track/11fsAfyLE6m6j1Zay5hpvF"
+    },
+    {
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162914,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
     },
     {
       "album": {

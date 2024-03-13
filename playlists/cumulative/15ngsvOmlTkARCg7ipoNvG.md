@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,706 songs - 1 day 11 hr 31 min
+1,707 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Dreaming In The Valley Arr\. For Cello](https://open.spotify.com/track/28eNTRAkUiIUbdl8Sgrchv) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Dreaming In The Valley Arr\. For Cello](https://open.spotify.com/album/4ODJbnSDoRTYj5ShicNn1I) | 1:01 | 2023-04-08 | 2024-02-13 |
 | [Dreaming Of Spring](https://open.spotify.com/track/1f7tweDAoR2CYvHSiC6Guq) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wishful](https://open.spotify.com/album/4jicqkJQwogoGfVMKcMU5l) | 1:02 | 2022-01-14 |  |
 | [Dreams](https://open.spotify.com/track/56ZRUAKVXkXtNg7pC0Ag85) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Dreams](https://open.spotify.com/album/0UPlhRToVR1HDeaz9oQDnm) | 1:00 | 2024-03-09 |  |
+| [Dreams \- Ambient Cello Version](https://open.spotify.com/track/1w7okIxaBEg5NHuoQpkOyR) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Dreams \(Ambient Cello Version\)](https://open.spotify.com/album/2f0K7MnKM2JHiyeJRklnmf) | 1:00 | 2024-03-12 |  |
 | [Dreams \- Violin Version](https://open.spotify.com/track/0BmyqOJOs8lyZusz99H6K9) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Dreams \(Violin Version\)](https://open.spotify.com/album/0Bj2EXJrPU1VC96s4oX2b0) | 1:00 | 2024-03-09 |  |
 | [Dreams In Florence](https://open.spotify.com/track/7eDneB5sBpTyy4fwvil9Vo) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Afloat](https://open.spotify.com/album/0MPWCF5VwCxwfEzj8r2wNt) | 1:01 | 2023-06-16 | 2024-01-30 |
 | [Dreams Of Hope](https://open.spotify.com/track/1Z42wNHEyLHfJBfjP2PvtT) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Gentle Flow](https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I) | 1:02 | 2022-05-25 |  |

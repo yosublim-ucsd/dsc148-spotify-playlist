@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,799 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,759 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 24 | [The Christmas Waltz](https://open.spotify.com/track/1lz9Zt51FkorcpO9ImTF0v) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [The Christmas Waltz](https://open.spotify.com/album/3AL7JAKqZ8qYkELBarVLjx) | 4:05 |
 | 25 | [Give Love on Christmas Day](https://open.spotify.com/track/4pEwwUwGSL41FJnrJ8eEei) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Give Love on Christmas Day](https://open.spotify.com/album/0bL9SXrnTbc9Tqx1kpn2q5) | 4:45 |
 | 26 | [A Visit From St\. Nicholas \('Twas The Night Before Christmas\)](https://open.spotify.com/track/1Plru2OsTMH5W2O9fyFKsg) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [A Visit From St\. Nicholas](https://open.spotify.com/album/665z0eJtFybjWpF1tjgVFj) | 6:21 |
-| 27 | [Auld Lang Syne](https://open.spotify.com/track/5AA209yWZzBZ3ASH0g5ECH) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5) | [Auld Lang Syne](https://open.spotify.com/album/2DE0OWGtJhJQnx3jrmOWnE) | 2:59 |
+| 27 | [Auld Lang Syne](https://open.spotify.com/track/1O8oPm8e8ommARHknSO59Q) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5) | [Auld Lang Syne](https://open.spotify.com/album/5QrVO0znD72SuuqH9NxA2Y) | 3:00 |
 | 28 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/6RUQf03CK4UUvHDCyPDscx) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [The Christmas EP](https://open.spotify.com/album/6ySR5CSUPP9Fp2fKgyqIzq) | 4:26 |
 | 29 | [Christmas Don't Let Me Down \- Single Version](https://open.spotify.com/track/09XxwSW3nQpxngHcw6huo7) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Christmas Don’t Let Me Down](https://open.spotify.com/album/3eJgnDbAE2wDBvtAVQUrTy) | 3:20 |
 | 30 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/3nx7GD0euHYrWLzz1FJvcL) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 99 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 3:16 |
 | 100 | [Mistletoe And Holly \- Remastered 1999](https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:16 |
 
-Snapshot ID: `MCwxOTQyODFiNGYyM2RmMzg4YjRiYmIzZjY1MTdkNzkwY2YwMWE2N2I2`
+Snapshot ID: `MCw3YjZhNThlOTkyMWQ1YWM0YzNkOTkyNWM3YjhjNzQ3MmQwZWEyMjVj`

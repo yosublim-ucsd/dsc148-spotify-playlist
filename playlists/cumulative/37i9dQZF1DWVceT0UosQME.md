@@ -4,11 +4,11 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-570 songs - 21 hr 45 min
+571 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1989 at the bustop](https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [deconstruct](https://open.spotify.com/album/2nICjIzW2n6fMUaFPP4bnb) | 1:41 | 2024-01-05 |  |
+| [1989 at the bustop](https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [deconstruct](https://open.spotify.com/album/2nICjIzW2n6fMUaFPP4bnb) | 1:41 | 2024-01-05 | 2024-03-13 |
 | [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2024-01-05 |  |
 | [6pm Freedom](https://open.spotify.com/track/78wa13XBguLAx0c5pzqZDI) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Easy Breathing & 6pm Freedom](https://open.spotify.com/album/3jO0ts2BPgfBWKms1D5H2x) | 3:00 | 2024-01-05 |  |
 | [A Good Evening](https://open.spotify.com/track/2JJG2VeY1SMNS9ZqVnVZoV) | [Secret Corner](https://open.spotify.com/artist/7a40ZaJBGkEnOqrZyBCwQU) | [A Good Evening](https://open.spotify.com/album/6euHSUaffo1PSTtmRF1lNx) | 2:12 | 2024-01-05 |  |
@@ -66,6 +66,7 @@
 | [blinded by lighthouses](https://open.spotify.com/track/7Fmtd1AaGQ6RHwETNAoDYT) | [loefd50](https://open.spotify.com/artist/0iyxxtYSvJfZPulZqy8qt1) | [blinded by lighthouses](https://open.spotify.com/album/3VPBILa7cPT8Vciie3KvRK) | 1:40 | 2024-01-05 |  |
 | [Blooming](https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Blooming](https://open.spotify.com/album/1K0zCRnqgr9RTkBIP97P50) | 2:11 | 2024-01-05 |  |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2024-01-05 |  |
+| [Blue Drift](https://open.spotify.com/track/2BG75ETrZOMSmEwbpARLJi) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Blue Drift](https://open.spotify.com/album/6m8DL0g10o1CWWc9szlvDM) | 2:48 | 2024-03-08 |  |
 | [Blue Moon Boys](https://open.spotify.com/track/0OkPqjJ4mJNZZbcwW1pzzv) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [Blue Moon Boys](https://open.spotify.com/album/6fTZl1fGfyGQx88rUCWOaJ) | 2:54 | 2024-01-05 |  |
 | [Blue Sea 青海](https://open.spotify.com/track/35OwBONfwjJhCxW9qFmchn) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Blue Sea 青海](https://open.spotify.com/album/55TGNY8X961qgEkWzSvwI0) | 1:59 | 2024-01-05 |  |
 | [Blue Sky](https://open.spotify.com/track/0FOde8zqSfkBbmIToMoE2K) | [WO Hoos](https://open.spotify.com/artist/2nGaqTZqJmnUMVxWJpsatL) | [Blue Sky](https://open.spotify.com/album/2AhfQhDu2hdIqgrD7LlHCx) | 2:07 | 2024-01-05 |  |

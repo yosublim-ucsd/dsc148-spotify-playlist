@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, Lola Brooke, Never Broke Again and more\. Cover: 4batz & Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,133 likes - 48 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,237 likes - 48 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 47 | [Yuck Freestyle](https://open.spotify.com/track/3ghsizSguSJxscu862JKry) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Yuck Freestyle](https://open.spotify.com/album/1KAO2EF40fFZxiURcxg36B) | 3:00 |
 | 48 | [ray j](https://open.spotify.com/track/3ctGFtG7uMljEQzOHOoBsk) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [ray j](https://open.spotify.com/album/0Rv40qhX7pN2fDoXS79c0i) | 1:17 |
 
-Snapshot ID: `MCwyOTlhZWVhMWJmYTFlODNhYTc4N2JjZDI4NzA5OWEzMzU5MWMzN2I4`
+Snapshot ID: `MCw3MDZmMTY4NWM5YzhkNzRiNzY2NDZiNWM3MzM4NzRlOWYyYjhkY2U0`

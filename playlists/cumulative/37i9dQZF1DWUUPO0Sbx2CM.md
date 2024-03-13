@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-396 songs - 22 hr 2 min
+397 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Conqueror](https://open.spotify.com/track/089vf2r4s5obkgONgWd1FB) | [High Praise](https://open.spotify.com/artist/3cn684M2OtJFV8y5QAhlZU) | [Conqueror](https://open.spotify.com/album/7iIsfmogTfklo25kTEEB6H) | 3:55 | 2021-10-31 | 2022-07-26 |
 | [Conversation](https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI) | [Soulsician](https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt) | [Conversation](https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc) | 3:56 | 2023-02-07 |  |
 | [Covered](https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Covered](https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D) | 3:16 | 2023-02-07 |  |
+| [Crown \- \(Gregatron Disco Remix\)](https://open.spotify.com/track/4G53DUrMXSHmBEst6qIxKW) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s), [Gregatron](https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX) | [Crown The Remixes](https://open.spotify.com/album/4aAvJ8ueELnFmXJKihDrcP) | 3:05 | 2023-02-07 |  |
 | [Crown \- Gregatron Disco Remix](https://open.spotify.com/track/1yrx5qPd8f5TtOrrtXRU0z) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown The Remixes](https://open.spotify.com/album/0kMCp8ynEoHnR4FaSFJ82A) | 3:05 | 2023-02-07 | 2023-08-18 |
 | [Dance With Me](https://open.spotify.com/track/4JK3GyeM5KmkakCb8DjQg4) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Outta Line](https://open.spotify.com/album/7mBvjkKnQZzHZ6yBYvobUZ) | 3:14 | 2021-10-31 | 2022-07-24 |
 | [Dancing at Dusk](https://open.spotify.com/track/1Lj6LnLMSFZv8ik24ssMpO) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 3:37 | 2021-10-31 | 2022-07-28 |
@@ -361,7 +362,7 @@
 | [Tread the Dawn](https://open.spotify.com/track/29LoYHqJB3YYBlSWE2j2Mz) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Tread the Dawn](https://open.spotify.com/album/1qrbqGbpjZi9k2BwX8tFam) | 3:35 | 2021-10-31 | 2022-07-08 |
 | [True Love](https://open.spotify.com/track/690c43quycAQBnis0vi4mY) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 2:55 | 2023-02-07 |  |
 | [Trust \(Hold on Tight\), Live at Hsn Germany 2021](https://open.spotify.com/track/5etXkOBaX5MLeiudGuSh0y) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [SARVIA](https://open.spotify.com/artist/2AzjJmXPh6YhnzdqqvRw12) | [Trust \(Hold on Tight\), Live at Hsn Germany 2021](https://open.spotify.com/album/6k1coHwQPUZ0NVYqbVlqPl) | 5:17 | 2021-10-31 | 2022-07-29 |
-| [Turn This Ship Around \- Gregatron Remix](https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown \(Deluxe\)](https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC) | 3:17 | 2023-02-07 |  |
+| [Turn This Ship Around \- Gregatron Remix](https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown \(Deluxe\)](https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC) | 3:17 | 2023-02-07 | 2024-03-13 |
 | [Unashamed](https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Unashamed](https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey) | 2:58 | 2023-02-07 |  |
 | [Unshakable Love](https://open.spotify.com/track/1HXkhm3VgTwqtHUDzKT3GY) | [Elevation Youth](https://open.spotify.com/artist/2lmkAeBbKuATAqV9Zq81j4) | [Unshakable Love](https://open.spotify.com/album/5DCIWSIAV8ZSe52kYLlnSV) | 3:12 | 2021-10-31 | 2022-04-30 |
 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 | 2021-10-31 | 2023-02-08 |

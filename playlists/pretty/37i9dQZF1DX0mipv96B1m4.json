@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTk1NzQ2M2VmZGQwMGIzZTRjOWVlYWIyY2JlNWRkYWI4MzBlOTNi",
+  "snapshot_id": "MCxlYmQzOTM4NDcxNjkwZTNkOWM1NTNiNDhkZmNiNzcxNjcxYzEzYzUx",
   "tracks": [
     {
       "added_at": "2024-03-01 12:07:08",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Just Bu Just",
-        "url": "https://open.spotify.com/album/7bQUSh4b5fi4bYj3OXvZCM"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Just Bu Just",
-      "url": "https://open.spotify.com/track/6kmWdPTcbv91cTu1mxJ4z0"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Sida Mukyalo",
         "url": "https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 160000,
       "name": "Sida Mukyalo",
       "url": "https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Just Bu Just",
+        "url": "https://open.spotify.com/album/7bQUSh4b5fi4bYj3OXvZCM"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Just Bu Just",
+      "url": "https://open.spotify.com/track/6kmWdPTcbv91cTu1mxJ4z0"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Kiriza Rmx",
+        "url": "https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Kiriza Rmx",
+      "url": "https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "We Can",
         "url": "https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Kiriza Rmx",
-        "url": "https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F"
-      },
-      "artists": [
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        },
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Kiriza Rmx",
-      "url": "https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Tebali Ready",
-        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Tebali Ready",
-      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "LIFIST",
         "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 214729,
       "name": "LIFIST",
       "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Tebali Ready",
+        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Tebali Ready",
+      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Bajooga",
+        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Bajooga",
+      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Bajooga",
-        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Bajooga",
-      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -935,18 +935,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Lock Down",
-        "url": "https://open.spotify.com/album/4a2WRG82z0bI5RWYK9AN1Q"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
       },
       "artists": [
         {
-          "name": "Bright Sun UG",
-          "url": "https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Cindy Sanyu & Beenie Gunter",
+          "url": "https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg"
         }
       ],
-      "duration_ms": 108068,
-      "name": "Lock Down",
-      "url": "https://open.spotify.com/track/3FpDRPuh4aHOOVtvlYhpB3"
+      "duration_ms": 282215,
+      "name": "DanceHall",
+      "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
     }
   ],
   "unique_name": "Kidandali Parte",

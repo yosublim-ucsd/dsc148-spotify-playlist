@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 7
+> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Tim Pepperoni
 
-287 songs - 13 hr 16 min
+291 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [FREERIDE ON ROAD](https://open.spotify.com/track/655nGWRDqC6m6D2AeJuCdr) | [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA), [Akira Jun](https://open.spotify.com/artist/6DHEtqz1wHsFgEhxwFo99d) | [FREERIDE ON ROAD](https://open.spotify.com/album/4VqQIgEk1NAl3dNuHaBXZR) | 2:00 | 2023-12-07 | 2023-12-27 |
 | [Friends](https://open.spotify.com/track/77QPBNmjune3Xlj4QfB2M6) | [SULLEN](https://open.spotify.com/artist/27DGJN7P0zs1BCMjSn2ENb), [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [ONLYS](https://open.spotify.com/album/6pEIrxa8bmtlxdI7xq0LiJ) | 3:15 | 2024-01-11 | 2024-02-21 |
 | [Fuckin real](https://open.spotify.com/track/1elsgSpVDMr0lrZupnrCN1) | [GEN](https://open.spotify.com/artist/08kqzV23DriJWmzKZeKZGi) | [Fuckin real](https://open.spotify.com/album/3mvLlwBUSOA5WQt793CL2S) | 2:32 | 2024-02-27 |  |
+| [G\-Class](https://open.spotify.com/track/47DbOztDvmgPHbqPEL1cb0) | [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN), [¥OUNG ARM¥](https://open.spotify.com/artist/2Mgtxy03Xbwwk2ZqABZ00Q) | [G\-Class](https://open.spotify.com/album/3fhUJ0yY7ZRGAwGj47mw8V) | 2:19 | 2024-03-12 |  |
 | [GAS2](https://open.spotify.com/track/1qARzoh74ezKZWsqGymv9Y) | [NeS](https://open.spotify.com/artist/6Yc7exkczFuGRwaCdVA3pN) | [506](https://open.spotify.com/album/73Oq8xbM9INVWEvz3yAgAF) | 2:27 | 2023-12-07 | 2023-12-14 |
 | [GENZAI](https://open.spotify.com/track/2k9OjSoNMIcUjO3PUE5YZj) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [dubby bunny](https://open.spotify.com/artist/244odVvt89Qx3RNgzeXdMF) | [GENZAI](https://open.spotify.com/album/1xMfZDikITDqLuyLPxSlNd) | 1:53 | 2023-12-07 | 2023-12-15 |
 | [GET RIGHT BACK](https://open.spotify.com/track/2ki1pOrszqqEVBjEO2TFsL) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [GET RIGHT BACK](https://open.spotify.com/album/2GRECGqkujuAC6uRvOauPA) | 2:19 | 2023-12-07 | 2024-02-28 |
@@ -133,9 +134,9 @@
 | [Hell nah](https://open.spotify.com/track/5CBYq5xdGfmnaVTDvxIIrj) | [Contakeit](https://open.spotify.com/artist/1RTnC0KCSNfJlcb7bJg0zG), [Havit](https://open.spotify.com/artist/5VOUtw4vnWLC0YkszAja0v) | [Covit'23](https://open.spotify.com/album/6lOKpsWkRZGkhxApf6d0UP) | 2:40 | 2023-12-07 | 2023-12-15 |
 | [hello world:'\)](https://open.spotify.com/track/4Kq1JvKXuR7xDzYhTTlPHE) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH) | [hello world:'\)](https://open.spotify.com/album/411AN1f5tjdYaFL1wSE5aE) | 2:12 | 2023-12-07 | 2024-01-24 |
 | [Helter Skelter](https://open.spotify.com/track/75gtSkZ8ko4aiNysNRaWLc) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [Helter Skelter](https://open.spotify.com/album/03jk8TVKp0zhwochd99y6t) | 3:05 | 2023-12-07 |  |
-| [Home](https://open.spotify.com/track/5LrWEVkWY3N09bt5zCj0gx) | [S Carti](https://open.spotify.com/artist/4fSjc5gtf1H43hnZVZIpWK) | [Jazzy&Me](https://open.spotify.com/album/3fE836KnAbE7cPSb0VXtm7) | 2:00 | 2024-02-06 |  |
+| [Home](https://open.spotify.com/track/5LrWEVkWY3N09bt5zCj0gx) | [S Carti](https://open.spotify.com/artist/4fSjc5gtf1H43hnZVZIpWK) | [Jazzy&Me](https://open.spotify.com/album/3fE836KnAbE7cPSb0VXtm7) | 2:00 | 2024-02-06 | 2024-03-13 |
 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 | 2024-01-23 |  |
-| [Hotbox](https://open.spotify.com/track/24yflAQpScsE9WvjQLAyxc) | [SpiderWeb](https://open.spotify.com/artist/32D17rve5oq3kWoTnJLkhn) | [Mango Fontaine](https://open.spotify.com/album/5vmHKffV0LTgQKzxSj3Maa) | 3:28 | 2024-02-08 |  |
+| [Hotbox](https://open.spotify.com/track/24yflAQpScsE9WvjQLAyxc) | [SpiderWeb](https://open.spotify.com/artist/32D17rve5oq3kWoTnJLkhn) | [Mango Fontaine](https://open.spotify.com/album/5vmHKffV0LTgQKzxSj3Maa) | 3:28 | 2024-02-08 | 2024-03-13 |
 | [Houjou \- bonus track](https://open.spotify.com/track/4OzCR5H9FEq4HP4pN66Y4D) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7), [GREEN ROMANCE](https://open.spotify.com/artist/4ifwODTNRfOpYpxiBjsaTx), [浅井杜人](https://open.spotify.com/artist/3QsQcihids9cKIS5YSCErz) | [You are not rockstar, I'm not rockstar](https://open.spotify.com/album/1yl8uapCeNjf3m1WacTF6N) | 2:34 | 2023-12-07 | 2024-01-25 |
 | [hue0](https://open.spotify.com/track/2q6ZRtCmXCkLXUESVXIOWW) | [Kiyoki](https://open.spotify.com/artist/4YqDFjvk7ovTE8bYLHr2ux) | [hue0](https://open.spotify.com/album/1TPq08dU3JrTs7dUMN0nGq) | 1:50 | 2023-12-07 | 2023-12-23 |
 | [i don't know \(that](https://open.spotify.com/track/2Jo94X97s79fE6prjgNTBk) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs), [M\-3](https://open.spotify.com/artist/1ksrAJFSS3cQ2axS9fcMcU) | [i don't know \(that](https://open.spotify.com/album/1RMj4durFQoxp5Ni6M1RNF) | 2:11 | 2024-02-20 |  |
@@ -153,6 +154,7 @@
 | [Jaded](https://open.spotify.com/track/0ClrplYiINhvM54gL1KKrm) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Jaded](https://open.spotify.com/album/7vYR4M9bjVZ8UGVtMRFcEs) | 2:46 | 2024-01-25 | 2024-01-27 |
 | [Jaded](https://open.spotify.com/track/1rH3UGZN6Fjz47VeGXFywl) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Love You Mily](https://open.spotify.com/album/1xBEh1gCsIreYC5lqRDJiT) | 2:46 | 2024-01-25 | 2024-02-23 |
 | [Jerky](https://open.spotify.com/track/4fAhvtlPNJnciRmeGvHbBk) | [GioGio](https://open.spotify.com/artist/2ak8BuJIDBr42JHPiehyLi) | [Jerky](https://open.spotify.com/album/6zQpms0oM4KwVmhLvw6hRZ) | 2:51 | 2023-12-26 | 2024-02-09 |
+| [JET](https://open.spotify.com/track/7F3J8LeYIiuqYuGUvau3Jp) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA) | [Local Life](https://open.spotify.com/album/4560Qtdvr2QLUZPhnbsCUy) | 2:17 | 2024-03-12 |  |
 | [Jimmy Choo](https://open.spotify.com/track/7sjMVTwRPodZm1uBmGDp5f) | [chao chao](https://open.spotify.com/artist/4MT9OmyrjZzGG7TZTd9yQ0) | [Back To The Past](https://open.spotify.com/album/6NR7ADnnNsu63b6pRYYpmB) | 2:51 | 2024-01-30 |  |
 | [JINANBOU](https://open.spotify.com/track/2UtYmdBDMnhTNFrgGDdLhy) | [XAN](https://open.spotify.com/artist/5NfqonprYhdYuBctIrOv6B) | [JINANBOU](https://open.spotify.com/album/4XgqXpM2IeoIEcJzihn9MH) | 2:01 | 2024-02-22 |  |
 | [Josetsusha!](https://open.spotify.com/track/5MCTIDVidknIGlI9atECh4) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [Josetsusha!](https://open.spotify.com/album/7263wqVHp54oFq8zGlEXTM) | 3:21 | 2024-03-05 |  |
@@ -230,7 +232,7 @@
 | [Seasons](https://open.spotify.com/track/6EXuxQV8wJVvIohejXwbPD) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Seasons](https://open.spotify.com/album/4B0qLdyNSpZc9lK7CsMdTn) | 1:10 | 2023-12-07 |  |
 | [Selfish](https://open.spotify.com/track/3Bpie3D1Q8Kz2fSBi0UKzB) | [¥oung Flag](https://open.spotify.com/artist/0axWR0RBWlULo5yCbalnWV), [S\-Liam](https://open.spotify.com/artist/3LH7yvrRzh0ZoHkOmU3vpu) | [REAL TALK](https://open.spotify.com/album/6v22Aa0LMQUSWXHteBhOx0) | 2:40 | 2024-01-16 | 2024-02-16 |
 | [sento](https://open.spotify.com/track/1Nl87uvvdyIAohvr4vX37I) | [suimu:](https://open.spotify.com/artist/3FLRHIlvau9mLVlOXs7FWb) | [sento](https://open.spotify.com/album/2w9UyWl3QI9sZZp84gzb5K) | 2:39 | 2024-03-05 |  |
-| [Sexy](https://open.spotify.com/track/1N8QbTJO5ED2ShArjBSMDy) | [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Sexy](https://open.spotify.com/album/5ya278NuTWU7pUzBOiI9lv) | 3:30 | 2024-02-27 |  |
+| [Sexy](https://open.spotify.com/track/1N8QbTJO5ED2ShArjBSMDy) | [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Sexy](https://open.spotify.com/album/5ya278NuTWU7pUzBOiI9lv) | 3:30 | 2024-02-27 | 2024-03-13 |
 | [Sexy](https://open.spotify.com/track/6GF1LaNPKsEKr8kF644pyJ) | [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Sexy](https://open.spotify.com/album/0uou2s2z1kr5X0wdvzCaZi) | 3:30 | 2024-02-08 | 2024-02-29 |
 | [Sh!t Talker](https://open.spotify.com/track/6OKWLgCbG4dV23hcnh3fyX) | [YUNGSTAお仲間](https://open.spotify.com/artist/64csVS3CtwSZMjIbhCaMqU) | [ONAKAMATAPE:上](https://open.spotify.com/album/2WUuI7KEDyolb5ZqzeX2NO) | 2:41 | 2023-12-22 | 2024-01-11 |
 | [SHAKE IT](https://open.spotify.com/track/0hg3vVtDKx9unqW6h0QJBy) | [Granzotto Kris](https://open.spotify.com/artist/5SiluWKCDSSK540EQp4iI3), [Shinkai East](https://open.spotify.com/artist/3OssiXL7LArg3yDW0t2wE6) | [SHAKE IT](https://open.spotify.com/album/5UuZ688n73AFKco48P7u8r) | 2:38 | 2023-12-07 | 2023-12-27 |
@@ -290,7 +292,9 @@
 | [Zoomer](https://open.spotify.com/track/6kopnoNQZMlhuXEdPOyj31) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Golden Virginia](https://open.spotify.com/album/7M5Gqvf6GFk7C8rMpIBqid) | 2:54 | 2023-12-07 | 2024-02-21 |
 | [±](https://open.spotify.com/track/72VqxxCtgZPGSnQbO1qzZx) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo), [Puckafall](https://open.spotify.com/artist/4sk5D1u9uIWDjupHAdxjwg) | [TORiO](https://open.spotify.com/album/0Fb6tnrpnyeOjKYVlWSDKj) | 2:57 | 2023-12-07 |  |
 | [旅人](https://open.spotify.com/track/4phR3rrjSUU9qROeguPI5g) | [むえやBOY](https://open.spotify.com/artist/5gT5Yyzykq9UQPeu3JePJG) | [旅人](https://open.spotify.com/album/36naEtqDrEaNKKy8UScRQ0) | 2:04 | 2024-01-23 | 2024-02-23 |
+| [最低だけど最高](https://open.spotify.com/track/2ufX2xxEysgDrPE5ANyhHy) | [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo) | [最低だけど最高](https://open.spotify.com/album/4EZrC1LZyiTb3DV3igu8Bl) | 1:43 | 2024-03-12 |  |
 | [東京無宿](https://open.spotify.com/track/1jYypP5U3UPsDDNdOdDvrM) | [BLYY](https://open.spotify.com/artist/6yX4DVkXlVVzckdFcqer1p) | [東京無宿](https://open.spotify.com/album/4TyEPsSOhakTnVobdu9cb5) | 3:43 | 2024-01-23 | 2024-03-06 |
+| [烏](https://open.spotify.com/track/1EEPiAXfXz7IqI1hzKcXPI) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [烏](https://open.spotify.com/album/3CuxqRYssCD7eplj81jRVS) | 2:13 | 2024-03-12 |  |
 | [牛久](https://open.spotify.com/track/5hvbfRmhcKVB2iwgktJx8y) | [OGGYWEST](https://open.spotify.com/artist/5e9rwyw6ZPV26OvEy34xTA) | [牛久](https://open.spotify.com/album/5HCH5FD6Yg1vFhPuwNAmOM) | 3:05 | 2024-01-30 | 2024-02-09 |
 | [第救条](https://open.spotify.com/track/5sluiMnosRaynnGPuuI4ON) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [第救条](https://open.spotify.com/album/7phcQamybNqbWXszHenikP) | 3:03 | 2024-02-27 | 2024-02-29 |
 | [花束](https://open.spotify.com/track/76w5LRGxbVIEbkpke35vR3) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [5/13](https://open.spotify.com/album/5MDVcLYeo1Ib9mE3AUxPJY) | 2:01 | 2024-02-13 | 2024-02-15 |

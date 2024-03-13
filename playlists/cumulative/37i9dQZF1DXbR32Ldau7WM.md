@@ -2,9 +2,9 @@
 
 ### [Big in Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> The biggest rock bands/artists in Japan right now!  Cover: Fujifabric\(フジファブリック\)
+> The biggest rock bands/artists in Japan right now!  Cover: AJICO
 
-997 songs - 2 day 18 hr 0 min
+1,000 songs - 2 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [30minutes](https://open.spotify.com/track/0h5M1WuZUs7BDAmSWgzzlY) | [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [30minutes](https://open.spotify.com/album/49UapnkmqyULff9EydUll5) | 3:32 | 2022-08-09 | 2022-08-17 |
 | [6or9](https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [6or9](https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW) | 3:35 | 2023-09-05 | 2023-10-04 |
 | [a humble border](https://open.spotify.com/track/0Y7JvSq8M8oedxot1Njfrg) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [a humble border](https://open.spotify.com/album/0Igc1reJ3VXW0PExraM40T) | 3:34 | 2023-12-12 | 2023-12-20 |
-| [A Little Bit Of Your Love](https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:15 | 2024-02-27 |  |
+| [A Little Bit Of Your Love](https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:15 | 2024-02-27 | 2024-03-13 |
 | [A Name of New Era](https://open.spotify.com/track/56EJzfod2MjSEimUA1RjAK) | [the band apart \(naked\)](https://open.spotify.com/artist/6jXhrERTGFVSiffzV8iwBg) | [4](https://open.spotify.com/album/4HQwiXVf1Zl7h7T1rm6DpF) | 3:51 | 2023-11-14 | 2023-11-22 |
 | [A Phenomenal Man](https://open.spotify.com/track/5hxacLnWr2zD9GDKm2oEYy) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [A Phenomenal Man](https://open.spotify.com/album/0cyUc2d1JjBj3g6OkLYb99) | 3:00 | 2023-04-19 | 2023-05-10 |
 | [A Spring Breath](https://open.spotify.com/track/4gXIoS4dweag2ZBdk8xaRf) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [A Spring Breath](https://open.spotify.com/album/1XJr7sq0j0c5bccwKMdTVw) | 3:58 | 2022-05-17 | 2022-07-29 |
@@ -259,7 +259,7 @@
 | [LAST FOREVER](https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4) | 4:16 | 2023-05-16 | 2023-06-07 |
 | [LAST PARADISE](https://open.spotify.com/track/3TSQBufd7cUzhn7WKy5DWd) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 3:40 | 2023-07-11 | 2023-07-13 |
 | [LAST PARADISE](https://open.spotify.com/track/5SfXOoYk181gFxteYvmGSo) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 3:40 | 2023-07-11 | 2023-08-16 |
-| [Laundry](https://open.spotify.com/track/4hEiFAgW0WEltQQGlUwk7x) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Tenshi datta janaika](https://open.spotify.com/album/1yfUWDOMlD25JUeE6I1e0x) | 3:26 | 2024-02-27 |  |
+| [Laundry](https://open.spotify.com/track/4hEiFAgW0WEltQQGlUwk7x) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Tenshi datta janaika](https://open.spotify.com/album/1yfUWDOMlD25JUeE6I1e0x) | 3:26 | 2024-02-27 | 2024-03-13 |
 | [LET JERRY ROLL](https://open.spotify.com/track/0JZktsU7GvVhhvbmmcqA7Y) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [LET JERRY ROLL](https://open.spotify.com/album/2p65OHZz45jCO2lTAhMlUE) | 3:23 | 2022-05-12 | 2022-07-26 |
 | [Let Me Hear](https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6zf2m6QVhxsXrS0EoAR6Lg) | 3:43 | 2023-12-05 |  |
 | [Let Me Hear](https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY) | 3:45 | 2023-06-27 | 2023-12-09 |
@@ -773,7 +773,7 @@
 | [プラネタリア](https://open.spotify.com/track/1m0rRTBTKBCiXDkNdEKbYo) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [プラネタリア](https://open.spotify.com/album/17uYpGkXy9NB1RBzHVB7Ri) | 4:33 | 2023-10-10 | 2024-02-29 |
 | [プラネタリア](https://open.spotify.com/track/0NAk5DY9rv3pAOvif090av) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [PORTRAIT](https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg) | 4:34 | 2024-02-27 | 2024-03-06 |
 | [プログレッシブ](https://open.spotify.com/track/10v3G61N0AiAdSKH9r3h7m) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [YF 下](https://open.spotify.com/album/2K5jyDDqgCrrdZgsLps6Pl) | 3:44 | 2022-05-19 | 2022-06-10 |
-| [ヘイヘイブギー](https://open.spotify.com/track/3M934hc7gzitMiBvnUnpFH) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [世紀のうた・心のうた \-服部良一トリビュート\-](https://open.spotify.com/album/5iGY67MWbIva63HeBXkzo4) | 3:45 | 2024-02-20 |  |
+| [ヘイヘイブギー](https://open.spotify.com/track/3M934hc7gzitMiBvnUnpFH) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [世紀のうた・心のうた \-服部良一トリビュート\-](https://open.spotify.com/album/5iGY67MWbIva63HeBXkzo4) | 3:45 | 2024-02-20 | 2024-03-13 |
 | [ペンペン](https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [ペンペン](https://open.spotify.com/album/4KvWjVts1YRnAB3CrXVOyw) | 4:21 | 2022-07-05 | 2022-07-13 |
 | [ホテルニュートリノ](https://open.spotify.com/track/66j7OAinOnLbkATzcQPfmA) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ホテルニュートリノ](https://open.spotify.com/album/7mAnnljEik428IDN7c8zGv) | 4:04 | 2024-01-02 |  |
 | [ホネホネフェスロード](https://open.spotify.com/track/1mvxF2mVZmSzEXWjxHUoII) | [Keita The Newest](https://open.spotify.com/artist/5lWQCVtFD3JBNC9Z1ohCEh) | [amable muy muy](https://open.spotify.com/album/6Lyui5eCX7NbYFiF4qhKIH) | 3:12 | 2023-11-08 | 2023-11-18 |
@@ -788,10 +788,12 @@
 | [ミラクルレボリューション No.9](https://open.spotify.com/track/2x7QGJfqnRvHvk0ulYy1Ex) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [PORTRAIT](https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg) | 4:41 | 2024-02-27 | 2024-03-06 |
 | [メッキ](https://open.spotify.com/track/1pz9RH2Z3JDEbZZJIGTIaC) | [Yohito Teraoka](https://open.spotify.com/artist/1TgmCvWmvvyKZuWWKXDkjU), [成田昭次](https://open.spotify.com/artist/1KJ0iyFM9nBziAmyOj2fHZ) | [MASTER PIECE \-maverick\-Best of 30 Years](https://open.spotify.com/album/6wBwrdupGzvzTN7ApWytkS) | 3:05 | 2023-10-31 | 2023-11-11 |
 | [ユートピア](https://open.spotify.com/track/1ZDfoPSqnc8MR9Nm745oeq) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [ユートピア](https://open.spotify.com/album/1s56BN4GPeE76OX7QavXxO) | 3:39 | 2022-05-12 | 2022-07-29 |
+| [ヨリ戻シチュー](https://open.spotify.com/track/7nitAbcizp1L5AMjPLVj39) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [バンドは水物](https://open.spotify.com/album/10ioJ03IBSjiMjxApvX2kd) | 5:17 | 2024-03-12 |  |
 | [ラストナイト](https://open.spotify.com/track/09Dc0ak1c1wJHL1fEzh9oy) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [戀愛大全](https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky) | 4:21 | 2022-10-18 | 2022-12-21 |
 | [ラブソングが聴こえる](https://open.spotify.com/track/55ZWVNxqbjlnBWax4MpTcD) | [浅井健一＆THE INTERCHANGE KILLS](https://open.spotify.com/artist/7xCHsljGzMqjkBfUFWYSKr) | [ラブソングが聴こえる](https://open.spotify.com/album/7z6xNJ50H3nSIQ78oH096n) | 3:41 | 2022-05-10 | 2022-06-22 |
 | [ラブレター](https://open.spotify.com/track/2xTqNGLtZYetzvx6VAs7Pd) | [YUSUKE CHIBA \- SNAKE ON THE BEACH \-](https://open.spotify.com/artist/4kHNeHQ5nA9HDRVXXhR308) | [ラブレター](https://open.spotify.com/album/3FDrTfxt0PO6qIC8eQIAFj) | 5:46 | 2022-07-26 | 2022-08-03 |
 | [ランドリー](https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [天使だったじゃないか](https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj) | 3:26 | 2024-02-27 | 2024-02-29 |
+| [ラヴの元型](https://open.spotify.com/track/5AOoLf1lxCLcbMDsv0du8c) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [ラヴの元型](https://open.spotify.com/album/0BuE2EEycVTb4Q9FiJ9dkc) | 3:26 | 2024-03-12 |  |
 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 | 2023-06-27 |  |
 | [一触即発](https://open.spotify.com/track/5rjg2Ko5FKp9k8i8spC1vQ) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [TODAY](https://open.spotify.com/album/0DsM76Alyvsrq649owb7Xf) | 3:08 | 2022-10-29 | 2022-11-23 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2023-07-04 |  |
@@ -874,6 +876,7 @@
 | [愛の痛手が一晩中](https://open.spotify.com/track/2Ac3RZ0FUDNNmnT2xOHN24) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:19 | 2023-03-21 | 2023-04-05 |
 | [愛の痛手が一晩中](https://open.spotify.com/track/7xZiOPJ8AJAruSzvkesK0E) | [YONCE \(Suchmos\)](https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 7:43 | 2023-03-21 | 2023-04-12 |
 | [愛を叫びたい](https://open.spotify.com/track/6JM4qxZKnnCaiVmhGMiZRI) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [愛を叫びたい](https://open.spotify.com/album/3xpqNxKyFoO3BoX7nPZTtM) | 4:11 | 2022-08-23 | 2022-09-07 |
+| [愛スティル](https://open.spotify.com/track/5YXSqEJ3DwsyAvM8sFJRw8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [愛スティル](https://open.spotify.com/album/1p2Pyh6O2i7GgeOOYgozmU) | 4:44 | 2024-03-12 |  |
 | [愛彌々](https://open.spotify.com/track/4BQR7j2Wg0lkwfPq9O14gZ) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [愛彌々](https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv) | 5:08 | 2022-06-02 | 2022-11-09 |
 | [戦争がはじまる](https://open.spotify.com/track/3gQKj1zeZaefl5J7k0IEwh) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [Camera Obscura](https://open.spotify.com/album/1TpXizd9q589CDoLhj5JR4) | 4:37 | 2023-05-09 | 2023-07-12 |
 | [手探り](https://open.spotify.com/track/31hF1E87am8QziX1racpkp) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Uniolla](https://open.spotify.com/album/5F3yuKACvWYjz3G6YHPAlO) | 3:38 | 2022-05-10 | 2022-07-27 |

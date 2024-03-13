@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 64498,
+  "2024-03-13": 64505,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to women at full volume. Cover - Sunidhi Chauhan",
   "name": "EQUAL India",
@@ -235,6 +235,32 @@
       "duration_ms": 295489,
       "name": "Ab Na Jaunga",
       "url": "https://open.spotify.com/track/65mdUx7JkoFHPdfJGJbR2i"
+    },
+    {
+      "album": {
+        "name": "Ae Watan Mere Watan",
+        "url": "https://open.spotify.com/album/7fO8Ls2iR3PsQ34ni7h0mv"
+      },
+      "artists": [
+        {
+          "name": "Akashdeep Sengupta",
+          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Darab Farooqui",
+          "url": "https://open.spotify.com/artist/0iDELYfsojR5yJdJgNEgHe"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250215,
+      "name": "Ae Watan Mere Watan - Title Track (Female Version)",
+      "url": "https://open.spotify.com/track/72brioeVMcRy8z3UxBFfaE"
     },
     {
       "album": {
@@ -2045,7 +2071,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 207765,
       "name": "It Is What It Is (Madhaniya)",
       "url": "https://open.spotify.com/track/0Og7tupRo5ozcO6RCXTz7E"
@@ -2953,10 +2979,36 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 160707,
       "name": "Love Like That (feat. Ali Sethi)",
       "url": "https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS"
+    },
+    {
+      "album": {
+        "name": "Maa Banne Wali Hoon (From \"Dukaan\")",
+        "url": "https://open.spotify.com/album/76897QRBrXfpHcfdU58VTu"
+      },
+      "artists": [
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233076,
+      "name": "Maa Banne Wali Hoon (From \"Dukaan\")",
+      "url": "https://open.spotify.com/track/08YlAqZduy1qx3uOqtfCDz"
     },
     {
       "album": {

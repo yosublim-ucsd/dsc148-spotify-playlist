@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now!  Cover: Fujifabric(\u30d5\u30b8\u30d5\u30a1\u30d6\u30ea\u30c3\u30af)",
+  "description": "The biggest rock bands/artists in Japan right now!  Cover: AJICO",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 195479,
       "name": "A Little Bit Of Your Love",
       "url": "https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B"
@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 206373,
       "name": "Laundry",
       "url": "https://open.spotify.com/track/4hEiFAgW0WEltQQGlUwk7x"
@@ -14114,7 +14114,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 225666,
       "name": "\u30d8\u30a4\u30d8\u30a4\u30d6\u30ae\u30fc",
       "url": "https://open.spotify.com/track/3M934hc7gzitMiBvnUnpFH"
@@ -14381,6 +14381,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30f3\u30c9\u306f\u6c34\u7269",
+        "url": "https://open.spotify.com/album/10ioJ03IBSjiMjxApvX2kd"
+      },
+      "artists": [
+        {
+          "name": "TsuShiMaMiRe",
+          "url": "https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317249,
+      "name": "\u30e8\u30ea\u623b\u30b7\u30c1\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/7nitAbcizp1L5AMjPLVj39"
+    },
+    {
+      "album": {
         "name": "\u6200\u611b\u5927\u5168",
         "url": "https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky"
       },
@@ -14450,6 +14468,24 @@
       "duration_ms": 206373,
       "name": "\u30e9\u30f3\u30c9\u30ea\u30fc",
       "url": "https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30f4\u306e\u5143\u578b",
+        "url": "https://open.spotify.com/album/0BuE2EEycVTb4Q9FiJ9dkc"
+      },
+      "artists": [
+        {
+          "name": "AJICO",
+          "url": "https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "\u30e9\u30f4\u306e\u5143\u578b",
+      "url": "https://open.spotify.com/track/5AOoLf1lxCLcbMDsv0du8c"
     },
     {
       "album": {
@@ -15946,6 +15982,32 @@
       "duration_ms": 251800,
       "name": "\u611b\u3092\u53eb\u3073\u305f\u3044",
       "url": "https://open.spotify.com/track/6JM4qxZKnnCaiVmhGMiZRI"
+    },
+    {
+      "album": {
+        "name": "\u611b\u30b9\u30c6\u30a3\u30eb",
+        "url": "https://open.spotify.com/album/1p2Pyh6O2i7GgeOOYgozmU"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u6751\u548c\u7fa9",
+          "url": "https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC"
+        },
+        {
+          "name": "Yasuyuki Okamura",
+          "url": "https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL"
+        },
+        {
+          "name": "Kazuyoshi Saito",
+          "url": "https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284372,
+      "name": "\u611b\u30b9\u30c6\u30a3\u30eb",
+      "url": "https://open.spotify.com/track/5YXSqEJ3DwsyAvM8sFJRw8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,828 likes - 150 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,846 likes - 150 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 56 | [Stormy Night](https://open.spotify.com/track/3yv7S3DWESv8CF52hGglqH) | [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a) | [Stormy Night](https://open.spotify.com/album/4XGIFbYRL1U8MYTLFZsInB) | 2:28 |
 | 57 | [Empires](https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY) | [It Flew By](https://open.spotify.com/album/3PwKRBTI8qZfij6rcT7bP2) | 3:10 |
 | 58 | [Candy Girl](https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Vallemarie](https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g) | [Candy Girl](https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1) | 2:42 |
-| 59 | [Wake Up Romeo](https://open.spotify.com/track/54Sy4fzAjNcbZqHoxg1P8o) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Wake Up Romeo](https://open.spotify.com/album/7nZAd0voTDwEStlE6ACj06) | 3:27 |
+| 59 | [Wake Up Romeo](https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Wake Up Romeo](https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk) | 3:27 |
 | 60 | [It Don't Mean A Thing \- Electro Swing Mix](https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S) | [The Hebbe Sisters](https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [It Don't Mean A Thing \(Electro Swing Mix\)](https://open.spotify.com/album/0BUY69FrFq6yFf933Vp6AL) | 2:53 |
 | 61 | [Bad Boy Good Man \- Rmx 2023](https://open.spotify.com/track/3ygbRD0PvH6CWdFH6NWGQx) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Bad Boy Good Man \(Rmx 2023\)](https://open.spotify.com/album/0miSiEh4lSSb3msuWsA3Ju) | 3:29 |
 | 62 | [Groove Glider](https://open.spotify.com/track/4BNbwseqUTPlcEHCbT0hW5) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Groove Glider](https://open.spotify.com/album/1KxXWZoRJgBLC7w6avADuA) | 2:08 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 149 | [Topsy at the Top](https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Topsy at the Top](https://open.spotify.com/album/1n9Z8PcktdiG2ccx7CRnCm) | 4:20 |
 | 150 | [Light](https://open.spotify.com/track/6XMLzR52m0SAZfM8WxzQ0w) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Light](https://open.spotify.com/album/1QDrLXAZrhuye2dHxB2fzn) | 3:08 |
 
-Snapshot ID: `MCxkNmFiOWNkMDJiYmRhM2E2NTgxMzJkYzkxNDVkOTg1ZDYxNmY3NWZi`
+Snapshot ID: `MCwzOGZmYzk5MzNkYTlmNzZhYjM4NGIxODM5MzgxYjkxOTYxOGJjZWE2`

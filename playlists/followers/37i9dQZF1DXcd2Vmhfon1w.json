@@ -1,7 +1,7 @@
 {
-  "2024-03-12": 520671,
+  "2024-03-13": 520750,
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Ayax",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality, Hard GZ",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -111,6 +111,24 @@
       "duration_ms": 213651,
       "name": "1000 Motivos",
       "url": "https://open.spotify.com/track/2ytOFQ6uf3JmEH0Ve5572G"
+    },
+    {
+      "album": {
+        "name": "3 SEGUNDOS",
+        "url": "https://open.spotify.com/album/6mfmE7voG9pFByNi7QhDmI"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149742,
+      "name": "3 SEGUNDOS",
+      "url": "https://open.spotify.com/track/6eO0d02BmxuAwQx2gshtFk"
     },
     {
       "album": {
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 126545,
       "name": "Cero Negativo",
       "url": "https://open.spotify.com/track/10tZvAsXkD6yLyztNzVIQ4"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 146033,
       "name": "Funky Tears",
       "url": "https://open.spotify.com/track/4tebfp9UYuuS9C8JUH6XY0"
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 195113,
       "name": "Hip Hop Sh*t",
       "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
@@ -2605,7 +2623,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 251034,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1DJUtgPIvbvmi6tQ904m5c"
@@ -4349,7 +4367,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 175247,
       "name": "OJO DE CALLE",
       "url": "https://open.spotify.com/track/7ym11nrYNIMyQcMUgYu9q8"
@@ -5263,7 +5281,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 135970,
       "name": "Sin Clase",
       "url": "https://open.spotify.com/track/7i3r4LjKnXc6DaH6FHIp3p"
@@ -5932,6 +5950,24 @@
     },
     {
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/7bTNDu6wSA1OvDyvwLCVWa"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162858,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/27J91XekBNLcwVzH9n89qi"
+    },
+    {
+      "album": {
         "name": "Vivimos Deprisa",
         "url": "https://open.spotify.com/album/5HmnOKunM6YO6GFtNUAh9e"
       },
@@ -6153,6 +6189,24 @@
       "duration_ms": 164571,
       "name": "Yo No S\u00e9",
       "url": "https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx"
+    },
+    {
+      "album": {
+        "name": "Yugen",
+        "url": "https://open.spotify.com/album/7s9qeujehx7nC05xpaRlpx"
+      },
+      "artists": [
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243958,
+      "name": "Yugen",
+      "url": "https://open.spotify.com/track/1w0i0uaScVuzsv2bG4uLGs"
     },
     {
       "album": {

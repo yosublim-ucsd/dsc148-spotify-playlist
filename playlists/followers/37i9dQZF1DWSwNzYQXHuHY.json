@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 9750,
+  "2024-03-13": 9740,
   "date_first_scraped": "2022-05-30",
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
   "name": "\uc378 (Something)",
@@ -2071,10 +2071,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 204306,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY"
+    },
+    {
+      "album": {
+        "name": "\uc232 Forest",
+        "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244363,
+      "name": "Maudie",
+      "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
     },
     {
       "album": {

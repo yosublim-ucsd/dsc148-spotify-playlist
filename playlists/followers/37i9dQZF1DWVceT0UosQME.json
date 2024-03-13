@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 5548,
+  "2024-03-13": 5652,
   "date_first_scraped": "2024-01-13",
   "description": "your soundtrack to your exam studies. for max productiveness. u got this!",
   "name": "exams 2024",
@@ -1685,6 +1685,24 @@
       "duration_ms": 135000,
       "name": "Cold",
       "url": "https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe"
+    },
+    {
+      "album": {
+        "name": "Collecting Dust",
+        "url": "https://open.spotify.com/album/7skBVQm0odohFoMrrTbRNH"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Dor",
+          "url": "https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Collecting Dust",
+      "url": "https://open.spotify.com/track/2Rr4GXLsUy7vJy2PB3mSYj"
     },
     {
       "album": {
@@ -4167,7 +4185,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 147000,
       "name": "imen\u00fc",
       "url": "https://open.spotify.com/track/2yFwy1qCr4kiyHEZAwiw2p"
@@ -5543,7 +5561,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 131073,
       "name": "Meet me in paris",
       "url": "https://open.spotify.com/track/770oaEAcFBGCW1DN8HVv6H"
@@ -5889,6 +5907,24 @@
       "duration_ms": 112000,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/3lYQ3kdb5YVZ038kG3BMkf"
+    },
+    {
+      "album": {
+        "name": "morning coffee",
+        "url": "https://open.spotify.com/album/77rJWwqP3W0MxO8Nb8fxsl"
+      },
+      "artists": [
+        {
+          "name": "bear\u00e9",
+          "url": "https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148600,
+      "name": "morning coffee",
+      "url": "https://open.spotify.com/track/22YaZEoX2OiG5yA2O3cHDv"
     },
     {
       "album": {
@@ -8362,6 +8398,24 @@
     },
     {
       "album": {
+        "name": "Sparks Down",
+        "url": "https://open.spotify.com/album/5ADGHmXhf1EWZZvmjxnC0h"
+      },
+      "artists": [
+        {
+          "name": "KiddoCalvin",
+          "url": "https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138915,
+      "name": "Sparks Down",
+      "url": "https://open.spotify.com/track/4HfrXnXrj1fyTnNRdTMLqy"
+    },
+    {
+      "album": {
         "name": "Spectre",
         "url": "https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe"
       },
@@ -9237,7 +9291,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 191428,
       "name": "Time and Time Again",
       "url": "https://open.spotify.com/track/5aMyRc257zukcKz1IKYVqj"

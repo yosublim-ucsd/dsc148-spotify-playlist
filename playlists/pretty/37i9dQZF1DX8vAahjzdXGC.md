@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,625 likes - 110 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,670 likes - 110 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 109 | [His Way](https://open.spotify.com/track/4WWeTzsyYWKlMMyHJtKlya) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [His Way](https://open.spotify.com/album/3DXndWkLpoRlEhZEYDlqC8) | 3:53 |
 | 110 | [BLOOM](https://open.spotify.com/track/6fvawfro1XFIpL73OWujh5) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [BLOOM](https://open.spotify.com/album/5WFuSzNnwnmHB0ar7tJLIG) | 2:59 |
 
-Snapshot ID: `MCw3NGViODYxMDUwMWU4OWM3YjAzNzlhMmRmYzI3OWQ0ZmQ0ZTNlZGQw`
+Snapshot ID: `MCwzOWNmNTM0MzU3OWE1NzJmNTVkNjY1NTMyNTI4ZGZjNzZjNWY5NGYz`

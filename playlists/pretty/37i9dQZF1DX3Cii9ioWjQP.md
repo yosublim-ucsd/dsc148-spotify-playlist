@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,795 likes - 104 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,800 likes - 104 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [푸른 밤 What A Wonderful Blue Night](https://open.spotify.com/track/53fCbojK6JJjYvaMdToit0) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [여정 Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:56 |
+| 1 | [What A Wonderful Blue Night](https://open.spotify.com/track/53fCbojK6JJjYvaMdToit0) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:56 |
 | 2 | [Eutopia](https://open.spotify.com/track/407bLxRDt9EZveTmxEHwIe) | [Mia](https://open.spotify.com/artist/1s3S4AjGqTNTWpxcoYLt3v), [Yeore](https://open.spotify.com/artist/7FoL8vsCZFp6V1AD2X4Uqv) | [Eutopia](https://open.spotify.com/album/1eTONEvpqONG733rCRwCP3) | 6:49 |
 | 3 | [A Lovers’ Waltz](https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj) | [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [A Lovers’ Waltz](https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5) | 3:48 |
 | 4 | [sun in my eyes](https://open.spotify.com/track/71wLiJRoaTUH6vpUgU7tYP) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Image \#4](https://open.spotify.com/album/0MkjQ5J3apbaP2LqxTX5bW) | 6:10 |
 | 5 | [Koi's Kingdom](https://open.spotify.com/track/1j2U7kwhsJvTfPcRYkwVBo) | [Echae Kang](https://open.spotify.com/artist/0reIv9BhOh8MRF71RuxHHB) | [Koi's Kingdom](https://open.spotify.com/album/2HajUU3V95X59f43ulHYwF) | 3:07 |
 | 6 | [I Will Never Fall In Love](https://open.spotify.com/track/3q0ASOCaqKj4ESgjx8wucp) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [I Will Never Fall In Love](https://open.spotify.com/album/3UXU5KaF2nWski3HG5SyBb) | 3:02 |
-| 7 | [여정 Journey](https://open.spotify.com/track/5WWaRj5PEU4Heh8LNjxNjM) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [여정 Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:19 |
+| 7 | [Journey](https://open.spotify.com/track/5WWaRj5PEU4Heh8LNjxNjM) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:19 |
 | 8 | [welcoming the moon trip](https://open.spotify.com/track/0PxQ9PisOytpkqMEngzDgk) | [dongyi](https://open.spotify.com/artist/6KBuSEyXlphYJhk7vGAZYU) | [welcoming the moon trip](https://open.spotify.com/album/2nfCnfYJrLPPYWAqmapxer) | 4:24 |
 | 9 | [It’s Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/7lbY854EPMs6Py64XcEZN8) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [J RABBIT CHRISTMAS ALBUM](https://open.spotify.com/album/3juUkvOjeWbjsHsaIq4Dl2) | 3:06 |
 | 10 | [Continuum](https://open.spotify.com/track/0e0H9w9UvDk5LkqNS4OkSl) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb) | [Extraordinary](https://open.spotify.com/album/0sNQgCPq9IidNOikkedQJ3) | 6:04 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 103 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 104 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [ChromaJ](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCwzZmFkMTk2MmYxNzk2NjEzNjUzM2M4YzAxMGQxM2NkMjJjNDkwNzE0`
+Snapshot ID: `MCxiOTc4YjFiYzEyNjE1NGU5YTM0ZGE3ZjgyNThhNzFlMGU5MzkwOTYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,520 likes - 66 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,548 likes - 66 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 15 | [Straight from the Underground](https://open.spotify.com/track/3aChvUQ1AxLrRZM43C1DQm) | [Løne Døg](https://open.spotify.com/artist/5M4CIxy6u5hKcneJxiQQJ7) | [Straight from the Underground](https://open.spotify.com/album/4obZu6Ej9zpn6P2DsTyFpd) | 4:18 |
 | 16 | [At Lanta](https://open.spotify.com/track/6LBDF7ZBr2ZbTk6e2zsUi0) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Split](https://open.spotify.com/album/2j3sUP1z0J0Ga6n1bEatQm) | 6:50 |
 | 17 | [Simply Won't Do](https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
-| 18 | [Xtina](https://open.spotify.com/track/3z7IkJWkJuRGeKUOs8ildv) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Total Eclipse](https://open.spotify.com/album/6PPO7q95rqHmKjXC3IJafZ) | 4:50 |
+| 18 | [Xtina](https://open.spotify.com/track/3z7IkJWkJuRGeKUOs8ildv) | [Andy Smith](https://open.spotify.com/artist/1mw1aDE1NtpzW6uWM4fPWE) | [Total Eclipse](https://open.spotify.com/album/6PPO7q95rqHmKjXC3IJafZ) | 4:50 |
 | 19 | [Toast](https://open.spotify.com/track/0BuIHXZ4Dr7Bu02fPpHA3l) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Toast](https://open.spotify.com/album/2ZKGLudhFxiX9cpgKrDelD) | 2:41 |
 | 20 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
 | 21 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 65 | [I Can't Help but Love](https://open.spotify.com/track/2svuSVmTq5WdHHVDBlobVS) | [David R\. Trask](https://open.spotify.com/artist/7G37dqQpR4pzSxS553aBJG) | [I Can't Help but Love](https://open.spotify.com/album/0IqxR7phNjVfHArCG7LEMR) | 3:39 |
 | 66 | [Thinking Of U](https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Thinking Of U](https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl) | 2:00 |
 
-Snapshot ID: `MCw0ZTgyMWQyMTU2OGZjYTAxYTcyMTAyNzBmYzY5YTI4YTA4ZWZkOWUx`
+Snapshot ID: `MCw2ZGIwMWUxMGQ4ZDJlZGE4ZGY4NTA0NTZiNWI5OWExNDI5ZjFmOTll`

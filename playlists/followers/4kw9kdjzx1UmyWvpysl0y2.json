@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 126513,
+  "2024-03-13": 126542,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -4616,6 +4616,28 @@
     },
     {
       "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/1GsDZlQC18uiWoGvbKuUtB"
+      },
+      "artists": [
+        {
+          "name": "SKYLER",
+          "url": "https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9"
+        },
+        {
+          "name": "REMNANT.exe",
+          "url": "https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/4iGe6FbKTT6oToK5L5ZlOz"
+    },
+    {
+      "album": {
         "name": "GET IN THE CAR",
         "url": "https://open.spotify.com/album/575QrauoGUh5a8620xO0bT"
       },
@@ -5125,7 +5147,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 179000,
       "name": "haunted",
       "url": "https://open.spotify.com/track/7rMhXwRXJc2C6oLYzkdt2J"

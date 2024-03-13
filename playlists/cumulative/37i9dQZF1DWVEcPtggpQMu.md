@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU?si=CfeNjMHWR6KkMgQyFqr88g">Hanna</a>
 
-697 songs - 1 day 13 hr 44 min
+698 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Blessings](https://open.spotify.com/track/7gtn3W8ye2oMkPl5r0lLFz) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8), [Lia Butler](https://open.spotify.com/artist/730XN1ILF6WThTLwfSHFb3) | [Anxiety/Blessings](https://open.spotify.com/album/1lHaSEnVKbqmPu34CoVfcP) | 3:19 | 2022-02-17 | 2022-03-04 |
 | [Block B](https://open.spotify.com/track/1hGq5XLxw5QJ6NG356GTmf) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s) | [1965](https://open.spotify.com/album/0sX8CrmdvNxTuRxzXptXq8) | 3:17 | 2021-12-13 | 2021-12-31 |
 | [Blue Shell](https://open.spotify.com/track/6sCljP7sOQfhphYlyol5KP) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e) | [Spin The Globe](https://open.spotify.com/album/1HkGRJtlIFAMDKpEgGxF0M) | 2:06 | 2023-02-01 | 2023-03-18 |
-| [Bon Appétit](https://open.spotify.com/track/6uPML1wimIHQJbTysDFKzQ) | [RAF DON](https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [YOU KNOW THE DRILL](https://open.spotify.com/album/0Sy4e6u2MN8w06xF0U80sh) | 3:05 | 2024-03-07 |  |
+| [Bon Appétit](https://open.spotify.com/track/0IfhFWyoPV2kz0JBkm2DbJ) | [RAF DON](https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [YOU KNOW THE DRILL](https://open.spotify.com/album/2pwys5fUDgcQpipmj3eMrQ) | 3:05 | 2024-03-07 |  |
+| [Bon Appétit](https://open.spotify.com/track/6uPML1wimIHQJbTysDFKzQ) | [RAF DON](https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [YOU KNOW THE DRILL](https://open.spotify.com/album/0Sy4e6u2MN8w06xF0U80sh) | 3:05 | 2024-03-07 | 2024-03-13 |
 | [Bona](https://open.spotify.com/track/2kxIQnvSzTNOY2DqoCToPY) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Bona](https://open.spotify.com/album/7vBVtTDJriFe69dlvxl6MY) | 2:40 | 2022-07-28 | 2022-09-30 |
 | [Bonita](https://open.spotify.com/track/4EpiTWdpcsNV02xdeSGuUO) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe) | [Bonita](https://open.spotify.com/album/7hXYfIiJPD6HcL7PGZkvuC) | 1:50 | 2023-07-14 | 2023-08-29 |
 | [Bounce](https://open.spotify.com/track/1yhEUTqqWLLqY95jmtpXaU) | [Faith K](https://open.spotify.com/artist/1KuWBR8nefjdxXkdWvWY0E) | [Bounce](https://open.spotify.com/album/0fHIglVHOFj4RN16LKJ4ax) | 2:42 | 2022-02-03 | 2022-02-11 |

@@ -705,6 +705,28 @@
     },
     {
       "album": {
+        "name": "First Time Blues",
+        "url": "https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l"
+      },
+      "artists": [
+        {
+          "name": "Orianthi",
+          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227053,
+      "name": "First Time Blues",
+      "url": "https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna"
+    },
+    {
+      "album": {
         "name": "Four Day Creep",
         "url": "https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW"
       },
@@ -2286,7 +2308,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 260933,
       "name": "This Train",
       "url": "https://open.spotify.com/track/5FdLiZXUYq2rs4GJLFuJpd"

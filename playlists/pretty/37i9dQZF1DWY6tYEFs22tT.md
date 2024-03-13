@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Cardi B, ScHoolboy Q and Quavo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,665 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,655 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [Ghetto & Ratchet \- Remy Ma Remix](https://open.spotify.com/track/2Dw5BoAmPzp23Yy8mLmuYh) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [Ghetto & Ratchet \(Remy Ma Remix\)](https://open.spotify.com/album/2NsgClxFL7DP93rhyZkgp3) | 2:44 |
 | 75 | [QUI ?](https://open.spotify.com/track/1esBqSSIPYQfmyO7CSl9XP) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [QUI ?](https://open.spotify.com/album/21shtpfyWLPviW9L5huGQ9) | 3:12 |
 
-Snapshot ID: `MCxhY2EzYzY0YTk5MDY0MjU1NmM5MzdlNmUxOTIzNTIyNTU5MzM4Mzgz`
+Snapshot ID: `MCw0ZWVlMjNkODE4MTBhMDdjYzA1MjI3MzljZDNkYzQ2MDliOGFkODli`

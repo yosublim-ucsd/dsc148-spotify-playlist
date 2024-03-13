@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Duygu Pinari",
+        "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
+      },
+      "artists": [
+        {
+          "name": "P\u0131nar K\u00f6ksal",
+          "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171223,
+      "name": "Anadolu (H\u00fcseyni Saz Eseri)",
+      "url": "https://open.spotify.com/track/6iWmhXEPOXSHewuzUkBivJ"
+    },
+    {
+      "album": {
         "name": "Itri & Bach",
         "url": "https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 277199,
       "name": "Esinti (K\u00fcrdi Saz Eseri)",
       "url": "https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH"

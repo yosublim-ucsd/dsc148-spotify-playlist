@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 
 > Soothing Hamds and Naats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,740 likes - 57 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,230 likes - 57 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 | 56 | [Aane Walo Yeh To Batao](https://open.spotify.com/track/7h2OTt95qXQPLq4mJ1Tadm) | [Abdul Rauf Roofi](https://open.spotify.com/artist/3TQzauPaIXPAY3IdstJw5y) | [Rehmat Hi Rehmat](https://open.spotify.com/album/1LAj70hIY2tDMo2m7UtXlu) | 6:11 |
 | 57 | [Jis Ne Madine Jana](https://open.spotify.com/track/0phfX21DfRPIgrwClibj0R) | [Qari Mohd\. Naveed Chishti](https://open.spotify.com/artist/1muXhpVGRs455WGy8jA4iu) | [Dar\-E\-Nabi Par, Vol\. 9 \- Islamic Naats](https://open.spotify.com/album/3mVMOLzT61AvHnYIEiEeDE) | 5:06 |
 
-Snapshot ID: `MCwyNzk3ZmJjYjQ3YWRkMDY5Y2JkMDk2YjllZjkzNjNjYzRmMDE3NGVh`
+Snapshot ID: `MCxmNTk2NmI0ODI1ZmFhNDdhNWJjYzA3ZGFmNmFhMGVjNGQxMGM0MDg0`

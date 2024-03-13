@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Brytiago, Noriel, Juhn, Baby Rasta, Anonimus
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494,611 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,616 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 72 | [Grave Digger \(with Southside\)](https://open.spotify.com/track/6aXGt8YQ0zcfagTeWLLTen) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 3:02 |
 | 73 | [Neymar \- Remix](https://open.spotify.com/track/1pkfnn0nqvaBaoiT29pvwF) | [Jan Blakeee](https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Diley](https://open.spotify.com/artist/2xnEIFXI7V22eccHVveexp) | [Neymar \(Remix\)](https://open.spotify.com/album/4p4nlwIbNxYl0CUqNwgpUQ) | 3:08 |
 | 74 | [Juanito Alimaña](https://open.spotify.com/track/0qyBcGtF6GrRwnfRH8ezzK) | [Nelly Nelz](https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Blacky Drippy](https://open.spotify.com/artist/7ueBUDPDsj1mw0TEA3b9nY) | [Juanito Alimaña](https://open.spotify.com/album/7xtJVNE6hI95g28ldo2WoV) | 3:13 |
-| 75 | [Muévelo Lento](https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Muévelo Lento](https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m) | 3:02 |
-| 76 | [JETSKI \- Remix](https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [JETSKI \(Remix\)](https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI) | 4:16 |
+| 75 | [JETSKI \- Remix](https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [JETSKI \(Remix\)](https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI) | 4:16 |
+| 76 | [Muévelo Lento](https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Muévelo Lento](https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m) | 3:02 |
 | 77 | [Nosotros](https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Nosotros](https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV) | 4:22 |
 | 78 | [Easy](https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Easy](https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp) | 4:14 |
 | 79 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Guarida](https://open.spotify.com/track/19FjaZwowlzROovPliZty2) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Guarida](https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K) | 3:32 |
 | 100 | [Pitcher](https://open.spotify.com/track/11RzXOEKhGh7rpDtGLYEN3) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [Pitcher](https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU) | 2:38 |
 
-Snapshot ID: `MCxlODFmYmY0NjBmMzY4ZDI0NmQ0M2MwNjhmMmNkNWVkZDMzNDAwZDY4`
+Snapshot ID: `MCwxNDZkZWIyZDExZjMzMTFjOTA5MDM4OGYxMWM1NTgyZWM1NjM4ZDAw`

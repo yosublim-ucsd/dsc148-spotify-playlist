@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 68998,
+  "2024-03-13": 69014,
   "date_first_scraped": "2022-06-10",
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
   "name": "This Is UVERworld",
@@ -648,6 +648,24 @@
     },
     {
       "album": {
+        "name": "Eye's Sentry",
+        "url": "https://open.spotify.com/album/7eQ7opjUTYoo92d4Ix5jtZ"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246773,
+      "name": "High Light!",
+      "url": "https://open.spotify.com/track/5ciNbUcDEWLV0kZPREwmyG"
+    },
+    {
+      "album": {
         "name": "HOURGLASS",
         "url": "https://open.spotify.com/album/5HcGmONmQBgwUDWcN128Hd"
       },
@@ -1239,7 +1257,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 174080,
       "name": "THUG LIFE",
       "url": "https://open.spotify.com/track/60hNg1E9VLg4fIHeiSJSxJ"

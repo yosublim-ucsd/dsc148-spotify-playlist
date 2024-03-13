@@ -2,7 +2,7 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Including Trance, House, Techno, Dance, Afro\-House, Melodic Techno \| Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Yulia Niko
+> Celebrating a massive 1 BILLION STREAMS for <a href="https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7?si=88c96d015d534639">Lost Frequencies \- Are You With Me</a>
 
 954 songs - 2 day 3 hr 1 min
 
@@ -47,7 +47,7 @@
 | [anything but wet](https://open.spotify.com/track/37cdWIL9ZE6hKCBuD4yeGv) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Warehouse Summer](https://open.spotify.com/album/0feKW6G3IxAn97JhLUKXdJ) | 5:56 | 2022-11-23 | 2022-12-16 |
 | [Apart](https://open.spotify.com/track/3Fi81m5NUHcWfpNwhsu3Kt) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [Again](https://open.spotify.com/album/2IWqfCrda5ydvw95GxzvZk) | 3:13 | 2023-12-21 |  |
 | [Are U With Me](https://open.spotify.com/track/1v6eqipsHhuSs96cuS36vk) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [Are U With Me](https://open.spotify.com/album/6tQ2QvimZFyOP1aw4pA5tw) | 2:40 | 2022-08-25 | 2023-04-07 |
-| [Are You With Me](https://open.spotify.com/track/4255amV4enzl28KAn16rUO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:18 | 2022-06-09 | 2023-06-02 |
+| [Are You With Me](https://open.spotify.com/track/4255amV4enzl28KAn16rUO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:18 | 2022-06-09 |  |
 | [Are You With Me](https://open.spotify.com/track/5sDJRYoOf7ltUg9WvUWKD6) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Armada Music \- 20 Years](https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m) | 2:18 | 2023-06-01 | 2023-09-01 |
 | [Are You With Me \- Christmas Mix](https://open.spotify.com/track/0Ptj6zgUFbCQX2Y1kSRzMy) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Chill Executive Officer \(CEO\), Christmas Edition \[Selected by Maykel Piron\]](https://open.spotify.com/album/1re02o1mdi3UN1KeggoUyj) | 2:18 | 2022-12-23 | 2022-12-30 |
 | [Are You With Me \- Christmas Mix](https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf) | 2:18 | 2022-12-14 | 2024-01-05 |

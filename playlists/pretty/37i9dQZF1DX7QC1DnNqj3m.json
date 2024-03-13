@@ -1,12 +1,12 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 528838,
+  "num_followers": 528848,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZThjN2QzN2JiODEzNGY2MDZiNzQ3MDBmZmFjNzM4MWUzZWE1ZWU1",
+  "snapshot_id": "MCw4ZTNhZjI1YmY2ZDFlYmY3YzBkMmY2NzBmNWQwMDkyMTNjZDgyZWRj",
   "tracks": [
     {
       "added_at": "2024-02-28 01:49:28",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-02-28 01:49:28",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/2bYpjBxpiP3zrKCNYhdURf"
-    },
-    {
-      "added_at": "2024-02-28 01:49:28",
-      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
+    },
+    {
+      "added_at": "2024-02-28 01:49:28",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/2bYpjBxpiP3zrKCNYhdURf"
     },
     {
       "added_at": "2024-02-28 01:49:28",

@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 53381,
+  "num_followers": 53437,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjE4ZWQzNzdjZDFhMzEzMmQ4YzAzZmJmZmVmN2NjODQzMmZmYThk",
+  "snapshot_id": "MCxjNDIzMDE3MjI4ZjM0NWVlMWVmNGE1MGFkYmZmYTFiMTI3OGExMDA1",
   "tracks": [
     {
       "added_at": "2024-02-23 17:22:55",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Por Ti Me Mato",
-        "url": "https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF"
-      },
-      "artists": [
-        {
-          "name": "Grupo El Bueno",
-          "url": "https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f"
-        }
-      ],
-      "duration_ms": 179626,
-      "name": "Cien Vidas",
-      "url": "https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "El Campesino y el Sol",
         "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 234653,
       "name": "El Campesino Y El Sol",
       "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Por Ti Me Mato",
+        "url": "https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo El Bueno",
+          "url": "https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f"
+        }
+      ],
+      "duration_ms": 179626,
+      "name": "Cien Vidas",
+      "url": "https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Solo para Ti",
-        "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
       },
       "artists": [
         {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
         }
       ],
-      "duration_ms": 157573,
-      "name": "Me Va a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY"
+      "duration_ms": 144682,
+      "name": "Lo Que Empieza Acaba",
+      "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
+        "name": "Solo para Ti",
+        "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
       },
       "artists": [
         {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
         }
       ],
-      "duration_ms": 144682,
-      "name": "Lo Que Empieza Acaba",
-      "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
+      "duration_ms": 157573,
+      "name": "Me Va a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Traficantes Michoacanos",
-        "url": "https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2"
-      },
-      "artists": [
-        {
-          "name": "Los hermanos Jimenez",
-          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Traficantes Michoacanos",
-      "url": "https://open.spotify.com/track/3InbOGb8IJdbzjYUlLkrPf"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Cuando Los Hombres Lloran",
         "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 156288,
       "name": "Cuando Los Hombres Lloran",
       "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Traficantes Michoacanos",
+        "url": "https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Jimenez",
+          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Traficantes Michoacanos",
+      "url": "https://open.spotify.com/track/3InbOGb8IJdbzjYUlLkrPf"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
+        "name": "Tercia de Reyes",
+        "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Jimenez",
+          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
+        }
+      ],
+      "duration_ms": 148520,
+      "name": "No Compro Amores",
+      "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
         "name": "Lupe Reyes (En Vivo)",
         "url": "https://open.spotify.com/album/6PVMtefRXmt5aTjS8Iopnc"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 180750,
       "name": "Lupe Reyes (En Vivo)",
       "url": "https://open.spotify.com/track/6ggjc8JFAxy0jiKgQmhU3i"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Tercia de Reyes",
-        "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
-      },
-      "artists": [
-        {
-          "name": "Los hermanos Jimenez",
-          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
-        }
-      ],
-      "duration_ms": 148520,
-      "name": "No Compro Amores",
-      "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Nadie Sabe Lo Que Tiene",
-        "url": "https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y"
+        "name": "Aguilar",
+        "url": "https://open.spotify.com/album/4g8YPdnxDXOkpXXvrLyVhx"
       },
       "artists": [
         {
-          "name": "HNOS. SANTAMARIA DE TIERRA CALIENTE",
-          "url": "https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW"
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
         }
       ],
-      "duration_ms": 203149,
-      "name": "Alta y Delgadita",
-      "url": "https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune"
+      "duration_ms": 202875,
+      "name": "Aguilar",
+      "url": "https://open.spotify.com/track/6tHi4fd8R9248pT7w050Un"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Aguilar",
-        "url": "https://open.spotify.com/album/4g8YPdnxDXOkpXXvrLyVhx"
+        "name": "Nadie Sabe Lo Que Tiene",
+        "url": "https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y"
       },
       "artists": [
         {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+          "name": "HNOS. SANTAMARIA DE TIERRA CALIENTE",
+          "url": "https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW"
         }
       ],
-      "duration_ms": 202875,
-      "name": "Aguilar",
-      "url": "https://open.spotify.com/track/6tHi4fd8R9248pT7w050Un"
+      "duration_ms": 203149,
+      "name": "Alta y Delgadita",
+      "url": "https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune"
     }
   ],
   "unique_name": "Tierra Caliente",

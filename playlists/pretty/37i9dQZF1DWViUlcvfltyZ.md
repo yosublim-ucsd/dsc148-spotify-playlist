@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Novità rock, indie e punk dall'Italia! Cover: clauscalmo\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,129 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,123 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 84 | [Giacomo](https://open.spotify.com/track/5MCkJvZ5zhCGQGO49xPro3) | [La Municipàl](https://open.spotify.com/artist/1wQ8rxWLB8fPUHx49l3q5L) | [Giacomo](https://open.spotify.com/album/4rCkIYBExjKDFT15pH3kBn) | 3:27 |
 | 85 | [La Band](https://open.spotify.com/track/72a2Fjwg7RJVuZ16k8ejEh) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [La Band](https://open.spotify.com/album/1kuoOXI6qZkrloDJIi02U1) | 3:06 |
 
-Snapshot ID: `MCxkODg2OTZkODYyMDBkMjIxNTI5ODhkYmVhNjBlN2U5NDI0MTIzYzk2`
+Snapshot ID: `MCwyMTNkYzlkNjFmNDU1N2ExODcwNWM1ZTI5M2MxYzk2YzU3Y2RjYzYz`

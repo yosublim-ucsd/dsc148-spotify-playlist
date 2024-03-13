@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 120893,
+  "2024-03-13": 120897,
   "date_first_scraped": "2022-06-10",
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mollie Collins",
   "name": "Spinnin' Records Brand New",
@@ -22683,6 +22683,28 @@
       "duration_ms": 162045,
       "name": "Stompin' (Friendly Fire Remix)",
       "url": "https://open.spotify.com/track/1KrqHhPJFuN9RNqNycwUdx"
+    },
+    {
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/2ly2gMYkdPRP3CUrydtkDo"
+      },
+      "artists": [
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        },
+        {
+          "name": "Jake Tarry",
+          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161513,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/5yyeiEZfWlDN6baL4RWpck"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 146359,
+  "2024-03-13": 146412,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
   "name": "Top Christian Rock",
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 206788,
       "name": "In Defiance",
       "url": "https://open.spotify.com/track/17VvT0RZ6HcRkpMbw1xgn3"
@@ -2353,7 +2353,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 220140,
       "name": "Strong Enough to Live (Acoustic)",
       "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"

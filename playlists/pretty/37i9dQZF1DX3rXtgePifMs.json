@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 87338,
+  "num_followers": 87410,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjg2YjViOGVkNDgyZDVlZTBmMTIzZGZjMTBjZTcxMTI0NDJhOTgw",
+  "snapshot_id": "MCwwNmRhNGU5YzA0NTU1ODk2N2I2MzU2ZWQ5YTdiMTg2Zjc4MDIwZDQ5",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Wait For It",
-        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 239668,
-      "name": "Wait For It",
-      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 182838,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Wait For It",
+        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 239668,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
     },
     {
       "added_at": "2023-12-01 18:29:06",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
     },
     {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
+    },
+    {
       "added_at": "2023-12-01 18:29:06",
       "album": {
         "name": "Shut It Down",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
+        "name": "denver luna",
+        "url": "https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG"
       },
       "artists": [
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         }
       ],
-      "duration_ms": 212933,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
+      "duration_ms": 147320,
+      "name": "denver luna (acappella)",
+      "url": "https://open.spotify.com/track/3yQ0l6VokE3ZWsj6y8I6kp"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 225883,
       "name": "FLATLINE",
       "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "denver luna",
-        "url": "https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 147320,
-      "name": "denver luna (acappella)",
-      "url": "https://open.spotify.com/track/3yQ0l6VokE3ZWsj6y8I6kp"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1911,30 +1911,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "I Can't Stay",
-        "url": "https://open.spotify.com/album/3p4oXVXJ7PK0POkgQ6a87U"
-      },
-      "artists": [
-        {
-          "name": "Charli Brix",
-          "url": "https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8"
-        },
-        {
-          "name": "Visages",
-          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
-        },
-        {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
-        }
-      ],
-      "duration_ms": 257828,
-      "name": "I Can't Stay",
-      "url": "https://open.spotify.com/track/2J0NODVUeY1wMGFjsl4CRR"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Absolutely Tidy",
         "url": "https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl"
       },
@@ -1955,6 +1931,30 @@
       "duration_ms": 171726,
       "name": "Absolutely Tidy",
       "url": "https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "I Can't Stay",
+        "url": "https://open.spotify.com/album/3p4oXVXJ7PK0POkgQ6a87U"
+      },
+      "artists": [
+        {
+          "name": "Charli Brix",
+          "url": "https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        },
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        }
+      ],
+      "duration_ms": 257828,
+      "name": "I Can't Stay",
+      "url": "https://open.spotify.com/track/2J0NODVUeY1wMGFjsl4CRR"
     },
     {
       "added_at": "2023-11-20 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Sarah Suhairi, Alfie Zumi
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,814 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,880 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Kisah Yang Lain](https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Yang Lain](https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss) | 4:02 |
 | 50 | [Angkasa](https://open.spotify.com/track/0RH4euHK2FHSgoMA8bzi7V) | [Diandra Arjunaidi](https://open.spotify.com/artist/5K8T2JyTGWyELw74e8JMPD) | [Diandra Arjunaidi \- EP](https://open.spotify.com/album/4N65Gs3WBxCBDwUpKaXMBb) | 4:13 |
 
-Snapshot ID: `MCwxMzZkNmJhYThiZGNlYjFmZjBhMDQ5ODJlYTRjZTk2OWM1NDMwOWYy`
+Snapshot ID: `MCxmNWExMTE0NmRmOGQ1NWMzZTgzYzdhYWVkOTQ2MjI5MGI2MjI4MjY5`

@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 176215,
+  "2024-03-13": 176251,
   "date_first_scraped": "2022-03-28",
   "description": "Your favorite Latin Indie classics.",
   "name": "Latin Indie Classics",
@@ -1717,7 +1717,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 234240,
       "name": "Inercia",
       "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
@@ -2613,7 +2613,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 171807,
       "name": "NTE",
       "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"

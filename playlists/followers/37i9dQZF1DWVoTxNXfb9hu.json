@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 108316,
+  "2024-03-13": 108298,
   "date_first_scraped": "2023-03-10",
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
   "name": "Holi Party",
@@ -137,7 +137,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 212741,
       "name": "Aankh Marey",
       "url": "https://open.spotify.com/track/2UE5pVmMGjfD5XUQTpYpD6"
@@ -1987,6 +1987,24 @@
       "duration_ms": 126720,
       "name": "Rang Barse Bheege Chunarwali (Remix)",
       "url": "https://open.spotify.com/track/1Sbj2Uv7QLw1oipMzKvWdC"
+    },
+    {
+      "album": {
+        "name": "Rang Barse X Yaaron Waali Baat",
+        "url": "https://open.spotify.com/album/0JWlNxkS7Kyh6zvPDllqWQ"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90686,
+      "name": "Rang Barse X Yaaron Waali Baat",
+      "url": "https://open.spotify.com/track/4jtlwyaCAQFBunyLtHETHA"
     },
     {
       "album": {

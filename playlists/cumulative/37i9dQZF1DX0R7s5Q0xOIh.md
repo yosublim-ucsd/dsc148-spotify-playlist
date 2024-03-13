@@ -4,11 +4,12 @@
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-343 songs - 22 hr 12 min
+344 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [01 do R](https://open.spotify.com/track/6WCQ1iqSpINA9z94WcFy69) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [01 do R](https://open.spotify.com/album/5Zb0dGzz4RF4jJjYR22RY3) | 2:09 | 2023-12-08 |  |
+| [01 do R](https://open.spotify.com/track/6WCQ1iqSpINA9z94WcFy69) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [01 do R](https://open.spotify.com/album/5Zb0dGzz4RF4jJjYR22RY3) | 2:09 | 2023-12-08 | 2024-03-13 |
+| [01 do R](https://open.spotify.com/track/6he1ImSHv8jQ4NusPBCbR5) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 2:09 | 2023-12-08 |  |
 | [01 do R](https://open.spotify.com/track/77cFhEWBd4cdszQkRJ54kK) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:09 | 2023-12-08 | 2024-03-10 |
 | [19\-2000](https://open.spotify.com/track/1kSWrMDt439cT64WpjJigW) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 3:30 | 2023-08-02 |  |
 | [2023](https://open.spotify.com/track/3ldVMWoN7ooIBoD9HLMfSM) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [2023](https://open.spotify.com/album/6ML9iEpktVQ6qIPG2zR6Wt) | 2:58 | 2023-08-09 |  |

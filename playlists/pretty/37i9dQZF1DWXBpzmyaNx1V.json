@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39649,
+  "num_followers": 39638,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTEyZmUxMzM2ODZlZDAzNjBiNTE2ZDljMWIwMTdiZDI5ODIwYTk4",
+  "snapshot_id": "MCxiY2UzNmM0MTk4MWQ2YWEyMGJjMzg3ZTRiMzMyYjc1NGU3ODYxZThj",
   "tracks": [
     {
       "added_at": "2024-02-16 18:40:38",
@@ -375,34 +375,38 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
       },
       "artists": [
         {
           "name": "Noa Sainz",
           "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 188500,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
+      "duration_ms": 238000,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
     },
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "let u in",
-        "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
+        "name": "The Neon Skyline",
+        "url": "https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S"
       },
       "artists": [
         {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
         }
       ],
-      "duration_ms": 175504,
-      "name": "let u in",
-      "url": "https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl"
+      "duration_ms": 185451,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/5XCyxMLMuakvS94W6iqLBw"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -431,18 +435,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "The Neon Skyline",
-        "url": "https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S"
+        "name": "let u in",
+        "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
         }
       ],
-      "duration_ms": 185451,
-      "name": "Living Room",
-      "url": "https://open.spotify.com/track/5XCyxMLMuakvS94W6iqLBw"
+      "duration_ms": 175504,
+      "name": "let u in",
+      "url": "https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -539,22 +543,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
       },
       "artists": [
         {
           "name": "Noa Sainz",
           "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
+      "duration_ms": 188500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Hallucinogen",
-        "url": "https://open.spotify.com/album/5Olw4XubTcqIBtKt3U8poM"
+        "name": "Ahora Veo M\u00e1s Claro",
+        "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Vyctoria",
+          "url": "https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW"
         }
       ],
-      "duration_ms": 140381,
-      "name": "Hallucinogen",
-      "url": "https://open.spotify.com/track/5OKRhphQqMrtWLMfcbiail"
+      "duration_ms": 294056,
+      "name": "Ascenso - Descenso",
+      "url": "https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Ahora Veo M\u00e1s Claro",
-        "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
+        "name": "Hallucinogen",
+        "url": "https://open.spotify.com/album/5Olw4XubTcqIBtKt3U8poM"
       },
       "artists": [
         {
-          "name": "Vyctoria",
-          "url": "https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         }
       ],
-      "duration_ms": 294056,
-      "name": "Ascenso - Descenso",
-      "url": "https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR"
+      "duration_ms": 140381,
+      "name": "Hallucinogen",
+      "url": "https://open.spotify.com/track/5OKRhphQqMrtWLMfcbiail"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Ahora Veo M\u00e1s Claro",
+        "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
+      },
+      "artists": [
+        {
+          "name": "Vyctoria",
+          "url": "https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW"
+        }
+      ],
+      "duration_ms": 183983,
+      "name": "Ahora Veo M\u00e1s Claro",
+      "url": "https://open.spotify.com/track/3IxfjphxfPUtU6fS6X4OIm"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "GOLLY",
         "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 325725,
       "name": "Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "gisela",
-        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "reveal yourself",
-      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
     }
   ],
   "unique_name": "Pitchfork Music Festival CDMX",

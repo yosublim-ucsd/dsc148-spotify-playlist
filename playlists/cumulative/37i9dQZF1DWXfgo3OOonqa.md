@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,393 songs - 2 day 13 hr 10 min
+1,394 songs - 2 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,8 @@
 | [Donatella](https://open.spotify.com/track/1wGs8rNpdDyatV7sRXVGau) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Donatella](https://open.spotify.com/album/1kPVN5ypqNhOR945J5t3nR) | 2:21 | 2022-01-13 | 2022-02-11 |
 | [DONDANANA](https://open.spotify.com/track/4Pt8vmYXX4PAAVMW1iGY2T) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [DJ Rschid](https://open.spotify.com/artist/3FumtjxQrRtMUnMtN4PLN3) | [DONDANANA](https://open.spotify.com/album/5KYT1hqGTmMI3pElxEbDpF) | 3:16 | 2021-12-16 | 2022-01-05 |
 | [Donner](https://open.spotify.com/track/1NRw64qKDSjn1ctlaAaglE) | [Microbe](https://open.spotify.com/artist/6h4GwTbvvSfrcx3jWz5scR), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Lever de rideau](https://open.spotify.com/album/3fz71BGWaU0jnKFofgGkeN) | 2:17 | 2023-10-19 | 2024-02-27 |
-| [DOPAMIN](https://open.spotify.com/track/23zOf0Zwi7rfIiBgZsi84w) | [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [DOPAMIN](https://open.spotify.com/album/0ALPDsweGvG8lUv0T6W2Hi) | 3:13 | 2024-02-08 |  |
+| [DOPAMIN](https://open.spotify.com/track/23zOf0Zwi7rfIiBgZsi84w) | [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [DOPAMIN](https://open.spotify.com/album/0ALPDsweGvG8lUv0T6W2Hi) | 3:13 | 2024-02-08 | 2024-03-13 |
+| [DOPAMIN](https://open.spotify.com/track/42Jv5Sboy8OnZMp5WAizL0) | [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [DOPAMIN](https://open.spotify.com/album/66hDNJgNvnM0CupqwMljz8) | 3:13 | 2024-03-07 |  |
 | [Doppio Passo](https://open.spotify.com/track/5z0FnVkoJlQU1bbhbTSSfC) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Doppio Passo](https://open.spotify.com/album/5EZIPpBqS4FEhaqWKvePGX) | 3:07 | 2022-11-10 | 2023-02-10 |
 | [Dora](https://open.spotify.com/track/3enfhox1lTdfUlgoVu9kM1) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [Dora](https://open.spotify.com/album/3TLtu73beYMwt4SIVLdNU9) | 2:42 | 2022-08-18 | 2022-09-30 |
 | [DOWN \(Ännu En Dag\)](https://open.spotify.com/track/2se5lyh0kIRExs3XYBuFdI) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [DOWN \(Ännu En Dag\)](https://open.spotify.com/album/05nCOxVWsYynGp2DEl96m8) | 2:44 | 2023-07-06 | 2023-07-28 |

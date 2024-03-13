@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 207694,
+  "2024-03-13": 207720,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Denmark.",
   "name": "Top 50 - Denmark",
@@ -787,7 +787,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
@@ -2190,6 +2190,24 @@
     },
     {
       "album": {
+        "name": "Bare En Dreng",
+        "url": "https://open.spotify.com/album/4qQ5c6FPe6kthY4RUImPYA"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186085,
+      "name": "Bare En Dreng",
+      "url": "https://open.spotify.com/track/69Ar1pyzKXDpFXGgiJptRz"
+    },
+    {
+      "album": {
         "name": "Bare Os Selv",
         "url": "https://open.spotify.com/album/1ZJvW2Lv4Aq3cYZ6exMunL"
       },
@@ -3319,6 +3337,24 @@
       "duration_ms": 162061,
       "name": "Broken Homes",
       "url": "https://open.spotify.com/track/4RyyJY9i1gsiOVDLLXUuqG"
+    },
+    {
+      "album": {
+        "name": "Brunette",
+        "url": "https://open.spotify.com/album/12wI4LIZ55OaFJJfwtNPXX"
+      },
+      "artists": [
+        {
+          "name": "Elias Buch",
+          "url": "https://open.spotify.com/artist/5r8dWcI1AJLYOkxyP5twtQ"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "Brunette",
+      "url": "https://open.spotify.com/track/2ufb10aXZ21gbGN0WuN3PL"
     },
     {
       "album": {
@@ -6631,7 +6667,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 163533,
       "name": "DR\u00d8M MIG V\u00c6K",
       "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
@@ -24301,7 +24337,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 182816,
       "name": "STOR MAND (feat. Andreas Odbjerg)",
       "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
@@ -26075,7 +26111,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"

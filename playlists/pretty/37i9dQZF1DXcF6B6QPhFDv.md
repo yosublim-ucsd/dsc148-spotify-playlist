@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > 3.13.24
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,674,737 likes - 10 songs - 2 min 59 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,673,944 likes - 10 songs - 2 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 9 | [?!](https://open.spotify.com/track/2qV0SvBdmyRA5rIWGyWBz2) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [WKR?](https://open.spotify.com/album/6keXvbA381kMW2UYlLXCLV) | 0:20 |
 | 10 | [??](https://open.spotify.com/track/23ejPzWLlWoR0xDSIx51hb) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [WKR?](https://open.spotify.com/album/18bz2iB8nNcBM0symEHQEx) | 0:19 |
 
-Snapshot ID: `MCw4YzgwMmViZjMwY2I4ZDZhOGI2NDE4NzIxMjkzNmUwNDE5NzEzYWI0`
+Snapshot ID: `MCw1N2JmOWU0ZWJhMmI1MzU5OWQ4NmJlNzU4OTI1Mjg3ZmVmZTYwZTY0`

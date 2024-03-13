@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,560 likes - 78 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,589 likes - 78 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 77 | [Tapes](https://open.spotify.com/track/6mMyVpDcLlQdYhdEC6tPaf) | [West Thebarton](https://open.spotify.com/artist/6ZQNx5JnPy6CmVur8jRPrv) | [Tapes](https://open.spotify.com/album/1cVizvPmLvVna2Dyg1DYff) | 1:52 |
 | 78 | [Come Around](https://open.spotify.com/track/53Qo5NLpGy83merW2rhV9q) | [GAUCI](https://open.spotify.com/artist/4cZCJhHp1jIH1NZ02799nY) | [Come Around](https://open.spotify.com/album/5q2JvsoQk69eW67slxqkhn) | 3:34 |
 
-Snapshot ID: `MCwxODQ0MWIzMjU2MTkwYjcxYjI0OTBkYjU0NTExMGFjYzYyMzI1YTQy`
+Snapshot ID: `MCw2NjQ0MmQ2MGQzYTVjZGE5MzdlODQ1MDViYjZjNjNjZDc2NGFlM2E0`

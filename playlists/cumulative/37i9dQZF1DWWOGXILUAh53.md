@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Minelli
 
-909 songs - 1 day 20 hr 39 min
+910 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,8 @@
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-08-25 | 2023-11-18 |
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-03 | 2023-05-20 |
 | [Drip Drop](https://open.spotify.com/track/13Oms7rPHZlvGz1ny1F2FO) | [Erika Jayne](https://open.spotify.com/artist/3jgs1QD0amFu2y6bqSK36Y) | [Drip Drop](https://open.spotify.com/album/3Q711uLnVZ9ufizLWrXUn5) | 3:44 | 2023-09-08 | 2023-12-09 |
-| [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/track/10qSgOI0fDaqnv201OVXxW) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/album/28fckifZVmEObvhrpBRMIb) | 2:17 | 2024-03-08 |  |
+| [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/track/0Qgf1Zy2J5GeKgDZErD5jl) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/album/2rz3deCgGlFinus4i1ilvT) | 2:17 | 2024-03-08 |  |
+| [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/track/10qSgOI0fDaqnv201OVXxW) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/album/28fckifZVmEObvhrpBRMIb) | 2:17 | 2024-03-08 | 2024-03-13 |
 | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/track/1HIG4TBojNa30BMpP5YEdh) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/album/2MJnOGA7MU0S8ENUFWlFtH) | 2:17 | 2024-02-09 | 2024-03-02 |
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-06 | 2024-01-20 |
 | [Dumb](https://open.spotify.com/track/4KETt1cheIlCStKidaRQMh) | [Paul Damixie](https://open.spotify.com/artist/0nkCaGdwKdFsufB3GbvCdk), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Dumb](https://open.spotify.com/album/2nU0TBoKT2nvuMTj2SAExT) | 2:48 | 2024-03-01 |  |

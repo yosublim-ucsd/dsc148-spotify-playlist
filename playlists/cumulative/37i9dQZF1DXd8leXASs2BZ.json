@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 7",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Tim Pepperoni",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -2207,6 +2207,28 @@
     },
     {
       "album": {
+        "name": "G-Class",
+        "url": "https://open.spotify.com/album/3fhUJ0yY7ZRGAwGj47mw8V"
+      },
+      "artists": [
+        {
+          "name": "018",
+          "url": "https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN"
+        },
+        {
+          "name": "\u00a5OUNG ARM\u00a5",
+          "url": "https://open.spotify.com/artist/2Mgtxy03Xbwwk2ZqABZ00Q"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139894,
+      "name": "G-Class",
+      "url": "https://open.spotify.com/track/47DbOztDvmgPHbqPEL1cb0"
+    },
+    {
+      "album": {
         "name": "506",
         "url": "https://open.spotify.com/album/73Oq8xbM9INVWEvz3yAgAF"
       },
@@ -2686,7 +2708,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 120833,
       "name": "Home",
       "url": "https://open.spotify.com/track/5LrWEVkWY3N09bt5zCj0gx"
@@ -2726,7 +2748,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 208880,
       "name": "Hotbox",
       "url": "https://open.spotify.com/track/24yflAQpScsE9WvjQLAyxc"
@@ -3084,6 +3106,24 @@
       "duration_ms": 171196,
       "name": "Jerky",
       "url": "https://open.spotify.com/track/4fAhvtlPNJnciRmeGvHbBk"
+    },
+    {
+      "album": {
+        "name": "Local Life",
+        "url": "https://open.spotify.com/album/4560Qtdvr2QLUZPhnbsCUy"
+      },
+      "artists": [
+        {
+          "name": "Nero",
+          "url": "https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137149,
+      "name": "JET",
+      "url": "https://open.spotify.com/track/7F3J8LeYIiuqYuGUvau3Jp"
     },
     {
       "album": {
@@ -4660,7 +4700,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 210669,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/1N8QbTJO5ED2ShArjBSMDy"
@@ -5929,6 +5969,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u4f4e\u3060\u3051\u3069\u6700\u9ad8",
+        "url": "https://open.spotify.com/album/4EZrC1LZyiTb3DV3igu8Bl"
+      },
+      "artists": [
+        {
+          "name": "Tim Pepperoni",
+          "url": "https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103636,
+      "name": "\u6700\u4f4e\u3060\u3051\u3069\u6700\u9ad8",
+      "url": "https://open.spotify.com/track/2ufX2xxEysgDrPE5ANyhHy"
+    },
+    {
+      "album": {
         "name": "\u6771\u4eac\u7121\u5bbf",
         "url": "https://open.spotify.com/album/4TyEPsSOhakTnVobdu9cb5"
       },
@@ -5944,6 +6002,28 @@
       "duration_ms": 223359,
       "name": "\u6771\u4eac\u7121\u5bbf",
       "url": "https://open.spotify.com/track/1jYypP5U3UPsDDNdOdDvrM"
+    },
+    {
+      "album": {
+        "name": "\u70cf",
+        "url": "https://open.spotify.com/album/3CuxqRYssCD7eplj81jRVS"
+      },
+      "artists": [
+        {
+          "name": "KUJA",
+          "url": "https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c"
+        },
+        {
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133170,
+      "name": "\u70cf",
+      "url": "https://open.spotify.com/track/1EEPiAXfXz7IqI1hzKcXPI"
     },
     {
       "album": {

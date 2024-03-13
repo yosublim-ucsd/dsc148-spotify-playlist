@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "DON\u2019T KNOW WHERE I\u2019M GOING",
+        "url": "https://open.spotify.com/album/1dmZt5XUmpZsWeesKtwY8I"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186536,
+      "name": "DON'T KNOW WHERE I'M GOING",
+      "url": "https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv"
+    },
+    {
+      "album": {
         "name": "Don't You",
         "url": "https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra"
       },
@@ -1294,24 +1312,6 @@
       "duration_ms": 155492,
       "name": "Don't You",
       "url": "https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg"
-    },
-    {
-      "album": {
-        "name": "DON\u2019T KNOW WHERE I\u2019M GOING",
-        "url": "https://open.spotify.com/album/1dmZt5XUmpZsWeesKtwY8I"
-      },
-      "artists": [
-        {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
-        }
-      ],
-      "date_added": "2024-03-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186536,
-      "name": "DON\u2019T KNOW WHERE I\u2019M GOING",
-      "url": "https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv"
     },
     {
       "album": {

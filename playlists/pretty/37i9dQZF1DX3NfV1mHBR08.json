@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15022,
+  "num_followers": 15020,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmExMTY5MzY3MjRjM2RkMDMyZmExNzZiNWNkNTE5YjZmZGE5NWUz",
+  "snapshot_id": "MCwxMDZhMWE0MTA3NzYxMTBiYWZhNTIxZDNhY2YxZWJiYzg1Nzk2YzM3",
   "tracks": [
     {
       "added_at": "2024-03-08 06:40:15",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
+        "name": "Still the Same",
+        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "duration_ms": 148002,
+      "name": "Still the Same",
+      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
         "name": "be",
         "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 229066,
       "name": "be",
       "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
-        "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 245349,
-      "name": "Bravo, My Life!",
-      "url": "https://open.spotify.com/track/5IBGJAEwVNkV1zF5oQzu1N"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Still the Same",
-        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
       },
       "artists": [
         {
-          "name": "KYUL",
-          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 148002,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
+      "duration_ms": 245349,
+      "name": "Bravo, My Life!",
+      "url": "https://open.spotify.com/track/5IBGJAEwVNkV1zF5oQzu1N"
     },
     {
       "added_at": "2024-03-08 06:40:15",

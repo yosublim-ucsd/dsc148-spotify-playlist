@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=snuRWBxSS82Rg\_747O3Vug>Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,406 likes - 98 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,439 likes - 98 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 54 | [Morning Devotion Worship](https://open.spotify.com/track/1q03R3KP1HVkSywYa2MEb5) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Morning Devotion Worship](https://open.spotify.com/album/5JKWU8tkinj8m14bjRGB4R) | 7:04 |
 | 55 | [Praise the Lord](https://open.spotify.com/track/12QUQcnFlK3jF6PENkqBM1) | [Samuel Refined](https://open.spotify.com/artist/1z0d3n2UOWQtU5P3QyU2PM), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Praise the Lord](https://open.spotify.com/album/1bEipLxzk7HVq9zFmIadoU) | 4:19 |
 | 56 | [The Jesus Medley](https://open.spotify.com/track/22RdU9KQvZJxTgxyXpYtq1) | [Olumide\-Zechariah](https://open.spotify.com/artist/2tZGLrbrdA9Z8WDsRWQs2k), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF), [Eno Michael](https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk) | [The Jesus Medley](https://open.spotify.com/album/4aFxtSQ8V6hS218yCLupUU) | 7:35 |
-| 57 | [Than Before \- Live Worship Version](https://open.spotify.com/track/0I45gHpVlxc2gAnvcPxtoQ) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Than Before \(Live Worship Version\)](https://open.spotify.com/album/3L55NDxMxenX0vz9wm0DN4) | 10:34 |
+| 57 | [Than Before \- Live Worship Version](https://open.spotify.com/track/0I45gHpVlxc2gAnvcPxtoQ) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Than Before \(Live Worship Version\)](https://open.spotify.com/album/3L55NDxMxenX0vz9wm0DN4) | 11:19 |
 | 58 | [Ukpalumimawewe](https://open.spotify.com/track/4aKfWknU87KG3TIU9YZjkc) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Ukpalumimawewe](https://open.spotify.com/album/18DvIzueDTMOrDly9XNh5U) | 3:15 |
 | 59 | [Psalms 23](https://open.spotify.com/track/4unJHN20GmLQHSJ0HeOiJK) | [Worship Nation](https://open.spotify.com/artist/50nfiM5DcM0J1XFaO3Osul) | [Great Things](https://open.spotify.com/album/03De4qc1Kc4HiNlTGe2tY3) | 5:03 |
 | 60 | [FAITH \- Dance Remix](https://open.spotify.com/track/0Uzssf5s4zN4J4bLFurswL) | [Nimi Stix](https://open.spotify.com/artist/39jgj6aYzq1eltNM1IcEwm) | [FAITH \(Dance Remix\)](https://open.spotify.com/album/6xXhmfbruwRyPWXXXLzj9I) | 3:53 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 70 | [Answer Prayer \- Remix](https://open.spotify.com/track/30jNPt68KphCCwDpPPVw3u) | [Tklex](https://open.spotify.com/artist/3nqqTSStDMepotlsMSnbvL), [Chibby OG](https://open.spotify.com/artist/0TGsL06Q18nx7cxjs4y7HU), [Jawas Media](https://open.spotify.com/artist/1nRkCDNbteoK9RoQVVvx6X) | [Answer Prayer \(Remix\)](https://open.spotify.com/album/3EqmVLriUgMGKf80v1zNNP) | 2:37 |
 | 71 | [Be\-4](https://open.spotify.com/track/029BiqRI1OZs9wgenXMkmm) | [T1000 Jive Angels](https://open.spotify.com/artist/3bJY6RgoLecfLGaDR0GP7E) | [Be\-4](https://open.spotify.com/album/6UQnwy9RFquuJFMFp3FHX5) | 3:32 |
 | 72 | [Senior Man](https://open.spotify.com/track/35elYcqwhXHcQmjkOTNM8o) | [Oluwabuchi](https://open.spotify.com/artist/6OPBbXGsrgenw3c8cum5EP) | [Senior Man](https://open.spotify.com/album/7mD8W74o29mHZm6I6zn9ms) | 2:48 |
-| 73 | [Oh My God!](https://open.spotify.com/track/6yF4AioqKIoWTEkZshR9sq) | [samsong](https://open.spotify.com/artist/7foyII8C6TYI1MGV9dU8s2) | [Oh My God!](https://open.spotify.com/album/7eTjtzNkGyrJ04wjuyVYjm) | 4:16 |
+| 73 | [Oh My God!](https://open.spotify.com/track/6yF4AioqKIoWTEkZshR9sq) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Oh My God!](https://open.spotify.com/album/7eTjtzNkGyrJ04wjuyVYjm) | 4:16 |
 | 74 | [Praise Him](https://open.spotify.com/track/5ODtZk0I6Z2IuskUQmXTi9) | [Miracle V](https://open.spotify.com/artist/2KkZT2Y0mlbVL1DuF18AdQ) | [Praise Him](https://open.spotify.com/album/2z6fQETg6izi0hTh7wlP7t) | 4:18 |
 | 75 | [Powerful \- Acoustic version](https://open.spotify.com/track/6VXrRRBxqjNv9kLRzhYRhZ) | [Vicky Seal](https://open.spotify.com/artist/110BmlnpfNn99YtSwBS56P) | [Powerful \(Acoustic version\)](https://open.spotify.com/album/13VNhhRqzBlFOcGMjX68hV) | 6:39 |
 | 76 | [Take Am](https://open.spotify.com/track/7GA7cVy0jqbGetbYt4BK7V) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [George Bosso](https://open.spotify.com/artist/18uMRZXeHz7MatEqIKXVAN) | [Take Am](https://open.spotify.com/album/1XPbJVIVP7NOiYsh481KwB) | 3:53 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 97 | [Fire and Rain](https://open.spotify.com/track/4StLEVHzdqm3MJtYOvpkd4) | [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk), [Jiritmwa Paul](https://open.spotify.com/artist/0tnm1DiWdW6EEeKMExGKft) | [Fire and Rain](https://open.spotify.com/album/6QqySGirysZ3XB2fLUpkuK) | 3:06 |
 | 98 | [Hello](https://open.spotify.com/track/6OeAGTYWTjlkkgUcOOnHtm) | [Favournice](https://open.spotify.com/artist/344Y9bjeLnfPNIs0CFeexh), [Emmanuel Joshua](https://open.spotify.com/artist/7nA1HRjapJ3Har96k8HWDo) | [Hello](https://open.spotify.com/album/4kWYv16FhztM861oj93raD) | 2:49 |
 
-Snapshot ID: `MCxhMjhiNDkzNjhkZmQ5NjVhZWRmODBmY2VkMzhmMDdhMWIzZTkzYzUy`
+Snapshot ID: `MCw4ZjJiZjVmOTJkNmNjNDdmMTcxN2Q1YTIyMTk5MWE2MTQ1YmI2ODAy`

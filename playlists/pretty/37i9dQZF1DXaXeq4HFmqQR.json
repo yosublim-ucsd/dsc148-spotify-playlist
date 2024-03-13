@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
-  "num_followers": 13434,
+  "num_followers": 13442,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWZjMGJiYmNlZjAxMzIyOGI0Mzc4ODIzZTk3YWZkMDdiMDhhZDRl",
+  "snapshot_id": "MCwwZGE3MTgyYzgzYmQ2NTUxMTk4MjI4YTZmNjVhNWMyMDE0OTcyNjEx",
   "tracks": [
     {
       "added_at": "2024-03-11 17:02:36",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "Tarde o temprano",
-        "url": "https://open.spotify.com/album/1q1ZEjeH4JnnweEEnCBitJ"
-      },
-      "artists": [
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        },
-        {
-          "name": "Dj Perez",
-          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
-        }
-      ],
-      "duration_ms": 222952,
-      "name": "Tarde o temprano",
-      "url": "https://open.spotify.com/track/0hcM9LkquCW5AEZb6cEbwq"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "Baby del Rey",
         "url": "https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 200833,
       "name": "Baby del Rey",
       "url": "https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "Tarde o temprano",
+        "url": "https://open.spotify.com/album/1q1ZEjeH4JnnweEEnCBitJ"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        },
+        {
+          "name": "Dj Perez",
+          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
+        }
+      ],
+      "duration_ms": 222952,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/0hcM9LkquCW5AEZb6cEbwq"
     },
     {
       "added_at": "2024-03-11 17:02:36",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "aterrizar",
-        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
-      },
-      "artists": [
-        {
-          "name": "Vale Castillo",
-          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "aterrizar",
-      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "Culona y Llorona.",
         "url": "https://open.spotify.com/album/2LeboBZBofMm9cUz6MYKAF"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 157099,
       "name": "For Real",
       "url": "https://open.spotify.com/track/3O5XAiurMosdHxiOYckoYS"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "aterrizar",
+        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
+      },
+      "artists": [
+        {
+          "name": "Vale Castillo",
+          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "aterrizar",
+      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
     },
     {
       "added_at": "2024-03-11 17:02:36",

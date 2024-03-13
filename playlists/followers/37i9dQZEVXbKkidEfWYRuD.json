@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 28802,
+  "2024-03-13": 28810,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ukraine.",
   "name": "Top 50 - Ukraine",
@@ -27037,7 +27037,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 110526,
       "name": "\u0429\u043e\u0431 \u043d\u0435 \u0431\u0443\u043b\u043e",
       "url": "https://open.spotify.com/track/63hgMQantc0DLZM8BN180N"
@@ -27461,6 +27461,28 @@
       "duration_ms": 137714,
       "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY"
+    },
+    {
+      "album": {
+        "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430 (Amphiphil REMIX)",
+        "url": "https://open.spotify.com/album/6jFXFD3ETaHtp3F609DXyp"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        },
+        {
+          "name": "Amphiphil",
+          "url": "https://open.spotify.com/artist/6eLbNb1ECr1xqeu04vnbtD"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430 - Amphiphil REMIX",
+      "url": "https://open.spotify.com/track/1lGJjfu98UuYT58Zb9lLCT"
     },
     {
       "album": {

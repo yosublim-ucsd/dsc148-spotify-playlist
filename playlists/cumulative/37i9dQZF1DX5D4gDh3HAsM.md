@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-149 songs - 8 hr 47 min
+150 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Nightingale Sang In Berkeley Square \(duet with Gloria Estefan\)](https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined](https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare) | 4:59 | 2021-11-12 |  |
 | [A Visit From St\. Nicholas \('Twas The Night Before Christmas\)](https://open.spotify.com/track/1Plru2OsTMH5W2O9fyFKsg) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [A Visit From St\. Nicholas](https://open.spotify.com/album/665z0eJtFybjWpF1tjgVFj) | 6:21 | 2022-10-07 |  |
 | [Angels We Have Heard on High / Joy to the World](https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Joe Pass \- Six String Santa](https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX) | 4:35 | 2021-11-12 |  |
-| [Auld Lang Syne](https://open.spotify.com/track/5AA209yWZzBZ3ASH0g5ECH) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5) | [Auld Lang Syne](https://open.spotify.com/album/2DE0OWGtJhJQnx3jrmOWnE) | 2:59 | 2023-12-08 |  |
+| [Auld Lang Syne](https://open.spotify.com/track/5AA209yWZzBZ3ASH0g5ECH) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5) | [Auld Lang Syne](https://open.spotify.com/album/2DE0OWGtJhJQnx3jrmOWnE) | 2:59 | 2023-12-08 | 2024-03-13 |
+| [Auld Lang Syne](https://open.spotify.com/track/1O8oPm8e8ommARHknSO59Q) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5) | [Auld Lang Syne](https://open.spotify.com/album/5QrVO0znD72SuuqH9NxA2Y) | 3:00 | 2023-12-08 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Christmas Cookin'](https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC) | 6:00 | 2021-11-12 |  |
 | [Better Than Snow](https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 2:46 | 2023-11-10 |  |
 | [Candy Cane Lane](https://open.spotify.com/track/0TUVQt59Z1X4tWbdcQNTrO) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Candy Cane Lane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qkGM0bKCxCyX1u67xMBkm) | 3:53 | 2023-12-01 |  |

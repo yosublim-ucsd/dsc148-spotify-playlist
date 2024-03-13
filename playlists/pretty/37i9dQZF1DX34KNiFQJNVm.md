@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Marvvila com Luiza Martins, MC IG, Thiaguinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,480 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,618 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 35 | [In Your Life](https://open.spotify.com/track/6IX9PeBeUXYqFJbBxCdBQ5) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [In Your Life](https://open.spotify.com/album/5nQrqlyRBi1y4HyuodhLUB) | 3:20 |
 | 36 | [Mosh Pit](https://open.spotify.com/track/3VpA3eY9WDUn8zrng3SvxZ) | [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Cassin](https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p) | [Mosh Pit](https://open.spotify.com/album/5yP55tm83DiRFxfcwK3ggW) | 2:24 |
 | 37 | [Uma Parte](https://open.spotify.com/track/4E5dWXDRbWw5HVYUTZe3XD) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [Uma Parte](https://open.spotify.com/album/1OqPYPqJRuG1V6vbWkAs2a) | 2:05 |
-| 38 | [BCTNH PLOC PLOC](https://open.spotify.com/track/6vjz9wbKGmyh4fmyWgSQMo) | [Deize Tigrona](https://open.spotify.com/artist/2VQ0nYO5CBFp0KVWziJDhY), [KD SOUNDSYSTEM](https://open.spotify.com/artist/2PSzxg1449O3zCXhDx5ZCS), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [NÃO TEM ROLÊ TRANQUILO](https://open.spotify.com/album/4N4mN23m0ykRRDzAEN4vEq) | 1:58 |
+| 38 | [BCTNH PLOC PLOC](https://open.spotify.com/track/6vjz9wbKGmyh4fmyWgSQMo) | [Deize Tigrona](https://open.spotify.com/artist/2VQ0nYO5CBFp0KVWziJDhY), [KD Soundsystem](https://open.spotify.com/artist/7yPOMcYNwv9by1xUxAljPA) | [NÃO TEM ROLÊ TRANQUILO](https://open.spotify.com/album/4N4mN23m0ykRRDzAEN4vEq) | 1:58 |
 | 39 | [Então Me Diz](https://open.spotify.com/track/0fZQ24rp9ggkBhX2BGzW4H) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Vitin Do MT](https://open.spotify.com/artist/2gQgF9nDVtxEw1Ph6D4Wq2) | [Então Me Diz](https://open.spotify.com/album/0yh6nKgfE2Cwx95PutATxM) | 2:16 |
 | 40 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 |
 | 41 | [Caserio](https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Caserio](https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [Serena](https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [Serena](https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1) | 2:45 |
 | 50 | [Sonho de Rainha Rei](https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l) | [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [Sonho de Rainha Rei](https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ) | 4:11 |
 
-Snapshot ID: `MCwzOTQ3MzYxNTYwNjZlZTZhOGIzNjc1YzNmYjc1ZjcxNzNiMDc0ZTk5`
+Snapshot ID: `MCw5NTEzZjQ3ODJmZjI2ZTdhYjJmNDRlNGU1MmNjOGNjNDg4MzFjYjky`

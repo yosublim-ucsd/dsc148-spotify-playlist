@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2023\. Cover: Samara Joy \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,551 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,560 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 4 | [Everything’s Not Lost](https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Everything’s Not Lost](https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO) | 4:08 |
 | 5 | [Petite musique terrienne](https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Mélusine](https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc) | 2:20 |
 | 6 | [Give Me A Reason](https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Give Me A Reason](https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h) | 4:13 |
-| 7 | [I Wish You Love](https://open.spotify.com/track/1lSVaS9kpEO1hSMQcjPGpN) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Conjuring](https://open.spotify.com/album/5fBQi90drFsrA3seUJlw3b) | 3:05 |
+| 7 | [I Wish You Love](https://open.spotify.com/track/5HkkshNeJCmfEwUI06wbTZ) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Conjuring](https://open.spotify.com/album/1Z67DgVbrQYsPShoWAeC6X) | 3:05 |
 | 8 | [September In The Rain](https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [September in the Rain](https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX) | 4:08 |
 | 9 | [It Could Happen To You](https://open.spotify.com/track/2mMYNnNFCKoCWih6vELx3E) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI) | [It Could Happen To You](https://open.spotify.com/album/7psf3UfROJPn11UayGE4Ao) | 2:37 |
 | 10 | [These Are the Memories](https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [These Are the Memories](https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 49 | [Everything Happens to Me](https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Everything Happens to Me](https://open.spotify.com/album/52WQ5RrOAA9BgZ6MiXxSDZ) | 6:19 |
 | 50 | [Put Your Head on My Shoulder](https://open.spotify.com/track/3m3aPLYlaSyQlRHzj3pxSk) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Star City Symphony](https://open.spotify.com/artist/4rIS4hOr1AMWFS3YbGpq4i), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [People](https://open.spotify.com/album/4IKhM8fngURnMvw1rtssKb) | 4:25 |
 
-Snapshot ID: `MCw2NzBhZTRmZTkwNjFiOTBkNGRhZDU0ZjA2NzRhZDM3MTg4ZjRhNmMz`
+Snapshot ID: `MCwzNWY1OWYzN2NiNzNjZmMzYjU5M2ViMGNmODRjNmZhNTg5YmNjMGRl`

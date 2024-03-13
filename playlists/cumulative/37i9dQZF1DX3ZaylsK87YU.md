@@ -4,13 +4,13 @@
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-213 songs - 16 hr 50 min
+214 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['tis So Sweet To Trust In Jesus](https://open.spotify.com/track/0IIRQLWP8BAgVIr1EfQ7WW) | [Page CXVI](https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb) | [Hymns \- IV](https://open.spotify.com/album/2HJKSxzziWNXmaeKlVdjQ5) | 4:13 | 2021-07-30 | 2022-07-25 |
 | [10,000 Reasons \(Bless The Lord\) \[Radio Version\] \- Radio Version/Live](https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 4:16 | 2021-07-30 |  |
-| [Abide With Me \[Mp Jones\]](https://open.spotify.com/track/3WIM3qKRu2OGenEq5OSke2) | [Indelible Grace Music](https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq) | [Wake Thy Slumbering Children: Indelible Grace V](https://open.spotify.com/album/1RMhj9PiOYUnhV4tmfJX99) | 4:04 | 2021-07-30 |  |
+| [Abide With Me \[Mp Jones\]](https://open.spotify.com/track/3WIM3qKRu2OGenEq5OSke2) | [Indelible Grace Music](https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq) | [Wake Thy Slumbering Children: Indelible Grace V](https://open.spotify.com/album/1RMhj9PiOYUnhV4tmfJX99) | 4:04 | 2021-07-30 | 2024-03-13 |
 | [All Glory Be to Christ](https://open.spotify.com/track/02GNfO1O7d0Rx3tGcvfuIP) | [Kings \(MHM\)](https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC) | [Joy Has Dawned](https://open.spotify.com/album/7jfGMR3tcoRYefoNxst4w8) | 4:06 | 2021-07-30 |  |
 | [All Glory Be to Christ](https://open.spotify.com/track/7aoSSFsRPPQzrtSyJQCjHw) | [Kings \(MHM\)](https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC) | [Joy Has Dawned](https://open.spotify.com/album/5caVT9WZQY2QTCmGbY20gr) | 4:06 | 2021-07-30 | 2022-07-28 |
 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 | 2021-07-30 |  |
@@ -71,6 +71,7 @@
 | [Ever Be](https://open.spotify.com/track/4lpbumeJ0OhkUMR2ywRelJ) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:51 | 2021-07-30 | 2022-07-28 |
 | [Fall Afresh](https://open.spotify.com/track/321jLsfufuG8Ot8GsYffdm) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4j0qiJw946YRhJ9UpNcqaA) | 4:24 | 2021-07-30 | 2022-07-29 |
 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 | 2021-07-30 |  |
+| [Far Kingdom](https://open.spotify.com/track/05KHSEBdcmjKJgzDxP8InL) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Fire and Stone](https://open.spotify.com/album/2kJl3qU61iYhPZHErhfpzz) | 4:24 | 2023-02-18 |  |
 | [Far Kingdom](https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Fire and Stone](https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT) | 4:24 | 2021-07-30 | 2024-01-26 |
 | [For the Beauty of the Earth](https://open.spotify.com/track/5G7QaeDEy7kFPac5Hr5INn) | [A New Liturgy](https://open.spotify.com/artist/5WeVXS5COv8kOfCkfe5YMW) | [No 4: Creation](https://open.spotify.com/album/1xBXUvPWnFj7NaKNNweqEz) | 5:26 | 2021-07-30 | 2022-07-29 |
 | [For The Beauty Of The Earth](https://open.spotify.com/track/3VcanlxLngJ4UvZBiqriRL) | [Andrew Laparra](https://open.spotify.com/artist/63cOTTgz0xL3mMibwp4448) | [Rise Up Dead Men](https://open.spotify.com/album/4z9J9fjvzHJ06FSsdMjohG) | 3:14 | 2021-07-30 | 2022-07-28 |

@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-153 songs - 13 hr 50 min
+154 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Après Un Rêve](https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Après Un Rêve](https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql) | 4:28 | 2023-08-03 |  |
 | [Arvo](https://open.spotify.com/track/3UC4pnwk6pGGnj8AAXkXX3) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [When We Leave](https://open.spotify.com/album/7MZXhA40qEoGogH9YtURmG) | 5:30 | 2022-06-01 |  |
 | [As If The Ghost … Was Me!?](https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw) | [Terje Rypdal](https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1) | [As If The Ghost … Was Me!?](https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg) | 5:43 | 2022-06-01 |  |
-| [Asthma Breath](https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ) | [Jesper Thorn](https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD) | [Asthma Breath](https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE) | 3:16 | 2023-06-22 |  |
+| [Asthma Breath](https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ) | [Jesper Thorn](https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD) | [Asthma Breath](https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE) | 3:16 | 2023-06-22 | 2024-03-13 |
 | [Bagatell](https://open.spotify.com/track/0FmKbJQBVPFcgw9uxmHuuf) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy) | [Jord](https://open.spotify.com/album/0djGAudAqEK5QHw6eV6BlV) | 6:29 | 2022-06-01 | 2022-07-29 |
 | [Bagatell](https://open.spotify.com/track/2A4nuFuRobR3d2ny6vv6Eg) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy) | [Jord](https://open.spotify.com/album/6wodqXDRRzH6H4qjcaSoNY) | 6:29 | 2022-08-31 | 2022-10-16 |
 | [Bagatell](https://open.spotify.com/track/2mblrFo3LfEeXBqEY6Bc0y) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy) | [Jord](https://open.spotify.com/album/1EIahTS8G77fLdw3K13lYp) | 6:29 | 2023-08-24 | 2023-09-01 |
@@ -76,6 +76,7 @@
 | [Kun Lun](https://open.spotify.com/track/1klS4kVAikIo3w4AxKLBSl) | [Fredrik Ljungkvist and the Yun Kan 5](https://open.spotify.com/artist/3PeIu9Iid94d06zGuE99xa) | [Badaling](https://open.spotify.com/album/5FLgahjtdZpbijATZ7IwUZ) | 5:30 | 2022-06-01 | 2023-09-01 |
 | [Landkjenning](https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [Landkjenning](https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG) | 3:35 | 2023-06-22 |  |
 | [Langsam](https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [Kurzsam and Fulger](https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15) | 6:13 | 2022-06-01 | 2024-02-07 |
+| [Langsam](https://open.spotify.com/track/7pRPBoo6BpZ8hXZd41tjAg) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [Kurzsam and Fulger](https://open.spotify.com/album/2BbHyjSxcAMgp41y98NyhV) | 6:13 | 2024-03-07 |  |
 | [Leilani](https://open.spotify.com/track/1QVPEOqvQv6v7A5vyXI105) | [LITANGEN](https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX), [Ole Edvard Antonsen](https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR) | [Leilani](https://open.spotify.com/album/1o11PJdSBoCZVQscZJe3DK) | 2:51 | 2022-06-01 | 2022-07-29 |
 | [Leilani](https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2) | [LITANGEN](https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX), [Ole Edvard Antonsen](https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR) | [A Fine Line](https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn) | 2:51 | 2022-06-01 |  |
 | [Lena](https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX) | [The Stoner](https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe) | [Kinder Call](https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z) | 4:06 | 2022-06-01 |  |

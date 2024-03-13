@@ -4,14 +4,14 @@
 
 > Get your bassface on with these classic Dubstep tracks.
 
-99 songs - 7 hr 30 min
+100 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [26 Basslines](https://open.spotify.com/track/1oyc8GS43HQ0SDunBMn9Bd) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:01 | 2020-10-03 | 2022-07-16 |
 | [Act Like You Know \- Dubstep Mix](https://open.spotify.com/track/7wNtcpvxS7xU1apfK46bSD) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [This Is Dubstep Anthems](https://open.spotify.com/album/5BfMfSQCXkjMZ8G95NblDK) | 5:39 | 2020-10-03 | 2022-07-29 |
 | [Act Like You Know \- Dubstep Mix](https://open.spotify.com/track/1RQ249SQwWHPDkqY9ntFRS) | [Nero UK](https://open.spotify.com/artist/1UnjWyVhAlRU0F5JyKv9vp) | [Act Like You Know](https://open.spotify.com/album/0QLOa3PIZnAXxF6adYPYVo) | 5:39 | 2020-10-03 | 2022-10-29 |
-| [Act Like You Know \- Dubstep Mix](https://open.spotify.com/track/5hlizYPXMapxglm83uLzy7) | [Nero UK](https://open.spotify.com/artist/1UnjWyVhAlRU0F5JyKv9vp) | [Act Like You Know](https://open.spotify.com/album/6eG9xyF08ed4FouGBo10yI) | 5:39 | 2020-10-03 |  |
+| [Act Like You Know \- Dubstep Mix](https://open.spotify.com/track/5hlizYPXMapxglm83uLzy7) | [Nero UK](https://open.spotify.com/artist/1UnjWyVhAlRU0F5JyKv9vp) | [Act Like You Know](https://open.spotify.com/album/6eG9xyF08ed4FouGBo10yI) | 5:39 | 2020-10-03 | 2024-03-13 |
 | [All of a Sudden](https://open.spotify.com/track/38Sw23QtPCvYsksJIRWDNe) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Disco Rekah](https://open.spotify.com/album/1xNKycUwT3oFP85m6kzpqu) | 4:09 | 2020-10-03 | 2022-07-08 |
 | [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 | 2020-10-03 |  |
 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 | 2020-10-03 |  |
@@ -96,6 +96,7 @@
 | [Smack My Bitch Up \- Noisia Remix](https://open.spotify.com/track/5NlW1Be0WYIOFp1gx1b7Kf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:53 | 2020-10-03 |  |
 | [Starry Eyed \- Jakwob Remix](https://open.spotify.com/track/055TcMyKhz8NV8XzTTeKGu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [James Jacob](https://open.spotify.com/artist/6zREiaEjYXtcirqnoxXs71) | [Generation Dubstep](https://open.spotify.com/album/7oOdk7kXghCgkLaSbh1SwH) | 4:36 | 2020-10-03 | 2022-07-24 |
 | [Still Getting It](https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo) | [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Harder They Fall EP](https://open.spotify.com/album/5s7KcxWTWcGbGehe52aga6) | 4:00 | 2020-10-03 |  |
+| [Sweet Shop](https://open.spotify.com/track/0vUscbitfkKXkeIaxqvHHM) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/6Eb8vvrHeNeIN5upuYS3Io) | 4:35 | 2023-10-17 |  |
 | [Sweet Shop](https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq) | 4:35 | 2020-10-03 | 2024-02-17 |
 | [Time Lapse](https://open.spotify.com/track/79Ir3HCbMRSNhvnowWwJFk) | [Boofy](https://open.spotify.com/artist/1w2QxapVigswBn0iFFmhAm) | [Time Lapse](https://open.spotify.com/album/3Ttv6LO7YJrpYJA1PVPKFb) | 5:36 | 2020-10-03 | 2022-07-29 |
 | [Under The Sheets \- Jakwob Remix](https://open.spotify.com/track/1KAg5YTwECiXmYeySVEpDS) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [James Jacob](https://open.spotify.com/artist/6zREiaEjYXtcirqnoxXs71) | [Under The Sheets](https://open.spotify.com/album/3f1GPq7j60ndo4bgwWq2f2) | 5:38 | 2023-10-17 |  |

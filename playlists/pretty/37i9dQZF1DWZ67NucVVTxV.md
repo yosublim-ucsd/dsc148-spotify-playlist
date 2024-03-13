@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,565 likes - 90 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,615 likes - 90 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 89 | [NEVER LATE](https://open.spotify.com/track/1Cc8bDOlOySCAaCjzpPHQV) | [Korshi T](https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc), [Big Spliff](https://open.spotify.com/artist/3Fz8mwoqTbaKjZhId8Ig6f), [Shady Wise](https://open.spotify.com/artist/1xWuHmKJHhgC95Ad3LNi8y) | [NEVER LATE](https://open.spotify.com/album/7zkIWU0EItOPJyR4OedYVF) | 2:49 |
 | 90 | [Kwechiri](https://open.spotify.com/track/5bESpRe1X0g6j5MdrLUhIf) | [Dj Rhyzo](https://open.spotify.com/artist/2sEWT2zCbqV7aCvijfyr14) | [Kwechiri](https://open.spotify.com/album/6yk12r5uBg6MG92REoFBA5) | 2:25 |
 
-Snapshot ID: `MCxhZDg4NjI2OTlhYTc1Y2FhNGNjNTEyMjM2YWE0MWIxODBjM2VlODY2`
+Snapshot ID: `MCw1NWM0ZjA4MTZjMTI1NTU2ZjdhZmRmNTQzNDRkNjhhODMyM2ViMDA4`

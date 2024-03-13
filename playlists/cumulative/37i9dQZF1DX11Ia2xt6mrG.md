@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. DannyLux en portada.
 
-265 songs - 14 hr 48 min
+266 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,12 +74,13 @@
 | [Empty Words](https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Empty Words](https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl) | 2:47 | 2022-05-06 | 2023-11-18 |
 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 | 2023-04-14 |  |
 | [Esta Noche](https://open.spotify.com/track/3ZPbwLRggZ9JneiD5Rmvzc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Esta Noche](https://open.spotify.com/album/0E9a76DH1w2WuSwdu6Be9E) | 2:15 | 2022-05-06 | 2023-03-25 |
-| [Esto Aqui No Acaba](https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Esto Aqui No Acaba](https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD) | 2:52 | 2022-05-06 |  |
+| [Esto Aqui No Acaba](https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Esto Aqui No Acaba](https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD) | 2:52 | 2022-05-06 | 2024-03-13 |
 | [Esto No Es House](https://open.spotify.com/track/4y4lfErwwYFX6FVef1itF7) | [Daddy Issues](https://open.spotify.com/artist/4b99fTtPgyXhRarmnDdyKG), [Ivan Daza](https://open.spotify.com/artist/0wdf5yd223R0ZFRGqXA6mi) | [Esto No Es House](https://open.spotify.com/album/7L8PmOnocLrxVN9FTEcEaM) | 4:59 | 2022-05-06 | 2022-07-29 |
 | [Eunoia](https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy) | [Leimantour](https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N) | [Eunoia](https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj) | 7:08 | 2022-05-06 | 2023-12-03 |
 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 | 2023-12-22 |  |
 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 | 2024-02-02 |  |
 | [Fake It Till You Make It](https://open.spotify.com/track/4kD4w6XFGxaABGiwOmqsXq) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1) | [Fake It Till You Make It](https://open.spotify.com/album/2gElFrsbVZoinHMjT0JSYy) | 2:07 | 2022-05-06 | 2022-07-29 |
+| [Feeling Alive](https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Feeling Alive](https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM) | 2:33 | 2024-03-12 |  |
 | [Filosofía](https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Johan](https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS) | [Filosofía](https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np) | 3:00 | 2022-05-06 | 2024-02-19 |
 | [Fire](https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Riallo](https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u), [Sapir Amar](https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC) | [Fire](https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl) | 3:01 | 2022-05-06 |  |
 | [Flashback](https://open.spotify.com/track/7oHMGOqdXiAYXzVXY08INI) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn) | [Flashback](https://open.spotify.com/album/4HtaydG7dkmvsgF21kyZA0) | 2:48 | 2022-06-17 | 2022-06-21 |

@@ -1,7 +1,7 @@
 {
-  "2024-03-12": 1799377,
+  "2024-03-13": 1799550,
   "date_first_scraped": "2021-12-21",
-  "description": "Vocals and keys, front and center. Cover: Billy Joel",
+  "description": "Vocals and keys, front and center. Cover: Finneas and Billie Eilish",
   "name": "Piano Ballads",
   "tracks": [
     {
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 250973,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/5FKnuwsKf7YFpmhA5Wnl0q"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 171772,
       "name": "Joke's On Me",
       "url": "https://open.spotify.com/track/1sS6niRmRsywDwQ5F2b7Oh"
@@ -2477,7 +2477,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 259991,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
@@ -4083,6 +4083,24 @@
       "duration_ms": 293520,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/2a2gJ4YinLgIovY75zA0fm"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "album": {

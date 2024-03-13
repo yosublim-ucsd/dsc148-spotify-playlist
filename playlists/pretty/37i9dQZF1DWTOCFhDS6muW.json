@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 23181,
+  "num_followers": 23195,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjdjOTRmY2U4M2E0NDk5ZWMzOTA3YjA1NDMwYTc0OTI4YTZlYWY2",
+  "snapshot_id": "MCwxYjZlMDVhYzA3OTJhY2MyOWIyZDRmN2Y4YjMxMWQ2NGUzNGNkODFj",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -383,18 +383,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Encarguitos Del Caribe",
-        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+        "name": "Punta Vibe",
+        "url": "https://open.spotify.com/album/2gYb4m2xi4bgUqHvvpgjU9"
       },
       "artists": [
         {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+          "name": "Supa G",
+          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
         }
       ],
-      "duration_ms": 223973,
-      "name": "El Encarguito",
-      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
+      "duration_ms": 191077,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/4s0YHx04Ih3oEDLVzljcuX"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -419,18 +419,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Punta Vibe",
-        "url": "https://open.spotify.com/album/2gYb4m2xi4bgUqHvvpgjU9"
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
       },
       "artists": [
         {
-          "name": "Supa G",
-          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
         }
       ],
-      "duration_ms": 191077,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/4s0YHx04Ih3oEDLVzljcuX"
+      "duration_ms": 223973,
+      "name": "El Encarguito",
+      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
     },
     {
       "added_at": "2020-05-26 15:53:13",

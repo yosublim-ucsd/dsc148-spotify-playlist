@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
-  "num_followers": 89508,
+  "num_followers": 89572,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjc3Y2QyYjMzNTc2Y2U4NzA4NWQzNWE0NDU1NzI3ZjZlMmU5ZjNj",
+  "snapshot_id": "MCxiNmQzNTVmNzY5NGViOTAwMzQ2YmM4OTcwZDA3MmI2ZTBkZTBlMmRj",
   "tracks": [
     {
       "added_at": "2024-03-07 17:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-03-07 17:00:00",
       "album": {
-        "name": "\u0110\u00e1nh \u0110\u1ed5i",
-        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
-      },
-      "artists": [
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        },
-        {
-          "name": "Shiki",
-          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
-        }
-      ],
-      "duration_ms": 224175,
-      "name": "Tell the kids i love them (ft. Shiki)",
-      "url": "https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr"
-    },
-    {
-      "added_at": "2024-03-07 17:00:00",
-      "album": {
         "name": "3 1 0 7 (feat. Duongg & N\u00e2u)",
         "url": "https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 232258,
       "name": "3 1 0 7 (feat. Duongg & N\u00e2u)",
       "url": "https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp"
+    },
+    {
+      "added_at": "2024-03-07 17:00:00",
+      "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+        }
+      ],
+      "duration_ms": 224175,
+      "name": "Tell the kids i love them (ft. Shiki)",
+      "url": "https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr"
     },
     {
       "added_at": "2024-03-07 17:00:00",
@@ -623,6 +623,26 @@
       "duration_ms": 240000,
       "name": "10 Ng\u00e0n N\u0103m",
       "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
+    },
+    {
+      "added_at": "2024-03-07 17:00:00",
+      "album": {
+        "name": "L\u1ed1i Nh\u1ecf",
+        "url": "https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N"
+      },
+      "artists": [
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "Ph\u01b0\u01a1ng Anh \u0110\u00e0o",
+          "url": "https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav"
+        }
+      ],
+      "duration_ms": 252953,
+      "name": "L\u1ed1i Nh\u1ecf",
+      "url": "https://open.spotify.com/track/25edeHHueINMguqu9emCyV"
     },
     {
       "added_at": "2024-03-07 17:00:00",
@@ -663,26 +683,6 @@
       "duration_ms": 228568,
       "name": "D\u00e1m R\u1ef1c R\u1ee1",
       "url": "https://open.spotify.com/track/4R7UV2BCJ2bt9hh6jFOgId"
-    },
-    {
-      "added_at": "2024-03-07 17:00:00",
-      "album": {
-        "name": "L\u1ed1i Nh\u1ecf",
-        "url": "https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N"
-      },
-      "artists": [
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        },
-        {
-          "name": "Ph\u01b0\u01a1ng Anh \u0110\u00e0o",
-          "url": "https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav"
-        }
-      ],
-      "duration_ms": 252953,
-      "name": "L\u1ed1i Nh\u1ecf",
-      "url": "https://open.spotify.com/track/25edeHHueINMguqu9emCyV"
     },
     {
       "added_at": "2024-03-07 17:00:00",
@@ -791,18 +791,22 @@
     {
       "added_at": "2024-03-07 17:00:00",
       "album": {
-        "name": "Thanh Xu\u00e2n",
-        "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
+        "name": "N\u1ea5u \u0103n cho em",
+        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
       },
       "artists": [
         {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
         }
       ],
-      "duration_ms": 220509,
-      "name": "Thanh Xu\u00e2n",
-      "url": "https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5"
+      "duration_ms": 241340,
+      "name": "N\u1ea5u \u0103n cho em",
+      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
     },
     {
       "added_at": "2024-03-07 17:00:00",
@@ -831,22 +835,38 @@
     {
       "added_at": "2024-03-07 17:00:00",
       "album": {
-        "name": "N\u1ea5u \u0103n cho em",
-        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
+        "name": "Thanh Xu\u00e2n",
+        "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
       },
       "artists": [
         {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        },
-        {
-          "name": "PiaLinh",
-          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
         }
       ],
-      "duration_ms": 241340,
-      "name": "N\u1ea5u \u0103n cho em",
-      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
+      "duration_ms": 220509,
+      "name": "Thanh Xu\u00e2n",
+      "url": "https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5"
+    },
+    {
+      "added_at": "2024-03-07 17:00:00",
+      "album": {
+        "name": "M\u01b0\u1ee3n R\u01b0\u1ee3u T\u1ecf T\u00ecnh",
+        "url": "https://open.spotify.com/album/44gpk43ZzXo2grV47gOgTM"
+      },
+      "artists": [
+        {
+          "name": "BigDaddy",
+          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
+        },
+        {
+          "name": "Emily",
+          "url": "https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul"
+        }
+      ],
+      "duration_ms": 198375,
+      "name": "M\u01b0\u1ee3n R\u01b0\u1ee3u T\u1ecf T\u00ecnh",
+      "url": "https://open.spotify.com/track/4x8vUZgiQWB25eS2M0we6Q"
     },
     {
       "added_at": "2024-03-07 17:00:00",
@@ -875,26 +895,6 @@
       "duration_ms": 243750,
       "name": "XTC (X\u00edch Th\u00eam Ch\u00fat) (Remix)",
       "url": "https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB"
-    },
-    {
-      "added_at": "2024-03-07 17:00:00",
-      "album": {
-        "name": "M\u01b0\u1ee3n R\u01b0\u1ee3u T\u1ecf T\u00ecnh",
-        "url": "https://open.spotify.com/album/44gpk43ZzXo2grV47gOgTM"
-      },
-      "artists": [
-        {
-          "name": "BigDaddy",
-          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
-        },
-        {
-          "name": "Emily",
-          "url": "https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul"
-        }
-      ],
-      "duration_ms": 198375,
-      "name": "M\u01b0\u1ee3n R\u01b0\u1ee3u T\u1ecf T\u00ecnh",
-      "url": "https://open.spotify.com/track/4x8vUZgiQWB25eS2M0we6Q"
     },
     {
       "added_at": "2024-03-07 17:00:00",
@@ -935,50 +935,42 @@
     {
       "added_at": "2024-03-07 17:00:00",
       "album": {
-        "name": "\u0110\u00e1nh \u0110\u1ed5i",
-        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+        "name": "B\u00e0i N\u00e0y Chill Ph\u1ebft",
+        "url": "https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn"
       },
       "artists": [
         {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
         },
         {
-          "name": "L\u0103ng LD",
-          "url": "https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr"
-        },
-        {
-          "name": "Shiki",
-          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+          "name": "MIN",
+          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
         }
       ],
-      "duration_ms": 184615,
-      "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
-      "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"
+      "duration_ms": 276000,
+      "name": "B\u00e0i N\u00e0y Chill Ph\u1ebft",
+      "url": "https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9"
     },
     {
       "added_at": "2024-03-07 17:00:00",
       "album": {
-        "name": "Gh\u00e9 Qua",
-        "url": "https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D"
+        "name": "Li\u1ec7u Gi\u1edd",
+        "url": "https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG"
       },
       "artists": [
         {
-          "name": "PC",
-          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
         },
         {
-          "name": "Dick",
-          "url": "https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh"
-        },
-        {
-          "name": "tofutns",
-          "url": "https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH"
+          "name": "V\u0103n",
+          "url": "https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv"
         }
       ],
-      "duration_ms": 237192,
-      "name": "Gh\u00e9 Qua",
-      "url": "https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq"
+      "duration_ms": 258668,
+      "name": "Li\u1ec7u Gi\u1edd",
+      "url": "https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm"
     },
     {
       "added_at": "2024-03-07 17:00:00",

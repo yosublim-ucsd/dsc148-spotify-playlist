@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 237624,
+  "num_followers": 237610,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTM2NDcwYjU0MmI4ZTE0ZmZmMWE3NGU0OGM5NTk0OWQyYmZiMzJk",
+  "snapshot_id": "MCxhMWFmNGM0NWNlN2ViZGFmOWI3N2I1MTU5YTVjMmJiZDM2MzRkNGFj",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -703,22 +703,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Killing Joke",
-        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 415160,
-      "name": "The Death & Resurrection Show",
-      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Onyx (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5LttsAVVuHrSB7nWL6DqHo"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 201431,
       "name": "Deal with the Devil",
       "url": "https://open.spotify.com/track/592s63wvXY9JR4T9NuiY6a"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Killing Joke",
+        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 415160,
+      "name": "The Death & Resurrection Show",
+      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
     },
     {
       "added_at": "2019-10-09 15:02:50",

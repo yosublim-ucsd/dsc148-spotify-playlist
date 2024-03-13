@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,316 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,298 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Balam Pichkari](https://open.spotify.com/track/18e3XXYCv4Tx8uUl1mP3CN) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:48 |
 | 2 | [Badri Ki Dulhania \(Title Track\)](https://open.spotify.com/track/2xbvLQBFW7E9232BwMBljb) | [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 3:26 |
-| 3 | [Rang Barse X Yaaron Waali Baat](https://open.spotify.com/track/4jtlwyaCAQFBunyLtHETHA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Rang Barse X Yaaron Waali Baat](https://open.spotify.com/album/0JWlNxkS7Kyh6zvPDllqWQ) | 1:30 |
+| 3 | [Rang Barse X Yaaron Waali Baat](https://open.spotify.com/track/4LTgRVWWKIO9XGlDnucMEM) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Rang Barse X Yaaron Waali Baat](https://open.spotify.com/album/3LVH2awYRqHDc1KO1l9hQX) | 1:30 |
 | 4 | [Jai Jai Shivshankar \(From "War"\)](https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jai Jai Shivshankar \(From "War"\)](https://open.spotify.com/album/5GvIKf7yN7gjZfYohbvHmj) | 3:50 |
 | 5 | [What Jhumka ? \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ranveer Singh](https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK), [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [What Jhumka ? \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q) | 3:33 |
 | 6 | [Teri Baaton Mein Aisa Uljha Jiya Title Song](https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Nina Mathur](https://open.spotify.com/artist/3tGyiAF7Oo7m9G8sdJZ2XI) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 2:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 | 74 | [Dil Ka Telephone 2.0 \- From "Dream Girl 2"](https://open.spotify.com/track/7lWAgqskL68F5uaDVL1uR9) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Dream Girl 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oin2DQWtcl3yeYLoH30hu) | 5:09 |
 | 75 | [Aaj Ki Party](https://open.spotify.com/track/1vmQPVE7vbgSZ12C8MlKX8) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 4:40 |
 
-Snapshot ID: `MCxmOTFiNTA0MWVhN2E5ZjgzMWJmMDc5OTcxODNmNTJmYzU0NTRhNzMw`
+Snapshot ID: `MCxmZDcxYzlhZmVmYTVlMzMyMDQ5M2VmYjRkMDgwOWYxY2ZlMTJhZTA2`

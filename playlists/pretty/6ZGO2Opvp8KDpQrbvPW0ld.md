@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,700 likes - 300 songs - 10 hr 58 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,698 likes - 300 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 140 | [Plant Hotel](https://open.spotify.com/track/5Vqo3u7qoLZ9PpLsFR9p2D) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Plant Hotel](https://open.spotify.com/album/4mNDpGIpEh4MF0Z8hSFD8K) | 2:02 |
 | 141 | [Celeste](https://open.spotify.com/track/4v8K6Hdt1xTgQ9g8IObRtC) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Celeste](https://open.spotify.com/album/08XhqD2LfGgHmNvtenrTfN) | 2:49 |
 | 142 | [Still](https://open.spotify.com/track/3EdfHgfm9Va1dnqHOYNnP0) | [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Still](https://open.spotify.com/album/6X7nMGva9LfnTGH7WBoNcy) | 1:16 |
-| 143 | [Ride To Rhythm](https://open.spotify.com/track/47psEE0YBjWJ3LdqCFHteD) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Ride To Rhythm](https://open.spotify.com/album/7q8qPGBIO2gudktWo1DGOl) | 1:45 |
+| 143 | [Ride To The Rhythm](https://open.spotify.com/track/47psEE0YBjWJ3LdqCFHteD) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Ride To The Rhythm](https://open.spotify.com/album/7q8qPGBIO2gudktWo1DGOl) | 1:45 |
 | 144 | [Up To The Sky](https://open.spotify.com/track/46Yz9sBb5vxofzv5b0cID5) | [Jazzy Afro](https://open.spotify.com/artist/0lFahxrXwCI8OfcDnQcSwx) | [Up To The Sky](https://open.spotify.com/album/3QSeQpMzTe4sOVQVimEl4A) | 2:29 |
 | 145 | [Rum In Manilla](https://open.spotify.com/track/0zvapQRcwyP3TuE3uTHaPy) | [Mindless Meditation](https://open.spotify.com/artist/1jWBDHh1PMVKYnT44tnxpS), [GaetDown](https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm) | [Rum In Manilla](https://open.spotify.com/album/6nPbBdqYhrj6S43uNWIU3W) | 2:45 |
 | 146 | [Mien](https://open.spotify.com/track/39smwPG4hR2LyUpjjZ2ALa) | [Hanses](https://open.spotify.com/artist/6wwQjgTWrlZBFU4PcloxaR), [Schwarme](https://open.spotify.com/artist/3BigSoHz6gXl9IRBQzd34G) | [Mien](https://open.spotify.com/album/2b42zAQEWNDQavt4KFSXmM) | 2:12 |

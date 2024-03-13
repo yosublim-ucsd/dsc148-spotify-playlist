@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 193685,
+  "2024-03-13": 193797,
   "date_first_scraped": "2022-05-09",
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
   "name": "Salsa: Los '80",
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 458760,
       "name": "M\u00e1ximo Chamorro",
       "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
@@ -1925,7 +1925,7 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 331333,
       "name": "Vasos De Colores",
       "url": "https://open.spotify.com/track/4Bg55jW2gCF4YOLYVErCOT"

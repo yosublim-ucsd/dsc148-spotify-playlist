@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,441 likes - 14 songs - 54 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,479 likes - 14 songs - 54 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 13 | [Predator](https://open.spotify.com/track/5G8Zm5oBmUyO2Uh74ne2Z9) | [Omar Khalifa](https://open.spotify.com/artist/7gXvlJ1zV1hZfTq3QQkImY), [Turako](https://open.spotify.com/artist/3n6kc7qeCZR1uVCvjgMDpM) | [Predator](https://open.spotify.com/album/5Sjya9qsjBXTiHSMLHbslX) | 7:00 |
 | 14 | [Ya Rayah](https://open.spotify.com/track/1KVpa83fBkART0ZZuRb3Bt) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.2](https://open.spotify.com/album/64nugwneK97CluUKPSUAzb) | 2:18 |
 
-Snapshot ID: `MCwyZmJlMjY4ZjEzNTBhMWVkMmU4N2Q1MzM0NzJhYzRiNjJmNjk2N2Mz`
+Snapshot ID: `MCw3MDYxMzE2MjFhODEyNzVmNGY1MTBhNmJkNzQxYmQzYTZlZWE0ZTk3`

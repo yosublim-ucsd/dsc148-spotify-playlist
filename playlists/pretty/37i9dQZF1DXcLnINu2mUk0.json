@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mizzy Miles com Bispo e Van Zee.",
-  "num_followers": 44401,
+  "num_followers": 44402,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjc5MTI4ZjFhZTI5ZGI5MzAzZjkzMzc0NDM4Y2I3ZjIzMDc2MGJk",
+  "snapshot_id": "MCw4OGYyMTNlYmU2NmIzNTAxYjI2ZjNmYTA3ZmM3MWY0MTRjZDA1MzNh",
   "tracks": [
     {
       "added_at": "2024-03-08 00:00:00",
@@ -891,18 +891,22 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Desilus\u00e3o",
-        "url": "https://open.spotify.com/album/0Pb9Hmn5HWVAy066gySw8t"
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+          "name": "mishlawi",
+          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 222391,
-      "name": "Desilus\u00e3o",
-      "url": "https://open.spotify.com/track/5dOYPsUc993w5JZp1omn5a"
+      "duration_ms": 203351,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -943,22 +947,18 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "That's Me",
-        "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
+        "name": "Desilus\u00e3o",
+        "url": "https://open.spotify.com/album/0Pb9Hmn5HWVAy066gySw8t"
       },
       "artists": [
         {
-          "name": "mishlawi",
-          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
         }
       ],
-      "duration_ms": 203351,
-      "name": "That's Me",
-      "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
+      "duration_ms": 222391,
+      "name": "Desilus\u00e3o",
+      "url": "https://open.spotify.com/track/5dOYPsUc993w5JZp1omn5a"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Industriam Adjuvat Deus",
-        "url": "https://open.spotify.com/album/3e0yPxtBCXtiyasdzeoHal"
-      },
-      "artists": [
-        {
-          "name": "-Mind7-",
-          "url": "https://open.spotify.com/artist/7pVY4sguKOnXbl7telAAzb"
-        },
-        {
-          "name": "melocooksomething",
-          "url": "https://open.spotify.com/artist/2OQZgQeDv3uRMe0uEAqcf7"
-        }
-      ],
-      "duration_ms": 116403,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/5wECfBhpZyQEryuNTJ4Wbi"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
         "name": "Feiti\u00e7o",
         "url": "https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf"
       },
@@ -1171,18 +1151,22 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Bonnie & Claide",
-        "url": "https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9"
+        "name": "Industriam Adjuvat Deus",
+        "url": "https://open.spotify.com/album/3e0yPxtBCXtiyasdzeoHal"
       },
       "artists": [
         {
-          "name": "Mufvsza",
-          "url": "https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y"
+          "name": "-Mind7-",
+          "url": "https://open.spotify.com/artist/7pVY4sguKOnXbl7telAAzb"
+        },
+        {
+          "name": "melocooksomething",
+          "url": "https://open.spotify.com/artist/2OQZgQeDv3uRMe0uEAqcf7"
         }
       ],
-      "duration_ms": 176601,
-      "name": "Bonnie & Claide",
-      "url": "https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD"
+      "duration_ms": 116403,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/5wECfBhpZyQEryuNTJ4Wbi"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
+        "name": "Bonnie & Claide",
+        "url": "https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9"
+      },
+      "artists": [
+        {
+          "name": "Mufvsza",
+          "url": "https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y"
+        }
+      ],
+      "duration_ms": 176601,
+      "name": "Bonnie & Claide",
+      "url": "https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
         "name": "Casa azul",
         "url": "https://open.spotify.com/album/3PwblwQzJFjLtCsJhIMdck"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Leonor",
-        "url": "https://open.spotify.com/album/6rNBKnFgPS7APToqmXIGjS"
-      },
-      "artists": [
-        {
-          "name": "Nadav",
-          "url": "https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9"
-        }
-      ],
-      "duration_ms": 108865,
-      "name": "Leonor",
-      "url": "https://open.spotify.com/track/6BPHsEye29K66TBGXlmcfH"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
         "name": "Se Tu N\u00e3o Falasses",
         "url": "https://open.spotify.com/album/05ew2ZZN66Z60FItm4lnbb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 180000,
       "name": "Se Tu N\u00e3o Falasses",
       "url": "https://open.spotify.com/track/2G5Nq9rzDyEU85ByIbN9c9"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "Leonor",
+        "url": "https://open.spotify.com/album/6rNBKnFgPS7APToqmXIGjS"
+      },
+      "artists": [
+        {
+          "name": "Nadav",
+          "url": "https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9"
+        }
+      ],
+      "duration_ms": 108865,
+      "name": "Leonor",
+      "url": "https://open.spotify.com/track/6BPHsEye29K66TBGXlmcfH"
     },
     {
       "added_at": "2024-03-08 00:00:00",

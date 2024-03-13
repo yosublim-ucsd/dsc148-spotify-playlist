@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 6264,
+  "2024-03-13": 6266,
   "date_first_scraped": "2021-12-28",
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Giol\u00ec & Assia in cover! \u2728",
   "name": "GLOW Italia",
@@ -986,6 +986,24 @@
     },
     {
       "album": {
+        "name": "Sangue",
+        "url": "https://open.spotify.com/album/2ODTNZ6HLMTNiiu05e4kHO"
+      },
+      "artists": [
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144221,
+      "name": "Cento Occhi",
+      "url": "https://open.spotify.com/track/2OmhL0qs4wUWApqZ31qPI8"
+    },
+    {
+      "album": {
         "name": "Le pi\u00f9 belle canzoni di Sandra Mondaini",
         "url": "https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO"
       },
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 111697,
       "name": "COL FASCIO NON SI SCOPA",
       "url": "https://open.spotify.com/track/2hsFWVIe90ZalnWeMJKbwl"
@@ -1843,6 +1861,28 @@
       "duration_ms": 257200,
       "name": "Elastic Heart",
       "url": "https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz"
+    },
+    {
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/6Tqp8IcuQCznRPiPfy3ejz"
+      },
+      "artists": [
+        {
+          "name": "Dafne",
+          "url": "https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH"
+        },
+        {
+          "name": "Unusual Magic",
+          "url": "https://open.spotify.com/artist/4AHUy6q8kZWNyBoxtyCzjZ"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123268,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/6fDRfO9Llh64gJSPDgiig0"
     },
     {
       "album": {
@@ -2647,6 +2687,24 @@
       "duration_ms": 229743,
       "name": "I Know Your Present",
       "url": "https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P"
+    },
+    {
+      "album": {
+        "name": "I Missed You Too",
+        "url": "https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215789,
+      "name": "I Missed You Too",
+      "url": "https://open.spotify.com/track/4o2c5swMPdirnnahplyswy"
     },
     {
       "album": {
@@ -5392,6 +5450,24 @@
     },
     {
       "album": {
+        "name": "Silenzio",
+        "url": "https://open.spotify.com/album/4jWgwYsZqS67dT82lm0Xxq"
+      },
+      "artists": [
+        {
+          "name": "Gianna Nannini",
+          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173208,
+      "name": "Silenzio",
+      "url": "https://open.spotify.com/track/0Wn5uKEy882wjQy2XPuyld"
+    },
+    {
+      "album": {
         "name": "DEMIDEVIL",
         "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
       },
@@ -5722,6 +5798,28 @@
     },
     {
       "album": {
+        "name": "T'aggio vuluto bene",
+        "url": "https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        },
+        {
+          "name": "endly",
+          "url": "https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "T'aggio vuluto bene",
+      "url": "https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ"
+    },
+    {
+      "album": {
         "name": "Lil Boat 3",
         "url": "https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY"
       },
@@ -5911,7 +6009,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 196406,
       "name": "The Point Of Living",
       "url": "https://open.spotify.com/track/6x2csnE4Cr1cuJSHmwBdJi"

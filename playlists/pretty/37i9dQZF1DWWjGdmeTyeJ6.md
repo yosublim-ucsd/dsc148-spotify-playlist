@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Shanté\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,768 likes - 98 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,834 likes - 98 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 97 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 98 | [Slideshow](https://open.spotify.com/track/5RZAEcZ8G4fLkR11MbB8P0) | [Levi Bloom](https://open.spotify.com/artist/4ruYOMH6odMGzBr19loIMg), [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Slideshow](https://open.spotify.com/album/6OL2rc5XTgw2yPcT91vdz3) | 2:43 |
 
-Snapshot ID: `MCxmZTI2ODg1NTRkMzkwMWY5YmM5YjNjMTY5NzlmYjQ1N2UyYmRkNzcx`
+Snapshot ID: `MCw1ZmI5YTkxOWM0OGFiZGEyYzI5NGYzZDdlM2RjMmI5MzVlZjRiMzE2`

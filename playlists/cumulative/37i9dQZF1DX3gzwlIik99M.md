@@ -158,7 +158,7 @@
 | [Regresión](https://open.spotify.com/track/4tmIaTtJDLBkreZhO3w4o7) | [Introtyl](https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A) | [Creation of Insanity](https://open.spotify.com/album/1zW6qmkDk1DkzkMnYRHn98) | 2:41 | 2020-10-24 | 2022-07-24 |
 | [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 | 2020-10-24 | 2023-01-11 |
 | [Relación Canina 2.0](https://open.spotify.com/track/6a3u4DQ3I26ICkcEN25EcX) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 2:45 | 2020-10-24 | 2022-07-10 |
-| [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 | 2020-10-24 | 2023-09-19 |
+| [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 | 2020-10-24 |  |
 | [Resilent](https://open.spotify.com/track/1ks4oI8rHS6kWwUf4rOmcn) | [Ziran](https://open.spotify.com/artist/4P9XsTV3PLROxMoLp4c0b4) | [Nature of I](https://open.spotify.com/album/1p8YhSYsMpV3C1TDV9p7ro) | 3:40 | 2020-10-24 | 2022-07-21 |
 | [Río Extraño](https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv) | [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Río Extraño](https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL) | 4:27 | 2020-10-24 |  |
 | [Sabios](https://open.spotify.com/track/5nErw2zbliwKbVmZBp1gVV) | [Minerva](https://open.spotify.com/artist/1DYNmRhSOAWWen5JUKIqOc) | [Sabios](https://open.spotify.com/album/2KFX103ureEhZ1JUyy0U1j) | 3:59 | 2020-10-24 | 2022-07-26 |
@@ -193,7 +193,7 @@
 | [Veritas](https://open.spotify.com/track/6imS4JK0JGsRo5WkMXpob7) | [Nonsense Premonition](https://open.spotify.com/artist/4oHxTB6tK11KKzkHfpjOxt) | [Músicas para a Juventude Se Lembrar de Nós, Vol\. 1](https://open.spotify.com/album/2chSbQs5zt6NKa87Hf9KR8) | 3:09 | 2020-10-24 | 2022-07-28 |
 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 | 2020-10-24 | 2023-04-29 |
 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 | 2020-10-24 |  |
-| [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 | 2020-10-24 |  |
+| [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 | 2020-10-24 | 2024-03-13 |
 | [Éxodo](https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q) | [Masacre](https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m) | [Muerte Verdadera Muerte](https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE) | 4:09 | 2020-10-24 | 2023-04-13 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

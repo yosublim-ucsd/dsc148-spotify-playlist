@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 158181,
       "name": "Castle",
       "url": "https://open.spotify.com/track/7tUToegtVh5dodpcqaYrHo"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 166800,
       "name": "Control",
       "url": "https://open.spotify.com/track/46MUbxLye12SKBN7xHg3CF"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 165166,
       "name": "Don't Surrender",
       "url": "https://open.spotify.com/track/7CYmaKqY6HuQrP8JBaniAP"
@@ -8730,6 +8730,24 @@
       "duration_ms": 165000,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/37SZi6cnrAJY0K7Xc8lwqe"
+    },
+    {
+      "album": {
+        "name": "Stick Around You",
+        "url": "https://open.spotify.com/album/7axrnFv4TrV9USJVlllNtn"
+      },
+      "artists": [
+        {
+          "name": "Jinxspr0",
+          "url": "https://open.spotify.com/artist/6dGnKpumgA8WOmhmoMsGhK"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133035,
+      "name": "Stick Around You",
+      "url": "https://open.spotify.com/track/62DSnDAEydxbgbU3OI2eMF"
     },
     {
       "album": {

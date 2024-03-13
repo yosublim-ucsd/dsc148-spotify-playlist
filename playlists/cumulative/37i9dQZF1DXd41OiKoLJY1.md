@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: 25hearts Artwork: Isu Kim
 
-2,154 songs - 5 day 7 hr 22 min
+2,155 songs - 5 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [Coup de grâce](https://open.spotify.com/track/3PCCqT0nTSey2h1iIWJRps) | [TEEN](https://open.spotify.com/artist/1chB7D5MsYcqBpie4zUKL0), [Lem.](https://open.spotify.com/artist/1ZECkYddAHfoFZgjeGuqsI) | [Coup de grâce](https://open.spotify.com/album/1c72dnTt4tMAcUcmxdzyNZ) | 2:35 | 2023-08-10 | 2023-09-01 |
 | [Coupla Miles High](https://open.spotify.com/track/4sbo0Rc0zKjpELskYOb70D) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [Coupla Miles High](https://open.spotify.com/album/2RaKfpMk9oCXjztATxxtmM) | 3:12 | 2023-06-29 | 2023-07-14 |
 | [CR3STYLE](https://open.spotify.com/track/041uDtp8YiM3zpLK30elb5) | [YNGVIE](https://open.spotify.com/artist/2CMdtMF1AW7dbCamPCkwBK) | [CR3STYLE](https://open.spotify.com/album/2QDDiQdwhw7o7BcQjW7iVn) | 2:43 | 2024-02-22 |  |
-| [Crazy / Makapiling Ka](https://open.spotify.com/track/0RK1zzniCS2dTGkqCJofQ7) | [ALLURA](https://open.spotify.com/artist/4wdOeJzLPnjtTV47h8X4WC) | [Crazy / Makapiling Ka](https://open.spotify.com/album/0nW5Wpj5jOPkk544O4Vk5d) | 2:39 | 2024-02-22 |  |
+| [Crazy / Makapiling Ka](https://open.spotify.com/track/0RK1zzniCS2dTGkqCJofQ7) | [ALLURA](https://open.spotify.com/artist/4wdOeJzLPnjtTV47h8X4WC) | [Crazy / Makapiling Ka](https://open.spotify.com/album/0nW5Wpj5jOPkk544O4Vk5d) | 2:39 | 2024-02-22 | 2024-03-13 |
+| [Crazy / Makapiling Ka](https://open.spotify.com/track/6nUcO4hhjBRGS29yW8Torq) | [ALLURA](https://open.spotify.com/artist/4wdOeJzLPnjtTV47h8X4WC) | [Crazy / Makapiling Ka](https://open.spotify.com/album/0z6ntoYPXZP9A0gc575zoy) | 2:39 | 2024-02-22 |  |
 | [Creatures](https://open.spotify.com/track/1FhdejdRP526E0WfCNIiin) | [Teresa Suydam](https://open.spotify.com/artist/71MnE4kBYYcoM1yiNTdi0b) | [Creatures](https://open.spotify.com/album/2MPQ3gRnibKYDiljmDXoxQ) | 3:25 | 2023-09-28 | 2023-10-13 |
 | [Creepy](https://open.spotify.com/track/6EKOtMmCX6GuOXG5y975Td) | [Ruuu](https://open.spotify.com/artist/0h8CTim59fwR1EVwYl5TbX) | [Creepy](https://open.spotify.com/album/5CWx0XZ45FhyHaNORJSoT2) | 2:51 | 2022-08-26 | 2022-09-23 |
 | [Crowd](https://open.spotify.com/track/1CPU1w5vyug6XPsylvTAJd) | [folkways](https://open.spotify.com/artist/2SxvUEaRBBUd0fDjKO5R9H) | [Crowd](https://open.spotify.com/album/36MZPbIFBEpwUcMF5btdvb) | 3:20 | 2023-05-04 | 2023-05-26 |

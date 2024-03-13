@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-603 songs - 1 day 11 hr 55 min
+604 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bad Dreams & Amphetamines](https://open.spotify.com/track/1yJal0J2SLmfQVIurNdUwV) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 4:03 | 2023-08-11 | 2023-09-18 |
 | [Bad Habit](https://open.spotify.com/track/7iERYDwe6SIpDpHIuVaLpZ) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Crazy](https://open.spotify.com/album/5GADVeCv5l9hQDBdms3x6p) | 3:33 | 2022-06-10 | 2022-07-09 |
 | [Bad Romantic](https://open.spotify.com/track/24qf5274RaJwlH9CAT6Gn5) | [Summer Dean](https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul) | [Bad Romantic](https://open.spotify.com/album/537wfsAlZEoI5qEOR7NpJQ) | 3:38 | 2021-12-17 | 2022-07-10 |
+| [Barely A Two Lane Road](https://open.spotify.com/track/21JxM9SvVVZnmEkc9GSbLJ) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Barely A Two Lane Road](https://open.spotify.com/album/1uQFI2ysX9M76YuC8tJZTD) | 3:48 | 2024-03-08 |  |
 | [Bars and Churches](https://open.spotify.com/track/7uHtasPjnmj0AHc6NtO0hi) | [Sundance Head](https://open.spotify.com/artist/3HgDVnEnlN20dfe1vvaBXH) | [Bars and Churches](https://open.spotify.com/album/36TvCSIkyz0w7666MOm5s8) | 3:11 | 2023-06-16 | 2023-07-15 |
 | [Barstool Boys](https://open.spotify.com/track/72F4ZWhDZ5Raxt4TyWjS1L) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Barstool Boys](https://open.spotify.com/album/0YDTwf2SqOD0oAKz5qrYZY) | 2:45 | 2023-09-01 | 2023-10-14 |
 | [Beaumont](https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [Parker Ryan](https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j) | 3:59 | 2021-12-17 | 2022-10-08 |
@@ -537,7 +538,7 @@
 | [Trouble With Angels](https://open.spotify.com/track/3BaVluQUA7ajqvFIp1iSkl) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Trouble With Angels](https://open.spotify.com/album/30PgSxZ5SpbUlJB6RjDmfo) | 3:15 | 2021-12-17 | 2022-03-19 |
 | [Trouble With You](https://open.spotify.com/track/5WxsXiljdTceevmqvsi4hq) | [Taylor Dunn](https://open.spotify.com/artist/1FfX9825XN0Uy6HBVoQsxr) | [Trouble With You](https://open.spotify.com/album/4aZYrGkb1ZxJql4oUQ3bfs) | 3:30 | 2021-12-17 | 2022-07-10 |
 | [Truth Like a Lie](https://open.spotify.com/track/0QqZqpe0mQJ8R7FYVgJ4qs) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Truth Like a Lie](https://open.spotify.com/album/1udk2S0wk7gC9LUYGZ5Zgu) | 4:12 | 2021-12-17 | 2022-04-29 |
-| [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 | 2023-09-01 |  |
+| [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 | 2023-09-01 | 2024-03-13 |
 | [Two Hearts in Terlingua](https://open.spotify.com/track/1xzTlHwxVsnI34HgnINYpt) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 5:01 | 2021-12-17 | 2022-07-29 |
 | [Two Left Feet](https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31) | [Cameron James Smith](https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp) | [Two Left Feet](https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK) | 3:14 | 2022-10-07 | 2022-11-28 |
 | [Under The Lights On Friday Night](https://open.spotify.com/track/43Qg7oEHfIprD4jBj54Xs2) | [Brandon Rhyder](https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD) | [Under The Lights On Friday Night](https://open.spotify.com/album/23yglCwV4MAQJdayeG7dkZ) | 3:51 | 2022-06-17 | 2022-07-19 |

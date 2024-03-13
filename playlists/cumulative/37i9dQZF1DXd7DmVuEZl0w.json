@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 68433,
       "name": "Be Rahmet Rabenna",
       "url": "https://open.spotify.com/track/2y4MZpQqbiBBhlz7ggvKb9"
@@ -356,6 +356,42 @@
       "duration_ms": 285600,
       "name": "Burdah",
       "url": "https://open.spotify.com/track/7fFCJWEAF1CzAtnRDg64b5"
+    },
+    {
+      "album": {
+        "name": "Duaa an Rafea El Balaa",
+        "url": "https://open.spotify.com/album/78khcsgKTO0D97aS7xi8Rq"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95061,
+      "name": "Duaa An Rafea El Balaa",
+      "url": "https://open.spotify.com/track/4IGbksNKMx0aJKWrKWwohG"
+    },
+    {
+      "album": {
+        "name": "Anechid Al Rouh",
+        "url": "https://open.spotify.com/album/2DTE74pjdIZvohdS72yRUA"
+      },
+      "artists": [
+        {
+          "name": "Saber Rebai",
+          "url": "https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148352,
+      "name": "Eghferli Rabbi",
+      "url": "https://open.spotify.com/track/1wzHh1Se5MPz0eKDfHaq1A"
     },
     {
       "album": {
@@ -1683,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "\u0634\u0646\u0637\u0629 \u0633\u0641\u0631",
+        "url": "https://open.spotify.com/album/1H7ahVmERUyzUbcJeQJrq8"
+      },
+      "artists": [
+        {
+          "name": "Ammar Alazaki",
+          "url": "https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93818,
+      "name": "\u0634\u0646\u0637\u0629 \u0633\u0641\u0631",
+      "url": "https://open.spotify.com/track/1bWCg5UHHVWFivqTFIrubv"
+    },
+    {
+      "album": {
         "name": "\u0631\u0645\u0636\u0627\u0646 \u0632\u064a\u0646 \u0627\u0644\u0634\u0647\u0648\u0631",
         "url": "https://open.spotify.com/album/0iXxK4xboGvolLd4PJWXsu"
       },
@@ -1694,7 +1748,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 194925,
       "name": "\u0634\u0647\u0631 \u0627\u0644\u0635\u064a\u0627\u0645",
       "url": "https://open.spotify.com/track/3e05ouPajotCppgxjAb8CL"
@@ -1802,7 +1856,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 110837,
       "name": "\u064a\u0627 \u0631\u0628\u0646\u0627",
       "url": "https://open.spotify.com/track/6D5OU26bbZAUY4Tesasfin"

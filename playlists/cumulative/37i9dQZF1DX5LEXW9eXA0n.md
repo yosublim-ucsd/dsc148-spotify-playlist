@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Lee Seung Gi\(이승기\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Isaac Hong\(홍이삭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,169 songs - 3 day 3 hr 44 min
+1,170 songs - 3 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 | 2021-12-20 | 2022-07-08 |
 | [Because I Don't Love You](https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Because I Don't Love You](https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU) | 3:43 | 2023-09-14 | 2023-11-03 |
 | [Because I love you](https://open.spotify.com/track/6woYtxbk3DWDbNz5sLLafG) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [Because I love you \(Payback X PL\)](https://open.spotify.com/album/6NjmoJUKJqt3Y0Hj5Qqotp) | 3:51 | 2023-01-20 | 2023-02-25 |
+| [Because There Is Love](https://open.spotify.com/track/70oz4lCNYc3v3p1prvisYO) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Because There Is Love](https://open.spotify.com/album/1YFEA7tMipoZp6C2kFWBwq) | 4:35 | 2024-03-12 |  |
 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 | 2022-09-26 | 2023-01-21 |
 | [Because We're All First Time](https://open.spotify.com/track/2EcVyHkJ2GN9qP8M7nROZv) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [Attitude \#3](https://open.spotify.com/album/7cmVY1jQTw4EaKKqm1wr6U) | 3:55 | 2023-01-10 | 2023-02-25 |
 | [Because You Don't Love Me](https://open.spotify.com/track/4qSK8cVMEECClvHmFXUqdP) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Because You Don't Love Me](https://open.spotify.com/album/1I4k4k18DkFJBYBAhqW6v3) | 3:43 | 2023-06-22 | 2023-11-16 |

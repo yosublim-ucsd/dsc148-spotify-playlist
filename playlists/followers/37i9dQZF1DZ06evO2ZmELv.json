@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 186,
+  "2024-03-13": 188,
   "date_first_scraped": "2023-03-11",
   "description": "This is Cheli Madrid. The essential tracks, all in one playlist.",
   "name": "This Is Cheli Madrid",
@@ -201,7 +201,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 175125,
       "name": "Con Rumbo Al Sur - En Vivo",
       "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 271461,
       "name": "Es Demasiado Tarde - En Vivo",
       "url": "https://open.spotify.com/track/0e2RjIK50zfagXtG00riZB"

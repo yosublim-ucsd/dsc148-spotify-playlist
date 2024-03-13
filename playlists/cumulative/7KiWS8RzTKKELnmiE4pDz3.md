@@ -4,7 +4,7 @@
 
 > 
 
-649 songs - 1 day 6 hr 43 min
+650 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [Stand On It \(with Future\)](https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:00 | 2024-02-16 |  |
 | [Stay Focused](https://open.spotify.com/track/4w8IHtYC1uTSY27fH4DPdk) | [10TA Lil A](https://open.spotify.com/artist/3E7zyjnY6AthfEeOAT1x3e) | [Drill Ohio](https://open.spotify.com/album/0ohtzOtfezDOm5GA6Q9j3J) | 1:33 | 2022-09-19 | 2023-03-01 |
 | [Stay To Myself / Schedule II](https://open.spotify.com/track/6J1jmKkjbMUAJ2niLlRsLs) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:12 | 2022-09-30 | 2023-12-14 |
+| [Stayëd tha same](https://open.spotify.com/track/5H0FL4BOhNDQNCINAL3TO7) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:35 | 2024-03-12 |  |
 | [Stick Talk](https://open.spotify.com/track/20fAoPjfYltmd3K3bO7gbt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 2:51 | 2023-08-28 | 2024-03-05 |
 | [Still Will](https://open.spotify.com/track/0Bb0WyZw1xfEMbehZ5GOKd) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 1:51 | 2023-08-19 | 2023-12-14 |
 | [Still Young Pablo](https://open.spotify.com/track/779gweiUnT5FA3QsKyOMNY) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Still Young Pablo](https://open.spotify.com/album/69gYAshYFvAXyrIKo5YGqx) | 2:27 | 2023-01-11 | 2023-08-28 |

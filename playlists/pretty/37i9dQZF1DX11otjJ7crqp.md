@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Alexander Stewart
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,282 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,313 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Crazy](https://open.spotify.com/track/04KX5zCnyTz7e3C1jjeusx) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [Crazy](https://open.spotify.com/album/5bn1cATEVsMt6vnQiPtSuN) | 2:44 |
 | 100 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 |
 
-Snapshot ID: `MCw1NDIxNmI4MTAzZmU4ZjQxYTcwNmZiNDJhZmM3MDBkZjRhNjk5ZWM2`
+Snapshot ID: `MCw5NjE5OGFlZDFkZWY2ZWE1MzEyMTM1ZDc4NjY5MjQ3Y2RhZmI2NGQx`

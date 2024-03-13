@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67113,
+  "num_followers": 67138,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDVkOTEyMTZiNTExZThhNDRlZTBjMDhiNDc5MTUyYzMzNmY4MjNk",
+  "snapshot_id": "MCwxMDRiN2RmMGJiNTcxMDYwNDQ0ZjU3MWRhMzI0Y2ZlOGVlOTNlNmU3",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Interloper",
+        "url": "https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc"
+      },
+      "artists": [
+        {
+          "name": "Carbon Based Lifeforms",
+          "url": "https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11"
+        }
+      ],
+      "duration_ms": 389325,
+      "name": "Interloper",
+      "url": "https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Atlas (Remixes)",
         "url": "https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 377738,
       "name": "Atlas - Adriatique Remix",
       "url": "https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Interloper",
-        "url": "https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc"
-      },
-      "artists": [
-        {
-          "name": "Carbon Based Lifeforms",
-          "url": "https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11"
-        }
-      ],
-      "duration_ms": 389325,
-      "name": "Interloper",
-      "url": "https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Arterial",
+        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
+      },
+      "artists": [
+        {
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
+        }
+      ],
+      "duration_ms": 254962,
+      "name": "Arterial",
+      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 272346,
       "name": "The Right Place (feat. Teira)",
       "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Arterial",
-        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
-      },
-      "artists": [
-        {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
-        }
-      ],
-      "duration_ms": 254962,
-      "name": "Arterial",
-      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bortz",
-          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
-        }
-      ],
-      "duration_ms": 308877,
-      "name": "Holding You",
-      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "When the Rain",
         "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 400327,
       "name": "Deep Eyes Blue Skies",
       "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bortz",
+          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
+        }
+      ],
+      "duration_ms": 308877,
+      "name": "Holding You",
+      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
     },
     {
       "added_at": "2023-06-09 18:05:35",

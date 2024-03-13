@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaivepilled
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,659 likes - 104 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,670 likes - 104 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 6 | [Don't Leave](https://open.spotify.com/track/1sRBnzf4Pc6u0gxZfLw5OT) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Don't Leave](https://open.spotify.com/album/0FNUF1V9mDJT7VKuoEdhnq) | 3:01 |
 | 7 | [I Could Be](https://open.spotify.com/track/1ZU7GUU8JcEOVHbzil5peO) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [I Could Be](https://open.spotify.com/album/7k5IlcbMDi2Txa1LvsabET) | 3:18 |
 | 8 | [riddle](https://open.spotify.com/track/6rTyxMcBKW7TzBZvzrgqgb) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [riddle/4u](https://open.spotify.com/album/7vWNUTnV86tZ7HiFx7O5Bd) | 2:24 |
-| 9 | [i don't really feel it anymore](https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i don't really feel it anymore](https://open.spotify.com/album/7hm1Kh2XVchiRA1JLPO9IS) | 2:00 |
+| 9 | [i don't really feel it anymore](https://open.spotify.com/track/2tYuG2yDiQXAUaiT43yCip) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [a bit of a mad one](https://open.spotify.com/album/7JUf3yqyB3jWomvnjnD1Gp) | 2:00 |
 | 10 | [higher](https://open.spotify.com/track/7diyCFL8chcY1REunXR18F) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [apatheater](https://open.spotify.com/artist/31MBjhC4zjwYnrNKicwTTO) | [higher](https://open.spotify.com/album/7bU6287MqRe2gtSXbwMq0b) | 2:32 |
 | 11 | [skyskysky](https://open.spotify.com/track/74ndPRenu6lTSh0xWRZ0EG) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [skyskysky](https://open.spotify.com/album/3qG21Y27grIgeNvunf72Q8) | 2:23 |
 | 12 | [I'm Really Pretty](https://open.spotify.com/track/6KEPSnOkxfrSacwxxQgB5g) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [I'm Really Pretty](https://open.spotify.com/album/6q62muJ2St1NCzwR4B5M02) | 2:43 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 30 | [Machiavellian Girls](https://open.spotify.com/track/6r9sa3Cz8qX1GkPtwalje5) | [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Machiavellian Girls](https://open.spotify.com/album/6PktAr8hlha1zY3fF0OJ8W) | 2:17 |
 | 31 | [Lavender](https://open.spotify.com/track/3Sa7PJ7ohCAEnAzLccmmfj) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Lavender](https://open.spotify.com/album/45ZJzB6Cxl4liNOyfcejQ5) | 3:03 |
 | 32 | [goreblog](https://open.spotify.com/track/3mgLzpPrgntBfYnxrPuqlP) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [bod \[包家巷\]](https://open.spotify.com/artist/1D6VOxRs2bOirIONpA4u70), [Glasear](https://open.spotify.com/artist/4KR1aSNrKFDzmNeibMzGZg) | [software gore](https://open.spotify.com/album/3lyCkGXK5OjJsUFaGhSVgf) | 2:22 |
-| 33 | [i don't really feel it anymore](https://open.spotify.com/track/49vbTCy6HYvy67dLe8ZQ5K) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i don't really feel it anymore](https://open.spotify.com/album/2TfTE74h6Tiadsm2Dj0Jbn) | 2:00 |
+| 33 | [i don't really feel it anymore](https://open.spotify.com/track/2tYuG2yDiQXAUaiT43yCip) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [a bit of a mad one](https://open.spotify.com/album/7JUf3yqyB3jWomvnjnD1Gp) | 2:00 |
 | 34 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 |
 | 35 | [Hitty](https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee) | [Hitty](https://open.spotify.com/album/0Fw4C3r8IHnIvSoUJqeXHB) | 2:56 |
 | 36 | [One Mile at a Time](https://open.spotify.com/track/0RERxLbgUk0GzpdQOLNduB) | [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp), [Sergina](https://open.spotify.com/artist/1mtwR4TyjROOCPYduXKpe5) | [One Mile at a Time](https://open.spotify.com/album/1yvnbSEQSquw1JkGfRoSTI) | 2:52 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 103 | [Every Summer](https://open.spotify.com/track/1lz2s7GiXZcMypSpMCkjmJ) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Nation](https://open.spotify.com/artist/03D2b6ATNCne8B3D251ncQ), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Every Summer](https://open.spotify.com/album/1HZWU6NhcwXiOu2Ki01kfm) | 1:51 |
 | 104 | [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Under my Bed](https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB) | 2:04 |
 
-Snapshot ID: `MCxmZTA4NGM4MDVkNmY5ZDAxODc0ZGIyZTZkOTc5NDY0MmFiODliM2E0`
+Snapshot ID: `MCwyNDc1ODVkYTRlNzc2ZjA3ZjM2YWUzYzRjOGI1NDdlN2E0ZmZiMjc2`

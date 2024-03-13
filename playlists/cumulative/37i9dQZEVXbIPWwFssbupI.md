@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,755 songs - 3 day 20 hr 52 min
+1,756 songs - 3 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [11H \(feat\. Ninho\)](https://open.spotify.com/track/5Qbd9YziMwiyLELt3cGSf5) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Rookie](https://open.spotify.com/album/2uBDE2RlFbAZwxDICMtE2O) | 3:00 | 2022-03-12 | 2022-03-21 |
 | [140G](https://open.spotify.com/track/61t1k1kGqdDWz6Ln1ShdWO) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:02 | 2021-11-07 | 2021-11-14 |
 | [16.02.2024](https://open.spotify.com/track/0SkiGBVxYb9mXgRHA1en1S) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [16.02.2024](https://open.spotify.com/album/49FeqwMb91zT98HSGK2ezh) | 2:49 | 2024-02-08 | 2024-02-18 |
-| [16.02.2024](https://open.spotify.com/track/2wiausDIwDizPtRdtE9rqj) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 2:49 | 2024-02-17 |  |
+| [16.02.2024](https://open.spotify.com/track/2wiausDIwDizPtRdtE9rqj) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 2:49 | 2024-02-17 | 2024-03-13 |
 | [17%](https://open.spotify.com/track/4Pqh6V967VGBSIxvy3EQik) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:42 | 2021-09-19 | 2021-10-02 |
 | [187 mesures \(feat\. Ninho\)](https://open.spotify.com/track/46TdVjDXpTKcPqsHItxDKn) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 3:26 | 2023-10-21 | 2023-10-23 |
 | [1ntro'p](https://open.spotify.com/track/3BHtZgssaXNil9uATzw76o) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:31 | 2022-05-28 | 2022-05-30 |
@@ -537,6 +537,7 @@
 | [Encore](https://open.spotify.com/track/3AWFZCTtJ225g6GZl12ToZ) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:35 | 2022-06-11 | 2022-06-18 |
 | [ENCORE LES PROBLÈMES](https://open.spotify.com/track/0XZSX2sk2SkyRrGZ3h3vKH) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [BON COURAGE](https://open.spotify.com/album/2E1Y3j0l33CwrOp5kc8qx5) | 3:04 | 2024-02-24 | 2024-03-02 |
 | [Encore une fois \(Maman\)](https://open.spotify.com/track/3fWhjGSW3jCVL6uLfl6Qlm) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 3:34 | 2022-10-01 | 2022-10-08 |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-12 |  |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-06-11 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-11-17 | 2022-02-06 |
 | [Ensemble](https://open.spotify.com/track/64mVjYpiuyDCNu2FcPsium) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Skread](https://open.spotify.com/artist/6BbceEVcjow8mhQPYK3eBK) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 4:43 | 2021-11-21 | 2021-12-05 |

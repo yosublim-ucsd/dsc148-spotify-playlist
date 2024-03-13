@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Mickey Guyton, Brian Kelley, Chris Young and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,215 likes - 69 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,288 likes - 69 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 68 | [By Heart](https://open.spotify.com/track/1fgZpbJqckVxYDGEYfhLlj) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [By Heart](https://open.spotify.com/album/4pAZIfz8RX07s3qLEj3ckr) | 2:30 |
 | 69 | [Back When](https://open.spotify.com/track/7kkpeq1dLp13HE7tcurmK0) | [Adam Warner](https://open.spotify.com/artist/7GeWZ4fFWxsApoLFcFC5zK) | [Back When](https://open.spotify.com/album/41sEUM9EfzxhiCNLDiCGNz) | 2:43 |
 
-Snapshot ID: `MCw0MjljYTkzMzBlYWZmMjU2NGIzNjJhMjcyNzFkZDlhZWZhNzBiYWIz`
+Snapshot ID: `MCw0NjIwZDBiYzFmYzRhMmYwODg1NDNmNjViODE0ZWIzM2M4MzQ2N2E0`

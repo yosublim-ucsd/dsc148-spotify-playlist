@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,704,733 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,704,965 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 60 | [Paradox](https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Paradox](https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy) | 3:30 |
 | 61 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 |
 | 62 | [Do You Feel The Same? \- OCULA Remix](https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Do You Feel The Same? \(OCULA Remix\)](https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L) | 3:52 |
-| 63 | [Waiting All My Life](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Waiting All My Life](https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O) | 3:13 |
-| 64 | [Down](https://open.spotify.com/track/3o3OvVUrJeRefep6zMDpH7) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [MidnightSun](https://open.spotify.com/artist/7LvDaiMjUn5YgZPX3MEwf1) | [Down](https://open.spotify.com/album/5W23C2gErmU9mf8BHEPdhr) | 3:14 |
+| 63 | [Down](https://open.spotify.com/track/3o3OvVUrJeRefep6zMDpH7) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [MidnightSun](https://open.spotify.com/artist/7LvDaiMjUn5YgZPX3MEwf1) | [Down](https://open.spotify.com/album/5W23C2gErmU9mf8BHEPdhr) | 3:14 |
+| 64 | [Waiting All My Life](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Waiting All My Life](https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O) | 3:13 |
 | 65 | [Loving Blind](https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl) | [Sam Wiseman](https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr), [ANDREWBATES](https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv) | [Loving Blind](https://open.spotify.com/album/2XvypO5sCalte148ttpNPI) | 3:36 |
 | 66 | [Running In A Dream](https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Running In A Dream](https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x) | 4:29 |
 | 67 | [DESCEND](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [DESCEND](https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY) | 3:40 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 95 | [Remedy](https://open.spotify.com/track/11CnwxdRxrHNYDCVT6npaz) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Remedy](https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y) | 3:45 |
 | 96 | [Back to You \(Amtrac Remix\)](https://open.spotify.com/track/2gzWtnslb715DPDTlJ5NSi) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Back to You \(Amtrac Remix\)](https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9) | 4:37 |
 | 97 | [Rave](https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Rave](https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG) | 4:48 |
-| 98 | [Company](https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Company](https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP) | 2:42 |
-| 99 | [Lost In The Melody](https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Lost In The Melody](https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj) | 3:02 |
+| 98 | [Lost In The Melody](https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Lost In The Melody](https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj) | 3:02 |
+| 99 | [Company](https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Company](https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP) | 2:42 |
 | 100 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 |
 
-Snapshot ID: `MCxmYmJiMDBiMDRlMTI3NGMzYzEwZDRmMzgxZTk0YjU5MTkyNzhmNDZl`
+Snapshot ID: `MCxhM2MzNjkzZGI2NDM1NTk2ODhlMDFhNzZmOGIxZDkxMWIwYWQ2YmVk`

@@ -186,10 +186,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 243960,
       "name": "A Plena Luz",
       "url": "https://open.spotify.com/track/0H065bXKlwjfxR3YMnqsl2"
+    },
+    {
+      "album": {
+        "name": "A Plena Luz",
+        "url": "https://open.spotify.com/album/6VwAWsG645RDwQQ3BGTvcx"
+      },
+      "artists": [
+        {
+          "name": "Mariana Vega",
+          "url": "https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243960,
+      "name": "A Plena Luz",
+      "url": "https://open.spotify.com/track/3VFPbZ5c8M44S8x9dzXnLy"
     },
     {
       "album": {
@@ -1108,6 +1126,24 @@
     {
       "album": {
         "name": "Dime Si Hay Algo",
+        "url": "https://open.spotify.com/album/7IckMsQqMkoc70tL61rIMb"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160691,
+      "name": "Dime Si Hay Algo",
+      "url": "https://open.spotify.com/track/01Pj5LzkZ3BFA3JilDeG5I"
+    },
+    {
+      "album": {
+        "name": "Dime Si Hay Algo",
         "url": "https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz"
       },
       "artists": [
@@ -1118,7 +1154,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 160691,
       "name": "Dime Si Hay Algo",
       "url": "https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez"
@@ -2896,6 +2932,24 @@
     {
       "album": {
         "name": "Sentado",
+        "url": "https://open.spotify.com/album/0mBT1lURNXsGEWMwHoHWj5"
+      },
+      "artists": [
+        {
+          "name": "Mariana Vega",
+          "url": "https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208050,
+      "name": "Sentado",
+      "url": "https://open.spotify.com/track/08YVPOSgJDIYznQ9jL8ord"
+    },
+    {
+      "album": {
+        "name": "Sentado",
         "url": "https://open.spotify.com/album/37d5zTOOBf6a8AGOQJLdhL"
       },
       "artists": [
@@ -2906,7 +2960,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 208050,
       "name": "Sentado",
       "url": "https://open.spotify.com/track/7lD6RFjjaqbaN1qOu4e07g"
@@ -3294,6 +3348,32 @@
     {
       "album": {
         "name": "The Enchanted Carol (Carol of the Bells)",
+        "url": "https://open.spotify.com/album/3731wuA3WCaZhfzuqkXy75"
+      },
+      "artists": [
+        {
+          "name": "Julio Reyes Copello",
+          "url": "https://open.spotify.com/artist/4wiFB5EMgEc4sSgc1VANgc"
+        },
+        {
+          "name": "Lola Astanova",
+          "url": "https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf"
+        },
+        {
+          "name": "Loris Cimino",
+          "url": "https://open.spotify.com/artist/201Hzoik31VdWqPl2sZVDY"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187093,
+      "name": "The Enchanted Carol (Carol of the Bells)",
+      "url": "https://open.spotify.com/track/5Xk3yRKBX3inUkRIz5whSk"
+    },
+    {
+      "album": {
+        "name": "The Enchanted Carol (Carol of the Bells)",
         "url": "https://open.spotify.com/album/3oxNpMIIlibXjmi7EZBskJ"
       },
       "artists": [
@@ -3304,7 +3384,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 187093,
       "name": "The Enchanted Carol (Carol of the Bells)",
       "url": "https://open.spotify.com/track/3tZTh6f27UzbXNtBbrHZdb"

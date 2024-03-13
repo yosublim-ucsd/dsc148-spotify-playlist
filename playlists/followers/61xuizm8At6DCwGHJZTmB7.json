@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 117318,
+  "2024-03-13": 117323,
   "date_first_scraped": "2022-03-01",
   "description": "Celebrate Easter season with your favorite worship songs of 2024. Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! ",
   "name": "Worship 2024",
@@ -2073,7 +2073,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 271771,
       "name": "Fall Like Rain - Live From LIFT: Creative Conference",
       "url": "https://open.spotify.com/track/6MK94qHfqRZBK1EDmlHEu9"
@@ -2099,6 +2099,32 @@
       "duration_ms": 516651,
       "name": "Fall Like Rain - Live From Passion 2023",
       "url": "https://open.spotify.com/track/6YiUx9yyiJCjdMuxP5lkzR"
+    },
+    {
+      "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415768,
+      "name": "Fall Like Rain - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/1e1HPM8FnWNSzap6ZI6s4f"
     },
     {
       "album": {

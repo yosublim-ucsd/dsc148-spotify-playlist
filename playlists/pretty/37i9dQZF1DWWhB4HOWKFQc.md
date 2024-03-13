@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Juan Caoile, Kyleswish, Jawz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,321 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,798 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 75 | [Selesaikan Masa Lalumu Dulu](https://open.spotify.com/track/2o0zyc2cQ3gWXsBVpSl6Cn) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Selesaikan Masa Lalumu Dulu](https://open.spotify.com/album/390vXz4rdJ0dgs8gMEkwZR) | 1:57 |
 
-Snapshot ID: `MCwwYTk2Yjk1NmY3YWJkNTQ2OTg0NTY0YjgzMzA4OTA2Mzg3N2ZmMDg3`
+Snapshot ID: `MCxkZjAyY2JmMGVjOGY4NmQ4ZjU5YjdmYzQ5ZWEyOGJlN2EyOGZjYWU1`

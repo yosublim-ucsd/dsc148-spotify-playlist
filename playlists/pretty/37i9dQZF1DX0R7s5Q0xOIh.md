@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,919 likes - 333 songs - 21 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,916 likes - 333 songs - 21 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 14 | [Para de Mentir](https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Para de Mentir](https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ) | 4:14 |
 | 15 | [Se Você Quiser](https://open.spotify.com/track/7h9BkPljkGtZ7I0zD5PEcY) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Se Você Quiser](https://open.spotify.com/album/7McFtJZ23IFeIlKFLLJJGx) | 2:34 |
 | 16 | [A Música da Mãe](https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [A Música da Mãe](https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp) | 3:38 |
-| 17 | [01 do R](https://open.spotify.com/track/6WCQ1iqSpINA9z94WcFy69) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [01 do R](https://open.spotify.com/album/5Zb0dGzz4RF4jJjYR22RY3) | 2:09 |
+| 17 | [01 do R](https://open.spotify.com/track/6he1ImSHv8jQ4NusPBCbR5) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 2:09 |
 | 18 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
 | 19 | [I Feel Vinho](https://open.spotify.com/track/76fuj0ast41YzXxc6uW2dN) | [Bonde do Vinho](https://open.spotify.com/artist/2K2G4HNVB71Iw86m90aJWS) | [Só Tem Moleque Bom](https://open.spotify.com/album/7q8Gno3GQ0RkzeK28LA7T5) | 2:51 |
 | 20 | [Levo Comigo](https://open.spotify.com/track/6BcqNZ7D3gI0ALivZMAvux) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Restart](https://open.spotify.com/album/6IqdfOX19OBSSxNTTRA5kg) | 3:26 |
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 332 | [Raridade](https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:57 |
 | 333 | [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
 
-Snapshot ID: `MCwzMGMxOGU1ODM0ZDA5ZTFjOTVlYjg0Y2YyMmNlMDExZGQwYzcwNzg0`
+Snapshot ID: `MCw1M2NmZWVjZGI4MGRhMTg3NjI0NjNiNGY3MTU0ZWZlNTMyNjNmZTU5`

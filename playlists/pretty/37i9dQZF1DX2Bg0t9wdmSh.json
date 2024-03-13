@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 10320,
+  "num_followers": 10334,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjBmNGFmNjVhY2ZlYWVjNTgyOTFlOGYzZTgyYTYyMjA1MDVmOTlk",
+  "snapshot_id": "MCwzZjhmOWY1M2NmYTJiMDc4OWM3MDRjNDk5Y2ExZGE5ZTU5ZGVmZmIx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Crazy Story",
+        "url": "https://open.spotify.com/album/4zqveS8bJzUZEz7TeNv6R1"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "Crazy Story",
+      "url": "https://open.spotify.com/track/4eYrjXGlDycrqg7a0Wgwed"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 189496,
       "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Crazy Story",
-        "url": "https://open.spotify.com/album/4zqveS8bJzUZEz7TeNv6R1"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "Crazy Story",
-      "url": "https://open.spotify.com/track/4eYrjXGlDycrqg7a0Wgwed"
     },
     {
       "added_at": "2022-10-01 16:09:56",

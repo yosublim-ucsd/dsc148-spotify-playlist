@@ -96,10 +96,36 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 378466,
       "name": "Can't Hold Us Down",
       "url": "https://open.spotify.com/track/4l6CWRDyGu7mw3UEXXUtls"
+    },
+    {
+      "album": {
+        "name": "Can't Hold Us Down (Radio Edit)",
+        "url": "https://open.spotify.com/album/449u7MFM3cjJaydS6jdTYX"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "Can't Hold Us Down - Radio Edit",
+      "url": "https://open.spotify.com/track/5YRXKax3NpUA2SDdRyWXkM"
     },
     {
       "album": {
@@ -325,6 +351,54 @@
     },
     {
       "album": {
+        "name": "I Love You (CID Remix)",
+        "url": "https://open.spotify.com/album/23cJBxx1WN89hFUkCu2xUl"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156253,
+      "name": "I Love You - CID Remix",
+      "url": "https://open.spotify.com/track/5GrUWIm6FMdtqaLYTqW5yh"
+    },
+    {
+      "album": {
+        "name": "I Love You (Stripped)",
+        "url": "https://open.spotify.com/album/189C1T2Yoi63aTiU48Wq9P"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209836,
+      "name": "I Love You - Stripped",
+      "url": "https://open.spotify.com/track/3meBf7nEux8Boxs56j9Lre"
+    },
+    {
+      "album": {
         "name": "It Gets Better",
         "url": "https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6"
       },
@@ -402,6 +476,28 @@
       "duration_ms": 183950,
       "name": "More Than You Know - Acoustic",
       "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
+    },
+    {
+      "album": {
+        "name": "More Than You Know (Remixes)",
+        "url": "https://open.spotify.com/album/62x8pMAUKzHxaLxPksOQRG"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "AtellaGali",
+          "url": "https://open.spotify.com/artist/64kJmYlYPeykl8UgCGLbFp"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222388,
+      "name": "More Than You Know - AtellaGali Remix",
+      "url": "https://open.spotify.com/track/0XLCJ4rpuXHyt028YwXKzi"
     },
     {
       "album": {
@@ -497,6 +593,28 @@
     },
     {
       "album": {
+        "name": "Something New (Amtrac Remix)",
+        "url": "https://open.spotify.com/album/41Z3ylkZKoqnZivz04tYcl"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300880,
+      "name": "Something New - Amtrac Remix",
+      "url": "https://open.spotify.com/track/2a2gqf1e45NnlkoGdngoAF"
+    },
+    {
+      "album": {
         "name": "Something New (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/4RnEu3DxwR582B3f1FV1gB"
       },
@@ -568,6 +686,28 @@
       "duration_ms": 204586,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/6smhpAoDKenJyDztNHf0HH"
+    },
+    {
+      "album": {
+        "name": "Thinking About You (Remixes)",
+        "url": "https://open.spotify.com/album/6ymLMUAOFVrqmrTZRWOhON"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206795,
+      "name": "Thinking About You - DubVision Remix",
+      "url": "https://open.spotify.com/track/26K3JmzMFe3XxlqMWalJGp"
     },
     {
       "album": {

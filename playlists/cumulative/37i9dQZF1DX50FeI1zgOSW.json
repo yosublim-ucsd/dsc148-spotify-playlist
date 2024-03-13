@@ -1689,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "Kadhal Senji Kolladha",
+        "url": "https://open.spotify.com/album/6J9g9xpp9OslxNGKQK7eln"
+      },
+      "artists": [
+        {
+          "name": "Narendra Prasath",
+          "url": "https://open.spotify.com/artist/4jQB0BmkEr9rvu8PRTSaPD"
+        },
+        {
+          "name": "Manikandan murali",
+          "url": "https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124420,
+      "name": "Kadhal Senji Kolladha",
+      "url": "https://open.spotify.com/track/7mAAlQ3YADc93Jp22vMZQq"
+    },
+    {
+      "album": {
         "name": "Kadhal Thorkum Nerame",
         "url": "https://open.spotify.com/album/6BsSeSmxL81oaNfawnekfz"
       },
@@ -5188,7 +5210,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 213721,
       "name": "Yarumillai",
       "url": "https://open.spotify.com/track/3AAwye5jD5qVfE1ybv8sg2"

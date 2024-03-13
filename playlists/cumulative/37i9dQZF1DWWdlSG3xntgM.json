@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 339200,
       "name": "Hoa L\u00f2ng Anh V\u1eabn T\u00edm",
       "url": "https://open.spotify.com/track/1Oza0WjJTZarmRU1nfpyQ1"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 252160,
       "name": "M\u00f9a Xu\u00e2n \u0110\u00f3 C\u00f3 Em",
       "url": "https://open.spotify.com/track/5upOJADeXfN0FDRQcIbYfm"
@@ -2244,7 +2244,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 302720,
       "name": "M\u1ed9t Chuy\u1ebfn Bay \u0110\u00eam",
       "url": "https://open.spotify.com/track/6CEl4O8bguLuj9Rgvhy2uv"
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 321760,
       "name": "M\u1ed9t ng\u01b0\u1eddi \u0111i",
       "url": "https://open.spotify.com/track/5l2aK6ogZ7qHDrxZDOqm0V"
@@ -2382,6 +2382,24 @@
       "duration_ms": 276080,
       "name": "Nguoi Ngoai Pho",
       "url": "https://open.spotify.com/track/7ctjDZ8vqfFvZj26wGM2Ll"
+    },
+    {
+      "album": {
+        "name": "Ng\u01b0\u1eddi Mang T\u00e2m S\u1ef1",
+        "url": "https://open.spotify.com/album/1LULpv1alFFo8RP1aBAd8L"
+      },
+      "artists": [
+        {
+          "name": "Tr\u01b0\u1eddng V\u0169",
+          "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324769,
+      "name": "Ng\u00e0y Bu\u1ed3n",
+      "url": "https://open.spotify.com/track/5Ab3ZKWVr25rmJjEeFiksR"
     },
     {
       "album": {
@@ -2640,13 +2658,13 @@
       },
       "artists": [
         {
-          "name": "Duy Khanh",
+          "name": "Duy Kh\u00e1nh",
           "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
         }
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 326114,
       "name": "Nh\u1eefng ng\u00e0y x\u01b0a th\u00e2n \u00e1i",
       "url": "https://open.spotify.com/track/065m5SgiXmlREci47MZaLG"
@@ -3193,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Ti\u1ebfng H\u00e1t Ph\u01b0\u01a1ng Th\u1ee7y",
+        "url": "https://open.spotify.com/album/399efcxa6ciCAuNenqs422"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Th\u00f9y",
+          "url": "https://open.spotify.com/artist/4apZlWGGA1dF1xiOGCbFKJ"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327784,
+      "name": "Ph\u00fat Cu\u1ed1i",
+      "url": "https://open.spotify.com/track/2BRpOQqVyiQUKQhRbI4Oqi"
+    },
+    {
+      "album": {
         "name": "Ph\u1eadn Em M\u1ed9t N\u1eeda Y\u00eau Th\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/0wBRxUTY7BoYz0MklrZyaF"
       },
@@ -3262,6 +3298,24 @@
       "duration_ms": 303893,
       "name": "Qua C\u01a1n M\u00ea",
       "url": "https://open.spotify.com/track/0bjODEyw6tUCWIP7uDZ7Gt"
+    },
+    {
+      "album": {
+        "name": "Em s\u1eafp v\u1ec1 ch\u01b0a - Giao Linh - Tu\u1ea5n V\u0169",
+        "url": "https://open.spotify.com/album/3oknZfj9o9ItCsudi58zMr"
+      },
+      "artists": [
+        {
+          "name": "Giao Linh",
+          "url": "https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348506,
+      "name": "Qua c\u01a1n m\u00ea",
+      "url": "https://open.spotify.com/track/7smrOkkqEjdFAL503JQCAT"
     },
     {
       "album": {
@@ -3348,7 +3402,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 262293,
       "name": "R\u1eebng L\u00e1 Thay Ch\u01b0a",
       "url": "https://open.spotify.com/track/7jt1FclI6lJPXhrBASn7eV"
@@ -4232,7 +4286,7 @@
       },
       "artists": [
         {
-          "name": "Huynh Phi Tien",
+          "name": "Hu\u1ef3nh Phi Ti\u1ec5n",
           "url": "https://open.spotify.com/artist/7an9uvbh1rC2bflIvcwRRL"
         },
         {
@@ -4242,7 +4296,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 425994,
       "name": "T\u1ea1 T\u1eeb Trong \u0110\u00eam",
       "url": "https://open.spotify.com/track/7J1Np3eRmXmLAbzVadZewG"
@@ -4748,7 +4802,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 371439,
       "name": "Y\u00eau m\u1ed9t m\u00ecnh",
       "url": "https://open.spotify.com/track/7ju9dhnAVo6w390RSORCf7"
@@ -5010,7 +5064,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 310200,
       "name": "\u0110\u1eebng n\u00f3i xa nhau",
       "url": "https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk"

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,141 songs - 1 day 19 hr 17 min
+1,142 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Dewdrop Lemonade](https://open.spotify.com/track/4SKRNfT7WI73MJho3suqYl) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Dewdrop Lemonade](https://open.spotify.com/album/1sn5fGZMA3XAEp7rSv9GMY) | 3:26 | 2021-11-10 | 2023-01-20 |
 | [Di Vibes](https://open.spotify.com/track/6IJnra0kE1vmJACs3i6ndb) | [Mixtus](https://open.spotify.com/artist/2iAb3BfKnswIVev8Z9BpR3) | [Di Vibes](https://open.spotify.com/album/1DBVUgN89KxsMi9bJ7qMFT) | 2:21 | 2021-11-10 | 2022-10-29 |
 | [digital world](https://open.spotify.com/track/3sH7hXm0s9RNht0UCqsx6n) | [Soiboi](https://open.spotify.com/artist/7oauQAwO8Y8EDxNJY0xqeQ) | [Paradise Winds](https://open.spotify.com/album/4DgY9ntwAIqoDzfx6sdwIK) | 2:23 | 2022-08-12 | 2023-10-06 |
-| [Dimensions](https://open.spotify.com/track/2VKqelsvqtcpX7QTEJheVV) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Dimensions](https://open.spotify.com/album/65Nfg0mJNJvwQz1ktVtw5x) | 1:49 | 2024-03-08 |  |
+| [Dimensions](https://open.spotify.com/track/2VKqelsvqtcpX7QTEJheVV) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Dimensions](https://open.spotify.com/album/65Nfg0mJNJvwQz1ktVtw5x) | 1:49 | 2024-03-08 | 2024-03-13 |
 | [Dimmed Light](https://open.spotify.com/track/4Xj4BPnbmN1f7wuvyTJ0i0) | [Alisen](https://open.spotify.com/artist/3owqdrnhrd1s5lKXMQ9Utp) | [Dimmed Light](https://open.spotify.com/album/0XJmpzBbigJxsbD8chAzWE) | 1:20 | 2021-11-10 | 2022-04-08 |
 | [Dinner is Ready](https://open.spotify.com/track/0QIlgmnJBsd6zkH9u7MEcX) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98) | [Dinner is Ready](https://open.spotify.com/album/3kPBeasLZztiyyCPZ9l9wO) | 2:27 | 2021-11-10 | 2022-10-15 |
 | [Dinner’s Served](https://open.spotify.com/track/0nASctIkaEfub4pypuF2W8) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Dinner’s Served](https://open.spotify.com/album/5ezQJJXz3PlzEEA3Bn7Thz) | 1:20 | 2021-11-10 | 2022-04-08 |
@@ -1140,6 +1140,7 @@
 | [with you](https://open.spotify.com/track/2FQeoy9i7ZQsFrXEdIq0t3) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [foggy afternoons](https://open.spotify.com/album/3VWXOXYNIiomNfJREmxUMf) | 2:58 | 2021-11-10 | 2023-03-02 |
 | [With You](https://open.spotify.com/track/7qDyjfFzulUll3Lg5Ps6N2) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [With You](https://open.spotify.com/album/5vuTlh4xu8FaGAW5jqCPVy) | 1:57 | 2022-07-15 | 2022-07-22 |
 | [Wonder](https://open.spotify.com/track/6iK2WrascfMDaM8uxZNoF9) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Wonder](https://open.spotify.com/album/27URh3zTFrVKbjf6QTtox1) | 2:26 | 2022-04-08 | 2022-12-10 |
+| [Wonders](https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe) | [Moon Spirit](https://open.spotify.com/artist/62zKB6KmehKNRoyd8YgNwE) | [Wonders](https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW) | 2:43 | 2024-03-08 |  |
 | [Write to Me](https://open.spotify.com/track/7rqyiacNfGMtQVtGS8V3as) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Write to Me](https://open.spotify.com/album/5GAK1Nu1e0n1pzFtuIuzwz) | 2:03 | 2023-02-07 |  |
 | [Writing On The Wall](https://open.spotify.com/track/6zwn1cdZtB10QfDc21ZM7I) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Writing On The Wall](https://open.spotify.com/album/6uwKTvXEH4LxPmnBnEr4z1) | 1:19 | 2022-11-11 |  |
 | [Wrong Way](https://open.spotify.com/track/6h1jOLfFENC9LBHl2LYJX5) | [The Way It Izz](https://open.spotify.com/artist/1W9e3cxPdsJLicuvQUP3av) | [Wrong Way](https://open.spotify.com/album/0OwVFMWVqaUWYAW1Ct81ti) | 2:59 | 2021-11-10 | 2022-06-03 |

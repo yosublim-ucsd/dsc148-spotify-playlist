@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Robot95 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,987 likes - 101 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,008 likes - 101 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 100 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 |
 | 101 | [Ladrillo Y Cemento](https://open.spotify.com/track/5wtHUpXijyXyaeND3HMfF6) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ladrillo Y Cemento](https://open.spotify.com/album/7KIMyaLAOtuJeONkhnK3zm) | 4:10 |
 
-Snapshot ID: `MCxmZTY4MmM3NTJlZDE3MjJhMjBmYjgxMzNhYmY3NDQwNDY5NTNmMDgx`
+Snapshot ID: `MCw5Zjg5OTE2ZTM1MmM4NTdjOWQ1ZmFhN2M5N2YzODE0YmE4YzJhOWI1`

@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 114905,
+  "num_followers": 114942,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmVmMWY5OGNjYjQwOGU2ZWZiN2YyYmJmYTMzNWNhOGVlNTQ2NzRi",
+  "snapshot_id": "MCwyOWEyMzljZmY2MzYxODg5NzFmYjI0NDYxNmIwNGMyY2E4ZTE1MzE3",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Ragga War II - Retro",
-        "url": "https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM"
-      },
-      "artists": [
-        {
-          "name": "Gaby",
-          "url": "https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k"
-        }
-      ],
-      "duration_ms": 221088,
-      "name": "El Meneaito (Panama)",
-      "url": "https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "A Mover el Culo Con el Chombo",
         "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 190693,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Ragga War II - Retro",
+        "url": "https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM"
+      },
+      "artists": [
+        {
+          "name": "Gaby",
+          "url": "https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k"
+        }
+      ],
+      "duration_ms": 221088,
+      "name": "El Meneaito (Panama)",
+      "url": "https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -775,6 +775,38 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Fatal Fantassy",
+        "url": "https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo"
+      },
+      "artists": [
+        {
+          "name": "Dj Joe",
+          "url": "https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN"
+        }
+      ],
+      "duration_ms": 172434,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+      },
+      "artists": [
+        {
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+        }
+      ],
+      "duration_ms": 123621,
+      "name": "Brutalidad",
+      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -796,29 +828,13 @@
       },
       "artists": [
         {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+          "name": "Frankie Boy",
+          "url": "https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN"
         }
       ],
-      "duration_ms": 123621,
-      "name": "Brutalidad",
-      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Fatal Fantassy",
-        "url": "https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo"
-      },
-      "artists": [
-        {
-          "name": "Dj Joe",
-          "url": "https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN"
-        }
-      ],
-      "duration_ms": 172434,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB"
+      "duration_ms": 101632,
+      "name": "Liza Love",
+      "url": "https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -839,22 +855,6 @@
       "duration_ms": 190589,
       "name": "Luna y Estrellas",
       "url": "https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
-      },
-      "artists": [
-        {
-          "name": "Frankie Boy",
-          "url": "https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN"
-        }
-      ],
-      "duration_ms": 101632,
-      "name": "Liza Love",
-      "url": "https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR"
     },
     {
       "added_at": "2021-12-20 17:02:25",

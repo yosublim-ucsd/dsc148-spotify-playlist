@@ -4,7 +4,7 @@
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-97 songs - 5 hr 49 min
+98 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Param Sundari](https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mimi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z) | 3:20 | 2023-03-08 |  |
 | [Party All Night](https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Boss](https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep) | 4:42 | 2024-03-01 |  |
 | [Rang Barse Bheege Chunarwali \(Remix\)](https://open.spotify.com/track/1Sbj2Uv7QLw1oipMzKvWdC) | [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR), [DJ Harshit Shah](https://open.spotify.com/artist/2tj8mpAYuA0p3XjIUhviMG), [DJ MHD IND](https://open.spotify.com/artist/2YpNsPpoWV4shQrSGbJtrd) | [Rang Barse \(Holi Party Mix\)](https://open.spotify.com/album/4wOvNqTZNWjGK7ZDeUo1dC) | 2:06 | 2023-03-08 |  |
-| [Rang Barse X Yaaron Waali Baat](https://open.spotify.com/track/4jtlwyaCAQFBunyLtHETHA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Rang Barse X Yaaron Waali Baat](https://open.spotify.com/album/0JWlNxkS7Kyh6zvPDllqWQ) | 1:30 | 2024-03-11 |  |
+| [Rang Barse X Yaaron Waali Baat](https://open.spotify.com/track/4LTgRVWWKIO9XGlDnucMEM) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Rang Barse X Yaaron Waali Baat](https://open.spotify.com/album/3LVH2awYRqHDc1KO1l9hQX) | 1:30 | 2024-03-11 |  |
+| [Rang Barse X Yaaron Waali Baat](https://open.spotify.com/track/4jtlwyaCAQFBunyLtHETHA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Rang Barse X Yaaron Waali Baat](https://open.spotify.com/album/0JWlNxkS7Kyh6zvPDllqWQ) | 1:30 | 2024-03-11 | 2024-03-13 |
 | [Rangreza](https://open.spotify.com/track/5BGyJSBOyqrGVumF7xRm5P) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Rangreza](https://open.spotify.com/album/0NslXfSYAk7L8gKev8VIJj) | 2:18 | 2023-03-08 | 2023-05-24 |
 | [Sau Tarah Ke](https://open.spotify.com/track/54SQet8YMttOgTqDNGcGpe) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU) | [Dishoom](https://open.spotify.com/album/6DtMXD2zJumu3R2e54OVKT) | 3:58 | 2024-03-01 |  |
 | [Sawan Mein Lag Gayi Aag](https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Ginny Weds Sunny \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC) | 3:46 | 2023-03-08 |  |

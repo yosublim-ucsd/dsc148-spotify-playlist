@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Caray",
+        "url": "https://open.spotify.com/album/610F8o3nDMsr5X1PRyxU9Y"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Navarro",
+          "url": "https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179706,
+      "name": "Qu\u00e9 Caray",
+      "url": "https://open.spotify.com/track/1j6Lcd5PAnofiBTRFpOaoF"
+    },
+    {
+      "album": {
         "name": "Salud Por Eso",
         "url": "https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR"
       },

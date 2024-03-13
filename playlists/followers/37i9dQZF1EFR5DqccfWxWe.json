@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 250,
+  "2024-03-13": 250,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la\">Julio Reyes</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Julio Reyes",
@@ -541,6 +541,24 @@
     {
       "album": {
         "name": "Soulmade",
+        "url": "https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6"
+      },
+      "artists": [
+        {
+          "name": "Iris Muller",
+          "url": "https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289074,
+      "name": "Beings of Light",
+      "url": "https://open.spotify.com/track/3iyy5c0ccXUtWcduANWthp"
+    },
+    {
+      "album": {
+        "name": "Soulmade",
         "url": "https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg"
       },
       "artists": [
@@ -551,7 +569,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 289074,
       "name": "Beings of Light",
       "url": "https://open.spotify.com/track/7sKwEMiicg8E2GFjWdAFxh"
@@ -1405,6 +1423,24 @@
     {
       "album": {
         "name": "Soulmade",
+        "url": "https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6"
+      },
+      "artists": [
+        {
+          "name": "Iris Muller",
+          "url": "https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303194,
+      "name": "Eternal Love",
+      "url": "https://open.spotify.com/track/1XUHYElRnFccCKhjwuJP6F"
+    },
+    {
+      "album": {
+        "name": "Soulmade",
         "url": "https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg"
       },
       "artists": [
@@ -1415,7 +1451,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 303194,
       "name": "Eternal Love",
       "url": "https://open.spotify.com/track/4GUQAABjI1c4XbRXo8wFL5"
@@ -1597,6 +1633,24 @@
     {
       "album": {
         "name": "Soulmade",
+        "url": "https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6"
+      },
+      "artists": [
+        {
+          "name": "Iris Muller",
+          "url": "https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176909,
+      "name": "Gypsysoul",
+      "url": "https://open.spotify.com/track/0YMi1kByvBk8r2ex5BE1Dc"
+    },
+    {
+      "album": {
+        "name": "Soulmade",
         "url": "https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg"
       },
       "artists": [
@@ -1607,7 +1661,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 176909,
       "name": "Gypsysoul",
       "url": "https://open.spotify.com/track/3aY8pQdQ0x5637cKL0STwk"
@@ -2211,10 +2265,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 225257,
       "name": "Make a Choice",
       "url": "https://open.spotify.com/track/5Be0V4OFPWDE4ea8FFx8tB"
+    },
+    {
+      "album": {
+        "name": "Soulmade",
+        "url": "https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6"
+      },
+      "artists": [
+        {
+          "name": "Iris Muller",
+          "url": "https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225257,
+      "name": "Make a Choice",
+      "url": "https://open.spotify.com/track/6HN6ahqgNMNql59e6dCWIo"
     },
     {
       "album": {
@@ -2947,10 +3019,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 230112,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/4Y4k5kHmpTGaQXqiYweFtX"
+    },
+    {
+      "album": {
+        "name": "Soulmade",
+        "url": "https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6"
+      },
+      "artists": [
+        {
+          "name": "Iris Muller",
+          "url": "https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230112,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/5uEDLPPuiMgpHX8M5ZW2mw"
     },
     {
       "album": {
@@ -3469,10 +3559,28 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 459459,
       "name": "Wake up Meditation (Awakening)",
       "url": "https://open.spotify.com/track/2Bvq5au2I9Lw8HcbCmvq9g"
+    },
+    {
+      "album": {
+        "name": "Soulmade: Meditations",
+        "url": "https://open.spotify.com/album/5KjkyFZZx2aef3tQKx3aUA"
+      },
+      "artists": [
+        {
+          "name": "Iris Muller",
+          "url": "https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459459,
+      "name": "Wake Up Meditation (Awakening)",
+      "url": "https://open.spotify.com/track/6xbuPg8yajxrZMU7bCT4H0"
     },
     {
       "album": {

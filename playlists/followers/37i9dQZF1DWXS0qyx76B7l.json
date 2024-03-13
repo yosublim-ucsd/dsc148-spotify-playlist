@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 136271,
+  "2024-03-13": 136305,
   "date_first_scraped": "2021-12-21",
   "description": "Songs about the iconic city. Welcome to the Big Apple! ",
   "name": "I Love NYC",
@@ -2111,7 +2111,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 287040,
       "name": "The Rising",
       "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
@@ -2219,7 +2219,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 311626,
       "name": "Tompkins Square Park",
       "url": "https://open.spotify.com/track/6nTVR9CtUqKB5RQ7a8dv6t"

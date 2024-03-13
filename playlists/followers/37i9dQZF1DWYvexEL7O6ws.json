@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 90207,
+  "2024-03-13": 90263,
   "date_first_scraped": "2023-06-30",
   "description": "The label's essential tracks by Drake, PARTYNEXTDOOR, Roy Woods, dvsn, and more. Cover: <a href=\"spotify:artist:3TVXtAsR1Inumwj472S9r4\">Drake</a> and Noah \"40\" Shebib",
   "name": "This Is OVO Sound",
@@ -47,6 +47,28 @@
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
     },
     {
       "album": {
@@ -433,7 +455,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 213348,
       "name": "Damage",
       "url": "https://open.spotify.com/track/0GYSkimHYYaiL2AE9dz9Dl"

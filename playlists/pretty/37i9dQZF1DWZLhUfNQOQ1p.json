@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 246868,
+  "num_followers": 246865,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTNjZWNiZWM3YmIyY2ZhYTQ2MTk3ZGU4NDY4NGVkZTA0NThmNWZh",
+  "snapshot_id": "MCxlZjAzYjNiNzcwMTIxNjQ0ZmEzYjE1YjcxZWY4MDYzMzk0MDA0NWQz",
   "tracks": [
     {
       "added_at": "2024-02-28 10:28:34",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
+        "name": "Leave My Home",
+        "url": "https://open.spotify.com/album/71y9TvXQwd3YN2UKH8FhaY"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 221772,
+      "name": "Leave My Home",
+      "url": "https://open.spotify.com/track/7kMKUH92AiChpAN3dxLY5c"
+    },
+    {
+      "added_at": "2024-02-28 10:28:34",
+      "album": {
         "name": "Thank You for Letting Me Be Myself",
         "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 413315,
       "name": "The Shit Baby",
       "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
-    },
-    {
-      "added_at": "2024-02-28 10:28:34",
-      "album": {
-        "name": "Needledrop",
-        "url": "https://open.spotify.com/album/0KynfLw1af32baSTI7UO6z"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 167055,
-      "name": "Bad Weather Mates",
-      "url": "https://open.spotify.com/track/23cRw4Pyt2rJQznlFEnPGs"
     }
   ],
   "unique_name": "Aperitivo Time",

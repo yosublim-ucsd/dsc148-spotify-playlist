@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 130849,
+  "num_followers": 130926,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2RhYmE3ZTk1YWE1N2NmOGQ5YmMzNjViZjcyMTk0ZTFlNDkxMjZi",
+  "snapshot_id": "MCw3MThmNTgyNTVmYjVmZDVjMjEzZWYxZTlkODE1Y2JmYTIzZjNkZTc1",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Rain Awakening",
-        "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
+        "name": "Suburban Forest Rain",
+        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
       },
       "artists": [
         {
-          "name": "Natural Awakening",
-          "url": "https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3"
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Bird Chatter In Rainforest",
-      "url": "https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF"
+      "duration_ms": 138000,
+      "name": "Suburban Forest Rain 1",
+      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Suburban Forest Rain",
-        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
+        "name": "Rain Awakening",
+        "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
       },
       "artists": [
         {
-          "name": "Aquagirl",
-          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+          "name": "Natural Awakening",
+          "url": "https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Suburban Forest Rain 1",
-      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
+      "duration_ms": 198000,
+      "name": "Bird Chatter In Rainforest",
+      "url": "https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Suburban Forest Rain",
-        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
-      },
-      "artists": [
-        {
-          "name": "Aquagirl",
-          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Suburban Forest Rain 2",
-      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "The Rain",
         "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 183028,
       "name": "Distant Thunder in the East of the City",
       "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Suburban Forest Rain",
+        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Suburban Forest Rain 2",
+      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Ocean Noises",
-        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
-      },
-      "artists": [
-        {
-          "name": "Ocean Bank",
-          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
-        }
-      ],
-      "duration_ms": 247471,
-      "name": "By The Docks",
-      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Healing Rainforest",
         "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 208000,
       "name": "Walking In The Rainforest",
       "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Ocean Noises",
+        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
+      },
+      "artists": [
+        {
+          "name": "Ocean Bank",
+          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
+        }
+      ],
+      "duration_ms": 247471,
+      "name": "By The Docks",
+      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
     },
     {
       "added_at": "2023-06-19 13:01:14",

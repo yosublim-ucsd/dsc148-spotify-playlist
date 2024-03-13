@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:5D3h9ZoobhetjXw3dKhcaq">Jon Foreman</a>
 
-5,667 songs - 15 day 17 hr 10 min
+5,668 songs - 15 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2198,7 +2198,8 @@
 | [I Am Not My Own](https://open.spotify.com/track/2rLqU85fOrF5mzpcL6jlHP) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ), [The Getty Girls](https://open.spotify.com/artist/3V65Gy3Luidoo7kBhplU9a) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/0hz5LRsLloj4raXH1EF3f1) | 3:57 | 2023-04-28 | 2023-05-06 |
 | [I Am Not My Own \- Live](https://open.spotify.com/track/00YlUQ5LoLXX5qY5Tiii7j) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [I Am Not My Own \(Live\)](https://open.spotify.com/album/15xnklvOU7QJNFL0jDNho0) | 4:03 | 2023-02-24 | 2023-03-11 |
 | [I Am Okay \- Radio Edit](https://open.spotify.com/track/3mrobgMRMJOCGwh2x5flN8) | [Jay White](https://open.spotify.com/artist/69p9DNc1W1xZ4EzekPCSNf) | [I Am Okay \(Radio Edit\)](https://open.spotify.com/album/59mPVizdzu6l94Nqvd0MqE) | 4:34 | 2022-06-17 | 2022-06-26 |
-| [I Am The Lord's \- Live](https://open.spotify.com/track/7jnEMDQNmkcqz9nS1N33fA) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [All My Life \(Live\)](https://open.spotify.com/album/3UI9KcOc9eywcLWocreewd) | 11:51 | 2024-03-08 |  |
+| [I Am The Lord's \- Live](https://open.spotify.com/track/46JQmKQG3ko9cK5XjkONXv) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 11:51 | 2024-03-08 |  |
+| [I Am The Lord's \- Live](https://open.spotify.com/track/7jnEMDQNmkcqz9nS1N33fA) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [All My Life \(Live\)](https://open.spotify.com/album/3UI9KcOc9eywcLWocreewd) | 11:51 | 2024-03-08 | 2024-03-13 |
 | [I Am Witness](https://open.spotify.com/track/2yml4lRz4yBA2I4wzrOjpi) | [Alexa Sunshine Rose](https://open.spotify.com/artist/1EicV0pIrtOsnszBgno6SB), [Insingizi](https://open.spotify.com/artist/6FcmgYayMAYjPOeH3YRc2w), [Marya Stark](https://open.spotify.com/artist/2lntMaVHOro0wJYMYHco9d) | [I Am Witness](https://open.spotify.com/album/5B1ig971BkcOwaRMyDtEzq) | 3:41 | 2023-07-14 | 2023-07-22 |
 | [I Answered](https://open.spotify.com/track/7HjWd7w6HWKERYGDsLRA8Q) | [Efua B](https://open.spotify.com/artist/2riRmRvp7gZlWqkNUWGJjF), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [I Answered](https://open.spotify.com/album/6wQYiITqb3LLzfpyGYbwr2) | 2:42 | 2023-05-26 | 2023-06-10 |
 | [I Believe](https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Introspection](https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR) | 2:58 | 2023-04-14 | 2023-04-22 |

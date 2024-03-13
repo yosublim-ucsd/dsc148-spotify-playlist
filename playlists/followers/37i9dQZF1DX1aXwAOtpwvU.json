@@ -1,7 +1,7 @@
 {
-  "2024-03-12": 17609,
+  "2024-03-13": 17614,
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:5ic8bWWvZHWf0dDBi9ThNk\">bambi</a>",
+  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:3VKQYnCpM6ofG8QUmlnW6d\">Zalia</a>",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -641,10 +641,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 168000,
       "name": "Egoistka",
       "url": "https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL"
+    },
+    {
+      "album": {
+        "name": "Every Single Person I Know",
+        "url": "https://open.spotify.com/album/54QwxJC74lJG6A5M4SN6Je"
+      },
+      "artists": [
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127368,
+      "name": "Every Single Person I Know",
+      "url": "https://open.spotify.com/track/5uyfnKPivwc9im9rRXEU0u"
     },
     {
       "album": {
@@ -1102,6 +1120,24 @@
     },
     {
       "album": {
+        "name": "Mam kole\u017cank\u0119",
+        "url": "https://open.spotify.com/album/05PFH0lCFfQf5ugOwjDHL9"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Mam kole\u017cank\u0119",
+      "url": "https://open.spotify.com/track/0OM0RY3tiPFLXf3xQvg1Ln"
+    },
+    {
+      "album": {
         "name": "MAMA MI M\u00d3WI\u0141A",
         "url": "https://open.spotify.com/album/1ISKoGgtP6kGnDReCubHRh"
       },
@@ -1139,7 +1175,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 128421,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/7pEwr3iyJdZis2Fh0ILG7l"
@@ -1479,7 +1515,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 226434,
       "name": "Niebieski sweter",
       "url": "https://open.spotify.com/track/5CEWAINwbUzDrOYQqHZ7wq"
@@ -1750,6 +1786,28 @@
     },
     {
       "album": {
+        "name": "Plan F",
+        "url": "https://open.spotify.com/album/2GFdILR5ikSH6JYtNw0RyP"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131161,
+      "name": "Plan F",
+      "url": "https://open.spotify.com/track/0eqprQs8afmriQbN1tkA3I"
+    },
+    {
+      "album": {
         "name": "plany",
         "url": "https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR"
       },
@@ -1765,7 +1823,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 159000,
       "name": "plany",
       "url": "https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM"
@@ -2531,6 +2589,24 @@
       "duration_ms": 205447,
       "name": "Zgie\u0142k",
       "url": "https://open.spotify.com/track/5aNYiszdl6gFgg8MAzbj4X"
+    },
+    {
+      "album": {
+        "name": "znowu sam",
+        "url": "https://open.spotify.com/album/5kPIe6YX1PrxG91Axzhmfd"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "znowu sam",
+      "url": "https://open.spotify.com/track/3LsWDZo1SpXNAzwQX35gPh"
     },
     {
       "album": {

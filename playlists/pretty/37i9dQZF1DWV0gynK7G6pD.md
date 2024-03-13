@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Yunchan Lim
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,208 likes - 85 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,287 likes - 85 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 84 | [Great Dramatic Sonata, "Titus et Bérénice": II\. Vivace \- Molto movimento](https://open.spotify.com/track/2L6modSpGmHxkbeNXZu5Ee) | [Rita Strohl](https://open.spotify.com/artist/6jfL9QnoNFBdO1Dr0QPlWY), [Yoshika Masuda](https://open.spotify.com/artist/31YD6zdDvg7FbEFH8l3YEQ), [HyeJin Kim](https://open.spotify.com/artist/0oTrK3wBHtwkRRH8HTdDSh) | [Hidden Flame](https://open.spotify.com/album/4F3Ze1LoSuJXDcw88SW3yA) | 5:30 |
 | 85 | [Piano Concerto No\. 2: III\. Vivace](https://open.spotify.com/track/5XGYTNmxDgILngESzEwylu) | [Pavel Bořkovec](https://open.spotify.com/artist/3oDOMGjPlunkNJ41qQHWJg), [Prague Radio Symphony Orchestra](https://open.spotify.com/artist/1dNdR6DVM4F7l7CbeVpBnT), [Robert Jindra](https://open.spotify.com/artist/48B4VH1HvogstZI3Xj3yhb), [Marek Kozák](https://open.spotify.com/artist/2JvYKAND8k0y0Z185iXWPq) | [Kovařovic, Bořkovec, Kaprálová: Forgotten Czech Piano Concertos](https://open.spotify.com/album/5wkeyFyhLIFwedZRA6e2bz) | 6:40 |
 
-Snapshot ID: `MCxhYjU2ZDEyNDBlN2Y1YTg1MjU1YWE0MWRkNTMyMmE1N2IyZTg3M2Jm`
+Snapshot ID: `MCxhYjgwOGJjMTBjMGYzNzU3ZmY3N2JiYTI4ODM5ZjA2YTFiYzAxODYw`

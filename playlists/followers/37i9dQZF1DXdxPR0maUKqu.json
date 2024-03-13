@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 70031,
+  "2024-03-13": 70077,
   "date_first_scraped": "2023-07-30",
   "description": "\u7406\u7531\u306e\u306a\u3044\u7126\u308a\u3001\u82db\u7acb\u3061\u3002\u308f\u3051\u3082\u306a\u304f\u53eb\u3073\u305f\u304f\u306a\u308b\u3002\u601d\u6625\u671f\u3092\u904e\u3054\u3059\u5168\u3066\u306e\u30c6\u30a3\u30fc\u30f3\u306b\u8d08\u308b\u3001\u5e30\u308a\u9053\u306e\u5fdc\u63f4\u6b4c\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u5915\u65b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3",
@@ -971,7 +971,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 206373,
       "name": "Laundry",
       "url": "https://open.spotify.com/track/4hEiFAgW0WEltQQGlUwk7x"
@@ -2469,7 +2469,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 218751,
       "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
       "url": "https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1"
@@ -2671,6 +2671,24 @@
       "duration_ms": 228920,
       "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
       "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
+    },
+    {
+      "album": {
+        "name": "chatmonchy has come",
+        "url": "https://open.spotify.com/album/4a9aVoEgZUXiwOAnbYYGVf"
+      },
+      "artists": [
+        {
+          "name": "Chatmonchy",
+          "url": "https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342666,
+      "name": "\u30b5\u30e9\u30d0\u9752\u6625",
+      "url": "https://open.spotify.com/track/6yFlXFKZfLgo3Av99gmEGO"
     },
     {
       "album": {
@@ -2973,7 +2991,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 206511,
       "name": "\u30ce\u30fc\u30fb\u30f4\u30a1\u30fc\u30b8\u30f3\u30fb\u30b9\u30fc\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/7BoUwMKi7cL2OGOkpJQQDx"
@@ -3359,7 +3377,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 216366,
       "name": "\u30ea\u30ab",
       "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"
@@ -3791,7 +3809,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 247532,
       "name": "\u5e78\u305b\u306e\u305f\u3081\u306b\u751f\u304d\u3066\u3044\u308b\u3060\u3051\u3055",
       "url": "https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM"

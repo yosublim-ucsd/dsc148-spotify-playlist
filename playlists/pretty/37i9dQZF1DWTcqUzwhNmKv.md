@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Spiritbox is on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,481,420 likes - 76 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,481,594 likes - 76 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 75 | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/track/5iE8YiGRqD1NmFdk6RAvHq) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [IHSAHN](https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE) | 4:20 |
 | 76 | [Ball and Chain](https://open.spotify.com/track/5cwtJzW6ouRBZ6U2jX7TrK) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Ball and Chain](https://open.spotify.com/album/4oskB2iMurMQsp898CnLgk) | 3:43 |
 
-Snapshot ID: `MCw1Y2RhMTFiZmYyZTQ5ZTRlNzVmNTk4NjcwZWVmMGRiNjM0MjkyNjgw`
+Snapshot ID: `MCwxMjU2Yzk1NGY2NDUyNTY1NDFjODk3MmMwZjVhZGZmYzM0ZDNmZjg3`

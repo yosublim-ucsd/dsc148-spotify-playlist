@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-244 songs - 14 hr 9 min
+245 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Kadhal Nodigal](https://open.spotify.com/track/769WWvSINZ4xYmL07TLnpZ) | [Dakshan Kumar N](https://open.spotify.com/artist/0VU3rDfAC1So5cgajgl5ls), [Wow Karthik Kumar](https://open.spotify.com/artist/64SrfLQUA8pKnNt9poKQf8), [Maanasi G Kannan](https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx) | [Kadhal Nodigal](https://open.spotify.com/album/0gOquhieGwYkXXKx4e3892) | 5:46 | 2024-01-19 |  |
 | [Kadhal Raasee](https://open.spotify.com/track/4haNuRPEFpfolOmtO0YQvQ) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [OJ Da Tamil Rapper](https://open.spotify.com/artist/0tphHIjvOj8Xkc8Q7WH27C), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Kadhal Raasee](https://open.spotify.com/album/1GSRblB74gF4QNAGzsEPsi) | 3:01 | 2023-03-21 | 2023-08-01 |
 | [Kadhal Reggae](https://open.spotify.com/track/2yTPFfNzPvI7HSSak5QJYe) | [Vijay Paul](https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po) | [Kadhal Reggae](https://open.spotify.com/album/1JbxLCEDE5N3j7iqhU9Ia8) | 3:27 | 2024-03-04 |  |
+| [Kadhal Senji Kolladha](https://open.spotify.com/track/7mAAlQ3YADc93Jp22vMZQq) | [Narendra Prasath](https://open.spotify.com/artist/4jQB0BmkEr9rvu8PRTSaPD), [Manikandan murali](https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg) | [Kadhal Senji Kolladha](https://open.spotify.com/album/6J9g9xpp9OslxNGKQK7eln) | 2:04 | 2024-03-12 |  |
 | [Kadhal Thorkum Nerame](https://open.spotify.com/track/0v2L1vxSKgq2jlr6XJ7ieF) | [Chandru M](https://open.spotify.com/artist/5jo2LPSpHPzJETBUokdECR), [Megas Raj S](https://open.spotify.com/artist/1gwDcP6TvWG64xXZe7UOlG) | [Kadhal Thorkum Nerame](https://open.spotify.com/album/6BsSeSmxL81oaNfawnekfz) | 2:36 | 2024-02-14 |  |
 | [Kadhal You](https://open.spotify.com/track/47cQUeWqy2jT39bS0gP7kG) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [Arun Rathor](https://open.spotify.com/artist/4CBF6drrY0At3ZQVex2Q6M) | [Kadhal You](https://open.spotify.com/album/2ZdDirLnKam2KMAjcsjD9M) | 2:54 | 2024-01-05 |  |
 | [Kalyanathukku Menu En Kadhal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/4igMeZBuRS6w6rn7txyVIX) | [Anal Akash](https://open.spotify.com/artist/0Sc5IvyroAu9MuC9kFGjaR), [Punya Selva](https://open.spotify.com/artist/6uvIzuYq1gO5Q4AkLwSIgw), [Navaneethakrishnan V](https://open.spotify.com/artist/5XanFej2Fdq1mJNcq89ymV) | [Kalyanathukku Menu En Kadhal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/7E7E1r2niiRGflZxGzvLQg) | 3:57 | 2023-09-08 |  |
@@ -246,7 +247,7 @@
 | [Vizhigalil Aasa \(From “Flames”\)](https://open.spotify.com/track/0qJyvMQ9VyX2jC0nPzC9yI) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6), [RAJ\-RIZ](https://open.spotify.com/artist/6OAMNxGZwWZAuYqRhh4Y5d), [Tamil Mani](https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8) | [Vizhigalil Aasa \(From "Flames"\)](https://open.spotify.com/album/3JleVlUVyrEYQAAf7IUOGN) | 4:02 | 2023-10-04 | 2024-02-27 |
 | [Without You](https://open.spotify.com/track/4vsmUOSYq1RkeSKJXRKr7S) | [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Niriksha Manoj](https://open.spotify.com/artist/2ZShEPlbOdm7sfbKuPIuaZ), [Vaaheesan Rasaiya](https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye) | [Without You](https://open.spotify.com/album/5i75qd9PvfHvZlSZwaQs20) | 3:07 | 2023-07-25 | 2024-01-24 |
 | [Yaar Aval](https://open.spotify.com/track/1lRjcMkN73vOAgwaSzNKme) | [Elan Hits](https://open.spotify.com/artist/13dpvM6NpIToJA4LIkBUx3) | [Yaar Aval](https://open.spotify.com/album/5Vz3Eju82OgxEmotHRcOJ7) | 4:45 | 2024-01-02 |  |
-| [Yarumillai](https://open.spotify.com/track/3AAwye5jD5qVfE1ybv8sg2) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Yarumillai](https://open.spotify.com/album/14fJS35SXPwpaaec15IWwo) | 3:33 | 2024-02-22 |  |
+| [Yarumillai](https://open.spotify.com/track/3AAwye5jD5qVfE1ybv8sg2) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Yarumillai](https://open.spotify.com/album/14fJS35SXPwpaaec15IWwo) | 3:33 | 2024-02-22 | 2024-03-13 |
 | [Yendrum](https://open.spotify.com/track/2a7RHJyHZmgarjTvgAW1rQ) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Yendrum](https://open.spotify.com/album/4vVcdlRidM9liFbLfuzJlH) | 4:49 | 2023-12-15 | 2024-01-03 |
 | [Yenguren](https://open.spotify.com/track/1EG6wxPk5luNAeEcmiZFhk) | [Krishan J](https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw) | [Yenguren](https://open.spotify.com/album/2s7daQQZ9wJl25M5WdOFx0) | 3:06 | 2024-02-29 |  |
 | [Yesuvae Neerae](https://open.spotify.com/track/7n8c4bgpiA76yUl1UEU2vw) | [Steve Benison](https://open.spotify.com/artist/3sZyRyInSM5EuVoM77vutc) | [Yesuvae Neerae](https://open.spotify.com/album/6U3MQEHiFtqZKz5U51FJNS) | 5:26 | 2024-02-29 |  |

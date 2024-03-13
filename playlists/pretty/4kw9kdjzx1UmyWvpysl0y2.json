@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126513,
+  "num_followers": 126542,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDYwNCxhMjhiMTFiOGZiZTlkNzg0NTUyNTkxODI2ZGQ5NjQzMTZhZTFiMmM2",
+  "snapshot_id": "NDYwNSw2OTY0OWM0NmQzYzU2MWE0NGM5ZmYxNDkwZTUzOGUzNDEyMjY3ZDMx",
   "tracks": [
+    {
+      "added_at": "2024-03-12 16:50:40",
+      "album": {
+        "name": "Time Moves So Fast (PROFF & Volen Sentir's Timestop Remix)",
+        "url": "https://open.spotify.com/album/1Ozmos3LtTDokITDDpgySC"
+      },
+      "artists": [
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        },
+        {
+          "name": "PROFF",
+          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+        }
+      ],
+      "duration_ms": 213242,
+      "name": "Time Moves So Fast - PROFF & Volen Sentir's Timestop Remix",
+      "url": "https://open.spotify.com/track/0otTh5jetXPUMq3RZoWEJp"
+    },
     {
       "added_at": "2024-03-11 19:04:38",
       "album": {

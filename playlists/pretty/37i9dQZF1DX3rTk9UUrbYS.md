@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,179 likes - 100 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,217 likes - 100 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Anohin](https://open.spotify.com/track/6hcPWrFkKRSqRE3ulX8WLf) | [María Grand](https://open.spotify.com/artist/7lXTdVuJBJAI7fKJLedAiq), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [Anohin](https://open.spotify.com/album/0cTf0FpEm2stPsVCpq8J81) | 9:26 |
+| 1 | [Anohin](https://open.spotify.com/track/6hcPWrFkKRSqRE3ulX8WLf) | [María Grand](https://open.spotify.com/artist/7lXTdVuJBJAI7fKJLedAiq), [Marta Sánchez](https://open.spotify.com/artist/13Q96ODlHbb2ZsvGVHn2Yr) | [Anohin](https://open.spotify.com/album/0cTf0FpEm2stPsVCpq8J81) | 9:26 |
 | 2 | [Baghèt](https://open.spotify.com/track/21464HJPf8GrBxzWpDnq45) | [Gianluigi Trovesi](https://open.spotify.com/artist/72vioIyz3G8Ihu1CboAVSA), [Paolo Damiani](https://open.spotify.com/artist/4Kcev97eG1s5FLhs5iB1Xc), [Gianni Cazzola](https://open.spotify.com/artist/0gMoZy1oz4x7XZiwbFSDl9) | [Baghèt \(Remastered\)](https://open.spotify.com/album/1arsrww8NTIgtt6YmV4rxm) | 5:54 |
 | 3 | [Decisions Have Already Been Made](https://open.spotify.com/track/4Onumx4fzG3PyhhcRfKX7e) | [East Axis](https://open.spotify.com/artist/0A9QoZUtf7eeT2aFWlNpr4) | [No Subject](https://open.spotify.com/album/2ovHJyY0S04AWDikBhgwna) | 10:17 |
 | 4 | [In the Beginning](https://open.spotify.com/track/1lsAgWb8bSBTyU8kh2WsgU) | [New Age Doom](https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni), [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [In the Beginning](https://open.spotify.com/album/587gr5QhKHOifSJjLkbRPF) | 11:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 99 | [Breaking Point](https://open.spotify.com/track/08didpMJM0vsICBS3uu2Xd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Essential Blue Note Collection](https://open.spotify.com/album/7dDZGuJMNFpIHa2J2jSdJT) | 10:19 |
 | 100 | [Conduction No.186 \- Live](https://open.spotify.com/track/10oUh9vQB9J36UmsGuWxRl) | [Nublu Orchestra](https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9), [Butch Morris](https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK) | [Live in Lisbon](https://open.spotify.com/album/5WnPY79tkeyhrRcInkUjMp) | 43:14 |
 
-Snapshot ID: `MCxjN2YwYmJiMzJhZjEwYWRkOTIxMTMzMGQ2ZjE2ZWM3YjlmYjFkOGRj`
+Snapshot ID: `MCwxMTg5YjYwNjM4MDQ0Y2M2MDc1NzcyNTNmODdiMjQ4NzJlOGJmNWU0`

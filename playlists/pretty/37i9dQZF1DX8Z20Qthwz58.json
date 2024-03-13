@@ -1,12 +1,12 @@
 {
   "description": "Enjoy mysterious and dreamy music as if walking in a dream. (\uafc8 \uc18d\uc744 \uac70\ub2d0\ub4ef \uc2e0\ube44\ub86d\uace0 \ubabd\ud658\uc801\uc778 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 74896,
+  "num_followers": 74953,
   "original_name": "d r e a m l i k e \u3132 \u315c \u3141",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2NlM2MzODUwMmU1N2M5MWNhYWM4NTgyZWE0MjNkNDc5YWFlNzlj",
+  "snapshot_id": "MCwzN2MxYzM5M2FmYmU1NGNiN2VhNmJmNzVhMmIxYTdjNjgwYWVmZTdh",
   "tracks": [
     {
       "added_at": "2024-03-08 06:41:09",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-03-08 06:41:09",
       "album": {
+        "name": "want YOU",
+        "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        }
+      ],
+      "duration_ms": 154803,
+      "name": "want YOU",
+      "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
+    },
+    {
+      "added_at": "2024-03-08 06:41:09",
+      "album": {
         "name": "L&B",
         "url": "https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 219428,
       "name": "Let off steam",
       "url": "https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR"
-    },
-    {
-      "added_at": "2024-03-08 06:41:09",
-      "album": {
-        "name": "want YOU",
-        "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
-      },
-      "artists": [
-        {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        }
-      ],
-      "duration_ms": 154803,
-      "name": "want YOU",
-      "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
     },
     {
       "added_at": "2024-03-08 06:41:09",
@@ -411,6 +411,26 @@
     {
       "added_at": "2024-03-08 06:41:09",
       "album": {
+        "name": "\uae34 \ubc24 (feat. Giriboy)",
+        "url": "https://open.spotify.com/album/3CaluwPodNVRAnYCtZW3YA"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/45ryK5kAHyUxV1C73fdur5"
+    },
+    {
+      "added_at": "2024-03-08 06:41:09",
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/6uXVXoOAhESobnbQqoTpAI"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 135080,
       "name": "True Love (Feat. \uc815\uc120\ud61c of YOUNG POSSE)",
       "url": "https://open.spotify.com/track/7gewLHcVTy1TrlwqSpuTJF"
-    },
-    {
-      "added_at": "2024-03-08 06:41:09",
-      "album": {
-        "name": "\uae34 \ubc24 (feat. Giriboy)",
-        "url": "https://open.spotify.com/album/3CaluwPodNVRAnYCtZW3YA"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/45ryK5kAHyUxV1C73fdur5"
     },
     {
       "added_at": "2024-03-08 06:41:09",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-08 06:41:09",
       "album": {
-        "name": "Summer Plumage",
-        "url": "https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "New Youth",
-      "url": "https://open.spotify.com/track/5bZh97EswRz053YzhNQI9P"
-    },
-    {
-      "added_at": "2024-03-08 06:41:09",
-      "album": {
         "name": "?depacse ohw",
         "url": "https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 217946,
       "name": "Fairy Tale",
       "url": "https://open.spotify.com/track/02bKxwW9XY9LElj0TqDK6S"
+    },
+    {
+      "added_at": "2024-03-08 06:41:09",
+      "album": {
+        "name": "Summer Plumage",
+        "url": "https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "New Youth",
+      "url": "https://open.spotify.com/track/5bZh97EswRz053YzhNQI9P"
     },
     {
       "added_at": "2024-03-08 06:41:09",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-03-08 06:41:09",
       "album": {
+        "name": "DAYDREAM",
+        "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Night Fog",
+      "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
+    },
+    {
+      "added_at": "2024-03-08 06:41:09",
+      "album": {
         "name": "CLAASSIC",
         "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2024-03-08 06:41:09",
       "album": {
-        "name": "DAYDREAM",
-        "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
+        "name": "TEEN TROUBLES",
+        "url": "https://open.spotify.com/album/0lO1MX7qJaA3NejSbPoxU8"
       },
       "artists": [
         {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
         }
       ],
-      "duration_ms": 158200,
-      "name": "Night Fog",
-      "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
+      "duration_ms": 220214,
+      "name": "Garden State Dreamers",
+      "url": "https://open.spotify.com/track/4rhU6LPPCcCC9IGOI26Tmw"
     },
     {
       "added_at": "2024-03-08 06:41:09",
@@ -859,22 +875,6 @@
       "duration_ms": 232751,
       "name": "You\u2019re mine, You!",
       "url": "https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd"
-    },
-    {
-      "added_at": "2024-03-08 06:41:09",
-      "album": {
-        "name": "TEEN TROUBLES",
-        "url": "https://open.spotify.com/album/0lO1MX7qJaA3NejSbPoxU8"
-      },
-      "artists": [
-        {
-          "name": "The Black Skirts",
-          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
-        }
-      ],
-      "duration_ms": 220214,
-      "name": "Garden State Dreamers",
-      "url": "https://open.spotify.com/track/4rhU6LPPCcCC9IGOI26Tmw"
     }
   ],
   "unique_name": "d r e a m l i k e \u3132 \u315c \u3141",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Melissa Aldana
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,652 likes - 99 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,723 likes - 99 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 9 | [Fandango](https://open.spotify.com/track/2rLN8vZ2d9HGeljlmZFhTx) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Fandango](https://open.spotify.com/album/7sD4UjyuDSS2vcdMGT1YH6) | 7:10 |
 | 10 | [LIVERPOOL WINS](https://open.spotify.com/track/3NEjU4et42MIT9VG8x7Ksx) | [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Kyle Kidd](https://open.spotify.com/artist/4X5Nbu5dWoMABqM0KORu9d) | [The Great Bailout](https://open.spotify.com/album/4McRUm1jODWhmUWmgmG0px) | 4:18 |
 | 11 | [Send in the Clowns](https://open.spotify.com/track/6ogaZVuWS2h2MZ8wYNu7Ap) | [Prism Quartet](https://open.spotify.com/artist/1jSQEHmXkCtYyok58EkWUA), [Miguel Zenón](https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj) | [Send in the Clowns](https://open.spotify.com/album/2mmGf9kozZrGaCrihS3hGP) | 5:37 |
-| 12 | [Friends](https://open.spotify.com/track/74fThCaJqlKrDkPNf4Vlul) | [Outside World](https://open.spotify.com/artist/5xWSapntbvFDBkJ2y37CKf), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ) | [I'm A Bird / Friends](https://open.spotify.com/album/6mNrZt3YGDo6mw8gUSwxMx) | 3:37 |
+| 12 | [Friends](https://open.spotify.com/track/74fThCaJqlKrDkPNf4Vlul) | [Outside World](https://open.spotify.com/artist/5xWSapntbvFDBkJ2y37CKf), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Chris Fishman](https://open.spotify.com/artist/7th9o3DE5cL9VsgNLgfxsJ) | [I'm A Bird / Friends](https://open.spotify.com/album/6mNrZt3YGDo6mw8gUSwxMx) | 3:37 |
 | 13 | [Take Time](https://open.spotify.com/track/64jc8TDPmYkrO93D7Q7QTz) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Take Time + Guava](https://open.spotify.com/album/5Urmwa9noXx3WJkZGpxArN) | 3:56 |
 | 14 | [Speak To Me](https://open.spotify.com/track/7wc9v9f1agzyv4nckk0peS) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Speak To Me](https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM) | 4:14 |
 | 15 | [MOMENTUM](https://open.spotify.com/track/57B1YJVhgmCFAcryA9W2xu) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [MOMENTUM](https://open.spotify.com/album/6qdewILD6KlnRvj7Ts0kUe) | 4:37 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [Final Voyage](https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [The Southern Suite](https://open.spotify.com/album/6s49yqVpAtx05F2J16ciYr) | 6:18 |
 | 99 | [Dogtown](https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Stings](https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4) | 6:30 |
 
-Snapshot ID: `MCw5NmEzNWYwYjVjNjg2NTA4YTRmNzdmNjM4M2U1MmQ0Y2M4NzMzYzQy`
+Snapshot ID: `MCw1MzYwMGE0MGJjNTRjNWFiYjhiMGVhOGU5ODhhMDJhZTA5MmJmZTRh`

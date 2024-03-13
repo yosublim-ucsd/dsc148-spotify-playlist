@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-804 songs - 2 day 7 hr 3 min
+805 songs - 2 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,6 +810,7 @@
 | [Worldslide](https://open.spotify.com/track/1Ycp9gP1ncYG6ZDVb7ovpQ) | [Pardans](https://open.spotify.com/artist/4G4h06yBNykvt3jutYtDSj) | [Peak Happiness](https://open.spotify.com/album/1UXu9UHoyN4E4xL8yFcM1v) | 3:24 | 2023-03-08 | 2023-04-20 |
 | [You Got The Silver](https://open.spotify.com/track/3VPE7mBeUwK0id0xjvLRmV) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [You Got The Silver](https://open.spotify.com/album/3RERBCKuUVn5bjO9L4lqmd) | 2:58 | 2022-06-08 | 2022-07-14 |
 | [You Know I Know](https://open.spotify.com/track/6qHE3sYl2EEf48iTy1rdWG) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/6UY5t9DTGGXtaGzEKlB59A) | 3:00 | 2022-11-09 | 2022-12-08 |
+| [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 | 2024-03-12 |  |
 | [You Must Not Need A Friend At All](https://open.spotify.com/track/0MPGxsSaT2prrKA0tSIwCt) | [Photo Ops](https://open.spotify.com/artist/5iPg4YFTBzvwo0E9NpjkTX) | [The Dream Is Done](https://open.spotify.com/album/7Ms4Ww8xyZxHd2UwHxYaUK) | 4:04 | 2023-03-08 | 2023-04-20 |
 | [Zum Herz](https://open.spotify.com/track/3w0F6bkQdev902vrCxDHe4) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO), [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Zum Herz](https://open.spotify.com/album/0miVSp8X4tYSuxINhZRyO8) | 4:18 | 2022-08-03 | 2022-09-15 |
 

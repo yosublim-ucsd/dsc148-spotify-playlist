@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 742113,
+  "num_followers": 742121,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NTYwNixlMTI1MWYxMWNkOWYyOTI4NWJjNjY1MmVhNmMyODQ5YjQxNjRjYWJi",
+  "snapshot_id": "NTYwOCwzMmY0NGQwMjdmZGZkNzgyYmI0YWQ2YjU5YjNmNzQxZjY0M2ZmZTc3",
   "tracks": [
     {
       "added_at": "2024-03-07 10:11:22",
@@ -139,6 +139,22 @@
       "duration_ms": 153557,
       "name": "Burning Wish",
       "url": "https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js"
+    },
+    {
+      "added_at": "2024-03-12 10:25:17",
+      "album": {
+        "name": "Stick Around You",
+        "url": "https://open.spotify.com/album/7axrnFv4TrV9USJVlllNtn"
+      },
+      "artists": [
+        {
+          "name": "Jinxspr0",
+          "url": "https://open.spotify.com/artist/6dGnKpumgA8WOmhmoMsGhK"
+        }
+      ],
+      "duration_ms": 133035,
+      "name": "Stick Around You",
+      "url": "https://open.spotify.com/track/62DSnDAEydxbgbU3OI2eMF"
     },
     {
       "added_at": "2024-03-08 11:31:45",
@@ -1871,70 +1887,6 @@
       "duration_ms": 178285,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/66p1AS3IxyCUZSm1ZOoKjQ"
-    },
-    {
-      "added_at": "2024-03-07 10:11:22",
-      "album": {
-        "name": "Castle",
-        "url": "https://open.spotify.com/album/3bxvt8vyLXAC0ioYQ2IixH"
-      },
-      "artists": [
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "Harddope",
-          "url": "https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Castle",
-      "url": "https://open.spotify.com/track/7tUToegtVh5dodpcqaYrHo"
-    },
-    {
-      "added_at": "2024-03-07 10:11:22",
-      "album": {
-        "name": "Don't Surrender",
-        "url": "https://open.spotify.com/album/6rnQEX7eeA2POsxsk38QIV"
-      },
-      "artists": [
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "EMM",
-          "url": "https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo"
-        }
-      ],
-      "duration_ms": 165166,
-      "name": "Don't Surrender",
-      "url": "https://open.spotify.com/track/7CYmaKqY6HuQrP8JBaniAP"
-    },
-    {
-      "added_at": "2024-03-07 10:11:22",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/3WEPzTQTjVJSCVv0lKEKq0"
-      },
-      "artists": [
-        {
-          "name": "Unknown Brain",
-          "url": "https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-        },
-        {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/46MUbxLye12SKBN7xHg3CF"
     }
   ],
   "unique_name": "NCS Releases",

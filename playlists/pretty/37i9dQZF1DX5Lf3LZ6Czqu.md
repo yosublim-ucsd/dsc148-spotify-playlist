@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,242 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,264 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 6 | [Zig Zag](https://open.spotify.com/track/4Sz7cjZ85xjcgrZ82WsbVW) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Jimmy Haslip](https://open.spotify.com/artist/5ngGllFz8UMTMeazVphrPb) | [Triple Play](https://open.spotify.com/album/3dDU3PWrXlMHW5C9eJebpu) | 8:23 |
 | 7 | [Around The Galaxy](https://open.spotify.com/track/5jfki545vcq6g8nZOZt3pq) | [AFØNK](https://open.spotify.com/artist/4VB29du3XEqCOhcLzWi4LE), [Varra](https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R), [Lorenzo Ceci](https://open.spotify.com/artist/7o8migpxnky7QOsNC81fCM) | [Around The Galaxy](https://open.spotify.com/album/6oWeyIBchMFd5LLN95sAV8) | 3:24 |
 | 8 | [Silkroad](https://open.spotify.com/track/6EZ4V32DQZ7V7hRUwBVb7u) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [The Journey](https://open.spotify.com/album/6QJNcXUow95qKDvfg1byG2) | 4:33 |
-| 9 | [Nine \(feat\. NovaGina\)](https://open.spotify.com/track/5ZIv4cnwGDSood9MUrRspi) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK), [NovaGina](https://open.spotify.com/artist/7poUfOG4cz2W8jkseRpZ5B) | [Away With Words, Pt.2](https://open.spotify.com/album/3Vcibwodl0VUwchdgofmwN) | 3:17 |
+| 9 | [Nine](https://open.spotify.com/track/5ZIv4cnwGDSood9MUrRspi) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK), [NovaGina](https://open.spotify.com/artist/7poUfOG4cz2W8jkseRpZ5B) | [Away With Words, Part 2](https://open.spotify.com/album/3Vcibwodl0VUwchdgofmwN) | 3:17 |
 | 10 | [Catboy \- Live at the Iridium](https://open.spotify.com/track/6ENVj2YszxhC9QLgwBNkJE) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jason "JT" Thomas](https://open.spotify.com/artist/5sN8E3sVIXfIgkW8rvOutw), [Wes Stephenson](https://open.spotify.com/artist/0su3WUFcvO40NtFuDiaT88), [Daniel Porter](https://open.spotify.com/artist/16uVRYUgf82UOiseOjclwG) | [Catboy \(Live at the Iridium\)](https://open.spotify.com/album/2dig4oAnKv3V2G5fDEZs5x) | 8:09 |
 | 11 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/2B3D38o8GaXnZo6DnTyZ2m) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 5:50 |
 | 12 | [You Know I’m No Good](https://open.spotify.com/track/4GTj8Qz1nVtB4miu8Bu8ll) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj) | [Krasno/Moore Project: Book of Queens](https://open.spotify.com/album/6RwGvHFkks31pCeLlto8Dy) | 4:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `MCw3ZWNkNzViMmEzNmRkMDgzOWI5YTJkNjZlOGJjMTZjYWMwNWE5NTVi`
+Snapshot ID: `MCwxZjgyOTU2YmFjY2JhNjM4N2Q2YjU2YzhmYzY0ZWY4MWUwNzVmODQ2`

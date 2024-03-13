@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Tabber\(태버\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,902 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,917 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 20 | [Quiz](https://open.spotify.com/track/2WvHcLvA1JVVljJH9wT5RF) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Quiz](https://open.spotify.com/album/13gI4MN1K937wF0aqKJ1vd) | 3:08 |
 | 21 | [Song For You](https://open.spotify.com/track/3crzIsiwlNfd7KsQ0NDSuY) | [Meijee](https://open.spotify.com/artist/4c1XgZSY8wkkEWeqb4bSHF) | [Song For You](https://open.spotify.com/album/05oeV9MVUR4vWtRQj7Ur7T) | 3:21 |
 | 22 | [Deserve](https://open.spotify.com/track/1wuwBheZJPtlu0AZO3BRPT) | [HOYA](https://open.spotify.com/artist/3bGzcepRQ7Zu1J6JDDAq1T) | [Deserve](https://open.spotify.com/album/5b3dvk2qpGvCltCdlcDvLs) | 3:12 |
-| 23 | [Found you](https://open.spotify.com/track/1iFFPbgNUBdIoTMaw5VWwY) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15) | [Found you](https://open.spotify.com/album/56YzyNc2YZk4CX9wNcC30t) | 4:11 |
+| 23 | [Found you](https://open.spotify.com/track/1iFFPbgNUBdIoTMaw5VWwY) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15) | [Found you](https://open.spotify.com/album/56YzyNc2YZk4CX9wNcC30t) | 4:01 |
 | 24 | [Lonesome](https://open.spotify.com/track/4ebAeBmoxyfkWy1ymatr1A) | [KIMYOONCHAE](https://open.spotify.com/artist/3BaiSJF1zIxdDWVfnQDUI4) | [Roadside](https://open.spotify.com/album/6Fsc0fL3iRpU1QooxGe6vs) | 2:38 |
 | 25 | [I'm okay](https://open.spotify.com/track/7Ifacym53lOQSS38tgwgKf) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [After Love](https://open.spotify.com/album/2OUaeEG9GKYOIIEZkLPdfP) | 3:23 |
 | 26 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Jimmy Choo](https://open.spotify.com/track/3gut085BLA8hSaWQU6UTaP) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6) | [Jimmy Choo](https://open.spotify.com/album/4ykEEw06qDPMb6Tdsu1w2Z) | 3:17 |
 | 50 | [Stupid \(feat\. Ashley Alisha & J.O.Y\)](https://open.spotify.com/track/1XuzCsFFgxgv2v21pmFZia) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Autumn Night](https://open.spotify.com/album/6OS1NCPPhr5GgQKBXipGCs) | 2:56 |
 
-Snapshot ID: `MCw2NmIwMTExYTY0YTExMDkxY2QxYjIwZmZiMTM5NzRhNmZkOGY1MTBl`
+Snapshot ID: `MCw1YzdhOTRiNzI4ZWM2ZjI5YTQ4N2Q5Zjc4NTI4YjUyZGM3MWQ0ZTcw`

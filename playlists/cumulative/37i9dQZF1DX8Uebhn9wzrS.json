@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 138795,
       "name": "Amu",
       "url": "https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg"
@@ -6281,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "Collecting Dust",
+        "url": "https://open.spotify.com/album/7skBVQm0odohFoMrrTbRNH"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Dor",
+          "url": "https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Collecting Dust",
+      "url": "https://open.spotify.com/track/2Rr4GXLsUy7vJy2PB3mSYj"
+    },
+    {
+      "album": {
         "name": "collogue",
         "url": "https://open.spotify.com/album/1xexMTvQ3GWUGxhlxZ7min"
       },
@@ -9481,6 +9499,24 @@
     },
     {
       "album": {
+        "name": "everfree",
+        "url": "https://open.spotify.com/album/710gczhcTTGB3dilssAhr6"
+      },
+      "artists": [
+        {
+          "name": "alamodilla",
+          "url": "https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "everfree",
+      "url": "https://open.spotify.com/track/4nG1tpT3hVheAPdFSDfGW6"
+    },
+    {
+      "album": {
         "name": "Everitt Hill",
         "url": "https://open.spotify.com/album/1qKdzqutz1GscA9QI6Ve19"
       },
@@ -11022,7 +11058,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 160109,
       "name": "Follow the maze",
       "url": "https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko"
@@ -23256,7 +23292,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 129000,
       "name": "Particles",
       "url": "https://open.spotify.com/track/5iutyPUPT8BD6NmUjMVVj2"
@@ -24874,7 +24910,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 111724,
       "name": "Rain Is Coming",
       "url": "https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O"
@@ -28189,6 +28225,24 @@
     },
     {
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/0odJztdVdqQTnC8AcWJuz7"
+      },
+      "artists": [
+        {
+          "name": "Neon Panda",
+          "url": "https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145930,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/4mjZxP6wc7FKV3ylwblakq"
+    },
+    {
+      "album": {
         "name": "Cold Nights",
         "url": "https://open.spotify.com/album/0rwTZ7187ULO6YpLEDGSsf"
       },
@@ -28580,6 +28634,24 @@
       "duration_ms": 150809,
       "name": "Sparkle",
       "url": "https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj"
+    },
+    {
+      "album": {
+        "name": "Sparks Down",
+        "url": "https://open.spotify.com/album/5ADGHmXhf1EWZZvmjxnC0h"
+      },
+      "artists": [
+        {
+          "name": "KiddoCalvin",
+          "url": "https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138915,
+      "name": "Sparks Down",
+      "url": "https://open.spotify.com/track/4HfrXnXrj1fyTnNRdTMLqy"
     },
     {
       "album": {

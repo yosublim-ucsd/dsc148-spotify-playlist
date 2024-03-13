@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 70365,
+  "num_followers": 70402,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWEyOTgyOWI0NmFkZDQ3NGM3ZDE4NTQwNGRhZTc5ZGIyYjRmODJh",
+  "snapshot_id": "MCxhNDdkNjRmYTQ1Y2Y4ZTFlMzU0N2E2MzI5MmJlOWM4OTg1NWQ3ZWE2",
   "tracks": [
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Duas Cidades",
-        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
       },
       "artists": [
         {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Siba",
-          "url": "https://open.spotify.com/artist/3fXYikoi0LcoQgBItngLxO"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 142653,
-      "name": "Cigano - Instrumental",
-      "url": "https://open.spotify.com/track/2REfZQ03ryu2zaQAcJoxUQ"
+      "duration_ms": 226000,
+      "name": "Meu Nome \u00c9 Gal",
+      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+        "name": "Duas Cidades",
+        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Siba",
+          "url": "https://open.spotify.com/artist/3fXYikoi0LcoQgBItngLxO"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Meu Nome \u00c9 Gal",
-      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
+      "duration_ms": 142653,
+      "name": "Cigano - Instrumental",
+      "url": "https://open.spotify.com/track/2REfZQ03ryu2zaQAcJoxUQ"
     },
     {
       "added_at": "2022-09-22 18:13:04",

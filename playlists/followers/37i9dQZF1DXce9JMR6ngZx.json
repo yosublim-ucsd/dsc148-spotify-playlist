@@ -1,31 +1,9 @@
 {
-  "2024-03-12": 211025,
+  "2024-03-13": 211057,
   "date_first_scraped": "2022-03-02",
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
   "name": "Faxina Nostalgia",
   "tracks": [
-    {
-      "album": {
-        "name": "The Best Of Bill Medley",
-        "url": "https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr"
-      },
-      "artists": [
-        {
-          "name": "Bill Medley",
-          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
-        },
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
-        }
-      ],
-      "date_added": "2020-06-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 289066,
-      "name": "(I've Had) The Time Of My Life",
-      "url": "https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB"
-    },
     {
       "album": {
         "name": "LOVE",
@@ -47,6 +25,28 @@
       "duration_ms": 289066,
       "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/1UvTPXlImVd4jcucK4qJwb"
+    },
+    {
+      "album": {
+        "name": "The Best Of Bill Medley",
+        "url": "https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr"
+      },
+      "artists": [
+        {
+          "name": "Bill Medley",
+          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289066,
+      "name": "(I've Had) The Time Of My Life - theme from the motion picture \"Dirty Dancing\"",
+      "url": "https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB"
     },
     {
       "album": {

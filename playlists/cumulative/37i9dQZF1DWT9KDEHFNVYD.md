@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT9KDEHFNVYD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT9KDEHFNVYD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT9KDEHFNVYD)
 
-### [Krautrock Highway](https://open.spotify.com/playlist/37i9dQZF1DWT9KDEHFNVYD)
+### [Krautrock](https://open.spotify.com/playlist/37i9dQZF1DWT9KDEHFNVYD)
 
-> Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
+> Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-346 songs - 1 day 8 hr 14 min
+348 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Harmonium](https://open.spotify.com/track/5YImseqdMxhOnz0skslbKw) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY) | 5:55 | 2021-07-30 | 2023-02-10 |
 | [Heiße Lippen](https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 2:21 | 2021-07-30 |  |
 | [Hero](https://open.spotify.com/track/3MBImoJoOnqCyzW3L4WKfK) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! 75](https://open.spotify.com/album/5WvkGu24ipDKjOFzlXsDIy) | 7:11 | 2021-07-30 | 2023-02-03 |
+| [Hero](https://open.spotify.com/track/6qs0du8wCYvQLrLvKUS5bs) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/5jFhHUqOLlGag9HlhmlDVC) | 7:11 | 2021-07-30 |  |
 | [Hero](https://open.spotify.com/track/6tQvfblsmRCrZXx7xhDCqT) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! Digital Box](https://open.spotify.com/album/7HRlqkxth9vE0F35S6JGvM) | 7:11 | 2021-07-30 | 2022-07-29 |
 | [Hero](https://open.spotify.com/track/4I6yqyOzRr3gI0yjVfYVBq) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/7B9AA0Yw2rGbOVZ2ExZjE2) | 7:11 | 2021-07-30 | 2023-04-29 |
 | [Hero](https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l) | 7:11 | 2021-07-30 | 2024-03-10 |
@@ -133,7 +134,7 @@
 | [I Hear the Vibrations](https://open.spotify.com/track/2JFuf7873vzHiJqpmwFTVL) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Contact B/W I Hear Vibrations](https://open.spotify.com/album/33K7gFbVp1ZFYkO0GTFhwX) | 8:21 | 2021-07-30 | 2022-07-29 |
 | [I Hear the Vibrations](https://open.spotify.com/track/4m1kM6Hra0SsKYW5nSRZWE) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Contact b/w I Hear the Vibrations](https://open.spotify.com/album/51VLVN7CavAXPWLVrd5P7Q) | 8:21 | 2021-07-30 | 2023-01-26 |
 | [I'm Not Living in the Past Anymore](https://open.spotify.com/track/0EJMRsAoUBTKOCWb1yxZ7R) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Interloper](https://open.spotify.com/album/29ngjBDdIHdNTX5kECHGUF) | 4:07 | 2021-07-30 | 2022-12-18 |
-| [I'm Not Living in the Past Anymore](https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Interloper](https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs) | 4:07 | 2021-07-30 |  |
+| [I'm Not Living in the Past Anymore](https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Interloper](https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs) | 4:07 | 2021-07-30 | 2024-03-13 |
 | [I've Seen a U.F.O.](https://open.spotify.com/track/0RrXnG23LmlJNiYDFBy4Jq) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 8:36 | 2021-07-30 |  |
 | [If You Miss](https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Silver Apples of the Moon](https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR) | 5:19 | 2021-07-30 | 2023-01-26 |
 | [Imperio](https://open.spotify.com/track/4H6DcYcjNs5GzfF8gHncke) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [Imperio](https://open.spotify.com/album/4xSIqrDjct43Ts9y0p2Foj) | 3:39 | 2021-07-30 | 2023-01-26 |
@@ -173,6 +174,7 @@
 | [Les Yper\-Sound](https://open.spotify.com/track/7CjHVBO2kxsRKvKU5rF6XX) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/4420hj4RNgpozukzJlePCG) | 4:05 | 2021-07-30 | 2023-02-06 |
 | [Les Yper\-Sound](https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs) | 4:05 | 2021-07-30 | 2024-02-29 |
 | [Like Foxes Through Fences](https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:37 | 2021-07-30 |  |
+| [Lookin Up \- Instrumental Version](https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw) | [Manic Vila](https://open.spotify.com/artist/6l8cL9AYxzM9OqJlLLeVrd) | [33641 \(Instrumental Version\)](https://open.spotify.com/album/6gRt01llWuDsh96iVOFA6W) | 1:12 | 2024-03-12 |  |
 | [Love Builds Up](https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 5:24 | 2021-07-30 |  |
 | [Love Builds Up](https://open.spotify.com/track/2rvcGIgiXQW6ISyaJM9K3n) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/6SW50UcFp4INcJNkCIrr07) | 5:24 | 2021-07-30 | 2022-07-29 |
 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 | 2021-07-30 | 2023-08-13 |
@@ -294,7 +296,7 @@
 | [Super Inuit \(Studio\)](https://open.spotify.com/track/1xeYbKA8tshHvtbEAZVskj) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Lovely Allen](https://open.spotify.com/album/70GJhjsFTh47FvAGJw5DXb) | 3:44 | 2021-07-30 | 2022-11-13 |
 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 | 2021-07-30 |  |
 | [Surfing The Warm Industry](https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ) | [Kashmir](https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu) | [Zitilites](https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c) | 4:26 | 2021-07-30 |  |
-| [Synapse](https://open.spotify.com/track/7vwIzkbkgex07UkXbTr5L2) | [AUTORHYTHM](https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k) | [Synapse / Oxytocin](https://open.spotify.com/album/4B0I8VrDXo4wj2HfCZBvUD) | 2:04 | 2023-11-08 |  |
+| [Synapse](https://open.spotify.com/track/7vwIzkbkgex07UkXbTr5L2) | [AUTORHYTHM](https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k) | [Synapse / Oxytocin](https://open.spotify.com/album/4B0I8VrDXo4wj2HfCZBvUD) | 2:04 | 2023-11-08 | 2024-03-13 |
 | [Synchron](https://open.spotify.com/track/3io1rzJhFB9rfWBV0v2txa) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Remember I Was Carbon Dioxide](https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX) | 4:24 | 2021-07-30 | 2023-01-26 |
 | [Take It or Leave It](https://open.spotify.com/track/3LOIshI7mOuWUHsjeFqbd5) | [Turtle Skull](https://open.spotify.com/artist/128UKyvBiHlCxTKzkwmcK8) | [Turtle Skull](https://open.spotify.com/album/2kbtjfE3P9Kf4tJS9kLxIL) | 8:26 | 2021-07-30 | 2023-01-26 |
 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 | 2023-02-17 | 2023-03-18 |

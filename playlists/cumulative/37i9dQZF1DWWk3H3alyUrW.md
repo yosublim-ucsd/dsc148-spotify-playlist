@@ -4,16 +4,17 @@
 
 > Enjoy these songs while you eat.
 
-50 songs - 3 hr 24 min
+51 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acemişiran Saz Semaisi](https://open.spotify.com/track/50f3GD1oGC4FdrlRsT9lta) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 4:59 | 2023-03-19 |  |
 | [Akşam Güneşi \- Live](https://open.spotify.com/track/1WaVrvdpRfkGPXx34B84wk) | [Aytac Dogan](https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi) | [Kanun Resitali 2 \(Live\)](https://open.spotify.com/album/36Wq84oDHAaj6mkO9n6o40) | 4:35 | 2023-03-19 |  |
+| [Anadolu \(Hüseyni Saz Eseri\)](https://open.spotify.com/track/6iWmhXEPOXSHewuzUkBivJ) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 2:51 | 2023-03-19 |  |
 | [Buselik Beste 'Her Gördüğü Periye Gönül Müptela Olur'](https://open.spotify.com/track/4Hwx1AaqcuwDjramuaGqXj) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 4:53 | 2023-03-19 |  |
 | [Bêyhude](https://open.spotify.com/track/7L6tBeNGziFlFTRrMUs6ZR) | [Yansımalar](https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD) | [Pervane](https://open.spotify.com/album/4TYxBvC1kIzNt96Aj9nZQF) | 5:11 | 2023-03-19 |  |
 | [Dök Zülfünü Meydana Gel](https://open.spotify.com/track/7e8ihILPkAN4K4N8yAgxo7) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 2:34 | 2023-03-19 |  |
-| [Esinti \(Kürdi Saz Eseri\)](https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 4:37 | 2023-03-19 |  |
+| [Esinti \(Kürdi Saz Eseri\)](https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 4:37 | 2023-03-19 | 2024-03-13 |
 | [Ferahfeza Saz Semaisi \(Udi Serif Muhittin Targan\)](https://open.spotify.com/track/73SURSA7uBw0tNjZl7gvXI) | [Murat Aydemir, Derya Turkan](https://open.spotify.com/artist/5m4mYys97lQHLjpLQIiDrz) | [Ahenk, Turkish Classical Music](https://open.spotify.com/album/06MEo3CVEIk5PSPN514A46) | 4:25 | 2023-03-19 |  |
 | [Fikrimin İnce Gülü](https://open.spotify.com/track/22BI3CICtIL7SuVEvx3Jqo) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 3:11 | 2023-03-19 |  |
 | [Gnossienne No.1](https://open.spotify.com/track/0xiM8EA89dvymLKODbtVjC) | [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB) | [Dönmez Yol](https://open.spotify.com/album/2OYUQsKSOglrXK0UNyAX8k) | 4:39 | 2023-03-19 |  |

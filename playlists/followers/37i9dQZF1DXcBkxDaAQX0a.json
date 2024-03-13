@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 337206,
+  "2024-03-13": 337246,
   "date_first_scraped": "2021-12-21",
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
   "name": "Punk Unplugged",
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 204538,
       "name": "Deadlocked - Acoustic",
       "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 213600,
       "name": "End of an Era (Acoustic)",
       "url": "https://open.spotify.com/track/1MOdasYTTObANkLfUkcDtF"
@@ -3871,7 +3871,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 186160,
       "name": "Story Of My Bros - Acoustic",
       "url": "https://open.spotify.com/track/4lHy961n9KMbzwOM4ewgHP"
@@ -4649,7 +4649,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Weight of the World (Acoustic)",
       "url": "https://open.spotify.com/track/2YG5TPqTTVM4OwJtvqBbSG"

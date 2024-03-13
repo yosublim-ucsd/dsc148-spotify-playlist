@@ -1,12 +1,12 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 4761,
+  "num_followers": 4769,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmZmOWUwZmI5ZDRlMjZjYjQ3ZmJjMDgyYjgwNGYwMGQxNjM3MzNi",
+  "snapshot_id": "MCw0YjYwYjVhYjI3ZDhlMTU5ZmQ2YmZjMzM3ZTZiYzE3Zjg0ZDAwMmFl",
   "tracks": [
     {
       "added_at": "2024-03-08 06:42:30",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "\ub300\ub2f5 Answer (stripped)",
-        "url": "https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "\ub300\ub2f5 (stripped) Answer (stripped)",
-      "url": "https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 213327,
       "name": "Going home",
       "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "\ub300\ub2f5 Answer (stripped)",
+        "url": "https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "\ub300\ub2f5 (stripped) Answer (stripped)",
+      "url": "https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "\uc5b4\uc11c\uc624\uc138\uc694 \uc5ec\ub984\ubc24",
-        "url": "https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx"
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
       },
       "artists": [
         {
-          "name": "Herz Analog",
-          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 259367,
-      "name": "\uc5ec\ub984\ubc24",
-      "url": "https://open.spotify.com/track/3D2XzN5RUtogeIw7f9fTCS"
+      "duration_ms": 243440,
+      "name": "Remind of You",
+      "url": "https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Offset",
-        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+        "name": "\uc5b4\uc11c\uc624\uc138\uc694 \uc5ec\ub984\ubc24",
+        "url": "https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "Herz Analog",
+          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
         }
       ],
-      "duration_ms": 243440,
-      "name": "Remind of You",
-      "url": "https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX"
+      "duration_ms": 259367,
+      "name": "\uc5ec\ub984\ubc24",
+      "url": "https://open.spotify.com/track/3D2XzN5RUtogeIw7f9fTCS"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 187999,
-      "name": "Excuse",
-      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "youth",
         "url": "https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 216360,
       "name": "Youth",
       "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 187999,
+      "name": "Excuse",
+      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
     },
     {
       "added_at": "2024-03-08 06:42:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,526 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,525 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 48 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 |
 | 49 | [Radiosoul \- Single Version](https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE) | 3:38 |
 | 50 | [Start Here](https://open.spotify.com/track/4SR9gj7rK1XCI0dsPtBlTh) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Start Here](https://open.spotify.com/album/2r3IbfriHwBrPEGT6bNjPy) | 3:14 |
-| 51 | [댄스 그리고 침을 꼴딱 Dance and gulp down saliva \(feat\. The Deep\)](https://open.spotify.com/track/4Jd4MvIH7Db5TAQy6gMfiI) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [침을 꼴딱 Gulp Down Saliva](https://open.spotify.com/album/3OD3EaKKtWUvOlUxwUFnku) | 4:00 |
+| 51 | [Dance and gulp down saliva \(feat\. The Deep\)](https://open.spotify.com/track/4Jd4MvIH7Db5TAQy6gMfiI) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Gulp Down Saliva](https://open.spotify.com/album/3OD3EaKKtWUvOlUxwUFnku) | 4:00 |
 | 52 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 |
 | 53 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 |
 | 54 | [Dâu Thiên Hạ](https://open.spotify.com/track/0rfQw4NcOrsjkJUK1rsZ01) | [Suboi](https://open.spotify.com/artist/2Fc5cGXai8xzLhGyltp4tT) | [Dâu Thiên Hạ](https://open.spotify.com/album/5Sk4xzKCcD1eehwjTIgwft) | 2:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [River Dream](https://open.spotify.com/track/2AO8hYjjnx4N4fu6peQMYU) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3), [foundation.fm](https://open.spotify.com/artist/45CQFfoOjvHpb40G1HX8eZ) | [River Dream](https://open.spotify.com/album/6rMSHgB5qKWSL6G3tULj4m) | 2:54 |
 | 70 | [i ai](https://open.spotify.com/track/2RUG4LZRQq5MwPNTipOIcs) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6hvYxf47rTGD9q1FFlAp89) | 9:08 |
 
-Snapshot ID: `MCxhY2Y3NTg4ZGM3Nzc1ZGE1NTY1NDA0OTI3MjJkYjFhOTliNWY3ZDMx`
+Snapshot ID: `MCwyYWUwYWU1ODdkMTBkOWE0MWJiZDIwYmViYzljMjM5MDhlMmU3NjUz`

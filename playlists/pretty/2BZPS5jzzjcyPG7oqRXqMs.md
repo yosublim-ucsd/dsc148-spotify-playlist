@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Christian Soundtracks \| Musicals Mix \| Musical Soundtracks \| Musical Bops \| Christian TV Bops \| Journey to Bethlehem \| Musical Theatre Mix \| Christian Music 2024 \| The Chosen \| Movie Musicals Mix \| Musical Theatre Musicals Mix \| Theatre Bops 2024 \| Christian Movies
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,694 likes - 109 songs - 6 hr 50 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,689 likes - 109 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-733 songs - 1 day 19 hr 49 min
+734 songs - 1 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Maybe It's Time](https://open.spotify.com/track/1bifS5x7eHFdTWXtxnDr52) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Maybe It's Time](https://open.spotify.com/album/6leR5gaG9TW113rfEOpE0b) | 2:30 | 2022-07-29 | 2023-02-15 |
 | [Maybe It's Time](https://open.spotify.com/track/5D3UgjYxNMetCXCBifsAQC) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Maybe It's Time](https://open.spotify.com/album/7jtjZ7Zpfi3KX6WORVSXiB) | 2:30 | 2021-12-17 | 2022-07-29 |
 | [Maybe It's Time](https://open.spotify.com/track/6WneXoQ7v5vxG5VAiCaSI4) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Maybe It's Time](https://open.spotify.com/album/3snAMsq8nNZDpwOO3pBc8t) | 2:30 | 2023-02-10 |  |
+| [Mentiras Con Cariño](https://open.spotify.com/track/2CyhpAB516q2OaNwcmTHyC) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Boleros Psicodélicos](https://open.spotify.com/album/4UPS9xWe3D9WkyR8rcZe8v) | 3:48 | 2023-10-06 |  |
 | [Mentiras Con Cariño](https://open.spotify.com/track/68S4gw8NT6Tf1IbGrIftLj) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Mentiras Con Cariño](https://open.spotify.com/album/0Ug12AyGyXXxK7iHKHXmcC) | 3:48 | 2022-04-01 | 2022-05-20 |
 | [Mercy](https://open.spotify.com/track/0s5qyDeL5KqWoBP4xRnse7) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:12 | 2022-01-24 | 2022-04-18 |
 | [Mercy](https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Yard Sale](https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A) | 4:02 | 2021-12-17 | 2022-07-29 |
@@ -582,7 +583,7 @@
 | [Song In My Head \- Reimagined](https://open.spotify.com/track/7s9f9Sv3wM6hRdDOskGtBb) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Song In My Head \(Reimagined\)](https://open.spotify.com/album/04AJf0tKs9T91C72RKb91O) | 4:31 | 2021-12-17 | 2022-07-29 |
 | [Southern Sun \- Acoustic](https://open.spotify.com/track/1Q4y1dI3ieJCWa85pfoxRG) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Southern Sun \(Acoustic\)](https://open.spotify.com/album/3a3flIsOfmAGtAeS4fk5m6) | 4:30 | 2021-12-17 | 2022-04-19 |
 | [Speaking Terms](https://open.spotify.com/track/063ikBqSyWhsawxu3op6UT) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Speaking Terms](https://open.spotify.com/album/0gMLDnVNsbdnnbQuRYst7v) | 3:50 | 2022-02-18 | 2022-04-02 |
-| [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 | 2022-07-22 |  |
+| [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 | 2022-07-22 | 2024-03-13 |
 | [Starlight](https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Starlight](https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax) | 4:02 | 2022-01-24 | 2022-04-20 |
 | [Starting To Get To You](https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Starting To Get To You](https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO) | 2:41 | 2021-12-17 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 | 2021-12-17 |  |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 123724,
       "name": "A3zam Ayam",
       "url": "https://open.spotify.com/track/38bL58Q5kf7RbC2WIciW3Q"
@@ -38,6 +38,28 @@
       "duration_ms": 214705,
       "name": "Ahlan Ramadan",
       "url": "https://open.spotify.com/track/79nSB35IGr3o4FdavxwOXm"
+    },
+    {
+      "album": {
+        "name": "Ahlan Ramadan",
+        "url": "https://open.spotify.com/album/2NWc9tnxVJc1TK1U51p0EN"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Tarek",
+          "url": "https://open.spotify.com/artist/0I7sMQsYXAug5uQtZnzTIb"
+        },
+        {
+          "name": "Ibrahim Al Dardasawi",
+          "url": "https://open.spotify.com/artist/36Vbky7ZIPAceSgzGaApoC"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "Ahlan Ramadan",
+      "url": "https://open.spotify.com/track/2IBydskU0pX1NtsPYRe0Ch"
     },
     {
       "album": {
@@ -160,7 +182,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 244244,
       "name": "Farhet Ramadan",
       "url": "https://open.spotify.com/track/3pnaVmU6XF5AEuLATBMZCV"
@@ -384,6 +406,24 @@
       "duration_ms": 246546,
       "name": "Ramadan - Arabic Version",
       "url": "https://open.spotify.com/track/6azlD4KK2Tl8gbMPbVIqxQ"
+    },
+    {
+      "album": {
+        "name": "Ramadan Fi Masr Haja Taniah",
+        "url": "https://open.spotify.com/album/0oSVE8rcu8adMS2Rd0qZiE"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Ramadan Fi Masr Haja Taniah",
+      "url": "https://open.spotify.com/track/3Ro4duVEwWgCyCRH4e4NWh"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2508,
+  "num_followers": 2510,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2RmYTM1M2RkOWQ2MTAyNTNiYzY2NmNhZGFhMDI2NzBlNzE1YmEy",
+  "snapshot_id": "MCxhYjcwMWIyOWU4NjkxZGU1MmU1YTI5NzExNjBkOWI0YzVhY2I3MmRj",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Kol Kole",
-        "url": "https://open.spotify.com/album/2EATaR0fYEMr5NUVnZUbBN"
-      },
-      "artists": [
-        {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
-        }
-      ],
-      "duration_ms": 302576,
-      "name": "Eliana",
-      "url": "https://open.spotify.com/track/2gFGX4D713Lxdn7X5k7C6V"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Music from Mauritius",
         "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 174497,
       "name": "Ambalaba",
       "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Kol Kole",
+        "url": "https://open.spotify.com/album/2EATaR0fYEMr5NUVnZUbBN"
+      },
+      "artists": [
+        {
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+        }
+      ],
+      "duration_ms": 302576,
+      "name": "Eliana",
+      "url": "https://open.spotify.com/track/2gFGX4D713Lxdn7X5k7C6V"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "La Route Karanbol",
+        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
+      },
+      "artists": [
+        {
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+        }
+      ],
+      "duration_ms": 287711,
+      "name": "La Route Karanbol",
+      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Mario",
         "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 285882,
       "name": "Sa Pa Zot Traka",
       "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "La Route Karanbol",
-        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
-      },
-      "artists": [
-        {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
-        }
-      ],
-      "duration_ms": 287711,
-      "name": "La Route Karanbol",
-      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
     },
     {
       "added_at": "2022-08-11 10:05:16",

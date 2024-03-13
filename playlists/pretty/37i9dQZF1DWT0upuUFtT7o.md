@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,714 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,748 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [BUG0BEAT](https://open.spotify.com/track/0uTpXHZk8Ifib4X8ZxF5bC) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [BUG0BEAT](https://open.spotify.com/album/7zdjMuGcidAfUVcTvDvaOQ) | 3:01 |
 | 100 | [Just Like Heaven](https://open.spotify.com/track/5jllHkxe3JUdEpsrMYywv4) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Just Like Heaven](https://open.spotify.com/album/4vj87sOnqARYS2nsfc3C6B) | 2:02 |
 
-Snapshot ID: `MCwyMzQwYzhhZDM3ZDUwOTk5MTE5NDY5N2M2NjEyZDZmYWIwYjcyYWZi`
+Snapshot ID: `MCwzNzcwY2QzYzMzMDlkYjcxMTRjZDhjZTA0MGFlMmY1YTM1NDliNGI4`

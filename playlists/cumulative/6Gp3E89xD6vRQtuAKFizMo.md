@@ -4,12 +4,13 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-280 songs - 13 hr 37 min
+281 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 | 2022-05-06 | 2022-10-08 |
 | [4321](https://open.spotify.com/track/6vWnGPaLwC7dZEZta594fs) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [4321](https://open.spotify.com/album/3sMHqf5dmjRL3MaENIrp7z) | 2:22 | 2024-01-19 |  |
+| [911](https://open.spotify.com/track/7wkjbEz5ZKO2BD2UQ9xng5) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD) | [911](https://open.spotify.com/album/0sPhVYEG3PMR9pQliDALZp) | 2:55 | 2024-03-12 |  |
 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 | 2022-11-11 | 2023-02-18 |
 | [All I Wanna Do](https://open.spotify.com/track/1ExWt42DF0GzaPIBfaX6qp) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [All I Wanna Do](https://open.spotify.com/album/3X8cM72cVFMPwRDZjDQLDF) | 2:59 | 2023-11-22 |  |
 | [All I Wanted \(feat\. MelonRose\)](https://open.spotify.com/track/11dxsj1dc2NRRDN3gNqu4l) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [MelonRose](https://open.spotify.com/artist/65LJ7hn9wYfgtLGdFzW00J) | [All I Wanted \(feat\. MelonRose\)](https://open.spotify.com/album/14ZIyqeMexADGW43gZbuxi) | 4:56 | 2023-04-28 | 2023-05-06 |

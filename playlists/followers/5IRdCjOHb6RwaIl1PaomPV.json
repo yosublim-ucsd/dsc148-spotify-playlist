@@ -1,7 +1,7 @@
 {
-  "2024-03-12": 50892,
+  "2024-03-13": 50891,
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. New music from Merry Lamb Lamb, plus the latest cuts from SURF GANG, Eartheater and more.",
+  "description": "The latest tracks from Mad Decent and friends. New music from Bennett Coast, plus the latest cuts from Omar Souleyman, John Glacier and more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -254,6 +254,28 @@
     },
     {
       "album": {
+        "name": "A Dream Goes On Forever",
+        "url": "https://open.spotify.com/album/3GlvdGXfhdSubUQ2uKYXKI"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279170,
+      "name": "A Dream Goes On Forever",
+      "url": "https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v"
+    },
+    {
+      "album": {
         "name": "A Dream I Have",
         "url": "https://open.spotify.com/album/4q09Lh1wmtnQQhH6MP5x1o"
       },
@@ -335,6 +357,24 @@
       "duration_ms": 385074,
       "name": "Admit It (u don't want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
+    },
+    {
+      "album": {
+        "name": "Affect / Neverend",
+        "url": "https://open.spotify.com/album/4JDRioCPrW1ZxHmAI9tvxX"
+      },
+      "artists": [
+        {
+          "name": "4evr",
+          "url": "https://open.spotify.com/artist/3kAtEgySEk9FNfVqtmdEYl"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114284,
+      "name": "Affect",
+      "url": "https://open.spotify.com/track/3yVB7bWzS0bzqD6IuqzUgA"
     },
     {
       "album": {
@@ -915,7 +955,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 219672,
       "name": "Bedroom DJ",
       "url": "https://open.spotify.com/track/20dT0PTJhqF57NuUk8HKuZ"
@@ -999,6 +1039,32 @@
       "duration_ms": 183157,
       "name": "Besos En El Club",
       "url": "https://open.spotify.com/track/0Hxk02bz6FacP2PrYI4h4S"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5JlAm591nnaRORqr4X5iL7"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        },
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        },
+        {
+          "name": "aimei \u5a9a",
+          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/3xVtTUF9m4H8Jn5jUajLUA"
     },
     {
       "album": {
@@ -1634,6 +1700,40 @@
     },
     {
       "album": {
+        "name": "RAVE:N, The Remixes",
+        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Flexulant",
+          "url": "https://open.spotify.com/artist/7KPkt13eGzrIOc8jShZzSi"
+        },
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Rahrah Gabor",
+          "url": "https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286014,
+      "name": "Closure - Flexulant x BAMBII Remix feat. Rahrah Gabor & Brazy",
+      "url": "https://open.spotify.com/track/3r0BqL7tEvkpO0jTRfLswN"
+    },
+    {
+      "album": {
         "name": "Classical Club Mixes",
         "url": "https://open.spotify.com/album/6hm2GEVTZmbsKN63VVmqEi"
       },
@@ -1934,6 +2034,24 @@
     },
     {
       "album": {
+        "name": "Dede",
+        "url": "https://open.spotify.com/album/0bePC9TQQn0AQmnckyTuXd"
+      },
+      "artists": [
+        {
+          "name": "Nora Toure",
+          "url": "https://open.spotify.com/artist/3Mo1ZXmpbD9cckUQTtXiBS"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224864,
+      "name": "Dede",
+      "url": "https://open.spotify.com/track/1rYHkSLAn0kcdkpmVeHhxd"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/4t92zAGms07Tr2S1DDh4ud"
       },
@@ -2033,7 +2151,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 180000,
       "name": "do I really scare you?",
       "url": "https://open.spotify.com/track/0CvIGlsdn8QT4cT3EzMnYS"
@@ -2550,6 +2668,24 @@
     },
     {
       "album": {
+        "name": "Like A Ribbon",
+        "url": "https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204916,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA"
+    },
+    {
+      "album": {
         "name": "Endless Sky",
         "url": "https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO"
       },
@@ -2975,6 +3111,28 @@
       "duration_ms": 263111,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/6LLsYNT3q36780QZwUGZ8q"
+    },
+    {
+      "album": {
+        "name": "FOREVER (Kareem Ali Remix)",
+        "url": "https://open.spotify.com/album/4ynBirhddBTm6AxefL8SNL"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        },
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "FOREVER - Kareem Ali Remix",
+      "url": "https://open.spotify.com/track/12OsQucIX8hPcUOYeVGQsU"
     },
     {
       "album": {
@@ -4075,7 +4233,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 311413,
       "name": "Indiana",
       "url": "https://open.spotify.com/track/1IcVhbg90rxbmxylJvKErN"
@@ -5187,7 +5345,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 212713,
       "name": "Malas Palabras",
       "url": "https://open.spotify.com/track/37uKPNLcQkC9SErEQSqc6r"
@@ -5336,6 +5494,28 @@
     },
     {
       "album": {
+        "name": "Like A Ribbon",
+        "url": "https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131007,
+      "name": "Money Shows",
+      "url": "https://open.spotify.com/track/4PyF3qBDq0i8okXct8HBrQ"
+    },
+    {
+      "album": {
         "name": "MONK",
         "url": "https://open.spotify.com/album/4JR5jtsuJdlQPLLRV0ooxd"
       },
@@ -5460,6 +5640,28 @@
     },
     {
       "album": {
+        "name": "Club Shy",
+        "url": "https://open.spotify.com/album/7q7aNUQEh4cY2JfuylF21F"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149506,
+      "name": "mr useless",
+      "url": "https://open.spotify.com/track/2IHoCwStzXdD8cYwaHzKlQ"
+    },
+    {
+      "album": {
         "name": "MTG TITANIC VAMO NESSA BB .",
         "url": "https://open.spotify.com/album/5nJaHUEJGla5Y9Zp0GnpwL"
       },
@@ -5515,7 +5717,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 266344,
       "name": "My Barn My Rules",
       "url": "https://open.spotify.com/track/1yw28y3kv8uS7ENaZkbUFt"
@@ -5559,6 +5761,24 @@
       "duration_ms": 390106,
       "name": "Neo Costeno",
       "url": "https://open.spotify.com/track/2BSs5zfMyUe6whYwF50CqB"
+    },
+    {
+      "album": {
+        "name": "Affect / Neverend",
+        "url": "https://open.spotify.com/album/4JDRioCPrW1ZxHmAI9tvxX"
+      },
+      "artists": [
+        {
+          "name": "4evr",
+          "url": "https://open.spotify.com/artist/3kAtEgySEk9FNfVqtmdEYl"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Neverend",
+      "url": "https://open.spotify.com/track/5mz455lNi6jtxtfDszs6Gr"
     },
     {
       "album": {
@@ -6311,7 +6531,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 90887,
       "name": "Pop Trunk",
       "url": "https://open.spotify.com/track/4TIIAPRWpFk1BseaR7a9c1"
@@ -6347,10 +6567,28 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 120783,
       "name": "Press Me",
       "url": "https://open.spotify.com/track/3fokvGA8deWlahVltvmhxG"
+    },
+    {
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177104,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
     },
     {
       "album": {
@@ -6391,7 +6629,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 75990,
       "name": "prima donna",
       "url": "https://open.spotify.com/track/1i1LE3fHzpu7peB8UQNGnK"
@@ -6505,6 +6743,24 @@
       "duration_ms": 261055,
       "name": "Pushed You Away",
       "url": "https://open.spotify.com/track/4NNgRuXULfXbj6IYVzPK64"
+    },
+    {
+      "album": {
+        "name": "Rahat Al Chant Ymme",
+        "url": "https://open.spotify.com/album/5h3JKxrpvcQs3BbPM1sAUF"
+      },
+      "artists": [
+        {
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319066,
+      "name": "Rahat Al Chant Ymme",
+      "url": "https://open.spotify.com/track/5da9mhqPimauZM5WwnEwzP"
     },
     {
       "album": {
@@ -6837,7 +7093,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 183243,
       "name": "Robert De Niro",
       "url": "https://open.spotify.com/track/28qmMv7hhB6tXU745RffOC"
@@ -7071,7 +7327,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 268779,
       "name": "Set The Roof",
       "url": "https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2"
@@ -7210,6 +7466,24 @@
     },
     {
       "album": {
+        "name": "Silence Is Loud",
+        "url": "https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157745,
+      "name": "Silence Is Loud",
+      "url": "https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg"
+    },
+    {
+      "album": {
         "name": "Singamo",
         "url": "https://open.spotify.com/album/253SMVFCLr8mpmUAyQekLW"
       },
@@ -7259,6 +7533,24 @@
       "duration_ms": 134222,
       "name": "Sistema De Patio",
       "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
+    },
+    {
+      "album": {
+        "name": "Slug",
+        "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Slug",
+      "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
     },
     {
       "album": {
@@ -7943,10 +8235,32 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 171856,
       "name": "The Way I'm Wired",
       "url": "https://open.spotify.com/track/7jMxJVSXpVqM4jTXu3wRfO"
+    },
+    {
+      "album": {
+        "name": "The Way I\u2019m Wired (KILIMANJARO Remix)",
+        "url": "https://open.spotify.com/album/3qgBThQbCxS7uGURXOZMIV"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252203,
+      "name": "The Way I\u2019m Wired - KILIMANJARO Remix",
+      "url": "https://open.spotify.com/track/6iqy6H6CitkDAhSjwdEc0S"
     },
     {
       "album": {
@@ -8141,10 +8455,28 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 224893,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/7qdETIUEvsFoIh8Ed3YDpk"
+    },
+    {
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "album": {
@@ -8199,7 +8531,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 203490,
       "name": "Tricks Up My Sleeve",
       "url": "https://open.spotify.com/track/7hdIFiSHeHz3t14NwIdpvQ"
@@ -8415,6 +8747,24 @@
       "duration_ms": 267084,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4t77cSxZdEtp6omykJw51C"
+    },
+    {
+      "album": {
+        "name": "Von dutch",
+        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
       "album": {
@@ -8735,6 +9085,32 @@
       "duration_ms": 206730,
       "name": "Wild n Sweet",
       "url": "https://open.spotify.com/track/2g1eL34ZVxifL8VYe1FsNK"
+    },
+    {
+      "album": {
+        "name": "Wild n Sweet (Paul Woolford's Special Request Mix)",
+        "url": "https://open.spotify.com/album/2Nn1QjEoj0RleN2mKJV8m6"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260941,
+      "name": "Wild n Sweet - Paul Woolford's Special Request Mix",
+      "url": "https://open.spotify.com/track/7InnYgaoJvjo4CP06vgoR0"
     },
     {
       "album": {

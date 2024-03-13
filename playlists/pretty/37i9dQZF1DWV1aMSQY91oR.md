@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Lola Brooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,427 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,438 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Red Future \(feat\. Electric Fields\)](https://open.spotify.com/track/7nvnmUYiJYbHgGL0MDH7G0) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Red Future \(feat\. Electric Fields\)](https://open.spotify.com/album/13zIKYYrCqLwiuphkkgII9) | 3:08 |
 | 49 | [Really Like U](https://open.spotify.com/track/5Ph0B4BDJQM7RipTy75EEk) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Really Like U](https://open.spotify.com/album/61Ueu7TdmorehxJMhRXPFP) | 3:50 |
 
-Snapshot ID: `MCwxMzljMzc1Njk4NGU4MmZkMDc0MDhiNmJlNGIyZDRhYjNhMjQxYzJi`
+Snapshot ID: `MCwzNDFhNGJiOTYzM2EwMmEwZWQxZDEyZTU4MGJhNzE3MDMyMDk5YTdi`

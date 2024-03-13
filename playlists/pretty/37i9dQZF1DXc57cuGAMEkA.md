@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Ariana Grande, マカロニえんぴつ, imase, Conan Gray, d4vd and more! cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,937 likes - 72 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,946 likes - 72 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 71 | [Swervin'](https://open.spotify.com/track/13ksAbvRqdsepUJyLubkNT) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV), [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [Swervin'](https://open.spotify.com/album/3eOYZb9IaoJAJzWh3eMVvm) | 4:29 |
 | 72 | [NEXT2U](https://open.spotify.com/track/452UAReM2UFF3iulDbsBz2) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [NEXT2U](https://open.spotify.com/album/1m50X57bJuqNu12YmpUVm6) | 2:22 |
 
-Snapshot ID: `MCxiN2Y4Yjg4N2M2ODVjYmFmNDAwOTc5ODk3NzhiNGU1MDIxOWQ5ZjM4`
+Snapshot ID: `MCwzNjA3YTExMzY4Y2FhMzhkYmNmYjQxZmYzMDA4MDg0OWZjOTNhYWM3`

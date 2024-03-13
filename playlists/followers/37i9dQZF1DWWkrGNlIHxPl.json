@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 153368,
+  "2024-03-13": 153391,
   "date_first_scraped": "2021-12-28",
   "description": "Global crossovers by/with Arab artists. Cover: MC Abdul & Saint Levant",
   "name": "Arab X",
@@ -2881,7 +2881,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 163567,
       "name": "IL0V3Y0U",
       "url": "https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z"
@@ -3877,7 +3877,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 144761,
       "name": "No Stoppin It",
       "url": "https://open.spotify.com/track/4mAudBIutouYr6kFgBdDx8"
@@ -6029,6 +6029,32 @@
       "duration_ms": 217106,
       "name": "WATER",
       "url": "https://open.spotify.com/track/6s3GAR8XAY06Qk05V4A0z7"
+    },
+    {
+      "album": {
+        "name": "Wavy in Brooklyn",
+        "url": "https://open.spotify.com/album/4CClVr9DFvedg0LX4Q8bQD"
+      },
+      "artists": [
+        {
+          "name": "Felukah",
+          "url": "https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F"
+        },
+        {
+          "name": "Nadine El Roubi",
+          "url": "https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf"
+        },
+        {
+          "name": "Mo Stank",
+          "url": "https://open.spotify.com/artist/09mbQueasspgFFhkE1pc7V"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176228,
+      "name": "Wavy in Brooklyn",
+      "url": "https://open.spotify.com/track/1C8KiYm5khCfsqJkqlfWkb"
     },
     {
       "album": {

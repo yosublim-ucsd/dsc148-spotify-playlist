@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: LEEPA
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,502 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,624 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [eBay](https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [eBay](https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU) | 2:22 |
+| 1 | [Atlantis](https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:34 |
 | 2 | [fensterbank](https://open.spotify.com/track/4SEMA2hhBUi7PNCDrQGJ51) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [no hook pt.2](https://open.spotify.com/album/35YzCA785qR1zgmzOgrP9y) | 2:27 |
-| 3 | [Atlantis](https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:34 |
+| 3 | [eBay](https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [eBay](https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU) | 2:22 |
 | 4 | [Träume vom Alleinsein](https://open.spotify.com/track/41NaCg5GNqct6CpSAefJ72) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [nasskalt.](https://open.spotify.com/artist/4XYeJWX6oU3Jqql17bOHX9) | [Träume vom Alleinsein](https://open.spotify.com/album/1l3gJ8VDQtL3mBL93z0GZu) | 2:21 |
 | 5 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
 | 6 | [bittebitte](https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [bittebitte](https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [laster](https://open.spotify.com/track/3r1QMbUzff4aVrUIbYjUDf) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ), [wurms](https://open.spotify.com/artist/1NRxQqay9yZbV1ofu3Okbo) | [laster](https://open.spotify.com/album/5xW9CEKTYheABRLqRlairz) | 2:32 |
 | 75 | [Wie ich es sag](https://open.spotify.com/track/6FtJu1XmUSjRtlUAugl1Qu) | [Jante](https://open.spotify.com/artist/5HKZFz9gyymN1JTB7jbadX), [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Wie ich es sag](https://open.spotify.com/album/0kroYRJo2kAGSrilmVkTJ9) | 3:03 |
 
-Snapshot ID: `MCxmYWIyNzQyNjFiZDZjY2ViN2EzZWVhYjQ2YTA0OGQwNjVkY2ZkZTI3`
+Snapshot ID: `MCw1MWM2Yzc1YzRhZDYxZDZlMDlmNDVkMmUyN2FhMjljYjZlZDZhMTRm`

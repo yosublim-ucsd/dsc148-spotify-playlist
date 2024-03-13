@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 
 > À deux, c'est mieux ! Photo : Amir & Indila
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,487 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,541 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 | 49 | [Désolé pour les fantômes](https://open.spotify.com/track/6H0PWiRrjLQw5DRmkL6tqA) | [Benoît Dorémus](https://open.spotify.com/artist/5hycJSz5ShgiZi23ouEIYv), [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Désolé pour les fantômes](https://open.spotify.com/album/1LbNe9gqVLuQSmrHFc6dLQ) | 3:38 |
 | 50 | [Petit jeu](https://open.spotify.com/track/0e8egATGvJTvGLteAKqDcN) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Mitsouko](https://open.spotify.com/album/0t7wzTgJrobMB7rXPubrMT) | 3:17 |
 
-Snapshot ID: `MCwxNDY5Njg1YTM4OTdhN2IxODc4NjM5MDU3ZGY4ZWNkYjQyOWE5OWM1`
+Snapshot ID: `MCxkM2IzODRkNmYwNGRkOTIzZDA2ZmUzNTMzMmEzYWNhMTQxNDY1ZDVh`

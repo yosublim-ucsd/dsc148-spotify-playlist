@@ -1,7 +1,7 @@
 {
-  "2024-03-12": 975357,
+  "2024-03-13": 975397,
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Omar Montes, Abraham Mateo",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Manuel Turizo, Lola Indigo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -2650,6 +2650,24 @@
     },
     {
       "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/1qYYKmUgYaoMcEvScUhpLS"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164141,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/6WbNx5PkzvfYr2qHOg2TZ6"
+    },
+    {
+      "album": {
         "name": "Espinita Clav\u00e1",
         "url": "https://open.spotify.com/album/6TNvmYm1VvIgk7VkKiyiUw"
       },
@@ -3343,6 +3361,24 @@
       "duration_ms": 225750,
       "name": "La Balada",
       "url": "https://open.spotify.com/track/2fEkjxvVZi37s7E80sOwfT"
+    },
+    {
+      "album": {
+        "name": "La buena vida",
+        "url": "https://open.spotify.com/album/15UKPNMN0uDIOAPYcx9sYi"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Koi",
+          "url": "https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178250,
+      "name": "La buena vida",
+      "url": "https://open.spotify.com/track/6izsmJLjlJQF4fYlY5wTih"
     },
     {
       "album": {
@@ -4265,7 +4301,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
@@ -4553,6 +4589,24 @@
       "duration_ms": 173259,
       "name": "mejores amigos",
       "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
+    },
+    {
+      "album": {
+        "name": "Menamorao (demo)",
+        "url": "https://open.spotify.com/album/6FH3E3d1GYsCSvNglmlkzh"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163986,
+      "name": "Menamorao (demo)",
+      "url": "https://open.spotify.com/track/1rknipvLh4fVNjrKvwb47B"
     },
     {
       "album": {
@@ -7389,6 +7443,28 @@
       "duration_ms": 185958,
       "name": "tequiero",
       "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
+    },
+    {
+      "album": {
+        "name": "Thelma & Louise",
+        "url": "https://open.spotify.com/album/2YTB67om6z9VDi94wTPdjT"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        },
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161194,
+      "name": "Thelma & Louise",
+      "url": "https://open.spotify.com/track/7m8aetuFspDvP5GXhVJBQx"
     },
     {
       "album": {

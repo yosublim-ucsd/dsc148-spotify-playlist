@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0OTc3ODAsMDAwMDAwMDA5MDQ3NzIwMWZmMzY1YzY2N2E5YjVhMmY1ZTU2YTFmMQ==",
+  "snapshot_id": "Mjg0OTc3ODAsMDAwMDAwMDA5MWY2MGM5NTg5YTllZDg4YjIwNTU5NDE5NGQxNzUyNA==",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 202493,
       "name": "D\u00e9jate Caer - 2024",
       "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 381067,
+      "name": "Invincible Shield",
+      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "The Last Imagination",
+        "url": "https://open.spotify.com/album/4rZlDpT9yufJYWhzDaxbjX"
+      },
+      "artists": [
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "The Last Imagination",
+      "url": "https://open.spotify.com/track/70vbbwbAEaWokZlGta6R8g"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -63,34 +95,38 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+        "name": "I'm a Rat",
+        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 381067,
-      "name": "Invincible Shield",
-      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
+      "duration_ms": 130547,
+      "name": "I'm a Rat",
+      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
     },
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "The Last Imagination",
-        "url": "https://open.spotify.com/album/4rZlDpT9yufJYWhzDaxbjX"
+        "name": "Danz\u00f3n Para La Espera",
+        "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
       },
       "artists": [
         {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+          "name": "Orquesta Failde",
+          "url": "https://open.spotify.com/artist/73pD7OtQXvDhvU0Cy6eo7T"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 227067,
-      "name": "The Last Imagination",
-      "url": "https://open.spotify.com/track/70vbbwbAEaWokZlGta6R8g"
+      "duration_ms": 302000,
+      "name": "Danz\u00f3n Para La Espera",
+      "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -123,42 +159,6 @@
       "duration_ms": 265206,
       "name": "California",
       "url": "https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Danz\u00f3n Para La Espera",
-        "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Failde",
-          "url": "https://open.spotify.com/artist/73pD7OtQXvDhvU0Cy6eo7T"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Danz\u00f3n Para La Espera",
-      "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "I'm a Rat",
-        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130547,
-      "name": "I'm a Rat",
-      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Legs (Live from the Blockbuster Pavilion San Bernardino, California on September 15, 1993, 2023 Remaster)",
         "url": "https://open.spotify.com/album/1vrhMXQSZGt9aNTPpUvcAc"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 261336,
       "name": "Soy Todo",
       "url": "https://open.spotify.com/track/57f2X9Am4tNzizcxVIcPy8"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -311,26 +311,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Swan Lake",
-        "url": "https://open.spotify.com/album/4VTFF86TuZh2LUcSUb4knS"
-      },
-      "artists": [
-        {
-          "name": "BeatBoyNinja",
-          "url": "https://open.spotify.com/artist/4yy2jmTSCf7yj03JA9eZdM"
-        },
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        }
-      ],
-      "duration_ms": 159054,
-      "name": "Swan Lake",
-      "url": "https://open.spotify.com/track/6eoHNG5FncwlHz9YRM6fNw"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "En El Muelle De San Blas (LoFi Version)",
         "url": "https://open.spotify.com/album/5JJRKVwFdlryO5oLcNelzi"
       },
@@ -351,6 +331,46 @@
       "duration_ms": 211080,
       "name": "En El Muelle De San Blas - LoFi Version 3",
       "url": "https://open.spotify.com/track/10G6oo1cWRUEF1Ib2DYTZo"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Swan Lake",
+        "url": "https://open.spotify.com/album/4VTFF86TuZh2LUcSUb4knS"
+      },
+      "artists": [
+        {
+          "name": "BeatBoyNinja",
+          "url": "https://open.spotify.com/artist/4yy2jmTSCf7yj03JA9eZdM"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "duration_ms": 159054,
+      "name": "Swan Lake",
+      "url": "https://open.spotify.com/track/6eoHNG5FncwlHz9YRM6fNw"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
+        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
+      },
+      "artists": [
+        {
+          "name": "Your Broken Hero",
+          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 178432,
+      "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
+      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -379,26 +399,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
-        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
-      },
-      "artists": [
-        {
-          "name": "Your Broken Hero",
-          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 178432,
-      "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
-      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Mayday Parade Lofi",
         "url": "https://open.spotify.com/album/3mdFkyggQ0iKXiDiMRGcbY"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 210578,
       "name": "Jersey - Lofi",
       "url": "https://open.spotify.com/track/76HueSHKUqdXKDCcY1sYpc"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "A Song to Save Us All",
+        "url": "https://open.spotify.com/album/5TtmNTJY8agkorkC4wsyy3"
+      },
+      "artists": [
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "duration_ms": 448120,
+      "name": "A Song to Save Us All",
+      "url": "https://open.spotify.com/track/7cDZWmXET8OfvwltJJokFd"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -439,22 +455,6 @@
       "duration_ms": 164233,
       "name": "Spicy Margarita - R3HAB Remix",
       "url": "https://open.spotify.com/track/0njNPrUm5K7kmEC5gOi7o7"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "A Song to Save Us All",
-        "url": "https://open.spotify.com/album/5TtmNTJY8agkorkC4wsyy3"
-      },
-      "artists": [
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        }
-      ],
-      "duration_ms": 448120,
-      "name": "A Song to Save Us All",
-      "url": "https://open.spotify.com/track/7cDZWmXET8OfvwltJJokFd"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Photograph (Rough Mix Version)",
-        "url": "https://open.spotify.com/album/1C8TSH4PNIHipHH9hv4Cdk"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 245234,
-      "name": "Photograph - Rough Mix Version",
-      "url": "https://open.spotify.com/track/6TQue6H7Y2GFM83TeidoEQ"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Hit and Run (Live 1977)",
         "url": "https://open.spotify.com/album/2oOS0hOiZYfYdPyifVo0NA"
       },
@@ -603,6 +587,34 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Insatiable Remixes Vol. 002",
+        "url": "https://open.spotify.com/album/4B6c6biNAJLSY0sFjtU0Uc"
+      },
+      "artists": [
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        },
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        },
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Insatiable (Pixel Terror Remix)",
+      "url": "https://open.spotify.com/track/6MvKwzpdwwh0CqJbz6cTRV"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "No Te Pases",
         "url": "https://open.spotify.com/album/4tbJ7goF6LCXBFOxsiM8zW"
       },
@@ -639,34 +651,6 @@
       "duration_ms": 96588,
       "name": "WASH \u30a6\u30aa\u30c3\u30b7\u30e5 - Dance Mix",
       "url": "https://open.spotify.com/track/1S2VtV8R1ZiaDXNK5tj2Bb"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Insatiable Remixes Vol. 002",
-        "url": "https://open.spotify.com/album/4B6c6biNAJLSY0sFjtU0Uc"
-      },
-      "artists": [
-        {
-          "name": "Silos",
-          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
-        },
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        },
-        {
-          "name": "Pixel Terror",
-          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Insatiable (Pixel Terror Remix)",
-      "url": "https://open.spotify.com/track/6MvKwzpdwwh0CqJbz6cTRV"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -771,22 +755,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Waiting On A Twist Of Fate",
-        "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 166844,
-      "name": "Waiting On A Twist Of Fate",
-      "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Come On! (Live at Terminal 5)",
         "url": "https://open.spotify.com/album/6Nfh1kmD4mHjyXpAloEJUr"
       },
@@ -815,6 +783,22 @@
       "duration_ms": 219532,
       "name": "In Eternity",
       "url": "https://open.spotify.com/track/5UtdnAmaj0ouJmW1k2VbWi"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Waiting On A Twist Of Fate",
+        "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 166844,
+      "name": "Waiting On A Twist Of Fate",
+      "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
     },
     {
       "added_at": "2024-03-08 03:00:00",

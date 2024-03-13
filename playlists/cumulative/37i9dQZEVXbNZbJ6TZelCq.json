@@ -2994,7 +2994,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 103384,
       "name": "BELLY DANCE",
       "url": "https://open.spotify.com/track/0pJsSyNYSx3lCczO3kdbMG"
@@ -3564,7 +3564,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 145001,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/4yXfjXz2RKFFUS610RaRiw"
@@ -11456,7 +11456,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 165882,
       "name": "Havana",
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
@@ -22051,6 +22051,32 @@
     },
     {
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/1uumzc9kjbOmt3tvl5m3MB"
+      },
+      "artists": [
+        {
+          "name": "ADI",
+          "url": "https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        },
+        {
+          "name": "OTS",
+          "url": "https://open.spotify.com/artist/4yPyDBy8hOOWKjOS3CYOaw"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160540,
+      "name": "Regre\u021bi",
+      "url": "https://open.spotify.com/track/307BeQlGQ7FY0iO6TyQHHO"
+    },
+    {
+      "album": {
         "name": "Rela\u021bie Cu Bancnotele",
         "url": "https://open.spotify.com/album/5MiueFoCluU8vOZSK8a2SD"
       },
@@ -23440,7 +23466,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 173913,
       "name": "Seara De Seara",
       "url": "https://open.spotify.com/track/5QfTd25qZ0lCIUC4zMWWUq"
@@ -25012,6 +25038,24 @@
       "duration_ms": 187500,
       "name": "Spune-mi",
       "url": "https://open.spotify.com/track/3Eo2NoBVlS4nk6fONJUTa1"
+    },
+    {
+      "album": {
+        "name": "SPUNE-MI",
+        "url": "https://open.spotify.com/album/0OW11VdduqMjqdSrhxTnF0"
+      },
+      "artists": [
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140314,
+      "name": "SPUNE-MI",
+      "url": "https://open.spotify.com/track/7L7fhdO5F0tPnt6ILSgj58"
     },
     {
       "album": {
@@ -26596,7 +26640,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 159230,
       "name": "Te vreau",
       "url": "https://open.spotify.com/track/4QC1HJMSSgTEOolSYyHrwq"
@@ -27000,7 +27044,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 173639,
       "name": "the boy is mine",
       "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"

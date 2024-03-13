@@ -2545,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "DON\u2019T KNOW WHERE I\u2019M GOING",
+        "url": "https://open.spotify.com/album/1dmZt5XUmpZsWeesKtwY8I"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186536,
+      "name": "DON'T KNOW WHERE I'M GOING",
+      "url": "https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv"
+    },
+    {
+      "album": {
         "name": "Don't Let Go (feat. Roseau)",
         "url": "https://open.spotify.com/album/1rxzpMLYFGhhQbxuAKlZfF"
       },
@@ -2608,24 +2626,6 @@
       "duration_ms": 158254,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/4xUwCuR2ZFsYuV6JJVc0Ln"
-    },
-    {
-      "album": {
-        "name": "DON\u2019T KNOW WHERE I\u2019M GOING",
-        "url": "https://open.spotify.com/album/1dmZt5XUmpZsWeesKtwY8I"
-      },
-      "artists": [
-        {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186536,
-      "name": "DON\u2019T KNOW WHERE I\u2019M GOING",
-      "url": "https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv"
     },
     {
       "album": {

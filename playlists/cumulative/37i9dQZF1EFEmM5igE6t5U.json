@@ -1366,6 +1366,24 @@
           "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "I Got A Little Something - Live In Seattle",
+      "url": "https://open.spotify.com/track/79H23cYdXUmMj0Ceo2Hx8Y"
+    },
+    {
+      "album": {
+        "name": "Songs In A Minor (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
       "date_removed": null,

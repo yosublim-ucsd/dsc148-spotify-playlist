@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10522,
+  "num_followers": 10524,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODU5ZDczMWM3NDE2NDE3MjU0Y2JkN2I4NWMzNjgzYjU0MTE1OGMx",
+  "snapshot_id": "MCxiMzNjMTM4NmVmMjQyOThmZTYzYTZkZjVhOWU0YmY5NmQxOWU5ZDc4",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Soca Virgin",
+        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 185025,
+      "name": "Sexin",
+      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
         "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 203600,
       "name": "Rough Wine",
       "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Soca Virgin",
-        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 185025,
-      "name": "Sexin",
-      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Jakson Bay Project",
-        "url": "https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl"
+        "name": "Sparta Boss",
+        "url": "https://open.spotify.com/album/6UMCVOLFPduRH1u48WNH2Q"
       },
       "artists": [
         {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
         }
       ],
-      "duration_ms": 199606,
-      "name": "Soak Me Good",
-      "url": "https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP"
+      "duration_ms": 188055,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/1823Dax4egZNBDGAE9co2y"
     }
   ],
   "unique_name": "Soca Bashment",

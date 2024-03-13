@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 
 > Listen to the music that inspired the creator of Leave The World Behind, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,653 likes - 43 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,662 likes - 43 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 | 42 | [Human vs\. Nature](https://open.spotify.com/track/4lSxrFwJcvlCROexPs6bJU) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Leave the World Behind \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr) | 5:14 |
 | 43 | [The Third Stage](https://open.spotify.com/track/2L2f0uuAqQuALSjHHQCl03) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Leave the World Behind \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr) | 5:01 |
 
-Snapshot ID: `MCxlNzMxYjc3ZTQ3NWQ3ZDg3NzAzYjg3ZDA5YjFkMTkzNTgyODIxN2Ex`
+Snapshot ID: `MCwxMzgzYmMwYTE0NWQ0Y2U4ODE3MzUzOGU1NTJiMDFkYjU2ODU5ZTFl`

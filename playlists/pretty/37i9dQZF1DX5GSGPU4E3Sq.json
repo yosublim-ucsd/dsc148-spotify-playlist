@@ -1,12 +1,12 @@
 {
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
-  "num_followers": 190127,
+  "num_followers": 190138,
   "original_name": "Terapia de Bosque",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODQ0NjViN2U1ZGViYzJlNTVlMzA2ZmJmM2E2OGI2NTRkODMzYjY1",
+  "snapshot_id": "MCwzYmI2NTBiZGZiZTFmYTQwNTUwNDk5MGQ3NDBiYWY2YWQ5OWNkMTlj",
   "tracks": [
     {
       "added_at": "2024-03-07 19:49:41",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
+        "name": "Soft Touch",
+        "url": "https://open.spotify.com/album/3lktgmWsTCNDHafXOj7D1V"
+      },
+      "artists": [
+        {
+          "name": "Rama Fiore",
+          "url": "https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366"
+        }
+      ],
+      "duration_ms": 159129,
+      "name": "Soft Touch",
+      "url": "https://open.spotify.com/track/54cRF683yoAMcfefg1Drfu"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
         "name": "Falling Autumn Leaves",
         "url": "https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 169105,
       "name": "Healing",
       "url": "https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
-        "name": "Soft Touch",
-        "url": "https://open.spotify.com/album/3lktgmWsTCNDHafXOj7D1V"
-      },
-      "artists": [
-        {
-          "name": "Rama Fiore",
-          "url": "https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366"
-        }
-      ],
-      "duration_ms": 159129,
-      "name": "Soft Touch",
-      "url": "https://open.spotify.com/track/54cRF683yoAMcfefg1Drfu"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "A Magic Forest",
-        "url": "https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu"
-      },
-      "artists": [
-        {
-          "name": "Evolving Stream",
-          "url": "https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz"
-        }
-      ],
-      "duration_ms": 185854,
-      "name": "A Magic Forest",
-      "url": "https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Forest By Night",
         "url": "https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 150726,
       "name": "Dark Forest",
       "url": "https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "A Magic Forest",
+        "url": "https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu"
+      },
+      "artists": [
+        {
+          "name": "Evolving Stream",
+          "url": "https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz"
+        }
+      ],
+      "duration_ms": 185854,
+      "name": "A Magic Forest",
+      "url": "https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
-      },
-      "artists": [
-        {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
-        }
-      ],
-      "duration_ms": 161012,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Divine Energy",
         "url": "https://open.spotify.com/album/4HstKb5JYtUzLAQp8wyH0T"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 213202,
       "name": "Divine Energy",
       "url": "https://open.spotify.com/track/32FjtW6eFU5PZQYuFMHwjP"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+      },
+      "artists": [
+        {
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+        }
+      ],
+      "duration_ms": 161012,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
+        "name": "Know Yourself",
+        "url": "https://open.spotify.com/album/0Xhp6naFew0khbul6bzuNt"
+      },
+      "artists": [
+        {
+          "name": "Arlen Ness",
+          "url": "https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "Angelical",
+      "url": "https://open.spotify.com/track/6ESl6rt4YenKE7XJuv4LTN"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
         "name": "Diaphanous Dreamcoat",
         "url": "https://open.spotify.com/album/5y3W3VE5Tot4VXQnRaqiJD"
       },
@@ -1087,6 +1103,22 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0FnNwEb7LkeEAZDtJ3ijgY"
+      },
+      "artists": [
+        {
+          "name": "Kyrste",
+          "url": "https://open.spotify.com/artist/4oaGWEt8TqYBLB3Fc0Lo18"
+        }
+      ],
+      "duration_ms": 157712,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/6G0ssP9WI63lIvSSfGAmt0"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
         "name": "Angel Wings",
         "url": "https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4"
       },
@@ -1099,22 +1131,6 @@
       "duration_ms": 159374,
       "name": "Days Off",
       "url": "https://open.spotify.com/track/1wy3AxABAmIuF735t91GAM"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
-        "name": "Know Yourself",
-        "url": "https://open.spotify.com/album/0Xhp6naFew0khbul6bzuNt"
-      },
-      "artists": [
-        {
-          "name": "Arlen Ness",
-          "url": "https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "Angelical",
-      "url": "https://open.spotify.com/track/6ESl6rt4YenKE7XJuv4LTN"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1223,6 +1239,22 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
+        "name": "Blue Peak",
+        "url": "https://open.spotify.com/album/6Q67bFtUNxqRJ9RxRBsxIm"
+      },
+      "artists": [
+        {
+          "name": "Tibetan Audio",
+          "url": "https://open.spotify.com/artist/4jjUtZ19nXBNcIL9s1AAM8"
+        }
+      ],
+      "duration_ms": 204582,
+      "name": "Blue Peak",
+      "url": "https://open.spotify.com/track/33rVIuXB2ZgtxCG64qVT24"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
         "name": "Expanded Reality",
         "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
       },
@@ -1251,54 +1283,6 @@
       "duration_ms": 129522,
       "name": "Sinharaja Rain Forest",
       "url": "https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
-        "name": "Blue Peak",
-        "url": "https://open.spotify.com/album/6Q67bFtUNxqRJ9RxRBsxIm"
-      },
-      "artists": [
-        {
-          "name": "Tibetan Audio",
-          "url": "https://open.spotify.com/artist/4jjUtZ19nXBNcIL9s1AAM8"
-        }
-      ],
-      "duration_ms": 204582,
-      "name": "Blue Peak",
-      "url": "https://open.spotify.com/track/33rVIuXB2ZgtxCG64qVT24"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
-        "name": "Circular Wave Forms.",
-        "url": "https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla"
-      },
-      "artists": [
-        {
-          "name": "LFO Waves",
-          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Circular Wave Forms.",
-      "url": "https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0FnNwEb7LkeEAZDtJ3ijgY"
-      },
-      "artists": [
-        {
-          "name": "Kyrste",
-          "url": "https://open.spotify.com/artist/4oaGWEt8TqYBLB3Fc0Lo18"
-        }
-      ],
-      "duration_ms": 157712,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/6G0ssP9WI63lIvSSfGAmt0"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
+        "name": "Circular Wave Forms.",
+        "url": "https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla"
+      },
+      "artists": [
+        {
+          "name": "LFO Waves",
+          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Circular Wave Forms.",
+      "url": "https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
         "name": "Inner Destination",
         "url": "https://open.spotify.com/album/6m5laRGGdZqVzlx70ZSjXI"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Relajar",
-        "url": "https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS"
-      },
-      "artists": [
-        {
-          "name": "Alexandro Sanchez",
-          "url": "https://open.spotify.com/artist/7MykLx9v0X71idSe7pc87a"
-        }
-      ],
-      "duration_ms": 166677,
-      "name": "pensamiento positivo",
-      "url": "https://open.spotify.com/track/0RaaeawAa794NzQ8vezHIp"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Brown / Beige",
         "url": "https://open.spotify.com/album/01UZf2ysXY8Ki07JtpiN6i"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Whisper of the Pines",
-        "url": "https://open.spotify.com/album/4s6a8srmUVV3FBbhNIdqTj"
+        "name": "Relajar",
+        "url": "https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS"
       },
       "artists": [
         {
-          "name": "Howard Harper-Barnes",
-          "url": "https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe"
+          "name": "Alexandro Sanchez",
+          "url": "https://open.spotify.com/artist/7MykLx9v0X71idSe7pc87a"
         }
       ],
-      "duration_ms": 157681,
-      "name": "Interpretations",
-      "url": "https://open.spotify.com/track/6PIbpT7ray6ixif2v6RIIa"
+      "duration_ms": 166677,
+      "name": "pensamiento positivo",
+      "url": "https://open.spotify.com/track/0RaaeawAa794NzQ8vezHIp"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1507,6 +1491,22 @@
       "duration_ms": 224826,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Whisper of the Pines",
+        "url": "https://open.spotify.com/album/4s6a8srmUVV3FBbhNIdqTj"
+      },
+      "artists": [
+        {
+          "name": "Howard Harper-Barnes",
+          "url": "https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe"
+        }
+      ],
+      "duration_ms": 157681,
+      "name": "Interpretations",
+      "url": "https://open.spotify.com/track/6PIbpT7ray6ixif2v6RIIa"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
+        "name": "The Sounds of Peaks, Plateaus & Canyons",
+        "url": "https://open.spotify.com/album/4VlCyVOH30CSyDEjwggcRs"
+      },
+      "artists": [
+        {
+          "name": "Tim Heintz",
+          "url": "https://open.spotify.com/artist/1HMXyEp2udhHB4gt2PcF5D"
+        }
+      ],
+      "duration_ms": 378511,
+      "name": "Desert Moon",
+      "url": "https://open.spotify.com/track/4QUPASaxoGtDWU1ltT68zZ"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
         "name": "Dim Lights",
         "url": "https://open.spotify.com/album/79Yp8TckAsyRc3xLTeg6HE"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 180869,
       "name": "Dim Lights",
       "url": "https://open.spotify.com/track/6mJK355PtWnKdKjtpGL80W"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
-        "name": "Hundreds of Days",
-        "url": "https://open.spotify.com/album/3htG3vw3Y9SZuoKFEvQ9FI"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 691347,
-      "name": "It Feels Like Floating",
-      "url": "https://open.spotify.com/track/5P0cbDhsv6wCqyAqfhBxaW"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "The Sounds of Peaks, Plateaus & Canyons",
-        "url": "https://open.spotify.com/album/4VlCyVOH30CSyDEjwggcRs"
+        "name": "Hundreds of Days",
+        "url": "https://open.spotify.com/album/3htG3vw3Y9SZuoKFEvQ9FI"
       },
       "artists": [
         {
-          "name": "Tim Heintz",
-          "url": "https://open.spotify.com/artist/1HMXyEp2udhHB4gt2PcF5D"
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 378511,
-      "name": "Desert Moon",
-      "url": "https://open.spotify.com/track/4QUPASaxoGtDWU1ltT68zZ"
+      "duration_ms": 691347,
+      "name": "It Feels Like Floating",
+      "url": "https://open.spotify.com/track/5P0cbDhsv6wCqyAqfhBxaW"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Ignis",
-        "url": "https://open.spotify.com/album/0J3kkUFks10qpQA7n6xgbJ"
-      },
-      "artists": [
-        {
-          "name": "Little Symphony",
-          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
-        }
-      ],
-      "duration_ms": 255520,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5LklvybGDXhj8k6ovnftGO"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Alpha Activity",
         "url": "https://open.spotify.com/album/1rk53Ct8Sqp6mpUIm0vDvI"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 163783,
       "name": "Brain Imaging",
       "url": "https://open.spotify.com/track/2FsZMy3VbsGY2w0FYVPnnK"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Ignis",
+        "url": "https://open.spotify.com/album/0J3kkUFks10qpQA7n6xgbJ"
+      },
+      "artists": [
+        {
+          "name": "Little Symphony",
+          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
+        }
+      ],
+      "duration_ms": 255520,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5LklvybGDXhj8k6ovnftGO"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5gxTLnHZkpUd1LlmzWIAZm"
-      },
-      "artists": [
-        {
-          "name": "On Dunes",
-          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
-        }
-      ],
-      "duration_ms": 185214,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/4B5gx9mHHElyhR5agL2NU9"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Closed Captions",
         "url": "https://open.spotify.com/album/7yxynO2PaBolNG90xpL0W6"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 174013,
       "name": "Closed Captions",
       "url": "https://open.spotify.com/track/3K3mUDPEx0sbqBWDMPmaWM"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5gxTLnHZkpUd1LlmzWIAZm"
+      },
+      "artists": [
+        {
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
+        }
+      ],
+      "duration_ms": 185214,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/4B5gx9mHHElyhR5agL2NU9"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Free Design",
-        "url": "https://open.spotify.com/album/29ty7i6CE0WpDWqXuBCkc2"
-      },
-      "artists": [
-        {
-          "name": "Cellulose Sunshine",
-          "url": "https://open.spotify.com/artist/5UQC7KDvCQnrNPbOKP3Dls"
-        }
-      ],
-      "duration_ms": 161148,
-      "name": "Free Design",
-      "url": "https://open.spotify.com/track/3H94469wfc4IgUoWi7zVUd"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "First Light",
         "url": "https://open.spotify.com/album/3OW7WXeKFjBqSeJLHARz34"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 193000,
       "name": "Aura",
       "url": "https://open.spotify.com/track/04zmw3VLwbZjsICoFGEjmv"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Free Design",
+        "url": "https://open.spotify.com/album/29ty7i6CE0WpDWqXuBCkc2"
+      },
+      "artists": [
+        {
+          "name": "Cellulose Sunshine",
+          "url": "https://open.spotify.com/artist/5UQC7KDvCQnrNPbOKP3Dls"
+        }
+      ],
+      "duration_ms": 161148,
+      "name": "Free Design",
+      "url": "https://open.spotify.com/track/3H94469wfc4IgUoWi7zVUd"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2115,6 +2115,22 @@
       "duration_ms": 429547,
       "name": "Windchimes",
       "url": "https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Nightbloom",
+        "url": "https://open.spotify.com/album/4KeH0ZEt11dIe5FFfh6Nwr"
+      },
+      "artists": [
+        {
+          "name": "Meliore",
+          "url": "https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ"
+        }
+      ],
+      "duration_ms": 143297,
+      "name": "Nightbloom",
+      "url": "https://open.spotify.com/track/10JifYChE8zaRiObMx3RCh"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2199,6 +2215,22 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
+        "name": "Effigy",
+        "url": "https://open.spotify.com/album/0GG9Zh8Nk6ww9hEuDtFAr6"
+      },
+      "artists": [
+        {
+          "name": "Celyn Awstin",
+          "url": "https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk"
+        }
+      ],
+      "duration_ms": 157756,
+      "name": "Effigy",
+      "url": "https://open.spotify.com/track/6XXDWp5QSJ1IkLMreFK7Xm"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
         "name": "Om mani palme hum",
         "url": "https://open.spotify.com/album/2uiDDNlK6bgzWs1ELV0erj"
       },
@@ -2215,22 +2247,6 @@
       "duration_ms": 300734,
       "name": "Om mani palme hum",
       "url": "https://open.spotify.com/track/0FtC15WLzcESeYps3uDcpP"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
-        "name": "Effigy",
-        "url": "https://open.spotify.com/album/0GG9Zh8Nk6ww9hEuDtFAr6"
-      },
-      "artists": [
-        {
-          "name": "Celyn Awstin",
-          "url": "https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk"
-        }
-      ],
-      "duration_ms": 157756,
-      "name": "Effigy",
-      "url": "https://open.spotify.com/track/6XXDWp5QSJ1IkLMreFK7Xm"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2299,22 +2315,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/7aAIykm8uOZg51FkNKMUNS"
-      },
-      "artists": [
-        {
-          "name": "Eternal Ocean",
-          "url": "https://open.spotify.com/artist/4o9SdUqz20DIjiXmxKbE3f"
-        }
-      ],
-      "duration_ms": 173999,
-      "name": "Senseful",
-      "url": "https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/5cdqw0PmirLemkUdjvgs2b"
       },
@@ -2327,6 +2327,22 @@
       "duration_ms": 180000,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/6yLO7nPmUpyPgzfXD9FbpX"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7aAIykm8uOZg51FkNKMUNS"
+      },
+      "artists": [
+        {
+          "name": "Eternal Ocean",
+          "url": "https://open.spotify.com/artist/4o9SdUqz20DIjiXmxKbE3f"
+        }
+      ],
+      "duration_ms": 173999,
+      "name": "Senseful",
+      "url": "https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2347,22 +2363,6 @@
     {
       "added_at": "2024-03-07 19:49:41",
       "album": {
-        "name": "Cosmic Bliss",
-        "url": "https://open.spotify.com/album/5s6ila6z4pWVwrnPDVOxzP"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Night Music",
-          "url": "https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Human Endeavors",
-      "url": "https://open.spotify.com/track/3O2ErLKbR8ClnGgDFmPkZG"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
         "name": "Leaves",
         "url": "https://open.spotify.com/album/4WMKoEV4Sb1hrGNBCrdj3V"
       },
@@ -2375,6 +2375,22 @@
       "duration_ms": 153802,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/2VeRzeFLymzGePh18p2cBR"
+    },
+    {
+      "added_at": "2024-03-07 19:49:41",
+      "album": {
+        "name": "Cosmic Bliss",
+        "url": "https://open.spotify.com/album/5s6ila6z4pWVwrnPDVOxzP"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Night Music",
+          "url": "https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Human Endeavors",
+      "url": "https://open.spotify.com/track/3O2ErLKbR8ClnGgDFmPkZG"
     },
     {
       "added_at": "2024-03-07 19:49:41",
@@ -2407,22 +2423,6 @@
       "duration_ms": 122837,
       "name": "Silviculture",
       "url": "https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB"
-    },
-    {
-      "added_at": "2024-03-07 19:49:41",
-      "album": {
-        "name": "Pampeano",
-        "url": "https://open.spotify.com/album/75T7bNuVXxahedg6q9knVS"
-      },
-      "artists": [
-        {
-          "name": "Osno",
-          "url": "https://open.spotify.com/artist/3XqgdBsuoShCOmDjwn5pWq"
-        }
-      ],
-      "duration_ms": 267937,
-      "name": "Pampeano",
-      "url": "https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR"
     }
   ],
   "unique_name": "Terapia de Bosque",

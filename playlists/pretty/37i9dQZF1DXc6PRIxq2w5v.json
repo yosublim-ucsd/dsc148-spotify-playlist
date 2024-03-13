@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
-  "num_followers": 164991,
+  "num_followers": 165134,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODM1ZmMxMzU2Y2QwOTYwOGIyYzMyY2Q2YTI4MzNiMzZlODY4NDkx",
+  "snapshot_id": "MCw3OTExNGE0ZjRiNjA3MGRjMGMyMGQ0YjJkNDYwN2QwOTliMDg2NTli",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Sem Cruz, Sem Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7JZZHrzvFgYFDc58mntY55"
+      },
+      "artists": [
+        {
+          "name": "Pregador Luo",
+          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
+        }
+      ],
+      "duration_ms": 236962,
+      "name": "Sem Cruz, Sem Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6eIu8bYs7C6zCEBs8UNshm"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Se P\u00e1",
         "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
       },
@@ -1171,18 +1187,26 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Sem Cruz, Sem Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7JZZHrzvFgYFDc58mntY55"
+        "name": "Tu \u00c9s a Cura",
+        "url": "https://open.spotify.com/album/3I6pKLLwdJrS46ifBwA4JI"
       },
       "artists": [
         {
-          "name": "Pregador Luo",
-          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
+          "name": "Educky",
+          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
+        },
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Todah Urban",
+          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
         }
       ],
-      "duration_ms": 236962,
-      "name": "Sem Cruz, Sem Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6eIu8bYs7C6zCEBs8UNshm"
+      "duration_ms": 165169,
+      "name": "Tu \u00c9s a Cura",
+      "url": "https://open.spotify.com/track/5pW4iIRQXtRgHY3u8IsA8o"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1207,6 +1231,26 @@
       "duration_ms": 143114,
       "name": "Doming\u00e3o",
       "url": "https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Deus \u00e9 Mais, Pt.3",
+        "url": "https://open.spotify.com/album/1pca75YkvptXD635WCdlqB"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Wesley Cruz",
+          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Deus \u00e9 Mais, Pt.3",
+      "url": "https://open.spotify.com/track/06f1IqY7uJ7bGT8OOEfaIC"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1255,46 +1299,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Deus \u00e9 Mais, Pt.3",
-        "url": "https://open.spotify.com/album/1pca75YkvptXD635WCdlqB"
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/6sKV6wS0KCrhSlBBK7epDz"
       },
       "artists": [
         {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
         },
         {
-          "name": "Wesley Cruz",
-          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Deus \u00e9 Mais, Pt.3",
-      "url": "https://open.spotify.com/track/06f1IqY7uJ7bGT8OOEfaIC"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Tu \u00c9s a Cura",
-        "url": "https://open.spotify.com/album/3I6pKLLwdJrS46ifBwA4JI"
-      },
-      "artists": [
-        {
-          "name": "Educky",
-          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
-        },
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Todah Urban",
-          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
-        }
-      ],
-      "duration_ms": 165169,
-      "name": "Tu \u00c9s a Cura",
-      "url": "https://open.spotify.com/track/5pW4iIRQXtRgHY3u8IsA8o"
+      "duration_ms": 171340,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/2MNx8isTSanZlqMMbto0SX"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1331,26 +1351,6 @@
       "duration_ms": 180000,
       "name": "Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/0AGpTYmXuygXrjiixCBFD8"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/6sKV6wS0KCrhSlBBK7epDz"
-      },
-      "artists": [
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 171340,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/2MNx8isTSanZlqMMbto0SX"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1555,8 +1555,8 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Mais Perto do C\u00e9u",
-        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
+        "name": "Reden\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO"
       },
       "artists": [
         {
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 157568,
-      "name": "Mais Perto do C\u00e9u",
-      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
+      "duration_ms": 137142,
+      "name": "Reden\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1611,6 +1611,30 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Mais Perto do C\u00e9u",
+        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
+      },
+      "artists": [
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 157568,
+      "name": "Mais Perto do C\u00e9u",
+      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Senhor",
         "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
       },
@@ -1627,30 +1651,6 @@
       "duration_ms": 218342,
       "name": "Senhor",
       "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Reden\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO"
-      },
-      "artists": [
-        {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Reden\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD"
     },
     {
       "added_at": "2024-03-08 03:01:00",

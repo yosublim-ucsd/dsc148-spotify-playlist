@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,473 likes - 104 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,476 likes - 104 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 103 | [Cento Occhi](https://open.spotify.com/track/2OmhL0qs4wUWApqZ31qPI8) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Sangue](https://open.spotify.com/album/2ODTNZ6HLMTNiiu05e4kHO) | 2:24 |
 | 104 | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD) | 3:17 |
 
-Snapshot ID: `MCxmYjc1M2U0MzRlN2Y4MDIzMTYwNjc0YmI0OGEyYzVmYTc5OGI4YjMy`
+Snapshot ID: `MCxkMjdjMzdjMDQ1N2NmNWQ0ZTNiMzdmYThhNDY4MDBiZWUwYjEwZGFi`

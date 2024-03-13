@@ -502,10 +502,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
+    },
+    {
+      "album": {
+        "name": "El infierno es un after",
+        "url": "https://open.spotify.com/album/75cMlsVv7rtadfvZ0uxUtc"
+      },
+      "artists": [
+        {
+          "name": "aitana gato muerto",
+          "url": "https://open.spotify.com/artist/0u1PT5i2diugyPeT1P9OLa"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "El infierno es un after",
+      "url": "https://open.spotify.com/track/6OF4GtqvLkOb3E3lQpWbOS"
     },
     {
       "album": {
@@ -689,6 +707,40 @@
     },
     {
       "album": {
+        "name": "Esto Es un Atraco",
+        "url": "https://open.spotify.com/album/6qrOJ9gopojGNYlYBQWZ7Q"
+      },
+      "artists": [
+        {
+          "name": "La Marmita",
+          "url": "https://open.spotify.com/artist/5TT38W8qp72XwEz7ngbC06"
+        },
+        {
+          "name": "Burning",
+          "url": "https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v"
+        },
+        {
+          "name": "Salida Nula",
+          "url": "https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph"
+        },
+        {
+          "name": "MEZ-K",
+          "url": "https://open.spotify.com/artist/2ax2F8KW5sK9yMJEEpivqP"
+        },
+        {
+          "name": "Sinaia",
+          "url": "https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Esto Es un Atraco",
+      "url": "https://open.spotify.com/track/3N8PAev6WMEWX1Qc4rV3hl"
+    },
+    {
+      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -744,7 +796,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 191732,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/1HlANSSpEaisMWmuLcRcEP"
@@ -1292,7 +1344,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 121263,
       "name": "No Me Pongas M\u00e1s May\u00e9utica",
       "url": "https://open.spotify.com/track/7EnEOTJAGMy957k3BjdsqJ"
@@ -1690,6 +1742,24 @@
       "duration_ms": 245853,
       "name": "Sarri, Sarri",
       "url": "https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi"
+    },
+    {
+      "album": {
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
     },
     {
       "album": {

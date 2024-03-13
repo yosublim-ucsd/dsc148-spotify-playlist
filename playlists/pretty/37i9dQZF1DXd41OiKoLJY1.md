@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: 25hearts Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,294 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,295 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 64 | [jealous](https://open.spotify.com/track/7FyERbn2QF0oFNKF1VuaDI) | [ABY](https://open.spotify.com/artist/2ArkCxQW4DT1G1vmUh3SOO) | [jealous](https://open.spotify.com/album/4WE5aW7qlN64ptbr2qJThi) | 3:44 |
 | 65 | [Sa'yo Lang](https://open.spotify.com/track/16F1WOFEpx2m45MEx5Y7FI) | [Rippin P](https://open.spotify.com/artist/3nEiImKH9Fakc0NNLRZFO7), [Space G](https://open.spotify.com/artist/7Cp0BUoEu2rI3n8bd5hEbf) | [Sa'yo Lang](https://open.spotify.com/album/6A6K7ll2bj6UZFQ2yFEvuA) | 3:55 |
 | 66 | [9](https://open.spotify.com/track/6ynhM4KUJeBfqcE5btp8oG) | [The Early Ears](https://open.spotify.com/artist/7o9WMlej7AoTMhELT2Acp2) | [9](https://open.spotify.com/album/0D5dceTlER1RF5PpHj6utX) | 3:18 |
-| 67 | [Crazy / Makapiling Ka](https://open.spotify.com/track/0RK1zzniCS2dTGkqCJofQ7) | [ALLURA](https://open.spotify.com/artist/4wdOeJzLPnjtTV47h8X4WC) | [Crazy / Makapiling Ka](https://open.spotify.com/album/0nW5Wpj5jOPkk544O4Vk5d) | 2:39 |
+| 67 | [Crazy / Makapiling Ka](https://open.spotify.com/track/6nUcO4hhjBRGS29yW8Torq) | [ALLURA](https://open.spotify.com/artist/4wdOeJzLPnjtTV47h8X4WC) | [Crazy / Makapiling Ka](https://open.spotify.com/album/0z6ntoYPXZP9A0gc575zoy) | 2:39 |
 | 68 | [When The Morning Comes](https://open.spotify.com/track/2OIntS8Q9WxXROQYY2Sv7k) | [IVNFIL](https://open.spotify.com/artist/3Fy24YWLYJu5Zqd2pgt5eg) | [Glass Shuttle](https://open.spotify.com/album/3okJ3hc2WENIajllpBdc6l) | 3:49 |
 | 69 | [ANDROMEDA](https://open.spotify.com/track/2AOkFJXIXx1fRhCiMYw67U) | [Splendio Tritus](https://open.spotify.com/artist/5svvAcRpq3mmOTu8N48Fxw) | [ANDROMEDA](https://open.spotify.com/album/31YVDRT6dhCkXZ0xd0m6Du) | 4:22 |
 | 70 | [back2u](https://open.spotify.com/track/1BRShx5FYZk14FD1UQYSQV) | [dulai](https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1), [Bacco Boy](https://open.spotify.com/artist/3rqAR9vRUEnYMDpICGzEIw) | [back2u](https://open.spotify.com/album/4jSr7f913OBGpoPJnSfIae) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [No Forever](https://open.spotify.com/track/1MEF4r2OceRBPgwpJqNozn) | [Sin Santos](https://open.spotify.com/artist/6ObY07YC4aESI52KJ16vQ5) | [No Forever](https://open.spotify.com/album/3dYgA9cA0oDhv0pFkXUCyF) | 2:52 |
 | 100 | [Forever](https://open.spotify.com/track/0sePmqjCBmvtsp7MqVBud5) | [Max Ayeza](https://open.spotify.com/artist/00kijE6MwdXfq2hBg80a1V) | [Forever](https://open.spotify.com/album/7g9mTCjYqstT5SpJe9wHbx) | 2:44 |
 
-Snapshot ID: `MCxmMjFkMDZmMzA3ZjU5NTVlMzk2ZGYzMjVhOTNhMzFjMWE3Y2E2ZmEx`
+Snapshot ID: `MCw0YjY0N2I1MjNmZjdkZDlkNmVkMTQ1MDhlOTFkYmY2NDg1ZjRmN2Zl`

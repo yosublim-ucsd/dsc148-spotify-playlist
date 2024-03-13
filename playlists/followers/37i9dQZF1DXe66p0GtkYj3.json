@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 146,
+  "2024-03-13": 146,
   "date_first_scraped": "2023-10-05",
   "description": "Empez\u00f3 el zapateo. \u00a1Take tarake take!",
   "name": "Privadito",
@@ -341,7 +341,7 @@
     {
       "album": {
         "name": "Dame Lo Que Necesito",
-        "url": "https://open.spotify.com/album/1qJcn8JEJRkhdZyiIc1QdJ"
+        "url": "https://open.spotify.com/album/6hbPx8CW1M9vjyQgBg9246"
       },
       "artists": [
         {
@@ -352,6 +352,24 @@
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184157,
+      "name": "Dame Lo Que Necesito",
+      "url": "https://open.spotify.com/track/0WAOOHAIIddCcewpWp4Md4"
+    },
+    {
+      "album": {
+        "name": "Dame Lo Que Necesito",
+        "url": "https://open.spotify.com/album/1qJcn8JEJRkhdZyiIc1QdJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastien Rebels",
+          "url": "https://open.spotify.com/artist/2ioGOJriBxdLqsZ0iOcY0i"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-12",
       "duration_ms": 184157,
       "name": "Dame Lo Que Necesito",
       "url": "https://open.spotify.com/track/4VD7GP0r61nRdYfwn7CIkB"

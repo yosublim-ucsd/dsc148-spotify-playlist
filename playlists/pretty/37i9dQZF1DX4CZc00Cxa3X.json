@@ -1,12 +1,12 @@
 {
   "description": "Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own. ",
-  "num_followers": 46366,
+  "num_followers": 46418,
   "original_name": "The Listening Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzJkNGMzNjI3NGRmMGE2NDcxNzlkZDU1OTFmZmE3MTg2MTdlNjFk",
+  "snapshot_id": "MCxkNjBkNTc5YjI1YmFiMWY5ZDhiNzk4ZDk5ODI5MjM3ZmI3NGUyZmZk",
   "tracks": [
     {
       "added_at": "2023-11-17 17:24:47",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "You Always Will Be",
-        "url": "https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18"
-      },
-      "artists": [
-        {
-          "name": "Dylan Henner",
-          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Today I Learned What Makes Bugs Sick and How To Tie My Shoelaces",
-      "url": "https://open.spotify.com/track/4EfpRkLUsPCdGfhq7em1iz"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Antarctican Dream Machine",
         "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 203960,
       "name": "Passage",
       "url": "https://open.spotify.com/track/1O9RWAwUb7MhiohlNpM4vp"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "You Always Will Be",
+        "url": "https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Today I Learned What Makes Bugs Sick and How To Tie My Shoelaces",
+      "url": "https://open.spotify.com/track/4EfpRkLUsPCdGfhq7em1iz"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
+        "name": "Pale Ravine",
+        "url": "https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 135746,
+      "name": "Eloy",
+      "url": "https://open.spotify.com/track/3kN5BsC4W7Fl4fcxib98na"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
         "name": "Receiving",
         "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 427266,
       "name": "Receiving",
       "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
-        "name": "Pale Ravine",
-        "url": "https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 135746,
-      "name": "Eloy",
-      "url": "https://open.spotify.com/track/3kN5BsC4W7Fl4fcxib98na"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "memories",
-        "url": "https://open.spotify.com/album/7LtkgUFi6fYytsZrhLxjBQ"
-      },
-      "artists": [
-        {
-          "name": "yanaco",
-          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
-        }
-      ],
-      "duration_ms": 179459,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5La9cg847leSOlw8fiDmTb"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Eev",
         "url": "https://open.spotify.com/album/2JUNw2Z800WKzUPFUUkDSO"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 236740,
       "name": "Eev",
       "url": "https://open.spotify.com/track/3TqSdsJga5OfHB0bKcHgJg"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "memories",
+        "url": "https://open.spotify.com/album/7LtkgUFi6fYytsZrhLxjBQ"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "duration_ms": 179459,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5La9cg847leSOlw8fiDmTb"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Pottery Fragments",
+      "url": "https://open.spotify.com/track/3y8XTCiPWQJkFEnKIahCJo"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
         "name": "Extemperate",
         "url": "https://open.spotify.com/album/1CU6vcBYMcbV4NUIUpRGtn"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 224000,
       "name": "Last Letter Home",
       "url": "https://open.spotify.com/track/1ycAQSRVLp3I0lnSmpAUDH"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
-        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "John Also Bennett",
-          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Pottery Fragments",
-      "url": "https://open.spotify.com/track/3y8XTCiPWQJkFEnKIahCJo"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Dreams of Being Cornered",
-        "url": "https://open.spotify.com/album/6zMCRZbdkAeiJTE3tZSmja"
-      },
-      "artists": [
-        {
-          "name": "Mutes",
-          "url": "https://open.spotify.com/artist/52mqrsNlDf6CVhB6XJ6LHf"
-        }
-      ],
-      "duration_ms": 186354,
-      "name": "Dragged by the Hand",
-      "url": "https://open.spotify.com/track/5f8sbbWtGlVnMq7NdZSllo"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "One For The Money",
         "url": "https://open.spotify.com/album/6ditpmO0HGMKXaKu4rOY4l"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 432000,
       "name": "Breakfast & Chill",
       "url": "https://open.spotify.com/track/6RaLqVKxgUkEQlYKmubgIT"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "Dreams of Being Cornered",
+        "url": "https://open.spotify.com/album/6zMCRZbdkAeiJTE3tZSmja"
+      },
+      "artists": [
+        {
+          "name": "Mutes",
+          "url": "https://open.spotify.com/artist/52mqrsNlDf6CVhB6XJ6LHf"
+        }
+      ],
+      "duration_ms": 186354,
+      "name": "Dragged by the Hand",
+      "url": "https://open.spotify.com/track/5f8sbbWtGlVnMq7NdZSllo"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
+        "name": "2023",
+        "url": "https://open.spotify.com/album/6QQEN5mwHoeypL9soPByPj"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "duration_ms": 337200,
+      "name": "june",
+      "url": "https://open.spotify.com/track/5mMuvuQLsF4rbC6OmW3Tbc"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
         "name": "Beyond Horizons (High Contrast Remix)",
         "url": "https://open.spotify.com/album/5rUvAC9PymY0Wg8zwdJ9GX"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 292466,
       "name": "Beyond Horizons (High Contrast Remix)",
       "url": "https://open.spotify.com/track/6Fw5L5h3ONdlilf4y5XFo1"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
-        "name": "2023",
-        "url": "https://open.spotify.com/album/6QQEN5mwHoeypL9soPByPj"
-      },
-      "artists": [
-        {
-          "name": "ILIVEHERE.",
-          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
-        }
-      ],
-      "duration_ms": 337200,
-      "name": "june",
-      "url": "https://open.spotify.com/track/5mMuvuQLsF4rbC6OmW3Tbc"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "All Russians Love Birch Trees EP (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3CzWO1N5s3LjN3EsH99F9C"
-      },
-      "artists": [
-        {
-          "name": "Johannes Repka",
-          "url": "https://open.spotify.com/artist/1DnTEe1bd5bENrJAza9Iuz"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Elias",
-      "url": "https://open.spotify.com/track/5byZDxGFoQymRppmeIMNXo"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "5:00 a.m.",
         "url": "https://open.spotify.com/album/4wFBDp13YkDNFbUwluDWZ4"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 188480,
       "name": "hajimari",
       "url": "https://open.spotify.com/track/5WkGXpwLvGVXj9atfU9yli"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "All Russians Love Birch Trees EP (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3CzWO1N5s3LjN3EsH99F9C"
+      },
+      "artists": [
+        {
+          "name": "Johannes Repka",
+          "url": "https://open.spotify.com/artist/1DnTEe1bd5bENrJAza9Iuz"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Elias",
+      "url": "https://open.spotify.com/track/5byZDxGFoQymRppmeIMNXo"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/7rOuHgosEnuBdQSk8kyvyh"
-      },
-      "artists": [
-        {
-          "name": "The Cancel",
-          "url": "https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/05dqjOZbjR2coSczMXDqa6"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Bethlehem",
         "url": "https://open.spotify.com/album/0b46xV200KRIkBVcRaOqtS"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Bioluminescence",
-        "url": "https://open.spotify.com/album/2x43RvAJ4ZRMRdBxjZxPfO"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/7rOuHgosEnuBdQSk8kyvyh"
       },
       "artists": [
         {
-          "name": "Rosentwig",
-          "url": "https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb"
+          "name": "The Cancel",
+          "url": "https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Bioluminescence",
-      "url": "https://open.spotify.com/track/1w2Qn4a8XkOhpgMLY8ED5t"
+      "duration_ms": 226285,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/05dqjOZbjR2coSczMXDqa6"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1507,22 +1491,38 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Recurrent Processes",
-        "url": "https://open.spotify.com/album/1D2XSXKQF5FANxxrWHJtVC"
+        "name": "Bioluminescence",
+        "url": "https://open.spotify.com/album/2x43RvAJ4ZRMRdBxjZxPfO"
       },
       "artists": [
         {
-          "name": "David Cordero",
-          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
-        },
-        {
-          "name": "Rhucle",
-          "url": "https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl"
+          "name": "Rosentwig",
+          "url": "https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb"
         }
       ],
-      "duration_ms": 315103,
-      "name": "Si'umim",
-      "url": "https://open.spotify.com/track/7Cv1lFhTeK7U8Av8WFHoYF"
+      "duration_ms": 247500,
+      "name": "Bioluminescence",
+      "url": "https://open.spotify.com/track/1w2Qn4a8XkOhpgMLY8ED5t"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/1Tz5EtxQQDKStb9bJgA7EB"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Recorder",
+          "url": "https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8"
+        },
+        {
+          "name": "Cascadilla",
+          "url": "https://open.spotify.com/artist/6fa5P1SFsexpT4141tAn7F"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/7AqVwBUWE2ydOy9gvrv9bW"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/1Tz5EtxQQDKStb9bJgA7EB"
+        "name": "Recurrent Processes",
+        "url": "https://open.spotify.com/album/1D2XSXKQF5FANxxrWHJtVC"
       },
       "artists": [
         {
-          "name": "Sunshine Recorder",
-          "url": "https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8"
+          "name": "David Cordero",
+          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
         },
         {
-          "name": "Cascadilla",
-          "url": "https://open.spotify.com/artist/6fa5P1SFsexpT4141tAn7F"
+          "name": "Rhucle",
+          "url": "https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/7AqVwBUWE2ydOy9gvrv9bW"
+      "duration_ms": 315103,
+      "name": "Si'umim",
+      "url": "https://open.spotify.com/track/7Cv1lFhTeK7U8Av8WFHoYF"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Enter the Cosmos: Ambient Cello Meditation",
-        "url": "https://open.spotify.com/album/3VtiBbKf131tPgqFuFXvAN"
-      },
-      "artists": [
-        {
-          "name": "The Wong Janice",
-          "url": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Consciousness, Pt. 1",
-      "url": "https://open.spotify.com/track/57AGd80DRCOzwMy7WbCq3y"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Rainfall",
         "url": "https://open.spotify.com/album/1DfF3LJF5FzTpOJmJkqrwC"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 286000,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/2rHyG15WplCxbhPCELXxdM"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "Enter the Cosmos: Ambient Cello Meditation",
+        "url": "https://open.spotify.com/album/3VtiBbKf131tPgqFuFXvAN"
+      },
+      "artists": [
+        {
+          "name": "The Wong Janice",
+          "url": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
+        }
+      ],
+      "duration_ms": 435000,
+      "name": "Consciousness, Pt. 1",
+      "url": "https://open.spotify.com/track/57AGd80DRCOzwMy7WbCq3y"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
+        "name": "Wider Than the Sky",
+        "url": "https://open.spotify.com/album/3xQoblvBc5jHCmg2sWnJrv"
+      },
+      "artists": [
+        {
+          "name": "City of Dawn",
+          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
+        },
+        {
+          "name": "Ross Christopher",
+          "url": "https://open.spotify.com/artist/44jyylTQIB8qkPlQUHI614"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "To Love or Die Together",
+      "url": "https://open.spotify.com/track/4ryimwBuu81PFtGzjEa1DM"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
         "name": "The Universe Slows Down",
         "url": "https://open.spotify.com/album/3UhaLEQWPnXy80pKZ4WBNd"
       },
@@ -1699,26 +1719,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Wider Than the Sky",
-        "url": "https://open.spotify.com/album/3xQoblvBc5jHCmg2sWnJrv"
-      },
-      "artists": [
-        {
-          "name": "City of Dawn",
-          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
-        },
-        {
-          "name": "Ross Christopher",
-          "url": "https://open.spotify.com/artist/44jyylTQIB8qkPlQUHI614"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "To Love or Die Together",
-      "url": "https://open.spotify.com/track/4ryimwBuu81PFtGzjEa1DM"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/36xdhGHuzMMieO0qQo0t3p"
       },
@@ -1735,18 +1735,22 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Strands",
-        "url": "https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn"
+        "name": "Tapir",
+        "url": "https://open.spotify.com/album/3GR4fQQerubloHGRzyqrtr"
       },
       "artists": [
         {
-          "name": "gonima",
-          "url": "https://open.spotify.com/artist/77dTJotJTJA8XS3Y4gBp80"
+          "name": "Blurstem",
+          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+        },
+        {
+          "name": "Andrew Tasselmyer",
+          "url": "https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx"
         }
       ],
-      "duration_ms": 155980,
-      "name": "Open Mind",
-      "url": "https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ"
+      "duration_ms": 185500,
+      "name": "Tapir",
+      "url": "https://open.spotify.com/track/20MXBhQSpsngsyWdn7lwjF"
     }
   ],
   "unique_name": "The Listening Room",

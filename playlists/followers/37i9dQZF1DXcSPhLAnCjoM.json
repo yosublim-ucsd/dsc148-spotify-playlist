@@ -1,5 +1,5 @@
 {
-  "2024-03-12": 975389,
+  "2024-03-13": 975436,
   "date_first_scraped": "2023-09-29",
   "description": "Santa au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
@@ -1303,10 +1303,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-12",
       "duration_ms": 192320,
       "name": "Le chemin (L\u00e9nie & Pierre)",
       "url": "https://open.spotify.com/track/0N6vb3WsrfQqadaq7lWrnb"
+    },
+    {
+      "album": {
+        "name": "L'album de la promo 2023",
+        "url": "https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC"
+      },
+      "artists": [
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192320,
+      "name": "Le chemin (L\u00e9nie & Pierre)",
+      "url": "https://open.spotify.com/track/6QSNzAdn3lJeYtO3qynUUR"
     },
     {
       "album": {

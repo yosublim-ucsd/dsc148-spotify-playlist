@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 70599,
+  "num_followers": 70602,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "Mzg5NyxhOGY0MTg3N2Y5ZTJjNjFmYjc2MmY0ZjRiZDNjZmQ5NDlhMDllNjNk",
+  "snapshot_id": "Mzg5OCwzMmQ0NTlmZWVhZGIyOGYzNWY1ZGU2MTA1ZGRkNjY2ZDA2ZTFhMTMy",
   "tracks": [
+    {
+      "added_at": "2024-03-12 16:55:08",
+      "album": {
+        "name": "You Lucky One",
+        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 294851,
+      "name": "You Lucky One",
+      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
+    },
     {
       "added_at": "2024-03-06 12:04:30",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > Drake/4batz collab, That Mexican OT, Luh Tyler
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,680 likes - 667 songs - 1 day 13 hr 38 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,678 likes - 667 songs - 1 day 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

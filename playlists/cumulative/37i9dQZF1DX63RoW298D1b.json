@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "About The Known",
+        "url": "https://open.spotify.com/album/1II575rpuj84021opzGTJ3"
+      },
+      "artists": [
+        {
+          "name": "Zeppi",
+          "url": "https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156625,
+      "name": "How Things Blend",
+      "url": "https://open.spotify.com/track/18hOR7RxHGxmXTXXB4GLKj"
+    },
+    {
+      "album": {
         "name": "Why Talk",
         "url": "https://open.spotify.com/album/3itSrZTR8a8kwhM7EoyRBu"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 156625,
       "name": "How Things Blend",
       "url": "https://open.spotify.com/track/6M8NtnCiA9hxB1g9QscR0D"

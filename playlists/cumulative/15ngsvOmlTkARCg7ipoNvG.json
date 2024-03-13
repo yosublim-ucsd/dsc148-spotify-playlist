@@ -7827,6 +7827,24 @@
     },
     {
       "album": {
+        "name": "Dreams (Ambient Cello Version)",
+        "url": "https://open.spotify.com/album/2f0K7MnKM2JHiyeJRklnmf"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60227,
+      "name": "Dreams - Ambient Cello Version",
+      "url": "https://open.spotify.com/track/1w7okIxaBEg5NHuoQpkOyR"
+    },
+    {
+      "album": {
         "name": "Dreams (Violin Version)",
         "url": "https://open.spotify.com/album/0Bj2EXJrPU1VC96s4oX2b0"
       },

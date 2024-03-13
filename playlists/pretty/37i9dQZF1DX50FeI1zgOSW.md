@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,309 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,356 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 6 | [Vizhi](https://open.spotify.com/track/0yfou1n7Osbq1objkFdawy) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6) | [Vizhi](https://open.spotify.com/album/55N7GixVbyi5islA1qaMs1) | 4:42 |
 | 7 | [Yesuvae Neerae](https://open.spotify.com/track/7n8c4bgpiA76yUl1UEU2vw) | [Steve Benison](https://open.spotify.com/artist/3sZyRyInSM5EuVoM77vutc) | [Yesuvae Neerae](https://open.spotify.com/album/6U3MQEHiFtqZKz5U51FJNS) | 5:26 |
 | 8 | [Million Streams](https://open.spotify.com/track/2TZGqnPCJ4ltj24hQL78Fx) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf) | [Million Streams](https://open.spotify.com/album/6hdjXtjR00a2nFVXyWpNx7) | 4:03 |
-| 9 | [Iraivi](https://open.spotify.com/track/4wFirzSvCLnSQ6nwtsluYT) | [Navneeth Sundar](https://open.spotify.com/artist/5a90LDKvSIgq8c3e8IjZRe), [Navya Umesh](https://open.spotify.com/artist/011CU7FddyoQO8f4JJvgI8) | [Iraivi](https://open.spotify.com/album/6UybZwoEfIp2NkxrvlYy7j) | 4:04 |
-| 10 | [Monstaa](https://open.spotify.com/track/6YPPThKc7ZtuKb7pA4WBD2) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT), [Nirosh Vijay](https://open.spotify.com/artist/4Arw6O9wyeyuBk4AuHYb7h), [Smith Asher](https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn) | [Monstaa](https://open.spotify.com/album/3SwdMyGwEKBVHxudE13bER) | 3:09 |
-| 11 | [Yarumillai](https://open.spotify.com/track/3AAwye5jD5qVfE1ybv8sg2) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Yarumillai](https://open.spotify.com/album/14fJS35SXPwpaaec15IWwo) | 3:33 |
+| 9 | [Kadhal Senji Kolladha](https://open.spotify.com/track/7mAAlQ3YADc93Jp22vMZQq) | [Narendra Prasath](https://open.spotify.com/artist/4jQB0BmkEr9rvu8PRTSaPD), [Manikandan murali](https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg) | [Kadhal Senji Kolladha](https://open.spotify.com/album/6J9g9xpp9OslxNGKQK7eln) | 2:04 |
+| 10 | [Iraivi](https://open.spotify.com/track/4wFirzSvCLnSQ6nwtsluYT) | [Navneeth Sundar](https://open.spotify.com/artist/5a90LDKvSIgq8c3e8IjZRe), [Navya Umesh](https://open.spotify.com/artist/011CU7FddyoQO8f4JJvgI8) | [Iraivi](https://open.spotify.com/album/6UybZwoEfIp2NkxrvlYy7j) | 4:04 |
+| 11 | [Monstaa](https://open.spotify.com/track/6YPPThKc7ZtuKb7pA4WBD2) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT), [Nirosh Vijay](https://open.spotify.com/artist/4Arw6O9wyeyuBk4AuHYb7h), [Smith Asher](https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn) | [Monstaa](https://open.spotify.com/album/3SwdMyGwEKBVHxudE13bER) | 3:09 |
 | 12 | [Natarajan Naatiyam](https://open.spotify.com/track/0byS4yFkICagbCKMctUdm1) | [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Smith Asher](https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn) | [Natarajan Naatiyam](https://open.spotify.com/album/5vwsvybTHEJwPRgPhd77Ff) | 3:30 |
 | 13 | [Kathirikolu](https://open.spotify.com/track/6GOXfEPNhhCkPHveqwlOSW) | [Vijay Paul](https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po) | [Kathirikolu](https://open.spotify.com/album/2MnfUCtFWEnRCbogQLsxde) | 3:18 |
 | 14 | [Manithakaari Sevvi](https://open.spotify.com/track/01TQhZMxTdsgDs7L76BwD5) | [Revaa](https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc), [Bshaa](https://open.spotify.com/artist/6irJTMyYRu8hCEuOOsPRMh), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Manithakaari Sevvi](https://open.spotify.com/album/7xWL735eBbUjdHKPBXL7f0) | 5:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 74 | [Vaasam Pesum](https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/65uesvauWksGXmaSS78K1L) | 3:50 |
 | 75 | [Alavilla Azhagiye](https://open.spotify.com/track/3SYONFAMu1i89QbMx5qzTt) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Inzy](https://open.spotify.com/artist/07XxDCSIhiEvcAtxPm0uWV) | [Alavilla Azhagiye](https://open.spotify.com/album/0pTsgbKPcLDNIUDaxT2Fpq) | 4:14 |
 
-Snapshot ID: `MCxiZWQ4YmNlYjNlNjg1OGVlYzg5MGQ1YTkwMTZlNzg5YjQ1N2YxZTZm`
+Snapshot ID: `MCxmNTQ0Y2Y4ZjNlN2Q2YThmMGYyY2EyOWI0MzdmMmE2Y2FkMDcxYTNj`
