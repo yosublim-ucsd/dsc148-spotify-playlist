@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camil\u00fa & Karina",
-  "num_followers": 181330,
+  "num_followers": 181345,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTg4ZDJiZmZiMWViMDJlNGQyYjhiZDQwNGExNmVlZGI1M2QzYjFm",
+  "snapshot_id": "MCxhNjVkMzZhOTcyZTNkMmJjZDYyZTJlYmIyMGM2MTZmNjUzMzBjNjIx",
   "tracks": [
     {
       "added_at": "2024-03-07 20:51:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2024-03-07 20:51:00",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 275440,
       "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
-    },
-    {
-      "added_at": "2024-03-07 20:51:00",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
-        "name": "Ojos de R\u00edo",
-        "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 136512,
-      "name": "Ojos de R\u00edo",
-      "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"
-    },
-    {
-      "added_at": "2024-03-07 20:51:00",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
-        "name": "Hablando a tu coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
+        "name": "Ojos de R\u00edo",
+        "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
       },
       "artists": [
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 239500,
-      "name": "Hablando a tu coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
+      "duration_ms": 136512,
+      "name": "Ojos de R\u00edo",
+      "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
-        "name": "Desapego",
-        "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
+        "name": "Hablando a tu coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
       },
       "artists": [
         {
-          "name": "Purahei Soul",
-          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
         }
       ],
-      "duration_ms": 218827,
-      "name": "Desapego",
-      "url": "https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN"
+      "duration_ms": 239500,
+      "name": "Hablando a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 115029,
       "name": "Las Plantas Crecen",
       "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2024-03-07 20:51:00",
+      "album": {
+        "name": "Desapego",
+        "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
+      },
+      "artists": [
+        {
+          "name": "Purahei Soul",
+          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
+        }
+      ],
+      "duration_ms": 218827,
+      "name": "Desapego",
+      "url": "https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN"
     },
     {
       "added_at": "2024-03-07 20:51:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-07 20:51:00",
       "album": {
-        "name": "Frontera / Fuji",
-        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        }
-      ],
-      "duration_ms": 278964,
-      "name": "Fuji",
-      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
-    },
-    {
-      "added_at": "2024-03-07 20:51:00",
-      "album": {
         "name": "Oma",
         "url": "https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 198405,
       "name": "Oma",
       "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
+    },
+    {
+      "added_at": "2024-03-07 20:51:00",
+      "album": {
+        "name": "Frontera / Fuji",
+        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "duration_ms": 278964,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
     },
     {
       "added_at": "2024-03-07 20:51:00",

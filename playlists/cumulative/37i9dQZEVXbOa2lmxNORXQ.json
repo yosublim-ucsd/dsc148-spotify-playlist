@@ -5509,6 +5509,32 @@
     },
     {
       "album": {
+        "name": "EN BAJITA / SWAGGY",
+        "url": "https://open.spotify.com/album/0MSgzttPRl9UtjVs8Tcvf0"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "ElMalaFama",
+          "url": "https://open.spotify.com/artist/4jyb6tiyWziOp0Gu1Gre49"
+        },
+        {
+          "name": "Neeus",
+          "url": "https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175937,
+      "name": "EN BAJITA",
+      "url": "https://open.spotify.com/track/1FjTb3UQkKkXYahI27MxqJ"
+    },
+    {
+      "album": {
         "name": "Toque de Clase",
         "url": "https://open.spotify.com/album/5UyCZpRAHRIBk2k2z5sgpm"
       },
@@ -11205,6 +11231,24 @@
     },
     {
       "album": {
+        "name": "Mi Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3iile2EGSgnKX5sWiMKRUj"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Mi Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7BkUWGC6AACZxHzTul75SH"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -14194,7 +14238,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 166253,
       "name": "Prohibidox",
       "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
@@ -19272,7 +19316,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"

@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-128 songs - 6 hr 38 min
+129 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [BEGGIN U](https://open.spotify.com/track/35LEac8u5eTgb4RwD4tzNe) | [Hall of Fame](https://open.spotify.com/artist/3CTYAruK2v4eLNoG9EoubZ) | [BEGGIN U](https://open.spotify.com/album/0wXHkRoOndFEy8zIUlsrDi) | 2:15 | 2022-03-17 | 2024-03-03 |
 | [Beggin U](https://open.spotify.com/track/3iL5a6F7mUlyUpVRR39spR) | [Jrilla](https://open.spotify.com/artist/2PRaSVqPQoBgmpJfnliAgh) | [Beggin U](https://open.spotify.com/album/4ko4HMy93msu1xCWtmGY32) | 2:15 | 2022-03-17 | 2022-12-18 |
 | [Beggin U](https://open.spotify.com/track/1P4XWA7DvVqxseeaepFmed) | [Jrilla](https://open.spotify.com/artist/72S9EGxCYScsUNOf7g6Poo) | [Beggin U](https://open.spotify.com/album/3KO0dWKUQDeYQ5GKlz0VtW) | 2:18 | 2022-03-17 | 2024-03-11 |
-| [Beggin U](https://open.spotify.com/track/6xacjqiieBkAatAJuke0V9) | [riverhood](https://open.spotify.com/artist/1NZnfMY7RAKXVcxDaQD6Dj) | [Beggin U](https://open.spotify.com/album/2IyIQ2IoPif6McYZpd75Gr) | 2:18 | 2022-03-17 |  |
+| [Beggin U](https://open.spotify.com/track/6xacjqiieBkAatAJuke0V9) | [riverhood](https://open.spotify.com/artist/1NZnfMY7RAKXVcxDaQD6Dj) | [Beggin U](https://open.spotify.com/album/2IyIQ2IoPif6McYZpd75Gr) | 2:18 | 2022-03-17 | 2024-03-14 |
 | [Beggin U](https://open.spotify.com/track/1L3ilbDa1L1wSGEBlvoRLc) | [Suzi Chavo](https://open.spotify.com/artist/1VNQJiKGjToroNY0f6b38h) | [Beggin U](https://open.spotify.com/album/0FojNTk0HPR5zvkNw4qhku) | 2:15 | 2022-03-17 | 2023-05-12 |
+| [Beggin u](https://open.spotify.com/track/3kHN05AnAl7GDSrq9YOzqv) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Beggin u](https://open.spotify.com/album/2L7NJuPqenhQ8XjWUeuOdL) | 2:15 | 2022-03-17 |  |
 | [Beggin U](https://open.spotify.com/track/2Ezy6lBiOeEFQRYfXFGMxG) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Jrilla](https://open.spotify.com/artist/6a34Jy0rj2sMJfElAEmzsO) | [bu ocak başındaki adamlar için](https://open.spotify.com/album/6FFkfL4kFs3q0YtG0N6SCu) | 2:15 | 2022-03-17 | 2023-09-28 |
 | [Bernie Mac](https://open.spotify.com/track/3Z8WVPojr7RFPqkntdZVNR) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Bernie Mac](https://open.spotify.com/album/6yycdFlMIijQP675i8o1it) | 2:29 | 2021-10-26 | 2022-03-17 |
 | [Big Bidness](https://open.spotify.com/track/24Sdq5vT5sdZTeQmvb8zCd) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Big Bidness](https://open.spotify.com/album/0sWBFDpM7sClqlK9sHm9q4) | 2:40 | 2021-10-26 | 2022-03-17 |

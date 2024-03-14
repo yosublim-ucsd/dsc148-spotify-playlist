@@ -4,7 +4,7 @@
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-108 songs - 5 hr 12 min
+112 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,8 @@
 | [396 Hz Dreams](https://open.spotify.com/track/6Jc86pkW1EMwPHjAomdUwp) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Binaural Waves](https://open.spotify.com/album/7ocLgwnXM4M2ugl89K9Rxj) | 3:04 | 2023-03-10 |  |
 | [396 Hz Endless Dream](https://open.spotify.com/track/1uhhQzim9TCtUhjh6CR6oZ) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Reconnection](https://open.spotify.com/album/4d7nXul9yQTDRhXFGry3EL) | 3:01 | 2023-03-10 |  |
 | [396 Hz Ethereal Sinewave Exploration](https://open.spotify.com/track/4IvGb4s7d3lKABeISc82tN) | [Sage Tranquility Hz](https://open.spotify.com/artist/4Hjn3TNiu6uNl4CVIJIC46) | [396 Hz Ethereal Sinewave Exploration](https://open.spotify.com/album/5wgv6MJbASGguEJjgWEiTi) | 3:01 | 2023-11-30 |  |
+| [396 Hz Freedom Heard in Lauterbrunnen](https://open.spotify.com/track/6O9GlPmNo9g0fZF9jdW2nw) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [396 Hz Freedom Heard in Lauterbrunnen](https://open.spotify.com/album/6k1vy4PLC49SJnHs8q7ZCd) | 2:50 | 2024-03-13 |  |
+| [396 Hz Glistening Aethereal](https://open.spotify.com/track/4oTNsJWhzLoKCdd24XYj8O) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [396 Hz Glistening Aethereal](https://open.spotify.com/album/7cQbwYWoxmjdvaOqGFtpfB) | 2:23 | 2024-03-13 |  |
 | [396 Hz Glow](https://open.spotify.com/track/0pYXtmfyspcdKngB848yl2) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 3:07 | 2023-03-10 |  |
 | [396 Hz Gratitude](https://open.spotify.com/track/7s3NRXVuOotGHikCjCBQ3J) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [396 Hz Gratitude](https://open.spotify.com/album/6ru7XsFIuGWhLwaYz3UArj) | 2:45 | 2023-08-07 |  |
 | [396 Hz Harmonic Journey](https://open.spotify.com/track/2tkcUXZ5TMnsT1mVMfB1hQ) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [396 Hz Harmonic Journey](https://open.spotify.com/album/7D9kpHUlRlAmE8Hon8gvlq) | 2:42 | 2023-09-21 |  |
@@ -57,6 +59,7 @@
 | [396 Hz Serenity](https://open.spotify.com/track/07IyBky0va8uPS5NTGWIV3) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [396 Hz Incense](https://open.spotify.com/album/1Iivw1BG6YQYu9StCcstVE) | 2:43 | 2023-08-07 |  |
 | [396 Hz Sleep](https://open.spotify.com/track/2NbJIErdDN924AzBpy7sjO) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [396 Hz Sleep](https://open.spotify.com/album/0dRaow6eFHQzirnlDCCspG) | 3:09 | 2023-08-07 |  |
 | [396 Hz Solfeggio Liberating Guilt and Fear A](https://open.spotify.com/track/5ZCxOGKodfd678XiPQXNAw) | [Michael Winmood](https://open.spotify.com/artist/67V7EQo6VuWeNgH8LwT7er) | [Solfeggio Frequencies for Healing](https://open.spotify.com/album/7bwE6B44amAWYZPUD3QqI7) | 2:08 | 2023-03-10 | 2023-12-01 |
+| [396 Hz Soulfeggio](https://open.spotify.com/track/4zxZPid20OYnEOeBqbxX4I) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Soulfeggio](https://open.spotify.com/album/1q70nrarHuusW6UbqEdbq5) | 3:12 | 2024-03-13 |  |
 | [396 Hz Spiral Energies](https://open.spotify.com/track/4cUgINonqnOM0ddaxhG9VC) | [Hyperion Towers](https://open.spotify.com/artist/5baGEdkemC63ShOCaIoALm) | [396 Hz Spiral Energies](https://open.spotify.com/album/2rRZTYttAMSQvEpT6R3M6e) | 2:48 | 2023-09-21 |  |
 | [396 Hz Trust](https://open.spotify.com/track/4NhI2B87g3Y6lYKwinjKYQ) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [396 Hz Trust](https://open.spotify.com/album/4GmYZuJ5BZlMkVOL7RNX3u) | 3:26 | 2023-08-07 |  |
 | [396 Hz Vibrations](https://open.spotify.com/track/3Vbu34Mfzo5RhYyeWsWMz1) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Repair and Recovery Frequencies](https://open.spotify.com/album/4245O4DlmalBzkDzC8kBpV) | 3:06 | 2023-03-10 |  |
@@ -81,6 +84,7 @@
 | [Crystal Lake](https://open.spotify.com/track/6e3ygSWFzpBenGaZ29CrlJ) | [Jarra](https://open.spotify.com/artist/3Cz7AqV45zqiyWoFaXrS69) | [Crystal Lake](https://open.spotify.com/album/7z0C3ZalO7w8XKPfEkfwCx) | 3:53 | 2023-03-10 | 2023-08-08 |
 | [Ease 396 Hz](https://open.spotify.com/track/1yxAANCYLJYX2ILnoPSt7E) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [Ease 396 Hz](https://open.spotify.com/album/3RO8AiGiA1HxVXNEttMJHG) | 2:44 | 2023-03-10 |  |
 | [Energy 396 Hz](https://open.spotify.com/track/1o8P0zMkhl9YsqFJbK8OoZ) | [Aster Mar](https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ) | [Energy 396 Hz](https://open.spotify.com/album/7MmxsEdeci3fj7AXz3n1UN) | 2:58 | 2023-11-30 |  |
+| [Enyrma 396Hz](https://open.spotify.com/track/1orxcdtIK5ejnttDYCbHmw) | [Balanced Resonances](https://open.spotify.com/artist/1NaTgQgoB7SBLTiso71iKn) | [Enyrma 396Hz](https://open.spotify.com/album/4tFBZdSmxsOHEa4kxMEley) | 2:59 | 2024-03-13 |  |
 | [Fearless 396 Hz](https://open.spotify.com/track/3YjrAaNCV97QJJ0i4mm72e) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Unified Balance Solfeggio Frequencies](https://open.spotify.com/album/35XYlSHTWHMqjoM1NG0mnT) | 4:04 | 2023-08-07 |  |
 | [Fearless 396Hz](https://open.spotify.com/track/4mzNYv5N53IPGQR2GUXbQm) | [Sienna Salvatore](https://open.spotify.com/artist/70qqsrrsnNczuDUivf3UEx) | [Fearless 396Hz](https://open.spotify.com/album/3HudPjiiV4RzJkK70CCXLS) | 2:47 | 2023-08-07 |  |
 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 | 2023-03-10 |  |

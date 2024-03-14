@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 216398,
       "name": "Leega",
       "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
@@ -2536,6 +2536,28 @@
       "duration_ms": 189000,
       "name": "Muntu Wange",
       "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
+    },
+    {
+      "album": {
+        "name": "My Date",
+        "url": "https://open.spotify.com/album/6pxjIHdQiPZyZ7oecyNPm4"
+      },
+      "artists": [
+        {
+          "name": "Green Daddy",
+          "url": "https://open.spotify.com/artist/2qNqbmGcLBZpjLv5IzuAWU"
+        },
+        {
+          "name": "Temperature Touch",
+          "url": "https://open.spotify.com/artist/3gHHNHGrHh9JIJ8VtWKfVT"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "My Date",
+      "url": "https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG"
     },
     {
       "album": {

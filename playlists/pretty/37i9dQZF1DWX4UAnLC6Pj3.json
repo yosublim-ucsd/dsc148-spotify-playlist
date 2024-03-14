@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS en portada.",
-  "num_followers": 1220219,
+  "num_followers": 1220387,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzA5Y2YxY2NmMzllMzJkN2U0N2Y3ZDBmNWRhMzhkYjM3ZTJjMGU4",
+  "snapshot_id": "MCxmODE1YWFiODQ4Yjk5NDRkZjRhN2ZkY2M0ZTUxODVjNzhjMGNmNmYw",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 161900,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "El Patrocinador",
         "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 161900,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 223695,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Historias de Mi Vida",
         "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 201857,
       "name": "A Cu\u00e1nto Me Qued\u00e9",
       "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 223695,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Estuve",
-        "url": "https://open.spotify.com/album/3QFuxWR9lWZ4H7NlT2yQny"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 212427,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/3AzYL6aGCfkbtoGvP9Vwbs"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Te Quiero Mil",
         "url": "https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 183986,
       "name": "Te Quiero Mil",
       "url": "https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Estuve",
+        "url": "https://open.spotify.com/album/3QFuxWR9lWZ4H7NlT2yQny"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 212427,
+      "name": "Estuve",
+      "url": "https://open.spotify.com/track/3AzYL6aGCfkbtoGvP9Vwbs"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -2175,22 +2175,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Le Dicen",
-        "url": "https://open.spotify.com/album/4z1cTOtcm5Y3rCyiBENidv"
+        "name": "La Bolsita",
+        "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
       },
       "artists": [
         {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
-        },
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 203613,
-      "name": "Le Dicen",
-      "url": "https://open.spotify.com/track/66Fs6uL39wuJX2NmKM7mKH"
+      "duration_ms": 180900,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI"
     }
   ],
   "unique_name": "Banda 2024",

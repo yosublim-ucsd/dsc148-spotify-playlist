@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 44316,
+  "2024-03-14": 44315,
   "date_first_scraped": "2022-06-10",
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
   "name": "Dim Mak New Releases",
@@ -43,6 +43,28 @@
       "duration_ms": 142222,
       "name": "4321",
       "url": "https://open.spotify.com/track/6vWnGPaLwC7dZEZta594fs"
+    },
+    {
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/0sPhVYEG3PMR9pQliDALZp"
+      },
+      "artists": [
+        {
+          "name": "Makla",
+          "url": "https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M"
+        },
+        {
+          "name": "Spin Off",
+          "url": "https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "911",
+      "url": "https://open.spotify.com/track/7wkjbEz5ZKO2BD2UQ9xng5"
     },
     {
       "album": {

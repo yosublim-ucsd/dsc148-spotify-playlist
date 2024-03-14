@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 184518,
+  "num_followers": 184545,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTMyODhmNDVkNDI4OTZmMTA2YmU3ODdkZGU1YjIxYmEyNDRmOWYw",
+  "snapshot_id": "MCxjYTkxN2Y3NmIxZmI0NDg3N2JkZDQwNDc5Njg1ZTk1YWVlZmIwYTk4",
   "tracks": [
     {
       "added_at": "2024-03-07 18:46:47",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 131066,
-      "name": "Caballo Que No Galopa",
-      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "Ckayna Cunan, Vol. 2",
         "url": "https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 218600,
       "name": "Bajo la Sombra de un \u00c1rbol",
       "url": "https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 131066,
+      "name": "Caballo Que No Galopa",
+      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
-        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
+        "name": "Los 3 del R\u00edo",
+        "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
       },
       "artists": [
         {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+          "name": "Los 3 Del R\u00edo",
+          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
         }
       ],
-      "duration_ms": 177720,
-      "name": "Cuando Ya Nadie Te Nombre",
-      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
+      "duration_ms": 229877,
+      "name": "El Pastor",
+      "url": "https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Los 3 del R\u00edo",
-        "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
+        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
+        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
       },
       "artists": [
         {
-          "name": "Los 3 Del R\u00edo",
-          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
         }
       ],
-      "duration_ms": 229877,
-      "name": "El Pastor",
-      "url": "https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp"
+      "duration_ms": 177720,
+      "name": "Cuando Ya Nadie Te Nombre",
+      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "Anoche No Dormi",
-      "url": "https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "From Argentina To The World",
         "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 210400,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 221253,
+      "name": "Anoche No Dormi",
+      "url": "https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
+        "name": "Antolog\u00eda III 1936-1989",
+        "url": "https://open.spotify.com/album/2sjqPvxZ3VVKgF5iaRVU6E"
       },
       "artists": [
         {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+          "name": "Alfredo Zitarrosa",
+          "url": "https://open.spotify.com/artist/4xQFKlQXtzYxfZOnk799m2"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Jazmin de Luna",
-      "url": "https://open.spotify.com/track/52KJTES45cbNkZOvdWj7d7"
+      "duration_ms": 416573,
+      "name": "Candombe del Olvido",
+      "url": "https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Antolog\u00eda III 1936-1989",
-        "url": "https://open.spotify.com/album/2sjqPvxZ3VVKgF5iaRVU6E"
+        "name": "Viajes Por El Mundo",
+        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
       },
       "artists": [
         {
-          "name": "Alfredo Zitarrosa",
-          "url": "https://open.spotify.com/artist/4xQFKlQXtzYxfZOnk799m2"
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
         }
       ],
-      "duration_ms": 416573,
-      "name": "Candombe del Olvido",
-      "url": "https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru"
+      "duration_ms": 172800,
+      "name": "Los Ejes de Mi Carreta",
+      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Viajes Por El Mundo",
-        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
       },
       "artists": [
         {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Los Ejes de Mi Carreta",
-      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
+      "duration_ms": 189000,
+      "name": "Jazmin de Luna",
+      "url": "https://open.spotify.com/track/52KJTES45cbNkZOvdWj7d7"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
+        "name": "Yo Digo Lo Que Siento",
+        "url": "https://open.spotify.com/album/6aPCsUPEEFY441vUHimyVe"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "duration_ms": 235386,
+      "name": "La Cautiva",
+      "url": "https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 146373,
       "name": "El Escondido - En Vivo",
       "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
-        "name": "Yo Digo Lo Que Siento",
-        "url": "https://open.spotify.com/album/6aPCsUPEEFY441vUHimyVe"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
-        }
-      ],
-      "duration_ms": 235386,
-      "name": "La Cautiva",
-      "url": "https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1456,9 +1456,9 @@
           "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
         }
       ],
-      "duration_ms": 256441,
-      "name": "Angelitos Negros",
-      "url": "https://open.spotify.com/track/26vjShJngRrRkg9WViCm5U"
+      "duration_ms": 218267,
+      "name": "Qu\u00e9 Te Ocurre Amigo M\u00edo",
+      "url": "https://open.spotify.com/track/1kFbnDteYOYeQB5eB1aWs6"
     },
     {
       "added_at": "2024-03-07 18:46:47",

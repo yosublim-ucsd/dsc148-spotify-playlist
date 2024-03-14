@@ -4,7 +4,7 @@
 
 > from Stillwater to Nashville with Wyatt Flores
 
-267 songs - 16 hr 4 min
+268 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Miner Imperfections](https://open.spotify.com/track/4GCtc95vUfhaa673o1vbv6) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 4:36 | 2023-09-22 | 2023-12-09 |
 | [Mississippi](https://open.spotify.com/track/1WAgbIFKH1ruetQ3PKUlxi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Mississippi](https://open.spotify.com/album/2ZYYocRhZtuJB2DmRplEIN) | 3:47 | 2023-03-31 | 2023-08-21 |
 | [Mockingbird](https://open.spotify.com/track/6JWgq21TmyArFEk78TvgqV) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio) | [Low Gap](https://open.spotify.com/album/1sXcs3y9hiX6aZjzQyAsjx) | 3:28 | 2023-03-03 | 2023-06-17 |
+| [More Than A Night](https://open.spotify.com/track/0Qgf8nGU2B8cfulKlt5T4p) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [More Than A Night](https://open.spotify.com/album/3StMprmUcvogSDIJytWOFD) | 4:07 | 2024-03-13 |  |
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/0yebM7lJyoX5doGOCW9fmk) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:43 | 2024-01-26 |  |
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW) | 3:43 | 2023-09-29 | 2024-01-27 |
 | [Mr\. Meyers](https://open.spotify.com/track/02H4xB4mpWx5mwc2z4BKIt) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Mr\. Meyers](https://open.spotify.com/album/5walGfxzAQLaLzaO0YaaZf) | 3:37 | 2023-08-25 | 2023-12-09 |

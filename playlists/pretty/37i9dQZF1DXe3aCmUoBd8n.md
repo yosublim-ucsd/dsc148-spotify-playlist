@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,245 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,265 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 49 | [khallina N3esh](https://open.spotify.com/track/7qq9gkXMLG64zEnqTn2s9o) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [khallina N3esh](https://open.spotify.com/album/4bUVYFe5LEtKByQcKmRvQg) | 3:29 |
 | 50 | [بحارب فيها](https://open.spotify.com/track/7CMWymjluZIFObjuvzHYeT) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/5RimBiLxkawPsr59cDnkWT) | 4:05 |
 
-Snapshot ID: `MCw4NzY2YzA3MjVjNzA2OWVkYjc1MzBhMzRjNjAyZWNhMTU3ZGU4YjZm`
+Snapshot ID: `MCwxZjAxNTBhNzY1ZDMwZDYzZWQ3OTgxODYxMWMwZDJmYTZkZmJlZmY2`

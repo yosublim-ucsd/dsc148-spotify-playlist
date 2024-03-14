@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,950 likes - 100 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,078 likes - 100 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 38 | [Peace](https://open.spotify.com/track/3yPmDN2p5QxPOn1UVwISLv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 5:15 |
 | 39 | [Body And Soul](https://open.spotify.com/track/3u2Y2K3dlBY5QRIwdTnCHu) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [Modernistic](https://open.spotify.com/album/7rPdZr6OPrShZWy3aob80V) | 3:46 |
 | 40 | [Cristo Redentor \- Remastered](https://open.spotify.com/track/0Xfq6BeOHdzf16gk9y8a1P) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [A New Perspective \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3LG1c3DYgaEtCxea2z7ZSa) | 5:43 |
-| 41 | [Speak No Evil \- Remastered 1998 / Rudy Van Gelder Edition](https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 8:23 |
+| 41 | [Speak No Evil \- Remastered1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 8:23 |
 | 42 | [Defiant, Tender Warrior](https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Defiant, Tender Warrior](https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B) | 4:16 |
 | 43 | [Roy](https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [on the tender spot of every calloused moment](https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji) | 2:40 |
 | 44 | ['Round Midnight](https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 99 | [Old Folks](https://open.spotify.com/track/5iLiu2yxhOs97x9VILKzHF) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Vol\. 1](https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba) | 5:50 |
 | 100 | [Jackie Gets Out](https://open.spotify.com/track/12zuJhwGaqJu8fvgBWqYuy) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [David Pulphus](https://open.spotify.com/artist/02amhnCtIA62SbXmNashjW) | [The Comedian \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a1fkH8V57Wxm1cEVzRgxt) | 2:56 |
 
-Snapshot ID: `MCw2ZDgwNDJiYzhkMzcwMWE0NzdkODNiZmJhZWFiNDU1ZGZlNzc5ZTc2`
+Snapshot ID: `MCwzNjVlODBkNDY3NDBiNDQzMDUyMzc4MTBjMDBmYjg0MWQyOTkyODU2`

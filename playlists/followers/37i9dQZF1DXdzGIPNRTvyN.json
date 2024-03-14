@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 247684,
+  "2024-03-14": 248237,
   "date_first_scraped": "2023-02-09",
   "description": "Wander into the magical mix of music, water, birds, and calmness. ",
   "name": "Dreamy Forest Music",
@@ -485,7 +485,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 190291,
       "name": "Bubbling Waters",
       "url": "https://open.spotify.com/track/1zaF9aOvpI9FXLY4vmqzSn"
@@ -3197,6 +3197,24 @@
       "duration_ms": 130737,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0HoQL2kDebChTcE3x2e0Lz"
+    },
+    {
+      "album": {
+        "name": "Signs Of Life",
+        "url": "https://open.spotify.com/album/3pm52kadp5DClaRVbLMW2S"
+      },
+      "artists": [
+        {
+          "name": "Pouring Voices",
+          "url": "https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175178,
+      "name": "Signs Of Life",
+      "url": "https://open.spotify.com/track/0UDoXifu2rd9J25FgbYiSJ"
     },
     {
       "album": {

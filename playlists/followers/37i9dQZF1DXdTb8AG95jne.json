@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 464925,
+  "2024-03-14": 464940,
   "date_first_scraped": "2021-12-21",
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: MONNI(\ubabd\ub2c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
@@ -133,24 +133,6 @@
       "duration_ms": 259196,
       "name": "1AM \uc0c8\ubcbd \ud55c \uc2dc",
       "url": "https://open.spotify.com/track/5kxFmqWNGEiHfUxdlt9mRD"
-    },
-    {
-      "album": {
-        "name": "Eternal Memories",
-        "url": "https://open.spotify.com/album/3pRfgKJgV5AZbvIOkKmSTt"
-      },
-      "artists": [
-        {
-          "name": "MONNI",
-          "url": "https://open.spotify.com/artist/3YBdWm4N53j49BHxJ8JnbG"
-        }
-      ],
-      "date_added": "2024-03-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 281080,
-      "name": "1\ucd08\ub3c4 \ub418\ub3cc\ub9b4 \uc218 \uc5c6\ub294 There's no turning back even 1 second",
-      "url": "https://open.spotify.com/track/0H84I0iW4KAd8dR9i1mvqR"
     },
     {
       "album": {
@@ -9725,6 +9707,24 @@
       "duration_ms": 229500,
       "name": "theme park",
       "url": "https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD"
+    },
+    {
+      "album": {
+        "name": "Eternal Memories",
+        "url": "https://open.spotify.com/album/3pRfgKJgV5AZbvIOkKmSTt"
+      },
+      "artists": [
+        {
+          "name": "MONNI",
+          "url": "https://open.spotify.com/artist/3YBdWm4N53j49BHxJ8JnbG"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281080,
+      "name": "There's no turning back even 1 second",
+      "url": "https://open.spotify.com/track/0H84I0iW4KAd8dR9i1mvqR"
     },
     {
       "album": {

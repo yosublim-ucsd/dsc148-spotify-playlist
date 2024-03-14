@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,409 songs - 3 day 1 hr 16 min
+1,410 songs - 3 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-05 | 2022-03-07 |
 | [Ausfahrt](https://open.spotify.com/track/2zkCzK0YBafIS8UzhcuOxd) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Recklezz](https://open.spotify.com/album/2SQP0maBlv8QZunwPVfE3P) | 2:34 | 2022-11-19 | 2022-11-26 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-13 |  |
 | [Automatisch](https://open.spotify.com/track/6mMVJJkpzL5r9OyqX7VzBk) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1gr2uGne9hmcTVPCaadDX5) | 2:45 | 2022-04-30 | 2022-11-06 |
 | [Automatisch](https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4wj55K0CAP26MV3MIGDLRZ) | 2:45 | 2022-11-05 | 2023-05-21 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-09-14 | 2022-11-29 |
@@ -1273,7 +1274,7 @@
 | [U & Me \(feat\. Jonna Fraser & Spanker\)](https://open.spotify.com/track/0LivPTalooilNZTbxjlUzT) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09) | [U & Me \(feat\. Jonna Fraser & Spanker\)](https://open.spotify.com/album/7kYkilr18uS2GmYW7ek4Ju) | 2:39 | 2023-10-14 | 2023-10-16 |
 | [UHUH](https://open.spotify.com/track/5feza64dOl5JSSiuFsqrZq) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [UHUH](https://open.spotify.com/album/5Ao4GADlAfFiblhJ7nBani) | 2:55 | 2021-08-15 | 2021-11-07 |
 | [UHUH](https://open.spotify.com/track/6tDA5289CCJ4S4wiZPMLuN) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Talou](https://open.spotify.com/album/5nTBO5C2cKIypuPSleM2IW) | 2:55 | 2021-11-07 | 2022-01-08 |
-| [Undecided](https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Undecided](https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V) | 2:40 | 2024-02-18 |  |
+| [Undecided](https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Undecided](https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V) | 2:40 | 2024-02-18 | 2024-03-14 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-29 | 2023-03-12 |
 | [Underdogs](https://open.spotify.com/track/0InOslB6hEurXytueX0RmO) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Plenty Bars \- EP](https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk) | 5:18 | 2022-12-17 | 2022-12-19 |
 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 | 2023-11-27 | 2023-12-30 |

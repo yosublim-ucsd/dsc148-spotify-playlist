@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Happy Women's History Month! Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,548 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,701 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 14 | [Money On My Mind](https://open.spotify.com/track/1gAmZYaDy4ZxE1BabhnT68) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money On My Mind](https://open.spotify.com/album/0Ce9CRbkNFyPqKgiKQPSO6) | 1:59 |
 | 15 | [For Free?](https://open.spotify.com/track/0rg7DxTa08fGuIONC3mDU3) | [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [For Free?](https://open.spotify.com/album/3uamA6EQVoQzupXpke900F) | 3:13 |
 | 16 | [614](https://open.spotify.com/track/0rvSQxrzazqTD4zyiiuCXp) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [614](https://open.spotify.com/album/2uf8Of0BwZtWUA9GMAjszQ) | 3:19 |
-| 17 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
+| 17 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit Da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
 | 18 | [On God \(feat\. Earl Sweatshirt & Tony Shhnow\)](https://open.spotify.com/track/4j25WxLITRGhkYNmdezE8s) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Pinball](https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW) | 2:27 |
 | 19 | [YOU KNOW WHAT I MEAN](https://open.spotify.com/track/7uomhQZto3zjn7LuUGjfBP) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [YOU KNOW WHAT I MEAN](https://open.spotify.com/album/1QZUAkjbqzDudg78GJ87Up) | 2:22 |
 | 20 | [Dame De La Lumière](https://open.spotify.com/track/75lplM1hDEvvfWgmkTIUaN) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Dame De La Lumière](https://open.spotify.com/album/4LlNztyJMR1hCaBpMVEJSS) | 4:41 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 104 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 105 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 
-Snapshot ID: `MCxkZjNiYzdjOWFkM2IxNjUwZWJhOWU0YTk4NmEzYWU0YjI4NTJhMzU4`
+Snapshot ID: `MCxiYTljYTA0MmYxODY4Yzg2NjEzNDY3OGNjMTRhMWJhZWJjMGFiZDIz`

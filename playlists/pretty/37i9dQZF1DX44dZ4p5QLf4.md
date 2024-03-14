@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,164 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,232 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 69 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
 | 70 | [Price You Pay](https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Price You Pay](https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML) | 3:03 |
 
-Snapshot ID: `MCw2MzViNWM2ODRjZDVmZTUzNDVhMWVjMDI2MTQxMzBjNTUxZWM5ZjBk`
+Snapshot ID: `MCwxMmM4MmRmYjJkMDU1ZmI3NjAwZmRjZGEwZWFmZjk0MDQ4OTRjNWYw`

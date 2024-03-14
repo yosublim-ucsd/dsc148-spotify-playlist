@@ -15766,7 +15766,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 160239,
       "name": "Roll me sideways",
       "url": "https://open.spotify.com/track/3qpCwJdsLxPm129Rp3FHqc"
@@ -21495,6 +21495,24 @@
     },
     {
       "album": {
+        "name": "winter sky",
+        "url": "https://open.spotify.com/album/54HSpyO4c3HoTw0ETVubd1"
+      },
+      "artists": [
+        {
+          "name": "Dalo",
+          "url": "https://open.spotify.com/artist/0dRqtPq1WDr4qMuNEg6KS6"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194940,
+      "name": "winter sky",
+      "url": "https://open.spotify.com/track/2iONNM9jRNfxCDckFyJrsO"
+    },
+    {
+      "album": {
         "name": "winter song",
         "url": "https://open.spotify.com/album/6HWNcbMVFJ3fpx5exCpKux"
       },
@@ -21631,7 +21649,7 @@
       "artists": [
         {
           "name": "Moon Spirit",
-          "url": "https://open.spotify.com/artist/62zKB6KmehKNRoyd8YgNwE"
+          "url": "https://open.spotify.com/artist/5KQrXENL8zznzYw3r6zTlx"
         }
       ],
       "date_added": "2024-03-08",

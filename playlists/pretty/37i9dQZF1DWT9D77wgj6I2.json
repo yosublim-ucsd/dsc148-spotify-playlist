@@ -1,12 +1,12 @@
 {
   "description": "Un derroche de sensualidad. Prince Royce, Gabito Ballesteros en portada.",
-  "num_followers": 89464,
+  "num_followers": 89521,
   "original_name": "Bachata Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTQyOGEwZGU3NTNmNTE0NGNmMGE0M2RlMmZkNDA1M2JhMjk1YWUz",
+  "snapshot_id": "MCw1MDkwYzAwYTgxZjBkZTkzOTZhMGMwZTZiMjJkYjMxY2VmOTBjZTRk",
   "tracks": [
     {
       "added_at": "2024-02-13 19:00:15",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
-        "name": "Mi Mundo Entero",
-        "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 158067,
-      "name": "Mi Mundo Entero",
-      "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 214080,
       "name": "Amor Sincero",
       "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
+        "name": "Mi Mundo Entero",
+        "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 158067,
+      "name": "Mi Mundo Entero",
+      "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
     },
     {
       "added_at": "2024-02-13 19:00:15",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
+        "name": "Super Bachata (14 Bachata Hits Originales)",
+        "url": "https://open.spotify.com/album/1gnrSGcBMi7OFyf7iHwPyB"
+      },
+      "artists": [
+        {
+          "name": "Carlos y Alejandra",
+          "url": "https://open.spotify.com/artist/198g5ZZS90C4PnJ7E1dVjA"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "Melod\u00eda De Amor",
+      "url": "https://open.spotify.com/track/6pl3ec1Y8SnNIKDqxPr1I3"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
         "name": "Lost in the Music",
         "url": "https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 250000,
       "name": "Era Mentira",
       "url": "https://open.spotify.com/track/6R8Wtmkt4gExspMQV3W9xw"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
-        "name": "Super Bachata (14 Bachata Hits Originales)",
-        "url": "https://open.spotify.com/album/1gnrSGcBMi7OFyf7iHwPyB"
-      },
-      "artists": [
-        {
-          "name": "Carlos y Alejandra",
-          "url": "https://open.spotify.com/artist/198g5ZZS90C4PnJ7E1dVjA"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "Melod\u00eda De Amor",
-      "url": "https://open.spotify.com/track/6pl3ec1Y8SnNIKDqxPr1I3"
     },
     {
       "added_at": "2024-02-13 19:00:15",

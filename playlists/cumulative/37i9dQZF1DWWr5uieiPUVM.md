@@ -4,7 +4,7 @@
 
 > o melhor do trap dá o play e aumenta! Foto: Ajuliacosta, Mc Luanna, Duquesa, Iamlope$$, LAI$ROSA
 
-453 songs - 23 hr 56 min
+454 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,8 +91,9 @@
 | [Celine](https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:42 | 2023-07-21 | 2023-08-29 |
 | [Cerol Finin](https://open.spotify.com/track/1NaUCNLXO584ukPzd2tV8m) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Cerol Finin](https://open.spotify.com/album/1rchMhG8kD2PCzsE3nB1Gv) | 4:20 | 2022-05-27 | 2022-08-06 |
 | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW) | 1:52 | 2023-02-22 | 2023-04-15 |
-| [Cheiro de Sexo](https://open.spotify.com/track/1axjkneyMaY05Vtbm0iodX) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Cheiro de Sexo](https://open.spotify.com/album/5ZxY0qSYAspKpIac8YcQO5) | 2:28 | 2024-03-08 |  |
+| [Cheiro de Sexo](https://open.spotify.com/track/1axjkneyMaY05Vtbm0iodX) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Cheiro de Sexo](https://open.spotify.com/album/5ZxY0qSYAspKpIac8YcQO5) | 2:28 | 2024-03-08 | 2024-03-14 |
 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 | 2024-03-08 | 2024-03-10 |
+| [Cheiro de Sexo](https://open.spotify.com/track/475L05BT8k102evS4F1vx6) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 2:28 | 2024-03-08 |  |
 | [Chocolate](https://open.spotify.com/track/1wel2ZS8igiOCdRByEKRe0) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Chocolate](https://open.spotify.com/album/6qivCWwzJNbXu2tLo9kXIy) | 2:52 | 2023-09-22 | 2023-11-25 |
 | [Choices](https://open.spotify.com/track/6R2kAOhzSAQekI8Z5PL6Yq) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Choices](https://open.spotify.com/album/4CDi4Q8cBDaSi7T7RixE7F) | 2:18 | 2023-08-11 | 2023-10-21 |
 | [Ciumenta](https://open.spotify.com/track/42wWf8vyEYFqXoe4msRScV) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 3:20 | 2022-12-02 | 2023-01-28 |

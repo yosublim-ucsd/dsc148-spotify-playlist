@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,364 songs - 3 day 11 hr 23 min
+1,366 songs - 3 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [LOVE \(XL\)](https://open.spotify.com/track/5GAjhDdUw6vA33k2DvEbYJ) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [LOVE \(XL\)](https://open.spotify.com/album/4OpHb4ubmIAxWM945jNyfj) | 4:45 | 2023-11-21 | 2023-11-29 |
 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 | 2022-07-05 | 2022-07-27 |
 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 | 2022-10-04 | 2023-02-03 |
+| [Love no Genkei](https://open.spotify.com/track/2WW8KjNeaeKLCV16w4vmO7) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [Love no Genkei](https://open.spotify.com/album/2sOTrGKCJK6NzbDlLQm1i1) | 3:26 | 2024-03-12 |  |
 | [Love You!!!!!!](https://open.spotify.com/track/2a64t56KzgVqp8iYRCj8fs) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Love You!!!!!!](https://open.spotify.com/album/0ecMSnvcWpp5lxHvs8sKGU) | 2:05 | 2023-01-14 | 2023-01-18 |
 | [Love's Daydream End](https://open.spotify.com/track/63DFBgVx1eBrMQkG5LuwCh) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [Love's Daydream End](https://open.spotify.com/album/1JqhrNaGYbmXQlrTJ4Id6q) | 3:59 | 2022-10-25 | 2022-11-02 |
 | [LOVEBIRDS](https://open.spotify.com/track/5NYZlE8wMHWSL4snS7snIj) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [LOVEBIRDS](https://open.spotify.com/album/62btGm0Kjc8bIvyT71euDJ) | 3:35 | 2023-02-21 | 2023-04-05 |
@@ -756,7 +757,8 @@
 | [Rouge feat\. Taichi Mukai](https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Rouge feat\. Taichi Mukai](https://open.spotify.com/album/00t8byMoRv2LZrsEaH9X7K) | 3:37 | 2023-10-10 | 2023-11-16 |
 | [Rules](https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [Tao Tsuchiya](https://open.spotify.com/artist/078uTew0ffZM8zKSYdZsDQ) | [Rules](https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn) | 3:35 | 2022-09-06 | 2022-11-09 |
 | [Run](https://open.spotify.com/track/5o0vdr7UZ941BPZDwfZuaD) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season 1.5](https://open.spotify.com/album/3FM7BOJPcakm3tJr3UVTJs) | 3:20 | 2023-05-09 | 2023-05-24 |
-| [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 | 2024-03-12 |  |
+| [Run](https://open.spotify.com/track/3jKaAVlYp6i36bH9kCH7S6) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/53nChQOJuMLPOBDWdnDWRd) | 4:08 | 2024-03-12 |  |
+| [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 | 2024-03-12 | 2024-03-14 |
 | [RUN FOR YOU](https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [RUN FOR YOU](https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG) | 2:58 | 2023-09-14 |  |
 | [Run Or Hide \(feat\. Marina Watanabe\)](https://open.spotify.com/track/6yg50Iimr1S1uSo3bJB6ZV) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [Neo Standard](https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV) | 3:13 | 2023-09-20 | 2023-10-04 |
 | [Run Or Hide \(feat\. Marina Watanabe\)](https://open.spotify.com/track/79ppbtQoUyfYPuUvZWwQyX) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [Neo Standard](https://open.spotify.com/album/1QkEKQCEKG2FwOJSoU39G0) | 3:13 | 2023-09-20 | 2023-09-21 |
@@ -1198,7 +1200,7 @@
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-01-17 | 2023-04-05 |
 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 | 2024-01-30 |  |
 | [ランチタイム・ラブ](https://open.spotify.com/track/4IpYnXf5V3A6h0DS8UyFJL) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY), [オカモトコウキ](https://open.spotify.com/artist/7jiN2HCXOBi9W0ZJFwfGHi) | [ランチタイム・ラブ](https://open.spotify.com/album/2rVr0WAgddWIw5y4tO1rR8) | 5:08 | 2022-06-30 | 2022-07-06 |
-| [ラヴの元型](https://open.spotify.com/track/5AOoLf1lxCLcbMDsv0du8c) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [ラヴの元型](https://open.spotify.com/album/0BuE2EEycVTb4Q9FiJ9dkc) | 3:26 | 2024-03-12 |  |
+| [ラヴの元型](https://open.spotify.com/track/5AOoLf1lxCLcbMDsv0du8c) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [ラヴの元型](https://open.spotify.com/album/0BuE2EEycVTb4Q9FiJ9dkc) | 3:26 | 2024-03-12 | 2024-03-14 |
 | [リップル](https://open.spotify.com/track/3ovSCyUHXi2QUlwgyOC3zx) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [リップル](https://open.spotify.com/album/5OYTQcR3aufuIJZ9Z0AJJb) | 2:44 | 2022-06-17 | 2022-07-29 |
 | [リビド](https://open.spotify.com/track/0YxhIRKmlFq7MnXU8K5oA0) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [リビド](https://open.spotify.com/album/2yhMN24X0Jjz1DogK5eliH) | 2:37 | 2022-08-01 | 2022-09-09 |
 | [ルパン三世主題歌Ⅱ](https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ) | [山下穀雄](https://open.spotify.com/artist/2R2YOJvwaLrE32lLSkSqJI), [Otomo Yoshihide](https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [ルパン三世主題歌Ⅱ](https://open.spotify.com/album/2VrwFGVZVQ6K9qslrC8HLi) | 6:12 | 2023-01-31 | 2023-03-01 |

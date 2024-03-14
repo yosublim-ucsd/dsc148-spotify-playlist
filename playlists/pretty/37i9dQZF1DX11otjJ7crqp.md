@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Alexander Stewart
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,313 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,340 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 10 | [Nice](https://open.spotify.com/track/0nV68m9WV17hrbzIUnDSUk) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Nice](https://open.spotify.com/album/5dkQ8nDcT4UAIuTIjrIp1m) | 2:27 |
 | 11 | [2053](https://open.spotify.com/track/6qI5XzPWAYbnxkepQBjyyn) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [2053](https://open.spotify.com/album/0PSrPMEZvUN1y4b9E3N1tS) | 3:26 |
 | 12 | [Don't Leave](https://open.spotify.com/track/1sRBnzf4Pc6u0gxZfLw5OT) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Don't Leave](https://open.spotify.com/album/0FNUF1V9mDJT7VKuoEdhnq) | 3:01 |
-| 13 | [17Chains](https://open.spotify.com/track/20o89adLR0eYsHVQKbklko) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [17Chains](https://open.spotify.com/album/6e9r5Wtaf9M5V60cPcl4MX) | 5:03 |
+| 13 | [17chains](https://open.spotify.com/track/20o89adLR0eYsHVQKbklko) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [17chains](https://open.spotify.com/album/6e9r5Wtaf9M5V60cPcl4MX) | 5:03 |
 | 14 | [Sunday Drive](https://open.spotify.com/track/29rSZsoPBCCUBvb23jIsVi) | [Eves Karydas](https://open.spotify.com/artist/7MbSdIkdgkwmVxObpCg87e) | [Sunday Drive](https://open.spotify.com/album/0VnoSaYylh44lc9j8ro85Z) | 4:08 |
 | 15 | [Golden Girl](https://open.spotify.com/track/4j39Z6JZsATk7mNqsVcXNd) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [Golden Girl](https://open.spotify.com/album/2dhBqaz0rH0Px9UOOmS44Q) | 3:16 |
 | 16 | [Universe](https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe](https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Crazy](https://open.spotify.com/track/04KX5zCnyTz7e3C1jjeusx) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [Crazy](https://open.spotify.com/album/5bn1cATEVsMt6vnQiPtSuN) | 2:44 |
 | 100 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 |
 
-Snapshot ID: `MCw5NjE5OGFlZDFkZWY2ZWE1MzEyMTM1ZDc4NjY5MjQ3Y2RhZmI2NGQx`
+Snapshot ID: `MCw1NDIxNmI4MTAzZmU4ZjQxYTcwNmZiNDJhZmM3MDBkZjRhNjk5ZWM2`

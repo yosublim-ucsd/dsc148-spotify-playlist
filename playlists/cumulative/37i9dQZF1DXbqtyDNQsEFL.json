@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168777,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
+    },
+    {
+      "album": {
         "name": "Bonk'abantu",
         "url": "https://open.spotify.com/album/6dnUVcCPU4AWxzFc1sbVui"
       },
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 395810,
       "name": "Maranatha",
       "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"

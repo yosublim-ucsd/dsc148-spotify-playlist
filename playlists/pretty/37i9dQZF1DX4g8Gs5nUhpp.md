@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Bích Phương
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,214 likes - 51 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,274 likes - 51 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 50 | [Yêu Nắm](https://open.spotify.com/track/5f4u0kPnU21qNe6fXgAUiV) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [Yêu Nắm](https://open.spotify.com/album/2bGZSxiP6DFzNId8HlHoGl) | 3:47 |
 | 51 | [Những Lời Hứa Bỏ Quên](https://open.spotify.com/track/1bG6Q8sR8jda7ryI365y8o) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Những Lời Hứa Bỏ Quên](https://open.spotify.com/album/0z9p71YszjfOWS1lmQ4W51) | 3:56 |
 
-Snapshot ID: `MCwzYWM3NzVhYjZhN2M1OTcwMjQ1NjFkYmQ4MjM0ZjMyNzBjZGVlZDFi`
+Snapshot ID: `MCxhMGVhZWExNzQ4OWVjMDcxNmFkN2I4ZDJiNmQyYmJlNGYxMzk5MTBm`

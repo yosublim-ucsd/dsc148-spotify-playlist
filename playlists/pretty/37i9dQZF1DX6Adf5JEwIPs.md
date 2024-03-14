@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Delilah.
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,169 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,204 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [DDD \(Don Dimadon\)](https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF) | [TUNDER](https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [DDD \(Don Dimadon\)](https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe) | 3:05 |
 | 50 | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/track/4JX70TTm4ZWDaCvS0jQcYC) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/album/7nwBAclWEuLBH335I138sP) | 3:32 |
 
-Snapshot ID: `MCxkNWJjMGU0Y2FjYWY5NDliMGVkOWE2YjI0N2IxYzkzNmZkMWZkMzE4`
+Snapshot ID: `MCxlNDMxZDMyYzAyMjIzNmJiMjFkZTRjOGQ1MzUzYjIxNzk3M2ZjMDBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,125 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,162 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 27 | [Para Variar](https://open.spotify.com/track/4bJ4ysT06LxZ7utoLnqHA0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para Variar](https://open.spotify.com/album/6T4lNaOLKBbWGjg65ZaXtw) | 2:59 |
 | 28 | [Delincuente DK](https://open.spotify.com/track/6lgrVfVZyiMt5ohnbKFvCh) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Delincuente DK](https://open.spotify.com/album/3Oyyb1deoAx5uqkWbyssfO) | 3:39 |
 | 29 | [Nota](https://open.spotify.com/track/18xTLZz0jnxFCz0krVzFme) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Nota](https://open.spotify.com/album/69WYi6VDkwlyoHfv5SO5b7) | 2:26 |
-| 30 | [BM\-2k24](https://open.spotify.com/track/0JFYMRLdb0ft0ZVd21hviI) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Lúi Onthebeat](https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu), [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [BM\-2k24](https://open.spotify.com/album/7AISDZgPoans7ItTMq0JFi) | 2:41 |
+| 30 | [BM\-2k24](https://open.spotify.com/track/0JFYMRLdb0ft0ZVd21hviI) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Lúi Onthebeat](https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu), [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [BM\-2k24](https://open.spotify.com/album/7AISDZgPoans7ItTMq0JFi) | 2:39 |
 | 31 | [TE FORNI <3](https://open.spotify.com/track/45NpiOjDU4ZyPGGpZkce8A) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Primer Corte](https://open.spotify.com/artist/7ojb3ps0Q9hoKUTzdH5bk2) | [TE FORNI <3](https://open.spotify.com/album/59cUQA9urn1zzDPB4ifzmD) | 4:21 |
 | 32 | [Soy Todo](https://open.spotify.com/track/57f2X9Am4tNzizcxVIcPy8) | [DJ TEE](https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Soy Todo](https://open.spotify.com/album/2rOtemlRB9ZvBIkUAF88D8) | 4:21 |
 | 33 | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [ROMEA](https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1) | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52) | 2:22 |
-| 34 | [Glopeta Negro Mate](https://open.spotify.com/track/66Yu3bkomkikDlnYaT2Hkb) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c) | [Glopeta Negro Mate](https://open.spotify.com/album/6y2ienRWYtxjOr39PrgcK5) | 2:35 |
+| 34 | [Glopeta Negro Mate](https://open.spotify.com/track/66Yu3bkomkikDlnYaT2Hkb) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Glopeta Negro Mate](https://open.spotify.com/album/6y2ienRWYtxjOr39PrgcK5) | 2:35 |
 | 35 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
 | 36 | [BELLAko](https://open.spotify.com/track/4GkgNnOXbgAb4sexMgDDUX) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [BELLAko](https://open.spotify.com/album/6yG1MVuWg8kBD8ta0VdtEj) | 2:29 |
 | 37 | [a dónde voy???](https://open.spotify.com/track/6ieFir0Sk20XxcUxp3fIiS) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [a dónde voy???](https://open.spotify.com/album/5jEf06wCLfv0DIHLJARtKx) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 |
 | 60 | [Me Conta Outra Piada \- Ao Vivo](https://open.spotify.com/track/4x074VDAnWsLgZbDFfTEHJ) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Só VVamo, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/7HHBhvp2mo6fr8tBzp7zai) | 2:25 |
 
-Snapshot ID: `MCxjZWU3MzJmYjU4ZThkMzU4ODhjYzUwMWU0M2JhYTA2YTgyZTIzNzJl`
+Snapshot ID: `MCxiYzY4ZTllOTZiYjZmMzk4YmViZDEzY2EwYzZhNDhjOGU4NGU1NjRh`

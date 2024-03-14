@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 31544,
+  "2024-03-14": 31601,
   "date_first_scraped": "2022-08-06",
   "description": "Afrobeats love stories have the best beginnings",
   "name": "Lovin' Beats",
@@ -1405,6 +1405,24 @@
       "duration_ms": 142653,
       "name": "Caress",
       "url": "https://open.spotify.com/track/6q7DBeVGhkp3gzlra8eW0x"
+    },
+    {
+      "album": {
+        "name": "Love Testament",
+        "url": "https://open.spotify.com/album/6tRqd597i8RSQ6odzWhpje"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Carry Am Go",
+      "url": "https://open.spotify.com/track/56QegwkRucsEi48LrPhfUc"
     },
     {
       "album": {
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 137386,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf"

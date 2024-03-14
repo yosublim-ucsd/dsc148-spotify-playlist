@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DUNKA PLÅTEN OCH KÄNNA VI ÄR FRIA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,474 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,512 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 51 | [Caramelldansen](https://open.spotify.com/track/1v7aZHBUwKxeCgmpe6fVUH) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Caramelldansen](https://open.spotify.com/album/1T0okEHDf6UivFaFTD4ciY) | 2:02 |
 | 52 | [BÖTT E GÖTT](https://open.spotify.com/track/7JKDUMOyRktTGUndccWsVJ) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [BÖTT E GÖTT](https://open.spotify.com/album/0nkIc5aDGefMsJhrL0KC9S) | 2:24 |
 | 53 | [FLICKOR BAK I BILEN](https://open.spotify.com/track/6l7E7Qe1YjGiAuumtj5R6U) | [Mr DUNK](https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt), [AiA](https://open.spotify.com/artist/10CqxrG6uGQyRqIj8x7oxB) | [FLICKOR BAK I BILEN](https://open.spotify.com/album/21BxTgtthTPefP1e7gXVtV) | 2:13 |
-| 54 | [HÖJDARKVÄLL](https://open.spotify.com/track/5Ut2DslAa3bXHIDiAHFqtU) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud), [Cowboy Lars](https://open.spotify.com/artist/0NmcSUngDHQmx6CXqFSvLG) | [HÖJDARKVÄLL](https://open.spotify.com/album/2RluD1uV0D9prBTXXXK9O0) | 2:54 |
+| 54 | [HÖJDARKVÄLL](https://open.spotify.com/track/5Ut2DslAa3bXHIDiAHFqtU) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud), [Cowboy Lars](https://open.spotify.com/artist/4US3Z7MSp3YB9QmnbokqOx) | [HÖJDARKVÄLL](https://open.spotify.com/album/2RluD1uV0D9prBTXXXK9O0) | 2:54 |
 | 55 | [BANKA BANKA](https://open.spotify.com/track/48ThTgiCCug6yQK6XGtmsH) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [BANKA BANKA](https://open.spotify.com/album/6QPjeFce4XLkTHevZWdpXe) | 2:33 |
 | 56 | [34:an](https://open.spotify.com/track/4ONAbYY5jWfwLU7NiyVmKt) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [34:an](https://open.spotify.com/album/75fyKvbRgN6LnQJeU3tFuB) | 1:55 |
 | 57 | [Gasen i botten \- N!NE EPA Remix](https://open.spotify.com/track/0VThB1Vs0NSXBvosBjhE8a) | [Eddie Meduza](https://open.spotify.com/artist/3cMEiDsx9VpGvF71hUGswS), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Gasen i botten \(N!NE EPA Remix\)](https://open.spotify.com/album/5LpMaZgvDhU1EqidZmczok) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Farväl](https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Farväl](https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ) | 2:38 |
 | 100 | [INKASSO](https://open.spotify.com/track/4U7lSJZBfQcbERhChyNxxy) | [FLÄDERPOJKARNA](https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd), [Lirare](https://open.spotify.com/artist/29fjkix5tB2c3s7Vfdn2wh) | [INKASSO](https://open.spotify.com/album/4IYXieF3IcosIOzwUwFlzh) | 2:25 |
 
-Snapshot ID: `MCxkNzI0ZDUzNTY0YjZkYTcwNDhjOTg5NDAyM2I3YzhhNzVmYzU3MDIw`
+Snapshot ID: `MCxhN2VkZjU2Y2RkYjQzZmMzYjRhOGY5MWE2YWE4NjJhZDE0MmQzNzYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 
 > Un derroche de sensualidad\. Prince Royce, Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,464 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,521 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 | 37 | [Dile](https://open.spotify.com/track/5YaTs3P7JgHnM0UFKMWNnh) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Episodes](https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6) | 3:16 |
 | 38 | [Te Robaré](https://open.spotify.com/track/3fPMRb2gcFTZcYmR0bXnDc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:39 |
 | 39 | [Adónde Se Fue ?](https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 3:05 |
-| 40 | [Mi Mundo Entero](https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Mundo Entero](https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw) | 2:38 |
-| 41 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 |
+| 40 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 |
+| 41 | [Mi Mundo Entero](https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Mundo Entero](https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw) | 2:38 |
 | 42 | [Veterana](https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Veterana](https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A) | 3:14 |
 | 43 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
 | 44 | [Lejos](https://open.spotify.com/track/3Ux53Gwh9txPtWaO7AXKZQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Amor Total](https://open.spotify.com/album/4rDdqIdgGzfD6KXc7VDDzU) | 3:49 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 | 66 | [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 |
 | 67 | [Tengo una Necesidad \- Bachata Version](https://open.spotify.com/track/5sRMQMMZ8v3GVI7WrRw9AU) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Tengo una Necesidad \(Bachata Version\)](https://open.spotify.com/album/0GEkbOVnh1qswW3Grirmnp) | 4:32 |
 | 68 | [Te Metiste](https://open.spotify.com/track/4CcfCDNRbtOHIcfVFALRKe) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Te Metiste](https://open.spotify.com/album/1VhYslQCE4ke2Yui8fdetg) | 3:24 |
-| 69 | [Era Mentira](https://open.spotify.com/track/6R8Wtmkt4gExspMQV3W9xw) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Circharles](https://open.spotify.com/artist/7h9r1hKkJ7FGA6k5vjiz1i) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 4:10 |
-| 70 | [Melodía De Amor](https://open.spotify.com/track/6pl3ec1Y8SnNIKDqxPr1I3) | [Carlos y Alejandra](https://open.spotify.com/artist/198g5ZZS90C4PnJ7E1dVjA) | [Super Bachata \(14 Bachata Hits Originales\)](https://open.spotify.com/album/1gnrSGcBMi7OFyf7iHwPyB) | 3:25 |
+| 69 | [Melodía De Amor](https://open.spotify.com/track/6pl3ec1Y8SnNIKDqxPr1I3) | [Carlos y Alejandra](https://open.spotify.com/artist/198g5ZZS90C4PnJ7E1dVjA) | [Super Bachata \(14 Bachata Hits Originales\)](https://open.spotify.com/album/1gnrSGcBMi7OFyf7iHwPyB) | 3:25 |
+| 70 | [Era Mentira](https://open.spotify.com/track/6R8Wtmkt4gExspMQV3W9xw) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Circharles](https://open.spotify.com/artist/7h9r1hKkJ7FGA6k5vjiz1i) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 4:10 |
 | 71 | [Darte un Beso](https://open.spotify.com/track/3tYeEnUudAt7ulPdlMSNZO) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Peter Nieto](https://open.spotify.com/artist/3awr6bI2IAMghTMbzv4Pi6) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:02 |
 | 72 | [Un Ladrón](https://open.spotify.com/track/0VFzi9ceRRjk42u9567UTW) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Un Ladrón](https://open.spotify.com/album/7zaxOqSnkHcnxY1MC7uAuQ) | 4:14 |
 | 73 | [Elige](https://open.spotify.com/track/0mL1glycqAWzyMiImp4xSb) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT), [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Elige](https://open.spotify.com/album/4W4rR2hS483NStGyeEhpvY) | 3:46 |
 | 74 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 |
 | 75 | [Todo de Mi](https://open.spotify.com/track/1JHIAmLrqKwURVE5lHVuj4) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Todo de Mi](https://open.spotify.com/album/58Enl9mlqHa9QexbtUZc4G) | 3:41 |
 
-Snapshot ID: `MCwyNTQyOGEwZGU3NTNmNTE0NGNmMGE0M2RlMmZkNDA1M2JhMjk1YWUz`
+Snapshot ID: `MCw1MDkwYzAwYTgxZjBkZTkzOTZhMGMwZTZiMjJkYjMxY2VmOTBjZTRk`

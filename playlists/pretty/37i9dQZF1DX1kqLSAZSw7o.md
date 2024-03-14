@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kqLSAZSw7o.md) - [plain]
 
 > Koleksi Lagu Idul Fitri yang populer dan segar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,822 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,841 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kqLSAZSw7o.md) - [plain]
 | 74 | [Aidilfitri](https://open.spotify.com/track/1unEPNtpcl8NuSSX7n1eSL) | [Sanisah Huri](https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62) | [Best Hit Nostalgia Hari Raya Aidilfitri Koleksi 30 Lagu Hit Nostalgia Hari Raya](https://open.spotify.com/album/3embNvDHnZxOrOHhHF2ubx) | 3:40 |
 | 75 | [Rindu Di Aidilfitri](https://open.spotify.com/track/0dW3AaWcoVC4upMqX2HT8k) | [Ajai](https://open.spotify.com/artist/1mms4GLaDr9K3H1ujMlMxN) | [Maafkan](https://open.spotify.com/album/5JSWvD1FdvRoRYbi9EkmHb) | 4:41 |
 
-Snapshot ID: `MCw3ZjZjMDQ1NTkyODg1NDFjM2YyMGE5NmJlMDlkYzE3NjBmYzkwZDgy`
+Snapshot ID: `MCw5ZTNlNjNiYTRlNjM0MjQxZWVjZGYwYTBhYTVjMDkwNmY1NGYyMTJj`

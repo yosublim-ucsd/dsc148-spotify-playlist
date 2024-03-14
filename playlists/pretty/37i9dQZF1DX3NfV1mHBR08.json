@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15020,
+  "num_followers": 15014,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDZhMWE0MTA3NzYxMTBiYWZhNTIxZDNhY2YxZWJiYzg1Nzk2YzM3",
+  "snapshot_id": "MCxjMmExMTY5MzY3MjRjM2RkMDMyZmExNzZiNWNkNTE5YjZmZGE5NWUz",
   "tracks": [
     {
       "added_at": "2024-03-08 06:40:15",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "be",
-        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
       },
       "artists": [
         {
-          "name": "EUNHYUK",
-          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 229066,
-      "name": "be",
-      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
+      "duration_ms": 245349,
+      "name": "Bravo, My Life!",
+      "url": "https://open.spotify.com/track/5IBGJAEwVNkV1zF5oQzu1N"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
+        "name": "be",
+        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "EUNHYUK",
+          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
         }
       ],
-      "duration_ms": 245349,
-      "name": "Bravo, My Life!",
-      "url": "https://open.spotify.com/track/5IBGJAEwVNkV1zF5oQzu1N"
+      "duration_ms": 229066,
+      "name": "be",
+      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Seven, <\uc9d1\uc744 \ub098\uc11c\uba70...>",
-        "url": "https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
-        }
-      ],
-      "duration_ms": 242338,
-      "name": "\uc5ec\ud589\uc790",
-      "url": "https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 223693,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Seven, <\uc9d1\uc744 \ub098\uc11c\uba70...>",
+        "url": "https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "duration_ms": 242338,
+      "name": "\uc5ec\ud589\uc790",
+      "url": "https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir"
     },
     {
       "added_at": "2024-03-08 06:40:15",

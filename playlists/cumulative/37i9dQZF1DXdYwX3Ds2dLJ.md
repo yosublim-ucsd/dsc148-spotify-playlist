@@ -4,7 +4,7 @@
 
 > Querencia is here !
 
-129 songs - 7 hr 0 min
+131 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dream of You \(with R3hab\)](https://open.spotify.com/track/5avjngfV5MZAmEVPytbMqT) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:12 | 2022-10-22 |  |
 | [Drive](https://open.spotify.com/track/00cYrRITgd7wOUEVQsnvQW) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL) | 3:16 | 2021-11-29 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/75h5JEOLUJzYH5836V3BQE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:16 | 2022-07-11 |  |
+| [EENIE MEENIE \(Feat\. Hongjoong of ATEEZ\)](https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Hongjoong of ATEEZ](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx) | [EENIE MEENIE](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) | 2:50 | 2024-03-13 |  |
 | [Everybody Has](https://open.spotify.com/track/2UcC7n5jG6QMtOE0Zxznpm) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:42 | 2021-11-29 | 2024-01-24 |
 | [Everybody Has](https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Everybody Has](https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C) | 3:42 | 2021-11-29 | 2022-07-29 |
 | [Everybody Has](https://open.spotify.com/track/7AdwWiy01yfSvmeg8P6q48) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:42 | 2022-10-22 |  |
@@ -71,6 +72,7 @@
 | [It's only mine](https://open.spotify.com/track/4NGt7PDTJE5rBWhU79kEBz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Seoul Check\-in OST Part 4](https://open.spotify.com/album/4sBO5xbe5KXQGcAYD5Fe3z) | 3:31 | 2022-07-11 |  |
 | [It’s You](https://open.spotify.com/track/1Du9g7ILOs5tgoEAPTxJM1) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Where Stars Land Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0SOZrGopETCWW79NECLmqJ) | 3:22 | 2021-11-29 |  |
 | [It’s You](https://open.spotify.com/track/4V0I40WRUwS3by62lZdsfM) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Where Stars Land, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2IHpMfAjV0W0eCYT1rHHFQ) | 3:22 | 2022-07-11 | 2023-04-05 |
+| [I’m Ready](https://open.spotify.com/track/1uHAvl4MdI8zbobFG9FueP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [EENIE MEENIE](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) | 3:12 | 2024-03-13 |  |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-11-29 |  |
 | [LALALA](https://open.spotify.com/track/1mW3V0DtbrEaUHgApt9Uql) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [LA VIDA LOCA](https://open.spotify.com/album/6rEdWTwLAfTNzSHSH7WHBi) | 3:34 | 2022-07-11 |  |
 | [LALALA](https://open.spotify.com/track/6ELQowPew55VfAKxlk7SJN) | [Babylon](https://open.spotify.com/artist/3QnTGKc4YZ7KcGDpoagMBD), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [LA VIDA LOCA](https://open.spotify.com/album/6fdrYnxEO9t6gTNoigMA2L) | 3:34 | 2021-11-29 | 2022-07-29 |

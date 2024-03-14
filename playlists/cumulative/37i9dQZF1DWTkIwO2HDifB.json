@@ -1410,6 +1410,28 @@
     {
       "album": {
         "name": "DAN\u00c7A PRA ME PROVOCAR",
+        "url": "https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq"
+      },
+      "artists": [
+        {
+          "name": "DJ JO\u00c3O PEREIRA",
+          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
+        },
+        {
+          "name": "MC Koringa",
+          "url": "https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157216,
+      "name": "DAN\u00c7A PRA ME PROVOCAR",
+      "url": "https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb"
+    },
+    {
+      "album": {
+        "name": "DAN\u00c7A PRA ME PROVOCAR",
         "url": "https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5"
       },
       "artists": [
@@ -1424,7 +1446,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 157216,
       "name": "DAN\u00c7A PRA ME PROVOCAR",
       "url": "https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYheIDwUmiyu.md) - [plain]
 
 > Myke Towers takes over Fuego! Featuring De La Ghetto, Alexis y Fido, Omar Courtz & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,391 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,405 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYheIDwUmiyu.md) - [plain]
 | 24 | [Don't Stop](https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando A La Yal \(Special Edition\)](https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7) | 3:39 |
 | 25 | [Yo Te Lo Dije](https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:40 |
 
-Snapshot ID: `MCw0Yjg4MDQ4MTExMzJmNjU2MjU0NTY2ZThjMTU2MjUyNDRlYjU2NWM5`
+Snapshot ID: `MCwxMzk2OTRlYTM1NzllNDZhOGZmZGRkMmRhY2ZiNDJiM2Q0NjJmZTYw`

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "07:34",
+        "url": "https://open.spotify.com/album/0zFqRRSuXePG8S0wrRM32f"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        },
+        {
+          "name": "Fudasca",
+          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191286,
+      "name": "07:34",
+      "url": "https://open.spotify.com/track/7wkntyph9MUtz9nz0xFsyz"
+    },
+    {
+      "album": {
         "name": "100 MESSAGGI",
         "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
       },
@@ -1498,7 +1520,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 136666,
       "name": "HOOD (feat. Tedua)",
       "url": "https://open.spotify.com/track/3Ah9P299vJePE9QPEBjGtv"

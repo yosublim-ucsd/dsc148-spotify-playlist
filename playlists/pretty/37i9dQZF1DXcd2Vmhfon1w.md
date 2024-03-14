@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Reality, Hard GZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,750 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,838 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [Kintsugi](https://open.spotify.com/track/6NM41Wm4nFkgHtD90coUst) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Richie Rasheed](https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI) | [Kintsugi](https://open.spotify.com/album/4PgqmUFVilmDO8mQujXLkY) | 2:28 |
 | 50 | [Gold Diggers](https://open.spotify.com/track/1r9Lbgiags0gJAS15Ygmc5) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Gold Diggers](https://open.spotify.com/album/1AqOMFcHUFigojsurVdSD1) | 4:27 |
 
-Snapshot ID: `MCxmMDY1ZjZiNDg4OTQ4ZTE4Mjc2MGNjMWVlYmRjOTA2MDdkZTc5NzQy`
+Snapshot ID: `MCw5OTA2ODJlMzhjMzI1NzdhMTc0ODdiMGI5MmU1MDAwMDc4YjdlOTM0`

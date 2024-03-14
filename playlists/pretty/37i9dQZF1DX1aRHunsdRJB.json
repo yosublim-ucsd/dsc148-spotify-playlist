@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10524,
+  "num_followers": 10525,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzNjMTM4NmVmMjQyOThmZTYzYTZkZjVhOWU0YmY5NmQxOWU5ZDc4",
+  "snapshot_id": "MCxmODU5ZDczMWM3NDE2NDE3MjU0Y2JkN2I4NWMzNjgzYjU0MTE1OGMx",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Art of Flex",
-        "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
-      },
-      "artists": [
-        {
-          "name": "Nessa Preppy",
-          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        }
-      ],
-      "duration_ms": 183875,
-      "name": "Issa Snack",
-      "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bottle over Head",
         "url": "https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 208615,
       "name": "Bottle over Head",
       "url": "https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "The Art of Flex",
+        "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
+      },
+      "artists": [
+        {
+          "name": "Nessa Preppy",
+          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        }
+      ],
+      "duration_ms": 183875,
+      "name": "Issa Snack",
+      "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Mandrakes Riddim",
-        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
-      },
-      "artists": [
-        {
-          "name": "Mandella Linkz",
-          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Tombstone",
-      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Local Drum Riddim",
         "url": "https://open.spotify.com/album/6nrr7yxkhFC1GDCNeKoAkD"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 151431,
       "name": "Bad in Bumbum",
       "url": "https://open.spotify.com/track/4NIhpYk93J8Xou2vZt3iIe"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Mandrakes Riddim",
+        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
+      },
+      "artists": [
+        {
+          "name": "Mandella Linkz",
+          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Sparta Boss",
-        "url": "https://open.spotify.com/album/6UMCVOLFPduRH1u48WNH2Q"
+        "name": "The Jakson Bay Project",
+        "url": "https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl"
       },
       "artists": [
         {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 188055,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/1823Dax4egZNBDGAE9co2y"
+      "duration_ms": 199606,
+      "name": "Soak Me Good",
+      "url": "https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP"
     }
   ],
   "unique_name": "Soca Bashment",

@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 | 19 | [氣球 \- Acoustic](https://open.spotify.com/track/5VmCDIYslnZLyYd1oazA60) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ) | [In My Place](https://open.spotify.com/album/2TGs3hgQYD34mZLGN558Ov) | 5:48 |
 | 20 | [開往初戀的平行線](https://open.spotify.com/track/4QawTA1kfkh1LZxSLZPlfR) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [開往初戀的平行線](https://open.spotify.com/album/6nXyQqkXikmKGtBsMlyTti) | 4:24 |
 
-Snapshot ID: `MCw5MDkxZTZhNWIzMTA2MjlhY2Y0OGNhMDlhMzg0OTQwMzM0NGFjNDAz`
+Snapshot ID: `MCxmODEzODU1MDFmNDRiMTM5M2JlMTRlYWUxZjVjMWZjZjA0NTQwY2Nl`

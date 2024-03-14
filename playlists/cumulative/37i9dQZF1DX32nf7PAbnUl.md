@@ -4,7 +4,7 @@
 
 > Le son des chichas !
 
-65 songs - 3 hr 23 min
+66 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [J'picole](https://open.spotify.com/track/3DIYanBth8SOpko0IIB5CD) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF) | [Enfant2LaRue Vol.1](https://open.spotify.com/album/04m3RIehWDX3a2xBHzHIqF) | 3:05 | 2023-08-08 |  |
 | [Joli bébé](https://open.spotify.com/track/6ARJHbYGKNatxHVghTkWWp) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Joli bébé](https://open.spotify.com/album/5chNwCslLpT6N0wPBY5rNx) | 2:58 | 2023-08-08 |  |
 | [Jolie demoiselle](https://open.spotify.com/track/4qdRH3I8RsPdfXFswlQzMc) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Jolie demoiselle](https://open.spotify.com/album/5BmOoqMBvP9WbC92ph7nqE) | 3:01 | 2023-08-08 | 2023-09-30 |
-| [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-09-29 |  |
+| [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-09-29 | 2024-03-14 |
 | [Jota](https://open.spotify.com/track/6Fnriu0MGPeYMZ6l8GkWZm) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 2:44 | 2024-01-05 | 2024-02-16 |
 | [La clé](https://open.spotify.com/track/2ahdWh9C9d3cz31kEYXr5M) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [La clé](https://open.spotify.com/album/5jRYE9b8dBSyxXv186cmyA) | 2:55 | 2023-08-08 | 2024-02-16 |
 | [La kiffance](https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La kiffance](https://open.spotify.com/album/1YrIKS84a899NhW15PDswr) | 2:59 | 2023-08-08 |  |
@@ -73,5 +73,6 @@
 | [Tu le sais](https://open.spotify.com/track/2s1lS0DxcxTB8Y6oFgVKqW) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Tu le sais](https://open.spotify.com/album/6cPtIMxznYVT2LUH49rd5z) | 3:42 | 2023-08-08 |  |
 | [Vamos](https://open.spotify.com/track/5QowMIujytktMDC8pktNXH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [La TN \(Team Naps\)](https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI) | 4:01 | 2023-08-08 | 2024-01-06 |
 | [VNTR](https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [VNTR](https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV) | 3:38 | 2024-02-15 |  |
+| [Yoga](https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Yoga](https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B) | 3:01 | 2024-03-13 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

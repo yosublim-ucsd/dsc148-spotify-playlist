@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 24525,
+  "2024-03-14": 24527,
   "date_first_scraped": "2023-03-19",
   "description": "\u97f3\u697d\u30e1\u30c7\u30a3\u30a2<a href=\"http://spincoaster.com/\">Spincoaster</a>\u304c\u53b3\u9078\u3057\u305f\u30db\u30c3\u30c8\u306a\u65b0\u66f2\u3092\u6bce\u9031\u6708\u66dc\u65e5\u306b\u304a\u5c4a\u3051\uff01",
   "name": "Monday Spin",
@@ -12197,6 +12197,28 @@
       "duration_ms": 199363,
       "name": "Dance",
       "url": "https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n"
+    },
+    {
+      "album": {
+        "name": "Gulp Down Saliva",
+        "url": "https://open.spotify.com/album/3OD3EaKKtWUvOlUxwUFnku"
+      },
+      "artists": [
+        {
+          "name": "Kim Oki",
+          "url": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF"
+        },
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Dance and gulp down saliva (feat. The Deep)",
+      "url": "https://open.spotify.com/track/4Jd4MvIH7Db5TAQy6gMfiI"
     },
     {
       "album": {
@@ -67823,28 +67845,6 @@
       "duration_ms": 138517,
       "name": "\ub300\ucd9c",
       "url": "https://open.spotify.com/track/3mx7zEybXuW2SthbZB5DG8"
-    },
-    {
-      "album": {
-        "name": "\uce68\uc744 \uaf34\ub531 Gulp Down Saliva",
-        "url": "https://open.spotify.com/album/3OD3EaKKtWUvOlUxwUFnku"
-      },
-      "artists": [
-        {
-          "name": "Kim Oki",
-          "url": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF"
-        },
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "date_added": "2024-03-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 240000,
-      "name": "\ub304\uc2a4 \uadf8\ub9ac\uace0 \uce68\uc744 \uaf34\ub531 Dance and gulp down saliva (feat. The Deep)",
-      "url": "https://open.spotify.com/track/4Jd4MvIH7Db5TAQy6gMfiI"
     },
     {
       "album": {

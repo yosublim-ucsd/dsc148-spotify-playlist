@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 106289,
+  "num_followers": 106308,
   "original_name": "Ver\u00e3o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDI3MjBlM2Y5N2I1NGU0NTA1M2QxNDNiOWNhNDUxOTliNTFkMjY0",
+  "snapshot_id": "MCw2YWU5YTU3ZjExMTk3OWQxNTQyZDI4NDkzOTE5MGZiNjY5ZDJlNjc0",
   "tracks": [
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 154551,
-      "name": "TUYA",
-      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "Palha\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Palha\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 110222,
       "name": "DAN\u00c7ARINA",
       "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "Palha\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Palha\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "Todo Mundo Ama O Chris (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5bISzaxE6WVsJjQj2BpWTX"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "Tipo Gin - Ao Vivo",
-      "url": "https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 179023,
       "name": "Solteiros",
       "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "Todo Mundo Ama O Chris (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5bISzaxE6WVsJjQj2BpWTX"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "Tipo Gin - Ao Vivo",
+      "url": "https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S"
     },
     {
       "added_at": "2023-08-29 17:00:51",

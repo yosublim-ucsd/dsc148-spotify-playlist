@@ -4,7 +4,7 @@
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-52 songs - 3 hr 34 min
+53 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Aunty Ji](https://open.spotify.com/track/0e5STSwtLEXKN4ygFYydJd) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Ek Main Aur Ekk Tu](https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq) | 4:34 | 2023-07-04 |  |
 | [Babuji Bhole Bhaale](https://open.spotify.com/track/5JUQDfESf88rE9PnzJZ9E5) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 4:05 | 2023-07-04 |  |
 | [Behka](https://open.spotify.com/track/0prCd0oIexRBiok6kBOeLp) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 5:11 | 2023-07-04 |  |
+| [Bhola Bhala Baby \- From "Murder Mubarak"](https://open.spotify.com/track/69GPJv1vz7Z6dWcyDuVQVt) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Bhola Bhala Baby \(From "Murder Mubarak"\)](https://open.spotify.com/album/4uucsIPMPcEtDqCIkFqijB) | 3:53 | 2024-03-13 |  |
 | [Bloody Hell](https://open.spotify.com/track/1SLcMjg9K3tEYBM0dMBlJM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Rangoon](https://open.spotify.com/album/2fcB0MfveJSfjhDG4UjfxQ) | 4:12 | 2023-07-04 |  |
 | [Calcutta Kiss](https://open.spotify.com/track/0EW0vgSbNJJR5nZRJqpDHx) | [Imaad Shah](https://open.spotify.com/artist/4Vp8UAyIKR4I8DDlKSbsf6), [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Detective Byomkesh Bakshy \(Original\)](https://open.spotify.com/album/4Qlx6Lci22yKq8sfQz7Bwr) | 3:10 | 2023-07-04 |  |
 | [Dancing In The Sun](https://open.spotify.com/track/0QqmbaEYVb99lPCxPRWkD4) | [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Thappad](https://open.spotify.com/album/1YTq9ITQJ3Mj4uMj3GECDM) | 3:49 | 2023-07-04 |  |
@@ -30,7 +31,7 @@
 | [Hawa Hawai](https://open.spotify.com/track/6B0RSaHnLZidlE2w3AjQfO) | [Suman Sridhar](https://open.spotify.com/artist/6swk5jDsD7ahHLnUOioVfq) | [Shaitan](https://open.spotify.com/album/4cn69YpvoKVFW5bzEkpiOU) | 4:52 | 2023-07-04 |  |
 | [Hey Fikar \- Suzanne D'mello Version](https://open.spotify.com/track/2fldAwXkJqNdnjgGtylA4T) | [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf), [Mark K Robin](https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [8 A.M\. Metro \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PHouFclBtPBJrQow3Cnbh) | 2:55 | 2023-07-04 |  |
 | [Hosanna](https://open.spotify.com/track/5NChQ2tXB9q9D8kdkLTWOL) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Leon D'souza](https://open.spotify.com/artist/71Rv7hyuI5904jgrtT4IN9), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf) | [Ekk Deewana Tha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7u8VFwwX4grIUnuHriflDf) | 5:31 | 2023-07-04 |  |
-| [Idhar Gire](https://open.spotify.com/track/4gAAt4041Zpo142naT8xdR) | [Sowmya Raoh](https://open.spotify.com/artist/1tspa3CEV2XqEDsgehaNBz) | [Saheb Biwi aur Gangster Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UrGeGBrxGetsQwqjMi8Qa) | 4:22 | 2023-07-04 |  |
+| [Idhar Gire](https://open.spotify.com/track/4gAAt4041Zpo142naT8xdR) | [Sowmya Raoh](https://open.spotify.com/artist/1tspa3CEV2XqEDsgehaNBz) | [Saheb Biwi aur Gangster Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UrGeGBrxGetsQwqjMi8Qa) | 4:22 | 2023-07-04 | 2024-03-14 |
 | [Jab Bhi Ciggaret \- Jazz](https://open.spotify.com/track/7xnGvhwhIjW2EqXRSTouQd) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [No Smoking \(Original Motion Pictures Soundtrack\)](https://open.spotify.com/album/1O1DsbhUtzhofd7mWH983E) | 4:41 | 2023-07-04 |  |
 | [Jab Mila Tu](https://open.spotify.com/track/6Sp7azay1NZU4wxlFacWCl) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 4:11 | 2023-07-04 |  |
 | [Kasoor \(From "Dhamaka"\) \- Acoustic](https://open.spotify.com/track/7mJdz7uNv3jgVSIMkSf8ca) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor \(From "Dhamaka"\) \[Acoustic\]](https://open.spotify.com/album/76iQl56z8NPaGQz94z3EBr) | 3:33 | 2023-07-04 |  |

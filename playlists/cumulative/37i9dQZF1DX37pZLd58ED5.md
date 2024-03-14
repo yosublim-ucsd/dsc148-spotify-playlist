@@ -4,10 +4,11 @@
 
 > Solo beat e rime avvolgenti\. Cover: Massimo Pericolo
 
-152 songs - 8 hr 20 min
+153 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [07:34](https://open.spotify.com/track/7wkntyph9MUtz9nz0xFsyz) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [07:34](https://open.spotify.com/album/0zFqRRSuXePG8S0wrRM32f) | 3:11 | 2024-03-13 |  |
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-02-26 |  |
 | [15 Piani](https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:26 | 2023-11-17 |  |
 | [3 Occhi \(feat\. Il Ghost\)](https://open.spotify.com/track/3bG9u7wt9pL7ltyKM9lSls) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 3:31 | 2022-04-28 | 2022-09-16 |
@@ -75,7 +76,7 @@
 | [Free \(feat\. Marracash & Rkomi\)](https://open.spotify.com/track/2bTt0QXf4b1gmIhD4zyXxP) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:10 | 2023-01-13 | 2023-05-26 |
 | [Guardare Sotto](https://open.spotify.com/track/0XziCMIyt5YkZSxMFrxKdi) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Guardare Sotto](https://open.spotify.com/album/5ElAMiTYjmJgnWQ84ZzHaM) | 2:46 | 2022-09-01 | 2022-09-30 |
 | [HERMES](https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:56 | 2023-04-06 |  |
-| [HOOD \(feat\. Tedua\)](https://open.spotify.com/track/3Ah9P299vJePE9QPEBjGtv) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 2:16 | 2024-01-04 |  |
+| [HOOD \(feat\. Tedua\)](https://open.spotify.com/track/3Ah9P299vJePE9QPEBjGtv) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 2:16 | 2024-01-04 | 2024-03-14 |
 | [Il mio dawg](https://open.spotify.com/track/71juLZk9jMhOSsi1jcDwUa) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Il mio dawg](https://open.spotify.com/album/2SzZuyYZGp87OgalWyJHsb) | 2:22 | 2023-06-15 | 2023-07-14 |
 | [Il Salto \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/4MWheZrBYkqaDsJ57aqajS) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 2:44 | 2023-12-14 | 2024-01-12 |
 | [Immortale \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2bF1qPRPlrODKWFMGtQXq1) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:20 | 2022-04-28 | 2023-03-18 |

@@ -16583,6 +16583,24 @@
     },
     {
       "album": {
+        "name": "If I Could Read Minds",
+        "url": "https://open.spotify.com/album/6lRH2QRWilbB0MLzkicOak"
+      },
+      "artists": [
+        {
+          "name": "david hugo",
+          "url": "https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202920,
+      "name": "If I Could Read Minds",
+      "url": "https://open.spotify.com/track/5r7COJiDQ8iV9Zp2iW8DFQ"
+    },
+    {
+      "album": {
         "name": "If I Don't Laugh I'll Cry",
         "url": "https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd"
       },
@@ -22290,7 +22308,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 147264,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq"
@@ -26092,6 +26110,24 @@
       "duration_ms": 200488,
       "name": "Puppy Pound",
       "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
+    },
+    {
+      "album": {
+        "name": "push up bra",
+        "url": "https://open.spotify.com/album/56l2wVNW9dqsumrKaajQZY"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133721,
+      "name": "push up bra",
+      "url": "https://open.spotify.com/track/5HmAnp494nmfabHiRFGBkc"
     },
     {
       "album": {
@@ -31684,7 +31720,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 152106,
       "name": "swimming pools",
       "url": "https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo"

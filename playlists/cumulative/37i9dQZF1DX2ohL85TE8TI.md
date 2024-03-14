@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Marry My Husband\(내 남편과 결혼해줘\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-814 songs - 2 day 1 hr 26 min
+816 songs - 2 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Confession](https://open.spotify.com/track/59OQ9zPGXtzMMIz2q8INhg) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Cheer Up \(Original Soundtrack Part.2\)](https://open.spotify.com/album/7quVqU9K0eqi8P7214gFIy) | 4:39 | 2022-10-12 | 2023-01-14 |
 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 | 2022-11-03 | 2023-01-27 |
 | [Confession Day](https://open.spotify.com/track/3KZxUY5gGYzZ1W1NPe5Mbm) | [GUNHO](https://open.spotify.com/artist/2eR3EeRLLHMoluqhYh0IGb) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 14](https://open.spotify.com/album/0qVi4BPXJOzdx5Ye9f9dGi) | 3:53 | 2023-06-02 | 2023-11-03 |
+| [Count On Me](https://open.spotify.com/track/0CExKnGUdMZkttFmZAuwdr) | [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [The Midnight Studio, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4KyXcvakvVBugwPdVSRDK5) | 3:17 | 2024-03-13 |  |
 | [cracked](https://open.spotify.com/track/2HlTb0DQEKxcr2755iNRzh) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY) | [Oh! Youngsim Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5dtQrhiiDad61r0TQq2Jlm) | 3:42 | 2023-07-17 | 2023-12-11 |
 | [Crush on you \(No brakes for your curves\)](https://open.spotify.com/track/5eHVjWcQKMsTRwT6OtJd0q) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD), [Sujin](https://open.spotify.com/artist/1CO3fh4c1J46zsUWpHMITX) | [Crush on you \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/5vwF93uqQGNxV1BiDuWqqr) | 3:08 | 2022-03-22 | 2022-06-10 |
 | [CRYSTAL](https://open.spotify.com/track/6VXPpUHYoUB0AKqaCfGDab) | [Kriz](https://open.spotify.com/artist/0gRsw676mIkWWAT1zdAHXb) | [Bitch X Rich \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4LpNKe2zsutC6fGGEMf6fj) | 3:52 | 2023-06-14 | 2023-11-03 |
@@ -669,6 +670,7 @@
 | [The Painted On The Moonlight](https://open.spotify.com/track/2SCOjgC1DSu7XskVTo0Wzl) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [My Dearest \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0xxKDsA1uPsxzqIE5wTneS) | 4:04 | 2023-08-24 | 2024-02-11 |
 | [The Queen](https://open.spotify.com/track/4YR8iin9SJtZluXD0s1LoZ) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [CLEANING UP \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4WIE1wBrZ2hqzxJdyw7jdG) | 3:28 | 2022-07-04 | 2022-11-04 |
 | [The Reason Why I Love You](https://open.spotify.com/track/0g9aQKa437eQSyQULGYZXm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [My Lovely Boxer \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/7kepGF7lAEhQB9U8xfiTjt) | 3:49 | 2023-09-15 |  |
+| [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 | 2024-03-13 |  |
 | [The Road not Taken](https://open.spotify.com/track/17BytRtBL3ajgsOQD1cCxT) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/6XXs7VIxHhaeIjVW0nwkM0) | 4:14 | 2023-06-02 | 2023-11-03 |
 | [The Season of You](https://open.spotify.com/track/7iEELA32wMz4a1gYZNCNSO) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2) | [Love in Contract, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/48zQbCd3wr1doH7uH4sWVh) | 3:57 | 2022-10-07 | 2023-01-14 |
 | [The Season of You](https://open.spotify.com/track/2WSh9UDMZbUSI2sdekVaTW) | [Hee brothers](https://open.spotify.com/artist/7qXJEle1HRJwOW1wuTEgwz) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/4toOtJwlOljascDRJUd2JE) | 4:15 | 2022-05-11 | 2022-08-03 |

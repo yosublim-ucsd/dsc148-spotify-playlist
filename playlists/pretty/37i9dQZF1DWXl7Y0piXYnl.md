@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,352 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,368 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 16 | [Artificial Malfunction](https://open.spotify.com/track/6rir0VwUTNub2eFryMZgtz) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI), [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Artificial Malfunction](https://open.spotify.com/album/16sq8EsHdT8YjlUEDmIt40) | 4:32 |
 | 17 | [Cuth Ta](https://open.spotify.com/track/6RAfiEqUaybjJlSXtofCpo) | [Dual Monitor](https://open.spotify.com/artist/3ETLghVuVXTQA2nPzfdgFz) | [Cuth Ta](https://open.spotify.com/album/3uX02i9qQdHmOAwhnWkaxT) | 3:45 |
 | 18 | [Dimensional Spleen](https://open.spotify.com/track/0VPqxoWTBS0QR6c2XcM0K8) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4), [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [Death Is Home](https://open.spotify.com/album/2mbcBhD6LbNpx9Tzv5cPUP) | 3:07 |
-| 19 | [Ratchets \(with DUSTY LOCANE\)](https://open.spotify.com/track/1t4vS4UV4gFWykDqkAASzK) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 3:43 |
+| 19 | [Ratchets \(with DUSTY LOCANE\)](https://open.spotify.com/track/1t4vS4UV4gFWykDqkAASzK) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 3:43 |
 | 20 | [ZWAARD 1](https://open.spotify.com/track/7haycBeS3aDNHIDSvRNhNX) | [Beans](https://open.spotify.com/artist/7sIVbnHhMEvzexb91mLGEc) | [ZWAARD 1](https://open.spotify.com/album/5OQsyZtvk7RcbutnFeB90r) | 3:53 |
 | 21 | [Rally](https://open.spotify.com/track/1Sg6Y1p6q8GwWMbcNrTnLa) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3), [Neek](https://open.spotify.com/artist/0TBvg9pRQeYtiNDhNrLUsR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Long Range](https://open.spotify.com/artist/1SFvApLVHtW9edUCrs0wYp), [Armour Hot Water](https://open.spotify.com/artist/4vbMb2UY1VBUKi9toEmEcC) | [Lupus et Ursus](https://open.spotify.com/album/0E5DDOMXVcbdE7lEEgEHte) | 4:51 |
 | 22 | [Fidget Spinner](https://open.spotify.com/track/7d8YQfetskWmFzQe57TJ1A) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Fidget Spinner](https://open.spotify.com/album/4iJGOZCaNyk2J51W1IJF3e) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 49 | [Goodbye](https://open.spotify.com/track/5Stu8rBURGFTp5UN2ltEW5) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [King Perry](https://open.spotify.com/album/3CHv4jnLLlOELwCkI2iPHi) | 3:41 |
 | 50 | [M\-3](https://open.spotify.com/track/76HnDRFr5fAscLwEqDT2Wm) | [FUJI\|\|\|\|\|\|\|\|\|\|TA](https://open.spotify.com/artist/4qM4BdTOGQcKYLUi8nrhhU) | [M\-3](https://open.spotify.com/album/04DTYd3PBVvxf69MST8RzH) | 9:36 |
 
-Snapshot ID: `MCw4ZjU1OGFiYjBmNGNiZDBiNmNiZTAzNGI4MmZmMTQzNGI4MDMwNWEy`
+Snapshot ID: `MCw2MWU4MmEyM2I2ODcxMTAyMzhkYWRkNmYwZjc2NmE0ZWEzYjlmYzQ0`

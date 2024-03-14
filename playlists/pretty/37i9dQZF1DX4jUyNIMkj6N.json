@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 199882,
+  "num_followers": 199926,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjk4ZTkzMjdkNzlkZjFkYTgzMmUyMjcxNTk4NzhiN2FmNzBmNTQ0",
+  "snapshot_id": "MCw5NzNjZThlMDE2ZjliOGE2NjE2ZWIzNTdlMGIzYjRkMDYyNDU2MGMx",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Can Summer Love Last Forever?",
+        "url": "https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 283708,
+      "name": "For Someone",
+      "url": "https://open.spotify.com/track/4u42LckHYKddjPpUySqHnJ"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "The Night Visitor",
         "url": "https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 231133,
       "name": "The Longer The Waiting (The Sweeter The Kiss)",
       "url": "https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Can Summer Love Last Forever?",
-        "url": "https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 283708,
-      "name": "For Someone",
-      "url": "https://open.spotify.com/track/4u42LckHYKddjPpUySqHnJ"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "Desert",
+        "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
+      },
+      "artists": [
+        {
+          "name": "Ask Carol",
+          "url": "https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR"
+        }
+      ],
+      "duration_ms": 331785,
+      "name": "Desert",
+      "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
       },
@@ -911,18 +927,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Desert",
-        "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx"
       },
       "artists": [
         {
-          "name": "Ask Carol",
-          "url": "https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR"
+          "name": "Rasmus Fynbo",
+          "url": "https://open.spotify.com/artist/3gPzywCcsWpiH9alPFXPaZ"
+        },
+        {
+          "name": "Camila Castellani",
+          "url": "https://open.spotify.com/artist/5jjt3rudOSHIajX5YEnAGv"
         }
       ],
-      "duration_ms": 331785,
-      "name": "Desert",
-      "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
+      "duration_ms": 222750,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -963,26 +983,6 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Fynbo",
-          "url": "https://open.spotify.com/artist/3gPzywCcsWpiH9alPFXPaZ"
-        },
-        {
-          "name": "Camila Castellani",
-          "url": "https://open.spotify.com/artist/5jjt3rudOSHIajX5YEnAGv"
-        }
-      ],
-      "duration_ms": 222750,
-      "name": "Departure",
-      "url": "https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ"
     },
     {
       "added_at": "2024-03-07 23:00:00",

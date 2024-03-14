@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,081 likes - 79 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,098 likes - 79 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 78 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 |
 | 79 | [BEETGOZON \(DJ Kwamzy 'Amapiano' Remix\)](https://open.spotify.com/track/4ggADc9LlBu7cV0etZRzXc) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [Prince African Child](https://open.spotify.com/artist/3nNV5KJxjANcM8IIFIi39X), [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h) | [BEETGOZON \(DJ Kwamzy 'Amapiano' Remix\)](https://open.spotify.com/album/2pHq11yAYqIR5P360eFXzk) | 6:01 |
 
-Snapshot ID: `MCw0Y2QxMTE5MjcxYWFlOGU5OTVlZmYzNGU3NGZkMDIyOWJhMDRiMjIz`
+Snapshot ID: `MCwwMzIwNTcyZTQyOWJhOTdiZWJhNDQ0NjAyY2E3MjIwY2NjNDUyODRk`

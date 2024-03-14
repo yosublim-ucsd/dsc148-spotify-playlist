@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri?si=7eEpQc67SrSKVq31x2acSA">Mars Baby</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA?si=6t5uqc4AQuGgVqvHhQZyiA">Ess thee Legend</a>\. Artwork: Isu Kim.
 
 723 songs - 1 day 12 hr 37 min
 

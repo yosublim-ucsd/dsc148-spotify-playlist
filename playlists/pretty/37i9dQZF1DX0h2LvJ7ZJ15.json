@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1242769,
+  "num_followers": 1244062,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGE3NWZkMjMwNjQ0NzE3NjMwZWVhNmQyMGNhNWNlMTBkNzg3OTBm",
+  "snapshot_id": "MCw2NTYyZWEzZWQxYWRkZmJhODdjYzdmOTM3MzUzM2MzY2QyMjAwNDM2",
   "tracks": [
     {
       "added_at": "2024-01-05 17:40:54",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 161765,
-      "name": "Fluxxwave (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
         "name": "snowfall (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 150660,
       "name": "snowfall (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 161765,
+      "name": "Fluxxwave (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "Love Game (Slowed)",
-        "url": "https://open.spotify.com/album/0Vh1m0GMK9olIO1DmYC3I4"
-      },
-      "artists": [
-        {
-          "name": "Bread Beatz",
-          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
-        }
-      ],
-      "duration_ms": 157211,
-      "name": "Love Game - Slowed",
-      "url": "https://open.spotify.com/track/2PUKF7oK4yIONZfu5XQ14t"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
         "name": "NO GOING BACK",
         "url": "https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 138000,
       "name": "BAIXO - slowed",
       "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
+        "name": "Love Game (Slowed)",
+        "url": "https://open.spotify.com/album/0Vh1m0GMK9olIO1DmYC3I4"
+      },
+      "artists": [
+        {
+          "name": "Bread Beatz",
+          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
+        }
+      ],
+      "duration_ms": 157211,
+      "name": "Love Game - Slowed",
+      "url": "https://open.spotify.com/track/2PUKF7oK4yIONZfu5XQ14t"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -447,6 +447,26 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
+        "name": "Shootout (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
+      },
+      "artists": [
+        {
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "duration_ms": 140142,
+      "name": "Shootout (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
         "name": "Dandelions (slowed + reverb)",
         "url": "https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 268717,
       "name": "Dandelions - slowed + reverb",
       "url": "https://open.spotify.com/track/6cii6vbf1gITzGEpDrc5BP"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
-        "name": "Shootout (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
-      },
-      "artists": [
-        {
-          "name": "Izzamuzzic",
-          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 140142,
-      "name": "Shootout (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
     },
     {
       "added_at": "2024-01-05 17:40:54",

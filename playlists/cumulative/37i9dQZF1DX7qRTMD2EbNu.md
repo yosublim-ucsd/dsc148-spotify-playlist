@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover:  Omar Sterling
 
-444 songs - 22 hr 20 min
+445 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,8 @@
 | [Round 2 \(feat\. Giggs\)](https://open.spotify.com/track/3DvvlGRUru088PLXlzlcEG) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:56 | 2022-06-24 | 2023-02-11 |
 | [Run](https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:32 | 2022-12-02 |  |
 | [Running](https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Haeven](https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H) | [Running](https://open.spotify.com/album/1EbYyDICzqwkKP79qtnERw) | 3:12 | 2023-10-13 | 2023-12-08 |
-| [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 | 2024-01-05 |  |
+| [Sa Me](https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU) | 2:48 | 2024-03-08 |  |
+| [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 | 2024-01-05 | 2024-03-14 |
 | [Sacrifices](https://open.spotify.com/track/7nThzzr76eRvp0uPWxcgMm) | [Delis](https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP) | [Since I Was 8](https://open.spotify.com/album/0jBzSMFX5qtr1V1UJobi0c) | 2:33 | 2023-01-27 | 2023-02-04 |
 | [Sake Of Money Pt 2](https://open.spotify.com/track/59QZ7yUyXrENUrjaOwUkvp) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Kwaku T](https://open.spotify.com/artist/78AuL47blp2sCmfMTxolHb), [DJ Kofi](https://open.spotify.com/artist/4tBkKC4SEvrcSfiY3ekOyK) | [Sake Of Money Pt 2](https://open.spotify.com/album/3aN2PJw8GkUH4nbnENkDmI) | 2:20 | 2023-12-08 | 2024-01-05 |
 | [Same Time](https://open.spotify.com/track/5yiHPQ4gF6EQ2SP1vBtuXv) | [Click Huus](https://open.spotify.com/artist/3AK4DylkP0c7BWMNRLmHOm) | [Same Time](https://open.spotify.com/album/3XSUdcHkY9WhNCHoFcDoNt) | 3:24 | 2023-03-10 | 2023-03-31 |

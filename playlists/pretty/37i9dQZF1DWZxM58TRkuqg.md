@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Maliq & D'Essentials
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,918 likes - 81 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,177 likes - 81 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 80 | [Talalu Sakit](https://open.spotify.com/track/62Ga6ylfUQl469DkZ3P7L7) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 5:15 |
 | 81 | [Dunia Yang Terlupa](https://open.spotify.com/track/1B4d9vrImt99bpCI5eHPe9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Hari Yang Cerah](https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U) | 3:31 |
 
-Snapshot ID: `MCw0ZTk3MzhlN2NhODJjMzdkNDllMGI0NzhiNGViNzZkNGI2ZWM4YWNh`
+Snapshot ID: `MCwyYWRhMGY4MzMyYjkyZWM0YTQzNTk5MGZmZWZhOTMwOGIxNDA5NmRi`

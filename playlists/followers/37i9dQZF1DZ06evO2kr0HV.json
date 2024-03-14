@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 31949,
+  "2024-03-14": 31965,
   "date_first_scraped": "2023-03-20",
   "description": "This is Esteman. The essential tracks, all in one playlist.",
   "name": "This Is Esteman",
@@ -711,7 +711,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 228250,
       "name": "Juan y Paul - En Vivo Desde El Teatro Metrop\u00f3litan",
       "url": "https://open.spotify.com/track/3Q1iQm1YXgpS5xoD02z0vB"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 204440,
       "name": "No Te Metas A Mi Facebook",
       "url": "https://open.spotify.com/track/6tUFAewWAb5OkcYiwzSdr0"

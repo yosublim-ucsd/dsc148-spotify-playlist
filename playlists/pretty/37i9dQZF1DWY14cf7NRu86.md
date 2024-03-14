@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,912 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,909 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 | 4 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5ZbZJ4dQWi1JBkyEY3KNSI) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3eEeXbemnjgvuGoDbHndIu) | 2:58 |
 | 5 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/73c4lbbl4EOdb8tHsSkHVC) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [What Christmas Means to Me](https://open.spotify.com/album/661KZ9ps7JOOTffnK2zeQb) | 3:33 |
 | 6 | [The Most Wonderful Time of the Year](https://open.spotify.com/track/2YJ7szfmAHgJFvZrNHfL8M) | [The Trippin Allstars](https://open.spotify.com/artist/56HG26zbal3fukId2eJbN4) | [This Christmas](https://open.spotify.com/album/5nYrP2zWbOJRkCCPVMy4Ue) | 4:55 |
-| 7 | [The Christmas Song](https://open.spotify.com/track/4fFJ7l4A4SibMLvBzFr6HV) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4L8VU0sSJwhrH4TqCHWGUV) | 3:41 |
+| 7 | [The Christmas Song](https://open.spotify.com/track/5nT9ArtXb3OMLQdFvzm6D1) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4FSzrcXxW3BmqsOcNydE4H) | 3:41 |
 | 8 | [My Grown Up Christmas List](https://open.spotify.com/track/2aNQUanNORng6vQCpdPMt3) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Christmas Present](https://open.spotify.com/album/6ZKDifTK1ilxVQ9e83QluU) | 4:43 |
 | 9 | [A Silent Night](https://open.spotify.com/track/3AX2SrD2UnZ2uNcGeDsFrv) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [A Silent Night](https://open.spotify.com/album/0bmUJW3r9I5TBFSZEXt7bC) | 4:10 |
 | 10 | [The Magi's Song / A Child Is Born](https://open.spotify.com/track/1PtXxxWRUNO3Di2CuS036c) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Breath Of Heaven \- A Holiday Collection](https://open.spotify.com/album/5jb5ySoX2Sesf6Ybsu1lAo) | 4:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 | 59 | [O Christmas Tree](https://open.spotify.com/track/2zrUWjXE1h826NNsjpHkAi) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Gift of Christmas](https://open.spotify.com/album/0m9caU6q70zseOKEY2AVAe) | 3:24 |
 | 60 | [Happy Xmas \(War Is Over\) / Imagine](https://open.spotify.com/track/0SxrBl4M5EeHaC1esNhaRk) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Rebecca Jade](https://open.spotify.com/artist/2z0lncVHaaFPSYyrLQ9NKF) | [Happy Xmas \(War Is Over\) / Imagine](https://open.spotify.com/album/7luz8tQ7C1faPXAhVXsGiB) | 4:53 |
 
-Snapshot ID: `MCxkODE2OWJlNzkxYzgzYWNkYTEwOTQ1Y2UyOGM2MTU1YTY5ZDk4NjY2`
+Snapshot ID: `MCxmMDM2ZTNjMjQ0NDFmMTJiOWFmMGIxY2E3YWZlOThhMGIyOTJmODM2`

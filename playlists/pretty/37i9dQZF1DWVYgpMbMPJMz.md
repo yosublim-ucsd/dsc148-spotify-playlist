@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="spotify:artist:3LoDhoZo5Mkue9sAuj1KHb">VOUS Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,839 likes - 90 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,954 likes - 90 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 72 | [Honest Offering / I Surrender All \- Live](https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Honest Offering \(Live\)](https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp) | 4:37 |
 | 73 | [Breaking Me Down](https://open.spotify.com/track/0e8010L3eMtEblYGLFBd3Q) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [No More Wasted Years](https://open.spotify.com/album/1qpgxwVd0GemgTLsBDKRBx) | 4:17 |
 | 74 | [My Worth is Not in What I Own](https://open.spotify.com/track/3EgZO1HNPochAaREvj9dav) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Come Behold the Wondrous Mystery](https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO) | 3:43 |
-| 75 | [Satisfied \- Live](https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Sing As One \(Live\)](https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6) | 7:43 |
+| 75 | [Satisfied \(Live\)](https://open.spotify.com/track/3GABPXLmKujNQxOF8JMJTF) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Sing As One](https://open.spotify.com/album/2KQF01EPLOTUAdwP0FKejw) | 7:43 |
 | 76 | [Precious Blood](https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:41 |
 | 77 | [Take, Eat, Drink \- Live](https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Take, Eat, Drink \(Live\)](https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF) | 4:47 |
 | 78 | [City of God](https://open.spotify.com/track/4e4UH7glPNLLB6JKazJNQT) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [City of God](https://open.spotify.com/album/6lmCotcDwtqlZskmdwBBau) | 9:21 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 89 | [Live Again](https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kyle McHargh](https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Live Again](https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap) | 8:42 |
 | 90 | [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 |
 
-Snapshot ID: `MCwyZTYxYjlmMWQyMWI3ZGMzNzA2MTNmZmNhZWU1NDM5YTgzZDE0OTgz`
+Snapshot ID: `MCw2NjUxYjQ3NzIyZTdjZjFlMTkzNWMxYTA2YmE2MGYzMjY4ZGJhOTRh`

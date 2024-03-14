@@ -651,6 +651,28 @@
     },
     {
       "album": {
+        "name": "Bhola Bhala Baby (From \"Murder Mubarak\")",
+        "url": "https://open.spotify.com/album/4uucsIPMPcEtDqCIkFqijB"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233991,
+      "name": "Bhola Bhala Baby - From \"Murder Mubarak\"",
+      "url": "https://open.spotify.com/track/69GPJv1vz7Z6dWcyDuVQVt"
+    },
+    {
+      "album": {
         "name": "Bol Kaffara Kya Hoga - Dj Chetas",
         "url": "https://open.spotify.com/album/7Ag7XBy1AML6KGE3tHxjJJ"
       },

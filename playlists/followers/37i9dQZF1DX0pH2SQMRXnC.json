@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 1280766,
+  "2024-03-14": 1281021,
   "date_first_scraped": "2021-12-21",
   "description": "Only the biggest Hardstyle tracks!",
   "name": "Hardstyle Bangers",
@@ -7543,7 +7543,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 240822,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/228GIuoRODM4m1K2vcucvN"
@@ -11905,7 +11905,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 208500,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/7ln4etuGQORCIq0MswsAyo"

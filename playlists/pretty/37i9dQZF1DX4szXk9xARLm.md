@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,527 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,566 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 44 | [يا حلولو \- تتر بدايه مسلسل صفاره](https://open.spotify.com/track/6pFOK3WsFJbrPdZkm46KoN) | [Ahmed Amin](https://open.spotify.com/artist/3ZH8mm61aosyZjnCbkT2r4), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [يا حلولو \(تتر بدايه مسلسل صفاره\)](https://open.spotify.com/album/6Oy4MU2GODcNcOnKyBsroF) | 2:25 |
 | 45 | [ضعف نظر](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ضعف نظر](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 |
 | 46 | [Kan Tri9i Bayn](https://open.spotify.com/track/4MbMh3PtcqOcwqoC0Yhh2i) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Kan Tri9i Bayn](https://open.spotify.com/album/4T15gRes7qBvuEjIptdoCH) | 3:17 |
-| 47 | [Baladna](https://open.spotify.com/track/5il1M2JH5NJ0UouRxilHaB) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe) | [Alabt El Donia](https://open.spotify.com/album/7GgQQP8K6FLAjGjy13SR53) | 3:09 |
-| 48 | [ضاع القلب](https://open.spotify.com/track/3rr70YcGOv7PabTK6Qji2K) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [ضاع القلب](https://open.spotify.com/album/4L0ai6SrfVLXrSr4Y32dMT) | 3:40 |
+| 47 | [ضاع القلب](https://open.spotify.com/track/3rr70YcGOv7PabTK6Qji2K) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [ضاع القلب](https://open.spotify.com/album/4L0ai6SrfVLXrSr4Y32dMT) | 3:40 |
+| 48 | [Baladna](https://open.spotify.com/track/5il1M2JH5NJ0UouRxilHaB) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe) | [Alabt El Donia](https://open.spotify.com/album/7GgQQP8K6FLAjGjy13SR53) | 3:09 |
 | 49 | [We9tach](https://open.spotify.com/track/3Bcp7WUGhMU0Zs0EwWd71f) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [We9tach](https://open.spotify.com/album/0tVGUZGgQ4ykPtq3TVvzyA) | 3:21 |
 | 50 | [أنا رجعت](https://open.spotify.com/track/3QncHZbe3Y03DOb30PJMtt) | [Cyrine Abdel Nour](https://open.spotify.com/artist/5cmJD8Jj6XTpaEpcJAXDXj) | [أنا رجعت](https://open.spotify.com/album/77DthSlxlSkUXVxnvFBcLv) | 3:02 |
 
-Snapshot ID: `MCw0MWU4NzQxYjhiYjA1N2IxZjk4ZGY3YTQ5NjI0ZjNkNTEzMjc5NDRm`
+Snapshot ID: `MCwyM2U2NDlhZTVmZjc3OGQ1OGI0MTNlZjE2YTIzNzQ4NGE2MTUyY2U1`

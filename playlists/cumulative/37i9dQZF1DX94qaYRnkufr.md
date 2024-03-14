@@ -2,7 +2,7 @@
 
 ### [This Is Martin Garrix](https://open.spotify.com/playlist/37i9dQZF1DX94qaYRnkufr)
 
-> The essential tracks by the Dutch DJ and producer</a>.
+> The essential tracks by the Dutch DJ and producer <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">Martin Garrix</a>
 
 121 songs - 7 hr 17 min
 

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-667 songs - 1 day 4 hr 18 min
+669 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Azores](https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Azores](https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu) | 2:39 | 2023-05-12 |  |
 | [Back at Mills Creek](https://open.spotify.com/track/1sokyJcoiRdRyjmPYzcQRu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Back at Mills Creek](https://open.spotify.com/album/04bqEOyyP1MIEe5lCrUgUv) | 2:18 | 2024-02-02 |  |
 | [Back in the Village](https://open.spotify.com/track/1ThpkLTeAScDpOmm7NHSec) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Back in the Village](https://open.spotify.com/album/201oJA5eb4m9kl57WySUIF) | 2:14 | 2023-11-24 |  |
+| [Barcelona Sunrise](https://open.spotify.com/track/4MGhkZ6FM6jvW4REJvJaVN) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Barcelona Sunrise](https://open.spotify.com/album/278KHG4sDOO9Bv2ACj0YsM) | 2:45 | 2024-03-08 |  |
 | [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 | 2022-07-15 | 2022-11-18 |
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 | 2023-04-22 |
 | [Beautiful symbol](https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Beautiful symbol](https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ) | 2:19 | 2023-04-21 |  |
@@ -169,6 +170,7 @@
 | [Don't Be Shy](https://open.spotify.com/track/5RmX0yhb5eeLI9QUawpnHp) | [Jennifer Pérez](https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz) | [Don't Be Shy](https://open.spotify.com/album/3CbgkGlLHbAvU8I8L9IBcu) | 3:53 | 2022-07-15 | 2022-10-29 |
 | [Don't Save Me Yet](https://open.spotify.com/track/190uB2WD7451d6MIm8ftJd) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Don't Save Me Yet](https://open.spotify.com/album/6CWY13gXDB3SDFjdMt4YLN) | 3:06 | 2022-07-15 | 2023-04-22 |
 | [Donegal](https://open.spotify.com/track/51760UCr1H0wFGIeNlZg2F) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Donegal](https://open.spotify.com/album/4aPfvkL9aJn4yozAV8Hift) | 2:36 | 2023-10-13 |  |
+| [Doors](https://open.spotify.com/track/0p8hGanIeSRCOcDZ1nayUb) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Doors](https://open.spotify.com/album/25383NCmsUte9zszpeKzr2) | 2:31 | 2024-03-08 |  |
 | [Dorival](https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Dorival](https://open.spotify.com/album/460T3DYQguwcbXb5M97nr6) | 2:46 | 2023-04-21 |  |
 | [Downhill](https://open.spotify.com/track/06v6Jm0odFC4lb0aSd54Nf) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Downhill](https://open.spotify.com/album/6cLUWw3Mmiw58EcRy1NSgX) | 5:01 | 2022-07-15 | 2023-04-22 |
 | [Dream by day](https://open.spotify.com/track/6VC0dMG2hyvdSgANubpBoM) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Dream by day](https://open.spotify.com/album/2RohB8WrmEWB1J2OqP8yoB) | 2:25 | 2023-04-21 | 2023-05-13 |
@@ -310,7 +312,7 @@
 | [Kenopsia](https://open.spotify.com/track/7eUW8Gu9S1RbPJvTAvz2g8) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Kenopsia](https://open.spotify.com/album/3ZoaDy4bxmkqMl1xScyShd) | 1:29 | 2023-04-21 | 2023-08-26 |
 | [Kékes](https://open.spotify.com/track/1Y95ZqpRL9fDfPylinDvtS) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Raphaela](https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv) | 3:17 | 2022-07-15 | 2023-03-31 |
 | [Klanger](https://open.spotify.com/track/4GhRwIQ7dR1o5gisbuae6b) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Klanger](https://open.spotify.com/album/4xdpRT9D8bXTjou3wyGKuF) | 1:42 | 2023-05-12 | 2023-08-26 |
-| [L'amour au quotidien](https://open.spotify.com/track/48ny2v2vWno2OfQCmAFg91) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [L'amour au quotidien](https://open.spotify.com/album/0OOasuBJBlp4qfmuuHIelf) | 2:01 | 2023-04-21 |  |
+| [L'amour au quotidien](https://open.spotify.com/track/48ny2v2vWno2OfQCmAFg91) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [L'amour au quotidien](https://open.spotify.com/album/0OOasuBJBlp4qfmuuHIelf) | 2:01 | 2023-04-21 | 2024-03-14 |
 | [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 | 2022-07-29 |  |
 | [La Fenice](https://open.spotify.com/track/1x8cTmOxmRcRmySayLAJ9C) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [La Fenice](https://open.spotify.com/album/50dvR7Lo3Ir9wMOfpiby3Y) | 2:39 | 2024-01-12 |  |
 | [La Nostalgia](https://open.spotify.com/track/0LPw0eHj4ZzgFoWBNkKMPM) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [La Nostalgia](https://open.spotify.com/album/7qt3oe7jbO84iozNWFpb4e) | 3:38 | 2022-08-19 | 2023-04-22 |
@@ -412,7 +414,7 @@
 | [Nascondiglio](https://open.spotify.com/track/5lz0ZF3oUGWZpt7TjdlAwf) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Nascondiglio](https://open.spotify.com/album/6dxdPL7IFCKy0f0V15eJHX) | 2:25 | 2023-04-21 | 2023-05-13 |
 | [Natural State](https://open.spotify.com/track/6kvTeQ3FJGVt1UYFcKNPe7) | [Mia Cornell](https://open.spotify.com/artist/22hTiR40dkmbKc5bLT5owB) | [Natural State](https://open.spotify.com/album/5n7ZLyBMJU1UWtpUCAiVwF) | 2:24 | 2022-07-15 |  |
 | [Nebula's Lullaby](https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Nebula's Lullaby](https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo) | 2:08 | 2023-12-15 |  |
-| [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2023-04-21 |  |
+| [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2023-04-21 | 2024-03-14 |
 | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/track/2PygGi8gu5WfiT8zKQrC89) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/album/1sEV06R2RJBrTNOmt5LHuM) | 3:11 | 2023-04-21 | 2023-10-30 |
 | [Night in Sevilla](https://open.spotify.com/track/3MeoEsS5PQ2Jh6ppvYOI9g) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Night in Sevilla](https://open.spotify.com/album/779NwwOLuonCzVO6gQ7uNi) | 2:43 | 2023-04-21 |  |
 | [Night Sky](https://open.spotify.com/track/2FOxa2wEutyDKFd5uGz7ZD) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Night Sky](https://open.spotify.com/album/2rcCBSP6wwWYfcBqTeHj6V) | 2:13 | 2023-04-21 |  |

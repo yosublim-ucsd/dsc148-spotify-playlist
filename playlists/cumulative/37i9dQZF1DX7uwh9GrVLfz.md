@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Su凸ko D凹koi
 
-752 songs - 1 day 16 hr 4 min
+753 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [KICKIN'YOUR HEAD](https://open.spotify.com/track/3tgAbhJ2TP4HeVdprAqwV9) | [SOBUT](https://open.spotify.com/artist/7wiOTXhsRROAbAm7GDETD4) | [KICKIN' YOUR HEAD](https://open.spotify.com/album/1p07aehQpgQVndO8pnqRwK) | 2:56 | 2022-05-24 | 2022-07-25 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/0Yo7YBmvoA36hmRAM1F7NN) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/3sp61F4s7fSWvfvVODCbU8) | 2:59 | 2022-07-21 | 2022-08-10 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-07 | 2022-07-29 |
+| [Koizakari sexy](https://open.spotify.com/track/05IxzOSir8L1yeqxWWC2so) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [Gyaru no wakusei](https://open.spotify.com/album/4JYNAjXr8GQL7PxJfEORk0) | 5:26 | 2024-03-12 |  |
 | [KOKORONOPAGE](https://open.spotify.com/track/0sOtP0rGkChcOZbFXCaZ83) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [KOKORONOPAGE](https://open.spotify.com/album/3wqfkzjNQqx9SSAiTJYaem) | 2:53 | 2023-12-19 | 2024-02-28 |
 | [Koushu Road](https://open.spotify.com/track/1QTqwO6IvE5wcabJZMfUZH) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [Su凸ko D凹koi wo Shinjiruna](https://open.spotify.com/album/2O6tyCxGJvx19VuupjDezA) | 4:44 | 2023-05-23 |  |
 | [Lady Madonna](https://open.spotify.com/track/7Ek2h9DnXKHdbSkDOuFZej) | [periwinkles](https://open.spotify.com/artist/40iKR3QciuMqwtQyd50Q71) | [Lady Madonna](https://open.spotify.com/album/70YHiSvFrVDZPrQzURx4b0) | 3:23 | 2022-05-19 | 2022-07-24 |
@@ -698,7 +699,7 @@
 | [心の銃](https://open.spotify.com/track/0Fk248BqI822A40zhw5iGy) | [ANARCHY](https://open.spotify.com/artist/65PLMuXMHef9HcEW5AamYy) | [亜無亜危異 都市](https://open.spotify.com/album/4fbwOtm9zF6VM9lA9yDPVm) | 2:31 | 2022-05-19 | 2022-07-08 |
 | [応援歌](https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [勝手にロックンロール](https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ) | 5:29 | 2022-05-12 | 2022-07-12 |
 | [恋の奴隷](https://open.spotify.com/track/1nLMsirmwT7VXnXkjl1L7k) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [OSジャンクション](https://open.spotify.com/album/1EAMPUJLRdeEK8bk5Ov13G) | 3:25 | 2022-05-12 | 2022-07-27 |
-| [恋盛りSEXY](https://open.spotify.com/track/6YOFScC4z8qaWPqaUSQt73) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [ギャルの惑星](https://open.spotify.com/album/092lu3LFITNXGblWdDuKZy) | 5:26 | 2024-03-12 |  |
+| [恋盛りSEXY](https://open.spotify.com/track/6YOFScC4z8qaWPqaUSQt73) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [ギャルの惑星](https://open.spotify.com/album/092lu3LFITNXGblWdDuKZy) | 5:26 | 2024-03-12 | 2024-03-14 |
 | [悩むな少年、少女](https://open.spotify.com/track/7qIDZv7P3Ui8MWq3zMmQv6) | [BACKSHOW](https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D) | [悩むな少年、少女](https://open.spotify.com/album/2CnGTaPXMU73dje6yp1YSR) | 3:29 | 2023-10-03 | 2023-10-18 |
 | [情熱たましい](https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ビッグ ブラック ストア\(連絡しろ\)](https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU) | 3:07 | 2022-05-12 |  |
 | [想いを乗せて](https://open.spotify.com/track/0Bh5YkNzCkRqO01988EcP5) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [想いを乗せて](https://open.spotify.com/album/26p5pMuCD2G04UcjASd3qS) | 4:39 | 2022-05-19 | 2022-07-13 |

@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-206 songs - 11 hr 10 min
+207 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Autumn Leaves](https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Roger Williams Greatest Hits](https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i) | 3:01 | 2020-12-08 |  |
 | [Ave Maria No Morro](https://open.spotify.com/track/2js8y9eYf3pe4Otk24Yr57) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Violin Jazz Essentials](https://open.spotify.com/album/1qOkAxsXhs3lEbSxnhE9lW) | 2:46 | 2020-12-08 | 2023-02-06 |
 | [Ave Maria No Morro](https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Wenn Der Weiße Flieder Wieder Blüht](https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH) | 2:46 | 2020-12-08 | 2022-07-29 |
-| [Ave Maria No Morro](https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [The Incredible Helmut Zacharias](https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A) | 2:46 | 2020-12-08 |  |
+| [Ave Maria No Morro](https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [The Incredible Helmut Zacharias](https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A) | 2:46 | 2020-12-08 | 2024-03-14 |
 | [Ave Maria no morro](https://open.spotify.com/track/0JGr0jRQDEMFhNDWVf7IWV) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [45 Greatest Hits](https://open.spotify.com/album/2SsXx2EEIhWDk6O1l3WoPh) | 2:33 | 2020-12-08 | 2022-07-29 |
 | [Ave Maria No Morro](https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:34 | 2020-12-08 |  |
 | [Ballade Pour Adeline](https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz) | [Paul Marie Senneville](https://open.spotify.com/artist/3M8kIRti4mqOFMifU0Bm7A), [Richard Clayderman](https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6) | [Romantique](https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX) | 2:37 | 2020-12-08 | 2022-07-29 |
@@ -86,6 +86,7 @@
 | [Guns of Navarone](https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs) | [Al Caiola](https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6) | [Bonanza \- 50 Fabulous Guitar Favourites](https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9) | 2:40 | 2020-12-08 |  |
 | [Il](https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [14 Estelares](https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5) | 3:17 | 2020-12-08 |  |
 | [Il](https://open.spotify.com/track/7CvMq5t11kJI64GAJLQawP) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 Años Volumen 1](https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY) | 3:17 | 2020-12-08 | 2022-07-29 |
+| [Imágenes](https://open.spotify.com/track/6aRvWvjzsdp5GlNbRr6rRn) | [Cuerdas y Metales](https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM) | [Canciones Inolvidables](https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u) | 3:09 | 2020-12-08 |  |
 | [Imágenes](https://open.spotify.com/track/5smH256ZtdhGALeYJ13mVc) | [John Days](https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7) | [16 Grandes Éxitos Instrumentales](https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL) | 3:10 | 2020-12-08 | 2022-07-29 |
 | [Imágenes](https://open.spotify.com/track/2qQN7AqqDvUYbpjR7zidQm) | [Johnny Days Orchestra](https://open.spotify.com/artist/6ddwnoAVajTGZa2ikrJqaY) | [Los Recuerdos Están Hechos de Esto Vol\. 1](https://open.spotify.com/album/5aQPUujM556YFCGjR4FPof) | 3:09 | 2020-12-08 | 2023-05-30 |
 | [Imágenes](https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F) | [Orquesta Cuerdas Y Metales](https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7) | [Presentando a La Orquesta Cuerdas y Metales](https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y) | 3:09 | 2020-12-08 | 2024-03-04 |

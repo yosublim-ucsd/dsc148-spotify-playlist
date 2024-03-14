@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Aya Nakamura & Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,128 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,174 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Lockdown 2.0](https://open.spotify.com/track/3y2MvkCMnjBHDj55Aygezw) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Lockdown 2.0](https://open.spotify.com/album/3YMrQUD0NuGtZ6Wrb5jsqy) | 3:06 |
 | 80 | [Kusuu \(feat\. Kweku Flick, Abra Cadabra & ODUMODUBLVCK\) \- Remix](https://open.spotify.com/track/3qpiO6n5HBMubcdCQyqKiv) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Kusuu \(feat\. Kweku Flick, Abra Cadabra & ODUMODUBLVCK\) \[Remix\]](https://open.spotify.com/album/5yK3V1kXjfB70UKbXNXsnx) | 3:26 |
 
-Snapshot ID: `MCw4ZDQyZWYzMzg2NDdhY2Q3NDMxYjBlYWQ0ZDE4M2IwZDYzZDAwMTU2`
+Snapshot ID: `MCw5MDIyMDdmYjlkMjdhYjA5NGQwNzJmZmU1NmE5MDkxMDQwNjJjZTBi`

@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 654178,
+  "2024-03-14": 654334,
   "date_first_scraped": "2023-03-25",
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
   "name": "This Is Mon Laferte",
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 179693,
       "name": "Que Se Sepa Nuestro Amor",
       "url": "https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"

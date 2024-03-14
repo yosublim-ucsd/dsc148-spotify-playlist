@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 1230991,
+  "2024-03-14": 1231115,
   "date_first_scraped": "2019-08-09",
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
   "name": "Heart Beats",
@@ -2025,7 +2025,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 183198,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/47jk6lI3sXV4hDtJiTFucQ"
@@ -23647,7 +23647,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 156428,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1Nc4gon5Nu3hL4Ou6kvrgz"

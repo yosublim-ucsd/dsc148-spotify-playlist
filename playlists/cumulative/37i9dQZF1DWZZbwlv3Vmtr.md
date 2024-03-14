@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-903 songs - 1 day 11 hr 8 min
+904 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,6 +773,7 @@
 | [Taking Off](https://open.spotify.com/track/7tjHh8qi7gri6XPJUWX04T) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Taking Off](https://open.spotify.com/album/4V2j7hDBQ8p7NgH76vizCs) | 2:24 | 2022-10-28 | 2022-12-10 |
 | [Tasty Bites](https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4) | [Blue and White](https://open.spotify.com/artist/3D7Q3FCSjGuFl5UNN3X4Ow) | [Tasty Bites](https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi) | 2:19 | 2022-04-15 | 2022-09-03 |
 | [Tea For Three](https://open.spotify.com/track/7yemMdaZ7y9HS5vOkKBlUO) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Lo\-fi Addiction](https://open.spotify.com/album/2C0wFz5gPDjgQQIw0f6wuo) | 2:17 | 2022-04-15 | 2022-08-12 |
+| [tea n' sunsets](https://open.spotify.com/track/2UEWsw1bg1qbbnIMyLZGBn) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [tea n' sunsets](https://open.spotify.com/album/2kVQmUS15rrZk2raCqWSBX) | 2:20 | 2024-03-08 |  |
 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 | 2022-04-15 | 2022-09-09 |
 | [Tell Me](https://open.spotify.com/track/1I5EnQrDoeo6txl9bo8Wea) | [Serena Kayleah](https://open.spotify.com/artist/1UxgzBXu0TEFYGecOFWKAg) | [Tell Me](https://open.spotify.com/album/7n5d3Fu6lIJTHNVtjZj7rX) | 2:41 | 2024-02-09 |  |
 | [tempura](https://open.spotify.com/track/1zgFWd7USHOKNc30YtfsCT) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs), [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [Heartsick, extras.](https://open.spotify.com/album/1FMRlhclA9XtdN8iPbflJl) | 2:33 | 2022-04-15 | 2022-09-09 |
@@ -796,7 +797,7 @@
 | [The Switch](https://open.spotify.com/track/79pbGSryQzEqI97ydfig8Q) | [Knuckles & Tails](https://open.spotify.com/artist/2KUPQ8T5999f2EoqJ5VczV) | [The Switch](https://open.spotify.com/album/318fCjjJxB1lxUOunFD5RY) | 2:53 | 2022-04-15 | 2022-06-10 |
 | [The Truth](https://open.spotify.com/track/5FQippF8g8Nb5n7Gd9e2x3) | [MVR Music](https://open.spotify.com/artist/6JKyNrD4ZdPRFbZIY1TES8) | [The Truth](https://open.spotify.com/album/59p5oWiIgoqKdaJuVrrgap) | 2:20 | 2022-04-15 | 2023-10-13 |
 | [The Warmup](https://open.spotify.com/track/1EgG7IPC4yKKERNx9caeck) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [The Warmup](https://open.spotify.com/album/6xTEwiGet96XGYpkLoWf2j) | 2:30 | 2022-04-15 |  |
-| [The Way](https://open.spotify.com/track/7op5NFvJzRLffdGkYzJpUX) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Sensei](https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq) | 2:19 | 2022-05-27 |  |
+| [The Way](https://open.spotify.com/track/7op5NFvJzRLffdGkYzJpUX) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Sensei](https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq) | 2:19 | 2022-05-27 | 2024-03-14 |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 | 2022-04-15 | 2022-05-20 |
 | [this feels so right](https://open.spotify.com/track/4or5RFuku3G0P1ZOLGBTLt) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [this feels so right](https://open.spotify.com/album/2VyvMQUHPp3KIcIyiWbVjv) | 1:30 | 2022-04-15 | 2022-07-29 |

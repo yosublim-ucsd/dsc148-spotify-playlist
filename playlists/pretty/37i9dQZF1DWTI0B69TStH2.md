@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2cv6HFwLykuUwNhdw0d5Fp">MISSI</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,750 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,780 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [TRUP](https://open.spotify.com/track/4ceKlnoOp2l62iVhAsvM1P) | [cytryn](https://open.spotify.com/artist/5woKSxr6bGG4MfZJN4GBRP), [docent](https://open.spotify.com/artist/43cDsPUZ3I7MziqLfbFqHK) | [TRUP](https://open.spotify.com/album/70AaFHlAJZt6MrihbN1l2m) | 2:57 |
 | 100 | [Energia Drzew](https://open.spotify.com/track/3BXvkYyLO8ZZEpGMBq0Alp) | [13 Drzew](https://open.spotify.com/artist/5wKkFchkpi8Qqs4berwBtY), [Folky](https://open.spotify.com/artist/5dazvIn89knw9HjScy3F0H) | [Energia Drzew](https://open.spotify.com/album/1MgdOS00XNSjptmSA9z15i) | 3:18 |
 
-Snapshot ID: `MCw2NTcwYzYxNGRmNzc4NGZkN2IyMmIxNzk1Yzk3NjliYTljZWQ1MDYy`
+Snapshot ID: `MCxjMjk3NDM2ZTNhYTlhYmU0Yjk4NGYxOGUwZmFkYWFmZDY0Yzc5NGFm`

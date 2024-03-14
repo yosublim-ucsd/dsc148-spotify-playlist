@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is r&b in Canada, elevate your aura with <a href="spotify:artist:76FMyQJ8BGZA762QQc0X8Q">Lune Elle</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,489 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,521 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
 | 100 | [Fly Girl](https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Fly Girl](https://open.spotify.com/album/3DxsNT0EdadtakLU9wAGke) | 3:12 |
 
-Snapshot ID: `MCw5N2FiN2JiYjU5NmMzY2EzODliOTgzYTFjODU3MmM3MGZiMmYwYWY0`
+Snapshot ID: `MCw5NTUyM2FlMmVlNjljODNhN2VhM2E1MzRiNDQ5ODhmMTE4ZTliMTk5`

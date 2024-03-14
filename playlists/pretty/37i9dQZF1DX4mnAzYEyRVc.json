@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: Mad Caddies",
-  "num_followers": 47319,
+  "num_followers": 47367,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTJmOTQwMTBlZDkyNzQ2ZDE2YzhkOWM3OGI5NjQwMGFiZDljZjg1",
+  "snapshot_id": "MCw0Mzk2Y2E0ODEyMDQ4MzA0YTU3ODZmNTI2ZmM5Zjc2YTZmZGJhMTkx",
   "tracks": [
     {
       "added_at": "2024-02-23 18:26:31",
@@ -1515,22 +1515,18 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
-        "name": "Tania",
-        "url": "https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F"
+        "name": "Step Forward",
+        "url": "https://open.spotify.com/album/3wGPw3tffcWEPsCprWzvP3"
       },
       "artists": [
         {
-          "name": "3 Pemuda Berbahaya",
-          "url": "https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z"
-        },
-        {
-          "name": "Sallsa Bintan",
-          "url": "https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7"
+          "name": "New York Ska-Jazz Ensemble",
+          "url": "https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj"
         }
       ],
-      "duration_ms": 261321,
-      "name": "Tania",
-      "url": "https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9"
+      "duration_ms": 256000,
+      "name": "Boogie Stop Shuffle",
+      "url": "https://open.spotify.com/track/16kCh9rnBTGunZJ9LVeRo8"
     },
     {
       "added_at": "2024-02-23 18:26:31",
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
-        "name": "Step Forward",
-        "url": "https://open.spotify.com/album/3wGPw3tffcWEPsCprWzvP3"
+        "name": "Tania",
+        "url": "https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F"
       },
       "artists": [
         {
-          "name": "New York Ska-Jazz Ensemble",
-          "url": "https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj"
+          "name": "3 Pemuda Berbahaya",
+          "url": "https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z"
+        },
+        {
+          "name": "Sallsa Bintan",
+          "url": "https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Boogie Stop Shuffle",
-      "url": "https://open.spotify.com/track/16kCh9rnBTGunZJ9LVeRo8"
+      "duration_ms": 261321,
+      "name": "Tania",
+      "url": "https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9"
     },
     {
       "added_at": "2024-02-23 18:26:31",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
-        "name": "Palm Trees and Pines",
-        "url": "https://open.spotify.com/album/1TfmRHcX2VSoLyQu5qDNoS"
-      },
-      "artists": [
-        {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Palm Trees and Pines",
-      "url": "https://open.spotify.com/track/4FzgB1N6xjQnTLWEQgS2VS"
-    },
-    {
-      "added_at": "2024-02-23 18:26:31",
-      "album": {
         "name": "...and the usual suspects",
         "url": "https://open.spotify.com/album/4RBq321rOdaU2pwSIIS5zJ"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 239725,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3eSIZFcNGhA4bPJ9CMmjdF"
+    },
+    {
+      "added_at": "2024-02-23 18:26:31",
+      "album": {
+        "name": "Nice One",
+        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
+      },
+      "artists": [
+        {
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Call Your Bluff",
+      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
     }
   ],
   "unique_name": "Ska Around The Globe",

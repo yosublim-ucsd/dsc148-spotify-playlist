@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 351038,
+  "num_followers": 351074,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGY2OTA4NTk5MGZjYzVjNDM4NmFjMWFlN2U3MmVhNzk4N2FiYzQz",
+  "snapshot_id": "MCwyMWM0YmVkMTU0ZjAwZDFkYmZmYmMyN2Y0NWM1ZTU0NmI0YzY5Y2Qx",
   "tracks": [
     {
       "added_at": "2024-03-05 16:47:16",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-03-05 16:47:16",
       "album": {
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK"
+    },
+    {
+      "added_at": "2024-03-05 16:47:16",
+      "album": {
         "name": "miss me (when you're gone) remixes",
         "url": "https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 208692,
       "name": "Let\u2019s Go Home Together",
       "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
-    },
-    {
-      "added_at": "2024-03-05 16:47:16",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 214383,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
     },
     {
       "added_at": "2024-03-05 16:47:16",

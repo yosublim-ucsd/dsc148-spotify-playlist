@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 1,
+  "2024-03-14": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -8275,6 +8275,24 @@
       "duration_ms": 243533,
       "name": "S&M",
       "url": "https://open.spotify.com/track/2u02eLj96Atd6TBxkH9YvN"
+    },
+    {
+      "album": {
+        "name": "Woman Worldwide",
+        "url": "https://open.spotify.com/album/7E3c9dmZ1KnZOQLZTgRqWx"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452105,
+      "name": "Safe and Sound (WWW)",
+      "url": "https://open.spotify.com/track/2OPmeyf31LlcIpYcJ4aegt"
     },
     {
       "album": {

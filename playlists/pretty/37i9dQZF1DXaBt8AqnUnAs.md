@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,329 likes - 76 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,345 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 15 | [Do Seu Lado](https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Mais Novo Romântico](https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj) | 3:07 |
 | 16 | [Manda Áudio](https://open.spotify.com/track/106v1J8uUOsa6Q0pAcxsKr) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/51Jdr9EBtQHruGrmzNZF5h) | 2:18 |
 | 17 | [Quando a gente ama](https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Quando a gente ama](https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk) | 2:35 |
-| 18 | [Liga o Di Marques Hoje Tem Baile](https://open.spotify.com/track/6mY9bmT7oGtV6MyO5H5Auc) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Liga o Di Marques Hoje Tem Baile](https://open.spotify.com/album/1naavGOhBF7o0TG5rKPtDh) | 2:17 |
+| 18 | [Liga o Di Marques Hoje Tem Baile](https://open.spotify.com/track/6mY9bmT7oGtV6MyO5H5Auc) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV) | [Liga o Di Marques Hoje Tem Baile](https://open.spotify.com/album/1naavGOhBF7o0TG5rKPtDh) | 2:17 |
 | 19 | [Não Me Liga 00:00](https://open.spotify.com/track/3N8sn9QZsbwXrEQxqCGgAA) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Um Pequeno Álbum de Natal](https://open.spotify.com/album/2Wo40ErDS87wfkSbGqxt5O) | 3:15 |
 | 20 | [Love Song](https://open.spotify.com/track/3oo5H5v65IwdbiN8nMZvJ9) | [Bukola 2Tey](https://open.spotify.com/artist/5f1QJrsEhB9YmuBUDpj3Iy), [Elisa Rosa](https://open.spotify.com/artist/5T21yLPrKv7zSswjBfwz05), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Pra Nós Mesmos](https://open.spotify.com/album/71V5lh1S26Wj6Lfh5nTJ1z) | 2:48 |
 | 21 | [Invisível pt.2](https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Invisível pt.2](https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir) | 2:54 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 75 | [Intenção](https://open.spotify.com/track/2pKBHF2hqzaKNeY4HNnUos) | [West Reis](https://open.spotify.com/artist/5MZ71Xv0o1bOzgC0OYKkRp), [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6) | [Intenção](https://open.spotify.com/album/6NzOjC8Cd7kuldD5GqPDOl) | 3:48 |
 | 76 | [Viagem Cara](https://open.spotify.com/track/3WHBt5JazrLheCvzygxCv1) | [Souffran](https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Viagem Cara](https://open.spotify.com/album/2nktvT2yjahIlYVoLQ1CiV) | 2:16 |
 
-Snapshot ID: `MCw0YjQ5MDU0MjliZmY5YTQzMGEzOGRkMjMzZTljNTA3YjBmYWJiNGI4`
+Snapshot ID: `MCw4ODc4YjZiMTdiMTdiNTNmZWZjNmE2ZmM1ZjRjMzc5Yzg0MGZhMGI0`

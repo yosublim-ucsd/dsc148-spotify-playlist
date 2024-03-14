@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigantes da internê
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,414,874 likes - 66 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,415,344 likes - 66 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 6 | [Lembra Aquele Cara](https://open.spotify.com/track/4O4zPFoJ5HWnqbGYlCA2qc) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Mc Pelourinho](https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx), [DJ Kennedy OBraboo](https://open.spotify.com/artist/0We5nkC71G4o6OHkLfx9uh) | [Vamo de Nova](https://open.spotify.com/album/7EO5s1F4RLF6gS3kycvxAt) | 2:05 |
 | 7 | [Vem de flecha](https://open.spotify.com/track/7rII7hWYrJwU4MoVHmRsdY) | [DJ DIDI](https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ), [Dj Rayan](https://open.spotify.com/artist/2SN0sv6jL9pWPYIgcWgb2a), [Mc Fopi](https://open.spotify.com/artist/07BaHE7dzguDOawZRVWCsR) | [Vem de flecha](https://open.spotify.com/album/2NrcAgJjWRyBEN5oLbWrCQ) | 2:59 |
 | 8 | [Dono da Porsche \(Bom Dia Princesa\)](https://open.spotify.com/track/6XQ87rq4dZpaNG8aVi99Jg) | [MC Reino](https://open.spotify.com/artist/5VYxsvivVgcLrPjgLUFRG1) | [Dono da Porsche \(Bom Dia Princesa\)](https://open.spotify.com/album/3DJCxAao78RWA21d2LUEWD) | 2:36 |
-| 9 | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5) | 2:37 |
+| 9 | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq) | 2:37 |
 | 10 | [Desacato](https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Gui Da Norte](https://open.spotify.com/artist/1PC8RPtwfgPPdlxyAsd1Bw) | [Desacato](https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8) | 7:18 |
 | 11 | [Tropa Do Pisa](https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB) | [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tropa Do Pisa](https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS) | 2:13 |
 | 12 | [Rolé na Favela de Nave](https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Didi](https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi), [Dj Lc da Roça](https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag), [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Rolé na Favela de Nave](https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH) | 3:12 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 65 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 |
 | 66 | [Vem Morenin](https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Vem Morenin](https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK) | 2:39 |
 
-Snapshot ID: `MCxmOGE3ODM0ZTljOTNmZjA3MTRhZWYwNmI4YTFhMzMzMmYzZDYwMzU1`
+Snapshot ID: `MCw5OGM2MzM1OWM4YzU1MWQxZGQzZmI0YzRkNjNjNmViYjI3MTQ4ODc5`

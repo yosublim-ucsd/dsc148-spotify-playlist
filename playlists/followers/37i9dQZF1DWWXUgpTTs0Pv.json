@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 31900,
+  "2024-03-14": 31984,
   "date_first_scraped": "2022-04-19",
   "description": "Family friendly country songs to listen to together.",
   "name": "Family Country",
@@ -111,7 +111,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 184920,
       "name": "Are You Gonna Kiss Me Or Not",
       "url": "https://open.spotify.com/track/2oyJMZrw1DGvvkT2NbCZ0Y"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 162733,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"

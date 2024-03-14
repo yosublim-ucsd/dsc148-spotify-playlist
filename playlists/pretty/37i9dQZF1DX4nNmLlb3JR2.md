@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,705 likes - 159 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,885 likes - 159 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 115 | [Bad Habits](https://open.spotify.com/track/7y161CHpc3KkKVMJZ1bNEQ) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Bad Habits](https://open.spotify.com/album/16XIxgGPr1Ispb6IJJ0AaW) | 1:28 |
 | 116 | [Dog Days Are Over \- Lofi Version](https://open.spotify.com/track/5G6D5WHf5weBJ7Z9WA6pyH) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Dog Days Are Over \(Lofi Version\)](https://open.spotify.com/album/7iqDk6pZdA7aPAZpoZzXve) | 2:15 |
 | 117 | [Foolish](https://open.spotify.com/track/327YD8hrJehqymoHyLzjvL) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/205AAzdvybdc1XHfLkQIfv) | 2:59 |
-| 118 | [love me like you do \- lofi](https://open.spotify.com/track/490fqdlm8AGR5tRWcoBGKj) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq) | [love me like you do \- lofi](https://open.spotify.com/album/5G7LFYUjjdBbermgFy0gMD) | 1:39 |
+| 118 | [love me like you do \- lofi](https://open.spotify.com/track/490fqdlm8AGR5tRWcoBGKj) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq), [valentié](https://open.spotify.com/artist/1smtSrorIh5e6oODXmkbv5) | [love me like you do \- lofi](https://open.spotify.com/album/5G7LFYUjjdBbermgFy0gMD) | 1:39 |
 | 119 | [Viva La Vida](https://open.spotify.com/track/0rZ4Yyt5Su46Uo6mqci1iW) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Viva La Vida](https://open.spotify.com/album/25q2SkwrmZmcnhGAAeUGci) | 2:57 |
 | 120 | [That's The Way It Is](https://open.spotify.com/track/4KlG6TcBmbr56ejToFZZNM) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [That's the Way It Is](https://open.spotify.com/album/3JNRLXYVdLBni8VY92Irve) | 1:27 |
 | 121 | [Waterfalls](https://open.spotify.com/track/0trpTNoxD6tXWWuyZGlMIl) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Waterfalls](https://open.spotify.com/album/06iVppBWZfA1KdMpWRS3AM) | 2:09 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 158 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 |
 | 159 | [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 |
 
-Snapshot ID: `MCwzY2ZjYjJhMjAyNmQ4M2JhNzllZTZmYzI2NzI0ZTBlOGVhMGU2MzE4`
+Snapshot ID: `MCwwNzY2NDNmYTI4MGZiZWYxNzA0MmE5NDI4Y2M1MzBmZTc0ZWY0NWE3`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzg0YmY0NzU4YzliOTE3ODUxNDRjMTAxMWUyYjE0OWE0Zjc2NmNk",
+  "snapshot_id": "MCw3ZGJmNzBlNmM0MGVkNjU3MmMyZGI4YzliZGU5MDY2YTAzODJkNGY2",
   "tracks": [
     {
       "added_at": "2022-03-17 00:00:00",
@@ -263,18 +263,22 @@
     {
       "added_at": "2022-03-17 00:00:00",
       "album": {
-        "name": "Beggin U",
-        "url": "https://open.spotify.com/album/2IyIQ2IoPif6McYZpd75Gr"
+        "name": "Beggin u",
+        "url": "https://open.spotify.com/album/2L7NJuPqenhQ8XjWUeuOdL"
       },
       "artists": [
         {
-          "name": "riverhood",
-          "url": "https://open.spotify.com/artist/1NZnfMY7RAKXVcxDaQD6Dj"
+          "name": "Svaroda",
+          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
+        },
+        {
+          "name": "Hasan Ceddi",
+          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
         }
       ],
-      "duration_ms": 138472,
-      "name": "Beggin U",
-      "url": "https://open.spotify.com/track/6xacjqiieBkAatAJuke0V9"
+      "duration_ms": 135993,
+      "name": "Beggin u",
+      "url": "https://open.spotify.com/track/3kHN05AnAl7GDSrq9YOzqv"
     },
     {
       "added_at": "2022-03-17 00:00:00",

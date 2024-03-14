@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3828,
+  "num_followers": 3826,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTI5NWY1OTM5NGY3NjkxYzk1ODFlOGQ4NTI2YzMwMzU0YmNhY2Ez",
+  "snapshot_id": "MCwzM2JjZWJhNzczYWJiYWYwOWI0NGU5NmE3NDY3YzkyNGIxNmIyNDJi",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 173843,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Un jour de plus au paradis",
         "url": "https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 181613,
       "name": "Future Ex",
       "url": "https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 173843,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "AlgeVita",
-        "url": "https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt"
-      },
-      "artists": [
-        {
-          "name": "S\u2019tano",
-          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "AlgeVita",
-      "url": "https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Il faut partir maintenant",
         "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 178405,
       "name": "Penses-tu rester encore?",
       "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "AlgeVita",
+        "url": "https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt"
+      },
+      "artists": [
+        {
+          "name": "S\u2019tano",
+          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "AlgeVita",
+      "url": "https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "On est encore l\u00e0",
-        "url": "https://open.spotify.com/album/5WrG6tjEad6q5cYJXuegQE"
-      },
-      "artists": [
-        {
-          "name": "Phil G. Smith",
-          "url": "https://open.spotify.com/artist/6YpIE8UFTcFZ5eDQVCvwz9"
-        }
-      ],
-      "duration_ms": 182934,
-      "name": "De Matane \u00e0 Natashquan",
-      "url": "https://open.spotify.com/track/6rykqHkuwL1s58P3LoqwD9"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Agnus Dei",
         "url": "https://open.spotify.com/album/6fECpj4Mk2Doh94CsJJ1SC"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 231093,
       "name": "V\u00e9nus",
       "url": "https://open.spotify.com/track/4E1oxvahPId9N9qjdBKX4M"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "On est encore l\u00e0",
+        "url": "https://open.spotify.com/album/5WrG6tjEad6q5cYJXuegQE"
+      },
+      "artists": [
+        {
+          "name": "Phil G. Smith",
+          "url": "https://open.spotify.com/artist/6YpIE8UFTcFZ5eDQVCvwz9"
+        }
+      ],
+      "duration_ms": 182934,
+      "name": "De Matane \u00e0 Natashquan",
+      "url": "https://open.spotify.com/track/6rykqHkuwL1s58P3LoqwD9"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
-      },
-      "artists": [
-        {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "C'est un bum",
-      "url": "https://open.spotify.com/track/3Y9tjAA2R3hACMJnnE66fd"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Rap Queb Monuments",
         "url": "https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 253095,
       "name": "Dans l'sang",
       "url": "https://open.spotify.com/track/6sysCIlYo1j1TS0SkbIXLT"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+      },
+      "artists": [
+        {
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "C'est un bum",
+      "url": "https://open.spotify.com/track/3Y9tjAA2R3hACMJnnE66fd"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+      },
+      "artists": [
+        {
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "A\u00e9roplane",
+      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Alexandre Martel",
         "url": "https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 257880,
       "name": "creusercreuser",
       "url": "https://open.spotify.com/track/6Z9RMVyBJkWnF6GlemwMIk"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
-      },
-      "artists": [
-        {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "A\u00e9roplane",
-      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "GLAM",
+        "url": "https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Rock Band",
+      "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "C-17",
         "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 172440,
       "name": "C-17",
       "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "GLAM",
-        "url": "https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM"
-      },
-      "artists": [
-        {
-          "name": "LUMI\u00c8RE",
-          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Rock Band",
-      "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Prince Limonade",
-        "url": "https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8nanza",
-          "url": "https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30"
-        }
-      ],
-      "duration_ms": 345249,
-      "name": "Entre tes doigts",
-      "url": "https://open.spotify.com/track/44hD1LTCxIFhqOzqx9vaFh"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Winston Express",
         "url": "https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 220186,
       "name": "Fais-moi tien",
       "url": "https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Prince Limonade",
+        "url": "https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8nanza",
+          "url": "https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30"
+        }
+      ],
+      "duration_ms": 345249,
+      "name": "Entre tes doigts",
+      "url": "https://open.spotify.com/track/44hD1LTCxIFhqOzqx9vaFh"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tous les jours printemps",
-        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
-      },
-      "artists": [
-        {
-          "name": "Original Gros Bonnet",
-          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Glace noire",
-      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Elle \u00e9tait une fois",
         "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
       },
@@ -2063,6 +2047,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Tous les jours printemps",
+        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
+      },
+      "artists": [
+        {
+          "name": "Original Gros Bonnet",
+          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Glace noire",
+      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Moteur super sport",
         "url": "https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt"
       },
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Chou",
-        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
-      },
-      "artists": [
-        {
-          "name": "Chou",
-          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
-        }
-      ],
-      "duration_ms": 123541,
-      "name": "Chou",
-      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Anh\u00e9donie",
         "url": "https://open.spotify.com/album/7188natmAynJElRoh3pKWD"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 342280,
       "name": "Pourtant",
       "url": "https://open.spotify.com/track/4ZYnrqFlddLKvCH1SKuV5l"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Chou",
+        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
+      },
+      "artists": [
+        {
+          "name": "Chou",
+          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
+        }
+      ],
+      "duration_ms": 123541,
+      "name": "Chou",
+      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
     },
     {
       "added_at": "2023-05-25 23:46:15",

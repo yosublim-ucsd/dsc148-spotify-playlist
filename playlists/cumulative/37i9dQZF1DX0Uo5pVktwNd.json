@@ -132,10 +132,28 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 348986,
       "name": "Afreen Afreen",
       "url": "https://open.spotify.com/track/2hGJkkAaI7GsfktrIhz8yg"
+    },
+    {
+      "album": {
+        "name": "Nusrat & Rahat Fateh Ali Khan and Other Hits",
+        "url": "https://open.spotify.com/album/5p085cUF4HKBFMAXDEZUhl"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347813,
+      "name": "Afreen Afreen - Dance Mix",
+      "url": "https://open.spotify.com/track/4WqBHzqGq7AlWsFRg6Iokz"
     },
     {
       "album": {

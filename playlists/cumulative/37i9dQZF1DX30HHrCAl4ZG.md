@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Rainbow Kitten Surprise
 
-1,387 songs - 3 day 4 hr 12 min
+1,388 songs - 3 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1104,7 +1104,8 @@
 | [Something About You](https://open.spotify.com/track/4E6Dxj76ostVEmeefzlDP8) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/7g0KWmMqYJIWcHVVGycNqU) | 2:33 | 2021-10-02 | 2022-06-09 |
 | [Something Wrong](https://open.spotify.com/track/2GPoi1FxpeHyX9felyqesM) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Something Wrong](https://open.spotify.com/album/6MHCdB8CInfFwX56eX9JUw) | 3:03 | 2023-03-31 | 2023-08-12 |
 | [Something Wrong](https://open.spotify.com/track/4gMUmiLng8cPWB55zE33QP) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Sugar the Bruise](https://open.spotify.com/album/6GnYy4az2e4zUR7ChMERqZ) | 3:03 | 2023-06-16 | 2023-08-19 |
-| [Sometimes](https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Sometimes](https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc) | 3:27 | 2023-11-17 |  |
+| [Sometimes](https://open.spotify.com/track/2hVbai5ZN5yykTbSteAPKy) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:27 | 2023-11-17 |  |
+| [Sometimes](https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Sometimes](https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc) | 3:27 | 2023-11-17 | 2024-03-14 |
 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 | 2023-11-10 | 2024-01-20 |
 | [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 | 2022-02-11 | 2022-02-15 |
 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 | 2021-06-07 | 2022-06-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 16720,
+  "num_followers": 16763,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGZkZDIzNDdlMzU4YWE5Y2NjNmRkNDYyZjY1Y2MyMGYyNWM2OGM4",
+  "snapshot_id": "MCwyNGE4Mzg4OTRmOGMwMTg4OWYwNmQ4YzViZjljNWYwYTkzNzIyZDk0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -355,18 +355,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "NEVER LEFT",
-        "url": "https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp"
+        "name": "Trip At Knight",
+        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 168727,
-      "name": "NEVER LEFT",
-      "url": "https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz"
+      "duration_ms": 188025,
+      "name": "Matt Hardy 999",
+      "url": "https://open.spotify.com/track/4zkFR93VC5H04YhnYxr2zz"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -391,22 +395,18 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Trip At Knight",
-        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
+        "name": "NEVER LEFT",
+        "url": "https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 188025,
-      "name": "Matt Hardy 999",
-      "url": "https://open.spotify.com/track/4zkFR93VC5H04YhnYxr2zz"
+      "duration_ms": 168727,
+      "name": "NEVER LEFT",
+      "url": "https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz"
     },
     {
       "added_at": "2022-10-01 16:17:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,011 likes - 126 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,010 likes - 126 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 92 | [Bayside \(feat\. 24kGoldn\)](https://open.spotify.com/track/5BJHS602oaTKgosEBc4NMJ) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Free Skizzy Mars](https://open.spotify.com/album/06uilmMkjOIuifxVYJyqwD) | 2:41 |
 | 93 | [Meagan Good](https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Rap?](https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm) | 2:58 |
 | 94 | [Trial And Error](https://open.spotify.com/track/25HnNxGuzRfjTt8ax0op8f) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 2:38 |
-| 95 | [Trippin](https://open.spotify.com/track/4huciygZHFSjTP5DHmPs20) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 2:19 |
-| 96 | [No Permission](https://open.spotify.com/track/7jqKilq41EX5ZyiIKeSnwA) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 2:20 |
+| 95 | [No Permission](https://open.spotify.com/track/7jqKilq41EX5ZyiIKeSnwA) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 2:20 |
+| 96 | [Trippin](https://open.spotify.com/track/4huciygZHFSjTP5DHmPs20) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 2:19 |
 | 97 | [Forever](https://open.spotify.com/track/15Zf7969cwmjHmXaiveUla) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC), [The Soul Sisters](https://open.spotify.com/artist/4vHGlaYbIEkXVVnWZodTXl) | [The 2 Sides Of Sam Cooke](https://open.spotify.com/album/0MdgAZwWoKeokRKYPPyZ9C) | 2:57 |
 | 98 | [Rollin' \(Me & You\)](https://open.spotify.com/track/35ByQ3uLTbLVt8i92NDJHp) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Trouble in Paradise](https://open.spotify.com/album/0xqUuEVN3srOCA51CprgIk) | 2:44 |
 | 99 | [Girl Like That \(feat\. Caleb Jacobson\)](https://open.spotify.com/track/6BPAozuOyKeit8cCwycmWP) | [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV), [Caleb Jacobson](https://open.spotify.com/artist/2EJZ9V5goL0NT50wQo7M4I) | [United We Stand](https://open.spotify.com/album/3v9U6evWUH2BjiwMy3K3L9) | 3:13 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 125 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 126 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `Mjg1MDQ5MzAsMDAwMDAwMDA4YzA4ZGQzOTE2NWUwN2NhZjY5ZjE2N2ZkMzExN2M1OQ==`
+Snapshot ID: `Mjg1MDYzNzAsMDAwMDAwMDAxMDI0NDNhZTZlMWJlMjgzM2IyNTE3Y2U2MjU3Mzc5MQ==`

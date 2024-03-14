@@ -1,13 +1,45 @@
 {
-  "description": "The best new music by independent African artists and labels. Updates every Wednesday. Cover:  <a href=\"https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri?si=7eEpQc67SrSKVq31x2acSA\">Mars Baby</a>. Artwork: Isu Kim. ",
-  "num_followers": 7887,
+  "description": "The best new music by independent African artists and labels. Updates every Wednesday. Cover:  <a href=\"https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA?si=6t5uqc4AQuGgVqvHhQZyiA\">Ess thee Legend</a>. Artwork: Isu Kim. ",
+  "num_followers": 7896,
   "original_name": "Fresh Finds Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmU5NzQwYjNlZGQxNzA4N2JiMzE3ZjllZDU5NDc4YWIzYzczNjZl",
+  "snapshot_id": "MCxiOTBlOWZhZjFiMTJjMWZmOTMwZTc5NThmMTIwMDRkYjlhOTlmNzU2",
   "tracks": [
+    {
+      "added_at": "2024-03-06 00:53:34",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ"
+      },
+      "artists": [
+        {
+          "name": "Ess thee Legend",
+          "url": "https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA"
+        }
+      ],
+      "duration_ms": 173014,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914"
+    },
+    {
+      "added_at": "2024-03-06 00:53:34",
+      "album": {
+        "name": "MIDST",
+        "url": "https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "duration_ms": 160236,
+      "name": "MIDST",
+      "url": "https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6"
+    },
     {
       "added_at": "2024-03-06 00:53:34",
       "album": {
@@ -43,38 +75,6 @@
       "duration_ms": 180000,
       "name": "Too Young To Go",
       "url": "https://open.spotify.com/track/3WaMdVfPf5vsjRQTpyiVHz"
-    },
-    {
-      "added_at": "2024-03-06 00:53:34",
-      "album": {
-        "name": "MIDST",
-        "url": "https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER"
-      },
-      "artists": [
-        {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
-        }
-      ],
-      "duration_ms": 160236,
-      "name": "MIDST",
-      "url": "https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6"
-    },
-    {
-      "added_at": "2024-03-06 00:53:34",
-      "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ"
-      },
-      "artists": [
-        {
-          "name": "Ess thee Legend",
-          "url": "https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA"
-        }
-      ],
-      "duration_ms": 173014,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914"
     },
     {
       "added_at": "2024-03-06 00:53:34",

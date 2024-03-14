@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con The Warning en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,360 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,375 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Sí Quiero](https://open.spotify.com/track/61cjcLSeYk5VH8a4foLdjp) | [Vosotras Veréis](https://open.spotify.com/artist/2aBHCc3JRmzbNxCSvl6jfu) | [Sí Quiero](https://open.spotify.com/album/7qeIeDZcWxEJF7vVCfMDJO) | 3:01 |
 | 50 | [From Darkness With Love](https://open.spotify.com/track/1Fdm0I1iBqHkx8ekgVsgUC) | [Las Tristes](https://open.spotify.com/artist/3PZghesgUy9w58sbz5ZG6F) | [De Rally](https://open.spotify.com/album/2EcHi865nGpzoLwLJ8nDrs) | 3:10 |
 
-Snapshot ID: `MCxiNzM1YzgwZTU0Yjc1ZGMwMWIzYzY3ZTI2YmNmMWI4NTgzYTk0YmFi`
+Snapshot ID: `MCwxMDEzNDBhMzNmODI0NDE0NzFhZjFlMDExM2JiYTY0MjRhYzQwYTNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1cAHI20k456593GCBNqzw6.md) - [plain]
 
 > an eclectic mix of new and old songs frequently updated  by Danger Mouse.
 
-[Danger Mouse](https://open.spotify.com/user/dangermouse_official) - 74,425 likes - 51 songs - 3 hr 16 min
+[Danger Mouse](https://open.spotify.com/user/dangermouse_official) - 74,438 likes - 51 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/1cAHI20k456593GCBNqzw6.md) - [plain]
 | 27 | [Mother of Pearl](https://open.spotify.com/track/1Ixa4ZLNWbaMsb6vLnzBKV) | [Scribble](https://open.spotify.com/artist/3Ib4CzrIzFgmCUuu0kqyH8) | [Selected Works 1983\-86](https://open.spotify.com/album/4r7cd3M3NpCUsrxuNdzTuB) | 8:02 |
 | 28 | [Para Mi Diablo](https://open.spotify.com/track/2CRAnKA5sCuzGtf9nuF330) | [Líneas](https://open.spotify.com/artist/0L3bHzp8a1ei4nWpUQFUNc) | [Pre\-Gamin'](https://open.spotify.com/album/5ZZlfPawx2w9OnRQ1aTBI0) | 2:06 |
 | 29 | [NIGHT WRITER](https://open.spotify.com/track/6tYHDM2QSh9tvUdTgH9z6r) | [Hus KingPin](https://open.spotify.com/artist/4IBACd17ekILQx6xdtKxyI) | [THREESOME 4: DIRTY SECRETS](https://open.spotify.com/album/1kiLkxKr2j6ebFw49vmwNF) | 2:32 |
-| 30 | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB) | 2:35 |
+| 30 | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY) | [NappyHIGH](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB) | 2:35 |
 | 31 | [Murder Of A Teenage Life \- Album Version \(Edited\)](https://open.spotify.com/track/4ekjvkcLEEqFBfDUFKuPKe) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [TRUE MAGIC](https://open.spotify.com/album/0mBOkzLk7NGmCwO0FNUdQc) | 3:25 |
 | 32 | [All I](https://open.spotify.com/track/6BX8QaVr0tG1jUDUHgoPNN) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Jemini the Gifted One](https://open.spotify.com/artist/4UyhNzUvOoBzdjdvoZ9fng) | [Born Again](https://open.spotify.com/album/4bmktukrRl1YNvlDd2xQeh) | 3:22 |
 | 33 | [Kabhi](https://open.spotify.com/track/3etwqEJFys1FJhzVKvenHw) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Kabhi](https://open.spotify.com/album/6gEiZwKKFyQim4GQ7fVJdb) | 2:34 |

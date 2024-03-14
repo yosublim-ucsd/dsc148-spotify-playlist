@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Yulia Niko",
-  "num_followers": 468783,
+  "num_followers": 468868,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGIzY2E0ZThjMmZjYjBkYWQxMzQ3OWMwMDRmMjkyZThlOTdkNGNj",
+  "snapshot_id": "MCxjODZmMzEyODA5MzQ3ZjlhZjU4NDM3ZTM0YTU1NjRkMjI2ZDViYTE1",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Leave The World Behind (L'Esperanza)",
-        "url": "https://open.spotify.com/album/13f2jmZJ5yDLFicA2nOPxE"
-      },
-      "artists": [
-        {
-          "name": "AVA CROWN",
-          "url": "https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 157069,
-      "name": "Leave The World Behind (L'Esperanza)",
-      "url": "https://open.spotify.com/track/0LfaCcUnwFsfeOctUbzUCO"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Bad Cop",
         "url": "https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 140575,
       "name": "Bad Cop",
       "url": "https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Leave The World Behind (L'Esperanza)",
+        "url": "https://open.spotify.com/album/13f2jmZJ5yDLFicA2nOPxE"
+      },
+      "artists": [
+        {
+          "name": "AVA CROWN",
+          "url": "https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 157069,
+      "name": "Leave The World Behind (L'Esperanza)",
+      "url": "https://open.spotify.com/track/0LfaCcUnwFsfeOctUbzUCO"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Big Man",
-        "url": "https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp"
-      },
-      "artists": [
-        {
-          "name": "ERBES",
-          "url": "https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk"
-        },
-        {
-          "name": "Blunts & Blondes",
-          "url": "https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3"
-        }
-      ],
-      "duration_ms": 168495,
-      "name": "Big Man",
-      "url": "https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Where R U Now?",
         "url": "https://open.spotify.com/album/4MjxW1a58loQAR90I7x9dd"
       },
@@ -799,6 +779,26 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Big Man",
+        "url": "https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp"
+      },
+      "artists": [
+        {
+          "name": "ERBES",
+          "url": "https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk"
+        },
+        {
+          "name": "Blunts & Blondes",
+          "url": "https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3"
+        }
+      ],
+      "duration_ms": 168495,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3"
       },
@@ -811,58 +811,6 @@
       "duration_ms": 160815,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "sir princess bad bitch",
-        "url": "https://open.spotify.com/album/5TLxrw1u2URpN6ayHrD3Nw"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 158644,
-      "name": "sir princess bad bitch",
-      "url": "https://open.spotify.com/track/1TwbcQGYt9wwc7nbqVF9pL"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "In Touch (Remixes)",
-        "url": "https://open.spotify.com/album/5Cn0BndceHul8eUcjzKyUO"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 235111,
-      "name": "Without U (jigitz Remix)",
-      "url": "https://open.spotify.com/track/0ZAH2VBLQdKNHrTgQywLEw"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Friday Lake",
-        "url": "https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Friday Lake",
-      "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -887,6 +835,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "sir princess bad bitch",
+        "url": "https://open.spotify.com/album/5TLxrw1u2URpN6ayHrD3Nw"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 158644,
+      "name": "sir princess bad bitch",
+      "url": "https://open.spotify.com/track/1TwbcQGYt9wwc7nbqVF9pL"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Say It Like You Mean It (feat. Olivia Ray)",
         "url": "https://open.spotify.com/album/1h1dauZNyr2eMj0nvr08Qk"
       },
@@ -907,6 +871,42 @@
       "duration_ms": 222400,
       "name": "Say It Like You Mean It (feat. Olivia Ray)",
       "url": "https://open.spotify.com/track/23IQCi0cYPApCxGN66VufO"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Friday Lake",
+        "url": "https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Friday Lake",
+      "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "In Touch (Remixes)",
+        "url": "https://open.spotify.com/album/5Cn0BndceHul8eUcjzKyUO"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 235111,
+      "name": "Without U (jigitz Remix)",
+      "url": "https://open.spotify.com/track/0ZAH2VBLQdKNHrTgQywLEw"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "HYPER",
-        "url": "https://open.spotify.com/album/2VC2ycx9xw51qASmAQzKmZ"
+        "name": "Y ARE (134 INTRO)",
+        "url": "https://open.spotify.com/album/4i6iFPnEWL7MwYjOUlqcvk"
       },
       "artists": [
         {
-          "name": "RAC",
-          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
-        },
-        {
-          "name": "Oshi",
-          "url": "https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs"
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
         }
       ],
-      "duration_ms": 150893,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3D7K6vI08zlTovg4mDu9yz"
+      "duration_ms": 157699,
+      "name": "Y ARE (134 INTRO)",
+      "url": "https://open.spotify.com/track/0e0EsMuuznpTcXOeoqHp7T"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1251,18 +1247,42 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Y ARE (134 INTRO)",
-        "url": "https://open.spotify.com/album/4i6iFPnEWL7MwYjOUlqcvk"
+        "name": "HYPER",
+        "url": "https://open.spotify.com/album/2VC2ycx9xw51qASmAQzKmZ"
       },
       "artists": [
         {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        },
+        {
+          "name": "Oshi",
+          "url": "https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs"
         }
       ],
-      "duration_ms": 157699,
-      "name": "Y ARE (134 INTRO)",
-      "url": "https://open.spotify.com/track/0e0EsMuuznpTcXOeoqHp7T"
+      "duration_ms": 150893,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3D7K6vI08zlTovg4mDu9yz"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4Ch2r1VGfR8x2uaznYAnlr"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Oomloud",
+          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/2YmJ7GSvltpviGIIatXcZB"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1287,22 +1307,38 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/4Ch2r1VGfR8x2uaznYAnlr"
+        "name": "Back Again",
+        "url": "https://open.spotify.com/album/11qCeNOwkYtNUZiJq4mqPy"
       },
       "artists": [
         {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
         },
         {
-          "name": "Oomloud",
-          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
         }
       ],
-      "duration_ms": 169687,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/2YmJ7GSvltpviGIIatXcZB"
+      "duration_ms": 175151,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/2rZCirycRAokqUr4g1kygx"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Seule",
+        "url": "https://open.spotify.com/album/6DkSmqXtp0yxWGn8Q2UwjB"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Seule",
+      "url": "https://open.spotify.com/track/2riSojmIoyk6bJvmTv5sIE"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1331,42 +1367,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Retro",
-        "url": "https://open.spotify.com/album/2WUlDCze8hji5uFeNazO5b"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vangelis & Wyman",
-          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
-        }
-      ],
-      "duration_ms": 148242,
-      "name": "Retro",
-      "url": "https://open.spotify.com/track/7ASHxvqrvcij5iFoG3PBJ5"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Back Again",
-        "url": "https://open.spotify.com/album/11qCeNOwkYtNUZiJq4mqPy"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        }
-      ],
-      "duration_ms": 175151,
-      "name": "Back Again",
-      "url": "https://open.spotify.com/track/2rZCirycRAokqUr4g1kygx"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Strange Motions",
         "url": "https://open.spotify.com/album/7KtRO9Htcv5RWIYYDcxlNm"
       },
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Seule",
-        "url": "https://open.spotify.com/album/6DkSmqXtp0yxWGn8Q2UwjB"
+        "name": "Retro",
+        "url": "https://open.spotify.com/album/2WUlDCze8hji5uFeNazO5b"
       },
       "artists": [
         {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Seule",
-      "url": "https://open.spotify.com/track/2riSojmIoyk6bJvmTv5sIE"
+      "duration_ms": 148242,
+      "name": "Retro",
+      "url": "https://open.spotify.com/track/7ASHxvqrvcij5iFoG3PBJ5"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "That's Right (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/2GvpxIFBpYtGMnadRLaugs"
-      },
-      "artists": [
-        {
-          "name": "Dirty Audio",
-          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "That's Right (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/6XbjAo4rXztT86IaABdBb4"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Make A Way",
         "url": "https://open.spotify.com/album/2NTdip5ayyfxdcxRJCwUyl"
       },
@@ -1519,26 +1499,6 @@
       "duration_ms": 191250,
       "name": "Make A Way",
       "url": "https://open.spotify.com/track/1slOgDzcJxTaOp9c9rAcgj"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Going Down (feat. David Vance)",
-        "url": "https://open.spotify.com/album/1I3X1A5rZY4uYaV9JTI4tg"
-      },
-      "artists": [
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        },
-        {
-          "name": "David Vance",
-          "url": "https://open.spotify.com/artist/0TDirtcNWYDxsAEixJy2bB"
-        }
-      ],
-      "duration_ms": 215364,
-      "name": "Going Down (feat. David Vance)",
-      "url": "https://open.spotify.com/track/1d20LZIqK8JxYksxyMEGai"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1579,18 +1539,42 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189"
+        "name": "Going Down (feat. David Vance)",
+        "url": "https://open.spotify.com/album/1I3X1A5rZY4uYaV9JTI4tg"
       },
       "artists": [
         {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "David Vance",
+          "url": "https://open.spotify.com/artist/0TDirtcNWYDxsAEixJy2bB"
         }
       ],
-      "duration_ms": 341124,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv"
+      "duration_ms": 215364,
+      "name": "Going Down (feat. David Vance)",
+      "url": "https://open.spotify.com/track/1d20LZIqK8JxYksxyMEGai"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "That's Right (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/2GvpxIFBpYtGMnadRLaugs"
+      },
+      "artists": [
+        {
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "That's Right (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/6XbjAo4rXztT86IaABdBb4"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 341124,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/6S94XID8xfA2zAc9D7zrep"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 139299,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3F8X2dfnHRYPY1MVMGmQHL"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Good Time / So High (You Get Me)",
+        "url": "https://open.spotify.com/album/0uhxOD0lit7bsUE1BQFwey"
+      },
+      "artists": [
+        {
+          "name": "Avision",
+          "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/1jm4IAFkPTpenVwLSURpIG"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 149655,
       "name": "GLITTER",
       "url": "https://open.spotify.com/track/6mkiZr4Oj5yAOniH7xzqcS"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Good Time / So High (You Get Me)",
-        "url": "https://open.spotify.com/album/0uhxOD0lit7bsUE1BQFwey"
-      },
-      "artists": [
-        {
-          "name": "Avision",
-          "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/1jm4IAFkPTpenVwLSURpIG"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1735,22 +1735,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Wait For The Drop",
-        "url": "https://open.spotify.com/album/1TLclb9gc0pMUgSjiCiuCc"
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/5R8jLYuFWZuBkwSfRIBQmw"
       },
       "artists": [
         {
-          "name": "Justin Jay",
-          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
-        },
-        {
-          "name": "Bayer & Waits",
-          "url": "https://open.spotify.com/artist/4LxDwZT1giWKjg3sHqfSiS"
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
         }
       ],
-      "duration_ms": 180018,
-      "name": "Wait For The Drop - VIP Edit",
-      "url": "https://open.spotify.com/track/5uvI0luawv5HFWSivNzsqM"
+      "duration_ms": 271886,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1771,18 +1767,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/5R8jLYuFWZuBkwSfRIBQmw"
+        "name": "Wait For The Drop",
+        "url": "https://open.spotify.com/album/1TLclb9gc0pMUgSjiCiuCc"
       },
       "artists": [
         {
-          "name": "X-COAST",
-          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+          "name": "Justin Jay",
+          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
+        },
+        {
+          "name": "Bayer & Waits",
+          "url": "https://open.spotify.com/artist/4LxDwZT1giWKjg3sHqfSiS"
         }
       ],
-      "duration_ms": 271886,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns"
+      "duration_ms": 180018,
+      "name": "Wait For The Drop - VIP Edit",
+      "url": "https://open.spotify.com/track/5uvI0luawv5HFWSivNzsqM"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Yo Yo Get Funky (Andre Zimmer Remix)",
-        "url": "https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY"
-      },
-      "artists": [
-        {
-          "name": "Fast Eddie",
-          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
-        },
-        {
-          "name": "Andre Zimmer",
-          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Yo Yo Get Funky - Andre Zimmer Remix",
-      "url": "https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Now You Know",
         "url": "https://open.spotify.com/album/3DPfNlMFsLFi51VHP5lvwH"
       },
@@ -2031,18 +2011,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Bring The Action",
-        "url": "https://open.spotify.com/album/3Is4RYx6tTGJZgxLLIQda7"
+        "name": "Yo Yo Get Funky (Andre Zimmer Remix)",
+        "url": "https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY"
       },
       "artists": [
         {
-          "name": "Rello",
-          "url": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
+        },
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
         }
       ],
-      "duration_ms": 330000,
-      "name": "Bring The Action",
-      "url": "https://open.spotify.com/track/69kvxgM6Tp6YmqyuT582ja"
+      "duration_ms": 210000,
+      "name": "Yo Yo Get Funky - Andre Zimmer Remix",
+      "url": "https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2059,6 +2043,22 @@
       "duration_ms": 161904,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/7uR6aQM7BDJZgMbeTTRNHg"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Bring The Action",
+        "url": "https://open.spotify.com/album/3Is4RYx6tTGJZgxLLIQda7"
+      },
+      "artists": [
+        {
+          "name": "Rello",
+          "url": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Bring The Action",
+      "url": "https://open.spotify.com/track/69kvxgM6Tp6YmqyuT582ja"
     },
     {
       "added_at": "2024-03-08 05:01:00",

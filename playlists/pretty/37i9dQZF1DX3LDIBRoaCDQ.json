@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1559233,
+  "num_followers": 1559464,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjBjZGU5YThhYjlkYTYzNDY4NDI1M2QwZmUyZDE0ZGViMWU1NjQ1",
+  "snapshot_id": "MCxkNmM3OWM4ZTc3MDY4NjE3ODQ4ZTRiY2M3YmM5MmQxODgwNzhhNDVk",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Add It Up",
-      "url": "https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 205173,
       "name": "Redondo Beach",
       "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Add It Up",
+      "url": "https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Salad Days",
         "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 166120,
       "name": "Salad Days",
       "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Pink Flag (2006 Remastered Version)",
+        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
+      },
+      "artists": [
+        {
+          "name": "Wire",
+          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+        }
+      ],
+      "duration_ms": 139693,
+      "name": "Ex Lion Tamer - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Zen Arcade",
         "url": "https://open.spotify.com/album/0J1DP5GvKrzWumwzlcFhLc"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Pink Flag (2006 Remastered Version)",
-        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
-      },
-      "artists": [
-        {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
-        }
-      ],
-      "duration_ms": 139693,
-      "name": "Ex Lion Tamer - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "A Collection of Pop Classics",
         "url": "https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 94440,
       "name": "No Class",
       "url": "https://open.spotify.com/track/4sw9hGICgvc4LICICNTCzI"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
-        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 312040,
-      "name": "Lust For Life",
-      "url": "https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC"
     },
     {
       "added_at": "2024-01-11 00:51:37",
@@ -1295,6 +1279,22 @@
       "duration_ms": 145506,
       "name": "Identity",
       "url": "https://open.spotify.com/track/0vlD6vTcdjXOt2eBwBFhRm"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
+        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 312040,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/7zkGSISikPcskwsVQ5vKqW"
     },
     {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Fresh Fruit for Rotting Vegetables",
-        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
-    },
-    {
       "added_at": "2024-01-11 00:51:37",
       "album": {
         "name": "Leave Home (40th Anniversary Deluxe Edition)",
@@ -1423,6 +1407,22 @@
       "duration_ms": 104733,
       "name": "Gimme Gimme Shock Treatment - 2017 Remaster",
       "url": "https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Complete Collection",
-        "url": "https://open.spotify.com/album/15WcdixGcfsTud49iJObyb"
-      },
-      "artists": [
-        {
-          "name": "Sham 69",
-          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Hurry Up Harry",
-      "url": "https://open.spotify.com/track/4RybzcdR9VBwRgmGexXNMO"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Anthology 1965-1971",
         "url": "https://open.spotify.com/album/6dQ1UaaiYqkubZz0QscTfG"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 183823,
       "name": "Kick Out The Jams (Original Uncensored Version)",
       "url": "https://open.spotify.com/track/5mSZLysuAtdNA21mbOm0sx"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Complete Collection",
+        "url": "https://open.spotify.com/album/15WcdixGcfsTud49iJObyb"
+      },
+      "artists": [
+        {
+          "name": "Sham 69",
+          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Hurry Up Harry",
+      "url": "https://open.spotify.com/track/4RybzcdR9VBwRgmGexXNMO"
     },
     {
       "added_at": "2022-11-28 15:26:19",

@@ -4,7 +4,7 @@
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-96 songs - 7 hr 58 min
+97 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Aasmaan Ke Paar](https://open.spotify.com/track/1wYJfvpYirtoh4fsc7Bo6n) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 6:15 | 2022-04-11 | 2022-12-15 |
 | [Ab Ke Saawan](https://open.spotify.com/track/3f6lUIjrM4b5jOjKmwcPK5) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Ab Ke Sawan](https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv) | 4:29 | 2022-04-11 |  |
 | [Ab Mujhe Raat Din](https://open.spotify.com/track/4y5mqhrI0tdYI4M3EFluxP) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:25 | 2022-12-14 |  |
-| [Afreen Afreen](https://open.spotify.com/track/2hGJkkAaI7GsfktrIhz8yg) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Sangam And Salaam](https://open.spotify.com/album/55jlS2B7OrgAPFdMxgiiNB) | 5:48 | 2022-12-14 |  |
+| [Afreen Afreen](https://open.spotify.com/track/2hGJkkAaI7GsfktrIhz8yg) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Sangam And Salaam](https://open.spotify.com/album/55jlS2B7OrgAPFdMxgiiNB) | 5:48 | 2022-12-14 | 2024-03-14 |
+| [Afreen Afreen \- Dance Mix](https://open.spotify.com/track/4WqBHzqGq7AlWsFRg6Iokz) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Nusrat & Rahat Fateh Ali Khan and Other Hits](https://open.spotify.com/album/5p085cUF4HKBFMAXDEZUhl) | 5:47 | 2024-02-06 |  |
 | [Ahista](https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 7:13 | 2023-01-19 |  |
 | [Ahista](https://open.spotify.com/track/3GIxNehfNB1vsDCTWBoGiU) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Stolen Moments](https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9) | 7:14 | 2022-12-14 | 2023-01-28 |
 | [Angel Eyes](https://open.spotify.com/track/5AlFchdmHoeRBg6MzgfaY5) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Frankey Maxx](https://open.spotify.com/artist/3SEDKbLCS18fjSBfWkIaHN), [Jucxi](https://open.spotify.com/artist/0rPwsOLH34fDTOsSfuxVt7) | [Storyteller](https://open.spotify.com/album/4H0jJJPERIedtxoC1mAvlB) | 4:11 | 2022-06-01 | 2023-10-13 |

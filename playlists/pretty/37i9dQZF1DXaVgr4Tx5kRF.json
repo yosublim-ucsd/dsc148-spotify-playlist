@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 641633,
+  "num_followers": 641675,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWE5Nzg5NDBkYTI0YWY4ZDJjOGQ0ZTZiYTQ5ZDJiY2I0NTVlNjdj",
+  "snapshot_id": "MCw3MjY2ZTRlN2RiOThkYjRmODYwZWFkZGQ4ZDg2ZDAwNGVmMmE4OTlm",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Let It Ride",
-        "url": "https://open.spotify.com/album/6CET3JYJyXlmfVLLQx2XeG"
-      },
-      "artists": [
-        {
-          "name": "Shed Seven",
-          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "Chasing Rainbows",
-      "url": "https://open.spotify.com/track/4IFC2bM8SquqQYOu9tiQ8C"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Free Peace Sweet",
         "url": "https://open.spotify.com/album/2C5AMWVyaTWboPCe49JVnl"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 241306,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/6CET3JYJyXlmfVLLQx2XeG"
+      },
+      "artists": [
+        {
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/4IFC2bM8SquqQYOu9tiQ8C"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
+        "name": "Going For Gold",
+        "url": "https://open.spotify.com/album/4LtKB45GXvEsbZV9tKEEn3"
       },
       "artists": [
         {
-          "name": "Republica",
-          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
         }
       ],
-      "duration_ms": 301533,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
+      "duration_ms": 265493,
+      "name": "Going For Gold",
+      "url": "https://open.spotify.com/track/5TBXjIlpKHlVrUVwlpY5e5"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Going For Gold",
-        "url": "https://open.spotify.com/album/4LtKB45GXvEsbZV9tKEEn3"
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
       },
       "artists": [
         {
-          "name": "Shed Seven",
-          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+          "name": "Republica",
+          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
         }
       ],
-      "duration_ms": 265493,
-      "name": "Going For Gold",
-      "url": "https://open.spotify.com/track/5TBXjIlpKHlVrUVwlpY5e5"
+      "duration_ms": 301533,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "K",
-        "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
-      },
-      "artists": [
-        {
-          "name": "Kula Shaker",
-          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Tattva",
-      "url": "https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "In It for the Money",
         "url": "https://open.spotify.com/album/020brgMKGgdPSYjcVNypql"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 192960,
       "name": "Richard III",
       "url": "https://open.spotify.com/track/09rr4TfhpyF6tmaoSt3j4T"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "K",
+        "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Tattva",
+      "url": "https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS"
     },
     {
       "added_at": "2022-05-04 17:11:49",

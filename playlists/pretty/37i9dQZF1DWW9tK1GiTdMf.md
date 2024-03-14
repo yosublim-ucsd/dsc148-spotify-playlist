@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Giuze in cover\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,025 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,031 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 84 | [paranoie lowcost](https://open.spotify.com/track/4c7Uw6OhH5tYKw6W2LluQk) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC) | [paranoie lowcost](https://open.spotify.com/album/5NmfFLvPPXmX8VICqOruf0) | 3:32 |
 | 85 | [ANIME // LACRIME](https://open.spotify.com/track/2uXMhura9A8WAQ6hJhwWVb) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb) | [ANIME // LACRIME](https://open.spotify.com/album/0nNR2YC1WWGwxjd4X4KbJU) | 2:58 |
 
-Snapshot ID: `MCwzZjA0NGUyMTI2MGQ0OGE1MTk4ODc1MGE1NzEyZDY3Njg0MzEwYTgw`
+Snapshot ID: `MCxlMjUxZDU3N2YwYjM3OTM4NjNhNTI0NmNjYTVkNWJjZmYzZDZhNmVl`

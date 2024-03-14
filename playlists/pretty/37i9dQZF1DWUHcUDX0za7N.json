@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=VyqnYnQyQlistMqVsba7Ww\"> Prettyboy D-O</a>",
-  "num_followers": 44672,
+  "num_followers": 44726,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzQ4OWViMTEwY2FmODU0MWRkNWJiOWFmZTc4YjRiN2FhYmFhN2Yy",
+  "snapshot_id": "MCxkZWJlY2Q3MjNlNWQzNTJjZGRiMzk4Yjc3MWY3M2IyOGMyMTc5NDgx",
   "tracks": [
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
+        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "My Bro",
+      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
         "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) [Remix]",
         "url": "https://open.spotify.com/album/5yK3V1kXjfB70UKbXNXsnx"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 206197,
       "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) - Remix",
       "url": "https://open.spotify.com/track/3qpiO6n5HBMubcdCQyqKiv"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
-        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "My Bro",
-      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
     }
   ],
   "unique_name": "Naija Bars ",

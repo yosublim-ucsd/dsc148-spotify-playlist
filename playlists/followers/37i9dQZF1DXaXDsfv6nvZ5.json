@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 759912,
+  "2024-03-14": 759945,
   "date_first_scraped": "2021-12-21",
   "description": "The soulful tunes to ease you into your day.",
   "name": "Soul Coffee",
@@ -167,6 +167,24 @@
       "duration_ms": 151266,
       "name": "311 (with Gwen Bunn)",
       "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
+    },
+    {
+      "album": {
+        "name": "614",
+        "url": "https://open.spotify.com/album/2uf8Of0BwZtWUA9GMAjszQ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199993,
+      "name": "614",
+      "url": "https://open.spotify.com/track/0rvSQxrzazqTD4zyiiuCXp"
     },
     {
       "album": {
@@ -2759,7 +2777,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 206396,
       "name": "Go",
       "url": "https://open.spotify.com/track/16fk8mDsDkxHMRRg2A4xvL"

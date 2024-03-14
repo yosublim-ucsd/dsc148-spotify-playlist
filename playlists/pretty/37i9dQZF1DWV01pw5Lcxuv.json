@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con mam\u00e1 la era dorada de los 80's.  ",
-  "num_followers": 596833,
+  "num_followers": 596916,
   "original_name": "Mam\u00e1 80era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWU1YjE2ZWNhOWM1MDAwNTBmMmNiNDBiY2Q0MjhlM2MzYmIxZDFh",
+  "snapshot_id": "MCwyNjAyMjg0NzNlMGMzNjJkZjE2ZGIyZWIyZmM4MWMyNWI4OThlNzlm",
   "tracks": [
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "She Works Hard For The Money",
-        "url": "https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 320840,
-      "name": "She Works Hard For The Money",
-      "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Gracias Por La Musica (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 333133,
       "name": "Chiquitita - Spanish Version",
       "url": "https://open.spotify.com/track/0Fuc8WMl8xSXjb8d4M6Xqo"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "She Works Hard For The Money",
+        "url": "https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 320840,
+      "name": "She Works Hard For The Money",
+      "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "The Works (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "I Want To Break Free - Remastered 2011",
-      "url": "https://open.spotify.com/track/6NAEpcvbmNdT0cWP3LFDcY"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Daniela Romo",
         "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "\u00bfD\u00f3nde Est\u00e1 el Pais de las Hadas? (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/395Ts8cMrWtmDHxrlYcTxz"
+        "name": "The Works (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 201186,
-      "name": "Barco a Venus",
-      "url": "https://open.spotify.com/track/11glwadtd8zwDamSDOX5cJ"
+      "duration_ms": 198773,
+      "name": "I Want To Break Free - Remastered 2011",
+      "url": "https://open.spotify.com/track/6NAEpcvbmNdT0cWP3LFDcY"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1211,18 +1195,34 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/5USIGMpaa5GvxLtwyK3LpR"
+        "name": "\u00bfD\u00f3nde Est\u00e1 el Pais de las Hadas? (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/395Ts8cMrWtmDHxrlYcTxz"
       },
       "artists": [
         {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 128560,
-      "name": "Amor Primero",
-      "url": "https://open.spotify.com/track/6SPr50YRsnKPrb5UnJ9VTA"
+      "duration_ms": 201186,
+      "name": "Barco a Venus",
+      "url": "https://open.spotify.com/track/11glwadtd8zwDamSDOX5cJ"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Un Toque De Misterio",
+        "url": "https://open.spotify.com/album/7xpuQcTsD5qYl4kOJkhVPi"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Me Va A Extranar",
+      "url": "https://open.spotify.com/track/0RWbbc4NCcd33aU9tQnaZA"
     }
   ],
   "unique_name": "Mam\u00e1 80era",

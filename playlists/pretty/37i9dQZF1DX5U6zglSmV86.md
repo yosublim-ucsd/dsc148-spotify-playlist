@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra alma mater es la calle\. El Makabelico en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,827 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,864 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 |
-| 2 | [Glopeta Negro Mate](https://open.spotify.com/track/66Yu3bkomkikDlnYaT2Hkb) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c) | [Glopeta Negro Mate](https://open.spotify.com/album/6y2ienRWYtxjOr39PrgcK5) | 2:35 |
+| 2 | [Glopeta Negro Mate](https://open.spotify.com/track/66Yu3bkomkikDlnYaT2Hkb) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Glopeta Negro Mate](https://open.spotify.com/album/6y2ienRWYtxjOr39PrgcK5) | 2:35 |
 | 3 | [Para El Jesse 1 \(La Escalade\)](https://open.spotify.com/track/5F10MiltUwhGHz5L891BXA) | [El Borrado M](https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U) | [Para El Jesse 1 \(La Escalade\)](https://open.spotify.com/album/0S1IDWsAQ4gh6z66TFlcuG) | 3:35 |
 | 4 | [Niño Del Hood](https://open.spotify.com/track/0MZltIM3rONXeMQz7RowkA) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Niño Del Hood](https://open.spotify.com/album/4mUDP7Z8ewV7Uqv27VxWtR) | 2:43 |
 | 5 | [Silencio En El Callejon](https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Silencio En El Callejon](https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 99 | [Soy Un Malandrin](https://open.spotify.com/track/1T6iGIGjkE6FEmkC9QkCB7) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Soy Un Malandrin](https://open.spotify.com/album/0BsSKppeiHTt3HDGZe68V7) | 4:21 |
 | 100 | [El Patron Del Mal](https://open.spotify.com/track/1RECCwSp27WPhUhbWI1QLk) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [La Encomienda](https://open.spotify.com/album/3083B6DZOQS2VEQsKX1Vtk) | 4:11 |
 
-Snapshot ID: `MCwzYzFkOWM0ZTEwYzYyYjJiNjYzMzRiOWZlYzA2MjIyZmJhNWNjMDI5`
+Snapshot ID: `MCw1MWVmYjg2YjBiOTcyMTVjYWI2YzI3MDhkOTNmMTA1NWFlY2Q4MjZj`

@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 74365,
+  "2024-03-14": 74374,
   "date_first_scraped": "2023-03-18",
   "description": "A sonic wonderland of mesmerizing tunes...",
   "name": "Kaleidoscope",
@@ -1837,7 +1837,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 217500,
       "name": "Fight Club",
       "url": "https://open.spotify.com/track/5UupaLxMiJS0dk06AldUGH"
@@ -2982,6 +2982,24 @@
     },
     {
       "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218663,
+      "name": "Maquillada en la Cama",
+      "url": "https://open.spotify.com/track/0MZ4gakE7VEeCaEZ9mVjZy"
+    },
+    {
+      "album": {
         "name": "Caribbean All-Inclusive Luxury",
         "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
       },
@@ -3585,6 +3603,28 @@
       "duration_ms": 203893,
       "name": "Once then we'll be free",
       "url": "https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ"
+    },
+    {
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/5jOHqXd7PiTNFNUldYw4mZ"
+      },
+      "artists": [
+        {
+          "name": "Tutara Peak",
+          "url": "https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX"
+        },
+        {
+          "name": "Winifred",
+          "url": "https://open.spotify.com/artist/0nrIAg6pctHbjP3FyKOvgM"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227549,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/4H9eNA7gDy6VmV06LeC2s4"
     },
     {
       "album": {
@@ -5271,7 +5311,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 165557,
       "name": "violeta",
       "url": "https://open.spotify.com/track/1bPR1P5FjnoPPW5c238VUA"

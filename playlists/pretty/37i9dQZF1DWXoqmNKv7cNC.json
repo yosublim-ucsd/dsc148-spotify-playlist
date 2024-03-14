@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas a todo volumen! ",
-  "num_followers": 101974,
+  "num_followers": 102572,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGJhMjYzMGZmOTMwZTc4YWRmYTAzMWMyZTA3N2FmZDZmOWQ0YTFl",
+  "snapshot_id": "MCxlMGE2ZTJiMWM5NmFiNzgwOWNhMGExODE4NmIxMGRjYzNkNTc1NWJj",
   "tracks": [
     {
       "added_at": "2024-03-11 19:58:35",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 225923,
       "name": "No Puedo Olvidarte",
       "url": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "No Me Falta Na'",
-        "url": "https://open.spotify.com/album/6JvcaaIXNkdXvPdOBLeTs3"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 174046,
-      "name": "No Me Falta Na'",
-      "url": "https://open.spotify.com/track/3ORskcpezmhpJJNHeTrnHs"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
         "name": "Me Da Igual",
         "url": "https://open.spotify.com/album/22J47RhJw1dOtPOG9kdyY2"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 149252,
       "name": "Me Da Igual",
       "url": "https://open.spotify.com/track/5pHF7d6LQ6xnufKwVDvolP"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "No Me Falta Na'",
+        "url": "https://open.spotify.com/album/6JvcaaIXNkdXvPdOBLeTs3"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 174046,
+      "name": "No Me Falta Na'",
+      "url": "https://open.spotify.com/track/3ORskcpezmhpJJNHeTrnHs"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -559,38 +559,6 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "Departamento",
-        "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
-      },
-      "artists": [
-        {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Departamento",
-      "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "EL FINAL",
-        "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 232283,
-      "name": "EL FINAL",
-      "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
         "name": "Fumar Beber",
         "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
       },
@@ -619,6 +587,38 @@
       "duration_ms": 194531,
       "name": "Fumar Beber",
       "url": "https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "EL FINAL",
+        "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 232283,
+      "name": "EL FINAL",
+      "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
+        "name": "Mala Suerte",
+        "url": "https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte"
+      },
+      "artists": [
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "duration_ms": 180312,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Mala Suerte",
-        "url": "https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte"
-      },
-      "artists": [
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
-        }
-      ],
-      "duration_ms": 180312,
-      "name": "Mala Suerte",
-      "url": "https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy"
     },
     {
       "added_at": "2024-03-11 19:58:35",

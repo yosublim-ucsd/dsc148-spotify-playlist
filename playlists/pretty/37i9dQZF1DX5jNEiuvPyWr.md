@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : mademoiselle lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,008 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,033 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 3 | [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 |
 | 4 | [DANS L'TRAP](https://open.spotify.com/track/374qdqFUlA7IwLSuC23WQE) | [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [DANS L'TRAP](https://open.spotify.com/album/3R96xzeG9JkMeeWBy1k626) | 2:51 |
 | 5 | [AVANT TOI](https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:51 |
-| 6 | [Suspects](https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:29 |
+| 6 | [Suspects](https://open.spotify.com/track/6jOhtafCN3YPTJ1vL4HyLO) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [L'enfant de la pluie](https://open.spotify.com/album/7ppBSJ1F7MBfqRdHoPUipx) | 3:29 |
 | 7 | [BOTTEGA](https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB) | [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [23 \-](https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI) | 3:07 |
 | 8 | [Loin](https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma \(Extended\)](https://open.spotify.com/album/5Rx2hiXG1JTKJFIhjkitd2) | 3:13 |
 | 9 | [Parler tout bas](https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Parler tout bas](https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc) | 3:21 |
 | 10 | [Geneva](https://open.spotify.com/track/0qfXETr4UazAeIbOzhsZJm) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Geneva](https://open.spotify.com/album/4u84K5dAcGP8ew41zNnqKu) | 2:48 |
 | 11 | [Décoller](https://open.spotify.com/track/4FNp7K8k1WXNIfMZL4sV6r) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Désolé, d'être moi.](https://open.spotify.com/album/1nsFtCQo2jmjJBoRqYYlS6) | 2:47 |
 | 12 | [Cicatrices](https://open.spotify.com/track/6EkySKKzlCoJrcNXE8sfhG) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [Cicatrices](https://open.spotify.com/album/6iou1JJdcUlbvNnUdmXuDR) | 2:41 |
-| 13 | [Perte de temps](https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:09 |
+| 13 | [Perte de temps](https://open.spotify.com/track/0d43G0wDcCtUvvYOMOF7O9) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [L'enfant de la pluie](https://open.spotify.com/album/7ppBSJ1F7MBfqRdHoPUipx) | 3:09 |
 | 14 | [zeppelin](https://open.spotify.com/track/72CrKgMTYBumZL48BUx6Y1) | [Sovajon](https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex), [yuo](https://open.spotify.com/artist/4pc342kOtT5KA7XDXBISsc) | [zeppelin](https://open.spotify.com/album/0XAHLS9hIoTUtRbWPSESj7) | 3:28 |
 | 15 | [Paro](https://open.spotify.com/track/3aOP50V0Wey9WpFrpYjfGO) | [HB VIZ](https://open.spotify.com/artist/2YvqH9hhReN1V77RTUxU8I) | [Paro](https://open.spotify.com/album/2SRZZ9c3XFunt6QV9oozbh) | 2:44 |
 | 16 | [AINSIFAITE](https://open.spotify.com/track/3vacN4Oe8Yn2eMHZBvKySP) | [Telam](https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON) | [AINSIFAITE](https://open.spotify.com/album/5dVQq8KcIzHLk2n080xABL) | 2:17 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [Huracán](https://open.spotify.com/track/4Ya7MdSv0pBinTTTYc8qgW) | [TRIPLEGO](https://open.spotify.com/artist/6cDxDe1MWGgUcNVVdxhCN2) | [Huracán](https://open.spotify.com/album/3QaBscX89yOeQckVdbEOX7) | 3:21 |
 | 40 | [Tranchées](https://open.spotify.com/track/3GbI95bOGncWZrb7rw3hd9) | [Giacomo](https://open.spotify.com/artist/7359RgrSfWHHVJIE0CuqVv), [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [Van Cleef](https://open.spotify.com/album/43zoP8neUAjDQRqtqver6C) | 2:23 |
 
-Snapshot ID: `MCxlOTZhMWEzNGY1ZWFiYTlhM2YzNjcyMTI0ZTlmMWE2YzM3YzE1Mzk3`
+Snapshot ID: `MCw3ZGQ5NzYzZjFiYzc2MDhhNjZiNmNkZWE2MjQ3MWFhMTczYTQ5ZWEz`

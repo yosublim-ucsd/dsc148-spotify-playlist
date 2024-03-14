@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 57219,
+  "num_followers": 57240,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTAyMDIxODNlMzFlNDQ1OTI2OWUxYTcyY2E4MzgxNDliYThkZTI3",
+  "snapshot_id": "MCxhODA3MTM2YTM5NGFlMDhkYzBjYTc2MWZjNTM5Y2ZlODcwZTBmNWM2",
   "tracks": [
     {
       "added_at": "2024-03-07 15:53:47",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
       },
       "artists": [
         {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
+      "duration_ms": 198620,
+      "name": "Flower Power",
+      "url": "https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Flower Power",
-      "url": "https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU"
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
+        "name": "Gitanas",
+        "url": "https://open.spotify.com/album/2S6OhCz266448hlUEzIduB"
+      },
+      "artists": [
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Gitanas",
+      "url": "https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y"
+    },
+    {
+      "added_at": "2024-03-07 15:53:47",
+      "album": {
         "name": "Canci\u00f3n Sin Miedo [Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol]",
         "url": "https://open.spotify.com/album/6cqEBK9aE4vDw2GcUV7h2F"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Gitanas",
-        "url": "https://open.spotify.com/album/2S6OhCz266448hlUEzIduB"
+        "name": "Volando en la nube",
+        "url": "https://open.spotify.com/album/2tqgFSQTNinupDQBPqNov9"
       },
       "artists": [
         {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
         }
       ],
-      "duration_ms": 190653,
-      "name": "Gitanas",
-      "url": "https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y"
+      "duration_ms": 191499,
+      "name": "Volando en la nube",
+      "url": "https://open.spotify.com/track/1H4MZgDsdMXwmIhsfZy4C2"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -787,22 +803,6 @@
       "duration_ms": 189778,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
-    },
-    {
-      "added_at": "2024-03-07 15:53:47",
-      "album": {
-        "name": "Volando en la nube",
-        "url": "https://open.spotify.com/album/2tqgFSQTNinupDQBPqNov9"
-      },
-      "artists": [
-        {
-          "name": "Catana",
-          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
-        }
-      ],
-      "duration_ms": 191499,
-      "name": "Volando en la nube",
-      "url": "https://open.spotify.com/track/1H4MZgDsdMXwmIhsfZy4C2"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "SE BUSCA",
-        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2024-03-07 15:53:47",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+    },
+    {
+      "added_at": "2024-03-07 15:53:47",
+      "album": {
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
     },
     {
       "added_at": "2024-03-07 15:53:47",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-03-07 15:53:47",
       "album": {
-        "name": "Mi Fuerza Es Tuya",
-        "url": "https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W"
-      },
-      "artists": [
-        {
-          "name": "Thelma Fardin",
-          "url": "https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl"
-        },
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 245441,
-      "name": "Mi Fuerza Es Tuya",
-      "url": "https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga"
-    },
-    {
-      "added_at": "2024-03-07 15:53:47",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 153061,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4"
+    },
+    {
+      "added_at": "2024-03-07 15:53:47",
+      "album": {
+        "name": "Mi Fuerza Es Tuya",
+        "url": "https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W"
+      },
+      "artists": [
+        {
+          "name": "Thelma Fardin",
+          "url": "https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl"
+        },
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 245441,
+      "name": "Mi Fuerza Es Tuya",
+      "url": "https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga"
     },
     {
       "added_at": "2024-03-07 15:53:47",

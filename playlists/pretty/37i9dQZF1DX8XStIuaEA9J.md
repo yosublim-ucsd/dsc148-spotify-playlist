@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Kvi Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,422 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,490 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 18 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
 | 19 | [もう1回！](https://open.spotify.com/track/3w2hwPP631R8uapYYbGRlg) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [ずま](https://open.spotify.com/artist/4ydCwGG3WBCDmk5dNsSHDM) | [もう1回！](https://open.spotify.com/album/43TGDdqBe4uN4fU3WXPVLp) | 2:58 |
 | 20 | [I LOVE ME!](https://open.spotify.com/track/0gOtVv1eQGRMDHmYhTGGb9) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [I LOVE ME!](https://open.spotify.com/album/3U5kiFrgkzdiUM4VOZf2Qb) | 3:19 |
-| 21 | [好きでした。](https://open.spotify.com/track/588cVGxOSFqg8HnlGE6IDI) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/3idoCaumlMNXdS1suAEnpH) | 4:10 |
+| 21 | [Sukideshita.](https://open.spotify.com/track/458E7acH1K8c5wx8AYAnVi) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/7kmoVx9z1qTqZSN4B4svCJ) | 4:10 |
 | 22 | [Yell](https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Yell](https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav) | 3:23 |
 | 23 | [You Be the Grandpa and I Be the Grandma](https://open.spotify.com/track/0TRR29A1f4tHNI6cDdlYCv) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [Hibi AiAi](https://open.spotify.com/album/49yagUf1DBt4S2S72EBGWP) | 3:41 |
 | 24 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 34 | [教室に青](https://open.spotify.com/track/0EnqV0oMuuXwiAgEz0wtfY) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ほろはにヶ丘高校 \-Originals\-](https://open.spotify.com/album/6WxkjAC5mcyvbVskxSioMy) | 4:09 |
 | 35 | [LEGIT](https://open.spotify.com/track/6xPQsaC2UCY49vb7fZZURz) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [MATCH UP](https://open.spotify.com/album/7xUrbdyZf1Vky1E8vXbeqW) | 3:34 |
 | 36 | [iPhone feat\. Skaai](https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [iPhone feat\. Skaai](https://open.spotify.com/album/4TVblZTOgvpzp9f5WAEwmM) | 2:55 |
-| 37 | [Neon \- Fully Active Ver.](https://open.spotify.com/track/5N4M51oo4pop3zpB8LWIMI) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [Neon \(Fully Active Ver.\)](https://open.spotify.com/album/1yREloSCNLtuwONK55o90w) | 4:43 |
+| 37 | [Neon \- Fully Active Ver.](https://open.spotify.com/track/15FP3rWLIaHSUYK9ueTVZ2) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [Neon \(Fully Active Ver.\)](https://open.spotify.com/album/4Nh33dLPawNhBASd2Q6L0p) | 4:43 |
 | 38 | [BINBO](https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BINBO](https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai) | 2:18 |
 | 39 | [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 |
 | 40 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 |
 | 60 | [キラッテラッテ](https://open.spotify.com/track/2Ugyo7kjFFli9gHf9KfK5A) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [キラッテラッテ](https://open.spotify.com/album/4L3xxw1jTt0q2QfMG5WfLv) | 3:08 |
 
-Snapshot ID: `MCw2NzMzMjc5MGRlYWYxNjhkY2E5NDI5ZDc5M2RkNjhhM2Q1OTU0YzQz`
+Snapshot ID: `MCw5ZjAwZjFkZTkzMDJiYWJhZjYwMTk0N2Y0ZWVjNjk5YjQ0ZmQwOTFi`

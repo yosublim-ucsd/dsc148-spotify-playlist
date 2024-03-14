@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,605 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,622 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -693,7 +693,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 683 | [Bossa Cubana](https://open.spotify.com/track/0DNrFH6lQPMQ2YdrRpRAC8) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [Story](https://open.spotify.com/album/2WZUd4S0QY6RkChUt0tumA) | 2:35 |
 | 684 | [Üsküdara Giderken](https://open.spotify.com/track/45XWkOHMgKsrSXj81yiOcn) | [Mustafa Özkent](https://open.spotify.com/artist/7AIG5iIr8bQomw1pGrwZZ4) | [Mustafa Özkent Ve Orkestrası Gençlik İle El Ele](https://open.spotify.com/album/3bnqPaNk1lbje5XwhZuPwz) | 2:02 |
 | 685 | [Egypt Strut](https://open.spotify.com/track/7IRDObySzzj0nd5ZyufbVm) | [Salah Ragab](https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq), [The Cairo Jazz Band](https://open.spotify.com/artist/0tFxRtUBDrWSRcHp9FwCCe) | [Egyptian Jazz](https://open.spotify.com/album/2qCSIYhyOQ8LJ8Dwc8Cmu0) | 4:55 |
-| 686 | [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 |
+| 686 | [Pal' 23](https://open.spotify.com/track/3qAEfl5f8OSjqOk2UW1JtA) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Centenario de Salsa](https://open.spotify.com/album/16QVFqa4EAhXxsWgYGTFac) | 3:14 |
 | 687 | [Bal](https://open.spotify.com/track/6k5V1UHTZoaQ5ULkIEYACx) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Dost 2](https://open.spotify.com/album/4AqNq8liYqYhoOKBHbUsZu) | 5:12 |
 | 688 | [Put Yourself in My Place](https://open.spotify.com/track/0IxYQuPU4gqR4mBgGMjrEN) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:37 |
 | 689 | [Marieta](https://open.spotify.com/track/530CFqFZ0pdUp5cU0yZULv) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI) | 5:55 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxjNmYzZjUwODlkZTAzMWU2OTMwZGE1ZTg2MTI2ZDUyYmZhZTM0NzMy`
+Snapshot ID: `MCw3MTNjMjZiYzdjODA4YmExODlhYzM4ZDY1MmUwZDA4MjM5NjU2ZDg5`

@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 185251,
+  "2024-03-14": 185346,
   "date_first_scraped": "2022-05-30",
   "description": "Hits, repackaged by Bollywood. Cover - Badrinath Ki Dulhania",
   "name": "Bollywood 2.O",
@@ -911,6 +911,40 @@
       "duration_ms": 236325,
       "name": "Gazab Ka Hai Din (From \"Dil Juunglee\")",
       "url": "https://open.spotify.com/track/0lpDlWrV0Cw3eGGvPU6d3R"
+    },
+    {
+      "album": {
+        "name": "Ghagra (From \"Crew\")",
+        "url": "https://open.spotify.com/album/5PvTooxU79zemBMaSfmPOa"
+      },
+      "artists": [
+        {
+          "name": "Ila Arun",
+          "url": "https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd"
+        },
+        {
+          "name": "Srushti Tawade",
+          "url": "https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M"
+        },
+        {
+          "name": "Bharg",
+          "url": "https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd"
+        },
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Ghagra (From \"Crew\")",
+      "url": "https://open.spotify.com/track/6SqLv8PGsCjRgsqoNUhhqJ"
     },
     {
       "album": {

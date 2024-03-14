@@ -4,7 +4,7 @@
 
 > El Dembow que está subiendo en RD\. Foto: Yaisel LM
 
-520 songs - 1 day 2 hr 55 min
+521 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [Ojalá](https://open.spotify.com/track/5B1dn6AfeohMuuHxyoMX72) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Ojalá](https://open.spotify.com/album/3qP7KCJCzm4KB7z2FY6OGV) | 2:25 | 2023-06-12 | 2023-10-31 |
 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 | 2023-02-24 | 2023-05-27 |
 | [Onana](https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Onana](https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP) | 2:08 | 2023-05-26 | 2023-07-15 |
-| [Pa Arriba Pa Abajo](https://open.spotify.com/track/0H5L77CsfQEKqDDGxu3H45) | [La Baby](https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Pa Arriba Pa Abajo](https://open.spotify.com/album/0erCCUlDacQZlaTT3HG4wE) | 1:51 | 2024-02-29 |  |
+| [Pa Arriba Pa Abajo](https://open.spotify.com/track/1VqMFrStKS9TMBx33MLuOS) | [LA BABY](https://open.spotify.com/artist/20IoxvON98RdIAusjOeSe6) | [Pa Arriba Pa Abajo](https://open.spotify.com/album/4CVn73EnEAQ60pqJHUSthU) | 1:51 | 2024-02-29 |  |
+| [Pa Arriba Pa Abajo](https://open.spotify.com/track/0H5L77CsfQEKqDDGxu3H45) | [La Baby](https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Pa Arriba Pa Abajo](https://open.spotify.com/album/0erCCUlDacQZlaTT3HG4wE) | 1:51 | 2024-02-29 | 2024-03-14 |
 | [Pa Jamaica](https://open.spotify.com/track/2mJrQM845TqwABVy6WDmIF) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [El Hombre](https://open.spotify.com/album/4PmIVwteqF16NOwoc2N0Pv) | 3:18 | 2021-12-10 | 2022-07-29 |
 | [Pa Mangá Mi Visa \- Doble T Y El Crock \(Los Pepe\)](https://open.spotify.com/track/4Lu38iSVMitFqiMhSdKAKU) | [Doble T Y El Crock](https://open.spotify.com/artist/4P1SSf1WTfa9Vf8zhLMVEr) | [I Love Urbano 2011](https://open.spotify.com/album/3UwbTQLjywqidZrrDsFZ9F) | 3:17 | 2021-12-10 | 2022-07-03 |
 | [Pa Que Aguante Eta](https://open.spotify.com/track/1zdPE06w06CYsHFO4S4FnX) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk), [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q) | [Pa Que Aguante Eta](https://open.spotify.com/album/3QRMuJOfICJpnq7dBokylV) | 3:01 | 2021-12-10 | 2022-07-29 |

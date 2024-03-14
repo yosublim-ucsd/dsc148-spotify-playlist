@@ -2,7 +2,7 @@
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: MEAU
+> Wat kan het Nederlands toch mooi zijn\. Cover: 3JS
 
 147 songs - 9 hr 6 min
 

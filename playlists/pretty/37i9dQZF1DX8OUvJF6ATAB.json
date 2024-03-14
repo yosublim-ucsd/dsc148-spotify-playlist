@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 191624,
+  "num_followers": 191651,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2YxMWFmZjczMTRhM2Y3ZGZlMzA0MzQxMGI4ZmJlY2NhOTAyYmQ4",
+  "snapshot_id": "MCw2N2NiMDZhM2UxNTdiNmY3ODcxZWUwNGYzN2U5ZjkxOWUzNDIxMDE5",
   "tracks": [
     {
       "added_at": "2023-04-21 14:41:23",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Forest Dreams",
-        "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
-      },
-      "artists": [
-        {
-          "name": "Glacier Wave",
-          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
-        }
-      ],
-      "duration_ms": 222511,
-      "name": "Forest Dreams",
-      "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "~~~",
         "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 320093,
       "name": "It's a Rainy Day on the Cosmic Shore",
       "url": "https://open.spotify.com/track/2fvphQzLUCR89aLAwTyDuL"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Forest Dreams",
+        "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
+      },
+      "artists": [
+        {
+          "name": "Glacier Wave",
+          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
+        }
+      ],
+      "duration_ms": 222511,
+      "name": "Forest Dreams",
+      "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Ambient 23",
+        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 481906,
+      "name": "amb23 - 1",
+      "url": "https://open.spotify.com/track/1QRY2siHgU2LkwQWIGHcXz"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Long Stories",
         "url": "https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Ambient 23",
-        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 481906,
-      "name": "amb23 - 1",
-      "url": "https://open.spotify.com/track/1QRY2siHgU2LkwQWIGHcXz"
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -523,22 +539,6 @@
       "duration_ms": 249534,
       "name": "Saccade",
       "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Nonlin",
+        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
+      },
+      "artists": [
+        {
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        }
+      ],
+      "duration_ms": 406856,
+      "name": "Subtractive Skies",
+      "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Nonlin",
-        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
+        "name": "Beloved Exile",
+        "url": "https://open.spotify.com/album/40TxdeBrR0OTGQD6etnhyJ"
       },
       "artists": [
         {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+          "name": "Steve Moore",
+          "url": "https://open.spotify.com/artist/7kcEevbRjcqtpjVgoYcq05"
         }
       ],
-      "duration_ms": 406856,
-      "name": "Subtractive Skies",
-      "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
+      "duration_ms": 325741,
+      "name": "Beloved Exile",
+      "url": "https://open.spotify.com/track/0fnZFOirxnGpo9UdaG8Ndj"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -691,22 +707,6 @@
       "duration_ms": 197614,
       "name": "Ichneumonidae",
       "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Beloved Exile",
-        "url": "https://open.spotify.com/album/40TxdeBrR0OTGQD6etnhyJ"
-      },
-      "artists": [
-        {
-          "name": "Steve Moore",
-          "url": "https://open.spotify.com/artist/7kcEevbRjcqtpjVgoYcq05"
-        }
-      ],
-      "duration_ms": 325741,
-      "name": "Beloved Exile",
-      "url": "https://open.spotify.com/track/0fnZFOirxnGpo9UdaG8Ndj"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Nonlin",
+        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
+      },
+      "artists": [
+        {
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        }
+      ],
+      "duration_ms": 369253,
+      "name": "Reverse Culture Music",
+      "url": "https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "New Tab",
         "url": "https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 377533,
       "name": "Dietrofront",
       "url": "https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Nonlin",
-        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
-      },
-      "artists": [
-        {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
-        }
-      ],
-      "duration_ms": 369253,
-      "name": "Reverse Culture Music",
-      "url": "https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -943,6 +943,30 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Fading In And Out",
+        "url": "https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh"
+      },
+      "artists": [
+        {
+          "name": "Soular Child",
+          "url": "https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn"
+        },
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        },
+        {
+          "name": "Tsunami Sounds",
+          "url": "https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Fading In",
+      "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "You Look Different",
         "url": "https://open.spotify.com/album/7oInz2CwQurgbtTJEm5oqH"
       },
@@ -991,30 +1015,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Fading In And Out",
-        "url": "https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh"
-      },
-      "artists": [
-        {
-          "name": "Soular Child",
-          "url": "https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn"
-        },
-        {
-          "name": "Kazuma Okabayashi",
-          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
-        },
-        {
-          "name": "Tsunami Sounds",
-          "url": "https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Fading In",
-      "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Whities 029",
         "url": "https://open.spotify.com/album/6IYhvItVOh2C31auIJpsxA"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 403694,
       "name": "Waiting in Arisaig",
       "url": "https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Surfing On Sine Waves",
+        "url": "https://open.spotify.com/album/4NH9JJ1uy1ls8wlltjTjG7"
+      },
+      "artists": [
+        {
+          "name": "Polygon Window",
+          "url": "https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Quino-Phec",
+      "url": "https://open.spotify.com/track/1vMitMDq7PVpzmHF1bpKLY"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1047,22 +1063,6 @@
       "duration_ms": 359543,
       "name": "Tar - Jan Jelinek Remix",
       "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Surfing On Sine Waves",
-        "url": "https://open.spotify.com/album/4NH9JJ1uy1ls8wlltjTjG7"
-      },
-      "artists": [
-        {
-          "name": "Polygon Window",
-          "url": "https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Quino-Phec",
-      "url": "https://open.spotify.com/track/1vMitMDq7PVpzmHF1bpKLY"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Repair Techniques",
         "url": "https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 232000,
       "name": "Sugi",
       "url": "https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 74304,
-      "name": "B3",
-      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "You Were Always an Island",
+        "url": "https://open.spotify.com/album/6QYUNnviiZt0saWnQVN6uM"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 354853,
+      "name": "You Were Always an Island",
+      "url": "https://open.spotify.com/track/7lwRmnv3T5ECX3lCsCvK9v"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "You Were Always an Island",
-        "url": "https://open.spotify.com/album/6QYUNnviiZt0saWnQVN6uM"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 354853,
-      "name": "You Were Always an Island",
-      "url": "https://open.spotify.com/track/7lwRmnv3T5ECX3lCsCvK9v"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Longest Year (2020)",
         "url": "https://open.spotify.com/album/3FKwVYsfaB2XWO4anB4LeC"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Form//Less",
-        "url": "https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B"
-      },
-      "artists": [
-        {
-          "name": "Superposition",
-          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
-        }
-      ],
-      "duration_ms": 234691,
-      "name": "Echo//Radiate",
-      "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Hilja",
         "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 321000,
       "name": "Demetra",
       "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Form//Less",
+        "url": "https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B"
+      },
+      "artists": [
+        {
+          "name": "Superposition",
+          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
+        }
+      ],
+      "duration_ms": 234691,
+      "name": "Echo//Radiate",
+      "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1535,38 +1535,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Caisson",
-        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 469333,
-      "name": "Caisson",
-      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "High Line",
-        "url": "https://open.spotify.com/album/5htTq0mezBLjTr0pja5jGK"
-      },
-      "artists": [
-        {
-          "name": "SUSS",
-          "url": "https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS"
-        }
-      ],
-      "duration_ms": 217951,
-      "name": "Salt Flats",
-      "url": "https://open.spotify.com/track/4hvTPjmtLGUcgKr3NzIdqo"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Forget The Curse",
         "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
       },
@@ -1599,6 +1567,38 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Caisson",
+        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 469333,
+      "name": "Caisson",
+      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "High Line",
+        "url": "https://open.spotify.com/album/5htTq0mezBLjTr0pja5jGK"
+      },
+      "artists": [
+        {
+          "name": "SUSS",
+          "url": "https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS"
+        }
+      ],
+      "duration_ms": 217951,
+      "name": "Salt Flats",
+      "url": "https://open.spotify.com/track/4hvTPjmtLGUcgKr3NzIdqo"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Limits",
         "url": "https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 278000,
       "name": "Possibilities",
       "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "PHANTOM BRICKWORKS (IV & V)",
-        "url": "https://open.spotify.com/album/1YFFIE8haOc1zsefoE0Ka3"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 730640,
-      "name": "PHANTOM BRICKWORKS V",
-      "url": "https://open.spotify.com/track/2XfuNCXh0lNTbv0lzAVcDs"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1647,34 +1631,50 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "ZEBRA",
-        "url": "https://open.spotify.com/album/4xHiUAsLhBxefu9A0xMKfj"
+        "name": "PHANTOM BRICKWORKS (IV & V)",
+        "url": "https://open.spotify.com/album/1YFFIE8haOc1zsefoE0Ka3"
       },
       "artists": [
         {
-          "name": "Arp",
-          "url": "https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 414117,
-      "name": "Nzuku",
-      "url": "https://open.spotify.com/track/2J2x5N7N3LWYZfz4nH9uff"
+      "duration_ms": 730640,
+      "name": "PHANTOM BRICKWORKS V",
+      "url": "https://open.spotify.com/track/2XfuNCXh0lNTbv0lzAVcDs"
     },
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Tilting On Windmills",
-        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
+        "name": "A Cambodian Spring OST",
+        "url": "https://open.spotify.com/album/2fl8CRGeDa3JCX7RHP9lgD"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
         }
       ],
-      "duration_ms": 498065,
-      "name": "Tilting On Windmills",
-      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
+      "duration_ms": 205955,
+      "name": "Solidarity Theme (Release)",
+      "url": "https://open.spotify.com/track/1yfM8QbSyuKL8XF9HcejBV"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Ground Groove",
+        "url": "https://open.spotify.com/album/02Lf34RloqjwBGi2lPMtUN"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 126030,
+      "name": "Heart Shimmer",
+      "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
     }
   ],
   "unique_name": "Exospheres",

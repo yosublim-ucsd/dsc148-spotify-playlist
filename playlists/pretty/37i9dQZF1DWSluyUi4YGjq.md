@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > The state of shoegaze, featuring over 20 new tracks added by flyingfish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,478 likes - 122 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,665 likes - 122 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 121 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 |
 | 122 | [Mirror](https://open.spotify.com/track/2BEqWfZNSG8LF2YOXzcdW6) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Mirror](https://open.spotify.com/album/3N1aePkaiRx1sgcvviZmBX) | 3:26 |
 
-Snapshot ID: `MCwxNGU4YTRhNjFlZTkxOTE4OTRkYmJkNjg4YjA4ZjE1MmI3MjIzMWE5`
+Snapshot ID: `MCxkNmEzM2I5NWMxNjk4MTgyNTFlNDQ3NjExZjc5YWE5YzVkZDhlMmNm`

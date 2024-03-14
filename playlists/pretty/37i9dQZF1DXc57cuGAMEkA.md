@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Ariana Grande, マカロニえんぴつ, imase, Conan Gray, d4vd and more! cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,946 likes - 72 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,966 likes - 72 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 20 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 21 | [Almost 20](https://open.spotify.com/track/0GzfMhBaODjHyGYCbdmI6x) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:22 |
 | 22 | [Looking For You](https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [HATE ME](https://open.spotify.com/album/5XlxyRqG5mr7eG6My0QkVT) | 3:18 |
-| 23 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
+| 23 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit Da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
 | 24 | [Get Back Up \(feat\. Fridayy\)](https://open.spotify.com/track/5TOUaxJ6DVUYAA1OivsH1v) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Get Back Up \(feat\. Fridayy\)](https://open.spotify.com/album/03FVqPZIjsv02LISaEBP29) | 2:28 |
 | 25 | [NEW DAY](https://open.spotify.com/track/3KLSp2VdUcmOzjqYxsAFlP) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [NEW DAY](https://open.spotify.com/album/0g8qeKfLrKwuuNaAw5SfMp) | 3:04 |
 | 26 | [BINBO](https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BINBO](https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai) | 2:18 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 71 | [Swervin'](https://open.spotify.com/track/13ksAbvRqdsepUJyLubkNT) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV), [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [Swervin'](https://open.spotify.com/album/3eOYZb9IaoJAJzWh3eMVvm) | 4:29 |
 | 72 | [NEXT2U](https://open.spotify.com/track/452UAReM2UFF3iulDbsBz2) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [NEXT2U](https://open.spotify.com/album/1m50X57bJuqNu12YmpUVm6) | 2:22 |
 
-Snapshot ID: `MCwzNjA3YTExMzY4Y2FhMzhkYmNmYjQxZmYzMDA4MDg0OWZjOTNhYWM3`
+Snapshot ID: `MCxiN2Y4Yjg4N2M2ODVjYmFmNDAwOTc5ODk3NzhiNGU1MDIxOWQ5ZjM4`

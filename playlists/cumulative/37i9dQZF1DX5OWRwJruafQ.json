@@ -1245,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "THREE WAY",
+        "url": "https://open.spotify.com/album/6mta4ktCakVsjVL7cVuJo3"
+      },
+      "artists": [
+        {
+          "name": "Jot Dhindsa",
+          "url": "https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth"
+        },
+        {
+          "name": "Yeah Proof",
+          "url": "https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135034,
+      "name": "CHANGA CHANGA",
+      "url": "https://open.spotify.com/track/07pZr5hCkdQUrIqHxlZqEc"
+    },
+    {
+      "album": {
         "name": "Characters",
         "url": "https://open.spotify.com/album/5Reb4nVxEHFDAtMjDA1JP0"
       },
@@ -2084,6 +2106,32 @@
       "duration_ms": 136498,
       "name": "Fame Reimagined",
       "url": "https://open.spotify.com/track/7bHAu24rfpeMGUXfRLz8RU"
+    },
+    {
+      "album": {
+        "name": "Paper Before Money",
+        "url": "https://open.spotify.com/album/3UvC8wrNS4JBnkipEal7vO"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Rxtro",
+          "url": "https://open.spotify.com/artist/6zVbW6UR8R5BYKVH5rMP7j"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Famous Enough",
+      "url": "https://open.spotify.com/track/4M0BS6RsQRg6wqdd30Xxd0"
     },
     {
       "album": {
@@ -4776,7 +4824,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 181363,
       "name": "No Fake",
       "url": "https://open.spotify.com/track/4BKx5bluk9JK84PkzjIe4h"
@@ -5658,7 +5706,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 181333,
       "name": "Sher Jatt",
       "url": "https://open.spotify.com/track/5rhKSzzT9Y7yBGcdmU0j82"
@@ -6004,7 +6052,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 162506,
       "name": "STRAP",
       "url": "https://open.spotify.com/track/1GmaStjvbOzszpxINI8oTi"
@@ -6100,6 +6148,24 @@
       "duration_ms": 166153,
       "name": "Style",
       "url": "https://open.spotify.com/track/4qNCoi29Sy2wjqltNCs0uV"
+    },
+    {
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/35i1684oJSMw8QeaWbe0fC"
+      },
+      "artists": [
+        {
+          "name": "Harvy Sandhu",
+          "url": "https://open.spotify.com/artist/1pKUpf9IOuy2rZ0jxoo3Nz"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200681,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0JA1oLM8tV7WkFHy3mqgg6"
     },
     {
       "album": {

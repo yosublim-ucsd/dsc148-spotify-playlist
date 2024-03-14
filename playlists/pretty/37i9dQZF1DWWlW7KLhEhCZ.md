@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Nagalli, Yunk Vino, Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,228 likes - 78 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,252 likes - 78 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DO ZERO](https://open.spotify.com/track/47BjMDOzXTz5tgAtx2x6jE) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [DO ZERO](https://open.spotify.com/album/4jU0Er1pO1NiKlq7rXliqS) | 2:38 |
+| 1 | [DO ZERO](https://open.spotify.com/track/47BjMDOzXTz5tgAtx2x6jE) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [DO ZERO](https://open.spotify.com/album/4jU0Er1pO1NiKlq7rXliqS) | 2:38 |
 | 2 | [DIOR](https://open.spotify.com/track/5DuoTr0y7FL2FDvn5YQQ3w) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [oson](https://open.spotify.com/artist/6DNSSxc3DE7NDU1bZPafLH) | [DIAS ANTES DO CAOS](https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8) | 2:53 |
 | 3 | [After Party](https://open.spotify.com/track/39O5jUbXuRmtSLtW0t46yk) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [Gabriel Lucchini](https://open.spotify.com/artist/4wm6Of8OD4MeU9AYpQ9Ocs) | [After Party](https://open.spotify.com/album/5OnEFLCrBXHykrmCWgMPTt) | 3:07 |
 | 4 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 77 | [Carta X](https://open.spotify.com/track/7dlHhlM1vLlOuxI3M0NqV5) | [Jackdi](https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Carta X](https://open.spotify.com/album/244fqbsdp1NTS0sF3XPJn9) | 2:32 |
 | 78 | [Pique Faroeste](https://open.spotify.com/track/2PXgo8kyGDrvsrrxTpwWCj) | [Yamashita](https://open.spotify.com/artist/5aJKizHlj2VReayOZHmHFw), [Ventu075](https://open.spotify.com/artist/0CMaseo8fq9V9CKn0h2zqf) | [Pique Faroeste](https://open.spotify.com/album/1ineQBcXlsSHlwlC4jJwZN) | 2:26 |
 
-Snapshot ID: `MCxkNTNkYjE3ZTI2N2IwZDQ4MGZmNjQ3ZjZjYzZlODIzZGJlNDRjNzZj`
+Snapshot ID: `MCw0MGVkYzk4ZGE5YWQ2YmNiODYxNjIxNTI4NTgzMjNiM2JjY2QxMDkz`

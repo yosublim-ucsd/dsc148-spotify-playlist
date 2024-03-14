@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 322197,
+  "num_followers": 322234,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjM4YjQ4MmZlOWNhYTQxYmFiM2ViNGNkZDc4MmEyZDM4OTIyNjc3",
+  "snapshot_id": "MCw1MDg1NmRlODkyOWEzNTc0ZmE4NjdjNTkxYzUxNjNjOGMxYjJkN2Vi",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
+        "name": "Mis \u00cdntimas Razones",
+        "url": "https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
         }
       ],
-      "duration_ms": 180066,
-      "name": "La Diferencia - En Vivo",
-      "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
+      "duration_ms": 220706,
+      "name": "Un Alma en Pena",
+      "url": "https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Mis \u00cdntimas Razones",
-        "url": "https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr"
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
       },
       "artists": [
         {
-          "name": "Luc\u00eda M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 220706,
-      "name": "Un Alma en Pena",
-      "url": "https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG"
+      "duration_ms": 180066,
+      "name": "La Diferencia - En Vivo",
+      "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "CU4TRO",
-        "url": "https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 281959,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/25cvmtRrMtNwUwxFc05ps8"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Ya No Insistas Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 204056,
       "name": "Ya No Insistas Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "CU4TRO",
+        "url": "https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 281959,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/25cvmtRrMtNwUwxFc05ps8"
     },
     {
       "added_at": "2023-05-05 18:26:22",

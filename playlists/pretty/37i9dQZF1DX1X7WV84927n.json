@@ -1,12 +1,12 @@
 {
   "description": "For full-volume lovers, new and recent favorites. Cover: Too Close To Touch",
-  "num_followers": 353482,
+  "num_followers": 353593,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2IyZWFmOWY4NmU1OTdjMTM1NmIwZmIyMGZlNDYwMzQ2MjYwOGQ2",
+  "snapshot_id": "MCw3ODZmNjFjYzE5OWE2ZWZhOWQ5MWNmM2YzMDc1MTZmYWE0YzZjNDJl",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Shame On Me",
+        "url": "https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "duration_ms": 200495,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/0kDHRQ7rvuzWN11nB9Qx1Y"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Shame On Me",
-        "url": "https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG"
-      },
-      "artists": [
-        {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
-        }
-      ],
-      "duration_ms": 200495,
-      "name": "Dial Tone",
-      "url": "https://open.spotify.com/track/0kDHRQ7rvuzWN11nB9Qx1Y"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Vengeance",
+        "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 238534,
+      "name": "Vengeance",
+      "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Prepare For Despair",
         "url": "https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 201402,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Vengeance",
-        "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 238534,
-      "name": "Vengeance",
-      "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 381067,
+      "name": "Invincible Shield",
+      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Trigger",
         "url": "https://open.spotify.com/album/2HHt7F17eJjPHFppWdSb8C"
       },
@@ -727,6 +743,22 @@
       "duration_ms": 175157,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/4sOgK1FXdaCf2hsCtduj3C"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -763,22 +795,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 381067,
-      "name": "Invincible Shield",
-      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "CMF2",
         "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 257969,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Hell You Call A Dream",
+      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Love, Drugs & Misery",
         "url": "https://open.spotify.com/album/0P49eFNrsqjfnz4txLvFe6"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 228406,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Hell You Call A Dream",
-      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Vore",
-        "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 304023,
-      "name": "Chokehold",
-      "url": "https://open.spotify.com/track/0JzQSYx0CDmMwLg1a7TN74"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "So Numb",
         "url": "https://open.spotify.com/album/4EcWhmTWDmRsPHerYWcBao"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Idle Hands",
-        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
+        "name": "Vore",
+        "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
       },
       "artists": [
         {
-          "name": "Kerry King",
-          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
         }
       ],
-      "duration_ms": 224411,
-      "name": "Idle Hands",
-      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
+      "duration_ms": 304023,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/0JzQSYx0CDmMwLg1a7TN74"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 189736,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/7mJycBkeGO6rBA2zIQsP5t"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Idle Hands",
+        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
+      },
+      "artists": [
+        {
+          "name": "Kerry King",
+          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
+        }
+      ],
+      "duration_ms": 224411,
+      "name": "Idle Hands",
+      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Container",
-        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 186098,
-      "name": "Container",
-      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Hellstar",
         "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 192748,
       "name": "Hellstar",
       "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Finger",
+        "url": "https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Finger",
+      "url": "https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1243,6 +1243,42 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Container",
+        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "Container",
+      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Killing Floor feat. Brian Johnson",
+        "url": "https://open.spotify.com/album/7FESKHlpDZ7tQO7AFb9si8"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/0TJOVQKoS7sbGVn8RkkvPI"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Killing Floor feat. Brian Johnson",
+      "url": "https://open.spotify.com/track/7anM2SqhfeXgFAAnjYVK3e"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "WARZ0NE",
         "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
       },
@@ -1255,22 +1291,6 @@
       "duration_ms": 158175,
       "name": "WARZ0NE",
       "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Finger",
-        "url": "https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Finger",
-      "url": "https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1319,26 +1339,6 @@
       "duration_ms": 312406,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Killing Floor feat. Brian Johnson",
-        "url": "https://open.spotify.com/album/7FESKHlpDZ7tQO7AFb9si8"
-      },
-      "artists": [
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/0TJOVQKoS7sbGVn8RkkvPI"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Killing Floor feat. Brian Johnson",
-      "url": "https://open.spotify.com/track/7anM2SqhfeXgFAAnjYVK3e"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1415,6 +1415,38 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "duration_ms": 167704,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "John",
+        "url": "https://open.spotify.com/album/4wNEoTLKONCgk8Ahdieo6I"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 236649,
+      "name": "John",
+      "url": "https://open.spotify.com/track/1ygGepA71OGb6xNaEEZY1C"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Blood In The Water",
         "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
       },
@@ -1427,22 +1459,6 @@
       "duration_ms": 217582,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Dark & Beautiful Secrets",
-        "url": "https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30"
-      },
-      "artists": [
-        {
-          "name": "Normandie",
-          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1479,6 +1495,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Dark & Beautiful Secrets",
+        "url": "https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Some Bridges Are Better Off Burning",
         "url": "https://open.spotify.com/album/4RecNVIK5rn6c2yiGWlvlr"
       },
@@ -1495,18 +1527,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
+        "name": "Aztec Death Whistle",
+        "url": "https://open.spotify.com/album/1Zin3zqwp0N8wKOE3ZXlZg"
       },
       "artists": [
         {
-          "name": "Nevertel",
-          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         }
       ],
-      "duration_ms": 167704,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
+      "duration_ms": 199507,
+      "name": "Aztec Death Whistle",
+      "url": "https://open.spotify.com/track/3cXkBtO5htBKiM05H0PQ7F"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1523,22 +1555,6 @@
       "duration_ms": 316979,
       "name": "You And I",
       "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "John",
-        "url": "https://open.spotify.com/album/4wNEoTLKONCgk8Ahdieo6I"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 236649,
-      "name": "John",
-      "url": "https://open.spotify.com/track/1ygGepA71OGb6xNaEEZY1C"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 180266,
       "name": "I Felt It All",
       "url": "https://open.spotify.com/track/1ZAzqG4uS98aYfFGEIqY6T"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Aztec Death Whistle",
-        "url": "https://open.spotify.com/album/1Zin3zqwp0N8wKOE3ZXlZg"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 199507,
-      "name": "Aztec Death Whistle",
-      "url": "https://open.spotify.com/track/3cXkBtO5htBKiM05H0PQ7F"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "MURDER (feat. Code:Pandorum)",
+        "url": "https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        },
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "MURDER (feat. Code:Pandorum)",
+      "url": "https://open.spotify.com/track/0SXHYLK8GYc2jAtFJXiL0Y"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/7szVhLSeh3tWpRF6ZDozOd"
       },
@@ -1739,6 +1759,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "No Thanks To You",
+        "url": "https://open.spotify.com/album/3154SIYJKuEHE0hnYunUYX"
+      },
+      "artists": [
+        {
+          "name": "If Not For Me",
+          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+        }
+      ],
+      "duration_ms": 183463,
+      "name": "No Thanks To You",
+      "url": "https://open.spotify.com/track/6HEMkEcIn1b4QMDpMRrNiv"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/0uvd0sRUmlxkkAC69d64tj"
       },
@@ -1767,42 +1803,6 @@
       "duration_ms": 227678,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "MURDER (feat. Code:Pandorum)",
-        "url": "https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP"
-      },
-      "artists": [
-        {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        },
-        {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "MURDER (feat. Code:Pandorum)",
-      "url": "https://open.spotify.com/track/0SXHYLK8GYc2jAtFJXiL0Y"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "No Thanks To You",
-        "url": "https://open.spotify.com/album/3154SIYJKuEHE0hnYunUYX"
-      },
-      "artists": [
-        {
-          "name": "If Not For Me",
-          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
-        }
-      ],
-      "duration_ms": 183463,
-      "name": "No Thanks To You",
-      "url": "https://open.spotify.com/track/6HEMkEcIn1b4QMDpMRrNiv"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "waste",
-        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
-      },
-      "artists": [
-        {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
-        }
-      ],
-      "duration_ms": 231911,
-      "name": "waste",
-      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Terminal",
         "url": "https://open.spotify.com/album/2gDvuxeDGq8m3vNnvA4MWx"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 291034,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/0tOvdClBu7Wf34Y9UqYPUn"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "waste",
+        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "duration_ms": 231911,
+      "name": "waste",
+      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Glory Days",
+        "url": "https://open.spotify.com/album/3wtiGyapEfhtEzvw6kdXue"
+      },
+      "artists": [
+        {
+          "name": "Halocene",
+          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
+        }
+      ],
+      "duration_ms": 236456,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/0vZyBihPgujGitRXqC7D5H"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "When The Pain Comes",
         "url": "https://open.spotify.com/album/778Va2ghjUV0BwrzgHe61G"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 204338,
       "name": "When The Pain Comes",
       "url": "https://open.spotify.com/track/2SS8uiav9RDrBhGqTpRvVY"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "PALEHELL",
-        "url": "https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V"
-      },
-      "artists": [
-        {
-          "name": "Paledusk",
-          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "PALEHELL",
-      "url": "https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -2031,18 +2031,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Glory Days",
-        "url": "https://open.spotify.com/album/3wtiGyapEfhtEzvw6kdXue"
+        "name": "PALEHELL",
+        "url": "https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V"
       },
       "artists": [
         {
-          "name": "Halocene",
-          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
         }
       ],
-      "duration_ms": 236456,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/0vZyBihPgujGitRXqC7D5H"
+      "duration_ms": 221333,
+      "name": "PALEHELL",
+      "url": "https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 214069,
+      "name": "Maverick",
+      "url": "https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "A Cure To Poison The World",
         "url": "https://open.spotify.com/album/40zzDXkMs8NgCalwjF4KIh"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 253960,
       "name": "Cursed",
       "url": "https://open.spotify.com/track/4CcQsU1I3Wt61Jxz9TzcAv"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "WHALES",
-        "url": "https://open.spotify.com/album/55txyTCvHj8lbNNOg8PETf"
-      },
-      "artists": [
-        {
-          "name": "Blackout Problems",
-          "url": "https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM"
-        }
-      ],
-      "duration_ms": 220123,
-      "name": "WHALES",
-      "url": "https://open.spotify.com/track/1HOT7wysnNM3MEC5MvAOFP"
     }
   ],
   "unique_name": "Hard Rock",

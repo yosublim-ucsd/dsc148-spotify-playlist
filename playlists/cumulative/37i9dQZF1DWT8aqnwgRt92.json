@@ -291,6 +291,32 @@
     },
     {
       "album": {
+        "name": "\u751f\u307e\u308c\u3066\u304d\u305f\u3053\u3068\u306b\u611f\u8b1d\u3057\u306a\u3055\u3044\uff01",
+        "url": "https://open.spotify.com/album/27WuW2wGrF1BI6RoB5hcFq"
+      },
+      "artists": [
+        {
+          "name": "LIP\u00d7LIP",
+          "url": "https://open.spotify.com/artist/5LtKPfXlcnoOvks1fj2c3b"
+        },
+        {
+          "name": "\u52c7\u6b21\u90ce (CV:\u5185\u5c71\u6602\u8f1d)",
+          "url": "https://open.spotify.com/artist/6zcLeTGwFoddrcExg57vI4"
+        },
+        {
+          "name": "\u611b\u8535 (CV:\u5cf6\ufa11\u4fe1\u9577)",
+          "url": "https://open.spotify.com/artist/1iOh71mDLOpHEdKPvDYKoc"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159466,
+      "name": "A.B.SECRET",
+      "url": "https://open.spotify.com/track/0RX2B6sHh6K2j1VJDU1oi9"
+    },
+    {
+      "album": {
         "name": "A.B.SECRET",
         "url": "https://open.spotify.com/album/6dPCE5QeWOMRpdyEq5eQe3"
       },
@@ -310,7 +336,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 159466,
       "name": "A.B.SECRET",
       "url": "https://open.spotify.com/track/4BaEWsa2psex2e7aGBKbOq"

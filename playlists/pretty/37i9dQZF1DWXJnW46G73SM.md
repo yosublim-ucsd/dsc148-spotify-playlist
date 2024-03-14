@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: حسين الجسمي
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,637 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,696 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [ولا يهمك](https://open.spotify.com/track/1dwGantu2uucmi2Ht4HzB5) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [ولا يهمك](https://open.spotify.com/album/55pWLIo9oq0nw2V8pRdxnB) | 3:51 |
 | 75 | [موقف ضعف](https://open.spotify.com/track/683g45sVP0yUW6AeGIOw7U) | [Zeyad Wael](https://open.spotify.com/artist/36dyNqgtGxVcwcWlCRYLOl), [Omar Shaaban](https://open.spotify.com/artist/2mqfT4zskEW4k2u5m3xnyh) | [موقف ضعف](https://open.spotify.com/album/7cv0uPatxnZpT0VbUPdzVi) | 4:02 |
 
-Snapshot ID: `MCwzMTAwOWJhY2Q5NGIyNGFlNGUyODE2NTc0MGNiMDg5NzRhZDEwYjgx`
+Snapshot ID: `MCxmZjgwMzc1ZmUxYmE4NTRiY2IyYjBlZTRhMGYzOGYyZDU3YTM5MGM1`

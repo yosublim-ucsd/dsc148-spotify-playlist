@@ -662,10 +662,32 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 226442,
       "name": "New Eyes (feat. Lizzo)",
       "url": "https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE"
+    },
+    {
+      "album": {
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226442,
+      "name": "New Eyes (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/6xyJHp3nAJGOc2Xy7ACsg1"
     },
     {
       "album": {

@@ -283,6 +283,28 @@
     },
     {
       "album": {
+        "name": "A Dream Surprise (Unproven Remix)",
+        "url": "https://open.spotify.com/album/2CIkMXMHtPkyc3H0w20iSz"
+      },
+      "artists": [
+        {
+          "name": "Fade, Bananaman, Unproven",
+          "url": "https://open.spotify.com/artist/3e7LlWs0hLKs6Ve23Cr2pl"
+        },
+        {
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206403,
+      "name": "A Dream Surprise - Unproven Remix",
+      "url": "https://open.spotify.com/track/7l20bzoF8UTueokSAvOQWr"
+    },
+    {
+      "album": {
         "name": "Artificial Intoxication",
         "url": "https://open.spotify.com/album/1UzOa746jQMejJtvImrB5O"
       },

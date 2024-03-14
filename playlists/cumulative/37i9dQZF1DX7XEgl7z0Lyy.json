@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116643,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
+    },
+    {
+      "album": {
         "name": "33.1FM",
         "url": "https://open.spotify.com/album/49XVwHNdaXCLgGkxSk5bcZ"
       },

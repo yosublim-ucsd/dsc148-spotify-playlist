@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: KZ Tandingan",
-  "num_followers": 2409338,
+  "num_followers": 2409873,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzQzOTU4YTc1MTQ4MDdiNDM4MWIxNDI5MzY2OWFkN2I2OTQ1NDc0",
+  "snapshot_id": "MCw5NGMzN2Y3ODc3Y2MxNTQ2OTVhMDgzNmYxMjU0YTYyYzE4ZmYzYWQ4",
   "tracks": [
     {
       "added_at": "2024-03-06 07:10:46",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
-        "name": "Pa-umaga",
-        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
-      },
-      "artists": [
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 189019,
-      "name": "Pa-umaga",
-      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
         "name": "Kitchie Nadal",
         "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 249080,
       "name": "Huwag Na Huwag Mong Sasabihin",
       "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Pa-umaga",
+        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 189019,
+      "name": "Pa-umaga",
+      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
-        "name": "Musika",
-        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
+        "name": "Bigotilyo",
+        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
       },
       "artists": [
         {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
         }
       ],
-      "duration_ms": 246666,
-      "name": "Musika",
-      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
+      "duration_ms": 168493,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
+        "name": "Musika",
+        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Musika",
+      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
         "name": "TJ Monterde",
         "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 239480,
       "name": "Dating Tayo",
       "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
-        "name": "Bigotilyo",
-        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
-      },
-      "artists": [
-        {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
-        "name": "Sinta",
-        "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
+        "name": "Buruguduystunstugudunstuy",
+        "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
       },
       "artists": [
         {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
         }
       ],
-      "duration_ms": 316683,
-      "name": "Sinta",
-      "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
+      "duration_ms": 182200,
+      "name": "Harana",
+      "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
-        "name": "Imahe",
-        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+        "name": "Sinta",
+        "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
       },
       "artists": [
         {
-          "name": "Magnus Haven",
-          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
         }
       ],
-      "duration_ms": 321817,
-      "name": "Imahe",
-      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+      "duration_ms": 316683,
+      "name": "Sinta",
+      "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -559,6 +559,22 @@
       "duration_ms": 285138,
       "name": "Sa Ngalan Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/1FnPkOlWCMwRtfXeAAuhMu"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -599,22 +615,6 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
-        "name": "Buruguduystunstugudunstuy",
-        "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
-      },
-      "artists": [
-        {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Harana",
-      "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -667,42 +667,6 @@
       "duration_ms": 364106,
       "name": "Beer",
       "url": "https://open.spotify.com/track/20gchtRYM7bFiOjYKQB8zZ"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
-        "name": "Pauwi Nako",
-        "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
-      },
-      "artists": [
-        {
-          "name": "PDL",
-          "url": "https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        },
-        {
-          "name": "Jnske",
-          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
-        },
-        {
-          "name": "Bullet D",
-          "url": "https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        }
-      ],
-      "duration_ms": 341573,
-      "name": "Pauwi Nako",
-      "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
     },
     {
       "added_at": "2024-03-06 07:10:46",
@@ -783,22 +747,6 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
-        "name": "Walang Kapalit (AM VER.)",
-        "url": "https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Walang Kapalit (AM VER.)",
-      "url": "https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb"
-    },
-    {
-      "added_at": "2024-03-06 07:10:46",
-      "album": {
         "name": "Maybe The Night",
         "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
@@ -831,6 +779,42 @@
     {
       "added_at": "2024-03-06 07:10:46",
       "album": {
+        "name": "Pauwi Nako",
+        "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
+      },
+      "artists": [
+        {
+          "name": "PDL",
+          "url": "https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Jnske",
+          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
+        },
+        {
+          "name": "Bullet D",
+          "url": "https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "duration_ms": 341573,
+      "name": "Pauwi Nako",
+      "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
         "name": "Buwan",
         "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 343446,
       "name": "Buwan",
       "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
+    },
+    {
+      "added_at": "2024-03-06 07:10:46",
+      "album": {
+        "name": "Walang Kapalit (AM VER.)",
+        "url": "https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Walang Kapalit (AM VER.)",
+      "url": "https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb"
     },
     {
       "added_at": "2024-03-06 07:10:46",

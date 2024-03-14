@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ariana Grande, Mustafa, bludnymph, Laufey and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,433 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,455 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 44 | [Sure Enough](https://open.spotify.com/track/5WRZSiEsDtxzHbxfkXLfyi) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [Sure Enough](https://open.spotify.com/album/0V67OpEYjaqlnRz50LsuDY) | 3:09 |
 | 45 | [Work This Out](https://open.spotify.com/track/3VymabYos1p2fXzmk0cPKg) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Work This Out](https://open.spotify.com/album/6vb6Zec5YfjXBcizesC5yh) | 2:58 |
 | 46 | [Don't Forget](https://open.spotify.com/track/48H9JCkYxv0eQemx9eyV9R) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [I'll Meet You There](https://open.spotify.com/album/5fm6NpNhDnIgoWNfgWJGE2) | 3:09 |
-| 47 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
+| 47 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit Da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
 | 48 | [Summer](https://open.spotify.com/track/4Y2uEMxni1MDrcJBDSWULX) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Summer](https://open.spotify.com/album/0k5arnScjVZaqqvNFK3otb) | 2:27 |
 | 49 | [Damn Sure](https://open.spotify.com/track/1gYVhjMKDky9rOLeHXMg9y) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd) | [Damn Sure](https://open.spotify.com/album/4KFbkLGyNbgLL5YsamCAsx) | 2:41 |
 | 50 | [What She Sees in Me](https://open.spotify.com/track/4H1Op2dTXFN3HNUKEOK9HF) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [What She Sees in Me](https://open.spotify.com/album/3u15FX2BHFY6pLKSTgtmo8) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Push](https://open.spotify.com/track/6sdAE6ZE2t40Gg5BKxIqW8) | [AUDRÉ](https://open.spotify.com/artist/7D90vPov7npaORRz1VaXVY) | [Push](https://open.spotify.com/album/6tJYYtfydNUwszeAF2TqNO) | 3:10 |
 | 100 | [Sweater Club](https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Sweater Club](https://open.spotify.com/album/0uLHEY4gk0YYp1DHNr7Qgm) | 2:56 |
 
-Snapshot ID: `MCw2YzI4NDU4MTY1NzQwYjc1MjI1MGIyNGM5ZWExYzkxYmM3OWEyZWJk`
+Snapshot ID: `MCxhNmI3ZjMwOGU5ZGVhYzVjOWVkMDE5MWIyN2YxZjI2ODhkY2Y2ZGU1`

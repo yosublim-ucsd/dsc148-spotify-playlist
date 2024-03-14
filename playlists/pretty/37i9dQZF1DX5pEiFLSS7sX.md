@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,011 likes - 100 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,084 likes - 100 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 15 | [Lean Back \(Live\)](https://open.spotify.com/track/76AQAwj7BbMVIMRnHKkLuz) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH) | [Kingdom Come \(Live\)](https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ) | 6:53 |
 | 16 | [Living Hope](https://open.spotify.com/track/6CW9qtzZpHZ3o39BYlpU0x) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Living Hope](https://open.spotify.com/album/2rKiADhVznDGC1oRjeczDr) | 6:46 |
 | 17 | [Spirit of the Living God](https://open.spotify.com/track/4xuToNvDiZHnDQVujjK49s) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Church Songs](https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6) | 5:39 |
-| 18 | [Remember](https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:58 |
-| 19 | [Nothing I Hold on to \(Live\)](https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Live at the Banks House](https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7) | 6:16 |
+| 18 | [Nothing I Hold on to \(Live\)](https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Live at the Banks House](https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7) | 6:16 |
+| 19 | [Remember](https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:58 |
 | 20 | [Defender \- Live](https://open.spotify.com/track/3w8jF3AIBj1dM2d2IfNBvB) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Moments \(Live\)](https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp) | 8:52 |
 | 21 | [Dancing on the Waves](https://open.spotify.com/track/2soQW3y7DwZIPH4fS5av1W) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 6:16 |
 | 22 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 62 | [Love Changes Everything \(Live\)](https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 5:58 |
 | 63 | [Breathe \- Live](https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Touching Heaven \(Live\)](https://open.spotify.com/album/51TJKJhXFke5OZaU56B9qe) | 6:00 |
 | 64 | [Your Love is Strong](https://open.spotify.com/track/5G1cfJXrmxRlxxvunorfWZ) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:36 |
-| 65 | [All Hail King Jesus \- Live](https://open.spotify.com/track/6M6Vb22Nw9wqKP1HWVZWgB) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [SarahBeth Smith](https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi) | [Moments \(Live\)](https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp) | 8:15 |
+| 65 | [The Way \(New Horizon\)](https://open.spotify.com/track/5KrewqDNRC9lNe3Aj9ameN) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 7:05 |
 | 66 | [No Fear in Love](https://open.spotify.com/track/1L7hLhmNgsQ9eMc5C5ej6l) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Undoing](https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA) | 3:14 |
-| 67 | [The Way \(New Horizon\)](https://open.spotify.com/track/5KrewqDNRC9lNe3Aj9ameN) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 7:05 |
+| 67 | [All Hail King Jesus \- Live](https://open.spotify.com/track/6M6Vb22Nw9wqKP1HWVZWgB) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [SarahBeth Smith](https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi) | [Moments \(Live\)](https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp) | 8:15 |
 | 68 | [Let It Happen \(Live\) \[feat\. Andrea Marie\]](https://open.spotify.com/track/1MCxM27lS1cDA7py53mqRt) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Andrea Marie](https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 8:10 |
 | 69 | [Now is Forever \- Bonus Track](https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be \(Deluxe Edition\)](https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo) | 3:12 |
 | 70 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 |
 | 100 | [Christ Be With Me](https://open.spotify.com/track/0ZJzZI0hyMxWtUg3kOyPce) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [The Brilliance Original Mixtape](https://open.spotify.com/album/0duE0bJzF0cq6n7YNQAP3P) | 3:03 |
 
-Snapshot ID: `MCxlZjEwNWFlZjdkMWZhNmU0MzYyMWFjY2JlYzk0YjY3YTFmNWMxZDAz`
+Snapshot ID: `MCw5NTJmMTA0M2M3YTRjZDFmZGE3NWI5NzU2ZGE0MjIyYThhNGVmZTA5`

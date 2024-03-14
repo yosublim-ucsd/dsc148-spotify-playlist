@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 22533,
+  "2024-03-14": 22535,
   "date_first_scraped": "2024-01-03",
   "description": "",
   "name": "Malaa Selection ",
@@ -211,6 +211,28 @@
       "duration_ms": 196535,
       "name": "Attitudes",
       "url": "https://open.spotify.com/track/4tbOgjltmrF3LQG75lJ9Il"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/04GqieRfxirLyiHWgYPY2M"
+      },
+      "artists": [
+        {
+          "name": "Erol Alkan",
+          "url": "https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5"
+        },
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334020,
+      "name": "Automatic - Palms Trax Remix",
+      "url": "https://open.spotify.com/track/2l8XfWxLcZ2SB7MNFrLTfV"
     },
     {
       "album": {
@@ -666,6 +688,28 @@
     },
     {
       "album": {
+        "name": "Costa",
+        "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Costa",
+      "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
+    },
+    {
+      "album": {
         "name": "Could Heaven Ever Be Like This (Walker & Royce and Chris Lorenzo Remix)",
         "url": "https://open.spotify.com/album/7pPOIeKfV4bsVWO8zDyRfV"
       },
@@ -931,6 +975,28 @@
       "duration_ms": 166153,
       "name": "DEEPFAKE",
       "url": "https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs"
+    },
+    {
+      "album": {
+        "name": "Detach",
+        "url": "https://open.spotify.com/album/7bst5IAlL9BVI3dUHCePL8"
+      },
+      "artists": [
+        {
+          "name": "Lowdown",
+          "url": "https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO"
+        },
+        {
+          "name": "Latour",
+          "url": "https://open.spotify.com/artist/2DtfdK4QWxre8RDwL0j8Y7"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241992,
+      "name": "Detach",
+      "url": "https://open.spotify.com/track/3VL59wXraLl3o5WhIy2PSU"
     },
     {
       "album": {
@@ -1597,6 +1663,28 @@
       "duration_ms": 311450,
       "name": "Howyalldoin",
       "url": "https://open.spotify.com/track/6vLau6Em7Vy3oGKzF2uUwI"
+    },
+    {
+      "album": {
+        "name": "I Don't Remember",
+        "url": "https://open.spotify.com/album/0J7RfuS72drryFxcc3SvD8"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195100,
+      "name": "I Don't Remember",
+      "url": "https://open.spotify.com/track/0hi0udQ5ZXTKRcZ9t0e4TF"
     },
     {
       "album": {

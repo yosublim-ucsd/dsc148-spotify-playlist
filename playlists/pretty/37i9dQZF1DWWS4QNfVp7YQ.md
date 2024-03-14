@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,755 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,799 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 33 | [Quiero Bailar \(All Through the Night\) \[feat\. Becky G\]](https://open.spotify.com/track/2P3KclKBmd2oHYuTcXAcD4) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 4:20 |
 | 34 | [Tokio](https://open.spotify.com/track/181jOJv47IFVJNlZqSgHFW) | [TOSCA](https://open.spotify.com/artist/4HNSfNTAFpn017tvAro6xx), [Alex Martinez](https://open.spotify.com/artist/3vkoJYTS0dkxrsrpAVPrTb) | [I'm \#ELSRDLM](https://open.spotify.com/album/0ZFG7HAARlziJ1QKjoYNC6) | 3:58 |
 | 35 | [Zumba Tribal](https://open.spotify.com/track/1tO56JLSWKeg2ZSXoa4Out) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [El After Party Ya Llego](https://open.spotify.com/album/1LhDt05IVDdQrwybh3Xsyj) | 2:57 |
-| 36 | [Senti2](https://open.spotify.com/track/6PCkpWCWbRKdBIlMjLPVKS) | [Holguin](https://open.spotify.com/artist/3POaPK6kssLkrO010CotXJ), [Anny Sepulveda](https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m), [Nick Rush](https://open.spotify.com/artist/6x2XPDItvcy6FrWoPdJV1M) | [Senti2](https://open.spotify.com/album/5x6EmQK9vVzzueIcI6j5j6) | 4:07 |
-| 37 | [Pompi Cadera](https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Pompi Cadera](https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD) | 2:20 |
+| 36 | [Pompi Cadera](https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Pompi Cadera](https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD) | 2:20 |
+| 37 | [Senti2](https://open.spotify.com/track/6PCkpWCWbRKdBIlMjLPVKS) | [Holguin](https://open.spotify.com/artist/3POaPK6kssLkrO010CotXJ), [Anny Sepulveda](https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m), [Nick Rush](https://open.spotify.com/artist/6x2XPDItvcy6FrWoPdJV1M) | [Senti2](https://open.spotify.com/album/5x6EmQK9vVzzueIcI6j5j6) | 4:07 |
 | 38 | [Ya Se Tardaron](https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed) | [Fierro Pa Dubai](https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze), [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv), [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Ya Se Tardaron](https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm) | 2:55 |
 | 39 | [Imagínate](https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [CID MX](https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Imagínate](https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx) | 2:37 |
 | 40 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 49 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
 | 50 | [Tierra Azteca \(Azteks In Berlín\)](https://open.spotify.com/track/4hb66oTKdC2KrJaRgthbCo) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 2:28 |
 
-Snapshot ID: `MCxjZjEzNjQ4MTg0N2YyMWM2Y2NmNWIxYzAwZjBiOTEyNWY5MWM2OGEz`
+Snapshot ID: `MCwwNmIwOTBmYmQ2ZjNiYzg4YWNlYjMwNzZmYTU1YWU1YjY1NzlkYzA5`

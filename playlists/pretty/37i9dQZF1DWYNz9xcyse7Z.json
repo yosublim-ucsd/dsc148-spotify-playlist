@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 90335,
+  "num_followers": 90516,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDA3NTkxYTk0OTA4MGU1ZGU0MDBiOTBlZjUzNzc1MTRhM2FlZDg5",
+  "snapshot_id": "MCxkZGE4MDEyMThkMTliY2M3NTU5YmRiOGEwZDQ0NzlkMTdjYTQwMGVl",
   "tracks": [
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Ni Te Imaginas",
-        "url": "https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg"
+        "name": "El Diablo y el Federal",
+        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
       },
       "artists": [
         {
-          "name": "Los Parientes",
-          "url": "https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1"
+          "name": "El Canelo De Sinaloa",
+          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
+        },
+        {
+          "name": "Los Dos Del Sitio",
+          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
         }
       ],
-      "duration_ms": 192480,
-      "name": "Aunque No Seas Para Mi",
-      "url": "https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI"
+      "duration_ms": 156942,
+      "name": "Rama Verde",
+      "url": "https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "El Diablo y el Federal",
-        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
+        "name": "Ni Te Imaginas",
+        "url": "https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg"
       },
       "artists": [
         {
-          "name": "El Canelo De Sinaloa",
-          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
-        },
-        {
-          "name": "Los Dos Del Sitio",
-          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
+          "name": "Los Parientes",
+          "url": "https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1"
         }
       ],
-      "duration_ms": 156942,
-      "name": "Rama Verde",
-      "url": "https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna"
+      "duration_ms": 192480,
+      "name": "Aunque No Seas Para Mi",
+      "url": "https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI"
     },
     {
       "added_at": "2023-11-09 23:10:04",

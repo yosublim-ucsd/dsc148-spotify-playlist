@@ -4,7 +4,7 @@
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-61 songs - 4 hr 15 min
+62 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Silent Night](https://open.spotify.com/track/0TckXJ96MJhzgTNEuhCh1Y) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Smooth Jazz Holiday](https://open.spotify.com/album/1bxW1fhSA1Cyho4K9onGCF) | 3:32 | 2021-11-12 |  |
 | [Silver Bells](https://open.spotify.com/track/5jHHcVbCUQYkcnyzobYTjF) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Classic Christmas Album](https://open.spotify.com/album/29big2asVjHGaNijZP9dDU) | 3:58 | 2021-12-03 |  |
 | [The Christmas Song](https://open.spotify.com/track/3LOhIheEbRY1umUKE1IR0C) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/1wxd8kjNTUmmJC5CvrszR2) | 3:41 | 2023-10-27 | 2024-03-10 |
-| [The Christmas Song](https://open.spotify.com/track/4fFJ7l4A4SibMLvBzFr6HV) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4L8VU0sSJwhrH4TqCHWGUV) | 3:41 | 2023-10-27 |  |
+| [The Christmas Song](https://open.spotify.com/track/4fFJ7l4A4SibMLvBzFr6HV) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4L8VU0sSJwhrH4TqCHWGUV) | 3:41 | 2023-10-27 | 2024-03-14 |
+| [The Christmas Song](https://open.spotify.com/track/5nT9ArtXb3OMLQdFvzm6D1) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4FSzrcXxW3BmqsOcNydE4H) | 3:41 | 2023-10-27 |  |
 | [The Christmas Song](https://open.spotify.com/track/0shtmMpwcZzI5P9Nu89GM0) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Mojazz Christmas Album](https://open.spotify.com/album/3WZKITZhkybyDhLzQ05p0s) | 4:30 | 2021-11-12 |  |
 | [The Christmas Song \- Instrumental Version](https://open.spotify.com/track/6xeLshljRwiTBr8Iz18F6I) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK), [Terry Trotter](https://open.spotify.com/artist/1E3L7pReVHhkETtwO7qx97), [Clare Fischer](https://open.spotify.com/artist/6YUywiIGx79eA85WXt0FrM), [John Ferraro](https://open.spotify.com/artist/6ABr8kBHFms642ny6WmAOC), [Abraham Laborier](https://open.spotify.com/artist/3TFhdboOCn7aE6KAawR4bW) | [Christmas At My House](https://open.spotify.com/album/4fyb3D0qstNQ4wfOOv12O3) | 4:32 | 2021-11-12 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/3AfoQsG5S3Ksh4862CsPLW) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Breath Of Heaven \- A Holiday Collection](https://open.spotify.com/album/5jb5ySoX2Sesf6Ybsu1lAo) | 4:43 | 2021-11-12 |  |

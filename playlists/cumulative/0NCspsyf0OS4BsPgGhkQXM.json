@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 153557,
       "name": "Burning Wish",
       "url": "https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js"
@@ -5784,6 +5784,32 @@
       "duration_ms": 144000,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/2RDr6nVQtnhhTkAo9O72Ri"
+    },
+    {
+      "album": {
+        "name": "F*ck",
+        "url": "https://open.spotify.com/album/7eeap4wOpwBXK2pe78HMGk"
+      },
+      "artists": [
+        {
+          "name": "Mandrazo",
+          "url": "https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0"
+        },
+        {
+          "name": "sebabrazy",
+          "url": "https://open.spotify.com/artist/2lqxkxCk1iXBOOI9EH3ur0"
+        },
+        {
+          "name": "Kiyashqo",
+          "url": "https://open.spotify.com/artist/13m70A1sL3JXe8ZhRougy5"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "F*ck",
+      "url": "https://open.spotify.com/track/0e7QrydNDrJGRxXvdRUIZf"
     },
     {
       "album": {
@@ -15516,6 +15542,28 @@
       "duration_ms": 273103,
       "name": "Real Life - Hekler Remix",
       "url": "https://open.spotify.com/track/3tAXaWjqeqRF5kSkDrFvh2"
+    },
+    {
+      "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/7iCI4tsViC7Kefaf3rtmKK"
+      },
+      "artists": [
+        {
+          "name": "Crushed Candy",
+          "url": "https://open.spotify.com/artist/14eHJcsWsxWq4UjaXBvmJ1"
+        },
+        {
+          "name": "Frizzy The Streetz",
+          "url": "https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/2Ci4ObLzjiFT1U1y346Nui"
     },
     {
       "album": {

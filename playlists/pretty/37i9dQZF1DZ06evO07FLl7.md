@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,818 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,819 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 48 | [Flor Laranja](https://open.spotify.com/track/4Oct09kM0spNmbowmgmjE4) | [A.X.L.](https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt), [Skeeter](https://open.spotify.com/artist/7g7jKmP3nb2Ys5jdoZpdsw), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Quando É Preciso Voltar](https://open.spotify.com/album/0nLvIHbTPxE9aPmcP45T6D) | 3:55 |
 | 49 | [Manifesto / Pule, Garota](https://open.spotify.com/track/1VIBGa37qbipRVncehwjf7) | [Rimas e Melodias](https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Mayra Maldjian](https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk), [Djamila Ribeiro](https://open.spotify.com/artist/5tQuAu98DIum7c9AgtX1BF) | [Rimas & Melodias](https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb) | 8:39 |
 
-Snapshot ID: `Mjg1MDQxMTgsMDAwMDAwMDBmY2JiNGNkYzA3M2IzZThmNGJhYTI5MzFkNmIyNmVlYw==`
+Snapshot ID: `Mjg1MDU1NzEsMDAwMDAwMDBjNzM2NjQ1NjY5Y2YxNmYwZmMyNjY0ZTI0MjVkNDI1Yg==`

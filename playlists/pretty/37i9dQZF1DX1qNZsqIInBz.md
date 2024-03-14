@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,649 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,489 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SO TIRED](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SO TIRED](https://open.spotify.com/album/688ytwDXOttov235i5WAk8) | 2:52 |
-| 2 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK) | 1:54 |
+| 2 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1) | 1:54 |
 | 3 | [lost my way.](https://open.spotify.com/track/3LDOh5ufbKc9RMu1eOzL5V) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [lost my way.](https://open.spotify.com/album/4vdFAzl8OXWKlBrnVoV8WX) | 2:06 |
 | 4 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 |
 | 5 | [Broken Trust](https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Broken Trust](https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [Spacewave](https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu) | [Confirmbackup](https://open.spotify.com/artist/6Da2INMo1oIn9flRNiIZqk) | [Spacewave](https://open.spotify.com/album/5BWydJ3ORPcf5Z7cCmFuyJ) | 3:26 |
 | 100 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MCwzYmZhYjk0MzRmNzMyMTU2YTljNWJiZTA0ZGNhMmFkYWIxNGUxMDE3`
+Snapshot ID: `MCxkMTYxYTVjMjA0MjFiN2I2MjIyMjRlNmNkNDJjOGI2NTEzMTM2MDMz`

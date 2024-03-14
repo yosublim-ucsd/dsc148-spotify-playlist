@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,200 likes - 111 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,233 likes - 111 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 16 | [T I M I D](https://open.spotify.com/track/4k30b3IfBZqRJQggQ5cz0j) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [T I M I D](https://open.spotify.com/album/13uUu1paYpKNzbetsNMaqt) | 2:28 |
 | 17 | [Anti\-Gravity](https://open.spotify.com/track/7bzarmiobBm1oOCSBmTevV) | [Space Time](https://open.spotify.com/artist/357YQNXCYAKT5NLytqNLs0) | [Anti\-Gravity](https://open.spotify.com/album/1SfGFTKbHjoYkPVcdAbV3a) | 2:18 |
 | 18 | [coconut](https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [coconut](https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd) | 2:50 |
-| 19 | [Wonders](https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe) | [Moon Spirit](https://open.spotify.com/artist/62zKB6KmehKNRoyd8YgNwE) | [Wonders](https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW) | 2:43 |
+| 19 | [Wonders](https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe) | [Moon Spirit](https://open.spotify.com/artist/5KQrXENL8zznzYw3r6zTlx) | [Wonders](https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW) | 2:43 |
 | 20 | [Gloom](https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [Gloom](https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN) | 2:32 |
 | 21 | [I Dream of Perfection](https://open.spotify.com/track/6EmGurhkEkSoeO7iAXVWJz) | [Some Guy I Know](https://open.spotify.com/artist/04PHmOO2YEDLmkcuEM8vzP) | [Remember Perfection](https://open.spotify.com/album/0fjtcRYUOjcGh6bteSfaKl) | 1:22 |
 | 22 | [fireflies](https://open.spotify.com/track/227z0kBpLGVr4YqaTeNCIU) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [fireflies](https://open.spotify.com/album/6iMYwdC0KQAuqn1YsFWCAR) | 2:08 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 110 | [Floating Stones](https://open.spotify.com/track/0ZotW8k8AHAkFpkJjp7BZL) | [stella light](https://open.spotify.com/artist/2WxlX59yWZg3hi99qQ8nch) | [Floating Stones](https://open.spotify.com/album/2eZZotBSXmgv3Bnoh4fKov) | 2:03 |
 | 111 | [need a vacation?](https://open.spotify.com/track/1sHID1bINevTLGNkvfLQfC) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [need a vacation?](https://open.spotify.com/album/5xadz5QNEgrbOSKCje5wSf) | 2:08 |
 
-Snapshot ID: `MCxmYjI3MDE0M2VmOTE0MjYzYTI0MGRkNWZjY2JmOGFhYjYyYWE4ZDkz`
+Snapshot ID: `MCw1MGQyZGQxN2RhYzQyMDU3NDVjMGE1N2JlYWU3NGZhZGY5MDJjNWU2`

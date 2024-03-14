@@ -1,12 +1,12 @@
 {
   "description": "Folk punk, anti-folk, acoustic punk & more. Cover: AJJ",
-  "num_followers": 2462,
+  "num_followers": 2466,
   "original_name": "Folk Misfits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDQ5ZDg4NzQwMjczODAxOGRlZTc2ZGIyZmJjZGZiMWIxN2M3ODA5",
+  "snapshot_id": "MCw0NmQ4MmI5YjIxMzNkMGVkZjA5NmJjMDVlZmVhNDRhZmNjYWVkNDkz",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Revel in the Rubble",
-        "url": "https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf"
-      },
-      "artists": [
-        {
-          "name": "Cousin Boneless",
-          "url": "https://open.spotify.com/artist/5fPPvbwNTcwUlHEnupabeg"
-        }
-      ],
-      "duration_ms": 234833,
-      "name": "Devil's Will",
-      "url": "https://open.spotify.com/track/12A6vaFlMMGVOxwTrLjexL"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "It's the Ones Who've Cracked That the Light Shines Through",
         "url": "https://open.spotify.com/album/4GqPBbYTgJ8PrYV3fSB7Db"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 122893,
       "name": "I Saw a Hippie Girl on 8th Ave",
       "url": "https://open.spotify.com/track/1lmsq361YTwZC9ftorAGIu"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Revel in the Rubble",
+        "url": "https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf"
+      },
+      "artists": [
+        {
+          "name": "Cousin Boneless",
+          "url": "https://open.spotify.com/artist/5fPPvbwNTcwUlHEnupabeg"
+        }
+      ],
+      "duration_ms": 234833,
+      "name": "Devil's Will",
+      "url": "https://open.spotify.com/track/12A6vaFlMMGVOxwTrLjexL"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Get Busy Living or Get Busy Crying",
-        "url": "https://open.spotify.com/album/3mJ925Io2NR1Dp4x7oFUyV"
-      },
-      "artists": [
-        {
-          "name": "Dirty Harry",
-          "url": "https://open.spotify.com/artist/59C1eNpE0q9dh7U48KBJUV"
-        }
-      ],
-      "duration_ms": 337066,
-      "name": "Forever Yours",
-      "url": "https://open.spotify.com/track/0NdkNJhi6xD0REXKIBOmQt"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "The D.I.Y. Fecta",
         "url": "https://open.spotify.com/album/2LlDP4y2j8cS3RZRoDEeyb"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 270160,
       "name": "Strong Hearts Bleed Out First",
       "url": "https://open.spotify.com/track/6w3E4mrMqc8Z1sYIU03IUv"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Get Busy Living or Get Busy Crying",
+        "url": "https://open.spotify.com/album/3mJ925Io2NR1Dp4x7oFUyV"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/59C1eNpE0q9dh7U48KBJUV"
+        }
+      ],
+      "duration_ms": 337066,
+      "name": "Forever Yours",
+      "url": "https://open.spotify.com/track/0NdkNJhi6xD0REXKIBOmQt"
     }
   ],
   "unique_name": "Folk Misfits",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGJW1teeCDY.md) - [plain]
 
 > Listen to the official playlist for Boy Swallows Universe, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,345 likes - 22 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,390 likes - 22 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGJW1teeCDY.md) - [plain]
 | 21 | [Lost In Love](https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 3:53 |
 | 22 | [It Must Be Love](https://open.spotify.com/track/70Y4jSu8zk3l8gyKTUz3l0) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:56 |
 
-Snapshot ID: `MCxiMjZkNzhmOWY0MTdlYjY0NTNkYjFhOGUzZjNlYzEyNzc4NjM2NDM3`
+Snapshot ID: `MCw0M2E3MTA3NTA4NDVkMDY0YmI2MzY1ZDczYWVmYTM0ZDVlZDQ2ZjQw`

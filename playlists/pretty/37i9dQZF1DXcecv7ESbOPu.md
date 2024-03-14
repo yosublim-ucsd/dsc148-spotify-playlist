@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,910 likes - 118 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,906 likes - 118 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 46 | [empty.](https://open.spotify.com/track/6sOqBwBR4xslraYPdTCY9b) | [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA), [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [empty.](https://open.spotify.com/album/2ljmmjVTkS3ERc3mSEg6gQ) | 2:27 |
 | 47 | [Her \(Unafraid\)](https://open.spotify.com/track/1YRXzUuxmMwP0AakokidBb) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Her \(Unafraid\)](https://open.spotify.com/album/0Q6YFpV525tWaT18vjXdWC) | 3:33 |
 | 48 | [ROOM IS ON FIRE \(feat\. AG Club\)](https://open.spotify.com/track/1LgfBZnwX0IDLNrVbMZbzV) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [ROOM IS ON FIRE \(feat\. AG Club\)](https://open.spotify.com/album/7m5a2dvnmwnce97spFC8Fy) | 3:09 |
-| 49 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
+| 49 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit Da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
 | 50 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 |
 | 51 | [Pages](https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pages](https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia) | 3:14 |
 | 52 | [Sacred Scars](https://open.spotify.com/track/0LOb3tEOaMW9Pu6HeQ9bLO) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [AcjnN](https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1) | [Sacred Scars](https://open.spotify.com/album/2fW3hwCm8ziEPXasvTvIC8) | 3:11 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 117 | [När ett hjärta gråter](https://open.spotify.com/track/5HZRnyC6UmG9VFoBfGQF0G) | [Donnez](https://open.spotify.com/artist/4rMk4gSVtsxoOb7NPwF6hA) | [När ett hjärta gråter](https://open.spotify.com/album/4yY9LcSLU9ukHp0eQE9dgj) | 3:09 |
 | 118 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 |
 
-Snapshot ID: `MCwwMWIzZDY3NmE3MzEyZmEyMzM0ZGEwZGU1OTY2NGJhNTQ3MmE3YmE3`
+Snapshot ID: `MCw5OGZlMmU1MjJjNjM2MjU4MDE3ZTJiYzgxZjVhMzZjNDkxZGNkMTA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: IMI\_BLUE\(이미블루\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,336 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,348 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Foolish dream](https://open.spotify.com/track/0jEPptbPvkRugup7GbB75m) | [Views in i](https://open.spotify.com/artist/6tAcBtwTtklMKSYcQc5qvV) | [Foolish dream](https://open.spotify.com/album/2T1XcNb9Uw1N46hpOTaxdc) | 2:44 |
 | 100 | [가위, 바위, 보! Rock, Scissors, Paper!](https://open.spotify.com/track/1cDIe8UxfzgKRE30JpnlcS) | [KACHISAN](https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH) | [가위, 바위, 보! Rock, Scissors, Paper!](https://open.spotify.com/album/7mHmUOPnTN9grCWRBwU3Ew) | 3:27 |
 
-Snapshot ID: `MCw5ZTE3NmU1ODg3MTA2NThlNWI1NDhiODA5MmE3ZDZiMmVkYjEwOTMz`
+Snapshot ID: `MCwxMDFiOWIyOWM4NjljOGQyNzU1ODg1YzE5NzY1MDExNjlhODUyYmEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > co\-curadoria com IZA em celebração ao Mês Internacional da Mulher!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,219 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,239 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 33 | [Roupa Branca](https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc) | 2:27 |
 | 34 | [Você Chegou](https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Você Chegou](https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV) | 2:23 |
 | 35 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
-| 36 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
-| 37 | [LIMÃO](https://open.spotify.com/track/4jPUsd9EElz1AgiEM0axZG) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [LIMÃO](https://open.spotify.com/album/7o8LOcVrGcSecxWCdDtaKT) | 2:41 |
-| 38 | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/track/7rNhzJJQaO1CQwDYsejFGP) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/album/0VIVSFkDikh8A0WBM0cN13) | 3:27 |
-| 39 | [Bandida](https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Bandida](https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY) | 3:27 |
+| 36 | [LIMÃO](https://open.spotify.com/track/4jPUsd9EElz1AgiEM0axZG) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [LIMÃO](https://open.spotify.com/album/7o8LOcVrGcSecxWCdDtaKT) | 2:41 |
+| 37 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
+| 38 | [Bandida](https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Bandida](https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY) | 3:27 |
+| 39 | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/track/7rNhzJJQaO1CQwDYsejFGP) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/album/0VIVSFkDikh8A0WBM0cN13) | 3:27 |
 | 40 | [A Loba](https://open.spotify.com/track/1GrtIxLbh56ArbN9AkYFRO) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [A BRABA É ELA 2](https://open.spotify.com/album/23cbfoApa2IEWN8rscmIBi) | 1:51 |
-| 41 | [Ref Delas](https://open.spotify.com/track/2saEZ80HauiGjLE8wt9syS) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [It Girl](https://open.spotify.com/album/1Ynhp5YkHTsVYmtHdvUwe5) | 2:19 |
-| 42 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 |
-| 43 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
+| 41 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
+| 42 | [Ref Delas](https://open.spotify.com/track/2saEZ80HauiGjLE8wt9syS) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [It Girl](https://open.spotify.com/album/1Ynhp5YkHTsVYmtHdvUwe5) | 2:19 |
+| 43 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 |
 | 44 | [Telefone](https://open.spotify.com/track/06pNle1p87Hvz8YMv7IJkV) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Riff](https://open.spotify.com/artist/7HWxy4b4td3XP7WjueymyN) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 3:08 |
 | 45 | [Vou Atrás](https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Som Da Minha Casa](https://open.spotify.com/album/7baL0IZSoNpKjn5aNykKhc) | 2:26 |
 | 46 | [Passione](https://open.spotify.com/track/75rWUt2aqjGj2qKLD7hFcY) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Passione](https://open.spotify.com/album/3cGGvKieKWwGfqB3LJJAP0) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [A BRABA É ELA](https://open.spotify.com/track/0jCVZPKATio2VCF37Jf6O6) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [A BRABA É ELA](https://open.spotify.com/album/1sLRI3xGm5m0Hf1gj5dWQc) | 2:22 |
 | 50 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 |
 
-Snapshot ID: `MCxmYmU5Y2M3YTZiY2VhYzVhNDUzYWM4NzdlYTFlMDE1ZTk3ZGZhYWMx`
+Snapshot ID: `MCw2MTQ4ZWE2ZGUzOGJiZmEwN2JlOTUzM2E3NTNlZTJkYWFkZWVmYjQ5`

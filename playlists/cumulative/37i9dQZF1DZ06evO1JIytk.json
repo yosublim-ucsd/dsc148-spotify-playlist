@@ -526,7 +526,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 169426,
       "name": "Finish What We Started",
       "url": "https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze"
@@ -1016,6 +1016,24 @@
       "duration_ms": 121390,
       "name": "No Allegiance To A Flag",
       "url": "https://open.spotify.com/track/798wYM5enzA8WSIIpLdtlw"
+    },
+    {
+      "album": {
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137482,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/7yDhbySqtQtoCgrH3uI9FM"
     },
     {
       "album": {

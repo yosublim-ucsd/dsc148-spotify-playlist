@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Cami.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,442 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,446 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 17 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
 | 18 | [si vuelvo a caer](https://open.spotify.com/track/4bTFg8ecsSwHg9ndyK9rR7) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [si vuelvo a caer](https://open.spotify.com/album/08TRoa9KPyQpXu3WcA58Nv) | 2:13 |
 | 19 | [Love It](https://open.spotify.com/track/71ANngN8RaJnVnxLs69tZg) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Love It](https://open.spotify.com/album/102WeTzufZpgQQz9fNS2t4) | 2:10 |
-| 20 | [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 |
-| 21 | [Huellas](https://open.spotify.com/track/1SVCCEV7QGvSKKhqRz3JHa) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Huellas](https://open.spotify.com/album/5dP8254p4zg1six4QP4P4z) | 3:02 |
+| 20 | [Huellas](https://open.spotify.com/track/1SVCCEV7QGvSKKhqRz3JHa) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Huellas](https://open.spotify.com/album/5dP8254p4zg1six4QP4P4z) | 3:02 |
+| 21 | [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 |
 | 22 | [Sentimiento Real G](https://open.spotify.com/track/4F8Ey7mqO9ELVgJY9saaEk) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Sentimiento Real G](https://open.spotify.com/album/1iThcdxlMgJlfFyvBez6Gm) | 3:24 |
 | 23 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 |
 | 24 | [Arza y Toma](https://open.spotify.com/track/7Jwb6OyKlFaNwCcLKbhzKz) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Arza y Toma](https://open.spotify.com/album/4dU7Ci3JxiHQdfZWkVVyIe) | 3:34 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 28 | [14F](https://open.spotify.com/track/4kJrtSLNJCJnhvk0VDFyqr) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [14F](https://open.spotify.com/album/2VOzU65Y6m4Yp4okBNu5D0) | 2:22 |
 | 29 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 |
 | 30 | [Tiempo al tiempo](https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Ese Té](https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE) | [Tiempo al tiempo](https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz) | 2:22 |
-| 31 | [Naughty Girl](https://open.spotify.com/track/6N1T8r7vpVoxUIwdMCihKr) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Naughty Girl](https://open.spotify.com/album/7bhmi0fi3gB7PXRKfeE4jQ) | 2:56 |
-| 32 | [Loco](https://open.spotify.com/track/0bxSYZKwDjqFm11YRt987r) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 2:58 |
-| 33 | [Baby del Rey](https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Baby del Rey](https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB) | 3:20 |
+| 31 | [Baby del Rey](https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Baby del Rey](https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB) | 3:20 |
+| 32 | [Naughty Girl](https://open.spotify.com/track/6N1T8r7vpVoxUIwdMCihKr) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Naughty Girl](https://open.spotify.com/album/7bhmi0fi3gB7PXRKfeE4jQ) | 2:56 |
+| 33 | [Loco](https://open.spotify.com/track/0bxSYZKwDjqFm11YRt987r) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 2:58 |
 | 34 | [Tarde o temprano](https://open.spotify.com/track/0hcM9LkquCW5AEZb6cEbwq) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Tarde o temprano](https://open.spotify.com/album/1q1ZEjeH4JnnweEEnCBitJ) | 3:42 |
 | 35 | [Cuántas Veces](https://open.spotify.com/track/6UhnK295yppIxUQu5M6Smf) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/20ybOdg170EXOUuWsTWgNg) | 3:06 |
 | 36 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 46 | [Dunas](https://open.spotify.com/track/6Dpo39yzOfHjhM0tGNPT98) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Dunas](https://open.spotify.com/album/6wj89F0gGAMks3pJnlQ6hE) | 4:04 |
 | 47 | [Ella](https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Ella](https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0) | 3:02 |
 | 48 | [perfecta](https://open.spotify.com/track/2WOInVpAZEimBFsdWPDjVw) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 2:40 |
-| 49 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
-| 50 | [Asumir](https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Asumir](https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY) | 3:47 |
+| 49 | [Asumir](https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Asumir](https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY) | 3:47 |
+| 50 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
 
-Snapshot ID: `MCwwZGE3MTgyYzgzYmQ2NTUxMTk4MjI4YTZmNjVhNWMyMDE0OTcyNjEx`
+Snapshot ID: `MCwyYWZjMGJiYmNlZjAxMzIyOGI0Mzc4ODIzZTk3YWZkMDdiMDhhZDRl`

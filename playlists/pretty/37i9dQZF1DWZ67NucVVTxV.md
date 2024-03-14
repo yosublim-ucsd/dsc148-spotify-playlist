@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,615 likes - 90 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,653 likes - 90 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 45 | [Ghetto Boy](https://open.spotify.com/track/6CwHDTafcWyYD26W6H8V3Z) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3) | [YEEBO](https://open.spotify.com/album/2qeaO3fagOUndhz27vNyaF) | 2:31 |
 | 46 | [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 |
 | 47 | [Disconnect](https://open.spotify.com/track/26ie1qNqSkk62pgFBvOpKc) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Disconnect + Go Hard](https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu) | 2:17 |
-| 48 | [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 |
+| 48 | [Sa Me](https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU) | 2:48 |
 | 49 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 |
 | 50 | [2024](https://open.spotify.com/track/7LgfX8BEtDceogs4LHiEWn) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [2024](https://open.spotify.com/album/6UXcIFDH6SRoSmsRu1CE5c) | 2:54 |
 | 51 | [IDK \(feat\. Zlatan\)](https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:00 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 89 | [NEVER LATE](https://open.spotify.com/track/1Cc8bDOlOySCAaCjzpPHQV) | [Korshi T](https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc), [Big Spliff](https://open.spotify.com/artist/3Fz8mwoqTbaKjZhId8Ig6f), [Shady Wise](https://open.spotify.com/artist/1xWuHmKJHhgC95Ad3LNi8y) | [NEVER LATE](https://open.spotify.com/album/7zkIWU0EItOPJyR4OedYVF) | 2:49 |
 | 90 | [Kwechiri](https://open.spotify.com/track/5bESpRe1X0g6j5MdrLUhIf) | [Dj Rhyzo](https://open.spotify.com/artist/2sEWT2zCbqV7aCvijfyr14) | [Kwechiri](https://open.spotify.com/album/6yk12r5uBg6MG92REoFBA5) | 2:25 |
 
-Snapshot ID: `MCw1NWM0ZjA4MTZjMTI1NTU2ZjdhZmRmNTQzNDRkNjhhODMyM2ViMDA4`
+Snapshot ID: `MCxhZDg4NjI2OTlhYTc1Y2FhNGNjNTEyMjM2YWE0MWIxODBjM2VlODY2`

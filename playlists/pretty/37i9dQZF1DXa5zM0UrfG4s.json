@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 107804,
+  "num_followers": 107817,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2I4YTQxYjUxMmRiYjgzMjhjYWQ3MGMyNGUzODE5Y2YwZjllY2Nj",
+  "snapshot_id": "MCxkN2VmM2E0YjVmZjUzMjllYzc3Yjc1MDhjNDhlMzJkMDU0YTVkYzQ5",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -963,30 +963,6 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Den fineste Tesla\u00b4n",
-        "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
-      },
-      "artists": [
-        {
-          "name": "Jon Niklas R\u00f8nning",
-          "url": "https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw"
-        },
-        {
-          "name": "Pernille \u00d8iestad",
-          "url": "https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ"
-        },
-        {
-          "name": "Ole M. Aagen\u00e6s",
-          "url": "https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P"
-        }
-      ],
-      "duration_ms": 184377,
-      "name": "Den fineste Tesla\u00b4n",
-      "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
         "name": "Alt det der (feat. Lars-Erik Blokkhus & Dag Ingebrigtsen)",
         "url": "https://open.spotify.com/album/3juWqAxnKuVVCNQHxOVAAl"
       },
@@ -1015,6 +991,30 @@
       "duration_ms": 177536,
       "name": "Alt det der (feat. Lars-Erik Blokkhus & Dag Ingebrigtsen)",
       "url": "https://open.spotify.com/track/255CixwgWFfqHB1liw1LPE"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Den fineste Tesla\u00b4n",
+        "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
+      },
+      "artists": [
+        {
+          "name": "Jon Niklas R\u00f8nning",
+          "url": "https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw"
+        },
+        {
+          "name": "Pernille \u00d8iestad",
+          "url": "https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ"
+        },
+        {
+          "name": "Ole M. Aagen\u00e6s",
+          "url": "https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P"
+        }
+      ],
+      "duration_ms": 184377,
+      "name": "Den fineste Tesla\u00b4n",
+      "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
     },
     {
       "added_at": "2024-03-07 23:00:00",

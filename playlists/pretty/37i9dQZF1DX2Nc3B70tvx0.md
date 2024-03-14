@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: St\. Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124,740 likes - 105 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,124,818 likes - 105 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 104 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
 | 105 | [Thick Skull \(Re: Julien Baker\)](https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 4:54 |
 
-Snapshot ID: `MCw0ZTAzMzQ3YzM2NDBiMzcwOTNkYmIzNDIwYzE4NTgyMjU0YmI5M2Ew`
+Snapshot ID: `MCw2ODM1MjYwNDMyNDIyMjA4NWIzOWY3OTdjM2ViY2U3ZDA5N2Y3MDVl`

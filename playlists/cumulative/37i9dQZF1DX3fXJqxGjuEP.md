@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-498 songs - 1 day 5 hr 53 min
+499 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Aloha](https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aloha](https://open.spotify.com/album/23T1akaF3cPN6Pp27JQ8vi) | 3:07 | 2021-10-20 |  |
 | [Alé Alé](https://open.spotify.com/track/5a13G958woUNSUaQAdW3Fb) | [Gilberto Rodriguez y Los Intocables](https://open.spotify.com/artist/470mNgtwTnopkQgKVI0wRA) | [Alé Alé](https://open.spotify.com/album/1eFgr8k65ED1OMU9KG1X2G) | 3:47 | 2021-10-20 | 2022-07-24 |
 | [Amanecerá \- Bial Hclap Remix](https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv), [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1) | [Amanecerá \(Bial Hclap Remix\)](https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx) | 3:06 | 2021-10-20 | 2022-07-17 |
+| [Amapola](https://open.spotify.com/track/6z1SwjA8rwq3us02vNucJ0) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Amapola](https://open.spotify.com/album/2HSmF2WgfCh78aKjTdouGd) | 2:42 | 2022-08-08 |  |
 | [Amapola](https://open.spotify.com/track/7rtJduTQw1qM4YlYBN9EMq) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Amapola](https://open.spotify.com/album/1BFEgNcj4per8cDrlkp6Az) | 2:42 | 2022-08-08 | 2024-01-26 |
 | [Amor Arrayano](https://open.spotify.com/track/6JfEqa7eSRZDfzAPBJdf4Q) | [Yasser Tejeda](https://open.spotify.com/artist/1l3daUiuR5OVVeBoPBU0WE), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Amor Arrayano](https://open.spotify.com/album/4EgEBNMsIhWTR2J9HdFfMK) | 3:40 | 2021-10-20 | 2022-07-28 |
 | [Amor De Verano](https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:06 | 2021-10-20 |  |
@@ -188,7 +189,7 @@
 | [Entre Paraísos](https://open.spotify.com/track/02P3oPhKA2SAlLlFvTvEgg) | [Arial](https://open.spotify.com/artist/0oegQ94V48WQtfYpkvaW2G) | [Entre Paraísos](https://open.spotify.com/album/0m1nXpYzV1JYQNp3hJrKGe) | 3:34 | 2021-10-20 | 2022-04-21 |
 | [Eres Tú](https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Eres Tú](https://open.spotify.com/album/21fMKfrrSkfaUvvWu5wrJR) | 2:39 | 2021-10-20 | 2022-04-21 |
 | [Espinas](https://open.spotify.com/track/5UbXtPeRaCWGhA3KiZ3OMC) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Espinas](https://open.spotify.com/album/2DbUtUuR9pAuyARLiBBKTG) | 3:14 | 2021-10-20 | 2022-07-22 |
-| [Espiritual](https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Espiritual](https://open.spotify.com/album/0pzR57yGM9wOsRzmVU64lP) | 3:51 | 2021-10-20 |  |
+| [Espiritual](https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Espiritual](https://open.spotify.com/album/0pzR57yGM9wOsRzmVU64lP) | 3:51 | 2021-10-20 | 2024-03-14 |
 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 | 2023-09-26 |  |
 | [Estamos Bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estamos Bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 | 2022-11-25 | 2023-01-29 |
 | [Esto Es Real \(8100mg\)](https://open.spotify.com/track/7vCYM3eDr2ZDpYOie5oVDI) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Esto Es Real \(8100mg\)](https://open.spotify.com/album/15dVE1XgRGM4XRy2F3KPJK) | 4:58 | 2021-10-20 | 2022-04-15 |

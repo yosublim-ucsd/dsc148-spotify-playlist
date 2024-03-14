@@ -1,12 +1,12 @@
 {
   "description": "Genie\u00dft die ersten Sonnenstrahlen mit der ganzen Familie.",
-  "num_followers": 36172,
+  "num_followers": 36227,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGE3NmQyNGZkZDcyMjkxMmY5MmZmYmNhYzhkNDVjYzY2YWY3MmJm",
+  "snapshot_id": "MCxhMWRkMjAyNzEzMWE5YWVjMGIwYjZhNzBmZTM5OTk4OGEzYjlmMWFk",
   "tracks": [
     {
       "added_at": "2024-03-01 14:36:42",
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 88540,
-      "name": "Kleine Meise",
-      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
+      "duration_ms": 56745,
+      "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
+      "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 56745,
-      "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
-      "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
+      "duration_ms": 88540,
+      "name": "Kleine Meise",
+      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "015/Abends im Walde",
-        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
-      },
-      "artists": [
-        {
-          "name": "Unser Sandm\u00e4nnchen",
-          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
-        }
-      ],
-      "duration_ms": 123320,
-      "name": "Fr\u00fchlingslied",
-      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
         "name": "Die 40 besten Fingerspiel-Lieder",
         "url": "https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq"
       },
@@ -899,26 +883,34 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Willkommen auf dem singenden Bauernhof",
-        "url": "https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD"
+        "name": "015/Abends im Walde",
+        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
       },
       "artists": [
         {
-          "name": "Der singende Bauernhof",
-          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
-        },
-        {
-          "name": "Otti Stubs",
-          "url": "https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB"
-        },
-        {
-          "name": "Sarah Schiffer",
-          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
+          "name": "Unser Sandm\u00e4nnchen",
+          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
         }
       ],
-      "duration_ms": 119240,
-      "name": "Der singende Bauernhof - Titelsong",
-      "url": "https://open.spotify.com/track/1KTA0xfBwFoqYVHCBqrR4d"
+      "duration_ms": 123320,
+      "name": "Fr\u00fchlingslied",
+      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Der Fr\u00fchling ist da - 25 kunterbunte Kinderlieder im Fr\u00fchling",
+        "url": "https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK"
+      },
+      "artists": [
+        {
+          "name": "Martin G\u00f6th",
+          "url": "https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i"
+        }
+      ],
+      "duration_ms": 107961,
+      "name": "So bunt ist die Fr\u00fchlingszeit",
+      "url": "https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n"
     }
   ],
   "unique_name": "Familienzeit: Fr\u00fchling",

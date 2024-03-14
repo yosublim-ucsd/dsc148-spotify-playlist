@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,437,126 likes - 85 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437,817 likes - 85 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 26 | [月へ行こう](https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [月へ行こう](https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w) | 3:18 |
 | 27 | [愛は薬](https://open.spotify.com/track/1rf80hAVw6y8rVc1HsOpuv) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [愛は薬](https://open.spotify.com/album/2wfdLp7pe92E16ZwBHdFpP) | 4:24 |
 | 28 | [Hitorino Yoru \- From CrosSing](https://open.spotify.com/track/4MOSwNhxxovY9ael6QmJ2w) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Hitorino Yoru \- From CrosSing](https://open.spotify.com/album/6N7xWo1Wl7JxFT4bkcvFiN) | 4:06 |
-| 29 | [A.B.SECRET](https://open.spotify.com/track/4BaEWsa2psex2e7aGBKbOq) | [LIP×LIP](https://open.spotify.com/artist/5LtKPfXlcnoOvks1fj2c3b), [勇次郎 \(CV:内山昂輝\)](https://open.spotify.com/artist/6zcLeTGwFoddrcExg57vI4), [愛蔵 \(CV:島﨑信長\)](https://open.spotify.com/artist/1iOh71mDLOpHEdKPvDYKoc) | [A.B.SECRET](https://open.spotify.com/album/6dPCE5QeWOMRpdyEq5eQe3) | 2:39 |
+| 29 | [A.B.SECRET](https://open.spotify.com/track/0RX2B6sHh6K2j1VJDU1oi9) | [LIP×LIP](https://open.spotify.com/artist/5LtKPfXlcnoOvks1fj2c3b), [勇次郎 \(CV:内山昂輝\)](https://open.spotify.com/artist/6zcLeTGwFoddrcExg57vI4), [愛蔵 \(CV:島﨑信長\)](https://open.spotify.com/artist/1iOh71mDLOpHEdKPvDYKoc) | [生まれてきたことに感謝しなさい！](https://open.spotify.com/album/27WuW2wGrF1BI6RoB5hcFq) | 2:39 |
 | 30 | [Colorful Joyful](https://open.spotify.com/track/3YfjyBGY6GJB4k8bxVdRZ8) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Fluffy Party, Everybody Happy](https://open.spotify.com/album/0ru36PiVV8UscuV54FliZo) | 3:02 |
 | 31 | [Dear sunrise](https://open.spotify.com/track/25EjH8afEtEVAo545MsfOi) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [Dear sunrise](https://open.spotify.com/album/5oi9Tau6QtV499bgMOEDZo) | 3:39 |
 | 32 | [この愛に敵うもんはない](https://open.spotify.com/track/3oaqQczgoSVRK8NPvNL6i4) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [この愛に敵うもんはない](https://open.spotify.com/album/5FCwuMphmpu2sJf1Ctom42) | 3:24 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [because](https://open.spotify.com/track/6A7ApLuakiDmKHtVn6Alpi) | [Tei](https://open.spotify.com/artist/0rDC7Y5wGmOdqS7JVaZpYI) | [because](https://open.spotify.com/album/3X5S24GPW8hFTfmR8QVyRG) | 4:32 |
 | 85 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 |
 
-Snapshot ID: `MCw3MzA3NWM5OTgzM2Q2MTNkYzViNjNiZGZlNzVjMzZlZDk5NTVhMzY2`
+Snapshot ID: `MCwxZWE1ZmEwZDdjZGIyMTEwZDFmMjg4MDM2ODdjM2I0N2RkOWIxMTFi`

@@ -4,7 +4,7 @@
 
 > you tell me to shush???? Cover: Emei
 
-1,975 songs - 4 day 3 hr 38 min
+1,977 songs - 4 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,6 +889,7 @@
 | [IDK SH!T](https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDK SH!T](https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF) | 2:51 | 2022-07-29 | 2023-01-28 |
 | [idontwannaknow](https://open.spotify.com/track/4X2O6NJqtYaszW3QHDaLDA) | [Beauvois](https://open.spotify.com/artist/6AbXJxYckXHpMDApmUyP8A) | [idontwannaknow](https://open.spotify.com/album/0Bqy9IeyjK67kuvyr6rqTv) | 3:17 | 2020-02-19 | 2021-05-20 |
 | [IDWK](https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [IDWK](https://open.spotify.com/album/6s7fnQZkQ6ZqmRxpJ22OjF) | 2:03 | 2021-02-27 | 2021-10-13 |
+| [If I Could Read Minds](https://open.spotify.com/track/5r7COJiDQ8iV9Zp2iW8DFQ) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [If I Could Read Minds](https://open.spotify.com/album/6lRH2QRWilbB0MLzkicOak) | 3:22 | 2024-03-08 |  |
 | [If I Don't Laugh I'll Cry](https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [If I Don't Laugh I'll Cry](https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd) | 2:52 | 2024-01-19 |  |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-04-22 | 2023-09-16 |
 | [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-03-24 | 2023-07-01 |
@@ -1191,7 +1192,7 @@
 | [My Ways](https://open.spotify.com/track/5o3IfIHZBTQCJS2y1c13su) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [My Ways](https://open.spotify.com/album/0XUrFhOuZ1HOijwXToI0gM) | 3:01 | 2021-03-14 | 2021-08-28 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-18 | 2022-05-07 |
 | [Napkins](https://open.spotify.com/track/077ULIWZuzfn7YWJl8s01U) | [Tony Ferrari](https://open.spotify.com/artist/2OwJfEHbju9I3yrWL5Fq3T) | [Napkins](https://open.spotify.com/album/6lQ6RVsg9TiaXuV3a4llw9) | 2:34 | 2021-08-19 | 2021-10-13 |
-| [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 | 2024-02-23 |  |
+| [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 | 2024-02-23 | 2024-03-14 |
 | [Narcissistic](https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Narcissistic](https://open.spotify.com/album/51zC8YAdQSRQ4YiLxWLQbr) | 2:50 | 2024-01-26 |  |
 | [Nasty](https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Nasty](https://open.spotify.com/album/0fvYSWu3eHfBdnFEFN4Md5) | 2:51 | 2022-06-24 | 2022-07-29 |
 | [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:41 | 2022-06-17 | 2022-09-03 |
@@ -1395,6 +1396,7 @@
 | [punchline](https://open.spotify.com/track/7i5OGr4JDrQeaz6hc8B9Fz) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [punchline](https://open.spotify.com/album/5dj2PiEnEyDTqt3S33tGlM) | 2:49 | 2022-07-29 | 2022-09-17 |
 | [Puppy](https://open.spotify.com/track/3R5YAmx1HzkobNpMDNbFT4) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Puppy](https://open.spotify.com/album/7yVEnMhX4OPPftLAsU6zsn) | 2:26 | 2020-09-25 | 2021-08-21 |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-03-25 | 2022-04-21 |
+| [push up bra](https://open.spotify.com/track/5HmAnp494nmfabHiRFGBkc) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [push up bra](https://open.spotify.com/album/56l2wVNW9dqsumrKaajQZY) | 2:13 | 2024-03-08 |  |
 | [Put It All On Me](https://open.spotify.com/track/3d7QNPRDr5N4HniovDgQAG) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Put It All On Me](https://open.spotify.com/album/64xTStyvtAH3LhUtSk5qkY) | 3:16 | 2019-05-26\* | 2019-08-13 |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2021-01-25 | 2022-01-08 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-10 | 2023-10-01 |
@@ -1694,7 +1696,7 @@
 | [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 | 2023-01-13 | 2023-06-24 |
 | [Sweet Tooth Baby](https://open.spotify.com/track/7h9GhjA4crhzz4z0Qk9h2Q) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA), [YOREN!](https://open.spotify.com/artist/1q0VsVFCMq4eICivuuJQQW) | [Sweet Tooth Baby](https://open.spotify.com/album/3EHocdF9UkeXjlEEGCrdCx) | 3:20 | 2020-09-30 | 2021-01-15 |
 | [Swimming Pools](https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Swimming Pools](https://open.spotify.com/album/5Zcg17XUGy8YawKHEfBpff) | 2:38 | 2022-06-24 | 2022-08-13 |
-| [swimming pools](https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [swimming pools](https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN) | 2:32 | 2024-01-12 |  |
+| [swimming pools](https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [swimming pools](https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN) | 2:32 | 2024-01-12 | 2024-03-14 |
 | [Swing Swing](https://open.spotify.com/track/0VWRbuEicramx9Hp2iWCTC) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Swing Swing](https://open.spotify.com/album/1kImx6P9OYh8lob0po00jJ) | 3:11 | 2019-05-26\* | 2019-08-13 |
 | [Swing!](https://open.spotify.com/track/6As82n96RAwuoR9Y69N0EB) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Swing!](https://open.spotify.com/album/3LrxGxVT1ScQcKHkPHjzuD) | 2:50 | 2022-10-07 | 2023-02-25 |
 | [Swinging at the Stars](https://open.spotify.com/track/0plgpP6pbcptrfbCEHKKcA) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Just Because](https://open.spotify.com/album/2ArWkmluhZLOmbwCfyKurF) | 3:43 | 2023-10-06 | 2023-12-09 |

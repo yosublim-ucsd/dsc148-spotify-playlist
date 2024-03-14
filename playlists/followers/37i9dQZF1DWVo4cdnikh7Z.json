@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 660559,
+  "2024-03-14": 660605,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Rathnam",
   "name": "Latest Tamil",
@@ -8953,6 +8953,32 @@
       "duration_ms": 264198,
       "name": "Jillu Jillu (From \"Va Varalam Va\")",
       "url": "https://open.spotify.com/track/0vTlGklrZc5wFxk2sIXHSZ"
+    },
+    {
+      "album": {
+        "name": "Jiloma (From \"The Boys\")",
+        "url": "https://open.spotify.com/album/2uFjpUj2Svs8afDIjz9bX7"
+      },
+      "artists": [
+        {
+          "name": "Arun Gautham",
+          "url": "https://open.spotify.com/artist/3OreWdk2YUILJKiomoy0l1"
+        },
+        {
+          "name": "Soup Kuruvis",
+          "url": "https://open.spotify.com/artist/3DrCW71Wthxchsf6n7eCWb"
+        },
+        {
+          "name": "T. Rajendar",
+          "url": "https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213583,
+      "name": "Jiloma (From \"The Boys\")",
+      "url": "https://open.spotify.com/track/3kOLzUhApSBgChnPTmTkhD"
     },
     {
       "album": {
@@ -26641,7 +26667,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 135827,
       "name": "Vaarai Rathnam",
       "url": "https://open.spotify.com/track/1LozlztrbkcT1GB9ANDBMy"
@@ -28804,7 +28830,7 @@
         },
         {
           "name": "Charles",
-          "url": "https://open.spotify.com/artist/5qh9JtALCnTCX22BNzoqL5"
+          "url": "https://open.spotify.com/artist/1Qe2AtnLK3syAWx5NPCZtr"
         },
         {
           "name": "Vandana Srinivasan",

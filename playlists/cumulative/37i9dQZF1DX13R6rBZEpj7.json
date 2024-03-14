@@ -1575,6 +1575,32 @@
     },
     {
       "album": {
+        "name": "Eyes On You (Burt Cope Remix)",
+        "url": "https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7"
+      },
+      "artists": [
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        },
+        {
+          "name": "SOULSTATE",
+          "url": "https://open.spotify.com/artist/00v8euXAAgPonp3i5g92ds"
+        },
+        {
+          "name": "Burt Cope",
+          "url": "https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Eyes On You - Burt Cope Remix",
+      "url": "https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5"
+    },
+    {
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6"
       },
@@ -2114,7 +2140,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 232602,
       "name": "Hard Hitters",
       "url": "https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7"

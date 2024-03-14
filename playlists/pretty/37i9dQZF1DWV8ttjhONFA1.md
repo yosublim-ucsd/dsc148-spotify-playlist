@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: La Valenti
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,472 likes - 95 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,477 likes - 95 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 94 | [ENEVÉ](https://open.spotify.com/track/2xWmwxKqh5FVeDexebZoAx) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [ENEVÉ](https://open.spotify.com/album/0ddgf6yXgePomeJvtQtDaD) | 2:31 |
 | 95 | [No Vale](https://open.spotify.com/track/0djDTuNDZ4W6C621lD1GNu) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Nadie Duerma](https://open.spotify.com/album/2AXJcDmxkNrrtUkbjZGfv9) | 4:11 |
 
-Snapshot ID: `MCw3OWI5ZmIxM2Q0ODhiMWFjZjNiODgzY2I1MDQ0OTI1ZDYzZmU5NTIx`
+Snapshot ID: `MCwzMjZkOTU2ZThmNmUwNWEwZjhjYzQyMjNlNjZkM2RkMDBiNjMwYjdh`

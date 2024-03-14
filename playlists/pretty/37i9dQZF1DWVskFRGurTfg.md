@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Santa Fe Klan, Duki y Peso Pluma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309,429 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,310,280 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 99 | [No tiene Nombre Esta Canción](https://open.spotify.com/track/5Xjr84VOEVG57yVTWiA1ru) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 2:54 |
 | 100 | [La Triple M](https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL) | [Mawell](https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN) | [La Triple M](https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA) | 3:21 |
 
-Snapshot ID: `MCwwMzE3MzI1Njk0MjFkMjk4NDU5NThjYTI2ZTBjNzYzNGM3NTI2ZmU4`
+Snapshot ID: `MCxmMmY2OGFhOWE4ODI2YjBlMjc4NjA4NGYyZDZkNmQ3NWIxNTM0OTEw`

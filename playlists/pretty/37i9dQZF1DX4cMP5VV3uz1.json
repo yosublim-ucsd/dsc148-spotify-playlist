@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 150113,
+  "num_followers": 150171,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTRlN2MzN2M2MDZlYzBiZGE3YmIyZjE2ZTI1MGY0ODdkZTFkZjEy",
+  "snapshot_id": "MCwxZjVlMjM3NGNlMzhiYTIzM2E2Yzk0ZDAyYzA3N2I0OWUwNmE2MGRi",
   "tracks": [
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Run (Part 1)",
         "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 135085,
       "name": "Run (Part 1)",
       "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Hot In Here",
-        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
+        "name": "Know What It Means",
+        "url": "https://open.spotify.com/album/0AaRkGHFB4D8PsZylovt0d"
       },
       "artists": [
         {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         },
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
         }
       ],
-      "duration_ms": 191022,
-      "name": "Hot In Here",
-      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
+      "duration_ms": 160000,
+      "name": "Know What It Means",
+      "url": "https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1311,22 +1311,22 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Know What It Means",
-        "url": "https://open.spotify.com/album/0AaRkGHFB4D8PsZylovt0d"
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
         },
         {
-          "name": "Raphaella",
-          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Know What It Means",
-      "url": "https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf"
+      "duration_ms": 191022,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Playground",
-        "url": "https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP"
+        "name": "Cluster",
+        "url": "https://open.spotify.com/album/5X9rtUQlk7f04F9dsra2el"
       },
       "artists": [
         {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+          "name": "Tantrum Desire",
+          "url": "https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS"
         }
       ],
-      "duration_ms": 232215,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ"
+      "duration_ms": 249795,
+      "name": "Cluster",
+      "url": "https://open.spotify.com/track/47sojOFHCWJuDCDj3MFGnc"
     }
   ],
   "unique_name": "Proper Naughty ",

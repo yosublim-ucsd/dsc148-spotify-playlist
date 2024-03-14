@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 
 > Quelques chansons tranquilles pour des moments tendres et complices
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,859 likes - 68 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,864 likes - 68 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 19 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:43 |
 | 20 | [Je vole](https://open.spotify.com/track/5WhMVZ58MqdvACu3OaP5cZ) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chambre 12](https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr) | 3:36 |
 | 21 | [Dis quand reviendras\-tu ?](https://open.spotify.com/track/3CF6eEQIylA5NFlDxBtZVP) | [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [IL Y A Longtemps Que Je T'aime \[B.O\. Du Film De P.Claudel\]](https://open.spotify.com/album/5vRnmtfrIvwlydCxpsdDBr) | 4:29 |
-| 22 | [Tu Ne Me Dois Rien](https://open.spotify.com/track/7BVEtUdMRwBD3JTsIkXP2W) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Hotel S](https://open.spotify.com/album/5izluV9r74JI8ZdsOUJ1xt) | 3:54 |
+| 22 | [Tu ne me dois rien](https://open.spotify.com/track/7BVEtUdMRwBD3JTsIkXP2W) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Hotel S](https://open.spotify.com/album/5izluV9r74JI8ZdsOUJ1xt) | 3:54 |
 | 23 | [La vie d'artiste](https://open.spotify.com/track/5rE7sFkSxvGjPkQgu8zSsp) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La vie d'artiste](https://open.spotify.com/album/77umZ5RoAPP2dnv0ibyjAQ) | 3:43 |
 | 24 | [Merci pour ça](https://open.spotify.com/track/1y6n4bMkeTzf2Sx5b1DQ0v) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Merci pour ça](https://open.spotify.com/album/544zXjuiQh3aDIYwc7bQXo) | 3:23 |
 | 25 | [Nuit 17 à 52](https://open.spotify.com/track/46DlBa8Ur16bfKayDj4VaT) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Nuit 17 à 52](https://open.spotify.com/album/4cs2w6vZu5FiybB2uJFWlj) | 4:21 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 67 | [I’ll See You In My Dreams](https://open.spotify.com/track/0SOeHOnrKeUCSoLD1lbjcj) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Eternels jusqu’à demain](https://open.spotify.com/album/6h57y7voPpiRDYnh4X6hqg) | 3:04 |
 | 68 | [Les Secrets Chuchotés](https://open.spotify.com/track/3DnoHIA9BPsMBNVnMYbYIL) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [D’Une Tonne A Un Tout Petit Poids](https://open.spotify.com/album/3IZYKZL2tUqYKUL9EAbPpt) | 4:13 |
 
-Snapshot ID: `MCxiZGNkN2IxNTU0MmRjOTJhOGIwOWRmYjdmNWJlMDE0M2FmYWRjNDg3`
+Snapshot ID: `MCwyNjA0N2FiMWM2M2IzYmM2ZmZmZGU2YWMxODQ3Nzc3OWM2ZGM3NDli`

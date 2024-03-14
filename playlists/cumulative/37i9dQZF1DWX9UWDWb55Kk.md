@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-446 songs - 1 day 4 hr 14 min
+447 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,8 @@
 | [Louder](https://open.spotify.com/track/12pGqnaKaZBsheMqM2PhCm) | [Katéa](https://open.spotify.com/artist/0cGkk9StiitJk2vVzpBRn5) | [Louder](https://open.spotify.com/album/7sKmZkgRDiJ9EXwRx8mNdo) | 3:40 | 2021-09-01 |  |
 | [Louder](https://open.spotify.com/track/2iNcHD6FFL6yPsOa2rFMA7) | [Katéa](https://open.spotify.com/artist/0cGkk9StiitJk2vVzpBRn5) | [Louder](https://open.spotify.com/album/2krEk2t0eIjugo82H4Jyvt) | 3:40 | 2021-09-01 | 2023-11-04 |
 | [Love In Motion](https://open.spotify.com/track/0dJ0pX1MohcF33LpFssliC) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 3:05 | 2022-11-24 |  |
-| [Lugar Seguro 3.0](https://open.spotify.com/track/0Q2iFOzcpgpulStIbS3XXQ) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv) | [Y3Y2](https://open.spotify.com/album/3Bdh2N5sBNxHN2YkKGI8Cr) | 2:49 | 2023-10-21 |  |
+| [Lugar Seguro 3.0](https://open.spotify.com/track/1amVFHxrLKTka5o3iy2PRn) | [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [Y3Y2](https://open.spotify.com/album/2OTomwELFbr0pPyklxV9NI) | 2:49 | 2023-10-21 |  |
+| [Lugar Seguro 3.0](https://open.spotify.com/track/0Q2iFOzcpgpulStIbS3XXQ) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv) | [Y3Y2](https://open.spotify.com/album/3Bdh2N5sBNxHN2YkKGI8Cr) | 2:49 | 2023-10-21 | 2024-03-14 |
 | [Lunatic Moon](https://open.spotify.com/track/5ak3uXRWMo9IegBSVaGjHb) | [Pisces](https://open.spotify.com/artist/0BGNUG45FxpWbjvuhRRbJA) | [Pisces](https://open.spotify.com/album/4dkbl2hosIqWW3iDMTAx5u) | 3:22 | 2021-09-01 |  |
 | [Lungs](https://open.spotify.com/track/118mlHvsJSKCOdzaCRxGq4) | [Endless Forms](https://open.spotify.com/artist/45qAYZp30YlU29wdDU5JWK), [Jessica Leben](https://open.spotify.com/artist/5fceH0rZiz4dyG3icctkZ3) | [If There Were Water](https://open.spotify.com/album/7afeJYkCyceUQL01j05ZIw) | 3:52 | 2021-09-01 |  |
 | [Lungs](https://open.spotify.com/track/3sz5yb4kagmhw1r9n8brHz) | [Endless Forms](https://open.spotify.com/artist/45qAYZp30YlU29wdDU5JWK), [Jessica Leben](https://open.spotify.com/artist/5fceH0rZiz4dyG3icctkZ3) | [If There Were Water](https://open.spotify.com/album/1O8S8tIdS9oNPbgFb5U1bA) | 3:52 | 2021-09-01 | 2023-10-06 |

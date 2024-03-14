@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 50937,
+  "2024-03-14": 50957,
   "date_first_scraped": "2022-05-15",
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: YUQI(\uc6b0\uae30)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
@@ -1603,6 +1603,24 @@
       "duration_ms": 191103,
       "name": "Drive to 1980 Love",
       "url": "https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF"
+    },
+    {
+      "album": {
+        "name": "Drive to 1980 Love",
+        "url": "https://open.spotify.com/album/5Oov22r0e9aNkHqhgrEdOD"
+      },
+      "artists": [
+        {
+          "name": "JANE POP",
+          "url": "https://open.spotify.com/artist/7G6b59wjxcAlNpSCmfig5u"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191103,
+      "name": "Drive to 1980 Love",
+      "url": "https://open.spotify.com/track/6wTsVAlBZxi8mdGbbAwcWp"
     },
     {
       "album": {

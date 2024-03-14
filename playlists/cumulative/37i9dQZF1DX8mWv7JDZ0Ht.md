@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Bryan Behr, DUDA BEAT
 
-565 songs - 1 day 4 hr 2 min
+566 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Alto Mar](https://open.spotify.com/track/0UAeeeqIozUW3g5w86bp9m) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/7LevgNPvMOCz0xVDQ61wM0) | 3:17 | 2022-05-13 | 2022-07-29 |
 | [Alto Mar](https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX) | 3:17 | 2022-07-01 | 2022-10-15 |
 | [Alvoroço](https://open.spotify.com/track/2eDuRj2ndCZkpojzlAS79I) | [Malu Rodrigues](https://open.spotify.com/artist/4GiLjWLDEAfW8Cy7mmYnbp) | [Alvoroço](https://open.spotify.com/album/7zQ5XIkKJWTAuA8zLEVTYV) | 2:52 | 2022-05-13 | 2022-06-15 |
-| [Amanheceu Assim](https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw) | [Stéfano Ferraz](https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa) | [Amanheceu Assim](https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU) | 3:24 | 2023-09-15 |  |
+| [Amanheceu Assim](https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw) | [Stéfano Ferraz](https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa) | [Amanheceu Assim](https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU) | 3:24 | 2023-09-15 | 2024-03-14 |
 | [Amanhã](https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Amanhã](https://open.spotify.com/album/7D5BKQFmv0YGEYul18avdT) | 2:38 | 2023-06-30 | 2023-10-29 |
 | [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 | 2022-05-13 | 2022-08-13 |
 | [Amaré](https://open.spotify.com/track/5cmMXwBZQWWtjPRcl3Boc3) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Na Becca III](https://open.spotify.com/album/5MsRhdEmCDCsceqWnqWG6H) | 2:36 | 2023-10-20 | 2023-12-16 |
@@ -191,6 +191,7 @@
 | [Eu Gosto de Você](https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Desajeito](https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm) | 2:31 | 2022-11-11 | 2023-02-04 |
 | [eu me amo mais](https://open.spotify.com/track/0qfHRo7pVX4GMJlhG70NQs) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [solta](https://open.spotify.com/album/4DMZLRmAYZ3vDfD6Mv5cIy) | 2:13 | 2022-05-13 | 2022-09-03 |
 | [Eu Não Ando Tão Bem Assim](https://open.spotify.com/track/7fbZjEmoOFBu1HrhrRHLFc) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Eu Não Ando Tão Bem Assim](https://open.spotify.com/album/5SDyNbbogMnxYdXw29dijy) | 3:00 | 2022-09-09 | 2023-01-28 |
+| [Eu Não Gosto De Você](https://open.spotify.com/track/3Og1pv5olDQgQrydmgnaEA) | [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Eu Não Gosto De Você](https://open.spotify.com/album/2khNdKDOcnbwH2mKP2oKVx) | 2:50 | 2024-03-08 |  |
 | [Eu Pensei Muito na Gente](https://open.spotify.com/track/2rTrI2Ci5DlokeE7odH4SU) | [Raffa Mogi](https://open.spotify.com/artist/1GzNbVSgVruCtWjQAHVKYF) | [Eu Pensei Muito na Gente](https://open.spotify.com/album/4NNja3VMeL9nFHGQx9T6kP) | 3:06 | 2023-10-06 | 2024-01-13 |
 | [Eu Sou um Fracasso](https://open.spotify.com/track/58hVOSkdd1jY6oVGcGkC60) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Sou um Fracasso](https://open.spotify.com/album/3TFbaz1pFem6T3IdceMRRZ) | 2:31 | 2022-05-13 | 2022-06-04 |
 | [Eu Só Penso em Nós](https://open.spotify.com/track/3sQuO4jLsCnCSva4eXiPap) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Eu Só Penso em Nós](https://open.spotify.com/album/3ZblEbMh2FbTGClnIgx92h) | 3:00 | 2023-10-27 | 2023-11-18 |

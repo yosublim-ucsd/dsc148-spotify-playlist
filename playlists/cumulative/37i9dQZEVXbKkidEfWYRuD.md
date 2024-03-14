@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,415 songs - 2 day 17 hr 34 min
+1,416 songs - 2 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1068,7 +1068,8 @@
 | [Мне это не нужно](https://open.spotify.com/track/1I08Gc6g5fK9zEWNZASQzq) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 3:27 | 2022-11-19 | 2022-12-11 |
 | [Может Расскажешь, Что Ты Чувствуешь \(Главные Ворота\)](https://open.spotify.com/track/6ABWiqJMSrd4XZ4t7kJzeu) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [PHILARMONIA](https://open.spotify.com/album/4TqFHsIfmRgHNB3FLL5pKI) | 2:26 | 2022-11-26 | 2022-11-28 |
 | [МОЖНО СФОТКАТЬСЯ?](https://open.spotify.com/track/4SW7uB5wCBgMRlCwqABPuA) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 1:04 | 2021-05-22 | 2021-05-26 |
-| [Можно я с тобой](https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB) | 2:12 | 2024-03-04 |  |
+| [Можно я с тобой](https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB) | 2:12 | 2024-03-04 | 2024-03-14 |
+| [Можно я с тобой](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 | 2024-03-13 |  |
 | [Мой байк](https://open.spotify.com/track/4ZXE5Lwt3DiQ1J66nP8YQj) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [Мой байк](https://open.spotify.com/album/2a1MEcQrArJo6GIzsKo08P) | 2:54 | 2022-02-23 | 2022-02-28 |
 | [Молодість](https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:30 | 2022-05-30 | 2023-10-18 |
 | [Молча](https://open.spotify.com/track/1BjBE6bfBbDnGmDhDItaKP) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [СХИК2](https://open.spotify.com/album/44wvsZUldIhxQ9qtnLN1ji) | 2:16 | 2023-11-11 | 2023-11-13 |
@@ -1184,7 +1185,7 @@
 | [Покохай мене](https://open.spotify.com/track/1YeQGpxrQvp6Yg3K6SIgho) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Покохай мене](https://open.spotify.com/album/7iT1upSPSL2UpnEO2rQ3rX) | 2:56 | 2023-11-13 |  |
 | [Положение](https://open.spotify.com/track/1hfISzdAwnywAKxaSpfloo) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Уроборос: Улица 36](https://open.spotify.com/album/4AazRccPqHpoIxedRFfurN) | 4:42 | 2021-03-27\* | 2021-10-31 |
 | [Пополам](https://open.spotify.com/track/0nqWnlvSpyqbk2Xp9mncVL) | [BRANYA](https://open.spotify.com/artist/0Bs5ttRLguNx77bWNy6og4), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [Пополам](https://open.spotify.com/album/2TQvPwtjrMEcyCPEcvPCAg) | 2:21 | 2021-06-16 | 2021-10-16 |
-| [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2023-03-17 | 2024-03-13 |
+| [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2023-03-17 |  |
 | [Порічка](https://open.spotify.com/track/3gH5vuIvlmzHQkPGmbkXND) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Порічка](https://open.spotify.com/album/7psQf9ptuKCMeDfvlumlmU) | 2:39 | 2023-04-08 |  |
 | [последнее лето](https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:17 | 2023-03-02 | 2024-03-09 |
 | [ПОСЛЕДНИЙ БИТ ОТ СЛАВЫ](https://open.spotify.com/track/39cTOq0Egkqi718Xb9pYoG) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 1:17 | 2021-05-22 | 2021-05-26 |
@@ -1314,7 +1315,7 @@
 | [Ты и Я](https://open.spotify.com/track/75C98tVaHUtjYZTIcy9U7U) | [Xcho](https://open.spotify.com/artist/774od4b04zDMQMGxrJDeuB) | [Immigrant](https://open.spotify.com/album/1XWnfJfC78XdXsZQK043YN) | 2:28 | 2022-05-21 | 2022-06-03 |
 | [ТЫ ОСЛЕП](https://open.spotify.com/track/0e2de4hqK1CKt0dolrcrzb) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 2:05 | 2021-05-22 | 2021-05-30 |
 | [Тысячи рук](https://open.spotify.com/track/4wT9xC986HKw6LMObnOLfr) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [Viva la vida](https://open.spotify.com/album/4xu3a1LuYV0r3uCgiiuPNy) | 3:06 | 2021-05-08 | 2021-09-03 |
-| [Тюльпан](https://open.spotify.com/track/4jrpKE68sivjyPwEPRvlbN) | [Rem Digga](https://open.spotify.com/artist/2R1OELuSJzXjRm8lc8FjPC) | [Тюльпан](https://open.spotify.com/album/3nVV3qwydEFYBKOGUA5iXu) | 3:00 | 2024-02-10 |  |
+| [Тюльпан](https://open.spotify.com/track/4jrpKE68sivjyPwEPRvlbN) | [Rem Digga](https://open.spotify.com/artist/2R1OELuSJzXjRm8lc8FjPC) | [Тюльпан](https://open.spotify.com/album/3nVV3qwydEFYBKOGUA5iXu) | 3:00 | 2024-02-10 | 2024-03-14 |
 | [У мене немає дому](https://open.spotify.com/track/4GC6tlXcAsyp4pNrlyo1pb) | [Odyn v Kanoe](https://open.spotify.com/artist/5fMNki1cAszN37EYRTVdOc) | [Один в каное](https://open.spotify.com/album/1lhisylKmXpuAyPsDoHv5Y) | 3:18 | 2022-03-24 | 2022-10-08 |
 | [У окна](https://open.spotify.com/track/1MnwDuTK1m9AV3nV3kUVes) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [У окна](https://open.spotify.com/album/6reMUR1KIwOwJ2IjCH7J24) | 2:53 | 2021-07-04 | 2021-07-27 |
 | [У У У](https://open.spotify.com/track/5IHRFEEHSVd8Ks1joLjZDq) | [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ПРИЯТНО ПОЗНАКОМИТЬСЯ](https://open.spotify.com/album/3XOuPQNE5Svwy0y7Ef4kAy) | 2:37 | 2022-07-13 | 2022-08-17 |

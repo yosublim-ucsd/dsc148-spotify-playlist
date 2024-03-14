@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: biskuwi
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,180 likes - 79 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,331 likes - 79 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 78 | [Hypnotik](https://open.spotify.com/track/6654nztvB3fkikF77CUcN4) | [\[ Wex 10 \]](https://open.spotify.com/artist/0ZeXHrj76WIHS8JOPJUogN) | [Hypnotik](https://open.spotify.com/album/7jFNGLhgJh3hwzKPIa3vuK) | 6:53 |
 | 79 | [Arambol Lights](https://open.spotify.com/track/7kA3hOc4HPk6JRD3ZBMMLK) | [Axis Of Time](https://open.spotify.com/artist/0y4TXuiPGjA80YqCzEMGfo) | [Evolution Of Mind](https://open.spotify.com/album/0gjODlMRc3Cl49zD8iZDuC) | 6:05 |
 
-Snapshot ID: `MCxiODQwYjk4NzQ4MDRmMDZjNjdlYjBjYzQ3N2VkODc1OTRkZjQ0ZjMx`
+Snapshot ID: `MCxlMWM4ODM4ZmE0MWQ5YjMyODZmMjVhMzliMmEwZmI4N2MwNzIzMGMx`

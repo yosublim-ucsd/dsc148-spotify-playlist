@@ -2542,6 +2542,24 @@
     {
       "album": {
         "name": "Rain",
+        "url": "https://open.spotify.com/album/4hDnl0O0btobLg0EgzsfZw"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237217,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3XvpMrRSAMDeVLZOqCrDuU"
+    },
+    {
+      "album": {
+        "name": "Rain",
         "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
       },
       "artists": [
@@ -3278,7 +3296,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 212666,
       "name": "Special",
       "url": "https://open.spotify.com/track/0mJXYwO3SY1botH8lBfjBQ"

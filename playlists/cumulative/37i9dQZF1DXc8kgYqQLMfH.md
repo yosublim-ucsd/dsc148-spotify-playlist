@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,142 songs - 1 day 19 hr 20 min
+1,143 songs - 1 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -835,7 +835,7 @@
 | [Road Trip](https://open.spotify.com/track/7egZDzFPxPlXJe2RaPQYhd) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Road Trip](https://open.spotify.com/album/3H2o8UFe2NzqJdSWgRfVIx) | 2:09 | 2021-11-10 | 2022-06-03 |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 |  |
 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 | 2022-03-04 | 2023-03-02 |
-| [Roll me sideways](https://open.spotify.com/track/3qpCwJdsLxPm129Rp3FHqc) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Roll me sideways](https://open.spotify.com/album/2NlX8PH716CtCqXdnOHc7e) | 2:40 | 2024-03-08 |  |
+| [Roll me sideways](https://open.spotify.com/track/3qpCwJdsLxPm129Rp3FHqc) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Roll me sideways](https://open.spotify.com/album/2NlX8PH716CtCqXdnOHc7e) | 2:40 | 2024-03-08 | 2024-03-14 |
 | [Rolling By](https://open.spotify.com/track/3LK0gJqUKVqTpBIogxjak7) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [Jam Session](https://open.spotify.com/album/0Udv2Q7r13MbZIAQ5vuMlu) | 2:36 | 2021-11-10 | 2022-06-10 |
 | [Rolling Like River Rocks](https://open.spotify.com/track/1mGvebQMqIXadbhHzUNdrD) | [Golden Frame](https://open.spotify.com/artist/1HlZzvl4HefwTdmj5W9uNo) | [Rolling Like River Rocks](https://open.spotify.com/album/4WDzXbXJJaTz8LhZH3K6Jf) | 2:12 | 2021-11-10 | 2022-07-22 |
 | [Room Service 24/7](https://open.spotify.com/track/1IXm9rvU1QIbP9xoSR9fRm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Room Service 24/7](https://open.spotify.com/album/7MgB6FT98HuA9uSDtPkNA2) | 3:32 | 2022-09-23 |  |
@@ -1133,6 +1133,7 @@
 | [Winter Again](https://open.spotify.com/track/2uHsdwWYevLk5zsRKgeAOs) | [Dolow](https://open.spotify.com/artist/4a45hyniqH4TLiUs5rzZsX) | [Winter Again](https://open.spotify.com/album/2aOvHXkcZ86OiNaAyRjQdP) | 2:20 | 2022-08-12 | 2023-05-20 |
 | [winter balloon](https://open.spotify.com/track/6qKhsRKyfUbeqeIEArP2d8) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [winter balloon](https://open.spotify.com/album/69793ppyxJHCz149lVQHIt) | 2:11 | 2023-04-03 | 2024-02-23 |
 | [Winter Dawn](https://open.spotify.com/track/5YU5fWdQqKjYPy8kigeWKl) | [forest.io](https://open.spotify.com/artist/0VJePSpgCmiXyZXJuM1qNM), [johto](https://open.spotify.com/artist/7B2DA6KU0k3hJaENyOBXB4), [powerslacker](https://open.spotify.com/artist/1jawOx8A29jhyEQfnm7gMX) | [Winter Dawn](https://open.spotify.com/album/4tqF2LrvOFESOFRoe0Zl0J) | 2:37 | 2022-12-16 |  |
+| [winter sky](https://open.spotify.com/track/2iONNM9jRNfxCDckFyJrsO) | [Dalo](https://open.spotify.com/artist/0dRqtPq1WDr4qMuNEg6KS6) | [winter sky](https://open.spotify.com/album/54HSpyO4c3HoTw0ETVubd1) | 3:14 | 2024-03-08 |  |
 | [winter song](https://open.spotify.com/track/4RHef6DRAkz9uVPXsrdj9z) | [aspvijk](https://open.spotify.com/artist/7taylXRz7ut6LReH7b4Neh) | [winter song](https://open.spotify.com/album/6HWNcbMVFJ3fpx5exCpKux) | 1:50 | 2022-10-15 |  |
 | [Winter Soul](https://open.spotify.com/track/01IfLAw67VFYpmB0lslHES) | [Kwaii Fong](https://open.spotify.com/artist/2XiGTV6HOhZc4D5ymPxWP4), [Chiljalo](https://open.spotify.com/artist/5FshA6iHVcvQYwaPafaWjO) | [Winter Soul](https://open.spotify.com/album/4PpQFyOT9iqYP24jab6YB8) | 2:13 | 2022-12-09 |  |
 | [wintersun](https://open.spotify.com/track/3VeRLgiVTKHDsYrAjI03Sq) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [wintersun](https://open.spotify.com/album/5bkOd00HXDiJqyDkO6qR4Y) | 2:03 | 2024-02-02 |  |
@@ -1140,7 +1141,7 @@
 | [with you](https://open.spotify.com/track/2FQeoy9i7ZQsFrXEdIq0t3) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [foggy afternoons](https://open.spotify.com/album/3VWXOXYNIiomNfJREmxUMf) | 2:58 | 2021-11-10 | 2023-03-02 |
 | [With You](https://open.spotify.com/track/7qDyjfFzulUll3Lg5Ps6N2) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [With You](https://open.spotify.com/album/5vuTlh4xu8FaGAW5jqCPVy) | 1:57 | 2022-07-15 | 2022-07-22 |
 | [Wonder](https://open.spotify.com/track/6iK2WrascfMDaM8uxZNoF9) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Wonder](https://open.spotify.com/album/27URh3zTFrVKbjf6QTtox1) | 2:26 | 2022-04-08 | 2022-12-10 |
-| [Wonders](https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe) | [Moon Spirit](https://open.spotify.com/artist/62zKB6KmehKNRoyd8YgNwE) | [Wonders](https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW) | 2:43 | 2024-03-08 |  |
+| [Wonders](https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe) | [Moon Spirit](https://open.spotify.com/artist/5KQrXENL8zznzYw3r6zTlx) | [Wonders](https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW) | 2:43 | 2024-03-08 |  |
 | [Write to Me](https://open.spotify.com/track/7rqyiacNfGMtQVtGS8V3as) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Write to Me](https://open.spotify.com/album/5GAK1Nu1e0n1pzFtuIuzwz) | 2:03 | 2023-02-07 |  |
 | [Writing On The Wall](https://open.spotify.com/track/6zwn1cdZtB10QfDc21ZM7I) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Writing On The Wall](https://open.spotify.com/album/6uwKTvXEH4LxPmnBnEr4z1) | 1:19 | 2022-11-11 |  |
 | [Wrong Way](https://open.spotify.com/track/6h1jOLfFENC9LBHl2LYJX5) | [The Way It Izz](https://open.spotify.com/artist/1W9e3cxPdsJLicuvQUP3av) | [Wrong Way](https://open.spotify.com/album/0OwVFMWVqaUWYAW1Ct81ti) | 2:59 | 2021-11-10 | 2022-06-03 |

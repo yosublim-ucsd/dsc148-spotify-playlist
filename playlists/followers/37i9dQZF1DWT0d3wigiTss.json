@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 135465,
+  "2024-03-14": 135538,
   "date_first_scraped": "2023-10-23",
   "description": "Adormecer ao som relaxante da chuva.",
   "name": "Chuva para Dormir",
@@ -953,7 +953,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 180000,
       "name": "Dark Storm",
       "url": "https://open.spotify.com/track/2bI4BdFdtdDBM2q3xB3IZR"
@@ -4859,7 +4859,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 163911,
       "name": "Rain Streams",
       "url": "https://open.spotify.com/track/20QS2IhUNQj7kmljqpVjcN"

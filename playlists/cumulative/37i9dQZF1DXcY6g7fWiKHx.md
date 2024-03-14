@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-230 songs - 19 hr 9 min
+231 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,8 +193,9 @@
 | [Soft](https://open.spotify.com/track/4smfeUBbpc5sYQNOI4PDso) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Nice Weather for Ducks](https://open.spotify.com/album/7uejNzWsVJiOimcMZuA6nH) | 4:35 | 2023-09-25 |  |
 | [Something Special](https://open.spotify.com/track/3FcvdS4Sn3pqvk39fGeu8f) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Kreuzberg Kix](https://open.spotify.com/album/6Iy6eBqR3z64XDnBKthfpv) | 7:29 | 2023-09-25 |  |
 | [Spies Are Watching Me](https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Sir Jean](https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 7:12 | 2023-09-25 |  |
-| [Starlight](https://open.spotify.com/track/3hsCeNM5xpc3qdbkafqRjb) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Tyesha Blount](https://open.spotify.com/artist/7ye6DfDfZt0YVuug54vRCz) | [Starlight](https://open.spotify.com/album/633qkkNEqDVDuJpXV4ddg3) | 5:59 | 2024-01-23 |  |
+| [Starlight](https://open.spotify.com/track/3hsCeNM5xpc3qdbkafqRjb) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Tyesha Blount](https://open.spotify.com/artist/7ye6DfDfZt0YVuug54vRCz) | [Starlight](https://open.spotify.com/album/633qkkNEqDVDuJpXV4ddg3) | 5:59 | 2024-01-23 | 2024-03-14 |
 | [Starlight](https://open.spotify.com/track/6P7sCwqzJI0WjpZbD3Dq89) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Tyesha Blount](https://open.spotify.com/artist/7ye6DfDfZt0YVuug54vRCz) | [Starlight](https://open.spotify.com/album/3V5dCh9IpkL9Eb5SyZhYQA) | 5:59 | 2023-09-25 | 2024-03-10 |
+| [Starlight](https://open.spotify.com/track/7rS1eST1BH46vIraDtMge9) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Tyesha Blount](https://open.spotify.com/artist/7ye6DfDfZt0YVuug54vRCz) | [Starlight](https://open.spotify.com/album/5zcIiYtO87KqiYacfS2uTK) | 5:59 | 2024-01-23 |  |
 | [Stop](https://open.spotify.com/track/2m77Y7RxnuQq6hQwfBFPvw) | [B.W.H.](https://open.spotify.com/artist/57nTf3F69KS7AuiAaw2h6f) | [Livin' Up](https://open.spotify.com/album/5IyZ1GScObnqiuRXDG3ray) | 6:42 | 2023-09-25 |  |
 | [Stucco Homes \- D's 12 Inch Edit](https://open.spotify.com/track/53D7hmo1DR6XmpFvAtd5oJ) | [Brett Johnson](https://open.spotify.com/artist/4m8jScGR8Vu3r5k8qgOZCV), [Dave Barker](https://open.spotify.com/artist/4fDdr1gRqAzOSP8jVR6CEs) | [Stucco Homes](https://open.spotify.com/album/18LkaB7FacIuAQAlUPlJoD) | 7:05 | 2023-09-25 |  |
 | [Student Night](https://open.spotify.com/track/5WltyA542cYUVj8NCgOjIR) | [Sandy B](https://open.spotify.com/artist/3Np5z6yU56Sw9744o6oFLl) | [Amajovi Jovi](https://open.spotify.com/album/0PPdH1QzLIOxWROTCqR4QV) | 6:06 | 2023-09-25 |  |

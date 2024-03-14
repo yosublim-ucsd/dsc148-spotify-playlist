@@ -2833,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "Blitz",
+        "url": "https://open.spotify.com/album/1dgGrIfsv8wCbWPxJm5Z00"
+      },
+      "artists": [
+        {
+          "name": "ScrumbleMan",
+          "url": "https://open.spotify.com/artist/6bWkY38tJ2cqGB6fa5TEV7"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112169,
+      "name": "Blitz",
+      "url": "https://open.spotify.com/track/53pn1TpX6czH1PalgzSj9Y"
+    },
+    {
+      "album": {
         "name": "Sewaside II",
         "url": "https://open.spotify.com/album/79qFRdOPllZ9t0uhJsqHwi"
       },
@@ -4511,6 +4529,28 @@
     },
     {
       "album": {
+        "name": "Cut & Paste",
+        "url": "https://open.spotify.com/album/00tAQiwOopsj6EyPJtM3AU"
+      },
+      "artists": [
+        {
+          "name": "Wynne",
+          "url": "https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX"
+        },
+        {
+          "name": "WowGr8",
+          "url": "https://open.spotify.com/artist/07YZUR8pPljCvpxt15BsAc"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Cut & Paste",
+      "url": "https://open.spotify.com/track/1cQWY7njTuPQ3Z9UIoVUB4"
+    },
+    {
+      "album": {
         "name": "D's",
         "url": "https://open.spotify.com/album/5usCGqChw84MfT09Un7kT1"
       },
@@ -5423,6 +5463,24 @@
     },
     {
       "album": {
+        "name": "Don't Make No Sense",
+        "url": "https://open.spotify.com/album/47u9MHGfvxU1MZ1N30uiWT"
+      },
+      "artists": [
+        {
+          "name": "Juwan",
+          "url": "https://open.spotify.com/artist/6XdWc6hDPzl8fpJnZvSo79"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Don't Make No Sense",
+      "url": "https://open.spotify.com/track/5zdQslM9L6djad729h1VuO"
+    },
+    {
+      "album": {
         "name": "Don't Matter",
         "url": "https://open.spotify.com/album/2wwnqGRytuff6IRQcpFuEQ"
       },
@@ -5512,6 +5570,24 @@
       "duration_ms": 146666,
       "name": "Door Dash",
       "url": "https://open.spotify.com/track/14NjvajwODFtcJXpkylDlK"
+    },
+    {
+      "album": {
+        "name": "Doubling Forks",
+        "url": "https://open.spotify.com/album/7JyUejD64BLcgRfh6p3rHZ"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163908,
+      "name": "Doubling Forks",
+      "url": "https://open.spotify.com/track/1de22v4G6ROGvzSgWEI0hf"
     },
     {
       "album": {
@@ -5990,6 +6066,24 @@
       "duration_ms": 99047,
       "name": "empty",
       "url": "https://open.spotify.com/track/1FleBZL4hqJyE39WoZVvsi"
+    },
+    {
+      "album": {
+        "name": "S.H.O.T.T.A.",
+        "url": "https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P"
+      },
+      "artists": [
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/4xyiT7VQV8W718HQCL4VIW"
     },
     {
       "album": {
@@ -6810,6 +6904,28 @@
       "duration_ms": 130403,
       "name": "FLU GAME",
       "url": "https://open.spotify.com/track/3M9RsAQWcVAR8UN6FYFDD1"
+    },
+    {
+      "album": {
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/2pNmDJKnLJNm0lPWnSIbuc"
+      },
+      "artists": [
+        {
+          "name": "Tara Lord",
+          "url": "https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ"
+        },
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "For Love (feat. Thelonious)",
+      "url": "https://open.spotify.com/track/0YGZyCSLMjjSg4f3jHi6qe"
     },
     {
       "album": {
@@ -8954,7 +9070,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 184421,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/3YxP76fARBLAiGRlo4rQwy"
@@ -9845,6 +9961,28 @@
     },
     {
       "album": {
+        "name": "Keep it Jiggy",
+        "url": "https://open.spotify.com/album/3tTxVFETdLKqP3WsdnWy1Q"
+      },
+      "artists": [
+        {
+          "name": "27Delly",
+          "url": "https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT"
+        },
+        {
+          "name": "Butta",
+          "url": "https://open.spotify.com/artist/5jYwwPeSF1EzXPAhYSppaW"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197928,
+      "name": "Kiss it up 2 Heaven",
+      "url": "https://open.spotify.com/track/2iUUauhKDI352vKSm2M8YE"
+    },
+    {
+      "album": {
         "name": "kk",
         "url": "https://open.spotify.com/album/7KLPVcPZacdf2bhnIMFha3"
       },
@@ -10192,7 +10330,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 175008,
       "name": "leave_me_alone",
       "url": "https://open.spotify.com/track/3eZRYige7TanwmG8wP2WyS"
@@ -13799,6 +13937,40 @@
     },
     {
       "album": {
+        "name": "Out The Mud (Bar Wars Cypher #5) [feat. Bla$ta, D' Barbie, WayMoBandzz, & JLR Delly]",
+        "url": "https://open.spotify.com/album/6122JXw66ZiyAgCV3FltZD"
+      },
+      "artists": [
+        {
+          "name": "Thizzler On The Roof",
+          "url": "https://open.spotify.com/artist/7MzVbMozPCJRYjXq7pilQQ"
+        },
+        {
+          "name": "Bla$ta",
+          "url": "https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ"
+        },
+        {
+          "name": "D' Barbie",
+          "url": "https://open.spotify.com/artist/1HgccHjln4GWMT7MuvVrid"
+        },
+        {
+          "name": "Waymobandzz",
+          "url": "https://open.spotify.com/artist/2pddMZZfek5YysYY99OOFz"
+        },
+        {
+          "name": "JLR Delly",
+          "url": "https://open.spotify.com/artist/41nrXyYbhh5CyoKUqKAtCn"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216246,
+      "name": "Out The Mud (Bar Wars Cypher #5) [feat. Bla$ta, D' Barbie, WayMoBandzz, & JLR Delly]",
+      "url": "https://open.spotify.com/track/58S4l6CPdvCa1tyXG9REob"
+    },
+    {
+      "album": {
         "name": "Outrageous",
         "url": "https://open.spotify.com/album/3QGfzF79s7IMddonxo0EcH"
       },
@@ -14480,7 +14652,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 177272,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/2klbMUJMDprtMlP80rDtuZ"
@@ -17770,7 +17942,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 106510,
       "name": "SWEETS",
       "url": "https://open.spotify.com/track/73O0tENMd55PvYnzjnFYR4"
@@ -18242,7 +18414,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 192004,
       "name": "THE LIGHT",
       "url": "https://open.spotify.com/track/1Juvhc9cSve7gugQVY6KXL"
@@ -18420,7 +18592,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 169411,
       "name": "there is nothing left to lose",
       "url": "https://open.spotify.com/track/4npXv8J15fkc0oAsgIBLWG"
@@ -19196,7 +19368,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 128052,
       "name": "Tryna See",
       "url": "https://open.spotify.com/track/6INosmjhUMFjSPBseRtc5a"
@@ -20394,7 +20566,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 116437,
       "name": "WILLOW",
       "url": "https://open.spotify.com/track/7o7iqca2xFSMNXv8Nyo1Pn"

@@ -1,12 +1,12 @@
 {
   "description": "A fresh lofi spin on your favourite tunes and old songs you love. ",
-  "num_followers": 162705,
+  "num_followers": 162885,
   "original_name": "lofi covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2ZjYjJhMjAyNmQ4M2JhNzllZTZmYzI2NzI0ZTBlOGVhMGU2MzE4",
+  "snapshot_id": "MCwwNzY2NDNmYTI4MGZiZWYxNzA0MmE5NDI4Y2M1MzBmZTc0ZWY0NWE3",
   "tracks": [
     {
       "added_at": "2024-03-06 12:09:49",
@@ -1934,6 +1934,10 @@
         {
           "name": "its' okay",
           "url": "https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq"
+        },
+        {
+          "name": "valenti\u00e9",
+          "url": "https://open.spotify.com/artist/1smtSrorIh5e6oODXmkbv5"
         }
       ],
       "duration_ms": 99000,

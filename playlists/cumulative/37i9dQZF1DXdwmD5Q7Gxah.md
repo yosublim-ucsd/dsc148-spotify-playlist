@@ -4,7 +4,7 @@
 
 > the marías on repeat 🫧
 
-2,652 songs - 5 day 22 hr 40 min
+2,656 songs - 5 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -998,7 +998,7 @@
 | [HEADY](https://open.spotify.com/track/7aNW0M1R6eUnoXKpN2HncV) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [heady](https://open.spotify.com/album/2v9Eny0s7E50ugTiFlCuUF) | 3:31 | 2020-02-05 | 2020-05-14 |
 | [Heart Of The Country \- Remastered 2012](https://open.spotify.com/track/5ZAfhAtEpgScJLzx7hHfLI) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [Ram \(Archive Collection\)](https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v) | 2:23 | 2021-07-17 | 2021-07-29 |
 | [Heartbeat](https://open.spotify.com/track/0YUt3MicxnPYcXmoErwqBO) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Heartbeat](https://open.spotify.com/album/6opMaSMh0n9uOEp069dj81) | 3:28 | 2020-10-13 | 2020-11-27 |
-| [Heartbreaker](https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Heartbreaker](https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba) | 3:28 | 2024-02-15 |  |
+| [Heartbreaker](https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Heartbreaker](https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba) | 3:28 | 2024-02-15 | 2024-03-14 |
 | [Heather](https://open.spotify.com/track/1hgNhooPszJZOZ0gLBU88t) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/3BdWnsb2tG6ajlPHmd8jh6) | 3:18 | 2020-03-20 | 2021-01-12 |
 | [Heaven](https://open.spotify.com/track/4rq7yBxY4DcmP8MvxJwxLX) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Heaven](https://open.spotify.com/album/7g4sJ83bs0W0xKBDT7npb2) | 3:20 | 2022-09-13 | 2022-10-29 |
 | [Heaven Falls / Fall on Me](https://open.spotify.com/track/7yHqOZfsXYlicyoMt62yC6) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Heaven Falls / Fall on Me](https://open.spotify.com/album/47FlG4nYHBCVO0DKbdMbCz) | 4:00 | 2019-08-02 | 2019-08-08 |
@@ -1190,6 +1190,7 @@
 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 | 2023-04-07 | 2024-01-11 |
 | [im nothing thats all i am](https://open.spotify.com/track/3oDBYKthsd3DGliEdGfWcx) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [im nothing thats all i am](https://open.spotify.com/album/2ayUmTStEfjW9Km9juAR73) | 2:57 | 2023-05-19 | 2023-06-08 |
 | [Imagine U](https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Imagine U](https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo) | 3:09 | 2020-04-09 | 2020-07-29 |
+| [imperfect for you \- acoustic](https://open.spotify.com/track/0blfewz7XXrjsZd5WnHwgE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 3:03 | 2024-03-13 |  |
 | [Impress You](https://open.spotify.com/track/1ErdywFnm0dfwqzVwvtZ9O) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Impress You](https://open.spotify.com/album/7LoFWSATc3Vpu8Uv49D4oP) | 3:13 | 2020-09-10 | 2020-11-11 |
 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-17 | 2023-04-20 |
 | [In Between Plans](https://open.spotify.com/track/4T59PtRxilhsLFWxWabCEm) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [In Between Plans](https://open.spotify.com/album/0YdjMWhmusn8W2QrDYYuAz) | 3:46 | 2019-07-30\* | 2019-10-11 |
@@ -1384,6 +1385,7 @@
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2023-01-06 | 2023-03-16 |
 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-17 | 2024-01-11 |
 | [Lose](https://open.spotify.com/track/2w5QAzFA6bwErf3Xo05mQK) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Lose](https://open.spotify.com/album/3ZTQVeyP8qtTnjlp0XLWL9) | 3:16 | 2023-05-17 | 2023-05-25 |
+| [lose myself in you](https://open.spotify.com/track/6GpSWcqSaXWNKK5j7LI4Kl) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [lose myself in you](https://open.spotify.com/album/4fo2KoDpmRMoXxveQ1O0CS) | 3:18 | 2024-03-13 |  |
 | [Loser](https://open.spotify.com/track/2xDqbLFSfHDlfpeUmJ4RwQ) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Loser](https://open.spotify.com/album/2gsPik2x7iO7kNb8vxHnRk) | 2:06 | 2022-03-18 | 2022-05-12 |
 | [Losing You](https://open.spotify.com/track/29kMmvimeOyKb60VEX7aj5) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 4:20 | 2024-01-03 | 2024-01-11 |
 | [Losing You](https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC) | 4:20 | 2021-03-06 | 2021-03-14 |
@@ -1661,6 +1663,7 @@
 | [Obsessed](https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [The Celestials!](https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9) | [SOLAR SONATAS VOL\. 1](https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ) | 4:33 | 2024-02-09 |  |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2021-09-17 | 2021-11-13 |
 | [Obsessed With Your Mind](https://open.spotify.com/track/6jZHeTl4JfyOaJZtc8i37k) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Obsessed With Your Mind](https://open.spotify.com/album/2SKWZrwD8DeJHpU4kpFC3U) | 3:08 | 2023-11-15 |  |
+| [Obvious](https://open.spotify.com/track/5qN9j62fq0YbWQd57bzf0U) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Obvious](https://open.spotify.com/album/1pd5hBZ4YjFENk3HedtdZt) | 3:29 | 2024-03-13 |  |
 | [Ocean Eyes \- Astronomyy Remix](https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Astronomyy](https://open.spotify.com/artist/3EpmmPtV7DduqNmeqaADIm) | [Ocean Eyes \(The Remixes\)](https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks) | 4:56 | 2019-07-30\* | 2019-09-27 |
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2021-06-02 | 2021-08-14 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-14 | 2023-01-06 |
@@ -2241,6 +2244,7 @@
 | [Supercut](https://open.spotify.com/track/6IIcLzR05sN1gk4ngzz7Kk) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/4oCGmYsAQOWt2ACWTpNUU6) | 4:37 | 2019-07-30\* | 2019-09-27 |
 | [Superfruit](https://open.spotify.com/track/38WFsWJZRR9lRbOUk0oZSu) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Superfruit](https://open.spotify.com/album/6lu3Di1ZfSfMTGVRk3ylwd) | 2:18 | 2019-08-08 | 2019-10-10 |
 | [Superhuman](https://open.spotify.com/track/2fdVzkZYiPKcVBnDSXcH8R) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Messy Mind](https://open.spotify.com/album/3AkA40WWOHgjj2nerAea21) | 2:45 | 2021-01-15 | 2021-04-16 |
+| [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 | 2024-03-13 |  |
 | [Supersonic](https://open.spotify.com/track/5a1Frxln2IsaBlzPfzEaRD) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Supersonic](https://open.spotify.com/album/6MUq7oII8rOSCaphVASuh8) | 2:29 | 2021-03-14 | 2021-08-14 |
 | [Superstar](https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr) | 2:52 | 2021-02-09 | 2021-04-16 |
 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 | 2020-12-23 | 2021-03-14 |

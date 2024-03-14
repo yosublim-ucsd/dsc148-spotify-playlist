@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 253287,
+  "2024-03-14": 253443,
   "date_first_scraped": "2022-07-19",
   "description": "Una bella banda sonora que acompa\u00f1ar\u00e1 tu tiempo de lectura.",
   "name": "M\u00fasica para Leer",
@@ -12623,10 +12623,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 154625,
       "name": "Why Talk",
       "url": "https://open.spotify.com/track/1M8F8Wav4lOZstOtFxGo56"
+    },
+    {
+      "album": {
+        "name": "About The Known",
+        "url": "https://open.spotify.com/album/1II575rpuj84021opzGTJ3"
+      },
+      "artists": [
+        {
+          "name": "Zeppi",
+          "url": "https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Why Talk",
+      "url": "https://open.spotify.com/track/5eoIxoSCpVym392lDtUVDd"
     },
     {
       "album": {

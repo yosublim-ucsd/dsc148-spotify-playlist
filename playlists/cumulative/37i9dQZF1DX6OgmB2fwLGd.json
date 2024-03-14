@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "KNIGHT",
+        "url": "https://open.spotify.com/album/6JcSBM6tbPXNfv6ul01iYM"
+      },
+      "artists": [
+        {
+          "name": "XANUBIS",
+          "url": "https://open.spotify.com/artist/74n1PorsDN4phxsKNzcYxh"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143326,
+      "name": "ASK ME WHY",
+      "url": "https://open.spotify.com/track/0LQjjMHi5OUubEmwnTWvGm"
+    },
+    {
+      "album": {
         "name": "ASL (FACTS)",
         "url": "https://open.spotify.com/album/6YlBylsB1aeFbPu62G3CzR"
       },
@@ -3308,7 +3326,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 190398,
       "name": "Cellulite",
       "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
@@ -3504,6 +3522,24 @@
       "duration_ms": 133761,
       "name": "circus",
       "url": "https://open.spotify.com/track/0NVE77h0628NFCL2Xc2fUg"
+    },
+    {
+      "album": {
+        "name": "1.4.3",
+        "url": "https://open.spotify.com/album/36nQ7UFHKL3u0lGZfjWsA6"
+      },
+      "artists": [
+        {
+          "name": "J4y",
+          "url": "https://open.spotify.com/artist/1gX9ZzZnjjI19QrSgW9Xkc"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108966,
+      "name": "City of screams",
+      "url": "https://open.spotify.com/track/2gHldblsOfeXI9xitoINhy"
     },
     {
       "album": {
@@ -9561,6 +9597,24 @@
     },
     {
       "album": {
+        "name": "Kitchen Stove",
+        "url": "https://open.spotify.com/album/132f6mj4FFCdfh5DnZUy7o"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163383,
+      "name": "Kitchen Stove",
+      "url": "https://open.spotify.com/track/7diD1MucbcRUVjS6AA9ehm"
+    },
+    {
+      "album": {
         "name": "Knight in Shining Armor",
         "url": "https://open.spotify.com/album/6anwom4cs5kruajxIqjveO"
       },
@@ -10638,7 +10692,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 125490,
       "name": "Love and War",
       "url": "https://open.spotify.com/track/3aQ8TbaVBc1BZNMVAobpZC"
@@ -11362,7 +11416,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 121600,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/4eQqu4v3amr4tOsiHFJKlw"
@@ -12013,6 +12067,32 @@
     },
     {
       "album": {
+        "name": "NO IDEA #jerseyclub (Ziahfyah & Indo2x Remix)",
+        "url": "https://open.spotify.com/album/5mO75nU1r7JvkCO8oOmHhF"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Indo2x",
+          "url": "https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "NO IDEA #jerseyclub - Ziahfyah & Indo2x Remix",
+      "url": "https://open.spotify.com/track/7gNXY29SaVv9rN4z2oQhvz"
+    },
+    {
+      "album": {
         "name": "No Problems",
         "url": "https://open.spotify.com/album/4SWdu2bBKO9DkuwbnK8I7o"
       },
@@ -12134,7 +12214,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 155688,
       "name": "NOBU",
       "url": "https://open.spotify.com/track/7kQ0dKyEQkYTWqJUEf7Hx8"
@@ -14180,7 +14260,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 108936,
       "name": "REFUND",
       "url": "https://open.spotify.com/track/3DHybk9XQCME6I7vmfweHW"
@@ -15936,6 +16016,24 @@
       "duration_ms": 213704,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/5k9kxCcae70vUElndjveXT"
+    },
+    {
+      "album": {
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170892,
+      "name": "Steeeam",
+      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
     },
     {
       "album": {
@@ -18456,7 +18554,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 139636,
       "name": "Wicked Romance",
       "url": "https://open.spotify.com/track/35uuAlEbvARgXm4lULDyUy"

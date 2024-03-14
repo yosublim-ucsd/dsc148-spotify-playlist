@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-200 songs - 11 hr 33 min
+202 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [It's OK](https://open.spotify.com/track/1mOiejXxgYA9ep3z61SN7Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ELDISCO](https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd) | 3:32 | 2022-06-04 |  |
 | [Just Wanna Be Single](https://open.spotify.com/track/0oNbZwbTesBBrP5QsqzDDW) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 3:00 | 2022-06-04 | 2022-10-19 |
 | [Just Wanna Be Single](https://open.spotify.com/track/6MOPttiWyB8P47LK9FYFWi) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:00 | 2022-10-18 |  |
-| [La Marea](https://open.spotify.com/track/2oczZVvVk61DUKaKpzYFtQ) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [La Marea](https://open.spotify.com/album/6S8v7XTmfWjBuTzEgbxkj7) | 3:21 | 2022-06-04 |  |
+| [La Marea](https://open.spotify.com/track/2PMwP9MtTyXw0WobD3u7UK) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [La Marea](https://open.spotify.com/album/0uwTdcCs9g0VUWo4ttuk4U) | 3:21 | 2024-03-13 |  |
+| [La Marea](https://open.spotify.com/track/2oczZVvVk61DUKaKpzYFtQ) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [La Marea](https://open.spotify.com/album/6S8v7XTmfWjBuTzEgbxkj7) | 3:21 | 2022-06-04 | 2024-03-14 |
 | [La Misma Voz](https://open.spotify.com/track/1Pnu14ES6CbPKWngtVxVoM) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Joy](https://open.spotify.com/artist/0BmVwpA9NNMJs1M6joiKm9), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [El General Naranjo \(Temas Originales de la Serie de FOX Premium\)](https://open.spotify.com/album/4lTOrerOwh3VaxQrEdj08q) | 3:11 | 2022-06-04 |  |
 | [La Pena](https://open.spotify.com/track/2MhpzkfWvLJmT4WoodDiu6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:27 | 2022-06-04 |  |
 | [Las Cuentas](https://open.spotify.com/track/5R0QMYI3PJzXsDaSOyWtJO) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:06 | 2022-06-04 |  |
@@ -127,7 +128,8 @@
 | [Lo Pide El Alma](https://open.spotify.com/track/7e2HwACzhFgtk3dRI8BEa5) | [Bustamante](https://open.spotify.com/artist/1VfKauu6JYTUrApbJXU0zo) | [Lo Pide El Alma](https://open.spotify.com/album/2tAVR9qi9EEpucu72yxSO0) | 3:57 | 2022-06-04 |  |
 | [Lo Que No Di](https://open.spotify.com/track/2uIuSumfgTKeRXiGw30LRT) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:32 | 2022-06-04 |  |
 | [Lo Que Yo Diga](https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lo Que Yo Diga](https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4) | 2:32 | 2022-06-04 |  |
-| [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 | 2022-06-04 |  |
+| [Los Rotos](https://open.spotify.com/track/4LfaPS55yqBB6RcXISNTJw) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/6bk5BlDLY3NQzfRUpFOTRW) | 3:26 | 2024-03-13 |  |
+| [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 | 2022-06-04 | 2024-03-14 |
 | [Love Looks Like](https://open.spotify.com/track/2SfdyDfdZMtr1Wly6ZdYYJ) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Love Looks Like](https://open.spotify.com/album/7jwpTVabsnsvYRewJEhxka) | 3:51 | 2022-06-04 |  |
 | [Luna Llena](https://open.spotify.com/track/0s9X5ram6hySzreyeTikTw) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Luna Llena](https://open.spotify.com/album/4WSINjUDwvesrZ8azdkRhd) | 3:45 | 2022-06-04 |  |
 | [Make a Choice](https://open.spotify.com/track/5Be0V4OFPWDE4ea8FFx8tB) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 3:45 | 2022-06-04 | 2024-03-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > Stay up to date with the freshest Arabic Pop Songs\. Cover: Sherine
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,727 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,753 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 29 | [Ya Naseeni](https://open.spotify.com/track/22d2S7bEi30u4TIyfBn6UD) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Ya Naseeni](https://open.spotify.com/album/5dUFJ8fT2qtwrRcNenJoGy) | 2:45 |
 | 30 | [في بالي](https://open.spotify.com/track/3n2pKLjes1ZeItC7au8BSw) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [في بالي](https://open.spotify.com/album/3VKqDho2Cc2w6vUtn6EsiW) | 3:15 |
 
-Snapshot ID: `MCxhYzhjMDM3ZjZhODE4ZGVkNDlmNzE2OGY3ZTYyMmU4NDYzYThhYTgx`
+Snapshot ID: `MCw1NWE3YzMyMDE1Mzg0ZDc1NTBmYTlkMzMyMzZkN2EzZWMxNDNiZWVk`

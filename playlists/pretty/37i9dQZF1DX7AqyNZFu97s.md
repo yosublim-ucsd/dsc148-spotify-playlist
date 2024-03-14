@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Damzz\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,672 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,013 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 25 | [White Lies](https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [White Lies](https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA) | 2:16 |
 | 26 | [straight out the oven !](https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [straight out the oven !](https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk) | 3:04 |
 | 27 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 |
-| 28 | [What Sundays Are For](https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO) | [Tamzene Allison\-Power](https://open.spotify.com/artist/3fFVKMPzD8L3ZcMD7FIwrG) | [What Sundays Are For](https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5) | 2:52 |
+| 28 | [What Sundays Are For](https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [What Sundays Are For](https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5) | 2:52 |
 | 29 | [handicapped](https://open.spotify.com/track/6RvumhSg9ycMYWQq3Kp2tW) | [7aat7aat](https://open.spotify.com/artist/2U2WtW7GoAShgW5o2xF0b0) | [handicapped](https://open.spotify.com/album/3tkVia3AhpAr6kUhaNyxlo) | 1:38 |
 | 30 | [While You Sleep](https://open.spotify.com/track/4jbOJaTKiur366ygUgcp6h) | [Mustafa Karakışla](https://open.spotify.com/artist/0tGT2RhFiBgnNf1AY4muYM) | [While You Sleep](https://open.spotify.com/album/2aZy0r1AaBS3lLgl9PWBsp) | 4:01 |
 | 31 | [PULL UP](https://open.spotify.com/track/6vwY6ev6e0OLMbRyMlFYLK) | [Amethyst Girlz](https://open.spotify.com/artist/2msQsbh7IP17i78NgEG59V) | [PULL UP](https://open.spotify.com/album/4DEwPUmKOzugJOKqPDQcCV) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Deja Vu](https://open.spotify.com/track/5m3uoLMFOmjq7HyOD3CBD8) | [Jason Kwan](https://open.spotify.com/artist/6wy50ZiJ5BfTmEusgYQhX3) | [Deja Vu](https://open.spotify.com/album/6bkdrKKAJ3sUv7UYn6rKOa) | 2:46 |
 | 80 | [zoo frog](https://open.spotify.com/track/4uN6aLNfKJO0fm3VVD5Avg) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [Sabretooth: Directors' Cut](https://open.spotify.com/album/30gDeeSuUJ00QFlZLajntJ) | 2:49 |
 
-Snapshot ID: `MCxjNTc4ZmU2ZTJmNGQ0Mjg5MDRlZjdkYTljNmRmZTg3ZDA1ZjNlMzU4`
+Snapshot ID: `MCw3MTUwYzBlMWEyNDRmYTAxNmFiZWNlMGE3MDk2NTg2MWE3YzM3OGE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Jack Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,246 likes - 81 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,341 likes - 81 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 42 | [Happy Together](https://open.spotify.com/track/2DdxnRvilAPgD0RGzd7FYs) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Happy Together](https://open.spotify.com/album/6c8yq8A5bpHkBtGQdAY2Xc) | 2:53 |
 | 43 | [Unicorn Song](https://open.spotify.com/track/09MxtSLQheOkxH84Kg132N) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Unicorn Song](https://open.spotify.com/album/4jnak104rS4pKgYslMKHE2) | 3:01 |
 | 44 | [Bark to the Beat](https://open.spotify.com/track/5ihCjTGi93TjUl5KFgYs7E) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Bark to the Beat](https://open.spotify.com/album/5Yc4KGQL2aV0UXusxtAI4Z) | 2:06 |
-| 45 | [Wake Up Body](https://open.spotify.com/track/1rwCDTzDZcRP6JK0A74DaA) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Wake Up Body](https://open.spotify.com/album/7CgurGWicYjX5S0vcTj2T5) | 1:49 |
+| 45 | [Wake Up Body](https://open.spotify.com/track/6gFSWX9hNjIBvploVWgTy9) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Hello Everybody and Other Circle Time Songs](https://open.spotify.com/album/19FPtlAvRYPpScvEqxqD2x) | 1:49 |
 | 46 | [Onyx The Octopus](https://open.spotify.com/track/5Rju3uC6ltDkSWV08HJKwR) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Onyx The Octopus](https://open.spotify.com/album/02EN0qGqfEf7n2B6KGVdT5) | 1:57 |
 | 47 | [A Touch of Magic](https://open.spotify.com/track/5GCnPH7lJgry1K21ddHX7z) | [Foozlebots](https://open.spotify.com/artist/0A2GTbECNSK8qFQjyDB381) | [A Touch of Magic](https://open.spotify.com/album/5G1reowuNfadIu0UcBuXgU) | 1:56 |
 | 48 | [Air Guitar](https://open.spotify.com/track/0VxLC51fSALOrfaAoxVjHy) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Air Guitar](https://open.spotify.com/album/7iMpiOlDVKX6e7YLvPqoMC) | 2:45 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 80 | [One Little Finger](https://open.spotify.com/track/3XH8hYYGsj0WJGhdoffsaT) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Plim Plim Nursery Rhymes Vol\. 6](https://open.spotify.com/album/2djyYsu53UGFp825dJ6FFi) | 2:39 |
 | 81 | [My Happy Song](https://open.spotify.com/track/30nDdPcP3FIIrEVjCiwDSE) | [Babble Bop](https://open.spotify.com/artist/5vp20RxxkwlezWHgiiP0Hg) | [I Feel](https://open.spotify.com/album/07wSHtFG8Kc2k8Du834TGE) | 2:25 |
 
-Snapshot ID: `MCwyZTA5MDhhOTY3Y2E1YTlhZGI2Y2JiOGQ5NmQzYjQ5MGIxYjY3ZjU4`
+Snapshot ID: `MCxiMTY0MDdjYTNiZGMwODI0NjI2ZWEzNGRkYzAwZjEwZjgwZjgwMjQ2`

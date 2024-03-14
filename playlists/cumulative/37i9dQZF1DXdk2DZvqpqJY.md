@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-435 songs - 1 day 2 hr 53 min
+436 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Elegance](https://open.spotify.com/track/6aafuZXImh9Yvgix3ZhMIf) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Elegance](https://open.spotify.com/album/1QF0DKX7Qa1BTzXI04N5MR) | 2:27 | 2022-08-18 | 2022-11-20 |
 | [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-25 |  |
 | [Elephant & Ivory \- Vanilla's Version](https://open.spotify.com/track/7eDl54jBPJL295eBq95GIH) | [Les Loups](https://open.spotify.com/artist/3U6FqAuXdKYRrGUIyv9MWa), [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Elephant & Ivory \(Vanilla's Version\)](https://open.spotify.com/album/1SmtfuffGWMdf6MXUp8ITM) | 3:28 | 2022-08-25 | 2022-09-22 |
+| [Embraced by Night](https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Embraced by Night](https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG) | 3:03 | 2024-03-08 |  |
 | [Enlightened](https://open.spotify.com/track/26EckqdKwbnLgXPoiUgaEo) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:50 | 2022-04-22 | 2023-03-21 |
 | [Evergreen](https://open.spotify.com/track/6o6l8qajBu2ke8E7IcpRVu) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [Evergreen](https://open.spotify.com/album/2Zql1fESYIoPwFwy40zCSm) | 2:08 | 2023-03-24 | 2023-04-21 |
 | [Everybody Loves the Sunshine](https://open.spotify.com/track/31kkgCImsQJjSGDVzxJN4R) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 5:22 | 2022-06-02 | 2022-09-22 |
@@ -419,7 +420,7 @@
 | [We Are Many](https://open.spotify.com/track/5ZlpFprbeqNU8ye8mPomAX) | [Soothsayers](https://open.spotify.com/artist/4iJspDSUsyFWGNada2wdVx) | [We Are Many](https://open.spotify.com/album/70h4SD70wNkNpbPkIG4unt) | 4:41 | 2022-02-17 | 2022-10-12 |
 | [We Belong Together](https://open.spotify.com/track/5ckP2MvPRggcCU5tlR91pA) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Your Laugh](https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL) | 5:20 | 2023-10-27 | 2023-12-14 |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2023-03-20 |  |
-| [What I’m doing wrong?](https://open.spotify.com/track/68HHUsKYMa5g3KSIHFfa3V) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [What I’m doing wrong?](https://open.spotify.com/album/71g2tsTFYn27gJM0T5HVVP) | 2:57 | 2023-08-25 |  |
+| [What I’m doing wrong?](https://open.spotify.com/track/68HHUsKYMa5g3KSIHFfa3V) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [What I’m doing wrong?](https://open.spotify.com/album/71g2tsTFYn27gJM0T5HVVP) | 2:57 | 2023-08-25 | 2024-03-14 |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2023-03-20 |  |
 | [What's the Matter](https://open.spotify.com/track/2t4Jta1l1mONdzyMAhjvYf) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [What's the Matter](https://open.spotify.com/album/5sqBcX9zowe2A8la0IdQkC) | 2:21 | 2022-02-17 | 2022-02-21 |
 | [when there's love around](https://open.spotify.com/track/4TM2biU9mX2XG3MiSTcH4b) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:03 | 2022-04-22 | 2023-03-21 |

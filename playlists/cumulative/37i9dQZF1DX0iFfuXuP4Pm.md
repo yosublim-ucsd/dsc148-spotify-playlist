@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Illest Morena\. International Women’s Day takeover\. Powered by <a href="spotify:genre:equal">EQUAL</a>
+> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Illest Morena
 
-80 songs - 4 hr 56 min
+82 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Anything](https://open.spotify.com/track/03WBX5gPyl2QR6t5J1XM6y) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [Anything](https://open.spotify.com/album/0BEehN6MWcTHQBlY12dGPC) | 4:12 | 2024-02-21 |  |
 | [Araw\-Araw w/ You](https://open.spotify.com/track/1o0OXfkYfNKhANdE0LPbHa) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Araw\-Araw w/ You](https://open.spotify.com/album/6Sy2dHcsbWhyNTciQ00VY4) | 2:55 | 2024-01-24 |  |
 | [Autumn](https://open.spotify.com/track/6opdgT1roU2ztb2WmXQG1U) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Autumn](https://open.spotify.com/album/0jgiAyKTHYE4bHbwCSbtV2) | 4:04 | 2024-01-24 | 2024-02-01 |
-| [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2024-01-24 |  |
+| [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2024-01-24 | 2024-03-14 |
 | [Babaeng Torpe](https://open.spotify.com/track/6PqQLaRKRk9Td2WfNIc721) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs) | [Babaeng Torpe](https://open.spotify.com/album/7xn6BDQmB8qzssk9aHG79E) | 4:50 | 2024-02-07 | 2024-03-07 |
 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 |  |
 | [Bagong Tradisyon](https://open.spotify.com/track/5H7dSVRGiOP7eRUz7qXu6o) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Bagong Tradisyon](https://open.spotify.com/album/6BJHujHabp4qnJfwvAmfqp) | 3:32 | 2024-01-24 | 2024-03-07 |
@@ -46,12 +46,13 @@
 | [Kasing Kasing \(feat\. Kyle Echarri\)](https://open.spotify.com/track/13OhgUF9wgvG30aRARfgrR) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew) | [Kasing Kasing \(feat\. Kyle Echarri\)](https://open.spotify.com/album/0eX3ksx0PK4SyQnlNOuUwH) | 4:55 | 2024-01-31 | 2024-03-07 |
 | [Klaro](https://open.spotify.com/track/1jG9Gzu5qarOo1v4qKjLwe) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Klaro](https://open.spotify.com/album/5ZM2rCkiq7huULAPjbAsIZ) | 4:08 | 2024-02-07 | 2024-02-29 |
 | [Kung Uulitin](https://open.spotify.com/track/3pWGn9BsoCVXW9z3glZ9f4) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Kung Uulitin](https://open.spotify.com/album/1eGV9y6yf9hgW0QN1xRl0P) | 4:42 | 2024-02-07 | 2024-03-07 |
-| [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2024-01-24 |  |
+| [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2024-01-24 | 2024-03-14 |
 | [Lahat Ng Bukas](https://open.spotify.com/track/3s39TR3Iarc2013cuvDGQ7) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v) | [Lahat Ng Bukas](https://open.spotify.com/album/7flIBguWZI3J5lURZT6Sbk) | 3:21 | 2024-02-14 |  |
 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2024-01-24 |  |
 | [Lihim](https://open.spotify.com/track/4GQtzdKig2DtCRcIXpgQZm) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Lihim](https://open.spotify.com/album/06q5LVHRUwo5LqINyPQm65) | 5:20 | 2024-02-28 |  |
 | [Lil Kasalanan Shortie](https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Lil Kasalanan Shortie](https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO) | 2:43 | 2024-01-24 |  |
 | [Makasarili Malambing](https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing](https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B) | 2:01 | 2024-01-24 |  |
+| [Maria Clara](https://open.spotify.com/track/644PcyQRCV5v7h5zeDY2di) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Maria Clara](https://open.spotify.com/album/6KBlsRVEaArn2WXluUuBmM) | 4:33 | 2024-03-13 |  |
 | [Marikit Sa Dilim](https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [Marikit Sa Dilim](https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l) | 3:52 | 2024-02-14 |  |
 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 | 2024-02-07 |  |
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2024-01-24 |  |
@@ -77,6 +78,7 @@
 | [sa'yong sa'yo lang ako](https://open.spotify.com/track/52LJJmnZmsIRQsNBSrZsW6) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD), [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [sa'yong sa'yo lang ako](https://open.spotify.com/album/6yR5iL6lTsSnvrpcxwrRAP) | 3:56 | 2024-01-24 | 2024-03-07 |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2024-01-24 | 2024-02-08 |
 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-02-28 |  |
+| [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 | 2024-03-13 |  |
 | [Set You Free](https://open.spotify.com/track/1z9SylDvpsFYhgTOzq4jnf) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Set You Free](https://open.spotify.com/album/733n9hTBhq4vA2E7k9vzfn) | 4:37 | 2024-01-24 | 2024-02-15 |
 | [SITWASYONSHIP](https://open.spotify.com/track/0wNf0yIreg4A8C5ZUY6b6Q) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [SITWASYONSHIP](https://open.spotify.com/album/7pZrfpbQ6XUmcE7ilysG4v) | 3:48 | 2024-01-24 |  |
 | [surreal](https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [surreal](https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY) | 4:00 | 2024-03-06 |  |

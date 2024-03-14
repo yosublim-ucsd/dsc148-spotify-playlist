@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Tim Pepperoni
 
-291 songs - 13 hr 25 min
+293 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Jaded](https://open.spotify.com/track/0ClrplYiINhvM54gL1KKrm) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Jaded](https://open.spotify.com/album/7vYR4M9bjVZ8UGVtMRFcEs) | 2:46 | 2024-01-25 | 2024-01-27 |
 | [Jaded](https://open.spotify.com/track/1rH3UGZN6Fjz47VeGXFywl) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Love You Mily](https://open.spotify.com/album/1xBEh1gCsIreYC5lqRDJiT) | 2:46 | 2024-01-25 | 2024-02-23 |
 | [Jerky](https://open.spotify.com/track/4fAhvtlPNJnciRmeGvHbBk) | [GioGio](https://open.spotify.com/artist/2ak8BuJIDBr42JHPiehyLi) | [Jerky](https://open.spotify.com/album/6zQpms0oM4KwVmhLvw6hRZ) | 2:51 | 2023-12-26 | 2024-02-09 |
-| [JET](https://open.spotify.com/track/7F3J8LeYIiuqYuGUvau3Jp) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA) | [Local Life](https://open.spotify.com/album/4560Qtdvr2QLUZPhnbsCUy) | 2:17 | 2024-03-12 |  |
+| [JET](https://open.spotify.com/track/6dBldJ7M61X4dRcxodX6O0) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA) | [Local Life](https://open.spotify.com/album/5QReLSHX2gBdrMnVztz7f4) | 2:17 | 2024-03-12 |  |
+| [JET](https://open.spotify.com/track/7F3J8LeYIiuqYuGUvau3Jp) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA) | [Local Life](https://open.spotify.com/album/4560Qtdvr2QLUZPhnbsCUy) | 2:17 | 2024-03-12 | 2024-03-14 |
 | [Jimmy Choo](https://open.spotify.com/track/7sjMVTwRPodZm1uBmGDp5f) | [chao chao](https://open.spotify.com/artist/4MT9OmyrjZzGG7TZTd9yQ0) | [Back To The Past](https://open.spotify.com/album/6NR7ADnnNsu63b6pRYYpmB) | 2:51 | 2024-01-30 |  |
 | [JINANBOU](https://open.spotify.com/track/2UtYmdBDMnhTNFrgGDdLhy) | [XAN](https://open.spotify.com/artist/5NfqonprYhdYuBctIrOv6B) | [JINANBOU](https://open.spotify.com/album/4XgqXpM2IeoIEcJzihn9MH) | 2:01 | 2024-02-22 |  |
 | [Josetsusha!](https://open.spotify.com/track/5MCTIDVidknIGlI9atECh4) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [Josetsusha!](https://open.spotify.com/album/7263wqVHp54oFq8zGlEXTM) | 3:21 | 2024-03-05 |  |
@@ -162,6 +163,7 @@
 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 | 2023-12-07 |  |
 | [K18GP](https://open.spotify.com/track/3EufhJ9j7f2J3HmmEKmke8) | [197](https://open.spotify.com/artist/3gb9zeA8BCkOYkKW2K6vI0) | [K18GP](https://open.spotify.com/album/6Nuf5KO9r8UX24rI5e1kJy) | 3:29 | 2024-02-22 | 2024-02-28 |
 | [kakattekoi](https://open.spotify.com/track/5iiFSlhDcZC3fLdfaI90F0) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/5I29hyOmpjXpUC56kT3LUc) | 2:39 | 2024-02-15 |  |
+| [KARASU](https://open.spotify.com/track/3Zy3ydtuKxgP5GmKboF3Y3) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [KARASU](https://open.spotify.com/album/3hqAA3agtdXgyTpm5j0Qb6) | 2:13 | 2024-03-12 |  |
 | [Kick Back](https://open.spotify.com/track/0R3cKyL7lSmV1AIMf5IvGC) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Kick Back](https://open.spotify.com/album/3YHQqscL7SIyD8N6NiPtTR) | 2:13 | 2024-01-23 | 2024-02-07 |
 | [Kill Bill](https://open.spotify.com/track/3OgK0m3ubna6qz1DBgJOcN) | [Luke Silver](https://open.spotify.com/artist/5f4NDtw9Zuu713KUprs7bt), [VAPESHARK](https://open.spotify.com/artist/3nJ1t2nfTGc9X8gLTRwGd7) | [Kill Bill](https://open.spotify.com/album/17NM9tiswNH0fojmUNR0AL) | 2:48 | 2023-12-21 | 2024-01-12 |
 | [King Swan](https://open.spotify.com/track/0BbMxYuqIgZoxV0j5RYvXV) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [King Swan](https://open.spotify.com/album/6zuRwB9JBnBbKbMLgc6SfI) | 2:42 | 2024-01-23 | 2024-01-25 |
@@ -294,7 +296,7 @@
 | [旅人](https://open.spotify.com/track/4phR3rrjSUU9qROeguPI5g) | [むえやBOY](https://open.spotify.com/artist/5gT5Yyzykq9UQPeu3JePJG) | [旅人](https://open.spotify.com/album/36naEtqDrEaNKKy8UScRQ0) | 2:04 | 2024-01-23 | 2024-02-23 |
 | [最低だけど最高](https://open.spotify.com/track/2ufX2xxEysgDrPE5ANyhHy) | [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo) | [最低だけど最高](https://open.spotify.com/album/4EZrC1LZyiTb3DV3igu8Bl) | 1:43 | 2024-03-12 |  |
 | [東京無宿](https://open.spotify.com/track/1jYypP5U3UPsDDNdOdDvrM) | [BLYY](https://open.spotify.com/artist/6yX4DVkXlVVzckdFcqer1p) | [東京無宿](https://open.spotify.com/album/4TyEPsSOhakTnVobdu9cb5) | 3:43 | 2024-01-23 | 2024-03-06 |
-| [烏](https://open.spotify.com/track/1EEPiAXfXz7IqI1hzKcXPI) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [烏](https://open.spotify.com/album/3CuxqRYssCD7eplj81jRVS) | 2:13 | 2024-03-12 |  |
+| [烏](https://open.spotify.com/track/1EEPiAXfXz7IqI1hzKcXPI) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [烏](https://open.spotify.com/album/3CuxqRYssCD7eplj81jRVS) | 2:13 | 2024-03-12 | 2024-03-14 |
 | [牛久](https://open.spotify.com/track/5hvbfRmhcKVB2iwgktJx8y) | [OGGYWEST](https://open.spotify.com/artist/5e9rwyw6ZPV26OvEy34xTA) | [牛久](https://open.spotify.com/album/5HCH5FD6Yg1vFhPuwNAmOM) | 3:05 | 2024-01-30 | 2024-02-09 |
 | [第救条](https://open.spotify.com/track/5sluiMnosRaynnGPuuI4ON) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [第救条](https://open.spotify.com/album/7phcQamybNqbWXszHenikP) | 3:03 | 2024-02-27 | 2024-02-29 |
 | [花束](https://open.spotify.com/track/76w5LRGxbVIEbkpke35vR3) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [5/13](https://open.spotify.com/album/5MDVcLYeo1Ib9mE3AUxPJY) | 2:01 | 2024-02-13 | 2024-02-15 |

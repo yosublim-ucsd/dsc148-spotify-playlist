@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 1934019,
+  "2024-03-14": 1934791,
   "date_first_scraped": "2022-06-22",
   "description": "150%",
   "name": "sped up songs",
@@ -1853,6 +1853,24 @@
       "duration_ms": 119871,
       "name": "greedy sped up",
       "url": "https://open.spotify.com/track/2yZKBFIqeOEpnBsIhAg9ZO"
+    },
+    {
+      "album": {
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119871,
+      "name": "greedy sped up",
+      "url": "https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ"
     },
     {
       "album": {
@@ -5727,7 +5745,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 118280,
       "name": "Wasted Summers - Sped Up",
       "url": "https://open.spotify.com/track/3D68y3ta9qkxpSdjLjPOoS"

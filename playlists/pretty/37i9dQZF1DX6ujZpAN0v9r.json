@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 589477,
+  "num_followers": 589740,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2M3MzNkYzUxMzUzYTQyYzUwMWQxMGVmODA3MDMwNGRkZDkxM2Mw",
+  "snapshot_id": "MCxmYzg2Y2I2ODRmOTEwOGNhMjllNmViY2IyZTUzNjgyN2ZkYWIwMzJh",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Spooky",
         "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 354640,
       "name": "Nothing Natural",
       "url": "https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Brickbat",
-        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
-      },
-      "artists": [
-        {
-          "name": "Piroshka",
-          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
-        }
-      ],
-      "duration_ms": 269747,
-      "name": "Everlastingly Yours",
-      "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "A Strangely Isolated Place",
         "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs"
+        "name": "Brickbat",
+        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
       },
       "artists": [
         {
-          "name": "Ride",
-          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+          "name": "Piroshka",
+          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
         }
       ],
-      "duration_ms": 285773,
-      "name": "Drive Blind - 2001 Remaster",
-      "url": "https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ"
+      "duration_ms": 269747,
+      "name": "Everlastingly Yours",
+      "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1151,6 +1135,22 @@
       "duration_ms": 186253,
       "name": "Long Holiday",
       "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "Drive Blind - 2001 Remaster",
+      "url": "https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Chlorine Dream",
+        "url": "https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1"
+      },
+      "artists": [
+        {
+          "name": "Spirea X",
+          "url": "https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb"
+        }
+      ],
+      "duration_ms": 264533,
+      "name": "Chlorine Dream",
+      "url": "https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Whirlpool (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 197563,
       "name": "Our Goal to Realise",
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Chlorine Dream",
-        "url": "https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1"
-      },
-      "artists": [
-        {
-          "name": "Spirea X",
-          "url": "https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "Chlorine Dream",
-      "url": "https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Landing",
-        "url": "https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8"
-      },
-      "artists": [
-        {
-          "name": "Fragile Animals",
-          "url": "https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Landing",
-      "url": "https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Dance AM",
         "url": "https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 272373,
       "name": "Breather",
       "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Landing",
+        "url": "https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8"
+      },
+      "artists": [
+        {
+          "name": "Fragile Animals",
+          "url": "https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Landing",
+      "url": "https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "The Soft Cavalry",
-        "url": "https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ"
-      },
-      "artists": [
-        {
-          "name": "The Soft Cavalry",
-          "url": "https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ"
-        }
-      ],
-      "duration_ms": 255384,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Years Too Late",
         "url": "https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 260346,
       "name": "A Fading Smile",
       "url": "https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "The Soft Cavalry",
+        "url": "https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ"
+      },
+      "artists": [
+        {
+          "name": "The Soft Cavalry",
+          "url": "https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ"
+        }
+      ],
+      "duration_ms": 255384,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7"
     },
     {
       "added_at": "2021-06-03 02:39:04",

@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 140712,
+  "2024-03-14": 140860,
   "date_first_scraped": "2022-06-03",
   "description": "pong\u00e1monos de acuerdo: nos vamos a querer o ah\u00ed la vamos a dejar o de nuevo aparentar que aqu\u00ed no ha pasado nada \ud83d\udc94",
   "name": "amor t\u00f3xico",
@@ -2472,6 +2472,24 @@
     },
     {
       "album": {
+        "name": "Por Las Noches",
+        "url": "https://open.spotify.com/album/2Pksd4k88XH1QENsu2vqeZ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238888,
+      "name": "Por Las Noches",
+      "url": "https://open.spotify.com/track/6YWME4xCa5Lm6X1exVMQIC"
+    },
+    {
+      "album": {
         "name": "Por las Noches",
         "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
       },
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 239845,
       "name": "Por las Noches",
       "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"

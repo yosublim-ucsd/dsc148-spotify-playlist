@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Geisha",
+  "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Astrid",
   "name": "Ngetren di 2010an",
   "tracks": [
     {
@@ -468,6 +468,24 @@
       "duration_ms": 253653,
       "name": "Cinta Sendiri",
       "url": "https://open.spotify.com/track/5EkdegwaCNMhVdMwF6b7wZ"
+    },
+    {
+      "album": {
+        "name": "Utuh",
+        "url": "https://open.spotify.com/album/0lWHzXhEsdp7kwBSjXSdsB"
+      },
+      "artists": [
+        {
+          "name": "Tangga",
+          "url": "https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262120,
+      "name": "Cinta Tak Mungkin Berhenti",
+      "url": "https://open.spotify.com/track/4xthpyTiqIwZMJzX6UmLtK"
     },
     {
       "album": {
@@ -1156,6 +1174,24 @@
       "duration_ms": 216019,
       "name": "Kesempurnaan Cinta",
       "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
+    },
+    {
+      "album": {
+        "name": "SIDES",
+        "url": "https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268946,
+      "name": "Ku Dengannya Kau Dengan Dia",
+      "url": "https://open.spotify.com/track/24Dk7XFLnMXYuv1U9Qjv3U"
     },
     {
       "album": {
@@ -1860,6 +1896,24 @@
       "duration_ms": 241763,
       "name": "Takkan Terganti",
       "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
+    },
+    {
+      "album": {
+        "name": "Still The One",
+        "url": "https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256386,
+      "name": "Tanpa Cinta",
+      "url": "https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV"
     },
     {
       "album": {

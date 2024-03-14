@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-203 songs - 9 hr 57 min
+204 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Cartier](https://open.spotify.com/track/1R2kdZX8vA5BV7NrX1vs2b) | [Real Nage](https://open.spotify.com/artist/5zUzbSkYRVlxgmQ0W9wlKm), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Cartier](https://open.spotify.com/album/0IvMsNWwLOhhlcPyx3O6VQ) | 2:08 | 2023-02-24 |  |
 | [Casting](https://open.spotify.com/track/0AjXz2Myfg84rqki7vnmEk) | [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Rav1](https://open.spotify.com/artist/7x2rCYvquFbnXpEsKQ0lsp), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk), [D\-Lex](https://open.spotify.com/artist/5VfxICkBmOXynfEQjSlgUV) | [Casting](https://open.spotify.com/album/5KFVVSCLLBHuWCZxqqY20V) | 2:29 | 2024-02-23 |  |
 | [Cheia de charme](https://open.spotify.com/track/0QdHGwhhBff5yFKEvmKHYS) | [Real Nage](https://open.spotify.com/artist/5zUzbSkYRVlxgmQ0W9wlKm), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Cheia de charme](https://open.spotify.com/album/4qwXqQ0Z9eeNObgkO9fN0N) | 2:04 | 2023-08-25 |  |
-| [Cheiro de Sexo](https://open.spotify.com/track/1axjkneyMaY05Vtbm0iodX) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Cheiro de Sexo](https://open.spotify.com/album/5ZxY0qSYAspKpIac8YcQO5) | 2:28 | 2024-03-08 |  |
+| [Cheiro de Sexo](https://open.spotify.com/track/1axjkneyMaY05Vtbm0iodX) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Cheiro de Sexo](https://open.spotify.com/album/5ZxY0qSYAspKpIac8YcQO5) | 2:28 | 2024-03-08 | 2024-03-14 |
 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 | 2023-10-20 | 2024-03-10 |
+| [Cheiro de Sexo](https://open.spotify.com/track/475L05BT8k102evS4F1vx6) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 2:28 | 2024-03-08 |  |
 | [Chocolate](https://open.spotify.com/track/1wel2ZS8igiOCdRByEKRe0) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Chocolate](https://open.spotify.com/album/6qivCWwzJNbXu2tLo9kXIy) | 2:52 | 2023-09-15 | 2023-11-07 |
 | [Chá Na Manhã](https://open.spotify.com/track/6V7RkFPhutCifuczPssKls) | [Saint Rnb](https://open.spotify.com/artist/47ah2Gtvo0KX6Ce0H9EuX0) | [Chá Na Manhã](https://open.spotify.com/album/6MFbhRUqBUHqzzKdVPFsPQ) | 2:51 | 2022-12-02 | 2023-02-25 |
 | [Ciranda](https://open.spotify.com/track/5jc8OMkcDJ61uuKS4Z239f) | [Jade Ottoni](https://open.spotify.com/artist/4eZNSvyXSAZ59FpHPSigRZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Ciranda](https://open.spotify.com/album/6YUr9zxYTA3QbXTloydx6Y) | 2:26 | 2022-06-10 | 2022-07-09 |

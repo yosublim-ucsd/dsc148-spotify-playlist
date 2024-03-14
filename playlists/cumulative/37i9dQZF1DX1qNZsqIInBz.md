@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-201 songs - 8 hr 58 min
+202 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [MINDSET](https://open.spotify.com/track/7AopDNQE6cqEydT5zv96MN) | [KEDELA](https://open.spotify.com/artist/0ytXblHAJwc57GVGp6wjvB) | [MINDSET](https://open.spotify.com/album/4DdiZ6bzOzDgNRUzygqWQI) | 3:05 | 2022-10-10 | 2022-11-26 |
 | [Miracle](https://open.spotify.com/track/5Oom5k3WHqAhJRe0lgueTI) | [HXPETRAIN](https://open.spotify.com/artist/58Kb5i2Bxw4XM6Cj8a5hbi) | [Miracle](https://open.spotify.com/album/0p5240k3qJdmTjdMCR5lEO) | 2:12 | 2023-12-08 |  |
 | [Moments](https://open.spotify.com/track/5jpmgLngjOgpBcCePMQraa) | [danjerr](https://open.spotify.com/artist/4viVD4UGbYimCV8cWpmRoQ) | [Moments](https://open.spotify.com/album/5ZcRhb7zelopjMDIAXn5Xn) | 4:12 | 2023-08-18 |  |
-| [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK) | 1:54 | 2024-02-22 |  |
+| [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK) | 1:54 | 2024-02-22 | 2024-03-14 |
+| [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1) | 1:54 | 2024-02-22 |  |
 | [Moog City 2](https://open.spotify.com/track/5ZRKfEdvg8sRBi6F8LCXmc) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW) | [New World 2](https://open.spotify.com/album/6qQuNWgENDmCA19f01Zy0w) | 3:05 | 2023-06-09 | 2023-09-09 |
 | [MUSEUM OF THE VOID](https://open.spotify.com/track/6rDjt5uh8wte2GzZHQxVzT) | [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [CULTURE OF FUTURITY](https://open.spotify.com/album/38f0sIVlHZbIhEBlKeb0OF) | 2:49 | 2022-10-10 | 2022-12-17 |
 | [MUSIC DEALER](https://open.spotify.com/track/2P3AH23KTwpzusIFlPYqT1) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Juicy J](https://open.spotify.com/artist/0kYf4ylD6mLtRa6s9vyscE) | [MUSIC DEALER](https://open.spotify.com/album/5t0koaV8MkNBU4IjcwTnfI) | 2:49 | 2023-05-05 |  |

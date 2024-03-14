@@ -1833,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "Hum Se Hai Muqabala - Kadalan (With Jhankar Beats) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/2rs4Iq5HpL7sdPk52Fa5gr"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162462,
+      "name": "Premika Ne Pyar Se (With Jhankar Beats)",
+      "url": "https://open.spotify.com/track/4gyR5JPAfvny5QxyykedRV"
+    },
+    {
+      "album": {
         "name": "Pyaar To Hona Hi Tha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6pEHb1MG9U5UZJK0rQ2OUX"
       },
@@ -2148,7 +2170,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 408786,
       "name": "Sona Sona",
       "url": "https://open.spotify.com/track/3DzWXtOawHbCs9O75mtC9e"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-97 songs - 4 hr 36 min
+98 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Xion](https://open.spotify.com/track/5BXGLYOc7VY1YZsrLYDOxZ) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [IMMIGRANT](https://open.spotify.com/album/01OhPa84ZZEYBZl2Lvo4iZ) | 2:14 | 2023-12-13 |  |
 | [Y OFC](https://open.spotify.com/track/6oGcbDKQFAcIfmFJYSlGxf) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 3:23 | 2023-12-13 |  |
 | [YA HABIBI YA](https://open.spotify.com/track/0GSkQ4C8Jy2tDZ1ehnK4OM) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [YA HABIBI YA](https://open.spotify.com/album/3rLnnMnP1plDkNdUmN83Mu) | 3:06 | 2023-12-13 |  |
+| [Yoko](https://open.spotify.com/track/45gHc1QYBky7k38HSlaIft) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Yoko](https://open.spotify.com/album/7MX7xfLckdaiMg1POPrs42) | 2:05 | 2024-03-13 |  |
 | [Zorba](https://open.spotify.com/track/3tzL8exhBLU5ZD724djHZs) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Aletheia](https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ) | 2:16 | 2023-12-13 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

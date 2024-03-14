@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 255470,
+  "num_followers": 255632,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWI0YWFhNjAyYTVlMjIyOTE3Y2Q3NjMxZWFjMThmZjk1NjIzY2U5",
+  "snapshot_id": "MCw2NWJjMjIzMjc0NDZmNzRhYWYyZjg4ZTkxOGQzYTFlODE1OThiMDc1",
   "tracks": [
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
-      },
-      "artists": [
-        {
-          "name": "Antena",
-          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Sabresonic",
         "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 256133,
       "name": "Smokebelch II - Beatless Mix",
       "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
+      },
+      "artists": [
+        {
+          "name": "Antena",
+          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
+        "name": "Gotta Let You Go",
+        "url": "https://open.spotify.com/album/5zbe6ZuCE1gfa1PgClzqFR"
+      },
+      "artists": [
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 382400,
+      "name": "Gotta Let You Go - Original '95 Club Mix",
+      "url": "https://open.spotify.com/track/5hVAk39jFzjiYUPULpKkel"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
         "name": "Housemusic.De",
         "url": "https://open.spotify.com/album/1Y1ejuQvNlSQXKA7Ef5qzW"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 213813,
       "name": "Let the Sun Shine - Terrace Vocal Radio Edit",
       "url": "https://open.spotify.com/track/18wQx3mWVM5qBVckrLZjj3"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
-        "name": "Gotta Let You Go",
-        "url": "https://open.spotify.com/album/5zbe6ZuCE1gfa1PgClzqFR"
-      },
-      "artists": [
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
-        }
-      ],
-      "duration_ms": 382400,
-      "name": "Gotta Let You Go - Original '95 Club Mix",
-      "url": "https://open.spotify.com/track/5hVAk39jFzjiYUPULpKkel"
     },
     {
       "added_at": "2023-08-11 15:42:20",

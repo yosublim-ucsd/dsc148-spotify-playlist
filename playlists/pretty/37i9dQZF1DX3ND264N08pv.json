@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 71251,
+  "num_followers": 71279,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2Y0ZDBmMzYyMTE5NzAwYjVmZjk3MGZkYzhkZGU4ODY4Y2JlZDQw",
+  "snapshot_id": "MCwwNWM4YTVhY2UwOTM5ODdmNjk2MWU3YWNjZWU1Y2Q3MWI1MmRjOTAz",
   "tracks": [
     {
       "added_at": "2024-03-11 14:06:11",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-03-11 14:06:11",
       "album": {
+        "name": "Someone To Understand",
+        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Someone To Understand",
+      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
+    },
+    {
+      "added_at": "2024-03-11 14:06:11",
+      "album": {
         "name": "Schijt Aan!",
         "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 194400,
       "name": "Schijt Aan!",
       "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
-    },
-    {
-      "added_at": "2024-03-11 14:06:11",
-      "album": {
-        "name": "Someone To Understand",
-        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Someone To Understand",
-      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
     },
     {
       "added_at": "2024-03-11 14:06:11",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-03-11 14:06:11",
       "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2024-03-11 14:06:11",
+      "album": {
         "name": "We Roar Special",
         "url": "https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 164400,
       "name": "Like An Animal - Jur Terreur Remix",
       "url": "https://open.spotify.com/track/2Ja6dTeqsDx8YFAR1ojmpx"
-    },
-    {
-      "added_at": "2024-03-11 14:06:11",
-      "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
-      },
-      "artists": [
-        {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
-        }
-      ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
     },
     {
       "added_at": "2024-03-11 14:06:11",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2024-03-11 14:06:11",
       "album": {
+        "name": "The Boogeyman",
+        "url": "https://open.spotify.com/album/1WCQ5o2QcQOrhcLwZljLvP"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        },
+        {
+          "name": "S-KILL",
+          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "The Boogeyman",
+      "url": "https://open.spotify.com/track/4SGwV4zIwcdGYybJvAj2kz"
+    },
+    {
+      "added_at": "2024-03-11 14:06:11",
+      "album": {
         "name": "Without Respect",
         "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 185846,
       "name": "Birds Of Prey",
       "url": "https://open.spotify.com/track/7hRfEhxrcO80pJUmrT59kr"
-    },
-    {
-      "added_at": "2024-03-11 14:06:11",
-      "album": {
-        "name": "The Boogeyman",
-        "url": "https://open.spotify.com/album/1WCQ5o2QcQOrhcLwZljLvP"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        },
-        {
-          "name": "S-KILL",
-          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "The Boogeyman",
-      "url": "https://open.spotify.com/track/4SGwV4zIwcdGYybJvAj2kz"
     },
     {
       "added_at": "2024-03-11 14:06:11",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-03-11 14:06:11",
       "album": {
-        "name": "Mysteries of Creation",
-        "url": "https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna"
-      },
-      "artists": [
-        {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
-        }
-      ],
-      "duration_ms": 197379,
-      "name": "Mysteries of Creation",
-      "url": "https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk"
-    },
-    {
-      "added_at": "2024-03-11 14:06:11",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -1379,22 +1363,18 @@
     {
       "added_at": "2024-03-11 14:06:11",
       "album": {
-        "name": "Fvcking One",
-        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
+        "name": "Mysteries of Creation",
+        "url": "https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna"
       },
       "artists": [
         {
-          "name": "Edwar",
-          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
-        },
-        {
-          "name": "Sidekick",
-          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
         }
       ],
-      "duration_ms": 213254,
-      "name": "Fvcking One",
-      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+      "duration_ms": 197379,
+      "name": "Mysteries of Creation",
+      "url": "https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk"
     },
     {
       "added_at": "2024-03-11 14:06:11",
@@ -1411,6 +1391,26 @@
       "duration_ms": 178975,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+    },
+    {
+      "added_at": "2024-03-11 14:06:11",
+      "album": {
+        "name": "Fvcking One",
+        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
+      },
+      "artists": [
+        {
+          "name": "Edwar",
+          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
+        },
+        {
+          "name": "Sidekick",
+          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
+        }
+      ],
+      "duration_ms": 213254,
+      "name": "Fvcking One",
+      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
     },
     {
       "added_at": "2024-03-11 14:06:11",
@@ -1575,42 +1575,6 @@
     {
       "added_at": "2024-03-11 14:06:11",
       "album": {
-        "name": "Til The AM",
-        "url": "https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8"
-      },
-      "artists": [
-        {
-          "name": "EQUAL2",
-          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
-        },
-        {
-          "name": "Animal Side",
-          "url": "https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531"
-        }
-      ],
-      "duration_ms": 188511,
-      "name": "Til The AM",
-      "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
-    },
-    {
-      "added_at": "2024-03-11 14:06:11",
-      "album": {
-        "name": "THE 4TH DIMENSION",
-        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 203052,
-      "name": "Oldschool The School",
-      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
-    },
-    {
-      "added_at": "2024-03-11 14:06:11",
-      "album": {
         "name": "Outta Here",
         "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
       },
@@ -1631,6 +1595,22 @@
     {
       "added_at": "2024-03-11 14:06:11",
       "album": {
+        "name": "THE 4TH DIMENSION",
+        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 203052,
+      "name": "Oldschool The School",
+      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
+    },
+    {
+      "added_at": "2024-03-11 14:06:11",
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 169512,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr"
+    },
+    {
+      "added_at": "2024-03-11 14:06:11",
+      "album": {
+        "name": "Til The AM",
+        "url": "https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8"
+      },
+      "artists": [
+        {
+          "name": "EQUAL2",
+          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
+        },
+        {
+          "name": "Animal Side",
+          "url": "https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "Til The AM",
+      "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
     },
     {
       "added_at": "2024-03-11 14:06:11",
@@ -1739,8 +1739,8 @@
     {
       "added_at": "2024-03-11 14:06:11",
       "album": {
-        "name": "Slaves To The Darkness",
-        "url": "https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3"
+        "name": "Number One Thriller",
+        "url": "https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn"
       },
       "artists": [
         {
@@ -1748,17 +1748,13 @@
           "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
         },
         {
-          "name": "E-Life",
-          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
-        },
-        {
-          "name": "Lin was here",
-          "url": "https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf"
+          "name": "Skorned",
+          "url": "https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br"
         }
       ],
-      "duration_ms": 198315,
-      "name": "Slaves To The Darkness",
-      "url": "https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG"
+      "duration_ms": 192324,
+      "name": "Number One Thriller",
+      "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
     },
     {
       "added_at": "2024-03-11 14:06:11",
@@ -1811,26 +1807,6 @@
     {
       "added_at": "2024-03-11 14:06:11",
       "album": {
-        "name": "FadeIIBlack - The Album",
-        "url": "https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ"
-      },
-      "artists": [
-        {
-          "name": "Infected",
-          "url": "https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg"
-        },
-        {
-          "name": "Darkside Unleashed",
-          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
-        }
-      ],
-      "duration_ms": 148003,
-      "name": "Makin' Money",
-      "url": "https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw"
-    },
-    {
-      "added_at": "2024-03-11 14:06:11",
-      "album": {
         "name": "Demonic Playgrounds",
         "url": "https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC"
       },
@@ -1847,6 +1823,26 @@
       "duration_ms": 188404,
       "name": "Demonic Playgrounds",
       "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
+    },
+    {
+      "added_at": "2024-03-11 14:06:11",
+      "album": {
+        "name": "FadeIIBlack - The Album",
+        "url": "https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ"
+      },
+      "artists": [
+        {
+          "name": "Infected",
+          "url": "https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg"
+        },
+        {
+          "name": "Darkside Unleashed",
+          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
+        }
+      ],
+      "duration_ms": 148003,
+      "name": "Makin' Money",
+      "url": "https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw"
     },
     {
       "added_at": "2024-03-11 14:06:11",

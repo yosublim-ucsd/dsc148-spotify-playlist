@@ -7014,6 +7014,24 @@
     {
       "album": {
         "name": "Pa Arriba Pa Abajo",
+        "url": "https://open.spotify.com/album/4CVn73EnEAQ60pqJHUSthU"
+      },
+      "artists": [
+        {
+          "name": "LA BABY",
+          "url": "https://open.spotify.com/artist/20IoxvON98RdIAusjOeSe6"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111692,
+      "name": "Pa Arriba Pa Abajo",
+      "url": "https://open.spotify.com/track/1VqMFrStKS9TMBx33MLuOS"
+    },
+    {
+      "album": {
+        "name": "Pa Arriba Pa Abajo",
         "url": "https://open.spotify.com/album/0erCCUlDacQZlaTT3HG4wE"
       },
       "artists": [
@@ -7028,7 +7046,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 111692,
       "name": "Pa Arriba Pa Abajo",
       "url": "https://open.spotify.com/track/0H5L77CsfQEKqDDGxu3H45"

@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Tony Hawk's American Wasteland Soundtrack",
+        "url": "https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116053,
+      "name": "Suburban Home / I Like Food",
+      "url": "https://open.spotify.com/track/6taKcHeZ9SU9QgZy1oMXOi"
+    },
+    {
+      "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },

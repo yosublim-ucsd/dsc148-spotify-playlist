@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 301277,
+  "num_followers": 301451,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWY3NzlmZjgzYzg0NjYxYzk3NmRkMmQyYzU2MDBjNGY5MThhODdj",
+  "snapshot_id": "MCxkYjU5MzAwODkxOTcwZTRlNTRiNTkxNTJiYjZhZmFkOTQ4NjhmNmUz",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -583,6 +583,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Land Of The Living (Live)",
+        "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 325701,
+      "name": "Rest On Us - Live",
+      "url": "https://open.spotify.com/track/6TYAbOGCUk4jvJhc8W9QZv"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Goodness of God (feat. Vertical Worship)",
         "url": "https://open.spotify.com/album/5pOGRC3CWSAPGQz5qnvC6t"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 287611,
       "name": "Goodness of God (feat. Vertical Worship)",
       "url": "https://open.spotify.com/track/1UOzgUuakMRQcKVTUTU6Pu"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Land Of The Living (Live)",
-        "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        }
-      ],
-      "duration_ms": 325701,
-      "name": "Rest On Us - Live",
-      "url": "https://open.spotify.com/track/6TYAbOGCUk4jvJhc8W9QZv"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Moments II (Live)",
-        "url": "https://open.spotify.com/album/3PWRsY3Z3xl7dJ17iLHbQG"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        }
-      ],
-      "duration_ms": 555973,
-      "name": "Worthy Of It All / All Of The Glory - Live",
-      "url": "https://open.spotify.com/track/4lCnMWzE9PppxF4Qpa6Abl"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Housefires + Friends (Live)",
         "url": "https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma"
       },
@@ -787,6 +767,42 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "My Hope Secure",
+        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 256734,
+      "name": "My Hope Secure",
+      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Moments II (Live)",
+        "url": "https://open.spotify.com/album/3PWRsY3Z3xl7dJ17iLHbQG"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "duration_ms": 555973,
+      "name": "Worthy Of It All / All Of The Glory - Live",
+      "url": "https://open.spotify.com/track/4lCnMWzE9PppxF4Qpa6Abl"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 294560,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5ffsmOjdQ2R3Te0Sy4kVWw"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "My Hope Secure",
-        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 256734,
-      "name": "My Hope Secure",
-      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Canvas And Clay (Live)",
-        "url": "https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "Ben Smith",
-          "url": "https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Canvas And Clay - Live",
-      "url": "https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 510795,
       "name": "Nothing Else - Live",
       "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Canvas And Clay (Live)",
+        "url": "https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Ben Smith",
+          "url": "https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Canvas And Clay - Live",
+      "url": "https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "God That Saves",
+        "url": "https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C"
+      },
+      "artists": [
+        {
+          "name": "Iron Bell Music",
+          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+        }
+      ],
+      "duration_ms": 292560,
+      "name": "Belong To You",
+      "url": "https://open.spotify.com/track/6zSXglLZMZBUMoqXHzzvYC"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Live From New York",
         "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 484200,
       "name": "Alleluia - Live",
       "url": "https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "God That Saves",
-        "url": "https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C"
-      },
-      "artists": [
-        {
-          "name": "Iron Bell Music",
-          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
-        }
-      ],
-      "duration_ms": 292560,
-      "name": "Belong To You",
-      "url": "https://open.spotify.com/track/6zSXglLZMZBUMoqXHzzvYC"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The Work, Vol. I",
-        "url": "https://open.spotify.com/album/0s2eJECLVrND9PFWeiAu6A"
-      },
-      "artists": [
-        {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
-        }
-      ],
-      "duration_ms": 311714,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/20GHzOIG9y0mn3yjwv9FT0"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "The War Is Over",
         "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 335400,
       "name": "Fountains",
       "url": "https://open.spotify.com/track/6sIEO9ZDhpW0BhCz1ZFIYV"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "The Work, Vol. I",
+        "url": "https://open.spotify.com/album/0s2eJECLVrND9PFWeiAu6A"
+      },
+      "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        }
+      ],
+      "duration_ms": 311714,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/20GHzOIG9y0mn3yjwv9FT0"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Nothing Ordinary",
-        "url": "https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 217226,
-      "name": "Every Beat (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/2np5AM9Unlb73qyCi1r82W"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 345637,
       "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
       "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Nothing Ordinary",
+        "url": "https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 217226,
+      "name": "Every Beat (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/2np5AM9Unlb73qyCi1r82W"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1471,26 +1471,6 @@
       "duration_ms": 285560,
       "name": "I'm Listening - Live",
       "url": "https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Abundantly More",
-        "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 241684,
-      "name": "Abundantly More (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1579,6 +1559,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Abundantly More",
+        "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 241684,
+      "name": "Abundantly More (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Awake My Soul (With Tasha Cobbs Leonard)",
         "url": "https://open.spotify.com/album/2HC0cgHArt7LwYi31BygLX"
       },
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/5ybtNC92wGRlHqlTskkWt0"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "This Is Our Story",
         "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
       },
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup"
-      },
-      "artists": [
-        {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
-        }
-      ],
-      "duration_ms": 232404,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Better Word",
         "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
       },
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
         }
       ],
-      "duration_ms": 307933,
-      "name": "Healer",
-      "url": "https://open.spotify.com/track/5ybtNC92wGRlHqlTskkWt0"
+      "duration_ms": 232404,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1819,22 +1819,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Mover Of Mountains (Live)",
-        "url": "https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS"
+        "name": "On My Side (Live)",
+        "url": "https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe"
       },
       "artists": [
         {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Aaron Lucas",
-          "url": "https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 344986,
-      "name": "Mover Of Mountains - Live",
-      "url": "https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b"
+      "duration_ms": 301106,
+      "name": "Throne Room - Live",
+      "url": "https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8"
     }
   ],
   "unique_name": "epicPRAISE",

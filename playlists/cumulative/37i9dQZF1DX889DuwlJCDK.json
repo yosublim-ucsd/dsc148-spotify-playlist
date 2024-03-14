@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 215283,
       "name": "Any",
       "url": "https://open.spotify.com/track/5Daxs3uXYluqXbyrIIHbG3"
@@ -1630,6 +1630,24 @@
     {
       "album": {
         "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/4FbJx3hYgHNHrzfqzk9vRi"
+      },
+      "artists": [
+        {
+          "name": "KOTORI",
+          "url": "https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194638,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/26kGk6Ia807QHtzIftKY7s"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
         "url": "https://open.spotify.com/album/7MTFay3o99M6aGnPnByyew"
       },
       "artists": [
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 194638,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/6QZGcazgsh6N9Z1soJgNdn"
@@ -1863,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "I Love you! next to music",
+        "url": "https://open.spotify.com/album/3rWIrZ3UYRwFz3tsEl3q5m"
+      },
+      "artists": [
+        {
+          "name": "hasirikomis",
+          "url": "https://open.spotify.com/artist/28bJGbQ7LynOhMZYD2ctdv"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270400,
+      "name": "ichinichi suubyouno ii siin",
+      "url": "https://open.spotify.com/track/7LuwkNU5o4UKlw3EPAIiZL"
+    },
+    {
+      "album": {
         "name": "Identify",
         "url": "https://open.spotify.com/album/66ZFlm59P8mAeHRsnQ0BpA"
       },
@@ -1914,6 +1950,24 @@
       "duration_ms": 277701,
       "name": "Ima Wo Ikirunoda.",
       "url": "https://open.spotify.com/track/2YmVd66biborLaNik6453K"
+    },
+    {
+      "album": {
+        "name": "Itaiyo",
+        "url": "https://open.spotify.com/album/5PGkinnlUxqTeQyVmTInkH"
+      },
+      "artists": [
+        {
+          "name": "Siberian Husky",
+          "url": "https://open.spotify.com/artist/7ar3JkN4hS9Ux4Y421kOQF"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Itaiyo",
+      "url": "https://open.spotify.com/track/4DTdsaJ2jpUQN0dUxAB4OI"
     },
     {
       "album": {
@@ -2079,6 +2133,42 @@
     },
     {
       "album": {
+        "name": "23-Spring",
+        "url": "https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl"
+      },
+      "artists": [
+        {
+          "name": "tokyo-kimigainaimati",
+          "url": "https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "kimnosoba",
+      "url": "https://open.spotify.com/track/1xFrkoI1ZBZOT06r0AP37r"
+    },
+    {
+      "album": {
+        "name": "Kiosk",
+        "url": "https://open.spotify.com/album/1OkQBtiXuNatib4zGprcPN"
+      },
+      "artists": [
+        {
+          "name": "Subway Daydream",
+          "url": "https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Kiosk",
+      "url": "https://open.spotify.com/track/2KXFAXPhgBmGVMOjwwuyVI"
+    },
+    {
+      "album": {
         "name": "kiosk",
         "url": "https://open.spotify.com/album/10LhGyloC0ETF9uPtqdjVr"
       },
@@ -2090,7 +2180,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 143750,
       "name": "kiosk",
       "url": "https://open.spotify.com/track/3wWr0nKtfzZ8rmooyRzDMr"
@@ -3239,6 +3329,24 @@
     },
     {
       "album": {
+        "name": "ONGAKU JUNBISHITSU",
+        "url": "https://open.spotify.com/album/4kwsagxWWGv76MxZbdZ5S5"
+      },
+      "artists": [
+        {
+          "name": "grating hunny",
+          "url": "https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215744,
+      "name": "ONGAKU JUNBISHITSU",
+      "url": "https://open.spotify.com/track/0LjJBLSJzWj3g1SWbmu3we"
+    },
+    {
+      "album": {
         "name": "Kimi ni Mita Kisetsu",
         "url": "https://open.spotify.com/album/76m0A0Q2uRcOh5bZ5pxR9i"
       },
@@ -3653,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "Detarame Yutosei",
+        "url": "https://open.spotify.com/album/2p8ZeaHlSqj3MfWr2s3ppl"
+      },
+      "artists": [
+        {
+          "name": "\u5915\u65b9\u3068\u732b",
+          "url": "https://open.spotify.com/artist/4JiDOJYtNcMywV5sUP0dYu"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220053,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2sp3t3vF0cBuurivkoXCVN"
+    },
+    {
+      "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/2T2lRiB4PIWoUCzdziQ0V6"
       },
@@ -3848,6 +3974,24 @@
       "duration_ms": 173706,
       "name": "Seishin Rock",
       "url": "https://open.spotify.com/track/5oeOH2PtEyy43MvchoWx34"
+    },
+    {
+      "album": {
+        "name": "Bukiyonawatashidakara",
+        "url": "https://open.spotify.com/album/7A2zw5c6HWDnWapolnp36b"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315800,
+      "name": "Setsugekka",
+      "url": "https://open.spotify.com/track/02ntK5ruQ5arRCAmQVXZmz"
     },
     {
       "album": {
@@ -4355,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "The song for youth",
+        "url": "https://open.spotify.com/album/1Stne4w4qPoujTbiP63TU7"
+      },
+      "artists": [
+        {
+          "name": "Fish and Lips",
+          "url": "https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274882,
+      "name": "The song for youth",
+      "url": "https://open.spotify.com/track/0GNpKRS1wjndypvfqoLOk8"
+    },
+    {
+      "album": {
         "name": "TIME MACHINE",
         "url": "https://open.spotify.com/album/3MLkB3uS8v7UyW2uSrknz0"
       },
@@ -4834,7 +4996,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 188000,
       "name": "\u3044\u305f\u3044\u3088",
       "url": "https://open.spotify.com/track/5dUYOfnhH5cDfN5iNZ0UtQ"
@@ -6814,7 +6976,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 189542,
       "name": "\u30d3\u30fc\u30c8\u30a2\u30c7\u30a3\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/60LtCcKHQ5SF5XwGCJ4KqX"
@@ -7408,7 +7570,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 220053,
       "name": "\u30e9\u30f3\u30ca\u30a6\u30a7\u30a4\uff01\uff01",
       "url": "https://open.spotify.com/track/6gix1YATM1IcxVkn9wo6od"
@@ -7570,7 +7732,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 270400,
       "name": "\u4e00\u65e5\u6570\u79d2\u306e\u826f\u3044\u30b7\u30fc\u30f3",
       "url": "https://open.spotify.com/track/6sgCpPWZ2Te19RLgCaqVv2"
@@ -8060,7 +8222,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 277800,
       "name": "\u559c\u6012\u54c0\u697d",
       "url": "https://open.spotify.com/track/3jRp2IETgPfv44mIUUEiKf"
@@ -10206,7 +10368,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 315800,
       "name": "\u96ea\u6708\u82b1",
       "url": "https://open.spotify.com/track/6jR9HOKraeOqG9QK0oNTbH"
@@ -10296,7 +10458,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 274882,
       "name": "\u9752\u6625\u30ed\u30c3\u30af\u3092\u6b4c\u3063\u3066",
       "url": "https://open.spotify.com/track/4juk9NccL5xc90oDF5kBr3"
@@ -10332,7 +10494,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 215744,
       "name": "\u97f3\u697d\u6e96\u5099\u5ba4",
       "url": "https://open.spotify.com/track/4pIdagmV3l9kXgy8ljTQym"

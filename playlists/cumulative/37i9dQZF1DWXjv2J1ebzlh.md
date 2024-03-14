@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,222 songs - 6 day 5 hr 22 min
+2,223 songs - 6 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1586,10 +1586,11 @@
 | [Oyeme Mama](https://open.spotify.com/track/4GJDCDwjFHZjJxzXknF7ku) | [Bob Azzam](https://open.spotify.com/artist/6aHHLKbMeqAmTkdwcogHjE) | [Romantica](https://open.spotify.com/album/1MefxHWih0OzAcOdcrLiWf) | 2:22 | 2022-06-09 | 2022-07-29 |
 | [Oyoun Houriyat](https://open.spotify.com/track/1DPUoAC0Jn4hKiappSNcT7) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/59wUhuFXv88Cov9DMjGGI3) | 5:15 | 2022-07-12 | 2022-11-20 |
 | [Oyoun Houriyat](https://open.spotify.com/track/47K7gI2Q3nYn87abs9p4wt) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 5:15 | 2022-10-31 |  |
-| [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 | 2022-07-12 |  |
+| [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 | 2022-07-12 | 2024-03-14 |
 | [Pagibig Na Lubus\-Lubos](https://open.spotify.com/track/1102GcvwzSanCp1q5Z0zdH) | [Celeste Legaspi](https://open.spotify.com/artist/20gOeXI8NLUKdSr9Z4YeD6) | [Celeste, Vol\. 1 \(Vicor 40th Anniversary Collection\)](https://open.spotify.com/album/70tjmqisOQapLl4ZocebQq) | 2:51 | 2022-07-27 |  |
 | [Pagibig na Lubus\-lubos](https://open.spotify.com/track/7lbYP3mrgJW7tZsJZjnIXf) | [Celeste Legaspi](https://open.spotify.com/artist/20gOeXI8NLUKdSr9Z4YeD6) | [Celeste \(vicor 40th anniv coll\) vol 1](https://open.spotify.com/album/6RQW20PSTwYEPvTj7i38Ez) | 2:51 | 2022-06-09 | 2022-07-29 |
 | [Paint It Black](https://open.spotify.com/track/3w2F2Pb2Kv0ZzeGD7SfB30) | [Africa](https://open.spotify.com/artist/4bszODJhbxkwHlq0Inh6VU) | [Music From “Lil Brown” \- Remastered](https://open.spotify.com/album/1xe6dsE1l6EvVoxNJhzB14) | 7:28 | 2022-06-09 |  |
+| [Pal' 23](https://open.spotify.com/track/3qAEfl5f8OSjqOk2UW1JtA) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Centenario de Salsa](https://open.spotify.com/album/16QVFqa4EAhXxsWgYGTFac) | 3:14 | 2023-11-29 |  |
 | [Palengue Palengue](https://open.spotify.com/track/2SnTHIYAkmSwwJBSb29JT2) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975 \- 91](https://open.spotify.com/album/3nnDp17ONStMm4LY6D64Mq) | 4:09 | 2022-07-12 | 2022-07-29 |
 | [Palengue Palengue](https://open.spotify.com/track/0h1wnEV4VioEaoUyndMUc6) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 4:10 | 2022-07-27 | 2024-03-08 |
 | [Palengue Palengue](https://open.spotify.com/track/5lJOm0UNd3AFwxKvirEjYB) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/5HAxpndIx1dY8zwblmjEHz) | 4:10 | 2023-11-29 |  |

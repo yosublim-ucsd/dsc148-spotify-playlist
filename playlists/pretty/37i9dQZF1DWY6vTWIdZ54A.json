@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 491237,
+  "num_followers": 491265,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNThmNTI3ZWEzMjE3MDEyOTA3YWE1YzIyMDA0NzlhYmFiOTE0MzRj",
+  "snapshot_id": "MCw4NDI0ZmZiOGI4NzdkYTMwNDExNjcxMjMwZjIxN2VjZWFiNjAyOWJl",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Death By Rock And Roll",
-        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Death By Rock And Roll",
-      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Martyr Parade",
         "url": "https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 165566,
       "name": "Outta My Mind",
       "url": "https://open.spotify.com/track/7BVo8X0ckrgdSwOwvKEcjh"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Death By Rock And Roll",
+        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Death By Rock And Roll",
+      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Love Is All You Love",
-        "url": "https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O"
+        "name": "That Dress (Demo)",
+        "url": "https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3"
       },
       "artists": [
         {
-          "name": "Band Of Skulls",
-          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
         }
       ],
-      "duration_ms": 202813,
-      "name": "Love Is All You Love",
-      "url": "https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK"
+      "duration_ms": 188088,
+      "name": "That Dress - Demo",
+      "url": "https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "That Dress (Demo)",
-        "url": "https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 188088,
-      "name": "That Dress - Demo",
-      "url": "https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Night People",
         "url": "https://open.spotify.com/album/1snS7GPKcsbRHihG1ug2VN"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 183720,
       "name": "Night People",
       "url": "https://open.spotify.com/track/0deuG8hdDyPJCsT3qovhF0"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Love Is All You Love",
+        "url": "https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "duration_ms": 202813,
+      "name": "Love Is All You Love",
+      "url": "https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
+      },
+      "artists": [
+        {
+          "name": "Reignwolf",
+          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+        },
+        {
+          "name": "Brad Wilk",
+          "url": "https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o"
+        }
+      ],
+      "duration_ms": 173048,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
         "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 278297,
       "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
       "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
-      },
-      "artists": [
-        {
-          "name": "Reignwolf",
-          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
-        },
-        {
-          "name": "Brad Wilk",
-          "url": "https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o"
-        }
-      ],
-      "duration_ms": 173048,
-      "name": "The Woods",
-      "url": "https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz"
     },
     {
       "added_at": "2023-09-22 00:56:58",

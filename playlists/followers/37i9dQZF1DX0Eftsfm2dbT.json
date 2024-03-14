@@ -1,7 +1,7 @@
 {
-  "2024-03-13": 131810,
+  "2024-03-14": 131877,
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover:  MFS",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: \u5343\u8449\u96c4\u559c & Young Coco & Jin Dogg",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -757,7 +757,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 240560,
       "name": "ALL FRIENDS",
       "url": "https://open.spotify.com/track/6obB15uhTvJgd6007Ng2MX"
@@ -1144,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "Bars of My Life",
+        "url": "https://open.spotify.com/album/5XWKtAvyJarKUBt7b9BjmE"
+      },
+      "artists": [
+        {
+          "name": "Mummy-D",
+          "url": "https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193974,
+      "name": "Bars of My Life",
+      "url": "https://open.spotify.com/track/0oKVg7X4dkfdovXnUKHcTa"
+    },
+    {
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm"
       },
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 129556,
       "name": "Bikini Freestyle",
       "url": "https://open.spotify.com/track/07XmrQKnUdgutRECCeZCr1"
@@ -2851,7 +2869,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 160629,
       "name": "Don Julio",
       "url": "https://open.spotify.com/track/3qdu41Y9RmZaO7hjMFPivL"
@@ -3165,7 +3183,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 192558,
       "name": "EL COCINERO",
       "url": "https://open.spotify.com/track/0R90BuNm2Msnjz0x64SD8T"
@@ -3973,6 +3991,28 @@
       "duration_ms": 183770,
       "name": "FUKANZENTAI",
       "url": "https://open.spotify.com/track/7dw89jsZA6UBnFHpsB4YlV"
+    },
+    {
+      "album": {
+        "name": "G-Class",
+        "url": "https://open.spotify.com/album/3fhUJ0yY7ZRGAwGj47mw8V"
+      },
+      "artists": [
+        {
+          "name": "018",
+          "url": "https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN"
+        },
+        {
+          "name": "\u00a5OUNG ARM\u00a5",
+          "url": "https://open.spotify.com/artist/2Mgtxy03Xbwwk2ZqABZ00Q"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139894,
+      "name": "G-Class",
+      "url": "https://open.spotify.com/track/47DbOztDvmgPHbqPEL1cb0"
     },
     {
       "album": {
@@ -5083,7 +5123,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 177000,
       "name": "Hot Rodder",
       "url": "https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD"
@@ -5327,6 +5367,24 @@
       "duration_ms": 197855,
       "name": "Interest",
       "url": "https://open.spotify.com/track/6AcxzlVzebl34eXTEncIeD"
+    },
+    {
+      "album": {
+        "name": "Local Life",
+        "url": "https://open.spotify.com/album/4560Qtdvr2QLUZPhnbsCUy"
+      },
+      "artists": [
+        {
+          "name": "Nero",
+          "url": "https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137149,
+      "name": "JET",
+      "url": "https://open.spotify.com/track/7F3J8LeYIiuqYuGUvau3Jp"
     },
     {
       "album": {
@@ -6553,7 +6611,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 169563,
       "name": "MEISO",
       "url": "https://open.spotify.com/track/1IIXwqTkl5ogqIn63OBRxE"
@@ -6801,6 +6859,32 @@
       "duration_ms": 187605,
       "name": "Move Up",
       "url": "https://open.spotify.com/track/2bBe5DkMT1inRNPJ4RsClZ"
+    },
+    {
+      "album": {
+        "name": "Ms. U",
+        "url": "https://open.spotify.com/album/78mbgmakgs35BkiafqFNSU"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        },
+        {
+          "name": "idom",
+          "url": "https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx"
+        },
+        {
+          "name": "SALU",
+          "url": "https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214362,
+      "name": "Ms. U",
+      "url": "https://open.spotify.com/track/4pnqlhfJhGMVOY72NZdqaq"
     },
     {
       "album": {
@@ -7061,6 +7145,36 @@
       "duration_ms": 187250,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/7pv8pecHsyLltcAIkMgONT"
+    },
+    {
+      "album": {
+        "name": "Neon (Fully Active Ver.)",
+        "url": "https://open.spotify.com/album/1yREloSCNLtuwONK55o90w"
+      },
+      "artists": [
+        {
+          "name": "VIGORMAN",
+          "url": "https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ"
+        },
+        {
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "SAMI-T",
+          "url": "https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283222,
+      "name": "Neon - Fully Active Ver.",
+      "url": "https://open.spotify.com/track/5N4M51oo4pop3zpB8LWIMI"
     },
     {
       "album": {
@@ -7557,7 +7671,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 148598,
       "name": "nukemichi",
       "url": "https://open.spotify.com/track/6eZjtJJb3zMzPV4LDdtO8a"
@@ -8383,7 +8497,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 186181,
       "name": "Rarri",
       "url": "https://open.spotify.com/track/6tiguQlJ1ZYIfBFGPkJ0GL"
@@ -9697,10 +9811,36 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 152288,
       "name": "Team Tomodachi",
       "url": "https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu"
+    },
+    {
+      "album": {
+        "name": "Team Tomodachi (Remix)",
+        "url": "https://open.spotify.com/album/03GtNIvFYHk7ltVGMC3Mkh"
+      },
+      "artists": [
+        {
+          "name": "Yuki Chiba",
+          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
+        },
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218613,
+      "name": "Team Tomodachi - Remix",
+      "url": "https://open.spotify.com/track/1TBtAioi82LToAaojj9ruU"
     },
     {
       "album": {
@@ -10084,6 +10224,28 @@
     },
     {
       "album": {
+        "name": "Too Much (Remix)",
+        "url": "https://open.spotify.com/album/4dNi062Ek4PyfyfQZEaVZs"
+      },
+      "artists": [
+        {
+          "name": "MuKuRo",
+          "url": "https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc"
+        },
+        {
+          "name": "Leofeel",
+          "url": "https://open.spotify.com/artist/7tPUWaEzeUNFKt1oN9vWKj"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140711,
+      "name": "Too Much - Remix",
+      "url": "https://open.spotify.com/track/5fKgL0EuAky4dBUEMcL6na"
+    },
+    {
+      "album": {
         "name": "TooNight / R.I.P",
         "url": "https://open.spotify.com/album/7lC5SOKDirGhsMWt4TixGI"
       },
@@ -10286,6 +10448,28 @@
     },
     {
       "album": {
+        "name": "Undefeated Pride",
+        "url": "https://open.spotify.com/album/7r7Oag32QpfSKXYEvkm2ch"
+      },
+      "artists": [
+        {
+          "name": "BES",
+          "url": "https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H"
+        },
+        {
+          "name": "ISSUGI",
+          "url": "https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218750,
+      "name": "Undefeated Pride",
+      "url": "https://open.spotify.com/track/4aBgiXy34Pmtd7qGk4GISK"
+    },
+    {
+      "album": {
         "name": "Rockdown",
         "url": "https://open.spotify.com/album/0PTuKPDfxHvFUJlAkMtDy8"
       },
@@ -10363,7 +10547,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 152470,
       "name": "Usual Suspects",
       "url": "https://open.spotify.com/track/312chzrFEnYftYjRnNLG4X"
@@ -10687,6 +10871,28 @@
       "duration_ms": 191612,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/0ROR97a9Q9SeEkDCON5fmd"
+    },
+    {
+      "album": {
+        "name": "WARUI ASOBI (OVER KILL REMIX)",
+        "url": "https://open.spotify.com/album/0XhV5GtJMBmybT8UBwTClN"
+      },
+      "artists": [
+        {
+          "name": "ZERRY",
+          "url": "https://open.spotify.com/artist/3WIuy28xtmqsOGsUCFmB5b"
+        },
+        {
+          "name": "OVER KILL",
+          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137785,
+      "name": "WARUI ASOBI - OVER KILL REMIX",
+      "url": "https://open.spotify.com/track/2Icwq5LHJDc6a4uvKJBavV"
     },
     {
       "album": {
@@ -11484,6 +11690,24 @@
     },
     {
       "album": {
+        "name": "\u306f\u306a\u307f\u305a\u304d",
+        "url": "https://open.spotify.com/album/37HyGAIq25i8vaFTz3cFoZ"
+      },
+      "artists": [
+        {
+          "name": "GADORO",
+          "url": "https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270847,
+      "name": "\u306f\u306a\u307f\u305a\u304d",
+      "url": "https://open.spotify.com/track/7948ExjfwLSjUcAom8MoRM"
+    },
+    {
+      "album": {
         "name": "SOUL CUT'S",
         "url": "https://open.spotify.com/album/0ROF6yQrqunA38QXeGTaCq"
       },
@@ -11657,7 +11881,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 218613,
       "name": "\u30c1\u30fc\u30e0\u53cb\u9054 - Remix",
       "url": "https://open.spotify.com/track/7L23oYq9gQRjoxX8UlARLX"
@@ -11693,7 +11917,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 213357,
       "name": "\u30de\u30a4\u30af\u6301\u3064\u8005\u3088",
       "url": "https://open.spotify.com/track/4xoAuuAsvHADpTVPvvYgaV"
@@ -11905,6 +12129,24 @@
       "duration_ms": 148598,
       "name": "\u629c\u9053",
       "url": "https://open.spotify.com/track/5DXh7qtJTkEu9b4Cot5WpM"
+    },
+    {
+      "album": {
+        "name": "\u6700\u4f4e\u3060\u3051\u3069\u6700\u9ad8",
+        "url": "https://open.spotify.com/album/4EZrC1LZyiTb3DV3igu8Bl"
+      },
+      "artists": [
+        {
+          "name": "Tim Pepperoni",
+          "url": "https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103636,
+      "name": "\u6700\u4f4e\u3060\u3051\u3069\u6700\u9ad8",
+      "url": "https://open.spotify.com/track/2ufX2xxEysgDrPE5ANyhHy"
     },
     {
       "album": {

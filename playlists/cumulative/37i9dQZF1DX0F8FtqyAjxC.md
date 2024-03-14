@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-152 songs - 14 hr 17 min
+153 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Boutade \- Miseridub](https://open.spotify.com/track/6Ju5IHiRn4InF2lu165HMo) | [Mugwump](https://open.spotify.com/artist/7JoP7BbbK8PXHxLO4Hd1dW), [Bill Brewster](https://open.spotify.com/artist/01Hj5EQGynnrJncV7vhAyA) | [Late Night Tales Presents After Dark: Nightshift](https://open.spotify.com/album/5Ay42v6cmcNOQytd0c8qBb) | 9:13 | 2022-07-07 | 2023-08-22 |
 | [Bustin' Out \(On Funk\)](https://open.spotify.com/track/0wYo8gcZCREyPoWOv0FzCX) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [The Definitive Collection](https://open.spotify.com/album/3cmNaX608gRp9HBEENK5eZ) | 3:52 | 2023-03-08 | 2023-08-26 |
 | [Can't Hide Love](https://open.spotify.com/track/7fkTTjxihD1R413FKEknM3) | [Jaye P\. Morgan](https://open.spotify.com/artist/5pXHBib9XGRDufx8zSc5Wk) | [Jaye P\. Morgan](https://open.spotify.com/album/4dbcKLuaxzApoh4pejxhyp) | 4:51 | 2022-07-07 | 2022-11-22 |
-| [Cascades of Colour](https://open.spotify.com/track/4Q1lNgOmrCPu5pnPHBDP3n) | [Ananda Project](https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c), [Gaelle Adisson](https://open.spotify.com/artist/7nGw9P67X1POjUDuf8ofFo) | [Release](https://open.spotify.com/album/1iWWc8Yads44yQcCJntXFq) | 6:42 | 2023-11-22 |  |
+| [Cascades of Colour](https://open.spotify.com/track/4Q1lNgOmrCPu5pnPHBDP3n) | [Ananda Project](https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c), [Gaelle Adisson](https://open.spotify.com/artist/7nGw9P67X1POjUDuf8ofFo) | [Release](https://open.spotify.com/album/1iWWc8Yads44yQcCJntXFq) | 6:42 | 2023-11-22 | 2024-03-14 |
+| [Cascades of Colour \- Extended Mix](https://open.spotify.com/track/2hvPAweFTgcAn9caYJh564) | [Ananda Project](https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c), [Gaelle](https://open.spotify.com/artist/5Y05sxUHmmYpTRHNA5u6Jy) | [Release](https://open.spotify.com/album/1VrJizKgfnE4cSt0EFLZu0) | 6:42 | 2023-11-22 |  |
 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 | 2023-03-08 |  |
 | [Color Blind \- Remastered](https://open.spotify.com/track/07KpzznlVZq9sp5WdzPogV) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Maze \(Remastered\)](https://open.spotify.com/album/6TU0GXA9Vq80VYdmuCpCFQ) | 3:25 | 2022-10-14 | 2023-11-23 |
 | [Come to Mama](https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Tellin' It](https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ) | 2:58 | 2022-07-07 | 2023-11-23 |

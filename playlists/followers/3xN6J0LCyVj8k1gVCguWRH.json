@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 107781,
+  "2024-03-14": 107779,
   "date_first_scraped": "2019-09-29",
   "description": "Some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2024",
@@ -10389,6 +10389,28 @@
       "duration_ms": 169151,
       "name": "Come As You Are Party",
       "url": "https://open.spotify.com/track/76kgmsjJRbOwH8yglZyfiy"
+    },
+    {
+      "album": {
+        "name": "Jazz Can Heal America's Soul",
+        "url": "https://open.spotify.com/album/6eNpJgWcxO8lcvoXO8IOk4"
+      },
+      "artists": [
+        {
+          "name": "Messiah'el Bey",
+          "url": "https://open.spotify.com/artist/1TSU8ZHoDGcAyrAfPtiDZU"
+        },
+        {
+          "name": "Rocio Del Pozo",
+          "url": "https://open.spotify.com/artist/0CQk1e3d6eGlsH6K6o3yi9"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297065,
+      "name": "Come Back to Me!",
+      "url": "https://open.spotify.com/track/6NHzPMLqocep68G9ve5HLo"
     },
     {
       "album": {
@@ -28073,7 +28095,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 208729,
       "name": "La Soledad Me Elige",
       "url": "https://open.spotify.com/track/54jbUuPstiaL4r3YM3yYRU"
@@ -38047,7 +38069,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 254149,
       "name": "Open Wide",
       "url": "https://open.spotify.com/track/6YirAMBxccnZ5TA4U34nB4"
@@ -38663,6 +38685,24 @@
       "duration_ms": 177589,
       "name": "Owe Me Money",
       "url": "https://open.spotify.com/track/0PGCHyGkisSIn2e0Fllwzi"
+    },
+    {
+      "album": {
+        "name": "Regrets Only",
+        "url": "https://open.spotify.com/album/5MVIvMJjW0tFtpxnwIn8TS"
+      },
+      "artists": [
+        {
+          "name": "Quiet Takes",
+          "url": "https://open.spotify.com/artist/3qA9q27gKjuMgIq96xvrfS"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "Oxbow Shower",
+      "url": "https://open.spotify.com/track/6x7raSSPAeGs3SVTrzP5JB"
     },
     {
       "album": {
@@ -44854,6 +44894,32 @@
     },
     {
       "album": {
+        "name": "hella (\u02c3\u0323\u0323\u0325\u256d\u256e\u02c2\u0323\u0323\u0325) \u2727 \u2661 \u2027\u00ba\u00b7\u02da",
+        "url": "https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186329,
+      "name": "silence STArEs me down (feat. Cuco)",
+      "url": "https://open.spotify.com/track/78KntfAskv8cMLQSa0a5PR"
+    },
+    {
+      "album": {
         "name": "Mom I'm a Popstar!",
         "url": "https://open.spotify.com/album/6pZqVaSJQADnbmSugBnXif"
       },
@@ -50253,7 +50319,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 211800,
       "name": "The Jacket",
       "url": "https://open.spotify.com/track/3vTbIMDAauRBZHQ3dPfnMp"

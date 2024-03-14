@@ -4,7 +4,7 @@
 
 > Male artists singing about love.
 
-294 songs - 20 hr 13 min
+295 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [\(Nice To Meet You\) Anyway \- Stripped Version](https://open.spotify.com/track/5R6EwipTki2IU7VjJdMERx) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 4:46 | 2022-08-26 | 2022-11-13 |
 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 | 2022-05-27 |  |
 | [A Groovy Kind of Love](https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Love Songs \(A Compilation Old and New\)](https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF) | 3:30 | 2021-11-23 | 2024-03-09 |
+| [A Groovy Kind of Love \- 2016 Remaster](https://open.spotify.com/track/3BSi5qoJGLab7rn7zfmTPA) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:30 | 2022-08-26 |  |
 | [After The Lovin'](https://open.spotify.com/track/2kpXlyuvv5Cnev3R31uc5D) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Gold](https://open.spotify.com/album/5x5Lkz3iUd9iDVUJopk2SC) | 3:54 | 2021-11-23 | 2022-07-29 |
 | [After the Lovin' \- Re\-Record](https://open.spotify.com/track/0kFbymwTef1j4nIm8avRQH) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [After the Lovin' \- Re\-Record](https://open.spotify.com/album/0XEV6goQNCZMbvFs7ZogBs) | 3:53 | 2022-08-26 | 2022-11-13 |
 | [Against All Odds \(Take a Look at Me Now\)](https://open.spotify.com/track/57dszbx0tyUg8S7eymMpiY) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Against All Odds / Original Motion Picture Soundtrack](https://open.spotify.com/album/4e2bYXSJnRqZVShOaqzpFf) | 3:24 | 2022-08-26 | 2022-11-13 |
@@ -170,7 +171,7 @@
 | [Morning Has Broken](https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat](https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo) | 3:20 | 2021-11-23 | 2022-07-29 |
 | [Morning Has Broken](https://open.spotify.com/track/5w8PQw7uewKdHlz2OBP7ft) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Flower Power Classics](https://open.spotify.com/album/5SdcIqAvjFdnoqfsemtj8L) | 3:20 | 2022-08-26 | 2022-11-13 |
 | [Morning Has Broken \- Remastered 2021](https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 3:19 | 2022-05-27 |  |
-| [Movie Star](https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Return To Sender](https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw) | 2:52 | 2022-11-16 |  |
+| [Movie Star](https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Return To Sender](https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw) | 2:52 | 2022-11-16 | 2024-03-14 |
 | [My Love](https://open.spotify.com/track/5QN44mkwFWRhJ0H1VuGoho) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [All The Best \(UK Version\)](https://open.spotify.com/album/5KmV008tb0n0xusPf75Kd7) | 4:08 | 2021-11-23 | 2022-07-29 |
 | [My Love](https://open.spotify.com/track/19LoYrMj3ZlqQUrxa1ADQh) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK) | 3:50 | 2021-11-23 | 2022-07-29 |
 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 | 2022-05-27 |  |

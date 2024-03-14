@@ -4,7 +4,7 @@
 
 > Les plus grands hits en version berceuse
 
-167 songs - 10 hr 5 min
+170 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Beautiful People \- Instrumental](https://open.spotify.com/track/18zHctXZpTpfb7Hmpegter) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1DIDEhslScZfEet6zUTZaD) | 3:01 | 2021-04-20 |  |
 | [Beautiful People \- Instrumental](https://open.spotify.com/track/6e8ausDddiGiiqCe2Zkliw) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1hLfVcVC8KhpQgMJLZf8nL) | 3:01 | 2021-04-20 | 2023-12-25 |
 | [Believe](https://open.spotify.com/track/2u7DvpLjLtGRLozJbmbW5L) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Cher](https://open.spotify.com/album/72YsufTbnHR7mrR9gBMZAF) | 4:54 | 2021-04-20 |  |
-| [Best Song Ever](https://open.spotify.com/track/0p2lGUkhJOXovMUifi7BhG) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of One Direction](https://open.spotify.com/album/5dFg3Cb5e7O37dKbxlvflV) | 4:39 | 2021-04-20 |  |
+| [Best Song Ever](https://open.spotify.com/track/0p2lGUkhJOXovMUifi7BhG) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of One Direction](https://open.spotify.com/album/5dFg3Cb5e7O37dKbxlvflV) | 4:39 | 2021-04-20 | 2024-03-14 |
+| [Best Song Ever](https://open.spotify.com/track/73AHpvFe5fi0Nr9HH9iIIZ) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of One Direction](https://open.spotify.com/album/1OQwliXjjsF7KvoYhL7DUD) | 4:39 | 2021-04-20 |  |
 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0bRkBjM2ztAkRmpNLFyTch) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Selena](https://open.spotify.com/album/5DJN2nHQLe7LQcQ3r1QG8g) | 2:48 | 2021-04-20 |  |
 | [Bitter Sweet Symphony \(Lullaby Rendition\)](https://open.spotify.com/track/4dwb5v9B530syeulNPfViY) | [Jammy Jams](https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d) | [Lullabylooza 2: More '90s Alternative Goes Lullaby](https://open.spotify.com/album/0z77zXmGzk6BYLXjXMmYh5) | 4:20 | 2021-04-20 |  |
 | [Black Beatles](https://open.spotify.com/track/2pinNULtnfj0xtsuJ4eies) | [Sleeping Panda](https://open.spotify.com/artist/1laYpKGp2Y09VP6tBSwcGN) | [Lullaby Renditions of Trap, Rap and Hip\-Hop 1](https://open.spotify.com/album/5nCKVbOPzfLeA58hUcDs7Z) | 3:05 | 2021-04-20 |  |
@@ -82,7 +83,8 @@
 | [I Feel It Coming](https://open.spotify.com/track/3X1gQVpptt1BGsBhXvqJD2) | [Sleeping Panda](https://open.spotify.com/artist/1laYpKGp2Y09VP6tBSwcGN) | [Lullaby Renditions of The Weeknd](https://open.spotify.com/album/7Dsyi1f0zuqxR96r8buXzH) | 4:14 | 2021-04-20 | 2024-01-05 |
 | [I Will Always Love You](https://open.spotify.com/track/2jmMnfFvt9hsmrfpFop3KV) | [Sleepytime Rangers](https://open.spotify.com/artist/4rVUtZH4EZswb8XGaeUakn) | [Nashville for Babies: Lullaby Renditions of Country Music Hits](https://open.spotify.com/album/0MHTx8URDnAyOtJH7QZUST) | 3:29 | 2021-04-20 |  |
 | [I've Had the Time of My Life](https://open.spotify.com/track/7aSB7Cdn4Y65D83754SqtW) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Sounds of the 80s, Vol\. 6](https://open.spotify.com/album/7MKcCEhNvSKkYAH4Kkjf11) | 4:09 | 2021-04-20 |  |
-| [If I Can't Have You](https://open.spotify.com/track/5HncfVvoBdtf8y7d1xq4qk) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Shawn Mendes](https://open.spotify.com/album/3htfu7bBRUurg0Km7sBBMp) | 3:54 | 2021-04-20 |  |
+| [If I Can't Have You](https://open.spotify.com/track/0Ehogz5LxEgBLI1onSoHP7) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Shawn Mendes](https://open.spotify.com/album/0gtpHGs3huYC9tV3zAbvLy) | 3:54 | 2021-04-20 |  |
+| [If I Can't Have You](https://open.spotify.com/track/5HncfVvoBdtf8y7d1xq4qk) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Shawn Mendes](https://open.spotify.com/album/3htfu7bBRUurg0Km7sBBMp) | 3:54 | 2021-04-20 | 2024-03-14 |
 | [In My Feelings](https://open.spotify.com/track/76b6e4eZFLFb6NqmDX6BSe) | [Lullapop](https://open.spotify.com/artist/1sJhbiQRSIKZeTYEZfzBSV) | [Lullapop 2](https://open.spotify.com/album/5B6vC6rwMJ1qcofMUWaLmo) | 2:56 | 2021-04-20 |  |
 | [Into You](https://open.spotify.com/track/1utBa34OD1jYTUdv5Kwpuy) | [Sleeping Panda](https://open.spotify.com/artist/1laYpKGp2Y09VP6tBSwcGN) | [Lullaby Renditions of Ariana Grande](https://open.spotify.com/album/5LieWFMcLkRKRcBvtS81dB) | 2:30 | 2021-04-20 | 2024-01-06 |
 | [Into You](https://open.spotify.com/track/4O7Fq6zG8ZwGS3VMSzDlsI) | [Sleeping Panda](https://open.spotify.com/artist/1laYpKGp2Y09VP6tBSwcGN) | [Lullaby Renditions of Ariana Grande](https://open.spotify.com/album/5SSygWHB0Zf7qfrP8dHuRh) | 2:30 | 2021-04-20 |  |
@@ -158,7 +160,8 @@
 | [The Wire](https://open.spotify.com/track/56JwPsJNK0Y3m49Bw8U4hj) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of HAIM](https://open.spotify.com/album/5npJjMTAp9jPUietDwNmP1) | 4:52 | 2021-04-20 |  |
 | [This Is Me](https://open.spotify.com/track/2vNlQjEPYVM9Dy7nOLXPce) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of the Greatest Showman](https://open.spotify.com/album/75wZIHBa7hgvKBYUon3zJJ) | 5:05 | 2021-04-20 |  |
 | [Timber](https://open.spotify.com/track/5uSF0anjeEnPo5JS9yfdbv) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Timber](https://open.spotify.com/album/60hAn750tpdxN8PydWHX2u) | 3:00 | 2021-04-20 |  |
-| [To Make You Feel My Love](https://open.spotify.com/track/76FORxpOhIzdXaVMRUlVxc) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Adele](https://open.spotify.com/album/2xh6AHqLKzSuILMaqr9d1V) | 4:12 | 2021-04-20 |  |
+| [To Make You Feel My Love](https://open.spotify.com/track/1dUsorS3ZIC6OCWW8ZJETo) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Adele](https://open.spotify.com/album/2BUA9wLoRJSngH09hERlnf) | 4:12 | 2021-04-20 |  |
+| [To Make You Feel My Love](https://open.spotify.com/track/76FORxpOhIzdXaVMRUlVxc) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Adele](https://open.spotify.com/album/2xh6AHqLKzSuILMaqr9d1V) | 4:12 | 2021-04-20 | 2024-03-14 |
 | [Too Good at Goodbyes](https://open.spotify.com/track/5ifrGYS4fTaKfu4NuTKGV0) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Sam Smith](https://open.spotify.com/album/5CbtFpJXUSEEzGB9siN84f) | 3:57 | 2021-04-20 |  |
 | [Truth Hurts](https://open.spotify.com/track/099rGatvBdzZc3PP1ZyAsS) | [Lullapop](https://open.spotify.com/artist/1sJhbiQRSIKZeTYEZfzBSV) | [Lullapop 3](https://open.spotify.com/album/7LvOyHfr5fstFul9iui69Y) | 3:12 | 2021-04-20 |  |
 | [Under Pressure](https://open.spotify.com/track/2Rfg1lD8jvBgAdbyFuJjVb) | [Sleeping Panda](https://open.spotify.com/artist/1laYpKGp2Y09VP6tBSwcGN) | [Lullaby Renditions of Queen](https://open.spotify.com/album/1UP6KchgDY6GycN81tSUOe) | 2:42 | 2021-04-20 |  |

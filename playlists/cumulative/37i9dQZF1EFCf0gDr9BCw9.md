@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-177 songs - 13 hr 21 min
+178 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Le Sacre Supreme](https://open.spotify.com/track/1FTLzpRiRE8IEet0DSxXMt) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 5:21 | 2022-09-08 |  |
 | [Lotus Blossom](https://open.spotify.com/track/1n6WfVhvWfj6zhehLJh82q) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Billy and Friends](https://open.spotify.com/album/6KYDeR2jJDrmJW544RXEV2) | 3:06 | 2022-09-08 |  |
 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 | 2024-02-17 |  |
-| [Love Came](https://open.spotify.com/track/0hUGRFMgiVFJ9njDHHokyl) | [Darius de Haas](https://open.spotify.com/artist/4yYe2kXNFtGFEExk6Py57R) | [Day Dream \(Variations on Strayhorn\)](https://open.spotify.com/album/51grlB2aN7VwTUEbdvk49v) | 2:22 | 2024-03-11 |  |
+| [Love Came](https://open.spotify.com/track/5HpSlHNJKEKUTbUnJb5In4) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Love Came](https://open.spotify.com/album/4a9c1SZW13bcZHat8r7oq9) | 2:29 | 2024-03-13 |  |
+| [Love Came](https://open.spotify.com/track/0hUGRFMgiVFJ9njDHHokyl) | [Darius de Haas](https://open.spotify.com/artist/4yYe2kXNFtGFEExk6Py57R) | [Day Dream \(Variations on Strayhorn\)](https://open.spotify.com/album/51grlB2aN7VwTUEbdvk49v) | 2:22 | 2024-03-11 | 2024-03-14 |
 | [Love Has Passed Me By Again](https://open.spotify.com/track/7nvFlRf2uHSzdcfLaM6Hg4) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 5:21 | 2022-09-08 |  |
 | [Lozit](https://open.spotify.com/track/4xBCIDH136EpQCzmbQqN1k) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:20 | 2022-09-08 |  |
 | [Lush Life](https://open.spotify.com/track/0i6JF8OHlrX1Rxe13GbDnC) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 4:14 | 2022-09-08 |  |

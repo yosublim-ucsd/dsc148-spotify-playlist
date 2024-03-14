@@ -77,7 +77,7 @@
 | [Sublime & silence \- Acoustic](https://open.spotify.com/track/52vhPeg4uC6fxfEKLMwPVp) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Vous & moi](https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ) | 5:13 | 2021-04-23 |  |
 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 | 2021-04-23 |  |
 | [Tu donnes](https://open.spotify.com/track/7fCYB4aKLTc8Yrrg491Ji6) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Matriochka](https://open.spotify.com/album/4lXTDTBv4geOKHRh9O8lPv) | 2:54 | 2021-04-23 |  |
-| [Tu Ne Me Dois Rien](https://open.spotify.com/track/7BVEtUdMRwBD3JTsIkXP2W) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Hotel S](https://open.spotify.com/album/5izluV9r74JI8ZdsOUJ1xt) | 3:54 | 2021-04-23 |  |
+| [Tu ne me dois rien](https://open.spotify.com/track/7BVEtUdMRwBD3JTsIkXP2W) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Hotel S](https://open.spotify.com/album/5izluV9r74JI8ZdsOUJ1xt) | 3:54 | 2021-04-23 |  |
 | [À la faveur de l'automne](https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [À la faveur de l'automne](https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot) | 3:43 | 2021-04-23 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

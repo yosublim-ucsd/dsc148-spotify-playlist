@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 12084,
+  "num_followers": 12086,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmRjNjU5Y2E0MmU2MTEwOWE4NTNiYTRlMTllYTM5NjQzYTlhZWRi",
+  "snapshot_id": "MCwxMGVkZmIxMzY2ZTczZjI5YzhjYmYzZWVkODIxYmQ1NDJlYTgzMDVm",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "When You Came Along",
-        "url": "https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ"
-      },
-      "artists": [
-        {
-          "name": "Jonnie Snoilsky",
-          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
-        }
-      ],
-      "duration_ms": 126575,
-      "name": "When You Came Along",
-      "url": "https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "In Search of Miracles",
         "url": "https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 147374,
       "name": "In Search of Miracles",
       "url": "https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "When You Came Along",
+        "url": "https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ"
+      },
+      "artists": [
+        {
+          "name": "Jonnie Snoilsky",
+          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
+        }
+      ],
+      "duration_ms": 126575,
+      "name": "When You Came Along",
+      "url": "https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Tall Flowers",
-        "url": "https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw"
-      },
-      "artists": [
-        {
-          "name": "Helen Wei",
-          "url": "https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA"
-        }
-      ],
-      "duration_ms": 126151,
-      "name": "Tall Flowers",
-      "url": "https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Inside the stone",
         "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 124034,
       "name": "Inside the stone",
       "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Tall Flowers",
+        "url": "https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw"
+      },
+      "artists": [
+        {
+          "name": "Helen Wei",
+          "url": "https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA"
+        }
+      ],
+      "duration_ms": 126151,
+      "name": "Tall Flowers",
+      "url": "https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR"
-      },
-      "artists": [
-        {
-          "name": "Damien Adams",
-          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
-        }
-      ],
-      "duration_ms": 143733,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Love Forever",
         "url": "https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 144640,
       "name": "Love Forever",
       "url": "https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "duration_ms": 143733,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Sleeping In",
+        "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "duration_ms": 180543,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Harvest Time",
         "url": "https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 152127,
       "name": "Fallen Apples\u2019 Scent",
       "url": "https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Sleeping In",
-        "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
-      },
-      "artists": [
-        {
-          "name": "Damien Adams",
-          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
-        }
-      ],
-      "duration_ms": 180543,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "El Sabio",
-        "url": "https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n"
-      },
-      "artists": [
-        {
-          "name": "Alonso Librado",
-          "url": "https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0"
-        }
-      ],
-      "duration_ms": 126496,
-      "name": "El Sabio",
-      "url": "https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Somewhere Ahead",
         "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 156010,
       "name": "When Sarah Returned",
       "url": "https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n"
+      },
+      "artists": [
+        {
+          "name": "Alonso Librado",
+          "url": "https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0"
+        }
+      ],
+      "duration_ms": 126496,
+      "name": "El Sabio",
+      "url": "https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "A Quiet Message",
-        "url": "https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT"
-      },
-      "artists": [
-        {
-          "name": "Morris Lafleur",
-          "url": "https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu"
-        }
-      ],
-      "duration_ms": 165545,
-      "name": "A Quiet Message",
-      "url": "https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "L'heure de l'harmonie",
         "url": "https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "A Quiet Message",
+        "url": "https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT"
+      },
+      "artists": [
+        {
+          "name": "Morris Lafleur",
+          "url": "https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu"
+        }
+      ],
+      "duration_ms": 165545,
+      "name": "A Quiet Message",
+      "url": "https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Shapes in the Sky",
         "url": "https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 171874,
       "name": "Sunset on the Farmland",
       "url": "https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Diguil",
+        "url": "https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2"
+      },
+      "artists": [
+        {
+          "name": "Charles Avnik",
+          "url": "https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Diguil",
+      "url": "https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1051,22 +1067,6 @@
       "duration_ms": 198088,
       "name": "Wholeness",
       "url": "https://open.spotify.com/track/1jjZPPUTXBkvAzohTyFyKR"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Diguil",
-        "url": "https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2"
-      },
-      "artists": [
-        {
-          "name": "Charles Avnik",
-          "url": "https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Diguil",
-      "url": "https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Chambers of the Cedars",
-        "url": "https://open.spotify.com/album/4GTIokkhX0O4rCEuUI9D8Q"
-      },
-      "artists": [
-        {
-          "name": "Lavelle Barber",
-          "url": "https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX"
-        }
-      ],
-      "duration_ms": 132508,
-      "name": "Chambers of the Cedars",
-      "url": "https://open.spotify.com/track/3UrvaqWxYS6NBrJz3o73SL"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Bella Noche",
         "url": "https://open.spotify.com/album/062sHAqcQvuNhGscr48xfK"
       },
@@ -1311,38 +1295,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
-      },
-      "artists": [
-        {
-          "name": "Roy De Paz",
-          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "El Raval",
-        "url": "https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "El Raval",
-      "url": "https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W"
       },
@@ -1355,6 +1307,38 @@
       "duration_ms": 150961,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/533SnCwxVytF3viTF5kYql"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Chambers of the Cedars",
+        "url": "https://open.spotify.com/album/4GTIokkhX0O4rCEuUI9D8Q"
+      },
+      "artists": [
+        {
+          "name": "Lavelle Barber",
+          "url": "https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX"
+        }
+      ],
+      "duration_ms": 132508,
+      "name": "Chambers of the Cedars",
+      "url": "https://open.spotify.com/track/3UrvaqWxYS6NBrJz3o73SL"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
+      },
+      "artists": [
+        {
+          "name": "Roy De Paz",
+          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "El Raval",
+        "url": "https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "El Raval",
+      "url": "https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Homebound",
         "url": "https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 144000,
       "name": "Homebound",
       "url": "https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1"
+      },
+      "artists": [
+        {
+          "name": "Anshul Karn",
+          "url": "https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR"
+        }
+      ],
+      "duration_ms": 136499,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1439,38 +1455,6 @@
       "duration_ms": 159926,
       "name": "Fawns in Spring",
       "url": "https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Laguna",
-        "url": "https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Laguna",
-      "url": "https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1"
-      },
-      "artists": [
-        {
-          "name": "Anshul Karn",
-          "url": "https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR"
-        }
-      ],
-      "duration_ms": 136499,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Treasures",
-        "url": "https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7"
+        "name": "Laguna",
+        "url": "https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF"
       },
       "artists": [
         {
-          "name": "Rafaela Moreno",
-          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
         }
       ],
-      "duration_ms": 139874,
-      "name": "Treasures",
-      "url": "https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl"
+      "duration_ms": 191250,
+      "name": "Laguna",
+      "url": "https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Treasures",
+        "url": "https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "duration_ms": 139874,
+      "name": "Treasures",
+      "url": "https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "M\u00fasicas in\u00e9ditas en casas literarias: Casa-Museo Manuel Mar\u00eda",
         "url": "https://open.spotify.com/album/2lnaksOr1ISSNvxPgR4qtb"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Seven Hills of Rome",
-        "url": "https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1"
-      },
-      "artists": [
-        {
-          "name": "Carol Maddox",
-          "url": "https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb"
-        }
-      ],
-      "duration_ms": 132281,
-      "name": "Seven Hills of Rome",
-      "url": "https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Only Wanna Be With You",
         "url": "https://open.spotify.com/album/39liycElEFslWeDOpDrwt8"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 207619,
       "name": "Only Wanna Be With You",
       "url": "https://open.spotify.com/track/0rNgJ3RXJEQKJBCv3NPfdp"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Seven Hills of Rome",
+        "url": "https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1"
+      },
+      "artists": [
+        {
+          "name": "Carol Maddox",
+          "url": "https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb"
+        }
+      ],
+      "duration_ms": 132281,
+      "name": "Seven Hills of Rome",
+      "url": "https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Keirin",
-        "url": "https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw"
-      },
-      "artists": [
-        {
-          "name": "Paris Little",
-          "url": "https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl"
-        }
-      ],
-      "duration_ms": 186092,
-      "name": "Keirin",
-      "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Serra Calderona",
         "url": "https://open.spotify.com/album/7uIP8aYQMlkbaKlqQvKxPU"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 179200,
       "name": "Serra Calderona",
       "url": "https://open.spotify.com/track/3tEO6W2sRQSZ4oQUABbcEa"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Keirin",
+        "url": "https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw"
+      },
+      "artists": [
+        {
+          "name": "Paris Little",
+          "url": "https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl"
+        }
+      ],
+      "duration_ms": 186092,
+      "name": "Keirin",
+      "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Chiapas",
-        "url": "https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl"
-      },
-      "artists": [
-        {
-          "name": "Mario Cabrera",
-          "url": "https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh"
-        }
-      ],
-      "duration_ms": 185820,
-      "name": "Chiapas",
-      "url": "https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Something Special",
         "url": "https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 168610,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Chiapas",
+        "url": "https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl"
+      },
+      "artists": [
+        {
+          "name": "Mario Cabrera",
+          "url": "https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh"
+        }
+      ],
+      "duration_ms": 185820,
+      "name": "Chiapas",
+      "url": "https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Jewel",
-        "url": "https://open.spotify.com/album/77qvXF79TZeKoavRQ4TfPw"
-      },
-      "artists": [
-        {
-          "name": "American Legion",
-          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
-        }
-      ],
-      "duration_ms": 200011,
-      "name": "Jewel",
-      "url": "https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Alloa",
         "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 128873,
       "name": "Stirling",
       "url": "https://open.spotify.com/track/1HDPEUzDPniGZpULtKa4q4"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Jewel",
+        "url": "https://open.spotify.com/album/77qvXF79TZeKoavRQ4TfPw"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "duration_ms": 200011,
+      "name": "Jewel",
+      "url": "https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2019,6 +2019,38 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "duration_ms": 147317,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Velvet Morning",
+        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "duration_ms": 148374,
+      "name": "Velvet Morning",
+      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Cradle Song",
         "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
       },
@@ -2055,54 +2087,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Unknown",
-        "url": "https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2"
-      },
-      "artists": [
-        {
-          "name": "Atacustico",
-          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
-        }
-      ],
-      "duration_ms": 147317,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Velvet Morning",
-        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
-      },
-      "artists": [
-        {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
-        }
-      ],
-      "duration_ms": 148374,
-      "name": "Velvet Morning",
-      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "The Dreams We Share",
-        "url": "https://open.spotify.com/album/0Y4oF7iixVxQATzaMDZqcV"
-      },
-      "artists": [
-        {
-          "name": "Rafaela Moreno",
-          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "The Dreams We Share",
-      "url": "https://open.spotify.com/track/0Ov6sQ561WULCx9ixzMNzG"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 136624,
       "name": "Solitaria",
       "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "The Dreams We Share",
+        "url": "https://open.spotify.com/album/0Y4oF7iixVxQATzaMDZqcV"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "The Dreams We Share",
+      "url": "https://open.spotify.com/track/0Ov6sQ561WULCx9ixzMNzG"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "A New Strange Feeling",
-        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
-      },
-      "artists": [
-        {
-          "name": "Aurelia",
-          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "A New Strange Feeling",
-      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Todo Es Mi Culpa",
         "url": "https://open.spotify.com/album/44eI4HIrozxOlv4KKa8DYf"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 171320,
       "name": "Todo Es",
       "url": "https://open.spotify.com/track/3kDWeQXbGzzeGVTvmLlpFy"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "A New Strange Feeling",
+        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
+      },
+      "artists": [
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "A New Strange Feeling",
+      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
-      },
-      "artists": [
-        {
-          "name": "Colin Reed",
-          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
-        }
-      ],
-      "duration_ms": 191308,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Borealis",
         "url": "https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd"
       },
@@ -2295,18 +2279,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Senderos",
-        "url": "https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
       },
       "artists": [
         {
-          "name": "Julia Quir\u00f3s",
-          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+          "name": "Colin Reed",
+          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Senderos",
-      "url": "https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC"
+      "duration_ms": 191308,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2343,6 +2327,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Senderos",
+        "url": "https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Senderos",
+      "url": "https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Assanhado (Arr. for Guitar by S\u00e9rgio Assad)",
         "url": "https://open.spotify.com/album/0Ozz2x6Ibmduz6OBTQeogr"
       },
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Hispanoamerica",
-        "url": "https://open.spotify.com/album/1DKEdUrzxF0LOFSjFjQpY1"
-      },
-      "artists": [
-        {
-          "name": "Chico Getz",
-          "url": "https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Hispanoamerica",
-      "url": "https://open.spotify.com/track/6c8Ma1htTLtiHXShaYwYDu"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Fim de Tarde",
         "url": "https://open.spotify.com/album/7nYL8OdidBi3Uc11Y4w3sL"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 173837,
       "name": "Fim de Tarde",
       "url": "https://open.spotify.com/track/4h1Fj97KDFdjc7qsj7RQU1"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Hispanoamerica",
+        "url": "https://open.spotify.com/album/1DKEdUrzxF0LOFSjFjQpY1"
+      },
+      "artists": [
+        {
+          "name": "Chico Getz",
+          "url": "https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Hispanoamerica",
+      "url": "https://open.spotify.com/track/6c8Ma1htTLtiHXShaYwYDu"
     },
     {
       "added_at": "2023-09-15 09:04:35",

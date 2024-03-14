@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-205 songs - 11 hr 29 min
+206 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [SWEETEST THING](https://open.spotify.com/track/5KQxlns9VOvH50PbSMWiUU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Chocolate, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0ChZoRdAFz2ndevcYBkzlO) | 3:38 | 2022-07-21 | 2024-01-10 |
 | [Swimming Fool](https://open.spotify.com/track/0WdLp00HrAgjldOqFTpqb5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:07 | 2022-05-27 |  |
 | [THANKS](https://open.spotify.com/track/7cbZIBLhfD9taMBgEsIhIp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT’](https://open.spotify.com/album/5QpD7kgp5dpkNFuG6ez2yI) | 3:33 | 2022-05-27 |  |
+| [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 | 2024-03-13 |  |
 | [Thinkin' about you](https://open.spotify.com/track/2oGLTWJpqJxr1oM8yM5pwO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT’](https://open.spotify.com/album/5QpD7kgp5dpkNFuG6ez2yI) | 3:41 | 2022-05-27 |  |
 | [To you](https://open.spotify.com/track/25osmdhvjltPlN7gI2Javd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:45 | 2022-05-27 |  |
 | [Together](https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 4:04 | 2022-07-21 |  |

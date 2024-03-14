@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Octavio Cuadras en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,758 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,016 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Yo soy Gallo](https://open.spotify.com/track/4pZwvYTjHKvDGRr8giavD8) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Corridos Makabroz](https://open.spotify.com/album/5brpkBl857UcX7DX8L9oZQ) | 3:07 |
 | 75 | [El Rápido](https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Aquí Nomás](https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV) | 3:02 |
 
-Snapshot ID: `MCw1NDQxMjkwZTNlMmRiMTk4ZmRjYzFlY2RmYjA1ZmIxNGMyYmQxOGIy`
+Snapshot ID: `MCwzZjFkZTU2YjhjYTJlNjllMDQ4Y2JjODk3YmRhZGU2ZGMyMWE5MGQ2`

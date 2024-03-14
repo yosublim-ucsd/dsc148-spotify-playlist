@@ -1353,6 +1353,28 @@
     },
     {
       "album": {
+        "name": "Songs That Aren't Mine",
+        "url": "https://open.spotify.com/album/4Hfqnc8K019JtWci0BgXkE"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        },
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178584,
+      "name": "Cosmic Dancer (with Dora Jar)",
+      "url": "https://open.spotify.com/track/38PETVexY67H0CCj0bNT65"
+    },
+    {
+      "album": {
         "name": "Other Stuff",
         "url": "https://open.spotify.com/album/31gUo1VnM0u0GyHMOALfNQ"
       },
@@ -5042,7 +5064,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 145305,
       "name": "On the Road Again",
       "url": "https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G"

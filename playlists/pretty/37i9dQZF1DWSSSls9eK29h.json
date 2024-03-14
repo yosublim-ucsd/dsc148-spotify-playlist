@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 135136,
+  "num_followers": 135215,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjNjNmNiNTFlODA0MWM5NTA1MmZiYTk3ODVlNTkxNDM4ZmVmMGYw",
+  "snapshot_id": "MCw2MzAyMjE1YzhlMDQ2NWM2NmE1MmVkNDg0OGIxZTViY2I5MDZhZDQ3",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 351400,
-      "name": "After Hours (The Antidote)",
-      "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 310280,
       "name": "Seventh Heaven (feat. Jeff Golub)",
       "url": "https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 351400,
+      "name": "After Hours (The Antidote)",
+      "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "For The Love Of You",
-        "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
-      },
-      "artists": [
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
-        }
-      ],
-      "duration_ms": 301080,
-      "name": "For The Love Of You",
-      "url": "https://open.spotify.com/track/6v1PdVz3ZIpa7TeiljQTJL"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 291533,
       "name": "The Way To You",
       "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "For The Love Of You",
+        "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 301080,
+      "name": "For The Love Of You",
+      "url": "https://open.spotify.com/track/6v1PdVz3ZIpa7TeiljQTJL"
     },
     {
       "added_at": "2020-08-19 00:00:21",

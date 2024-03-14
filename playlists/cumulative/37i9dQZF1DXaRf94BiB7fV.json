@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Rahi, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: GXRNOOR, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2775,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/3U6VUWCQn5mN4fWqzZ45ev"
+      },
+      "artists": [
+        {
+          "name": "Saroj Kashyap",
+          "url": "https://open.spotify.com/artist/2B9uyvPOGRnNfmprPhMADk"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216315,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/650qKFoyAxyYawbiAsp04j"
+    },
+    {
+      "album": {
         "name": "Cutting Loose",
         "url": "https://open.spotify.com/album/7MK8JqEaTCJ6yLNhTUggv3"
       },
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 207072,
       "name": "Chapter in gore",
       "url": "https://open.spotify.com/track/1N69HeKJRGrHOOW0f3dYsq"
@@ -4976,7 +4994,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 143999,
       "name": "Down The Road",
       "url": "https://open.spotify.com/track/3SLHDttRmcIL5p3lSAmqKz"
@@ -5292,6 +5310,24 @@
       "duration_ms": 253933,
       "name": "Ek Aisi Shaam - An Evening To Remember",
       "url": "https://open.spotify.com/track/5sQMsukipYLE0IIrE82oep"
+    },
+    {
+      "album": {
+        "name": "Ek Arsa",
+        "url": "https://open.spotify.com/album/7ebpkAVmRCeYZtr8CgyHPK"
+      },
+      "artists": [
+        {
+          "name": "Ankit Kr",
+          "url": "https://open.spotify.com/artist/5Hht3H6q7hD9vdc7lsxJLH"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Ek Arsa",
+      "url": "https://open.spotify.com/track/4NYcNzYKksQNHqq2YqDxfS"
     },
     {
       "album": {
@@ -5704,7 +5740,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 228437,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/1y03W4HsIWvZlXY7IBXIyk"
@@ -6782,6 +6818,28 @@
       "duration_ms": 159750,
       "name": "Haseen Zindagi",
       "url": "https://open.spotify.com/track/0SJRKLymM7ElckDuzZyMq9"
+    },
+    {
+      "album": {
+        "name": "Hassi (Zindagi)",
+        "url": "https://open.spotify.com/album/3td3daN0igOoH1G69DLJO7"
+      },
+      "artists": [
+        {
+          "name": "Kapow!",
+          "url": "https://open.spotify.com/artist/6wcAvk3vwdgF03WziIJa6H"
+        },
+        {
+          "name": "Subir Malik",
+          "url": "https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197684,
+      "name": "Hassi (Zindagi)",
+      "url": "https://open.spotify.com/track/7dIijILxAPosJlrTELjmt0"
     },
     {
       "album": {
@@ -10151,6 +10209,24 @@
     },
     {
       "album": {
+        "name": "Kar Intezaar",
+        "url": "https://open.spotify.com/album/4NudVPzQOWKKdBtY7OO9q2"
+      },
+      "artists": [
+        {
+          "name": "Umang Doshi",
+          "url": "https://open.spotify.com/artist/4HcjVJhRzwj2LkH9lqQR4a"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156044,
+      "name": "Kar Intezaar",
+      "url": "https://open.spotify.com/track/1OOY3GfWnDls6TNufK07Vh"
+    },
+    {
+      "album": {
         "name": "Kar Kinare Mujhe",
         "url": "https://open.spotify.com/album/4lKUqG2vjtwbhNlclGrvvc"
       },
@@ -10582,7 +10658,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 182790,
       "name": "Khoyi Rahun",
       "url": "https://open.spotify.com/track/0QnYhoGvcUlNh3PDPZAlHP"
@@ -12566,7 +12642,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 190683,
       "name": "Masoomiyan",
       "url": "https://open.spotify.com/track/6btBf4Dc2Y5VoubtkhQh50"
@@ -12794,6 +12870,28 @@
       "duration_ms": 190715,
       "name": "Mehmaan",
       "url": "https://open.spotify.com/track/37gqvQTZBhLcd8asMTeIKR"
+    },
+    {
+      "album": {
+        "name": "Mehram",
+        "url": "https://open.spotify.com/album/5WJUDhV98BrDaSBJNKlkjb"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        },
+        {
+          "name": "Shayan Rashid",
+          "url": "https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217021,
+      "name": "Mehram",
+      "url": "https://open.spotify.com/track/27vGIIyp5OyOLSdZWnJYiH"
     },
     {
       "album": {
@@ -14238,7 +14336,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 162272,
       "name": "O Sanam",
       "url": "https://open.spotify.com/track/2BWOGVkXKE0U5T4Fwb6flB"
@@ -15944,6 +16042,24 @@
       "duration_ms": 174545,
       "name": "Rehnuma",
       "url": "https://open.spotify.com/track/45sAdWtNAw43yfXPYAdfsg"
+    },
+    {
+      "album": {
+        "name": "Relive",
+        "url": "https://open.spotify.com/album/4y8uisqL5X9nlAcnJanxxX"
+      },
+      "artists": [
+        {
+          "name": "GXRNOOR",
+          "url": "https://open.spotify.com/artist/38MtzEaWn2R4IY1ut8dWvD"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Relive",
+      "url": "https://open.spotify.com/track/54xVC2dGZvk27g7bBUlY46"
     },
     {
       "album": {
@@ -17774,7 +17890,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 200000,
       "name": "Sow You Like A Seed",
       "url": "https://open.spotify.com/track/3nMLvHILqgCkmRTfFSWW2O"
@@ -17804,6 +17920,24 @@
       "duration_ms": 134400,
       "name": "Space Trip",
       "url": "https://open.spotify.com/track/5TyiSv9gMv17EZw3LxDafv"
+    },
+    {
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/5kryNKwIrpW41fFfaS4MVZ"
+      },
+      "artists": [
+        {
+          "name": "Vaani Bhasin",
+          "url": "https://open.spotify.com/artist/7cyFNq6i4cJ66n45MMI0WS"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195506,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1Wjh698gFxj4PybqwMkZTy"
     },
     {
       "album": {
@@ -18660,7 +18794,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 234351,
       "name": "Tere Bina Jiya Jaye Na",
       "url": "https://open.spotify.com/track/3g0PtWvvLSVl5G5N5nRF6d"
@@ -21088,6 +21222,24 @@
       "duration_ms": 216000,
       "name": "We Made Us",
       "url": "https://open.spotify.com/track/7v8E0RGHpZlhgDQuQEyKe2"
+    },
+    {
+      "album": {
+        "name": "We're Stars",
+        "url": "https://open.spotify.com/album/1T6u7snncFtBLEhApCkcqn"
+      },
+      "artists": [
+        {
+          "name": "Nagaland Collective",
+          "url": "https://open.spotify.com/artist/5da1dWcKTvqjuw8vfibTZC"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "We're Stars",
+      "url": "https://open.spotify.com/track/6LuVUoYKHSHjRnHXackkNJ"
     },
     {
       "album": {

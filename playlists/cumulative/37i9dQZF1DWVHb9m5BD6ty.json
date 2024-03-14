@@ -204,7 +204,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 138472,
       "name": "Beggin U",
       "url": "https://open.spotify.com/track/6xacjqiieBkAatAJuke0V9"
@@ -226,6 +226,28 @@
       "duration_ms": 135993,
       "name": "Beggin U",
       "url": "https://open.spotify.com/track/1L3ilbDa1L1wSGEBlvoRLc"
+    },
+    {
+      "album": {
+        "name": "Beggin u",
+        "url": "https://open.spotify.com/album/2L7NJuPqenhQ8XjWUeuOdL"
+      },
+      "artists": [
+        {
+          "name": "Svaroda",
+          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
+        },
+        {
+          "name": "Hasan Ceddi",
+          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135993,
+      "name": "Beggin u",
+      "url": "https://open.spotify.com/track/3kHN05AnAl7GDSrq9YOzqv"
     },
     {
       "album": {

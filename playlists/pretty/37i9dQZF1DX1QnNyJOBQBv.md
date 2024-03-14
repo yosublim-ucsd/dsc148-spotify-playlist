@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Latin pop tracks you need to hear, featuring Ela Taubert.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,828,456 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,828,492 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [La Mexicana](https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [La Mexicana](https://open.spotify.com/album/5JBNbex1k3qqo57JwIZUTA) | 2:29 |
 | 50 | [guerra](https://open.spotify.com/track/2Vv5tze0XWejHtQHS1qNku) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [guerra](https://open.spotify.com/album/2zxDVmLIwRwTMzxjAa57nz) | 2:50 |
 
-Snapshot ID: `MCxmZDk5OWU0ZjM2NDAyNGE0N2JiYzQxMzMyMWRiZGU3ZmRiOTY0NDZj`
+Snapshot ID: `MCw2ZTZiZGFkMTJiMzQ3YmIzNzdhYWI2M2ZkOWU2ZjBkMzMzYmIxOTRi`

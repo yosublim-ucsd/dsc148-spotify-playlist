@@ -4,7 +4,7 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 4 min
+68 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Drunk](https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 4:03 | 2024-01-03 | 2024-02-18 |
 | [Elise](https://open.spotify.com/track/7aoPqIaW8W1hwsiaSrNFks) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Elise](https://open.spotify.com/album/1l4tCggsaDZ8s0bjSymMz8) | 3:05 | 2024-01-03 |  |
 | [Fast Beats](https://open.spotify.com/track/7c79srksl4pd0AX1dbSuzT) | [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is Off The Deep End](https://open.spotify.com/album/76WlRA8IoM6lYCzyEp9LRl) | 4:03 | 2024-01-03 |  |
+| [Fast Beats \(Mixed\)](https://open.spotify.com/track/5oYFyzwBY1UcPIbqpszII5) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is off the Deep End \(Dj Mix\)](https://open.spotify.com/album/0yXnktH2sNowgwiFUwMYOs) | 3:33 | 2024-03-13 |  |
 | [Feel](https://open.spotify.com/track/09lLEr6ET6EptJTjzgMTaL) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Quinn](https://open.spotify.com/artist/2ra5scTrNqQy2ygL3H6Fyp) | [Paradise](https://open.spotify.com/album/222D7CUNZUVg7QhXJa9MEl) | 4:23 | 2024-01-03 |  |
 | [Find Away](https://open.spotify.com/track/45GUKSyfsmue7hTzNq9Dfp) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 2:43 | 2024-01-03 | 2024-02-28 |
 | [Freaky](https://open.spotify.com/track/7ySn8Q243J5ReQaqpPMKya) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 3:52 | 2024-01-03 | 2024-02-06 |
@@ -70,7 +71,7 @@
 | [The One](https://open.spotify.com/track/2csADrGfCpIF81Ce8cD6UO) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 3:47 | 2024-01-03 |  |
 | [Turn Up](https://open.spotify.com/track/68aLmDjCRRm2J8IjKm30nN) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Machine EP](https://open.spotify.com/album/3GphtxLMyfK9FDcxoh8c53) | 3:50 | 2024-01-03 |  |
 | [What Do You Want](https://open.spotify.com/track/1hlvdQsSjseGv329xcH1ua) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [DirtyFun](https://open.spotify.com/artist/34COAQQm9sxxuIiNYyIClG) | [What Do You Want](https://open.spotify.com/album/4QAe5aqE5D2Aq2PWLF6kbV) | 3:26 | 2024-02-23 | 2024-02-26 |
-| [Who R U](https://open.spotify.com/track/1d537C0yp0ZscVNI8yfqvr) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Machine EP](https://open.spotify.com/album/3GphtxLMyfK9FDcxoh8c53) | 3:50 | 2024-01-07 |  |
+| [Who R U](https://open.spotify.com/track/1d537C0yp0ZscVNI8yfqvr) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Machine EP](https://open.spotify.com/album/3GphtxLMyfK9FDcxoh8c53) | 3:50 | 2024-01-07 | 2024-03-14 |
 | [Wild](https://open.spotify.com/track/6kpRAcNQkOLz32LiSAp68I) | [ANGELZ](https://open.spotify.com/artist/7tbMem2T4rnyYKXiUYJPCn), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Sacrosanct](https://open.spotify.com/album/6Bpq6zlpy2N95575OLGt19) | 3:54 | 2024-01-03 |  |
 | [XTC](https://open.spotify.com/track/7EhWwj8p9Onker9p9R2bHI) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [New Times EP](https://open.spotify.com/album/4eRgsarMzUN0FQX1FWzwl0) | 4:05 | 2024-01-03 |  |
 | [You Right](https://open.spotify.com/track/58GOSPgDqiSblEpGD9gFda) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [You Right](https://open.spotify.com/album/7IkoF4tW0xPX9tVF9LxbnT) | 3:45 | 2024-01-03 |  |

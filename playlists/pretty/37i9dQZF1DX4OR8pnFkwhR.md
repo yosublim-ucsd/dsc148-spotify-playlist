@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Leina
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,974 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,981 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [好きでした。](https://open.spotify.com/track/588cVGxOSFqg8HnlGE6IDI) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/3idoCaumlMNXdS1suAEnpH) | 4:10 |
+| 1 | [Sukideshita.](https://open.spotify.com/track/458E7acH1K8c5wx8AYAnVi) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/7kmoVx9z1qTqZSN4B4svCJ) | 4:10 |
 | 2 | [灰かぶり](https://open.spotify.com/track/42u1tC79WuOEhMH8JnXyWn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけの愛](https://open.spotify.com/album/1rUF9QA4jMdL55gIgL0vxZ) | 3:41 |
 | 3 | [Exclamation Mark](https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:05 |
 | 4 | [escaper](https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [escaper](https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z) | 3:19 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 26 | [LOVELY](https://open.spotify.com/track/2p6mMrccBiWuwtpWCyVPbq) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [LOVELY](https://open.spotify.com/album/4TrfWYsP8LRU10Rw6usFJL) | 3:38 |
 | 27 | [GIG](https://open.spotify.com/track/4MWQGEF9vdMrrW4wRlKKVN) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [GIG](https://open.spotify.com/album/4MAkb1av61l7kJiuYoNTIX) | 3:13 |
 | 28 | [Feel The Same](https://open.spotify.com/track/6yzc8hNAysupCM89UNzggh) | [magicHour](https://open.spotify.com/artist/1qoz9VuS349JOH8M6E5LEQ) | [Feel The Same](https://open.spotify.com/album/0wrneh6deMAWfdr9sGtvLd) | 3:04 |
-| 29 | [唇を味方に \-Sing Sing Sing\-](https://open.spotify.com/track/3UZEz7DnXN8Mt1do14lHwG) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [唇を味方に \-Sing Sing Sing\-](https://open.spotify.com/album/0N0cgqlRT1SsaGui8wpuzr) | 4:26 |
+| 29 | [Kuchibiruwo Mikatani \-Sing Sing Sing\-](https://open.spotify.com/track/4j99gDJQHea3LoKEUGtuD5) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Kuchibiruwo Mikatani \-Sing Sing Sing\-](https://open.spotify.com/album/32oprAeoBskqxvlYUMp2vI) | 4:26 |
 | 30 | [Light](https://open.spotify.com/track/66WTU7QWjgvq0MCrRKKPcj) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Give Me All of Your Life](https://open.spotify.com/album/6whddh4xySGYuZRYbndVOJ) | 3:49 |
 | 31 | [spotkaranigete](https://open.spotify.com/track/6YhHCFF7wJvCT0V2PP1Kzn) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [HEROINE](https://open.spotify.com/album/7yedhW1TyJzp5aRjNBP1qj) | 3:09 |
 | 32 | [Koi suru wakusei "Anata"](https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Koi suru wakusei "Anata"](https://open.spotify.com/album/5TNZnI8zAugK1q0hdhjSvx) | 3:28 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 37 | [feat\. あなた](https://open.spotify.com/track/1Y8w8X8vqCcruiNXVqrGPt) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [feat\. あなた](https://open.spotify.com/album/6eXHmzEFeY1Q3Hwvz793j7) | 3:20 |
 | 38 | [SHOZEN](https://open.spotify.com/track/5MNCIcHfHsH3BQCEsFc7R0) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [石のような自由](https://open.spotify.com/album/4Fmt0D1UfjV3s4SAnP7cep) | 3:42 |
 | 39 | [カゲロウ](https://open.spotify.com/track/5KfTpP3h0EoHHCn4CVWKNX) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [カゲロウ](https://open.spotify.com/album/1vpZgqS9Z8OAfWPDacpZDD) | 4:14 |
-| 40 | [Hollywood](https://open.spotify.com/track/3aOVI6YoZNX2FPE6rFcGZK) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Hollywood](https://open.spotify.com/album/3uB0fMFMUDkp9TfS95APsi) | 4:00 |
+| 40 | [Hollywood](https://open.spotify.com/track/1aD8qLixfwBmfawlUCeljB) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Hollywood](https://open.spotify.com/album/7EEjDfSaXq3IvVsVsx5U3D) | 4:00 |
 | 41 | [金木犀](https://open.spotify.com/track/1VlUWjaVvYriHH6luqNndp) | [ゆらる](https://open.spotify.com/artist/2QTmBxZwuMH45Grak3UpQk) | [金木犀](https://open.spotify.com/album/3m42mkumPerhSWZDR2zQUM) | 3:25 |
 | 42 | [国道](https://open.spotify.com/track/3npeD02s5dotM8fePwOlko) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [国道 / メロディー](https://open.spotify.com/album/1DZkU0jOK82ZYnj8r63DfW) | 4:34 |
 | 43 | [heel](https://open.spotify.com/track/42VK2BbGox46jlYapDpqTT) | [くだらない1日](https://open.spotify.com/artist/0e11UZEaAK9dntRu5NAc6f) | [どいつもこいつも](https://open.spotify.com/album/19mgSXnbIi36lO2v0i7fXp) | 3:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [純情](https://open.spotify.com/track/51gs6ICIvYvSPz22cREjup) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [夢の中で、夢から醒めて](https://open.spotify.com/album/2Gje9p6OLGFQoqSovlwfEb) | 3:27 |
 | 70 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 |
 
-Snapshot ID: `MCw0YzY3ZDZiMDkzN2RkNjEwOGUwNWEzZjI1Yjk2Njk5NDMyNmIwOTFk`
+Snapshot ID: `MCw5ZjUyNTE4Y2U4MjlmMGZjOWExNjlhZmQ0ZTE5YTg3YTM1ZTI3MDNm`

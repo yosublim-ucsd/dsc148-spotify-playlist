@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 172538,
+  "2024-03-14": 172700,
   "date_first_scraped": "2021-12-28",
   "description": "The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu",
   "name": "Punjabi Pyar",
@@ -3371,6 +3371,32 @@
       "duration_ms": 233666,
       "name": "Dil Nu",
       "url": "https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm"
+    },
+    {
+      "album": {
+        "name": "Dil Nu (From \"Jatt Nuu Chudail Takri\")",
+        "url": "https://open.spotify.com/album/3w0yTLOSlPcK0XLXzr7fUY"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146966,
+      "name": "Dil Nu (From \"Jatt Nuu Chudail Takri\")",
+      "url": "https://open.spotify.com/track/3UfaRvDZelyDs7PtTp45Gt"
     },
     {
       "album": {
@@ -9219,7 +9245,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 375333,
       "name": "Mehboob Ji (From \u201cShayar\u201d)",
       "url": "https://open.spotify.com/track/1dvsqSAmcfFIydNY7d8S77"

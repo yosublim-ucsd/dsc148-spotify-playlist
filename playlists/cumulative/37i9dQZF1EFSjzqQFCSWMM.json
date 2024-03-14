@@ -1789,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Yoko",
+        "url": "https://open.spotify.com/album/7MX7xfLckdaiMg1POPrs42"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125850,
+      "name": "Yoko",
+      "url": "https://open.spotify.com/track/45gHc1QYBky7k38HSlaIft"
+    },
+    {
+      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ"
       },

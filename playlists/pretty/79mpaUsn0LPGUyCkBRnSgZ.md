@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 474 songs - 1 day 6 hr 27 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 475 songs - 1 day 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -482,5 +482,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 472 | [A Nervous Tic Motion of the Head to the Left](https://open.spotify.com/track/6SjXkEmPg9jP66HsWbK2A0) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 4:59 |
 | 473 | [Propaganda](https://open.spotify.com/track/2cOUR3ruOEkI5EPRB8sWTe) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Propaganda](https://open.spotify.com/album/3bOrSzGgJnjGOa9kOybRCs) | 0:23 |
 | 474 | [Safe and Sound \(WWW\)](https://open.spotify.com/track/2OPmeyf31LlcIpYcJ4aegt) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Woman Worldwide](https://open.spotify.com/album/7E3c9dmZ1KnZOQLZTgRqWx) | 7:32 |
+| 475 | [Tarkus \(i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus\) \( 2012 \- Remaster\)](https://open.spotify.com/track/7fLEJNwcW60W74XehVmR5p) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/5yByhxbOs8FOU2UutO7AGO) | 20:43 |
 
-Snapshot ID: `MTQyNSxkOWU4NDA1ZGE2YTU2MjFhNWQ5NjEzMTFhNzlhMWZjMTIxYzY3MjBj`
+Snapshot ID: `MTQyNyw3ZmQ1Y2JkMDBlZWVhMDkzNTcxMWU5Yjc4NzUzNzhiMjc0Mzc1OGMx`

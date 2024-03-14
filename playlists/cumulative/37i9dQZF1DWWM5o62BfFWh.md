@@ -4,7 +4,7 @@
 
 > ¡Música urbana representando a Cuba! Cover: Pitbull, Mawell & IAmChino
 
-142 songs - 8 hr 20 min
+143 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Dueño De Qué? \(with Lenier & Divan\)](https://open.spotify.com/track/1rAbcmwj0dww7fzuUVBQhJ) | [July Roby](https://open.spotify.com/artist/57cu9wH6iCTECFPINbrPdi), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP) | [Dueño De Qué?](https://open.spotify.com/album/0OirAdRYmG0AvgqcD3y9gs) | 3:30 | 2022-02-25 |  |
 | [El Doggy \(feat\. Ovi & Randy\) \- Perreo](https://open.spotify.com/track/2HpFUVAWXnE9PbMTXaxtIT) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Randy](https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B) | [El Doggy \(feat\. Ovi & Randy\) \[Perreo\]](https://open.spotify.com/album/2S5Py3y97OSaYRs8Fzldv9) | 3:00 | 2022-02-25 | 2023-05-13 |
 | [El Dueño de la Fiesta](https://open.spotify.com/track/7AsrJVyic9J8Jkx30wQjv9) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [El Dueño de la Fiesta](https://open.spotify.com/album/6waQ4BSppDCcgYqdSk6oaZ) | 3:08 | 2022-02-25 |  |
-| [El Farsante \- Timba Remix](https://open.spotify.com/track/2mXSqDlL6vHv7wjenfhmcC) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [El Grande](https://open.spotify.com/album/6RykDFDZm5Fg4ZdyjpP4n1) | 3:58 | 2022-04-08 |  |
+| [El Farsante \- Timba Remix](https://open.spotify.com/track/2mXSqDlL6vHv7wjenfhmcC) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [El Grande](https://open.spotify.com/album/6RykDFDZm5Fg4ZdyjpP4n1) | 3:58 | 2022-04-08 | 2024-03-14 |
+| [El Farsante \- Timba Remix](https://open.spotify.com/track/1YyACfmqsUNOEqiN0fx85H) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [El Farsante \(Timba Remix\)](https://open.spotify.com/album/32GQ07hItxgvXWSEdUFIvE) | 3:59 | 2023-12-08 |  |
 | [El Farsante \- Timba Remix](https://open.spotify.com/track/6rQ8bYJwMHTWGJhA143RIl) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [El Farsante \(Timba Remix\)](https://open.spotify.com/album/2TbFKVI7lW1Q91nr8ddXUR) | 3:59 | 2022-02-25 | 2023-01-14 |
 | [El Gavilan](https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [El Gavilan](https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E) | 3:27 | 2022-02-25 |  |
 | [El Mambo](https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH) | [Kiko Rivera](https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF) | [El Mambo](https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC) | 2:09 | 2023-12-08 |  |

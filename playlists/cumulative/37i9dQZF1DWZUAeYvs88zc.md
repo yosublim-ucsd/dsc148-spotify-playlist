@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-513 songs - 1 day 4 hr 51 min
+514 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Lit The Fire](https://open.spotify.com/track/1QC3Hy30xDloQAF8yVkPYR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Ralph](https://open.spotify.com/album/7fvhLoXyMHDrob2ceCfytA) | 2:50 | 2019-06-01 | 2021-05-28 |
 | [Little White Lies](https://open.spotify.com/track/6XUscCqVIKxsRKtIQeDuts) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Little White Lies \- EP](https://open.spotify.com/album/1YnCZg48VNqJKeFhzcZXOA) | 3:03 | 2019-07-28 | 2019-08-10 |
 | [Lonely Beat](https://open.spotify.com/track/5mdgcqfSqwbQfzRCw9lO4j) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Lonely Beat](https://open.spotify.com/album/3yyy2ZGtSeVxP9nyw2TL9v) | 2:53 | 2021-12-17 | 2021-12-21 |
-| [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2021-10-23 |  |
+| [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2021-10-23 | 2024-03-14 |
 | [Losing Game \(feat\. ALY\)](https://open.spotify.com/track/70iVmItC1v32Wn1iosoXFx) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [ALY](https://open.spotify.com/artist/7zVXJ9gnmh8fr40va63ujD) | [Losing Game \(feat\. ALY\)](https://open.spotify.com/album/2tVg5YK9LEbT5xRJrzk8KG) | 2:38 | 2022-03-25 | 2022-04-21 |
 | [Losing You](https://open.spotify.com/track/1AY7xcMNSEoX1GQJcKb6kV) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/5zn3NnRE1Z547Hj3EIVODf) | 4:20 | 2019-07-27 | 2019-08-05 |
 | [Losing You \- Spotify Singles](https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ), [Joe Cleere](https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA) | [Losing You \- Spotify Singles](https://open.spotify.com/album/4mvTc8TXIbBjfruHuuwk4m) | 3:00 | 2023-12-08 | 2024-02-22 |
@@ -489,6 +489,7 @@
 | [Walking Away](https://open.spotify.com/track/3VVLOvm3AV7quKn7gN9szx) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Walking Away](https://open.spotify.com/album/75KOL2hRVtFhYmpFNKOCFF) | 2:56 | 2021-07-17 | 2021-07-23 |
 | [watch](https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:57 | 2021-10-27 |  |
 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 | 2023-10-20 |  |
+| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-03-13 |  |
 | [We Find Love](https://open.spotify.com/track/1TPLsNVlofwX1txcE9gZZF) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:14 | 2019-05-26\* | 2021-07-30 |
 | [Weekends](https://open.spotify.com/track/5x748P8u1DkAIbquBuYOjm) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Weekends](https://open.spotify.com/album/2HoOxD1R1cjXwJJzerB0Jc) | 3:20 | 2023-02-07 | 2023-02-25 |
 | [well…](https://open.spotify.com/track/3fp8Zt7cjlnH6E44VTiCgI) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:24 | 2022-07-31 | 2022-09-03 |

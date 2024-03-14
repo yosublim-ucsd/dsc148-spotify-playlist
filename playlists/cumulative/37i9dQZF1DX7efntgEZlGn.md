@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-68 songs - 4 hr 3 min
+69 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Far Above](https://open.spotify.com/track/4xJ6LdzyX4BBx19XuGqR6q) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/56dKSbQijsJuvVxdQNiUkm) | 3:36 | 2022-04-13 |  |
 | [Far Above](https://open.spotify.com/track/7hiGfUcMXTdILXfIlFDD3S) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/7kM83QA7i1CaBIByXSIIzh) | 3:36 | 2022-04-13 | 2022-11-11 |
 | [Fundi Wa Mbao](https://open.spotify.com/track/0bDMecbVcSax1k9yz1j8yi) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Fundi Wa Mbao](https://open.spotify.com/album/4ZJzh5CyMF3pMI2Fz71PmK) | 3:24 | 2022-04-13 | 2023-10-13 |
-| [Halellujah](https://open.spotify.com/track/5sEKcXRZ3vGZmIoMKa931I) | [Stivo simple boy](https://open.spotify.com/artist/6xB2biiMZCEImA2wB1qm5s), [Made in Kibera](https://open.spotify.com/artist/1az6RcKSE89nahPJFRImGB) | [Halellujah](https://open.spotify.com/album/7IaUFhIEkUBCgQ0dwsPgTo) | 3:04 | 2022-04-13 |  |
+| [Halellujah](https://open.spotify.com/track/5sEKcXRZ3vGZmIoMKa931I) | [Stivo simple boy](https://open.spotify.com/artist/6xB2biiMZCEImA2wB1qm5s), [Made in Kibera](https://open.spotify.com/artist/1az6RcKSE89nahPJFRImGB), [Yrah DJ](https://open.spotify.com/artist/3toakk7UeO2W0msJkvdcK0) | [Halellujah](https://open.spotify.com/album/7IaUFhIEkUBCgQ0dwsPgTo) | 3:04 | 2022-04-13 |  |
 | [Hinya](https://open.spotify.com/track/2vp3E0GaE2VBHY1EbVuy5p) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe), [Yo Alex](https://open.spotify.com/artist/3PA8YnbJW4N0PuiPamfEJb) | [NOW THAT WE ARE HERE](https://open.spotify.com/album/1lvyxxI5vdtdLTY64WUVYP) | 5:16 | 2022-04-13 |  |
 | [Horera](https://open.spotify.com/track/3SZtn6Vo9q9zaLRrx02UkZ) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq), [Yo Alex](https://open.spotify.com/artist/2dyAmcFC6RZpQdECgopzAT), [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe) | [Horera](https://open.spotify.com/album/0HKGeIN1EWRdZXvL84U9mX) | 3:26 | 2022-04-13 |  |
 | [Hubadiliki](https://open.spotify.com/track/4E9ND957QouLYyU97gMFeg) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk) | [Black Child](https://open.spotify.com/album/5ufvjfxwFSEJqTxRO4fmSK) | 4:35 | 2022-04-13 |  |
@@ -47,7 +47,8 @@
 | [Manweri](https://open.spotify.com/track/0Sv9WTeghj3jZZDdYmrEzQ) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Manweri](https://open.spotify.com/album/1dKIFmNNW3k1MSnya4E9Jb) | 4:17 | 2022-04-13 |  |
 | [Mema](https://open.spotify.com/track/0oOQmt04tGucSnvij5jfbW) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq) | [Mema](https://open.spotify.com/album/3Hqy9SSDsYpFNHOG5EOuyD) | 2:48 | 2023-09-22 |  |
 | [Mfalme](https://open.spotify.com/track/1Mgoe4AVSoYoiDplMNk83O) | [Kris Erroh](https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2), [Lydia Ndwiga](https://open.spotify.com/artist/2rwjHvuk1Raby2BbaSe3K3), [Dunco Atalaku](https://open.spotify.com/artist/4exKG7ovOYAfVhfoMUZuhe) | [Mfalme](https://open.spotify.com/album/0hlOZli0GBXO6LSrJ914Xk) | 3:47 | 2022-04-13 |  |
-| [moyo unauma](https://open.spotify.com/track/7e9AVrgGiIyfYa7TNJhhyo) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [moyo unauma](https://open.spotify.com/album/1hUJ2wPQ5Rl2VwYYxFVIHc) | 3:28 | 2023-09-22 |  |
+| [Moyo Unauma](https://open.spotify.com/track/5Df5S1Pa7ufjj4G47wGvPF) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Moyo Unauma](https://open.spotify.com/album/3vLQLP5BbVQoHfnND8iZ3X) | 3:28 | 2023-10-12 |  |
+| [moyo unauma](https://open.spotify.com/track/7e9AVrgGiIyfYa7TNJhhyo) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [moyo unauma](https://open.spotify.com/album/1hUJ2wPQ5Rl2VwYYxFVIHc) | 3:28 | 2023-09-22 | 2024-03-14 |
 | [Mukbang](https://open.spotify.com/track/5APruxOCs1HP4aDkqi7FbG) | [Shani](https://open.spotify.com/artist/1ZbZCoHYPTyGtMK5W56sUp) | [Mukbang](https://open.spotify.com/album/5P7vPbmu2Mgq7JPQxdBuGy) | 2:34 | 2022-04-13 | 2023-01-13 |
 | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/track/0BPriVJeWjmo3ugIVkN2vw) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Pitson](https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM) | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/album/3rxqx10BOlKbhcu4RkWcGS) | 3:16 | 2023-10-12 |  |
 | [New Song](https://open.spotify.com/track/6GCPnmXPqNap4pXckghuZF) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug) | [New Song](https://open.spotify.com/album/4MQwDxDIAqaZ6WwJMUnEPb) | 3:35 | 2022-04-13 |  |

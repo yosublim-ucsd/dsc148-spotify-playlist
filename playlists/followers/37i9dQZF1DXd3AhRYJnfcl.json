@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 317281,
+  "2024-03-14": 317356,
   "date_first_scraped": "2022-05-13",
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d.  \u0627\u0644\u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI?si=xSiV3LOvRJipiJq4EIO0xQ\"> \u0634\u064a\u0631\u064a\u0646 </a>",
   "name": "\u0627\u0644\u062a\u0648\u0628",
@@ -2635,10 +2635,28 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "Ramadan Fi Masr Haja Taniah",
       "url": "https://open.spotify.com/track/3Ro4duVEwWgCyCRH4e4NWh"
+    },
+    {
+      "album": {
+        "name": "Ramadan Karim",
+        "url": "https://open.spotify.com/album/2dKT9YPw3ZBnw2Acglq70D"
+      },
+      "artists": [
+        {
+          "name": "Hakim",
+          "url": "https://open.spotify.com/artist/5sTW6xhUuMh7cnDkg65P9p"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "Ramadan Karim",
+      "url": "https://open.spotify.com/track/6kC8PTMYaP5X3e5Zu0QyM0"
     },
     {
       "album": {
@@ -2653,7 +2671,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 158400,
       "name": "Rased El Satr",
       "url": "https://open.spotify.com/track/4ageOMHYR3Nw14OKnSx3X2"
@@ -4271,7 +4289,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 195238,
       "name": "\u0633\u0637\u0644\u0627\u0646\u0629",
       "url": "https://open.spotify.com/track/3q62BnB25iCCFCFGEIF2mW"

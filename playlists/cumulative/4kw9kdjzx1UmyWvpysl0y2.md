@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-678 songs - 1 day 15 hr 12 min
+679 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,7 +560,7 @@
 | [Starlight](https://open.spotify.com/track/128BW48JmONhjYQzUUwigC) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Starlight](https://open.spotify.com/album/1x8nvALQ0zTvYavj5bz8QW) | 4:00 | 2022-08-02 | 2022-10-19 |
 | [stay](https://open.spotify.com/track/4F25Cp06qeW8WfgNBugAqv) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak](https://open.spotify.com/album/40yb4Nu3r6xYGf2jQhzWCC) | 3:51 | 2023-04-11 | 2023-07-05 |
 | [Stay With Me](https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay With Me](https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc) | 3:50 | 2023-10-11 | 2024-01-26 |
-| [STEREO](https://open.spotify.com/track/7BF0YStgkz3SbuEWkodlP5) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [STEREO](https://open.spotify.com/album/1O3gAtGtFNMteLPa1YjXAH) | 2:58 | 2023-11-29 |  |
+| [STEREO](https://open.spotify.com/track/7BF0YStgkz3SbuEWkodlP5) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [STEREO](https://open.spotify.com/album/1O3gAtGtFNMteLPa1YjXAH) | 2:58 | 2023-11-29 | 2024-03-14 |
 | [Strangers](https://open.spotify.com/track/4bq2Aaq3jtNKFo92BR3yhC) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Strangers](https://open.spotify.com/album/5pqtjYOAyfkki8usZYPXAY) | 3:39 | 2023-05-25 | 2023-08-20 |
 | [Strictly 4 Tha](https://open.spotify.com/track/0qBIwcab1a5J8RDczBALuW) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Strictly 4 Tha](https://open.spotify.com/album/0CfTs0imoYBls6zTPdqRVH) | 3:14 | 2023-10-27 | 2024-02-13 |
 | [Subliminal \(Even the Ghosts are Laughing\)](https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [AFTERMYFALL](https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK) | [Subliminal \(Even the Ghosts are Laughing\)](https://open.spotify.com/album/1lKKwA4RJ6xoOomuiOQ7EB) | 5:18 | 2022-06-13 | 2022-08-25 |
@@ -654,7 +654,7 @@
 | [Warp](https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Warp](https://open.spotify.com/album/4awsZLcxJXiAdiLU5Jzv5a) | 3:43 | 2022-03-07 | 2022-05-20 |
 | [Warriors](https://open.spotify.com/track/1iJpQvWxpYSSVbEx671V6w) | [Glacier](https://open.spotify.com/artist/7DS9AJjKnseiE7nVofoULL) | [Warriors](https://open.spotify.com/album/6rmqekUXNb6eIXiNlwYCVE) | 4:15 | 2021-11-19 | 2022-02-03 |
 | [Wasted](https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Wasted](https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3) | 3:31 | 2023-09-21 | 2024-01-11 |
-| [Wastin Time](https://open.spotify.com/track/6hpuWbCqRFYWAxCuYDhMev) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Wastin Time](https://open.spotify.com/album/5XcER4wQ8lYFk72OeLHm8q) | 2:30 | 2023-11-30 |  |
+| [Wastin Time](https://open.spotify.com/track/6hpuWbCqRFYWAxCuYDhMev) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Wastin Time](https://open.spotify.com/album/5XcER4wQ8lYFk72OeLHm8q) | 2:30 | 2023-11-30 | 2024-03-14 |
 | [Water Resistant](https://open.spotify.com/track/6LvU1xQJaAXxdVhJXviRJq) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Water Resistant](https://open.spotify.com/album/2WLfJXC56KZzaTl4JQ0odn) | 3:17 | 2021-11-19 | 2022-02-23 |
 | [Waterloo](https://open.spotify.com/track/2m4CoBXFU89fVREZQeq8CW) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Waterloo](https://open.spotify.com/album/2IP4Jtybqn9yhijp7edZik) | 3:51 | 2022-04-15 | 2022-06-25 |
 | [Way Back](https://open.spotify.com/track/0TEiOUYQYGeDsoBqVSZYIQ) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Way Back](https://open.spotify.com/album/7MPJECu20Fx8ZNVpYUBFoJ) | 3:19 | 2022-08-05 | 2022-10-19 |
@@ -682,6 +682,7 @@
 | [Yesterday \- Voicians Remix](https://open.spotify.com/track/7Mr4FBVQtgiv92xG2S8H68) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Yesterday \(Voicians Remix\)](https://open.spotify.com/album/5sbwe27UyyTgGl77szrT86) | 3:52 | 2023-12-11 |  |
 | [You Fill My Soul](https://open.spotify.com/track/0IOG53eZR3vo0HtmfKkyG5) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [You Fill My Soul](https://open.spotify.com/album/29hikAxjTpTa0hO5wAi1vL) | 4:18 | 2022-08-05 | 2022-10-19 |
 | [You Found Me](https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Clara Park](https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2) | [You Found Me](https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu) | 4:29 | 2023-05-18 | 2023-08-20 |
+| [You Want Me](https://open.spotify.com/track/3lOsvOCeClwEFv0Ezo1if7) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me](https://open.spotify.com/album/6MJap9B5ypAfH5UCb65A4V) | 4:45 | 2024-03-13 |  |
 | [Your Heart](https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Your Heart](https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9) | 2:35 | 2022-06-03 | 2022-08-17 |
 | [Your Way](https://open.spotify.com/track/3kSm5HaznTY7Lkhl5fFpS6) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Your Way](https://open.spotify.com/album/75EEPbee9YaPfkY8oHEpAT) | 2:57 | 2022-06-24 | 2022-09-07 |
 | [Zazim Beyhad \(We Move Together\)](https://open.spotify.com/track/2CAejyWEtCiscWvgvCYSDK) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [IM25](https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp) | 3:22 | 2022-09-16 | 2022-11-15 |

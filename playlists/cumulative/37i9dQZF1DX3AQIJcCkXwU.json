@@ -214,10 +214,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 323604,
       "name": "Aum",
       "url": "https://open.spotify.com/track/5LPE6DtNUhUr4wP1vdqE8e"
+    },
+    {
+      "album": {
+        "name": "Aum",
+        "url": "https://open.spotify.com/album/1gYfU0fB7oXkCYYhVnHCTt"
+      },
+      "artists": [
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323604,
+      "name": "Aum",
+      "url": "https://open.spotify.com/track/77IwQFuGcNarMWpv5td6Gv"
     },
     {
       "album": {

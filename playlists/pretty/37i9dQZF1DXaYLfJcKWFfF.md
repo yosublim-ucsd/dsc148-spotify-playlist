@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Asa
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,490 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,499 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Dracula](https://open.spotify.com/track/0zv6iIwVr3J9SftqWPQpJn) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba) | [Dracula](https://open.spotify.com/album/6xy2Lzt38yRXKgmbYR1ykk) | 3:27 |
 | 50 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 |
 
-Snapshot ID: `MCxmMjI1NTdhMDUyZDE0NDExZjcxYjc3NWM1YzVlN2Y1NzIyNjFkYzY0`
+Snapshot ID: `MCwxZWQ4ODM3ZWYyYTQ5OGVkYmU3NTg5ZjFlMDFlOTQ2NzhjODQwMjJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,676 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,690 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Love Me](https://open.spotify.com/track/5TZnCu5vibZW8AqEFgsqgY) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Everything Or Nothing \#DQH1](https://open.spotify.com/album/0Qqcg8QRranPHtp3IkGN1v) | 2:29 |
 | 100 | [Boy, Empty](https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be) | 2:49 |
 
-Snapshot ID: `MCwyYThjZDcxM2M1ZWNjZDA2MzU1YzI3OWM4MjEwZTBlMDY1NzQ3MGFh`
+Snapshot ID: `MCxjODBhODM5YWJlNTYwOTI1NmJkNDFjNDkyNWFkNjM5N2I4NjI0Yjdl`

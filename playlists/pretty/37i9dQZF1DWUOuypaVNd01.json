@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 36860,
+  "num_followers": 36894,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2VlNzhmMDQ1OGIwNjU1YmFiYzE3MDNiNzg2OTk3NWI1MDcxODU5",
+  "snapshot_id": "MCw0ZTYzMTRkNzVhNmVkNDE3YjM0ZjVhZGE1MDA5OGQ3MDY4ODQwOTM5",
   "tracks": [
     {
       "added_at": "2024-02-16 03:01:00",
@@ -1059,6 +1059,34 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Grone",
+          "url": "https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 143253,
+      "name": "Ouro e fuzil",
+      "url": "https://open.spotify.com/track/0OZR3UekFolO2c9ta18NNv"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
         "name": "Mente Livre 2.0",
         "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
       },
@@ -1131,6 +1159,22 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
+        "name": "FILHO PR\u00d3DIGO 2",
+        "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        }
+      ],
+      "duration_ms": 133168,
+      "name": "RJ CLIMA HOSTIL",
+      "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs"
       },
@@ -1155,22 +1199,6 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
-        "name": "FILHO PR\u00d3DIGO 2",
-        "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
-      },
-      "artists": [
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        }
-      ],
-      "duration_ms": 133168,
-      "name": "RJ CLIMA HOSTIL",
-      "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -1211,34 +1239,6 @@
       "duration_ms": 118153,
       "name": "Chav\u00e3o",
       "url": "https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Grone",
-          "url": "https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 143253,
-      "name": "Ouro e fuzil",
-      "url": "https://open.spotify.com/track/0OZR3UekFolO2c9ta18NNv"
     }
   ],
   "unique_name": "Malandro Posturado",

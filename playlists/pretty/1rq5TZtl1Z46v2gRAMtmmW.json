@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29363,
+  "num_followers": 29365,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzY2MSw4NjlkOWQzMzM5ZDZhMWEzNmFiODJmYmY2MDNhMTMzNTQ4NzVmMjk1",
+  "snapshot_id": "MzY2MyxlZmM1ZmUxYjNjYTVkMmU4MmYwYTdjOTVkMDkyZTg0NTI2NGQ0M2Zk",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,26 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-03-13 13:43:05",
+      "album": {
+        "name": "Nice Town",
+        "url": "https://open.spotify.com/album/7mdqLOgyacLqWWjP0oFP6e"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Pan Amsterdam",
+          "url": "https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE"
+        }
+      ],
+      "duration_ms": 167270,
+      "name": "Nice Town - Original",
+      "url": "https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH"
     },
     {
       "added_at": "2024-02-15 14:22:37",

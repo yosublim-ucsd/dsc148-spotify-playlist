@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Nina Nesbitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,745 likes - 79 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,748 likes - 79 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 78 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
 | 79 | [Too Pretty To Be Sad](https://open.spotify.com/track/0zcHCug5x9pBjeGDcfEplO) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Too Pretty To Be Sad](https://open.spotify.com/album/7oS1zIizfJ9Ua8v48hFXJ3) | 2:27 |
 
-Snapshot ID: `MCxiYTA3MjM2MDEyOTc0NjY4NGQ0YTVlYWZhYmQ0ODY1NmM2Y2UyZTc1`
+Snapshot ID: `MCxiYWM3YjM5NzY0YjQ3ZTMxYzFhMDM5MzFlNDQ2MjBhZjA3NzAyNDdk`

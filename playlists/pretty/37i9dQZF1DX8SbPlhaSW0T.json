@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Trap de todos los tiempos! \ud83d\udc10 Cover: Bad Bunny",
-  "num_followers": 10435,
+  "num_followers": 10449,
   "original_name": "Latin Trap GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjNiNzk2ODk1YjgxNDVlN2YyZjcxZjVkN2MzMWQyODgzNTU0NDI3",
+  "snapshot_id": "MCxmMzg0M2RiMDYxMzc2YTVkZjBlYzdkOWQxOGRkOTgwYTBlY2Y5ZmY3",
   "tracks": [
     {
       "added_at": "2024-03-12 20:30:41",
@@ -127,26 +127,6 @@
     {
       "added_at": "2024-03-12 20:30:41",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 227518,
-      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
-      "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
-    },
-    {
-      "added_at": "2024-03-12 20:30:41",
-      "album": {
         "name": "Netflixxx",
         "url": "https://open.spotify.com/album/3oqNx43mmo2oRt7nkIwJKK"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 219007,
       "name": "Netflixxx",
       "url": "https://open.spotify.com/track/4WDSPCfr60K0HI7YYhEHKu"
+    },
+    {
+      "added_at": "2024-03-12 20:30:41",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 227518,
+      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
+      "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
     },
     {
       "added_at": "2024-03-12 20:30:41",

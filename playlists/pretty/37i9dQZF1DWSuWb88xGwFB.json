@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33359,
+  "num_followers": 33387,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjRhYzg2OTVkZGE5ZDFlNzc0NGMyNTUyNjdiODgzNTM4MDU0ZTcy",
+  "snapshot_id": "MCw3MWRlMWNmODA3YTUxZmEzZjUzZTc1ZTg3NjI0MjBhMmRhNjdiZTlh",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410967,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Set My Spirit Free",
         "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410967,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Stay Together",
         "url": "https://open.spotify.com/album/0xrqODIep7KKo2vidLXRwa"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama (Broder Mix)",
-      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Justify",
         "url": "https://open.spotify.com/album/6PhheNrljrGFJyhGe6RQSH"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 545040,
       "name": "Justify (Vocal Mix)",
       "url": "https://open.spotify.com/track/4Eo3NoZQN7K4q8DJd3a2v9"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama (Broder Mix)",
+      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 (Pride Vocal Mix)",
-      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 605294,
       "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
       "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+        }
+      ],
+      "duration_ms": 364347,
+      "name": "Carnival '95 (Pride Vocal Mix)",
+      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Master Blaster (Turn It Up)",
+        "url": "https://open.spotify.com/album/2SQELO2MoW3s7TP7LLU8cJ"
+      },
+      "artists": [
+        {
+          "name": "Joint Venture",
+          "url": "https://open.spotify.com/artist/74wZtI4BPyfHBDLoyLfUwt"
+        }
+      ],
+      "duration_ms": 938544,
+      "name": "Master Blaster (Turn It Up)",
+      "url": "https://open.spotify.com/track/5MDM0VryFjBi6EiLuX2PyM"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
       },
@@ -1207,38 +1223,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Master Blaster (Turn It Up)",
-        "url": "https://open.spotify.com/album/2SQELO2MoW3s7TP7LLU8cJ"
-      },
-      "artists": [
-        {
-          "name": "Joint Venture",
-          "url": "https://open.spotify.com/artist/74wZtI4BPyfHBDLoyLfUwt"
-        }
-      ],
-      "duration_ms": 938544,
-      "name": "Master Blaster (Turn It Up)",
-      "url": "https://open.spotify.com/track/5MDM0VryFjBi6EiLuX2PyM"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
-        }
-      ],
-      "duration_ms": 334220,
-      "name": "We Can Make It (The \u2018I Believe' Dub)",
-      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "DJ Sneak EP-Dancin'",
         "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
       },
@@ -1260,13 +1244,13 @@
       },
       "artists": [
         {
-          "name": "Barbara Douglas",
-          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
+          "name": "Mon\u00e9",
+          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
         }
       ],
-      "duration_ms": 260065,
-      "name": "Shine (Sundown Dub)",
-      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+      "duration_ms": 334220,
+      "name": "We Can Make It (The \u2018I Believe' Dub)",
+      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1287,6 +1271,22 @@
       "duration_ms": 381076,
       "name": "Keep On Jumpin' (feat. Chazzie) (Egotrip Mix)",
       "url": "https://open.spotify.com/track/7kz21a3f03ZDNBGARMCnnM"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
+        }
+      ],
+      "duration_ms": 260065,
+      "name": "Shine (Sundown Dub)",
+      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
     },
     {
       "added_at": "2022-03-03 13:59:16",

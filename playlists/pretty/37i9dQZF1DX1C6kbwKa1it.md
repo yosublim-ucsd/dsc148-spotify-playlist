@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1C6kbwKa1it.md) - [plain]
 
 > where hip hop and dance bangers meet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,007 likes - 53 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,008 likes - 53 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1C6kbwKa1it.md) - [plain]
 | 32 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 |
 | 33 | [Drug Me](https://open.spotify.com/track/6vxHk7yvqt2BwVJxYHHibG) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [Drug Me](https://open.spotify.com/album/5hU4t7VGCzUP0i7BND17sB) | 2:31 |
 | 34 | [SCREAM](https://open.spotify.com/track/6yjytQ1pqXVN4aDnDYicQG) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [SCREAM](https://open.spotify.com/album/58xaLAi6iuwAyBFxiiLaPD) | 3:08 |
-| 35 | [Baby \(with Arz\)](https://open.spotify.com/track/6CIjM3kRfPFFsFPlCtHkW1) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 3:19 |
+| 35 | [Baby \(with Arz\)](https://open.spotify.com/track/6CIjM3kRfPFFsFPlCtHkW1) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 3:19 |
 | 36 | [LET'S TROT!](https://open.spotify.com/track/6r8xlPyUQG8zbXbh26duFW) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [LET'S TROT!](https://open.spotify.com/album/24NYPLQVwLU4DP7LEZ9wwv) | 3:08 |
 | 37 | [All Of Me \(Do For Love\)](https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [All Of Me \(Do For Love\)](https://open.spotify.com/album/4ln6BUu9ajIKCntL6qGqCk) | 2:24 |
 | 38 | [250](https://open.spotify.com/track/70ElLqMFZT6sTVH2BSI23T) | [lil golo](https://open.spotify.com/artist/6afabx0UIdhKSFeUbVKfhJ), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P) | [250](https://open.spotify.com/album/0zaR3Q1efsQNozPfmMW5qh) | 2:05 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1C6kbwKa1it.md) - [plain]
 | 52 | [Alors Alors](https://open.spotify.com/track/4BOZst1a8mfanfRSfdRzi9) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Alors Alors](https://open.spotify.com/album/6NW9xEZgwyhhNal3GoUOWl) | 2:12 |
 | 53 | [NAHNAHS](https://open.spotify.com/track/0522habJX8oHGw0VfFePCE) | [EAST AV3](https://open.spotify.com/artist/1orXvSX01zlrRfj1PlOd1e) | [NAHNAHS](https://open.spotify.com/album/3RSyDMWoQ41jCVYqjV1unM) | 3:10 |
 
-Snapshot ID: `MCxmYzkxZmM1ZDZjZTEyMTQyODA0NWVjZTkyMjQzNTk3NWMzNGI1NWRi`
+Snapshot ID: `MCw5ZmZjMWFkZjM1M2U0MTEyY2EzZTRkMTZkZTM0YTVjZmZkYWY5MjVl`

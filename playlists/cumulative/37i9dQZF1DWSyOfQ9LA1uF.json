@@ -900,7 +900,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 218493,
       "name": "Gay Dentists",
       "url": "https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW"
@@ -1286,6 +1286,24 @@
       "duration_ms": 235626,
       "name": "I Wish You Were Gone",
       "url": "https://open.spotify.com/track/3RyDFS2tLuXS9S8tV3ddib"
+    },
+    {
+      "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250693,
+      "name": "Idealistic",
+      "url": "https://open.spotify.com/track/14KzbcceJMYy3U8Zid1VWD"
     },
     {
       "album": {

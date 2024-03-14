@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-189 songs - 6 hr 31 min
+190 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [ESSENCE](https://open.spotify.com/track/0rsENxgWZFX7hsRDXXlLcp) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [ESSENCE](https://open.spotify.com/album/1DduJ6kIDWQP2mtN4xiWzs) | 2:27 | 2023-10-06 |  |
 | [every pill](https://open.spotify.com/track/0DaqmS2yJdMHG6cRZKpzMm) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [every pill](https://open.spotify.com/album/0tFssJxBg5J4IevBjXIphw) | 1:55 | 2023-09-22 |  |
 | [EXT4S1S!](https://open.spotify.com/track/3NeEc5CrA92NcKCx1Gzl28) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [EXT4S1S!](https://open.spotify.com/album/3Z4qSs3BcOX6tMem3YDUHx) | 1:15 | 2023-07-21 | 2023-08-05 |
+| [EYES ON ME](https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [EYES ON ME](https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq) | 1:56 | 2024-03-13 |  |
 | [fairy](https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [33.1FM](https://open.spotify.com/album/49XVwHNdaXCLgGkxSk5bcZ) | 2:15 | 2023-07-21 |  |
 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-05 |  |
 | [feel the same](https://open.spotify.com/track/0ujM0V6C7c6kaUoblQmPXR) | [cyberia](https://open.spotify.com/artist/0HZkYrBotoNqUyH6B9aDaE) | [feel the same](https://open.spotify.com/album/6nOkaB0oVdfsSSoUI4a4mU) | 2:03 | 2024-01-05 | 2024-02-24 |

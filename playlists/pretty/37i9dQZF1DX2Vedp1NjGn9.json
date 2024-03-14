@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 113918,
+  "num_followers": 114001,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWIxMTlmMDc5YTk0ZTMxNTA2NDViYjk0MjFiNTExYTc1NThkODc0",
+  "snapshot_id": "MCwyMTdkZGI1OTE0OGYzZGVhZGE1MGEyYTQ0MWMxYWJmYmMxN2Y3NDUx",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 216604,
-      "name": "Montezuma",
-      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Era Extra\u00f1a",
         "url": "https://open.spotify.com/album/4CdHUVyWF9VvYZa4GFqDLb"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 264000,
       "name": "Polish Girl",
       "url": "https://open.spotify.com/track/5K10oTBp9GEcLAQ2TC8wsf"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 216604,
+      "name": "Montezuma",
+      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "You Are All I See",
-        "url": "https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR"
-      },
-      "artists": [
-        {
-          "name": "Active Child",
-          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
-        }
-      ],
-      "duration_ms": 321453,
-      "name": "Hanging On",
-      "url": "https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "W H O K I L L",
         "url": "https://open.spotify.com/album/3ZjiKy5Tb1MIFRyGBBzoos"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 263733,
       "name": "Bizness",
       "url": "https://open.spotify.com/track/08oSPuXfichvi5VRAaewbV"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "You Are All I See",
+        "url": "https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR"
+      },
+      "artists": [
+        {
+          "name": "Active Child",
+          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
+        }
+      ],
+      "duration_ms": 321453,
+      "name": "Hanging On",
+      "url": "https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4"
     },
     {
       "added_at": "2021-09-02 08:15:11",

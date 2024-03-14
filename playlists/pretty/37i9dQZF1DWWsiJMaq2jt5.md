@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:32ojq4MJxHtYDXaeb1LIzm">Anna Jantar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,766 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,781 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 8 | [Melatoninka](https://open.spotify.com/track/5AENQaPpgm03iZLD04l6ew) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Melatoninka](https://open.spotify.com/album/3AeTDrkw0RBsMojWcc924g) | 2:52 |
 | 9 | [Mam koleżankę](https://open.spotify.com/track/0OM0RY3tiPFLXf3xQvg1Ln) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Mam koleżankę](https://open.spotify.com/album/05PFH0lCFfQf5ugOwjDHL9) | 3:31 |
 | 10 | [everyday](https://open.spotify.com/track/4Rjtojy9gXFln2cJQMip9g) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [everyday](https://open.spotify.com/album/06j9bXFpvPTwc3vWDKUVeO) | 1:37 |
-| 11 | [Jestem rzeką](https://open.spotify.com/track/2ThFlxcEMz1X2t9o77vriD) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5), [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [Bela Komoszyńska](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Marcelina](https://open.spotify.com/artist/4kKbItPBdKcK8wQ8A9LXMt) | [Jestem rzeką](https://open.spotify.com/album/5BaCukUeMq4eYQCsOBCMNm) | 4:20 |
+| 11 | [Jestem rzeką](https://open.spotify.com/track/2ThFlxcEMz1X2t9o77vriD) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5), [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [Marcelina](https://open.spotify.com/artist/4kKbItPBdKcK8wQ8A9LXMt), [Bela Komoszyńska](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz) | [Jestem rzeką](https://open.spotify.com/album/5BaCukUeMq4eYQCsOBCMNm) | 4:20 |
 | 12 | [NA POLICZKACH RÓŻ](https://open.spotify.com/track/5CK83Gr0iTthBz19v22XFO) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [NA POLICZKACH RÓŻ](https://open.spotify.com/album/51b34Fxn9LAQwv1yTdTwnB) | 2:10 |
 | 13 | [Jealous](https://open.spotify.com/track/0OTF7UymBZVGgK9yPNftcf) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Jealous](https://open.spotify.com/album/2igrvHIRAIg2o3wV4zBMzK) | 2:19 |
 | 14 | [Pill](https://open.spotify.com/track/6dq3cOPq4smyujhP7OqBps) | [Iga Posta](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [Pill](https://open.spotify.com/album/31np5RmRYyxuTcg22uZ1IW) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Wajb](https://open.spotify.com/track/6vjdGUc8TBwC6cCs42QVLU) | [Wdowa](https://open.spotify.com/artist/6m7Sh5eBXT5Y1dprnuuqWR), [Dj Decks](https://open.spotify.com/artist/7rRsXnU1mpJwuBNMwH0Tsn), [three.50](https://open.spotify.com/artist/3rdLmqO0a3lfAM8FcVWkJG) | [Wajb](https://open.spotify.com/album/0mbdUhf5BD8URt1NCTqD8V) | 3:11 |
 | 50 | [crying thru horror](https://open.spotify.com/track/7D2ir8SDTyl8ZiTYTjFyHD) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [crying thru horror](https://open.spotify.com/album/0lWcDtvZtjPKhYsaUe5cxA) | 2:57 |
 
-Snapshot ID: `MCxkYTcxODg3YTFlOTU2ZGM2NWEzNWJhZTlkZDVlMzkyODk0ZGNlZjJl`
+Snapshot ID: `MCw0Y2VlZjE4MTk5ZGE1MmEyNmE0NzVlOWYyMWViZDkyMTg0YjM2YmYw`

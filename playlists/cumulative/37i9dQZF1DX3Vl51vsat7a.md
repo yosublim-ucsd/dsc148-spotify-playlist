@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: southstar
 
-288 songs - 15 hr 27 min
+289 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-01-13 | 2022-07-15 |
 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 | 2023-07-11 |  |
 | [Blaue Stunde](https://open.spotify.com/track/5OJDNeu3CDWxgfxu2BNown) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/48VSW134REUVskHHy2laF0) | 3:17 | 2023-07-06 | 2023-07-14 |
-| [BLESSED](https://open.spotify.com/track/2cPqx00sDnkXgxHg9fSZQj) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [BLESSED](https://open.spotify.com/album/1wL7610e4VBIR2iTziwnHv) | 2:51 | 2024-02-15 |  |
+| [BLESSED](https://open.spotify.com/track/2cPqx00sDnkXgxHg9fSZQj) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [BLESSED](https://open.spotify.com/album/1wL7610e4VBIR2iTziwnHv) | 2:51 | 2024-02-15 | 2024-03-14 |
+| [BLESSED](https://open.spotify.com/track/6GUqQOEIeYRGIHrseM5lwS) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Don't Trust Bitches](https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7) | 2:51 | 2024-02-22 |  |
 | [Blood In The Water](https://open.spotify.com/track/7aIAOHBLDuh2IKJPM97VBb) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Blood In The Water](https://open.spotify.com/album/1IbRlTLil2YwX2M0eCo9BU) | 3:27 | 2022-12-01 | 2023-05-05 |
 | [Blossom](https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Blossom](https://open.spotify.com/album/5nOEZixldUUDw7v75j4PiE) | 5:58 | 2022-05-26 | 2023-02-03 |
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 |  |

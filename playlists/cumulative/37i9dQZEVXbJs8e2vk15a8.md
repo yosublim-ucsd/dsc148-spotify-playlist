@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,793 songs - 4 day 0 hr 53 min
+1,794 songs - 4 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,6 +810,7 @@
 | [La Pirilacha](https://open.spotify.com/track/39Tix2LMbFHyZHJoNLXbUO) | [Nilda Moya la Pirilacha](https://open.spotify.com/artist/6e7mNgUrlnuaZkgp1kj1HK) | [Nilda Moya la Pirilacha](https://open.spotify.com/album/7GfWwTAjb2i1Gb49Ie6TKW) | 4:16 | 2022-09-19 | 2023-09-27 |
 | [La Purga](https://open.spotify.com/track/4ELHvTp06qVu1XvWe7sy5Z) | [Custom](https://open.spotify.com/artist/0cZRCTXUF6Bn7r7LTl6f7x), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [La Purga](https://open.spotify.com/album/3zHAGkOIV9ut97pmLfd76p) | 6:40 | 2023-12-07 | 2023-12-30 |
 | [LA QUE ME HIZO LLORAR](https://open.spotify.com/track/7yyUsqAbI09cq7K7uqgyAU) | [Dimelo Siru](https://open.spotify.com/artist/43qI3XmeUHEEH7wzGzpGNk), [Yeziell Yeziell](https://open.spotify.com/artist/1ZpejZEeZNKmelol7PdeIc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [LA QUE ME HIZO LLORAR](https://open.spotify.com/album/1UoyxMjFrxcgrSiT5K62bY) | 3:20 | 2022-06-21 | 2022-07-14 |
+| [La Salamandra](https://open.spotify.com/track/7nimqvRz6Xh2vDz2oGv0Sy) | [Underdann](https://open.spotify.com/artist/38vgy1HVVWTE9VJtxFn1cz), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [La Salamandra](https://open.spotify.com/album/70CSY3zkYjIwWVVdHWPvK8) | 3:23 | 2024-03-13 |  |
 | [LA TERAPIA](https://open.spotify.com/track/5i9bTK3gXeVCvua3PH4nwv) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LA TERAPIA](https://open.spotify.com/album/6wK85B0J0PvZ8qybiQ8dZa) | 3:05 | 2022-07-26 | 2022-10-27 |
 | [La Tirana](https://open.spotify.com/track/7iKRhtTI1Caq67NaMNdi0b) | [La Banda De Fiesta](https://open.spotify.com/artist/5VvOtLu8lBn1V71nsWFgxp) | [Chile en mi Escuela](https://open.spotify.com/album/6a8FYP5NBJGZFALuurxgyh) | 3:23 | 2022-09-15 | 2023-09-22 |
 | [La Triple M](https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL) | [Mawell](https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN) | [La Triple M](https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA) | 3:21 | 2023-09-14 | 2023-11-01 |
@@ -1063,7 +1064,7 @@
 | [N5](https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [N5](https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd) | 2:34 | 2022-07-26 | 2022-07-29 |
 | [Na Na Na](https://open.spotify.com/track/2qrEyFnx2XaKmMFtLZ00xg) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Na Na Na](https://open.spotify.com/album/62XeKlNCCZTCoVul44nh8t) | 3:13 | 2022-08-16 | 2022-08-21 |
 | [Na Na Na \- Remix](https://open.spotify.com/track/7BFa8ACKFI2vvbn6Su16JY) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Na Na Na \(Remix\)](https://open.spotify.com/album/7pigWCNPdpIxpfLbebqVdH) | 4:32 | 2022-11-08 | 2022-12-05 |
-| [Nada Nuevo Bajo El Sol](https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Barrio Estación](https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v) | 4:46 | 2024-01-24 |  |
+| [Nada Nuevo Bajo El Sol](https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Barrio Estación](https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v) | 4:46 | 2024-01-24 | 2024-03-14 |
 | [Narcisista](https://open.spotify.com/track/0S4SBEq0amwnhOsL5MWpcu) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Narcisista](https://open.spotify.com/album/2ZSnToeefWQMvQmzGw4jH7) | 3:25 | 2023-07-04 | 2023-07-08 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/19eQKZicAzXgQ2Tg3y4K0N) | [FenoSkii](https://open.spotify.com/artist/21vH6ZrmLrLiMTH6DqUgsC) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/2iLfp8BAcBilTaO88gGzNq) | 1:50 | 2023-05-05 | 2023-05-08 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-04-25 | 2023-05-20 |

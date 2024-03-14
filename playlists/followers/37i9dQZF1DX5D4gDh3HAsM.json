@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 561759,
+  "2024-03-14": 561715,
   "date_first_scraped": "2021-12-28",
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
   "name": "Christmas Jazz",
@@ -149,10 +149,40 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 179416,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/5AA209yWZzBZ3ASH0g5ECH"
+    },
+    {
+      "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/5QrVO0znD72SuuqH9NxA2Y"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180419,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/1O8oPm8e8ommARHknSO59Q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Tam Sir
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,491 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,537 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Ça'a te dégoûter](https://open.spotify.com/track/02DUGJxrCBUh7fUNBPad59) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Ça'a te dégoûter](https://open.spotify.com/album/2lRHcHdMLLaGeKjVx8HFcI) | 3:25 |
 | 40 | [La danse du margouillat](https://open.spotify.com/track/682HQjRRQTRDAeXenihal6) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [La danse du margouillat](https://open.spotify.com/album/009GqMufyiPuZwwSzYiWA3) | 3:33 |
 
-Snapshot ID: `MCxmZjFmZDVkNmQzM2NlMTMxYWU5OTM1NWZhN2NhYjJmMWY2YzdmNzky`
+Snapshot ID: `MCw2OGMxNWFhY2M5NTIxMmU5YTY4MjExZmI3MTk3MGZiMmUxZDNiZGE2`

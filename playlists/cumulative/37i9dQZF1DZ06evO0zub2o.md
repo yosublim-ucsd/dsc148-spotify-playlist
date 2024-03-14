@@ -4,7 +4,7 @@
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-56 songs - 4 hr 13 min
+57 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Rise](https://open.spotify.com/track/1GgdgDHlEdmwbCZLLzV4Ik) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 4:36 | 2023-02-03 | 2023-03-06 |
 | [Sandblasted Skin \- Live](https://open.spotify.com/track/7A3ZvT0Pb1ib9w4yVnORNp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 4:29 | 2022-05-30 | 2023-11-11 |
 | [Shattered](https://open.spotify.com/track/5APqyicPSWwJgFH8D9a8i3) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 3:21 | 2023-12-13 | 2024-02-16 |
-| [Shedding Skin](https://open.spotify.com/track/1eajy6fnktZk1rLVYWXr2P) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 5:36 | 2022-05-30 |  |
+| [Shedding Skin](https://open.spotify.com/track/1eajy6fnktZk1rLVYWXr2P) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 5:36 | 2022-05-30 | 2024-03-14 |
+| [Slaughtered](https://open.spotify.com/track/2iWfqSC03Hhcq0HPxRYe09) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:57 | 2024-03-13 |  |
 | [Strength Beyond Strength](https://open.spotify.com/track/6TGw6QkUsQIcAxfq1EFfjP) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:38 | 2022-05-30 |  |
 | [Suicide Note, Pt\. 1](https://open.spotify.com/track/0CcmoDwo2KAACTPoy87F8V) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:44 | 2022-05-30 | 2023-11-11 |
 | [The Art of Shredding](https://open.spotify.com/track/17sbfQLWxyC0ciBXi9g54f) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:18 | 2023-05-13 | 2023-12-14 |

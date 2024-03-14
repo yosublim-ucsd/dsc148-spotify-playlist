@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,450 songs - 3 day 3 hr 43 min
+1,451 songs - 3 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Dronning Af Månen](https://open.spotify.com/track/2d0qsULaWlQMZ13jlPRA1d) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Dronning Af Månen](https://open.spotify.com/album/3sCn7y5eBXjNOOhmLqSJMX) | 3:25 | 2023-04-02 | 2024-02-04 |
 | [Dronning Af Månen](https://open.spotify.com/track/2Z2tjSQuHmvunVAheNxeI5) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Hvis Du Tør At Drømme](https://open.spotify.com/album/5Hra4hU5wEPdkGhrG6dfKO) | 3:26 | 2024-02-11 | 2024-02-13 |
 | [Drop Top \(feat\. Lamin & Stepz\)](https://open.spotify.com/track/6Wos1urQJFPUcpeSKmQk4P) | [Mike Lowrey](https://open.spotify.com/artist/1Ty16CxXn9CapBAn9bt4Hv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [Drop Top \(feat\. Lamin & Stepz\)](https://open.spotify.com/album/3DrHeMGPxfWWWB5zodJhdR) | 2:30 | 2022-11-12 | 2022-11-22 |
-| [DRØM MIG VÆK](https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [DRØM MIG VÆK](https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA) | 2:43 | 2022-04-02 |  |
+| [DRØM MIG VÆK](https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [DRØM MIG VÆK](https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA) | 2:43 | 2022-04-02 | 2024-03-14 |
 | [Drømte Mig En Lille Drøm \- Fra julekalenderen 'Absalons Hemmelighed'](https://open.spotify.com/track/1Qw3PDRBvbVzWMgi4qfPFD) | [Dicte](https://open.spotify.com/artist/2M8siACtKsHdqRo2y5YE1Z) | [Julemusik 2022](https://open.spotify.com/album/1BzZZjo4xeT5HrJm2hiEBx) | 4:18 | 2022-11-29 | 2022-12-04 |
 | [Drømte Mig En Lille Drøm \- Fra julekalenderen 'Absalons Hemmelighed'](https://open.spotify.com/track/3eizF6STI8NRAAoBMDW4mC) | [Dicte](https://open.spotify.com/artist/2M8siACtKsHdqRo2y5YE1Z) | [Julekalendersange \- Stjernestøv, Tag Mig Med, Drømte Mig En Lille Drøm m.fl.](https://open.spotify.com/album/736fngzGFBYHVKZNli6Ar7) | 4:18 | 2021-11-23 | 2021-12-27 |
 | [Drømte Mig En Lille Drøm \- Fra julekalenderen 'Absalons Hemmelighed'](https://open.spotify.com/track/3WcK48G0JoYgyasnFbmgZ3) | [Dicte](https://open.spotify.com/artist/2M8siACtKsHdqRo2y5YE1Z) | [Absalons Hemmelighed](https://open.spotify.com/album/6NFEeb0NqHmXqXfD1YGfXn) | 4:18 | 2022-11-21 | 2023-12-30 |
@@ -1117,6 +1117,7 @@
 | [Savnet Pt\. II](https://open.spotify.com/track/14zbKdFRsPos1poo9J3aDp) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Savnet Pt\. II](https://open.spotify.com/album/2YeA59Ba8x8WXft7mctVvP) | 3:18 | 2022-01-22 | 2022-02-13 |
 | [Savnet Pt\. II](https://open.spotify.com/track/2sAX43JCgOfxAzy2GpZDaO) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 3:18 | 2022-02-19 | 2022-02-28 |
 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-28 | 2023-11-03 |
+| [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-03-13 |  |
 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 | 2021-09-19 | 2021-09-20 |
 | [Se Dig Græde](https://open.spotify.com/track/3HkAJYKTQ8D2MXbbu5N8XH) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd) | 1:53 | 2023-04-12 | 2023-05-28 |
 | [Se Dig Græde](https://open.spotify.com/track/3r8ie9cu2LumbxtwAzXTAd) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Se Dig Græde](https://open.spotify.com/album/3Sw0RFbDZXoZw2Df3bLiMF) | 1:53 | 2023-04-01 | 2023-04-13 |

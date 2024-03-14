@@ -16585,6 +16585,28 @@
     },
     {
       "album": {
+        "name": "La Salamandra",
+        "url": "https://open.spotify.com/album/70CSY3zkYjIwWVVdHWPvK8"
+      },
+      "artists": [
+        {
+          "name": "Underdann",
+          "url": "https://open.spotify.com/artist/38vgy1HVVWTE9VJtxFn1cz"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203258,
+      "name": "La Salamandra",
+      "url": "https://open.spotify.com/track/7nimqvRz6Xh2vDz2oGv0Sy"
+    },
+    {
+      "album": {
         "name": "LA TERAPIA",
         "url": "https://open.spotify.com/album/6wK85B0J0PvZ8qybiQ8dZa"
       },
@@ -21834,7 +21856,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 286106,
       "name": "Nada Nuevo Bajo El Sol",
       "url": "https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75"

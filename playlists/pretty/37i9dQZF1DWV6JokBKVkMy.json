@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2510,
+  "num_followers": 2513,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjcwMWIyOWU4NjkxZGU1MmU1YTI5NzExNjBkOWI0YzVhY2I3MmRj",
+  "snapshot_id": "MCxkN2RmYTM1M2RkOWQ2MTAyNTNiYzY2NmNhZGFhMDI2NzBlNzE1YmEy",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "ZENFAN LAKAZ TOL",
-        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
-      },
-      "artists": [
-        {
-          "name": "Bigg Frankii",
-          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
-        }
-      ],
-      "duration_ms": 301287,
-      "name": "Granper Sorti Diego",
-      "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 213531,
       "name": "To Kontan Koze",
       "url": "https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "ZENFAN LAKAZ TOL",
+        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
+      },
+      "artists": [
+        {
+          "name": "Bigg Frankii",
+          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
+        }
+      ],
+      "duration_ms": 301287,
+      "name": "Granper Sorti Diego",
+      "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
     },
     {
       "added_at": "2022-08-11 10:05:16",

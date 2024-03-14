@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 432670,
+  "2024-03-14": 432738,
   "date_first_scraped": "2020-10-13",
   "description": "glaivepilled",
   "name": "hyperpop",
@@ -17034,6 +17034,24 @@
     },
     {
       "album": {
+        "name": "a bit of a mad one",
+        "url": "https://open.spotify.com/album/7JUf3yqyB3jWomvnjnD1Gp"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120314,
+      "name": "i don't really feel it anymore",
+      "url": "https://open.spotify.com/track/2tYuG2yDiQXAUaiT43yCip"
+    },
+    {
+      "album": {
         "name": "i don't really feel it anymore",
         "url": "https://open.spotify.com/album/2TfTE74h6Tiadsm2Dj0Jbn"
       },
@@ -17045,7 +17063,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 120314,
       "name": "i don't really feel it anymore",
       "url": "https://open.spotify.com/track/49vbTCy6HYvy67dLe8ZQ5K"
@@ -17063,7 +17081,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 120314,
       "name": "i don't really feel it anymore",
       "url": "https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,731 likes - 242 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,803 likes - 242 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 18 | [Con Bajo Fidelidad](https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Con Bajo Fidelidad](https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg) | 2:10 |
 | 19 | [wicked](https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [wicked](https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA) | 2:26 |
 | 20 | [Antarta](https://open.spotify.com/track/708zYiRD3KF6a3DQnXmO6T) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Antarta](https://open.spotify.com/album/1JSFswlIzsldf6SobiCzxk) | 2:24 |
-| 21 | [Wonders](https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe) | [Moon Spirit](https://open.spotify.com/artist/62zKB6KmehKNRoyd8YgNwE) | [Wonders](https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW) | 2:43 |
+| 21 | [Wonders](https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe) | [Moon Spirit](https://open.spotify.com/artist/5KQrXENL8zznzYw3r6zTlx) | [Wonders](https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW) | 2:43 |
 | 22 | [Poetic Wax](https://open.spotify.com/track/6ueWeJJyq1rMkdNitaL7a6) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [On the Keys of Steel](https://open.spotify.com/album/3ZuaHM9zbQrNT23OG7I3bz) | 2:23 |
 | 23 | [theory](https://open.spotify.com/track/4HKdPsYjadAjbyExkfHckS) | [Dean Bowser](https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90) | [theory](https://open.spotify.com/album/3boH3lxcS1Nz9J1KuyZuRx) | 3:00 |
 | 24 | [bahia nights](https://open.spotify.com/track/1xHMZoLph7yjsZRcYRzvqX) | [moodsinger](https://open.spotify.com/artist/5Sb19EofLxyxtjsQH7BDjn) | [bahia nights](https://open.spotify.com/album/1gQwA7qKAjuB9pL8wxGHw4) | 2:05 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 241 | [Park Swing](https://open.spotify.com/track/2OtSn8KFe1yhbOZhFAv4t9) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Park Swing](https://open.spotify.com/album/55Ej3cy2XsbtqVj4aTAVd4) | 2:17 |
 | 242 | [a bright point of view](https://open.spotify.com/track/3evjhgwpjWYwNWFom2wenu) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf), [Igor Utzig](https://open.spotify.com/artist/0SK3nj1aKuSNtBRvEow982) | [a bright point of view](https://open.spotify.com/album/3uhS1om9OFKIaXwCTjBESF) | 2:01 |
 
-Snapshot ID: `MCwxODFiYjU5YmZmZTcwZjU4NDQxODFmNTRiODQ3ODMwMGM0NWE2NTA0`
+Snapshot ID: `MCw3ZGI3YjdjNDM0YThmZGY2OWM4NWVlYzJiOGFjNTRmMTBjNTc0Yjg3`

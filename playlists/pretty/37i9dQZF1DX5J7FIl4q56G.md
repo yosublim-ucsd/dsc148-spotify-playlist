@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: SeeYouSpaceCowboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,373 likes - 69 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,425 likes - 69 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 68 | [Identity Disorder](https://open.spotify.com/track/3S4ORKfjQ1ihx6L40wzpV2) | [Pale Path](https://open.spotify.com/artist/7guXfR9IZ23NkaKn0OdpvD) | [Identity Disorder](https://open.spotify.com/album/2sBiIAi9Oh3cvlDBxTTymH) | 3:42 |
 | 69 | [Nine Nights Of Sacrifice](https://open.spotify.com/track/5z1ee0Lfhjx3huYdcMU2Ca) | [Carved In Blood](https://open.spotify.com/artist/0Sy9P30OkcZj6hsj9IGOfp) | [Nine Nights Of Sacrifice](https://open.spotify.com/album/4ifdiSP0P2qYjuU2o4xNlI) | 4:50 |
 
-Snapshot ID: `MCw2ZTdmOTM0M2RhZTJhYWQ1YmM2MWJkZTExNmMxZWVmZmNkYTQ1ZjZj`
+Snapshot ID: `MCxlMGY3ZDg2YzIxZjY1MzY4NzBhZmZiYmQyZjA3YTYzZWM4ZDI4ZmIx`

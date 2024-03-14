@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 353482,
+  "2024-03-14": 353593,
   "date_first_scraped": "2021-12-21",
   "description": "For full-volume lovers, new and recent favorites. Cover: Too Close To Touch",
   "name": "Hard Rock",
@@ -3454,6 +3454,24 @@
     },
     {
       "album": {
+        "name": "Glory Days",
+        "url": "https://open.spotify.com/album/3wtiGyapEfhtEzvw6kdXue"
+      },
+      "artists": [
+        {
+          "name": "Halocene",
+          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236456,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/0vZyBihPgujGitRXqC7D5H"
+    },
+    {
+      "album": {
         "name": "God Has Cut You Down",
         "url": "https://open.spotify.com/album/3sUqSrGGTG11juyEzJJclL"
       },
@@ -5131,7 +5149,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 235967,
       "name": "Live Like This",
       "url": "https://open.spotify.com/track/4sooxHcxso60dEKemBYPBM"
@@ -6365,6 +6383,24 @@
       "duration_ms": 295775,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz"
+    },
+    {
+      "album": {
+        "name": "Now It's Over",
+        "url": "https://open.spotify.com/album/6n32LAOXQKjNQbetxmMtZL"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "Now It's Over - Vol.2",
+      "url": "https://open.spotify.com/track/2QgIKqfwc1Y75guxKNFry4"
     },
     {
       "album": {
@@ -10867,7 +10903,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 230124,
       "name": "You & I",
       "url": "https://open.spotify.com/track/45MaH3A5xJUx3wIDRty2eV"

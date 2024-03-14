@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Sunidhi Chauhan
 
-280 songs - 16 hr 23 min
+281 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Beda Paar](https://open.spotify.com/track/4efU3uJn1mLTFNGXBVHuHR) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w) | [Laapataa Ladies](https://open.spotify.com/album/6RRszKfdIZFMYabAL8vDGB) | 2:26 | 2024-02-14 |  |
 | [Berang](https://open.spotify.com/track/1YnNzDtqdYOmiW7PMSpqxg) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0) | [Berang](https://open.spotify.com/album/45ZIuB3SzUQqMxyIbnWbyX) | 3:16 | 2023-10-06 | 2023-10-28 |
 | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/album/5CvI5ppsG522pV554VLezD) | 4:18 | 2023-01-03 |  |
+| [Bhola Bhala Baby \- From "Murder Mubarak"](https://open.spotify.com/track/69GPJv1vz7Z6dWcyDuVQVt) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Bhola Bhala Baby \(From "Murder Mubarak"\)](https://open.spotify.com/album/4uucsIPMPcEtDqCIkFqijB) | 3:53 | 2024-03-13 |  |
 | [Bol Kaffara Kya Hoga \- Dj Chetas](https://open.spotify.com/track/7r7PJJSvVPCAQK4h0vc7xT) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Farhan Sabri](https://open.spotify.com/artist/2S7i3wOcMLQHH6DwcMHrG9), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Bol Kaffara Kya Hoga \- Dj Chetas](https://open.spotify.com/album/7Ag7XBy1AML6KGE3tHxjJJ) | 3:27 | 2022-02-01 | 2023-01-04 |
 | [Bolo Na](https://open.spotify.com/track/46iYi5V4J3LRFBDP4jF9Fo) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [12th Fail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tTfard3oT2hyHFq4qFsEy) | 4:53 | 2024-01-08 |  |
 | [Bulleya O](https://open.spotify.com/track/2nZ09M4GsBPz1KYKGbcpih) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Bulleya O](https://open.spotify.com/album/5OCSQq7aPf6T6sGFe9D2yC) | 4:38 | 2022-11-15 | 2023-03-03 |

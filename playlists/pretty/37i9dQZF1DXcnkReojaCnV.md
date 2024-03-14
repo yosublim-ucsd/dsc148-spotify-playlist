@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 ### [In the Name of the Blues: Walter Trout Takeover](https://open.spotify.com/playlist/37i9dQZF1DXcnkReojaCnV)
 
-> <a href="spotify:artist:12LgviUQ9DbfYJJ9niDWRq>Walter Trout</a> is taking over to share his blues favorites
+> <a href="spotify:artist:12LgviUQ9DbfYJJ9niDWRq">Walter Trout</a> is taking over to share his blues favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,951 likes - 30 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,988 likes - 30 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 29 | [Pedal To the Metal](https://open.spotify.com/track/0G9j4ORbupmxMe02m7a1lh) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Levee Town](https://open.spotify.com/album/2OjQfeMEfVK3B2r7lT3YJN) | 4:09 |
 | 30 | [I Want To Shout About It](https://open.spotify.com/track/14oXexdYYKuABVxIldH4BS) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:12 |
 
-Snapshot ID: `MCwyNTg4OTVjZDEwZWFlYjdjMWQ0Yjk3ODIyYTVmOThjZTFmMDc4ZGQ2`
+Snapshot ID: `MCw2NTdiM2JhZDdlNmRiOTEzMDFkMjJlODcxOTI0MDI1NWVhMTY0NjNh`

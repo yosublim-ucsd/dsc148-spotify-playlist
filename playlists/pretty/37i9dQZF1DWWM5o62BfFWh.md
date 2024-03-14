@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: Pitbull, Mawell & IAmChino
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,364 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,414 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 24 | [Yo Si Y Tú No](https://open.spotify.com/track/6FPxiFg1qKRueB2KMItMUL) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [2.45](https://open.spotify.com/album/1BPhyOHsr7BSBTXTaRgf1w) | 3:39 |
 | 25 | [Rica y Pegá \- Remix](https://open.spotify.com/track/0mogth6Cnq4RoqDEfyCptQ) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Rica y Pegá \(Remix\)](https://open.spotify.com/album/3SPACHwmJ0uhgwsi9hjtTp) | 2:52 |
 | 26 | [La Guariconfianza](https://open.spotify.com/track/234PYuEChhjwv4GeT12pap) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw), [The Yabo](https://open.spotify.com/artist/3tzSE7ZaI9Z8ZziPb5FrUa) | [Blychy](https://open.spotify.com/album/5Xv5Est3n7bg7dZmo8ul8i) | 3:27 |
-| 27 | [El Farsante \- Timba Remix](https://open.spotify.com/track/2mXSqDlL6vHv7wjenfhmcC) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [El Grande](https://open.spotify.com/album/6RykDFDZm5Fg4ZdyjpP4n1) | 3:58 |
+| 27 | [El Farsante \- Timba Remix](https://open.spotify.com/track/1YyACfmqsUNOEqiN0fx85H) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [El Farsante \(Timba Remix\)](https://open.spotify.com/album/32GQ07hItxgvXWSEdUFIvE) | 3:59 |
 | 28 | [Mi Lugar Favorito \- Prod\. by Ernesto Losa, Roberto Ferrante](https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w) | [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Mi Lugar Favorito \(Prod\. by Ernesto Losa, Roberto Ferrante\)](https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d) | 2:38 |
 | 29 | [Dale Pa' Miami](https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Dale Pa' Miami](https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer) | 3:14 |
 | 30 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 74 | [Volvere Junto a Ti](https://open.spotify.com/track/00mhWSGsOidu8YVEWiwqDV) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/1pFGaaejCIj06DhPW5r7H7) | 3:48 |
 | 75 | [Bla Bla Bla](https://open.spotify.com/track/1Pbn9UgscbHOM7OY5dCjaa) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Bla Bla Bla](https://open.spotify.com/album/787S5irCGrnB6kNJsZZ9v7) | 3:32 |
 
-Snapshot ID: `MCw4MGJmZWQzMGE5YzcyYzFjYjE1MjNiMzEwMWM1YzBkMjc4ZDE0OWNh`
+Snapshot ID: `MCxkZGNkZjAxNzZkN2U0ZjJhOWM0N2EyZGVkNDE1MmNjYmYxMWEzZmJk`

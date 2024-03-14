@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,221 songs - 3 day 4 hr 47 min
+1,222 songs - 3 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [A lonely night ～ひとりぼっちのGet Wild～](https://open.spotify.com/track/2HqmDb5HE9W9bh15VRZCHw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [アイニー](https://open.spotify.com/artist/1PqSi9Rgp6H0LhdCefCyPi), [RED](https://open.spotify.com/artist/5bVJRJd9mUtOh6b1sxM9gb) | [A lonely night ～ひとりぼっちのGet Wild～](https://open.spotify.com/album/7Av4wZIVDisfPaIzarh3UC) | 3:59 | 2023-09-19 | 2023-10-25 |
 | [A NEW DAY](https://open.spotify.com/track/6MLjkhdkMiC3IVpS9205Xf) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [A NEW DAY](https://open.spotify.com/album/2Ng7IKU01WIZL0NkjYbr5q) | 3:35 | 2023-07-13 | 2023-07-26 |
 | [A piece of cake](https://open.spotify.com/track/4pae88hho7DMgeCKukQXet) | [Kiyono Yasuno](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [A PIECE OF CAKE](https://open.spotify.com/album/4o9TQA0PoS0iea2MmA8ofx) | 2:41 | 2022-07-28 | 2022-09-21 |
-| [A.B.SECRET](https://open.spotify.com/track/4BaEWsa2psex2e7aGBKbOq) | [LIP×LIP](https://open.spotify.com/artist/5LtKPfXlcnoOvks1fj2c3b), [勇次郎 \(CV:内山昂輝\)](https://open.spotify.com/artist/6zcLeTGwFoddrcExg57vI4), [愛蔵 \(CV:島﨑信長\)](https://open.spotify.com/artist/1iOh71mDLOpHEdKPvDYKoc) | [A.B.SECRET](https://open.spotify.com/album/6dPCE5QeWOMRpdyEq5eQe3) | 2:39 | 2024-03-12 |  |
+| [A.B.SECRET](https://open.spotify.com/track/0RX2B6sHh6K2j1VJDU1oi9) | [LIP×LIP](https://open.spotify.com/artist/5LtKPfXlcnoOvks1fj2c3b), [勇次郎 \(CV:内山昂輝\)](https://open.spotify.com/artist/6zcLeTGwFoddrcExg57vI4), [愛蔵 \(CV:島﨑信長\)](https://open.spotify.com/artist/1iOh71mDLOpHEdKPvDYKoc) | [生まれてきたことに感謝しなさい！](https://open.spotify.com/album/27WuW2wGrF1BI6RoB5hcFq) | 2:39 | 2024-03-12 |  |
+| [A.B.SECRET](https://open.spotify.com/track/4BaEWsa2psex2e7aGBKbOq) | [LIP×LIP](https://open.spotify.com/artist/5LtKPfXlcnoOvks1fj2c3b), [勇次郎 \(CV:内山昂輝\)](https://open.spotify.com/artist/6zcLeTGwFoddrcExg57vI4), [愛蔵 \(CV:島﨑信長\)](https://open.spotify.com/artist/1iOh71mDLOpHEdKPvDYKoc) | [A.B.SECRET](https://open.spotify.com/album/6dPCE5QeWOMRpdyEq5eQe3) | 2:39 | 2024-03-12 | 2024-03-14 |
 | [abnormalize \(10th anniversary mix\)](https://open.spotify.com/track/0QKp0szQKadRZyv8Z41Xsz) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [アレキシサイミアスペア](https://open.spotify.com/album/2aqEPOonU6GGvuxJjVR5tr) | 3:41 | 2023-05-09 | 2023-07-05 |
 | [Abracada\-Boo](https://open.spotify.com/track/6sScdgu1m1tey48IoeMDkt) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Abracada\-Boo](https://open.spotify.com/album/2HdzJMCn6VXTuBJni0ANJ7) | 4:35 | 2022-08-02 | 2022-10-09 |
 | [Abyss\-Over](https://open.spotify.com/track/1EN4v238bm5XLgjT3qa323) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Abyss\-Over](https://open.spotify.com/album/1WN888rItH426MpIBh4zcq) | 3:52 | 2024-01-09 | 2024-01-31 |

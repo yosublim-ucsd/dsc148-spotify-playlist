@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 367097,
+  "num_followers": 367346,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mjk5ODEzMjVhYzRlZTgxNTg5YTU1OGU5Y2Q2ZTFjODM0NGFkMmE4",
+  "snapshot_id": "MCxiZDNkZGVlMzE5MmNhOTUxMjY0Y2ZmNDg1Y2NkN2JjNGJiNTdiNTcz",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
     },
     {
-      "added_at": "2023-06-09 11:33:29",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
-    },
-    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
         "name": "Only By The Night",
@@ -55,6 +39,22 @@
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+    },
+    {
+      "added_at": "2023-06-09 11:33:29",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -641,20 +641,20 @@
       "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
     },
     {
-      "added_at": "2023-05-16 12:08:08",
+      "added_at": "2024-03-08 12:42:33",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+        "name": "Bleachers",
+        "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Going Kokomo",
-      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+      "duration_ms": 189919,
+      "name": "Jesus Is Dead",
+      "url": "https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp"
     },
     {
       "added_at": "2024-03-08 12:42:33",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
     },
     {
+      "added_at": "2023-05-16 12:08:08",
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Going Kokomo",
+      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
         "name": "Two Vines",
@@ -687,22 +703,6 @@
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
-    },
-    {
-      "added_at": "2024-03-08 12:42:33",
-      "album": {
-        "name": "Bleachers",
-        "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 189919,
-      "name": "Jesus Is Dead",
-      "url": "https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -767,22 +767,6 @@
       "duration_ms": 292267,
       "name": "Patience",
       "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
-    },
-    {
-      "added_at": "2023-05-16 12:08:08",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "Kool Aid",
-      "url": "https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -853,6 +837,22 @@
       "url": "https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk"
     },
     {
+      "added_at": "2023-05-16 12:08:08",
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W"
+    },
+    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
         "name": "The Ride",
@@ -867,22 +867,6 @@
       "duration_ms": 261560,
       "name": "Soundcheck",
       "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "Uncanny Valley",
-        "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 184315,
-      "name": "Cutie",
-      "url": "https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG"
     },
     {
       "added_at": "2023-05-17 13:32:35",
@@ -903,6 +887,22 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 184315,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "A Deeper Understanding",
-        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 350893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 222282,
       "name": "Love Illumination",
       "url": "https://open.spotify.com/track/06Qha323s06okpZ4LmMX7P"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 350893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1381,6 +1381,22 @@
       "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
     },
     {
+      "added_at": "2024-03-08 12:42:33",
+      "album": {
+        "name": "Happy Customers",
+        "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 170340,
+      "name": "Happy Customers",
+      "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
+    },
+    {
       "added_at": "2023-05-17 13:32:35",
       "album": {
         "name": "Lots of Nothing (feat. BENEE)",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "The Front Bottoms",
         "url": "https://open.spotify.com/album/2ebceTtl7SU1xdVBOzmIJo"
       },
@@ -1453,20 +1453,36 @@
       "url": "https://open.spotify.com/track/04hN6ODPxg2w93G6x0XQxr"
     },
     {
-      "added_at": "2024-03-08 12:42:33",
+      "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Happy Customers",
-        "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 170340,
-      "name": "Happy Customers",
-      "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+    },
+    {
+      "added_at": "2024-03-08 12:42:33",
+      "album": {
+        "name": "Shadow EP",
+        "url": "https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 167900,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1483,22 +1499,6 @@
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "A Temporary High",
-      "url": "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "A Temporary High",
+      "url": "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Church Of Scars",
         "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 260346,
       "name": "One Thing Left to Try",
       "url": "https://open.spotify.com/track/52pWggDlN5mVeX111i06PP"
-    },
-    {
-      "added_at": "2024-03-08 12:42:33",
-      "album": {
-        "name": "Shadow EP",
-        "url": "https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 167900,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r"
     },
     {
       "added_at": "2023-01-20 11:00:00",

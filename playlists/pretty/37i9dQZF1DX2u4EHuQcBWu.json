@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 189165,
+  "num_followers": 189210,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDEyOWE4Y2U2NWUzYjA2M2M5YzdjYzJiY2M1ODkwY2RhYjBiMzE2",
+  "snapshot_id": "MCw0YmYyZTM2YzU2OTVmOWEzODhjM2U0YTllMzBhM2ZhMzM3MjE5N2Vl",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends",
-        "url": "https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP"
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        },
-        {
-          "name": "Zack De La Rocha",
-          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 250080,
-      "name": "Somos M\u00e1s Americanos",
-      "url": "https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz"
+      "duration_ms": 280933,
+      "name": "Aqu\u00ed No Pasa Nada",
+      "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -887,18 +883,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+        "name": "Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends",
+        "url": "https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        },
+        {
+          "name": "Zack De La Rocha",
+          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
         }
       ],
-      "duration_ms": 280933,
-      "name": "Aqu\u00ed No Pasa Nada",
-      "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
+      "duration_ms": 250080,
+      "name": "Somos M\u00e1s Americanos",
+      "url": "https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Cantos revolucionarios de america latina",
         "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 270160,
       "name": "Hasta siempre",
       "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Pateando Craneos",
-        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
-      },
-      "artists": [
-        {
-          "name": "2X",
-          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "La Fuerza Policial",
-      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "La Lira Libertaria",
         "url": "https://open.spotify.com/album/7n57o4N90R6N9m6Sbgqn59"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Tempestad",
-        "url": "https://open.spotify.com/album/4zWduHdqoOVSt2HvuM62Gu"
+        "name": "Pateando Craneos",
+        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
       },
       "artists": [
         {
-          "name": "La Barranca",
-          "url": "https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln"
+          "name": "2X",
+          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
         }
       ],
-      "duration_ms": 303120,
-      "name": "D\u00eda Negro",
-      "url": "https://open.spotify.com/track/4DtPr14uVvVdi8zHquBBBj"
+      "duration_ms": 161666,
+      "name": "La Fuerza Policial",
+      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Tempestad",
+        "url": "https://open.spotify.com/album/4zWduHdqoOVSt2HvuM62Gu"
+      },
+      "artists": [
+        {
+          "name": "La Barranca",
+          "url": "https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln"
+        }
+      ],
+      "duration_ms": 303120,
+      "name": "D\u00eda Negro",
+      "url": "https://open.spotify.com/track/4DtPr14uVvVdi8zHquBBBj"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Guayabo",
+        "url": "https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW"
+      },
+      "artists": [
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 152052,
+      "name": "Guayabo",
+      "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Grita Tierra",
         "url": "https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z"
       },
@@ -1839,34 +1855,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Guayabo",
-        "url": "https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW"
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
       "artists": [
         {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 152052,
-      "name": "Guayabo",
-      "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Mexico: Days of Struggle",
-        "url": "https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi"
-      },
-      "artists": [
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
         {
-          "name": "Judith Reyes",
-          "url": "https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV"
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         }
       ],
-      "duration_ms": 330946,
-      "name": "Tragedia de la Plaza de las Tres Culturas (Tragedy of Plaza of the Three Cultures)",
-      "url": "https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I"
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     },
     {
       "added_at": "2023-10-13 03:00:00",

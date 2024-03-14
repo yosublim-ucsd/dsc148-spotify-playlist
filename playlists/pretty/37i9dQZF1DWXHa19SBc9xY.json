@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 90212,
+  "num_followers": 90255,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjZhYmIxMjgxYmIwMDJlNTk3MGMxYTE4ZjFjZmZkYzViMjY3ZjAx",
+  "snapshot_id": "MCwzNDAzZmE4NWRlNTk1N2ZhNDg2NzA4MjM4NzMxNzViMTU0YWE1Y2Zm",
   "tracks": [
     {
       "added_at": "2023-11-24 08:42:40",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Bem Me Queira",
-        "url": "https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        },
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 145377,
-      "name": "Bem Me Queira",
-      "url": "https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Simples Assim",
         "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 173354,
       "name": "Aroeira",
       "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Bem Me Queira",
+        "url": "https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        },
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 145377,
+      "name": "Bem Me Queira",
+      "url": "https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1"
     },
     {
       "added_at": "2023-11-24 08:42:40",

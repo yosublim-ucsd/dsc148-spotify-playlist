@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 106767,
+  "2024-03-14": 106787,
   "date_first_scraped": "2024-01-30",
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
   "name": "This Is Grupo Arriesgado",
@@ -275,7 +275,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 172880,
       "name": "El Enamorado (En vivo)",
       "url": "https://open.spotify.com/track/3JChPn2sVzhbsd5ZCWLFIB"
@@ -933,6 +933,28 @@
       "duration_ms": 179170,
       "name": "Que las Cuartitos No Falten",
       "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
+    },
+    {
+      "album": {
+        "name": "Que Se Preparen",
+        "url": "https://open.spotify.com/album/6im0kyzVwpV1ozVymkze6H"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Gordo Arce",
+          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Que Se Preparen",
+      "url": "https://open.spotify.com/track/6AGjRofC1oygn6XgS8sRDc"
     },
     {
       "album": {

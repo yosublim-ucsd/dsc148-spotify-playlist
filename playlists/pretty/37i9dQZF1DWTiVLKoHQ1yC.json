@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 176485,
+  "num_followers": 176558,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYThiYTM1MzU4MTNhZWQzMzVkMjc0MTNlYTZkNzI5ZmRkMmFkZGEw",
+  "snapshot_id": "MCxlY2Q3ODk1MWI5NzE1ODgxOTUzZmYyZWM4NzRhYzE1ODhhOGIyMzdh",
   "tracks": [
     {
       "added_at": "2024-03-01 12:45:26",
@@ -230,6 +230,10 @@
         {
           "name": "Another Life",
           "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
+        },
+        {
+          "name": "CAY",
+          "url": "https://open.spotify.com/artist/6b4QyOnN3PNRtu3MioP5Gj"
         }
       ],
       "duration_ms": 333750,
@@ -427,26 +431,6 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "Highest Love",
-        "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "LANKS",
-          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
-        }
-      ],
-      "duration_ms": 297374,
-      "name": "Highest Love",
-      "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
@@ -463,6 +447,26 @@
       "duration_ms": 246944,
       "name": "Dance with My Ghost (feat. Elderbrook)",
       "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
+        "name": "Highest Love",
+        "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
+        }
+      ],
+      "duration_ms": 297374,
+      "name": "Highest Love",
+      "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -883,6 +887,26 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
+        "name": "L'owe L'owe",
+        "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
+      },
+      "artists": [
+        {
+          "name": "DJ Qness",
+          "url": "https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0"
+        },
+        {
+          "name": "Dele Sosimi",
+          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
+        }
+      ],
+      "duration_ms": 449149,
+      "name": "L'ow\u00e8 L'ow\u00e8",
+      "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
         "name": "No Judgement (K\u00f6lsch Remix Edit)",
         "url": "https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo"
       },
@@ -903,26 +927,6 @@
       "duration_ms": 257006,
       "name": "No Judgement - K\u00f6lsch Remix Edit",
       "url": "https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
-        "name": "L'owe L'owe",
-        "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
-      },
-      "artists": [
-        {
-          "name": "DJ Qness",
-          "url": "https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0"
-        },
-        {
-          "name": "Dele Sosimi",
-          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
-        }
-      ],
-      "duration_ms": 449149,
-      "name": "L'ow\u00e8 L'ow\u00e8",
-      "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
     },
     {
       "added_at": "2024-03-01 12:45:26",

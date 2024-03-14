@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 113526,
+  "2024-03-14": 113518,
   "date_first_scraped": "2021-12-28",
   "description": "A mix of new songs and beloved classics from your favorite Contemporary Christian artists! ",
   "name": "Contemporary Christian Christmas",
@@ -4593,6 +4593,24 @@
     {
       "album": {
         "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/4vvhoYO8yr3FdvvTvKXAb6"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "O Come, O Come, Emmanuel",
+      "url": "https://open.spotify.com/track/4ektuU64bsNb5olsSDfA70"
+    },
+    {
+      "album": {
+        "name": "Waiting For The Dawn",
         "url": "https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH"
       },
       "artists": [
@@ -5949,7 +5967,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 219493,
       "name": "Until You",
       "url": "https://open.spotify.com/track/7p5PppNJRxMNBhGbZ5JvxC"

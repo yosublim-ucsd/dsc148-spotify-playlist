@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Nora Gonz\u00e1lez en portada. ",
-  "num_followers": 131269,
+  "num_followers": 131275,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGY5OGFkMWMxMWQ3YTU5N2I4NDQ1YTdjMmYyYTgyNzNhNGY1YTFl",
+  "snapshot_id": "MCw5NWNmNmRlZDE2MTJiMWU0MTQwYzAyNmQ5M2ExZTc0MDU3OGE0MzVk",
   "tracks": [
     {
       "added_at": "2024-03-08 17:57:17",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-03-08 17:57:17",
       "album": {
-        "name": "Por Siempre (Deluxe)",
-        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 249375,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
-    },
-    {
-      "added_at": "2024-03-08 17:57:17",
-      "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
         "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 209673,
       "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
       "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
+    },
+    {
+      "added_at": "2024-03-08 17:57:17",
+      "album": {
+        "name": "Por Siempre (Deluxe)",
+        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "duration_ms": 249375,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
     },
     {
       "added_at": "2024-03-08 17:57:17",
@@ -379,26 +379,18 @@
     {
       "added_at": "2024-03-08 17:57:17",
       "album": {
-        "name": "El Malo (Remix)",
-        "url": "https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9"
+        "name": "El Karma",
+        "url": "https://open.spotify.com/album/6C9xQuTD01lOujdRjYYwqx"
       },
       "artists": [
         {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
         }
       ],
-      "duration_ms": 259910,
-      "name": "El Malo - Remix",
-      "url": "https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW"
+      "duration_ms": 176632,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/6mKQ6QdpAMc7cFrMVCqexx"
     },
     {
       "added_at": "2024-03-08 17:57:17",
@@ -423,18 +415,26 @@
     {
       "added_at": "2024-03-08 17:57:17",
       "album": {
-        "name": "El Karma",
-        "url": "https://open.spotify.com/album/6C9xQuTD01lOujdRjYYwqx"
+        "name": "El Malo (Remix)",
+        "url": "https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9"
       },
       "artists": [
         {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
         }
       ],
-      "duration_ms": 176632,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/6mKQ6QdpAMc7cFrMVCqexx"
+      "duration_ms": 259910,
+      "name": "El Malo - Remix",
+      "url": "https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW"
     },
     {
       "added_at": "2024-03-08 17:57:17",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-08 17:57:17",
       "album": {
-        "name": "Canci\u00f3n Para Olvidarte",
-        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 164120,
-      "name": "Canci\u00f3n Para Olvidarte",
-      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
-    },
-    {
-      "added_at": "2024-03-08 17:57:17",
-      "album": {
         "name": "Pa' Olvidar",
         "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 199210,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
+    },
+    {
+      "added_at": "2024-03-08 17:57:17",
+      "album": {
+        "name": "Canci\u00f3n Para Olvidarte",
+        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 164120,
+      "name": "Canci\u00f3n Para Olvidarte",
+      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
     },
     {
       "added_at": "2024-03-08 17:57:17",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-03-08 17:57:17",
       "album": {
-        "name": "Prohibido Llorar",
-        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Prohibido Llorar",
-      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
-    },
-    {
-      "added_at": "2024-03-08 17:57:17",
-      "album": {
         "name": "NO HAY NADA M\u00c1S",
         "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 150891,
       "name": "EL CHAPUL\u00cdN",
       "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
+    },
+    {
+      "added_at": "2024-03-08 17:57:17",
+      "album": {
+        "name": "Prohibido Llorar",
+        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Prohibido Llorar",
+      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
     },
     {
       "added_at": "2024-03-08 17:57:17",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-03-08 17:57:17",
       "album": {
-        "name": "Carne Y Hueso",
-        "url": "https://open.spotify.com/album/6SKLvaEw9kdK7jrGnQC0qV"
+        "name": "Ser\u00e9",
+        "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
       },
       "artists": [
         {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
         }
       ],
-      "duration_ms": 200533,
-      "name": "Carne Y Hueso",
-      "url": "https://open.spotify.com/track/79RBnNPr10KCaIHrQcREaZ"
+      "duration_ms": 163433,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2"
     },
     {
       "added_at": "2024-03-08 17:57:17",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-03-08 17:57:17",
       "album": {
-        "name": "Ser\u00e9",
-        "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
+        "name": "Carne Y Hueso",
+        "url": "https://open.spotify.com/album/6SKLvaEw9kdK7jrGnQC0qV"
       },
       "artists": [
         {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
         }
       ],
-      "duration_ms": 163433,
-      "name": "Ser\u00e9",
-      "url": "https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2"
+      "duration_ms": 200533,
+      "name": "Carne Y Hueso",
+      "url": "https://open.spotify.com/track/79RBnNPr10KCaIHrQcREaZ"
     },
     {
       "added_at": "2024-03-08 17:57:17",

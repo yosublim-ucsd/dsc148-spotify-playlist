@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Tim Pepperoni
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,066 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,077 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 6 | [GOEMON](https://open.spotify.com/track/6HO0oAjTqqvfaspFkLzYEK) | [Gypsy Well](https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO) | [GOEMON](https://open.spotify.com/album/6yFHD4LRXQFz6OC9JgTxWl) | 2:32 |
 | 7 | [AKO](https://open.spotify.com/track/3jHedBtPaDC4JnbuRDuESI) | [Kidney Fuji](https://open.spotify.com/artist/5ImlGMjtl8oe8VVdjY2mwd) | [AKO](https://open.spotify.com/album/3MjGApVWk8UmIt1FMcnMAf) | 1:57 |
 | 8 | [Josetsusha!](https://open.spotify.com/track/5MCTIDVidknIGlI9atECh4) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [Josetsusha!](https://open.spotify.com/album/7263wqVHp54oFq8zGlEXTM) | 3:21 |
-| 9 | [JET](https://open.spotify.com/track/7F3J8LeYIiuqYuGUvau3Jp) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA) | [Local Life](https://open.spotify.com/album/4560Qtdvr2QLUZPhnbsCUy) | 2:17 |
+| 9 | [JET](https://open.spotify.com/track/6dBldJ7M61X4dRcxodX6O0) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA) | [Local Life](https://open.spotify.com/album/5QReLSHX2gBdrMnVztz7f4) | 2:17 |
 | 10 | [In My Stress](https://open.spotify.com/track/1DDKb721dwZdN8XWgUvKzx) | [FTL SHINKI](https://open.spotify.com/artist/6AU9u7PHcTl8eTUAiFQ7YI), [Thlive](https://open.spotify.com/artist/6DaGmFvPW9EEpyLA3uBtzg), [Plain Jay](https://open.spotify.com/artist/6pERZIyDUwOZG4SIzIu33V) | [Family Thlive Loyalty](https://open.spotify.com/album/1bPXiyhWJ0xuSTi6Dku7nT) | 3:10 |
 | 11 | [Rarri](https://open.spotify.com/track/6tiguQlJ1ZYIfBFGPkJ0GL) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [KJ SEASON](https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE) | 3:06 |
 | 12 | [ENTP](https://open.spotify.com/track/0beiy2vUUzpc9TsfCuhOLB) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/25abs1n4crwVKrM8SjwP1u) | 2:01 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 18 | [Not me us](https://open.spotify.com/track/6fiKYj4yRSw5LCJbkpzjEJ) | [13KID'S](https://open.spotify.com/artist/6SXE1LYvCRysZoq12xvQnJ), [tombi jerk](https://open.spotify.com/artist/1TBe71VFtrF7vHoEHHFRve), [Calpas](https://open.spotify.com/artist/0nxnKepPXKwkSFdlgFVTle), [knit](https://open.spotify.com/artist/1ksJImqBrdQUrKJmmgZsRZ) | [Not me us](https://open.spotify.com/album/2hyUX3iw15iVmpRpi5EAo7) | 4:01 |
 | 19 | [Brand new](https://open.spotify.com/track/2urxRM4Vlp8nbmIugWwAvv) | [jean](https://open.spotify.com/artist/0hc2fRch1am34f5Jax1O0S) | [Brand new](https://open.spotify.com/album/2O8RvNgB1rgWxZWIvtFd2W) | 2:51 |
 | 20 | [DAIKYUJYO](https://open.spotify.com/track/6X2t7KMv5swfmt6QR4JKqn) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [DAIKYUJYO](https://open.spotify.com/album/21OL83ryv1xqNXiQ5aoQii) | 3:03 |
-| 21 | [烏](https://open.spotify.com/track/1EEPiAXfXz7IqI1hzKcXPI) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [烏](https://open.spotify.com/album/3CuxqRYssCD7eplj81jRVS) | 2:13 |
+| 21 | [KARASU](https://open.spotify.com/track/3Zy3ydtuKxgP5GmKboF3Y3) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [KARASU](https://open.spotify.com/album/3hqAA3agtdXgyTpm5j0Qb6) | 2:13 |
 | 22 | [4 MY CULT](https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [4 MY CULT](https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz) | 2:45 |
 | 23 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 |
 | 24 | [BEST](https://open.spotify.com/track/481mYYB6IEJkG9zEuqnC7w) | [Yata41](https://open.spotify.com/artist/2Xdx4XGWGFCN6FAevqxODz), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [BEST](https://open.spotify.com/album/1nRz3xoEHTV02oufkB19Zc) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [GINGINDEGO](https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR) | [Ryuk](https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [GINGINDEGO](https://open.spotify.com/album/6bErHCwerAoOZsI2cEfXC2) | 1:51 |
 | 100 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCwyNmRlMjVlNTcyMTE1YmJkN2VjZTRmYjYyZTU5NWY0MDY3ZTg2M2Ez`
+Snapshot ID: `MCxhZGM1YTVhYWMwNjg5YmI0NmExMDhjOTA5YjI4ZDRiYzc1Y2RkN2Y5`

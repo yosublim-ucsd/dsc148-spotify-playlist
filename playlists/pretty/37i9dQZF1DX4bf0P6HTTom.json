@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 154926,
+  "num_followers": 154956,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWUxODcyMjRhYjkwM2FmNzAxNzM2ZTVhOGViYmJkNjBiNDgzN2Vi",
+  "snapshot_id": "MCw0ODkzMzk5NzlhMmIwZTAwM2JiNTJlNGY5YTY2MDJjMThjMWUzNTQz",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -803,6 +803,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Slippin Away",
+        "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
+      },
+      "artists": [
+        {
+          "name": "Chris Hillman",
+          "url": "https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Step on Out",
+      "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 235106,
       "name": "Make A Little Magic - 2001 Remaster",
       "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Slippin Away",
-        "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
-      },
-      "artists": [
-        {
-          "name": "Chris Hillman",
-          "url": "https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Step on Out",
-      "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
     },
     {
       "added_at": "2020-08-05 15:52:11",

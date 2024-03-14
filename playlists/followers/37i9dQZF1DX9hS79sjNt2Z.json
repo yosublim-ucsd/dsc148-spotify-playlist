@@ -1,7 +1,7 @@
 {
-  "2024-03-13": 4471,
+  "2024-03-14": 4473,
   "date_first_scraped": "2022-06-02",
-  "description": "Easter songs for the whole family.",
+  "description": "Celebrate the Risen Savior with songs for the whole family.",
   "name": "Family Easter Worship",
   "tracks": [
     {
@@ -75,6 +75,24 @@
       "duration_ms": 119497,
       "name": "5 Little Bunnies",
       "url": "https://open.spotify.com/track/6tlpnSxi9lo0xGFlk6KGhS"
+    },
+    {
+      "album": {
+        "name": "The Gospel Project for Kids Vol. 9: Jesus The Savior",
+        "url": "https://open.spotify.com/album/5Rt6zfF75SDo2uiOjUDP4q"
+      },
+      "artists": [
+        {
+          "name": "Lifeway Kids Worship",
+          "url": "https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191755,
+      "name": "Alive Forever",
+      "url": "https://open.spotify.com/track/1LZZBIeWTItBLdxAe2ECp2"
     },
     {
       "album": {
@@ -161,7 +179,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 119759,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/46muM5gzyuEUVEirIpV3g7"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 157999,
       "name": "Christ the Lord Has Risen Today",
       "url": "https://open.spotify.com/track/1WPzTgmAbR9hBBTmL0ueqg"
@@ -766,6 +784,24 @@
     },
     {
       "album": {
+        "name": "Sunday School Songs",
+        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113013,
+      "name": "He's Got The Whole World",
+      "url": "https://open.spotify.com/track/2EKmcipc4bfMJjCzGnZupr"
+    },
+    {
+      "album": {
         "name": "Singin' Praise Tots Easter",
         "url": "https://open.spotify.com/album/15Hxq7h2c1bJIL81u8kjnK"
       },
@@ -1073,7 +1109,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 274722,
       "name": "Is He Worthy",
       "url": "https://open.spotify.com/track/3zR5JaOjCj45GpSP7UhtCV"
@@ -1099,6 +1135,28 @@
       "duration_ms": 284921,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/2k86OXY6wnSCgWdoJumgMO"
+    },
+    {
+      "album": {
+        "name": "Believe It",
+        "url": "https://open.spotify.com/album/0OJoZlzmq86SyIH5ec4VCa"
+      },
+      "artists": [
+        {
+          "name": "Gateway Kids Worship",
+          "url": "https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E"
+        },
+        {
+          "name": "Rebecca Brewer",
+          "url": "https://open.spotify.com/artist/0ZQA9R0eMLJhrmJV7V1C8Q"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267549,
+      "name": "It Is Finished",
+      "url": "https://open.spotify.com/track/2IOq1qsWG3WdN14cRdZIci"
     },
     {
       "album": {
@@ -1196,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "Bible Songs",
+        "url": "https://open.spotify.com/album/74ca4MQy3cfsZNyvNMpNTE"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132426,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/4RQHs94Y99QaGuYDzzSoSO"
+    },
+    {
+      "album": {
         "name": "Top 25 Kids' Praise Songs 2012",
         "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
       },
@@ -1207,7 +1283,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 178979,
       "name": "Jesus Loves Me",
       "url": "https://open.spotify.com/track/5u7GLDyCeMPcVsIUuN6Zvs"
@@ -1225,7 +1301,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 222312,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/1a0V3HFe90DLvRQhlznIIJ"
@@ -1531,7 +1607,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 284760,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/7gXv6onNoiWXfnpuHr7FRM"
@@ -1679,6 +1755,28 @@
       "duration_ms": 238624,
       "name": "See A Victory",
       "url": "https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH"
+    },
+    {
+      "album": {
+        "name": "SPARKLE. POP. RAMPAGE.",
+        "url": "https://open.spotify.com/album/278spUCAxNbIf5sVtQnike"
+      },
+      "artists": [
+        {
+          "name": "Rend Co. Kids",
+          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
+        },
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238093,
+      "name": "Story Of The Cross",
+      "url": "https://open.spotify.com/track/2i4xrOyaxhLUz6OHMhm1Jg"
     },
     {
       "album": {

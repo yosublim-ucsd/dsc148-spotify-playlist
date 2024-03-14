@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Dünya Kadınlar Günü'ne özel olarak <a href="spotify:artist:16GyR4WfCnIT2XST4ZLl2B">Melike Şahin</a> ile birlikte hazırlandı.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,135 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,179 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 50 | [Olmadı](https://open.spotify.com/track/6eQR18hNSA8xDPACFKR249) | [Ahsen Almaz](https://open.spotify.com/artist/45T95erfA76LEZM3uc2jbS) | [Olmadı](https://open.spotify.com/album/2wHRgqmrJO1cKhMUqWBTdW) | 2:31 |
 | 51 | [YANILIR](https://open.spotify.com/track/3iT0iGNqMDU7oXZMycLDSP) | [Merve Çalkan](https://open.spotify.com/artist/40nToqTbZUUXhFhx4zkbD3) | [YANILIR](https://open.spotify.com/album/3YLGX3nGMtSW9Hbv2eCexn) | 3:39 |
 | 52 | [Başka Yataklarda](https://open.spotify.com/track/7ufpHc4OSPwLN3KO0lOhTr) | [Eva Benır](https://open.spotify.com/artist/6KLBlzcPbk9ZzNDhRz6TNS) | [Başka Yataklarda](https://open.spotify.com/album/0XOp6wXfgT2EHYti4jqVRD) | 2:24 |
-| 53 | [Can Ağrısı](https://open.spotify.com/track/5cX0GwMg813JswM6jrEMer) | [Ayşen Birgör](https://open.spotify.com/artist/7lYlfDaMKte3nk3el4udhb) | [Can Ağrısı](https://open.spotify.com/album/55pe4SRBLQSEL48V9i5jGs) | 3:33 |
-| 54 | [Ne Halin Varsa Gör](https://open.spotify.com/track/3vGSpzRrq0YDBX2qqraCkV) | [Reyhan Karaca](https://open.spotify.com/artist/6wNvXCOkxIzJm2Y2kBuuBG) | [Ne Halin Varsa Gör](https://open.spotify.com/album/49Vcc0VlYUIxKbRHUJ16mN) | 3:12 |
-| 55 | [Kendine Bir Bak](https://open.spotify.com/track/5TyrniuEpKUHV1GR5lNqR6) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Kendine Bir Bak](https://open.spotify.com/album/14BfnJzSdW9J8iTYJm7nBa) | 2:46 |
-| 56 | [İs ve Duman](https://open.spotify.com/track/08APAJjf8yLdEozKXyKn4W) | [Ömür Gedik](https://open.spotify.com/artist/3Fnj0gjfxDYyjIZchYWcrg) | [İs ve Duman](https://open.spotify.com/album/3Q95bapH5toe8gugWDl1jP) | 2:43 |
-| 57 | [Zararı Yok](https://open.spotify.com/track/7BHLwXMZU9wnw0lMyLkxYt) | [Ayben](https://open.spotify.com/artist/4B744cRUGT2IOu9Uuh7Ad7) | [Zararı Yok](https://open.spotify.com/album/6dZfHbyMI3p7vncbQrRYPq) | 2:49 |
-| 58 | [Güneyde Bir Yere](https://open.spotify.com/track/275gT7cdHhn0A7eMMB59yS) | [Duygu Soylu](https://open.spotify.com/artist/4rGbEwbyxCn54KVvV589AY) | [Güneyde Bir Yere](https://open.spotify.com/album/60L3Wo9kpHdelS1Qfl0Kap) | 3:11 |
-| 59 | [Fasulye](https://open.spotify.com/track/3X0tC2WVx69h5BhcJdD9nw) | [Yudum](https://open.spotify.com/artist/4ULqAWicJ43wWH7rawCcwq) | [Fasulye](https://open.spotify.com/album/5h2GSS1RcFuEfnbdKojQIr) | 2:59 |
-| 60 | [Unut Beni](https://open.spotify.com/track/2EVwMX9lLIiplfbu771QRd) | [Duygu Kutlu](https://open.spotify.com/artist/5VOpKGCsAEtjs8oy1mle9o) | [Unut Beni](https://open.spotify.com/album/5sBY87oXaBB77J8durRbQc) | 4:17 |
+| 53 | [Ne Halin Varsa Gör](https://open.spotify.com/track/3vGSpzRrq0YDBX2qqraCkV) | [Reyhan Karaca](https://open.spotify.com/artist/6wNvXCOkxIzJm2Y2kBuuBG) | [Ne Halin Varsa Gör](https://open.spotify.com/album/49Vcc0VlYUIxKbRHUJ16mN) | 3:12 |
+| 54 | [Kendine Bir Bak](https://open.spotify.com/track/5TyrniuEpKUHV1GR5lNqR6) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Kendine Bir Bak](https://open.spotify.com/album/14BfnJzSdW9J8iTYJm7nBa) | 2:46 |
+| 55 | [İs ve Duman](https://open.spotify.com/track/08APAJjf8yLdEozKXyKn4W) | [Ömür Gedik](https://open.spotify.com/artist/3Fnj0gjfxDYyjIZchYWcrg) | [İs ve Duman](https://open.spotify.com/album/3Q95bapH5toe8gugWDl1jP) | 2:43 |
+| 56 | [Zararı Yok](https://open.spotify.com/track/7BHLwXMZU9wnw0lMyLkxYt) | [Ayben](https://open.spotify.com/artist/4B744cRUGT2IOu9Uuh7Ad7) | [Zararı Yok](https://open.spotify.com/album/6dZfHbyMI3p7vncbQrRYPq) | 2:49 |
+| 57 | [Güneyde Bir Yere](https://open.spotify.com/track/275gT7cdHhn0A7eMMB59yS) | [Duygu Soylu](https://open.spotify.com/artist/4rGbEwbyxCn54KVvV589AY) | [Güneyde Bir Yere](https://open.spotify.com/album/60L3Wo9kpHdelS1Qfl0Kap) | 3:11 |
+| 58 | [Fasulye](https://open.spotify.com/track/3X0tC2WVx69h5BhcJdD9nw) | [Yudum](https://open.spotify.com/artist/4ULqAWicJ43wWH7rawCcwq) | [Fasulye](https://open.spotify.com/album/5h2GSS1RcFuEfnbdKojQIr) | 2:59 |
+| 59 | [Unut Beni](https://open.spotify.com/track/2EVwMX9lLIiplfbu771QRd) | [Duygu Kutlu](https://open.spotify.com/artist/5VOpKGCsAEtjs8oy1mle9o) | [Unut Beni](https://open.spotify.com/album/5sBY87oXaBB77J8durRbQc) | 4:17 |
 
-Snapshot ID: `MCw1ZjQxNmQyZWNiNzYzZTMyNzhjMGEzMjkzNmFiYmFiOTAyNWFmMmQ4`
+Snapshot ID: `MCxkZTBmMjA4Y2RiZmEwYTlkYjI0MDZjZDNmYzFkZjQ5YTY0N2UyNGVi`

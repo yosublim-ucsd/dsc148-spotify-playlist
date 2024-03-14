@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 147499,
+  "2024-03-14": 147786,
   "date_first_scraped": "2021-12-21",
   "description": "The hottest new pop with all the drops. Cover: Minelli",
   "name": "New Dance Pop",
@@ -4641,7 +4641,7 @@
     {
       "album": {
         "name": "Drive (feat. Georgia Meek)",
-        "url": "https://open.spotify.com/album/28fckifZVmEObvhrpBRMIb"
+        "url": "https://open.spotify.com/album/2rz3deCgGlFinus4i1ilvT"
       },
       "artists": [
         {
@@ -4660,6 +4660,32 @@
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137559,
+      "name": "Drive (feat. Georgia Meek)",
+      "url": "https://open.spotify.com/track/0Qgf1Zy2J5GeKgDZErD5jl"
+    },
+    {
+      "album": {
+        "name": "Drive (feat. Georgia Meek)",
+        "url": "https://open.spotify.com/album/28fckifZVmEObvhrpBRMIb"
+      },
+      "artists": [
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "PS1",
+          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
+        },
+        {
+          "name": "Georgia Meek",
+          "url": "https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-13",
       "duration_ms": 137559,
       "name": "Drive (feat. Georgia Meek)",
       "url": "https://open.spotify.com/track/10qSgOI0fDaqnv201OVXxW"

@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2033641,
+  "num_followers": 2033684,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQ1MzgsMjQ2NGU4MDFiYzFhMTE5NGM0MzA5YmNmZTZjMTljYzM4MmU2Y2IwZA==",
+  "snapshot_id": "MTQ1NDIsOGFhYjRhMzIxMTI2NjVlYmE5ZWM4ZGE4NDY2MjkzNTA0NjgyNDE2ZQ==",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -793,26 +793,6 @@
       "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
     },
     {
-      "added_at": "2024-02-07 17:39:31",
-      "album": {
-        "name": "Burning Wish",
-        "url": "https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Roniit",
-          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
-        }
-      ],
-      "duration_ms": 153557,
-      "name": "Burning Wish",
-      "url": "https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js"
-    },
-    {
       "added_at": "2024-02-02 19:44:53",
       "album": {
         "name": "Sexy Back",
@@ -1003,6 +983,50 @@
       "duration_ms": 102105,
       "name": "PLUS VIBE",
       "url": "https://open.spotify.com/track/2tYFO2XyxoHkimTJ9AQsM6"
+    },
+    {
+      "added_at": "2024-03-13 23:11:04",
+      "album": {
+        "name": "F*ck",
+        "url": "https://open.spotify.com/album/7eeap4wOpwBXK2pe78HMGk"
+      },
+      "artists": [
+        {
+          "name": "Mandrazo",
+          "url": "https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0"
+        },
+        {
+          "name": "sebabrazy",
+          "url": "https://open.spotify.com/artist/2lqxkxCk1iXBOOI9EH3ur0"
+        },
+        {
+          "name": "Kiyashqo",
+          "url": "https://open.spotify.com/artist/13m70A1sL3JXe8ZhRougy5"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "F*ck",
+      "url": "https://open.spotify.com/track/0e7QrydNDrJGRxXvdRUIZf"
+    },
+    {
+      "added_at": "2024-03-13 23:11:26",
+      "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/7iCI4tsViC7Kefaf3rtmKK"
+      },
+      "artists": [
+        {
+          "name": "Crushed Candy",
+          "url": "https://open.spotify.com/artist/14eHJcsWsxWq4UjaXBvmJ1"
+        },
+        {
+          "name": "Frizzy The Streetz",
+          "url": "https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ"
+        }
+      ],
+      "duration_ms": 160588,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/2Ci4ObLzjiFT1U1y346Nui"
     },
     {
       "added_at": "2024-01-29 22:53:51",

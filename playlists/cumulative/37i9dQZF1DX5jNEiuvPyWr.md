@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : mademoiselle lou
 
-358 songs - 17 hr 38 min
+360 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [Perdu d'avance](https://open.spotify.com/track/1kXMucU97he5tcBgCR5o4v) | [Ramses](https://open.spotify.com/artist/5v2PdLR4Jcs31CC1GJIA78) | [Perdu d'avance](https://open.spotify.com/album/5gQLcjIumwemTPdbTv79ik) | 2:54 | 2022-09-08 | 2022-11-18 |
 | [PERDU SANS TOI](https://open.spotify.com/track/5Aeb85aDLZH4DuMGnMikAZ) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [TOUT VA BIEN](https://open.spotify.com/album/22CKc4qEluGxJ5Rq7XscZS) | 3:36 | 2023-12-08 | 2024-01-19 |
 | [Personally](https://open.spotify.com/track/2Tb1mxu6uMSRp0dEg4bRXq) | [Yams](https://open.spotify.com/artist/0wEDL8w6Yy6ti1IGW2Yy40) | [Personally](https://open.spotify.com/album/7mPSdLufQXnjcH3PjqYs47) | 3:13 | 2023-02-09 | 2023-02-24 |
-| [Perte de temps](https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:09 | 2023-12-14 |  |
+| [Perte de temps](https://open.spotify.com/track/0d43G0wDcCtUvvYOMOF7O9) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [L'enfant de la pluie](https://open.spotify.com/album/7ppBSJ1F7MBfqRdHoPUipx) | 3:09 | 2024-03-07 |  |
+| [Perte de temps](https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:09 | 2023-12-14 | 2024-03-14 |
 | [Piano Black](https://open.spotify.com/track/0MRPmZVCxKAf5HSaglBoDV) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 4:04 | 2022-07-14 | 2022-07-29 |
 | [Piano Black](https://open.spotify.com/track/5HUjQGeA8sTTCmmWC3hAg7) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 4:05 | 2022-07-28 | 2022-11-04 |
 | [Pièces manquantes](https://open.spotify.com/track/5qo6jFaycYDFdMxoSz5NWA) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [High & Fines Herbes – Édition 420](https://open.spotify.com/album/6qu28HganG8uPu79hCSrle) | 3:15 | 2023-07-27 | 2023-10-06 |
@@ -332,7 +333,8 @@
 | [Sur ma vie](https://open.spotify.com/track/6VJu3MOUWNlJhLp2QvvShl) | [Bakari](https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33) | [Sur ma vie](https://open.spotify.com/album/37NDtMlLsm4h2hqhDbzg0m) | 3:13 | 2022-12-22 | 2023-04-14 |
 | [SUR MOI](https://open.spotify.com/track/5Sgg3gfCdVxcDZGooilVYk) | [TLZ Clan](https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp) | [WEARELOCKED](https://open.spotify.com/album/2cY3RGh1nN2yU4NtjTV6pn) | 2:53 | 2024-01-11 | 2024-02-23 |
 | [Survie](https://open.spotify.com/track/19uvmgboe6YrLBsIENp0bf) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1) | [Survie](https://open.spotify.com/album/2wkz1N1u5P9c8EvHv8tzDC) | 2:50 | 2022-11-17 | 2023-03-18 |
-| [Suspects](https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:29 | 2023-12-08 |  |
+| [Suspects](https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:29 | 2023-12-08 | 2024-03-14 |
+| [Suspects](https://open.spotify.com/track/6jOhtafCN3YPTJ1vL4HyLO) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [L'enfant de la pluie](https://open.spotify.com/album/7ppBSJ1F7MBfqRdHoPUipx) | 3:29 | 2024-03-07 |  |
 | [Synopsis](https://open.spotify.com/track/1bMGTZTAeM3FO6Y4V7Hj6y) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Synopsis](https://open.spotify.com/album/3c3EKhBjT67KGlOX5Cs7X1) | 2:22 | 2023-04-13 | 2023-06-16 |
 | [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 | 2023-10-26 | 2023-11-24 |
 | [Tapion](https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Tapion](https://open.spotify.com/album/0aOEqCwX0R9fr9vpdXIdEA) | 3:17 | 2022-07-14 | 2022-10-21 |

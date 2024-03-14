@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 4741,
+  "num_followers": 4740,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWY5MTliNjI4MWUzZmQwOGMyNWU4Mzc3ZWFjOTFlNWQ5MGQ3ODg3",
+  "snapshot_id": "MCw3M2ZiYWQ5OGMxMzMzY2U3YTA4MzZhMTFhZThlNzlmMDZmZDZhNjIz",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -609,6 +609,22 @@
       "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
     },
     {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Give It Time",
+        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Honestly, We Just Need Jesus",
+      "url": "https://open.spotify.com/track/4tBmvwXJKaxi8pWyBWMwT8"
+    },
+    {
       "added_at": "2023-11-17 00:01:00",
       "album": {
         "name": "No Longer Bound (I'm Free)",
@@ -631,22 +647,6 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Give It Time",
-        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "Honestly, We Just Need Jesus",
-      "url": "https://open.spotify.com/track/4tBmvwXJKaxi8pWyBWMwT8"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -937,20 +937,20 @@
       "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
     },
     {
-      "added_at": "2024-01-19 00:01:00",
+      "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/1DdKZXJOtsK4N1YKMcGN9f"
+        "name": "Umusirikare",
+        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
       },
       "artists": [
         {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+          "name": "Israel Mbonyi",
+          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
         }
       ],
-      "duration_ms": 214932,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl"
+      "duration_ms": 670000,
+      "name": "Nina Siri",
+      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
     }
   ],
   "unique_name": "Sunday Service",

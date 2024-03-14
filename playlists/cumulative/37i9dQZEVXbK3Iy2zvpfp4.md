@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-1,900 songs - 4 day 0 hr 44 min
+1,901 songs - 4 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-03-25 | 2023-04-06 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-06-09 | 2022-06-15 |
 | [about u](https://open.spotify.com/track/5zLGJENQMphktQdZ1qipP4) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [about u](https://open.spotify.com/album/1YHRqOs5yxMvHVX69bJuxv) | 3:14 | 2022-11-03 | 2022-11-11 |
+| [Acid Cry](https://open.spotify.com/track/6cP6IST6zj0sPIDOjmA1JZ) | [Distorted Dreams](https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO) | [Acid Cry](https://open.spotify.com/album/1mDhi4pdNILU4hxVBWTiAa) | 2:25 | 2024-03-13 |  |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-04 | 2024-02-21 |
 | [act ii: date @ 8](https://open.spotify.com/track/3V61OemfXgsHhb50Hrt1lT) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/1ETvjtV2nNaBjYIvY6E01c) | 1:53 | 2024-01-19 | 2024-01-24 |
 | [Adieu](https://open.spotify.com/track/56SLMIzWKrEOWIQ5LCzKXV) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:38 | 2022-12-02 | 2022-12-04 |
@@ -661,7 +662,7 @@
 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-06-19 | 2022-07-20 |
 | [Hell’s Greatest Dad](https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:13 | 2024-02-14 | 2024-03-06 |
 | [Hell’s Greatest Dad](https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA) | [Hazbin Hotel Original Soundtrack \(Part 2\)](https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis) | 2:13 | 2024-02-13 | 2024-02-15 |
-| [HENN \(SANDELA\)](https://open.spotify.com/track/70EqnZ68XyFO16FkSEidUJ) | [Bazsi](https://open.spotify.com/artist/7IvNSZxcwOVm9Sn8z4y1k4) | [HENN \(SANDELA\)](https://open.spotify.com/album/4AKT0vHVHrEJwLizOVJkps) | 2:57 | 2024-03-06 |  |
+| [HENN \(SANDELA\)](https://open.spotify.com/track/70EqnZ68XyFO16FkSEidUJ) | [Bazsi](https://open.spotify.com/artist/7IvNSZxcwOVm9Sn8z4y1k4) | [HENN \(SANDELA\)](https://open.spotify.com/album/4AKT0vHVHrEJwLizOVJkps) | 2:57 | 2024-03-06 | 2024-03-14 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-27 | 2023-02-15 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-30 | 2023-01-18 |
 | [Hey Ya!](https://open.spotify.com/track/15wO9y2WmgBdGqk0uePng2) | [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Hey Ya!](https://open.spotify.com/album/0tRuBWwzAbhQg2bG8ZAhIi) | 3:08 | 2024-01-23 | 2024-01-26 |

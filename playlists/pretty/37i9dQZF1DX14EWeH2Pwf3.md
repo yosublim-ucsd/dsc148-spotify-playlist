@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Fabri Fibra, Emma, Baby Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,483 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,692 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Milkshake \(feat\. Slings\)](https://open.spotify.com/track/4cXeddjuV6IugeXXl6jlGG) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [Milkshake \(feat\. Slings\)](https://open.spotify.com/album/6hVkaUOaMJKbCJfINMG8jB) | 2:24 |
 | 50 | [Due principi \(feat\. Emis Killa\)](https://open.spotify.com/track/5YdpLxge3UzTHymkQ6XCf4) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:31 |
 
-Snapshot ID: `MCxlMDM4MDk5YTQ4ODMwNTQ3YmNhZTg0ZGNhOGFjNTg4MGU5NWNlYjY1`
+Snapshot ID: `MCw2MmZmNTdlY2Y3MzU3NzIxMDQzMzZlZGFjMjg2Mzg3MjYxYmJkOTdh`

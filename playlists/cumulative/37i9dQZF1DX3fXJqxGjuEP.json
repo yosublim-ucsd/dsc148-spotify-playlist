@@ -720,6 +720,24 @@
     {
       "album": {
         "name": "Amapola",
+        "url": "https://open.spotify.com/album/2HSmF2WgfCh78aKjTdouGd"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162127,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/6z1SwjA8rwq3us02vNucJ0"
+    },
+    {
+      "album": {
+        "name": "Amapola",
         "url": "https://open.spotify.com/album/1BFEgNcj4per8cDrlkp6Az"
       },
       "artists": [
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 231275,
       "name": "Espiritual",
       "url": "https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ"

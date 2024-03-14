@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 67 | [Let It Snow \- Music Box Version](https://open.spotify.com/track/2rVNiCBvPNANf8kHiF9Do9) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [My Christmas Music Box](https://open.spotify.com/album/51VlCVsag9ouzitxEWeNZA) | 1:44 |
 | 68 | [Christmas Time Is Here](https://open.spotify.com/track/75xFqTnnt6CHlA7uepdaq7) | [Anne Smiles](https://open.spotify.com/artist/5xaqXD0Vd23LiE0p2JuOAk) | [Christmas For Babies](https://open.spotify.com/album/72qYhU9LQKZ706uq6n32bO) | 1:19 |
 
-Snapshot ID: `MCwzZTY0OWU3MzQwY2I5MDM2MmIxZjNjMmY3Y2Y4ODRmZjdhMWMzNjYx`
+Snapshot ID: `MCwwNzE4NjA0NWYwOTEzNmQ4OGI2NTRjZGI4NmQ3NWRhMmE2NDM5NTJi`

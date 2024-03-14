@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 114942,
+  "num_followers": 114983,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWEyMzljZmY2MzYxODg5NzFmYjI0NDYxNmIwNGMyY2E4ZTE1MzE3",
+  "snapshot_id": "MCw0YmVmMWY5OGNjYjQwOGU2ZWZiN2YyYmJmYTMzNWNhOGVlNTQ2NzRi",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Reggaechanga",
-        "url": "https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G"
-      },
-      "artists": [
-        {
-          "name": "Nando Boom",
-          "url": "https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko"
-        }
-      ],
-      "duration_ms": 227448,
-      "name": "Noche Enferma",
-      "url": "https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Planet Reggae",
         "url": "https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 181600,
       "name": "Transformer",
       "url": "https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Reggaechanga",
+        "url": "https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G"
+      },
+      "artists": [
+        {
+          "name": "Nando Boom",
+          "url": "https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko"
+        }
+      ],
+      "duration_ms": 227448,
+      "name": "Noche Enferma",
+      "url": "https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -859,18 +859,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Soy El Mas Sensual - Renato Classics",
-        "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
+        "name": "Playero 38 Special Edition",
+        "url": "https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha"
       },
       "artists": [
         {
-          "name": "Renato",
-          "url": "https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn"
+          "name": "Grupo Nizze",
+          "url": "https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm"
         }
       ],
-      "duration_ms": 210240,
-      "name": "Soy El Mas Sensual",
-      "url": "https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1"
+      "duration_ms": 141200,
+      "name": "Puerto Rico Todos Quieren Fumar",
+      "url": "https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -891,18 +891,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero 38 Special Edition",
-        "url": "https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha"
+        "name": "Soy El Mas Sensual - Renato Classics",
+        "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
       },
       "artists": [
         {
-          "name": "Grupo Nizze",
-          "url": "https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm"
+          "name": "Renato",
+          "url": "https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Puerto Rico Todos Quieren Fumar",
-      "url": "https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp"
+      "duration_ms": 210240,
+      "name": "Soy El Mas Sensual",
+      "url": "https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+      },
+      "artists": [
+        {
+          "name": "Falo",
+          "url": "https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Encendio",
+      "url": "https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 190266,
       "name": "Alza la Mano Si Te Gusta Fumar",
       "url": "https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
-      },
-      "artists": [
-        {
-          "name": "Falo",
-          "url": "https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Encendio",
-      "url": "https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp"
     }
   ],
   "unique_name": "Reggaeton: El Inicio",

@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Bryan Behr, DUDA BEAT",
-  "num_followers": 434130,
+  "num_followers": 434169,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODliNjEyOGRiZDA5MWViZjE3NDQwOTEwZWJlYTIyODhkNTNmMzcx",
+  "snapshot_id": "MCwxMjBkMmIwMTA5Y2Y3YzJkNWUxZmM3ZDBhZjJjMzI1ZDI4M2M5OWJh",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Quase Amor",
         "url": "https://open.spotify.com/album/3WGeOlYSDU8mYhWsz2wWcp"
       },
@@ -275,18 +291,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
       },
       "artists": [
         {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -307,22 +323,6 @@
       "duration_ms": 163240,
       "name": "Mela\u00e7o",
       "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -427,26 +427,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Pecadinho",
-        "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
+        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
       "artists": [
         {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         },
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "Duda Brack",
-          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Pecadinho",
-      "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
+      "duration_ms": 230772,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -467,22 +463,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
+        "name": "Pecadinho",
+        "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
         },
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
         }
       ],
-      "duration_ms": 230772,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+      "duration_ms": 126000,
+      "name": "Pecadinho",
+      "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -523,6 +523,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
+      },
+      "artists": [
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "A Gente Tem Tudo a Ver",
+      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Cortejo",
         "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
@@ -559,42 +579,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
-      },
-      "artists": [
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "A Gente Tem Tudo a Ver",
-      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "LIVRE",
-        "url": "https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr"
-      },
-      "artists": [
-        {
-          "name": "Wanessa Camargo",
-          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
-        }
-      ],
-      "duration_ms": 195989,
-      "name": "S\u00f3 Respira",
-      "url": "https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Cear\u00e1",
         "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 163815,
       "name": "Juntin",
       "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "LIVRE",
+        "url": "https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr"
+      },
+      "artists": [
+        {
+          "name": "Wanessa Camargo",
+          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
+        }
+      ],
+      "duration_ms": 195989,
+      "name": "S\u00f3 Respira",
+      "url": "https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Samba Azul",
-        "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 182004,
-      "name": "Samba Azul",
-      "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Quando isso vai passar?",
         "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 156466,
       "name": "Quando isso vai passar?",
       "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Samba Azul",
+        "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 182004,
+      "name": "Samba Azul",
+      "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -931,42 +931,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "N\u00e3o Me Chame Mais De Ex",
-        "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        },
-        {
-          "name": "Kamilla Maria",
-          "url": "https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c"
-        }
-      ],
-      "duration_ms": 148330,
-      "name": "N\u00e3o Me Chame Mais De Ex",
-      "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL"
       },
@@ -991,6 +955,42 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "N\u00e3o Me Chame Mais De Ex",
+        "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        },
+        {
+          "name": "Kamilla Maria",
+          "url": "https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c"
+        }
+      ],
+      "duration_ms": 148330,
+      "name": "N\u00e3o Me Chame Mais De Ex",
+      "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Montanha Russa",
         "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 170965,
       "name": "Montanha Russa",
       "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Beijos de artif\u00edcio",
+        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 232331,
+      "name": "Beijos de artif\u00edcio",
+      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 215000,
       "name": "Como Tinha Que Ser",
       "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Beijos de artif\u00edcio",
-        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 232331,
-      "name": "Beijos de artif\u00edcio",
-      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "MELODRAM\u00c1TICO",
-        "url": "https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 157565,
-      "name": "Desfa\u00e7o",
-      "url": "https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Quero Bem Mais",
         "url": "https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 197052,
       "name": "Quero Bem Mais",
       "url": "https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "MELODRAM\u00c1TICO",
+        "url": "https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "Desfa\u00e7o",
+      "url": "https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1407,22 +1407,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Desejos",
-        "url": "https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9"
+        "name": "Eu N\u00e3o Gosto De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2khNdKDOcnbwH2mKP2oKVx"
       },
       "artists": [
         {
-          "name": "Bufal\u00f4",
-          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         },
         {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Desejos",
-      "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
+      "duration_ms": 170385,
+      "name": "Eu N\u00e3o Gosto De Voc\u00ea",
+      "url": "https://open.spotify.com/track/3Og1pv5olDQgQrydmgnaEA"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1443,6 +1447,26 @@
       "duration_ms": 201792,
       "name": "No Azul do Teu Olhar",
       "url": "https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Desejos",
+        "url": "https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9"
+      },
+      "artists": [
+        {
+          "name": "Bufal\u00f4",
+          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Desejos",
+      "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1479,22 +1503,6 @@
       "duration_ms": 175200,
       "name": "Ana Rosa",
       "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Amanheceu Assim",
-        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9fano Ferraz",
-          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
-        }
-      ],
-      "duration_ms": 204935,
-      "name": "Amanheceu Assim",
-      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
     },
     {
       "added_at": "2024-03-08 03:00:00",

@@ -2,7 +2,7 @@
 
 ### [In the Name of the Blues: Walter Trout Takeover](https://open.spotify.com/playlist/37i9dQZF1DXcnkReojaCnV)
 
-> <a href="spotify:artist:12LgviUQ9DbfYJJ9niDWRq>Walter Trout</a> is taking over to share his blues favorites
+> <a href="spotify:artist:12LgviUQ9DbfYJJ9niDWRq">Walter Trout</a> is taking over to share his blues favorites
 
 336 songs - 22 hr 41 min
 

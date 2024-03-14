@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Leina
 
-1,460 songs - 3 day 16 hr 36 min
+1,463 songs - 3 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,8 @@
 | [Hitono Katachi](https://open.spotify.com/track/04HdAkdqkHsxE6g4pCtKvx) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Limre](https://open.spotify.com/album/5CK1FaKsSogYM6ufKrUcv3) | 2:27 | 2022-08-06 | 2022-10-05 |
 | [Hokoronde Hazereba](https://open.spotify.com/track/1oBxcP18dseo8fUfC1Aya5) | [Sokoninaru](https://open.spotify.com/artist/01XDGcFHJd4v02CN2tuMGF) | [soumonka](https://open.spotify.com/album/3Pouyk2DDjYXqJ2P4p6zRf) | 3:05 | 2024-02-14 |  |
 | [HOLD ME](https://open.spotify.com/track/3sQLUPCxwuKGalHkJq1x32) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/5AtZuvYmwLB1PRAMcg8g1X) | 3:12 | 2023-10-12 | 2023-11-29 |
-| [Hollywood](https://open.spotify.com/track/3aOVI6YoZNX2FPE6rFcGZK) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Hollywood](https://open.spotify.com/album/3uB0fMFMUDkp9TfS95APsi) | 4:00 | 2024-03-12 |  |
+| [Hollywood](https://open.spotify.com/track/1aD8qLixfwBmfawlUCeljB) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Hollywood](https://open.spotify.com/album/7EEjDfSaXq3IvVsVsx5U3D) | 4:00 | 2024-03-12 |  |
+| [Hollywood](https://open.spotify.com/track/3aOVI6YoZNX2FPE6rFcGZK) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Hollywood](https://open.spotify.com/album/3uB0fMFMUDkp9TfS95APsi) | 4:00 | 2024-03-12 | 2024-03-14 |
 | [Holmes](https://open.spotify.com/track/6f09fSN8QvkGVWYtHkKQtX) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [夢を叶える旅](https://open.spotify.com/album/44GDDN5PokE3t0QUU0r6vO) | 3:39 | 2022-11-29 | 2023-01-13 |
 | [Holy Night](https://open.spotify.com/track/6ELmWMFxDS4GpUuNv753mG) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Holy Night](https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam) | 3:52 | 2023-12-12 | 2024-01-11 |
 | [HOMEWORK](https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [HOMEWORK](https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG) | 2:51 | 2022-08-23 | 2022-09-21 |
@@ -408,6 +409,7 @@
 | [Koi wo surunara](https://open.spotify.com/track/0Q44C4Nr2QbiwFuam0qpgD) | [Taketombo](https://open.spotify.com/artist/2a0Pq2wS2V2vWb52JWR7JW) | [TAKETOMBO](https://open.spotify.com/album/7MBwomQdtXmv6cO6DVa1Jr) | 4:49 | 2022-07-28 | 2022-08-17 |
 | [Kokoro](https://open.spotify.com/track/5oGi5k0lEGM5Akm8zyBfJ2) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Kokoro](https://open.spotify.com/album/0SCTqTl7d70z4t0Fgrjyw6) | 4:41 | 2022-09-08 | 2022-10-12 |
 | [Konasu](https://open.spotify.com/track/3Y20L4awtBhLLYYINVxEjl) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Konasu](https://open.spotify.com/album/7pDXspq2BUAehCgmLadAUX) | 3:46 | 2022-10-18 | 2022-11-16 |
+| [Kuchibiruwo Mikatani \-Sing Sing Sing\-](https://open.spotify.com/track/4j99gDJQHea3LoKEUGtuD5) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Kuchibiruwo Mikatani \-Sing Sing Sing\-](https://open.spotify.com/album/32oprAeoBskqxvlYUMp2vI) | 4:26 | 2024-03-12 |  |
 | [KUSENINARU](https://open.spotify.com/track/0PqYyAaYsokYAhZDdf9B7M) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [KUSENINARU](https://open.spotify.com/album/0qlxMNfpJFDbWnPBsxuxuI) | 3:26 | 2022-12-22 | 2023-01-13 |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-14 | 2023-06-09 |
 | [Ladder Lottery](https://open.spotify.com/track/5RlDY900FPy0SPd77PCxhP) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Ladder Lottery](https://open.spotify.com/album/6JvkDaCryLnjhr79T2fP6U) | 3:31 | 2022-12-06 | 2023-01-13 |
@@ -720,6 +722,7 @@
 | [Stray cat](https://open.spotify.com/track/6bYR2lMuyD0HUkgXo03yLy) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Stray cat](https://open.spotify.com/album/7K1R46LGMuh0Vr7XBX35iD) | 2:35 | 2022-10-11 | 2022-11-16 |
 | [Sugar](https://open.spotify.com/track/3zyq4nGYgTYNHcp3vXP58R) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [菅原圭](https://open.spotify.com/artist/6QOnk7zoSFeg8ysHCUAOA8) | [Sugar](https://open.spotify.com/album/3f2Odv10uR5PgTLvDBdn5v) | 1:31 | 2022-05-12 | 2022-06-01 |
 | [Sugar Magic](https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Sugar Magic](https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF) | 3:55 | 2022-10-25 | 2023-02-15 |
+| [Sukideshita.](https://open.spotify.com/track/458E7acH1K8c5wx8AYAnVi) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/7kmoVx9z1qTqZSN4B4svCJ) | 4:10 | 2024-03-12 |  |
 | [Sukijanaiyo](https://open.spotify.com/track/23AdLPEUScszzqA51mU6wq) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Sukijanaiyo](https://open.spotify.com/album/6ZkWBopcFVcuB2K8Gxj8r7) | 4:48 | 2022-12-06 | 2023-02-08 |
 | [Summer Ends](https://open.spotify.com/track/3g8qRMTfUJ8zUUisdzmRfh) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [Summer Ends](https://open.spotify.com/album/1KqJUE3wJ7cB0JLXJiJIJs) | 4:51 | 2022-09-13 | 2022-10-05 |
 | [summer magic](https://open.spotify.com/track/0Ho6R2SLilYWwABq2jvjDy) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Peggy Doll](https://open.spotify.com/artist/7enIQp3MHjqkOLVAXvcwDs) | [summer magic](https://open.spotify.com/album/18UK124C27nPnkqSuTKkVq) | 3:52 | 2022-08-02 | 2022-10-12 |
@@ -1196,7 +1199,7 @@
 | [君の街まで](https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [君の街まで](https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR) | 3:18 | 2023-07-25 | 2023-07-27 |
 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 | 2023-05-23 | 2023-06-14 |
 | [咆哮を定め](https://open.spotify.com/track/2HJp2R4i2kpIuTJs2hvSMb) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [遥か鳥は大空を征く](https://open.spotify.com/album/1LEzPz2Sc5De5BsORfz7bV) | 2:55 | 2022-05-17 | 2022-06-22 |
-| [唇を味方に \-Sing Sing Sing\-](https://open.spotify.com/track/3UZEz7DnXN8Mt1do14lHwG) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [唇を味方に \-Sing Sing Sing\-](https://open.spotify.com/album/0N0cgqlRT1SsaGui8wpuzr) | 4:26 | 2024-03-12 |  |
+| [唇を味方に \-Sing Sing Sing\-](https://open.spotify.com/track/3UZEz7DnXN8Mt1do14lHwG) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [唇を味方に \-Sing Sing Sing\-](https://open.spotify.com/album/0N0cgqlRT1SsaGui8wpuzr) | 4:26 | 2024-03-12 | 2024-03-14 |
 | [嘘だって](https://open.spotify.com/track/74zMAaCvLN676H91h1R9k6) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [嘘だって](https://open.spotify.com/album/6nVWOqetgZiIWuqIW0WIxu) | 3:32 | 2023-06-06 | 2023-08-09 |
 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 | 2024-01-10 | 2024-02-07 |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-14 | 2022-08-10 |
@@ -1232,7 +1235,7 @@
 | [太陽](https://open.spotify.com/track/7aRxiKCYo9xsF96roJNco2) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [太陽](https://open.spotify.com/album/5MfsRSyPjJ5BcufN5r6LEO) | 3:29 | 2022-08-23 | 2022-08-25 |
 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2022-12-13 | 2023-03-01 |
 | [好きじゃないよ](https://open.spotify.com/track/78DFLwlpzVK18X0R98EGxI) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [好きじゃないよ](https://open.spotify.com/album/7DfdMpuTahzyay7oYmqueS) | 4:48 | 2022-12-06 | 2022-12-08 |
-| [好きでした。](https://open.spotify.com/track/588cVGxOSFqg8HnlGE6IDI) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/3idoCaumlMNXdS1suAEnpH) | 4:10 | 2024-03-12 |  |
+| [好きでした。](https://open.spotify.com/track/588cVGxOSFqg8HnlGE6IDI) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/3idoCaumlMNXdS1suAEnpH) | 4:10 | 2024-03-12 | 2024-03-14 |
 | [好きなものは手のひらの中](https://open.spotify.com/track/3FrwPF0EFJFLE9yVprrbd5) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [好きなものは手のひらの中](https://open.spotify.com/album/1rCQBrvCaa54giOkANP59K) | 2:54 | 2023-02-01 | 2023-03-01 |
 | [好きなように](https://open.spotify.com/track/3tLyaiz0o1oKcibp8NaZK3) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [好きなように](https://open.spotify.com/album/6vvPUBVIrAEPXB9nkrhmsX) | 3:15 | 2023-03-21 | 2023-04-05 |
 | [嫌でもね](https://open.spotify.com/track/0vMirJzqc32hw8gzMISrga) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [嫌でもね](https://open.spotify.com/album/0ENL0kl70GDim5FzZk9vQj) | 3:06 | 2022-04-28 | 2022-05-18 |

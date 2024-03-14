@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 180527,
       "name": "Paris",
       "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
@@ -1016,6 +1016,28 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "album": {
+        "name": "Still the One",
+        "url": "https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2"
+      },
+      "artists": [
+        {
+          "name": "DJ Noiz",
+          "url": "https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK"
+        },
+        {
+          "name": "Mikey Mayz",
+          "url": "https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139166,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8"
     },
     {
       "album": {

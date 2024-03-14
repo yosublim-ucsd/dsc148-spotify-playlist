@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16144,
+  "num_followers": 16166,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNThkZDRjMDVjY2RhYmE3YTk4ZmI0OTI3ODA0NzcwY2I5ZTNkMGI5",
+  "snapshot_id": "MCw0N2I5NTQ1ZTQzZmE2MWFjNTYzNzVkM2QwNThhMzJkMmJlMGNlYjll",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -95,30 +95,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
-        "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
-      },
-      "artists": [
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        },
-        {
-          "name": "Dinho",
-          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
-        },
-        {
-          "name": "Mahal Pita",
-          "url": "https://open.spotify.com/artist/13KepZHhR84vbrcLPVtmEF"
-        }
-      ],
-      "duration_ms": 196383,
-      "name": "Jovinho",
-      "url": "https://open.spotify.com/track/03sHFROBP18Wr2NayNAj6Q"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Unic\u00f3rnio",
         "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
       },
@@ -143,6 +119,30 @@
       "duration_ms": 175543,
       "name": "Online",
       "url": "https://open.spotify.com/track/6q0eaSM4WDEHavJ9BSbIfq"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
+        "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        },
+        {
+          "name": "Dinho",
+          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
+        },
+        {
+          "name": "Mahal Pita",
+          "url": "https://open.spotify.com/artist/13KepZHhR84vbrcLPVtmEF"
+        }
+      ],
+      "duration_ms": 196383,
+      "name": "Jovinho",
+      "url": "https://open.spotify.com/track/03sHFROBP18Wr2NayNAj6Q"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "VER\u00c3O",
+      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "N\u00e3o Prometeu Nada",
         "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 175200,
       "name": "N\u00e3o Prometeu Nada",
       "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "VER\u00c3O",
-      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -767,6 +767,26 @@
       "duration_ms": 160000,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -815,46 +835,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Arrepios",
-        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
-      },
-      "artists": [
-        {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
-        },
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "O Que Ela Tem?",
         "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 133333,
       "name": "O Que Ela Tem?",
       "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Arrepios",
+        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -983,22 +983,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
+        "name": "\u00c1guas Passadas",
+        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
       },
       "artists": [
         {
-          "name": "Tito JV",
-          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
         },
         {
-          "name": "Dj Leopoldo",
-          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         }
       ],
-      "duration_ms": 166438,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
+      "duration_ms": 158400,
+      "name": "\u00c1guas Passadas",
+      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1023,22 +1023,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "\u00c1guas Passadas",
-        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
       },
       "artists": [
         {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+          "name": "Tito JV",
+          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Dj Leopoldo",
+          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
         }
       ],
-      "duration_ms": 158400,
-      "name": "\u00c1guas Passadas",
-      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
+      "duration_ms": 166438,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
     },
     {
       "added_at": "2024-03-08 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > Celebrating a massive 1 BILLION STREAMS for <a href="https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7?si=88c96d015d534639">Lost Frequencies \- Are You With Me</a>
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 276,531 likes - 177 songs - 9 hr 30 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 276,516 likes - 177 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

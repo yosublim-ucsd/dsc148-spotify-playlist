@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-566 songs - 1 day 9 hr 28 min
+567 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Llevo un Vino](https://open.spotify.com/track/7yGKZQrS0WYTyjhKGJnxnE) | [Pels](https://open.spotify.com/artist/2ILYFO9yLlXG5SgjtWxMXZ) | [Un Perro Verde](https://open.spotify.com/album/6zYM7YzVGfLZoQMupKMvys) | 3:41 | 2023-08-25 | 2023-10-06 |
 | [Lluvia](https://open.spotify.com/track/5IlTUPT1eAtt3QsrsaewdU) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp), [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [Drama](https://open.spotify.com/album/6WtmjqcRqwbQRVSzicqD3g) | 3:52 | 2022-06-03 | 2022-07-18 |
 | [Llévame al Sur](https://open.spotify.com/track/2EXPYtAqur7eqstK2PD5MP) | [Rodrigo Solo](https://open.spotify.com/artist/2XSPl1pclaAddjCxZTOhZT), [Panda Elliot](https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve) | [Llévame al Sur](https://open.spotify.com/album/439eXeWqL6gshxpCxGuSCh) | 3:34 | 2022-06-03 | 2022-07-22 |
+| [Lo Haces Bien](https://open.spotify.com/track/2NT4AtSmyxZZloogGMA0xg) | [Yoni Yonki](https://open.spotify.com/artist/5VzE7gAS6VyRyvThR3lXbv) | [Yoni Yonki](https://open.spotify.com/album/22aeIVwNKsUuEcMm1Fnf4C) | 2:56 | 2024-03-07 |  |
 | [Lo nuevo y lo inútil](https://open.spotify.com/track/6OkthLKgU7KtbUuX674HO0) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Lo nuevo y lo inútil](https://open.spotify.com/album/1gNnS20kz9qcQJ5ghIsNQK) | 3:02 | 2023-07-14 | 2023-08-26 |
 | [Lo Que Es Real](https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [Lo Que Es Real](https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA) | 3:43 | 2022-07-15 | 2022-07-20 |
 | [Lo que me asusta](https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Lo Que Me Asusta](https://open.spotify.com/album/7yVtfFffpg64yNti68EMF5) | 2:11 | 2022-07-15 | 2023-03-03 |
@@ -439,7 +440,7 @@
 | [Príncipe de Lata](https://open.spotify.com/track/1mgVOhrPSEAen54YCcUiCJ) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Príncipe de Lata](https://open.spotify.com/album/2aiJ3KqefrP7O9OpxMpMOT) | 3:25 | 2023-08-25 | 2023-10-06 |
 | [Psicodelia arbolera](https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Psicodelia arbolera](https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k) | 4:08 | 2023-12-15 |  |
 | [Puedo](https://open.spotify.com/track/2LXpeBAJRi6uXPnqks3Eps) | [Platónicos](https://open.spotify.com/artist/34p7ODrlQfGS5QgDqgmeqY) | [Puedo](https://open.spotify.com/album/50QJTw1EqEwLCaKRVvJeuc) | 2:51 | 2022-06-03 | 2022-07-17 |
-| [Puedo Con Esto \- Fuera de Foco](https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Puedo Con Esto \(Fuera de Foco\)](https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id) | 3:54 | 2022-06-03 |  |
+| [Puedo Con Esto \- Fuera de Foco](https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Puedo Con Esto \(Fuera de Foco\)](https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id) | 3:54 | 2022-06-03 | 2024-03-14 |
 | [Pussy Pancake](https://open.spotify.com/track/0EGe09LoBpYKRXQaoOltXM) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Pussy Pancake](https://open.spotify.com/album/22gi3ijlL33ge8zqEBV6F0) | 2:36 | 2023-08-18 | 2023-09-09 |
 | [Puñal](https://open.spotify.com/track/2Qk4jBRm07hWUp2F0oF5N1) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Rampaluz](https://open.spotify.com/album/7y4wPtBbZlQfvAxsGfXwhH) | 2:48 | 2022-09-09 | 2023-03-03 |
 | [Que No](https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 3:50 | 2022-06-03 | 2023-10-27 |

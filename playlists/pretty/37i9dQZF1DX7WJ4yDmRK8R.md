@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Madness
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,380 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,451 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Lost It](https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT) | [The Hippos](https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi) | [Heads Are Gonna Roll](https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn) | 2:24 |
 | 100 | [Round We Go](https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd presents C'est La Vie](https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN) | 4:18 |
 
-Snapshot ID: `MCxiMmM1Y2RmZDE0YjQ3YTMyNWY2NDU5ZWRlNGMxNWJkNGM5ODQ1NWE4`
+Snapshot ID: `MCwyMmFmZjc3MjFhYjEwMmY2MTc0ZTc4NjVjOTgyOTZhMzIxNzU2ZmYy`

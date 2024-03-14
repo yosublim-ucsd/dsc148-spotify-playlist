@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,340 likes - 228 songs - 18 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,350 likes - 228 songs - 18 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 133 | [JOY \(Love’s Not Real\)](https://open.spotify.com/track/4iyUqVqZOrgTXOpmvXwnf3) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Love's Not Real\)](https://open.spotify.com/album/3OvoBnXU691EwchfLySuuc) | 4:10 |
 | 134 | [Shadowww](https://open.spotify.com/track/1gMn0jk3wTRbiSA8NFNyMa) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-1](https://open.spotify.com/album/0YUmazidBacqOJTdUD7QnZ) | 4:19 |
 | 135 | [Doudou \- Edit](https://open.spotify.com/track/5njtAeRrYhEVvl9ZzXpqjY) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj), [Jean\-Claude Naimro](https://open.spotify.com/artist/5NXrAZhndFutn5Kon2ZQCQ) | [Doudou \(Edit\)](https://open.spotify.com/album/3X8cilpO1M2PFGWGfr2kYG) | 5:32 |
-| 136 | [Starlight](https://open.spotify.com/track/3hsCeNM5xpc3qdbkafqRjb) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Tyesha Blount](https://open.spotify.com/artist/7ye6DfDfZt0YVuug54vRCz) | [Starlight](https://open.spotify.com/album/633qkkNEqDVDuJpXV4ddg3) | 5:59 |
+| 136 | [Starlight](https://open.spotify.com/track/7rS1eST1BH46vIraDtMge9) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Tyesha Blount](https://open.spotify.com/artist/7ye6DfDfZt0YVuug54vRCz) | [Starlight](https://open.spotify.com/album/5zcIiYtO87KqiYacfS2uTK) | 5:59 |
 | 137 | [16\-18 \(Why You Lacking Energy?\) \(Myd Remix\)](https://open.spotify.com/track/5t64EhqfGqzwiUa88TY4aZ) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [16\-18 \(Why You Lacking Energy?;Myd Remix\)](https://open.spotify.com/album/6i8tqVCHhiZ52KxvHRn3OQ) | 3:35 |
 | 138 | [Chiquetere \(feat\. Rafa Villalba\)](https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6) | 2:43 |
 | 139 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 |
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 227 | [000 Baby](https://open.spotify.com/track/5euJ2q8Kk1p4nDux0JaBsD) | [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [Homeboys](https://open.spotify.com/album/0j4SjQNKeymCwADe5Ju83C) | 6:36 |
 | 228 | [Together We Stand \- Chambord Remix](https://open.spotify.com/track/6HmUobqcMJAYAZUIiUdtNF) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Together We Stand \(Chambord Remix\)](https://open.spotify.com/album/1XUl9gl3vigwmepOxjTBml) | 6:59 |
 
-Snapshot ID: `MCxmZTAwMzgwOWNiY2MwNWFmZWNkMGVhYTE5Y2YwNjA2M2I1N2VlZDk5`
+Snapshot ID: `MCxlMTAyNjdjYzYxMjYxZjAzYzg3YTFkZmUzMDRiNTVjODE3Mzk3NWY4`

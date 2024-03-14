@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-244 songs - 15 hr 2 min
+245 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Euphoria](https://open.spotify.com/track/6WW1qsUVy1i73rWizr3dw2) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/3cNusUNyI88Y2sCgTBN4mU) | 3:12 | 2023-04-04 | 2023-08-11 |
 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 | 2022-04-15 | 2023-03-04 |
 | [Eww](https://open.spotify.com/track/7LliyCcHRU5OQEj2Ob2LPf) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Eww/Losing](https://open.spotify.com/album/14t4zR0Hx6ez04yQuAK4U3) | 3:55 | 2022-04-15 | 2022-07-29 |
+| [Eyes On You \- Burt Cope Remix](https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [SOULSTATE](https://open.spotify.com/artist/00v8euXAAgPonp3i5g92ds), [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Eyes On You \(Burt Cope Remix\)](https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7) | 2:40 | 2024-03-01 |  |
 | [Fallout](https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Fallout](https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6) | 3:13 | 2022-07-14 | 2022-10-19 |
 | [Fallout](https://open.spotify.com/track/5JNDl6ZhqQcvlesSAbdYlD) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Fallout](https://open.spotify.com/album/7miU1KIpJZzvICJNyalvyf) | 3:13 | 2022-04-15 | 2022-07-29 |
 | [Famous](https://open.spotify.com/track/7bjIa3yn21479pGIuu35F9) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Nova](https://open.spotify.com/album/7sazFc43XxnDbMxhO2EWJh) | 4:27 | 2022-04-22 | 2022-07-27 |
@@ -109,7 +110,7 @@
 | [Gully](https://open.spotify.com/track/4XpseHcAaQbfUugViy1oav) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/540DGYXSZ8c1MOMlxug0QQ) | 3:30 | 2022-10-28 | 2023-03-04 |
 | [Hard Baller](https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo) | [Biohzrd](https://open.spotify.com/artist/7Jhx0C8MWbjdZdcraPbOSc) | [Hard Baller](https://open.spotify.com/album/2B51oNisAJxOsYTXhjb9fI) | 3:37 | 2022-05-13 | 2022-10-29 |
 | [Hard Hitters](https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK) | 3:52 | 2022-04-15 | 2023-05-19 |
-| [Hard Hitters](https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl) | 3:52 | 2023-04-04 |  |
+| [Hard Hitters](https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl) | 3:52 | 2023-04-04 | 2024-03-14 |
 | [Haunter](https://open.spotify.com/track/0IptiiymmfXv3j2NSCHlrm) | [Dr.Oscillator](https://open.spotify.com/artist/0rMuvMAwCY7ciR8ZL0HZyV) | [Cuckoo EP](https://open.spotify.com/album/7Joe9vMJE6545YJxhC0Mww) | 3:33 | 2022-05-20 | 2022-06-08 |
 | [Heartbeat](https://open.spotify.com/track/6Oix0EalSiYYUBOO6xhAaZ) | [Kirbs](https://open.spotify.com/artist/4nuxG6KiK9pq1GRc89GkIm), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC) | [Heartbeat](https://open.spotify.com/album/2zY0mxdrK2mopZ69Id9pQ9) | 3:35 | 2022-04-15 | 2022-07-23 |
 | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 | 2023-09-22 |  |

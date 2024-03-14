@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > Music inspired by Eric Effiong from Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,880 likes - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,926 likes - 29 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 | 28 | [Playground](https://open.spotify.com/track/6v23dkIy9AHxk8MAcOHBLu) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:33 |
 | 29 | [Crush Culture](https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:24 |
 
-Snapshot ID: `MCw5YjQ1OGQ1MjBiNmNmZGJmMmNiYjE2MjJjMDkyNGMzYjI2NDZiMjlj`
+Snapshot ID: `MCxlMzZhMDM1ZWVjNmE4ZTQ5YWFhNzdkODQ3ZmUwOGFmOTBkNjgzN2Rl`

@@ -4,7 +4,7 @@
 
 > Women at full volume\. Co\-curated by: Philine Sonny
 
-1,354 songs - 2 day 22 hr 15 min
+1,355 songs - 2 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Alleine](https://open.spotify.com/track/62Dmi359e09S58Srti5kmz) | [DenniJasmin](https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE) | [Alleine](https://open.spotify.com/album/4Rflv14CiIqiMxXTBDoLQD) | 2:28 | 2023-05-02 | 2023-06-07 |
 | [Allerletzter Tag](https://open.spotify.com/track/0ScRAPcV190fYvLeSAIVZw) | [AYMZ](https://open.spotify.com/artist/7yq3RsSN2IXYprxdcxmp7z) | [Allerletzter Tag](https://open.spotify.com/album/6nemsAh2qUgGijKAoAjIfm) | 2:59 | 2024-01-09 | 2024-02-07 |
 | [Alles gleich](https://open.spotify.com/track/1X06guJcCRZWf3wAAypBiU) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Alles gleich](https://open.spotify.com/album/1YUm7AIgpPjXsY2nnY1tAD) | 2:53 | 2022-01-04 | 2022-01-21 |
-| [ALLES GLÄNZT](https://open.spotify.com/track/45VFwSsxYlqhpwqFfvL6Zh) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [ALLES GLÄNZT](https://open.spotify.com/album/4K4XnkaUqWBwrL6wMaCW19) | 2:41 | 2024-03-05 |  |
+| [ALLES GLÄNZT](https://open.spotify.com/track/45VFwSsxYlqhpwqFfvL6Zh) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [ALLES GLÄNZT](https://open.spotify.com/album/4K4XnkaUqWBwrL6wMaCW19) | 2:41 | 2024-03-05 | 2024-03-14 |
+| [ALLES GLÄNZT](https://open.spotify.com/track/4i1Oyfgjzc1aEQHQv8fe4s) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Don't Trust Bitches](https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7) | 2:41 | 2024-03-07 |  |
 | [Alles ok](https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Alles ok](https://open.spotify.com/album/6vY0j0uusvvF8jNltvHxOf) | 3:42 | 2023-04-04 | 2023-05-03 |
 | [Alles Scheisse](https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Alles Scheisse](https://open.spotify.com/album/2WVwilXGM4HrUAfZVVAg6J) | 2:57 | 2022-08-02 | 2022-09-07 |
 | [Alleviate](https://open.spotify.com/track/4nS7z0zHSbDAnFDOesLKZk) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Alleviate](https://open.spotify.com/album/0us6ntJT79OYcy1tSggW0C) | 3:04 | 2024-02-06 | 2024-03-06 |

@@ -2014,6 +2014,24 @@
     {
       "album": {
         "name": "La Marea",
+        "url": "https://open.spotify.com/album/0uwTdcCs9g0VUWo4ttuk4U"
+      },
+      "artists": [
+        {
+          "name": "Mariana Vega",
+          "url": "https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201316,
+      "name": "La Marea",
+      "url": "https://open.spotify.com/track/2PMwP9MtTyXw0WobD3u7UK"
+    },
+    {
+      "album": {
+        "name": "La Marea",
         "url": "https://open.spotify.com/album/6S8v7XTmfWjBuTzEgbxkj7"
       },
       "artists": [
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 201316,
       "name": "La Marea",
       "url": "https://open.spotify.com/track/2oczZVvVk61DUKaKpzYFtQ"
@@ -2232,6 +2250,24 @@
     {
       "album": {
         "name": "Los Rotos",
+        "url": "https://open.spotify.com/album/6bk5BlDLY3NQzfRUpFOTRW"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206608,
+      "name": "Los Rotos",
+      "url": "https://open.spotify.com/track/4LfaPS55yqBB6RcXISNTJw"
+    },
+    {
+      "album": {
+        "name": "Los Rotos",
         "url": "https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP"
       },
       "artists": [
@@ -2242,7 +2278,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 206608,
       "name": "Los Rotos",
       "url": "https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ"

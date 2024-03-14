@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: The Roots",
-  "num_followers": 375243,
+  "num_followers": 375313,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGIxNzA3NjBlY2Y3MDExYzJjNmI5Y2FmOWY0ZjYxY2EyOGNiZWJm",
+  "snapshot_id": "MCwxNjE2MTNjMjZhNWU3NzZhNjE4MmY1ZTFhYTk4MjliMDRkMmVkYTVh",
   "tracks": [
     {
       "added_at": "2024-02-24 01:14:20",
@@ -975,18 +975,34 @@
     {
       "added_at": "2024-02-24 01:14:20",
       "album": {
-        "name": "Life Story",
-        "url": "https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR"
+        "name": "Flava In Ya Ear Remix",
+        "url": "https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL"
       },
       "artists": [
         {
-          "name": "Black Rob",
-          "url": "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
+          "name": "Craig Mack",
+          "url": "https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Rampage",
+          "url": "https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 238840,
-      "name": "Whoa!",
-      "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
+      "duration_ms": 302013,
+      "name": "Flava in Ya Ear Remix (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage)",
+      "url": "https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux"
     }
   ],
   "unique_name": "I Love My East Coast Classics",

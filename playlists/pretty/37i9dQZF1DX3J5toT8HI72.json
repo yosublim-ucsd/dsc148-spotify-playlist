@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 775750,
+  "num_followers": 775807,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTNkODRjNDBkOTgxNTliNWU3MzBiNThmNDg0ZThhMDJhYWI0Yzkw",
+  "snapshot_id": "MCxjNzM5N2M2YTc0NzJkMjY3OTU0NzlkOWFiNzg1YmE3Mzg4ODBmZmFl",
   "tracks": [
     {
       "added_at": "2024-03-08 14:49:28",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 166337,
+      "name": "Pique Djavan - Ao Vivo",
+      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 166337,
-      "name": "Pique Djavan - Ao Vivo",
-      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
         "name": "P\u00fablico",
         "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 301346,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Mariana Nolasco",
-        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 222911,
-      "name": "Que Seja Pra Ficar",
-      "url": "https://open.spotify.com/track/5QQQUig8yIgWG1Yyd3PcmZ"
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+        "name": "Mariana Nolasco",
+        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+      "duration_ms": 222911,
+      "name": "Que Seja Pra Ficar",
+      "url": "https://open.spotify.com/track/5QQQUig8yIgWG1Yyd3PcmZ"
     },
     {
       "added_at": "2024-03-08 14:49:28",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-03-08 14:49:28",
       "album": {
-        "name": "Sabe",
-        "url": "https://open.spotify.com/album/6xZFZZfrItujSQlRbfOvqN"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 131602,
-      "name": "Sabe",
-      "url": "https://open.spotify.com/track/2PTyjGy10dTbYGYxzc3O1U"
-    },
-    {
-      "added_at": "2024-03-08 14:49:28",
-      "album": {
         "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 256155,
       "name": "Bem Que Se Quis - Ao Vivo",
       "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
+    },
+    {
+      "added_at": "2024-03-08 14:49:28",
+      "album": {
+        "name": "Sabe",
+        "url": "https://open.spotify.com/album/6xZFZZfrItujSQlRbfOvqN"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 131602,
+      "name": "Sabe",
+      "url": "https://open.spotify.com/track/2PTyjGy10dTbYGYxzc3O1U"
     },
     {
       "added_at": "2024-03-08 14:49:28",

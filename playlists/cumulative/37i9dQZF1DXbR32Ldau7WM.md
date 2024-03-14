@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: AJICO
 
-1,000 songs - 2 day 18 hr 14 min
+1,001 songs - 2 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [LOVE LETTER FROM A DEAD END](https://open.spotify.com/track/39mgx6DZ7yCF2u0ygKkYjZ) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [LOVE LETTER FROM A DEAD END](https://open.spotify.com/album/6TnLHPMsBHQm0BFfbaSuSN) | 4:18 | 2022-08-23 | 2022-09-07 |
 | [Love melts into the marble ocean](https://open.spotify.com/track/59Jucw9BcXHb8bwzTMR2n7) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Love melts into the marble ocean](https://open.spotify.com/album/28ctY7cUtusuQBMlvyEPmf) | 3:01 | 2024-01-16 | 2024-01-20 |
 | [Love melts into the marble ocean](https://open.spotify.com/track/2XHZBO4WZFfPiy4tpeOndd) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [A melody that flies beyond time](https://open.spotify.com/album/5jxccF7FKF9shTKQAd5MdI) | 3:02 | 2024-01-18 | 2024-02-21 |
+| [Love no Genkei](https://open.spotify.com/track/2WW8KjNeaeKLCV16w4vmO7) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [Love no Genkei](https://open.spotify.com/album/2sOTrGKCJK6NzbDlLQm1i1) | 3:26 | 2024-03-12 |  |
 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 | 2022-12-06 |  |
 | [LOVELESS](https://open.spotify.com/track/0CR13lQ9za1zCe8TrM8IQo) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [LOVELESS](https://open.spotify.com/album/7DaZae3yquuex9dVvij9F6) | 5:41 | 2023-10-03 | 2023-10-11 |
 | [LUNCH IN THE JAIL](https://open.spotify.com/track/5qZZBHfmrL77nESX4HsaY4) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [SCAFULL KING](https://open.spotify.com/album/2jULdN2D4jZOMca3abkOMk) | 3:32 | 2022-07-07 | 2022-07-13 |
@@ -793,7 +794,7 @@
 | [ラブソングが聴こえる](https://open.spotify.com/track/55ZWVNxqbjlnBWax4MpTcD) | [浅井健一＆THE INTERCHANGE KILLS](https://open.spotify.com/artist/7xCHsljGzMqjkBfUFWYSKr) | [ラブソングが聴こえる](https://open.spotify.com/album/7z6xNJ50H3nSIQ78oH096n) | 3:41 | 2022-05-10 | 2022-06-22 |
 | [ラブレター](https://open.spotify.com/track/2xTqNGLtZYetzvx6VAs7Pd) | [YUSUKE CHIBA \- SNAKE ON THE BEACH \-](https://open.spotify.com/artist/4kHNeHQ5nA9HDRVXXhR308) | [ラブレター](https://open.spotify.com/album/3FDrTfxt0PO6qIC8eQIAFj) | 5:46 | 2022-07-26 | 2022-08-03 |
 | [ランドリー](https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [天使だったじゃないか](https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj) | 3:26 | 2024-02-27 | 2024-02-29 |
-| [ラヴの元型](https://open.spotify.com/track/5AOoLf1lxCLcbMDsv0du8c) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [ラヴの元型](https://open.spotify.com/album/0BuE2EEycVTb4Q9FiJ9dkc) | 3:26 | 2024-03-12 |  |
+| [ラヴの元型](https://open.spotify.com/track/5AOoLf1lxCLcbMDsv0du8c) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [ラヴの元型](https://open.spotify.com/album/0BuE2EEycVTb4Q9FiJ9dkc) | 3:26 | 2024-03-12 | 2024-03-14 |
 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 | 2023-06-27 |  |
 | [一触即発](https://open.spotify.com/track/5rjg2Ko5FKp9k8i8spC1vQ) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [TODAY](https://open.spotify.com/album/0DsM76Alyvsrq649owb7Xf) | 3:08 | 2022-10-29 | 2022-11-23 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2023-07-04 |  |

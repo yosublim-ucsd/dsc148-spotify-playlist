@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 70616,
+  "num_followers": 70629,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjViZjgxMzJiYWFlYmFlZjYyYmMyMzI2ZjM4MjRmYzI0NGRhM2Zl",
+  "snapshot_id": "MCxmYTA0NWQwMzQ4YzkxZmVjMTZmMWY0YjNhNGJiOGJlOTU2ODNlMjEy",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Idealistic",
+      "url": "https://open.spotify.com/track/14KzbcceJMYy3U8Zid1VWD"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Do I Look Like a Slut?",
         "url": "https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 386149,
       "name": "Stuck On Repeat - Fake Blood Mix",
       "url": "https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Lambs Anger",
-        "url": "https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Gay Dentists",
-      "url": "https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW"
     }
   ],
   "unique_name": "Bloghouse",

@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 130651,
+  "num_followers": 130729,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDUxNmFmZmRjN2VhN2MyNDQ0ZjUxYzQ1NjYwYTA0MzdhZmNlNzQx",
+  "snapshot_id": "MCxjNzUzMTk1NjE0OWRjZjIwYmY3ZGRlNWQwNGIwZWU4ZmRjOTNlMzJh",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1139,22 +1139,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "RDSD (En Vivo)",
-        "url": "https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH"
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
       },
       "artists": [
         {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Banda La Fantastica",
-          "url": "https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 185500,
-      "name": "RDSD (En Vivo)",
-      "url": "https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS"
+      "duration_ms": 173400,
+      "name": "Los Ninis",
+      "url": "https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1175,18 +1171,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "La Historia De Mis Manos",
-        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+        "name": "RDSD (En Vivo)",
+        "url": "https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Banda La Fantastica",
+          "url": "https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Los Ninis",
-      "url": "https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve"
+      "duration_ms": 185500,
+      "name": "RDSD (En Vivo)",
+      "url": "https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS"
     },
     {
       "added_at": "2023-06-16 06:00:00",

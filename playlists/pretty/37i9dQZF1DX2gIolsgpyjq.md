@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Anna Lille
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,954 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,015 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Just Like You](https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Just Like You](https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA) | 2:20 |
 | 100 | [Exhale](https://open.spotify.com/track/4nhwDQKDuKfMyfKAihTN5W) | [haugust](https://open.spotify.com/artist/07KhVOf8HbWRfk3rkiyUqT) | [Anger Management](https://open.spotify.com/album/399ke7Bcdg609a5s6ETPu6) | 2:57 |
 
-Snapshot ID: `MCxmNWE5ZWFlYWUxMzdkYjU2NDMxNGFmY2YwNjEyMzViMzhlODI3OTkx`
+Snapshot ID: `MCxlMzA0MTAzZDllY2QxZTMwMjY3NDRjM2E0ZjA0OTRkZmJlNmU2MGIx`

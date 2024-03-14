@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Zsela",
-  "num_followers": 208748,
+  "num_followers": 208883,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzcwY2QzYzMzMDlkYjcxMTRjZDhjZTA0MGFlMmY1YTM1NDliNGI4",
+  "snapshot_id": "MCwzNTUxOTRhZjg3ZmE2MDUzNGEwZGMwOWQzZTEzOTEwY2Q3Mzc1OTFh",
   "tracks": [
     {
       "added_at": "2024-03-06 05:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 198184,
       "name": "Fire Excape",
       "url": "https://open.spotify.com/track/2m8MI1dFTkFhlVjjm7zFXp"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Oh, Claire",
+        "url": "https://open.spotify.com/album/3gH4i1dDjghuiXuNEIohMT"
+      },
+      "artists": [
+        {
+          "name": "Lecx Stacy",
+          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
+        }
+      ],
+      "duration_ms": 107142,
+      "name": "Cut",
+      "url": "https://open.spotify.com/track/0dwaS9kMmmxrMulLMbEe3c"
     },
     {
       "added_at": "2024-03-06 05:00:00",
@@ -73,20 +89,52 @@
       "url": "https://open.spotify.com/track/36oZ8vKFpmcTT6cmQ0pw0o"
     },
     {
-      "added_at": "2024-03-06 05:00:00",
+      "added_at": "2024-03-13 04:00:00",
       "album": {
-        "name": "Deadweight",
-        "url": "https://open.spotify.com/album/150Iwj3k9W8N1YiZkETUVo"
+        "name": "Everything I Was, Burning Slow",
+        "url": "https://open.spotify.com/album/7thudeuUtOVk6jjP3yv94l"
       },
       "artists": [
         {
-          "name": "Sedona",
-          "url": "https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi"
+          "name": "24thankyou",
+          "url": "https://open.spotify.com/artist/0p0wYqcp0eD1TBnLLX35fZ"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Deadweight",
-      "url": "https://open.spotify.com/track/1w1aj51V8JWJv3DbtSS8sp"
+      "duration_ms": 120528,
+      "name": "Gnawed",
+      "url": "https://open.spotify.com/track/36zunLr76WzSOqwq48up3b"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Air Drumming Fix You",
+        "url": "https://open.spotify.com/album/5fVebLQz6IcyjQPFzcuhqS"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "duration_ms": 329122,
+      "name": "Air Drumming Fix You",
+      "url": "https://open.spotify.com/track/4pO4S5dLphqavzoByuZikz"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Never Get It Right",
+        "url": "https://open.spotify.com/album/1LVnxRugTrMRHEQxKqRrMT"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "Never Get It Right",
+      "url": "https://open.spotify.com/track/5sfcsarWqncOJ5vi34aAXz"
     },
     {
       "added_at": "2024-03-06 05:00:00",
@@ -105,20 +153,36 @@
       "url": "https://open.spotify.com/track/4nPpLwqlemX1spQla1lFlL"
     },
     {
-      "added_at": "2024-03-06 05:00:00",
+      "added_at": "2024-03-13 04:00:00",
       "album": {
-        "name": "Eating Me Alive",
-        "url": "https://open.spotify.com/album/0DQzRH23fb9Cf01H3ARMB5"
+        "name": "dance of the trees",
+        "url": "https://open.spotify.com/album/5EE8f2rtxbQsGwVPfVNySX"
       },
       "artists": [
         {
-          "name": "foamboy",
-          "url": "https://open.spotify.com/artist/1JuU4GHSf0kmi5dOCm1BeS"
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
         }
       ],
-      "duration_ms": 254961,
-      "name": "Eating Me Alive",
-      "url": "https://open.spotify.com/track/6I1SWoRsbsSWrdVufccpwx"
+      "duration_ms": 151914,
+      "name": "dance of the trees",
+      "url": "https://open.spotify.com/track/4bG78LXku0K6bKIQ4IS5Yu"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "With You / Leaving",
+        "url": "https://open.spotify.com/album/5wTQtxQjOu5KohQK2HnN8h"
+      },
+      "artists": [
+        {
+          "name": "Plum",
+          "url": "https://open.spotify.com/artist/6z2TH0bDd1rp016ZajDkKN"
+        }
+      ],
+      "duration_ms": 276827,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/3G9SYSMTccGqtC6VKE91aH"
     },
     {
       "added_at": "2024-03-06 05:00:00",
@@ -135,6 +199,126 @@
       "duration_ms": 177362,
       "name": "I Keep Changing",
       "url": "https://open.spotify.com/track/3fGWqrH3E6Rl9ERhDQVzER"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "47",
+        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 177254,
+      "name": "Alone At Last",
+      "url": "https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/1kmAwdVijgNSvjgjjuO0Ne"
+      },
+      "artists": [
+        {
+          "name": "annie hamilton",
+          "url": "https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH"
+        }
+      ],
+      "duration_ms": 252543,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/7FgPY9fw1hp7BYZlQfPAAA"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Indie Kids",
+        "url": "https://open.spotify.com/album/6JnLeWtOdiBrrc7OGeyJvG"
+      },
+      "artists": [
+        {
+          "name": "CECI",
+          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
+        },
+        {
+          "name": "Lords of Lounge",
+          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
+        }
+      ],
+      "duration_ms": 265881,
+      "name": "Indie Kids",
+      "url": "https://open.spotify.com/track/3CKspKxhwvyi7OyADIKF9a"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Nice Clean Shirt",
+        "url": "https://open.spotify.com/album/5Oko5KvMX1leFBikjfxifa"
+      },
+      "artists": [
+        {
+          "name": "Beeef",
+          "url": "https://open.spotify.com/artist/7H3XA0651dLTrDSIKMqV9r"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Nice Clean Shirt",
+      "url": "https://open.spotify.com/track/2OmVDNvZibcwPoGGMJMMAY"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Hanna",
+        "url": "https://open.spotify.com/album/2NtzpLJVvO9kTPkmKqyDXo"
+      },
+      "artists": [
+        {
+          "name": "Oscar Louis",
+          "url": "https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK"
+        },
+        {
+          "name": "Chris Vincent",
+          "url": "https://open.spotify.com/artist/2TP5gePc0SBG8sOpRp8ymQ"
+        }
+      ],
+      "duration_ms": 246270,
+      "name": "Hanna",
+      "url": "https://open.spotify.com/track/0bYmV76zf0g55Fe7oJY2tj"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Deadweight",
+        "url": "https://open.spotify.com/album/150Iwj3k9W8N1YiZkETUVo"
+      },
+      "artists": [
+        {
+          "name": "Sedona",
+          "url": "https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Deadweight",
+      "url": "https://open.spotify.com/track/1w1aj51V8JWJv3DbtSS8sp"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Eating Me Alive",
+        "url": "https://open.spotify.com/album/0DQzRH23fb9Cf01H3ARMB5"
+      },
+      "artists": [
+        {
+          "name": "foamboy",
+          "url": "https://open.spotify.com/artist/1JuU4GHSf0kmi5dOCm1BeS"
+        }
+      ],
+      "duration_ms": 254961,
+      "name": "Eating Me Alive",
+      "url": "https://open.spotify.com/track/6I1SWoRsbsSWrdVufccpwx"
     },
     {
       "added_at": "2024-03-06 05:00:00",
@@ -223,38 +407,6 @@
     {
       "added_at": "2024-03-06 05:00:00",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/1kmAwdVijgNSvjgjjuO0Ne"
-      },
-      "artists": [
-        {
-          "name": "annie hamilton",
-          "url": "https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH"
-        }
-      ],
-      "duration_ms": 252543,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/7FgPY9fw1hp7BYZlQfPAAA"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "47",
-        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 177254,
-      "name": "Alone At Last",
-      "url": "https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
         "name": "old friend",
         "url": "https://open.spotify.com/album/7DQVtYh1NwhKix1lW3zQX2"
       },
@@ -315,6 +467,22 @@
       "duration_ms": 177399,
       "name": "Habitual",
       "url": "https://open.spotify.com/track/1CK6BGIVMgf1NrPzRTGW4o"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/0bVB46dm7GSleUFnDhuDuX"
+      },
+      "artists": [
+        {
+          "name": "Mal Not Bad",
+          "url": "https://open.spotify.com/artist/2ufQNkP4cn7cHHgh9l3jqL"
+        }
+      ],
+      "duration_ms": 234174,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0HTiA0Al8NXUD5NSPvoHVH"
     },
     {
       "added_at": "2024-03-06 05:00:00",
@@ -419,22 +587,6 @@
       "duration_ms": 243091,
       "name": "Whitewashed Tombs",
       "url": "https://open.spotify.com/track/7bnuh2k8jthZbpM7HSVK9o"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/0bVB46dm7GSleUFnDhuDuX"
-      },
-      "artists": [
-        {
-          "name": "Mal Not Bad",
-          "url": "https://open.spotify.com/artist/2ufQNkP4cn7cHHgh9l3jqL"
-        }
-      ],
-      "duration_ms": 234174,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0HTiA0Al8NXUD5NSPvoHVH"
     },
     {
       "added_at": "2024-03-06 05:00:00",
@@ -1491,154 +1643,6 @@
       "duration_ms": 244470,
       "name": "Time Is Forever",
       "url": "https://open.spotify.com/track/11LJTCJQB9f5O51iVz45cw"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/6i5AzWynjnUCWj4C2NmAXw"
-      },
-      "artists": [
-        {
-          "name": "Luster",
-          "url": "https://open.spotify.com/artist/0IqC2A5HTnTIKzqcFXJQms"
-        }
-      ],
-      "duration_ms": 270562,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4mJz9boLlkYuZFue3Kn6gs"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Woozy",
-        "url": "https://open.spotify.com/album/2inEqHoDU6t74zhvk220vf"
-      },
-      "artists": [
-        {
-          "name": "Otlo",
-          "url": "https://open.spotify.com/artist/7vsoughuCopQQSGdue2nr0"
-        }
-      ],
-      "duration_ms": 182082,
-      "name": "But A Dream",
-      "url": "https://open.spotify.com/track/24lj9VFS29jV3GCd5nNF8W"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "6 Months Later",
-        "url": "https://open.spotify.com/album/66tuatQ1ttfwRFnu0RGjBr"
-      },
-      "artists": [
-        {
-          "name": "Sicksways",
-          "url": "https://open.spotify.com/artist/2Nk1nDfdbmW7FXFNWOnz2H"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "6 Months Later",
-      "url": "https://open.spotify.com/track/79mo9lb6pe8KM873HWo0Tg"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/7JB3vES78G6hfEdCzPIC0Q"
-      },
-      "artists": [
-        {
-          "name": "beachtown",
-          "url": "https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI"
-        }
-      ],
-      "duration_ms": 187977,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/2bddJBCw0Fo6HIGO2vhuDV"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "nosebleed",
-        "url": "https://open.spotify.com/album/1MF9qX3ubVtPcNSMGdyOAF"
-      },
-      "artists": [
-        {
-          "name": "wishlane",
-          "url": "https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l"
-        }
-      ],
-      "duration_ms": 293478,
-      "name": "nosebleed",
-      "url": "https://open.spotify.com/track/5FOa8mwaYEWk5kvYIVrG9q"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Silly Little Pride",
-        "url": "https://open.spotify.com/album/3WOKxyTHG3cu0vkCRzHzsb"
-      },
-      "artists": [
-        {
-          "name": "&Tilly",
-          "url": "https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N"
-        },
-        {
-          "name": "Spiros Maus",
-          "url": "https://open.spotify.com/artist/0NtiGYn5JsAu6CuesbMY5v"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "Silly Little Pride",
-      "url": "https://open.spotify.com/track/2qgmbJ1FdRWuswOsQFDwFW"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Someday Best",
-        "url": "https://open.spotify.com/album/42gORYjtEYqO5LSLJJ7ISZ"
-      },
-      "artists": [
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 193559,
-      "name": "Someday Best",
-      "url": "https://open.spotify.com/track/7pehLR5YjBaDUucUgW8nMR"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "BUG0BEAT",
-        "url": "https://open.spotify.com/album/7zdjMuGcidAfUVcTvDvaOQ"
-      },
-      "artists": [
-        {
-          "name": "Cool Sounds",
-          "url": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
-        }
-      ],
-      "duration_ms": 181797,
-      "name": "BUG0BEAT",
-      "url": "https://open.spotify.com/track/0uTpXHZk8Ifib4X8ZxF5bC"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/4vj87sOnqARYS2nsfc3C6B"
-      },
-      "artists": [
-        {
-          "name": "Club 8",
-          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
-        }
-      ],
-      "duration_ms": 122523,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/5jllHkxe3JUdEpsrMYywv4"
     }
   ],
   "unique_name": "Fresh Finds Indie",

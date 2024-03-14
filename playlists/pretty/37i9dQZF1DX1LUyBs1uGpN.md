@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LUyBs1uGpN.md) - [plain]
 
 > ¡Pura Doble P! Chachaaauuuuuu
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,171 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,652 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LUyBs1uGpN.md) - [plain]
 | 56 | [Y Qué?](https://open.spotify.com/track/7sTO6jLlWFX8YQlVVqrK7e) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Efectos Secundarios](https://open.spotify.com/album/2yteT6kCtcAdSbXwPjCM10) | 1:49 |
 | 57 | [No Está Fácil](https://open.spotify.com/track/5IAfEnaUbMwjrxVEferkQe) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Efectos Secundarios](https://open.spotify.com/album/2yteT6kCtcAdSbXwPjCM10) | 2:46 |
 | 58 | [30 Tiros](https://open.spotify.com/track/2SfL8jCTC7XxKhsD4YhSmV) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [30 Tiros](https://open.spotify.com/album/6TaC0bj5LB0ivBCK0cseIH) | 2:53 |
-| 59 | [El 08 \- En Vivo](https://open.spotify.com/track/4hpYhZhGn6JyUv62qpu2WP) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco en Vivo, Vol.2 \(En Vivo\)](https://open.spotify.com/album/38axttNElf1zwOUvInHwpx) | 3:31 |
+| 59 | [El 08 \- En Vivo](https://open.spotify.com/track/579rIxuKrScE5NlJXrFVsH) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco en Vivo, Vol.2 \(En Vivo\)](https://open.spotify.com/album/4EgzAGdJX8tL03haJCiwZy) | 3:31 |
 | 60 | [Feria en el Sobre](https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Feria en el Sobre](https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc) | 3:14 |
 
-Snapshot ID: `MCwwODE2NWUxZTY3YTI1YmVjZTg0ZDgzNzU5ZjZiODJiM2Y5NWE4YThl`
+Snapshot ID: `MCwyMmJkOWUyMDcyMzE4OWNkOGYyMGY5ZDIxMmRhZGFmYTVjOTRkZDMz`

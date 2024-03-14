@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-481 songs - 1 day 0 hr 58 min
+482 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Third Degree Burns](https://open.spotify.com/track/7Fe3uYNGJ07iGVoAvHMqMa) | [Tommy Mayran](https://open.spotify.com/artist/44oO94qqpxd8E0YUhhfMiA) | [Third Degree Burns](https://open.spotify.com/album/0xqPPKPY9f1chhppy9pgSs) | 3:04 | 2021-12-16 | 2022-07-29 |
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-02-02 | 2023-12-19 |
 | [this is how you fall in love](https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [this is how you fall in love](https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW) | 2:54 | 2021-12-16 | 2022-03-26 |
+| [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 | 2024-03-13 |  |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2023-01-12 | 2023-06-16 |
 | [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-01 | 2023-07-08 |
 | [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 | 2023-06-01 | 2023-09-05 |
@@ -485,7 +486,7 @@
 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 | 2023-09-21 | 2024-01-26 |
 | [You All Day](https://open.spotify.com/track/6k3ybhZHeFtZsuyidDFriA) | [JOS](https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a), [Ashdown](https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE) | [You All Day](https://open.spotify.com/album/7tfllHucm1Wdwo6xyclI0u) | 2:20 | 2023-03-22 | 2023-11-17 |
 | [You and I](https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [You and I](https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj) | 3:06 | 2023-10-12 |  |
-| [You Don't Call Me](https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [You Don't Call Me](https://open.spotify.com/album/3RlJ4V1jScGEXcwajF3BkM) | 2:27 | 2024-03-01 |  |
+| [You Don't Call Me](https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [You Don't Call Me](https://open.spotify.com/album/3RlJ4V1jScGEXcwajF3BkM) | 2:27 | 2024-03-01 | 2024-03-14 |
 | [YOU got what i need](https://open.spotify.com/track/12rGDE4wphOzVLLeWzBWJr) | [The Cool Quest](https://open.spotify.com/artist/7eW7XlHPEaGBY5JION7Vw9) | [YOU got what i need](https://open.spotify.com/album/6O8CA5GZVKn3WopaOmKXEm) | 3:02 | 2021-12-16 | 2022-03-25 |
 | [Zwanger in De Club](https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg) | [KIMONO](https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F) | [Zwanger in De Club](https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ) | 3:52 | 2023-11-16 |  |
 | [—˚✦ ඔබ + මම ♬ !!! ❀˚](https://open.spotify.com/track/3JxC5UZmAOsmQuyFR0ZMlr) | [Sim Fane](https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2), [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [closure](https://open.spotify.com/album/17JyDBTfjqukxO3VViUy89) | 2:33 | 2021-12-16 | 2023-01-13 |

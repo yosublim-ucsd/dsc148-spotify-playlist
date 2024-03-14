@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 阿部芙蓉美
 
-2,272 songs - 6 day 2 hr 25 min
+2,274 songs - 6 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -948,7 +948,8 @@
 | [routine life](https://open.spotify.com/track/3AdLUaAZTJQyhjs10t5wKk) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [routine life](https://open.spotify.com/album/3nO790FKbCxYTZL5HjVsZZ) | 3:32 | 2024-01-09 | 2024-01-11 |
 | [Routine Life](https://open.spotify.com/track/3U4q2PzQAGlT4iistqvnDl) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Routine Life](https://open.spotify.com/album/0m5mYXIrR6ShDGZsLxkyJ7) | 3:32 | 2024-01-10 | 2024-01-24 |
 | [rubble pile](https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh) | 3:58 | 2022-12-27 | 2023-02-26 |
-| [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 | 2024-03-12 |  |
+| [Run](https://open.spotify.com/track/3jKaAVlYp6i36bH9kCH7S6) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/53nChQOJuMLPOBDWdnDWRd) | 4:08 | 2024-03-12 |  |
+| [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 | 2024-03-12 | 2024-03-14 |
 | [Run Or Hide \(feat\. Marina Watanabe\)](https://open.spotify.com/track/6yg50Iimr1S1uSo3bJB6ZV) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [Neo Standard](https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV) | 3:13 | 2023-09-19 | 2023-09-27 |
 | [Run Or Hide \(feat\. Marina Watanabe\)](https://open.spotify.com/track/79ppbtQoUyfYPuUvZWwQyX) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [Neo Standard](https://open.spotify.com/album/1QkEKQCEKG2FwOJSoU39G0) | 3:13 | 2023-09-19 | 2023-09-21 |
 | [Runnin'](https://open.spotify.com/track/1jXTddZprrt32F0EncQAml) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Runnin'](https://open.spotify.com/album/3bWapohKNAU2XCDegJ0LCO) | 3:34 | 2023-01-24 | 2023-02-01 |
@@ -1088,6 +1089,7 @@
 | [suitcase](https://open.spotify.com/track/22Mu9Hru4V2M8o3PqTnDxU) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [suitcase](https://open.spotify.com/album/0VTiDNmwC9dKN6JPzvyahk) | 3:48 | 2022-05-29 | 2022-07-19 |
 | [Suki](https://open.spotify.com/track/4EwFfgL6ljn9ihPw82uENo) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Suki](https://open.spotify.com/album/4FSCl70qEsQocSVjyuvE6v) | 2:52 | 2022-07-28 | 2022-09-09 |
 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 | 2023-05-02 |  |
+| [Sukideshita.](https://open.spotify.com/track/458E7acH1K8c5wx8AYAnVi) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/7kmoVx9z1qTqZSN4B4svCJ) | 4:10 | 2024-03-12 |  |
 | [Summer Again](https://open.spotify.com/track/5DA6jZkwB71uDgY5VRPHhd) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [Summer Again](https://open.spotify.com/album/0KyZBusRvECb0dTtGU6tNw) | 4:00 | 2022-06-30 | 2022-08-19 |
 | [Summer in COLORZ](https://open.spotify.com/track/4ChCL6o0WsFvVSUKDdNmYj) | [OCEANS](https://open.spotify.com/artist/6EKHqQatZAZ1SnuvkDXj9u), [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [Summer in COLORZ](https://open.spotify.com/album/0LXj4IGgYcx2SYd6ii7ybi) | 4:22 | 2022-07-26 | 2022-12-14 |
 | [SUMMER NUDE](https://open.spotify.com/track/7l9onEdVYUK5RPh5TxTSSF) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [SUMMER NUDE](https://open.spotify.com/album/0cDZaBapsWJWOsfAjxK9ah) | 5:21 | 2022-06-28 | 2022-07-06 |
@@ -1903,7 +1905,7 @@
 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2022-12-13 | 2023-01-25 |
 | [女の子は誰でも \~Fly Me To Heaven\~ \- STUTS Remix](https://open.spotify.com/track/4XAXBrO1WFHzubLC5pV7jx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [百薬の長](https://open.spotify.com/album/7tean6qlQaKq6tyqzaLrpR) | 4:19 | 2022-11-29 | 2023-01-04 |
 | [好きだ](https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [好きだ](https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0) | 3:37 | 2022-05-31 | 2023-06-28 |
-| [好きでした。](https://open.spotify.com/track/588cVGxOSFqg8HnlGE6IDI) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/3idoCaumlMNXdS1suAEnpH) | 4:10 | 2024-03-12 |  |
+| [好きでした。](https://open.spotify.com/track/588cVGxOSFqg8HnlGE6IDI) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/3idoCaumlMNXdS1suAEnpH) | 4:10 | 2024-03-12 | 2024-03-14 |
 | [好きで好きで](https://open.spotify.com/track/5zsWoYwGeHjFfudAi4mrMc) | [Yukino Nakajima](https://open.spotify.com/artist/5ieMKd7enW929uZdZgExkj) | [好きで好きで](https://open.spotify.com/album/0Gcf1uINtGj1nAEg9rd37X) | 4:06 | 2022-07-20 | 2022-07-28 |
 | [好きなように](https://open.spotify.com/track/3tLyaiz0o1oKcibp8NaZK3) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [好きなように](https://open.spotify.com/album/6vvPUBVIrAEPXB9nkrhmsX) | 3:15 | 2023-03-21 | 2023-03-29 |
 | [好きにしなよ](https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [好きにしなよ](https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p) | 4:26 | 2023-10-31 | 2024-02-06 |

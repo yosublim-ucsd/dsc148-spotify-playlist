@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 115109,
+  "2024-03-14": 115127,
   "date_first_scraped": "2023-12-27",
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
   "name": "This Is Dean Martin",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 145320,
       "name": "(Remember Me) I'm the One Who Loves You",
       "url": "https://open.spotify.com/track/1q2RbUwPCCvO97Mx0VygiX"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 166066,
       "name": "All I Do Is Dream Of You - Remastered",
       "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "Arrivederci Roma - Remastered 1998",
       "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 184453,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 156906,
       "name": "C'est Magnifique",
       "url": "https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 137653,
       "name": "Carolina In The Morning - 1997 Remaster",
       "url": "https://open.spotify.com/track/2Wkh6VPQgUNIZpVGG3B4eF"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 140440,
       "name": "Cha Cha Cha D'Amour (Melodie D'Amour)",
       "url": "https://open.spotify.com/track/5vfgDZt7VwNCof5lltwwZk"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 127293,
       "name": "Come Running Back",
       "url": "https://open.spotify.com/track/3EQM6RIkUZ3nVI8mTVwIvY"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 164546,
       "name": "Everybody Loves Somebody",
       "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 156173,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/0znQyUrJwmuLenUzJXawEY"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 157600,
       "name": "Hey Brother, Pour The Wine",
       "url": "https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 145346,
       "name": "I Can't Believe That You're In Love With Me - Remastered/1998",
       "url": "https://open.spotify.com/track/6mcDe5GXUZn6eF7mC5l3Hg"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 160213,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/2AwOwuP1gWzAHpXogqwbAJ"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 182106,
       "name": "I Have But One Heart ('O Marenariello) - Remastered 1998",
       "url": "https://open.spotify.com/track/0Um5yRo7dOIKpIQpGKT4mW"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 141906,
       "name": "I Will",
       "url": "https://open.spotify.com/track/0wX6mflFA4a72SOcAkDYsY"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 155360,
       "name": "I'd Cry Like A Baby",
       "url": "https://open.spotify.com/track/5orZnvjAjL0j8MAdotqGsU"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 194680,
       "name": "Imagination - Remastered/1998",
       "url": "https://open.spotify.com/track/3204tSLV3EaojXsG5ezqwz"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 135253,
       "name": "Just In Time - Remastered 1998",
       "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 138080,
       "name": "Memories Are Made Of This",
       "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 168466,
       "name": "My Rifle, My Pony And Me",
       "url": "https://open.spotify.com/track/4c0rDKMex24OXtjREhW7qd"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 185773,
       "name": "Non Dimenticar - Remastered 1998",
       "url": "https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7"
@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 150266,
       "name": "Send Me the Pillow You Dream On",
       "url": "https://open.spotify.com/track/7hyuFoept7slNptV126UwW"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 162960,
       "name": "Sway (Quien Sera)",
       "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 159360,
       "name": "Take Me In Your Arms (Torna A Surriento) - Remastered 1998",
       "url": "https://open.spotify.com/track/2hwkWcWEY664YUk6EEFccq"
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 175506,
       "name": "The Man Who Plays The Mandolino",
       "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
@@ -1947,7 +1947,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 141840,
       "name": "Tik-A-Tee, Tik-A-Tay",
       "url": "https://open.spotify.com/track/1d7nWD7CdtUGuYKHXCIZ4j"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 152733,
       "name": "True Love - Remastered",
       "url": "https://open.spotify.com/track/2x12Sb0lxMB5DR6Llzq5GA"
@@ -2041,7 +2041,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 146360,
       "name": "Vieni Su (Say You Love Me, Too) - Remastered 1998",
       "url": "https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX"

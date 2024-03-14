@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Viernes + música nueva + morras talentosas: combo perfecto\. Thalía con Ángela Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,150 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,294 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Divino Desmadre](https://open.spotify.com/track/5wg1pk6zwQ3gWQLrd3A5rO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Boohoo](https://open.spotify.com/album/3BmA5Ekn7N20KrfyenuwE8) | 2:39 |
 | 50 | [Psychedelic Orgasm](https://open.spotify.com/track/5z8H0o98dlKANCnDlKsjkY) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [Psychedelic Orgasm](https://open.spotify.com/album/1152eHgDWVHE88C8ATUmqc) | 3:40 |
 
-Snapshot ID: `MCw4ZjkyYjMzODk3ZjhkZDdmYmVhNzA2MzQ4OTQ1MmJkNWNjYzY2Mzhk`
+Snapshot ID: `MCw3NWYyZmZlMmZlMzdmYTcxMGZkZTI2MjE3ZGExMjIyOTQ1ODc0ZWVm`

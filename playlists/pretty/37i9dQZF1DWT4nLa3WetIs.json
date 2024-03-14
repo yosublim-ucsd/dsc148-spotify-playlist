@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 20 years of 2face's <a href=\"https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw?si=9jrfF9wXRYiDxCpVOJsjgA\">Face2Face Album</a>  ",
-  "num_followers": 149120,
+  "num_followers": 149274,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODY2YjEyYTRmYzE0MTkwMDViNDEwNmI4ZGNiODE4ZjllZTk5MmVk",
+  "snapshot_id": "MCxjOWE2ZWFmNzczZjFiMGJjMDJlMzVhMTUzNjczYTFmYzMwOTIxMGY1",
   "tracks": [
     {
       "added_at": "2024-03-08 11:02:51",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/0JbL1IiYiIQXqb0Et8bDyV"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "duration_ms": 194876,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/4YTMIcFroWpTMRLY8su9bf"
+    },
+    {
+      "added_at": "2024-03-08 11:02:51",
+      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 242893,
       "name": "Pana",
       "url": "https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb"
-    },
-    {
-      "added_at": "2024-03-08 11:02:51",
-      "album": {
-        "name": "Personally",
-        "url": "https://open.spotify.com/album/0JbL1IiYiIQXqb0Et8bDyV"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 194876,
-      "name": "Personally",
-      "url": "https://open.spotify.com/track/4YTMIcFroWpTMRLY8su9bf"
     },
     {
       "added_at": "2024-03-08 11:02:51",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
+        "name": "Least Expected",
+        "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
+      },
+      "artists": [
+        {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Yori Yori",
+      "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
+    },
+    {
+      "added_at": "2024-03-08 11:02:51",
+      "album": {
         "name": "Gameover (Deluxe)",
         "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
-        "name": "Least Expected",
-        "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
+        "name": "Summer Yomuthi",
+        "url": "https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW"
       },
       "artists": [
         {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
         }
       ],
-      "duration_ms": 218426,
-      "name": "Yori Yori",
-      "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
+      "duration_ms": 273600,
+      "name": "Summer YoMuthi",
+      "url": "https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp"
     },
     {
       "added_at": "2024-03-08 11:02:51",
@@ -443,22 +459,6 @@
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
-    },
-    {
-      "added_at": "2024-03-08 11:02:51",
-      "album": {
-        "name": "Summer Yomuthi",
-        "url": "https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW"
-      },
-      "artists": [
-        {
-          "name": "Blaq Diamond",
-          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "Summer YoMuthi",
-      "url": "https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp"
     },
     {
       "added_at": "2024-03-08 11:02:51",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
-        "name": "Adonai (Remix) [feat. Castro]",
-        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Castro",
-          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
-        }
-      ],
-      "duration_ms": 288130,
-      "name": "Adonai (Remix) [feat. Castro]",
-      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
-    },
-    {
-      "added_at": "2024-03-08 11:02:51",
-      "album": {
         "name": "T.I.N.A.",
         "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
       },
@@ -535,18 +515,22 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
-        "name": "Gameover (Deluxe)",
-        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
+        "name": "Adonai (Remix) [feat. Castro]",
+        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
       },
       "artists": [
         {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
         }
       ],
-      "duration_ms": 281359,
-      "name": "Do Me - Deluxe",
-      "url": "https://open.spotify.com/track/0amjxUztXizZbRwGer8o34"
+      "duration_ms": 288130,
+      "name": "Adonai (Remix) [feat. Castro]",
+      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
     },
     {
       "added_at": "2024-03-08 11:02:51",
@@ -567,6 +551,26 @@
       "duration_ms": 225933,
       "name": "Romantic (feat. Tiwa Savage)",
       "url": "https://open.spotify.com/track/5NOH1b1GanDHuc4pwhoPR1"
+    },
+    {
+      "added_at": "2024-03-08 11:02:51",
+      "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Eminado (feat. Don Jazzy)",
+      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
     },
     {
       "added_at": "2024-03-08 11:02:51",
@@ -615,22 +619,18 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
+        "name": "Gameover (Deluxe)",
+        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
         }
       ],
-      "duration_ms": 230253,
-      "name": "Eminado (feat. Don Jazzy)",
-      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
+      "duration_ms": 281359,
+      "name": "Do Me - Deluxe",
+      "url": "https://open.spotify.com/track/0amjxUztXizZbRwGer8o34"
     },
     {
       "added_at": "2024-03-08 11:02:51",
@@ -679,26 +679,6 @@
       "duration_ms": 216266,
       "name": "Gongo Aso",
       "url": "https://open.spotify.com/track/2uRYQDCdF76L5YNZflN8qK"
-    },
-    {
-      "added_at": "2024-03-08 11:02:51",
-      "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        },
-        {
-          "name": "J. Martins",
-          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
-        }
-      ],
-      "duration_ms": 264092,
-      "name": "E No Easy",
-      "url": "https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN"
     },
     {
       "added_at": "2024-03-08 11:02:51",
@@ -755,6 +735,22 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
+        "name": "Legacy (Ahamefuna)",
+        "url": "https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2"
+      },
+      "artists": [
+        {
+          "name": "Duncan Mighty",
+          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Obianuju",
+      "url": "https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W"
+    },
+    {
+      "added_at": "2024-03-08 11:02:51",
+      "album": {
         "name": "Best Of Davido",
         "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
       },
@@ -791,18 +787,22 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
-        "name": "Legacy (Ahamefuna)",
-        "url": "https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
       },
       "artists": [
         {
-          "name": "Duncan Mighty",
-          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
+        {
+          "name": "J. Martins",
+          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
         }
       ],
-      "duration_ms": 221080,
-      "name": "Obianuju",
-      "url": "https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W"
+      "duration_ms": 264092,
+      "name": "E No Easy",
+      "url": "https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN"
     },
     {
       "added_at": "2024-03-08 11:02:51",
@@ -843,30 +843,6 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
-        "name": "Chop My Money",
-        "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "May D",
-          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
-        }
-      ],
-      "duration_ms": 272297,
-      "name": "Chop My Money - Remix",
-      "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
-    },
-    {
-      "added_at": "2024-03-08 11:02:51",
-      "album": {
         "name": "Mondongo",
         "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
       },
@@ -879,26 +855,6 @@
       "duration_ms": 272213,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
-    },
-    {
-      "added_at": "2024-03-08 11:02:51",
-      "album": {
-        "name": "Mushin 2 Mo' Hits",
-        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "You Bad (feat. D'banj)",
-      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
     },
     {
       "added_at": "2024-03-08 11:02:51",
@@ -923,6 +879,26 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
+        "name": "Mushin 2 Mo' Hits",
+        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "You Bad (feat. D'banj)",
+      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
+    },
+    {
+      "added_at": "2024-03-08 11:02:51",
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp"
       },
@@ -939,22 +915,6 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
-        "name": "Dami Duro",
-        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 250257,
-      "name": "Dami Duro",
-      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
-    },
-    {
-      "added_at": "2024-03-08 11:02:51",
-      "album": {
         "name": "Takeover",
         "url": "https://open.spotify.com/album/34PvCMMrpwVwS3dNWvQCNM"
       },
@@ -967,6 +927,46 @@
       "duration_ms": 178666,
       "name": "Takeover",
       "url": "https://open.spotify.com/track/0dq8cqrAO0cLUuPKkAN6LC"
+    },
+    {
+      "added_at": "2024-03-08 11:02:51",
+      "album": {
+        "name": "Chop My Money",
+        "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        }
+      ],
+      "duration_ms": 272297,
+      "name": "Chop My Money - Remix",
+      "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
+    },
+    {
+      "added_at": "2024-03-08 11:02:51",
+      "album": {
+        "name": "Dami Duro",
+        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 250257,
+      "name": "Dami Duro",
+      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
     },
     {
       "added_at": "2024-03-08 11:02:51",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-03-08 11:02:51",
       "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/7kISXLFPktG2yJEQPbYN0J"
+        "name": "Olu Maintain",
+        "url": "https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Olu Maintain",
+          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Kilofeshe",
-      "url": "https://open.spotify.com/track/6vg6CHlcsjLXCDKZHYtzwd"
+      "duration_ms": 255712,
+      "name": "Yahooze",
+      "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
     },
     {
       "added_at": "2024-03-08 11:02:51",

@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-247 songs - 22 hr 44 min
+248 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 | 2018-09-23 | 2023-04-21 |
 | [God Problems](https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [God Problems](https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E) | 9:50 | 2023-11-03 | 2023-11-10 |
 | [Gonna Be Alright \- Radio Version](https://open.spotify.com/track/7nqvOv0a8Ai8o8DATHPVjS) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Gonna Be Alright \(Radio Version\)](https://open.spotify.com/album/7kQsFexK5bd8U19qD6GEmF) | 3:47 | 2023-04-21 | 2023-06-23 |
+| [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 |  |
 | [Good Grace \- Live](https://open.spotify.com/track/1NjomtDtj3fsbZ6rHLO0KJ) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Oceans](https://open.spotify.com/album/0fZbzbYLpHecOvlzmznU4X) | 5:53 | 2019-01-30 | 2022-11-13 |
 | [Good Grace \- Live](https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:53 | 2019-01-30 | 2023-07-07 |
 | [Good Plans / Doxology](https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Good Plans / Doxology](https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH) | 8:15 | 2023-12-15 |  |
@@ -124,7 +125,7 @@
 | [Liberty](https://open.spotify.com/track/2Qjl9RwO2qQZaLpXQgJqIZ) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [Liberty](https://open.spotify.com/album/6OT3uygECDrzpVjGd2rjy3) | 3:57 | 2023-09-15 | 2023-11-03 |
 | [Living Waters](https://open.spotify.com/track/01fqKF13vPT1nnfFtDob60) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Jesu Uyalalela](https://open.spotify.com/album/5TIRsel2yF68JyKn8kTzHP) | 4:52 | 2023-04-21 | 2023-11-03 |
 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 | 2023-04-21 | 2023-12-11 |
-| [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 | 2023-12-15 |  |
+| [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 | 2023-12-15 | 2024-03-14 |
 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 | 2019-08-15 | 2023-11-03 |
 | [Love Theory](https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Love Theory](https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5) | 4:11 | 2019-02-12 | 2023-04-21 |
 | [Makabongwe uJesu](https://open.spotify.com/track/1llOv5AOOgpT1Glx5lXhRg) | [Jumbo](https://open.spotify.com/artist/23GUiGOEzwVMvXhjpO3xYH) | [Siyabonga](https://open.spotify.com/album/58RCw7SK4RdMbATnm0yzdq) | 4:33 | 2023-05-12 | 2023-11-03 |

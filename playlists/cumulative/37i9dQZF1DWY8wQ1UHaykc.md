@@ -2,9 +2,9 @@
 
 ### [Ngetren di 2010an](https://open.spotify.com/playlist/37i9dQZF1DWY8wQ1UHaykc)
 
-> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Geisha
+> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Astrid
 
-115 songs - 7 hr 51 min
+118 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Cinta Luar Biasa](https://open.spotify.com/track/4TPtPQIPMjWoRuZj4JLPDw) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta Luar Biasa](https://open.spotify.com/album/5mCUtD20kAyTi6gmsYwxHt) | 4:17 | 2024-01-05 |  |
 | [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 | 2024-01-05 |  |
 | [Cinta Sendiri](https://open.spotify.com/track/5EkdegwaCNMhVdMwF6b7wZ) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Cerita Cinta 25 Tahun Kahitna](https://open.spotify.com/album/139rp11ERodJI2teyNKkkN) | 4:13 | 2024-01-05 |  |
+| [Cinta Tak Mungkin Berhenti](https://open.spotify.com/track/4xthpyTiqIwZMJzX6UmLtK) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Utuh](https://open.spotify.com/album/0lWHzXhEsdp7kwBSjXSdsB) | 4:22 | 2024-03-14 |  |
 | [Cobalah Mengerti](https://open.spotify.com/track/6y4YFWm1WDrwThOXCALV1E) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF), [Uki](https://open.spotify.com/artist/3Wi7uVHcueSkogkJUgifDz), [Lukman NOAH](https://open.spotify.com/artist/7cqkPIDgCi7INzyMFzvB1w), [Reza NOAH](https://open.spotify.com/artist/3t8gr6iE3A2xnvkc249oRK), [David Noah](https://open.spotify.com/artist/4b8KHsSpH8aBRYyi5SPSNJ), [Momo GEISHA](https://open.spotify.com/artist/1lZKDybT3NPpIpSCD7J95m) | [Suara Lainnya](https://open.spotify.com/album/7MLg9OTj1KECK5ZJTeIPwE) | 5:04 | 2024-01-05 |  |
 | [Could It Be](https://open.spotify.com/track/6Khn20yWc0YGJy1wbkz3Be) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 3:41 | 2024-01-05 |  |
 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 | 2024-01-05 |  |
@@ -69,6 +70,7 @@
 | [Kau Tigakan Cinta](https://open.spotify.com/track/7F3RSsk4kgdWDF0h8xvalZ) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Kau Tigakan Cinta](https://open.spotify.com/album/5c1SVP01BdGT3chGeQhlHE) | 3:36 | 2024-01-05 |  |
 | [Kekasih Bayangan](https://open.spotify.com/track/3BErcieh7kIQIMq64vEbCY) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kekasih Bayangan](https://open.spotify.com/album/0rFXD2kEean8BJDo94teEQ) | 4:43 | 2024-01-05 |  |
 | [Kesempurnaan Cinta](https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kesempurnaan Cinta](https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs) | 3:36 | 2024-01-05 |  |
+| [Ku Dengannya Kau Dengan Dia](https://open.spotify.com/track/24Dk7XFLnMXYuv1U9Qjv3U) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [SIDES](https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw) | 4:28 | 2024-03-14 |  |
 | [Ku Menunggu](https://open.spotify.com/track/2O74dFcLEImQdwv6u3Zjer) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Harmoni: Jalinan Nada Cerita](https://open.spotify.com/album/2OIGarkXqPjwJQxN6IsJOn) | 3:50 | 2024-01-05 |  |
 | [Lagu Untuk Matahari](https://open.spotify.com/track/3SNrsMw5sX2HiCorPA5JXZ) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:41 | 2024-01-05 |  |
 | [Lebih Indah](https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Lebih Indah](https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x) | 4:18 | 2024-01-05 |  |
@@ -107,6 +109,7 @@
 | [Tak Pernah Setengah Hati](https://open.spotify.com/track/1fQXGG0sFipvXLpfZNBnCw) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Tak Pernah Setengah Hati](https://open.spotify.com/album/1mD1MYI8G78f0kfFhno2nA) | 4:01 | 2024-01-05 |  |
 | [Tak Sanggup Lagi](https://open.spotify.com/track/759ZvLrnZ3Q7mEEivQPgrG) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [The Best Of Rossa](https://open.spotify.com/album/2w3xXab78mN8xhPEvAu91z) | 4:09 | 2024-01-05 |  |
 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 | 2024-01-05 |  |
+| [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 | 2024-03-14 |  |
 | [Tanpa Cinta](https://open.spotify.com/track/2e4xYHvEtqSfl70ntZJMp2) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Semua Tentang Cinta](https://open.spotify.com/album/7niZZvWmVMpCOx7eABTnch) | 4:16 | 2024-01-05 |  |
 | [Tanpa Kekasihku](https://open.spotify.com/track/4O6k4SPSTBvohXJcaeZd46) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Whaddup A'..?!](https://open.spotify.com/album/1W681IwrJlLrcfMqXXXD3p) | 5:33 | 2024-01-05 |  |
 | [Tanpa Pesan Terakhir](https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:49 | 2024-01-05 |  |

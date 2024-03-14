@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-699 songs - 1 day 2 hr 19 min
+700 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,8 @@
 | [Montagem Coral](https://open.spotify.com/track/7d27J37Wu0N8ZDB63wFN9I) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Montagem Coral](https://open.spotify.com/album/0bwBO5V57PT6qnOcrp0BtR) | 2:25 | 2023-09-22 | 2023-10-16 |
 | [Montagem Coral](https://open.spotify.com/track/7i4blDvw6VTh2yOwa772E9) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Montagem Coral](https://open.spotify.com/album/4AF62YPM9SvEoJ3RZdzwcB) | 2:25 | 2023-09-22 | 2023-10-25 |
 | [MONTAGEM CORAL \(feat\. Mc Cyclope\)](https://open.spotify.com/track/1Zhzqwu4w6h9OrFJDK9AUQ) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC TH](https://open.spotify.com/artist/3F1443WJZgYSDywzIDYSBr), [Mc Cyclope](https://open.spotify.com/artist/3xIDIb8awFTVp48OtoKEAW) | [MONTAGEM CORAL \(feat\. Mc Cyclope\)](https://open.spotify.com/album/6okX6RHMDNrISnibgpclju) | 2:25 | 2023-09-22 | 2024-01-11 |
-| [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK) | 1:54 | 2024-02-23 |  |
+| [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK) | 1:54 | 2024-02-23 | 2024-03-14 |
+| [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1) | 1:54 | 2024-02-23 |  |
 | [Montagem Dilatação Hipnótica 5.0](https://open.spotify.com/track/2FtXfaiyJDRMoqXNLooqwU) | [DJ Crazy 013](https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29), [Dj Gk7 Original](https://open.spotify.com/artist/7tiJgTm0H2F1qtsjzVVWqB), [DJ Lipe Da Zn](https://open.spotify.com/artist/6AGAWCe3ACpl0wPBgcmxEv) | [Montagem Dilatação Hipnótica 5.0](https://open.spotify.com/album/3PSJUPT4YdbepqHW7ZXsYD) | 2:30 | 2023-10-06 | 2023-12-02 |
 | [Montagem Dilatricação Monumental 2](https://open.spotify.com/track/712pRh5OOQbFqUHjULMuKf) | [DJ OLIVEIRA ORIGINAL](https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4), [DJ Menor da Dz7](https://open.spotify.com/artist/4EuqxGfXWGa5n1jCoPJhBK) | [Montagem Dilatricação Monumental 2](https://open.spotify.com/album/5Mlgy5gqkRnFERm920RvYu) | 1:42 | 2023-12-19 | 2024-01-13 |
 | [Montagem Game 196 e Nem Começou o Filme \(feat\. MC Morena de SP\)](https://open.spotify.com/track/5KAwRUyeAky7zPyRkuuUl9) | [DJ Blakes](https://open.spotify.com/artist/68sRe1jDgKyZ9bYjAvwEAz), [DJ MK DA DZ7](https://open.spotify.com/artist/2Atu34xAie4Mum2NN3o4rG), [MC VN Cria](https://open.spotify.com/artist/40LeQEFO0XM6PI09sYowjn), [MC Morena de SP](https://open.spotify.com/artist/7hZV3aaWoyCn6xQ40w9LQn) | [Montagem Game 196 e Nem Começou o Filme](https://open.spotify.com/album/6eQz3wAHijyDd189Uu3ICV) | 3:45 | 2023-07-14 | 2024-02-24 |

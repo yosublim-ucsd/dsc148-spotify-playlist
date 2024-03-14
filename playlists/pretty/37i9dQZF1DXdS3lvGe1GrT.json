@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Alycia Lang",
-  "num_followers": 63281,
+  "num_followers": 63432,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDI0ZjA4ODc5MzAyYjVjMmRjMTA5YzczN2NmZDA2NGU1ZDI4MWE2",
+  "snapshot_id": "MCxiYzBjMjMyYjRlM2E1ZTIwYTkyNzk3NWFjNjA3MjFiZDFkNjY5NDQ5",
   "tracks": [
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "shaking head",
+        "url": "https://open.spotify.com/album/5FiKwOdK0erlaCZ06n4U12"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "duration_ms": 164220,
+      "name": "shaking head",
+      "url": "https://open.spotify.com/track/0GCzgti2LYrdH93iJiC9hf"
+    },
     {
       "added_at": "2024-02-28 05:00:00",
       "album": {
@@ -43,6 +59,118 @@
     {
       "added_at": "2024-03-06 14:10:40",
       "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/0bVB46dm7GSleUFnDhuDuX"
+      },
+      "artists": [
+        {
+          "name": "Mal Not Bad",
+          "url": "https://open.spotify.com/artist/2ufQNkP4cn7cHHgh9l3jqL"
+        }
+      ],
+      "duration_ms": 234174,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0HTiA0Al8NXUD5NSPvoHVH"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5FyOiAAhEMhNOvoMJ6NdmB"
+      },
+      "artists": [
+        {
+          "name": "Susan O'Neill",
+          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6fyMrWLRwp2GMnXmcjnDel"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "good dog karma",
+        "url": "https://open.spotify.com/album/7i85GGkYE1XniYzld3Cxln"
+      },
+      "artists": [
+        {
+          "name": "phin",
+          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
+        }
+      ],
+      "duration_ms": 205712,
+      "name": "good dog karma",
+      "url": "https://open.spotify.com/track/0V5xAM9ljDHgPLt9dvUFpk"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/242M4czjrcjmYAqa6lDoUQ"
+      },
+      "artists": [
+        {
+          "name": "yeemz",
+          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
+        }
+      ],
+      "duration_ms": 199470,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/1NNe3ZZX7R0P5qOOZU5SnQ"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Slab",
+        "url": "https://open.spotify.com/album/6nUgF40JalU9G6CkcZkHwL"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Wolfe Ave 40",
+      "url": "https://open.spotify.com/track/1kMA15JVoLWJBRJgV6Qdzq"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "A Mother's Touch",
+        "url": "https://open.spotify.com/album/2xKU9gBYRXTOLaVJdYDGJv"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+        }
+      ],
+      "duration_ms": 177520,
+      "name": "A Mother's Touch",
+      "url": "https://open.spotify.com/track/36QR24ko74w3ZZ6RbHjJjb"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Life of the Forbidden",
+        "url": "https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "duration_ms": 236479,
+      "name": "Life of the Forbidden",
+      "url": "https://open.spotify.com/track/7r1zWm9l985uKy0cKlhGUl"
+    },
+    {
+      "added_at": "2024-03-06 14:10:40",
+      "album": {
         "name": "December Song",
         "url": "https://open.spotify.com/album/7busnS3ClOoXxrNPwdeSg5"
       },
@@ -57,20 +185,52 @@
       "url": "https://open.spotify.com/track/2zmX9ZW7OXmB5wZ7xJPssM"
     },
     {
-      "added_at": "2024-03-06 14:10:40",
+      "added_at": "2024-02-28 05:00:00",
       "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/0bVB46dm7GSleUFnDhuDuX"
+        "name": "Your Eyes Tell Stories",
+        "url": "https://open.spotify.com/album/1QgZwqU2YobE0pxiD3tzkE"
       },
       "artists": [
         {
-          "name": "Mal Not Bad",
-          "url": "https://open.spotify.com/artist/2ufQNkP4cn7cHHgh9l3jqL"
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
         }
       ],
-      "duration_ms": 234174,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0HTiA0Al8NXUD5NSPvoHVH"
+      "duration_ms": 320200,
+      "name": "Your Eyes Tell Stories",
+      "url": "https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "The Nonlovers",
+        "url": "https://open.spotify.com/album/0seGpq2Ttoz8T3dQiYZTDY"
+      },
+      "artists": [
+        {
+          "name": "The Nonlovers",
+          "url": "https://open.spotify.com/artist/1hqPrDaljmBzYPYMA6PV9V"
+        }
+      ],
+      "duration_ms": 155898,
+      "name": "anything for you",
+      "url": "https://open.spotify.com/track/5hGXRW8oXPfbSMJcP2xC3f"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/4VSPAtO2C0yEjljN2wQpgt"
+      },
+      "artists": [
+        {
+          "name": "Lila Holler",
+          "url": "https://open.spotify.com/artist/5zQQbAJKIj7byYLnHBqJJO"
+        }
+      ],
+      "duration_ms": 196663,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/0GDyIFoVT49ok0LnFxaYUj"
     },
     {
       "added_at": "2024-03-06 14:10:40",
@@ -135,22 +295,6 @@
       "duration_ms": 197356,
       "name": "Iron and Helium",
       "url": "https://open.spotify.com/track/4bt0B0kirnReeofAcZRO39"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
-        "name": "Your Eyes Tell Stories",
-        "url": "https://open.spotify.com/album/1QgZwqU2YobE0pxiD3tzkE"
-      },
-      "artists": [
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 320200,
-      "name": "Your Eyes Tell Stories",
-      "url": "https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169"
     },
     {
       "added_at": "2024-03-06 14:10:40",
@@ -1493,70 +1637,6 @@
       "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
     },
     {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "IF THE SHOE FITS, WEAR IT",
-        "url": "https://open.spotify.com/album/4cD8ANFI3k5j2jQD2WLrOb"
-      },
-      "artists": [
-        {
-          "name": "Tristan",
-          "url": "https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv"
-        }
-      ],
-      "duration_ms": 252203,
-      "name": "let's hope i move on",
-      "url": "https://open.spotify.com/track/74BQRxwZyVrv0tb5rRhpnc"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "this is gonna hurt",
-        "url": "https://open.spotify.com/album/3bHmG6v5IQqnUgHN6FRBNv"
-      },
-      "artists": [
-        {
-          "name": "The Wren",
-          "url": "https://open.spotify.com/artist/4vrQ9JZljE49zhfIdUyTEZ"
-        }
-      ],
-      "duration_ms": 224171,
-      "name": "this is gonna hurt",
-      "url": "https://open.spotify.com/track/50g1sSfaYnSngEwJjvdQHo"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Leather Wallet (Acoustic)",
-        "url": "https://open.spotify.com/album/1glNmXjE2oT6nhgD8yG5xF"
-      },
-      "artists": [
-        {
-          "name": "Crowe Boys",
-          "url": "https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id"
-        }
-      ],
-      "duration_ms": 283573,
-      "name": "Leather Wallet - Acoustic",
-      "url": "https://open.spotify.com/track/6xFREfS2P82P0SYlOaiFqJ"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Blame The Moon",
-        "url": "https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2"
-      },
-      "artists": [
-        {
-          "name": "Alice Shone",
-          "url": "https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ"
-        }
-      ],
-      "duration_ms": 163783,
-      "name": "Blame The Moon",
-      "url": "https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4"
-    },
-    {
       "added_at": "2024-01-10 17:00:00",
       "album": {
         "name": "I Promise",
@@ -1571,86 +1651,6 @@
       "duration_ms": 221415,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Songs From The Woods",
-        "url": "https://open.spotify.com/album/3ijVpnglTn2BBI6DTDcHRV"
-      },
-      "artists": [
-        {
-          "name": "Alexander Grandjean",
-          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
-        }
-      ],
-      "duration_ms": 177567,
-      "name": "You Wanted Free",
-      "url": "https://open.spotify.com/track/2powPYtAtRWlwYWgqJiZMC"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Wild Garlic",
-        "url": "https://open.spotify.com/album/0nFTaga9Qx7IWDuVT5WSfS"
-      },
-      "artists": [
-        {
-          "name": "KONL",
-          "url": "https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0"
-        }
-      ],
-      "duration_ms": 248337,
-      "name": "Wild Garlic",
-      "url": "https://open.spotify.com/track/63QMSWVvD2rJ9szBFx5ssF"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "New Years",
-        "url": "https://open.spotify.com/album/4a1MoUcaJb7nsNYcSRVU5t"
-      },
-      "artists": [
-        {
-          "name": "Rowena Wise",
-          "url": "https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "New Years",
-      "url": "https://open.spotify.com/track/3iLLnKc0Oz6JTJaMYkzdrY"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Andy",
-        "url": "https://open.spotify.com/album/6jC2JDOo1f9kHqBw1h0UOG"
-      },
-      "artists": [
-        {
-          "name": "Pelvis Wrestley",
-          "url": "https://open.spotify.com/artist/1swnRUP8Yp7HHUswDjVO5p"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Andy",
-      "url": "https://open.spotify.com/track/38PLSvrjsvz2CUwyfiwn6U"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "These Ghosts",
-        "url": "https://open.spotify.com/album/1pZAR1QGc0ZC1VZ0RFwZLP"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ramsey",
-          "url": "https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK"
-        }
-      ],
-      "duration_ms": 272746,
-      "name": "These Ghosts",
-      "url": "https://open.spotify.com/track/6mutJYePzlpQXk2Kf9PGYt"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

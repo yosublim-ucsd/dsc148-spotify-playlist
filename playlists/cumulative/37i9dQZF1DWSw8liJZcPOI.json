@@ -2415,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "D\u2019un vieux Jardin (Snorri Hallgr\u00edmsson Rework)",
+        "url": "https://open.spotify.com/album/1YBOBT8Wx97zDPoES5W0ku"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215030,
+      "name": "D\u2019un vieux Jardin (Snorri Hallgr\u00edmsson Rework)",
+      "url": "https://open.spotify.com/track/6LGkEuLVrk8LJbuO5Ys5En"
+    },
+    {
+      "album": {
         "name": "Earnest Leslye",
         "url": "https://open.spotify.com/album/5srfaoIk7kp5n2anvqsWo3"
       },
@@ -6632,7 +6650,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 245999,
       "name": "Sakura Sakura",
       "url": "https://open.spotify.com/track/0qGzFSA5UixwAbB7RSW65M"

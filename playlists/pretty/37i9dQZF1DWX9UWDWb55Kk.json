@@ -6,27 +6,27 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTQxMjMwNjQ1ZTkwYmE5NTM5ZGJiMDVhMDA0NDhiMGMxMDhhZGNj",
+  "snapshot_id": "MCwwODlhODQ5NDJmMzU1YzEzZDVhNWI3OGQyNjEwYmQxZGMyNjExZGFj",
   "tracks": [
     {
       "added_at": "2023-10-21 00:04:51",
       "album": {
         "name": "Y3Y2",
-        "url": "https://open.spotify.com/album/3Bdh2N5sBNxHN2YkKGI8Cr"
+        "url": "https://open.spotify.com/album/2OTomwELFbr0pPyklxV9NI"
       },
       "artists": [
         {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        },
-        {
           "name": "Carz\u00e9",
           "url": "https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv"
+        },
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
         }
       ],
       "duration_ms": 169756,
       "name": "Lugar Seguro 3.0",
-      "url": "https://open.spotify.com/track/0Q2iFOzcpgpulStIbS3XXQ"
+      "url": "https://open.spotify.com/track/1amVFHxrLKTka5o3iy2PRn"
     },
     {
       "added_at": "2023-10-21 00:04:51",

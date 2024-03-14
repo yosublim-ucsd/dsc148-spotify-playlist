@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,804 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,817 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 51 | [Ærbeskær](https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærbeskær](https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds) | 2:15 |
 | 52 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 |
 | 53 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
-| 54 | [Den fineste Tesla´n](https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq) | [Jon Niklas Rønning](https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw), [Pernille Øiestad](https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ), [Ole M\. Aagenæs](https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P) | [Den fineste Tesla´n](https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th) | 3:04 |
-| 55 | [Alt det der \(feat\. Lars\-Erik Blokkhus & Dag Ingebrigtsen\)](https://open.spotify.com/track/255CixwgWFfqHB1liw1LPE) | [Landeveiens Helter](https://open.spotify.com/artist/4q4aWx2s5KS9s0FA8MTRn7), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY), [Lars Erik Blokkhus](https://open.spotify.com/artist/6wMcOYgBlkGB7Vj888cNGr), [Dag Ingebrigtsen](https://open.spotify.com/artist/65Sh6fBb85Hm3uLuETK3Ux) | [Alt det der \(feat\. Lars\-Erik Blokkhus & Dag Ingebrigtsen\)](https://open.spotify.com/album/3juWqAxnKuVVCNQHxOVAAl) | 2:57 |
+| 54 | [Alt det der \(feat\. Lars\-Erik Blokkhus & Dag Ingebrigtsen\)](https://open.spotify.com/track/255CixwgWFfqHB1liw1LPE) | [Landeveiens Helter](https://open.spotify.com/artist/4q4aWx2s5KS9s0FA8MTRn7), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY), [Lars Erik Blokkhus](https://open.spotify.com/artist/6wMcOYgBlkGB7Vj888cNGr), [Dag Ingebrigtsen](https://open.spotify.com/artist/65Sh6fBb85Hm3uLuETK3Ux) | [Alt det der \(feat\. Lars\-Erik Blokkhus & Dag Ingebrigtsen\)](https://open.spotify.com/album/3juWqAxnKuVVCNQHxOVAAl) | 2:57 |
+| 55 | [Den fineste Tesla´n](https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq) | [Jon Niklas Rønning](https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw), [Pernille Øiestad](https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ), [Ole M\. Aagenæs](https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P) | [Den fineste Tesla´n](https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th) | 3:04 |
 | 56 | [Kainn Æ Få Lov](https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 2:52 |
 | 57 | [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 |
 | 58 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 |
 | 70 | [Trøbbel i paradis](https://open.spotify.com/track/3kBPoPg8IY1aHZSNL0Gdn9) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Trøbbel i paradis](https://open.spotify.com/album/7mgGajRYcoiGxLq7iTME8T) | 2:21 |
 
-Snapshot ID: `MCxjY2I4YTQxYjUxMmRiYjgzMjhjYWQ3MGMyNGUzODE5Y2YwZjllY2Nj`
+Snapshot ID: `MCxkN2VmM2E0YjVmZjUzMjllYzc3Yjc1MDhjNDhlMzJkMDU0YTVkYzQ5`

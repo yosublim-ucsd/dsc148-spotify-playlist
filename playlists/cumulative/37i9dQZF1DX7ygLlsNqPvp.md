@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Omar Sterling
 
-151 songs - 7 hr 40 min
+152 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Ride \(feat\. Terrist Carter & O'Kenneth\)](https://open.spotify.com/track/4EPXk7ufo9aCCPHNnEN0lZ) | [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Terrist Carter](https://open.spotify.com/artist/0kSLW8DI5S6rqiJJD5f1zF), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Ride \(feat\. Terrist Carter & O'Kenneth\)](https://open.spotify.com/album/6VX52TW9PBvJAroJE1vHHt) | 2:48 | 2023-06-16 |  |
 | [Rockstar](https://open.spotify.com/track/4nnqdKMZmJm6M5UhCjh0Fo) | [Kojo Loki](https://open.spotify.com/artist/0FK086itIMJLIcYnZGf1Bw), [Akola Kituwa](https://open.spotify.com/artist/1kcpQRC6ZsprIfhrtaom5l), [Freeza Gigs](https://open.spotify.com/artist/1fkPHUbvQGPgsHgPHfeKOo) | [Rockstar](https://open.spotify.com/album/1tCD72gxYMjtPcWeuBOBL2) | 3:14 | 2022-10-13 | 2022-11-26 |
 | [Roses](https://open.spotify.com/track/1f47jNLpMn4L1OeYiFamS0) | [Garey Godson](https://open.spotify.com/artist/1aUSlNPvVz5IYg9sSsEDPK), [Atown TSB](https://open.spotify.com/artist/032FKWPyf8fsKZN7h3RA0G), [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf) | [Roses](https://open.spotify.com/album/6dWKR2XO4GmRR18f1ckJDr) | 2:56 | 2024-01-19 | 2024-02-23 |
-| [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 | 2024-01-05 |  |
+| [Sa Me](https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU) | 2:48 | 2024-03-08 |  |
+| [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 | 2024-01-05 | 2024-03-14 |
 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 | 2023-10-27 |
 | [Senza Me](https://open.spotify.com/track/3okTuqX0Kly3X0JUPXh3gb) | [$illy Gusti](https://open.spotify.com/artist/1VxRFWSTfv8K7fb7G52LrU), [Young Ben](https://open.spotify.com/artist/15mEoa1GpNMwYCLFZT3hKo) | [Senza Me](https://open.spotify.com/album/5Jxn6Z0ozDQjR0mZGIuJnd) | 2:17 | 2023-05-11 | 2023-08-11 |
 | [Show Working](https://open.spotify.com/track/2mwqFfDi6vQCI5QFUp1g1I) | [st Lennon](https://open.spotify.com/artist/1EwRNWlGnMEf3K515NAPvB) | [Show Working](https://open.spotify.com/album/6EP7oNJfif0bUl2AFxWWSn) | 2:08 | 2024-01-12 | 2024-01-19 |

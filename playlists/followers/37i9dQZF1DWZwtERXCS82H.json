@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 1140638,
+  "2024-03-14": 1140970,
   "date_first_scraped": "2022-04-20",
   "description": "Calm and quiet piano music for reading.",
   "name": "Reading Soundtrack",
@@ -12531,10 +12531,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 154625,
       "name": "Why Talk",
       "url": "https://open.spotify.com/track/1M8F8Wav4lOZstOtFxGo56"
+    },
+    {
+      "album": {
+        "name": "About The Known",
+        "url": "https://open.spotify.com/album/1II575rpuj84021opzGTJ3"
+      },
+      "artists": [
+        {
+          "name": "Zeppi",
+          "url": "https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Why Talk",
+      "url": "https://open.spotify.com/track/5eoIxoSCpVym392lDtUVDd"
     },
     {
       "album": {

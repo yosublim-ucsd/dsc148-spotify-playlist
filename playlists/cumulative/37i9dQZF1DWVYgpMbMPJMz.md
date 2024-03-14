@@ -4,7 +4,7 @@
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="spotify:artist:3LoDhoZo5Mkue9sAuj1KHb">VOUS Worship</a>
 
-504 songs - 2 day 0 hr 19 min
+505 songs - 2 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,8 @@
 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:01 | 2022-12-02 | 2023-03-25 |
 | [Same God \- Radio Version](https://open.spotify.com/track/2nidf7ZSu4eyL0jYpA6vrE) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Same God \(Radio Version\)](https://open.spotify.com/album/0ivlHXQulyGY24zM2nHTV5) | 4:24 | 2022-06-17 | 2022-08-20 |
 | [Sanctuary](https://open.spotify.com/track/5mnX4IOXXXTqqwxXdstHTk) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Sanctuary](https://open.spotify.com/album/6NUYDhygJ1vybEzwqESuel) | 4:39 | 2022-02-25 | 2022-04-23 |
-| [Satisfied \- Live](https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Sing As One \(Live\)](https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6) | 7:43 | 2023-07-21 |  |
+| [Satisfied \(Live\)](https://open.spotify.com/track/3GABPXLmKujNQxOF8JMJTF) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Sing As One](https://open.spotify.com/album/2KQF01EPLOTUAdwP0FKejw) | 7:43 | 2024-03-08 |  |
+| [Satisfied \- Live](https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Sing As One \(Live\)](https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6) | 7:43 | 2023-07-21 | 2024-03-14 |
 | [Satisfied / Keep My Eyes Up \- Medley](https://open.spotify.com/track/1K79lWG1jzrZh4AY7uelBV) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire](https://open.spotify.com/album/5yZ2pKz63STf8a7ZbBkASd) | 7:26 | 2023-01-27 | 2023-04-09 |
 | [Scandal Of Grace \- Live At Red Rocks](https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Zion \(X\)](https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV) | 4:16 | 2023-10-06 |  |
 | [Scatter](https://open.spotify.com/track/02rivs8ZeJxg3c0PwjxTSo) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Scatter](https://open.spotify.com/album/6AkLjVZEVlZK5bwYOecZHP) | 4:40 | 2023-09-15 | 2023-10-14 |

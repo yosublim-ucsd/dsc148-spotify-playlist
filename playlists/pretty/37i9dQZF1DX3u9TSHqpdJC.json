@@ -1,13 +1,161 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Carlina de Place. Artwork by Paola Saliby",
-  "num_followers": 207218,
+  "description": "The best new pop music by independent artists and labels. Cover: Emerson Azarian. Artwork by Paola Saliby",
+  "num_followers": 207306,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzZmNTk1MDI4NjI0YTc4OGZlYWJhMTYyYTQ3ZDM5Njg5NjAxZWQ3",
+  "snapshot_id": "MCw5NWZhNjY3NTgwYWFlNDM2ZGJiYmM2NTE0ZTBlN2IyMDk0NjdlMjc5",
   "tracks": [
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "That Energy",
+        "url": "https://open.spotify.com/album/0Ecmcz27yUk82z7MJSILBX"
+      },
+      "artists": [
+        {
+          "name": "Emerson Azarian",
+          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
+        }
+      ],
+      "duration_ms": 174851,
+      "name": "That Energy",
+      "url": "https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/16PKaDC9hWFS5qCNiFbHaR"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "duration_ms": 219566,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/1SMbbkmy371096e60XcstR"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE"
+      },
+      "artists": [
+        {
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Heartbreak In Heaven",
+        "url": "https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sklar",
+          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
+        }
+      ],
+      "duration_ms": 141368,
+      "name": "Heartbreak In Heaven",
+      "url": "https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/2Zt0cDgogkqOKvSqAqX3jb"
+      },
+      "artists": [
+        {
+          "name": "Fraser Churchill",
+          "url": "https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/0882GzD9srKQG4CvIWWbWo"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Your Church",
+        "url": "https://open.spotify.com/album/4aRQMu09wxEnhjzextiCex"
+      },
+      "artists": [
+        {
+          "name": "Emma Jayne",
+          "url": "https://open.spotify.com/artist/7ubWjhhe5vngwLTDrd2PEF"
+        },
+        {
+          "name": "Rabbi Jericho Vincent",
+          "url": "https://open.spotify.com/artist/6gX6Z5EEShw1t9IIkwfdt3"
+        }
+      ],
+      "duration_ms": 136379,
+      "name": "Your Church",
+      "url": "https://open.spotify.com/track/22FdRSyO4wP5WjiJGP957u"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Bettin' On You",
+        "url": "https://open.spotify.com/album/1pzmtKPMu2WnNFhD43D0IQ"
+      },
+      "artists": [
+        {
+          "name": "Jake Puliti",
+          "url": "https://open.spotify.com/artist/7ME8z9PsFOP7BuT9BxSphP"
+        }
+      ],
+      "duration_ms": 220728,
+      "name": "Bettin' On You",
+      "url": "https://open.spotify.com/track/5B5ZMsG57KqsnA5bFuTwGS"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "walk away",
+        "url": "https://open.spotify.com/album/5IELJPwvxu1C13dnZUmlxf"
+      },
+      "artists": [
+        {
+          "name": "M\u014dzi",
+          "url": "https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4"
+        }
+      ],
+      "duration_ms": 128843,
+      "name": "walk away",
+      "url": "https://open.spotify.com/track/4qPlGME9gibeMHrhLLq1KR"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/4Hnb04T1C12RMRPVyxN9Z7"
+      },
+      "artists": [
+        {
+          "name": "Grant McManus",
+          "url": "https://open.spotify.com/artist/6C6kOE6DCMfG6Kaw9qyOQR"
+        }
+      ],
+      "duration_ms": 166149,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/1QaqQZ4djl0Zis22GHieUy"
+    },
     {
       "added_at": "2024-03-06 05:00:00",
       "album": {
@@ -327,22 +475,6 @@
       "duration_ms": 173107,
       "name": "I Will Let You Go",
       "url": "https://open.spotify.com/track/1ZKh4L8rWHcKPcUEy00mmm"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "Youniverse",
-        "url": "https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sklar",
-          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Youniverse",
-      "url": "https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN"
     },
     {
       "added_at": "2024-02-28 05:00:00",
@@ -771,22 +903,6 @@
     {
       "added_at": "2024-02-21 05:00:00",
       "album": {
-        "name": "Face Card",
-        "url": "https://open.spotify.com/album/2DDzCw6ZK7qos7nueMfrJE"
-      },
-      "artists": [
-        {
-          "name": "Emerson Azarian",
-          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
-        }
-      ],
-      "duration_ms": 167767,
-      "name": "Face Card",
-      "url": "https://open.spotify.com/track/61GVPKAnqFecUWee4ulZuS"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
         "name": "A Cool Car And A Good Smile",
         "url": "https://open.spotify.com/album/1oi244o3aL9rZoXi06mNDr"
       },
@@ -1045,22 +1161,6 @@
       "url": "https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe"
     },
     {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "BAD KARMA",
-        "url": "https://open.spotify.com/album/1s7LXlHTRTF4UVLh02haTn"
-      },
-      "artists": [
-        {
-          "name": "My Name Is Alex",
-          "url": "https://open.spotify.com/artist/1MaDqHjCtpHgPJHQz5bV2C"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "BAD KARMA",
-      "url": "https://open.spotify.com/track/3NONd2k32jYHxuSPGENaJU"
-    },
-    {
       "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Everything's Fine",
@@ -1097,22 +1197,6 @@
       "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
     },
     {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "Sky Up",
-        "url": "https://open.spotify.com/album/17URfXjuXdGaAYw7ecG8M9"
-      },
-      "artists": [
-        {
-          "name": "Haven Madison",
-          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Sky Up",
-      "url": "https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG"
-    },
-    {
       "added_at": "2024-01-25 05:07:27",
       "album": {
         "name": "Half of forever",
@@ -1143,38 +1227,6 @@
       "duration_ms": 176902,
       "name": "hate myself for loving you",
       "url": "https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Sippin'",
-        "url": "https://open.spotify.com/album/3uazNdJqM7eWTrnjl8YhOd"
-      },
-      "artists": [
-        {
-          "name": "Tohsca",
-          "url": "https://open.spotify.com/artist/6Fwf8BxpZpyyUXpQV1xRL8"
-        }
-      ],
-      "duration_ms": 179870,
-      "name": "Sippin'",
-      "url": "https://open.spotify.com/track/5kTFaEuTd6eNUPktiSDm1k"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "5555",
-        "url": "https://open.spotify.com/album/5BGpC1K1Edhh4X3X8KGUpL"
-      },
-      "artists": [
-        {
-          "name": "..villa?",
-          "url": "https://open.spotify.com/artist/4GNV4dCNqiSvw6sCzSa5nR"
-        }
-      ],
-      "duration_ms": 195771,
-      "name": "5555",
-      "url": "https://open.spotify.com/track/1s2J8T4R7McYkfOXgjQP1q"
     },
     {
       "added_at": "2024-01-31 05:00:00",
@@ -1371,22 +1423,6 @@
     {
       "added_at": "2024-01-24 05:00:00",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/4L8dQDEmy0CCN0ZonRAthg"
-      },
-      "artists": [
-        {
-          "name": "Julyan",
-          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/5sMNeg0MEPWlpbjwCg2gRH"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
         "name": "Blame It On You",
         "url": "https://open.spotify.com/album/3iCfKKQ8KW8aicP8zadJMd"
       },
@@ -1399,22 +1435,6 @@
       "duration_ms": 203125,
       "name": "Blame It On You",
       "url": "https://open.spotify.com/track/3zaKVvx1nm5wiEBVBdMpM7"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "FUCK. IT.",
-        "url": "https://open.spotify.com/album/2B1CeZMwglOzjvdhvPh3BD"
-      },
-      "artists": [
-        {
-          "name": "Limandi",
-          "url": "https://open.spotify.com/artist/1KqH2GQTqQOeJZI75Zv8uS"
-        }
-      ],
-      "duration_ms": 165992,
-      "name": "FUCK. IT.",
-      "url": "https://open.spotify.com/track/18wQ1oES9OK2gYu7oUqrp2"
     },
     {
       "added_at": "2024-01-17 05:00:00",

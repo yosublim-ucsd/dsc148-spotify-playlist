@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-483 songs - 1 day 1 hr 27 min
+484 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2022-06-10 | 2022-07-21 |
 | [FΛSHION \- Speed Up](https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION \(Slow + Speed Up Edit\)](https://open.spotify.com/album/35L2KnjTRZIdd91mIXgjFm) | 2:06 | 2024-01-19 | 2024-02-23 |
 | [FΛSHION \- Speed Up](https://open.spotify.com/track/7hbqhzGV5y3cxtGE1ajbpb) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FASHION \(Slow + Speed Up Edit\)](https://open.spotify.com/album/37UPqeHscegS52sP1AwRsr) | 2:06 | 2024-02-21 | 2024-03-01 |
-| [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 | 2024-02-09 |  |
+| [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 | 2024-02-09 | 2024-03-14 |
 | [Ghost Light](https://open.spotify.com/track/2kDXDdn1SXFlOwTfWRGIT5) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Ghost Light](https://open.spotify.com/album/4v9P47TGhiu4ZOsIrGXjIM) | 3:11 | 2023-07-18 | 2023-08-02 |
 | [Ghosts](https://open.spotify.com/track/1Rpj9CZE7cGSXUCfiBf0eA) | [Jacob Tillberg](https://open.spotify.com/artist/6aJRwrwfOffz7RMh2Cfm8e) | [Ghosts](https://open.spotify.com/album/5Y9i4ZFAG2GM7ugIM916dY) | 3:35 | 2022-08-23 | 2022-08-31 |
 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 | 2022-12-06 |  |
@@ -286,6 +286,7 @@
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-08-12 | 2022-10-01 |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-05-06 | 2022-07-29 |
 | [Nevada](https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj) | 3:28 | 2022-05-06 | 2023-08-19 |
+| [Never Be Lonely \- Cascada Remix](https://open.spotify.com/track/2OOCFcLq9vDnxbMvAMopi3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Never Be Lonely \(Cascada Remix\)](https://open.spotify.com/album/0CNe6GLbpxRWKXYTK8bytw) | 2:06 | 2024-03-08 |  |
 | [Never Let You Go \(feat\. Sofia Reyes\) \- EVE Re\-Imagination](https://open.spotify.com/track/03KkCDcl9URL2PBvFYHKnK) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [EVE](https://open.spotify.com/artist/4EtmcpFzg2YAY2T81sJxtK) | [Never Let You Go \(feat\. Sofia Reyes\) \[EVE Re\-Imagination\]](https://open.spotify.com/album/0VinylAsvPl3hgxOuoSPQ2) | 4:21 | 2022-05-06 | 2022-07-28 |
 | [Nightlight](https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Nightlight](https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE) | 3:42 | 2022-07-14 |  |
 | [Nightmares](https://open.spotify.com/track/35EpJBwkHu4uVBiQKokIPr) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Gallie Fisher](https://open.spotify.com/artist/4aTYZNNuByNhd8QLrLMpo3) | [DUALITY](https://open.spotify.com/album/4wK7dyclcJymopSCrF8fLz) | 3:24 | 2022-05-06 | 2022-07-29 |

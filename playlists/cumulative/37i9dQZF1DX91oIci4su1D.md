@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-857 songs - 2 day 4 hr 2 min
+858 songs - 2 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [Love Is An Act of Courage](https://open.spotify.com/track/6FcvXsmVeqDcjDyHakYz60) | [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU), [Costa](https://open.spotify.com/artist/7IIb3I34G7MKHkscqTWPIJ) | [Love Is An Act of Courage](https://open.spotify.com/album/6FIB3ucRFLk8DPnhCer9SO) | 3:21 | 2022-07-22 | 2022-07-27 |
 | [Love Like We're Dying](https://open.spotify.com/track/2BaS9Wc7gBIkicXxtIOUUH) | [AFTERUS](https://open.spotify.com/artist/7aypFEIbgPh3LrdhAC6C3E) | [Love Like We're Dying](https://open.spotify.com/album/0bGX3xsVSohtC2i22yXamg) | 4:41 | 2024-02-16 |  |
 | [Love Loud](https://open.spotify.com/track/3DGlzGu8B8YE0Eklb4QIdG) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Ciaran McAuley presents Elï](https://open.spotify.com/artist/0mD8WnekMqwZfNT3s5CwCp) | [Love Loud](https://open.spotify.com/album/7ofobncYCierBbrI0Gmo5x) | 2:54 | 2024-03-01 |  |
-| [Love Me Higher](https://open.spotify.com/track/1FeCPgiLDpRB2ItfimFUTA) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Love Me Higher](https://open.spotify.com/album/7oGwRbmzvEWpmi2NUh0P4x) | 3:45 | 2023-07-14 |  |
+| [Love Me Higher](https://open.spotify.com/track/1FeCPgiLDpRB2ItfimFUTA) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Love Me Higher](https://open.spotify.com/album/7oGwRbmzvEWpmi2NUh0P4x) | 3:45 | 2023-07-14 | 2024-03-14 |
 | [Love My Way \- Craig Connelly Remix](https://open.spotify.com/track/34oMEfdZky9etr51GYBCQf) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Love My Way \(Craig Connelly Remix\)](https://open.spotify.com/album/0zRhCMJieMUV0DY5IJ8La8) | 4:37 | 2023-06-02 |  |
 | [Love U More \(Solarstone Pure Mix\) \- Mixed](https://open.spotify.com/track/4PtpNI6JFjASuIJCCPckxV) | [Sunscreem](https://open.spotify.com/artist/0rMScAC6pl5e5tF5zrwjdI), [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Solarstone presents Pure Trance Vol\. 9 \(mixed by Solarstone and Stoneface & Terminal\)](https://open.spotify.com/album/4ykzHbhg9DL5q1xAECvX3I) | 5:47 | 2021-12-17 | 2022-04-02 |
 | [Love You More](https://open.spotify.com/track/41KNb9756Ewaa7Smn2QSRL) | [Dave Neven](https://open.spotify.com/artist/3nmkZFOvLJkwj6r54ievPs), [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S) | [Love You More](https://open.spotify.com/album/6MX16K9xqqLjPoQsArhnsN) | 3:58 | 2022-03-18 | 2023-04-09 |
@@ -809,6 +809,7 @@
 | [Unreal](https://open.spotify.com/track/0lshe5VyHv6KqY4dY8y8I0) | [C\-Systems](https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp) | [Unreal](https://open.spotify.com/album/3zKc2kd8cR0l46l7dLPRid) | 3:52 | 2023-10-27 |  |
 | [Unseen](https://open.spotify.com/track/35w8wgWeqY7SuORIxySxrl) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Unseen](https://open.spotify.com/album/0FRl1ZOXWv8AnkGkVAUwlm) | 3:04 | 2023-03-31 | 2023-05-20 |
 | [Until the End](https://open.spotify.com/track/2S86ckLswsCH7P2FAlWqhI) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Nic Toms](https://open.spotify.com/artist/6qhQ81RYYMZfBgPE0f5bkD) | [Until the End](https://open.spotify.com/album/7GTIR7KG6CV1tIDa4CvBaI) | 3:38 | 2023-05-19 | 2024-01-28 |
+| [Until We Meet Again](https://open.spotify.com/track/0KoR1AcgviYrHK78mIyuYu) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Until We Meet Again](https://open.spotify.com/album/3L2WmaK64sDqllHJL14mkO) | 3:41 | 2024-03-08 |  |
 | [Upon The Horizon](https://open.spotify.com/track/6UCpR17pbWqO88Xf7TwZq6) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Upon The Horizon](https://open.spotify.com/album/3kZS8yRn2teo9i1wrxJ1lc) | 4:08 | 2022-09-23 | 2022-11-19 |
 | [Urban Shakedown \- Bryan Kearney Remix](https://open.spotify.com/track/6Uk7rJ7HJubo1U4BjLh44v) | [Solar Factor](https://open.spotify.com/artist/2MnlwaudwiNCvyeYlZw89k), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Urban Return EP](https://open.spotify.com/album/7tS96ajHv3Dtq4VLD0kic0) | 7:09 | 2022-03-25 | 2022-04-16 |
 | [Velvet Morning 22](https://open.spotify.com/track/6WP0pXmMVycJwQk6L7xesG) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [25 Years, Pt\. 4](https://open.spotify.com/album/32PBafVEACtSgbTsno4e8p) | 2:58 | 2022-10-14 | 2023-06-10 |

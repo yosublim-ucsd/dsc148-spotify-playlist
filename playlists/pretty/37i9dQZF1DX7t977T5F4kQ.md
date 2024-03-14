@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,236 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,242 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 20 | [Kaba](https://open.spotify.com/track/4vNO2QV06RA4abMvrGkZ6C) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 2:51 |
 | 21 | [Not God \- Remix](https://open.spotify.com/track/3WOjwhAJopm0H1d7Z804JP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Not God \(Remix\)](https://open.spotify.com/album/05ruDWqO8oNBoz4L66xzG2) | 3:35 |
 | 22 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 |
-| 23 | [Overlord](https://open.spotify.com/track/56gwuqnG5UDn3rTTTs61AH) | [Wutah Kobby](https://open.spotify.com/artist/4XdiQkB8WIPxaSdp0uRWox), [Kwame Yogot](https://open.spotify.com/artist/11HL9RVs0dNFEwOgvrUYFY) | [Overlord](https://open.spotify.com/album/760ibMaRsLqLNWGMaCujFa) | 2:19 |
+| 23 | [Overload](https://open.spotify.com/track/56gwuqnG5UDn3rTTTs61AH) | [Wutah Kobby](https://open.spotify.com/artist/4XdiQkB8WIPxaSdp0uRWox), [Kwame Yogot](https://open.spotify.com/artist/11HL9RVs0dNFEwOgvrUYFY) | [Overload](https://open.spotify.com/album/760ibMaRsLqLNWGMaCujFa) | 2:19 |
 | 24 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
 | 25 | [Try Again](https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Try Again](https://open.spotify.com/album/4vGY5krrhuhWRNbO1Fd3Xd) | 3:23 |
 | 26 | [Only You](https://open.spotify.com/track/6cYUGGEDcAouyCx8LJk8SG) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Only You](https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Chemistry](https://open.spotify.com/track/1odYuNwkJ51VtGyfR8DiVl) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [Chemistry](https://open.spotify.com/album/7kPLCFzzaPgJzCOCBFZ3ag) | 3:41 |
 | 80 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 |
 
-Snapshot ID: `MCwyY2E3NWU3YWJlOGFkNjc3ZDI2NGVjMTVjN2UyZGZlODljODg4NjQw`
+Snapshot ID: `MCwzNWNiODg3ZTQwYzM5ZjU3ZjNkZTBiNTUyYjA4NjZmOGU4NDE3MWU3`

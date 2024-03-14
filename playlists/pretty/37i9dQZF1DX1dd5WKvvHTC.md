@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:4wrzxtBZw20ufDstKyTnnP">Rachel Chinouriri</a> with collaborators HYLNU and Glen Roberts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,094 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,173 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 16 | [Keep It Real](https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [ARIA](https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm) | [Keep It Real](https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w) | 2:22 |
 | 17 | [Don't \(Fall in Love\)](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Don't \(Fall in Love\)](https://open.spotify.com/album/2lHY8Wj18jVV6Ql9upGU2S) | 2:21 |
 | 18 | [Give Me](https://open.spotify.com/track/2qtEMFFGe7hODRfTLjkRLl) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Give Me](https://open.spotify.com/album/4VX0z1gIfnSzQnGHga7E2w) | 2:57 |
-| 19 | [What Sundays Are For](https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO) | [Tamzene Allison\-Power](https://open.spotify.com/artist/3fFVKMPzD8L3ZcMD7FIwrG) | [What Sundays Are For](https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5) | 2:52 |
+| 19 | [What Sundays Are For](https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [What Sundays Are For](https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5) | 2:52 |
 | 20 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
 | 21 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 |
 | 22 | [Nightingale](https://open.spotify.com/track/5fe7xaJWVkljq4QjKixmtN) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Nightingale](https://open.spotify.com/album/4g8tx2nwYVWfo24xRH5fm8) | 3:06 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 38 | [OMG](https://open.spotify.com/track/39Tp0g9FmNfeRxOdh9mdUG) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [OMG](https://open.spotify.com/album/5nkLySr4VplyXkX7KVK2e0) | 2:41 |
 | 39 | [Anna \(Come Back\)](https://open.spotify.com/track/7mqHdhp7j8sIBPO1CjUmZJ) | [Brasko](https://open.spotify.com/artist/7pEbFi2YyD5d3Mxsqp5r4U) | [Anna \(Come Back\)](https://open.spotify.com/album/3OW6JJeLpagSnWjaYv2eRg) | 2:16 |
 
-Snapshot ID: `MCxkMzJiNTFkOGM5Y2JmNDkxYWExNzdiMTg0Y2EwMzEzYjE2YTgzY2Ex`
+Snapshot ID: `MCwyMjg1ZWFlOTYwNjQzYWUwNmRkYzY0MmJkYzZkMmU1NWVkMmY0ZmUy`

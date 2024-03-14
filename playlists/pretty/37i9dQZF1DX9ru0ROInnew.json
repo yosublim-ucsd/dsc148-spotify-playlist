@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 113810,
+  "num_followers": 113836,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTU4NDliNDg5MjY2MDEwNTU5MDY0ZTU0NTRmNjUzZTY0M2E2NGQ0",
+  "snapshot_id": "MCw0Y2Q5MzY1NGIwYjgwMmFlNTA1MzgxOGRjZWFmMDI4OGQ2NmI0OTUz",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -827,6 +827,34 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Percocet (Remix)",
+        "url": "https://open.spotify.com/album/0LYlVklStGn0LfOPh9cTEJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Chris Wandell",
+          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
+        }
+      ],
+      "duration_ms": 314671,
+      "name": "Percocet (Remix)",
+      "url": "https://open.spotify.com/track/7jFl7qbhtGg81SkszfgVGF"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
         "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
       },
@@ -875,34 +903,6 @@
       "duration_ms": 230520,
       "name": "Krippy Kush",
       "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Percocet (Remix)",
-        "url": "https://open.spotify.com/album/0LYlVklStGn0LfOPh9cTEJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        },
-        {
-          "name": "Chris Wandell",
-          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
-        }
-      ],
-      "duration_ms": 314671,
-      "name": "Percocet (Remix)",
-      "url": "https://open.spotify.com/track/7jFl7qbhtGg81SkszfgVGF"
     },
     {
       "added_at": "2023-05-25 17:50:01",

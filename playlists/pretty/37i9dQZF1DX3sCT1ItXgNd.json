@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Manuel Turizo, Lola Indigo",
-  "num_followers": 975397,
+  "num_followers": 975477,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzE0MDBmZjA0MDBmYTg2OWFkMGFkMzA4ZGNkMzk0OWM1OGQwZDVh",
+  "snapshot_id": "MCwxNTQxN2U4NDUzOTAyNGY2N2I0ZGZlNjY1MDNlOTYyZWRmYWU2ODFl",
   "tracks": [
     {
       "added_at": "2024-03-11 12:07:59",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
-        "name": "Thelma & Louise",
-        "url": "https://open.spotify.com/album/2YTB67om6z9VDi94wTPdjT"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        },
-        {
-          "name": "Julieta",
-          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
-        }
-      ],
-      "duration_ms": 161194,
-      "name": "Thelma & Louise",
-      "url": "https://open.spotify.com/track/7m8aetuFspDvP5GXhVJBQx"
-    },
-    {
-      "added_at": "2024-03-11 12:07:59",
-      "album": {
         "name": "Todo cambia",
         "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
       },
@@ -559,18 +539,18 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
-        "name": "Suerte ;)",
-        "url": "https://open.spotify.com/album/5dnLUdUgCz47IqbGd9z6VZ"
+        "name": "La Romana",
+        "url": "https://open.spotify.com/album/2zn0zFvTLqWtrFM4qIZhBd"
       },
       "artists": [
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 164833,
-      "name": "Suerte ;)",
-      "url": "https://open.spotify.com/track/6sn1eF23Zvacs0oshUciXA"
+      "duration_ms": 155853,
+      "name": "La Romana",
+      "url": "https://open.spotify.com/track/6SwuM3zEorFitaGONgDFbb"
     },
     {
       "added_at": "2024-03-11 12:07:59",
@@ -591,18 +571,18 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
-        "name": "La Romana",
-        "url": "https://open.spotify.com/album/2zn0zFvTLqWtrFM4qIZhBd"
+        "name": "Suerte ;)",
+        "url": "https://open.spotify.com/album/5dnLUdUgCz47IqbGd9z6VZ"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 155853,
-      "name": "La Romana",
-      "url": "https://open.spotify.com/track/6SwuM3zEorFitaGONgDFbb"
+      "duration_ms": 164833,
+      "name": "Suerte ;)",
+      "url": "https://open.spotify.com/track/6sn1eF23Zvacs0oshUciXA"
     },
     {
       "added_at": "2024-03-11 12:07:59",
@@ -683,6 +663,26 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
+        "name": "Thelma & Louise",
+        "url": "https://open.spotify.com/album/2YTB67om6z9VDi94wTPdjT"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        },
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Thelma & Louise",
+      "url": "https://open.spotify.com/track/7m8aetuFspDvP5GXhVJBQx"
+    },
+    {
+      "added_at": "2024-03-11 12:07:59",
+      "album": {
         "name": "Astronauta",
         "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
       },
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
-        "name": "TE TRAJE FLORES",
-        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/3ZSEujqEgBhdkqTLtH3Izs"
       },
       "artists": [
         {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 177103,
-      "name": "COMO TE QUIERO YO",
-      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
+      "duration_ms": 164771,
+      "name": "Gigante",
+      "url": "https://open.spotify.com/track/0wGjhr72nOAN4UHTTtEEVA"
     },
     {
       "added_at": "2024-03-11 12:07:59",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/3ZSEujqEgBhdkqTLtH3Izs"
+        "name": "TE TRAJE FLORES",
+        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
       },
       "artists": [
         {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
         }
       ],
-      "duration_ms": 164771,
-      "name": "Gigante",
-      "url": "https://open.spotify.com/track/0wGjhr72nOAN4UHTTtEEVA"
+      "duration_ms": 177103,
+      "name": "COMO TE QUIERO YO",
+      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
     },
     {
       "added_at": "2024-03-11 12:07:59",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
+        "name": "Polonia",
+        "url": "https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 165267,
+      "name": "Polonia",
+      "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
+    },
+    {
+      "added_at": "2024-03-11 12:07:59",
+      "album": {
         "name": "Copita Champagne",
         "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
       },
@@ -831,38 +847,6 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
-        "name": "Polonia",
-        "url": "https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 165267,
-      "name": "Polonia",
-      "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
-    },
-    {
-      "added_at": "2024-03-11 12:07:59",
-      "album": {
-        "name": "PETER PAN",
-        "url": "https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 169721,
-      "name": "PETER PAN",
-      "url": "https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj"
-    },
-    {
-      "added_at": "2024-03-11 12:07:59",
-      "album": {
         "name": "Baby Boo",
         "url": "https://open.spotify.com/album/3YdVtDgk9uBnrPxfj2WMYu"
       },
@@ -883,18 +867,22 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
-        "name": "La Balada",
-        "url": "https://open.spotify.com/album/3TDvcjRcNio7vXFUTVNgPZ"
+        "name": "No s\u00e9 si t\u00fa",
+        "url": "https://open.spotify.com/album/7qSg6WHa17WN4TMO9B74Tg"
       },
       "artists": [
         {
-          "name": "Chema Rivas",
-          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 225750,
-      "name": "La Balada",
-      "url": "https://open.spotify.com/track/2fEkjxvVZi37s7E80sOwfT"
+      "duration_ms": 176460,
+      "name": "No s\u00e9 si t\u00fa",
+      "url": "https://open.spotify.com/track/7MsNwNgk8vflVpUITIJRpd"
     },
     {
       "added_at": "2024-03-11 12:07:59",
@@ -923,22 +911,34 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
-        "name": "No s\u00e9 si t\u00fa",
-        "url": "https://open.spotify.com/album/7qSg6WHa17WN4TMO9B74Tg"
+        "name": "PETER PAN",
+        "url": "https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
         }
       ],
-      "duration_ms": 176460,
-      "name": "No s\u00e9 si t\u00fa",
-      "url": "https://open.spotify.com/track/7MsNwNgk8vflVpUITIJRpd"
+      "duration_ms": 169721,
+      "name": "PETER PAN",
+      "url": "https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj"
+    },
+    {
+      "added_at": "2024-03-11 12:07:59",
+      "album": {
+        "name": "La Balada",
+        "url": "https://open.spotify.com/album/3TDvcjRcNio7vXFUTVNgPZ"
+      },
+      "artists": [
+        {
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+        }
+      ],
+      "duration_ms": 225750,
+      "name": "La Balada",
+      "url": "https://open.spotify.com/track/2fEkjxvVZi37s7E80sOwfT"
     },
     {
       "added_at": "2024-03-11 12:07:59",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-11 12:07:59",
       "album": {
-        "name": "Dolores De Cabeza",
-        "url": "https://open.spotify.com/album/5XWf4RyJP5QzvsYxc8410S"
-      },
-      "artists": [
-        {
-          "name": "Chema Rivas",
-          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Dolores de Cabeza",
-      "url": "https://open.spotify.com/track/0nZ0LKNkoWoB4A7rheCLIU"
-    },
-    {
-      "added_at": "2024-03-11 12:07:59",
-      "album": {
         "name": "Menamorao (demo)",
         "url": "https://open.spotify.com/album/6FH3E3d1GYsCSvNglmlkzh"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 178250,
       "name": "La buena vida",
       "url": "https://open.spotify.com/track/6izsmJLjlJQF4fYlY5wTih"
+    },
+    {
+      "added_at": "2024-03-11 12:07:59",
+      "album": {
+        "name": "Dolores De Cabeza",
+        "url": "https://open.spotify.com/album/5XWf4RyJP5QzvsYxc8410S"
+      },
+      "artists": [
+        {
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Dolores de Cabeza",
+      "url": "https://open.spotify.com/track/0nZ0LKNkoWoB4A7rheCLIU"
     }
   ],
   "unique_name": "Pop con \u00d1",

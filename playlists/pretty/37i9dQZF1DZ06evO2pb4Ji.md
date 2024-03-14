@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,342 likes - 52 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,406 likes - 52 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 51 | [Hwei, the Visionary](https://open.spotify.com/track/2D4duiQsK4GJ6b6sl1TC7t) | [Ben Hicks](https://open.spotify.com/artist/3zTYcPDNUMSm7plwLKrH4p), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hwei, the Visionary](https://open.spotify.com/album/1CNmUDQWcgSdMHm1AAvlCb) | 4:07 |
 | 52 | [Smolder, the Fiery Fledgling](https://open.spotify.com/track/1Fbm1bxQ0sXamkpjiXMClp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Smolder, the Fiery Fledgling](https://open.spotify.com/album/2qebqrLs9esVTMWZRsztPj) | 3:40 |
 
-Snapshot ID: `Mjg1MDQxMTksMDAwMDAwMDBjYjJiMmJkMjU0MDM0NGQyZTllYzZkYjlhODcwZGUwMA==`
+Snapshot ID: `Mjg1MDU1NzEsMDAwMDAwMDAzMzQxMWVkYjAwNWVkN2RkZThmMGQwZmEzOTI3M2FhYw==`

@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 65065,
+  "num_followers": 65095,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDU2Y2M2MzNiZDJmMTQxZTJkMWM5NjFlM2ViMGNhM2M5YmIyZjYy",
+  "snapshot_id": "MCw4NmRkMTVjNjM1ZGI4OTA3MDcyNWVkOTZiNjIzNzI0M2Y1MDNhMDdh",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Best of Cameleon",
-        "url": "https://open.spotify.com/album/2jEH3fpo2Jv9H8MYWmFU02"
-      },
-      "artists": [
-        {
-          "name": "Cameleon",
-          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
-        }
-      ],
-      "duration_ms": 295266,
-      "name": "Walleh",
-      "url": "https://open.spotify.com/track/1kgBYAd72ZhwTDWeffZqDL"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Ishraq Reminiscence",
         "url": "https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 197080,
       "name": "Wea'youneha",
       "url": "https://open.spotify.com/track/318ECWWGoxEqUIxg16ZBhJ"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Best of Cameleon",
+        "url": "https://open.spotify.com/album/2jEH3fpo2Jv9H8MYWmFU02"
+      },
+      "artists": [
+        {
+          "name": "Cameleon",
+          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
+        }
+      ],
+      "duration_ms": 295266,
+      "name": "Walleh",
+      "url": "https://open.spotify.com/track/1kgBYAd72ZhwTDWeffZqDL"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Win Yamchi Zine",
-        "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
-      },
-      "artists": [
-        {
-          "name": "Cameleon",
-          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
-        }
-      ],
-      "duration_ms": 193881,
-      "name": "Win Yamchi Zine",
-      "url": "https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Fuqaati (My Bubble)",
         "url": "https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r"
       },
@@ -607,22 +591,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
-        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
-      },
-      "artists": [
-        {
-          "name": "Amir Eid",
-          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
-        }
-      ],
-      "duration_ms": 199277,
-      "name": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
-      "url": "https://open.spotify.com/track/6BgqI86Dtk0YLUkLnSJk14"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Dalia",
         "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
       },
@@ -635,6 +603,38 @@
       "duration_ms": 256998,
       "name": "Dalia",
       "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Win Yamchi Zine",
+        "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
+      },
+      "artists": [
+        {
+          "name": "Cameleon",
+          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
+        }
+      ],
+      "duration_ms": 193881,
+      "name": "Win Yamchi Zine",
+      "url": "https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
+        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "duration_ms": 199277,
+      "name": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+      "url": "https://open.spotify.com/track/6BgqI86Dtk0YLUkLnSJk14"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Junction 48 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/50dtagok37BBMMJDU9fh5o"
+      },
+      "artists": [
+        {
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
+        },
+        {
+          "name": "Maysa Daw",
+          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+        }
+      ],
+      "duration_ms": 160381,
+      "name": "\u062a\u0639\u0627\u0644 \u0645\u0639\u064a",
+      "url": "https://open.spotify.com/track/4tqYr6yRevzOSDNkihfSFZ"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "\u062f\u064f\u0631\u064e\u0631\u0652",
         "url": "https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 227280,
       "name": "Erjaa Shoufak",
       "url": "https://open.spotify.com/track/6mbo7f6VsjsgxQBkgGA9mv"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Junction 48 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/50dtagok37BBMMJDU9fh5o"
-      },
-      "artists": [
-        {
-          "name": "Tamer Nafar",
-          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
-        },
-        {
-          "name": "Maysa Daw",
-          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
-        }
-      ],
-      "duration_ms": 160381,
-      "name": "\u062a\u0639\u0627\u0644 \u0645\u0639\u064a",
-      "url": "https://open.spotify.com/track/4tqYr6yRevzOSDNkihfSFZ"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Fattah Al Ward",
-        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "Keber Al Alb",
-      "url": "https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Ombre de mon amant",
         "url": "https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 389472,
       "name": "Ombre de mon amant",
       "url": "https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Fattah Al Ward",
+        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "Keber Al Alb",
+      "url": "https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U"
     },
     {
       "added_at": "2022-05-09 08:05:11",

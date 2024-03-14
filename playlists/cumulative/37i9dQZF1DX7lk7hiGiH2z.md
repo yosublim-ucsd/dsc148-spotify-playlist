@@ -4,7 +4,7 @@
 
 > Genießt die ersten Sonnenstrahlen mit der ganzen Familie.
 
-343 songs - 16 hr 11 min
+344 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Der Mai ist gekommen](https://open.spotify.com/track/0BAeOswy8zqael94JgdGFQ) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:53 | 2024-03-01 |  |
 | [Der Mai, der Mai, der lustige Mai](https://open.spotify.com/track/1FzrqPhsuTzoPNw0cVhtuy) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Kinderfrühling](https://open.spotify.com/album/60hOaInymmfKbZXFARP70V) | 2:58 | 2024-03-01 |  |
 | [Der Möhrennasen\-Dieb \(Das kleine Kaninchen\)](https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Der Möhrennasen\-Dieb \(Das kleine Kaninchen\)](https://open.spotify.com/album/5c0mWyYiR5b4QYd3JJHNoE) | 2:38 | 2023-11-14 | 2024-03-02 |
-| [Der singende Bauernhof \- Titelsong](https://open.spotify.com/track/1KTA0xfBwFoqYVHCBqrR4d) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Otti Stubs](https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP) | [Willkommen auf dem singenden Bauernhof](https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD) | 1:59 | 2024-03-01 |  |
+| [Der singende Bauernhof \- Titelsong](https://open.spotify.com/track/1KTA0xfBwFoqYVHCBqrR4d) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Otti Stubs](https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP) | [Willkommen auf dem singenden Bauernhof](https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD) | 1:59 | 2024-03-01 | 2024-03-14 |
 | [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 | 2023-08-31 | 2023-10-17 |
 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 | 2023-08-31 | 2023-10-17 |
 | [Der Vampir](https://open.spotify.com/track/4FlV1Nn9kpVEJ3qprLc6Gx) | [Eddi & Dän](https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D) | [Eddi & Dän singen neue Kinderlieder a cappella, Vol\. 2](https://open.spotify.com/album/7oeEW2bXn0HN2AzoPEIGiv) | 2:36 | 2023-10-16 | 2023-10-19 |
@@ -281,6 +281,7 @@
 | [Silvester](https://open.spotify.com/track/4I3O14VN10X7orM7h9xvhn) | [Stefanie Schrank](https://open.spotify.com/artist/0TtuoO8p89UbOviWtfxl5e) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:17 | 2023-11-14 | 2024-01-04 |
 | [Silvester kunterbunt](https://open.spotify.com/track/6d2St72idC6KI0WAiNjeEz) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Silvester kunterbunt](https://open.spotify.com/album/1Eoj0nlpewIimL3eBMh6Qm) | 3:17 | 2023-12-27 | 2024-01-04 |
 | [Singt ein Vogel](https://open.spotify.com/track/6p6i094Q8LZRWebVHvWasC) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:28 | 2024-03-01 |  |
+| [So bunt ist die Frühlingszeit](https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n) | [Martin Göth](https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i) | [Der Frühling ist da \- 25 kunterbunte Kinderlieder im Frühling](https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK) | 1:47 | 2024-03-01 |  |
 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 | 2023-10-16 | 2023-11-06 |
 | [Sommerkinder](https://open.spotify.com/track/1KZwH2Xz20o8ixlFbc5dw1) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 2:56 | 2023-06-28 | 2023-09-01 |
 | [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 | 2023-08-04 | 2023-09-01 |

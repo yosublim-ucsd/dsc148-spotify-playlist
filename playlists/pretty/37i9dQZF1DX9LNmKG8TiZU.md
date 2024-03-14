@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des titres pop, tout en douceur\. Photo : Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,824 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,851 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [I Don't Wanna Lose Myself](https://open.spotify.com/track/5qnkypfRNlDzQB9tZgsw8E) | [ANIKK](https://open.spotify.com/artist/2wvznrRx5MZ2qwqRJPYNmN) | [I Don't Wanna Lose Myself](https://open.spotify.com/album/5UqNEcubHPHBYSRC3ZvbL4) | 3:02 |
 | 50 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 |
 
-Snapshot ID: `MCwwMGIzMzBjNzM5N2YwZTcxMTQyOGQ1NjJjNTI3YjI0OTQyM2QzOGVm`
+Snapshot ID: `MCw4ZmZhMDZiYzc5NTRiMGI3ZDAzYjU1YzQxYjM3NzkzYzc0OTEwODNi`

@@ -5351,6 +5351,28 @@
     },
     {
       "album": {
+        "name": "Fuyu Goe",
+        "url": "https://open.spotify.com/album/5ZpbwvtHLgPb31rCHglBlx"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        },
+        {
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244680,
+      "name": "Fuyu Goe",
+      "url": "https://open.spotify.com/track/78ShkHoX57bsDxn7DxhYnL"
+    },
+    {
+      "album": {
         "name": "GAL NINJA",
         "url": "https://open.spotify.com/album/75oSQgSWZxrpwuCe4TprPe"
       },
@@ -6250,7 +6272,7 @@
     {
       "album": {
         "name": "Hollywood",
-        "url": "https://open.spotify.com/album/3uB0fMFMUDkp9TfS95APsi"
+        "url": "https://open.spotify.com/album/7EEjDfSaXq3IvVsVsx5U3D"
       },
       "artists": [
         {
@@ -6261,6 +6283,24 @@
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 240933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/1aD8qLixfwBmfawlUCeljB"
+    },
+    {
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/3uB0fMFMUDkp9TfS95APsi"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-14",
       "duration_ms": 240933,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/3aOVI6YoZNX2FPE6rFcGZK"
@@ -13474,7 +13514,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 208750,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1Td0MRk0Udpx3tcgkr3a0x"
@@ -22132,7 +22172,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 244680,
       "name": "\u51ac\u8d8a\u3048",
       "url": "https://open.spotify.com/track/4hf6Vgy3AbYlzZiBHnyA48"
@@ -25398,7 +25438,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 226342,
       "name": "\u7d20\u76f4",
       "url": "https://open.spotify.com/track/5QLvE8IhvVWnDet6lF1Nnw"

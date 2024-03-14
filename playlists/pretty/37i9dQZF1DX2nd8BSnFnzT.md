@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ariah
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,611 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,614 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Blue](https://open.spotify.com/track/6XnN3odDNIC7ALIxEEkjQq) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Blue](https://open.spotify.com/album/3F7Zw02ymEuJu1fLZl4Yf2) | 3:03 |
 | 75 | [Último Clichê](https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Último Clichê](https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE) | 2:49 |
 
-Snapshot ID: `MCxlN2JiNDg4ZDA0OWU4ZTM3ZDQzYzE4MmU1ZTA0MzFjYTkzOTMzY2Yy`
+Snapshot ID: `MCxiZDZmYmEzMTEyZDE5NzI2ZDY5ZDE2YzMzZjQ3ODQ3ZmVkNWQ4ZGNi`

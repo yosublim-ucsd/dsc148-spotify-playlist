@@ -774,10 +774,36 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 135640,
       "name": "Rum & Redbull",
       "url": "https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU"
+    },
+    {
+      "album": {
+        "name": "One Day Riddim",
+        "url": "https://open.spotify.com/album/42WPGk6CaSkXm0iDBnRzGM"
+      },
+      "artists": [
+        {
+          "name": "Seanizzle",
+          "url": "https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Future Fambo",
+          "url": "https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135650,
+      "name": "Rum & RedBull",
+      "url": "https://open.spotify.com/track/2J49g2pq8WG0PP6m2GtzKU"
     },
     {
       "album": {

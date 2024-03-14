@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 711988,
+  "num_followers": 712103,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjQxMWZhYmVlYzVlMWQwZDRlNjZhZDk0NTg1NmZhOWJjY2RmODZk",
+  "snapshot_id": "MCw2YzBjZGFmZThkYjJiYjk4NmI0N2MzOTY3MGZkMmU1YzdlNDJmYzY5",
   "tracks": [
     {
       "added_at": "2024-03-12 16:50:42",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "Don't You Evah",
-      "url": "https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "Moodie",
         "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 208200,
       "name": "No Going Back",
       "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 216720,
+      "name": "Don't You Evah",
+      "url": "https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -863,34 +863,18 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Coney Island Baby",
-        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
       "artists": [
         {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 159093,
-      "name": "Charley's Girl",
-      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN"
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -907,6 +891,22 @@
       "duration_ms": 343426,
       "name": "Girlfriend Is Better - 2005 Remaster",
       "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "What Will We Be (Standard)",
-        "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "Juno",
         "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 171897,
       "name": "Anthony Kiedis",
       "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "What Will We Be (Standard)",
+        "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "Mine Forever",
         "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Mercury Rising",
-        "url": "https://open.spotify.com/album/6rK6K6wJ81LzF9TzlpnFA0"
-      },
-      "artists": [
-        {
-          "name": "Rae & Christian",
-          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
-        },
-        {
-          "name": "Mark Foster",
-          "url": "https://open.spotify.com/artist/6wZCINbQf3l403J5o7AxLV"
-        }
-      ],
-      "duration_ms": 168893,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/3tN1ckGx1wd2VYUQaGmcmT"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "Didn't I",
         "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
       },
@@ -1619,6 +1599,26 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
+        "name": "Mercury Rising",
+        "url": "https://open.spotify.com/album/6rK6K6wJ81LzF9TzlpnFA0"
+      },
+      "artists": [
+        {
+          "name": "Rae & Christian",
+          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
+        },
+        {
+          "name": "Mark Foster",
+          "url": "https://open.spotify.com/artist/6wZCINbQf3l403J5o7AxLV"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3tN1ckGx1wd2VYUQaGmcmT"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
         "name": "Piece of Me",
         "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
@@ -1631,6 +1631,30 @@
       "duration_ms": 218408,
       "name": "Come On In",
       "url": "https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
+        "name": "You Don't Want Me",
+        "url": "https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e"
+      },
+      "artists": [
+        {
+          "name": "Wesley Bright",
+          "url": "https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj"
+        },
+        {
+          "name": "Wesley Bright and the Honeytones",
+          "url": "https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l"
+        },
+        {
+          "name": "Leroi Conroy",
+          "url": "https://open.spotify.com/artist/2PByfnZrAVQUWdsUwZDQUw"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "You Don\u2019t Want Me",
+      "url": "https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1667,26 +1691,18 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "You Don't Want Me",
-        "url": "https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e"
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
       },
       "artists": [
         {
-          "name": "Wesley Bright",
-          "url": "https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj"
-        },
-        {
-          "name": "Wesley Bright and the Honeytones",
-          "url": "https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l"
-        },
-        {
-          "name": "Leroi Conroy",
-          "url": "https://open.spotify.com/artist/2PByfnZrAVQUWdsUwZDQUw"
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
         }
       ],
-      "duration_ms": 265546,
-      "name": "You Don\u2019t Want Me",
-      "url": "https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V"
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB"
       },
@@ -1735,30 +1735,6 @@
       "duration_ms": 202253,
       "name": "Time Was",
       "url": "https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
-        "name": "wait outside",
-        "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        },
-        {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "wait outside",
-      "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1795,6 +1771,30 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
+        "name": "wait outside",
+        "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        },
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "wait outside",
+      "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
         "name": "Cruisin' To The Parque",
         "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
       },
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
-        "name": "Happiness in Liquid Form",
-        "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
+        "name": "Base Camp",
+        "url": "https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf"
       },
       "artists": [
         {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
         }
       ],
-      "duration_ms": 201988,
-      "name": "Obvious Guy",
-      "url": "https://open.spotify.com/track/0LZbOlYdwrFbe0unSOBkVX"
+      "duration_ms": 205107,
+      "name": "Base Camp",
+      "url": "https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I"
     },
     {
       "added_at": "2024-03-12 16:50:42",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2024-03-12 16:50:42",
       "album": {
+        "name": "Happiness in Liquid Form",
+        "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 201988,
+      "name": "Obvious Guy",
+      "url": "https://open.spotify.com/track/0LZbOlYdwrFbe0unSOBkVX"
+    },
+    {
+      "added_at": "2024-03-12 16:50:42",
+      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 209533,
       "name": "Gold Past Life",
       "url": "https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP"
-    },
-    {
-      "added_at": "2024-03-12 16:50:42",
-      "album": {
-        "name": "Base Camp",
-        "url": "https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf"
-      },
-      "artists": [
-        {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
-        }
-      ],
-      "duration_ms": 205107,
-      "name": "Base Camp",
-      "url": "https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I"
     },
     {
       "added_at": "2024-03-12 16:50:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU?si=CfeNjMHWR6KkMgQyFqr88g">Hanna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,145 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,189 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 60 | [80's Love](https://open.spotify.com/track/0nN4AmUQe1h2jCC1Z8rjG8) | [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [Brittney Crush](https://open.spotify.com/artist/43Oq0Lvc8IfW0vRTnIQ53z) | [80's Love](https://open.spotify.com/album/6ikzhi2Y1rW1gsyljgWQ57) | 3:19 |
 | 61 | [018](https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [018](https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1) | 3:15 |
 | 62 | [Coffee Shop In Rosebank](https://open.spotify.com/track/6Pu3lyI7V6Npt8wNshCYnO) | [G\-TECH 2bit](https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Coffee Shop In Rosebank](https://open.spotify.com/album/2LkNOkuCF8gr1rlxiFmWln) | 3:34 |
-| 63 | [Buddy Buddy](https://open.spotify.com/track/4gACAiWLKEZS7Y9YbAKQdi) | [SlickZack](https://open.spotify.com/artist/3VznvXo63CbeIwEzapkitc) | [Buddy Buddy](https://open.spotify.com/album/0O8f2TUuOMCLc8jB9Za30F) | 3:08 |
+| 63 | [Buddy Buddy](https://open.spotify.com/track/4gACAiWLKEZS7Y9YbAKQdi) | [SlickZack](https://open.spotify.com/artist/6cR2Ksjo15vTJrupVoH4dE) | [Buddy Buddy](https://open.spotify.com/album/0O8f2TUuOMCLc8jB9Za30F) | 3:08 |
 | 64 | [fame](https://open.spotify.com/track/1ec7ZBFPtVFQsi9mLryik0) | [Amarii](https://open.spotify.com/artist/3gKOKbH38pzUAC6c0ybcCY) | [From Bremersdorp With Love](https://open.spotify.com/album/4szU6hyRM7HVQnIgxRhcjT) | 2:46 |
 | 65 | [Paralyzed You \(Freestyle\)](https://open.spotify.com/track/4wAf5NY0jmmJuM3mezQ6UT) | [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk) | [Paralyzed You \(Freestyle\)](https://open.spotify.com/album/2m0QUSdap7lqjERuTVk81G) | 2:14 |
 | 66 | [No Comment.](https://open.spotify.com/track/2ryyhrWGvoJ3HebeKqebSA) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn) | [No Comment.](https://open.spotify.com/album/5LmMEKzq3eXu1IDL3ZAI9M) | 2:22 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 84 | [Gwan \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/457nxkch48VCfRKAEi0cBA) | [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Gwan \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/2hZUuS7mLKc8ZcqQcYf0qc) | 3:42 |
 | 85 | [PROBLEMZ](https://open.spotify.com/track/4kzJuA1VCgbAUz8N8K2bk8) | [Dj Clen](https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Frank Casino](https://open.spotify.com/artist/7MF9LuUK0sWH8WXBoiPMNy), [Loatinover Pounds](https://open.spotify.com/artist/7c3N4lOnDqTJiSK1bQoGXh) | [V I R A L.](https://open.spotify.com/album/0KZh9zu8jUtpVa5YoY8KtG) | 4:23 |
 
-Snapshot ID: `MCxmNTk1YzQ0NjE0YWRiMDZkNzIwNjE0MDRmZGNlYTFkOTVjNTBjY2M0`
+Snapshot ID: `MCwwYjY4NzgyNzEwOGZkYjBkYzg4OTI3ZDBlMWY0MTBkMWI4MGRjYTk1`

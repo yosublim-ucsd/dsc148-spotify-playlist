@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,504 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,602 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 26 | [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 |
 | 27 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 |
 | 28 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 |
-| 29 | [VNTR](https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [VNTR](https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV) | 3:38 |
-| 30 | [TRAFICANTE](https://open.spotify.com/track/2nawMfIkbAc4okrbJ2Of5W) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [TRAFICANTE](https://open.spotify.com/album/0nPeXkFd5aPLew3VihbbQm) | 3:07 |
-| 31 | [Petrouchka \(feat\. PLK\)](https://open.spotify.com/track/03y045SZqaC94yfXl1cU4E) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Avec le temps](https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8) | 3:09 |
-| 32 | [Nocif](https://open.spotify.com/track/7FeWKPL2gj7xIRv5gyHejU) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nocif](https://open.spotify.com/album/4aPOkge6RO4vsrI31pX6Hy) | 3:49 |
-| 33 | [Alicante](https://open.spotify.com/track/1xV89fEoj4JNCrbMq5rA7G) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Alicante](https://open.spotify.com/album/6uKVQzzmUEFuc6GjWy1IQw) | 3:13 |
-| 34 | [Full black](https://open.spotify.com/track/1WcBhct7iVXliYorbEKTql) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 2:29 |
-| 35 | [Sale mood](https://open.spotify.com/track/5TlGrvOMiAltKgRw3anXKo) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Prémices](https://open.spotify.com/album/6Puycd9ohkbDcL70BIlnqZ) | 3:37 |
-| 36 | [Joli bébé](https://open.spotify.com/track/6ARJHbYGKNatxHVghTkWWp) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Joli bébé](https://open.spotify.com/album/5chNwCslLpT6N0wPBY5rNx) | 2:58 |
-| 37 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 |
+| 29 | [Yoga](https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Yoga](https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B) | 3:01 |
+| 30 | [VNTR](https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [VNTR](https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV) | 3:38 |
+| 31 | [TRAFICANTE](https://open.spotify.com/track/2nawMfIkbAc4okrbJ2Of5W) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [TRAFICANTE](https://open.spotify.com/album/0nPeXkFd5aPLew3VihbbQm) | 3:07 |
+| 32 | [Petrouchka \(feat\. PLK\)](https://open.spotify.com/track/03y045SZqaC94yfXl1cU4E) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Avec le temps](https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8) | 3:09 |
+| 33 | [Nocif](https://open.spotify.com/track/7FeWKPL2gj7xIRv5gyHejU) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nocif](https://open.spotify.com/album/4aPOkge6RO4vsrI31pX6Hy) | 3:49 |
+| 34 | [Alicante](https://open.spotify.com/track/1xV89fEoj4JNCrbMq5rA7G) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Alicante](https://open.spotify.com/album/6uKVQzzmUEFuc6GjWy1IQw) | 3:13 |
+| 35 | [Full black](https://open.spotify.com/track/1WcBhct7iVXliYorbEKTql) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 2:29 |
+| 36 | [Sale mood](https://open.spotify.com/track/5TlGrvOMiAltKgRw3anXKo) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Prémices](https://open.spotify.com/album/6Puycd9ohkbDcL70BIlnqZ) | 3:37 |
+| 37 | [Joli bébé](https://open.spotify.com/track/6ARJHbYGKNatxHVghTkWWp) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Joli bébé](https://open.spotify.com/album/5chNwCslLpT6N0wPBY5rNx) | 2:58 |
 | 38 | [BONKASA](https://open.spotify.com/track/62u6D0NgRPtFcCdF5rNLeh) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [BONKASA](https://open.spotify.com/album/4WfVv45jeLIbqBm5zriHs6) | 2:25 |
 | 39 | [Me Gusta](https://open.spotify.com/track/6P3FBaZfUjeWYExU2ShaPZ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [On ira où ?](https://open.spotify.com/album/3fUfQjOcEGe7vvnPA29GBh) | 2:55 |
 | 40 | [La machine](https://open.spotify.com/track/4YcK0u6DgSg1jQqWYCXTBq) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [AYA](https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC) | 3:03 |
 
-Snapshot ID: `MCxmZDk1Y2I3NTBlYmU1NTM4NmMzZjU4NzQzNTRkYWFiMzRlNWVkZThh`
+Snapshot ID: `MCxkY2MwMGFiZTNlNTY1YWUzNGQzMzczYmI4Y2YxNWNmOWIyZjFiNWE0`

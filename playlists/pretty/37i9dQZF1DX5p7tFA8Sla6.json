@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 55582,
+  "num_followers": 55592,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTNhNDFjNDQ2MTYwOWM3NzlkODQ1NWJiYTFmNmY0ODk5Yjg1ZGVi",
+  "snapshot_id": "MCwyZmI1M2IyM2Y2ZTY0MDRjZTM5NDc1MmRlMTMzYjIzY2JlMmZmNDkw",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -355,22 +355,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Superfly: Deluxe 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 329466,
-      "name": "Freddie's Dead",
-      "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Masterjam",
         "url": "https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 269306,
       "name": "Do You Love What You Feel",
       "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 329466,
+      "name": "Freddie's Dead",
+      "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -659,22 +659,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Tuxedo III",
-        "url": "https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX"
-      },
-      "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        }
-      ],
-      "duration_ms": 209875,
-      "name": "On a Good One",
-      "url": "https://open.spotify.com/track/71nvrESAOkHt17x0n5pibQ"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Check Me Out If You Don't Know Me By Now",
         "url": "https://open.spotify.com/album/4xOLYBVbQ4auwndunGsaDa"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 208360,
       "name": "Rock Me Again & Again & Again & Again & Again & Again",
       "url": "https://open.spotify.com/track/7cwuk7OJRQQEbuPMB1u67e"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Tuxedo III",
+        "url": "https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX"
+      },
+      "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        }
+      ],
+      "duration_ms": 209875,
+      "name": "On a Good One",
+      "url": "https://open.spotify.com/track/71nvrESAOkHt17x0n5pibQ"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -959,6 +959,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Bedrock",
+        "url": "https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb"
+      },
+      "artists": [
+        {
+          "name": "Diggin' Dirt",
+          "url": "https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC"
+        }
+      ],
+      "duration_ms": 351953,
+      "name": "Leather Tramp",
+      "url": "https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Death or Devotion",
         "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 231963,
       "name": "Funk Ain't Ova",
       "url": "https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Bedrock",
-        "url": "https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb"
-      },
-      "artists": [
-        {
-          "name": "Diggin' Dirt",
-          "url": "https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC"
-        }
-      ],
-      "duration_ms": 351953,
-      "name": "Leather Tramp",
-      "url": "https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1077,38 +1077,6 @@
       "url": "https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U"
     },
     {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Funk Ain't Ova",
-        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
-        },
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        },
-        {
-          "name": "Papa Dee",
-          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
-        },
-        {
-          "name": "Desmond Foster",
-          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
-        },
-        {
-          "name": "Anna Brooks",
-          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "Dance Or Die",
-      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
-    },
-    {
       "added_at": "2019-09-06 07:01:00",
       "album": {
         "name": "Drum Machine",
@@ -1143,6 +1111,38 @@
       "duration_ms": 177080,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/34gV8KREMiciMm8annmIOo"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funk Ain't Ova",
+        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        },
+        {
+          "name": "Papa Dee",
+          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
+        },
+        {
+          "name": "Desmond Foster",
+          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
+        },
+        {
+          "name": "Anna Brooks",
+          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "Dance Or Die",
+      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Circle",
-        "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
-      },
-      "artists": [
-        {
-          "name": "Electro Deluxe",
-          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
-        }
-      ],
-      "duration_ms": 271054,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Afterlife Vol. 2 - EP",
         "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 226345,
       "name": "Mister Man",
       "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
+      },
+      "artists": [
+        {
+          "name": "Electro Deluxe",
+          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
+        }
+      ],
+      "duration_ms": 271054,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funk!",
-        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 225424,
-      "name": "Let's Take a Ride",
-      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Gnomes and Badgers",
         "url": "https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 216800,
       "name": "I'm Your Biggest Fan",
       "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funk!",
+        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 225424,
+      "name": "Let's Take a Ride",
+      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Jukestone Paradise",
-        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
-      },
-      "artists": [
-        {
-          "name": "Pimps of Joytime",
-          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Body Party",
-      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Life In The City",
         "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 245413,
       "name": "Superstatic",
       "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Jukestone Paradise",
+        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
     },
     {
       "added_at": "2019-08-22 14:26:16",

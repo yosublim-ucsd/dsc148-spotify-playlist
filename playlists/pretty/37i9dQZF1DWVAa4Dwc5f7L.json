@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 383133,
+  "num_followers": 383161,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDIzM2ZhNTQxMzUyNDBmOGJiYmJiNDE2NjJjNGMyMTZhNGY2MTFm",
+  "snapshot_id": "MCw2YzM0NzI2OWYxNTU4MjBhZDYxNDliYTA1YTUwMzI0NGQwOGY1ZGEw",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Mujer De Fuego",
+        "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Muchacho malo",
+      "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Esta Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 214145,
       "name": "Esta Canci\u00f3n",
       "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Mujer De Fuego",
-        "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Muchacho malo",
-      "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Me Enamore",
-        "url": "https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC"
+        "name": "Lo Mejor De...To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
       "artists": [
         {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 300426,
-      "name": "Pegame Tu Vicio",
-      "url": "https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv"
+      "duration_ms": 400266,
+      "name": "Kiliki Taka Ti",
+      "url": "https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Lo Mejor De...To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
+        "name": "Me Enamore",
+        "url": "https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC"
       },
       "artists": [
         {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 400266,
-      "name": "Kiliki Taka Ti",
-      "url": "https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd"
+      "duration_ms": 300426,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Qu\u00e9date Conmigo (Remix)",
-        "url": "https://open.spotify.com/album/5CUUtc9NNti7eiTp5yFOCK"
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
       },
       "artists": [
         {
-          "name": "Omar Enrique",
-          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
-        },
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         }
       ],
-      "duration_ms": 213976,
-      "name": "Qu\u00e9date Conmigo - Remix",
-      "url": "https://open.spotify.com/track/4rAkFlZZOlhVAIUPPRdYG3"
+      "duration_ms": 163349,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
+        "name": "Qu\u00e9date Conmigo (Remix)",
+        "url": "https://open.spotify.com/album/5CUUtc9NNti7eiTp5yFOCK"
       },
       "artists": [
         {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+          "name": "Omar Enrique",
+          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
+        },
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
         }
       ],
-      "duration_ms": 163349,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
+      "duration_ms": 213976,
+      "name": "Qu\u00e9date Conmigo - Remix",
+      "url": "https://open.spotify.com/track/4rAkFlZZOlhVAIUPPRdYG3"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Juntos Con Sus \u00c9xitos",
-        "url": "https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 290800,
-      "name": "Ya Viene el Lunes",
-      "url": "https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Merengue De Amor Vol.1",
         "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 250400,
       "name": "Que Cara M\u00e1s Bonita",
       "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Juntos Con Sus \u00c9xitos",
+        "url": "https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 290800,
+      "name": "Ya Viene el Lunes",
+      "url": "https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Ganas (Versi\u00f3n Merengue)",
         "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
       },
       "artists": [
         {
-          "name": "Limi-T 21",
-          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Est\u00e1s Enamorada",
-      "url": "https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl"
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 216833,
       "name": "Gozando",
       "url": "https://open.spotify.com/track/0o6MsPQs0f2xjkMnahNvby"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H"
+      },
+      "artists": [
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Est\u00e1s Enamorada",
+      "url": "https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl"
     },
     {
       "added_at": "2024-03-08 05:00:00",

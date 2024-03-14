@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Belén Aguilera y Julieta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,463 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,467 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [BRASS](https://open.spotify.com/track/4vgN1Rbx7kv32HCCpvpvFb) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [Brass](https://open.spotify.com/album/24Ptvugk5Tn6EkLvdnjsdy) | 3:57 |
 | 50 | [OTRA VEZ CASUALIDAD](https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [OTRA VEZ CASUALIDAD](https://open.spotify.com/album/0E6bwR3roTh3n6QBjF9LF2) | 3:48 |
 
-Snapshot ID: `MCxiZGQ2ZTgxNjE1ZDE2MWYyZjFiMWI4YjQ3NzY0YTQ5YWYxNDJiNzA4`
+Snapshot ID: `MCxhMDZlOTMzMzFhM2Q3MjM0OWU4NWVhN2ZlYzY0YTZiMGQ4MGEwYzE5`

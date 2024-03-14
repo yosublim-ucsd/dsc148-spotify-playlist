@@ -1,12 +1,12 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Leiva en portada.",
-  "num_followers": 399402,
+  "num_followers": 399442,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTY4OWIyN2NlYTA5MDVkMzlmODgzZjEwYWU4YmJmMDQ0ZGZiMjVl",
+  "snapshot_id": "MCwxODI3NTViNjUxNGMzNmRjZjczOTgyZTZhOGNlZGY1OWFhZmVmYzhk",
   "tracks": [
     {
       "added_at": "2024-03-08 20:04:23",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "El camino de la libertad",
-        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
+        "name": "All U Need Is Mosh",
+        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
       },
       "artists": [
         {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
         }
       ],
-      "duration_ms": 220001,
-      "name": "Encendedor",
-      "url": "https://open.spotify.com/track/6xbdHf8KK2htPJWcPaI1QW"
+      "duration_ms": 244280,
+      "name": "Pervert Pop Song (Castigame)",
+      "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "All U Need Is Mosh",
-        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
+        "name": "El camino de la libertad",
+        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
       },
       "artists": [
         {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
         }
       ],
-      "duration_ms": 244280,
-      "name": "Pervert Pop Song (Castigame)",
-      "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
+      "duration_ms": 220001,
+      "name": "Encendedor",
+      "url": "https://open.spotify.com/track/6xbdHf8KK2htPJWcPaI1QW"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Usted Se\u00f1alemelo",
-        "url": "https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "Agua Marfil",
-      "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "GP",
         "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 174173,
       "name": "Fruta y T\u00e9",
       "url": "https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
+        "name": "Usted Se\u00f1alemelo",
+        "url": "https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "Agua Marfil",
+      "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "To My Love",
+      "url": "https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "To My Love",
-      "url": "https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
-        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
-      },
-      "artists": [
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Club de fans de John Boy",
-      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
+        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
         }
       ],
-      "duration_ms": 237293,
-      "name": "Somos Dos",
-      "url": "https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB"
+      "duration_ms": 231160,
+      "name": "Club de fans de John Boy",
+      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -859,6 +843,22 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
+        "name": "S\u00ed, Yo Soy",
+        "url": "https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "No",
+      "url": "https://open.spotify.com/track/32QNjBLycSMFSpY0pJ1Hau"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
         "name": "Conociendo Rusia",
         "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "S\u00ed, Yo Soy",
-        "url": "https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe"
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 218840,
-      "name": "No",
-      "url": "https://open.spotify.com/track/32QNjBLycSMFSpY0pJ1Hau"
+      "duration_ms": 237293,
+      "name": "Somos Dos",
+      "url": "https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Si Quieres",
-        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 167044,
-      "name": "Si Quieres",
-      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "Las Ligas Menores",
         "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 229842,
       "name": "A 1200 Km",
       "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
+        "name": "Si Quieres",
+        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 167044,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Las Cr\u00f3nicas del Viento",
-        "url": "https://open.spotify.com/album/3mx0knIvUHGl7OwaCcFb3T"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "Az\u00facar del Estero",
-      "url": "https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "Otra Era",
         "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 244979,
       "name": "Otra Era",
       "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
+        "name": "Las Cr\u00f3nicas del Viento",
+        "url": "https://open.spotify.com/album/3mx0knIvUHGl7OwaCcFb3T"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Az\u00facar del Estero",
+      "url": "https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC"
     },
     {
       "added_at": "2024-03-08 20:04:23",

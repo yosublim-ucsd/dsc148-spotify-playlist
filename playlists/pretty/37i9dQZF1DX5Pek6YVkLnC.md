@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,588 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,663 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 4 | [SUKI](https://open.spotify.com/track/3PVuGa5aJe03VwaljEHyDi) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [SUKI](https://open.spotify.com/album/6Md5GqOGlTtNuorAKregDc) | 3:34 |
 | 5 | [LUCES DE COLORES](https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LUCES DE COLORES](https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7) | 3:36 |
 | 6 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
-| 7 | [hiato](https://open.spotify.com/track/0fOeSrtlEk9WGxrG5SBFQh) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [La Secta AllStar](https://open.spotify.com/artist/5WTJgmKTxGTi6N9KpGH9Yr) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 3:27 |
+| 7 | [hiato](https://open.spotify.com/track/0fOeSrtlEk9WGxrG5SBFQh) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [La Secta All Star](https://open.spotify.com/artist/6dr9BGwlWj9JUcwIHC3Syg) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 3:27 |
 | 8 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
 | 9 | [CRUSH](https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CRUSH](https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf) | 3:53 |
 | 10 | [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 17 | [Coquette](https://open.spotify.com/track/3O9asuYQTNBnS2gWkRmB1n) | [K John](https://open.spotify.com/artist/1FmV3JhbfZN6l1jNarZyVz) | [Coquette](https://open.spotify.com/album/4OfNjF4OKMkenzo1KWFlV0) | 2:57 |
 | 18 | [AsesinoNato](https://open.spotify.com/track/58M9yeJ9MKPVEGTTB64Mlh) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Yecko](https://open.spotify.com/artist/24TdpOJQgBxkfnwZKox9zU) | [AsesinoNato](https://open.spotify.com/album/3CHh9i9iqarMc2iypYzbEb) | 2:33 |
 | 19 | [BYK](https://open.spotify.com/track/6roXwAFXzYm5pkr7z0ihVb) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Santana the Golden Boy](https://open.spotify.com/artist/7w2wcIXdCu7lfY4h5jbbrv), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [BYK](https://open.spotify.com/album/5deurIxzSAsbzN8oyzPSLC) | 3:40 |
-| 20 | [roadhead](https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:37 |
+| 20 | [roadhead](https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/11IhHAEDYq3PL9CewvfWM4) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:37 |
 | 21 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 |
 | 22 | [0 Millas](https://open.spotify.com/track/7Flou2vrw6Aub4snhRRIVW) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [0 Millas](https://open.spotify.com/album/3bMctF74OPNARlPLx3ETVJ) | 3:33 |
 | 23 | [Maybach](https://open.spotify.com/track/3uDP8Rf3ddTO04d069A8pH) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Santurcinos](https://open.spotify.com/album/0kwhdyfH85kj8FxQM0K0ux) | 3:22 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 39 | [Cual es el Problema](https://open.spotify.com/track/0I77c8JqNLdihoGeO7uah8) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp) | [Cual es el Problema](https://open.spotify.com/album/0PPYr90kRAaYMjy2oE3voP) | 2:35 |
 | 40 | [Muñeca \- Remix](https://open.spotify.com/track/4nCFetlMi0TgG6bwbORg8B) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Muñeca \(Remix\)](https://open.spotify.com/album/4XhJvgJr7UWOnw6rWFMIJe) | 5:10 |
 
-Snapshot ID: `MCwyNmE0MzhhMmZhNDQ5YzlhOGViOThmMjI3YmVlMDU1ZDViZDFkMWYy`
+Snapshot ID: `MCxmYzE3MTRiZWQyZWE3Mzg5NWZiOWY3NDhjMzMxYjdjZWRkYzI5ZTlm`

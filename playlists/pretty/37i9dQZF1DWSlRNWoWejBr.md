@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,969 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,739 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 17 | [Na Sua Vida Eu Sou o Problema](https://open.spotify.com/track/1d4ToRTvxBoR5EQRIlB0js) | [Dj Alexandre Borges](https://open.spotify.com/artist/0ocK4YeIBhnVN0TwlB0qNj), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Na Sua Vida Eu Sou o Problema](https://open.spotify.com/album/0PklqhhK1BKoj1lVDEj3Jl) | 2:41 |
 | 18 | [Ela Não Presta](https://open.spotify.com/track/0GEagb54APuGgr0aKeJbAp) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS) | [RICKNELSO](https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR) | 2:46 |
 | 19 | [AQUELA MINA DE VERMELHO \- TACA ROLA \- É HOJE QUE EU BAGUNÇO](https://open.spotify.com/track/77RNsMdzYmJSdJ8XmquDBZ) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [ROCK PESADO](https://open.spotify.com/album/5PzizwiDjpYMYP2COEeViu) | 2:23 |
-| 20 | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5) | 2:37 |
+| 20 | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq) | 2:37 |
 | 21 | [MEGA FUNK MÁGICO DO SOM](https://open.spotify.com/track/37DFTPp8AhVJ6TEkKjW4ZD) | [Dj Míchels](https://open.spotify.com/artist/2erYQq0aqdpj8YSJlxY76K) | [MEGA FUNK MÁGICO DO SOM](https://open.spotify.com/album/2F4CL3NcRe6jLY2by2asR9) | 6:08 |
 | 22 | [Automotivo Satisfaction](https://open.spotify.com/track/6qmkw69I3PMQ4qIqVJzFDb) | [DJ Dudah](https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr), [Mc Gimenes](https://open.spotify.com/artist/2EOtEHNNR9N1dP5J2I1cHo) | [Automotivo Satisfaction](https://open.spotify.com/album/29jcfslBFnhOx0w1KDD6cz) | 2:23 |
 | 23 | [Amor É Mentira](https://open.spotify.com/track/3syxcxgRLd25yPYfG8qsot) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Set Final de Ano](https://open.spotify.com/album/3pBhYZe8hfAyYTAgA0FjNC) | 3:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCxhMzc5MmViMzQ0Y2U0NmU3ZTdkOGVmYTU5ZjVjMTRkYzI5MTU3ZjZm`
+Snapshot ID: `MCw2MmNhODA2ZDNjMTVmMmQ3MGRhNWRkYmM0ZGUwNjZlZjJlM2EwNmVk`

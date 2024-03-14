@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lugar Seguro 3.0](https://open.spotify.com/track/0Q2iFOzcpgpulStIbS3XXQ) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv) | [Y3Y2](https://open.spotify.com/album/3Bdh2N5sBNxHN2YkKGI8Cr) | 2:49 |
+| 1 | [Lugar Seguro 3.0](https://open.spotify.com/track/1amVFHxrLKTka5o3iy2PRn) | [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [Y3Y2](https://open.spotify.com/album/2OTomwELFbr0pPyklxV9NI) | 2:49 |
 | 2 | [cuídate](https://open.spotify.com/track/5D7hSm0LjrDq1OcDtXpKbE) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 3:40 |
 | 3 | [COCO](https://open.spotify.com/track/5xXC7l1oji3OI9cAkzcIen) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [COCO](https://open.spotify.com/album/3U1K2cfs8bCGldvkYSqJ9r) | 2:36 |
 | 4 | [Fear of the Water](https://open.spotify.com/track/3jVniYVNCrwQvvWJpReosr) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Hurt for Me](https://open.spotify.com/album/6lwJbpuuA8wENZOuYDVRc8) | 4:05 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival, Vol\. 01 \(Compiled by Emok & Banel\)](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCw3ZTQxMjMwNjQ1ZTkwYmE5NTM5ZGJiMDVhMDA0NDhiMGMxMDhhZGNj`
+Snapshot ID: `MCwwODlhODQ5NDJmMzU1YzEzZDVhNWI3OGQyNjEwYmQxZGMyNjExZGFj`

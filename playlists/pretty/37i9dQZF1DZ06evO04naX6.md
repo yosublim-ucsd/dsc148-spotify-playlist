@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,270 likes - 52 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,293 likes - 52 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 51 | [Discoteca](https://open.spotify.com/track/2ZWBNTg6Mn6NQkkq4gVec1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 4:09 |
 | 52 | [No Sales de Mi Mente \(feat\. Nicky Jam\)](https://open.spotify.com/track/2suE76uvhA05ks3YbvwRGT) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 3:24 |
 
-Snapshot ID: `Mjg1MDQxMTgsMDAwMDAwMDA3MTMwYTVlNzE2MjM4YTYyMzY4ZjYxNjZhMzU2ZTcyNQ==`
+Snapshot ID: `Mjg1MDU1NzEsMDAwMDAwMDAwMTczNmVhZTVhMTRmNjM2OTQ3ZTAwMzY0ZTY1OTQ0NA==`

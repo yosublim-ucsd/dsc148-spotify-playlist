@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,589 likes - 78 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,626 likes - 78 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 27 | [I Remember](https://open.spotify.com/track/1z3rZio5rrWx5CT0jGbSOE) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [I Remember](https://open.spotify.com/album/2sldH2PiHPE0nfLIf8EqQ8) | 4:11 |
 | 28 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
 | 29 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 |
-| 30 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
+| 30 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit Da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
 | 31 | [This Is Nowhere](https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [This Is Nowhere](https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S) | 3:44 |
 | 32 | [Still](https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Still](https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X) | 6:05 |
 | 33 | [Floodgate](https://open.spotify.com/track/5gGdwj2Pww9BJb7lFYqnFg) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [Floodgate](https://open.spotify.com/album/1wuMBPwFasiQZxPff61IAO) | 1:54 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 77 | [Tapes](https://open.spotify.com/track/6mMyVpDcLlQdYhdEC6tPaf) | [West Thebarton](https://open.spotify.com/artist/6ZQNx5JnPy6CmVur8jRPrv) | [Tapes](https://open.spotify.com/album/1cVizvPmLvVna2Dyg1DYff) | 1:52 |
 | 78 | [Come Around](https://open.spotify.com/track/53Qo5NLpGy83merW2rhV9q) | [GAUCI](https://open.spotify.com/artist/4cZCJhHp1jIH1NZ02799nY) | [Come Around](https://open.spotify.com/album/5q2JvsoQk69eW67slxqkhn) | 3:34 |
 
-Snapshot ID: `MCw2NjQ0MmQ2MGQzYTVjZGE5MzdlODQ1MDViYjZjNjNjZDc2NGFlM2E0`
+Snapshot ID: `MCwxODQ0MWIzMjU2MTkwYjcxYjI0OTBkYjU0NTExMGFjYzYyMzI1YTQy`

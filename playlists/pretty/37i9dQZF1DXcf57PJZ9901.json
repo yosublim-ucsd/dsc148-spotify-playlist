@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2010s. Cover: Keane",
-  "num_followers": 111384,
+  "num_followers": 111426,
   "original_name": "10s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjM4ODgyNjViYjAxY2JlMTJkMTAyNTY4MWJhZDg3MDIwNzhlMWE1",
+  "snapshot_id": "MCxiMzE3OGE3YjVlNmZmZWVmYWQ4YjEwZGJkOWY1ZjViMjYyNDg0NzQz",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Glasgow",
-      "url": "https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 259252,
       "name": "Zombie - Acoustic",
       "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB"
     },
     {
       "added_at": "2023-01-11 18:02:14",

@@ -1,13 +1,29 @@
 {
   "description": "All about aespa: meeting another self and experiencing the new world",
-  "num_followers": 157218,
+  "num_followers": 157331,
   "original_name": "This Is aespa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTU4NDUyYjRlMzFmZjlhMGRhYzAyZWRlY2EzNThiNzczMDNkMGFh",
+  "snapshot_id": "MCw4ODU4OTFkM2Q5ODliNThiMjk2MjAzODY0ODY4NTgwMDc2NGVmMGVk",
   "tracks": [
+    {
+      "added_at": "2024-03-13 04:35:39",
+      "album": {
+        "name": "The Midnight Studio, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KyXcvakvVBugwPdVSRDK5"
+      },
+      "artists": [
+        {
+          "name": "NINGNING",
+          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/0CExKnGUdMZkttFmZAuwdr"
+    },
     {
       "added_at": "2024-01-16 08:07:59",
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 1802,
+  "2024-03-14": 1809,
   "date_first_scraped": "2024-02-08",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX\">Amy Allen</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Amy Allen",
@@ -1555,6 +1555,24 @@
       "duration_ms": 189753,
       "name": "santa doesn\u2019t know you like i do",
       "url": "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v"
+    },
+    {
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177325,
+      "name": "Save My Life",
+      "url": "https://open.spotify.com/track/1e9jtpVUszajrfKAJKPvCS"
     },
     {
       "album": {

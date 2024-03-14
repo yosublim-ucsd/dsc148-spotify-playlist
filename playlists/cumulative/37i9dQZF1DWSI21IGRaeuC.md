@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-294 songs - 1 day 0 hr 3 min
+295 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-06-03 | 2023-11-06 |
 | [Amused](https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Amused EP](https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js) | 3:15 | 2024-02-23 |  |
 | [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 | 2022-07-19 | 2023-07-15 |
-| [Another Chance](https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa) | 7:00 | 2023-08-18 |  |
+| [Another Chance](https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa) | 7:00 | 2023-08-18 | 2024-03-14 |
 | [Applaud](https://open.spotify.com/track/04wE6fWx2qMQUoA6EFBG8l) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Applaud](https://open.spotify.com/album/0YgUgNFFGKN2fiivbh2wmn) | 6:05 | 2022-07-22 | 2022-07-29 |
 | [Are We Dreaming](https://open.spotify.com/track/6THnoOgjKVCd17Y4kcs7dC) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM) | [Are We Dreaming](https://open.spotify.com/album/0rUI5Ng4CH1DN3K4F6OWui) | 5:41 | 2024-01-12 |  |
 | [At Lanta](https://open.spotify.com/track/6IAleUEkszXQZ1sMaS62El) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [At Lanta](https://open.spotify.com/album/4HwB4ldDeSIo64foCaOUMJ) | 6:50 | 2023-10-27 | 2023-11-07 |
@@ -94,6 +94,7 @@
 | [FUTURA](https://open.spotify.com/track/6R5Rb4u8PmIe1D7JtSCC96) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [FUTURA](https://open.spotify.com/album/5GXkaEk1CFgQbzvrvt3XUd) | 7:29 | 2023-08-25 | 2023-10-17 |
 | [Galactica](https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Galactica](https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3) | 5:10 | 2023-07-21 | 2024-01-13 |
 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 | 2022-07-22 |  |
+| [Get Down](https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [Get Down](https://open.spotify.com/album/5R8jLYuFWZuBkwSfRIBQmw) | 4:31 | 2024-03-08 |  |
 | [Get On The Floor](https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Get On The Floor EP](https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4) | 6:28 | 2023-07-21 |  |
 | [Get Ur Freak On](https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Freak With Us](https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa) | 3:17 | 2022-09-16 | 2022-11-12 |
 | [Go To Sleep](https://open.spotify.com/track/1hgRPboYDiw2HYC4BOmuGp) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Fall in Love EP](https://open.spotify.com/album/2h67Mn5VvLUWVNQnkUcTXg) | 6:25 | 2022-06-03 | 2022-06-12 |

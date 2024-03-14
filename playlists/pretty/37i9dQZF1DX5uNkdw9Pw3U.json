@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 150034,
+  "num_followers": 150250,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWIxYzYxM2M1MWFlY2ExOGM2M2M4NWMxOTBkZTNlNDI4ODg2NTA3",
+  "snapshot_id": "MCxiZmUzYmYxYjAyZjdhOWJmOGM2Y2NjNDhhMjllZDU0M2I5NTg2MzEx",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -547,26 +547,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Scenic Drive (The Tape)",
-        "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 249773,
-      "name": "Scenic Drive (feat. Ari Lennox & Smino)",
-      "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
+      "duration_ms": 266287,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -587,18 +579,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0"
+        "name": "Scenic Drive (The Tape)",
+        "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 266287,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma"
+      "duration_ms": 249773,
+      "name": "Scenic Drive (feat. Ari Lennox & Smino)",
+      "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "You Got The Body",
+        "url": "https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 176619,
+      "name": "You Got The Body",
+      "url": "https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Dancing Shadows",
         "url": "https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 216906,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/3OuELTPhn9RX3XpEocsIwm"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "You Got The Body",
-        "url": "https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 176619,
-      "name": "You Got The Body",
-      "url": "https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Tamale",
+        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Tamale",
+      "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "The Lay Down with H.E.R. & WATT",
         "url": "https://open.spotify.com/album/7lI5od7f6ljgPBZLEQbjmG"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 289041,
       "name": "The Lay Down with H.E.R. & WATT",
       "url": "https://open.spotify.com/track/4Fv2Yzpm9q7r6DJujUeUiP"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Tamale",
-        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Tamale",
-      "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
     },
     {
       "added_at": "2023-10-19 22:00:00",

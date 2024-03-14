@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 94 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 95 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,28 +79,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 69 | [S.B.W](https://open.spotify.com/track/0ouqa582jNyX4B5Gvvjwh9) | [Chromazz](https://open.spotify.com/artist/3OhxI9yPQIh8L5uRPB1WG7) | [S.B.W](https://open.spotify.com/album/2qQkJlgbShVtQsbI9D03eS) | 2:57 |
 | 70 | [Realist / Outro](https://open.spotify.com/track/5ppW5OaqSE1IodXnBdEaLO) | [Hudson East](https://open.spotify.com/artist/0DwPrw4Zd15m2cdnpbwGKq) | [Eastway](https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D) | 5:15 |
 | 71 | [Not Sorry](https://open.spotify.com/track/7ps92YupHzzx6b1Lyhmiyc) | [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [STAGES](https://open.spotify.com/album/2wTHtRmJdIwS8e7F4mrCzm) | 2:06 |
-| 72 | [Mhmm](https://open.spotify.com/track/3wqh0yW8QqgWC0ugN1fEZM) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Out Here \- Single](https://open.spotify.com/album/7cB2PmK41V2q8whJzGOVpQ) | 2:13 |
-| 73 | [Under Control](https://open.spotify.com/track/3B6Ha04nvVi9EeEbGsfrOX) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:05 |
-| 74 | [HICCUP](https://open.spotify.com/track/3xO0JG5aeKca9gp9SYcljz) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 01: The Show Must Go On](https://open.spotify.com/album/6dqubyVt3aC3niJDXkSB5Q) | 2:10 |
-| 75 | [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 |
-| 76 | [On My Mind](https://open.spotify.com/track/4I2dKtLNSWlk8rE0zAuin4) | [Young Rog](https://open.spotify.com/artist/3KS7WL7X3d09RoG0ZJfPuF) | [Boy Next Door](https://open.spotify.com/album/7JYIYGAFPn7gHJtAXUFAgw) | 2:28 |
-| 77 | [Good Life](https://open.spotify.com/track/04mFzfiMGq2EHPZhTpcYMc) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:45 |
-| 78 | [Barely Anybody](https://open.spotify.com/track/74OXa3vvBFhJoLgx5jPYva) | [Wesson Desir](https://open.spotify.com/artist/5TfGTJqLoXQYHHW7hyaDot) | [Apollo Archives](https://open.spotify.com/album/5eMzcOEjGRmKypPq6nbZTz) | 2:27 |
-| 79 | [Sunrise](https://open.spotify.com/track/4l7D1q4Z2XIZE7GzCWnFeb) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj) | [Blue](https://open.spotify.com/album/4xYXybTIaWJJVR3ahv85TO) | 2:18 |
-| 80 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 |
-| 81 | [BELIEVE ME](https://open.spotify.com/track/1iYzpPZzxkdgZG3ukBRE9m) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:48 |
-| 82 | [WALK IN](https://open.spotify.com/track/6G3SpOQw2lInNobvvgfMIW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:13 |
-| 83 | [INTRO](https://open.spotify.com/track/254e1d9X2yuvBvDt6Xnbay) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 0:14 |
-| 84 | [Kiss & Tell](https://open.spotify.com/track/2wRNKZsOcrNOl44fCleWK1) | [Sainvil](https://open.spotify.com/artist/1nv9STc3b4snPq4Zcm1I4n) | [In Bad Shape](https://open.spotify.com/album/5ddLy0baF0N5AwcXx5Ubvi) | 2:52 |
-| 85 | [OVRDSE](https://open.spotify.com/track/0xK9RUrWdtbi7DbN3lYxcS) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 1:21 |
-| 86 | [DOSE II](https://open.spotify.com/track/3Rv996DTJVR6RtG7cLfoMa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 0:43 |
-| 87 | [DOSE III](https://open.spotify.com/track/369OKBPgqke4N3o1ygfmU0) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 0:53 |
-| 88 | [Summer Chick](https://open.spotify.com/track/0RMMiZnHet7g8drfUVuP7x) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:10 |
-| 89 | [Mandown](https://open.spotify.com/track/1FUs8JnPJnZyDiRHNNzaQ3) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:12 |
-| 90 | [Like I'm Missy](https://open.spotify.com/track/4mVirqSP1RoQIsVszbI48b) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Like I'm Missy](https://open.spotify.com/album/2no35ZrZcU7BXNFnJ0Yk4k) | 2:38 |
-| 91 | [BK BABY](https://open.spotify.com/track/4wPbpGQP6HWNDUOEh21NYs) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:44 |
-| 92 | [Banners](https://open.spotify.com/track/32SwE9JslVd5xw8Fc57KUB) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Banners](https://open.spotify.com/album/1KKETMOEhJSf8M5A8btvYN) | 3:44 |
-| 93 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
-| 94 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
+| 72 | [Yoko](https://open.spotify.com/track/45gHc1QYBky7k38HSlaIft) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Yoko](https://open.spotify.com/album/7MX7xfLckdaiMg1POPrs42) | 2:05 |
+| 73 | [Mhmm](https://open.spotify.com/track/3wqh0yW8QqgWC0ugN1fEZM) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Out Here \- Single](https://open.spotify.com/album/7cB2PmK41V2q8whJzGOVpQ) | 2:13 |
+| 74 | [Under Control](https://open.spotify.com/track/3B6Ha04nvVi9EeEbGsfrOX) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:05 |
+| 75 | [HICCUP](https://open.spotify.com/track/3xO0JG5aeKca9gp9SYcljz) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 01: The Show Must Go On](https://open.spotify.com/album/6dqubyVt3aC3niJDXkSB5Q) | 2:10 |
+| 76 | [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 |
+| 77 | [On My Mind](https://open.spotify.com/track/4I2dKtLNSWlk8rE0zAuin4) | [Young Rog](https://open.spotify.com/artist/3KS7WL7X3d09RoG0ZJfPuF) | [Boy Next Door](https://open.spotify.com/album/7JYIYGAFPn7gHJtAXUFAgw) | 2:28 |
+| 78 | [Good Life](https://open.spotify.com/track/04mFzfiMGq2EHPZhTpcYMc) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:45 |
+| 79 | [Barely Anybody](https://open.spotify.com/track/74OXa3vvBFhJoLgx5jPYva) | [Wesson Desir](https://open.spotify.com/artist/5TfGTJqLoXQYHHW7hyaDot) | [Apollo Archives](https://open.spotify.com/album/5eMzcOEjGRmKypPq6nbZTz) | 2:27 |
+| 80 | [Sunrise](https://open.spotify.com/track/4l7D1q4Z2XIZE7GzCWnFeb) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj) | [Blue](https://open.spotify.com/album/4xYXybTIaWJJVR3ahv85TO) | 2:18 |
+| 81 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 |
+| 82 | [BELIEVE ME](https://open.spotify.com/track/1iYzpPZzxkdgZG3ukBRE9m) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:48 |
+| 83 | [WALK IN](https://open.spotify.com/track/6G3SpOQw2lInNobvvgfMIW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:13 |
+| 84 | [INTRO](https://open.spotify.com/track/254e1d9X2yuvBvDt6Xnbay) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 0:14 |
+| 85 | [Kiss & Tell](https://open.spotify.com/track/2wRNKZsOcrNOl44fCleWK1) | [Sainvil](https://open.spotify.com/artist/1nv9STc3b4snPq4Zcm1I4n) | [In Bad Shape](https://open.spotify.com/album/5ddLy0baF0N5AwcXx5Ubvi) | 2:52 |
+| 86 | [OVRDSE](https://open.spotify.com/track/0xK9RUrWdtbi7DbN3lYxcS) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 1:21 |
+| 87 | [DOSE II](https://open.spotify.com/track/3Rv996DTJVR6RtG7cLfoMa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 0:43 |
+| 88 | [DOSE III](https://open.spotify.com/track/369OKBPgqke4N3o1ygfmU0) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 0:53 |
+| 89 | [Summer Chick](https://open.spotify.com/track/0RMMiZnHet7g8drfUVuP7x) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:10 |
+| 90 | [Mandown](https://open.spotify.com/track/1FUs8JnPJnZyDiRHNNzaQ3) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:12 |
+| 91 | [Like I'm Missy](https://open.spotify.com/track/4mVirqSP1RoQIsVszbI48b) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Like I'm Missy](https://open.spotify.com/album/2no35ZrZcU7BXNFnJ0Yk4k) | 2:38 |
+| 92 | [BK BABY](https://open.spotify.com/track/4wPbpGQP6HWNDUOEh21NYs) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:44 |
+| 93 | [Banners](https://open.spotify.com/track/32SwE9JslVd5xw8Fc57KUB) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Banners](https://open.spotify.com/album/1KKETMOEhJSf8M5A8btvYN) | 3:44 |
+| 94 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
+| 95 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `Mjg1MDQ5MjAsMDAwMDAwMDAyZWVlOTU4ODhiZWVkOTE3ZjBlODliZDlmZDlkMjhlMg==`
+Snapshot ID: `Mjg1MDYzNjAsMDAwMDAwMDAwNGIxMTA0MThlYTc4ODZkMDNhYTlmMDIyODg1YjQ3YQ==`

@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 5548,
+  "2024-03-14": 5564,
   "date_first_scraped": "2023-10-18",
   "description": "<a href=\"https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l_E1EUSFQy6mw967zlio3Q\"> Disclosure</a>'s favourite tracks. Updated regularly. Curated by Disclosure. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Disclosure's track ID's",
@@ -1251,6 +1251,24 @@
     {
       "album": {
         "name": "Total Eclipse",
+        "url": "https://open.spotify.com/album/6PPO7q95rqHmKjXC3IJafZ"
+      },
+      "artists": [
+        {
+          "name": "Andy Smith",
+          "url": "https://open.spotify.com/artist/1mw1aDE1NtpzW6uWM4fPWE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290373,
+      "name": "Xtina",
+      "url": "https://open.spotify.com/track/3z7IkJWkJuRGeKUOs8ildv"
+    },
+    {
+      "album": {
+        "name": "Total Eclipse",
         "url": "https://open.spotify.com/album/4l1bVe35t30CE6UJQEKcl4"
       },
       "artists": [
@@ -1265,24 +1283,6 @@
       "duration_ms": 290373,
       "name": "Xtina",
       "url": "https://open.spotify.com/track/2ybGkYUXKKJMN701QYwXff"
-    },
-    {
-      "album": {
-        "name": "Total Eclipse",
-        "url": "https://open.spotify.com/album/6PPO7q95rqHmKjXC3IJafZ"
-      },
-      "artists": [
-        {
-          "name": "Lxury",
-          "url": "https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf"
-        }
-      ],
-      "date_added": "2023-10-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 290373,
-      "name": "Xtina",
-      "url": "https://open.spotify.com/track/3z7IkJWkJuRGeKUOs8ildv"
     },
     {
       "album": {

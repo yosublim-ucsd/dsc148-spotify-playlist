@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: えんぷてい \(emptei\)
 
-1,417 songs - 3 day 15 hr 47 min
+1,419 songs - 3 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [fushigi \- URBAN VOLCANO SOUNDS Mysterious Boogie Remix](https://open.spotify.com/track/4izWh3S6IbaKO0pIRHdSxZ) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [URBAN VOLCANO SOUNDS](https://open.spotify.com/artist/7uKxxjykhehO0XETSo7Ahi) | [fushigi \(URBAN VOLCANO SOUNDS Mysterious Boogie Remix\)](https://open.spotify.com/album/1kLgYyA73inRosAynMsNHu) | 5:49 | 2023-08-22 | 2023-09-19 |
 | [Futari Wa Tobiorita](https://open.spotify.com/track/2hNl4RZC4tyQ8x0BhBjOuy) | [SUBARASHIKA](https://open.spotify.com/artist/6aNahzVflJNhU49Ttmvsq5) | [Futari Wa Tobiorita](https://open.spotify.com/album/5XKVLxolj7tjWXgD1HgBr5) | 3:57 | 2023-09-26 | 2023-10-04 |
 | [FUTURE STORY](https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [FUTURE STORY](https://open.spotify.com/album/1xVNHk9hWTCM1yYoDwwIuN) | 2:44 | 2024-02-27 | 2024-03-01 |
+| [Fuyu Goe](https://open.spotify.com/track/78ShkHoX57bsDxn7DxhYnL) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Fuyu Goe](https://open.spotify.com/album/5ZpbwvtHLgPb31rCHglBlx) | 4:04 | 2024-03-12 |  |
 | [GAL NINJA](https://open.spotify.com/track/6vMPlHfCspD7vE0DPLPGgg) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [GAL NINJA](https://open.spotify.com/album/75oSQgSWZxrpwuCe4TprPe) | 3:07 | 2024-03-07 | 2024-03-13 |
 | [GAME](https://open.spotify.com/track/2VtkTGHzX6otFrgjB37PNn) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/00tN5W3sO93jZSqpLywQBs) | 2:45 | 2023-09-19 | 2023-09-21 |
 | [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-22 | 2023-11-29 |
@@ -336,7 +337,8 @@
 | [Hold You Again](https://open.spotify.com/track/0yIURdQDYHRZLQWJV30dUq) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/7xS5YfJ1KFEMuYmon2ziX3) | 3:40 | 2024-01-23 | 2024-01-31 |
 | [Holiday Coffee](https://open.spotify.com/track/1t657PdwYCNvJ9BqIt7imn) | [Dreamcast](https://open.spotify.com/artist/7l0f04RlI76FMqgXTOIJWI), [Koichiro Toyoda](https://open.spotify.com/artist/6fvMrUiC0ToUVL7BqZU8H1) | [Holiday Coffee](https://open.spotify.com/album/4cJxiAuV9TiBNwJuEDozUf) | 3:55 | 2023-01-12 | 2023-01-18 |
 | [Hollow \- Side\-A](https://open.spotify.com/track/453RJe34QIQ2ijFkdnv9qg) | [Nozomi Nobody](https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL) | [Hollow \(Side\-A\)](https://open.spotify.com/album/5rjioNM3SnzKpGgwE8whoS) | 3:28 | 2023-11-29 | 2023-12-06 |
-| [Hollywood](https://open.spotify.com/track/3aOVI6YoZNX2FPE6rFcGZK) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Hollywood](https://open.spotify.com/album/3uB0fMFMUDkp9TfS95APsi) | 4:00 | 2024-03-12 |  |
+| [Hollywood](https://open.spotify.com/track/1aD8qLixfwBmfawlUCeljB) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Hollywood](https://open.spotify.com/album/7EEjDfSaXq3IvVsVsx5U3D) | 4:00 | 2024-03-12 |  |
+| [Hollywood](https://open.spotify.com/track/3aOVI6YoZNX2FPE6rFcGZK) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Hollywood](https://open.spotify.com/album/3uB0fMFMUDkp9TfS95APsi) | 4:00 | 2024-03-12 | 2024-03-14 |
 | [Holy Mountain](https://open.spotify.com/track/69iInIA8yAG1ifnyHjP73c) | [木\(KI\)](https://open.spotify.com/artist/3tudb25wfMnZH5fbEFEpn6) | [Wa](https://open.spotify.com/album/6FXoIebBQ3riOEOaqC3teT) | 3:54 | 2023-09-05 | 2023-09-13 |
 | [HOME](https://open.spotify.com/track/3RSKVlBmRcXmf94fHMfmkJ) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [Annihilation](https://open.spotify.com/album/3Rs3vGktWThcePuUgjmvxN) | 3:23 | 2023-03-30 | 2023-11-22 |
 | [Home away from home](https://open.spotify.com/track/078aRKG1uIz2W2Vf6Brncl) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/1QPo9D2cCyLWtBEdAjzdmg) | 4:07 | 2023-02-28 | 2023-03-02 |
@@ -723,7 +725,7 @@
 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 | 2023-04-11 | 2024-01-09 |
 | [Slip, Fall, Sleep](https://open.spotify.com/track/74n2hdEZVW3ogYP74Pzh85) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Slip, Fall, Sleep](https://open.spotify.com/album/1lRfBlZjd4wHun8GPczQGH) | 3:38 | 2024-01-09 |  |
 | [Slow Down](https://open.spotify.com/track/3KOx6rcK8hPdbbqjmH6Msj) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Slow Down](https://open.spotify.com/album/3bknmrIE9vb5dP4Zb6y5Hd) | 4:30 | 2023-01-12 | 2023-01-18 |
-| [Smile](https://open.spotify.com/track/1Td0MRk0Udpx3tcgkr3a0x) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [Smile](https://open.spotify.com/album/07PwF2iHUjoUPYBfkxQyUj) | 3:28 | 2024-02-13 | 2024-03-06 |
+| [Smile](https://open.spotify.com/track/1Td0MRk0Udpx3tcgkr3a0x) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [Smile](https://open.spotify.com/album/07PwF2iHUjoUPYBfkxQyUj) | 3:28 | 2024-02-13 |  |
 | [Smooth](https://open.spotify.com/track/0tpQcdzMmyVyOgH5zP7TWR) | [踊る！ディスコ室町](https://open.spotify.com/artist/0zOXaa6lzmLjtp5mbRV37p) | [Smooth](https://open.spotify.com/album/7wd3WUX16z0NCouCLvcRCN) | 4:04 | 2023-09-26 | 2023-10-18 |
 | [Snowy Road](https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Snowy Road](https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8) | 4:52 | 2023-12-05 | 2024-03-08 |
 | [So tough & So tough](https://open.spotify.com/track/36SZggM1TD3tlZuUa6relW) | [ニーハオ!!!!](https://open.spotify.com/artist/1B0p5xXIIfJNKC5rzbN3To) | [So tough & So tough](https://open.spotify.com/album/5kT1YYk3YMGdzJbtmXOsGy) | 2:07 | 2023-02-07 | 2023-03-08 |
@@ -1186,7 +1188,7 @@
 | [光を浴びて](https://open.spotify.com/track/6w8teS79FT2JV8XV4EgZDj) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光を浴びて](https://open.spotify.com/album/2gmerqerD6iqVX4RgzDWGt) | 3:45 | 2023-09-26 | 2023-11-07 |
 | [光線](https://open.spotify.com/track/42DGm06re0rxSEOM0AhO6p) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [光線](https://open.spotify.com/album/05rp9bgAR4fXTNYrhSBvg0) | 3:09 | 2023-08-22 | 2023-11-24 |
 | [共振](https://open.spotify.com/track/41o30p9zWXn1SbdODFZBjf) | [Arakoi](https://open.spotify.com/artist/2jJfXAB5K7ZlK1H7xQt0tl) | [響鳴](https://open.spotify.com/album/2lw6n33b4NK9oLeioBCBd6) | 5:14 | 2024-01-16 | 2024-01-24 |
-| [冬越え](https://open.spotify.com/track/4hf6Vgy3AbYlzZiBHnyA48) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [冬越え](https://open.spotify.com/album/47OBebnmm2E2xo6tASrtGT) | 4:04 | 2024-03-12 |  |
+| [冬越え](https://open.spotify.com/track/4hf6Vgy3AbYlzZiBHnyA48) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [冬越え](https://open.spotify.com/album/47OBebnmm2E2xo6tASrtGT) | 4:04 | 2024-03-12 | 2024-03-14 |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-29 |  |
 | [反時代ゲーム](https://open.spotify.com/track/6UtOG4MMEvcorjOSyQ4APY) | [佐藤優介](https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L) | [反時代ゲーム](https://open.spotify.com/album/2rmyOj27rXl2mpZenIKSeM) | 4:59 | 2023-10-03 | 2023-10-06 |
 | [可可 feat\. ぷにぷに電機](https://open.spotify.com/track/1rcljy3U53XvlXFgh7BsSs) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [可可 feat\. ぷにぷに電機](https://open.spotify.com/album/7LpxpVbQ1vLrqWOejWVY4d) | 4:05 | 2023-09-19 | 2023-09-21 |
@@ -1363,7 +1365,7 @@
 | [窓](https://open.spotify.com/track/4Z3RZPhUHiIm0l1Ik5FsTv) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [窓](https://open.spotify.com/album/6YPj1GIWzuiDIoQnFaUyYP) | 4:16 | 2023-05-30 | 2023-06-14 |
 | [窓](https://open.spotify.com/track/1kSI2K7ziJRvqqv1pOwJC8) | [The World Will Tear Us Apart](https://open.spotify.com/artist/1GS838TTVSArwgjWcidfYV) | [窓/深呼吸](https://open.spotify.com/album/1ZI5gjnYMMz0wdbVMA1Ssb) | 4:26 | 2023-01-17 | 2023-02-01 |
 | [笑い話の夜 \- album ver.](https://open.spotify.com/track/2x953wBThParvOKoGF0XBR) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [笑い話の夜](https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY) | 4:40 | 2023-07-04 | 2023-08-28 |
-| [素直](https://open.spotify.com/track/5QLvE8IhvVWnDet6lF1Nnw) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [素直](https://open.spotify.com/album/7d9z7Otels1oG91ZVIukAp) | 3:46 | 2024-01-16 |  |
+| [素直](https://open.spotify.com/track/5QLvE8IhvVWnDet6lF1Nnw) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [素直](https://open.spotify.com/album/7d9z7Otels1oG91ZVIukAp) | 3:46 | 2024-01-16 | 2024-03-14 |
 | [経験](https://open.spotify.com/track/0yu9KcjQ7H3TzCG0nLOFOn) | [kumagusu](https://open.spotify.com/artist/13fYVVUSG52q6sTm1Fx3HQ) | [経験](https://open.spotify.com/album/3XIBN10g7e3wsL5naIp77z) | 4:20 | 2023-04-20 | 2023-04-22 |
 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 | 2023-03-28 | 2023-08-31 |
 | [総力戦](https://open.spotify.com/track/6xoQAnOAjrKz7lgPhKBrVm) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA) | [総力戦](https://open.spotify.com/album/2cECbH3VuiZTL3ZSSuvWKe) | 5:37 | 2023-12-12 | 2023-12-20 |

@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-754 songs - 1 day 21 hr 5 min
+755 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Love You More](https://open.spotify.com/track/4UMeiUSQWBvtWOUcnmYl9E) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [Goodbye The Greatest Hits](https://open.spotify.com/album/3oZ7Rys9s12dBp1XCgZJ5a) | 3:47 | 2021-08-10 | 2024-03-06 |
 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 | 2021-08-10 | 2022-07-29 |
 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 | 2022-05-11 |  |
+| [Lovesong](https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 5:16 | 2023-12-27 |  |
 | [Loyal to Me](https://open.spotify.com/track/0Jw6f9OfWddSnuBQ5hJHHl) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Loyal to Me](https://open.spotify.com/album/6RPjIfB2WfEdgvSSWqtBa9) | 3:11 | 2021-08-10 | 2022-07-29 |
 | [Loyal to Me](https://open.spotify.com/track/3I3u1ToIan8l0FKA7wV1QO) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 3:13 | 2022-05-11 |  |
 | [Loyal to Me](https://open.spotify.com/track/4Xu8YYHeocUm5IPUBnrGPK) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change & The Flowers Will Fall](https://open.spotify.com/album/4Wi489dcX4owpM21EcKKz7) | 3:13 | 2022-05-11 | 2022-11-13 |
@@ -551,7 +552,7 @@
 | [Remember I Told You](https://open.spotify.com/track/5T9G49pXWTV7SHMSksvfL4) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Remember I Told You](https://open.spotify.com/album/0lYa015i9HoxN6OstbDgOj) | 3:21 | 2021-08-10 |  |
 | [Remind Me to Forget](https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Remind Me to Forget](https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq) | 3:37 | 2021-08-10 |  |
 | [Rise](https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Rise](https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK) | 3:23 | 2021-08-10 |  |
-| [River Lea](https://open.spotify.com/track/3hwu7jZD2TjvWCeHzNlgSE) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:45 | 2023-12-27 |  |
+| [River Lea](https://open.spotify.com/track/3hwu7jZD2TjvWCeHzNlgSE) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:45 | 2023-12-27 | 2024-03-14 |
 | [Rock Bottom](https://open.spotify.com/track/1MR74nib09DsCEGS3KcOOT) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Family Friendly Summer Hits](https://open.spotify.com/album/6wlsGRjp0lk6LogDnC5O3O) | 3:18 | 2022-05-11 | 2022-11-13 |
 | [Rock Bottom](https://open.spotify.com/track/2qxaR31Te4xDR2yO6LqM8z) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [HAIZ](https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0) | 3:18 | 2022-05-11 |  |
 | [Rock Bottom](https://open.spotify.com/track/60zCXVn6QyD4TddmlvnXYw) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [HAIZ](https://open.spotify.com/album/6p9hXypdyODEkef40K61d1) | 3:18 | 2021-08-10 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:5D3h9ZoobhetjXw3dKhcaq">Jon Foreman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,155 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,227 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Hands on Me](https://open.spotify.com/track/4fJPzIrLQPeHl9ONB4bPCD) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Hands on Me](https://open.spotify.com/album/0biyWpaRqrmazzLwt0pqts) | 2:16 |
 | 100 | [The Way You Act](https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [The Way You Act](https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9) | 2:10 |
 
-Snapshot ID: `MCxiY2U0NWI4ZTcwMWQwYWE3NmE2NDM4ZDk0NjZlMDc5NGI3MDFlYTY5`
+Snapshot ID: `MCwyNDJiYTNlYTg2OWVjMDAwNDkwMDIyZmM5OGUwYzZjZDg3MTY5MTQ2`

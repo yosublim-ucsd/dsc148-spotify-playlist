@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 301087,
+  "2024-03-14": 301275,
   "date_first_scraped": "2022-05-23",
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
   "name": "Puras Pa' Pistear",
@@ -3501,10 +3501,28 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 206933,
       "name": "El viaje de mi vida",
       "url": "https://open.spotify.com/track/3RjXj36lEB3Zn8N5BxrDdY"
+    },
+    {
+      "album": {
+        "name": "El Viaje De Mi Vida",
+        "url": "https://open.spotify.com/album/3UC6SMwZQhCXqsqk8sLYc2"
+      },
+      "artists": [
+        {
+          "name": "Los Mentados De Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209328,
+      "name": "El Viaje De Mi Vida",
+      "url": "https://open.spotify.com/track/5Rli1Yyl7mm8f6jWWgxveL"
     },
     {
       "album": {

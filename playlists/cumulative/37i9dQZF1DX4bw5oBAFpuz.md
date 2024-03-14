@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-344 songs - 20 hr 4 min
+345 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Haven't Met You Yet](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 4:04 | 2023-02-23 | 2023-09-11 |
 | [Head Over Heels](https://open.spotify.com/track/3StL2jKfcfZBD1oc1tm25j) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Head Over Heels](https://open.spotify.com/album/4FlcewSj4imHL8Fjc3lJbb) | 2:32 | 2023-02-23 |  |
 | [Heart And Soul](https://open.spotify.com/track/2qsxxtgNo91XMsz6fZjFYs) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Heart And Soul](https://open.spotify.com/album/2BgRGjEHjI4mCsBtIir7Up) | 2:54 | 2023-04-06 |  |
-| [Heartbeat \- Acoustic Version](https://open.spotify.com/track/7ktXVuy3bi3Dd2WMmN4UTt) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat \(Acoustic Version\)](https://open.spotify.com/album/6SpveBzKj1xeTK4vTS9SKu) | 3:22 | 2023-03-09 |  |
+| [Heartbeat \- Acoustic Version](https://open.spotify.com/track/7ktXVuy3bi3Dd2WMmN4UTt) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat \(Acoustic Version\)](https://open.spotify.com/album/6SpveBzKj1xeTK4vTS9SKu) | 3:22 | 2023-03-09 | 2024-03-14 |
 | [Hello](https://open.spotify.com/track/6WOWlW3yUqyobe5t60CMNu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Hello](https://open.spotify.com/album/5ktE0WaMW40T9mcr7MM6Ic) | 3:34 | 2023-08-29 | 2023-11-17 |
 | [Hello](https://open.spotify.com/track/6kIl5WZtEdImIcEarhs9iZ) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:34 | 2023-11-02 |  |
 | [Here With You \- Acoustic](https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Y O U](https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr) | 3:41 | 2023-04-25 |  |
@@ -339,6 +339,7 @@
 | [When We First Met](https://open.spotify.com/track/5Ck86xT1yXsPRi1vRUTECa) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [When We First Met](https://open.spotify.com/album/31CRztMM1ptaxOPfcqDohf) | 3:15 | 2023-04-25 |  |
 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 | 2023-02-23 | 2023-07-15 |
 | [When You're Gone](https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:24 | 2023-04-06 | 2023-04-26 |
+| [Whenever](https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Whenever](https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr) | 2:35 | 2024-03-13 |  |
 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 | 2023-02-23 |  |
 | [Who Gave You The Right](https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Who Gave You The Right](https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f) | 3:26 | 2023-02-23 |  |
 | [Why Do You Care](https://open.spotify.com/track/4miesggrLA9agA9lusKhV9) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [RONDÉ](https://open.spotify.com/album/7oQWTdzb0SHFhWp5cZZvZv) | 3:36 | 2023-04-25 |  |

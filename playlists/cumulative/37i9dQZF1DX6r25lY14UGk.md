@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Jack Black
 
-278 songs - 12 hr 20 min
+279 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [Under My Nose](https://open.spotify.com/track/6xZbvUXNxKEBCDsFrCDNTJ) | [Willow City](https://open.spotify.com/artist/6uD8hO8znBlZOnmSLpMadV) | [Under My Nose](https://open.spotify.com/album/20wXwI3kIxW7QL0YsI8h3S) | 3:04 | 2022-11-14 | 2024-01-05 |
 | [Unicorn Song](https://open.spotify.com/track/09MxtSLQheOkxH84Kg132N) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Unicorn Song](https://open.spotify.com/album/4jnak104rS4pKgYslMKHE2) | 3:01 | 2024-02-09 |  |
 | [Used To Be Young](https://open.spotify.com/track/239Hmf9gqfdOjYBBaKcYGs) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Used To Be Young](https://open.spotify.com/album/53C3GboXZmNPObC7yOrX17) | 2:56 | 2024-01-12 |  |
-| [Wake Up Body](https://open.spotify.com/track/1rwCDTzDZcRP6JK0A74DaA) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Wake Up Body](https://open.spotify.com/album/7CgurGWicYjX5S0vcTj2T5) | 1:49 | 2024-02-09 |  |
+| [Wake Up Body](https://open.spotify.com/track/1rwCDTzDZcRP6JK0A74DaA) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Wake Up Body](https://open.spotify.com/album/7CgurGWicYjX5S0vcTj2T5) | 1:49 | 2024-02-09 | 2024-03-14 |
+| [Wake Up Body](https://open.spotify.com/track/6gFSWX9hNjIBvploVWgTy9) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Hello Everybody and Other Circle Time Songs](https://open.spotify.com/album/19FPtlAvRYPpScvEqxqD2x) | 1:49 | 2024-02-09 |  |
 | [Wave a Flag for Harvey Milk](https://open.spotify.com/track/278FrjHVBPFAE5oEktEkeL) | [Mr\. Greg](https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mr\. Greg & Cass McCombs Sing and Play New Folk Songs for Children](https://open.spotify.com/album/5BRz8Ni0M0EeXFDfSnwZhh) | 3:22 | 2023-08-18 | 2024-02-10 |
 | [Way of Looking at the World](https://open.spotify.com/track/7GbJKpbxlUIqnQZ2a0yHxr) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Way of Looking at the World](https://open.spotify.com/album/6hoUQ7E6ptjW7KNRZHsT9j) | 2:45 | 2022-04-15 | 2023-10-21 |
 | [We Go Together Very Well](https://open.spotify.com/track/4RhmeK90NGyJ5bplwVjj0u) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 3:04 | 2022-04-15 | 2024-01-05 |

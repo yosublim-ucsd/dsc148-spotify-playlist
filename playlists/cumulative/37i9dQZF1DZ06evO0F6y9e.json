@@ -133,6 +133,28 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed No Se Termina (En Vivo)",
+        "url": "https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199464,
+      "name": "Aqu\u00ed No Se Termina (En Vivo)",
+      "url": "https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2"
+    },
+    {
+      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
       },

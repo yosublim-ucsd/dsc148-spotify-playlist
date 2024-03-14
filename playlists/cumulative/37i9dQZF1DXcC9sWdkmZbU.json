@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "10,000 Reasons Kids Worship",
+        "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
+      },
+      "artists": [
+        {
+          "name": "Worship Together Kids",
+          "url": "https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "10,000 Reasons (Bless The Lord)",
+      "url": "https://open.spotify.com/track/7iNaSqWO7ytcFnDfTlRBPi"
+    },
+    {
+      "album": {
         "name": "Worship For Your Family (Yellow)",
         "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 222320,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/3yJIV1U93Bpgw2cRZ6VUiw"
@@ -164,6 +182,28 @@
       "duration_ms": 134773,
       "name": "Books of the Bible (New Testament)",
       "url": "https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc"
+    },
+    {
+      "album": {
+        "name": "Brave Performance Tracks",
+        "url": "https://open.spotify.com/album/38i0L7rD9dn8eW9LlBXjvc"
+      },
+      "artists": [
+        {
+          "name": "Saddleback Kids Worship",
+          "url": "https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63"
+        },
+        {
+          "name": "Temree Miller",
+          "url": "https://open.spotify.com/artist/11gZoyWLqqzejm5tmoDZke"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208945,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/4IpWEf6JwSGVSW3nC1SG10"
     },
     {
       "album": {
@@ -207,6 +247,46 @@
     },
     {
       "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/0E5j1NrkMsc3SN85dzlRg8"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music Kids",
+          "url": "https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305266,
+      "name": "Deep Cries Out",
+      "url": "https://open.spotify.com/track/6vGaIY7HYRoYvl30oMg3G2"
+    },
+    {
+      "album": {
+        "name": "Worship in the Word, Vol. 3 (Live)",
+        "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263187,
+      "name": "Don't Forget (Psalm 103) - Live",
+      "url": "https://open.spotify.com/track/0vby1DkoToYD05zGRLeoWA"
+    },
+    {
+      "album": {
         "name": "Even When",
         "url": "https://open.spotify.com/album/3EdWMarhtXqqaoZSso2TTn"
       },
@@ -240,10 +320,46 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 185826,
       "name": "Every Move I Make",
       "url": "https://open.spotify.com/track/4WG8pqpoKbhT3av6DFEhWK"
+    },
+    {
+      "album": {
+        "name": "Shout to the Lord Kids",
+        "url": "https://open.spotify.com/album/3srxJtNh6S5SCHgxoMomWV"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Every Move I Make",
+      "url": "https://open.spotify.com/track/6hv4MN2Knt4Zk2EyeCJ1pb"
+    },
+    {
+      "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I"
+      },
+      "artists": [
+        {
+          "name": "Elevation Church Kids",
+          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210586,
+      "name": "For Your Glory",
+      "url": "https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK"
     },
     {
       "album": {
@@ -359,6 +475,28 @@
     },
     {
       "album": {
+        "name": "Great Big God",
+        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Vineyard Kids",
+          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171773,
+      "name": "Great Big God",
+      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
+    },
+    {
+      "album": {
         "name": "Pop Praise: Jump for Joy",
         "url": "https://open.spotify.com/album/6RHcD6hREYs81gJahZIn1y"
       },
@@ -374,6 +512,24 @@
       "duration_ms": 164259,
       "name": "He Is the Light",
       "url": "https://open.spotify.com/track/7Bi1ZbcjXppd20X6IyldE7"
+    },
+    {
+      "album": {
+        "name": "Sunday School Songs",
+        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113013,
+      "name": "He's Got The Whole World",
+      "url": "https://open.spotify.com/track/2EKmcipc4bfMJjCzGnZupr"
     },
     {
       "album": {
@@ -681,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Sing the Bible, Vol. 2",
+        "url": "https://open.spotify.com/album/52c135YsCutZVTLPf8i1s9"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238573,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/5KcX22U4kPDlva7JIjaigI"
+    },
+    {
+      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/1MgJtpyHdmAytGnSaYW08a"
       },
@@ -775,6 +949,28 @@
     },
     {
       "album": {
+        "name": "SPARKLE. POP. RAMPAGE.",
+        "url": "https://open.spotify.com/album/278spUCAxNbIf5sVtQnike"
+      },
+      "artists": [
+        {
+          "name": "Rend Co. Kids",
+          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
+        },
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250920,
+      "name": "My Lighthouse",
+      "url": "https://open.spotify.com/track/7mdA28PZsE1vI8X6i0fioF"
+    },
+    {
+      "album": {
         "name": "Top 50 Kids' Praise! Company",
         "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
       },
@@ -830,6 +1026,28 @@
       "duration_ms": 273023,
       "name": "Oh We Love You (John 3:16) - Live",
       "url": "https://open.spotify.com/track/5Qu9EXAsihlQvm0biIZT3d"
+    },
+    {
+      "album": {
+        "name": "Let It Shine",
+        "url": "https://open.spotify.com/album/0gxTk6Qjz99QalCfOt93RB"
+      },
+      "artists": [
+        {
+          "name": "Listener Kids",
+          "url": "https://open.spotify.com/artist/6UcChJFHqKzPPnNxAY5D0s"
+        },
+        {
+          "name": "Harvest",
+          "url": "https://open.spotify.com/artist/7C7Di5WXLjMSxm0mFCbYxT"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121693,
+      "name": "Peace Like a River (feat. Harvest)",
+      "url": "https://open.spotify.com/track/5nyUAOepP8TSnLKTEDu3nq"
     },
     {
       "album": {
@@ -1147,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Just as I Am",
+        "url": "https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92"
+      },
+      "artists": [
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191641,
+      "name": "What a Friend We Have in Jesus",
+      "url": "https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3"
+    },
+    {
+      "album": {
         "name": "Sing the Bible, Vol. 4",
         "url": "https://open.spotify.com/album/1vSzE4ClIzrmKFtKZr7Ni3"
       },
@@ -1219,6 +1455,46 @@
     },
     {
       "album": {
+        "name": "Can You Believe It!?",
+        "url": "https://open.spotify.com/album/1fsVpCIerFhDqPnwQEABi0"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239040,
+      "name": "Who You Say I Am",
+      "url": "https://open.spotify.com/track/3jrixwz5amaMkV4CXDmxpV"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1XJEHc9QtStKXj7TSBwX14"
+      },
+      "artists": [
+        {
+          "name": "Gateway Kids Worship",
+          "url": "https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E"
+        },
+        {
+          "name": "Cole Novak",
+          "url": "https://open.spotify.com/artist/5hiGXWccuE62i5B7ipA9VT"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/1xOKzdnw9d3TOkeRPcygBP"
+    },
+    {
+      "album": {
         "name": "You Can Rest",
         "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
       },
@@ -1259,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/0E5j1NrkMsc3SN85dzlRg8"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music Kids",
+          "url": "https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266946,
+      "name": "You Make Me Brave",
+      "url": "https://open.spotify.com/track/46FLvXFCkkUdPWQcA6xU6G"
+    },
+    {
+      "album": {
         "name": "I Could Sing Of Your Love Forever Kids",
         "url": "https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj"
       },
@@ -1274,6 +1568,50 @@
       "duration_ms": 257333,
       "name": "You're Worthy Of My Praise",
       "url": "https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ"
+    },
+    {
+      "album": {
+        "name": "Shine!",
+        "url": "https://open.spotify.com/album/7s4Vo4wBqLcqUOyaZaVXhd"
+      },
+      "artists": [
+        {
+          "name": "North Point Kids",
+          "url": "https://open.spotify.com/artist/3nH0HVHrZoS3pEjkb2orWB"
+        },
+        {
+          "name": "Casey Darnell",
+          "url": "https://open.spotify.com/artist/1Ya3U2XGZpIyzoqfdFwShy"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144346,
+      "name": "Your Love For Me",
+      "url": "https://open.spotify.com/track/5PoYtTbrwraEQBfgsPIIuS"
+    },
+    {
+      "album": {
+        "name": "Worship in the Word, Vol. 3 (Live)",
+        "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290281,
+      "name": "Your Name (Psalm 40) - Live",
+      "url": "https://open.spotify.com/track/7Dmap2QHdFFuoweoQxNrNm"
     },
     {
       "album": {

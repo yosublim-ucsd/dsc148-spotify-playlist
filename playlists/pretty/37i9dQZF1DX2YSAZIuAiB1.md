@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit Latin, Afrobeats, Hip\-Hop und mehr 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,520 likes - 69 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,518 likes - 69 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 68 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 69 | [I Miss U](https://open.spotify.com/track/1u8rt8dSYVnjJT5josyZ77) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Enchantée](https://open.spotify.com/album/59Jp57rXrxj5sAPdS6FrXg) | 3:32 |
 
-Snapshot ID: `MCw5MDBlNDVkNzliZjJlYjJmMmY3ZGMwZmViMTcwMmRkNzhjYmNhZGFm`
+Snapshot ID: `MCxkNjAxYWE4NzllOTBlNjU4Yzk2NWRkNDRmZmRkYmQ4MmEzZGQ2MjE1`

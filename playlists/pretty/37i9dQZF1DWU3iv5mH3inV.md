@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo en RD\. Foto: Yaisel LM
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,669 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,707 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 17 | [Van 3 Día](https://open.spotify.com/track/6JEc3AZdPqI9srmmmILjk8) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [Van 3 Día](https://open.spotify.com/album/6ast2TToWEm7stjuQ1Qyqg) | 2:15 |
 | 18 | [En Blusa Freestyle](https://open.spotify.com/track/6x75q2uPWGElnj6PNyXXad) | [Dj Scuff](https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [En Blusa Freestyle](https://open.spotify.com/album/1qaUHX9UXhjHKi8DxD4Gs4) | 10:33 |
 | 19 | [Nadie Te Conoce](https://open.spotify.com/track/3LmhyPSKjoON1fKBOJSxDA) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [Nadie Te Conoce](https://open.spotify.com/album/1O1ZLmsD8H2O8nxpjm6zWG) | 2:27 |
-| 20 | [Pa Arriba Pa Abajo](https://open.spotify.com/track/0H5L77CsfQEKqDDGxu3H45) | [La Baby](https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Pa Arriba Pa Abajo](https://open.spotify.com/album/0erCCUlDacQZlaTT3HG4wE) | 1:51 |
+| 20 | [Pa Arriba Pa Abajo](https://open.spotify.com/track/1VqMFrStKS9TMBx33MLuOS) | [LA BABY](https://open.spotify.com/artist/20IoxvON98RdIAusjOeSe6) | [Pa Arriba Pa Abajo](https://open.spotify.com/album/4CVn73EnEAQ60pqJHUSthU) | 1:51 |
 | 21 | [PEINE DE ETE LAO](https://open.spotify.com/track/3qPmdcPp5yVnNjZ2hIlUE4) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN) | [PEINE DE ETE LAO](https://open.spotify.com/album/5BmYb2XtFh53Jmae9x8j6B) | 2:35 |
 | 22 | [Puñal de Acero](https://open.spotify.com/track/6sxt4ykznzGdTW4EnMOnfR) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC), [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [Puñal de Acero](https://open.spotify.com/album/5AM9uDp2L6IFpPdVswdMIZ) | 2:11 |
 | 23 | [Marcelo](https://open.spotify.com/track/2QM3dHYntJ0qmnjKsOq0sE) | [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Marcelo](https://open.spotify.com/album/0y5KiZQQJbOYamsrReBtRY) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 49 | [Peligroso](https://open.spotify.com/track/6JW8gnL90HaPyOfsVXDFsv) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Peligroso](https://open.spotify.com/album/2EEmVpRA0Q60viHH3BYBKW) | 2:03 |
 | 50 | [Mala De Verdad \(Tik Tak\)](https://open.spotify.com/track/4Q8gwcvgyDo1dbxxETrsYE) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Mala De Verdad \(Tik Tak\)](https://open.spotify.com/album/7K70x95rpKdWPWaVDxdRZF) | 2:37 |
 
-Snapshot ID: `MCw5MTc4ZjAwM2NhMzY3NTdiMGJjNzM1YjljMzJkYzFmODY4YmVmMmQ3`
+Snapshot ID: `MCw0OGVjYzU3ODBiNjg5MjNiNDAwNzFhZDAxZTg2Mzk4OTg3Njk4MDQz`

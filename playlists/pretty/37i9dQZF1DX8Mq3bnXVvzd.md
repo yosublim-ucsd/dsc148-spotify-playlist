@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 
 > Blood runs in the family\. Listen to the music from and inspired by The Brothers Sun, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,345 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,367 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 | 84 | [Dragon Queen](https://open.spotify.com/track/2AbwN6pn80Q15HXFmyQFBC) | [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4), [Nick Lee](https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL) | [The Brothers Sun \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Mg46h9Ec9k8CkaRClhSUF) | 1:05 |
 | 85 | [The Brothers Sun Theme](https://open.spotify.com/track/52J5I49col4MOn9AQsBl3Y) | [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4), [Nick Lee](https://open.spotify.com/artist/3ifyrImpIzcIqVgJ6tskwL) | [The Brothers Sun \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Mg46h9Ec9k8CkaRClhSUF) | 1:03 |
 
-Snapshot ID: `MCw5ZTVkNWNhMDQ1MWU2NzBiMTExNzdmYjY2M2I1YWM5NzczZGJkZjhm`
+Snapshot ID: `MCxhZDE1ZDRkN2U3MzY2YmFhMzM1NDg5ZWZmYWJkNjFmNmRhOWIwZmMy`

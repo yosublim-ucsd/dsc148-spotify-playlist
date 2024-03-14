@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Melissa Aldana
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,723 likes - 99 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,793 likes - 99 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [Final Voyage](https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [The Southern Suite](https://open.spotify.com/album/6s49yqVpAtx05F2J16ciYr) | 6:18 |
 | 99 | [Dogtown](https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Stings](https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4) | 6:30 |
 
-Snapshot ID: `MCw1MzYwMGE0MGJjNTRjNWFiYjhiMGVhOGU5ODhhMDJhZTA5MmJmZTRh`
+Snapshot ID: `MCw5NmEzNWYwYjVjNjg2NTA4YTRmNzdmNjM4M2U1MmQ0Y2M4NzMzYzQy`

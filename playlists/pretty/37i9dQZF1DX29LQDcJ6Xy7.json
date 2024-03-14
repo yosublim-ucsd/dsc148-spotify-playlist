@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 319671,
+  "num_followers": 319772,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWYyOTk0N2Q2NTYxYjdmNmFjNGUzOTg3OTRkY2Y3M2JjMzdmMDY0",
+  "snapshot_id": "MCw3OTg2MWYyYmMwNDQyYmJmMTk5NWY5M2IwNTRjMDc2ODYyZTg5MjA5",
   "tracks": [
     {
       "added_at": "2024-01-30 16:12:12",
@@ -351,8 +351,8 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 294893,
-      "name": "Every Day Is Exactly The Same",
-      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
+      "duration_ms": 178640,
+      "name": "March Of The Pigs",
+      "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -447,8 +447,8 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 178640,
-      "name": "March Of The Pigs",
-      "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
+      "duration_ms": 294893,
+      "name": "Every Day Is Exactly The Same",
+      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Front By Front",
-        "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
-      },
-      "artists": [
-        {
-          "name": "Front 242",
-          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
-        }
-      ],
-      "duration_ms": 302640,
-      "name": "Headhunter V1.0",
-      "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Ich wei\u00df es nicht",
         "url": "https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 289451,
       "name": "Ich wei\u00df es nicht",
       "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Front By Front",
+        "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
+      },
+      "artists": [
+        {
+          "name": "Front 242",
+          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+        }
+      ],
+      "duration_ms": 302640,
+      "name": "Headhunter V1.0",
+      "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/3Rl2iVccsforOkAyvahXa0"
-      },
-      "artists": [
-        {
-          "name": "Processor",
-          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
-        }
-      ],
-      "duration_ms": 187422,
-      "name": "Justice Way",
-      "url": "https://open.spotify.com/track/6gshopMLlSl0KP4ZNHp7qw"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "A World Lit Only by Fire",
         "url": "https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 266000,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/3Rl2iVccsforOkAyvahXa0"
+      },
+      "artists": [
+        {
+          "name": "Processor",
+          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
+        }
+      ],
+      "duration_ms": 187422,
+      "name": "Justice Way",
+      "url": "https://open.spotify.com/track/6gshopMLlSl0KP4ZNHp7qw"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Digital Gods",
-        "url": "https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc"
-      },
-      "artists": [
-        {
-          "name": "Oddko",
-          "url": "https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81"
-        }
-      ],
-      "duration_ms": 206346,
-      "name": "D4TM",
-      "url": "https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
+        "name": "Digital Gods",
+        "url": "https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc"
+      },
+      "artists": [
+        {
+          "name": "Oddko",
+          "url": "https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "D4TM",
+      "url": "https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
         "name": "MDFMK",
         "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 255133,
       "name": "Torpedoes",
       "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 380885,
-      "name": "My Disintegration",
-      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1479,6 +1463,22 @@
       "duration_ms": 358520,
       "name": "Killing Grounds",
       "url": "https://open.spotify.com/track/0HCxCQXakzMJfjcek0Qn7E"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 380885,
+      "name": "My Disintegration",
+      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 362482,
-      "name": "A Matter of Time",
-      "url": "https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Gravity Kills",
         "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 256506,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4D4wh1GyvA4gSxBN7e7ysN"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 362482,
+      "name": "A Matter of Time",
+      "url": "https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q"
     }
   ],
   "unique_name": "Industrial Metal",

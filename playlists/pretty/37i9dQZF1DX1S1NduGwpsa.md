@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,725 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,769 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Dream Life](https://open.spotify.com/track/2dSXV3BOMaw9aB8SrRmOiH) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Dream Life](https://open.spotify.com/album/1sqJUG8S7F9cmEe7mxyNVZ) | 2:57 |
 | 50 | [Speedball](https://open.spotify.com/track/4zi4lHM0rXngR2uRUVQ2yQ) | [Simon Denizart](https://open.spotify.com/artist/1dFQ2v1uSzlTVLwfHQWgJk) | [Speedball](https://open.spotify.com/album/6kaxJijC17zXt3unXvxgTQ) | 5:38 |
 
-Snapshot ID: `MCw4MDgwMDBkYjg5ZTlhOGI4ODdjMDAxZjFmNGQyMGYwMDljZmU0Y2Q4`
+Snapshot ID: `MCxlODM1YWUzOTliNGQzNjEyYjdhODc2NTJkNTIwMmJlNjBiYWQyMmZh`

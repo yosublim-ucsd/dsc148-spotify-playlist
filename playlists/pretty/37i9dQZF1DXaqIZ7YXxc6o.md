@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: SLUMBERJACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,794 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,815 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [SHELLSHOCK](https://open.spotify.com/track/1hGA3eZuKXc3EaXYRCX7Ux) | [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [HOOLIGAN EP](https://open.spotify.com/album/6IaOEambxijbpW3M1SxU2H) | 2:43 |
 | 100 | [Tsunami](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Tsunami](https://open.spotify.com/album/4N5GXjk84sniBmSGfwwgzP) | 2:16 |
 
-Snapshot ID: `MCxjMDRjNmIyNTUwZjY5NzRiYzkzNDIzYjk0YWIyMTA4NjhlMWY5ZTZi`
+Snapshot ID: `MCxkNmY1ZTUxMjllMWM5Yjc2MGU0ZTNlYzdkNmViNjA0MmE1NWEyMmQ0`

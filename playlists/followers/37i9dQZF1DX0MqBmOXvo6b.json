@@ -1,5 +1,5 @@
 {
-  "2024-03-13": 405620,
+  "2024-03-14": 405653,
   "date_first_scraped": "2022-07-19",
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
   "name": "Concentraci\u00f3n Perfecta",
@@ -6527,7 +6527,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-13",
       "duration_ms": 134386,
       "name": "Pedal Chair",
       "url": "https://open.spotify.com/track/7BcH01qQ67ZUStmNC4qhk8"
@@ -10179,6 +10179,24 @@
       "duration_ms": 142250,
       "name": "une nouvelle ann\u00e9e",
       "url": "https://open.spotify.com/track/2TyI8OZl0IOU18BId7MNKv"
+    },
+    {
+      "album": {
+        "name": "Une rivi\u00e8re silencieuse",
+        "url": "https://open.spotify.com/album/0pC9sTOjPYLUIJ2yGDpmU0"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Une rivi\u00e8re silencieuse",
+      "url": "https://open.spotify.com/track/2hw2nzCP6601cnB8VMgvkO"
     },
     {
       "album": {

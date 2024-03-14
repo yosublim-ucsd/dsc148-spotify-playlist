@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-123 songs - 8 hr 10 min
+124 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Alphaman Redemption \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/4jGl7gpSXzO1CkZVH0g8Wm) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Human Race](https://open.spotify.com/album/6DTsQ3rzC6BXgfRxoqomFa) | 5:05 | 2021-12-28 | 2023-09-10 |
 | [Ami Oh! \(feat\. Angélique Kidjo & Papa Wemba\)](https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:38 | 2021-12-30 |  |
 | [Azan Nan Kpe](https://open.spotify.com/track/4ddVa6ZSL8uMuJfGAOdote) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 4:10 | 2022-01-07 | 2022-10-07 |
+| [Babalao](https://open.spotify.com/track/4CF0LLqXowkZNTEgqT4Bbp) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oremi](https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC) | 4:31 | 2024-03-13 |  |
 | [Bahia](https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:32 | 2021-12-28 |  |
 | [Bala Bala](https://open.spotify.com/track/4fY90F0MrBT2EPXqYgfAMv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oyaya !](https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8) | 3:42 | 2021-12-28 | 2023-04-01 |
 | [Batonga](https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:36 | 2021-12-28 |  |
@@ -99,7 +100,7 @@
 | [Redemption Song](https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oh Happy Day](https://open.spotify.com/album/5JpbIBWZZOq79iipDBRtaq) | 3:35 | 2021-12-28 | 2023-09-26 |
 | [Safiatou \(feat\. Santana & Angélique Kidjo\)](https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 5:25 | 2023-09-15 |  |
 | [Sahara](https://open.spotify.com/track/2iqOFvioxmoazHhA86N7gS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Celia](https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD) | 4:37 | 2021-12-28 | 2022-10-13 |
-| [Salala](https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:24 | 2021-12-28 |  |
+| [Salala](https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:24 | 2021-12-28 | 2024-03-14 |
 | [Samba Pa Ti](https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [OYO \(Deluxe Edition\)](https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3) | 3:37 | 2022-03-15 |  |
 | [Sedjedo](https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:56 | 2021-12-28 |  |
 | [Seen and Not Seen](https://open.spotify.com/track/0Em0MuPM6LdELHk9FXgg93) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 3:04 | 2021-12-29 | 2022-10-13 |
