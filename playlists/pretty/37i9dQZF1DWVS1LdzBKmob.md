@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,930 likes - 82 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,123 likes - 82 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 41 | [Light Mind](https://open.spotify.com/track/2O10XkNg3GV98VMqe3EbCb) | [Son Elixir](https://open.spotify.com/artist/1F9m2yDoNVKEvIjqipRIrM) | [Rainbow Song](https://open.spotify.com/album/5Qy1C3HilW9JoLG7RcxJWg) | 3:08 |
 | 42 | [Clean](https://open.spotify.com/track/3Hjp6zXNKL9DET8AVnAhvw) | [RAURA](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 2:42 |
 | 43 | [Dreams Come True](https://open.spotify.com/track/1UpKTNPYvnvB5wIgYqcM7P) | [Singing Bowls](https://open.spotify.com/artist/2s9c0wEe3zF2sduGBd0iFX) | [Zen Meditation](https://open.spotify.com/album/1GQ8y81r8sMaxd91Z5fGL9) | 2:04 |
-| 44 | [Kalimba & Bubbles](https://open.spotify.com/track/7HbowHc0rHx93ycFoVTcSU) | [Auditory Illusion](https://open.spotify.com/artist/0PcmyVVqlElhJJmIziMjy5) | [Kalimba & Bubbles](https://open.spotify.com/album/5zbLxw4mvPTQLvEQ1Ccvsz) | 3:41 |
+| 44 | [Kalimba & Bubbles](https://open.spotify.com/track/7HbowHc0rHx93ycFoVTcSU) | [Auditory Illusion](https://open.spotify.com/artist/5vUZV1vqrQaXFpVUbIBi46) | [Kalimba & Bubbles](https://open.spotify.com/album/5zbLxw4mvPTQLvEQ1Ccvsz) | 3:41 |
 | 45 | [Bowlsong](https://open.spotify.com/track/5g9RCOeaztckqKQyxMmNyW) | [Wounderous Flight](https://open.spotify.com/artist/6DIGdnc8rQh4G8ZGrtQzZh) | [Bowlsong](https://open.spotify.com/album/7hKYJG6dQY17H7d3RAJREu) | 2:27 |
 | 46 | [Singing Bowl, Cymbals, & Rain](https://open.spotify.com/track/2okKxzaXlXDjIhGvZj57oq) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [Handpan Rain](https://open.spotify.com/album/6ewhW60VWUoZc46s3bczJB) | 3:34 |
 | 47 | [Singing Bowls](https://open.spotify.com/track/1p51DKnBmrkh9nCijNcG37) | [Tales of the Monk](https://open.spotify.com/artist/0Re4A8cte2gZ2fDKTdxD03) | [Singing Bowls](https://open.spotify.com/album/6fsshu03QNMFvD5UUbD123) | 3:04 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 81 | [Lullaby](https://open.spotify.com/track/5vjsIox5BJAP1YIERBLdfn) | [Alain Presencer](https://open.spotify.com/artist/1TFojWUtNPFxCm61M7TJMT) | [Singing Bowls of Tibet](https://open.spotify.com/album/1Xm1grJslIgHqR3hqe3FQk) | 2:48 |
 | 82 | [Echos Of Angels](https://open.spotify.com/track/21CRn1nc9hSAlCZomJrNhn) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Crystal Voices: The Harmonic Vibrations Of Crystal Singing Bowls](https://open.spotify.com/album/6k4BaemsQh3Aih4F2z1itg) | 4:32 |
 
-Snapshot ID: `MCxjNWJhNmFkZDBlMjU1ZWM3NzA2Nzc3MmUyNzc4YmMwYTkwOTcxYjhh`
+Snapshot ID: `MCxkYmZjN2QzMDQ4ODFhZjMwNWQwYTVhMmE3OWU0ZTg2OWY2MDI0OTRi`

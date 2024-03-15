@@ -2,7 +2,7 @@
 
 ### [EQUAL Thailand](https://open.spotify.com/playlist/37i9dQZF1DX8oGHu3SOP0B)
 
-> ฟังเพลงศิลปินหญิงประเทศไทยในวันสตรีสากล พร้อมหลากหลายเพลงที่เลือกโดย Violette Wautier
+> ฟังเพลงศิลปินหญิงประเทศไทย พร้อมหลากหลายเพลงที่เลือกโดย Violette Wautier
 
 250 songs - 14 hr 30 min
 

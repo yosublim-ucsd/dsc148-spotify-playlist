@@ -4,7 +4,7 @@
 
 > Les plus grands hits en version berceuse
 
-170 songs - 10 hr 18 min
+171 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Timber](https://open.spotify.com/track/5uSF0anjeEnPo5JS9yfdbv) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Timber](https://open.spotify.com/album/60hAn750tpdxN8PydWHX2u) | 3:00 | 2021-04-20 |  |
 | [To Make You Feel My Love](https://open.spotify.com/track/1dUsorS3ZIC6OCWW8ZJETo) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Adele](https://open.spotify.com/album/2BUA9wLoRJSngH09hERlnf) | 4:12 | 2021-04-20 |  |
 | [To Make You Feel My Love](https://open.spotify.com/track/76FORxpOhIzdXaVMRUlVxc) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Adele](https://open.spotify.com/album/2xh6AHqLKzSuILMaqr9d1V) | 4:12 | 2021-04-20 | 2024-03-14 |
-| [Too Good at Goodbyes](https://open.spotify.com/track/5ifrGYS4fTaKfu4NuTKGV0) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Sam Smith](https://open.spotify.com/album/5CbtFpJXUSEEzGB9siN84f) | 3:57 | 2021-04-20 |  |
+| [Too Good at Goodbyes](https://open.spotify.com/track/36x7hwyxOXPzhv50Xir3Wn) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Sam Smith](https://open.spotify.com/album/2uqLCOO1Ca8D4fMayQT8ld) | 3:57 | 2021-04-20 |  |
+| [Too Good at Goodbyes](https://open.spotify.com/track/5ifrGYS4fTaKfu4NuTKGV0) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Sam Smith](https://open.spotify.com/album/5CbtFpJXUSEEzGB9siN84f) | 3:57 | 2021-04-20 | 2024-03-15 |
 | [Truth Hurts](https://open.spotify.com/track/099rGatvBdzZc3PP1ZyAsS) | [Lullapop](https://open.spotify.com/artist/1sJhbiQRSIKZeTYEZfzBSV) | [Lullapop 3](https://open.spotify.com/album/7LvOyHfr5fstFul9iui69Y) | 3:12 | 2021-04-20 |  |
 | [Under Pressure](https://open.spotify.com/track/2Rfg1lD8jvBgAdbyFuJjVb) | [Sleeping Panda](https://open.spotify.com/artist/1laYpKGp2Y09VP6tBSwcGN) | [Lullaby Renditions of Queen](https://open.spotify.com/album/1UP6KchgDY6GycN81tSUOe) | 2:42 | 2021-04-20 |  |
 | [Waiting on the World to Change](https://open.spotify.com/track/4TucwGNCJBVEAbFXsFIgeG) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of John Mayer](https://open.spotify.com/album/75UfQ9eA2pfwDrAppIaYIg) | 3:54 | 2021-04-20 |  |

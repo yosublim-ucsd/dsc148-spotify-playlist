@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,672 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,674 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [悪い癖](https://open.spotify.com/track/2ABA8cYRPkjRYuxR4ZLHW8) | [the quiet room](https://open.spotify.com/artist/6MVaXzeRTiCkjGVAdnodAP) | [悪い癖](https://open.spotify.com/album/1XRc24usQ9XGzyzRIw9F19) | 2:52 |
 | 30 | [epilogue](https://open.spotify.com/track/0JHIvEadzEiAHkds3UDhra) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [ENSEMBLE CAST](https://open.spotify.com/album/0QpV8qdht4juBrRXdJeaG0) | 3:58 |
 
-Snapshot ID: `MCxmMmNlM2ZmNTU2M2QzNmZmMTAyOTkxOTdmNjA4NWFiMmMyMjcxNjYw`
+Snapshot ID: `MCw0NTUxOWUzNjdiMmIzM2JjMTEyMjY5ZGQyMmJjMDFmYmFjMTUzMTg1`

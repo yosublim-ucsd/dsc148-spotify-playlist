@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Tracy Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,686 likes - 115 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,792 likes - 115 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 72 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 |
 | 73 | [Leather and Lace \(with Don Henley\)](https://open.spotify.com/track/2npStoMbQxG1LcIeF4PZrj) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 3:49 |
 | 74 | [Early Morning Rain](https://open.spotify.com/track/4GV5wmFd0G5NW8lQK9aVvP) | [Ian & Sylvia](https://open.spotify.com/artist/2QkNXWhQoTVUMyS9OIDP0H) | [Early Morning Rain](https://open.spotify.com/album/7d4POkYBpW8zKTcZvNEyxa) | 3:58 |
-| 75 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:10 |
+| 75 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:07 |
 | 76 | [Hobo's Lullaby](https://open.spotify.com/track/1DaFWh2oVsjlFmr33fB8oJ) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Hobo's Lullaby \(Remastered 2004\)](https://open.spotify.com/album/1TVGltjpKHMosS4yQ8EmRH) | 3:57 |
 | 77 | [Spring Wind](https://open.spotify.com/track/5iedinFWh90J6VWN58JhDq) | [Greg Brown](https://open.spotify.com/artist/0nnDCl6emTFoWtygqSs4Jy) | [If I Had Known \- Essential Recordings 1980\-1996](https://open.spotify.com/album/4lvsDQGMgjwFO1DuYfNg4s) | 4:34 |
 | 78 | [Sweet Thing \- 1999 Remaster](https://open.spotify.com/track/4dBI72rgkmG0gTzswyBTzz) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 4:25 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 114 | [I'll Never Find Another You](https://open.spotify.com/track/6Ln9F9lZNMgV5Ht87z9Bd0) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Ultimate Collection](https://open.spotify.com/album/2bhcZbOcrAFH69kD3TLFB0) | 2:42 |
 | 115 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 |
 
-Snapshot ID: `MCwzMmE4NTE1ZjE5NzAyNGNjMjgyYzBkZjQzM2I5OThkN2E5MmZkYzY2`
+Snapshot ID: `MCwxNThlZGM0NzhmYmQ0ODYxOTlhZjY2ODZkZjNjOTU0YjI0ZjczYmIy`

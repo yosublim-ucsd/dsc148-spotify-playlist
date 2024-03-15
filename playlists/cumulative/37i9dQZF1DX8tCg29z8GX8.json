@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/35BwMj0VAg3BCwB78CO7wa"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Boy",
+          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188737,
+      "name": "360",
+      "url": "https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP"
+    },
+    {
+      "album": {
         "name": "4LYFE",
         "url": "https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m"
       },
@@ -100,6 +122,32 @@
       "duration_ms": 169583,
       "name": "A Body, A Coffin",
       "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
+    },
+    {
+      "album": {
+        "name": "Abasakom",
+        "url": "https://open.spotify.com/album/1Rjd0CPRKWz0EGwh0Qaj8r"
+      },
+      "artists": [
+        {
+          "name": "NS Tino",
+          "url": "https://open.spotify.com/artist/5LWf1fvuHtGShL9KQ2YuaI"
+        },
+        {
+          "name": "Mickey Lux",
+          "url": "https://open.spotify.com/artist/0hJNmRtD9lt2OjvkfYsauD"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179043,
+      "name": "Abasakom",
+      "url": "https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc"
     },
     {
       "album": {
@@ -234,7 +282,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 202501,
       "name": "Akokoa",
       "url": "https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR"
@@ -626,7 +674,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 168674,
       "name": "Away (feat. Stunn)",
       "url": "https://open.spotify.com/track/7nnCN0SbeioycrS1ThwjKZ"
@@ -648,7 +696,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 195093,
       "name": "Awoyo Sofo",
       "url": "https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K"
@@ -1894,7 +1942,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
@@ -2581,6 +2629,28 @@
     },
     {
       "album": {
+        "name": "Fly Girl",
+        "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194100,
+      "name": "Fly Girl",
+      "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
+    },
+    {
+      "album": {
         "name": "Me Muevo Con Dios",
         "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
       },
@@ -2838,7 +2908,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 146938,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/1rygCbBVSKhfwTLvEWAEsF"
@@ -3024,6 +3094,24 @@
       "duration_ms": 140339,
       "name": "GoodSin",
       "url": "https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT"
+    },
+    {
+      "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140339,
+      "name": "GoodSin",
+      "url": "https://open.spotify.com/track/6JTpnAzRctuyc6qhUimpMW"
     },
     {
       "album": {
@@ -3278,7 +3366,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 230655,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/2wSk1MHN01QkgGEundIT0y"
@@ -3406,7 +3494,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 160375,
       "name": "I Feel Nice",
       "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
@@ -3764,7 +3852,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 268092,
       "name": "JEEZU (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/3MlgALPoRA3SidqSRtQ6z9"
@@ -4032,7 +4120,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
@@ -4902,7 +4990,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 185521,
       "name": "March Past",
       "url": "https://open.spotify.com/track/4QSiCeZdgmjfX2dLIJeffE"
@@ -5204,7 +5292,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 156479,
       "name": "Mood",
       "url": "https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0"
@@ -5737,6 +5825,24 @@
     },
     {
       "album": {
+        "name": "Odo Aduane",
+        "url": "https://open.spotify.com/album/6hGinduqEgrBCJCLjEVBj5"
+      },
+      "artists": [
+        {
+          "name": "Pure Akan",
+          "url": "https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178845,
+      "name": "Odo Aduane",
+      "url": "https://open.spotify.com/track/1TvtubWwwJKwTu6dnwkqfB"
+    },
+    {
+      "album": {
         "name": "L.I.T.A (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3eSs5S46FxMXHK3bTaTeD1"
       },
@@ -5902,7 +6008,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 173571,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/3oxqlnjK6GQ9zpVgck8HxA"
@@ -6054,7 +6160,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 178076,
       "name": "Our Day",
       "url": "https://open.spotify.com/track/2mqHJQs6OXsllIjNmffAWn"
@@ -8270,7 +8376,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 166000,
       "name": "Toxic Relationship",
       "url": "https://open.spotify.com/track/4jcTly5eRO1DfGlQ4v9IJY"
@@ -8292,7 +8398,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 178285,
       "name": "Trap",
       "url": "https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4"
@@ -8700,7 +8806,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 192887,
       "name": "We Paid",
       "url": "https://open.spotify.com/track/0O3WLUlUFXFHaGBE95Phwo"

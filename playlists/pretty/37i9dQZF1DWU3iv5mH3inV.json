@@ -1,29 +1,13 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Yaisel LM",
-  "num_followers": 101707,
+  "num_followers": 101746,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGVjYzU3ODBiNjg5MjNiNDAwNzFhZDAxZTg2Mzk4OTg3Njk4MDQz",
+  "snapshot_id": "MCxjNzM4ZDI3OTM1YTc0NDUzN2Q4MzU1NzlhMDg5MGNiMTUxMzdlOWJm",
   "tracks": [
-    {
-      "added_at": "2024-02-01 23:53:43",
-      "album": {
-        "name": "UN VOLAO",
-        "url": "https://open.spotify.com/album/2CCXpPq2goAscTXwNXgev8"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "UN VOLAO",
-      "url": "https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI"
-    },
     {
       "added_at": "2024-02-15 15:29:53",
       "album": {
@@ -39,26 +23,6 @@
       "duration_ms": 161552,
       "name": "Dan2le",
       "url": "https://open.spotify.com/track/63712oXRDENUqIdUow7Rel"
-    },
-    {
-      "added_at": "2024-03-07 21:22:13",
-      "album": {
-        "name": "M\u00e9telo S\u00e1calo",
-        "url": "https://open.spotify.com/album/6VZ651cnktGGtUXxxmFrVH"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        },
-        {
-          "name": "Kreizy k",
-          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
-        }
-      ],
-      "duration_ms": 110222,
-      "name": "M\u00e9telo S\u00e1calo",
-      "url": "https://open.spotify.com/track/4aoNbfI8UHz04AVR0oYP5h"
     },
     {
       "added_at": "2024-02-15 15:29:53",
@@ -95,6 +59,46 @@
       "duration_ms": 144672,
       "name": "Agu\u00e1ntala",
       "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
+    },
+    {
+      "added_at": "2024-01-18 21:46:59",
+      "album": {
+        "name": "Trola (Remix)",
+        "url": "https://open.spotify.com/album/2ZcAECGG7NfhuXyUNHfso9"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "duration_ms": 144923,
+      "name": "Trola (Remix)",
+      "url": "https://open.spotify.com/track/2IeZQmfUHbPtzsK2RAq430"
+    },
+    {
+      "added_at": "2024-03-14 20:42:59",
+      "album": {
+        "name": "Tu Ta Toki",
+        "url": "https://open.spotify.com/album/267SxGGOQWCoodnNGfltBY"
+      },
+      "artists": [
+        {
+          "name": "Tato el X5",
+          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
+        },
+        {
+          "name": "Khey El Inquieto",
+          "url": "https://open.spotify.com/artist/5E5UkWYppoDk2WAid9u3vx"
+        }
+      ],
+      "duration_ms": 152222,
+      "name": "Tu Ta Toki",
+      "url": "https://open.spotify.com/track/2immFHxHOLZtiIlUDaVpRx"
     },
     {
       "added_at": "2024-02-29 19:03:00",
@@ -137,48 +141,24 @@
       "url": "https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p"
     },
     {
-      "added_at": "2024-01-18 21:46:59",
+      "added_at": "2024-03-14 20:42:59",
       "album": {
-        "name": "Trola (Remix)",
-        "url": "https://open.spotify.com/album/2ZcAECGG7NfhuXyUNHfso9"
+        "name": "Tarun Tarun",
+        "url": "https://open.spotify.com/album/5s70az1LGIjWZlsHgbDJfG"
       },
       "artists": [
         {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
         },
         {
           "name": "Mestizo Is Back",
           "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
         }
       ],
-      "duration_ms": 144923,
-      "name": "Trola (Remix)",
-      "url": "https://open.spotify.com/track/2IeZQmfUHbPtzsK2RAq430"
-    },
-    {
-      "added_at": "2024-02-15 15:29:53",
-      "album": {
-        "name": "Tengo Eso",
-        "url": "https://open.spotify.com/album/51UsBKTYVsTzPNX5f2tAh3"
-      },
-      "artists": [
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        },
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
-        },
-        {
-          "name": "Breyco En Producidera",
-          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "Tengo Eso",
-      "url": "https://open.spotify.com/track/3RkhlfyEyOoKzjSJIuVNaN"
+      "duration_ms": 133846,
+      "name": "Tarun Tarun",
+      "url": "https://open.spotify.com/track/1Gk5ci1FRDZzKgL1UDs0bK"
     },
     {
       "added_at": "2024-02-29 19:20:20",
@@ -203,6 +183,46 @@
       "duration_ms": 183194,
       "name": "Bonsinabom remix",
       "url": "https://open.spotify.com/track/7p37ALotrxj5SDLXXeblEy"
+    },
+    {
+      "added_at": "2024-02-01 23:53:43",
+      "album": {
+        "name": "UN VOLAO",
+        "url": "https://open.spotify.com/album/2CCXpPq2goAscTXwNXgev8"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "UN VOLAO",
+      "url": "https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI"
+    },
+    {
+      "added_at": "2024-02-15 15:29:53",
+      "album": {
+        "name": "Tengo Eso",
+        "url": "https://open.spotify.com/album/51UsBKTYVsTzPNX5f2tAh3"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        },
+        {
+          "name": "Breyco En Producidera",
+          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "Tengo Eso",
+      "url": "https://open.spotify.com/track/3RkhlfyEyOoKzjSJIuVNaN"
     },
     {
       "added_at": "2024-03-07 21:22:13",
@@ -353,6 +373,26 @@
       "url": "https://open.spotify.com/track/6x75q2uPWGElnj6PNyXXad"
     },
     {
+      "added_at": "2024-03-07 21:22:13",
+      "album": {
+        "name": "M\u00e9telo S\u00e1calo",
+        "url": "https://open.spotify.com/album/6VZ651cnktGGtUXxxmFrVH"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        }
+      ],
+      "duration_ms": 110222,
+      "name": "M\u00e9telo S\u00e1calo",
+      "url": "https://open.spotify.com/track/4aoNbfI8UHz04AVR0oYP5h"
+    },
+    {
       "added_at": "2024-02-15 15:29:53",
       "album": {
         "name": "Nadie Te Conoce",
@@ -411,26 +451,6 @@
       "duration_ms": 155144,
       "name": "PEINE DE ETE LAO",
       "url": "https://open.spotify.com/track/3qPmdcPp5yVnNjZ2hIlUE4"
-    },
-    {
-      "added_at": "2024-02-15 15:29:53",
-      "album": {
-        "name": "Pu\u00f1al de Acero",
-        "url": "https://open.spotify.com/album/5AM9uDp2L6IFpPdVswdMIZ"
-      },
-      "artists": [
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
-        },
-        {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
-        }
-      ],
-      "duration_ms": 131631,
-      "name": "Pu\u00f1al de Acero",
-      "url": "https://open.spotify.com/track/6sxt4ykznzGdTW4EnMOnfR"
     },
     {
       "added_at": "2024-02-08 22:40:39",
@@ -503,26 +523,6 @@
       "duration_ms": 135428,
       "name": "2pa2 - Remix",
       "url": "https://open.spotify.com/track/2Pp3qQZ9HqcAjrgbHrr0jZ"
-    },
-    {
-      "added_at": "2024-02-01 23:53:43",
-      "album": {
-        "name": "Maldad y Tiniebla",
-        "url": "https://open.spotify.com/album/0DIGLIOzQdPV8LpPQ3Mm47"
-      },
-      "artists": [
-        {
-          "name": "EL YALA",
-          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
-        },
-        {
-          "name": "Hansel El De La H",
-          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
-        }
-      ],
-      "duration_ms": 155357,
-      "name": "Maldad y Tiniebla",
-      "url": "https://open.spotify.com/track/0wVTFmvtKzjFX3QNEkzIZ9"
     },
     {
       "added_at": "2023-12-22 05:09:41",

@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Lesti
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,786 likes - 76 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,881 likes - 76 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mencintaimu Karena Allah](https://open.spotify.com/track/4OIdQ4JRulflF7q1pSbvmd) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Mencintaimu Karena Allah](https://open.spotify.com/album/232ek4vTBCfQ79yTTNybUp) | 5:14 |
-| 2 | [Siang Malam Rindu](https://open.spotify.com/track/4QWa2dAN3aKBWvvkEJghCD) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Siang Malam Rindu](https://open.spotify.com/album/4kDFIPaPUAbDaDWaObbQjT) | 4:13 |
-| 3 | [Setia Selamanya](https://open.spotify.com/track/28Bo7TZyfgXwyI94AovY74) | [Nayunda](https://open.spotify.com/artist/14d9MMITs2VsO16pEVEe6M) | [Setia Selamanya](https://open.spotify.com/album/68xo70xpsg2AgbucwNpjrL) | 4:02 |
-| 4 | [Terbuai Asmara](https://open.spotify.com/track/6OvS9FpU0AhP5Z1TdTuo8J) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Terbuai Asmara](https://open.spotify.com/album/22PIY9l1gFVrTIiTp3h5L9) | 4:52 |
-| 5 | [Harusnya Aku Bukan Dia](https://open.spotify.com/track/0rmbQ7zTdLbO4ZeRINhwct) | [Balena](https://open.spotify.com/artist/2cjdvAkEtUktGoQSyc1teU) | [Harusnya Aku Bukan Dia](https://open.spotify.com/album/5bhiAHjrp1DNxyLDnkFD90) | 5:17 |
-| 6 | [Ditikam Cinta](https://open.spotify.com/track/02k03yFtDFPU4dOXYwoteY) | [Kresya Della](https://open.spotify.com/artist/0FkYDky9lfX1KkylPcqEu1) | [Ditikam Cinta](https://open.spotify.com/album/06yiibXjrtnrbWCCNjvcVB) | 3:32 |
-| 7 | [Rindu Tapi Malu \- Live At Ska Reggae](https://open.spotify.com/track/3T1Fyxl2WPQLmEv8JKFxO2) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Rindu Tapi Malu \(Live At Ska Reggae\)](https://open.spotify.com/album/5XMn6JEGTJJDP4JuzjGUCj) | 4:15 |
-| 8 | [Keabadian Cinta](https://open.spotify.com/track/24VgSe9g5MPcGbKCaaGXuU) | [Sridevi DA5](https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s), [Kier King](https://open.spotify.com/artist/532wLz7g4D1MycSKoesiq9) | [Keabadian Cinta](https://open.spotify.com/album/7HBmefgCHAcjAJcqNZhrD4) | 4:23 |
-| 9 | [Ojo Dumeh](https://open.spotify.com/track/5ZXe46rT8IRuuVsKlTPrtt) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Ojo Dumeh](https://open.spotify.com/album/0rEJIDYgNL6j5u7Or3omIC) | 3:31 |
-| 10 | [Cinta Yang Tulus \- Acoustic Version](https://open.spotify.com/track/3y4Dbets2ktIyPYdkLiTPl) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Tulus \(Acoustic Version\)](https://open.spotify.com/album/2rD3h2v9YzyoVkRKFrjuMB) | 4:45 |
+| 1 | [Perceraian Lara \- Live AT Ska Reggae](https://open.spotify.com/track/6iOViqsT7POSA051R4nNu7) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Perceraian Lara \(Live AT Ska Reggae\)](https://open.spotify.com/album/12XGZI2mZBeybLLXfFW9Vb) | 5:08 |
+| 2 | [Ampunan Dosa](https://open.spotify.com/track/407M4k7Z3Cc9iBNovzgNRo) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz) | [Ampunan Dosa](https://open.spotify.com/album/0XodovBD7SqRomNqCyNWZf) | 4:15 |
+| 3 | [Mencintaimu Karena Allah](https://open.spotify.com/track/4OIdQ4JRulflF7q1pSbvmd) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Mencintaimu Karena Allah](https://open.spotify.com/album/232ek4vTBCfQ79yTTNybUp) | 5:14 |
+| 4 | [Siang Malam Rindu](https://open.spotify.com/track/4QWa2dAN3aKBWvvkEJghCD) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Siang Malam Rindu](https://open.spotify.com/album/4kDFIPaPUAbDaDWaObbQjT) | 4:13 |
+| 5 | [Setia Selamanya](https://open.spotify.com/track/28Bo7TZyfgXwyI94AovY74) | [Nayunda](https://open.spotify.com/artist/14d9MMITs2VsO16pEVEe6M) | [Setia Selamanya](https://open.spotify.com/album/68xo70xpsg2AgbucwNpjrL) | 4:02 |
+| 6 | [Terbuai Asmara](https://open.spotify.com/track/6OvS9FpU0AhP5Z1TdTuo8J) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Terbuai Asmara](https://open.spotify.com/album/22PIY9l1gFVrTIiTp3h5L9) | 4:52 |
+| 7 | [Harusnya Aku Bukan Dia](https://open.spotify.com/track/0rmbQ7zTdLbO4ZeRINhwct) | [Balena](https://open.spotify.com/artist/2cjdvAkEtUktGoQSyc1teU) | [Harusnya Aku Bukan Dia](https://open.spotify.com/album/5bhiAHjrp1DNxyLDnkFD90) | 5:17 |
+| 8 | [Ditikam Cinta](https://open.spotify.com/track/02k03yFtDFPU4dOXYwoteY) | [Kresya Della](https://open.spotify.com/artist/0FkYDky9lfX1KkylPcqEu1) | [Ditikam Cinta](https://open.spotify.com/album/06yiibXjrtnrbWCCNjvcVB) | 3:32 |
+| 9 | [Keabadian Cinta](https://open.spotify.com/track/24VgSe9g5MPcGbKCaaGXuU) | [Sridevi DA5](https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s), [Kier King](https://open.spotify.com/artist/532wLz7g4D1MycSKoesiq9) | [Keabadian Cinta](https://open.spotify.com/album/7HBmefgCHAcjAJcqNZhrD4) | 4:23 |
+| 10 | [Ojo Dumeh](https://open.spotify.com/track/5ZXe46rT8IRuuVsKlTPrtt) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Ojo Dumeh](https://open.spotify.com/album/0rEJIDYgNL6j5u7Or3omIC) | 3:31 |
 | 11 | [Separuh Jiwaku Pergi](https://open.spotify.com/track/6xqmdksyKLPvfs28Qe7z8x) | [Ucie Sucita](https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp) | [Separuh Jiwaku Pergi](https://open.spotify.com/album/2cR3YXcrCOlFIpr35f1Ho1) | 3:24 |
-| 12 | [Angin](https://open.spotify.com/track/3k0oCzfjIxqOBZIfwzSWhb) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Angin](https://open.spotify.com/album/461V9891s3vWJrkfouthY0) | 4:47 |
-| 13 | [Menggapai Cinta](https://open.spotify.com/track/4rerJfXC9ursw1GszRrxuO) | [Putri Isnari](https://open.spotify.com/artist/0OnSSg1BbWcHmKtDfBpjE1) | [Menggapai Cinta](https://open.spotify.com/album/18rTICWmL8FhSeB8XMKHXa) | 5:30 |
-| 14 | [Teman Rasa Pacar](https://open.spotify.com/track/5YKKjMpfYK8cJTjgZGR7uo) | [Lyia](https://open.spotify.com/artist/2w8C6RExCnRBZJfxHZFKhV) | [Teman Rasa Pacar](https://open.spotify.com/album/3UTEm6Sl8r3dDiNFmZmDNq) | 3:50 |
-| 15 | [Terkesan](https://open.spotify.com/track/3luAGhDWJJ00VxuVVX364j) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Terkesan](https://open.spotify.com/album/5KjuTPMCZzBhFo6l7TjVnF) | 5:25 |
-| 16 | [Bersama Bukan Maumu \- Live At Ska Reggae](https://open.spotify.com/track/6hi2tlD0MUqJARWtlv2863) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bersama Bukan Maumu \(Live At Ska Reggae\)](https://open.spotify.com/album/1iWujizBKnwUWwSyojZIzJ) | 4:59 |
+| 12 | [Dia Di Surgamu \- Acoustic Version](https://open.spotify.com/track/7nqvYltUiiX5IdYDUNEaEw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Dia Di Surgamu \(Acoustic Version\)](https://open.spotify.com/album/2clUQg1AMiGoQL42AHTwMY) | 4:23 |
+| 13 | [Angin](https://open.spotify.com/track/3k0oCzfjIxqOBZIfwzSWhb) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Angin](https://open.spotify.com/album/461V9891s3vWJrkfouthY0) | 4:47 |
+| 14 | [Menggapai Cinta](https://open.spotify.com/track/4rerJfXC9ursw1GszRrxuO) | [Putri Isnari](https://open.spotify.com/artist/0OnSSg1BbWcHmKtDfBpjE1) | [Menggapai Cinta](https://open.spotify.com/album/18rTICWmL8FhSeB8XMKHXa) | 5:30 |
+| 15 | [Teman Rasa Pacar](https://open.spotify.com/track/5YKKjMpfYK8cJTjgZGR7uo) | [Lyia](https://open.spotify.com/artist/2w8C6RExCnRBZJfxHZFKhV) | [Teman Rasa Pacar](https://open.spotify.com/album/3UTEm6Sl8r3dDiNFmZmDNq) | 3:50 |
+| 16 | [Terkesan](https://open.spotify.com/track/3luAGhDWJJ00VxuVVX364j) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Terkesan](https://open.spotify.com/album/5KjuTPMCZzBhFo6l7TjVnF) | 5:25 |
 | 17 | [Matematika Cinta](https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw) | [Novi Ayla](https://open.spotify.com/artist/5mf5kk94dM7dPugSKwvxy1) | [Matematika Cinta](https://open.spotify.com/album/2R79D0s9BDN6c2Fp1pPhsK) | 4:53 |
 | 18 | [Panggilan Cinta](https://open.spotify.com/track/30WQdHhleyaLNE8ZSsK7AO) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz), [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Panggilan Cinta](https://open.spotify.com/album/0MoekWbrDch9yRDW1VrY83) | 4:17 |
 | 19 | [Cinta Yang Rumit](https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Rumit](https://open.spotify.com/album/5IDUI32I8DRXTOUJnSradA) | 4:05 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 75 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 |
 | 76 | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/track/5qfF8hoLmH6wCeHZzhqz4l) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/album/4JGs61xAzqTVHt8xURldZ8) | 4:04 |
 
-Snapshot ID: `MCwxNWUxMzAxZjRjNWJjNDVmMDhkNmEyZmJmZDdlNzkzNDZjY2MzNjRm`
+Snapshot ID: `MCw5NWRiZGQ0MjE4ODZmOWY3ODM1MjAwY2Q3MWRmY2UwZTNiZWUwOWZk`

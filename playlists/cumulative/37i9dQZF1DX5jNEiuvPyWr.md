@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : mademoiselle lou
+> Le meilleur du rap français version cloud\. Photo : So La Lune
 
-360 songs - 17 hr 45 min
+361 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [AVANT TOI](https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:51 | 2023-11-23 |  |
 | [AVANT TOI](https://open.spotify.com/track/60ouY0tuiKBPMCP0iZStJS) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:51 | 2023-07-06 | 2023-11-29 |
 | [AVERSE](https://open.spotify.com/track/08S6rWmtM6L4xPpSjhm1g7) | [Gemen](https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2), [Tenma](https://open.spotify.com/artist/3MaO9kMKgKD4DjfZvlbbGf), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [DRAGA](https://open.spotify.com/album/6L9UgtNjZj8Aukfeuexmqf) | 2:19 | 2023-05-25 | 2023-07-14 |
-| [Aïcha](https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Aïcha](https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL) | 3:26 | 2023-12-21 |  |
+| [Aïcha](https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Aïcha](https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL) | 3:26 | 2023-12-21 | 2024-03-15 |
 | [Baby Mama](https://open.spotify.com/track/5ClOFvLqn08NldYWLqwbmw) | [Chany Z](https://open.spotify.com/artist/4w8X99AfTxbDYZ2KeTGNSH) | [Baby Mama](https://open.spotify.com/album/3XQQBuq63jACEfOek488cD) | 3:30 | 2023-04-27 | 2023-06-09 |
 | [Bataille \(Affamé \#18\)](https://open.spotify.com/track/61b4BnxFsR4RrhHBv1KZqz) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Bataille \(Affamé \#18\)](https://open.spotify.com/album/5rynmiV67Wf1jp0dUazXFn) | 2:34 | 2023-04-06 | 2023-05-05 |
 | [BB APPRENDS\-MOI À FERMER LES YEUX](https://open.spotify.com/track/2fMsWuZwPOHzQubX1otzO2) | [Sovajon](https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex), [Isma](https://open.spotify.com/artist/43HCKjfq0p8VwJo3LSs7H7) | [BB APPRENDS\-MOI À FERMER LES YEUX](https://open.spotify.com/album/0DV620FQXLPrwCuCq7S1Oy) | 3:10 | 2023-05-18 | 2023-06-30 |
@@ -205,6 +205,7 @@
 | [LONELY](https://open.spotify.com/track/2SyJqs8ZvjZ6hcKSBi44RQ) | [Yugz](https://open.spotify.com/artist/5FieS6IBaxZgxYgfqtjqnP) | [LONELY](https://open.spotify.com/album/4VtuAtLL1GxCVfq24z91Qv) | 2:36 | 2023-10-19 | 2023-12-01 |
 | [Love moi](https://open.spotify.com/track/3QOji8BDJZX4WphlxIpHMs) | [Dibson](https://open.spotify.com/artist/3I2ayKNkuX0gqKPZDBnxNk) | [Love moi](https://open.spotify.com/album/7716TsCXcpGPPB4kwttjtN) | 2:55 | 2022-07-28 | 2022-11-04 |
 | [Loyal](https://open.spotify.com/track/45OP9T9rtIJgZ0uMUcsls3) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1) | [Loyal](https://open.spotify.com/album/4JJjFloAUBVKIZioxd8b2V) | 3:36 | 2023-03-16 | 2023-04-21 |
+| [Lui ou rien](https://open.spotify.com/track/1trsW3AHnYWeq94DVByGy6) | [Eline](https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF) | [Mieux vaut guérir](https://open.spotify.com/album/3E8m2R411i7XvgOffgCjNU) | 2:54 | 2024-03-14 |  |
 | [LUNE](https://open.spotify.com/track/7zRFGTlOBar8S7kK5vnZm5) | [8ruki](https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2), [Binks Beatz](https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [LUNE](https://open.spotify.com/album/0UX8fkJ5agBevn1A4Zu1g3) | 3:22 | 2023-01-19 | 2023-04-07 |
 | [LUNE](https://open.spotify.com/track/1k6EPZ5JuuNTOGhF7woAXz) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [AKUMA](https://open.spotify.com/album/4BBlqKe6wXcS1pijTZ1zMh) | 2:36 | 2022-07-14 | 2022-12-16 |
 | [M'attends pas.](https://open.spotify.com/track/3w2b7sp3Y4Kcn23dv1ZoiU) | [Allebou](https://open.spotify.com/artist/6Npr7HPBAbALoXm4Mf1frM), [Susanoô](https://open.spotify.com/artist/3IPF34odrFxmKBZUciuUyE) | [M'attends pas.](https://open.spotify.com/album/1o2dl5PB7ddRxg25p4N4uU) | 3:17 | 2023-04-13 | 2023-05-12 |

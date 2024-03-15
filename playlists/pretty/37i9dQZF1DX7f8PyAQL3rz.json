@@ -1,12 +1,12 @@
 {
   "description": "da times square pra novela a braba \u00e9 a azzy",
-  "num_followers": 1357854,
+  "num_followers": 1358228,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDg4OGY4MGRlYzMxMTg2MTU4ZjQ1ZGE1MzgyZTAzODIyODFlMzVj",
+  "snapshot_id": "MCw2NDEzMDkxMGUwYmY5OWNjYjZlNTNhMjc0MDlhZDExNmQyOTBlZWNl",
   "tracks": [
     {
       "added_at": "2024-03-08 03:03:00",
@@ -1195,6 +1195,34 @@
     {
       "added_at": "2024-03-08 03:03:00",
       "album": {
+        "name": "Essa Daqui Vira Trend",
+        "url": "https://open.spotify.com/album/6htm3zTF8FEgsOPGTWgqCr"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 270175,
+      "name": "Essa Daqui Vira Trend",
+      "url": "https://open.spotify.com/track/6gAD9BkdcEXM9X3ObuuWjC"
+    },
+    {
+      "added_at": "2024-03-08 03:03:00",
+      "album": {
         "name": "Fernando de Noronha",
         "url": "https://open.spotify.com/album/1txWGY681VHHA99JdD7LcH"
       },
@@ -1247,34 +1275,6 @@
       "duration_ms": 510697,
       "name": "Fernando de Noronha",
       "url": "https://open.spotify.com/track/1jrBamLozddSX0DOjJTj31"
-    },
-    {
-      "added_at": "2024-03-08 03:03:00",
-      "album": {
-        "name": "Essa Daqui Vira Trend",
-        "url": "https://open.spotify.com/album/6htm3zTF8FEgsOPGTWgqCr"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 270175,
-      "name": "Essa Daqui Vira Trend",
-      "url": "https://open.spotify.com/track/6gAD9BkdcEXM9X3ObuuWjC"
     },
     {
       "added_at": "2024-03-08 03:03:00",

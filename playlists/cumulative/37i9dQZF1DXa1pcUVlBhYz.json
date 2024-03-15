@@ -1174,6 +1174,28 @@
     {
       "album": {
         "name": "Club Nasty",
+        "url": "https://open.spotify.com/album/6gVVXiyOm60VKFyxOTTBFk"
+      },
+      "artists": [
+        {
+          "name": "Jade Elliott",
+          "url": "https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s"
+        },
+        {
+          "name": "Nothingspecial",
+          "url": "https://open.spotify.com/artist/3dvrTBzjvaQuWU6g48H8L2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Club Nasty",
+      "url": "https://open.spotify.com/track/2i2Ycm2soqZZ8xdJQJSk9i"
+    },
+    {
+      "album": {
+        "name": "Club Nasty",
         "url": "https://open.spotify.com/album/4QHa0lBMXURyTVTGMWSS34"
       },
       "artists": [
@@ -1192,28 +1214,6 @@
       "duration_ms": 226000,
       "name": "Club Nasty",
       "url": "https://open.spotify.com/track/6tJUthWO8ajNTWt5icshy1"
-    },
-    {
-      "album": {
-        "name": "Club Nasty",
-        "url": "https://open.spotify.com/album/6gVVXiyOm60VKFyxOTTBFk"
-      },
-      "artists": [
-        {
-          "name": "Nothingspecial",
-          "url": "https://open.spotify.com/artist/3dvrTBzjvaQuWU6g48H8L2"
-        },
-        {
-          "name": "Jade Elliott",
-          "url": "https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s"
-        }
-      ],
-      "date_added": "2024-03-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 226000,
-      "name": "Club Nasty",
-      "url": "https://open.spotify.com/track/2i2Ycm2soqZZ8xdJQJSk9i"
     },
     {
       "album": {

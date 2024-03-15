@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43049,
+  "num_followers": 43053,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzM0OGE3ZGNjZjBhZDYyYjFhZjBiZTRkNjYwODgyMmUxZTIwZGY0",
+  "snapshot_id": "MCwzMTkzNzQ3NjFkNDBiNjEyODQ3ZmEzMTlmZDkzODIyZmNlYmVkNGY1",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "14 Steps To A Better You",
-        "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 216636,
-      "name": "On Our Own",
-      "url": "https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Never Gonna Give You Up",
         "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "HOPE Campaign Tribute Album 2010",
-        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+        "name": "14 Steps To A Better You",
+        "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
       },
       "artists": [
         {
-          "name": "The Beautiful Girls",
-          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
         }
       ],
-      "duration_ms": 257906,
-      "name": "La Mar",
-      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
+      "duration_ms": 216636,
+      "name": "On Our Own",
+      "url": "https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1207,6 +1191,22 @@
       "duration_ms": 245687,
       "name": "Be About You",
       "url": "https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "HOPE Campaign Tribute Album 2010",
+        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
     },
     {
       "added_at": "2023-11-15 02:04:48",

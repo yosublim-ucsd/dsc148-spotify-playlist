@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Milena Pina",
-  "num_followers": 119975,
+  "num_followers": 120008,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzE0YzdmYWNjMTYyYjllNTIzM2VkM2MyMjcyZThlYjM1OWQxNGIx",
+  "snapshot_id": "MCxjMmExMzMxNDdhMTg0ZDRjMmI0YTY1ZDQyYTU0MzQ3Nzg2ZGIxYzRh",
   "tracks": [
     {
       "added_at": "2023-12-21 22:17:17",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "\u00c1gape (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
-      },
-      "artists": [
-        {
-          "name": "\u00c1quila",
-          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
-        }
-      ],
-      "duration_ms": 573739,
-      "name": "\u00c1gape - Ao Vivo",
-      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Sinal de Amor",
         "url": "https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 215750,
       "name": "Sinal de Amor",
       "url": "https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "\u00c1gape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
+      },
+      "artists": [
+        {
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
+        }
+      ],
+      "duration_ms": 573739,
+      "name": "\u00c1gape - Ao Vivo",
+      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -591,8 +591,8 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+        "name": "Sou o Teu Altar",
+        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
       },
       "artists": [
         {
@@ -600,13 +600,13 @@
           "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
         },
         {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 216131,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
+      "duration_ms": 275853,
+      "name": "Sou o Teu Altar",
+      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "D\u00ea Mais uma Chance para o Mundo",
-      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Em Nome de Jesus",
         "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
       },
@@ -731,8 +715,24 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Sou o Teu Altar",
-        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
+        "name": "Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "D\u00ea Mais uma Chance para o Mundo",
+      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
       },
       "artists": [
         {
@@ -740,13 +740,13 @@
           "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
         },
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
         }
       ],
-      "duration_ms": 275853,
-      "name": "Sou o Teu Altar",
-      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
+      "duration_ms": 216131,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "Peda\u00e7os",
+        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Peda\u00e7os",
+      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Anotando Pensamentos",
         "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 271668,
       "name": "Anotando Pensamentos",
       "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Peda\u00e7os",
-        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
-      },
-      "artists": [
-        {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Peda\u00e7os",
-      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Sua Vida Em Mim",
-        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Sua Vida Em Mim",
-      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 251936,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Sua Vida Em Mim",
+        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Sua Vida Em Mim",
+      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Minha can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
-      },
-      "artists": [
-        {
-          "name": "ThreeSis",
-          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
-        }
-      ],
-      "duration_ms": 273514,
-      "name": "Minha can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Cora\u00e7\u00e3o Cansado de Partir",
         "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 291500,
       "name": "Cora\u00e7\u00e3o Cansado de Partir",
       "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Minha can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
+      },
+      "artists": [
+        {
+          "name": "ThreeSis",
+          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
+        }
+      ],
+      "duration_ms": 273514,
+      "name": "Minha can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
     }
   ],
   "unique_name": "Revela\u00e7\u00e3o Gospel",

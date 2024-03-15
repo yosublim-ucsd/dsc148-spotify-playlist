@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a?si=6SKfryr9SA2\_64lMvy8hOQ"> The Arti$t </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,682 likes - 200 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,792 likes - 200 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 30 | [Hard](https://open.spotify.com/track/59801wGQHGxC5qWo9i9O23) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Hard](https://open.spotify.com/album/5o6RTKOWAQ6C7T6eMiU8nx) | 2:15 |
 | 31 | [one more look](https://open.spotify.com/track/57MqVKNVVv7TWRGylx0mOO) | [Isaiah Mostafa](https://open.spotify.com/artist/38pMqxFHLBJ8g5RUVO8CTI), [MDQ](https://open.spotify.com/artist/2s9N0yD7NPCfGmfwKJTiB1) | [one more look](https://open.spotify.com/album/7EhYl0ergfbftGmuRKHoHY) | 3:54 |
 | 32 | [Say You Do](https://open.spotify.com/track/2sC5Cdda0VyNHJGhGKey0L) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [EightyThrilla](https://open.spotify.com/artist/11K0tW3obVss3xQmgAxXvF) | [Say You Do](https://open.spotify.com/album/0WDr2AfJ9DWLVXUQmZnui4) | 3:09 |
-| 33 | [BREAK ME](https://open.spotify.com/track/1Y0nEB7CzRB149VzUoHNt3) | [Ankit](https://open.spotify.com/artist/3Vx0kgFCSMqMJd8X0JrhPB) | [BREAK ME](https://open.spotify.com/album/2FvsrsU0CrzNF7edsMxmHP) | 2:59 |
+| 33 | [BREAK ME](https://open.spotify.com/track/5j5FMkSvyq9ZRIz0tT7Oke) | [GODBY](https://open.spotify.com/artist/0kuUtCLEn8Z8X86bwUUumS) | [BREAK ME](https://open.spotify.com/album/78XjqBL6uB5hb88zj7O5re) | 2:59 |
 | 34 | [Push](https://open.spotify.com/track/6sdAE6ZE2t40Gg5BKxIqW8) | [AUDRÉ](https://open.spotify.com/artist/7D90vPov7npaORRz1VaXVY) | [Push](https://open.spotify.com/album/6tJYYtfydNUwszeAF2TqNO) | 3:10 |
 | 35 | [Rosewater](https://open.spotify.com/track/4X38Ry26wdyjvkGFaohQQY) | [Liana Banks](https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe) | [Rosewater](https://open.spotify.com/album/7fW8dDtkT4s4x9TPXOHeqv) | 2:05 |
 | 36 | [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 199 | [Temporary Love](https://open.spotify.com/track/5eudX2aAKR0HtvN9I2TJIY) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:36 |
 | 200 | [Pitaya](https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Pitaya](https://open.spotify.com/album/2GZbFLOgJWgoUecKVhEIy1) | 2:42 |
 
-Snapshot ID: `MCwxM2VlZDZjMTEzNDViYjViMzQwZjRiMzFlMjEyMGRiMzllNjkwNjA3`
+Snapshot ID: `MCxhMDFjNjE4Y2Q5YzUwODU0ZGEzZWNjYjVlNmE3Nzc0NGI3NTI0ZmUz`

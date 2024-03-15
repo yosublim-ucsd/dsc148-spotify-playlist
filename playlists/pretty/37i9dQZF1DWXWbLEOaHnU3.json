@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 537834,
+  "num_followers": 537951,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2Y2N2IwMTE2MDcxY2M2NTI5NWQyZDc2YmFjYWViMDhkM2U2NDdl",
+  "snapshot_id": "MCxjNjIyYmU0OTc1ODdjOTZiZjgyZDEyNDAxYmEyNGIzYTMwNzBlYWYz",
   "tracks": [
     {
       "added_at": "2023-11-25 18:30:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "IM25",
-        "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        },
-        {
-          "name": "Bliss",
-          "url": "https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk"
-        }
-      ],
-      "duration_ms": 401167,
-      "name": "Boss La Rosh",
-      "url": "https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Shiva Style, Pt. 2",
         "url": "https://open.spotify.com/album/6CZaPBFfSRM0uDuTSAUCKa"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 349764,
       "name": "Shiva Style, Pt. 2",
       "url": "https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "IM25",
+        "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Bliss",
+          "url": "https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk"
+        }
+      ],
+      "duration_ms": 401167,
+      "name": "Boss La Rosh",
+      "url": "https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "STAY (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 147718,
+      "name": "STAY - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Mind Is God - Single",
         "url": "https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "STAY (HEDEGAARD Remix)",
-        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
+        "name": "Altaria",
+        "url": "https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc"
       },
       "artists": [
         {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
         }
       ],
-      "duration_ms": 147718,
-      "name": "STAY - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
+      "duration_ms": 167746,
+      "name": "Altaria",
+      "url": "https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -971,22 +987,6 @@
       "duration_ms": 452173,
       "name": "Silence",
       "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Altaria",
-        "url": "https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc"
-      },
-      "artists": [
-        {
-          "name": "Dimatik",
-          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "Altaria",
-      "url": "https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1155,46 +1155,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
-      },
-      "artists": [
-        {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
-        },
-        {
-          "name": "Weaver",
-          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
-        }
-      ],
-      "duration_ms": 211467,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Mystical Experience",
-        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        },
-        {
-          "name": "Flegma",
-          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
-        }
-      ],
-      "duration_ms": 550985,
-      "name": "Mystical Experience",
-      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/6KslRrpR7Bao2FZskC5MWI"
       },
@@ -1219,6 +1179,46 @@
       "duration_ms": 343098,
       "name": "Crossroads (Remix)",
       "url": "https://open.spotify.com/track/5pBEiBE1cCShb5fDt8973h"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Mystical Experience",
+        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "Flegma",
+          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
+        }
+      ],
+      "duration_ms": 550985,
+      "name": "Mystical Experience",
+      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
+      },
+      "artists": [
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
+        },
+        {
+          "name": "Weaver",
+          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
+        }
+      ],
+      "duration_ms": 211467,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Carmen",
-        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
-      },
-      "artists": [
-        {
-          "name": "Skazi",
-          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
-        },
-        {
-          "name": "Invisible Reality",
-          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Carmen",
-      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "STFD (Remix)",
         "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
       },
@@ -1315,6 +1295,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
+      },
+      "artists": [
+        {
+          "name": "Skazi",
+          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+        },
+        {
+          "name": "Invisible Reality",
+          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 273375,
       "name": "Behind",
       "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 275142,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/39hp7lSe0QPktFxKkWBI2B"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Extra-Terra",
-        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
-      },
-      "artists": [
-        {
-          "name": "GRAViiTY",
-          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
-        }
-      ],
-      "duration_ms": 231269,
-      "name": "Extra-Terra",
-      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/31OFHrOtxs6uuf1mu3GNiR"
-      },
-      "artists": [
-        {
-          "name": "Dang3r",
-          "url": "https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr"
-        }
-      ],
-      "duration_ms": 443186,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/7m8eozR3eg3MFxWomFcA8L"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/3R5bwfK41PlcujliH2X2UZ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 215142,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/2peA9evFHZedrys82CcDr4"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/31OFHrOtxs6uuf1mu3GNiR"
+      },
+      "artists": [
+        {
+          "name": "Dang3r",
+          "url": "https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr"
+        }
+      ],
+      "duration_ms": 443186,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/7m8eozR3eg3MFxWomFcA8L"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal"
-      },
-      "artists": [
-        {
-          "name": "Jilax",
-          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
-        },
-        {
-          "name": "Crazy Box",
-          "url": "https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP"
-        }
-      ],
-      "duration_ms": 290704,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Lose My Cool",
         "url": "https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 236978,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal"
+      },
+      "artists": [
+        {
+          "name": "Jilax",
+          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
+        },
+        {
+          "name": "Crazy Box",
+          "url": "https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP"
+        }
+      ],
+      "duration_ms": 290704,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk"
     }
   ],
   "unique_name": "Psytrance Supernova",

@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-164 songs - 8 hr 39 min
+167 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [At First Light](https://open.spotify.com/track/2nSsFPv6DacvSeeffwHw41) | [Carl Borden](https://open.spotify.com/artist/191IVNBGVBToo7fHB4LHaS) | [Beyond the Sunrise](https://open.spotify.com/album/7yR28ZTUP4Kg3ob20qYRcs) | 5:24 | 2024-02-15 |  |
 | [At last](https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [At last](https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd) | 3:30 | 2022-05-25 |  |
 | [Atmosphere](https://open.spotify.com/track/6f2CmmgE9LM9MpyF5qJVu9) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Atmosphere](https://open.spotify.com/album/68ZoAWbxVpnUcyPeuk3KR1) | 1:08 | 2022-05-25 | 2023-07-29 |
+| [Attunement](https://open.spotify.com/track/4CLtmixAGAkk4XUWEGhKNh) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [Attunement](https://open.spotify.com/album/2noLg0P7347xu4rI4oEBjC) | 2:46 | 2024-03-14 |  |
 | [Awyr](https://open.spotify.com/track/7yMzhnHDOwrRE8xSHg1odL) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Awyr](https://open.spotify.com/album/32IqCf3YumpYV4JWvfS8F9) | 3:53 | 2022-05-25 |  |
 | [Beehive Casemate](https://open.spotify.com/track/5dhqtdFkbImE42rg0gbpIk) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [The Last Blasphemer](https://open.spotify.com/album/5GI1apL7BDOOImPVnLcltO) | 3:24 | 2022-05-25 |  |
 | [Before Sunrise](https://open.spotify.com/track/36ohYATGnjB8KVRhsglPDP) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Before Sunrise](https://open.spotify.com/album/43hmIuXmgNrRR39OzMHPpU) | 3:01 | 2022-05-25 | 2023-04-22 |
@@ -48,6 +49,7 @@
 | [Canes Venatici](https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Canes Venatici](https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3) | 3:43 | 2022-05-25 | 2023-03-31 |
 | [Cardboard Gadgets](https://open.spotify.com/track/1GnzjRqS1QnHeA9O7bR5y0) | [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Cardboard Gadgets](https://open.spotify.com/album/2MzvZKJ9HAnFmTxQHTAqyH) | 3:36 | 2022-05-25 | 2022-08-24 |
 | [Celestial Orbit](https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Intergalactic](https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P) | 3:00 | 2023-04-21 |  |
+| [Chasing Starlight](https://open.spotify.com/track/2BEdZkn1qOVr3mSEM0vTk8) | [Milan Moux](https://open.spotify.com/artist/2Hp3fVH7ZTcfwgzq4f4Zam) | [Chasing Starlight](https://open.spotify.com/album/5C27QY3d4DBjfHLxEHA2Q2) | 2:59 | 2024-03-14 |  |
 | [Chromaticity](https://open.spotify.com/track/4VNfBtsAbadZfGJHbZavU2) | [Marlowe Coleman](https://open.spotify.com/artist/19Ezl9iEvMupXpC5XMgZBR) | [Chromaticity](https://open.spotify.com/album/39cFOl89shll6kZj8hbpqi) | 3:30 | 2024-01-30 |  |
 | [Convergence](https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Convergence](https://open.spotify.com/album/1095m41z6UPcurOL35ybPa) | 3:14 | 2022-08-15 | 2023-03-10 |
 | [Dagdraumur](https://open.spotify.com/track/4vpUme6bonH4EPwMxBBLOP) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Dagdraumur](https://open.spotify.com/album/2mwJKpI6depPe7yzYAIzGT) | 2:46 | 2022-06-16 |  |
@@ -169,6 +171,7 @@
 | [Warm Embrace](https://open.spotify.com/track/4H7cke51KBunS0nfrjtu7Q) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:46 | 2022-12-02 |  |
 | [Westward](https://open.spotify.com/track/3a4QYzei9aAmBHtz3ElTPT) | [Western Tribulations](https://open.spotify.com/artist/2BqSkHnqXQZZSKr1EwgHno) | [Enschede](https://open.spotify.com/album/3twmOqQwvJBNQBq6oboMtD) | 3:48 | 2022-05-25 | 2022-09-07 |
 | [Winding Down](https://open.spotify.com/track/2YMF46jCQHWY5Cu34tAbyN) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Winding Down](https://open.spotify.com/album/61vGKZ7BiUj71vTwOsySMI) | 2:45 | 2023-05-19 |  |
+| [Would You Close Your Eyes?](https://open.spotify.com/track/7b6SaxaCKmwg5RS71vOEQZ) | [Impedance Lost](https://open.spotify.com/artist/0lqtp08TCVVNVpbwx1Yp8W) | [Would You Close Your Eyes?](https://open.spotify.com/album/6pjq6UoI3Y3OxvA2yjWV5R) | 3:21 | 2024-03-14 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-05-25 |  |
 | [Yesterday](https://open.spotify.com/track/0F8rKbPUGxuyQ0JozqMsRo) | [Jake Slumber](https://open.spotify.com/artist/5zXzDGnSdx0XqjZzuKNNYx) | [Yesterday](https://open.spotify.com/album/53bkdqxJiaEZN5gtnSvpk7) | 2:16 | 2022-05-25 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-05-25 |  |

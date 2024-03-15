@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Ariana Grande
+> The UK's biggest playlist\. Cover: Kygo & Ava Max
 
 104 songs - 5 hr 33 min
 

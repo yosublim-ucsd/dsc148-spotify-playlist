@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,314 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,372 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [La tête dans les étoiles](https://open.spotify.com/track/1ag08XRri60Inyqur8DULw) | [Lindsey Lin's](https://open.spotify.com/artist/1vaEqwA3rUGLgzxlFrVi1y) | [La tête dans les étoiles](https://open.spotify.com/album/4aA0Lzi51UOHOPIN0G5uUU) | 4:35 |
 | 50 | [Sensasyon](https://open.spotify.com/track/19AvUQjwbsMVCdJnRdpINM) | [K\-Reen](https://open.spotify.com/artist/3zAlF5gQNQo3Cwv8uQu5aG) | [Sensasyon](https://open.spotify.com/album/0rjyZp9fxNUAtMDYvN8vUd) | 4:28 |
 
-Snapshot ID: `MCw1MGIxZWYyYzJiNjY4MTBjYmQxNGI0ZmUzNGY3ZDBiMzgwMzU5MDky`
+Snapshot ID: `MCw1OGNkYWRiN2E0MWI2YWVmYTgwNTg3MDY0ZmRmYWExZDNkZGY1NzYz`

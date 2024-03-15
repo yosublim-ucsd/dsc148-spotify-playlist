@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,550,445 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,550,828 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 95 | [Faded](https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Perfect Day](https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV) | 2:48 |
 | 96 | [Beautiful](https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [L.E.F.](https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69) | 5:54 |
 | 97 | [Body Language](https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW) | [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Body Language](https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8) | 7:18 |
-| 98 | [Swoon](https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb) | 6:05 |
-| 99 | [Sorry \- Dirty South Radio Edit](https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Sorry](https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p) | 3:31 |
+| 98 | [Sorry \- Dirty South Radio Edit](https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Sorry](https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p) | 3:31 |
+| 99 | [Swoon](https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb) | 6:05 |
 | 100 | [Strange Condition \- Inpetto Radio Edit](https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Strange Condition](https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI) | 3:33 |
 | 101 | [Shadows \- Inpetto Edit](https://open.spotify.com/track/2jAbU8zHsqLDxAAgTdDHbE) | [Those Usual Suspects](https://open.spotify.com/artist/2z9nslAMP8sKqqFW9aOMK6), [Inpetto](https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM) | [Shadows](https://open.spotify.com/album/09Lz1igaXeJcRnyuV4mBnA) | 3:22 |
 | 102 | [Only One \(Radio Edit\)](https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:40 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/05u4uCA07oXnopEdlZ57Ug) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Awaken \(Pt\. 2\) \[Remixes\]](https://open.spotify.com/album/1ZMzi9pfVDFExVCKiDkYZO) | 3:44 |
 | 120 | [Me and Myself \(Wolfgang Gartner Radio Edit\)](https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV) | [Bendj Feat Sushy](https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:52 |
 
-Snapshot ID: `MCxlZDBkNGRkODg2NzZhOWQ1NmYzZjM5NDY5ZjcyN2I3Zjc0YjFkOGIw`
+Snapshot ID: `MCw5NDgyZmFlM2NmY2RlOWQ4NDBlZGJmZTcyM2NjYjI0NWM1Nzc2Nzli`

@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 4173,
+  "2024-03-15": 4172,
   "date_first_scraped": "2023-03-05",
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
   "name": "This Is Kierra Sheard",
@@ -475,7 +475,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 209927,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD"

@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-304 songs - 15 hr 34 min
+306 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [African Vibes](https://open.spotify.com/track/5k1EMCwlkW9uCFnz5G8JZG) | [Karasso](https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn) | [African Vibes](https://open.spotify.com/album/1QPmme7H2Xy7SGnDuf4n2o) | 3:06 | 2023-09-05 |  |
 | [After Midnight](https://open.spotify.com/track/6Xs3cEaNJQIkUKvOmPaDs4) | [Michael Parker](https://open.spotify.com/artist/4Pt8SOQa9s8qftzbBPPC76) | [After Midnight](https://open.spotify.com/album/4DTZ8cBptl7NzqHrH7wVfU) | 2:20 | 2023-11-15 |  |
 | [Ain't Gonna Break](https://open.spotify.com/track/4cRCQ8wLnWKkLpUVijmp0J) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Ain't Gonna Break](https://open.spotify.com/album/2nueTq2RzhiXpqrUcGDfY9) | 3:04 | 2022-07-29 | 2023-06-24 |
+| [Alarm](https://open.spotify.com/track/33J9duYFGuYDolFULpYgi8) | [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [RALYFF](https://open.spotify.com/artist/2O5kshWyTHGk7xv2FCxEbh), [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Alarm](https://open.spotify.com/album/09vMh7mmRqPCewaBjBnJeC) | 3:22 | 2024-03-14 |  |
 | [Alive \- Edit](https://open.spotify.com/track/0GtkzHw73XXHn4rZJFqcxh) | [JAT](https://open.spotify.com/artist/1XJPIFp92YDeTJW1SEbvg6) | [Alive \(Edit\)](https://open.spotify.com/album/2UaVJ8I7jP3j5F69gby1bt) | 3:13 | 2022-09-02 | 2022-09-24 |
 | [All My Life](https://open.spotify.com/track/7pSIzHh4E7v5TBa6DHEPba) | [Somero](https://open.spotify.com/artist/25QwEFukGdirO64kwGIwTR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [All My Life](https://open.spotify.com/album/63wRjrPw2IHWN53aeFLhQM) | 2:24 | 2022-07-29 | 2022-11-05 |
 | [All My Life \- Airscape Remix](https://open.spotify.com/track/0VAVj1GEv2oVcz6Vkgf1WN) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP), [Airscape](https://open.spotify.com/artist/2tTZL2CE2Z190UPlHsjzym) | [All My Life \(Airscape Remix\)](https://open.spotify.com/album/7oikZCI1DlS43oNBYXxHc2) | 3:15 | 2024-02-22 |  |
@@ -166,6 +167,7 @@
 | [Lift Off](https://open.spotify.com/track/77Whia5VOt6Ld1ffWKP5vu) | [Pei Pei](https://open.spotify.com/artist/5feFhyZ3MkVAxnnC0m6cdf), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [Lift Off](https://open.spotify.com/album/5D2bNPZh3mKBWozCWPdOOF) | 3:58 | 2023-10-12 |  |
 | [Like Dis](https://open.spotify.com/track/4BlhVVLEJ7H2QsPcZ0v6bL) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Like Dis](https://open.spotify.com/album/2pFskPFDiMLmH3D8HHKpDl) | 2:18 | 2023-08-24 |  |
 | [Lions Roar \(feat\. Philip Strand\)](https://open.spotify.com/track/7DCJZlDIubI1B2z4EoZ7VD) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Lions Roar \(feat\. Philip Strand\)](https://open.spotify.com/album/44pquiGbX8vB0u7VSizA6V) | 2:57 | 2022-11-18 | 2023-04-22 |
+| [Loca](https://open.spotify.com/track/4Lr23vrGbFFdaLm7pqdOVA) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Revealed Recordings presents Miami Sampler 2024](https://open.spotify.com/album/2Dau7iVX0oPQw9uKrGdiOF) | 2:44 | 2024-03-14 |  |
 | [Lose Your Mind](https://open.spotify.com/track/0XBpOxxdLc3xH6OjjnaWML) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [Lose Your Mind](https://open.spotify.com/album/4pO5ePc9H7RG2a3CSVdmm4) | 2:38 | 2023-11-08 |  |
 | [Losing Focus](https://open.spotify.com/track/0NiksN12Vqtj2XmOnFOFxz) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [SOUNDCHECK](https://open.spotify.com/artist/4cJtXXdfujLT0wr1DY9pdl), [Replay M](https://open.spotify.com/artist/6XTVE58RFOIxPuDGSkXa4z), [Michael Zhonga](https://open.spotify.com/artist/1FeScSe5coyXzmJ8ATtj9O) | [Revealed Recordings presents ADE Sampler 2022](https://open.spotify.com/album/5CZASEqfAIx22yQEaiBKXi) | 2:49 | 2022-10-06 |  |
 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 | 2023-08-10 |  |

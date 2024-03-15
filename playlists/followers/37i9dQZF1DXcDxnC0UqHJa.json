@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 465695,
+  "2024-03-15": 465708,
   "date_first_scraped": "2021-12-21",
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
   "name": "Folksy Covers",
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 185013,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/4uCXm0ydtmLqyBwVdpHLtW"
@@ -5347,7 +5347,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 110110,
       "name": "Your Song (Vapor IKEA Commercial)",
       "url": "https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ"

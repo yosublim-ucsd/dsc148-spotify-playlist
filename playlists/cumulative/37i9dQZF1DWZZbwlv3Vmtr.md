@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-904 songs - 1 day 11 hr 10 min
+905 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,7 @@
 | [Salty Spears](https://open.spotify.com/track/6ZmBhY7KvNRg7ohYNyIgCK) | [Pickle Bits](https://open.spotify.com/artist/2KOou75brQkBcUrNhPtC1s) | [Salty Spears](https://open.spotify.com/album/1yVbF1CJghhfNg5ROV8ceF) | 2:16 | 2023-11-24 |  |
 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2022-04-15 | 2022-06-17 |
 | [Sand Dunes](https://open.spotify.com/track/0eRz1q2Wl8UpKDl45UiZZQ) | [The Precocious Birds](https://open.spotify.com/artist/5oLT0V8Xp31OtLkLvUH07U) | [Good Morning](https://open.spotify.com/album/0VnIOAwK9IyAsNc1HXqEHs) | 3:21 | 2022-04-15 | 2022-05-20 |
-| [sandcastles](https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [sandcastles](https://open.spotify.com/album/1LN7ORFTpSy9ZpnsflxqPN) | 1:45 | 2022-08-12 |  |
+| [sandcastles](https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [sandcastles](https://open.spotify.com/album/1LN7ORFTpSy9ZpnsflxqPN) | 1:45 | 2022-08-12 | 2024-03-15 |
 | [Sandhamn](https://open.spotify.com/track/77ZSl1MSbASVgW5DOGCMN9) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Sandhamn](https://open.spotify.com/album/3rYpgmBjwPUtHKTntCFHvX) | 2:50 | 2022-09-09 |  |
 | [Saturation](https://open.spotify.com/track/1zyNkrQFVLwjl1Jg4MZHuK) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Saturation](https://open.spotify.com/album/5d0Imi2PYaZIhzFe6Sn4CN) | 1:52 | 2022-04-15 | 2022-10-29 |
 | [Saturday Afternoon](https://open.spotify.com/track/5GSoiFJwXZY3DfPDkVHwS6) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Back Alley Conversations](https://open.spotify.com/album/4JetmNvKwzrCbsIKyliwPp) | 2:01 | 2022-04-15 | 2022-06-10 |
@@ -910,6 +910,7 @@
 | [Your Glow](https://open.spotify.com/track/7wig0c7koqSvDiincDAEXX) | [Prime Suspect](https://open.spotify.com/artist/5YQhFX1KlOhn5yZJL22mAR) | [Your Glow](https://open.spotify.com/album/1xuQYgF21HQ9va023HWgod) | 1:52 | 2022-08-12 | 2023-10-06 |
 | [Your Lie](https://open.spotify.com/track/5vG2FtCtt8sBRQMNmMM4Pn) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Your Lie](https://open.spotify.com/album/3F5unzmA4JIAdD84m3DiNf) | 3:02 | 2023-01-06 | 2023-09-22 |
 | [youth](https://open.spotify.com/track/57AaSVynhepCoToU0n3w0w) | [surf bagel](https://open.spotify.com/artist/38YfrSySicHwZBiHjHcMua) | [youth](https://open.spotify.com/album/57gANshT81YvlraLaR26TN) | 2:01 | 2022-11-11 | 2023-09-22 |
+| [Yuh](https://open.spotify.com/track/12fjRa5SiOoChXnqDDZOQY) | [Fred Can't Jump](https://open.spotify.com/artist/4J8VxBw15LkWir0tI2EqXL) | [Yuh](https://open.spotify.com/album/23mQw6YyrvrCkdCjvaTvpQ) | 2:21 | 2024-03-08 |  |
 | [zinnia](https://open.spotify.com/track/1DQs099CsJFZhRhY4RLEHM) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [zinnia](https://open.spotify.com/album/4iEo34YasPvmHlU9wZZx8z) | 1:30 | 2022-11-11 | 2023-09-22 |
 | [ágata](https://open.spotify.com/track/2oRTRdGTrB0uF0DoL71sV4) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ágata](https://open.spotify.com/album/3RlKaLL7si7ZmHMURLNNPS) | 2:20 | 2022-06-03 | 2022-09-03 |
 

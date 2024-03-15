@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 909523,
+  "2024-03-15": 909537,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Netherlands.",
   "name": "Top 50 - Netherlands",
@@ -2343,6 +2343,24 @@
       "duration_ms": 154397,
       "name": "Ausfahrt",
       "url": "https://open.spotify.com/track/2zkCzK0YBafIS8UzhcuOxd"
+    },
+    {
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
     },
     {
       "album": {
@@ -25899,7 +25917,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 160301,
       "name": "Undecided",
       "url": "https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe"

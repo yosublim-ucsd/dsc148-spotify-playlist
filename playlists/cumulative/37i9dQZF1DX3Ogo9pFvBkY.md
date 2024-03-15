@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-786 songs - 1 day 17 hr 8 min
+788 songs - 1 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Coralia](https://open.spotify.com/track/2QuojUtKiQ7l8ZQMDelt3s) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Coralia](https://open.spotify.com/album/1EE6SRjBh51zDFzF9rh1bO) | 3:17 | 2019-05-26\* | 2020-01-03 |
 | [Cosmos](https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:31 | 2019-05-26\* | 2021-07-23 |
 | [Cosmosis](https://open.spotify.com/track/0bvAQZ7fx0opg1XDY0CCHT) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Cosmosis](https://open.spotify.com/album/5e26lAWV8Sindc9WXm83dY) | 3:04 | 2023-05-02 |  |
+| [Cove](https://open.spotify.com/track/2dslILOVDhmXVEds5LUuDj) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Cove](https://open.spotify.com/album/4JOBNTgnUIbHD8KBq0YgiA) | 2:47 | 2024-03-14 |  |
 | [Creeping into Dusk](https://open.spotify.com/track/6NBjJ9EPr0FyxhbFeCqwwM) | [A Dancing Beggar](https://open.spotify.com/artist/728YMd5rIL5FkGaRLNdAv8) | [Follow The Dark as If It Were Light](https://open.spotify.com/album/6VRg2NbI3EiWql4S9zmctY) | 5:33 | 2019-05-26\* | 2019-06-29 |
 | [Cristales](https://open.spotify.com/track/2y4BjmOnbJB2SfgXpPK859) | [Alter Ego](https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj) | [Alter Ego EP](https://open.spotify.com/album/4NYzqT293AyVwWVxoKC9yP) | 1:43 | 2020-01-09 | 2023-04-07 |
 | [Crossing Paths](https://open.spotify.com/track/2UNKk7IG25ykiRphSfEH5C) | [Curved Mirror](https://open.spotify.com/artist/3kGZSkar6fss8HWhrh4Kvj) | [Crossing Paths](https://open.spotify.com/album/0miVfRekvyWVevDk8dGqFJ) | 5:26 | 2020-10-08 | 2021-07-23 |
@@ -202,6 +203,7 @@
 | [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 | 2022-09-02 |  |
 | [Divine](https://open.spotify.com/track/5BGDIilZ6mNq413WtAU2FR) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [All Around Us](https://open.spotify.com/album/2wL1Qgbzh1v5NDF4kpMbQC) | 3:14 | 2019-05-26\* | 2020-07-11 |
 | [Divine](https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:49 | 2019-05-26\* | 2020-05-09 |
+| [Doldrums](https://open.spotify.com/track/7EM9OzuJlYg9aKTpBHiocx) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Doldrums](https://open.spotify.com/album/5vxLCCvUpHoGeabzHwKOHa) | 2:45 | 2024-03-14 |  |
 | [Dream \#3 \[Energy Wav\]](https://open.spotify.com/track/2b3hEGm7tIWPyAH8EokVuq) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams](https://open.spotify.com/album/4WRQfwPfCYlhi45Iqh43iy) | 3:49 | 2019-05-26\* | 2020-01-03 |
 | [Dream \#5 \[Drifting Apart\]](https://open.spotify.com/track/2VkeXjrEyJ5dgeInRIdKIE) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams 2](https://open.spotify.com/album/29IRtnyLAfOzZFZHNl36kR) | 3:12 | 2019-10-26 | 2022-08-26 |
 | [Dream \#5 \[Drifting Apart\]](https://open.spotify.com/track/6SGSjM4QYE4CMgDQw2R1x0) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams 2](https://open.spotify.com/album/5wiG62jPFz5dDow7BPeAnJ) | 3:12 | 2022-08-23 | 2023-05-03 |

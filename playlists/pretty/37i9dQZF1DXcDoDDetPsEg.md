@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,747 likes - 77 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,745 likes - 77 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 65 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 |
 | 66 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 |
 | 67 | [Girlfriend \(London Girls Mix\)](https://open.spotify.com/track/2MdH4OGyLqNz8N0KYzoqOZ) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Girlfriend \(London Girls Mix\)](https://open.spotify.com/album/0P8AtYjs6i7Dr1HgqVNfr0) | 2:49 |
-| 68 | [Get Paid](https://open.spotify.com/track/5skVBEgNgLKgpMfaYtDc8z) | [GeeYou](https://open.spotify.com/artist/4ejYGKfyQlsSVCCqEbSeqo), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [IDKYOU](https://open.spotify.com/album/7hzrJa8xZkKfUbWLfTGayi) | 2:56 |
+| 68 | [Get Paid](https://open.spotify.com/track/1K0c90n5n7weETBlDjmcbN) | [GeeYou](https://open.spotify.com/artist/4ejYGKfyQlsSVCCqEbSeqo), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [IDKYOU](https://open.spotify.com/album/46OmcX5KTCeOvQYCY2ETjY) | 2:56 |
 | 69 | [Around The World](https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Around The World](https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY) | 1:56 |
 | 70 | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV) | 2:45 |
 | 71 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 76 | [NO HANDS](https://open.spotify.com/track/0rLRVibIjrOoi2j2SzRTuV) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [NO HANDS](https://open.spotify.com/album/1hqGOiYJDb1UaCb5UYNoEd) | 2:13 |
 | 77 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 |
 
-Snapshot ID: `MCwwNzE0MjEzNzkxZmM5N2U1NzAwZTRkMzQwYzUzZTViODhiMzIwMzcy`
+Snapshot ID: `MCw3ZjFiM2U4ZjE3MjYzZmM3MTMxYTZiOWNjN2Q1OGJkMzQ1ZTdhM2Fl`

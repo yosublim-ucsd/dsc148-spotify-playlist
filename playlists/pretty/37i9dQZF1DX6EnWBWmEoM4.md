@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain]
 
 > Ya no vuelvas, a menos que sea cuarteteando\. Foto: Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,544 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,625 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain]
 | 27 | [Como La Primera Vez](https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Como La Primera Vez](https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd) | 3:53 |
 | 28 | [Ojala Que No Puedas / Me Parece Que \- En Vivo](https://open.spotify.com/track/7akGuN97NN6pwt8zwR07hY) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Arriba las Palmas \(En Vivo\)](https://open.spotify.com/album/0VpKJA0JWIwIReM53ay6hs) | 5:15 |
 | 29 | [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 |
-| 30 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 |
+| 30 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 |
 | 31 | [Tu nombre](https://open.spotify.com/track/7q5VTxJ96XkX0z8Q7KZOVQ) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pueden parar](https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N) | 3:24 |
 | 32 | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS) | 4:24 |
 | 33 | [La Niña de los Ojos Tristes](https://open.spotify.com/track/5rMBBvl7sfvBhCvZsLwbxh) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [La Niña de los Ojos Tristes](https://open.spotify.com/album/2P9PHXR0KEBu9Wzcmm4r8B) | 4:38 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain]
 | 40 | [Monotonia](https://open.spotify.com/track/73PhGO0aMHskiHBvmqiNDU) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Desde el Bar](https://open.spotify.com/album/7afSoxmiNzFuUnjmbDN3eF) | 2:22 |
 | 41 | [No\_se\_ve.mp3](https://open.spotify.com/track/6MZF2xNdjG24IXAVxFJNg9) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [No\_se\_ve.mp3](https://open.spotify.com/album/6i4DjgJTPYPDRPzuirxQPV) | 2:15 |
 | 42 | [Ji Ji Ji](https://open.spotify.com/track/2716BxBC12mBVOH9uNNsHR) | [THE PALMERS](https://open.spotify.com/artist/4ACQyAX2r9xt9k1y1t7jXN) | [Ji Ji Ji](https://open.spotify.com/album/2RXtIUWgZ3CynngFotIDUF) | 3:13 |
-| 43 | [El Pañuelo](https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Pañuelo](https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO) | 2:54 |
+| 43 | [El Pañuelo](https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [El Pañuelo](https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO) | 2:54 |
 | 44 | [Casi Que Me Pierdo](https://open.spotify.com/track/5MRkyjBeo8hg0KGGI7q7lg) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Casi Que Me Pierdo](https://open.spotify.com/album/5IQ4cyCs8yk8NSQfZ9VYao) | 2:25 |
 | 45 | [Aguardiente](https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR) | 3:19 |
 | 46 | [Carne y Hueso](https://open.spotify.com/track/7bUhlsgbmyOXhUxiE1g381) | [Diego Giannini](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Así Nomás](https://open.spotify.com/album/5L2L50FpHH4Ap0EDby2A7I) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain]
 | 49 | [Latidos](https://open.spotify.com/track/4Dky5d2domAbinmF4gjjiF) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Latidos](https://open.spotify.com/album/6qAaJdy2UM3q2ZGvm0v3jy) | 2:53 |
 | 50 | [Crimenes Perfectos](https://open.spotify.com/track/2nk3FvvhXu6IPCVuEbIh60) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Crimenes Perfectos](https://open.spotify.com/album/7pSRkjpTzpxjqfgzcrbQO3) | 2:02 |
 
-Snapshot ID: `MCxmMjY0OGEwNzEyZTQ5ODM1NWE4NmU5YjEwMDg2YzQyZTYxZWIwMzAx`
+Snapshot ID: `MCxkYmFhZTQyZmMwMmJjZjM4NTJlYjdiZmY0ZDM3MmFlMWQ5MzBhNGIw`

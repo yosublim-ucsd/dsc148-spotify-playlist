@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk?si=e9a0d582caff4b8e">Amira Elfeky</a> and the songs that shape their alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,850 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,976 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Dozen Roses](https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [A Dozen Roses](https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd) | 2:36 |
+| 1 | [A Dozen Roses](https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [A Dozen Roses](https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd) | 2:37 |
 | 2 | [Lying from You](https://open.spotify.com/track/3BmjRmFTESgWZLPSVGp8aG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 2:55 |
 | 3 | [Everybody's Fool](https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:15 |
 | 4 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 29 | [Fully Alive](https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:34 |
 | 30 | [Hole in the Earth](https://open.spotify.com/track/5MLwqi4ybLiYq6dfCpECWT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB) | 4:09 |
 
-Snapshot ID: `MCw3MDdiNGVjYjUwY2VhNzgwMWMwODU0NzAxNGU3Mjc0NzFhYzE1YzUz`
+Snapshot ID: `MCw0YmFlYzExMjYyNWVlNzczYzEwZjRlMmE4NjAxOGQ5Yzk4NWY1NmIw`

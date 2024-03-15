@@ -19594,7 +19594,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 171880,
       "name": "Mir\u00f3",
       "url": "https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1"
@@ -20086,6 +20086,24 @@
       "duration_ms": 131200,
       "name": "More Than Useless",
       "url": "https://open.spotify.com/track/5XBdasgmMGjsbmf3rqKlZT"
+    },
+    {
+      "album": {
+        "name": "morning coffee",
+        "url": "https://open.spotify.com/album/77rJWwqP3W0MxO8Nb8fxsl"
+      },
+      "artists": [
+        {
+          "name": "bear\u00e9",
+          "url": "https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148600,
+      "name": "morning coffee",
+      "url": "https://open.spotify.com/track/22YaZEoX2OiG5yA2O3cHDv"
     },
     {
       "album": {

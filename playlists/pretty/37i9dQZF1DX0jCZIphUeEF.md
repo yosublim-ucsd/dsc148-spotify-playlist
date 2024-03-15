@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,195 likes - 70 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,205 likes - 70 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 61 | [Drum Beat](https://open.spotify.com/track/2WtZN0dhZmfXsNYxBUkWKl) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Drum Beat](https://open.spotify.com/album/1JOlNpkTYoocZf7suVqSHD) | 5:16 |
 | 62 | [Save the Children](https://open.spotify.com/track/7JG9fgcKffwG4IcpBkZdEu) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [The Struggle / Save the Children](https://open.spotify.com/album/3OT5QWnp0XjpeZXT3k3HFD) | 5:35 |
 | 63 | [Sex, Drugs, Money & Lies \- Amine K Remix](https://open.spotify.com/track/6Fe1UFMK4CtL4QQQgIIJoS) | [Lunar Disco](https://open.spotify.com/artist/4wGE0QDsUVMR28CJayMHV7), [Peter Conaty](https://open.spotify.com/artist/6E6Qssf8ctt4C0kkGeD3EK), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Sex, Drugs, Money & Lies \(Amine K Remix\)](https://open.spotify.com/album/3XfDfHeTIGp3pRgceajqrt) | 6:51 |
-| 64 | [Exorce](https://open.spotify.com/track/4jl3zax2ukKfPJCgNjsrhq) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Exorce EP](https://open.spotify.com/album/5At3HJ1oGz9aRSm0sDqUd7) | 6:52 |
+| 64 | [Exorce](https://open.spotify.com/track/4jl3zax2ukKfPJCgNjsrhq) | [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Exorce EP](https://open.spotify.com/album/5At3HJ1oGz9aRSm0sDqUd7) | 6:52 |
 | 65 | [Karavane](https://open.spotify.com/track/49jrwKKNhC5TvU6W9NzFue) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Gio Israel](https://open.spotify.com/artist/0vMjghiQIFzwaoWNC5kQEr) | [Without Borders](https://open.spotify.com/album/2Fgzwt5QD6EFeApnyr1jzB) | 6:49 |
 | 66 | [Lovely Day \(Deep Soul Mix\)](https://open.spotify.com/track/591N75XjzRms0Cvcm9qSRw) | [Ministry Of Funk](https://open.spotify.com/artist/4aKFcoj4sJdQ9GLSMKKfL5) | [Soul Grooves](https://open.spotify.com/album/1yv6X3GBXHTc5mZxh9xEuZ) | 3:12 |
 | 67 | [Positive Energy](https://open.spotify.com/track/2OpqW5F6CXi0Nnz0imgGwk) | [Hotmood](https://open.spotify.com/artist/3XhaUjDe9xDwneumjdsmsa) | [Mandrill Cuts 018](https://open.spotify.com/album/0PFCxme5RaHAxL9kZnfvqt) | 5:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 69 | [Starlight](https://open.spotify.com/track/0KOf5jmkQkCudX434vaMlq) | [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX) | [Starlight](https://open.spotify.com/album/01jiI42ZCqSIlnGwGIia8Y) | 7:20 |
 | 70 | [Holi](https://open.spotify.com/track/0KPRVpZipfBa416bU01fTp) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Niki4](https://open.spotify.com/artist/3ZIPK1vx39AtBHleH80CzV) | [Holi EP](https://open.spotify.com/album/3MaaYmcDVNUw3jKTRAx5nE) | 6:45 |
 
-Snapshot ID: `MCw4ZjRkZjllOWRjMmM2MGI0ZDA2N2NlNTdmZDgyNDg1ZWY3NGVhZDFh`
+Snapshot ID: `MCw0ZGY2NzkwMjU4OTYwZDk5Yzc3M2E3NzA0OTMxMjAzZGVhNzM0YmQy`

@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 131877,
+  "2024-03-15": 131968,
   "date_first_scraped": "2023-09-23",
   "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: \u5343\u8449\u96c4\u559c & Young Coco & Jin Dogg",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
@@ -5371,7 +5371,7 @@
     {
       "album": {
         "name": "Local Life",
-        "url": "https://open.spotify.com/album/4560Qtdvr2QLUZPhnbsCUy"
+        "url": "https://open.spotify.com/album/5QReLSHX2gBdrMnVztz7f4"
       },
       "artists": [
         {
@@ -5382,6 +5382,24 @@
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137149,
+      "name": "JET",
+      "url": "https://open.spotify.com/track/6dBldJ7M61X4dRcxodX6O0"
+    },
+    {
+      "album": {
+        "name": "Local Life",
+        "url": "https://open.spotify.com/album/4560Qtdvr2QLUZPhnbsCUy"
+      },
+      "artists": [
+        {
+          "name": "Nero",
+          "url": "https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-14",
       "duration_ms": 137149,
       "name": "JET",
       "url": "https://open.spotify.com/track/7F3J8LeYIiuqYuGUvau3Jp"
@@ -7149,7 +7167,7 @@
     {
       "album": {
         "name": "Neon (Fully Active Ver.)",
-        "url": "https://open.spotify.com/album/1yREloSCNLtuwONK55o90w"
+        "url": "https://open.spotify.com/album/4Nh33dLPawNhBASd2Q6L0p"
       },
       "artists": [
         {
@@ -7172,6 +7190,36 @@
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 283222,
+      "name": "Neon - Fully Active Ver.",
+      "url": "https://open.spotify.com/track/15FP3rWLIaHSUYK9ueTVZ2"
+    },
+    {
+      "album": {
+        "name": "Neon (Fully Active Ver.)",
+        "url": "https://open.spotify.com/album/1yREloSCNLtuwONK55o90w"
+      },
+      "artists": [
+        {
+          "name": "VIGORMAN",
+          "url": "https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ"
+        },
+        {
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "SAMI-T",
+          "url": "https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-14",
       "duration_ms": 283222,
       "name": "Neon - Fully Active Ver.",
       "url": "https://open.spotify.com/track/5N4M51oo4pop3zpB8LWIMI"
@@ -10225,7 +10273,7 @@
     {
       "album": {
         "name": "Too Much (Remix)",
-        "url": "https://open.spotify.com/album/4dNi062Ek4PyfyfQZEaVZs"
+        "url": "https://open.spotify.com/album/0ti8PwX6qH3D1ViR7CY4py"
       },
       "artists": [
         {
@@ -10240,6 +10288,28 @@
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 140711,
+      "name": "Too Much - Remix",
+      "url": "https://open.spotify.com/track/3oupwjWQ9lKoYiEmmNSVG1"
+    },
+    {
+      "album": {
+        "name": "Too Much (Remix)",
+        "url": "https://open.spotify.com/album/4dNi062Ek4PyfyfQZEaVZs"
+      },
+      "artists": [
+        {
+          "name": "MuKuRo",
+          "url": "https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc"
+        },
+        {
+          "name": "Leofeel",
+          "url": "https://open.spotify.com/artist/7tPUWaEzeUNFKt1oN9vWKj"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-14",
       "duration_ms": 140711,
       "name": "Too Much - Remix",
       "url": "https://open.spotify.com/track/5fKgL0EuAky4dBUEMcL6na"
@@ -10455,6 +10525,10 @@
         {
           "name": "BES",
           "url": "https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H"
+        },
+        {
+          "name": "DJ SCRATCH NICE",
+          "url": "https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY"
         },
         {
           "name": "ISSUGI",

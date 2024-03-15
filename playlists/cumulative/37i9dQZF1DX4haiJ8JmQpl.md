@@ -4,7 +4,7 @@
 
 > Featuring YOVNGCHIMI, Nicki Nicole, Jay Wheeler & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-26 songs - 1 hr 21 min
+27 songs - 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Quizás, Tal Vez](https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:27 | 2023-06-01 |  |
 | [soso \(with Ozuna\)](https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [soso \(with Ozuna\)](https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT) | 3:22 | 2023-06-01 |  |
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-06-01 |  |
-| [Te Conocí Bailando](https://open.spotify.com/track/2HO4A7MVp34fAxn01MVoFC) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Hawaira](https://open.spotify.com/album/6NPFHNWBVXUP9Rik3JlWUq) | 2:40 | 2023-06-01 |  |
+| [Te Conocí Bailando](https://open.spotify.com/track/2HO4A7MVp34fAxn01MVoFC) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Hawaira](https://open.spotify.com/album/6NPFHNWBVXUP9Rik3JlWUq) | 2:40 | 2023-06-01 | 2024-03-15 |
+| [Te Conocí Bailando](https://open.spotify.com/track/7h8xlmAY4X54nePqWXILRm) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Hawaira](https://open.spotify.com/album/0NRNUADdkxqyM5OBbb9CYB) | 2:40 | 2023-06-01 |  |
 | [TE ENCANTÓ](https://open.spotify.com/track/5q52FaniZvJzziGHTJeie0) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [TE ENCANTÓ](https://open.spotify.com/album/1JP7wPQ4JkAGnsw0Njk1Tx) | 2:21 | 2023-06-01 |  |
 | [Tira Pa Tra](https://open.spotify.com/track/7e3eBgoH6HuhYrNMQavcgf) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Tira Pa Tra](https://open.spotify.com/album/6GP8fr8B8GjMPbfwbbk0UN) | 2:55 | 2023-06-01 |  |
 | [Toto](https://open.spotify.com/track/3IWcUkdKHKCd8yC6WImYnl) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Toto](https://open.spotify.com/album/7uCR5vxsTuVHaqd8nMWoDV) | 2:57 | 2023-06-01 |  |

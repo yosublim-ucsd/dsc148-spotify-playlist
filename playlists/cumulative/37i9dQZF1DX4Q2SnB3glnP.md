@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-290 songs - 15 hr 22 min
+292 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Glorious Morning \(Spa\)](https://open.spotify.com/track/3gF1BjpJbEiJFHr646872q) | [Elijah Reilly](https://open.spotify.com/artist/40cyqxW9Yq0YEUY8NME3sy) | [A Glorious Morning \(Spa\)](https://open.spotify.com/album/0r6cTXwz1LvmGfa5C9wPdW) | 3:23 | 2022-12-02 |  |
 | [A Mirror in Every Drawer](https://open.spotify.com/track/6ekfFY1c61AVIYn8mD6cHN) | [Tiger Stories](https://open.spotify.com/artist/0Rjd9VdV6Bx4XjDZPp1O2U) | [Dinami](https://open.spotify.com/album/26wCcQ91JidqBJ9NH6HfiB) | 4:06 | 2021-12-08 | 2022-06-25 |
 | [Aan de andere kant](https://open.spotify.com/track/0pIQQqzZpzh00oTnY1VhXi) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Aan de andere kant](https://open.spotify.com/album/1QaSWd0iizfIrmRKuuqfIM) | 4:06 | 2021-12-08 |  |
+| [Ability to Observe](https://open.spotify.com/track/6Uk1BcHkEnyrjif1u5QeVB) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Ability to Observe](https://open.spotify.com/album/4Et5trmywSRl9256SDr5Nf) | 3:14 | 2024-03-14 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-05 |  |
 | [After All Was Said](https://open.spotify.com/track/0tgcnoBZDZWnZVqY6gWzDg) | [Leander Vaughn](https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl) | [After All Was Said](https://open.spotify.com/album/4XcoP0aDaP9DtFHNr3OypS) | 3:26 | 2022-10-21 |  |
 | [After the Storm](https://open.spotify.com/track/20RvtdICuVLxbtHs179hxA) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Anfang](https://open.spotify.com/album/1NTR3MPOBNHQfOLFdtlYlN) | 2:38 | 2021-12-08 | 2022-08-24 |
@@ -198,6 +199,7 @@
 | [Pura Armonía](https://open.spotify.com/track/5UQJ26jvwmcvlhlUSZCkG9) | [Calamantos](https://open.spotify.com/artist/4sk5GtqBchPEuDVcOASDXy) | [Relajación y Meditación](https://open.spotify.com/album/7lf9GNRElS8xe9isYjh3bL) | 3:24 | 2021-12-08 | 2023-08-12 |
 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 | 2021-12-08 |  |
 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 | 2022-11-11 |  |
+| [Radiant Spirit](https://open.spotify.com/track/35anWK1guN4dWMe7OBB8wu) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Radiant Spirit](https://open.spotify.com/album/3W1i4DU8FHd7zr1gGTwOAN) | 2:43 | 2024-03-14 |  |
 | [Reaching](https://open.spotify.com/track/0KvgYjNjdjpgjanBhUnSfO) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Reaching](https://open.spotify.com/album/1coFYbyXU2dxO3lrUsbdIy) | 2:56 | 2021-12-08 | 2022-12-31 |
 | [Rebirth](https://open.spotify.com/track/4GlveryProx302jQ9hHjqe) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Awakening](https://open.spotify.com/album/3FsbKE5tluUBXyYygoxFYe) | 3:23 | 2021-12-08 |  |
 | [Receding Waves](https://open.spotify.com/track/5nkdxgonAeVjxg8NCptsuj) | [Tales from Jupiter](https://open.spotify.com/artist/0kY9PVjCD1q3Vfhp1Jjzzh) | [Adelaide](https://open.spotify.com/album/0yROHeSwgFi2suADVfGxvT) | 3:46 | 2021-12-08 | 2023-03-25 |

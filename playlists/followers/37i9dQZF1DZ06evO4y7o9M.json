@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 667220,
+  "2024-03-15": 667888,
   "date_first_scraped": "2023-08-09",
   "description": "This is Junior H. The essential tracks, all in one playlist.",
   "name": "This Is Junior H",
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 218980,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "TUS BESOX",
       "url": "https://open.spotify.com/track/6hxsXcuaPbHmIR8DsZJCyr"

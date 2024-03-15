@@ -9316,7 +9316,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 212962,
       "name": "Floden",
       "url": "https://open.spotify.com/track/0XzWcSh30W1H1o4ZiyI90j"
@@ -12122,6 +12122,32 @@
       "duration_ms": 206829,
       "name": "HJEMMESLAY",
       "url": "https://open.spotify.com/track/1E4KY1yKSCnYpAguixncQZ"
+    },
+    {
+      "album": {
+        "name": "HJERNESKADA",
+        "url": "https://open.spotify.com/album/7JcdQ4shwO2MMhBdh7BlGI"
+      },
+      "artists": [
+        {
+          "name": "Henrik von Grogg",
+          "url": "https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx"
+        },
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        },
+        {
+          "name": "Henrik Viken",
+          "url": "https://open.spotify.com/artist/1X6PpxnCUPaBW9dFnckNO3"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136821,
+      "name": "HJERNESKADA",
+      "url": "https://open.spotify.com/track/5OF3dirRYqkRF57ST0tSRj"
     },
     {
       "album": {
@@ -28156,7 +28182,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
@@ -28178,7 +28204,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/38OibRn3CyUnQZg9RWLv7u"

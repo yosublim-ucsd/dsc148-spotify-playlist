@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 687,
+  "2024-03-15": 688,
   "date_first_scraped": "2023-09-29",
   "description": "Les plus grands hits en version berceuse",
   "name": "Berceuses pop",
@@ -237,10 +237,28 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 279750,
       "name": "Best Song Ever",
       "url": "https://open.spotify.com/track/0p2lGUkhJOXovMUifi7BhG"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of One Direction",
+        "url": "https://open.spotify.com/album/1OQwliXjjsF7KvoYhL7DUD"
+      },
+      "artists": [
+        {
+          "name": "Tiny Tracks",
+          "url": "https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279750,
+      "name": "Best Song Ever",
+      "url": "https://open.spotify.com/track/73AHpvFe5fi0Nr9HH9iIIZ"
     },
     {
       "album": {
@@ -1351,7 +1369,7 @@
     {
       "album": {
         "name": "Lullaby Versions of Shawn Mendes",
-        "url": "https://open.spotify.com/album/3htfu7bBRUurg0Km7sBBMp"
+        "url": "https://open.spotify.com/album/0gtpHGs3huYC9tV3zAbvLy"
       },
       "artists": [
         {
@@ -1362,6 +1380,24 @@
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234970,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/0Ehogz5LxEgBLI1onSoHP7"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Shawn Mendes",
+        "url": "https://open.spotify.com/album/3htfu7bBRUurg0Km7sBBMp"
+      },
+      "artists": [
+        {
+          "name": "Tiny Tracks",
+          "url": "https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-14",
       "duration_ms": 234970,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/5HncfVvoBdtf8y7d1xq4qk"
@@ -2727,7 +2763,7 @@
     {
       "album": {
         "name": "Lullaby Versions of Adele",
-        "url": "https://open.spotify.com/album/2xh6AHqLKzSuILMaqr9d1V"
+        "url": "https://open.spotify.com/album/2BUA9wLoRJSngH09hERlnf"
       },
       "artists": [
         {
@@ -2738,6 +2774,24 @@
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252000,
+      "name": "To Make You Feel My Love",
+      "url": "https://open.spotify.com/track/1dUsorS3ZIC6OCWW8ZJETo"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Adele",
+        "url": "https://open.spotify.com/album/2xh6AHqLKzSuILMaqr9d1V"
+      },
+      "artists": [
+        {
+          "name": "Tiny Tracks",
+          "url": "https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-14",
       "duration_ms": 252000,
       "name": "To Make You Feel My Love",
       "url": "https://open.spotify.com/track/76FORxpOhIzdXaVMRUlVxc"

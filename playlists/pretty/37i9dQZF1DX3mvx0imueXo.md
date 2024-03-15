@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,410 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,494 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
 | 50 | [Same Ole Song \(feat\. Teejay\)](https://open.spotify.com/track/3WuV9z3uVDZ3nbWFCYasdL) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8), [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Now I Rise \(Deluxe Edition\)](https://open.spotify.com/album/2JEKU9fLF96votapKBB4cZ) | 3:57 |
 
-Snapshot ID: `MCwxZWM1MWU0MzRlYWI1MDlkZGUyN2U5ZTE1NDAxYjY5NGVkY2Q0ODA1`
+Snapshot ID: `MCw3YzViZTJlNGNmMGE2YWIyMmU1NjZlZmYzMjA5ZjIwNzdiYjI1M2Ew`

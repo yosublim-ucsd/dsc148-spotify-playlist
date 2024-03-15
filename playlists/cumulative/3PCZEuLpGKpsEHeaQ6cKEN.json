@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Celebrating a massive 1 BILLION STREAMS for <a href=\"https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7?si=88c96d015d534639\">Lost Frequencies - Are You With Me</a>",
+  "description": "The biggest Armada tracks of the moment! | Including Trance, House, Techno, Dance, Afro-House, Melodic Techno | Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Lewis Thompson",
   "name": "Armada Today",
   "tracks": [
     {
@@ -10566,6 +10566,24 @@
     {
       "album": {
         "name": "Love Again",
+        "url": "https://open.spotify.com/album/19CYZy6tXXjvQJn6Eb2vAX"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202518,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1uzvedOVSWP3396DPCfP1F"
+    },
+    {
+      "album": {
+        "name": "Love Again",
         "url": "https://open.spotify.com/album/1nE53MrFK1xt3AYvKdwpQZ"
       },
       "artists": [
@@ -15107,6 +15125,40 @@
     },
     {
       "album": {
+        "name": "Save Me (Kiimi Remix)",
+        "url": "https://open.spotify.com/album/7xsGvZlMjP2LFY4mZGoD1h"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Steffanie Christi'an",
+          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
+        },
+        {
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Dantiez Saunderson",
+          "url": "https://open.spotify.com/artist/7rymtwVS1IAIF9D4APLnOI"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207871,
+      "name": "Save Me - Kiimi Remix",
+      "url": "https://open.spotify.com/track/1I926CHvCngPl4hBRGE9Rv"
+    },
+    {
+      "album": {
         "name": "Save Me Tonight",
         "url": "https://open.spotify.com/album/0wQCkA93jbaOowF6bHsDfz"
       },
@@ -16375,6 +16427,24 @@
     },
     {
       "album": {
+        "name": "Soy Candela",
+        "url": "https://open.spotify.com/album/5zpCg6IbOsWFsASZiMqZ1y"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159523,
+      "name": "Soy Candela",
+      "url": "https://open.spotify.com/track/5G2LYJ2GDHfOZKekpAbIMh"
+    },
+    {
+      "album": {
         "name": "Space Case",
         "url": "https://open.spotify.com/album/61OEWqooBSWvgvqPxRvc9L"
       },
@@ -17426,6 +17496,28 @@
       "duration_ms": 237401,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J"
+    },
+    {
+      "album": {
+        "name": "Take So Long (Find You)",
+        "url": "https://open.spotify.com/album/4q62OoET4jjBPk3J2mmmBJ"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "Take So Long (Find You)",
+      "url": "https://open.spotify.com/track/3kc0DUCC4vyki0XZ1UqlQo"
     },
     {
       "album": {

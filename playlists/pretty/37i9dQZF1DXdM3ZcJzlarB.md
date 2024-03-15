@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,947 likes - 78 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,960 likes - 78 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 77 | [CABEZAS DEL TIEMPO](https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Tomy Sainz](https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ) | [333](https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC) | 3:12 |
 | 78 | [Risa \- Cover](https://open.spotify.com/track/0VH8DXk9BKih2AcnnEhRRT) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Palu de Paloma](https://open.spotify.com/artist/1liheuPPmJMACY5ccB4YLP) | [Risa \(Cover\)](https://open.spotify.com/album/6wnJZtcYszTyzH15YTX2ul) | 2:56 |
 
-Snapshot ID: `MCw4YzkyZmI0OTg1ZWQzODkxYTBiZmY2NWU5NGMwNTdiNWRlZTI0ZmJm`
+Snapshot ID: `MCw1YmRjYmIxOWM3NGQyOTE5MjQ5YzhhZWM0MmEwZjRjYmZmOWYxYzhi`

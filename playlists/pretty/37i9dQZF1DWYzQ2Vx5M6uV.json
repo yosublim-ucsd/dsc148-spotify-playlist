@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114763,
+  "num_followers": 114769,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWMyZjRlZmQ1YTNhNDk0Zjk3NDYyOWJkNjUzMDdiMmNlYWFjYTIx",
+  "snapshot_id": "MCwyN2QxMzk5N2IyYzE2NmJjMzc0N2RjZTEwNTZiMmRhODdlNmI3NTQw",
   "tracks": [
     {
       "added_at": "2024-03-04 12:12:51",
@@ -315,26 +315,6 @@
     {
       "added_at": "2024-03-04 12:12:51",
       "album": {
-        "name": "People (feat. Becky G) [Remixes]",
-        "url": "https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "People (feat. Becky G)",
-      "url": "https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY"
-    },
-    {
-      "added_at": "2024-03-04 12:12:51",
-      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
+    },
+    {
+      "added_at": "2024-03-04 12:12:51",
+      "album": {
+        "name": "People (feat. Becky G) [Remixes]",
+        "url": "https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "People (feat. Becky G)",
+      "url": "https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY"
     },
     {
       "added_at": "2024-03-04 12:12:51",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-03-04 12:12:51",
       "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2024-03-04 12:12:51",
-      "album": {
         "name": "Sabi na Sabura",
         "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 186000,
       "name": "Sabi na Sabura",
       "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+    },
+    {
+      "added_at": "2024-03-04 12:12:51",
+      "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2024-03-04 12:12:51",

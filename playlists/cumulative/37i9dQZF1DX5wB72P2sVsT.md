@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Indila x BENNETT au top des bangers dance/electro du moment !
+> Ella Henderson x Rudimental au top des bangers dance/electro du moment !
 
 120 songs - 5 hr 36 min
 

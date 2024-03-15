@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Beginning",
+        "url": "https://open.spotify.com/album/4BrQrdWtBmHRQhSkNAqMma"
+      },
+      "artists": [
+        {
+          "name": "Georgia Vesper",
+          "url": "https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/1ARm8lUFXYOZthnfob5OZR"
+    },
+    {
+      "album": {
         "name": "Beneath The Clouds",
         "url": "https://open.spotify.com/album/0PEH9bzRJzUDz2mTDTxliA"
       },
@@ -2306,6 +2324,24 @@
       "duration_ms": 161928,
       "name": "Carte Blanche",
       "url": "https://open.spotify.com/track/7d0VBGdkhubHhKTrU59F0x"
+    },
+    {
+      "album": {
+        "name": "Cavern",
+        "url": "https://open.spotify.com/album/16XYv4B2UZuD9uw3fcs5U4"
+      },
+      "artists": [
+        {
+          "name": "Lux Alba",
+          "url": "https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Cavern",
+      "url": "https://open.spotify.com/track/0W5UA7hd3hwOUwayBTFlFq"
     },
     {
       "album": {
@@ -7552,6 +7588,24 @@
       "duration_ms": 175250,
       "name": "Myriads",
       "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
+    },
+    {
+      "album": {
+        "name": "Naira",
+        "url": "https://open.spotify.com/album/2i3qCx7MuHHy7loaebcWxv"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3ni Alma",
+          "url": "https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Naira",
+      "url": "https://open.spotify.com/track/7rd4nwqt8Z96RHzNZnB7tb"
     },
     {
       "album": {

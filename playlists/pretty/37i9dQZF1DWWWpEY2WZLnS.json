@@ -1,33 +1,13 @@
 {
-  "description": "Los \u00e9xitos del Dembow. Portada: Danny Flow y Kevin AMF",
-  "num_followers": 444806,
+  "description": "Los \u00e9xitos del Dembow. Portada: Jhayseven",
+  "num_followers": 445144,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWVhY2E0ZDgwYzM0NTA0YzJkNjk0NDlmOTg1ZGRiZjRjY2VjOTgw",
+  "snapshot_id": "MCxjZWM4M2RmMDg4NDk1MjFlMzVmNDgwOTU4MGUzZDdjNWFlNmE4NzNl",
   "tracks": [
-    {
-      "added_at": "2024-03-08 15:39:41",
-      "album": {
-        "name": "PUTAS Y MOET",
-        "url": "https://open.spotify.com/album/5nozsQXTrTrKfRSVQYZBvZ"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 127866,
-      "name": "PUTAS Y MOET",
-      "url": "https://open.spotify.com/track/1y8Zz3ES0jCL0F6jOSUSoW"
-    },
     {
       "added_at": "2024-02-01 22:58:32",
       "album": {
@@ -119,6 +99,22 @@
       "duration_ms": 124458,
       "name": "Pitone",
       "url": "https://open.spotify.com/track/1ao3LOVRfwArGbtSo76W2W"
+    },
+    {
+      "added_at": "2024-03-14 21:07:32",
+      "album": {
+        "name": "Dan2le",
+        "url": "https://open.spotify.com/album/2co6VQIolIoGc16q4jbu62"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 161552,
+      "name": "Dan2le",
+      "url": "https://open.spotify.com/track/63712oXRDENUqIdUow7Rel"
     },
     {
       "added_at": "2024-02-01 23:43:50",
@@ -217,6 +213,22 @@
       "url": "https://open.spotify.com/track/0kjH0WcUn6hzQxbwW03vjq"
     },
     {
+      "added_at": "2024-03-14 21:07:32",
+      "album": {
+        "name": "AY LILY",
+        "url": "https://open.spotify.com/album/2wOzDb7LoRztDK25KmPbqH"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 82500,
+      "name": "AY LILY",
+      "url": "https://open.spotify.com/track/0n0JzQMRHIRyzzQa1NNcsh"
+    },
+    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Prepotente",
@@ -277,6 +289,26 @@
       "url": "https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI"
     },
     {
+      "added_at": "2024-03-14 21:07:32",
+      "album": {
+        "name": "Sobalo",
+        "url": "https://open.spotify.com/album/0sYHt3V97mmiP8ad0DqEmm"
+      },
+      "artists": [
+        {
+          "name": "Tato el X5",
+          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
+        },
+        {
+          "name": "Negrette Game Over",
+          "url": "https://open.spotify.com/artist/6eBu9oUo9fYzCYfSz1ow43"
+        }
+      ],
+      "duration_ms": 116683,
+      "name": "Sobalo",
+      "url": "https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN"
+    },
+    {
       "added_at": "2023-12-07 18:06:58",
       "album": {
         "name": "Se Puede Repet\u00ed",
@@ -291,6 +323,30 @@
       "duration_ms": 124870,
       "name": "Se Puede Repet\u00ed",
       "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Delincuente",
+        "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 226490,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
     },
     {
       "added_at": "2024-02-01 23:43:50",
@@ -369,6 +425,22 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
+      "added_at": "2024-03-14 21:07:32",
+      "album": {
+        "name": "VUELATE",
+        "url": "https://open.spotify.com/album/7KTXi2pGfttCH05uuS2OPq"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 95142,
+      "name": "VUELATE",
+      "url": "https://open.spotify.com/track/1gMc5OzfVsmG0WUDlMQtp5"
+    },
+    {
       "added_at": "2024-02-23 07:14:03",
       "album": {
         "name": "Pitoleo",
@@ -387,46 +459,6 @@
       "duration_ms": 108081,
       "name": "Pitoleo",
       "url": "https://open.spotify.com/track/5zEElpWMDT4RddUueH27Hi"
-    },
-    {
-      "added_at": "2023-12-16 14:10:48",
-      "album": {
-        "name": "No Somo Hermano",
-        "url": "https://open.spotify.com/album/3G2TWdoZqeCdfFvpiIsow5"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        }
-      ],
-      "duration_ms": 131875,
-      "name": "No Somo Hermano",
-      "url": "https://open.spotify.com/track/2hvKoCgHW5tZ7QjtK4UqIh"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Delincuente",
-        "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 226490,
-      "name": "Delincuente",
-      "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
     },
     {
       "added_at": "2023-12-13 22:43:07",
@@ -591,26 +623,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Quien Dijo",
-        "url": "https://open.spotify.com/album/71APj7u0enlTCdHalW9tAa"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "Hansel El De La H",
-          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Quien Dijo",
-      "url": "https://open.spotify.com/track/1GlVvjF1q1NkP1gjB6NGTy"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "SABIDURIA",
         "url": "https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc"
       },
@@ -731,26 +743,6 @@
       "duration_ms": 141176,
       "name": "Lola",
       "url": "https://open.spotify.com/track/5roKfFHOmRVrwgQczq8XKL"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Flow De 30",
-        "url": "https://open.spotify.com/album/42EoHUdTGnzDEJqMWpzBUn"
-      },
-      "artists": [
-        {
-          "name": "La Melma Music",
-          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
-        },
-        {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
-        }
-      ],
-      "duration_ms": 108434,
-      "name": "Flow De 30",
-      "url": "https://open.spotify.com/track/76BOnxXqhMeMd8oFrPUrQo"
     },
     {
       "added_at": "2023-10-13 04:00:00",

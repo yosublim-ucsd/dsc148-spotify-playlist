@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 46 min 18 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [About It](https://open.spotify.com/track/2jrDrfZImsSBvaDY58ZCHv) | [Raavi](https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64) | [About It](https://open.spotify.com/album/2tA9iTX6e5UbpCSE3axalq) | 2:12 |
-| 2 | [Ni Un Segundo \- Remasterizado 2007](https://open.spotify.com/track/5uwyngLJd6sTOYRic4tH8x) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:27 |
-| 3 | [There Will Be No Christmas](https://open.spotify.com/track/3CXKTxyocAK1C8DCWgTVLY) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Punk Goes Christmas](https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3) | 3:08 |
-| 4 | [Good God](https://open.spotify.com/track/2f94UiwOcfp6ClYI9mbozP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Essential Korn](https://open.spotify.com/album/7gVPfb2pdaMabA3GCiDbRF) | 3:21 |
-| 5 | [Black Tears](https://open.spotify.com/track/3OZdcvibLrA7Jr9xw5W88D) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Iconoclast \(Pt\. 1: The Final Resistance\)](https://open.spotify.com/album/0RdjJDd9nzbshw2Y0YH9S8) | 3:06 |
-| 6 | [Illusive Consensus](https://open.spotify.com/track/5dXaxEl3CpvJtkNKOCcecI) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 5:01 |
-| 7 | [Glow](https://open.spotify.com/track/4sWb33DsxhA4nR0LGmLjs7) | [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6) | [Glow](https://open.spotify.com/album/1O2hShZVzgvvZgEUV4ssER) | 5:17 |
-| 8 | [Solitary Ground](https://open.spotify.com/track/032QyDapuk9L3yrN2n88F4) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Consign To Oblivion \(Expanded Edition\)](https://open.spotify.com/album/050Dza66lBFneTLseVdFP8) | 4:24 |
-| 9 | [Erase / Rewind](https://open.spotify.com/track/2UY4BdOZ7Ncfke96BBUTzM) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo](https://open.spotify.com/album/6gxAs4Xk6dytHvqADOhLPw) | 3:35 |
-| 10 | [Cuando No Es Como Debiera Ser](https://open.spotify.com/track/3MGnPSNal5grEmGWf6VAt9) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [Para Ti Con Desprecio](https://open.spotify.com/album/2CcCMbh4RxNk3Pu5LfUQ5K) | 3:58 |
-| 11 | [Turn The Page](https://open.spotify.com/track/0VMqFTNtHklrQVleZz9ZSk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Live on Air: Bob Seger](https://open.spotify.com/album/3qZ06wiiyOOUEFVm0KsxwZ) | 6:30 |
-| 12 | [Zoids Opening Latino Acustico](https://open.spotify.com/track/3qzcoBUJMxMFInqK2nX1Ip) | [Corxea Chanpurü](https://open.spotify.com/artist/2354HegqyhRyQnmN4DlGrA) | [Zoids Opening Latino Acustico](https://open.spotify.com/album/23f8mCu4uCCQcFkRV0HIvN) | 2:16 |
+| 1 | [Mind & Body](https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p) | [Tolü Makay](https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG) | [Mind & Body](https://open.spotify.com/album/2KnyrLukBJW5j3O1fuPrTY) | 2:56 |
+| 2 | [Poupée de cire, poupée the son \(opening version\)](https://open.spotify.com/track/1I1TbSDCX1eIOTf0Abxz4p) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Les Fleurs du Mal](https://open.spotify.com/album/7yFrLBqbFIQxqBJJ3bT2oL) | 2:49 |
+| 3 | [Dream On](https://open.spotify.com/track/0AJb1Y223Ao47JCDeAUO0z) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith's Greatest Hits](https://open.spotify.com/album/3VNTh6evo3MyUsStAiatcY) | 4:24 |
+| 4 | [Sexo](https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:47 |
+| 5 | [Path Vol\. 2](https://open.spotify.com/track/4fHCgEuOXbC5ILnQYq39fC) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Sandra Nasic](https://open.spotify.com/artist/3KdMiKK5fLkWnDDepZq00V) | [Cult](https://open.spotify.com/album/31S8i6iTZi9slsfnugsPMl) | 3:25 |
+| 6 | [Un Misil En Mi Placard \- Remasterizado 2007](https://open.spotify.com/track/1mbP3zBMzI3sko7CgdPnnB) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:07 |
+| 7 | [Violent Bounce \[People Like ¥øµ\]](https://open.spotify.com/track/6lHtGRjsKMeLwUMXzRmeJW) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [New Demons](https://open.spotify.com/album/0ofEcqNFO5GCb9mYwGbOXL) | 4:39 |
+| 8 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 |
+| 9 | [Carro Caro](https://open.spotify.com/track/1VJI9IOEPGGs4BX8lFrdgX) | [JC Karo](https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl) | [Carro Caro](https://open.spotify.com/album/3YVNR6B4eVBtBdC8dWGVse) | 2:21 |
+| 10 | [Start Me Up \- 2009 Re\-Mastered Digital Version](https://open.spotify.com/track/6ml6iL8HUdQKgtMaehAZc8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/1YvnuYGlblQ5vLnOhaZzpn) | 3:33 |
+| 11 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 |
+| 12 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 |
 
-Snapshot ID: `NTQsMmUwYjVjNThhNzI3MGI3YzJjOGNhNjMwOWM0NDEyM2IzYzAxY2FkOA==`
+Snapshot ID: `NTUsZWFlOTQ5NDllZmE0NTkyNmZkODcyZjBiODVjOTQxNzM5OGMwOGI5NA==`

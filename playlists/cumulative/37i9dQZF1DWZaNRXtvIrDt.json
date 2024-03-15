@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352472,
+      "name": "31 Bloom",
+      "url": "https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y"
+    },
+    {
+      "album": {
         "name": "2kisses - EP",
         "url": "https://open.spotify.com/album/4MXJZcuH5OeriwyRgvtFJa"
       },
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 308705,
       "name": "Bop",
       "url": "https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK"
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 285324,
       "name": "Brain",
       "url": "https://open.spotify.com/track/2oXY9Dw45tIBh9ln2mdPQj"
@@ -1958,6 +1976,32 @@
       "duration_ms": 287447,
       "name": "CHROMA 001 HELIUM",
       "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
+    },
+    {
+      "album": {
+        "name": "CHROMA 002",
+        "url": "https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw"
+      },
+      "artists": [
+        {
+          "name": "B.D.B",
+          "url": "https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Benjamin Damage",
+          "url": "https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249894,
+      "name": "CHROMA 002 L.A.V.A",
+      "url": "https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx"
     },
     {
       "album": {
@@ -2454,6 +2498,32 @@
       "duration_ms": 151926,
       "name": "Damn Gloves",
       "url": "https://open.spotify.com/track/7qJXfY2YuKeAc4y8CdWJPq"
+    },
+    {
+      "album": {
+        "name": "DANCE FOREVER (feat. thatboykwame & Ninajirachi)",
+        "url": "https://open.spotify.com/album/1Mp29E8N0Fj7waCNmTwLYZ"
+      },
+      "artists": [
+        {
+          "name": "1NN3R53LF",
+          "url": "https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM"
+        },
+        {
+          "name": "thatboykwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251429,
+      "name": "DANCE FOREVER (feat. thatboykwame & Ninajirachi)",
+      "url": "https://open.spotify.com/track/2DBOmejw6oWH4P9uJ73xga"
     },
     {
       "album": {
@@ -4221,6 +4291,24 @@
     },
     {
       "album": {
+        "name": "Guitar Hero",
+        "url": "https://open.spotify.com/album/1p9S3trhs5aFoyNHVKREgZ"
+      },
+      "artists": [
+        {
+          "name": "CC:DISCO!",
+          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257560,
+      "name": "Guitar Hero",
+      "url": "https://open.spotify.com/track/6WmHyrOiOgqRavOTm01SIY"
+    },
+    {
+      "album": {
         "name": "H.B.Y.",
         "url": "https://open.spotify.com/album/5M9C4VlFYEbRHI5qJhj57T"
       },
@@ -4268,7 +4356,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 408960,
       "name": "Hands In the Air",
       "url": "https://open.spotify.com/track/3165kUEhkl26eDUbkjqDCs"
@@ -5590,7 +5678,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 338160,
       "name": "Lizard Eyes",
       "url": "https://open.spotify.com/track/0W7JDifoWEDPZFh5o8Dz8o"

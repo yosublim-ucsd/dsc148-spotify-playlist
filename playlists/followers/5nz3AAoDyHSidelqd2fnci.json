@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 0,
+  "2024-03-15": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -183,6 +183,24 @@
       "duration_ms": 168160,
       "name": "About A Girl - Remastered",
       "url": "https://open.spotify.com/track/0zeqKbySjKbfW5jyl3PMsW"
+    },
+    {
+      "album": {
+        "name": "About It",
+        "url": "https://open.spotify.com/album/2tA9iTX6e5UbpCSE3axalq"
+      },
+      "artists": [
+        {
+          "name": "Raavi",
+          "url": "https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132189,
+      "name": "About It",
+      "url": "https://open.spotify.com/track/2jrDrfZImsSBvaDY58ZCHv"
     },
     {
       "album": {
@@ -654,6 +672,24 @@
     },
     {
       "album": {
+        "name": "Iconoclast (Pt. 1: The Final Resistance)",
+        "url": "https://open.spotify.com/album/0RdjJDd9nzbshw2Y0YH9S8"
+      },
+      "artists": [
+        {
+          "name": "Heaven Shall Burn",
+          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186186,
+      "name": "Black Tears",
+      "url": "https://open.spotify.com/track/3OZdcvibLrA7Jr9xw5W88D"
+    },
+    {
+      "album": {
         "name": "Minutes To Midnight",
         "url": "https://open.spotify.com/album/5Lct07PzJt9QJGsY7JOrPX"
       },
@@ -975,7 +1011,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 229444,
       "name": "Coming for You",
       "url": "https://open.spotify.com/track/1SZoPX6yKcuejHQ49DtDxr"
@@ -1069,6 +1105,24 @@
       "duration_ms": 276986,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/0aKgId5lkNpNyGWQuwyvDn"
+    },
+    {
+      "album": {
+        "name": "Para Ti Con Desprecio",
+        "url": "https://open.spotify.com/album/2CcCMbh4RxNk3Pu5LfUQ5K"
+      },
+      "artists": [
+        {
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "Cuando No Es Como Debiera Ser",
+      "url": "https://open.spotify.com/track/3MGnPSNal5grEmGWf6VAt9"
     },
     {
       "album": {
@@ -1364,6 +1418,24 @@
     },
     {
       "album": {
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/6gxAs4Xk6dytHvqADOhLPw"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "Erase / Rewind",
+      "url": "https://open.spotify.com/track/2UY4BdOZ7Ncfke96BBUTzM"
+    },
+    {
+      "album": {
         "name": "En Saga I Belgia",
         "url": "https://open.spotify.com/album/0YfVq4FPwi1o7jp99h7MTs"
       },
@@ -1581,6 +1653,42 @@
       "duration_ms": 245800,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/40QPoAAKKMwPms6I6FHJqy"
+    },
+    {
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/1O2hShZVzgvvZgEUV4ssER"
+      },
+      "artists": [
+        {
+          "name": "Sam Redmore",
+          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4sWb33DsxhA4nR0LGmLjs7"
+    },
+    {
+      "album": {
+        "name": "The Essential Korn",
+        "url": "https://open.spotify.com/album/7gVPfb2pdaMabA3GCiDbRF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201146,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/2f94UiwOcfp6ClYI9mbozP"
     },
     {
       "album": {
@@ -2020,6 +2128,24 @@
     },
     {
       "album": {
+        "name": "The Phantom Agony (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301813,
+      "name": "Illusive Consensus",
+      "url": "https://open.spotify.com/track/5dXaxEl3CpvJtkNKOCcecI"
+    },
+    {
+      "album": {
         "name": "New Demons",
         "url": "https://open.spotify.com/album/0ofEcqNFO5GCb9mYwGbOXL"
       },
@@ -2071,7 +2197,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 352999,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6"
@@ -2143,7 +2269,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 216346,
       "name": "K.I.N.G",
       "url": "https://open.spotify.com/track/6IvxXL0dqXJlgIoIFfMqFA"
@@ -2233,7 +2359,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 303400,
       "name": "La Espada y la Pared",
       "url": "https://open.spotify.com/track/4bd6ZTmv35Eu5fbjsqAirM"
@@ -2611,7 +2737,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 512106,
       "name": "Midwintertears",
       "url": "https://open.spotify.com/track/1Xg9lWAIPhPXa8MOScC7oa"
@@ -2762,6 +2888,24 @@
     },
     {
       "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207240,
+      "name": "Ni Un Segundo - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/5uwyngLJd6sTOYRic4tH8x"
+    },
+    {
+      "album": {
         "name": "night at the bar",
         "url": "https://open.spotify.com/album/3C4yn2Z7k4kImGRGokxzbr"
       },
@@ -2867,7 +3011,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 149306,
       "name": "Over My Head (Better Off Dead)",
       "url": "https://open.spotify.com/track/40sl0jG01g4FZkCrBzQhZX"
@@ -2903,7 +3047,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 176013,
       "name": "Parkour",
       "url": "https://open.spotify.com/track/4ZErv0EMyGly7OG4dmtK9r"
@@ -3624,6 +3768,24 @@
     },
     {
       "album": {
+        "name": "Consign To Oblivion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/050Dza66lBFneTLseVdFP8"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Solitary Ground",
+      "url": "https://open.spotify.com/track/032QyDapuk9L3yrN2n88F4"
+    },
+    {
+      "album": {
         "name": "Monsters in the Closet (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3o8zZBlQNtvLjgaHU9pjiy"
       },
@@ -3635,7 +3797,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 207400,
       "name": "Sorry, Not Sorry",
       "url": "https://open.spotify.com/track/3QdTrhFAgo0zkeqV76bZEv"
@@ -4029,7 +4191,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD"
@@ -4163,6 +4325,24 @@
       "duration_ms": 226013,
       "name": "The Way That We Have Been",
       "url": "https://open.spotify.com/track/3uEH8szfYujFvyISoR5TYm"
+    },
+    {
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3"
+      },
+      "artists": [
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188402,
+      "name": "There Will Be No Christmas",
+      "url": "https://open.spotify.com/track/3CXKTxyocAK1C8DCWgTVLY"
     },
     {
       "album": {
@@ -4328,6 +4508,24 @@
     },
     {
       "album": {
+        "name": "Live on Air: Bob Seger",
+        "url": "https://open.spotify.com/album/3qZ06wiiyOOUEFVm0KsxwZ"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390426,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/0VMqFTNtHklrQVleZz9ZSk"
+    },
+    {
+      "album": {
         "name": "Ultimatum (object blue Remix)",
         "url": "https://open.spotify.com/album/50wsbIbUGgl6aafYjqFC3Y"
       },
@@ -4487,7 +4685,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 349000,
       "name": "Watching It Unfold",
       "url": "https://open.spotify.com/track/7uWVu34XKqTFbQOmnRkver"
@@ -4505,7 +4703,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 138045,
       "name": "Webbie Flow",
       "url": "https://open.spotify.com/track/0w0EXHl3oMmHuJphcxjns8"
@@ -4595,7 +4793,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 316600,
       "name": "White Russians",
       "url": "https://open.spotify.com/track/7oBCWSfafFMZb3HZvZiQnv"
@@ -4747,6 +4945,24 @@
       "duration_ms": 165694,
       "name": "Your Shadow",
       "url": "https://open.spotify.com/track/6W4Xn6J7c3KEYPxCn3JVHQ"
+    },
+    {
+      "album": {
+        "name": "Zoids Opening Latino Acustico",
+        "url": "https://open.spotify.com/album/23f8mCu4uCCQcFkRV0HIvN"
+      },
+      "artists": [
+        {
+          "name": "Corxea Chanpur\u00fc",
+          "url": "https://open.spotify.com/artist/2354HegqyhRyQnmN4DlGrA"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136324,
+      "name": "Zoids Opening Latino Acustico",
+      "url": "https://open.spotify.com/track/3qzcoBUJMxMFInqK2nX1Ip"
     },
     {
       "album": {

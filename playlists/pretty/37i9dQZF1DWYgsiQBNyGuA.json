@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 77606,
+  "num_followers": 77649,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzc0NGViZjg4NTE5YWE1NmE1NGEyMTE2NjE0NmFjZjE2MzhjZTk1",
+  "snapshot_id": "MCw5YWU5Y2U5MWM5ZjRmNjgxZTVjMTczYWUxOWMwZTIzZDNiYmU1YzRm",
   "tracks": [
     {
       "added_at": "2024-03-08 13:51:25",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "L.A.B",
-        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Starry Eyes",
-      "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Gold Mine",
         "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 151350,
       "name": "Gold Mine",
       "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "L.A.B",
+        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
     },
     {
       "added_at": "2024-03-08 13:51:25",

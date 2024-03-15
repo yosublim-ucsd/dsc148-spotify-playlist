@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,622 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,638 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -429,7 +429,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 419 | [Benzaiten \(Reprise\)](https://open.spotify.com/track/4bixpfr8FZ4NYJ55EnZylH) | [Osamu Kitajima](https://open.spotify.com/artist/1nj6LuWJalUuYfBs0QO1sr) | [Benzaiten](https://open.spotify.com/album/1hpjbnNqkpNIj9nWV4Ejzc) | 11:26 |
 | 420 | [Al Calor de la Cumbia](https://open.spotify.com/track/712B5rx6WxxJ5z7AHRj1x6) | [JOYAS SONIDERAS VOL.4](https://open.spotify.com/artist/4BDjjgM6MmTXNu1z2Jmj84), [Grupo Marina Perla](https://open.spotify.com/artist/07savn6kVyXtEWpWG5xuCH) | [Cumbia Sol Marina](https://open.spotify.com/album/6H9xlpLlOx71HLmphPBzsq) | 3:36 |
 | 421 | [Tajir Waa Ilaah](https://open.spotify.com/track/5N6gJatr6C7yYToWsZ2ECU) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y) | 6:50 |
-| 422 | [Gogo Rock](https://open.spotify.com/track/1BPVFB9lkbKd9YGcqCKBpQ) | [Kaleta & Super Yamba Band](https://open.spotify.com/artist/53Ru5pu6UYUdHONmoD3FRa) | [Mèdaho](https://open.spotify.com/album/1DXEM3i2YNs3qxXdBtJqdK) | 2:58 |
+| 422 | [Gogo Rock](https://open.spotify.com/track/4ky7FoUrP6TK3eeazRpSd3) | [Kaleta & Super Yamba Band](https://open.spotify.com/artist/53Ru5pu6UYUdHONmoD3FRa) | [Mèdaho](https://open.spotify.com/album/3gVVkje6tSroljsQElv14q) | 2:58 |
 | 423 | [Music de Carnaval](https://open.spotify.com/track/5NqQovaNr0L2VVn9Svdlmf) | [Magdy Al Hussainy](https://open.spotify.com/artist/1xo3eWzfxA5p7tkBahC6MD) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/0PkKIo93pKAnqpo0mi5yb1) | 5:10 |
 | 424 | [Ansumana](https://open.spotify.com/track/7IxNCxNDEAvusIhzfL5Fmu) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/6VZVFRzVDGVyNMDAiv0fUH) | 5:25 |
 | 425 | [Ma Be Ham Nemiresim](https://open.spotify.com/track/0i27GYpTwao1Yyqn8pv3z3) | [Googoosh](https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY) | [Nimeh Gomshodeh Man](https://open.spotify.com/album/2mOkX0Ykj4hC36QfmUB9TC) | 5:36 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw3MTNjMjZiYzdjODA4YmExODlhYzM4ZDY1MmUwZDA4MjM5NjU2ZDg5`
+Snapshot ID: `MCxjNmYzZjUwODlkZTAzMWU2OTMwZGE1ZTg2MTI2ZDUyYmZhZTM0NzMy`

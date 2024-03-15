@@ -1,13 +1,29 @@
 {
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=Cri33jcQSpi3WKsUmfMSBQ\">Bobby Van Jaarsveld</a>  ",
-  "num_followers": 20842,
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o\">Nolene</a>  ",
+  "num_followers": 20872,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTJjOTA5NWE2Y2M5OWFkNzFjZjE3ZmUwMTAwZTBiNTVmOWU2MmFl",
+  "snapshot_id": "MCwwYjhlZmRkN2I2OTA3ZDVjMWI4ZWI0M2U1YTczMTRkZmFhMzFiMWI3",
   "tracks": [
+    {
+      "added_at": "2024-03-14 22:00:00",
+      "album": {
+        "name": "Hou Bene Hou",
+        "url": "https://open.spotify.com/album/4kmNdny53K7oNhsJHAliYl"
+      },
+      "artists": [
+        {
+          "name": "Nolene",
+          "url": "https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o"
+        }
+      ],
+      "duration_ms": 215896,
+      "name": "Hou Bene Hou",
+      "url": "https://open.spotify.com/track/3OtXZRDaPgr9w3NO84Um3X"
+    },
     {
       "added_at": "2024-03-07 22:00:00",
       "album": {
@@ -23,6 +39,118 @@
       "duration_ms": 203834,
       "name": "Verlore Seun",
       "url": "https://open.spotify.com/track/14FXSq2GesUVBYb9A7BPaI"
+    },
+    {
+      "added_at": "2024-03-14 22:00:00",
+      "album": {
+        "name": "Hanrie Visagie",
+        "url": "https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc"
+      },
+      "artists": [
+        {
+          "name": "Werner Van Der Hoven",
+          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
+        }
+      ],
+      "duration_ms": 158115,
+      "name": "Hanrie Visagie",
+      "url": "https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN"
+    },
+    {
+      "added_at": "2024-03-07 22:00:00",
+      "album": {
+        "name": "Teiken",
+        "url": "https://open.spotify.com/album/5iMH0jDldXRETC2gJJYHag"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "duration_ms": 185276,
+      "name": "Teiken",
+      "url": "https://open.spotify.com/track/4L4BUQvSfWorVJApet8mYa"
+    },
+    {
+      "added_at": "2024-03-14 22:00:00",
+      "album": {
+        "name": "Maybe My Baby (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/5IX2iiYMo9u22a2JmKEMrW"
+      },
+      "artists": [
+        {
+          "name": "Dozi",
+          "url": "https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "duration_ms": 189159,
+      "name": "Maybe My Baby - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/2eZV49AQoU6gEgJvdDXZz8"
+    },
+    {
+      "added_at": "2024-03-07 22:00:00",
+      "album": {
+        "name": "A - Okay",
+        "url": "https://open.spotify.com/album/1GPgm6BbpWWi7yiL2qzkiL"
+      },
+      "artists": [
+        {
+          "name": "Armand Barnard",
+          "url": "https://open.spotify.com/artist/50UEudz9B1sg3tYVRD5OTe"
+        }
+      ],
+      "duration_ms": 160184,
+      "name": "A - Okay",
+      "url": "https://open.spotify.com/track/5OTagqFDzdvitBt49IpPij"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Sandra Prinsloo (Remix)",
+        "url": "https://open.spotify.com/album/6f52CqSKmI9HLlqJA1Kjdg"
+      },
+      "artists": [
+        {
+          "name": "Pretorius",
+          "url": "https://open.spotify.com/artist/6OlAKyXaSPw7M5ivaVpC5G"
+        },
+        {
+          "name": "Mwah",
+          "url": "https://open.spotify.com/artist/7aYSLbyWAJigk1EBihn1i1"
+        },
+        {
+          "name": "Elvis se Seun",
+          "url": "https://open.spotify.com/artist/0zH9gE26V3al5FwoPFM0o5"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "Sandra Prinsloo - Remix",
+      "url": "https://open.spotify.com/track/2ySJkaHrwELNlYSKphF3Ei"
+    },
+    {
+      "added_at": "2024-03-14 22:00:00",
+      "album": {
+        "name": "Langer Bly (feat. Renaldo)",
+        "url": "https://open.spotify.com/album/6BENiKPg82ebvYcLyC1efW"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        },
+        {
+          "name": "Renaldo",
+          "url": "https://open.spotify.com/artist/1fPqxk00kT60a1iOvlfRVX"
+        }
+      ],
+      "duration_ms": 170016,
+      "name": "Langer Bly (feat. Renaldo)",
+      "url": "https://open.spotify.com/track/3TlLkLmqt6GkDbXArrehrW"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -41,20 +169,20 @@
       "url": "https://open.spotify.com/track/4nOACQDzvLGQ2fNAbqRzis"
     },
     {
-      "added_at": "2024-03-07 22:00:00",
+      "added_at": "2024-02-22 22:00:00",
       "album": {
-        "name": "Teiken",
-        "url": "https://open.spotify.com/album/5iMH0jDldXRETC2gJJYHag"
+        "name": "Diepseeduiker 17",
+        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
       },
       "artists": [
         {
-          "name": "Marno van der Merwe",
-          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
         }
       ],
-      "duration_ms": 185276,
-      "name": "Teiken",
-      "url": "https://open.spotify.com/track/4L4BUQvSfWorVJApet8mYa"
+      "duration_ms": 165149,
+      "name": "Diepseeduiker 17",
+      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -77,52 +205,20 @@
       "url": "https://open.spotify.com/track/2sXEcpJr4TNuPKks8KlRDU"
     },
     {
-      "added_at": "2024-03-07 22:00:00",
+      "added_at": "2024-03-14 22:00:00",
       "album": {
-        "name": "A - Okay",
-        "url": "https://open.spotify.com/album/1GPgm6BbpWWi7yiL2qzkiL"
+        "name": "Menswees",
+        "url": "https://open.spotify.com/album/3b0EqL730hb3I2JrRbe2eF"
       },
       "artists": [
         {
-          "name": "Armand Barnard",
-          "url": "https://open.spotify.com/artist/50UEudz9B1sg3tYVRD5OTe"
+          "name": "Alzanley",
+          "url": "https://open.spotify.com/artist/3ntsbtA3JhPJkCEUARiiUT"
         }
       ],
-      "duration_ms": 160184,
-      "name": "A - Okay",
-      "url": "https://open.spotify.com/track/5OTagqFDzdvitBt49IpPij"
-    },
-    {
-      "added_at": "2024-02-22 22:00:00",
-      "album": {
-        "name": "Diepseeduiker 17",
-        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 165149,
-      "name": "Diepseeduiker 17",
-      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
-    },
-    {
-      "added_at": "2024-03-07 22:00:00",
-      "album": {
-        "name": "Katryn",
-        "url": "https://open.spotify.com/album/6sON5ohKeZacsrdHehrj65"
-      },
-      "artists": [
-        {
-          "name": "John Rock Prophet",
-          "url": "https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "Katryn",
-      "url": "https://open.spotify.com/track/0cNvN35zCMzzhQMXaXPuG7"
+      "duration_ms": 255554,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/2epBrILHsjEYyffSWA4n9g"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -173,30 +269,6 @@
       "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
     },
     {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
-        "name": "Sandra Prinsloo (Remix)",
-        "url": "https://open.spotify.com/album/6f52CqSKmI9HLlqJA1Kjdg"
-      },
-      "artists": [
-        {
-          "name": "Pretorius",
-          "url": "https://open.spotify.com/artist/6OlAKyXaSPw7M5ivaVpC5G"
-        },
-        {
-          "name": "Mwah",
-          "url": "https://open.spotify.com/artist/7aYSLbyWAJigk1EBihn1i1"
-        },
-        {
-          "name": "Elvis se Seun",
-          "url": "https://open.spotify.com/artist/0zH9gE26V3al5FwoPFM0o5"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "Sandra Prinsloo - Remix",
-      "url": "https://open.spotify.com/track/2ySJkaHrwELNlYSKphF3Ei"
-    },
-    {
       "added_at": "2024-01-18 22:00:00",
       "album": {
         "name": "Enkelvoud",
@@ -211,6 +283,90 @@
       "duration_ms": 215437,
       "name": "Enkelvoud",
       "url": "https://open.spotify.com/track/2JifH8GkXc1MrJC8WouZSK"
+    },
+    {
+      "added_at": "2024-01-25 22:00:00",
+      "album": {
+        "name": "Die Afrikaner Maak So",
+        "url": "https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        },
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        }
+      ],
+      "duration_ms": 179867,
+      "name": "Die Afrikaner Maak So",
+      "url": "https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk"
+    },
+    {
+      "added_at": "2024-02-08 22:00:00",
+      "album": {
+        "name": "OASE",
+        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 197479,
+      "name": "OASE",
+      "url": "https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51"
+    },
+    {
+      "added_at": "2024-03-07 22:00:00",
+      "album": {
+        "name": "Maak My Mal",
+        "url": "https://open.spotify.com/album/4c0HNq7zGWgA9bX4l0d9IN"
+      },
+      "artists": [
+        {
+          "name": "Pieter Marcato",
+          "url": "https://open.spotify.com/artist/5Aam1RqgWsQpwMJsG7TNzA"
+        }
+      ],
+      "duration_ms": 184962,
+      "name": "Maak My Mal",
+      "url": "https://open.spotify.com/track/582DmIHtYxwvLOpzTFH3Mm"
+    },
+    {
+      "added_at": "2024-03-07 22:00:00",
+      "album": {
+        "name": "Katryn",
+        "url": "https://open.spotify.com/album/6sON5ohKeZacsrdHehrj65"
+      },
+      "artists": [
+        {
+          "name": "John Rock Prophet",
+          "url": "https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "Katryn",
+      "url": "https://open.spotify.com/track/0cNvN35zCMzzhQMXaXPuG7"
+    },
+    {
+      "added_at": "2024-03-14 22:00:00",
+      "album": {
+        "name": "Plek vir Twee",
+        "url": "https://open.spotify.com/album/3GMNpPqucdexfbXR0QJupq"
+      },
+      "artists": [
+        {
+          "name": "Jacob Steyn",
+          "url": "https://open.spotify.com/artist/101SbMQvqR5R89oWWHNMDD"
+        }
+      ],
+      "duration_ms": 207979,
+      "name": "Plek vir Twee",
+      "url": "https://open.spotify.com/track/6ZLpCSRp7AOhJDLHre37K7"
     },
     {
       "added_at": "2024-03-08 07:52:01",
@@ -249,42 +405,6 @@
       "url": "https://open.spotify.com/track/27qmSe0uQBRIdq73pGAEk8"
     },
     {
-      "added_at": "2024-01-25 22:00:00",
-      "album": {
-        "name": "Die Afrikaner Maak So",
-        "url": "https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS"
-      },
-      "artists": [
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        },
-        {
-          "name": "Bok Van Blerk",
-          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
-        }
-      ],
-      "duration_ms": 179867,
-      "name": "Die Afrikaner Maak So",
-      "url": "https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk"
-    },
-    {
-      "added_at": "2024-03-07 22:00:00",
-      "album": {
-        "name": "Maak My Mal",
-        "url": "https://open.spotify.com/album/4c0HNq7zGWgA9bX4l0d9IN"
-      },
-      "artists": [
-        {
-          "name": "Pieter Marcato",
-          "url": "https://open.spotify.com/artist/5Aam1RqgWsQpwMJsG7TNzA"
-        }
-      ],
-      "duration_ms": 184962,
-      "name": "Maak My Mal",
-      "url": "https://open.spotify.com/track/582DmIHtYxwvLOpzTFH3Mm"
-    },
-    {
       "added_at": "2024-02-29 22:00:00",
       "album": {
         "name": "Ek Wens",
@@ -299,38 +419,6 @@
       "duration_ms": 176680,
       "name": "Ek Wens",
       "url": "https://open.spotify.com/track/6PSTOYpl8cgAlaUbbMi8PJ"
-    },
-    {
-      "added_at": "2024-03-07 22:00:00",
-      "album": {
-        "name": "Menswees",
-        "url": "https://open.spotify.com/album/18rJqDIlncjhHMRPJovPDQ"
-      },
-      "artists": [
-        {
-          "name": "Alzanley",
-          "url": "https://open.spotify.com/artist/3ntsbtA3JhPJkCEUARiiUT"
-        }
-      ],
-      "duration_ms": 210375,
-      "name": "Menswees",
-      "url": "https://open.spotify.com/track/3TNPyL6M1KEEjmCuW6FYlH"
-    },
-    {
-      "added_at": "2024-02-08 22:00:00",
-      "album": {
-        "name": "OASE",
-        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 197479,
-      "name": "OASE",
-      "url": "https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51"
     },
     {
       "added_at": "2024-02-26 09:23:48",
@@ -425,22 +513,6 @@
       "url": "https://open.spotify.com/track/0XGFXFb3cNh6hUfWPYNUP0"
     },
     {
-      "added_at": "2024-03-07 22:00:00",
-      "album": {
-        "name": "Dou Voor Dag",
-        "url": "https://open.spotify.com/album/4g1pAT1P10jabjv4zXhZRh"
-      },
-      "artists": [
-        {
-          "name": "Schwabie",
-          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Dou Voor Dag",
-      "url": "https://open.spotify.com/track/0Pi1eh6kewDdQ5DXTGTklJ"
-    },
-    {
       "added_at": "2024-01-25 22:00:00",
       "album": {
         "name": "Daai Liedjie",
@@ -489,22 +561,6 @@
       "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
     },
     {
-      "added_at": "2024-03-07 22:00:00",
-      "album": {
-        "name": "XKO",
-        "url": "https://open.spotify.com/album/6EYXKvn2fECtuq4oGyZBr2"
-      },
-      "artists": [
-        {
-          "name": "X_C_Xreece",
-          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
-        }
-      ],
-      "duration_ms": 209345,
-      "name": "Haar",
-      "url": "https://open.spotify.com/track/3zBtwyHFm3EmQku8I2dnOo"
-    },
-    {
       "added_at": "2024-02-29 22:00:00",
       "album": {
         "name": "Knip die Tou",
@@ -535,26 +591,6 @@
       "duration_ms": 182186,
       "name": "Hoe Gaan Dit",
       "url": "https://open.spotify.com/track/5qq8fQBV1Fmo54IJE2Aj2Q"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
-        "name": "Laat My Skyn",
-        "url": "https://open.spotify.com/album/7MMThMgytPJth0QEMGJFTq"
-      },
-      "artists": [
-        {
-          "name": "Deon Meiring",
-          "url": "https://open.spotify.com/artist/5h2VPrb5uczuK8foqa2jby"
-        },
-        {
-          "name": "Herman Kleinhans",
-          "url": "https://open.spotify.com/artist/3kTnA09Ebx0rFBTPAlsLFC"
-        }
-      ],
-      "duration_ms": 158296,
-      "name": "Laat My Skyn",
-      "url": "https://open.spotify.com/track/06wmMnTR38Ly29QY9qYcoo"
     },
     {
       "added_at": "2023-12-21 22:00:00",
@@ -663,22 +699,6 @@
     {
       "added_at": "2023-12-21 22:00:00",
       "album": {
-        "name": "Vlerke",
-        "url": "https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 192567,
-      "name": "Vlerke",
-      "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
-    },
-    {
-      "added_at": "2023-12-21 22:00:00",
-      "album": {
         "name": "Kalahari Ferrari",
         "url": "https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP"
       },
@@ -741,22 +761,6 @@
       "url": "https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB"
     },
     {
-      "added_at": "2023-12-21 22:00:00",
-      "album": {
-        "name": "Helemal",
-        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 227999,
-      "name": "Helemal",
-      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
-    },
-    {
       "added_at": "2024-02-22 22:00:00",
       "album": {
         "name": "Ek Mis Jou (Remix)",
@@ -771,22 +775,6 @@
       "duration_ms": 215624,
       "name": "Ek Mis Jou - Remix",
       "url": "https://open.spotify.com/track/2usZ51LNLgkrlTxNjLiLBu"
-    },
-    {
-      "added_at": "2023-12-21 22:00:00",
-      "album": {
-        "name": "Tannie Katesbes",
-        "url": "https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N"
-      },
-      "artists": [
-        {
-          "name": "FATMAN",
-          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
-        }
-      ],
-      "duration_ms": 180348,
-      "name": "Tannie Katesbes",
-      "url": "https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x"
     },
     {
       "added_at": "2024-01-05 05:17:41",

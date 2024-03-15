@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Mura Masa",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Four Tet",
   "name": "Altar JP",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 360000,
       "name": "17 - Jun Kamoda Remix",
       "url": "https://open.spotify.com/track/5MV3dtZfRytzhz0yNv1Ype"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352472,
+      "name": "31 Bloom",
+      "url": "https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y"
     },
     {
       "album": {
@@ -1742,6 +1760,28 @@
       "duration_ms": 230977,
       "name": "Click it?",
       "url": "https://open.spotify.com/track/6NgYJalxwh6URmfwz3MKw9"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2yBOlJRncI22jtxGBnqMPS"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        },
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272022,
+      "name": "Closer - Stones Taro Remix",
+      "url": "https://open.spotify.com/track/2NaL0LyPBJgibDwWXYxnvj"
     },
     {
       "album": {
@@ -6674,7 +6714,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 243263,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
@@ -6866,7 +6906,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 180000,
       "name": "Magma",
       "url": "https://open.spotify.com/track/7g6Mtr3OYNWDuJuZAZjfuJ"
@@ -7810,7 +7850,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 192360,
       "name": "no reception",
       "url": "https://open.spotify.com/track/7xHaCM2lDhmKGJKMTvSc0Q"
@@ -11404,6 +11444,24 @@
       "duration_ms": 222000,
       "name": "TR Smooth",
       "url": "https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD"
+    },
+    {
+      "album": {
+        "name": "TRACKER",
+        "url": "https://open.spotify.com/album/6EbWsQynRa6poZbkK5KCMz"
+      },
+      "artists": [
+        {
+          "name": "SYCLES",
+          "url": "https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454031,
+      "name": "TRACKER",
+      "url": "https://open.spotify.com/track/63DALyIGsR35njSyCT5BU2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-143 songs - 10 hr 58 min
+144 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Maruvaarthai](https://open.spotify.com/track/7dbzO881X6TVJST6EKhnDg) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2eGMsf3wqm3u0fdcvpszk3) | 5:56 | 2021-06-24 | 2023-11-05 |
 | [Maruvaarthai](https://open.spotify.com/track/4FyZDLPO1ErUjzwnLrCLTA) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Maruvaarthai \(From "Enai Noki Paayum Thota"\)](https://open.spotify.com/album/52t86OJEvtWbYRUaA2ltEZ) | 5:56 | 2021-06-24 | 2023-07-30 |
 | [Maruvaarthai \(From "Enai Noki Paayum Thota"\)](https://open.spotify.com/track/1HBhhBBaoyyhvFB2mYpmS8) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5LaCy2Nr1poUL7VfpvRMp4) | 5:56 | 2021-06-24 | 2024-01-13 |
-| [Maruvaarthai \(From "Enai Noki Paayum Thota"\)](https://open.spotify.com/track/6N4MIeMZ8qxOkxOIvise3Y) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Valentine's Love, Voltage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7m0Ld2MYDgNpLCOSkM4B0i) | 5:56 | 2021-06-24 |  |
+| [Maruvaarthai \(From "Enai Noki Paayum Thota"\)](https://open.spotify.com/track/6N4MIeMZ8qxOkxOIvise3Y) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Valentine's Love, Voltage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7m0Ld2MYDgNpLCOSkM4B0i) | 5:56 | 2021-06-24 | 2024-03-15 |
+| [Maruvaarthai \(From "Enai Noki Paayum Thota"\)](https://open.spotify.com/track/6nsAauhXRnae7zvXju0tst) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Valentine's Love Voltage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6naXrNHBxbzNXdZOEPONbN) | 5:56 | 2021-06-24 |  |
 | [May Maadham](https://open.spotify.com/track/4Qr4MRbNfeRLiyAW43ZQFE) | [Bharadwaj](https://open.spotify.com/artist/4XOgtTx2nc2NMbPOwVw1Vz), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Jay Jay \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2x4a68Jz8nrlfsNuw45t0A) | 4:55 | 2022-10-18 | 2023-05-10 |
 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 | 2022-10-18 |  |
 | [Mental Manadhil \- Female](https://open.spotify.com/track/3KDGOfol2T95aQKFp0BcIE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [O Kadhal Kanmani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6XBC9UsX48MzHICIr9m0hj) | 3:13 | 2022-10-18 |  |

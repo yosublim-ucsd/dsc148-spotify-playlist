@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to your morning yoga session.
 
-648 songs - 1 day 7 hr 48 min
+651 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-03-18 | 2022-06-23 |
 | [Exemption](https://open.spotify.com/track/4XTd1uu6m4wwGF1M766W7q) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Exemption](https://open.spotify.com/album/53kpTMWorulIE1dOHgsd69) | 2:28 | 2023-11-10 |  |
 | [Expender](https://open.spotify.com/track/1KTs29Tvzf9AHO47avAgXW) | [Melissa Styles](https://open.spotify.com/artist/5MJZC6Xx2EbqrBNbUHkyct) | [Wishing You](https://open.spotify.com/album/2SO5Blnwcv93bOajwDpL1j) | 3:12 | 2022-12-23 |  |
+| [Eystra](https://open.spotify.com/track/6rjdrkwluTKX4ZEvcsxCy6) | [Alia Ragnarsdóttir](https://open.spotify.com/artist/7GNZBRw7ITkgsViswc9PhO) | [Eystra](https://open.spotify.com/album/00Xan5MqupioFC5FHxPXVI) | 3:02 | 2024-03-14 |  |
 | [Fading Memories](https://open.spotify.com/track/4lw6ynpAuGIWETp0eHb0Lz) | [Zawar Hagano](https://open.spotify.com/artist/4sZQU2cNVFvCzZ3GK3n0S5) | [Fading Memories](https://open.spotify.com/album/5HDOEz26OImWk4MhBpTLCM) | 2:55 | 2022-11-25 |  |
 | [Faithful](https://open.spotify.com/track/2epHEGzdynPsNt6AXiBnC7) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Faithful](https://open.spotify.com/album/0DtDk3ENvhd5iZsTOqgAF2) | 2:47 | 2023-08-11 |  |
 | [Fantasy Rose](https://open.spotify.com/track/4sA5k1J1JG1CSdFcAnlDKm) | [Calm Lecce](https://open.spotify.com/artist/0CAwGUfZRUjr3HZHOpqSkz) | [Sleepy Game](https://open.spotify.com/album/1eO0MT1eCOMz2jsYBALHEs) | 4:00 | 2022-09-22 | 2022-12-24 |
@@ -275,6 +276,7 @@
 | [Hæden](https://open.spotify.com/track/36JtpkJGUtIEwIWF25LmCU) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Hæden](https://open.spotify.com/album/2hwrvBljVoZhj1Kx4FL6Gy) | 2:27 | 2022-08-11 |  |
 | [I feel it I know it](https://open.spotify.com/track/7q61dvdXaJ2sWipMrh4wiE) | [Glow Crow](https://open.spotify.com/artist/45xdRyFmyb8ssAPlO9IEkI) | [I feel it I know it](https://open.spotify.com/album/7bWxPucoQiYYbNiVUvogNk) | 3:22 | 2023-06-21 |  |
 | [Idyllica](https://open.spotify.com/track/595wjSvF9vZ3yiyu6yzicF) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Idyllica](https://open.spotify.com/album/4YWyvu33UuHfzQFcfixhYW) | 2:13 | 2023-06-21 |  |
+| [In another lifetime](https://open.spotify.com/track/6mzCWgCZ0Cg53ibaLopsrq) | [Bee Heads](https://open.spotify.com/artist/0b28QH3axNYY3VRJ1ps8SS) | [In another lifetime](https://open.spotify.com/album/7eEQmpxpPdfiI3AmP9x3Xe) | 2:56 | 2024-03-14 |  |
 | [In the deep](https://open.spotify.com/track/0KCrx98nbNZoy4y0GYA4l1) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [In the deep](https://open.spotify.com/album/3zUScCSyKqXMIGVrOrz1Bt) | 2:56 | 2022-03-18 | 2022-12-08 |
 | [In The Light](https://open.spotify.com/track/4p6W5QhUyc4CoubKkfCK98) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [In The Light](https://open.spotify.com/album/0hKcuXO85SbnYJ6Sqg9bAz) | 2:59 | 2022-11-25 |  |
 | [Incipits](https://open.spotify.com/track/51cHdrCG6qyH5r9BPRK2K0) | [Elviras](https://open.spotify.com/artist/6OJrVwGJIhTvJNjav14KMN) | [Incipits](https://open.spotify.com/album/1q3O1Oa4aF4hyJorWa2shJ) | 2:40 | 2022-10-25 |  |
@@ -574,6 +576,7 @@
 | [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-25 |  |
 | [Susurrus](https://open.spotify.com/track/3Vo0VwSMPICUf7rLnmyEEv) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Susurrus](https://open.spotify.com/album/0m0uWRNgIyjjTrZGJAlnAJ) | 2:15 | 2022-09-01 |  |
 | [Svítání](https://open.spotify.com/track/0uA3VsjMlOtOD805k4hdZw) | [Lois Haas](https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5) | [Svítání](https://open.spotify.com/album/5cT9er9WCaNLhMllt5D1SJ) | 3:13 | 2022-03-18 | 2022-12-08 |
+| [Synchrony](https://open.spotify.com/track/2JLs8GX220nVBKyTAT9sIJ) | [Chasing Gravity](https://open.spotify.com/artist/3fwKy25FHHzP3Rl1s0yRlL) | [Synchrony](https://open.spotify.com/album/074tuaUTYyxa8AgrUNg560) | 2:50 | 2024-03-14 |  |
 | [Synonymous Light](https://open.spotify.com/track/7iKNqizNb5AwJZ3B0TUEPX) | [Arhaa Doak](https://open.spotify.com/artist/4psjQuohUvbvwl50sFuqR9) | [Synonymous Light](https://open.spotify.com/album/7L9xYQq5lRk1PC5HZqutF0) | 2:41 | 2022-10-25 |  |
 | [Sálvora](https://open.spotify.com/track/4DQQVW7EsOWJKd4OMRBB0x) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Sálvora](https://open.spotify.com/album/1SQMnr1LqS40k0CGTI7Zfb) | 2:53 | 2022-05-10 | 2022-12-08 |
 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 | 2022-09-01 | 2023-01-05 |

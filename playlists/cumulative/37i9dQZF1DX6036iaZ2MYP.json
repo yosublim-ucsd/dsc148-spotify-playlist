@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Khaid x Gyakie",
+  "description": "Tracks popping off in the Afro scene. Cover: Kizz Daniel",
   "name": "Afro Station",
   "tracks": [
     {
@@ -740,6 +740,24 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "album": {
+        "name": "Bekanise",
+        "url": "https://open.spotify.com/album/7dfHQP9RHeZ1W0jmLx9utc"
+      },
+      "artists": [
+        {
+          "name": "Agatchu",
+          "url": "https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140318,
+      "name": "Bekanise",
+      "url": "https://open.spotify.com/track/22NaudXPMCaD6gbZMv9qar"
     },
     {
       "album": {
@@ -1810,7 +1828,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 164659,
       "name": "DND",
       "url": "https://open.spotify.com/track/7rq2a8EUvg6GCRjXu7TboU"
@@ -3698,6 +3716,24 @@
     {
       "album": {
         "name": "Loner",
+        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
+    },
+    {
+      "album": {
+        "name": "Loner",
         "url": "https://open.spotify.com/album/3wLWb1V6HmUW7h29NGydXg"
       },
       "artists": [
@@ -5085,6 +5121,24 @@
     },
     {
       "album": {
+        "name": "Party Anthem (Amapiano)",
+        "url": "https://open.spotify.com/album/1zIlLVhfWA2TwGnj3UwGPB"
+      },
+      "artists": [
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Party Anthem - Amapiano",
+      "url": "https://open.spotify.com/track/7xe1ddIvS9FlhrLBcqacV8"
+    },
+    {
+      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -5216,7 +5270,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 173974,
       "name": "Piano Piano",
       "url": "https://open.spotify.com/track/3KYBphGE11Enijd1Nso6GC"
@@ -5889,6 +5943,46 @@
     },
     {
       "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
+    },
+    {
+      "album": {
+        "name": "Sophia",
+        "url": "https://open.spotify.com/album/6GATSWA4bldBcqUpLxmXmM"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        },
+        {
+          "name": "Phill-E",
+          "url": "https://open.spotify.com/artist/5CqZS4grt3KpqLOafaHS7W"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189320,
+      "name": "Sophia",
+      "url": "https://open.spotify.com/track/5gKq1sIHV1rV2pnEj2WeKk"
+    },
+    {
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -6068,7 +6162,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 190953,
       "name": "Sudwe",
       "url": "https://open.spotify.com/track/0Tl1zTPLYvHAL5oOjbhUZf"
@@ -6416,7 +6510,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 145979,
       "name": "toronto",
       "url": "https://open.spotify.com/track/2MOQ05zcFoGSQsXAir8FxT"

@@ -2,13 +2,13 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: Amble
+> New tunes from Ireland for your discovery\. Cover: Pillow Queens
 
-103 songs - 5 hr 45 min
+107 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 + Only](https://open.spotify.com/track/776vcQzhzWnK5wFVHxmQhC) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [1 + Only](https://open.spotify.com/album/5nsh8uGAthd6uhd775Ai9Z) | 3:19 | 2024-02-02 |  |
+| [1 + Only](https://open.spotify.com/track/776vcQzhzWnK5wFVHxmQhC) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [1 + Only](https://open.spotify.com/album/5nsh8uGAthd6uhd775Ai9Z) | 3:19 | 2024-02-02 | 2024-03-15 |
 | [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 | 2024-02-02 |  |
 | [21](https://open.spotify.com/track/19DYo3z33u99Ic14HbqUDC) | [NAOMI JEREMIAH](https://open.spotify.com/artist/4mhXKME7vxoBUyjO7uIU5h) | [21](https://open.spotify.com/album/07fOd3xbSXCr0sd16Mtkk2) | 3:01 | 2024-02-02 | 2024-02-16 |
 | [33s](https://open.spotify.com/track/6Xib9snQv0CJ2NmY8SV4vW) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [33s](https://open.spotify.com/album/2lJOSCuyYCXf9HTgAhUhK0) | 3:44 | 2024-02-02 |  |
@@ -25,7 +25,7 @@
 | [Chelsea Bakery](https://open.spotify.com/track/4nFnrQgocP9fvcF5lOO87t) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Chelsea Bakery](https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc) | 2:57 | 2024-02-16 |  |
 | [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2024-02-02 | 2024-03-02 |
 | [Chess](https://open.spotify.com/track/3KMoXqNDbTFMXcZUs6MWUp) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Chess](https://open.spotify.com/album/3dALI1Y4N2D5D0oV09aWrO) | 3:11 | 2024-02-02 |  |
-| [Chris Pratt](https://open.spotify.com/track/6JOGJuVv7MKNbubKUwhU45) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Chris Pratt](https://open.spotify.com/album/1Bkd5tNY4W4Oo78U4vDply) | 3:51 | 2024-02-02 |  |
+| [Chris Pratt](https://open.spotify.com/track/6JOGJuVv7MKNbubKUwhU45) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Chris Pratt](https://open.spotify.com/album/1Bkd5tNY4W4Oo78U4vDply) | 3:51 | 2024-02-02 | 2024-03-15 |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-02-02 |  |
 | [Day By Day](https://open.spotify.com/track/7qnmJKc7wqNrKP8Rkxcdyw) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0) | [Day By Day](https://open.spotify.com/album/74MQXYjrUQbJ7W818qOUw7) | 2:08 | 2024-03-01 |  |
 | [Daylight Savings](https://open.spotify.com/track/1Op1ZYMmDFvxOEY2HGuq1a) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Daylight Savings](https://open.spotify.com/album/0gEzE0fSM4PbGYfNm28ZOC) | 3:37 | 2024-02-02 | 2024-02-06 |
@@ -50,6 +50,8 @@
 | [INFINITY](https://open.spotify.com/track/2cBpwQbzk3MdkoaPNKpUN9) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [INFINITY](https://open.spotify.com/album/078rjfb2B2LNh1FwQdngoT) | 3:05 | 2024-02-02 |  |
 | [intertwined](https://open.spotify.com/track/4M4DHOpufNAUyZEQItTM5A) | [Layen\_](https://open.spotify.com/artist/2G4ZOA56VInkCSJ4q3D9ZY) | [intertwined](https://open.spotify.com/album/15gKDc6hSPIZ9Yx0AyzdeY) | 3:11 | 2024-02-02 |  |
 | [Kerosene](https://open.spotify.com/track/3TFPiUHCrjOFflFVtC4qJs) | [SAL](https://open.spotify.com/artist/7Bvp3oED3xilWSLnFBW369) | [Kerosene](https://open.spotify.com/album/4kwLx8Nn42e8XsrFN2Hdi3) | 4:29 | 2024-02-02 |  |
+| [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-03-15 |  |
+| [Like I Know You](https://open.spotify.com/track/5Ivojtwe4uoTnMOqJAW6KH) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Like I Know You](https://open.spotify.com/album/5GlI2oHXf8ptPpi6ZWrrP9) | 3:25 | 2024-03-15 |  |
 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-02-02 |  |
 | [London.](https://open.spotify.com/track/7xhvE7y8DDcAwruz7TyiFN) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [London.](https://open.spotify.com/album/0hmqXVRrup7VUGdK8xFq7J) | 3:37 | 2024-02-02 |  |
 | [Lonely Island](https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Lonely Island](https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8) | 3:58 | 2024-02-02 | 2024-02-16 |
@@ -59,6 +61,7 @@
 | [Love Somebody](https://open.spotify.com/track/3ZvOClU4FkMqWU5ACbotsZ) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Love Somebody](https://open.spotify.com/album/2J7tYKElXD3sH6iqJVsMzm) | 2:57 | 2024-02-02 | 2024-02-16 |
 | [Madonna](https://open.spotify.com/track/3ULrypzl0UPwpNoToJoMJy) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Madonna](https://open.spotify.com/album/2qOO0fQwkuPCBVY1Owvdsj) | 3:52 | 2024-02-16 |  |
 | [Make Me Smile](https://open.spotify.com/track/6ozqkNSPFNjaAaqDgiJPXV) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Make Me Smile](https://open.spotify.com/album/0ZGLCy4MswnlYMzUYAEToR) | 3:18 | 2024-02-02 | 2024-02-16 |
+| [Make Ya Go](https://open.spotify.com/track/5mMwWxN340JYPqnpQ5UVLD) | [Celaviedmai](https://open.spotify.com/artist/4c61VuJuumv26ISGZ4VzcO), [Ben Bix](https://open.spotify.com/artist/3rGwqjv5MH8zmWIaVaENOP), [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ), [Plantain Papi](https://open.spotify.com/artist/4n2PDqvYZGbA6jEUl9Oim4) | [ISSA NEW ERA!](https://open.spotify.com/album/2SilrGAaibjxRpebuPoDdO) | 3:08 | 2024-03-15 |  |
 | [meanie](https://open.spotify.com/track/6xivQSZmwJQu6aLT3fSk8r) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl](https://open.spotify.com/album/2PFDKgHpiUWafkfpUdKYz9) | 4:01 | 2024-02-02 |  |
 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2024-02-02 |  |
 | [Most Days](https://open.spotify.com/track/14HFeNYXN0FobPUp5WpvON) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Most Days](https://open.spotify.com/album/64Y7qo4mTQ9jABbKLcrzEl) | 3:43 | 2024-02-02 |  |
@@ -69,7 +72,8 @@
 | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/track/5e5mWtx00orL2FTbRv4kr9) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/album/721N179Yxv1G8kqefWUc0A) | 2:50 | 2024-02-02 |  |
 | [Of Land and Sea](https://open.spotify.com/track/2ms9xDLkNjDGVnDzqRYSiw) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Of Land and Sea](https://open.spotify.com/album/2aYqNP3fAvb5oGJTIa5voD) | 3:35 | 2024-02-16 |  |
 | [OFTEN](https://open.spotify.com/track/1VdwrdjGYknOMvEsGvHjrP) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [OFTEN](https://open.spotify.com/album/4go3STJFOGSWcwPoty7qfG) | 2:47 | 2024-02-23 |  |
-| [Only Human](https://open.spotify.com/track/7KRaAp2EwSxCLYAASWbbNV) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO) | [Only Human](https://open.spotify.com/album/0qvFjAc5SvaBExJ65LeWMr) | 2:34 | 2024-02-02 |  |
+| [Old Friend](https://open.spotify.com/track/08PEMd5eezf6t55FXX7CSt) | [Lemoncello](https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6) | [Old Friend](https://open.spotify.com/album/2g4ZTUmr2X7gI7zVUmgVIu) | 5:13 | 2024-03-15 |  |
+| [Only Human](https://open.spotify.com/track/7KRaAp2EwSxCLYAASWbbNV) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO) | [Only Human](https://open.spotify.com/album/0qvFjAc5SvaBExJ65LeWMr) | 2:34 | 2024-02-02 | 2024-03-15 |
 | [Open Ended](https://open.spotify.com/track/5SlEyBuGTGWvCCY7igLmny) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Open Ended](https://open.spotify.com/album/0ofMe7xxj2EZiFR9YVmBrw) | 3:24 | 2024-02-02 | 2024-02-23 |
 | [Our Time](https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Our Time](https://open.spotify.com/album/7uNkcvXJxHH3roLYAjBixB) | 2:30 | 2024-02-23 |  |
 | [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-02-02 |  |
@@ -89,7 +93,7 @@
 | [Smoke & Mirrors](https://open.spotify.com/track/3Y8JD0yfiETnw5u5H6zF9E) | [Pauric O' Meara](https://open.spotify.com/artist/4qEun8m2ex3CQowKhg7mpS) | [Smoke & Mirrors](https://open.spotify.com/album/6jfwnYrApaynmrTVpiT1iq) | 3:22 | 2024-02-02 |  |
 | [Square One](https://open.spotify.com/track/2tigWb9X0RsOi1yQtUFxOQ) | [Light Grey](https://open.spotify.com/artist/7hc1azqwLVlCwtE6acW1mZ), [Chaney Elaine](https://open.spotify.com/artist/2eM1NQmuxN7F1Pf3wniddK) | [Square One](https://open.spotify.com/album/5yVD8RIQkaQ72wVLw9pbCZ) | 3:12 | 2024-02-02 |  |
 | [Stay For Something](https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Stay For Something](https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS) | 3:36 | 2024-02-02 | 2024-03-02 |
-| [Stolen](https://open.spotify.com/track/71r6gdFkApNiV60zU6WjlI) | [Lea Heart](https://open.spotify.com/artist/18tR4JqMqRMeIQsexVMLHz) | [Stolen](https://open.spotify.com/album/4pkyc4VKlD6dTStSdWPFUX) | 3:40 | 2024-02-02 |  |
+| [Stolen](https://open.spotify.com/track/71r6gdFkApNiV60zU6WjlI) | [Lea Heart](https://open.spotify.com/artist/18tR4JqMqRMeIQsexVMLHz) | [Stolen](https://open.spotify.com/album/4pkyc4VKlD6dTStSdWPFUX) | 3:40 | 2024-02-02 | 2024-03-15 |
 | [straight out the oven !](https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [straight out the oven !](https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk) | 3:04 | 2024-02-02 | 2024-02-16 |
 | [Sundays Are Always Quiet](https://open.spotify.com/track/5ZRKBK7ZQ7QPoIXUHp1kp4) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Sundays Are Always Quiet](https://open.spotify.com/album/69ZzM7bllu9g0C5YsMAyIo) | 3:37 | 2024-02-02 |  |
 | [Taken Out By The Wind](https://open.spotify.com/track/0d4krr4O0gFMnBCncqKNbS) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Taken Out By The Wind](https://open.spotify.com/album/1HP8SGPqIvgcmOEqiwKFz2) | 2:51 | 2024-02-02 |  |

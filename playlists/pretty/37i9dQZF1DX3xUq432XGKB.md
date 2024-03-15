@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,651 likes - 52 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,723 likes - 52 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 25 | [Back Then](https://open.spotify.com/track/2FiiP57BfhLGV8Hsej6Zkz) | [Maximo](https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG), [SCHMIDT](https://open.spotify.com/artist/3BJ6pVuMNaBCxqZNrXgNwF), [Ben Yen](https://open.spotify.com/artist/2y3y5hX4Bw7iczaDEfHyId) | [Back Then](https://open.spotify.com/album/0yfY6LoKiil9cJXSsGekU4) | 3:10 |
 | 26 | [Dani Girl](https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Dani Girl](https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa) | 3:54 |
 | 27 | [Other Side](https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Other Side](https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc) | 4:04 |
-| 28 | [Tooka Took](https://open.spotify.com/track/5pO6FzWNwbi1vfB4rPMmQn) | [Hank K](https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW) | [Black Book ID's: Chapter 5](https://open.spotify.com/album/2UfIKq0G8po8UbZt2kCRph) | 2:35 |
+| 28 | [Tooka Took](https://open.spotify.com/track/5pO6FzWNwbi1vfB4rPMmQn) | [Hank](https://open.spotify.com/artist/212ZH0VQsr0lRbBFsJUPCh) | [Black Book ID's: Chapter 5](https://open.spotify.com/album/2UfIKq0G8po8UbZt2kCRph) | 2:35 |
 | 29 | [Big G](https://open.spotify.com/track/4GjYLnxeEeBauUx1AlHucY) | [Chelina Manuhutu](https://open.spotify.com/artist/4IoT1ZwtqNYn1u7q9r62Sy) | [Big G](https://open.spotify.com/album/5nbJg3RK9mbdkEiqYTfuJT) | 6:19 |
 | 30 | [The Cure & The Cause \- Dennis Ferrer Remix](https://open.spotify.com/track/4oS2Gik6Vo9csv7teQsPoG) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [The Cure & The Cause \(Dennis Ferrer Remix\)](https://open.spotify.com/album/5iBc6MUn7M8S8oCbOIJiT6) | 6:18 |
 | 31 | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa) | 3:09 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 51 | [Do U Wanna?](https://open.spotify.com/track/3JVyi1g3zaAHL9k0CRwghg) | [The Sponges](https://open.spotify.com/artist/3cj6O7NrjS5l0CVo8LhpV1) | [Love\. Death\. Funk?](https://open.spotify.com/album/2BeUzAPjKS5r0NMbmezusM) | 2:51 |
 | 52 | [Carry Us](https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Carry Us](https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj) | 3:58 |
 
-Snapshot ID: `MCwyNGYyYjgzYjJjOTgwNjYxODk2M2FhMWU3OTQyMDcxM2ZlNjUyM2Fj`
+Snapshot ID: `MCxkMjFmZTU0ZTY1NmZkZDBhYWY0ZDI3MTY5Y2NjODFmZTIwYWVlZjdk`

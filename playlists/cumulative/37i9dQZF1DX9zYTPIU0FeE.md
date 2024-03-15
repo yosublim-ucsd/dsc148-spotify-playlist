@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA">NALEDI</a>
 
-199 songs - 21 hr 28 min
+200 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Thokozile Queen Mother](https://open.spotify.com/track/3xIveLdbKx5x1SbUXPfxUs) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Project ELO](https://open.spotify.com/album/22mdGQMdG58pswyb3GkZL2) | 6:12 | 2022-04-28 | 2023-08-26 |
 | [Thongo Lam \(Iyeza\)](https://open.spotify.com/track/2udpeFRqsPPWLpWqXP7hW0) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 4:38 | 2023-11-01 | 2023-11-17 |
 | [Tiya Mowa](https://open.spotify.com/track/6t6mUpSFj0AeLJuTSuAfud) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Tiya Mowa](https://open.spotify.com/album/41VmcZQLMt06F7UVVQ5zUd) | 4:35 | 2023-03-17 |  |
+| [Together](https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH) | [Wrapped in Rhythm, Vol\. 1](https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i) | 3:30 | 2024-03-14 |  |
 | [Tuang Guru](https://open.spotify.com/track/3fD3q7GFWb25lCB19AMnub) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 5:10 | 2022-04-28 | 2023-05-26 |
 | [Ubombo](https://open.spotify.com/track/3hjhYk8EeQnYtcGqeTcaQU) | [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S) | [Freedom Countdown](https://open.spotify.com/album/62utMxHbKdLAax3CPSxP44) | 6:30 | 2023-11-01 | 2023-11-17 |
 | [Umbhedesho](https://open.spotify.com/track/1Wd1DmQuO4qWDrPs04mEZJ) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 1:43 | 2023-08-25 |  |

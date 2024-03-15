@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-310 songs - 14 hr 26 min
+311 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Get Away Rain](https://open.spotify.com/track/4MRSkeZDLve6VCSTOvKa45) | [Freyr](https://open.spotify.com/artist/0UXi91La4FUOmdfH5X4pIG) | [Misty Rain](https://open.spotify.com/album/2ZTBbqsjjp5b7tvSGcWWQu) | 3:28 | 2022-10-27 |  |
 | [Glenview Rain](https://open.spotify.com/track/0iFVd3DemTrFMdnOrLU953) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 2:51 | 2023-12-20 | 2024-03-09 |
 | [Good Night Sleep Rain 1](https://open.spotify.com/track/1bxooa4BimoiDDFBScAIgD) | [Sound FX Pro](https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo) | [Good Night Sleep Rain](https://open.spotify.com/album/75B9OYcsOj9yNf5MjZLTgb) | 2:21 | 2022-10-27 |  |
-| [Good Night Sleep Rain 3](https://open.spotify.com/track/3sPSOsS3ZrVQT6KFTacHQm) | [Sound FX Pro](https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo) | [Good Night Sleep Rain](https://open.spotify.com/album/75B9OYcsOj9yNf5MjZLTgb) | 2:39 | 2022-10-27 |  |
+| [Good Night Sleep Rain 3](https://open.spotify.com/track/3sPSOsS3ZrVQT6KFTacHQm) | [Sound FX Pro](https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo) | [Good Night Sleep Rain](https://open.spotify.com/album/75B9OYcsOj9yNf5MjZLTgb) | 2:39 | 2022-10-27 | 2024-03-15 |
 | [Good Weather Ahead](https://open.spotify.com/track/3qEIPYO8qu0KFTlPqFpSiu) | [Louis Lightning](https://open.spotify.com/artist/1sOxydo8E7OEF5ctUaqcnK) | [The Hand Made Thunder](https://open.spotify.com/album/5IKxRPK8tUwawR5arR7S3N) | 2:08 | 2023-12-20 |  |
 | [Gray Day](https://open.spotify.com/track/369022QlJSzhvLyE53KuKl) | [Serene Surroundings](https://open.spotify.com/artist/3sfSVTmJdFQsfPZxwM6ETs) | [Ethereal Showers](https://open.spotify.com/album/6x6fb16LgKeJE1jtGRtz5g) | 6:21 | 2023-12-20 |  |
 | [Grim Falls](https://open.spotify.com/track/5Pn9DRYhdyqbghfMqrgK5F) | [Pointillism](https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ) | [Grim Falls](https://open.spotify.com/album/0I6Icxj5K4T7KKDhy8lejC) | 2:11 | 2023-12-20 |  |
@@ -303,6 +303,7 @@
 | [Thunder Around The Clock](https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Century Storm](https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ) | 2:20 | 2023-12-20 |  |
 | [Tonnerre au printemps](https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS) | [Trueno Tropical](https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW) | [Tonnerre au printemps](https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF) | 2:55 | 2023-12-20 |  |
 | [Touch the Rain](https://open.spotify.com/track/3eLUv3zY3Rmu9Lg73yReSS) | [Ethereal Roots](https://open.spotify.com/artist/2NlQLtRMP7LbLqhbbxVEsu) | [Touch the Rain](https://open.spotify.com/album/3JUDVgZwsxjZlNFRYepwik) | 2:42 | 2023-12-20 |  |
+| [Tranquil Paradise \(Rain\)](https://open.spotify.com/track/57NwiOoENYGkilePs3H9xY) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 3:00 | 2023-12-20 |  |
 | [Tropfen](https://open.spotify.com/track/6eYLvLhgdWzebLS1Zial1s) | [Millionen Tropfen](https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7) | [Klimawandel](https://open.spotify.com/album/7MLIwhRzf3R6vyPvRi7aZL) | 2:21 | 2022-10-27 |  |
 | [Tropical Rain Sound](https://open.spotify.com/track/5egT99fn74En0yE997ToIO) | [Regenmaschine](https://open.spotify.com/artist/1GTEiekrEAxZrpOCNMKFAY) | [Rain Sleep Effects](https://open.spotify.com/album/71EhaKqV4TQXMLmhQZFpR4) | 2:56 | 2022-10-27 | 2023-12-21 |
 | [Umbrella Sleep](https://open.spotify.com/track/2A6PDYKWBiolkWhNPUXS6i) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 | 2023-12-20 |  |

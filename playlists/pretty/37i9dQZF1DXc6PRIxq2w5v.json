@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
-  "num_followers": 165246,
+  "num_followers": 165346,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODM1ZmMxMzU2Y2QwOTYwOGIyYzMyY2Q2YTI4MzNiMzZlODY4NDkx",
+  "snapshot_id": "MCw3OTExNGE0ZjRiNjA3MGRjMGMyMGQ0YjJkNDYwN2QwOTliMDg2NTli",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -895,30 +895,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Paulo & Silas",
-        "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
-      },
-      "artists": [
-        {
-          "name": "Tutuzzin",
-          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
-        },
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        }
-      ],
-      "duration_ms": 173222,
-      "name": "Paulo & Silas",
-      "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Deixa Ele Entrar",
         "url": "https://open.spotify.com/album/6wpKGkXjyxjMNUNTU0gF9T"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 176060,
       "name": "Deixa Ele Entrar",
       "url": "https://open.spotify.com/track/4vy5XZ4lu2pmysT0tVDSBx"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Paulo & Silas",
+        "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
+      },
+      "artists": [
+        {
+          "name": "Tutuzzin",
+          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
+        },
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        }
+      ],
+      "duration_ms": 173222,
+      "name": "Paulo & Silas",
+      "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Tu \u00c9s a Cura",
         "url": "https://open.spotify.com/album/3I6pKLLwdJrS46ifBwA4JI"
       },
@@ -1099,6 +1083,58 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Sem Cruz, Sem Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7JZZHrzvFgYFDc58mntY55"
+      },
+      "artists": [
+        {
+          "name": "Pregador Luo",
+          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
+        }
+      ],
+      "duration_ms": 236962,
+      "name": "Sem Cruz, Sem Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6eIu8bYs7C6zCEBs8UNshm"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Deus \u00e9 Mais, Pt.3",
+        "url": "https://open.spotify.com/album/1pca75YkvptXD635WCdlqB"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Wesley Cruz",
+          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Deus \u00e9 Mais, Pt.3",
+      "url": "https://open.spotify.com/track/06f1IqY7uJ7bGT8OOEfaIC"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Amor \u00c1gape",
         "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
       },
@@ -1119,22 +1155,6 @@
       "duration_ms": 326028,
       "name": "Amor \u00c1gape",
       "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Sem Cruz, Sem Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7JZZHrzvFgYFDc58mntY55"
-      },
-      "artists": [
-        {
-          "name": "Pregador Luo",
-          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
-        }
-      ],
-      "duration_ms": 236962,
-      "name": "Sem Cruz, Sem Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6eIu8bYs7C6zCEBs8UNshm"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1179,22 +1199,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Deus \u00e9 Mais, Pt.3",
-        "url": "https://open.spotify.com/album/1pca75YkvptXD635WCdlqB"
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/6sKV6wS0KCrhSlBBK7epDz"
       },
       "artists": [
         {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
         },
         {
-          "name": "Wesley Cruz",
-          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Deus \u00e9 Mais, Pt.3",
-      "url": "https://open.spotify.com/track/06f1IqY7uJ7bGT8OOEfaIC"
+      "duration_ms": 171340,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/2MNx8isTSanZlqMMbto0SX"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1227,26 +1247,6 @@
       "duration_ms": 194623,
       "name": "Voc\u00ea Acredita?",
       "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/6sKV6wS0KCrhSlBBK7epDz"
-      },
-      "artists": [
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 171340,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/2MNx8isTSanZlqMMbto0SX"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "777 na Mente",
+        "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+        }
+      ],
+      "duration_ms": 165899,
+      "name": "777 na Mente",
+      "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Gratid\u00e3o",
         "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 138475,
       "name": "Gratid\u00e3o",
       "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "777 na Mente",
-        "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Salez",
-          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
-        }
-      ],
-      "duration_ms": 165899,
-      "name": "777 na Mente",
-      "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Arca de No\u00e9",
-        "url": "https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX"
-      },
-      "artists": [
-        {
-          "name": "Lz Lipe",
-          "url": "https://open.spotify.com/artist/2ek8GnnKSrYAsKOJvOXzQb"
-        },
-        {
-          "name": "You Music",
-          "url": "https://open.spotify.com/artist/4qrGnlN8hrzJPXh66Qb171"
-        }
-      ],
-      "duration_ms": 176425,
-      "name": "Arca de No\u00e9",
-      "url": "https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Eu Era Servo",
         "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 171740,
       "name": "Eu Era Servo",
       "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Arca de No\u00e9",
+        "url": "https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX"
+      },
+      "artists": [
+        {
+          "name": "Lz Lipe",
+          "url": "https://open.spotify.com/artist/2ek8GnnKSrYAsKOJvOXzQb"
+        },
+        {
+          "name": "You Music",
+          "url": "https://open.spotify.com/artist/4qrGnlN8hrzJPXh66Qb171"
+        }
+      ],
+      "duration_ms": 176425,
+      "name": "Arca de No\u00e9",
+      "url": "https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF"
     },
     {
       "added_at": "2024-03-08 03:01:00",

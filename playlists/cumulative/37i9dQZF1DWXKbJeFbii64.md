@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-153 songs - 7 hr 10 min
+154 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Rainy Day Reverie](https://open.spotify.com/track/3XHj0MivaFdgdbYErRyqJm) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Thunder Day Rest](https://open.spotify.com/album/1c2pgnlXwydO9YFJcfbr2q) | 2:56 | 2023-09-20 | 2023-12-21 |
 | [Rainy Day Revival](https://open.spotify.com/track/6wwP1kr9MdkRNZLbs1vNGc) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Lightning in the Afternoon](https://open.spotify.com/album/0Mu1JfxyBPhMs5o4c1wTKa) | 2:42 | 2023-09-20 |  |
 | [Relaxing Thunder Rain](https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:04 | 2023-02-13 |  |
+| [Roaring Sky](https://open.spotify.com/track/5fJVMjXesqcHwP7AZwPLxF) | [Thunder & Lightning Storms](https://open.spotify.com/artist/6gJzciut4jWLuel8irt8JE) | [Roaring Sky](https://open.spotify.com/album/49ZZmmdqTsrLKqKyenqQ3y) | 2:54 | 2024-03-11 |  |
 | [Rumbling Thunderous Boom](https://open.spotify.com/track/194igkfcZwinfGeUnvZxz8) | [Thunderstorm Sound Bank](https://open.spotify.com/artist/6xQDyC92UEZQCySBNTdkyx) | [Thunderstorm at Night](https://open.spotify.com/album/2xjEqt6RKzjRN4WvbDrV2b) | 1:35 | 2023-09-20 |  |
 | [Schläfriger Donner](https://open.spotify.com/track/28KswoQztifTUjKJxujGWV) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 | 2022-10-28 |  |
 | [Shelter Rain](https://open.spotify.com/track/2LlSkv5N137jn1rvqs39vA) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 3:37 | 2022-12-09 |  |
@@ -121,7 +122,7 @@
 | [Thunder And Drizzle \- Seamless](https://open.spotify.com/track/1ZlAyeaS19xgCxKHqAjY4I) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Residential Rain](https://open.spotify.com/album/1AJIuI87Pd8WW8QWV5F76v) | 2:48 | 2023-02-13 |  |
 | [Thunder and Echoes](https://open.spotify.com/track/6hBAkPhm7x97uGXMTBYygm) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Thunder Day Rest](https://open.spotify.com/album/1c2pgnlXwydO9YFJcfbr2q) | 2:09 | 2023-09-20 | 2023-12-21 |
 | [Thunder and Heartbreak](https://open.spotify.com/track/70q71vivckSgkaMb5KQlOl) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Rainy Day Redemption](https://open.spotify.com/album/6d5bTEOJinpLpkK0cYQUH0) | 3:03 | 2023-09-20 |  |
-| [Thunder and Rain](https://open.spotify.com/track/59FYRMaBBxHkJi8eg6oPeA) | [The Calm Factory](https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s) | [Rainy Day Dreams](https://open.spotify.com/album/4rieSIpQMD5QmQBewE9IvE) | 2:28 | 2023-09-20 |  |
+| [Thunder and Rain](https://open.spotify.com/track/59FYRMaBBxHkJi8eg6oPeA) | [The Calm Factory](https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s) | [Rainy Day Dreams](https://open.spotify.com/album/4rieSIpQMD5QmQBewE9IvE) | 2:28 | 2023-09-20 | 2024-03-15 |
 | [Thunder and Rain](https://open.spotify.com/track/5KV2iZahicmCkHPOiFIewm) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Loud Thunder Boom](https://open.spotify.com/album/4zIvNSA5x4h6QIC5FdLGuJ) | 1:54 | 2023-09-20 |  |
 | [Thunder and Rain Sleep Sound](https://open.spotify.com/track/3HD9I4sCFAIgZ8DR8DzFkI) | [Louis Lightning](https://open.spotify.com/artist/1sOxydo8E7OEF5ctUaqcnK) | [Thunder and Lightning Relaxation](https://open.spotify.com/album/3s966QfBSAUptLaLnwXWHR) | 2:57 | 2023-09-20 |  |
 | [Thunder and Rain Sounds for Sleep](https://open.spotify.com/track/1IPWimN1vmECIFzZbhzuSk) | [Pure Relaxing Vibes](https://open.spotify.com/artist/4XdPbkEAdTU7KDmfOCIakS) | [Thunderstorm Sounds for Sleep](https://open.spotify.com/album/4yeyKUHbsCyfW4sLM8zFlV) | 8:19 | 2022-10-28 | 2023-01-06 |

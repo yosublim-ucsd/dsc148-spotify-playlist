@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:4wrzxtBZw20ufDstKyTnnP">Rachel Chinouriri</a> with collaborators HYLNU and Glen Roberts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,173 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,258 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 26 | [Little Do You Know \(feat\. Keke Palmer & Aloe Blacc\) \- LIMONADE Afrobeats Mix](https://open.spotify.com/track/1BgdRifsKfDXSp9XX7T3iE) | [LIMONADE](https://open.spotify.com/artist/0MJJvDrHdl7GGYostfweWJ), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Little Do You Know \(The Remixes\)](https://open.spotify.com/album/1aiIyDXij92yv2bxyWoRbN) | 2:28 |
 | 27 | [Whatever You Want](https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Whatever You Want](https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc) | 3:40 |
 | 28 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 |
-| 29 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:39 |
+| 29 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 |
 | 30 | [Sage](https://open.spotify.com/track/0ta7rJjPzV5cpZRGDP1Otf) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [The Rebirth 3: The Party & The Bedroom](https://open.spotify.com/album/01bHZLLEGrQkliJecHJTmS) | 3:34 |
 | 31 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 | 32 | [RAINBOWS](https://open.spotify.com/track/0kXgnZe4a43OUzt5y6lHUt) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [RAINBOWS](https://open.spotify.com/album/3eCS3qFlYjSPYhJCV8UTdj) | 3:44 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 38 | [OMG](https://open.spotify.com/track/39Tp0g9FmNfeRxOdh9mdUG) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [OMG](https://open.spotify.com/album/5nkLySr4VplyXkX7KVK2e0) | 2:41 |
 | 39 | [Anna \(Come Back\)](https://open.spotify.com/track/7mqHdhp7j8sIBPO1CjUmZJ) | [Brasko](https://open.spotify.com/artist/7pEbFi2YyD5d3Mxsqp5r4U) | [Anna \(Come Back\)](https://open.spotify.com/album/3OW6JJeLpagSnWjaYv2eRg) | 2:16 |
 
-Snapshot ID: `MCwyMjg1ZWFlOTYwNjQzYWUwNmRkYzY0MmJkYzZkMmU1NWVkMmY0ZmUy`
+Snapshot ID: `MCxkMzJiNTFkOGM5Y2JmNDkxYWExNzdiMTg0Y2EwMzEzYjE2YTgzY2Ex`

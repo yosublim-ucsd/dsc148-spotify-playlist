@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-274 songs - 13 hr 33 min
+276 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Calming Tune](https://open.spotify.com/track/4nwPbxRsKm81Alkoj3nZMi) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Feel a Sense](https://open.spotify.com/album/2QSLLC0Kby30GZgyJ7NSy8) | 3:18 | 2021-09-06 |  |
 | [Candlelight](https://open.spotify.com/track/1r6k36czq5ojyYadBcHZmp) | [Reed Goff](https://open.spotify.com/artist/1uKH4Zay4PN2JmUTFRAZIt) | [Candlelight](https://open.spotify.com/album/2HonNBFnB2LhfwJ6Zy7MWD) | 2:04 | 2021-09-06 |  |
 | [capable](https://open.spotify.com/track/1ZqVHQlXm0vBzazX60mgcb) | [Jai Gourgaud](https://open.spotify.com/artist/2u47nFG0ezqztjpaTg6Vjd) | [capable](https://open.spotify.com/album/15aolnX64r6fKjDQ9IHsYT) | 2:52 | 2021-09-06 |  |
+| [Cassiopeia](https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh) | [Elysian Lotus](https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w) | [Cassiopeia](https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6) | 2:55 | 2024-03-14 |  |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2021-09-06 |  |
 | [Chronic Bliss](https://open.spotify.com/track/2f4hFvFkoPovxbotay8iuw) | [Evin Iris](https://open.spotify.com/artist/0H11IrXWhpptE27M8Xll9w) | [Chronic Bliss](https://open.spotify.com/album/7k2kVM37nEvc1jgSCUhIiG) | 2:36 | 2021-09-06 |  |
 | [Circumpolar](https://open.spotify.com/track/5RHW6s7wBl5AsgKjgr9Bg9) | [Dave Holland](https://open.spotify.com/artist/0xLPFdtggvT39nROM79fMt) | [Circumpolar](https://open.spotify.com/album/1lXhEydbZeag8DF05xJIbe) | 3:49 | 2021-09-06 |  |
@@ -137,6 +138,7 @@
 | [Heavy Head](https://open.spotify.com/track/3AmRJH8hJvtEJ57x6xq0Gq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Deep Dreams](https://open.spotify.com/album/7fvUEchZHf7pNEBzsPim4f) | 3:33 | 2021-09-06 |  |
 | [Home Tales](https://open.spotify.com/track/6ciLznTYOK6bq6iMcSlyrn) | [Handley Page](https://open.spotify.com/artist/0vzZmlsPGLKCCG8qW7WrvV) | [Home Tales](https://open.spotify.com/album/6w6dhpG5hetNvPpe2lBIzh) | 3:29 | 2021-09-06 |  |
 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 | 2022-09-02 |  |
+| [Horizons](https://open.spotify.com/track/1aLPs0NGa6zBRnM1AlDxrx) | [Cosmic Clarity](https://open.spotify.com/artist/0mS4iUHnCGTarpY6K87QJm) | [Horizons](https://open.spotify.com/album/3Mf4Wu0xYRskBNDcxUifbE) | 2:52 | 2024-03-14 |  |
 | [How She Said Goodbye](https://open.spotify.com/track/0FqFrSSluFI2ZBTNfdak7d) | [Echo Dreams](https://open.spotify.com/artist/4qoy1t3iKnW6Axin7dMVnd) | [How She Said Goodbye](https://open.spotify.com/album/0G1dXPE8X1bLcP84OSZ9KQ) | 2:55 | 2021-09-06 |  |
 | [How Your Heart Sings](https://open.spotify.com/track/2aCsZCeT8P9MULklOrNHJH) | [Made Of Gold](https://open.spotify.com/artist/1ilmmDuqRKxhOkqBZTtqNH) | [Lighthouse](https://open.spotify.com/album/0TdaNHlOAybJQHT6IbKA8z) | 3:46 | 2021-09-06 |  |
 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 | 2021-09-06 |  |

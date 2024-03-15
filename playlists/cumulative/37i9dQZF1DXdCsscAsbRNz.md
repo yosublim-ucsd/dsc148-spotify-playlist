@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-358 songs - 17 hr 4 min
+360 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Feathers](https://open.spotify.com/track/5xxYVFRpVThMwcYtFSfIkr) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Feathers](https://open.spotify.com/album/1t7Bu6Wutbjdp28mBbkSsc) | 1:43 | 2023-03-03 | 2023-07-29 |
 | [Fermez vos yeux](https://open.spotify.com/track/7fjl8fmaUdRWNstdzGHCeF) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Fermez vos yeux](https://open.spotify.com/album/1uUObEiPqN0i7YzA3MR7RL) | 2:34 | 2020-10-20\* |  |
 | [Filaments In The Dark](https://open.spotify.com/track/6ydoT7msnxWSz7jhMxC539) | [Into A Dream](https://open.spotify.com/artist/4V3QwXoUMFmSF1aJ934nbS) | [The Silent Mind](https://open.spotify.com/album/40YwLU6A5En5HNNUk27z8H) | 3:21 | 2020-10-20\* |  |
+| [Floating Above](https://open.spotify.com/track/3De8Ul1Wq42EKNYkLFrtDt) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Floating Above](https://open.spotify.com/album/0WgUFBjS5f94WSEh98KYJN) | 2:42 | 2024-03-14 |  |
 | [Flowing Leaves](https://open.spotify.com/track/2dxQ8RJA85bwrG6QFkYaRc) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Flowing Leaves](https://open.spotify.com/album/0Yts01Uu54GMSpIc7YOK68) | 2:59 | 2020-10-20\* |  |
 | [Fluctuating Current](https://open.spotify.com/track/4RVLtTncdB9vY6Qo3ldP5f) | [Sci\-Boy](https://open.spotify.com/artist/7zeiybXwQMwCY6mlYbLwE0) | [Fluctuating Current](https://open.spotify.com/album/5dU7FPAazuKy2Zt7C7ZslO) | 3:20 | 2020-10-20\* | 2022-08-13 |
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2020-10-20\* |  |
@@ -280,6 +281,7 @@
 | [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 | 2020-10-20\* | 2023-01-10 |
 | [Small Memory](https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 1:40 | 2020-10-20\* | 2022-07-29 |
 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 | 2022-07-22 | 2023-07-29 |
+| [Sofandi](https://open.spotify.com/track/0GQXJpacuCgfvqaklLAaQs) | [Siri Belle](https://open.spotify.com/artist/2xvYo3Aa78eMFyFgrkNgTq) | [Sofandi](https://open.spotify.com/album/1aExp1sXchFvUOxBpmX4Er) | 3:11 | 2024-03-14 |  |
 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2020-10-20\* |  |
 | [Soft Remembrance](https://open.spotify.com/track/2Dn6n9kmDoHbP51xVeNM6s) | [The Eternalists](https://open.spotify.com/artist/5QtPdyrH3QEW55lpWcupc5) | [Soft Remembrance](https://open.spotify.com/album/77ysdKUcg8byKdeOykNDEb) | 2:44 | 2022-12-02 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-04-15 |  |

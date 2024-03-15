@@ -4,7 +4,7 @@
 
 > Lo mejor del pop electrónico en español.
 
-125 songs - 7 hr 39 min
+126 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [DARKSOULS](https://open.spotify.com/track/1pBugwted2IO3pR7APQPP5) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [eclips3](https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9) | 3:32 | 2023-09-08 |  |
 | [Dejarte de Querer \- Nico Castro Remix](https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Nico Castro](https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9) | [La Mar \(Remixes\)](https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O) | 5:47 | 2023-09-08 | 2024-01-21 |
 | [Dejarte Estar \(Pyura Remix\)](https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Dejarte Estar \(Pyura Remix\)](https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD) | 2:55 | 2023-09-08 |  |
+| [Delfines](https://open.spotify.com/track/2nVmNqnJKGLXfvjFWUWF3e) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR) | 4:38 | 2024-03-08 |  |
 | [Delfines](https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL) | 4:38 | 2023-12-15 | 2024-03-07 |
 | [Delight](https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4) | [Gor2](https://open.spotify.com/artist/0HaKpLgYbvjuZWzAvc39ME) | [Delight](https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc) | 5:09 | 2023-09-08 | 2024-03-01 |
 | [Derrumbe](https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Derrumbe](https://open.spotify.com/album/23csDME5tEskWfOBPW09mi) | 3:21 | 2023-09-08 |  |
@@ -95,7 +96,7 @@
 | [PARA AFUERA](https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PARA AFUERA](https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9) | 2:34 | 2023-09-08 |  |
 | [PARACETAMOL \(perdón x ser bella\)](https://open.spotify.com/track/0xu7SDYSQimMbBZ5dadrad) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [MUY MUCHO](https://open.spotify.com/album/07J3RchD8DscOvvyRPxT9A) | 2:34 | 2024-01-12 |  |
 | [PARAISO](https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [TODO SOBRE LA NADA](https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9) | 3:32 | 2023-11-24 |  |
-| [PARQUE DE LA COSTA](https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [MAÑANA ES PEOR :\(](https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd) | 3:45 | 2023-09-08 |  |
+| [PARQUE DE LA COSTA](https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [MAÑANA ES PEOR :\(](https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd) | 3:45 | 2023-09-08 | 2024-03-15 |
 | [Pervertida](https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [Pervertida](https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK) | 2:29 | 2023-10-26 | 2023-12-26 |
 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 | 2023-09-08 |  |
 | [POSE!](https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [POSE!](https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN) | 2:52 | 2024-01-12 |  |

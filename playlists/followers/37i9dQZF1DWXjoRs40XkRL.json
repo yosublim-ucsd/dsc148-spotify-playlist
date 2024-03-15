@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 62624,
+  "2024-03-15": 62650,
   "date_first_scraped": "2022-05-30",
   "description": "Unwind to the best Indian classical sounds out there.",
   "name": "Raga Lounge",
@@ -2583,7 +2583,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 84000,
       "name": "Let's Bageshree",
       "url": "https://open.spotify.com/track/6ebc8fIGa3b3H8XPziOR5U"
@@ -3221,6 +3221,24 @@
       "duration_ms": 240447,
       "name": "Naina More",
       "url": "https://open.spotify.com/track/5LI0yckeAhEOHODOq0VY8z"
+    },
+    {
+      "album": {
+        "name": "Naina More",
+        "url": "https://open.spotify.com/album/76v4cPHr8zPv3LhSWwfJHH"
+      },
+      "artists": [
+        {
+          "name": "Kartik Raman",
+          "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164197,
+      "name": "Naina More",
+      "url": "https://open.spotify.com/track/6KqyXAxzDyQsK2JM4ZXgYD"
     },
     {
       "album": {

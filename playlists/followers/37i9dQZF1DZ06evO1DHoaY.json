@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 1999279,
+  "2024-03-15": 1999681,
   "date_first_scraped": "2024-02-02",
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
   "name": "This Is Bob Marley & The Wailers",
@@ -320,6 +320,24 @@
     },
     {
       "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253573,
+      "name": "Jah Live",
+      "url": "https://open.spotify.com/track/1SxXBJgUk4z1dZdpdtTB7F"
+    },
+    {
+      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
       },
@@ -367,7 +385,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 195733,
       "name": "Kaya",
       "url": "https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9"
@@ -403,7 +421,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 310426,
       "name": "Lively Up Yourself",
       "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 170626,
       "name": "Rat Race",
       "url": "https://open.spotify.com/track/6EmP97fPXI3aiHnrsHuj08"

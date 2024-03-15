@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality, Hard GZ",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Las Ninyas del Corro.",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 186875,
       "name": "Al borde del desastre",
       "url": "https://open.spotify.com/track/3vkVPmM684tDxBC4KxX3eU"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 270226,
       "name": "BANANA SPLIT",
       "url": "https://open.spotify.com/track/5nIyhEmcGWZwGijOtc4bGB"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 250603,
       "name": "Black Ops",
       "url": "https://open.spotify.com/track/4dbmWXHQePLiHjByLup4Tu"
@@ -1669,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "DOLCHE & GUEVARA",
+        "url": "https://open.spotify.com/album/3Kyb9zpR0Z2rm4fI7xOMUh"
+      },
+      "artists": [
+        {
+          "name": "El Greco",
+          "url": "https://open.spotify.com/artist/2fe5YD0v1HzDeACkHSPAXG"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240468,
+      "name": "DOLCHE & GUEVARA",
+      "url": "https://open.spotify.com/track/7gBivCqXGweFiJ3Oog1pJ8"
+    },
+    {
+      "album": {
         "name": "Dos Mundos",
         "url": "https://open.spotify.com/album/3cEzoavJIGUVXRVJOPuqZi"
       },
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 228670,
       "name": "El Circo",
       "url": "https://open.spotify.com/track/5JDhUlxnJdyQuZ39vWNwqp"
@@ -1912,6 +1930,24 @@
       "duration_ms": 171001,
       "name": "En la parte de atr\u00e1s de un taxi",
       "url": "https://open.spotify.com/track/7EiUH0IuwBhc1GtArbiUzv"
+    },
+    {
+      "album": {
+        "name": "En paz",
+        "url": "https://open.spotify.com/album/47qAgHAJQ2FDAkpzqYABMq"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "En paz",
+      "url": "https://open.spotify.com/track/4HfpCkM49AvLGQLymMQVoB"
     },
     {
       "album": {
@@ -3762,7 +3798,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 153500,
       "name": "Mockingbird - Versi\u00f3n Espa\u00f1ol",
       "url": "https://open.spotify.com/track/2H6tvEKLXP8zpWIKLmVsOU"
@@ -4133,6 +4169,24 @@
     },
     {
       "album": {
+        "name": "No Le Da",
+        "url": "https://open.spotify.com/album/11SF9gtSSELyyrWnPoWdhf"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "No Le Da",
+      "url": "https://open.spotify.com/track/1C4ib4NrEVno8VkHXDtvRY"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/3xLbAeXBdWPIE0BDIXUWTY"
       },
@@ -4308,6 +4362,28 @@
       "duration_ms": 240000,
       "name": "No temas",
       "url": "https://open.spotify.com/track/4sgi1JD8StfO3LVTVYicpo"
+    },
+    {
+      "album": {
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/18E832WQeAwzTN9x3uUp41"
+      },
+      "artists": [
+        {
+          "name": "Sh\u00e9",
+          "url": "https://open.spotify.com/artist/5GdP5J5VnVvhY0HzsYMcUK"
+        },
+        {
+          "name": "Gema Tom\u00e1s",
+          "url": "https://open.spotify.com/artist/1eenupXk2LMDwE3lCHBEhN"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232363,
+      "name": "Nosotros",
+      "url": "https://open.spotify.com/track/2I5As1ONepb3YPXIK74ctj"
     },
     {
       "album": {
@@ -4663,6 +4739,28 @@
     },
     {
       "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/7rYfzmsPZ2wpcZIWO6qpuw"
+      },
+      "artists": [
+        {
+          "name": "Denom",
+          "url": "https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y"
+        },
+        {
+          "name": "FALCOONTHEBEAT",
+          "url": "https://open.spotify.com/artist/39cAV2AEVs4dKTc60gDq2B"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189650,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/088mgLXXfWPFfCRtrQaLAv"
+    },
+    {
+      "album": {
         "name": "Luna llena",
         "url": "https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu"
       },
@@ -4682,6 +4780,28 @@
       "duration_ms": 216062,
       "name": "Quiero volar",
       "url": "https://open.spotify.com/track/0TlVTrOwRNH8YGvBDHqPCo"
+    },
+    {
+      "album": {
+        "name": "Rap And Pills",
+        "url": "https://open.spotify.com/album/6zdzjL6S5Dyrufin3oU6bc"
+      },
+      "artists": [
+        {
+          "name": "JAVI BAMBINI CATTIVI",
+          "url": "https://open.spotify.com/artist/3FV2MXfjYT4tvYWzAQWJMH"
+        },
+        {
+          "name": "Bombony Montana",
+          "url": "https://open.spotify.com/artist/5sIpYN3jl80npXJ3GkcWG5"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191574,
+      "name": "Rap And Pills",
+      "url": "https://open.spotify.com/track/41iOaWi7TlaQbMMBW0lihg"
     },
     {
       "album": {
@@ -4982,7 +5102,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 228247,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/6hlXbDnEr1kXMsdP8dzc9d"
@@ -5302,7 +5422,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 158634,
       "name": "SIN CULPA",
       "url": "https://open.spotify.com/track/0yzHr53qnPQKbX6mFt7xhR"
@@ -5799,6 +5919,28 @@
     },
     {
       "album": {
+        "name": "Tridente Dorado",
+        "url": "https://open.spotify.com/album/4htg0QfHceWwkpUQtW1icZ"
+      },
+      "artists": [
+        {
+          "name": "Las Ninyas del Corro",
+          "url": "https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh"
+        },
+        {
+          "name": "Esse Delgado",
+          "url": "https://open.spotify.com/artist/0EbyCaJGcegI7KdTTWKuW0"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201701,
+      "name": "Tridente Dorado",
+      "url": "https://open.spotify.com/track/3mfkFNikm2SZfAqCxXOwKg"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
       },
@@ -6067,6 +6209,36 @@
     },
     {
       "album": {
+        "name": "Vuelve a escucharnos",
+        "url": "https://open.spotify.com/album/6bWHowZE8owW30MesPGhTD"
+      },
+      "artists": [
+        {
+          "name": "Santaflow",
+          "url": "https://open.spotify.com/artist/3uvTa6pDzj0T6EfMslXOCs"
+        },
+        {
+          "name": "Don Aitor",
+          "url": "https://open.spotify.com/artist/35S4tbWKLCemSTiLgKAY70"
+        },
+        {
+          "name": "Frescolate",
+          "url": "https://open.spotify.com/artist/7LhS5MAxivPw1eoOvDnmJg"
+        },
+        {
+          "name": "Norykko",
+          "url": "https://open.spotify.com/artist/5xX9fBFLbqn0pYSFZ7qVcA"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208166,
+      "name": "Vuelve a escucharnos",
+      "url": "https://open.spotify.com/track/0E7WuWV8NTPH2VtDgl2Bcd"
+    },
+    {
+      "album": {
         "name": "V\u00e9rtigo",
         "url": "https://open.spotify.com/album/79IqncOTp1GRKwXi1sJO0q"
       },
@@ -6158,7 +6330,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 163369,
       "name": "Ya ni yo",
       "url": "https://open.spotify.com/track/6aHTxnGcB5WUPD8klgrWCt"

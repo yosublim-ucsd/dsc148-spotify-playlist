@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-193 songs - 10 hr 8 min
+195 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Just Breathe](https://open.spotify.com/track/3EnyFtygU4ttiEnyjV4FZd) | [Edmund’s Oasis](https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ) | [Just Breathe](https://open.spotify.com/album/7uU4GMQIYTWkmJ7sstbqFN) | 2:43 | 2021-12-10 |  |
 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 | 2021-12-10 |  |
 | [Kyoto](https://open.spotify.com/track/5DuALA01mvSWTNM9xi2Rqm) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 2:42 | 2021-12-10 | 2022-08-13 |
+| [Leuer](https://open.spotify.com/track/7pbCBohVdoqOYHDybtc3mw) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Leuer](https://open.spotify.com/album/76PMsG9N2yaFMIVYPsgRpi) | 3:02 | 2024-03-14 |  |
 | [Levitation](https://open.spotify.com/track/0zQ2Qbxic7cXWOVv9Qy98n) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Levitation](https://open.spotify.com/album/5U7rGOt0KLvEF2HXnvE88J) | 2:36 | 2021-12-10 |  |
 | [Levitation](https://open.spotify.com/track/7sDw7w9CNE4NXO30E7Hcr2) | [Rippness.](https://open.spotify.com/artist/1QxFVzh0whkoFwPgwxfmBx) | [Red Sky](https://open.spotify.com/album/3BwaHNXVmLZiqbKs8Gf4J8) | 3:10 | 2023-02-24 |  |
 | [Looking Up](https://open.spotify.com/track/6WPhQfpJOY2elhjJHI27H5) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 2:32 | 2021-12-10 | 2022-10-15 |
@@ -109,6 +110,7 @@
 | [Lungs](https://open.spotify.com/track/3xBWqWwANPz8VFS8b5oEql) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [Lungs](https://open.spotify.com/album/6TZCkfnAgAtSSgaEDMdpjH) | 2:58 | 2024-03-08 |  |
 | [Magnanimity](https://open.spotify.com/track/3Hs8LrjdOGR37PnMEMAw3G) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [Magnanimity](https://open.spotify.com/album/2ZbFhRglsY024PPGYP2e1y) | 2:43 | 2021-12-10 |  |
 | [Marmoris](https://open.spotify.com/track/3DEJFS5pJMjFr2zG24oDHt) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Marmoris](https://open.spotify.com/album/5jWt650eZDQgPm47eEazPd) | 2:36 | 2021-12-10 |  |
+| [Meditava](https://open.spotify.com/track/1qxWehKvD0HZvnXkwULcjV) | [Blissful Beyond](https://open.spotify.com/artist/2zuUN7ElpvbKEfxlyky0gP) | [Meditava](https://open.spotify.com/album/6RDaZ2fg0TeatoPxhyj6fv) | 3:12 | 2024-03-14 |  |
 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 | 2021-12-10 |  |
 | [milagro](https://open.spotify.com/track/4RlPG34EWDZRfQpOFXIr5a) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [milagro](https://open.spotify.com/album/23VRakpuBMbOAzSCkPJvEC) | 3:02 | 2022-12-02 |  |
 | [Mind\-Drift](https://open.spotify.com/track/53sNuDhuyhtVTPNXbk4dEN) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Drift Off](https://open.spotify.com/album/6LMJYwLucOwVe1Nex4vxah) | 4:00 | 2021-12-10 | 2023-08-25 |

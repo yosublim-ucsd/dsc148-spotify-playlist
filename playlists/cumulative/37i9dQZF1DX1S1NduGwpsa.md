@@ -2,9 +2,9 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Laufey
+> The best jazz new releases\. Cover: Maë Defays
 
-494 songs - 1 day 11 hr 36 min
+495 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Just One of Those Things](https://open.spotify.com/track/5lXB6VECoq3guxWmuCmBOL) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Andrea Rea Trio](https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG), [Joe Rehmer](https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa), [Marcello Di Leonardo](https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU) | [Just One of Those Things](https://open.spotify.com/album/2O9rzxiqE9GI1dDK5thSQ0) | 5:22 | 2022-08-18 | 2022-11-18 |
 | [Just the Beginning](https://open.spotify.com/track/5Kah2gopowr7IVS1ZBEOlo) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Just the Beginning](https://open.spotify.com/album/2UJs0fSUEiBDy9MKcugiQF) | 3:26 | 2023-06-22 | 2023-09-29 |
 | [King Size Papa](https://open.spotify.com/track/4jUTtGnhdBKqxWQycVgIEh) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It \(Deluxe Edition\)](https://open.spotify.com/album/544v2wHRMwPAc7frjbukKf) | 3:52 | 2023-04-27 | 2023-08-25 |
-| [Konsiens](https://open.spotify.com/track/1VbcvYk4WD8CacQcDMKZa7) | [Yusan](https://open.spotify.com/artist/6wcp1p83x7rUlmYjtW70Am), [Jean\-Michel Rotin](https://open.spotify.com/artist/11DvnOgfRFa9QTAnM8VbXo) | [Ba Yo](https://open.spotify.com/album/2saiG201spysbp31W7Trqq) | 4:35 | 2024-02-22 |  |
+| [Konsiens](https://open.spotify.com/track/1VbcvYk4WD8CacQcDMKZa7) | [Yusan](https://open.spotify.com/artist/6wcp1p83x7rUlmYjtW70Am), [Jean\-Michel Rotin](https://open.spotify.com/artist/11DvnOgfRFa9QTAnM8VbXo) | [Ba Yo](https://open.spotify.com/album/2saiG201spysbp31W7Trqq) | 4:35 | 2024-02-22 | 2024-03-15 |
 | [L'alpagueur](https://open.spotify.com/track/5Vz2c5K4uEAkweIBENQJ2u) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [L'alpagueur](https://open.spotify.com/album/3elFUdRNF2mhWovGqzHsqd) | 4:02 | 2023-09-14 | 2023-10-27 |
 | [La balade](https://open.spotify.com/track/23prDH0nwHcIi5YQ54Sl8l) | [Gwen Cahue](https://open.spotify.com/artist/40KKpmd5tQqNohkfjFF9hO), [Baptiste Bailly](https://open.spotify.com/artist/2BNpDSWYQYPMkd9qA3L5bS) | [Storyboard](https://open.spotify.com/album/1fQxFXmN51ghwHl2AWsXga) | 4:23 | 2023-10-05 | 2024-01-26 |
 | [La Gloria Eres Tú](https://open.spotify.com/track/1CpwwKDtTwWJ4NNC6gVygw) | [Yilian Cañizares](https://open.spotify.com/artist/51kjU9cCnLDzokU3agspnv), [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9) | [Habana\-Bahia](https://open.spotify.com/album/40Glzz3JECT8bA1w7TXzkw) | 3:21 | 2023-10-12 | 2024-01-26 |
@@ -326,6 +326,7 @@
 | [On Green Dolphin Street](https://open.spotify.com/track/0MHAUC8TiE8lD8ciIZ9Zga) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Blue Skies](https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum) | 3:04 | 2022-05-19 | 2022-06-24 |
 | [Ondes of Chakras](https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Ondes of chakras](https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ) | 6:17 | 2022-11-17 | 2023-02-10 |
 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 | 2022-06-16 | 2022-09-30 |
+| [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-14 |  |
 | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/track/0TSt9pD3DlyCPjvzhZgTiR) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 3:12 | 2022-06-16 | 2022-10-28 |
 | [One Silver Dollar](https://open.spotify.com/track/0DxiZzEeYhIFupggoAcox3) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Rollin'](https://open.spotify.com/album/4vay9WmJyXHGkr6ayYUmRC) | 3:38 | 2023-04-06 | 2023-08-18 |
 | [One Week](https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [One Week](https://open.spotify.com/album/5kCMg3tpv9Qu25zUFem5VI) | 2:40 | 2023-09-07 | 2023-11-03 |

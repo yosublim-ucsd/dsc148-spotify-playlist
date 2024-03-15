@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: LeBron James and Anthony Davis
+> Fourth quarter, two minutes left .\. get locked in\. Cover: DeMar DeRozan
 
 574 songs - 1 day 5 hr 13 min
 

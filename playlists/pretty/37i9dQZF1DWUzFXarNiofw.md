@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,402 likes - 180 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,475 likes - 180 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 179 | [Young & Reckless](https://open.spotify.com/track/6V4PJjy37MgVSZELGsia5P) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Young & Reckless](https://open.spotify.com/album/1PLct2MneZeXJOi335GQfD) | 2:16 |
 | 180 | [Where R U Now \- Acoustic](https://open.spotify.com/track/0nChB3pqbznFzQKiAlb9gu) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Where R U Now \(Acoustic\)](https://open.spotify.com/album/2NeC3shfWGxCcfAhdO69di) | 2:46 |
 
-Snapshot ID: `MCw2ZDM4YjZmZmVmZjViZjNhYjE3ZjdkZGQ5ZGJmYjBlNzhkNGFhMzMz`
+Snapshot ID: `MCwxMWI3NGE2ZWY1OWEzZWM1M2I0ZjlhYjI5NmJmOGM3ZTZmOWYyMzg2`

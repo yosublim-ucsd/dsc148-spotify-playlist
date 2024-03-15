@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1720120,
+  "num_followers": 1720119,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGY1ZjZiYjU1NjMxMDA4MzI1YTY3OGU3MTQ3NGM5ZmViYTZhNjkw",
+  "snapshot_id": "MCxhNWQ3NzhmZDkxNTg0MDc0YjFlMTIxMGJkOTI3ODlhNzNmNTVmNTdk",
   "tracks": [
     {
       "added_at": "2024-03-08 00:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
-      },
-      "artists": [
-        {
-          "name": "Mel & Macy",
-          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
-        }
-      ],
-      "duration_ms": 197684,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Listen to Your Heart",
         "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 186153,
       "name": "Listen to Your Heart",
       "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
+      },
+      "artists": [
+        {
+          "name": "Mel & Macy",
+          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
+        }
+      ],
+      "duration_ms": 197684,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
-      },
-      "artists": [
-        {
-          "name": "Ben & Tim",
-          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
-        }
-      ],
-      "duration_ms": 182952,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 132024,
       "name": "Circles",
       "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "duration_ms": 182952,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Make You Feel My Love",
-        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
+        "name": "Sweet Nothing",
+        "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
       },
       "artists": [
         {
-          "name": "Morgan St. Douglas",
-          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
+          "name": "Sighting",
+          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
         }
       ],
-      "duration_ms": 189680,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
+      "duration_ms": 201000,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Sweet Nothing",
-        "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
       },
       "artists": [
         {
-          "name": "Sighting",
-          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
+          "name": "Morgan St. Douglas",
+          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Sweet Nothing",
-      "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
+      "duration_ms": 189680,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 233150,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "The Scientist",
         "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 275732,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 233150,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "see you soon",
         "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 158647,
       "name": "see you soon",
       "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
       },
       "artists": [
         {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+          "name": "Von Allen",
+          "url": "https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG"
         }
       ],
-      "duration_ms": 189650,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
+      "duration_ms": 217078,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
       },
       "artists": [
         {
-          "name": "Von Allen",
-          "url": "https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG"
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
         }
       ],
-      "duration_ms": 217078,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf"
+      "duration_ms": 189650,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm"
-      },
-      "artists": [
-        {
-          "name": "Mia Rainn",
-          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
-        }
-      ],
-      "duration_ms": 206101,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 169437,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm"
+      },
+      "artists": [
+        {
+          "name": "Mia Rainn",
+          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
+        }
+      ],
+      "duration_ms": 206101,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "No Air",
-        "url": "https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "No Air",
-      "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Hands To Myself",
         "url": "https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "I Ain't Worried",
-        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO"
       },
       "artists": [
         {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
         }
       ],
-      "duration_ms": 164647,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
+      "duration_ms": 199114,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -903,6 +887,22 @@
       "duration_ms": 194018,
       "name": "all night long",
       "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "I Ain't Worried",
+        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
-      },
-      "artists": [
-        {
-          "name": "Colder Shoulders",
-          "url": "https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291"
-        }
-      ],
-      "duration_ms": 199595,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "STAY",
         "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 132789,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
+      },
+      "artists": [
+        {
+          "name": "Colder Shoulders",
+          "url": "https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291"
+        }
+      ],
+      "duration_ms": 199595,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
-      },
-      "artists": [
-        {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
-        }
-      ],
-      "duration_ms": 202076,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 157611,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "duration_ms": 202076,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "duration_ms": 206819,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
+        "name": "You Raise Me Up",
+        "url": "https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd"
       },
       "artists": [
         {
-          "name": "Demi Femme",
-          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+          "name": "Shelby Park",
+          "url": "https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet"
         }
       ],
-      "duration_ms": 206819,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
+      "duration_ms": 140617,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1391,6 +1407,22 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
+        "name": "Only Girl In The World",
+        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 226181,
+      "name": "Only Girl In The World",
+      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/5LFXHU0Ed4S71AN5baidDF"
       },
@@ -1407,22 +1439,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "You Raise Me Up",
-        "url": "https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd"
-      },
-      "artists": [
-        {
-          "name": "Shelby Park",
-          "url": "https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet"
-        }
-      ],
-      "duration_ms": 140617,
-      "name": "You Raise Me Up",
-      "url": "https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Behind Blue Eyes",
         "url": "https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 164210,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Only Girl In The World",
-        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 226181,
-      "name": "Only Girl In The World",
-      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
     },
     {
       "added_at": "2024-03-08 00:01:00",

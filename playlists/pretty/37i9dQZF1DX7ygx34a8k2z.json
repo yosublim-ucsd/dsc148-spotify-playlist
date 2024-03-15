@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 210648,
+  "num_followers": 210846,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWI2OTIwYTk2NTE4YjNlYzVjMmJhZmU2NjdiOWVlODQ3MDYyYjdl",
+  "snapshot_id": "MCxkOTNkMmJiZWM3YjM3NzY0MDlmNDExMGY5NTlmODVmZjdhYWZlNDNl",
   "tracks": [
     {
       "added_at": "2024-02-07 18:19:28",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "The Mollusk",
-        "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
-      },
-      "artists": [
-        {
-          "name": "Ween",
-          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
-        }
-      ],
-      "duration_ms": 126946,
-      "name": "Ocean Man",
-      "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 358773,
       "name": "Coffee & TV",
       "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "The Mollusk",
+        "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
+      },
+      "artists": [
+        {
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
+        }
+      ],
+      "duration_ms": 126946,
+      "name": "Ocean Man",
+      "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 212888,
-      "name": "The Hardest Button to Button",
-      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 212888,
+      "name": "The Hardest Button to Button",
+      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
       "artists": [
         {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
         }
       ],
-      "duration_ms": 182386,
-      "name": "Music When The Lights Go Out",
-      "url": "https://open.spotify.com/track/3cU9b4vb5yzyM12RXJ1k3s"
+      "duration_ms": 309106,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
       },
       "artists": [
         {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
         }
       ],
-      "duration_ms": 309106,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+      "duration_ms": 182386,
+      "name": "Music When The Lights Go Out",
+      "url": "https://open.spotify.com/track/3cU9b4vb5yzyM12RXJ1k3s"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Rites Of Passage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
-      },
-      "artists": [
-        {
-          "name": "Indigo Girls",
-          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "American Water",
         "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 238333,
       "name": "Random Rules",
       "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Rites Of Passage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
+      },
+      "artists": [
+        {
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
     },
     {
       "added_at": "2024-02-07 18:19:28",

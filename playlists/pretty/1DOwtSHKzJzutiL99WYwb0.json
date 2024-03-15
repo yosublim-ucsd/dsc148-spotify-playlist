@@ -1,13 +1,65 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: IU",
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: CHUNGHA",
   "num_followers": 741,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "MTc1NywxMGMyMDkyNTlmNDQwMWNkMmI4Y2EyMjMxMGI5ZTY2NmNjMTZhNzU2",
+  "snapshot_id": "MTc2NCw0MDVmNjBlYjA1M2JmODNiMTk2ZDYwYWFiYzFlM2Q1MWU5NjBiMzI2",
   "tracks": [
+    {
+      "added_at": "2024-03-14 05:18:37",
+      "album": {
+        "name": "EENIE MEENIE",
+        "url": "https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Hongjoong of ATEEZ",
+          "url": "https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "EENIE MEENIE (Feat. Hongjoong of ATEEZ)",
+      "url": "https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz"
+    },
+    {
+      "added_at": "2024-03-14 05:18:28",
+      "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5"
+    },
+    {
+      "added_at": "2024-03-14 05:18:14",
+      "album": {
+        "name": "HOUSE OF TRICKY : Trial And Error",
+        "url": "https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "duration_ms": 189441,
+      "name": "We Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4"
+    },
     {
       "added_at": "2024-02-27 02:31:57",
       "album": {

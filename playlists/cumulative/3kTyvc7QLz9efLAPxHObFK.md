@@ -4,7 +4,7 @@
 
 > 
 
-1,178 songs - 2 day 17 hr 45 min
+1,179 songs - 2 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [4U](https://open.spotify.com/track/6bIKZ9Xl3NgX25JZmB9uWV) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [R3T3P](https://open.spotify.com/artist/6SE1rirTZFq7eZa4VRoDJN), [Mr Ravage](https://open.spotify.com/artist/4iuVB9N1O8MsspGw4UTDsI) | [4U](https://open.spotify.com/album/1WjsFpd03L6R7dNBpclTye) | 2:40 | 2022-10-07 |  |
 | [666](https://open.spotify.com/track/30klniKPGoQthRjWQWgmsC) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [666](https://open.spotify.com/album/4C0peDBhRnYlGhlz62YYK5) | 2:44 | 2023-02-20 |  |
 | [99 Luftballons](https://open.spotify.com/track/12yEap9JbOxwY1XI8ojhnH) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [99 Luftballons](https://open.spotify.com/album/6WSWuALX4UBl91Hjb1q4h2) | 2:46 | 2023-06-17 |  |
-| [A Dream Surprise \- Unproven Remix](https://open.spotify.com/track/7l20bzoF8UTueokSAvOQWr) | [Fade, Bananaman, Unproven](https://open.spotify.com/artist/3e7LlWs0hLKs6Ve23Cr2pl), [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [A Dream Surprise \(Unproven Remix\)](https://open.spotify.com/album/2CIkMXMHtPkyc3H0w20iSz) | 3:26 | 2024-03-13 |  |
+| [A Dream Surprise \- Unproven Remix](https://open.spotify.com/track/7l20bzoF8UTueokSAvOQWr) | [Fade](https://open.spotify.com/artist/5TX4kK3FjQU9aJjK7KiL0f), [Banana Man](https://open.spotify.com/artist/37wRgQRWKVjf5nlFA4ckcK), [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [A Dream Surprise \(Unproven Remix\)](https://open.spotify.com/album/2CIkMXMHtPkyc3H0w20iSz) | 3:26 | 2024-03-13 |  |
 | [A.I.](https://open.spotify.com/track/1ZT1knxtMFC5G1OZJrrNds) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Artificial Intoxication](https://open.spotify.com/album/1UzOa746jQMejJtvImrB5O) | 3:41 | 2022-12-22 |  |
 | [Abracadabra](https://open.spotify.com/track/1kCdb5b3aTYm20d6wQDPko) | [Stereotype](https://open.spotify.com/artist/0XvAc2MBJgzxDdzuzOjsmr) | [Abracadabra EP](https://open.spotify.com/album/6luFYJgV2OnVawoAOFaCgC) | 3:46 | 2023-01-27 |  |
 | [Absolute Nightmare](https://open.spotify.com/track/27UccShXEtB5B82a0bLWgg) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [THE 4TH DIMENSION](https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8) | 2:58 | 2023-11-01 |  |
@@ -514,6 +514,7 @@
 | [I Was On Pills](https://open.spotify.com/track/0LDbDL0J1FzUJHTpuXRPSj) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Hardcore Top 100 \- 2022](https://open.spotify.com/album/4Ersy0iDqv2ZCknpTlWaWB) | 3:27 | 2022-08-23 |  |
 | [I'm A Raver](https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [I'm A Raver](https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu) | 3:25 | 2023-01-29 |  |
 | [I'm Good \(Blue\) \- Nightcore Version Mix](https://open.spotify.com/track/3o7TvmIufDcRQOJp3L3lA3) | [Nightcore Nation](https://open.spotify.com/artist/53v1ftxe2rTpIm8bluID7J), [DJ Satomi](https://open.spotify.com/artist/7MlcYSTwlLeOtBMDJ6WOv5), [KLIO](https://open.spotify.com/artist/7IGMJ3A8I6Sa2GlJ8qprcz) | [NIGHTCORE SPRING 2023](https://open.spotify.com/album/6eWvgpF5JS3jKRUwFxsQ6A) | 2:09 | 2023-03-18 |  |
+| [I'm So Fly](https://open.spotify.com/track/3Dj204MXaXS4Z1FUVhZMhc) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Rave](https://open.spotify.com/album/5QVRiuBgvwZNf8n8TjTBMe) | 2:30 | 2024-03-14 |  |
 | [I'm the Boss](https://open.spotify.com/track/4eBn7rFnA9D82yxjFbvPga) | [Mr\. Bassmeister](https://open.spotify.com/artist/5aT7fqsgVA5IKJHtkfpPDw) | [I'm the Boss](https://open.spotify.com/album/0K0RE6aZcj0TQuzgJhXAiJ) | 3:45 | 2022-04-19 |  |
 | [Ichiban](https://open.spotify.com/track/74G0D2btR5YjoNjP0PwpJ2) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Ichiban](https://open.spotify.com/album/2dYHOV1ZyhJNOPXK8MWiSa) | 2:33 | 2023-08-26 |  |
 | [ICONS](https://open.spotify.com/track/5nrTydBbk9BI6Zrz5ODt4e) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 3:39 | 2023-04-16 |  |

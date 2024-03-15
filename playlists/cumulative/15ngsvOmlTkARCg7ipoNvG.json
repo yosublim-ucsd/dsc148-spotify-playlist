@@ -7571,6 +7571,24 @@
     },
     {
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/0ew7HolRlYFcUMCr4TBsVi"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60401,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/51yS1LEgaT1LHhNmNeimhI"
+    },
+    {
+      "album": {
         "name": "Do We Wake",
         "url": "https://open.spotify.com/album/3Dc0xwwuSUKPQ0FxuuN8VZ"
       },

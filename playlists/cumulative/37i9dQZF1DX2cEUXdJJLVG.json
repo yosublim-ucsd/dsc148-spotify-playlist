@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/6w6fnwF3to11WEGJCzM715"
+      },
+      "artists": [
+        {
+          "name": "Ebony Winter",
+          "url": "https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/61PmSBnABgBhqKhv33P27n"
+    },
+    {
+      "album": {
         "name": "Ceramic",
         "url": "https://open.spotify.com/album/7ooSC9euPaRQCGjPMwOMQL"
       },

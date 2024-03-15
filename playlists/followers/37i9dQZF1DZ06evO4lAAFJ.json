@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 613914,
+  "2024-03-15": 614017,
   "date_first_scraped": "2023-11-11",
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
   "name": "This Is ROSAL\u00cdA",
@@ -836,6 +836,24 @@
     },
     {
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40690,
+      "name": "PRESO - Cap.6: Clausura",
+      "url": "https://open.spotify.com/track/1Yaw3jxKlBUXkfIo2FHG2M"
+    },
+    {
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -869,7 +887,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 269538,
       "name": "QUE NO SALGA LA LUNA - Cap.2: Boda",
       "url": "https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a"

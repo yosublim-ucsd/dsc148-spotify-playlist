@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Sanjeeta Bhattacharya, Akanksha Sethi, Utsavi Jha & Sanjana Devarajan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,372 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,384 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 16 | [Mere Qareeb](https://open.spotify.com/track/4dzde0m9Lw4P7lAvCf4w8h) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Mere Qareeb](https://open.spotify.com/album/6Pvi11haDMjBKRNq8nIPJo) | 3:09 |
 | 17 | [Kahaani \(feat\. Lothika\)](https://open.spotify.com/track/2LUpbowztkHYrtYvXc45Nt) | [Aadya](https://open.spotify.com/artist/4P3Iw29k94k2bcNSGcllxA), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Kahaani \(feat\. Lothika\)](https://open.spotify.com/album/7m1A7n3fgjRyqGpQs1AhPc) | 2:54 |
 | 18 | [YOURS TRULY](https://open.spotify.com/track/0f7Q8984eSXkP5q3PMXm02) | [Niyati Handa](https://open.spotify.com/artist/548L7yKLZMuFHfBVFQ2mO5), [Girish Nakod](https://open.spotify.com/artist/2WrKNI4oe46x5gpMkPPwW2), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [YOURS TRULY](https://open.spotify.com/album/15qlNT50CSml6ZQVUnI900) | 2:37 |
-| 19 | [KAMLI](https://open.spotify.com/track/0Y7g1wEicHQRGZUmofuuNw) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [KAMLI](https://open.spotify.com/album/1eSbfv80dcE4E5zuUllTxb) | 3:53 |
+| 19 | [KAMLI \- From "Chamkillah"](https://open.spotify.com/track/0Y7g1wEicHQRGZUmofuuNw) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [KAMLI \(From "Chamkillah"\)](https://open.spotify.com/album/1eSbfv80dcE4E5zuUllTxb) | 3:53 |
 | 20 | [Nirmohi](https://open.spotify.com/track/2aOUEwMJ3AjE0iiv81AUkx) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur), [Durgesh R Rajbhatt](https://open.spotify.com/artist/7sE4BlKQa4zVmZm0YTiL4R), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Nirmohi](https://open.spotify.com/album/5aqS3ihrdzcgOvIfHIHAe9) | 3:12 |
 | 21 | [Chandni Si Raat \- Reprise](https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ) | [Himanshu Pareek](https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Chandni Si Raat \(Reprise\)](https://open.spotify.com/album/3YOBOrTu9G26nGOoMrhOJu) | 3:35 |
 | 22 | [Imtihaan](https://open.spotify.com/track/6IT15HLHYs10jq6VOtNwh7) | [Mehak Kaur](https://open.spotify.com/artist/3BKyvED3cIdsCwC2c0hB3V), [Chetna](https://open.spotify.com/artist/7FpN5hS8hNphK0l1X5JxrA), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22) | [Imtihaan](https://open.spotify.com/album/5gm9Iht544NL4K6Yydbx89) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 74 | [Parwaaz](https://open.spotify.com/track/30yLu7ZxVdCC78PeljUek0) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Parwaaz](https://open.spotify.com/album/3Hs3LgTNTl5zZyvbhsdPSm) | 3:30 |
 | 75 | [Arz e Dil](https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Arz e Dil](https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9) | 3:35 |
 
-Snapshot ID: `MCxjN2I4MTZiZjhhOWVhMTZhYTVmNTkyZGUxMzgwNDIwMjc2M2Q3MjBl`
+Snapshot ID: `MCw2ZDlmYmQ0NjU2YmFmMzJjMTc2MWMxYzZmOTgxZDI2NjVjZTI0MjE5`

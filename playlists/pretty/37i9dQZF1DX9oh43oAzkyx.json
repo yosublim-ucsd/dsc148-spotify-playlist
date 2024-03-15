@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2576103,
+  "num_followers": 2576892,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWMwZDllY2MzM2NhMGVhYmZjM2RkMzQ4MTE1ZDAxN2JjNDczMGUw",
+  "snapshot_id": "MCxmMTRmNDlkMjI3ZDRhMzg4NmUzMGJhNTQxOGM4YmY3ZTNlNjJmMjkx",
   "tracks": [
     {
       "added_at": "2024-03-08 02:31:12",
@@ -379,30 +379,6 @@
     {
       "added_at": "2024-03-08 02:31:12",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 265305,
-      "name": "dangerous",
-      "url": "https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp"
-    },
-    {
-      "added_at": "2024-03-08 02:31:12",
-      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 165726,
       "name": "Go Stupid",
       "url": "https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd"
+    },
+    {
+      "added_at": "2024-03-08 02:31:12",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 265305,
+      "name": "dangerous",
+      "url": "https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp"
     },
     {
       "added_at": "2024-03-08 02:31:12",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2024-03-08 02:31:12",
       "album": {
-        "name": "CMON FREESTYLE",
-        "url": "https://open.spotify.com/album/2H8nRvoykSWLqr94sL9IRU"
+        "name": "HEATHENISM",
+        "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
         }
       ],
-      "duration_ms": 161805,
-      "name": "CMON FREESTYLE",
-      "url": "https://open.spotify.com/track/7vNwsXLLZIZfJifJxzuqXU"
+      "duration_ms": 200000,
+      "name": "Whatever I Want",
+      "url": "https://open.spotify.com/track/6BqnF9KSPIgLqO4EG9erJr"
     },
     {
       "added_at": "2024-03-08 02:31:12",
@@ -1287,22 +1291,18 @@
     {
       "added_at": "2024-03-08 02:31:12",
       "album": {
-        "name": "HEATHENISM",
-        "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
+        "name": "CMON FREESTYLE",
+        "url": "https://open.spotify.com/album/2H8nRvoykSWLqr94sL9IRU"
       },
       "artists": [
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Whatever I Want",
-      "url": "https://open.spotify.com/track/6BqnF9KSPIgLqO4EG9erJr"
+      "duration_ms": 161805,
+      "name": "CMON FREESTYLE",
+      "url": "https://open.spotify.com/track/7vNwsXLLZIZfJifJxzuqXU"
     },
     {
       "added_at": "2024-03-08 02:31:12",

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 146483,
+  "num_followers": 146541,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTgyZGU0NDg5ZDc0NzU5OWIzM2RiMjMxZDFjNjMxNDYzMzE4ZmI5",
+  "snapshot_id": "MCxkYjg4MzBiNjY3OWRiZDYwNjg4OTVjNWUxYzcxNTk5NDg3NDgwYzJi",
   "tracks": [
     {
       "added_at": "2023-11-17 22:08:15",
@@ -515,22 +515,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Love Letter Kill Shot",
-        "url": "https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM"
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
       "artists": [
         {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        },
-        {
-          "name": "Andrew Schwab",
-          "url": "https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc"
+          "name": "Glasslands",
+          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
         }
       ],
-      "duration_ms": 269733,
-      "name": "Panic Room (featuring Andrew Schwab)",
-      "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
+      "duration_ms": 313790,
+      "name": "Deadman",
+      "url": "https://open.spotify.com/track/5hRTySOfrVVhDNOya4IML9"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -567,6 +563,26 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Love Letter Kill Shot",
+        "url": "https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        },
+        {
+          "name": "Andrew Schwab",
+          "url": "https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "Panic Room (featuring Andrew Schwab)",
+      "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Eulogies",
         "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 166575,
       "name": "Weight of Glory",
       "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Pariah",
-        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
-      },
-      "artists": [
-        {
-          "name": "Glasslands",
-          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
-        }
-      ],
-      "duration_ms": 313790,
-      "name": "Deadman",
-      "url": "https://open.spotify.com/track/5hRTySOfrVVhDNOya4IML9"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
-      },
-      "artists": [
-        {
-          "name": "House of Heroes",
-          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Colorblind",
         "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
       },
@@ -1011,18 +995,34 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
       },
       "artists": [
         {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+          "name": "House of Heroes",
+          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
         }
       ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
+      "duration_ms": 200176,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Rhema",
+        "url": "https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f"
+      },
+      "artists": [
+        {
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
+        }
+      ],
+      "duration_ms": 209128,
+      "name": "No Altars",
+      "url": "https://open.spotify.com/track/1ENnp7zs9kMq701EluEbKA"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Rhema",
-        "url": "https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f"
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
       },
       "artists": [
         {
-          "name": "War Of Ages",
-          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
         }
       ],
-      "duration_ms": 209128,
-      "name": "No Altars",
-      "url": "https://open.spotify.com/track/1ENnp7zs9kMq701EluEbKA"
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
-      },
-      "artists": [
-        {
-          "name": "Living Scars",
-          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
-        }
-      ],
-      "duration_ms": 253740,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Death Stare",
         "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 248972,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
+      },
+      "artists": [
+        {
+          "name": "Living Scars",
+          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
+        }
+      ],
+      "duration_ms": 253740,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Last Day Rising",
-        "url": "https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp"
+        "name": "In Defiance",
+        "url": "https://open.spotify.com/album/10V2CzomOo7tBR27HsKon5"
       },
       "artists": [
         {
-          "name": "LAST DAY RISING",
-          "url": "https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ"
+          "name": "Matt Sassano",
+          "url": "https://open.spotify.com/artist/57qdENESO67xX6tvTXTLtk"
         }
       ],
-      "duration_ms": 242506,
-      "name": "Ready to Roll",
-      "url": "https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ"
+      "duration_ms": 206788,
+      "name": "In Defiance",
+      "url": "https://open.spotify.com/track/17VvT0RZ6HcRkpMbw1xgn3"
     }
   ],
   "unique_name": "Top Christian Rock",

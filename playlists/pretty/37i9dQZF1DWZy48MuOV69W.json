@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 73361,
+  "num_followers": 73353,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDE3MmVhNzRmZGY4ZGNmNjQwMGIzNmEyMDJmZmY0MTQwODViNTMy",
+  "snapshot_id": "MCxkZDhmZmQ3MGRkNmNhMmNhNGI3OGI1YmRhYmUxNzAwMWQ3NWFhMmE2",
   "tracks": [
     {
       "added_at": "2023-12-19 12:10:20",
@@ -939,22 +939,34 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "Pretty Swingin' Christmas",
-        "url": "https://open.spotify.com/album/0aKyWboAMzL2GECCS3hZd3"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5d13Zb4bfDGuahpFTRLuu7"
       },
       "artists": [
         {
-          "name": "David Tobin",
-          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
         },
         {
-          "name": "Jeff Meegan",
-          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
         }
       ],
-      "duration_ms": 129042,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/4IjKpOxYRYzKHouGoQIAgA"
+      "duration_ms": 166173,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3XxHSA1xUFKRyRiquB8oQI"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

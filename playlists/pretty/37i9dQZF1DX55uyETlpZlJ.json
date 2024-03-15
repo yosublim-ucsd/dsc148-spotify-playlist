@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23180,
+  "num_followers": 23182,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmE0NGM2ZTU1MzY5NmI2OTNiOGQ4MDhhNTRhZGJlZTRkMTcyMjQ1",
+  "snapshot_id": "MCw3ZjUwMzVjZGE2NTk4ZDk5ODUwMDFlM2U5ZTM1ODM4NzY1NDQyM2I5",
   "tracks": [
     {
       "added_at": "2024-02-01 11:11:53",
@@ -133,6 +133,22 @@
       "url": "https://open.spotify.com/track/1sAUWodQtglnQ3RqVbRLxj"
     },
     {
+      "added_at": "2024-03-14 12:21:16",
+      "album": {
+        "name": "Gelthinallo",
+        "url": "https://open.spotify.com/album/1lwlU3A6anSNGgR8U0gZ1U"
+      },
+      "artists": [
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Gelthinallo",
+      "url": "https://open.spotify.com/track/67aund6DgSswfEy1lkMyZD"
+    },
+    {
       "added_at": "2023-09-13 11:53:53",
       "album": {
         "name": "Manasare",
@@ -181,6 +197,30 @@
       "url": "https://open.spotify.com/track/6gTFqOudf70o2LhdhtesT2"
     },
     {
+      "added_at": "2024-03-14 12:21:16",
+      "album": {
+        "name": "Bhayavagide",
+        "url": "https://open.spotify.com/album/6gBBoyq4Az8P1AR3MFRaeR"
+      },
+      "artists": [
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH"
+        },
+        {
+          "name": "Manu Rao",
+          "url": "https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ"
+        },
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        }
+      ],
+      "duration_ms": 247207,
+      "name": "Bhayavagide",
+      "url": "https://open.spotify.com/track/385UNBjrv1NoCxsqop82Uh"
+    },
+    {
       "added_at": "2024-03-08 20:30:34",
       "album": {
         "name": "Don't Care (Female Version)",
@@ -227,6 +267,26 @@
       "duration_ms": 157512,
       "name": "Hey Snehithe",
       "url": "https://open.spotify.com/track/1vy1wvjZnGRy2jmI05n3C2"
+    },
+    {
+      "added_at": "2024-03-14 12:21:16",
+      "album": {
+        "name": "Kurudu Preeti",
+        "url": "https://open.spotify.com/album/1GtZYToHUreZ3WnY3j3rq3"
+      },
+      "artists": [
+        {
+          "name": "Vishwas Javali",
+          "url": "https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN"
+        },
+        {
+          "name": "Sachin Dodamani",
+          "url": "https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2"
+        }
+      ],
+      "duration_ms": 193467,
+      "name": "Kurudu Preeti",
+      "url": "https://open.spotify.com/track/2GRyvZlIc2OcyrJdHAE0p9"
     },
     {
       "added_at": "2024-02-21 08:37:44",
@@ -369,30 +429,6 @@
       "url": "https://open.spotify.com/track/62nk85CK7tWrCJpuegJ4mx"
     },
     {
-      "added_at": "2023-08-09 11:20:57",
-      "album": {
-        "name": "Hogey",
-        "url": "https://open.spotify.com/album/1xEgorMZd60Bof9x0cdqaM"
-      },
-      "artists": [
-        {
-          "name": "A Spikey",
-          "url": "https://open.spotify.com/artist/2xwx1HGL8LZtMIiZoq7TrK"
-        },
-        {
-          "name": "Loud Silence",
-          "url": "https://open.spotify.com/artist/7rpgKYrHf6PqwG0ancMOVl"
-        },
-        {
-          "name": "Hi-Polar",
-          "url": "https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Hogey",
-      "url": "https://open.spotify.com/track/1dpbtaXrFGTlXL2HVxAFWz"
-    },
-    {
       "added_at": "2024-01-31 11:14:32",
       "album": {
         "name": "MADE IN KARNATAKA",
@@ -411,30 +447,6 @@
       "duration_ms": 96018,
       "name": "MADE IN KARNATAKA",
       "url": "https://open.spotify.com/track/02Zr33EJNBLMJOUgLxWBwb"
-    },
-    {
-      "added_at": "2023-09-06 11:44:44",
-      "album": {
-        "name": "Neene Neene",
-        "url": "https://open.spotify.com/album/4V6OLQHOHCSYf8MM3xWisY"
-      },
-      "artists": [
-        {
-          "name": "Drusti",
-          "url": "https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7"
-        },
-        {
-          "name": "Kiran Bangera",
-          "url": "https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY"
-        },
-        {
-          "name": "Manvith Karkera",
-          "url": "https://open.spotify.com/artist/6lGuqxlQ4esOsUzZNZ1Pkw"
-        }
-      ],
-      "duration_ms": 276270,
-      "name": "Neene Neene",
-      "url": "https://open.spotify.com/track/3oNl7SQVQnogVXaXdfbdhw"
     },
     {
       "added_at": "2023-09-14 12:04:45",
@@ -1241,22 +1253,6 @@
       "url": "https://open.spotify.com/track/4YZEX2H5wzXWjlCRiRMk5E"
     },
     {
-      "added_at": "2023-08-21 06:03:47",
-      "album": {
-        "name": "Chaa",
-        "url": "https://open.spotify.com/album/3fNlWxPWdY8mzxgzXlLkNm"
-      },
-      "artists": [
-        {
-          "name": "D Rapper",
-          "url": "https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "Chaa",
-      "url": "https://open.spotify.com/track/1MGXOBkxHXJACP6zm16kf2"
-    },
-    {
       "added_at": "2023-09-16 06:18:46",
       "album": {
         "name": "Usira Olage",
@@ -1351,26 +1347,6 @@
       "duration_ms": 71400,
       "name": "Kannalle",
       "url": "https://open.spotify.com/track/4V8RNKh9RTAdGMnZOSlrpp"
-    },
-    {
-      "added_at": "2023-08-31 13:05:24",
-      "album": {
-        "name": "Chii",
-        "url": "https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ"
-      },
-      "artists": [
-        {
-          "name": "Shashi Bhat",
-          "url": "https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL"
-        },
-        {
-          "name": "D Rapper",
-          "url": "https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E"
-        }
-      ],
-      "duration_ms": 162211,
-      "name": "Chii",
-      "url": "https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV"
     },
     {
       "added_at": "2023-08-31 13:05:24",

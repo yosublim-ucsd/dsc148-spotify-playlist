@@ -1,12 +1,12 @@
 {
   "description": "Spa treatment role-play and ASMR massage sounds to give you tingles and help you relax.",
-  "num_followers": 40909,
+  "num_followers": 40963,
   "original_name": "ASMR Massage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWZkMmRmMjk1YWVkOTNhNjk0M2M2M2Y5MjFiYzJhMzdjMDE5ZDdi",
+  "snapshot_id": "MCxkZjQyNGMyODUzYjhiYjRiNjZlMDM0MzRlMzhhODEwODFiMzk1YTBh",
   "tracks": [
     {
       "added_at": "2023-09-08 11:48:58",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
+        "name": "More Triggers",
+        "url": "https://open.spotify.com/album/6wAvVd8gN32PlQEAkkwHw4"
+      },
+      "artists": [
+        {
+          "name": "ASMR World",
+          "url": "https://open.spotify.com/artist/68rfhZu4eApC7JDekx2vc4"
+        }
+      ],
+      "duration_ms": 187477,
+      "name": "Clem's Head Massage",
+      "url": "https://open.spotify.com/track/3QMwMeg6TyXSfPJqVY91mr"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
         "name": "My ASMR World",
         "url": "https://open.spotify.com/album/5NTLeAufx999xaNaHVP4Yq"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 190590,
       "name": "Rubbing Moisterizer in Hands",
       "url": "https://open.spotify.com/track/7CmU5zWpXNOrUlB90DMRoO"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
-        "name": "Luxury Novice ASMR Massage Therapist",
-        "url": "https://open.spotify.com/album/56Is2bkK7cgKeqiDW2Ufdj"
-      },
-      "artists": [
-        {
-          "name": "Olivia Kissper ASMR",
-          "url": "https://open.spotify.com/artist/1MEV9ITWXMftwktI602Cze"
-        }
-      ],
-      "duration_ms": 426945,
-      "name": "Tapping, massaging & lotion sounds",
-      "url": "https://open.spotify.com/track/2qkXfFuBjVHTrEjCG9vB23"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "ASMR 6 Ear Massages To Help Stop Your Brain From Overthinking (No Talking)",
-        "url": "https://open.spotify.com/album/0A3QJ5aCPJoh0KxqRysTo6"
+        "name": "Luxury Novice ASMR Massage Therapist",
+        "url": "https://open.spotify.com/album/56Is2bkK7cgKeqiDW2Ufdj"
       },
       "artists": [
         {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+          "name": "Olivia Kissper ASMR",
+          "url": "https://open.spotify.com/artist/1MEV9ITWXMftwktI602Cze"
         }
       ],
-      "duration_ms": 506500,
-      "name": "Scalp Massage",
-      "url": "https://open.spotify.com/track/3K9vwqX5tIKaYl1vQGgi7G"
+      "duration_ms": 426945,
+      "name": "Tapping, massaging & lotion sounds",
+      "url": "https://open.spotify.com/track/2qkXfFuBjVHTrEjCG9vB23"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "More Triggers",
-        "url": "https://open.spotify.com/album/6wAvVd8gN32PlQEAkkwHw4"
+        "name": "ASMR 6 Ear Massages To Help Stop Your Brain From Overthinking (No Talking)",
+        "url": "https://open.spotify.com/album/0A3QJ5aCPJoh0KxqRysTo6"
       },
       "artists": [
         {
-          "name": "ASMR World",
-          "url": "https://open.spotify.com/artist/68rfhZu4eApC7JDekx2vc4"
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
         }
       ],
-      "duration_ms": 187477,
-      "name": "Clem's Head Massage",
-      "url": "https://open.spotify.com/track/3QMwMeg6TyXSfPJqVY91mr"
+      "duration_ms": 506500,
+      "name": "Scalp Massage",
+      "url": "https://open.spotify.com/track/3K9vwqX5tIKaYl1vQGgi7G"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
         }
       ],
-      "duration_ms": 458000,
-      "name": "Oil and Lotion Ear Massage, Pt. 1",
-      "url": "https://open.spotify.com/track/56eRIbddAsBVUVRkgnsuaI"
+      "duration_ms": 566000,
+      "name": "Oil and Lotion Ear Massage, Pt. 4",
+      "url": "https://open.spotify.com/track/0AqM6cD3BwxuYIl6QXQxUn"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
         }
       ],
-      "duration_ms": 566000,
-      "name": "Oil and Lotion Ear Massage, Pt. 4",
-      "url": "https://open.spotify.com/track/0AqM6cD3BwxuYIl6QXQxUn"
+      "duration_ms": 458000,
+      "name": "Oil and Lotion Ear Massage, Pt. 1",
+      "url": "https://open.spotify.com/track/56eRIbddAsBVUVRkgnsuaI"
     },
     {
       "added_at": "2023-09-08 11:48:58",

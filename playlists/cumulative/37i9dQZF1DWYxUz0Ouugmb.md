@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggi Marito
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: RADAR Indonesia Class of 2023
 
 188 songs - 12 hr 5 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: REI AMI",
-  "num_followers": 85103,
+  "num_followers": 85168,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDJjODgyNGM0NmI1MDIxZWYyNTUyZmM1Njg0N2IwNmFhNzhlNzI0",
+  "snapshot_id": "MCw1N2YwMTIwZTY4NmI3ODczNzM4YzE2Mjk0ZTJjYzM1Yjk4M2VkOWRi",
   "tracks": [
     {
       "added_at": "2024-03-01 05:01:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Better Than the Boys",
-        "url": "https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy"
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
       },
       "artists": [
         {
-          "name": "V\u00e9yah",
-          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 154884,
-      "name": "Better Than the Boys",
-      "url": "https://open.spotify.com/track/6sHVzNuJ95MQOuZoCXKSJw"
+      "duration_ms": 124751,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
+        "name": "Better Than the Boys",
+        "url": "https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
         }
       ],
-      "duration_ms": 124751,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
+      "duration_ms": 154884,
+      "name": "Better Than the Boys",
+      "url": "https://open.spotify.com/track/6sHVzNuJ95MQOuZoCXKSJw"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kay",
-          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
-        }
-      ],
-      "duration_ms": 213076,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "PLAYTHING",
         "url": "https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 167640,
       "name": "PLAYTHING",
       "url": "https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kay",
+          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
+        }
+      ],
+      "duration_ms": 213076,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
     },
     {
       "added_at": "2024-03-01 05:01:00",

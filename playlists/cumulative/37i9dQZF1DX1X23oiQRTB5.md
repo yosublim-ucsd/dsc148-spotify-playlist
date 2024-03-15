@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> UZI au top de la première playlist de rap français !
+> Werenoi au top de la première playlist de rap français !
 
 239 songs - 12 hr 19 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: The Marías
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,948 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,955 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [All The Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All The Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 |
 | 100 | [Not On Purpose](https://open.spotify.com/track/4m1mm2sXQgxiWZKXHjXy9L) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Ultraviolet](https://open.spotify.com/album/6UCEVfpeoqVRRN9TkGpv27) | 2:55 |
 
-Snapshot ID: `MCxlM2I5Njc0Y2IzMTBhNWQ4NWZjODIzOGQ5ZmI1YTcxYWYwOGIzMjRk`
+Snapshot ID: `MCw2ZWVhYTAwMmFjY2E4YjVlYTU2YTRlNzhhM2FmYjMwMmUwNTE0YWFm`

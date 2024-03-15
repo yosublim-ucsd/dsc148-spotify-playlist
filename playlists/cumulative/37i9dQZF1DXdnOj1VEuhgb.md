@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh
 
-303 songs - 13 hr 11 min
+304 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [ANLAR ANLAYAN DİLİMDEN](https://open.spotify.com/track/3SHd1jpffHjpoWq0I4TRcE) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [ANLAR ANLAYAN DİLİMDEN](https://open.spotify.com/album/0dTlgsIBAc93WHZE89WZUW) | 2:51 | 2023-04-27 | 2023-06-09 |
 | [ANLARSIN](https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ANLARSIN](https://open.spotify.com/album/1u95gvoiah3kNlf4s2sBjZ) | 2:58 | 2023-04-13 | 2023-05-05 |
 | [ARABA](https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [ARABA](https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6) | 1:31 | 2023-06-08 | 2023-11-11 |
+| [ARADAN ÇOK YILLAR GEÇTİ](https://open.spotify.com/track/54zsmA29OuHxurKZwx77Li) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [ARADAN ÇOK YILLAR GEÇTİ](https://open.spotify.com/album/3WuNWoi9UgDhWtLpEVboyQ) | 3:12 | 2024-03-14 |  |
 | [Aramazsan Arama](https://open.spotify.com/track/1hd4lSaJtLomTU3s6OXsf6) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Aramazsan Arama](https://open.spotify.com/album/1EwOWKlq8ufPZKpEg0eOSU) | 2:42 | 2023-12-21 | 2024-01-05 |
 | [Ararım Yarın](https://open.spotify.com/track/7Dfe90uD6HDlA2lq3K1mkp) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Ararım Yarın](https://open.spotify.com/album/2zUHnGXEvzKk02vnJQHAnm) | 2:30 | 2023-08-10 | 2023-10-01 |
 | [ARASAN DA](https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ARASAN DA](https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7) | 3:11 | 2023-01-10 | 2023-06-16 |
@@ -212,7 +213,7 @@
 | [O Yeterdi Aslında](https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [O Yeterdi Aslında](https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF) | 3:07 | 2023-02-02 | 2023-08-11 |
 | [Of Aman](https://open.spotify.com/track/47tPBTEZNCy6YEP0tn3tPi) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Of Aman](https://open.spotify.com/album/4uFmbRXLHZcsPanWVZFiBu) | 3:10 | 2023-08-03 | 2023-09-22 |
 | [OLEY](https://open.spotify.com/track/7GJ0QYWfAdnJkgMShTRodn) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [OLEY](https://open.spotify.com/album/1DfTQGVNsHhPZ4a7QshWy9) | 2:19 | 2023-07-06 | 2023-07-21 |
-| [Olmaz Dediler](https://open.spotify.com/track/163s0gyZnKzROauE3JqbKG) | [Resul Aydemir](https://open.spotify.com/artist/6Qf3MTu5yyMzrfFJiHOHQP), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [o5](https://open.spotify.com/artist/4P3VjrXL7gYujvIjoJVpzz) | [Olmaz Dediler](https://open.spotify.com/album/4UUs0YqJ5Dn1taqE5isjmk) | 2:06 | 2024-02-22 |  |
+| [Olmaz Dediler](https://open.spotify.com/track/163s0gyZnKzROauE3JqbKG) | [Resul Aydemir](https://open.spotify.com/artist/6Qf3MTu5yyMzrfFJiHOHQP), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [o5](https://open.spotify.com/artist/4P3VjrXL7gYujvIjoJVpzz) | [Olmaz Dediler](https://open.spotify.com/album/4UUs0YqJ5Dn1taqE5isjmk) | 2:06 | 2024-02-22 | 2024-03-15 |
 | [olsun](https://open.spotify.com/track/1QtI9v2S1Bm4iwo3w4401A) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [olsun](https://open.spotify.com/album/2PdUDMWWFF966ZEykNa4Ej) | 2:04 | 2023-01-10 | 2023-05-05 |
 | [Olur Mu](https://open.spotify.com/track/45dj2Fx0LiZgSuXGnyLDRG) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Olur Mu](https://open.spotify.com/album/5cRthf9NEB9hzVdlZ0mtvm) | 3:29 | 2023-01-10 | 2023-03-10 |
 | [Onlarla konusuyorum](https://open.spotify.com/track/6upGqMDMW3mn1qFV5rcvkF) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Onlarla konusuyorum](https://open.spotify.com/album/04nTrqYcj0eYVpr6R2CTEC) | 3:31 | 2023-01-10 | 2023-01-13 |

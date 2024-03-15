@@ -5699,7 +5699,7 @@
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 174375,
+      "duration_ms": 174404,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
     },
@@ -14877,6 +14877,24 @@
     },
     {
       "album": {
+        "name": "The Afterhours",
+        "url": "https://open.spotify.com/album/4LG0u43Eqo0FgZpq5SikRE"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191383,
+      "name": "The Afterhours",
+      "url": "https://open.spotify.com/track/7mGhqK1VAvlwfCe2ZT5NhT"
+    },
+    {
+      "album": {
         "name": "The Big Easy",
         "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
       },
@@ -16022,7 +16040,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 208637,
       "name": "Up N' Down (feat. JmNPR)",
       "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"

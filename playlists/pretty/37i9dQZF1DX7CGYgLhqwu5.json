@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 375789,
+  "num_followers": 375805,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTNkNGQzNmJhN2Q2MWEyYmMwOGYxMTBlNzRlOTRmYjczNDlkNzc2",
+  "snapshot_id": "MCw4MjM1Y2E2YTIyMjE5YjNlNTg0YTQ1ZjkyMjI5ZDFmMzEwMDM2ODNi",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Complete Capitol Singles: 1957-1966",
-        "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens & The Buckaroos",
-          "url": "https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV"
-        }
-      ],
-      "duration_ms": 121893,
-      "name": "Love's Gonna Live Here - Mono Single Version",
-      "url": "https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "All-American Cowboy",
         "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 160784,
       "name": "Skip a Rope",
       "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "The Complete Capitol Singles: 1957-1966",
+        "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens & The Buckaroos",
+          "url": "https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV"
+        }
+      ],
+      "duration_ms": 121893,
+      "name": "Love's Gonna Live Here - Mono Single Version",
+      "url": "https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr"
     },
     {
       "added_at": "2023-11-21 21:06:39",

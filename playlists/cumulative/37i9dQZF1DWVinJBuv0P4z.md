@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-352 songs - 19 hr 53 min
+353 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Kissin' in the Back Row of the Movies](https://open.spotify.com/track/3XPX8bOozgShCrhWbLC0ZL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Legends](https://open.spotify.com/album/1imTGKx9Ak5kaPpZLC9DGg) | 3:31 | 2021-04-29 | 2022-07-17 |
 | [Knock on Wood](https://open.spotify.com/track/1vJQzxoByUo0CoiEgAdgDk) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock on Wood](https://open.spotify.com/album/72XjR8hsoa0ZDEB9ieDOPD) | 4:09 | 2023-01-03 | 2024-02-18 |
 | [Knock On Wood](https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Greatest Hits](https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V) | 4:10 | 2021-04-29 | 2023-05-11 |
+| [Knock on Wood \(1985 7" Remix\)](https://open.spotify.com/track/0OUYuErgyc097NzSRff8UI) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock on Wood: The Anthology](https://open.spotify.com/album/7sTS0xZLJCmhKqoTUXNiom) | 4:08 | 2023-01-03 |  |
 | [Knock on Wood \- 7" Edit](https://open.spotify.com/track/7vMRj40Rw8PPgZiDcbyUdj) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock On Wood: The Anthology](https://open.spotify.com/album/6brPlzSCD2ucBdhqmasvdf) | 3:47 | 2021-04-29 | 2022-04-20 |
 | [Knock Three Times](https://open.spotify.com/track/4Z0K8WzmzsPpX0Po6qMfEh) | [The Dawn](https://open.spotify.com/artist/5z348neb55aaKyQhVgqEvS) | [Knock Three Times](https://open.spotify.com/album/3ZOLIQrSyuIcrek9YB7zys) | 3:00 | 2021-04-29 | 2022-07-29 |
 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 | 2021-04-29 | 2023-11-04 |
@@ -266,7 +267,7 @@
 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 | 2021-04-29 | 2023-05-23 |
 | [Shake Your Body \(Down to the Ground\)](https://open.spotify.com/track/7g4I3DeFlZLeqMjw0ONBqs) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 7:59 | 2021-04-29 | 2022-04-20 |
 | [Shake Your Groove Thing](https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:46 | 2021-04-29 |  |
-| [Shambala \- Single Version](https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Cyan](https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK) | 3:24 | 2021-04-29 |  |
+| [Shambala \- Single Version](https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Cyan](https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK) | 3:24 | 2021-04-29 | 2024-03-15 |
 | [She's A Lady](https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Tom Jones Sings She's A Lady](https://open.spotify.com/album/1t0bCr3iI98gdcfwZ2YeVX) | 2:54 | 2023-05-23 |  |
 | [Shout](https://open.spotify.com/track/0fRtV3nteuYNhpYrOEWKaD) | [Lulu And The Luvvers](https://open.spotify.com/artist/4N3yBX8wmW8uAXW7MdXwdb) | [Something To Shout About](https://open.spotify.com/album/6d1nUCOvcCLhMGzpTjLbQY) | 2:53 | 2021-04-29 | 2022-04-19 |
 | [Shout, Pts\. 1 & 2](https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Shout!](https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH) | 4:28 | 2021-04-29 | 2024-01-29 |

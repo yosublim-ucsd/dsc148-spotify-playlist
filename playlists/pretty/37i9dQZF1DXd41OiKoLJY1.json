@@ -1,13 +1,217 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: 25hearts Artwork: Isu Kim\n",
-  "num_followers": 59297,
+  "description": "Fresh releases from your future favorite artists. Cover: Beatrice Mariel. Artwork: Isu Kim\n",
+  "num_followers": 59313,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjFkMDZmMzA3ZjU5NTVlMzk2ZGYzMjVhOTNhMzFjMWE3Y2E2ZmEx",
+  "snapshot_id": "MCxkMWU3MTM0ZTdmMGU1MWI3ODRmZjQ2N2NhYTZiY2NhMzA0YmMzOTRj",
   "tracks": [
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "FASHIONABLY LATE",
+        "url": "https://open.spotify.com/album/5vR6d5cNoLPNeEcQt9N6vk"
+      },
+      "artists": [
+        {
+          "name": "KZZY",
+          "url": "https://open.spotify.com/artist/3npYwV74Euuu9W97dL6K8E"
+        }
+      ],
+      "duration_ms": 149562,
+      "name": "FASHIONABLY LATE",
+      "url": "https://open.spotify.com/track/33WNSbL0cJWxy7VvxM7izW"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "Hiraya",
+        "url": "https://open.spotify.com/album/4rGnzfhnIoYyQWQPwxsiV6"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Mariel",
+          "url": "https://open.spotify.com/artist/2phmP9IVWMCQJbD4JXj6fX"
+        }
+      ],
+      "duration_ms": 157647,
+      "name": "Hiraya",
+      "url": "https://open.spotify.com/track/1N0Fgi40v93FMlPjoEUrea"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "Lalim",
+        "url": "https://open.spotify.com/album/0ZsG8sGVAFHYHtiG08J7VP"
+      },
+      "artists": [
+        {
+          "name": "Sunlit Memory",
+          "url": "https://open.spotify.com/artist/6IUa7Iyq8GIwvIDkw5vQk3"
+        },
+        {
+          "name": "drmfy",
+          "url": "https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp"
+        }
+      ],
+      "duration_ms": 169331,
+      "name": "Lalim",
+      "url": "https://open.spotify.com/track/1iqif1BcFUKkLorG6BjaMn"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "Code Blue Compilation Mixtape",
+        "url": "https://open.spotify.com/album/6AHzKOOE8JXq17RyILIKYT"
+      },
+      "artists": [
+        {
+          "name": "Xaje",
+          "url": "https://open.spotify.com/artist/1FMDR9a058wt2TtbQH9NNN"
+        }
+      ],
+      "duration_ms": 95624,
+      "name": "IHAP",
+      "url": "https://open.spotify.com/track/3lzsnWw6H07AZ8voDzSl6Y"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "langhiya",
+        "url": "https://open.spotify.com/album/2zWBEp4Q2SOyehkn1OeQLo"
+      },
+      "artists": [
+        {
+          "name": "Joshua Feliciano",
+          "url": "https://open.spotify.com/artist/7KX5v2c2WjRTjHce9xLQSL"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "langhiya",
+      "url": "https://open.spotify.com/track/5fAt1n8u0NnIBGSum47RTB"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "Socorro Nights",
+        "url": "https://open.spotify.com/album/1hvBQK0DfWEwtvXDmcLOvU"
+      },
+      "artists": [
+        {
+          "name": "JASTENN",
+          "url": "https://open.spotify.com/artist/5svCxcD5y6knncM1lSlAgM"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Socorro Nights",
+      "url": "https://open.spotify.com/track/33QVNXvPGrFZ3wc7gOSYtg"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1nCQEfKdu6jSo0uIP5o9Ly"
+      },
+      "artists": [
+        {
+          "name": "lxni",
+          "url": "https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm"
+        }
+      ],
+      "duration_ms": 200742,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/46LkjXnmATXcmLBSi5erFi"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "LOSE MYSELF",
+        "url": "https://open.spotify.com/album/0lqA1pvL1IWXn98NAVwDN8"
+      },
+      "artists": [
+        {
+          "name": "Yung Masa",
+          "url": "https://open.spotify.com/artist/20shpSfFnBGulON1Hmxt5M"
+        },
+        {
+          "name": "DANTE",
+          "url": "https://open.spotify.com/artist/6fMMwprp4lWIJNv7U87M3q"
+        },
+        {
+          "name": "haihai",
+          "url": "https://open.spotify.com/artist/6t5aHzfEP3YE56KL13bN1i"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "LOSE MYSELF",
+      "url": "https://open.spotify.com/track/5W1wUDg1va5AhaR0ODjO8K"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/4l0EfWROv4oh1SC1nNbZrd"
+      },
+      "artists": [
+        {
+          "name": "Jay Garche",
+          "url": "https://open.spotify.com/artist/3lbEBZ6yicaiXQfKnQDCkP"
+        }
+      ],
+      "duration_ms": 209661,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/2w7eCn5hSZdIaReGArzpag"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/28NJEUnbFpJ8sW1GRhBhWp"
+      },
+      "artists": [
+        {
+          "name": "Bre\u0113",
+          "url": "https://open.spotify.com/artist/5dw8ejHVfSDig5NlMJ5ON4"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/1UUocZuuq6netk1sSypUex"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "burn.",
+        "url": "https://open.spotify.com/album/4GTroNzEOOb9rxd0nlCAif"
+      },
+      "artists": [
+        {
+          "name": "Night Over Alaska",
+          "url": "https://open.spotify.com/artist/7FpDFmAxCgnT2MRZUkY54n"
+        }
+      ],
+      "duration_ms": 224344,
+      "name": "burn.",
+      "url": "https://open.spotify.com/track/54cEkLTZv0hZjN8ioQysVa"
+    },
+    {
+      "added_at": "2024-03-14 16:00:00",
+      "album": {
+        "name": "Sally",
+        "url": "https://open.spotify.com/album/0SZ9hEycxoq9sVDLEcTX2n"
+      },
+      "artists": [
+        {
+          "name": "Chris Cantada Force",
+          "url": "https://open.spotify.com/artist/5ubeV5kSMrVqdelpI3LlMw"
+        }
+      ],
+      "duration_ms": 186201,
+      "name": "Sally",
+      "url": "https://open.spotify.com/track/50DiWmFWF0pn7GldSatwDA"
+    },
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
@@ -1483,222 +1687,6 @@
       "duration_ms": 233027,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/5CnPw5SHRXjSDfzctxeN4X"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Unang Halik",
-        "url": "https://open.spotify.com/album/3zFDdz4WwmP79LopOZI3Ur"
-      },
-      "artists": [
-        {
-          "name": "CRISHA",
-          "url": "https://open.spotify.com/artist/3IJSSAmsW0l0ilgw0foj8m"
-        }
-      ],
-      "duration_ms": 266440,
-      "name": "Unang Halik",
-      "url": "https://open.spotify.com/track/5zWB75pxsGezA3FYeKTDzs"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Citrine",
-        "url": "https://open.spotify.com/album/5Y4PZkivTTuZnHz0ttEwFz"
-      },
-      "artists": [
-        {
-          "name": "Mt. Lewis",
-          "url": "https://open.spotify.com/artist/0uJdRrv6tNjZPCY5HrMBMN"
-        }
-      ],
-      "duration_ms": 308932,
-      "name": "24",
-      "url": "https://open.spotify.com/track/1nAqXkvAtZoilmGTRaYcb0"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Dapithapon",
-        "url": "https://open.spotify.com/album/2mGgdBR9juh5ZqChP75cYo"
-      },
-      "artists": [
-        {
-          "name": "Paper Satellites",
-          "url": "https://open.spotify.com/artist/45eAWMbvTmm7HbyFlxMKub"
-        },
-        {
-          "name": "BABYBLUE",
-          "url": "https://open.spotify.com/artist/0x42YctsSCMOPcgTgtKGKy"
-        }
-      ],
-      "duration_ms": 211297,
-      "name": "Dapithapon",
-      "url": "https://open.spotify.com/track/522eJkh5Stf6JsIWzfCDwz"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "homebound",
-        "url": "https://open.spotify.com/album/6TnYKQ1ZPKXbbJFLcwUDIJ"
-      },
-      "artists": [
-        {
-          "name": "Xaje",
-          "url": "https://open.spotify.com/artist/1FMDR9a058wt2TtbQH9NNN"
-        }
-      ],
-      "duration_ms": 131105,
-      "name": "homebound",
-      "url": "https://open.spotify.com/track/6ghDpRa5odOCx6EpRypZWE"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Sa Loob Ng Dilim (From I Am Not Big Bird OST)",
-        "url": "https://open.spotify.com/album/4mY2NuxZa4PBsSMYIsx4Tw"
-      },
-      "artists": [
-        {
-          "name": "VINCED",
-          "url": "https://open.spotify.com/artist/0EtFbuEEYauMgyiFjn8s80"
-        }
-      ],
-      "duration_ms": 124125,
-      "name": "Sa Loob Ng Dilim (From I Am Not Big Bird OST)",
-      "url": "https://open.spotify.com/track/4GiQ5yHgrYZLQGC6PMAO7j"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Lifeless Bride",
-        "url": "https://open.spotify.com/album/2Tu1uNrx7pJNLYY4sMwtoi"
-      },
-      "artists": [
-        {
-          "name": "Jinji",
-          "url": "https://open.spotify.com/artist/0kyrxsWE8RiAyczmTcrjt1"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Lifeless Bride",
-      "url": "https://open.spotify.com/track/372YvM94VasUh1nMRqZ3L3"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Ew",
-        "url": "https://open.spotify.com/album/3j0YWZVYN3ujIWVIzXujuf"
-      },
-      "artists": [
-        {
-          "name": "Eliza Marie",
-          "url": "https://open.spotify.com/artist/2J15J7lLY74L3uG6mvPVnc"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ew",
-      "url": "https://open.spotify.com/track/3rUoEI7rTXyaM8f1ZEaEfd"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Patay-Sindi",
-        "url": "https://open.spotify.com/album/7Bt0XsrPQyOg6g5jldz9sD"
-      },
-      "artists": [
-        {
-          "name": "Extrapolation",
-          "url": "https://open.spotify.com/artist/0V1XNEad7M1gZ5r4pXABQa"
-        },
-        {
-          "name": "Marga Jayy",
-          "url": "https://open.spotify.com/artist/04Bq2hRCsdZEQ9cKVDXN3R"
-        }
-      ],
-      "duration_ms": 236032,
-      "name": "Patay-Sindi",
-      "url": "https://open.spotify.com/track/0b0xzujP0ldSmNHqBdniI0"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Green Tint",
-        "url": "https://open.spotify.com/album/3WWMUJ5NcBEmmJIgcoNqPT"
-      },
-      "artists": [
-        {
-          "name": "kirko wip",
-          "url": "https://open.spotify.com/artist/3NROsMbidZWr6aE34HpFSp"
-        }
-      ],
-      "duration_ms": 131875,
-      "name": "Green Tint",
-      "url": "https://open.spotify.com/track/3qxb72CI2Vv1slEoulpGDn"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Shake your booty",
-        "url": "https://open.spotify.com/album/1g2gg49GWSZslznQm5MvJW"
-      },
-      "artists": [
-        {
-          "name": "No Boys Please",
-          "url": "https://open.spotify.com/artist/457xF0tijqFkLW4d4hxqrC"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Shake your booty",
-      "url": "https://open.spotify.com/track/02xNebGNmYBDLIDnWc9dTh"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "w84m",
-        "url": "https://open.spotify.com/album/0mbj7kdLrA1fi8DveDuDk0"
-      },
-      "artists": [
-        {
-          "name": "Brxdvcl",
-          "url": "https://open.spotify.com/artist/6cAz2eSvy5z4SFDCwxZKgv"
-        }
-      ],
-      "duration_ms": 140019,
-      "name": "w84m",
-      "url": "https://open.spotify.com/track/30a1prXa1MRMDI8ncmBL21"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "No Forever",
-        "url": "https://open.spotify.com/album/3dYgA9cA0oDhv0pFkXUCyF"
-      },
-      "artists": [
-        {
-          "name": "Sin Santos",
-          "url": "https://open.spotify.com/artist/6ObY07YC4aESI52KJ16vQ5"
-        }
-      ],
-      "duration_ms": 172041,
-      "name": "No Forever",
-      "url": "https://open.spotify.com/track/1MEF4r2OceRBPgwpJqNozn"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7g9mTCjYqstT5SpJe9wHbx"
-      },
-      "artists": [
-        {
-          "name": "Max Ayeza",
-          "url": "https://open.spotify.com/artist/00kijE6MwdXfq2hBg80a1V"
-        }
-      ],
-      "duration_ms": 164700,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0sePmqjCBmvtsp7MqVBud5"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

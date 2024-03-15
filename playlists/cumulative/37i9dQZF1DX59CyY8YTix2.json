@@ -6556,7 +6556,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 242426,
       "name": "Kokoro no Naka",
       "url": "https://open.spotify.com/track/6J5Y0T35JVtOpQLVcOvvCa"
@@ -24082,6 +24082,24 @@
       "duration_ms": 215001,
       "name": "\u65ad\u7dda",
       "url": "https://open.spotify.com/track/6ba7hPKkw5zlPkhYZ1sqZw"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u8ff7\u5bae ep",
+        "url": "https://open.spotify.com/album/3DJUqDJKzhJoeEdQNpinJr"
+      },
+      "artists": [
+        {
+          "name": "FINLANDS",
+          "url": "https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185096,
+      "name": "\u65b0\u8ff7\u5bae",
+      "url": "https://open.spotify.com/track/0KealTFHloPDZTS02sDJHJ"
     },
     {
       "album": {

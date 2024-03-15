@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Novit\u00e0 rock, indie e punk dall'Italia! Cover: clauscalmo. Powered by <a href=\"spotify:playlist:37i9dQZF1DWUHxBb0SYtLj\">EQUAL</a>, a supporto delle artiste donne, tutti i giorni \ud83d\udc9a",
+  "description": "Novit\u00e0 rock, indie e punk dall'Italia! Cover: Elephant Brain",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -550,6 +550,24 @@
       "duration_ms": 260053,
       "name": "ALL'INFERNO C'\u00c8 IL SOLE",
       "url": "https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6"
+    },
+    {
+      "album": {
+        "name": "Via Briantea",
+        "url": "https://open.spotify.com/album/6to4L28zGrellDt1u8HEt2"
+      },
+      "artists": [
+        {
+          "name": "SPEAKEASY",
+          "url": "https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216828,
+      "name": "All'Ombra Dei Palazzi",
+      "url": "https://open.spotify.com/track/6I3lbrxXHVx7i1O0b84VMc"
     },
     {
       "album": {
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 243320,
       "name": "Black & White",
       "url": "https://open.spotify.com/track/4QFr9FwMbrBntnX7BpIVoU"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 180213,
       "name": "BLUE (feat. Moor Mother)",
       "url": "https://open.spotify.com/track/0Wq5LVoXfyPJ1HXqv6bXUW"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 190843,
       "name": "CAMALEONTI",
       "url": "https://open.spotify.com/track/3abXTive6mnRQ9b1GdlJBq"
@@ -2030,6 +2048,28 @@
       "duration_ms": 243284,
       "name": "camera mia",
       "url": "https://open.spotify.com/track/6tO3uimbnU4Gi6bWFBpXEf"
+    },
+    {
+      "album": {
+        "name": "Can I Can U (feat Skin)",
+        "url": "https://open.spotify.com/album/1IK7GYZNKAmdkjwfyF3FE9"
+      },
+      "artists": [
+        {
+          "name": "R.Y.F.",
+          "url": "https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe"
+        },
+        {
+          "name": "Skin",
+          "url": "https://open.spotify.com/artist/4vyeOM7hfMQHKahMRi07Kd"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241160,
+      "name": "Can I Can U (feat Skin)",
+      "url": "https://open.spotify.com/track/3AmPVTI08nrl6BwHWK4dTr"
     },
     {
       "album": {
@@ -2146,6 +2186,24 @@
       "duration_ms": 202213,
       "name": "Canzone 9",
       "url": "https://open.spotify.com/track/3Lkbk6U4UUyxdseqGmip1b"
+    },
+    {
+      "album": {
+        "name": "Caosmosi",
+        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
+      },
+      "artists": [
+        {
+          "name": "Addict Ameba",
+          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303733,
+      "name": "Caosmosi",
+      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
     },
     {
       "album": {
@@ -2748,7 +2806,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 191506,
       "name": "Colla",
       "url": "https://open.spotify.com/track/4a3awPGBs7bOjg2JHLsbec"
@@ -3625,6 +3683,24 @@
     },
     {
       "album": {
+        "name": "Analisi portafoglio danni",
+        "url": "https://open.spotify.com/album/5p55aqWycjUQBxEO6JIFdK"
+      },
+      "artists": [
+        {
+          "name": "Tueri Damasco",
+          "url": "https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250980,
+      "name": "Disordine",
+      "url": "https://open.spotify.com/track/6Tz00bbQVqby0tQXoUEq4s"
+    },
+    {
+      "album": {
         "name": "I Botanici",
         "url": "https://open.spotify.com/album/3Px7SSj6u1kiwXEXMiKeFw"
       },
@@ -3834,7 +3910,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 194042,
       "name": "Dr\u00f6na",
       "url": "https://open.spotify.com/track/0DSBc3B5lMjvgVKeeB6grQ"
@@ -3888,7 +3964,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 168946,
       "name": "Dune",
       "url": "https://open.spotify.com/track/6bOlLe6NO07yr6wZrLj0WJ"
@@ -3964,7 +4040,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 235000,
       "name": "E...Ancora tu",
       "url": "https://open.spotify.com/track/0uHEZvGeu5Az4Py2913e0L"
@@ -5178,7 +5254,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 225930,
       "name": "Genau",
       "url": "https://open.spotify.com/track/0xJUZkcnOJZiFq59qKcsdd"
@@ -5218,7 +5294,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 206160,
       "name": "Gerico",
       "url": "https://open.spotify.com/track/0JWVq6gAkeB52OWAoiixNr"
@@ -5290,7 +5366,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 207636,
       "name": "Giacomo",
       "url": "https://open.spotify.com/track/5MCkJvZ5zhCGQGO49xPro3"
@@ -5438,6 +5514,24 @@
       "duration_ms": 223780,
       "name": "Grattacieli",
       "url": "https://open.spotify.com/track/6wgHODpq324HUhYl0BCNN0"
+    },
+    {
+      "album": {
+        "name": "Green Visitors",
+        "url": "https://open.spotify.com/album/1jrwVp6Bad69deU7M8t3IG"
+      },
+      "artists": [
+        {
+          "name": "pearl moth",
+          "url": "https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Green Visitors",
+      "url": "https://open.spotify.com/track/7lj6v3abp8qOfaW6dq6Et7"
     },
     {
       "album": {
@@ -6330,7 +6424,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 131063,
       "name": "Imma Stunt",
       "url": "https://open.spotify.com/track/1KrXZYgqTmmVGwgX2TNi48"
@@ -6366,7 +6460,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 197428,
       "name": "IMPERO DI CARTA",
       "url": "https://open.spotify.com/track/3w8PcPgvGBmJzMa8tLMMDC"
@@ -6586,6 +6680,28 @@
       "duration_ms": 185519,
       "name": "Jack (Non Sa)",
       "url": "https://open.spotify.com/track/3lEeE5InLjr2Wpu0zeQ64b"
+    },
+    {
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/3DM0vUDw385wXoQYZEYuvP"
+      },
+      "artists": [
+        {
+          "name": "CASX",
+          "url": "https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU"
+        },
+        {
+          "name": "Kuni",
+          "url": "https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175764,
+      "name": "Janet",
+      "url": "https://open.spotify.com/track/00GcrVTwAfARqdtRkK7tIH"
     },
     {
       "album": {
@@ -11161,6 +11277,24 @@
     },
     {
       "album": {
+        "name": "Rosso Acceso",
+        "url": "https://open.spotify.com/album/3QgmD7aea4l2GwXgbIYkJa"
+      },
+      "artists": [
+        {
+          "name": "Heaven or Las Vegas",
+          "url": "https://open.spotify.com/artist/5ozL9iHS3LgG1tH7FfErqQ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "Rosso Acceso",
+      "url": "https://open.spotify.com/track/7vgTG7V89PZW5S69Hq7qoS"
+    },
+    {
+      "album": {
         "name": "rotten",
         "url": "https://open.spotify.com/album/04Jz6N7SeKqALkWIkVXCSL"
       },
@@ -11198,6 +11332,24 @@
       "duration_ms": 205341,
       "name": "Rotto Perfetto",
       "url": "https://open.spotify.com/track/30jNZqDJsueY5umRkfe7RY"
+    },
+    {
+      "album": {
+        "name": "Rumore",
+        "url": "https://open.spotify.com/album/22vgasZfHYo8GXw6Mn26MJ"
+      },
+      "artists": [
+        {
+          "name": "Gaia Morelli",
+          "url": "https://open.spotify.com/artist/3tgCaL6JQGlCnLmNyjs84B"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185387,
+      "name": "Rumore",
+      "url": "https://open.spotify.com/track/0F3ZUW6hFZ2urcb4kg8OEf"
     },
     {
       "album": {
@@ -11342,6 +11494,24 @@
       "duration_ms": 206653,
       "name": "SARANNO ALTRI",
       "url": "https://open.spotify.com/track/0g8YSJUxWL9WqTJ9FPCGI5"
+    },
+    {
+      "album": {
+        "name": "SASABONSAM",
+        "url": "https://open.spotify.com/album/4T1ElyyJoUPNdp3RVrkJoN"
+      },
+      "artists": [
+        {
+          "name": "Indianizer",
+          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230039,
+      "name": "SASABONSAM",
+      "url": "https://open.spotify.com/track/0nFu2mWGyhdBs0tH1Fx0Zd"
     },
     {
       "album": {
@@ -11601,6 +11771,24 @@
     },
     {
       "album": {
+        "name": "sei mare",
+        "url": "https://open.spotify.com/album/7h8rBhrelNiun9jG1wWzVn"
+      },
+      "artists": [
+        {
+          "name": "joe croci",
+          "url": "https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "sei mare",
+      "url": "https://open.spotify.com/track/6k9kIVoWSqvX1fbRxC9u6O"
+    },
+    {
+      "album": {
         "name": "Habitat",
         "url": "https://open.spotify.com/album/3glCxDLdGv7lRijvfycOEC"
       },
@@ -11764,6 +11952,24 @@
       "duration_ms": 154405,
       "name": "SESSO & OPENBAR",
       "url": "https://open.spotify.com/track/4CtmrooLElIO7iZwdDMpdJ"
+    },
+    {
+      "album": {
+        "name": "Verso una casa",
+        "url": "https://open.spotify.com/album/7BL6JI1RpKtmysgBxtxuDV"
+      },
+      "artists": [
+        {
+          "name": "Arianna Pasini",
+          "url": "https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/2EOb6rY5V6AUgpmQjgN5qX"
     },
     {
       "album": {
@@ -11940,7 +12146,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 170684,
       "name": "Sillage",
       "url": "https://open.spotify.com/track/2hmL0icAuYEnlKFdq3eoT3"
@@ -12406,6 +12612,24 @@
       "duration_ms": 196770,
       "name": "Still Got My Time",
       "url": "https://open.spotify.com/track/1niBgFt03sHUfrBrqmZbrw"
+    },
+    {
+      "album": {
+        "name": "Sto meglio",
+        "url": "https://open.spotify.com/album/2s3OPnv7HypOTPkosmlPsV"
+      },
+      "artists": [
+        {
+          "name": "Elephant Brain",
+          "url": "https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197416,
+      "name": "Sto meglio",
+      "url": "https://open.spotify.com/track/4Nyo7JpxB36ra3unsidb9V"
     },
     {
       "album": {
@@ -12919,6 +13143,28 @@
     },
     {
       "album": {
+        "name": "Terra violenta",
+        "url": "https://open.spotify.com/album/7c9lJNsB2HZqfyBwi1mpdo"
+      },
+      "artists": [
+        {
+          "name": "Riviera",
+          "url": "https://open.spotify.com/artist/1Nbb0ut912InpuiKmLNShD"
+        },
+        {
+          "name": "maggio",
+          "url": "https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150940,
+      "name": "Terra violenta",
+      "url": "https://open.spotify.com/track/234PBjEdgCALR3xigJOKnj"
+    },
+    {
+      "album": {
         "name": "The Botanist",
         "url": "https://open.spotify.com/album/2LcWpuh7nN5yb3csgRCTFk"
       },
@@ -13348,7 +13594,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 174507,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/7dMzrhoxYtLXYcZ2TZWPeg"
@@ -14546,6 +14792,24 @@
       "duration_ms": 220312,
       "name": "Vortice",
       "url": "https://open.spotify.com/track/6RA1qE9WbVXmWdLWmjN8Z3"
+    },
+    {
+      "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/1hxSGqBzlV6Aw8woXb8gjK"
+      },
+      "artists": [
+        {
+          "name": "MILANOSPORT",
+          "url": "https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Water To The Loo",
+      "url": "https://open.spotify.com/track/0XcsjSdJ4PgvU3Uzo4UA7D"
     },
     {
       "album": {

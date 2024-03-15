@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 174490,
+  "2024-03-15": 174548,
   "date_first_scraped": "2023-11-25",
   "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Kvi Baba",
   "name": "Teen Culture",
@@ -1995,7 +1995,7 @@
     {
       "album": {
         "name": "Neon (Fully Active Ver.)",
-        "url": "https://open.spotify.com/album/1yREloSCNLtuwONK55o90w"
+        "url": "https://open.spotify.com/album/4Nh33dLPawNhBASd2Q6L0p"
       },
       "artists": [
         {
@@ -2018,6 +2018,36 @@
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 283222,
+      "name": "Neon - Fully Active Ver.",
+      "url": "https://open.spotify.com/track/15FP3rWLIaHSUYK9ueTVZ2"
+    },
+    {
+      "album": {
+        "name": "Neon (Fully Active Ver.)",
+        "url": "https://open.spotify.com/album/1yREloSCNLtuwONK55o90w"
+      },
+      "artists": [
+        {
+          "name": "VIGORMAN",
+          "url": "https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ"
+        },
+        {
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "SAMI-T",
+          "url": "https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-14",
       "duration_ms": 283222,
       "name": "Neon - Fully Active Ver.",
       "url": "https://open.spotify.com/track/5N4M51oo4pop3zpB8LWIMI"
@@ -2735,6 +2765,24 @@
       "duration_ms": 199013,
       "name": "Still Hungry",
       "url": "https://open.spotify.com/track/6CdAYeir9xbWDPOCLIhKc9"
+    },
+    {
+      "album": {
+        "name": "ReUnion",
+        "url": "https://open.spotify.com/album/7kmoVx9z1qTqZSN4B4svCJ"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250972,
+      "name": "Sukideshita.",
+      "url": "https://open.spotify.com/track/458E7acH1K8c5wx8AYAnVi"
     },
     {
       "album": {
@@ -4971,7 +5019,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 250972,
       "name": "\u597d\u304d\u3067\u3057\u305f\u3002",
       "url": "https://open.spotify.com/track/588cVGxOSFqg8HnlGE6IDI"

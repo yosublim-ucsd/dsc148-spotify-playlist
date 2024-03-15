@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcRTDTjL53b.md) - [plain]
 
 > La bande son des premiers amours
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,882 likes - 44 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,912 likes - 44 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcRTDTjL53b.md) - [plain]
 | 43 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 44 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 |
 
-Snapshot ID: `MCw4NDNiOWI1ZWY4MGJhNDEyMzZlN2I0YTdlMTgwYWJkYTA0OTVlZGVh`
+Snapshot ID: `MCxiYWQ2MWFiZDgzMmE2ODdlYmIxZTU3NDM5MDI4NzQ4ZWM3Y2NkODU4`

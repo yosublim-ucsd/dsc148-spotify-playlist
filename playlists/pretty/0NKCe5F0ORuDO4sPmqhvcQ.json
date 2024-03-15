@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1ODksOTA3NjU1YjQxNzc4ZjcwZmQ1ZDJjZjFiMTRkYmNmZDVjYzNmOGVlMg==",
+  "snapshot_id": "MTA1OTAsZTg1MTg5YzFjNGJhOWE0ZDBiMWI1OTQyMWI4OWVlMWJlNzUxZmVkMg==",
   "tracks": [
     {
       "added_at": "2024-02-01 17:47:45",
@@ -3035,6 +3035,26 @@
       "duration_ms": 290909,
       "name": "Gravity (Manila Killa & MYRNE Remix)",
       "url": "https://open.spotify.com/track/5mZTYzyn7AOZOArUiNMz7O"
+    },
+    {
+      "added_at": "2024-03-14 17:52:14",
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/72efYKB0Z77XuTrAETbBP3"
+      },
+      "artists": [
+        {
+          "name": "MarMar",
+          "url": "https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr"
+        },
+        {
+          "name": "LUUNG",
+          "url": "https://open.spotify.com/artist/5RGCg3LnBfZa0Z9Vb9RbO4"
+        }
+      ],
+      "duration_ms": 133837,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/6sXhai6N2Y5bvBwQFPV3Ki"
     }
   ],
   "unique_name": "Moving Castle Monthly",

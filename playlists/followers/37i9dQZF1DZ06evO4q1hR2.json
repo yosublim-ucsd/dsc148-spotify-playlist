@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 52474,
+  "2024-03-15": 52545,
   "date_first_scraped": "2022-06-02",
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
   "name": "This Is El Coyote Y Su Banda Tierra Santa",
@@ -695,7 +695,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 136866,
       "name": "Esperanza Valero",
       "url": "https://open.spotify.com/track/6YERvxBDNRxomS8A4YYR8i"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 157988,
       "name": "Lamberto Quintero",
       "url": "https://open.spotify.com/track/2shyIItJyRX7iEQ8dOqLkk"

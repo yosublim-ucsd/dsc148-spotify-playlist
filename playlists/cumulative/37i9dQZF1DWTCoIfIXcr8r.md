@@ -4,7 +4,7 @@
 
 > Find your flow with a classical Indian soundtrack.
 
-54 songs - 6 hr 41 min
+55 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,10 +37,11 @@
 | [Raag Saraswati \- Alap](https://open.spotify.com/track/53abiWUKbfA6lfMp3khetS) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Vijay Ghate](https://open.spotify.com/artist/7ETcoV7VniCB1EvWjtbMMU), [Pt\. Bhawani Shankar](https://open.spotify.com/artist/483a0T0I96l0BLsJILbOVF) | [Call of the Divine \- Magical Flute of Rakesh Chaurasia](https://open.spotify.com/album/599KZQj3bgW8DtIVaxNSjB) | 5:46 | 2023-02-02 |  |
 | [Raag Shuddh Sarang\-Alap](https://open.spotify.com/track/5m7bVAjnN5tjcbcjBmDi7X) | [Raghunath Seth](https://open.spotify.com/artist/3R3kXhcudwAwi9WXL0nIjg) | [Pandit Raghunath Seth](https://open.spotify.com/album/7gA8iaSNVBHXMloszROyi8) | 6:32 | 2023-02-02 |  |
 | [Raaga Kafi \- Teentaal](https://open.spotify.com/track/4G526MTBK3TpdNBpvvYO3Z) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ajeet Pathak](https://open.spotify.com/artist/6RewthLD9pGHUn5dmLVaBh) | [Seven Raagas](https://open.spotify.com/album/2DhxWPxZBSFirR62g3I4Zd) | 7:30 | 2023-02-02 |  |
-| [Raga \- Brindavani](https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo) | [B\. Sivaramakrishna Rao](https://open.spotify.com/artist/6CgbREbxupEkAr0CqTHajh) | [Healing Ragas](https://open.spotify.com/album/68Ly5LFDwAmtMdEDmG1LUr) | 9:13 | 2023-02-02 |  |
+| [Raga \- Brindavani](https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo) | [B\. Sivaramakrishna Rao](https://open.spotify.com/artist/6CgbREbxupEkAr0CqTHajh) | [Healing Ragas](https://open.spotify.com/album/68Ly5LFDwAmtMdEDmG1LUr) | 9:13 | 2023-02-02 | 2024-03-15 |
 | [Raga Ahiri Todi \(gat in Vilambit Ektaal\)](https://open.spotify.com/track/2u9opkWyJ5KdA9OaJUzais) | [Benjamin Shrivastav Shanson](https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl), [Partho Mukherjee](https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [The Art of the Indian Dilruba](https://open.spotify.com/album/3sKpqE3Q8WOBeYobxeLO85) | 15:32 | 2023-02-02 | 2023-03-27 |
 | [Raga Ahiri Todi \(gat in Vilambit Ektaal\)](https://open.spotify.com/track/3XGCHE9x5Fh7TFwK9VfokU) | [Benjamin Shrivastav Shanson](https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl), [Partho Mukherjee](https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [The Art of the Indian Dilruba](https://open.spotify.com/album/3eG6qaUjKMWZ2bz8tG0GwR) | 15:32 | 2023-03-16 |  |
 | [Raga Bhairavi](https://open.spotify.com/track/4ZSFj6ZtxOfd5WTswALDVP) | [Shaant Man](https://open.spotify.com/artist/3DlcfbEsCsjEkmTOAHBNwO) | [Raga Bageshri](https://open.spotify.com/album/6fFlNIRxn9PddYBHxGCOte) | 4:29 | 2024-02-19 |  |
+| [Raga Brindavani: Alap](https://open.spotify.com/track/42i2BVvCd0PzHbpUHRBXsc) | [B\. Sivaramakrishna Rao](https://open.spotify.com/artist/6CgbREbxupEkAr0CqTHajh) | [Soul of India](https://open.spotify.com/album/7iNCNQCellNm5kh5luWsnE) | 9:13 | 2024-02-05 |  |
 | [Raga Chayanat \- Alap](https://open.spotify.com/track/7CQ1mfQTmIJx8T1ZiYlICx) | [Ken Zuckerman](https://open.spotify.com/artist/0Qlqyvs4Clg3MhIRwxx5ku) | [Salon de Musique](https://open.spotify.com/album/2qGpTMsaE3KL0SsmtcbxQX) | 9:23 | 2023-02-02 |  |
 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 3:55 | 2023-02-02 |  |
 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 | 2023-02-02 |  |

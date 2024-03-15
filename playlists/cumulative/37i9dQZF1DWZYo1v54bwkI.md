@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-253 songs - 12 hr 47 min
+256 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 | 2022-07-15 |  |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2022-07-15 | 2023-02-18 |
 | [Deep And Hollow](https://open.spotify.com/track/6z1QfP61cL5IkPCVm3BKiw) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Deep And Hollow](https://open.spotify.com/album/7pYFDBdBF4Anj3eRP753pw) | 2:52 | 2023-09-01 |  |
+| [Deeper Feelings](https://open.spotify.com/track/5SJZAqICbOr44zfdXfFFuO) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Deeper Feelings](https://open.spotify.com/album/1EGnUicl4eQNyq4BzbMY7T) | 3:04 | 2024-03-14 |  |
 | [Diem Vesper Commendat](https://open.spotify.com/track/5Kzm98GR30X1sEYWKE2eB9) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Diem Vesper Commendat](https://open.spotify.com/album/2o2NEHkvOll7w1FDD4FLCg) | 3:04 | 2022-07-15 |  |
 | [Divine minds](https://open.spotify.com/track/6skca3GCeAwI3v9EKznj7C) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Selah](https://open.spotify.com/album/3JAIlFvm8jDNaB3ciieLqK) | 3:05 | 2023-01-27 |  |
 | [Diya](https://open.spotify.com/track/1FEQqp99xeDhPOyio58L2N) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Diya](https://open.spotify.com/album/75RWs6QheVsXJjnNLal5XB) | 2:23 | 2023-01-20 |  |
@@ -90,6 +91,7 @@
 | [Eternal Light](https://open.spotify.com/track/4wgNpOR7yEZhUoECFUsOzp) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Eternal Light](https://open.spotify.com/album/5szyFhtsLT6GDlqbcrHmzg) | 4:52 | 2022-07-15 |  |
 | [Ethereal Sleep](https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep](https://open.spotify.com/album/3e0UCZ7yJFghUOoAgojhoX) | 2:04 | 2022-07-15 |  |
 | [Ethereal Vibes](https://open.spotify.com/track/2RkFPrq3jcUFGQiOdpxgvw) | [Trevor Marson](https://open.spotify.com/artist/4HY7iJRgI9SLocwSY7nZja) | [Ethereal Vibes](https://open.spotify.com/album/4kykxUC16LV7Zdtp3C10j3) | 3:10 | 2024-01-26 |  |
+| [Evangeline](https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Evangeline](https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq) | 2:57 | 2024-03-14 |  |
 | [Exhale](https://open.spotify.com/track/49lHDhDMadb0YXVMsLs0gy) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:36 | 2022-07-15 | 2022-10-22 |
 | [Expectancy](https://open.spotify.com/track/4O0t0dTXwlhCyHyG4HJdkV) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Expectancy](https://open.spotify.com/album/2KBZ9klMyouAh9kNSSjTfp) | 2:56 | 2023-03-03 |  |
 | [Explorer](https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:03 | 2022-12-30 |  |
@@ -141,6 +143,7 @@
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2022-07-15 |  |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-07-15 |  |
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-02 |  |
+| [Lingering Dust](https://open.spotify.com/track/4uoFqBHR8YeFTADZeYRDik) | [Sapphire Roamer](https://open.spotify.com/artist/5HApDTtpmxO5TFD6vCjKpI) | [Lingering Dust](https://open.spotify.com/album/2M1LKtSKCHTAFTOLWsHApH) | 2:42 | 2024-03-14 |  |
 | [Logi Calm](https://open.spotify.com/track/1USmlL8Lc4jSClVdvmxQsk) | [Sara Kisha](https://open.spotify.com/artist/77qANxC0CCaFtLxLCJfCEM) | [Forever](https://open.spotify.com/album/7dER2Jv0qJM5GRaDbabCl4) | 3:14 | 2023-04-21 |  |
 | [Lucens](https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Lucens](https://open.spotify.com/album/0zUwEUIDjzDsBGleRn90EY) | 2:18 | 2022-09-13 |  |
 | [Luminus Circle](https://open.spotify.com/track/6SL08B5P8DpWGGOH9jypaq) | [De Ester](https://open.spotify.com/artist/0dbcAyHyp9aAsEqAAZHjr4) | [Luminus Circle](https://open.spotify.com/album/3R35qejYTRWTxl5g62TSom) | 3:22 | 2024-01-26 |  |

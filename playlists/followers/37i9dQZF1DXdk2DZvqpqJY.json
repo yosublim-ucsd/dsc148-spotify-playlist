@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 72042,
+  "2024-03-15": 72115,
   "date_first_scraped": "2022-02-18",
   "description": "Swinging jazz for relaxing and unwinding.",
   "name": "Chill Out Jazz",
@@ -1911,6 +1911,24 @@
       "duration_ms": 208054,
       "name": "Elephant & Ivory - Vanilla's Version",
       "url": "https://open.spotify.com/track/7eDl54jBPJL295eBq95GIH"
+    },
+    {
+      "album": {
+        "name": "Embraced by Night",
+        "url": "https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Bird",
+          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183544,
+      "name": "Embraced by Night",
+      "url": "https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v"
     },
     {
       "album": {
@@ -8179,7 +8197,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 177331,
       "name": "What I\u2019m doing wrong?",
       "url": "https://open.spotify.com/track/68HHUsKYMa5g3KSIHFfa3V"

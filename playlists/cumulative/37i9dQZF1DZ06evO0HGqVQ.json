@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Volver A Triunfar",
+        "url": "https://open.spotify.com/album/70Z5OTH97swUCDxPvUC6am"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263733,
+      "name": "No Dudes De M\u00ed",
+      "url": "https://open.spotify.com/track/4SkoUwYAXBeruxkbPHikNh"
+    },
+    {
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
       },

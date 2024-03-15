@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Kah\-Lo and Jamie Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,428 likes - 79 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,439 likes - 79 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 21 | [NRG](https://open.spotify.com/track/79Ojf7CxxJw04NP4d8hrf8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [NRG](https://open.spotify.com/album/3S6FlsCt2FK6saAarcRoyy) | 2:26 |
 | 22 | [The Way I’m Wired \- KILIMANJARO Remix](https://open.spotify.com/track/6iqy6H6CitkDAhSjwdEc0S) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [The Way I’m Wired \(KILIMANJARO Remix\)](https://open.spotify.com/album/3qgBThQbCxS7uGURXOZMIV) | 4:12 |
 | 23 | [Stuntin](https://open.spotify.com/track/44CSjBjs3mcn5c66XnB8It) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:02 |
-| 24 | [Club Nasty](https://open.spotify.com/track/2i2Ycm2soqZZ8xdJQJSk9i) | [Nothingspecial](https://open.spotify.com/artist/3dvrTBzjvaQuWU6g48H8L2), [Jade Elliott](https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s) | [Club Nasty](https://open.spotify.com/album/6gVVXiyOm60VKFyxOTTBFk) | 3:46 |
+| 24 | [Club Nasty](https://open.spotify.com/track/2i2Ycm2soqZZ8xdJQJSk9i) | [Jade Elliott](https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s), [Nothingspecial](https://open.spotify.com/artist/3dvrTBzjvaQuWU6g48H8L2) | [Club Nasty](https://open.spotify.com/album/6gVVXiyOm60VKFyxOTTBFk) | 3:46 |
 | 25 | [Motown Philly](https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Motown Philly](https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46) | 2:38 |
 | 26 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 |
 | 27 | [SAdesFakSHen](https://open.spotify.com/track/4KVx0ec8CzTHFKYYgmrQbo) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Thuto The Human](https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj) | [SAdesFakSHen](https://open.spotify.com/album/43FLqZlKpEvMbm9MbW2qxf) | 6:58 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 78 | [Party All Night Long](https://open.spotify.com/track/5qnwoviJNQzB7VepePEGdI) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [P.J\. Classics ep](https://open.spotify.com/album/7J9OztpoSi0hYJAH6qzPeV) | 6:15 |
 | 79 | [Work That Body](https://open.spotify.com/track/1h3LHD3iDbP4MGYNeQG4N5) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 6:42 |
 
-Snapshot ID: `MCwzNmQwYzQ3MDgxZTU0YTIxMWQ3OTA5NzViMDg5OGViZWVhMjc5NWQx`
+Snapshot ID: `MCxmNTgyMzlhZDE1MTMyM2JmZTgxZWIxYjAxYjBmY2FlODNmYWQ4OWU2`

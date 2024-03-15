@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-550 songs - 1 day 18 hr 21 min
+551 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 | 2022-11-12 |  |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-11-12 |  |
 | [Långsamt](https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY) | [Max Agnas](https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA) | [Komposition VII](https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM) | 7:53 | 2022-05-25 |  |
-| [M Song](https://open.spotify.com/track/0HAgy13OBnW3BPBNIi5AOh) | [Michel Bisceglia](https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC), [Marc Lehan](https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G), [Werner Lauscher](https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U) | [M Song](https://open.spotify.com/album/28K3I7BnyJWCZXk97ASrdy) | 6:10 | 2023-03-10 |  |
+| [M Song](https://open.spotify.com/track/0HAgy13OBnW3BPBNIi5AOh) | [Michel Bisceglia](https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC), [Marc Lehan](https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G), [Werner Lauscher](https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U) | [M Song](https://open.spotify.com/album/28K3I7BnyJWCZXk97ASrdy) | 6:10 | 2023-03-10 | 2024-03-15 |
 | [Make good better](https://open.spotify.com/track/75tYxIVIyTRQmCJeg68z84) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make good better](https://open.spotify.com/album/1fkpOxRymVjgS47si11Dup) | 3:24 | 2023-08-31 |  |
 | [Mama's Fish House](https://open.spotify.com/track/7Lg4ezQ23LtLQCF8ONnolW) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mama's Fish House](https://open.spotify.com/album/5dZVsBbztZsz7aydXjDHve) | 3:51 | 2023-03-10 |  |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-11-12 |  |
@@ -298,6 +298,7 @@
 | [Misty](https://open.spotify.com/track/6638Vx73iajSnMO9ZmQoHB) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Misty](https://open.spotify.com/album/5JQpMlF00cytK3RkoRwEtb) | 4:32 | 2022-02-10 | 2022-07-29 |
 | [Misty](https://open.spotify.com/track/24GGpPxMdDvCpy9vTmDc6U) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:32 | 2022-07-07 | 2022-11-12 |
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-22 |  |
+| [Moon River](https://open.spotify.com/track/2awEoBYI2NxUYUnB1ohisj) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Alpaca](https://open.spotify.com/album/2uf5lN2IVEQgBSlJV8rwvz) | 6:27 | 2024-03-15 |  |
 | [Moon River](https://open.spotify.com/track/6HRaRgiuyrnd3bENS5ZoM2) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Moon River](https://open.spotify.com/album/2w1aFC5btuTPK2rr75Jt1N) | 6:27 | 2023-04-27 | 2024-03-08 |
 | [Moon River](https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:46 | 2022-07-07 | 2023-04-21 |
 | [Moon River](https://open.spotify.com/track/1Px7rF9pcSTnuZm18bQ78i) | [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moon River](https://open.spotify.com/album/3jqg4L6cU3PPzRipAUa4sM) | 5:46 | 2022-02-10 | 2022-07-29 |

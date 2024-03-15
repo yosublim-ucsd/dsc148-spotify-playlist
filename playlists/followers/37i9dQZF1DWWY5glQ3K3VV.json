@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 96164,
+  "2024-03-15": 96200,
   "date_first_scraped": "2022-05-09",
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove, ANNA",
   "name": "Club Rap ",
@@ -1949,7 +1949,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 176000,
       "name": "Fuego (with Geolier & Lele Blade) - Prod. Poison Beatz, Tom Trigger",
       "url": "https://open.spotify.com/track/6XPYGFacwZAtmoSVi9m4eT"
@@ -2467,6 +2467,24 @@
       "duration_ms": 267066,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
+      "album": {
+        "name": "RADIO SAKURA",
+        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124561,
+      "name": "HUH?",
+      "url": "https://open.spotify.com/track/5yUcawImV9VeElsec6QOFy"
     },
     {
       "album": {

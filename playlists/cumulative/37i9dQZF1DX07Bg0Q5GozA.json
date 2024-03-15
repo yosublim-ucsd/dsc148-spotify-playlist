@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Einmusik, Zoot Woman",
+  "description": "New music off the beaten track. Cover: Metronomy",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 346987,
       "name": "BORDERLINE",
       "url": "https://open.spotify.com/track/4ghwnq3kfUM5r8PKrSZscF"
@@ -2035,6 +2035,28 @@
     },
     {
       "album": {
+        "name": "Costa",
+        "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Costa",
+      "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
+    },
+    {
+      "album": {
         "name": "Create-A-Dance",
         "url": "https://open.spotify.com/album/02L5fOvPVQcqe59P0vvXz2"
       },
@@ -2268,7 +2290,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 243066,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak"
@@ -2592,6 +2614,28 @@
       "duration_ms": 177120,
       "name": "Don't Go Calling Me A Liar",
       "url": "https://open.spotify.com/track/5bqA8hx1UlYaQ6UdePvq6M"
+    },
+    {
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/0xlUjsmWRchxJFmhqRN7nZ"
+      },
+      "artists": [
+        {
+          "name": "Dena",
+          "url": "https://open.spotify.com/artist/3qQ6mF4KyHTuOLcZjunAD4"
+        },
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198822,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/2K5q1ig3dVkAvQSkDTs1Ol"
     },
     {
       "album": {
@@ -4006,7 +4050,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 189408,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/4aSwhF2daSyaCqUYPSbrqh"
@@ -5279,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "I Missed You Too",
+        "url": "https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215789,
+      "name": "I Missed You Too",
+      "url": "https://open.spotify.com/track/4o2c5swMPdirnnahplyswy"
+    },
+    {
+      "album": {
         "name": "I Promise",
         "url": "https://open.spotify.com/album/7FQdnurXHFf1XJHtFwBpXm"
       },
@@ -5596,6 +5658,24 @@
       "duration_ms": 262293,
       "name": "In Private",
       "url": "https://open.spotify.com/track/24KLjoa4KBgpn4XGWFiy5c"
+    },
+    {
+      "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/5S2mpgI8SRO5apKCEFSHET"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/5lvB1y6l9FF5BiOSDPNM27"
     },
     {
       "album": {
@@ -7074,7 +7154,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 224204,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
@@ -7344,7 +7424,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 302740,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
@@ -7877,6 +7957,28 @@
     },
     {
       "album": {
+        "name": "New World (Flow)",
+        "url": "https://open.spotify.com/album/7mqb47mEFEIcVYJmiZUlKk"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323785,
+      "name": "New World (Flow)",
+      "url": "https://open.spotify.com/track/3EYkvUWZoysixyAYDDxsbA"
+    },
+    {
+      "album": {
         "name": "Nightlife: Further Listening 1996 - 2000 (2017 Remaster)",
         "url": "https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek"
       },
@@ -7914,6 +8016,28 @@
       "duration_ms": 292156,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
+    },
+    {
+      "album": {
+        "name": "Nice Town",
+        "url": "https://open.spotify.com/album/7mdqLOgyacLqWWjP0oFP6e"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Pan Amsterdam",
+          "url": "https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167270,
+      "name": "Nice Town - Original",
+      "url": "https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH"
     },
     {
       "album": {
@@ -8272,7 +8396,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 264220,
       "name": "Off And On",
       "url": "https://open.spotify.com/track/2t0RlrKuzerkIeujXbRS4l"
@@ -8928,6 +9052,28 @@
       "duration_ms": 470000,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/623ZLC21ljAoezJNRfopjX"
+    },
+    {
+      "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231784,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
     },
     {
       "album": {
@@ -10264,7 +10410,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 216774,
       "name": "Something On My Mind",
       "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
@@ -10286,6 +10432,24 @@
       "duration_ms": 182447,
       "name": "Song We Used To Play",
       "url": "https://open.spotify.com/track/4AqvXjFOmod2uemT2teqUU"
+    },
+    {
+      "album": {
+        "name": "Fuzzy Fantasy",
+        "url": "https://open.spotify.com/album/0LQI2wqRCB9riCZV0UYvBH"
+      },
+      "artists": [
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301706,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/5eRN2ORFEvPgb8J8Wda0xH"
     },
     {
       "album": {
@@ -11734,7 +11898,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 177675,
       "name": "Too Much Too Little",
       "url": "https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb"
@@ -11774,7 +11938,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 166993,
       "name": "Tragic",
       "url": "https://open.spotify.com/track/6vuCLbEyyREx5vM3UYhPPh"
@@ -12161,6 +12325,24 @@
     },
     {
       "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "Unfinished Business",
+      "url": "https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c"
+    },
+    {
+      "album": {
         "name": "Unity (Agar Agar Remix)",
         "url": "https://open.spotify.com/album/2vJKrrqbLh6c8kqvYTXM7K"
       },
@@ -12180,6 +12362,24 @@
       "duration_ms": 269192,
       "name": "Unity - Agar Agar Remix",
       "url": "https://open.spotify.com/track/6VTSDSzkuyFYs8DxIKd8gB"
+    },
+    {
+      "album": {
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197036,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
     },
     {
       "album": {
@@ -12430,7 +12630,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 420606,
       "name": "Wasting Away",
       "url": "https://open.spotify.com/track/3pvmuDlh6Y8GRkLVYA22fH"

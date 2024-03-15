@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 63432,
+  "2024-03-15": 63476,
   "date_first_scraped": "2022-05-30",
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Alycia Lang",
   "name": "Fresh Finds Folk ",
@@ -291,6 +291,24 @@
       "duration_ms": 160269,
       "name": "A Month Ago",
       "url": "https://open.spotify.com/track/798tRXwkYQ0o5nlY621s3x"
+    },
+    {
+      "album": {
+        "name": "A Mother's Touch",
+        "url": "https://open.spotify.com/album/2xKU9gBYRXTOLaVJdYDGJv"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "A Mother's Touch",
+      "url": "https://open.spotify.com/track/36QR24ko74w3ZZ6RbHjJjb"
     },
     {
       "album": {
@@ -936,6 +954,24 @@
     },
     {
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/4VSPAtO2C0yEjljN2wQpgt"
+      },
+      "artists": [
+        {
+          "name": "Lila Holler",
+          "url": "https://open.spotify.com/artist/5zQQbAJKIj7byYLnHBqJJO"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196663,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/0GDyIFoVT49ok0LnFxaYUj"
+    },
+    {
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0b1xIW7dWztT1GojR9KghJ"
       },
@@ -1091,7 +1127,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 287000,
       "name": "Andy",
       "url": "https://open.spotify.com/track/38PLSvrjsvz2CUwyfiwn6U"
@@ -1279,6 +1315,24 @@
       "duration_ms": 230491,
       "name": "Any Old Boat",
       "url": "https://open.spotify.com/track/131utMHDBR9KO1cbzhSuLu"
+    },
+    {
+      "album": {
+        "name": "The Nonlovers",
+        "url": "https://open.spotify.com/album/0seGpq2Ttoz8T3dQiYZTDY"
+      },
+      "artists": [
+        {
+          "name": "The Nonlovers",
+          "url": "https://open.spotify.com/artist/1hqPrDaljmBzYPYMA6PV9V"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155898,
+      "name": "anything for you",
+      "url": "https://open.spotify.com/track/5hGXRW8oXPfbSMJcP2xC3f"
     },
     {
       "album": {
@@ -2301,7 +2355,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 163783,
       "name": "Blame The Moon",
       "url": "https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4"
@@ -5232,6 +5286,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5FyOiAAhEMhNOvoMJ6NdmB"
+      },
+      "artists": [
+        {
+          "name": "Susan O'Neill",
+          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204210,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6fyMrWLRwp2GMnXmcjnDel"
+    },
+    {
+      "album": {
         "name": "Drive Carefully",
         "url": "https://open.spotify.com/album/2e3AwzwENq3TQwHcWMWvyi"
       },
@@ -7412,6 +7484,24 @@
     },
     {
       "album": {
+        "name": "good dog karma",
+        "url": "https://open.spotify.com/album/7i85GGkYE1XniYzld3Cxln"
+      },
+      "artists": [
+        {
+          "name": "phin",
+          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205712,
+      "name": "good dog karma",
+      "url": "https://open.spotify.com/track/0V5xAM9ljDHgPLt9dvUFpk"
+    },
+    {
+      "album": {
         "name": "Good Graces",
         "url": "https://open.spotify.com/album/5MgjZluAJ3TYGLrVvz7Qk3"
       },
@@ -9476,6 +9566,24 @@
     },
     {
       "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/242M4czjrcjmYAqa6lDoUQ"
+      },
+      "artists": [
+        {
+          "name": "yeemz",
+          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199470,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/1NNe3ZZX7R0P5qOOZU5SnQ"
+    },
+    {
+      "album": {
         "name": "In the Grip of Something",
         "url": "https://open.spotify.com/album/1chA5tHZiKoQwLq6FMn2u6"
       },
@@ -10683,7 +10791,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 283573,
       "name": "Leather Wallet - Acoustic",
       "url": "https://open.spotify.com/track/6xFREfS2P82P0SYlOaiFqJ"
@@ -10809,7 +10917,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 252203,
       "name": "let's hope i move on",
       "url": "https://open.spotify.com/track/74BQRxwZyVrv0tb5rRhpnc"
@@ -10885,6 +10993,24 @@
       "duration_ms": 206997,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/4GWaK0fPDu4g7UbrTeer2Z"
+    },
+    {
+      "album": {
+        "name": "Life of the Forbidden",
+        "url": "https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236479,
+      "name": "Life of the Forbidden",
+      "url": "https://open.spotify.com/track/7r1zWm9l985uKy0cKlhGUl"
     },
     {
       "album": {
@@ -12705,7 +12831,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 207360,
       "name": "New Years",
       "url": "https://open.spotify.com/track/3iLLnKc0Oz6JTJaMYkzdrY"
@@ -15450,6 +15576,24 @@
     },
     {
       "album": {
+        "name": "shaking head",
+        "url": "https://open.spotify.com/album/5FiKwOdK0erlaCZ06n4U12"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164220,
+      "name": "shaking head",
+      "url": "https://open.spotify.com/track/0GCzgti2LYrdH93iJiC9hf"
+    },
+    {
+      "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/6XzGoN78Dh1G5iLr4qQXOa"
       },
@@ -18025,7 +18169,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 272746,
       "name": "These Ghosts",
       "url": "https://open.spotify.com/track/6mutJYePzlpQXk2Kf9PGYt"
@@ -18133,7 +18277,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 224171,
       "name": "this is gonna hurt",
       "url": "https://open.spotify.com/track/50g1sSfaYnSngEwJjvdQHo"
@@ -19731,7 +19875,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 248337,
       "name": "Wild Garlic",
       "url": "https://open.spotify.com/track/63QMSWVvD2rJ9szBFx5ssF"
@@ -19879,6 +20023,24 @@
       "duration_ms": 262350,
       "name": "Witch Hazel",
       "url": "https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e"
+    },
+    {
+      "album": {
+        "name": "Slab",
+        "url": "https://open.spotify.com/album/6nUgF40JalU9G6CkcZkHwL"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "Wolfe Ave 40",
+      "url": "https://open.spotify.com/track/1kMA15JVoLWJBRJgV6Qdzq"
     },
     {
       "album": {
@@ -20163,7 +20325,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 177567,
       "name": "You Wanted Free",
       "url": "https://open.spotify.com/track/2powPYtAtRWlwYWgqJiZMC"

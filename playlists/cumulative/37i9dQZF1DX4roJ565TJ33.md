@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-189 songs - 14 hr 47 min
+190 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Point of Life](https://open.spotify.com/track/7A4WyJ4qHATquuSzxfxyC2) | [Thomas Darelid](https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ) | [Point of Life](https://open.spotify.com/album/43EjhSDByvdZwCNhme3fnZ) | 4:57 | 2021-11-08 |  |
 | [President](https://open.spotify.com/track/4XpyOXxSNOM4GMec79nMNz) | [The Calle Stenman Quintet](https://open.spotify.com/artist/33HmwOuCQt9l75KLBR557Y), [Oskar Schönning](https://open.spotify.com/artist/7B8n58KGwvuObuoNCpiFhZ), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [President](https://open.spotify.com/album/4LQoy1UPFaaUV1AFtOqzdm) | 3:21 | 2021-11-08 |  |
 | [Promenad](https://open.spotify.com/track/2KxqFtkQA6jeQ87jP3K3mB) | [John Nilsson](https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr) | [Introduktion](https://open.spotify.com/album/3IBmy7fQbpPFUrYuCijPpD) | 6:06 | 2023-12-01 |  |
+| [Protos Syrtos](https://open.spotify.com/track/200su0pAvjRTin1tkNRxla) | [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Jonas Ostholm](https://open.spotify.com/artist/4KVXqnzyphnoI3Ds5zS6AO), [Martin Höper](https://open.spotify.com/artist/1in1rh9jX09HI8VSThaIeg), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Protos Syrtos](https://open.spotify.com/album/59MSi5TrTULGiaYFX5R08e) | 7:31 | 2024-03-15 |  |
 | [Prélude C Minor](https://open.spotify.com/track/1cxzewcPOwz58W0sFHQ9r6) | [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J) | [Hallberg's Surprise](https://open.spotify.com/album/7cXni9CXht7tFagNUiWikb) | 3:57 | 2021-11-08 | 2022-07-29 |
 | [Prélude in C Minor](https://open.spotify.com/track/2Bl7sr1Nuc92CmSz1xg9mQ) | [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J) | [Hallberg's Surprise or Not Even The Old Masters Can Feel Safe \(Remastered\)](https://open.spotify.com/album/419wHxrrixrGZsk2N6bhfb) | 3:57 | 2022-06-22 |  |
 | [Recycling](https://open.spotify.com/track/7dHGmgrRle3U8j5jzRF4Xn) | [Jazzagenturen](https://open.spotify.com/artist/0PfYT2Yk58IWMc83t0iuiO), [Krister Andersson](https://open.spotify.com/artist/167JbWcD2zYLiL4WTRgHm0), [Leo Lindberg Trio](https://open.spotify.com/artist/46jpwHnuLDnmEjcHMggddG) | [Recycling](https://open.spotify.com/album/36rmAz0zGLWxMrGDbdrkbE) | 5:54 | 2024-01-26 |  |

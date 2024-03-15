@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- Piyath Rajapakse
 
-359 songs - 21 hr 20 min
+360 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Ahasama Ridawa](https://open.spotify.com/track/3y2D1m9SaL1itNDyHPHPUW) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Shihan Mihiranga](https://open.spotify.com/artist/0djxQZgKR9AcxtVjypEkwc), [Nirosha Virajini](https://open.spotify.com/artist/6wHi07ZWI3mgwehxRbd8x9) | [Ahasama Ridawa](https://open.spotify.com/album/3ch0Fu0GrJKTwGD8U5bcKh) | 2:41 | 2023-05-26 | 2023-09-13 |
 | [Ahenawada Gahena Hadawatha Mage](https://open.spotify.com/track/4TufAvSFh8OoD6kwC6L5nD) | [Sudeera Dilshan](https://open.spotify.com/artist/7gHkPTRQJ2DBMAqSvEgvzx) | [Ahenawada Gahena Hadawatha Mage](https://open.spotify.com/album/3darr1gl33sQUaAxYoNmU6) | 3:22 | 2023-09-12 | 2023-09-21 |
 | [Ahi Dara Pawa](https://open.spotify.com/track/6GRJT8kJqFk8eac6YSIKcZ) | [Thanura Madugeeth](https://open.spotify.com/artist/53lIbdjxD7HECsJMgQzZtn) | [Ahi Dara Pawa](https://open.spotify.com/album/7tDB7B4JbT4YEXjbMyxsbK) | 3:36 | 2023-10-03 | 2023-10-18 |
-| [Ai Mama Adare](https://open.spotify.com/track/6A8GvoDkfsxXwr1L4IpPjE) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a) | [Ai Mama Adare](https://open.spotify.com/album/4PWEEeP3n8zVa3VLCB2Zp3) | 4:21 | 2024-03-12 |  |
+| [Ai Mama Adare](https://open.spotify.com/track/616iKUfRFwdNJh3su4ni7r) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a) | [Ai Mama Adare](https://open.spotify.com/album/0uI9LPWUja8I5DC1OcWfa0) | 4:21 | 2024-03-12 |  |
+| [Ai Mama Adare](https://open.spotify.com/track/6A8GvoDkfsxXwr1L4IpPjE) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a) | [Ai Mama Adare](https://open.spotify.com/album/4PWEEeP3n8zVa3VLCB2Zp3) | 4:21 | 2024-03-12 | 2024-03-15 |
 | [Akasa Bindu](https://open.spotify.com/track/3hA3LQr2XqOsfcDjUqOa4N) | [Sanka Dineth](https://open.spotify.com/artist/1Uqk24JsikzOJO5gHx9AJG) | [Akasa Bindu](https://open.spotify.com/album/5KwoD5AyBlWXupVYO1wqf7) | 3:09 | 2022-06-16 | 2022-12-01 |
 | [Allan Yanna Bari Athak](https://open.spotify.com/track/3oCRnqSDze1igc7Vnovc5C) | [Sudeera Dilshan](https://open.spotify.com/artist/7gHkPTRQJ2DBMAqSvEgvzx) | [Allan Yanna Bari Athak](https://open.spotify.com/album/3HutgQn9ksIXiL9j5J0D3m) | 3:13 | 2022-06-16 | 2024-03-13 |
 | [Alu Roo](https://open.spotify.com/track/03M4Qnf1rMvaa1fF04v5fp) | [Mahiru Senarathne](https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC) | [Alu Roo](https://open.spotify.com/album/09h6GhvxDskSDwQl2RV4eg) | 2:42 | 2022-06-16 | 2022-12-01 |

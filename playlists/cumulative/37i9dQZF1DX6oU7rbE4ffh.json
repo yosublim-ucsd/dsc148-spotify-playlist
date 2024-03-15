@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Attunement",
+        "url": "https://open.spotify.com/album/2noLg0P7347xu4rI4oEBjC"
+      },
+      "artists": [
+        {
+          "name": "Rouge Haven",
+          "url": "https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Attunement",
+      "url": "https://open.spotify.com/track/4CLtmixAGAkk4XUWEGhKNh"
+    },
+    {
+      "album": {
         "name": "Awyr",
         "url": "https://open.spotify.com/album/32IqCf3YumpYV4JWvfS8F9"
       },
@@ -730,6 +748,24 @@
       "duration_ms": 180734,
       "name": "Celestial Orbit",
       "url": "https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE"
+    },
+    {
+      "album": {
+        "name": "Chasing Starlight",
+        "url": "https://open.spotify.com/album/5C27QY3d4DBjfHLxEHA2Q2"
+      },
+      "artists": [
+        {
+          "name": "Milan Moux",
+          "url": "https://open.spotify.com/artist/2Hp3fVH7ZTcfwgzq4f4Zam"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179708,
+      "name": "Chasing Starlight",
+      "url": "https://open.spotify.com/track/2BEdZkn1qOVr3mSEM0vTk8"
     },
     {
       "album": {
@@ -2908,6 +2944,24 @@
       "duration_ms": 165882,
       "name": "Winding Down",
       "url": "https://open.spotify.com/track/2YMF46jCQHWY5Cu34tAbyN"
+    },
+    {
+      "album": {
+        "name": "Would You Close Your Eyes?",
+        "url": "https://open.spotify.com/album/6pjq6UoI3Y3OxvA2yjWV5R"
+      },
+      "artists": [
+        {
+          "name": "Impedance Lost",
+          "url": "https://open.spotify.com/artist/0lqtp08TCVVNVpbwx1Yp8W"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201387,
+      "name": "Would You Close Your Eyes?",
+      "url": "https://open.spotify.com/track/7b6SaxaCKmwg5RS71vOEQZ"
     },
     {
       "album": {

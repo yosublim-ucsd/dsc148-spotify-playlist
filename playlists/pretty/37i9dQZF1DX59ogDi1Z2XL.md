@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Eva Shaw & DijahSB
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,470 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,495 likes - 99 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 93 | [Repeat](https://open.spotify.com/track/5tcC7bQ4fQ6WkvWxT73ZsI) | [Derin Falana](https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG) | [Repeat](https://open.spotify.com/album/3km7QoPe665Vk3e4tEu9Jt) | 3:20 |
 | 94 | [Rudess](https://open.spotify.com/track/4yliOGjkLXRIZaBXjQ7eGX) | [Cocanina](https://open.spotify.com/artist/6Jwx0B8JhSuBMy5ZBz7GIk) | [Rudess](https://open.spotify.com/album/3LYnr8Hp1ipcbvnEYqqA6G) | 1:58 |
 | 95 | [CIRCA\-91](https://open.spotify.com/track/5VIlLtHfn6u7QlQSii58bu) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [CIRCA\-91](https://open.spotify.com/album/3w3VqySMwXnxs9468SFWfE) | 3:30 |
-| 96 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 |
-| 97 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 |
-| 98 | [Pack Mentality](https://open.spotify.com/track/7cxQxOw5qoHngj9n1uehLY) | [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf) | [Pack Mentality](https://open.spotify.com/album/59eHDkIPAh6jg0ClaDbnGi) | 1:40 |
-| 99 | [Body](https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Dark Songs To Drive To](https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn) | 2:33 |
-| 100 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
+| 96 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 |
+| 97 | [Pack Mentality](https://open.spotify.com/track/7cxQxOw5qoHngj9n1uehLY) | [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf) | [Pack Mentality](https://open.spotify.com/album/59eHDkIPAh6jg0ClaDbnGi) | 1:40 |
+| 98 | [Body](https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Dark Songs To Drive To](https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn) | 2:33 |
+| 99 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
 
-Snapshot ID: `MCwwMzA5Yzg0MTM1NTZlNTNlOTFmMzE3ODRjNzk1NTgwOTc2YzRlZDk2`
+Snapshot ID: `MCxiMDNhZjkzNzY4ZjMwMzEzNzc4MjJiMDMyZmM5OTI4ZTkxNmJmODY0`

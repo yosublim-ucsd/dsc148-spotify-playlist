@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-681 songs - 2 day 10 hr 42 min
+682 songs - 2 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Innocent](https://open.spotify.com/track/6wviLxwR04XGjTRH8LkJ3R) | [Uneven Structure](https://open.spotify.com/artist/6ncfp4E8TXGnp6nYwBUwwj) | [Innocent](https://open.spotify.com/album/2bleSQYUwyI2O785GsosnE) | 5:39 | 2021-12-17 | 2022-07-25 |
 | [Into the Fall](https://open.spotify.com/track/7rWczgig0np2zhmR6CyzMF) | [Ancestors](https://open.spotify.com/artist/4aGLoZx4GdlR6fqtmY7rNV) | [Suspended in Reflections](https://open.spotify.com/album/5gWycJLVfdSFcDYGU5IvP2) | 5:07 | 2021-12-17 | 2022-01-13 |
 | [Into The Light](https://open.spotify.com/track/2JTdFSYyzyj5ROdcVMvcDD) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Into The Light](https://open.spotify.com/album/0RKHPAUyqVuBWrqTQ2OcwM) | 4:55 | 2024-01-30 | 2024-03-11 |
+| [Into The Light](https://open.spotify.com/track/54KCIJBwepylLwR0ZF9K5J) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Karma](https://open.spotify.com/album/1m79xPcxLJHHOgkByjkAPM) | 4:55 | 2024-01-30 |  |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
 | [Into the Void](https://open.spotify.com/track/1C2jP3FEsr9GMcsK5iP0Nx) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Into the Void](https://open.spotify.com/album/72BRKpCblIAaj0xTU608rJ) | 5:00 | 2021-12-17 | 2022-07-01 |
 | [Introspect](https://open.spotify.com/track/7IOrnVq2Hj4elIXzvWp8ua) | [Johari](https://open.spotify.com/artist/7Bu90tRyNrQvmkf0Xqggfe), [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Introspect](https://open.spotify.com/album/6QRDCjmfPTvCuzIyblURXv) | 4:18 | 2022-01-07 | 2023-01-21 |
@@ -603,7 +604,7 @@
 | [The World Breathes with Me](https://open.spotify.com/track/7vQF05SzXqqy9Op3xm39Qr) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [The World Breathes with Me](https://open.spotify.com/album/70AANGOJDClxtz8FDcMMfq) | 10:00 | 2024-01-30 |  |
 | [The World We Used to Know](https://open.spotify.com/track/63IGCNSlweIJK6wOieoFNN) | [Transatlantic](https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC) | [The World We Used to Know](https://open.spotify.com/album/3jUFu9kQ9BDrkEgAXtQSvy) | 9:21 | 2021-12-17 | 2022-07-27 |
 | [The World Without a View](https://open.spotify.com/track/7oqgn5cQi0dJD8Vc1nDQMv) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [The World Without a View](https://open.spotify.com/album/3wOUZYGoZgJkYvZdKLWNsH) | 9:33 | 2021-12-17 | 2022-07-28 |
-| [The Worst of Us](https://open.spotify.com/track/4LcuJ73bfEi48jJIC56xBp) | [QuietKind](https://open.spotify.com/artist/6TldHVbpoDY8Ut8FAPtdbr) | [Shadow Play](https://open.spotify.com/album/6cxXEPHGeIXiz0w4ktHMNi) | 4:39 | 2023-01-20 |  |
+| [The Worst of Us](https://open.spotify.com/track/4LcuJ73bfEi48jJIC56xBp) | [QuietKind](https://open.spotify.com/artist/6TldHVbpoDY8Ut8FAPtdbr) | [Shadow Play](https://open.spotify.com/album/6cxXEPHGeIXiz0w4ktHMNi) | 4:39 | 2023-01-20 | 2024-03-15 |
 | [The Worst of Us](https://open.spotify.com/track/5B2p6lmbUGO9g0kKuXfejU) | [QuietKind](https://open.spotify.com/artist/6TldHVbpoDY8Ut8FAPtdbr) | [Shadow Play](https://open.spotify.com/album/1t9N7b0bbwH5csgeyxgBCe) | 4:39 | 2022-07-13 | 2022-07-15 |
 | [They Drew First Blood](https://open.spotify.com/track/69tvPkBYldOqUGkLY2QxVP) | [The Monolith Deathcult](https://open.spotify.com/artist/30R1cSs562qWPmRHZtmZom) | [Vernedering \- Connect the Goddamn Dots](https://open.spotify.com/album/7CIafEi4HSEMjLPhOgeXGD) | 7:48 | 2021-12-17 | 2022-07-27 |
 | [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 | 2022-01-07 | 2022-12-18 |

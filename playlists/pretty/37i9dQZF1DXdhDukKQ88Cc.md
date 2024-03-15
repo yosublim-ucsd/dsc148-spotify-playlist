@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> det største dk rap lige nu.\. <a href="spotify:artist:7Ap8xCd7d0xon5XnkLvn4i">KIDD</a> har sluppet et nyt album <a href="spotify:album:5eltcb1nCUUS5xeCyrsQV3">OG SÅ VIDERE</a>  🔥
+> det største dk rap lige nu 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,250 likes - 72 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,263 likes - 72 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lidt Længere \(feat\. Emil Kruse\)](https://open.spotify.com/track/1i4vUaRYZn43PjXSzwDFJY) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [OG SÅ VIDERE](https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3) | 3:02 |
-| 2 | [Balaclava](https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Balaclava](https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE) | 2:29 |
-| 3 | [DO YOU LOVE ME?](https://open.spotify.com/track/7k4SfOrgXvcgXCH2QzcfZq) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [DO YOU LOVE ME?](https://open.spotify.com/album/3Eu2ClmDJkAsMPYB8oylQd) | 2:22 |
-| 4 | [Poison Ivy](https://open.spotify.com/track/03dQMcWzjly8qC5Yd5hblh) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Poison Ivy](https://open.spotify.com/album/1ZDIBDL88klUFwKthupCm5) | 2:21 |
-| 5 | [Passport](https://open.spotify.com/track/0Z6qMxDDq3JL3Zqns9ANVM) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [Passport](https://open.spotify.com/album/3UJdaVQNT58WUEGFEwqvm5) | 2:19 |
-| 6 | [Hvad Vi Vil](https://open.spotify.com/track/0dH7vsh51sKniPT5H2kSCW) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Hvad Vi Vil](https://open.spotify.com/album/5GFIXuuthiNh3WbmuUoomk) | 3:31 |
-| 7 | [555 \(feat\. KESI\)](https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 2:37 |
-| 8 | [Følelser \(feat\. Jamaika\)](https://open.spotify.com/track/3nDcLRg4XZW1ubYHqS7gGX) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [En dag giver alt nok mening… \(DELUXE\)](https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM) | 2:29 |
-| 9 | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n) | 2:54 |
-| 10 | [Drunk Talk](https://open.spotify.com/track/4UHnAGrNmcosenpWfamNkZ) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Drunk Talk](https://open.spotify.com/album/6icOw8O8jEo3z6nMs5SJzv) | 2:44 |
+| 1 | [Balaclava](https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Balaclava](https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE) | 2:29 |
+| 2 | [DO YOU LOVE ME?](https://open.spotify.com/track/7k4SfOrgXvcgXCH2QzcfZq) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [DO YOU LOVE ME?](https://open.spotify.com/album/3Eu2ClmDJkAsMPYB8oylQd) | 2:22 |
+| 3 | [Poison Ivy](https://open.spotify.com/track/03dQMcWzjly8qC5Yd5hblh) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Poison Ivy](https://open.spotify.com/album/1ZDIBDL88klUFwKthupCm5) | 2:21 |
+| 4 | [Passport](https://open.spotify.com/track/0Z6qMxDDq3JL3Zqns9ANVM) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [Passport](https://open.spotify.com/album/3UJdaVQNT58WUEGFEwqvm5) | 2:19 |
+| 5 | [Hvad Vi Vil](https://open.spotify.com/track/0dH7vsh51sKniPT5H2kSCW) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Hvad Vi Vil](https://open.spotify.com/album/5GFIXuuthiNh3WbmuUoomk) | 3:31 |
+| 6 | [555 \(feat\. KESI\)](https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 2:37 |
+| 7 | [Følelser \(feat\. Jamaika\)](https://open.spotify.com/track/3nDcLRg4XZW1ubYHqS7gGX) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [En dag giver alt nok mening… \(DELUXE\)](https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM) | 2:29 |
+| 8 | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n) | 2:54 |
+| 9 | [Drunk Talk](https://open.spotify.com/track/4UHnAGrNmcosenpWfamNkZ) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Drunk Talk](https://open.spotify.com/album/6icOw8O8jEo3z6nMs5SJzv) | 2:44 |
+| 10 | [Lidt Længere \(feat\. Emil Kruse\)](https://open.spotify.com/track/1i4vUaRYZn43PjXSzwDFJY) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [OG SÅ VIDERE](https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3) | 3:02 |
 | 11 | [SOLEN STÅR OP](https://open.spotify.com/track/4CSJtn4yNxWa3Cmo7ngPYN) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [SOLEN STÅR OP](https://open.spotify.com/album/6IXAw5CQJAfQvXi0QWBBAM) | 2:27 |
 | 12 | [Distance \(feat\. Jamaika\)](https://open.spotify.com/track/5AzSKwoLyIZUQOngfgZie4) | [Cezar](https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Distance \(feat\. Jamaika\)](https://open.spotify.com/album/6KibBUnazaBaPjId1jSfAR) | 2:53 |
 | 13 | [Stemmer](https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Stemmer](https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P) | 2:27 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 71 | [Hele Vejen Ind \(feat\. Gilli\)](https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:28 |
 | 72 | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/track/7ME4hi8iUI8ppwRpIGbKg4) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/album/26JQ7MSTG8tAdJbLVU7ZMN) | 2:16 |
 
-Snapshot ID: `MCw2MGQ3NDFkZjUxMzg3YTRhOGJhZDYzMmYwMmNkNTdmNDEyMTE3YTU2`
+Snapshot ID: `MCw1NWFkZjI3NzYwNDJjMDFhNDczMmIwMzdjNmI2YWY3YmNhODU3NDJi`

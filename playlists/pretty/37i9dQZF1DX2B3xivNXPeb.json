@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmU0NjFmMzZiOGIwMDIxNjYyYWIwNWQxZWM2YzgxMDYxNWRjZWRh",
+  "snapshot_id": "MCw0YjI2NjlhMDEyM2Y3ODJmM2MzZGU3MzQ0NzNlMzlkNTBlMTJmMTY5",
   "tracks": [
     {
       "added_at": "2024-03-08 09:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-03-08 09:00:00",
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "I Wish I Knew How It Would Feel to Be Free",
-      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
-    },
-    {
-      "added_at": "2024-03-08 09:00:00",
-      "album": {
         "name": "Walk Like This",
         "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 197493,
       "name": "Walk Like This",
       "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
+    },
+    {
+      "added_at": "2024-03-08 09:00:00",
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
     },
     {
       "added_at": "2024-03-08 09:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-03-08 09:00:00",
       "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+    },
+    {
+      "added_at": "2024-03-08 09:00:00",
+      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 327706,
       "name": "Inner City Blues (Make Me Wanna Holler)",
       "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
-    },
-    {
-      "added_at": "2024-03-08 09:00:00",
-      "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
     },
     {
       "added_at": "2024-03-08 09:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-08 09:00:00",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
-    },
-    {
-      "added_at": "2024-03-08 09:00:00",
-      "album": {
         "name": "over",
         "url": "https://open.spotify.com/album/1CcqKVf3Vf6sD2d9PA9pWj"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 133300,
       "name": "over",
       "url": "https://open.spotify.com/track/0Z5hhHje7VPBAkiqgBKdUp"
+    },
+    {
+      "added_at": "2024-03-08 09:00:00",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
     },
     {
       "added_at": "2024-03-08 09:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-08 09:00:00",
       "album": {
-        "name": "Giving It In",
-        "url": "https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1"
-      },
-      "artists": [
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Giving It In",
-      "url": "https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC"
-    },
-    {
-      "added_at": "2024-03-08 09:00:00",
-      "album": {
         "name": "Phases EP",
         "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 200680,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
+    },
+    {
+      "added_at": "2024-03-08 09:00:00",
+      "album": {
+        "name": "Giving It In",
+        "url": "https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1"
+      },
+      "artists": [
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Giving It In",
+      "url": "https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC"
     },
     {
       "added_at": "2024-03-08 09:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-03-08 09:00:00",
       "album": {
+        "name": "Radiosoul",
+        "url": "https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 218113,
+      "name": "Radiosoul - Single Version",
+      "url": "https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa"
+    },
+    {
+      "added_at": "2024-03-08 09:00:00",
+      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/7moeasHrdO4gtA9gierUQ7"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 183963,
       "name": "Us",
       "url": "https://open.spotify.com/track/5BZhksMl6vZnTSvfJAhn9e"
-    },
-    {
-      "added_at": "2024-03-08 09:00:00",
-      "album": {
-        "name": "Radiosoul",
-        "url": "https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 218113,
-      "name": "Radiosoul - Single Version",
-      "url": "https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa"
     },
     {
       "added_at": "2024-03-08 09:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-03-08 09:00:00",
       "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "duration_ms": 148445,
+      "name": "circles",
+      "url": "https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC"
+    },
+    {
+      "added_at": "2024-03-08 09:00:00",
+      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 218680,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
-    },
-    {
-      "added_at": "2024-03-08 09:00:00",
-      "album": {
-        "name": "circles",
-        "url": "https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc"
-      },
-      "artists": [
-        {
-          "name": "Humble the Great",
-          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
-        }
-      ],
-      "duration_ms": 148445,
-      "name": "circles",
-      "url": "https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC"
     },
     {
       "added_at": "2024-03-08 09:00:00",

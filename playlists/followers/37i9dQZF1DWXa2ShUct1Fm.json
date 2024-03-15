@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 836565,
+  "2024-03-15": 836813,
   "date_first_scraped": "2022-05-30",
   "description": "Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.",
   "name": "This Is SEVENTEEN",
@@ -3417,6 +3417,24 @@
       "duration_ms": 213072,
       "name": "THANKS",
       "url": "https://open.spotify.com/track/7cbZIBLhfD9taMBgEsIhIp"
+    },
+    {
+      "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF"
+      },
+      "artists": [
+        {
+          "name": "BSS",
+          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213773,
+      "name": "The Reasons of My Smiles",
+      "url": "https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G"
     },
     {
       "album": {

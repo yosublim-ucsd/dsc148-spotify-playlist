@@ -27,7 +27,7 @@
     },
     {
       "album": {
-        "name": "Ahi Les Encargo",
+        "name": "Ahi Les Encargo (En Vivo)",
         "url": "https://open.spotify.com/album/4SQhbJm9V79GRSheXKGqlS"
       },
       "artists": [
@@ -44,7 +44,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183551,
-      "name": "Ahi Les Encargo",
+      "name": "Ahi Les Encargo - En Vivo",
       "url": "https://open.spotify.com/track/0Vn8F3xHv5z2NalIj0akgH"
     },
     {
@@ -440,7 +440,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 193941,
       "name": "El Mono - En Vivo",
       "url": "https://open.spotify.com/track/5WOTy1vVAhux7p6UfkMUL0"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 249121,
       "name": "Sue\u00f1os de Ni\u00f1o (En Vivo)",
       "url": "https://open.spotify.com/track/0ZFUm0cdR8IRqmbSCizos8"

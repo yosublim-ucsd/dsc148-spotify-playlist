@@ -693,6 +693,32 @@
     },
     {
       "album": {
+        "name": "Bhayavagide",
+        "url": "https://open.spotify.com/album/6gBBoyq4Az8P1AR3MFRaeR"
+      },
+      "artists": [
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH"
+        },
+        {
+          "name": "Manu Rao",
+          "url": "https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ"
+        },
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247207,
+      "name": "Bhayavagide",
+      "url": "https://open.spotify.com/track/385UNBjrv1NoCxsqop82Uh"
+    },
+    {
+      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/2QkuqKnB4GkAr6iCVDCJNL"
       },
@@ -890,7 +916,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 201142,
       "name": "Chaa",
       "url": "https://open.spotify.com/track/1MGXOBkxHXJACP6zm16kf2"
@@ -982,7 +1008,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 162211,
       "name": "Chii",
       "url": "https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV"
@@ -1601,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Gelthinallo",
+        "url": "https://open.spotify.com/album/1lwlU3A6anSNGgR8U0gZ1U"
+      },
+      "artists": [
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "Gelthinallo",
+      "url": "https://open.spotify.com/track/67aund6DgSswfEy1lkMyZD"
+    },
+    {
+      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac"
       },
@@ -1818,7 +1862,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 154000,
       "name": "Hogey",
       "url": "https://open.spotify.com/track/1dpbtaXrFGTlXL2HVxAFWz"
@@ -2748,6 +2792,28 @@
       "duration_ms": 161589,
       "name": "KROORI",
       "url": "https://open.spotify.com/track/7z7xUrc1zGPdGXbM67kQX2"
+    },
+    {
+      "album": {
+        "name": "Kurudu Preeti",
+        "url": "https://open.spotify.com/album/1GtZYToHUreZ3WnY3j3rq3"
+      },
+      "artists": [
+        {
+          "name": "Vishwas Javali",
+          "url": "https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN"
+        },
+        {
+          "name": "Sachin Dodamani",
+          "url": "https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193467,
+      "name": "Kurudu Preeti",
+      "url": "https://open.spotify.com/track/2GRyvZlIc2OcyrJdHAE0p9"
     },
     {
       "album": {
@@ -4284,7 +4350,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 276270,
       "name": "Neene Neene",
       "url": "https://open.spotify.com/track/3oNl7SQVQnogVXaXdfbdhw"

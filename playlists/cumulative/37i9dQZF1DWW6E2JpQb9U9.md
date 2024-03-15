@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-320 songs - 1 day 0 hr 6 min
+321 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [El Amor No Existe \- En Vivo](https://open.spotify.com/track/1zDK1iD8uUYhT3yExKFG1S) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Martin "Mono" Fabio](https://open.spotify.com/artist/2sgxHeMWSuLNXYeexvDuGe) | [El Amor No Existe \(En Vivo\)](https://open.spotify.com/album/14eqmcxSOymxp0BsNF6qkf) | 2:48 | 2022-04-01 | 2023-10-07 |
 | [El Balcón \- En Vivo](https://open.spotify.com/track/7ywbpggu1JZHDKCK153aTf) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 5:46 | 2022-04-01 | 2023-01-01 |
 | [El Bar de la Calle Rodney \- En Vivo](https://open.spotify.com/track/06Lb8SpBalxFjvFOD7MoCA) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Navegar Es Preciso \(En Vivo\)](https://open.spotify.com/album/4ocTAKR72ukLnPb93jRdLN) | 4:03 | 2022-06-10 | 2022-07-29 |
+| [El Charro Chino \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Charro Chino \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U) | 4:54 | 2024-03-14 |  |
 | [El Cinturón Gris \- En Vivo](https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [El Cinturón Gris \(En Vivo\)](https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL) | 3:57 | 2023-07-14 |  |
 | [El Corazón Sobre Todo \- En Vivo](https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [En Vivo Gran Rex](https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ) | 4:10 | 2022-04-01 |  |
 | [El Juicio del Ganso \- En Vivo](https://open.spotify.com/track/2jCcXjx7lVhRXaYns1obr2) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Inventa un Mañana \(En Vivo\)](https://open.spotify.com/album/67OMbdtXyA15dnJ2JbR647) | 5:25 | 2023-08-31 | 2023-09-22 |
@@ -327,6 +328,6 @@
 | [¿Por Qué Será Que Dios No Me Quiere? \- En Vivo](https://open.spotify.com/track/0ARVb977xP9T7NWHK0xvzS) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/1u6H3heR03PvMNWvCnasex) | 3:56 | 2023-12-22 |  |
 | [¿Por Qué Será Que Dios No Me Quiere? \- En Vivo](https://open.spotify.com/track/3ErClfBvCqOTjeUqdrmm2V) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [¿Por Qué Será Que Dios No Me Quiere? \(En Vivo\)](https://open.spotify.com/album/1w0irouqXrcdR4Wm8SYohd) | 3:56 | 2022-06-10 | 2023-10-27 |
 | [¿Qué Tal? \(En Vivo\)](https://open.spotify.com/track/5L4FkYBqBBcGBhD72rebEh) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en el Teatro Coliseo](https://open.spotify.com/album/4Tm00saalKTLhIz3xL6erW) | 8:07 | 2022-04-01 | 2022-07-25 |
-| [¿Qué Tal? \- En Vivo](https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en el Teatro Coliseo](https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY) | 8:07 | 2023-10-06 |  |
+| [¿Qué Tal? \- En Vivo](https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en el Teatro Coliseo](https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY) | 8:07 | 2023-10-06 | 2024-03-15 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

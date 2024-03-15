@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 245907,
+  "2024-03-15": 246068,
   "date_first_scraped": "2023-01-14",
   "description": "The biggest Japanese rock hits right now.  Cover: Macaroni Enpitsu (\u30de\u30ab\u30ed\u30cb\u3048\u3093\u3074\u3064)\u3000\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "J-Rock ON!!",
@@ -4611,7 +4611,7 @@
     {
       "album": {
         "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/7MTFay3o99M6aGnPnByyew"
+        "url": "https://open.spotify.com/album/4FbJx3hYgHNHrzfqzk9vRi"
       },
       "artists": [
         {
@@ -4622,6 +4622,24 @@
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194638,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/26kGk6Ia807QHtzIftKY7s"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7MTFay3o99M6aGnPnByyew"
+      },
+      "artists": [
+        {
+          "name": "KOTORI",
+          "url": "https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-14",
       "duration_ms": 194638,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/6QZGcazgsh6N9Z1soJgNdn"
@@ -6949,6 +6967,24 @@
       "duration_ms": 182506,
       "name": "Love melts into the marble ocean",
       "url": "https://open.spotify.com/track/2XHZBO4WZFfPiy4tpeOndd"
+    },
+    {
+      "album": {
+        "name": "Love no Genkei",
+        "url": "https://open.spotify.com/album/2sOTrGKCJK6NzbDlLQm1i1"
+      },
+      "artists": [
+        {
+          "name": "AJICO",
+          "url": "https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Love no Genkei",
+      "url": "https://open.spotify.com/track/2WW8KjNeaeKLCV16w4vmO7"
     },
     {
       "album": {
@@ -9704,6 +9740,24 @@
     },
     {
       "album": {
+        "name": "Marbles",
+        "url": "https://open.spotify.com/album/4IZT14OgKiQMqXHrdO4Oje"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305306,
+      "name": "Rinka",
+      "url": "https://open.spotify.com/track/5IEvXyNwaJlTmBn4dYYHbB"
+    },
+    {
+      "album": {
         "name": "ROBO",
         "url": "https://open.spotify.com/album/1mlPgMKIp1OIfCRuUR8Q4q"
       },
@@ -10373,6 +10427,24 @@
       "duration_ms": 212306,
       "name": "Sesame",
       "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
+    },
+    {
+      "album": {
+        "name": "Bukiyonawatashidakara",
+        "url": "https://open.spotify.com/album/7A2zw5c6HWDnWapolnp36b"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315800,
+      "name": "Setsugekka",
+      "url": "https://open.spotify.com/track/02ntK5ruQ5arRCAmQVXZmz"
     },
     {
       "album": {
@@ -18835,7 +18907,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 206933,
       "name": "\u30e9\u30f4\u306e\u5143\u578b",
       "url": "https://open.spotify.com/track/5AOoLf1lxCLcbMDsv0du8c"
@@ -24443,7 +24515,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 305306,
       "name": "\u96a3\u82b1",
       "url": "https://open.spotify.com/track/0kIx4wwk7Dns5dhmbNLjh3"
@@ -24573,7 +24645,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 315800,
       "name": "\u96ea\u6708\u82b1",
       "url": "https://open.spotify.com/track/6jR9HOKraeOqG9QK0oNTbH"

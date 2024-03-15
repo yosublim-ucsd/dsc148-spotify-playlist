@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Ana Macho",
-  "num_followers": 5172,
+  "num_followers": 5177,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDQzNmU3M2NhMDQxNzJkZWJiYTFjMTMwYzI2MTY3ZmVjNWI5MTNk",
+  "snapshot_id": "MCw4OWQ5NWFkODljNzg3YTkzZGE5ZjRhNmVkYjk5OGQxZDMyMDIwOWQx",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Memes del Futuro",
-        "url": "https://open.spotify.com/album/2BngW4gizvgN5Xzda1ypkW"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 177016,
-      "name": "Hot Pants",
-      "url": "https://open.spotify.com/track/6ru8BeXJfqD2IGYlu4K18N"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 211474,
       "name": "Otra Noche en L.A.",
       "url": "https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Memes del Futuro",
+        "url": "https://open.spotify.com/album/2BngW4gizvgN5Xzda1ypkW"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 177016,
+      "name": "Hot Pants",
+      "url": "https://open.spotify.com/track/6ru8BeXJfqD2IGYlu4K18N"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 200232,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 170175,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 200232,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Girasoles",
-        "url": "https://open.spotify.com/album/6gmZ7hycaLVJlFBusgpDzo"
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
       },
       "artists": [
         {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
         }
       ],
-      "duration_ms": 308576,
-      "name": "Girasoles",
-      "url": "https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx"
+      "duration_ms": 174947,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
+        "name": "Girasoles",
+        "url": "https://open.spotify.com/album/6gmZ7hycaLVJlFBusgpDzo"
       },
       "artists": [
         {
-          "name": "Calma Carmona",
-          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
         }
       ],
-      "duration_ms": 174947,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
+      "duration_ms": 308576,
+      "name": "Girasoles",
+      "url": "https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx"
     },
     {
       "added_at": "2024-03-01 05:00:00",

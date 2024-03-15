@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 39904,
+  "2024-03-15": 39934,
   "date_first_scraped": "2022-05-12",
   "description": "Beat e rime, oggi come una volta. Rak in cover.",
   "name": "Radici Hip-Hop",
@@ -3273,6 +3273,24 @@
       "duration_ms": 126593,
       "name": "Kojima",
       "url": "https://open.spotify.com/track/2ADu47LHn7w7B9iNvgwadZ"
+    },
+    {
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243096,
+      "name": "Kyobo ni tsuki",
+      "url": "https://open.spotify.com/track/2VuI6BCvsWka7soG7LNrKK"
     },
     {
       "album": {
@@ -8053,7 +8071,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 194322,
       "name": "Vida loca - Remix 2k4",
       "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"

@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s\. Cover: Aretha Franklin
 
-839 songs - 1 day 19 hr 55 min
+840 songs - 1 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Jump in the Line](https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Jump Up Calypso](https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI) | 3:41 | 2020-08-22 |  |
 | [Jumpin' Jack Flash](https://open.spotify.com/track/269rUyj7DapVabdn6Fuz2M) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Through The Past, Darkly \(Big Hits Vol\. 2\)](https://open.spotify.com/album/2CQjM87TL5hUDvzFCqyzs1) | 3:41 | 2019-06-23 | 2022-07-29 |
 | [Jumpin' Jack Flash](https://open.spotify.com/track/1uBsu3PbD2909UBIfEMLvK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Jumpin' Jack Flash / Child Of The Moon](https://open.spotify.com/album/10OB4Z0KBJtCayAX7Gk57m) | 3:42 | 2022-08-12 | 2023-07-30 |
+| [Jumpin' Jack Flash](https://open.spotify.com/track/1GOdYykgw2W0OcjPANvwgE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi) | 3:43 | 2022-08-12 |  |
 | [Just Like a Woman](https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:50 | 2019-06-23 | 2022-07-28 |
 | [Kanaan](https://open.spotify.com/track/51oiyRN8reUAwzBjzpgVId) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Live In Concert](https://open.spotify.com/album/43j9HZvYJJa0XSw2oRAG3y) | 4:52 | 2019-06-26 | 2019-07-26 |
 | [Keep On Pushing](https://open.spotify.com/track/5mDEEfMs1fHTjoEffGvnvr) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [Keep On Pushing](https://open.spotify.com/album/0L1jTkX24GS4gHP4Silxr8) | 2:35 | 2019-07-20 | 2019-08-27 |
@@ -565,7 +566,7 @@
 | [Roses Are Red \(My Love\) \- Single Version](https://open.spotify.com/track/0qYok0f8O5DE8yJSo146dn) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:38 | 2019-07-18 | 2019-08-09 |
 | [Rubber Ball](https://open.spotify.com/track/4KLjtvc6NsJyRLM6M2IfZK) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Come Go With Me](https://open.spotify.com/album/3E9MueC0q2pwAfAqIJ2IwV) | 2:16 | 2020-08-22 | 2021-10-14 |
 | [Ruby Baby](https://open.spotify.com/track/6QyhpZJvcIPqx1v0UAk3NM) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Essential Dion](https://open.spotify.com/album/7fPWnlMYR0CN5HVD6cxGq0) | 2:36 | 2019-06-22 | 2019-08-27 |
-| [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 | 2023-12-21 |  |
+| [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 | 2023-12-21 | 2024-03-15 |
 | [Runaround Sue](https://open.spotify.com/track/2MoDI7Hji8YHNUAeTH69UA) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Complete Laurie Singles](https://open.spotify.com/album/4Tp8u8dR0AuOWZDb9npiqI) | 2:42 | 2019-06-19 | 2019-08-06 |
 | [Runaround Sue](https://open.spotify.com/track/5cnRe7hrWX4QEiLNR18K8W) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Rock\`n´Roll & Jukebox Hits Vol.2 \- 50 Originals From The 50s & 60s](https://open.spotify.com/album/0nKvtneawQogNuNTQ1Z2Zb) | 2:44 | 2020-08-15 | 2020-08-22 |
 | [Runaround Sue](https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Runaround Sue](https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7) | 2:51 | 2020-08-22 |  |

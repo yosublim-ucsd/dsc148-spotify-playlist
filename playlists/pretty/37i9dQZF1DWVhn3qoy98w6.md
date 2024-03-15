@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Chois.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,962 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,966 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Cancerbera](https://open.spotify.com/track/3CsJy3lNw9IXqHC59qOe70) | [Rosa Venenosa](https://open.spotify.com/artist/1Spj32OdRIr34BeewqUXdP) | [Cancerbera](https://open.spotify.com/album/5iiSzyob5o0qItnEy8BVJL) | 2:38 |
 | 50 | [OTW](https://open.spotify.com/track/24Cyjj9z6Pc1cNFgviYe4S) | [FIKUS](https://open.spotify.com/artist/5szRJH6PvPsvN61YlwkP1s) | [OTW](https://open.spotify.com/album/48BqqRY4Fkun9KNpKDjhBt) | 2:58 |
 
-Snapshot ID: `MCw5YTgwNWJjOGE2NmU3MmMwNzJlYTQ0ZTYyMGI4MmUxYjljMDgxNzQ2`
+Snapshot ID: `MCwyMDYzNDgzZjQwYTk1ZjBjYTFkZDE5MjcxNDAwMzRkM2VmODc5NDQy`

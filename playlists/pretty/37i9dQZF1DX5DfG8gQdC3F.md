@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ariana Grande, Mustafa, bludnymph, Laufey and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,455 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,512 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Push](https://open.spotify.com/track/6sdAE6ZE2t40Gg5BKxIqW8) | [AUDRÉ](https://open.spotify.com/artist/7D90vPov7npaORRz1VaXVY) | [Push](https://open.spotify.com/album/6tJYYtfydNUwszeAF2TqNO) | 3:10 |
 | 100 | [Sweater Club](https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Sweater Club](https://open.spotify.com/album/0uLHEY4gk0YYp1DHNr7Qgm) | 2:56 |
 
-Snapshot ID: `MCxhNmI3ZjMwOGU5ZGVhYzVjOWVkMDE5MWIyN2YxZjI2ODhkY2Y2ZGU1`
+Snapshot ID: `MCw2YzI4NDU4MTY1NzQwYjc1MjI1MGIyNGM5ZWExYzkxYmM3OWEyZWJk`

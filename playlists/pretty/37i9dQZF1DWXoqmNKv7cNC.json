@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas a todo volumen! ",
-  "num_followers": 102572,
+  "num_followers": 102881,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGE2ZTJiMWM5NmFiNzgwOWNhMGExODE4NmIxMGRjYzNkNTc1NWJj",
+  "snapshot_id": "MCwzNGJhMjYzMGZmOTMwZTc4YWRmYTAzMWMyZTA3N2FmZDZmOWQ0YTFl",
   "tracks": [
     {
       "added_at": "2024-03-11 19:58:35",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR"
       },
@@ -287,18 +303,18 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+        "name": "Todo Todo",
+        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+      "duration_ms": 194066,
+      "name": "Todo Todo",
+      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -315,22 +331,6 @@
       "duration_ms": 164120,
       "name": "Canci\u00f3n Para Olvidarte",
       "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Todo Todo",
-        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Todo Todo",
-      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "la calle",
-        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 243999,
-      "name": "la calle",
-      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
         "name": "Mis Covers",
         "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 224656,
       "name": "Adios Amor",
       "url": "https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "la calle",
+        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 243999,
+      "name": "la calle",
+      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -527,38 +527,6 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "Amandititita",
-        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
-      },
-      "artists": [
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Metrosexual",
-      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
         "name": "Fumar Beber",
         "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
       },
@@ -587,6 +555,38 @@
       "duration_ms": 194531,
       "name": "Fumar Beber",
       "url": "https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "Amandititita",
+        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
+      },
+      "artists": [
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Metrosexual",
+      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 162421,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "Milagro y Desastre",
-        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 245672,
-      "name": "Milagro y Desastre",
-      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
         "name": "Como las Aves",
         "url": "https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 138400,
       "name": "Como las Aves",
       "url": "https://open.spotify.com/track/7CKkmL3rfnchJtVvGuRoyH"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Vas de Salida",
+      "url": "https://open.spotify.com/track/1fAlzrqtkmH6GX9lJ5al9b"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "Armaggedon",
-        "url": "https://open.spotify.com/album/2AP8H2csmGXSfUNov9ek6y"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 194148,
-      "name": "M\u00e1scara de Ni\u00f1a",
-      "url": "https://open.spotify.com/track/4i2Gvi7vMbrr1IGvSfUSYd"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
         "name": "Mis Mejores Poses",
         "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
       },
@@ -751,18 +735,34 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 182160,
-      "name": "Vas de Salida",
-      "url": "https://open.spotify.com/track/1fAlzrqtkmH6GX9lJ5al9b"
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "Armaggedon",
+        "url": "https://open.spotify.com/album/2AP8H2csmGXSfUNov9ek6y"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 194148,
+      "name": "M\u00e1scara de Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4i2Gvi7vMbrr1IGvSfUSYd"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "Toda La Noche",
-        "url": "https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH"
-      },
-      "artists": [
-        {
-          "name": "Hispana",
-          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Toda La Noche",
-      "url": "https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
         "name": "DAMALEONA",
         "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "Chupetones",
-        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
+        "name": "Toda La Noche",
+        "url": "https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH"
       },
       "artists": [
         {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Myspace",
-      "url": "https://open.spotify.com/track/5cXr56savehemj8ria2cxD"
+      "duration_ms": 162040,
+      "name": "Toda La Noche",
+      "url": "https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "Mala Suerte",
+        "url": "https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte"
+      },
+      "artists": [
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "duration_ms": 180312,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "Mala Suerte",
-        "url": "https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte"
+        "name": "Chupetones",
+        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
       },
       "artists": [
         {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
         }
       ],
-      "duration_ms": 180312,
-      "name": "Mala Suerte",
-      "url": "https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy"
+      "duration_ms": 204000,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/5cXr56savehemj8ria2cxD"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
+        "name": "No s\u00e9 si vuelva a verte",
+        "url": "https://open.spotify.com/album/5FV6Y27m253VFLvB5or7UH"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "No s\u00e9 si vuelva a verte",
+      "url": "https://open.spotify.com/track/4exUwB6HFf2YMh5PkFQ094"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
         "name": "V\u00e9rtigo",
         "url": "https://open.spotify.com/album/6DQlYPl1V2Ar7ct0GCpIgI"
       },
@@ -1007,18 +1023,38 @@
     {
       "added_at": "2024-03-11 19:58:35",
       "album": {
-        "name": "No s\u00e9 si vuelva a verte",
-        "url": "https://open.spotify.com/album/5FV6Y27m253VFLvB5or7UH"
+        "name": "Hola Lola",
+        "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
       },
       "artists": [
         {
-          "name": "Elis Paprika",
-          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
         }
       ],
-      "duration_ms": 227142,
-      "name": "No s\u00e9 si vuelva a verte",
-      "url": "https://open.spotify.com/track/4exUwB6HFf2YMh5PkFQ094"
+      "duration_ms": 237142,
+      "name": "Hola Lola",
+      "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
+    },
+    {
+      "added_at": "2024-03-11 19:58:35",
+      "album": {
+        "name": "POLVO",
+        "url": "https://open.spotify.com/album/4vdhfstIdiL9CkqhnUSAaD"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        },
+        {
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "POLVO",
+      "url": "https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa"
     },
     {
       "added_at": "2024-03-11 19:58:35",
@@ -1047,42 +1083,6 @@
       "duration_ms": 199322,
       "name": "M.A.D",
       "url": "https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "POLVO",
-        "url": "https://open.spotify.com/album/4vdhfstIdiL9CkqhnUSAaD"
-      },
-      "artists": [
-        {
-          "name": "GRTSCH",
-          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
-        },
-        {
-          "name": "Denise Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "POLVO",
-      "url": "https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa"
-    },
-    {
-      "added_at": "2024-03-11 19:58:35",
-      "album": {
-        "name": "Hola Lola",
-        "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
-      },
-      "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        }
-      ],
-      "duration_ms": 237142,
-      "name": "Hola Lola",
-      "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
     },
     {
       "added_at": "2024-03-11 19:58:35",

@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 64122,
+  "2024-03-15": 64138,
   "date_first_scraped": "2022-09-15",
   "description": "<a href=\"spotify:artist:3NKVm2Jedcf6ibJr6pMUVx\">Jayda G</a>'s favorite tracks. Updated regularly. Curated by Jayda G. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Jayda G's track IDs",
@@ -413,10 +413,32 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 402800,
       "name": "Cascades of Colour",
       "url": "https://open.spotify.com/track/4Q1lNgOmrCPu5pnPHBDP3n"
+    },
+    {
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/1VrJizKgfnE4cSt0EFLZu0"
+      },
+      "artists": [
+        {
+          "name": "Ananda Project",
+          "url": "https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c"
+        },
+        {
+          "name": "Gaelle",
+          "url": "https://open.spotify.com/artist/5Y05sxUHmmYpTRHNA5u6Jy"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402800,
+      "name": "Cascades of Colour - Extended Mix",
+      "url": "https://open.spotify.com/track/2hvPAweFTgcAn9caYJh564"
     },
     {
       "album": {

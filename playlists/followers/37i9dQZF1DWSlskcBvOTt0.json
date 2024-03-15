@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 450348,
+  "2024-03-15": 450522,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -2726,6 +2726,32 @@
     },
     {
       "album": {
+        "name": "DIKEBO",
+        "url": "https://open.spotify.com/album/2LaAMUq3t9WYTchh44IiiI"
+      },
+      "artists": [
+        {
+          "name": "CISUMMI",
+          "url": "https://open.spotify.com/artist/3TndCXavazaX36ikXqPIcq"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334426,
+      "name": "DIKEBO - Sparrow & Barbossa Remix",
+      "url": "https://open.spotify.com/track/6gYIpXyyYSw7vEZgQmDp7d"
+    },
+    {
+      "album": {
         "name": "Disappear",
         "url": "https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh"
       },
@@ -4735,7 +4761,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 404529,
       "name": "Human Aura - Massano Remix",
       "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"

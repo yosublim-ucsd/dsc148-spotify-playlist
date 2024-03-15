@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-577 songs - 1 day 8 hr 29 min
+578 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [too many](https://open.spotify.com/track/6M0xa5VSdtUEXLgoubop0T) | [TK the Architect](https://open.spotify.com/artist/3HgJJz0BOPhFeAbxVkMd2V) | [too many](https://open.spotify.com/album/3PavHmPjfsKPAPzv9CPU6S) | 3:15 | 2022-04-13 | 2022-09-17 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-06-29 |  |
 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 | 2022-03-25 | 2022-04-19 |
+| [Try](https://open.spotify.com/track/6sXhai6N2Y5bvBwQFPV3Ki) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr), [LUUNG](https://open.spotify.com/artist/5RGCg3LnBfZa0Z9Vb9RbO4) | [Try](https://open.spotify.com/album/72efYKB0Z77XuTrAETbBP3) | 2:13 | 2024-03-14 |  |
 | [TURN IT DOWN](https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TURN IT DOWN](https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR) | 2:34 | 2021-11-22 | 2022-01-08 |
 | [undo](https://open.spotify.com/track/7i9KAvis03PzePTT88cYmG) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [undo](https://open.spotify.com/album/1LTXwkbpRU3UrSlqMXkZ53) | 3:04 | 2021-11-01 | 2022-01-08 |
 | [Unfamiliar Faces](https://open.spotify.com/track/5fgQ8FZ4bfTs9Pk4oG6imi) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Unfamiliar Faces](https://open.spotify.com/album/5LQcOO6gfzCEk8zbffdTI8) | 3:29 | 2021-11-19 | 2022-01-08 |

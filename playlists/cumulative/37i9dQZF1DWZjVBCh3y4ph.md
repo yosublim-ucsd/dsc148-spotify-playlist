@@ -4,7 +4,7 @@
 
 > Les hits zouk du moment\. Photo :  Kalipsxau
 
-102 songs - 5 hr 26 min
+103 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 | 2023-10-05 | 2023-11-24 |
 | [STOP CA](https://open.spotify.com/track/2juogVxiOaHQhKColeLdw0) | [Naya Subtil](https://open.spotify.com/artist/4VPAcrsBL7hbHYw3teVnyC) | [STOP CA](https://open.spotify.com/album/5eafYCtCmWYZNrpgRr3Y96) | 4:33 | 2023-12-21 | 2024-01-12 |
 | [Sé Vou](https://open.spotify.com/track/7t2jOVBu8OMm567iQBVdO6) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Sé Vou](https://open.spotify.com/album/08wZlqOMwOQsAzkrkfYQmy) | 2:49 | 2023-12-21 | 2024-01-12 |
-| [TBS](https://open.spotify.com/track/4VTnmwiWKUFOkKiftm0iRj) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [TBS](https://open.spotify.com/album/3W6B7yuVTXLp5aiQz6MOfZ) | 2:26 | 2024-02-22 |  |
+| [TASTY](https://open.spotify.com/track/0CUXSCaRvwcShFXPLEtz7F) | [Varaine Ben](https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8) | [TASTY](https://open.spotify.com/album/1RWI2svnFLEMglOFZEsBKD) | 3:28 | 2024-03-14 |  |
+| [TBS](https://open.spotify.com/track/4VTnmwiWKUFOkKiftm0iRj) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [TBS](https://open.spotify.com/album/3W6B7yuVTXLp5aiQz6MOfZ) | 2:26 | 2024-02-22 | 2024-03-15 |
 | [Tellement doux](https://open.spotify.com/track/3o1osJPn6XpsoWa3S5AHDN) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/7z6iLtGQjSt4R2WOTSCW41) | 3:15 | 2024-03-07 |  |
 | [Tellement doux](https://open.spotify.com/track/7fqvFVk7ZE7GzHQwcPJNdR) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/1njifPExP5d1ZwFuOFXa5j) | 3:15 | 2024-01-11 | 2024-03-08 |
 | [TKT PAS](https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TKT PAS](https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK) | 3:26 | 2023-11-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,521 likes - 54 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,569 likes - 54 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 53 | [Abaphansi \- KeysGroove Remix](https://open.spotify.com/track/0HaGqD8cdGIVceTSe07t5V) | [Kinetic T](https://open.spotify.com/artist/62zcEEwZqeLYC5uakS3oYj), [Kagiso Rathepe](https://open.spotify.com/artist/1DQdTalykRZvUy04sFLYtE), [KeysGroove](https://open.spotify.com/artist/18NG8IAQxy3szGn45gmUk4) | [Abaphansi \(KeysGroove Remix\)](https://open.spotify.com/album/62Jq3OiiPT7cW5khSD3sc4) | 6:00 |
 | 54 | [Paradise \- Original Mix](https://open.spotify.com/track/53yxAa22DUXebnM9AgjIu2) | [MotiveSoul](https://open.spotify.com/artist/7vQ9Hj8uAGMPOaeIr8nUP2), [The Siege DJ](https://open.spotify.com/artist/39KVav2Jh3upmt7K4U5Dk1) | [Paradise](https://open.spotify.com/album/35AqDrNNmgk59eFfU1Awvf) | 7:49 |
 
-Snapshot ID: `MCwxY2EyZjlhNGIyOTQ3ZGVhNWRkZGY3ZTM4MjNmMDA1YmMzMWZkNGI3`
+Snapshot ID: `MCwzZmNiN2M3YzYxYmM1MDZmZTA1ZDlhYWUyMmVjMjg1ZjlhODk5NTVl`

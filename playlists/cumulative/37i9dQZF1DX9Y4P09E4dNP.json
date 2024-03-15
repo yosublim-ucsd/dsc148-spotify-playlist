@@ -41,6 +41,54 @@
     },
     {
       "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/35BwMj0VAg3BCwB78CO7wa"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Boy",
+          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188737,
+      "name": "360",
+      "url": "https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP"
+    },
+    {
+      "album": {
+        "name": "Abasakom",
+        "url": "https://open.spotify.com/album/1Rjd0CPRKWz0EGwh0Qaj8r"
+      },
+      "artists": [
+        {
+          "name": "NS Tino",
+          "url": "https://open.spotify.com/artist/5LWf1fvuHtGShL9KQ2YuaI"
+        },
+        {
+          "name": "Mickey Lux",
+          "url": "https://open.spotify.com/artist/0hJNmRtD9lt2OjvkfYsauD"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179043,
+      "name": "Abasakom",
+      "url": "https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc"
+    },
+    {
+      "album": {
         "name": "Aben Wo Aha",
         "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
       },
@@ -544,7 +592,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 187537,
       "name": "Back 2 Sender",
       "url": "https://open.spotify.com/track/5UpqMuJ6xGpkwml44uvwQK"
@@ -1038,6 +1086,28 @@
       "duration_ms": 205090,
       "name": "FINGERS",
       "url": "https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ"
+    },
+    {
+      "album": {
+        "name": "Fly Girl",
+        "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194100,
+      "name": "Fly Girl",
+      "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
     },
     {
       "album": {
@@ -1614,7 +1684,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 194002,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/4LvPhCPqyfCcYP02dJqCsE"
@@ -3112,7 +3182,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 204220,
       "name": "Wish Me Well",
       "url": "https://open.spotify.com/track/7prLktT8hh87SJLGneo4ri"

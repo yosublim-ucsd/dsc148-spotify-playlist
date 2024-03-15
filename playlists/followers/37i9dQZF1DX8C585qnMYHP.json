@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 154585,
+  "2024-03-15": 154670,
   "date_first_scraped": "2020-10-30",
   "description": "The best new music by Experimental independent artists and labels. Amina Cyu on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
@@ -763,7 +763,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
@@ -4022,6 +4022,24 @@
     },
     {
       "album": {
+        "name": "Kalma Meli Melo",
+        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1202372,
+      "name": "Breathing Flute 88",
+      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
+    },
+    {
+      "album": {
         "name": "Breep",
         "url": "https://open.spotify.com/album/0Itjb7lMhhhR74k6FDyr9m"
       },
@@ -5075,7 +5093,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 124160,
       "name": "Choral Fragmentation *latenights*",
       "url": "https://open.spotify.com/track/4QoBFxEsDlkZSCtpG2b4Uq"
@@ -6027,6 +6045,28 @@
       "duration_ms": 215462,
       "name": "Cuerpo Que Flota",
       "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+    },
+    {
+      "album": {
+        "name": "cyanotype memories",
+        "url": "https://open.spotify.com/album/5AUpxQhx2aZmUdHc3DQKx8"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        },
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "cyanotype memories - edit - joe goddard remix",
+      "url": "https://open.spotify.com/track/1qTLK7XA1zRMcrmXQ2VLsr"
     },
     {
       "album": {
@@ -8713,7 +8753,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 234005,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/5O7IvPlQoTlxYLe76LNZYm"
@@ -9879,7 +9919,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 211800,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/6DQxEmCC0BKGxMWEY0pRKJ"
@@ -14197,7 +14237,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 330000,
       "name": "Kiss Your Skin",
       "url": "https://open.spotify.com/track/5npEN3pLaFJefCaZ1X15Ct"
@@ -15113,7 +15153,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 259838,
       "name": "Lily Pad",
       "url": "https://open.spotify.com/track/6LoCiGM9Evu2TT747tg3SU"
@@ -17078,6 +17118,28 @@
     },
     {
       "album": {
+        "name": "touch the subconscious",
+        "url": "https://open.spotify.com/album/6giIlydAr0RyMutAdQV5Si"
+      },
+      "artists": [
+        {
+          "name": "SHIN KOKAWA",
+          "url": "https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k"
+        },
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382224,
+      "name": "moon",
+      "url": "https://open.spotify.com/track/53efsv7kZof3mTNGTiuJ8F"
+    },
+    {
+      "album": {
         "name": "Galdre Visions",
         "url": "https://open.spotify.com/album/4RcWdr6mjTF2s7qt9sNm7q"
       },
@@ -17669,7 +17731,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 415615,
       "name": "Naini's Call",
       "url": "https://open.spotify.com/track/2KI2fI3aggHeBM4PGyWLvE"
@@ -19265,7 +19327,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 265665,
       "name": "Oscillating Swoosh",
       "url": "https://open.spotify.com/track/5dHVl3VXApP4q5WQ3lDLSh"
@@ -23096,6 +23158,24 @@
     },
     {
       "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/10zkZJRQmq7wM1g9jD3Vni"
+      },
+      "artists": [
+        {
+          "name": "Sui Zhen",
+          "url": "https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 781460,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
+    },
+    {
+      "album": {
         "name": "This Is An Advertisement",
         "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
       },
@@ -23365,7 +23445,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 221000,
       "name": "Soft Marble",
       "url": "https://open.spotify.com/track/4RW1HucI8LfZJJQAilxQXc"
@@ -24971,6 +25051,28 @@
       "duration_ms": 388204,
       "name": "S\u00fcss Choc",
       "url": "https://open.spotify.com/track/4Ks13JocTWUqymDUJaVHpd"
+    },
+    {
+      "album": {
+        "name": "Espuma de Mar ~ remixes",
+        "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
+      },
+      "artists": [
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        },
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224064,
+      "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
+      "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
     },
     {
       "album": {

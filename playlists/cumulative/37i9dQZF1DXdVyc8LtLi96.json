@@ -3761,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "Eystra",
+        "url": "https://open.spotify.com/album/00Xan5MqupioFC5FHxPXVI"
+      },
+      "artists": [
+        {
+          "name": "Alia Ragnarsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/7GNZBRw7ITkgsViswc9PhO"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Eystra",
+      "url": "https://open.spotify.com/track/6rjdrkwluTKX4ZEvcsxCy6"
+    },
+    {
+      "album": {
         "name": "Fading Memories",
         "url": "https://open.spotify.com/album/5HDOEz26OImWk4MhBpTLCM"
       },
@@ -4820,6 +4838,24 @@
       "duration_ms": 133986,
       "name": "Idyllica",
       "url": "https://open.spotify.com/track/595wjSvF9vZ3yiyu6yzicF"
+    },
+    {
+      "album": {
+        "name": "In another lifetime",
+        "url": "https://open.spotify.com/album/7eEQmpxpPdfiI3AmP9x3Xe"
+      },
+      "artists": [
+        {
+          "name": "Bee Heads",
+          "url": "https://open.spotify.com/artist/0b28QH3axNYY3VRJ1ps8SS"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "In another lifetime",
+      "url": "https://open.spotify.com/track/6mzCWgCZ0Cg53ibaLopsrq"
     },
     {
       "album": {
@@ -10202,6 +10238,24 @@
       "duration_ms": 193000,
       "name": "Sv\u00edt\u00e1n\u00ed",
       "url": "https://open.spotify.com/track/0uA3VsjMlOtOD805k4hdZw"
+    },
+    {
+      "album": {
+        "name": "Synchrony",
+        "url": "https://open.spotify.com/album/074tuaUTYyxa8AgrUNg560"
+      },
+      "artists": [
+        {
+          "name": "Chasing Gravity",
+          "url": "https://open.spotify.com/artist/3fwKy25FHHzP3Rl1s0yRlL"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Synchrony",
+      "url": "https://open.spotify.com/track/2JLs8GX220nVBKyTAT9sIJ"
     },
     {
       "album": {

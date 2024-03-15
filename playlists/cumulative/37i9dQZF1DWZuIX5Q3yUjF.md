@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Sarah Toscano\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
+> Il meglio dell'R&B italiano\. Cover: Sarah Toscano.
 
-489 songs - 1 day 0 hr 15 min
+492 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Lama d'argento](https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb) | [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Lama d'argento](https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2) | 3:29 | 2022-06-23 | 2023-03-03 |
 | [le risposte che mi dai](https://open.spotify.com/track/5BBl0bzp73sCTHOEN4yYRl) | [Micol Criss](https://open.spotify.com/artist/0njvhsjBGa2ZnFzE5ydlYB), [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [le risposte che mi dai](https://open.spotify.com/album/6nhRu60ugRbVXffZnCTdzN) | 2:46 | 2024-01-25 |  |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-05-05 | 2024-01-05 |
+| [Lesbica Vera](https://open.spotify.com/track/0etPCXxFvxiPX2tIzD22Bc) | [Asiabel](https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7) | [Lesbica Vera](https://open.spotify.com/album/4rcDilP20VicEAeVCZPFdg) | 4:12 | 2024-03-14 |  |
 | [Letto di rose](https://open.spotify.com/track/2o1Ug8TARMTYvYx3iPtNZq) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73), [Mercurio](https://open.spotify.com/artist/6Q1fNu0tbemB0s4igQa5G9) | [Letto di rose](https://open.spotify.com/album/4eWB89BekSjAVnaEIiHs4U) | 3:12 | 2023-11-16 | 2024-02-02 |
 | [Liar](https://open.spotify.com/track/1HCJgMSEiB94WKUIw9B5YW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Liar](https://open.spotify.com/album/2dV8ZXGws3TLABKp4qvh7e) | 1:56 | 2024-01-18 |  |
 | [Lido](https://open.spotify.com/track/1A2QWvmyc0BXVcjdjKL6Wg) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Il canto del villaggio \(Atto I \- Atto II \- Atto III\)](https://open.spotify.com/album/3c4I3xCPnt4r1qKmz6uGNM) | 4:19 | 2023-06-15 | 2023-10-06 |
@@ -262,6 +263,7 @@
 | [MA' \(feat\. Tormento\)](https://open.spotify.com/track/6v73Nrui5JfgAVGlis1pct) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [MA' \(feat\. Tormento\)](https://open.spotify.com/album/5dcpfTZ1NHNrj3A7F5i32K) | 2:53 | 2023-12-14 | 2024-02-02 |
 | [Mai](https://open.spotify.com/track/49yoO2ALwofOHJnMO5ufUy) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Mai](https://open.spotify.com/album/15yYnAkNRCm31esmGNf6ew) | 2:36 | 2023-06-08 | 2023-09-29 |
 | [MaiMai](https://open.spotify.com/track/7wQw4FZ9Gx9Jsmsr9kuk18) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [MaiMai](https://open.spotify.com/album/0N0eyvXySVkHm43vO2vYS7) | 2:38 | 2023-06-01 | 2023-07-14 |
+| [MALEDETTA TE](https://open.spotify.com/track/7hXZ2ppaYw9RBm0Lb2S1zq) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [MALEDETTA TE](https://open.spotify.com/album/17ZdmY0EXzNBYsjwcsVi5J) | 2:22 | 2024-03-14 |  |
 | [Mama](https://open.spotify.com/track/3Ry2ZBM6XaCDPpZaMuFE9v) | [SAMIA](https://open.spotify.com/artist/4LxiKyrhyqB0fTGmKtXSFZ) | [Mama](https://open.spotify.com/album/6Te8O72BKZZIK2MI72LUKT) | 3:11 | 2023-01-12 | 2023-04-14 |
 | [MAPPAMONDO](https://open.spotify.com/track/4FYdBhoiUkrAZfkcaPd2sn) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MAPPAMONDO](https://open.spotify.com/album/3rAzTTDojPhT2uaEyO8Lvf) | 2:47 | 2024-03-07 |  |
 | [Mare 'e Bucìe \(feat\. Livio Cori\)](https://open.spotify.com/track/4ZavEIlFvl74MIBuepDXja) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [Mare 'e Bucìe \(feat\. Livio Cori\)](https://open.spotify.com/album/1J07jhxsPvd1z1kCAWYIGL) | 3:16 | 2023-05-18 | 2023-10-27 |
@@ -490,6 +492,7 @@
 | [Vivere](https://open.spotify.com/track/40P8i5YKA3xMDSozUw1vgK) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Vivere](https://open.spotify.com/album/6REfVvtABJIP3wVIvoyOEP) | 2:19 | 2023-09-28 | 2023-10-27 |
 | [Volevo Portarti Al Mare](https://open.spotify.com/track/0GXIWEkfHN5RE3G9Y67bqr) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Volevo Portarti Al Mare](https://open.spotify.com/album/0KIp2ubNGwlo2H9DDpegfV) | 3:17 | 2022-05-26 | 2023-04-14 |
 | [voragini](https://open.spotify.com/track/2gJs1MMvEYpRuJdSfm0363) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [voragini](https://open.spotify.com/album/2YyOB64wpE88iBRZvrw0Rb) | 2:48 | 2023-06-15 | 2023-11-24 |
+| [Vortice](https://open.spotify.com/track/2vtLLqXrIBIP0cjc93sT7T) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Vortice](https://open.spotify.com/album/3itncWLuDJeD2xWkS35pXu) | 2:36 | 2024-03-14 |  |
 | [VUOI DIRMI](https://open.spotify.com/track/41GPkxPP6mfi8dSldCKZRG) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [VUOI DIRMI](https://open.spotify.com/album/0b1qKcsDX2Y85mUoSkg2bh) | 3:02 | 2023-12-21 | 2024-03-01 |
 | [WHY U NAKED?](https://open.spotify.com/track/5Tjs43LYIKEdlLU7EXlM7Q) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [WHY U NAKED?](https://open.spotify.com/album/6lzxkrJYYDItv1ASIKavBN) | 2:35 | 2022-10-27 | 2023-03-18 |
 | [x averti](https://open.spotify.com/track/3tThvTQnw9UiMiYQFU3GwC) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [x averti](https://open.spotify.com/album/2uw9IwbZRJwsAZj1Jx8hUu) | 3:00 | 2022-05-12 | 2022-11-11 |

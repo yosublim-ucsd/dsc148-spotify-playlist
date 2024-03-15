@@ -4,7 +4,7 @@
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-154 songs - 8 hr 3 min
+155 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,13 +79,14 @@
 | [Me Hubieras Dicho](https://open.spotify.com/track/39Olhit36Sgax7N3ColpHt) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Me Hubieras Dicho](https://open.spotify.com/album/705WMmmlFbwC4gAkgQtsQT) | 3:38 | 2022-01-25 |  |
 | [Me Sobrabas Tú](https://open.spotify.com/track/33XISWpHJRbAvFSMW1y44A) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 3:01 | 2022-01-25 |  |
 | [Me Toca Llorar](https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 2:53 | 2022-01-25 |  |
+| [Me Va Extrañar](https://open.spotify.com/track/1fFFfScICtJAKawW7nhZ6d) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Me Va Extrañar \- Yiyo Sarante](https://open.spotify.com/album/4bG11wFxD9EECUCC7w4UNS) | 4:27 | 2024-03-14 |  |
 | [Me Va Extrañar](https://open.spotify.com/track/6zWisP0flLDhx1LsRt9zjB) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Me Va Extrañar](https://open.spotify.com/album/5DVKe6Y4oarrvfKhB7tnfh) | 4:38 | 2022-01-25 | 2024-02-03 |
 | [Me Vas a Extrañar](https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:56 | 2022-01-25 |  |
 | [Mi Ego](https://open.spotify.com/track/0a5N7LqF4KyQq5dJbNYMob) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Mi Ego](https://open.spotify.com/album/6pIeaaZycvpTdeDLlK5W5y) | 3:23 | 2022-01-25 |  |
 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 | 2022-01-25 |  |
 | [Mientes Muy Bonito](https://open.spotify.com/track/1QTWom4Tzef5oY0cPwABPs) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El Que a Ti Te Gusta](https://open.spotify.com/album/47wEWNQJIhuqODvvVTUtrl) | 3:07 | 2022-01-25 |  |
 | [Mientras Tú Jugabas](https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:10 | 2022-01-25 |  |
-| [Más Loca Que Yo](https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 2:39 | 2022-01-25 |  |
+| [Más Loca Que Yo](https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 2:39 | 2022-01-25 | 2024-03-15 |
 | [Nadie Es Indispensable](https://open.spotify.com/track/1YvQNXGSTocdgQDDCa59Nf) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:30 | 2022-01-25 |  |
 | [Ni Diablo Ni Santo](https://open.spotify.com/track/425mEnEqn5N8tBUL9WfZoi) | [Miguel Vaquero](https://open.spotify.com/artist/3INA6stKspBOcR9NU0SEmQ) | [Ni Diablo Ni Santo](https://open.spotify.com/album/6d1ddIAz1SXAim1sIXpksX) | 2:37 | 2022-01-25 |  |
 | [Ni Te Imaginas](https://open.spotify.com/track/2wJIqpXk7OGpwBxihlox6X) | [Pancho Uresti](https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd), [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi) | [A Lo Grande](https://open.spotify.com/album/6DvZtJ6na362jKnXdmPyyf) | 2:38 | 2022-01-25 |  |
@@ -132,7 +133,7 @@
 | [Si Se Me Pone](https://open.spotify.com/track/1J4Qa0MN66tl9U7mJEsiHL) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Sin Presumir](https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi) | 3:07 | 2022-01-25 |  |
 | [Si Te Animas](https://open.spotify.com/track/74896FSrlV7OkdEZlT0fU6) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:58 | 2022-01-25 |  |
 | [Si Te Enamoras de Mí](https://open.spotify.com/track/5itIRqU2T73TCkQsJnNlvw) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi) | [Si Te Enamoras de Mí](https://open.spotify.com/album/1g2Re3h50vAglf6Ql8zd7e) | 3:10 | 2022-01-25 |  |
-| [Si Te Ven Conmigo](https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk) | 3:25 | 2022-01-25 | 2024-02-20 |
+| [Si Te Ven Conmigo](https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk) | 3:25 | 2022-01-25 |  |
 | [Si Te Ven Conmigo \(Version Mariachi\)](https://open.spotify.com/track/61sfDlvI3C1bBPzuWLoNrR) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Eternamente Mexicano](https://open.spotify.com/album/0xYEnJYnRgad7itSBrVQiT) | 2:43 | 2022-01-25 |  |
 | [Si Todo Se Acaba \- Versión Regional](https://open.spotify.com/track/3YcW03FPCa1RmTlRvykIcW) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Si Todo Se Acaba \(Versión Regional\)](https://open.spotify.com/album/5Cg4c8yqV3JGMeMCsPZUlf) | 3:26 | 2022-01-25 |  |
 | [Si Tú Fueras Mía](https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN) | [Norteño 4.5](https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY) | [Y Lo Que Le Sigue](https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo) | 3:06 | 2022-01-25 |  |
@@ -150,7 +151,7 @@
 | [Tu Frágil Desnudez](https://open.spotify.com/track/2X7pK6x3eAR8hP0Lg4Ejb7) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Amor Brutal](https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe) | 3:03 | 2022-01-25 |  |
 | [Tu Soledad Y La Mía](https://open.spotify.com/track/0zruCJKifhqLZk8IwfvNrM) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:53 | 2022-01-25 |  |
 | [Vas a Llorar](https://open.spotify.com/track/0L1n3OFH2fZkU7f4iNh2iQ) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Vas a Llorar](https://open.spotify.com/album/517ZjQptntaGmfLTyoUuOq) | 2:57 | 2022-01-25 |  |
-| [Vas a Recordarme](https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:26 | 2022-01-25 |  |
+| [Vas a Recordarme](https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:26 | 2022-01-25 | 2024-03-15 |
 | [Vas A Recordarme](https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Vas A Recordarme](https://open.spotify.com/album/5oCSMM79ZFH04eRwF33pbV) | 3:56 | 2022-01-25 |  |
 | [Verme Brillar](https://open.spotify.com/track/6ze9VusaYl2wjZjDAik7dr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 2:50 | 2022-01-25 |  |
 | [Vivir En Pecado](https://open.spotify.com/track/5PR6uzkU9z62LxkaBDWsPD) | [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA) | [Vivir En Pecado](https://open.spotify.com/album/2bWvpp8ZK3t2ONOR7cjNjC) | 3:12 | 2022-01-25 |  |

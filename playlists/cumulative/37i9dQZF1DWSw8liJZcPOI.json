@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/7Ln0x3GBw9Jebr9cxCraaD"
+      },
+      "artists": [
+        {
+          "name": "Sofi Paez",
+          "url": "https://open.spotify.com/artist/0SlZh8ALPTGiyIBA9AoAiF"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/29WpzJoXRGrgxb92nOGvZF"
+    },
+    {
+      "album": {
         "name": "And Forever",
         "url": "https://open.spotify.com/album/0arph3k7LxpQjMmPMkwv6E"
       },
@@ -5134,7 +5152,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 193267,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/6rqXrDNKkh9oJsNCGRKpDm"
@@ -5348,6 +5366,24 @@
       "duration_ms": 334506,
       "name": "Music For Growing Flowers - Pt. 4",
       "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
+    },
+    {
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295306,
+      "name": "Music For Growing Flowers - Pt. 7",
+      "url": "https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg"
     },
     {
       "album": {
@@ -6884,7 +6920,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 338453,
       "name": "Skreevar",
       "url": "https://open.spotify.com/track/1HV6no2jpivJskyT0dGZsz"

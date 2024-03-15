@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 363490,
+  "num_followers": 363547,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzgwNzcyODRmYzU4NjZhOWQ4Njc3YThjMjlhZmQ4OTY3NTdlMGIx",
+  "snapshot_id": "MCw2OTQzY2NjMTZiZjk5ZTA5NjhjODMxNWQwNjFlZDVlYWI1NzFlNmY1",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -163,26 +163,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "Slow Jam (feat. Monica)",
-      "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "A Day in the Life",
         "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 280880,
       "name": "Georgy Porgy (feat. Faith Evans)",
       "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "Slow Jam (feat. Monica)",
+      "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
     },
     {
       "added_at": "2021-01-15 05:01:00",

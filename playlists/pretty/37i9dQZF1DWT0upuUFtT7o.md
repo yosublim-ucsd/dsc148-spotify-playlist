@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,883 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,928 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 20 | [Dancing in the Club](https://open.spotify.com/track/6WM7lXStlVKnYpeM6Q5EIA) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Dancing in the Club](https://open.spotify.com/album/4bbgIXYIqLp7SnauWEWClv) | 4:47 |
 | 21 | [Midwest](https://open.spotify.com/track/32r19pzc2eu9ccqlsU3I7J) | [Mall Girl](https://open.spotify.com/artist/77W4p4twkLnwNkMp7t3KBf) | [Pure Love \(Deluxe version\)](https://open.spotify.com/album/5cWWdIJ0UAIdBJ7QKUhuxn) | 3:31 |
 | 22 | [Looking At People](https://open.spotify.com/track/6eH80huR96DL1awXtHKqf6) | [Julien Chang](https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS) | [Home For The Moment](https://open.spotify.com/album/6pUVU5RbGyFOJYPmUNKCOD) | 3:54 |
-| 23 | [lose myself in you](https://open.spotify.com/track/6GpSWcqSaXWNKK5j7LI4Kl) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [lose myself in you](https://open.spotify.com/album/4fo2KoDpmRMoXxveQ1O0CS) | 3:18 |
+| 23 | [lose myself in you](https://open.spotify.com/track/6xuOyswMC7oj12UcGXrGXx) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [lose myself in you](https://open.spotify.com/album/7pB0ATavEWiOg7AlcdZn88) | 3:18 |
 | 24 | [sway](https://open.spotify.com/track/503gLddG5seJR59iM2BLi7) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [sway](https://open.spotify.com/album/5WAigjDSeooWIyiPLb1ra2) | 1:48 |
 | 25 | [old friend](https://open.spotify.com/track/5JvKLFkeHcajMjZLfr5IxF) | [flypaper](https://open.spotify.com/artist/6DGJSti9lo5LEmYC4P1eQZ) | [old friend](https://open.spotify.com/album/7DQVtYh1NwhKix1lW3zQX2) | 2:56 |
 | 26 | [backseat](https://open.spotify.com/track/68CijBYyD89CISS4vDLAaq) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [backseat](https://open.spotify.com/album/3IOA0OXQ2kkFWT3HKF016w) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [it's easy](https://open.spotify.com/track/6XP4bQYV2cvmqCVfAy89HH) | [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [it's easy](https://open.spotify.com/album/3HJdtsD4uHQgm6oc13oRmi) | 3:33 |
 | 100 | [Time Is Forever](https://open.spotify.com/track/11LJTCJQB9f5O51iVz45cw) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Time Is Forever](https://open.spotify.com/album/4nPxhSRgMI8fV4JlVItpI8) | 4:04 |
 
-Snapshot ID: `MCwzNTUxOTRhZjg3ZmE2MDUzNGEwZGMwOWQzZTEzOTEwY2Q3Mzc1OTFh`
+Snapshot ID: `MCw3NDIzYThiMGIzM2JlNzc1N2E4MGUzYzEwMTkyNWVlMTAzZjMyZmZl`

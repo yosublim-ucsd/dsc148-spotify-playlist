@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 23213,
+  "num_followers": 23237,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjdjOTRmY2U4M2E0NDk5ZWMzOTA3YjA1NDMwYTc0OTI4YTZlYWY2",
+  "snapshot_id": "MCwxYjZlMDVhYzA3OTJhY2MyOWIyZDRmN2Y4YjMxMWQ2NGUzNGNkODFj",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Punta Vibe",
+        "url": "https://open.spotify.com/album/2gYb4m2xi4bgUqHvvpgjU9"
+      },
+      "artists": [
+        {
+          "name": "Supa G",
+          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
+        }
+      ],
+      "duration_ms": 191077,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/4s0YHx04Ih3oEDLVzljcuX"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Baila Baila",
         "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
       },
@@ -295,6 +311,22 @@
       "duration_ms": 396303,
       "name": "Baila Baila",
       "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 8",
+        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "duration_ms": 325668,
+      "name": "Kazzabe Si Sabe",
+      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -315,18 +347,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 8",
-        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
       },
       "artists": [
         {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
         }
       ],
-      "duration_ms": 325668,
-      "name": "Kazzabe Si Sabe",
-      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
+      "duration_ms": 240536,
+      "name": "Pedazo De Mujer",
+      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -363,38 +395,6 @@
       "duration_ms": 145321,
       "name": "Quemala",
       "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
-      },
-      "artists": [
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
-        }
-      ],
-      "duration_ms": 240536,
-      "name": "Pedazo De Mujer",
-      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Punta Vibe",
-        "url": "https://open.spotify.com/album/2gYb4m2xi4bgUqHvvpgjU9"
-      },
-      "artists": [
-        {
-          "name": "Supa G",
-          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
-        }
-      ],
-      "duration_ms": 191077,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/4s0YHx04Ih3oEDLVzljcuX"
     },
     {
       "added_at": "2020-05-26 15:53:13",

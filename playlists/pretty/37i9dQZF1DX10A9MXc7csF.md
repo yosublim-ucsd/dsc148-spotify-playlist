@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Ivonne Galaz, Tania Dominguez, Estilo Sin Limite, NXNNI & Designo Celestial
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,175 likes - 63 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,140 likes - 63 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 62 | [Pa' No Sentir](https://open.spotify.com/track/7dF25WcmGa1W6hCsCf9BJx) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Pa' No Sentir](https://open.spotify.com/album/0rgzvqKl0UHlmc5Rx3r68D) | 3:22 |
 | 63 | [Amar Otra Vez](https://open.spotify.com/track/1wWROnFqptp0EsNZU3JlKK) | [Cash Bently](https://open.spotify.com/artist/6yjpnGMq2yiLvJCSIVBwzd) | [Cash Corridos 3](https://open.spotify.com/album/4pM7rMUi8J9UcuJG2JtJDh) | 2:37 |
 
-Snapshot ID: `MCwwMjQ1NDJhZGFmNGY1ODhkMjJkYjQ4NWE5M2M4NmZmM2FlMzUwMTk5`
+Snapshot ID: `MCw2YjI5Y2ZiM2ZmZDcwNmQ4NTQwOTBjOTQyYTdiYjgxZWNlMjc0Mzcy`

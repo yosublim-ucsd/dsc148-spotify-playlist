@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6?si=DGNkf\_77RySgppJ9XZwZaQ">Ariana Grande</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,295 likes - 56 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,358 likes - 56 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 20 | [Holy Father](https://open.spotify.com/track/3b3EBj7XhtJ5YhMpr7eXL4) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX) | [Holy Father](https://open.spotify.com/album/3oEoSA8yhoE8VZopXjceyr) | 4:00 |
 | 21 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit Da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
 | 22 | [Take Me](https://open.spotify.com/track/34l0zKJu7GsYZrX17VBe3a) | [Gina Jeanz](https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu) | [For Dreamers](https://open.spotify.com/album/1WehBQily7ItpyLHTHwOUI) | 5:15 |
-| 23 | [Kude \(feat\. Ntando Yamahlubi\)](https://open.spotify.com/track/4mlCNxrdkauFVYEIcBiDZQ) | [Harrycane](https://open.spotify.com/artist/6umjXXP7Q8i4he6WALLuOf), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Ntando Yamahlubi](https://open.spotify.com/artist/6MRPRBeOdS17yOGNjKJFn8) | [Kude \(feat\. Ntando Yamahlubi\)](https://open.spotify.com/album/1IDi3A01YOERUY7R7URaEm) | 5:50 |
+| 23 | [Kude \(feat\. Ntando Yamahlubi\)](https://open.spotify.com/track/4mlCNxrdkauFVYEIcBiDZQ) | [Harrycane](https://open.spotify.com/artist/6umjXXP7Q8i4he6WALLuOf), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Tee Jay](https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ), [Ntando Yamahlubi](https://open.spotify.com/artist/6MRPRBeOdS17yOGNjKJFn8) | [Kude \(feat\. Ntando Yamahlubi\)](https://open.spotify.com/album/1IDi3A01YOERUY7R7URaEm) | 5:50 |
 | 24 | [Heat](https://open.spotify.com/track/1mgI6YX1q6cabE8q39NMoa) | [dom nice](https://open.spotify.com/artist/4GATgJWrCgpT3eglDMnkxO) | [Heat](https://open.spotify.com/album/35gvThn8Bj6gW12Qr8pXUs) | 3:50 |
 | 25 | [PAST MYSELF](https://open.spotify.com/track/7dHrE8omPpvgst2M9ZEQmf) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [PAST MYSELF](https://open.spotify.com/album/0ZXOuk6KcYEGrYoXTlh3y2) | 2:40 |
 | 26 | [NgikPhete \(feat\. Silas Africa\)](https://open.spotify.com/track/54LXN9VHSyKN5eQloOnQ2W) | [Pushkin RSA](https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7), [AMAQHAWE](https://open.spotify.com/artist/7l99PveYdDE2REAMKj0IZr), [Silas Africa](https://open.spotify.com/artist/2m0tIjDO5ludphgMpEviTP) | [Time Will Tell](https://open.spotify.com/album/1eYuC5k0jbUGPWKZrbdAKa) | 5:22 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 55 | [Umfazi](https://open.spotify.com/track/50G9Ojjbs6kjSPF4gNgxhG) | [Marthe](https://open.spotify.com/artist/11LLLhmioRwkPeNLGUok3N), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Umfazi](https://open.spotify.com/album/4VsBHZTNuyIcQ0WZRKgHHg) | 4:53 |
 | 56 | [SHE A BADDIE](https://open.spotify.com/track/34ivB8FPA9MejRkYMQVnis) | [Emmanuel Rose](https://open.spotify.com/artist/2bAexN5Jo2aSa738MQBfHo) | [SHE A BADDIE](https://open.spotify.com/album/2DUMKTUH3rz9nNnkA4ZoMQ) | 2:29 |
 
-Snapshot ID: `MCwyOWMyNmExMzA2MWQ5ZjNkMjNjNjM2ZGU3ZmU1NzZjYzYyNmU4MTdi`
+Snapshot ID: `MCwwZWZkOTRhNjNjNThkZTg0ZjE2ZDJhNjhkNjI1YzU3MWVkNmIxZGEz`

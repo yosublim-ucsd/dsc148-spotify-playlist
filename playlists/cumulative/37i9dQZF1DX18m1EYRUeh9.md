@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-201 songs - 13 hr 23 min
+202 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bhuta Kala](https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [Bhuta Kala](https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v) | 3:39 | 2023-08-31 |  |
 | [Black Gleam](https://open.spotify.com/track/7evuSa4SWrFSDzR5ZXQnse) | [K'shore](https://open.spotify.com/artist/5wxQox4p6Q0KpR6RGyyJKf), [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Silas Futura](https://open.spotify.com/artist/3mdRkSmrkUaSbVf4pT6qan) | [Grief Sessions](https://open.spotify.com/album/2qEIe58oO3sD7IGDkoY3vs) | 4:13 | 2023-09-21 |  |
 | [Bleached](https://open.spotify.com/track/7tKlED6H6p0FB92PqsKDtq) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Kreuzberg Kix EP 2](https://open.spotify.com/album/1CI68Bl2zLRBThWwa4SgAi) | 5:33 | 2023-08-10 | 2023-09-08 |
+| [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-03-15 |  |
 | [Bowie](https://open.spotify.com/track/0hVKrrJGlQYzD88ytKZ2H7) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Peace](https://open.spotify.com/album/7lkoHO7IuanGlzELdbvgaZ) | 4:18 | 2023-10-05 |  |
 | [Bowie](https://open.spotify.com/track/2Rr5PghSBFo5xXx1WqFLua) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Peace](https://open.spotify.com/album/6wOfQboyYEwNX3j23XUUPV) | 4:18 | 2023-09-21 | 2023-10-08 |
 | [Brighter Star](https://open.spotify.com/track/6LJAiP0fsqGwXicLC1kF9u) | [Energy Exchange Ensemble](https://open.spotify.com/artist/1dxgUIXKd9tX0xgRQ7hM8i), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Brighter Star](https://open.spotify.com/album/2k5rASMwjSB9mEEJqXaQ1c) | 5:33 | 2023-08-10 |  |

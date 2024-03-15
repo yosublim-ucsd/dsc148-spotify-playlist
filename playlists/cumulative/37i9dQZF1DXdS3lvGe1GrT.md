@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Alycia Lang
 
-1,124 songs - 2 day 19 hr 21 min
+1,125 songs - 2 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Aubrey Plaza](https://open.spotify.com/track/3rVeAblIT4BlkgFptye8sE) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Aubrey Plaza](https://open.spotify.com/album/7tYa6q7d0OrvCOBeQg9LvS) | 3:40 | 2023-03-01 | 2023-04-13 |
 | [Automatic Love](https://open.spotify.com/track/153xNtmzRqNgvKkHz5M2Po) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Automatic Love](https://open.spotify.com/album/1uiZW1HmcgLN1Zaq3NyUIK) | 6:31 | 2023-03-08 | 2023-04-13 |
 | [Awake](https://open.spotify.com/track/3r08NgPtZsMP9reNwclQlM) | [Sally Anne Morgan](https://open.spotify.com/artist/3GJwNSJO8rsLksRGjiZIXg) | [Awake](https://open.spotify.com/album/1EeH8RVnDn08k7HpYfQsl9) | 4:35 | 2023-10-18 | 2023-12-11 |
+| [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-03-14 |  |
 | [Açaí](https://open.spotify.com/track/6SCbX5mCZNlZph6wAQmEEq) | [Half Wolf](https://open.spotify.com/artist/0UVVEXns5nbMapv548TX1d) | [Açaí](https://open.spotify.com/album/2opKyuwlfp2WKRrtVRnabh) | 2:38 | 2024-01-10 | 2024-02-22 |
 | [B\-Roads](https://open.spotify.com/track/3tFRup3wgBnSRhxi9vvSWW) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [B\-Roads](https://open.spotify.com/album/7BYHbUrnTW9Aupp0HRU1Q3) | 2:18 | 2022-11-23 | 2023-02-23 |
 | [Baby Boy](https://open.spotify.com/track/2MLhKQJDsk4RtbIrDDjM19) | [Natalie Duffy](https://open.spotify.com/artist/0kqkhvH8aNlv2hxIaBcslv) | [Baby Boy](https://open.spotify.com/album/2UuY0Rb7DSTjbLYd4CYvZc) | 2:34 | 2022-08-10 | 2022-11-10 |

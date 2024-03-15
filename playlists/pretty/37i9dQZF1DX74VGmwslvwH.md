@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,459 likes - 114 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,579 likes - 114 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 113 | [Memory Ocean](https://open.spotify.com/track/4BGxF3vzN2eQ3EMz4ApThm) | [William Joe Ware](https://open.spotify.com/artist/4sdgGI2VBvg1l0APfrbhHm) | [Memory Ocean](https://open.spotify.com/album/19F44nYOaQGepqwD9QsJXa) | 4:32 |
 | 114 | [Beyond sand](https://open.spotify.com/track/6acWuuAAdgHHOFc30KHURk) | [Tetouze](https://open.spotify.com/artist/4L2vZe0dcqomV8OAhWNmQy), [Jehanne Drai](https://open.spotify.com/artist/0GCwjBKMBF9vSKb8YbxkmF) | [Beyond sand](https://open.spotify.com/album/1U5sg1ejtfqOh4FAEzmODB) | 7:18 |
 
-Snapshot ID: `MCwyM2M2ODlkOGY4YjdkMWJkMGQzZDcxYzRlNGQ1NTliYWY1YTE5MDMz`
+Snapshot ID: `MCxkMzFmMjQzZjI5YzdlNmRhZTA4NDk4ZGEwNjcxZTgyYTBjZTM3M2I1`

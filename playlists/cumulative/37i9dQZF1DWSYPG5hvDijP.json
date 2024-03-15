@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Wholeheartedly",
+        "url": "https://open.spotify.com/album/7kkrtWD5cDiRlVoXbILLfa"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150948,
+      "name": "Bolna Tu Bantai",
+      "url": "https://open.spotify.com/track/5VoT9C2cREbLnw4YKcTzxH"
+    },
+    {
+      "album": {
         "name": "Bolna Tu Bantai (From \"Whole Heartedly\")",
         "url": "https://open.spotify.com/album/5O2fxXZT0fLfOVU6vG1eyf"
       },
@@ -4604,6 +4622,28 @@
       "duration_ms": 230977,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/35rt75xpICwBH2XfkssRDw"
+    },
+    {
+      "album": {
+        "name": "Too Dope",
+        "url": "https://open.spotify.com/album/70LmG6U7i8v69jQWXhx5Ul"
+      },
+      "artists": [
+        {
+          "name": "Strange Alias",
+          "url": "https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj"
+        },
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133161,
+      "name": "Too Dope",
+      "url": "https://open.spotify.com/track/2jsbE3rYt2j2PGs3paJDLx"
     },
     {
       "album": {

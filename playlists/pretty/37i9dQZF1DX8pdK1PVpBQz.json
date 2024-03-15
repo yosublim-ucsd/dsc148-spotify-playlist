@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Maina Doe. Artwork: Isu Kim",
-  "num_followers": 18360,
+  "num_followers": 18363,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmZhZDFmNWE2OTRmYTJiZTgwZGJiOTY0MzFhMzRiN2M5NzlmMTUz",
+  "snapshot_id": "MCwwNTdkODVlMTk4YTQzYmQ0MmMxNjQzZDQzNGYxMmExMmQ3NzFjODU4",
   "tracks": [
     {
       "added_at": "2024-03-13 23:26:10",
@@ -27,6 +27,42 @@
     {
       "added_at": "2024-03-13 23:26:10",
       "album": {
+        "name": "Laying Low",
+        "url": "https://open.spotify.com/album/7p8J6goKPHU2o05TJ49WmL"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
+        }
+      ],
+      "duration_ms": 169366,
+      "name": "Laying Low",
+      "url": "https://open.spotify.com/track/2fifKuAmWQBwKmG31rNBNb"
+    },
+    {
+      "added_at": "2024-03-13 23:26:10",
+      "album": {
+        "name": "Speak Your Mine",
+        "url": "https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG"
+      },
+      "artists": [
+        {
+          "name": "Tre\u0300 Samuels",
+          "url": "https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq"
+        },
+        {
+          "name": "Skelli",
+          "url": "https://open.spotify.com/artist/7B0h3QsL9urfmC1FACnKb3"
+        }
+      ],
+      "duration_ms": 207175,
+      "name": "Speak Your Mine",
+      "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
+    },
+    {
+      "added_at": "2024-03-13 23:26:10",
+      "album": {
         "name": "HARMONY BLOOMS",
         "url": "https://open.spotify.com/album/4oQpAIlJCkzgp9mRfNUrEY"
       },
@@ -43,8 +79,24 @@
     {
       "added_at": "2024-03-13 23:26:10",
       "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/6VnTBD9G8eMYWoxXv6icbl"
+      },
+      "artists": [
+        {
+          "name": "Semiire",
+          "url": "https://open.spotify.com/artist/5XApHWfRRIPXaXLgQoEAVq"
+        }
+      ],
+      "duration_ms": 194406,
+      "name": "Decisions",
+      "url": "https://open.spotify.com/track/69Ifwc1tU6G9Add40TQ2ZD"
+    },
+    {
+      "added_at": "2024-03-13 23:26:10",
+      "album": {
         "name": "Jump The Gun",
-        "url": "https://open.spotify.com/album/0E94FC4o1MdpVrY0sjU0b1"
+        "url": "https://open.spotify.com/album/2GQWP1DXcHmfIX3dxOtgip"
       },
       "artists": [
         {
@@ -54,7 +106,7 @@
       ],
       "duration_ms": 216053,
       "name": "Jump The Gun",
-      "url": "https://open.spotify.com/track/3sTpEmv88Zddoh9wJlxI2k"
+      "url": "https://open.spotify.com/track/3L2k0mvNlKE50ZqFVIeAz6"
     },
     {
       "added_at": "2024-03-13 23:26:10",
@@ -71,6 +123,74 @@
       "duration_ms": 259000,
       "name": "Piny Lara",
       "url": "https://open.spotify.com/track/133uiqDWdBnBquBue2QHiD"
+    },
+    {
+      "added_at": "2024-03-13 23:26:10",
+      "album": {
+        "name": "KSubi FlowerS",
+        "url": "https://open.spotify.com/album/1oaD1zXJCXi3sIeiBLwG9g"
+      },
+      "artists": [
+        {
+          "name": "Dant\u00e9 Knows",
+          "url": "https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs"
+        }
+      ],
+      "duration_ms": 149331,
+      "name": "KSubi FlowerS",
+      "url": "https://open.spotify.com/track/47YlfnIH3XCvJQ9j6YazzI"
+    },
+    {
+      "added_at": "2024-03-13 23:26:10",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/3oaQYSu0hMV5H9GWOe4Wuy"
+      },
+      "artists": [
+        {
+          "name": "Reiki Ruawai",
+          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
+        }
+      ],
+      "duration_ms": 237894,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/2gvdUUSn10Oafd6YA1uF7b"
+    },
+    {
+      "added_at": "2024-03-13 23:26:10",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/2V2up0Y0UEQpIANq68oZip"
+      },
+      "artists": [
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+        },
+        {
+          "name": "OD",
+          "url": "https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9"
+        }
+      ],
+      "duration_ms": 185585,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/4oVfK5seoKHJ96NUBjIav3"
+    },
+    {
+      "added_at": "2024-03-13 23:26:10",
+      "album": {
+        "name": "Love Don't Exist",
+        "url": "https://open.spotify.com/album/2UE3YPKeSChWXVnAV61mCc"
+      },
+      "artists": [
+        {
+          "name": "KIMMI.",
+          "url": "https://open.spotify.com/artist/24S7TE92iNGkM1aT5ApIMD"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Love Don't Exist",
+      "url": "https://open.spotify.com/track/3x5MdhBFaVldNRJM8H782D"
     },
     {
       "added_at": "2024-03-13 23:26:10",
@@ -107,6 +227,26 @@
     {
       "added_at": "2024-03-13 23:26:10",
       "album": {
+        "name": "Lovin' Myself (feat. Sweet Talk)",
+        "url": "https://open.spotify.com/album/3C0b8Hu15FmyOobrtXRMlD"
+      },
+      "artists": [
+        {
+          "name": "Andy Golledge",
+          "url": "https://open.spotify.com/artist/74S6Bn5KTUQMqlVOVlTVxh"
+        },
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "duration_ms": 162645,
+      "name": "Lovin' Myself (feat. Sweet Talk)",
+      "url": "https://open.spotify.com/track/54eJFApcOS1V1bBeOwy3Uj"
+    },
+    {
+      "added_at": "2024-03-13 23:26:10",
+      "album": {
         "name": "WYM",
         "url": "https://open.spotify.com/album/6YuHvxOZ9jkH9zWSxLWhE3"
       },
@@ -139,6 +279,22 @@
       "duration_ms": 247385,
       "name": "One Hand One Bounce",
       "url": "https://open.spotify.com/track/3xA0fCn421faqqObqueIfe"
+    },
+    {
+      "added_at": "2024-03-13 23:26:10",
+      "album": {
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/38drxFY49g5Q9QzqJyYXwb"
+      },
+      "artists": [
+        {
+          "name": "Nauti",
+          "url": "https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ"
+        }
+      ],
+      "duration_ms": 173514,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/4KrDfSU1SQO2Z6A9nKE1wQ"
     },
     {
       "added_at": "2024-03-13 23:26:10",

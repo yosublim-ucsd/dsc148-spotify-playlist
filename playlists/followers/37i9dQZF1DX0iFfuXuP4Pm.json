@@ -1,7 +1,7 @@
 {
-  "2024-03-14": 1970804,
+  "2024-03-15": 1972094,
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Illest Morena. International Women\u2019s Day takeover. Powered by <a href=\"spotify:genre:equal\">EQUAL</a>",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Illest Morena",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -151,7 +151,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 170078,
       "name": "B.A.D.",
       "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 179200,
       "name": "Lackin'",
       "url": "https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW"
@@ -859,6 +859,24 @@
       "duration_ms": 121845,
       "name": "Makasarili Malambing",
       "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
+    },
+    {
+      "album": {
+        "name": "Maria Clara",
+        "url": "https://open.spotify.com/album/6KBlsRVEaArn2WXluUuBmM"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane",
+          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273785,
+      "name": "Maria Clara",
+      "url": "https://open.spotify.com/track/644PcyQRCV5v7h5zeDY2di"
     },
     {
       "album": {
@@ -1345,6 +1363,24 @@
       "duration_ms": 161632,
       "name": "Sabik",
       "url": "https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV"
+    },
+    {
+      "album": {
+        "name": "Talaarawan",
+        "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230218,
+      "name": "Salamin, Salamin",
+      "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
     },
     {
       "album": {

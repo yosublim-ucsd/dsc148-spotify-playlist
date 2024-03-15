@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-1,009 songs - 2 day 3 hr 44 min
+1,010 songs - 2 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,8 @@
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/5xzOYsed90dyzNH7MSigpp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/35nmDyrcnDY4B1ISYpKEEs) | 2:13 | 2023-10-06 | 2023-11-11 |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2022-03-08 | 2022-03-09 |
 | [Get Out The Way feat\. BackRoad Gee](https://open.spotify.com/track/4yShsDY55N2W54D1ZKpIM0) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Get Out The Way feat\. BackRoad Gee](https://open.spotify.com/album/55wM0G0rirSUEOwvslwcyd) | 3:41 | 2023-10-05 | 2023-11-11 |
-| [Get Paid](https://open.spotify.com/track/5skVBEgNgLKgpMfaYtDc8z) | [GeeYou](https://open.spotify.com/artist/4ejYGKfyQlsSVCCqEbSeqo), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [IDKYOU](https://open.spotify.com/album/7hzrJa8xZkKfUbWLfTGayi) | 2:56 | 2024-02-22 |  |
+| [Get Paid](https://open.spotify.com/track/1K0c90n5n7weETBlDjmcbN) | [GeeYou](https://open.spotify.com/artist/4ejYGKfyQlsSVCCqEbSeqo), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [IDKYOU](https://open.spotify.com/album/46OmcX5KTCeOvQYCY2ETjY) | 2:56 | 2024-03-11 |  |
+| [Get Paid](https://open.spotify.com/track/5skVBEgNgLKgpMfaYtDc8z) | [GeeYou](https://open.spotify.com/artist/4ejYGKfyQlsSVCCqEbSeqo), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [IDKYOU](https://open.spotify.com/album/7hzrJa8xZkKfUbWLfTGayi) | 2:56 | 2024-02-22 | 2024-03-15 |
 | [Get To Know](https://open.spotify.com/track/1BvWbHhaQdjYdoyNyhGcHJ) | [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd), [Ayo Beatz](https://open.spotify.com/artist/7nfHGYGlZKXrD9lTmll6Ut) | [Get To Know](https://open.spotify.com/album/4ZRLRxSevcvOIyLHda4Vct) | 2:14 | 2022-09-01 | 2022-09-23 |
 | [Ghetto Christmas \(with 6LACK & Summer Walker\)](https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:35 | 2022-12-02 | 2022-12-16 |
 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 | 2022-09-09 | 2022-10-14 |

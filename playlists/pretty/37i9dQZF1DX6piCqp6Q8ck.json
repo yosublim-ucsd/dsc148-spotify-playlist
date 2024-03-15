@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 115747,
+  "num_followers": 115731,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjNmNjBmYjZhYjgzNzU2Njk1ZjU4ZGM4OWQ1MzA4NWVlNjg0NTc0",
+  "snapshot_id": "MCwyM2UwOGU5MTI2OWExODZiM2NhNDBkYTFkZDhmM2RmYWViMDJkYTY3",
   "tracks": [
     {
       "added_at": "2023-12-19 09:14:04",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "The Dean Martin Christmas Album",
-        "url": "https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 148480,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 175001,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "The Dean Martin Christmas Album",
+        "url": "https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 148480,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -859,18 +859,34 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "A Very Swingin\u2019 Basie Christmas!",
-        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+        "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
+        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
       },
       "artists": [
         {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        },
+        {
+          "name": "Dan Brubeck",
+          "url": "https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l"
+        },
+        {
+          "name": "Bill Smith",
+          "url": "https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz"
+        },
+        {
+          "name": "Jack Six",
+          "url": "https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX"
+        },
+        {
+          "name": "Randy Jones",
+          "url": "https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d"
         }
       ],
-      "duration_ms": 290826,
-      "name": "Little Drummer Boy",
-      "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
+      "duration_ms": 180240,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -911,34 +927,18 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
-        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
       },
       "artists": [
         {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        },
-        {
-          "name": "Dan Brubeck",
-          "url": "https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l"
-        },
-        {
-          "name": "Bill Smith",
-          "url": "https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz"
-        },
-        {
-          "name": "Jack Six",
-          "url": "https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX"
-        },
-        {
-          "name": "Randy Jones",
-          "url": "https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d"
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
         }
       ],
-      "duration_ms": 180240,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
+      "duration_ms": 290826,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
-      },
-      "artists": [
-        {
-          "name": "Ralph Marterie",
-          "url": "https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38"
-        },
-        {
-          "name": "Ralph Marterie and His Orchestra",
-          "url": "https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Dig That Crazy Santa Claus",
-      "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Christmas with My Friends VIII",
         "url": "https://open.spotify.com/album/3FozTn1Z7wjqbIz0TUa9aw"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 196800,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/3CJ2KbL3dQ3UBlcOwvrBw4"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
+      },
+      "artists": [
+        {
+          "name": "Ralph Marterie",
+          "url": "https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38"
+        },
+        {
+          "name": "Ralph Marterie and His Orchestra",
+          "url": "https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Dig That Crazy Santa Claus",
+      "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Santa Claus Is Coming To Town",
-        "url": "https://open.spotify.com/album/2bTSFxZEFvGb4m5ApxbGCa"
-      },
-      "artists": [
-        {
-          "name": "Marc & Friends",
-          "url": "https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV"
-        }
-      ],
-      "duration_ms": 141621,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Santa, Won't You Listen to Me",
         "url": "https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 173915,
       "name": "Santa, Won't You Listen to Me",
       "url": "https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/2bTSFxZEFvGb4m5ApxbGCa"
+      },
+      "artists": [
+        {
+          "name": "Marc & Friends",
+          "url": "https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV"
+        }
+      ],
+      "duration_ms": 141621,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z"
     },
     {
       "added_at": "2023-12-19 09:14:04",

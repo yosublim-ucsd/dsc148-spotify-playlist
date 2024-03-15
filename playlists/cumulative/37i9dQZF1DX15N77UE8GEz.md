@@ -2,7 +2,7 @@
 
 ### [Éxitos Paraguay](https://open.spotify.com/playlist/37i9dQZF1DX15N77UE8GEz)
 
-> ¡Escucha los éxitos de hoy!<br/>Foto: Luck Ra & KHEA
+> ¡Escucha los éxitos de hoy!<br/>Foto: FloyyMenor & Cris Mj
 
 83 songs - 4 hr 26 min
 

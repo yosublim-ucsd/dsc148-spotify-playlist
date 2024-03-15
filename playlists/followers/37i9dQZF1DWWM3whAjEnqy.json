@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 43049,
+  "2024-03-15": 43053,
   "date_first_scraped": "2023-12-10",
   "description": "Sun, sand, salt water and the perfect songs to match.",
   "name": "Coast to Coast",
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 276196,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/64bEffum8UMASd4IscbCVk"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 198582,
       "name": "Rusty",
       "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"

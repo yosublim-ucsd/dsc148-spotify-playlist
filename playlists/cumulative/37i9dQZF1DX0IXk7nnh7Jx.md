@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-517 songs - 1 day 6 hr 45 min
+518 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Broken](https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Broken](https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof) | 3:15 | 2023-03-10 |  |
 | [Burial](https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Burial](https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G) | 4:38 | 2023-02-19 | 2023-12-02 |
 | [Burn Out](https://open.spotify.com/track/2GUvFoJipxwxQI6pvpHXDC) | [A Beauty Initiative Within Focus](https://open.spotify.com/artist/5cnbawSLtziDxZDqk93JKp), [Andrew Ascough](https://open.spotify.com/artist/6K7tPy8fZS1sCr5Fw6dYbS) | [Burn Out](https://open.spotify.com/album/2cj6CrCchettlCriBNPSkr) | 4:23 | 2020-12-18 | 2023-02-19 |
+| [burning roses](https://open.spotify.com/track/1ur0UApzybGEhxpHzdCy2S) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [burning roses](https://open.spotify.com/album/7yHSF0unveiLFVbH5LzRJT) | 2:10 | 2024-01-26 |  |
 | [Call Me Thomas](https://open.spotify.com/track/2xjUmMZdlDWYKFiAcXLrSB) | [Tina Boonstra](https://open.spotify.com/artist/2H6LfNrRiHP6J007Cgol35) | [Call Me Thomas](https://open.spotify.com/album/1ij4ME2R2V8LB85F8NGjcP) | 4:31 | 2023-02-24 | 2023-04-09 |
 | [Calling My Name](https://open.spotify.com/track/7z562WDJSrCKq9cKG6nzs3) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Calling My Name](https://open.spotify.com/album/0MeWg0gWGL7F9RyR5EHGCN) | 2:18 | 2023-12-15 | 2024-01-27 |
 | [Camouflage](https://open.spotify.com/track/0NYCAILVVyZ5KR8Aa24xup) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Camouflage](https://open.spotify.com/album/3rndBTKrFcvOJ5cy3BakoS) | 2:46 | 2023-04-07 | 2024-01-27 |
@@ -220,7 +221,7 @@
 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2023-02-19 | 2023-09-13 |
 | [I'm Healing](https://open.spotify.com/track/3ivIpARkgoFfCnxREhJRya) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Lex Buckley](https://open.spotify.com/artist/6KezKjrMeCCmU9U1T2lBON), [Jared Grant](https://open.spotify.com/artist/7ngm4D0XEn5TpywtBtkCWc) | [I'm Healing](https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0) | 5:17 | 2023-02-19 | 2023-04-22 |
 | [If It Comes From You](https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [If It Comes From You](https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA) | 4:54 | 2023-02-24 | 2023-12-02 |
-| [In Control](https://open.spotify.com/track/0gwupaJdsfzEqKGe4sKDzy) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [In Control](https://open.spotify.com/album/6QzEa12UN5OJ0SM8p0tfKW) | 2:00 | 2023-08-11 |  |
+| [In Control](https://open.spotify.com/track/0gwupaJdsfzEqKGe4sKDzy) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [In Control](https://open.spotify.com/album/6QzEa12UN5OJ0SM8p0tfKW) | 2:00 | 2023-08-11 | 2024-03-15 |
 | [In Everything](https://open.spotify.com/track/7D0cK7O865NqmQstOpCsYX) | [Paper Horses](https://open.spotify.com/artist/4gdDTJi3KRIhEKqiAIZuWW), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [In Everything](https://open.spotify.com/album/55Y1F0ou3Zw7Uh9KReAgSd) | 5:12 | 2023-12-01 | 2024-01-22 |
 | [IN MY ROOM](https://open.spotify.com/track/6NiEYy97bODtt7ntvUmlvp) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [McKenna Johns](https://open.spotify.com/artist/0KgwsewGeCsWjp7TFMfCWU) | [IN MY ROOM](https://open.spotify.com/album/5zGSq8TEeqTjYrwvD74bqr) | 2:53 | 2024-01-26 |  |
 | [in the cool of the day](https://open.spotify.com/track/4D34sCvcCCugcknWUsOXJk) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP) | [Diary Entry](https://open.spotify.com/album/0BXbBx3KrFJHWxBEGJqUBf) | 3:00 | 2023-12-15 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 110274,
+  "2024-03-15": 110327,
   "date_first_scraped": "2022-05-30",
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u963f\u90e8\u8299\u84c9\u7f8e",
   "name": "Women's Voice",
@@ -17995,7 +17995,7 @@
     {
       "album": {
         "name": "Run",
-        "url": "https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV"
+        "url": "https://open.spotify.com/album/53nChQOJuMLPOBDWdnDWRd"
       },
       "artists": [
         {
@@ -18006,6 +18006,24 @@
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248901,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3jKaAVlYp6i36bH9kCH7S6"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-14",
       "duration_ms": 248901,
       "name": "Run",
       "url": "https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp"
@@ -20683,6 +20701,24 @@
       "duration_ms": 195013,
       "name": "Suki Lie",
       "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
+    },
+    {
+      "album": {
+        "name": "ReUnion",
+        "url": "https://open.spotify.com/album/7kmoVx9z1qTqZSN4B4svCJ"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250972,
+      "name": "Sukideshita.",
+      "url": "https://open.spotify.com/track/458E7acH1K8c5wx8AYAnVi"
     },
     {
       "album": {
@@ -36095,7 +36131,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 250972,
       "name": "\u597d\u304d\u3067\u3057\u305f\u3002",
       "url": "https://open.spotify.com/track/588cVGxOSFqg8HnlGE6IDI"

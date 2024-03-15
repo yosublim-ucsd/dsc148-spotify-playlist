@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,949 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,988 likes - 99 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 18 | [Baby Wait \(feat\. SugarHill Ddot\)](https://open.spotify.com/track/4SR1DZjH029uliUSSPZpJW) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Baby Wait \(feat\. SugarHill Ddot\)](https://open.spotify.com/album/1oKLEqv46j1DWOHQ1UMpbd) | 2:27 |
 | 19 | [Good Girls Ain't No Fun](https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Good Girls Ain't No Fun](https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u) | 2:22 |
 | 20 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit Da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
-| 21 | [Kick It](https://open.spotify.com/track/7D9hC9aFANt3vzGx1p0ZL0) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Kick It](https://open.spotify.com/album/3HNlwo4TkoFrqWFHOiDgix) | 2:20 |
+| 21 | [Kick It](https://open.spotify.com/track/7D9hC9aFANt3vzGx1p0ZL0) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Kick It](https://open.spotify.com/album/3HNlwo4TkoFrqWFHOiDgix) | 2:20 |
 | 22 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
 | 23 | [DIAMONDS LIGHTS FAST CARS \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0Axs9yNdLaCiOdqrhIfnXV) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/69LeVueGpsU04FroWz51ym) | 2:41 |
 | 24 | [Don't Start Pt\. 3](https://open.spotify.com/track/2FOGddqEgiiC0p6dw3HsfP) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Don't Start Pt\. 3](https://open.spotify.com/album/0FZSPmBJlouVZVCuCuRoq3) | 2:42 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 98 | [Jenn Jenn Jenn](https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Jenn Jenn Jenn](https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg) | 2:00 |
 | 99 | [3AM in the Yams \(feat\. Luh Tyler\)](https://open.spotify.com/track/00a6BqGzSkW1fXz39aJpEO) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [3AM in the Yams \(feat\. Luh Tyler\)](https://open.spotify.com/album/2j01RMLBK6DTtGpGAl50Ah) | 2:49 |
 
-Snapshot ID: `MCwyMTQ3M2Y3ZmFlMjE0MTAzZmU5MDk0ZTMxZjRjNmZkZWI4MzZiMmE0`
+Snapshot ID: `MCxmMGZiNTk2NTc1ZTJlZmJkNTc1MjYwYmI2ODdlNjIwZDc0YmNkMGQ5`

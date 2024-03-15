@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 214504,
+  "2024-03-15": 214505,
   "date_first_scraped": "2022-02-09",
   "description": "Your daily update of the most viral tracks right now - Mexico.",
   "name": "Viral 50 - Mexico",
@@ -5860,6 +5860,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica de las Sagas de Drag\u00f3n Ball",
+        "url": "https://open.spotify.com/album/1llvtkXOEVrjuoRd1hTCRt"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Silva",
+          "url": "https://open.spotify.com/artist/2lCmsUtLSxA7esbqH1bUW7"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Chala Head Chala (Opening \"D.B.Z.\" Versi\u00f3n Cl\u00e1sica)",
+      "url": "https://open.spotify.com/track/2m7KGTVbqqo2xo3AaaJO8s"
+    },
+    {
+      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
@@ -10357,6 +10375,24 @@
       "duration_ms": 183198,
       "name": "El poder",
       "url": "https://open.spotify.com/track/2Sur4LiJLj4grpAK3u0xmX"
+    },
+    {
+      "album": {
+        "name": "Somos uno y lo mismo",
+        "url": "https://open.spotify.com/album/7EKKJ9YE2jrskhrZaSZZGT"
+      },
+      "artists": [
+        {
+          "name": "Adrian Barba",
+          "url": "https://open.spotify.com/artist/5KK1FO30lzYPqnPYyS9bu5"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "El Poder Nuestro Es",
+      "url": "https://open.spotify.com/track/2wZJFeW0H1WnokB2V0gMhm"
     },
     {
       "album": {
@@ -21781,7 +21817,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
@@ -34457,7 +34493,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 126897,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/66QWqZPA5Mxe8LpRjewkVv"

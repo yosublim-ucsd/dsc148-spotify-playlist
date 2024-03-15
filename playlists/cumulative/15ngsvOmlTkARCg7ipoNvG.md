@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,708 songs - 1 day 11 hr 33 min
+1,709 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Distant Rainbows](https://open.spotify.com/track/3eOVg6RQHlHFb0QtRznlEh) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Autumn Rain](https://open.spotify.com/album/0JsMeQCTqpoV07HsE6QVC0) | 1:56 | 2024-01-29 |  |
 | [Distant Sea](https://open.spotify.com/track/4awlFbyeKDw4IvtqYusn1A) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Inspiring Wonder](https://open.spotify.com/album/5GaqAoc0gAzImOql9eWKVF) | 1:02 | 2022-02-19 |  |
 | [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2022-01-12 | 2024-01-30 |
+| [Divine](https://open.spotify.com/track/51yS1LEgaT1LHhNmNeimhI) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Divine](https://open.spotify.com/album/0ew7HolRlYFcUMCr4TBsVi) | 1:00 | 2024-03-14 |  |
 | [Do We Wake](https://open.spotify.com/track/5nEvhoKxYs665DDlRyhtrU) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Do We Wake](https://open.spotify.com/album/3Dc0xwwuSUKPQ0FxuuN8VZ) | 3:36 | 2022-01-12 | 2024-02-13 |
 | [Dona Nobis Pacem \- Ambient Piano Version](https://open.spotify.com/track/6uL24uD7DAqmuJJgPlnxAj) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dona Nobis Pacem \(Ambient Piano Version\)](https://open.spotify.com/album/6oDmNKWzW3nS1sYg3OldYH) | 1:01 | 2023-09-17 |  |
 | [Dona Nobis Pacem \- Cello Version](https://open.spotify.com/track/1tUZdxrXgR14OzRKjgJUQd) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Two Versions Of Dona Nobis Pacem](https://open.spotify.com/album/4HY71ZyTjONDcAk5iIaPlE) | 1:02 | 2024-02-09 | 2024-02-13 |

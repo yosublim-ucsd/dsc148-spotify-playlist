@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain](/playlists/plain/6r8hObcpBOeuCd7Zua3L5E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6r8hObcpBOeuCd7Zua3L5E)
 
-### [sped up songs \| TikTok Hits](https://open.spotify.com/playlist/6r8hObcpBOeuCd7Zua3L5E)
+### [sped up songs \(2\)](https://open.spotify.com/playlist/6r8hObcpBOeuCd7Zua3L5E)
 
-> <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Sped up songs on TikTok and around the internet\. Sped up versions\. Sped up audio\. Speed audio\. Speed audios\. Speed up songs\. Sped up TikTok audios\. Sped up TikTok audios 2023\. Nightcore\. Sped up nightcore.
+> <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Sped up songs on the internet\. Sped up versions\. Sped up audio\. Speed audio\. Speed audios\. Speed up songs\. Nightcore\. Sped up nightcore.
 
 [Digster Global](https://open.spotify.com/user/digster.fm) - 24,727 likes - 51 songs - 2 hr 25 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 | 50 | [GOATED\. \- Sped Up](https://open.spotify.com/track/6WRVHlO5WduhRIKfLiuEwz) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [GOATED\. \(Sped Up\)](https://open.spotify.com/album/5dzKGx4HaMl59j1RxUf7Nm) | 2:22 |
 | 51 | [Cardboard Box \- Sped Up](https://open.spotify.com/track/1Yywnto2PimPZNti7DGDZB) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cardboard Box](https://open.spotify.com/album/63AyqtzaDPQ7EEaSa2irK8) | 2:18 |
 
-Snapshot ID: `ODgwLGEzOWRmYmEyZThlNzNjN2I5OWJjZTkwMTYzNGQ2MzU4MjczNDYwYmI=`
+Snapshot ID: `ODg0LDEzNWFmZWYyYmYzMjNjZGNhZTZiNDlhZTMwZTNlMjNhMjkxZTNmZjA=`

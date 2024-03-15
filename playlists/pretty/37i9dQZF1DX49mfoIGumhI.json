@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 193925,
+  "num_followers": 194033,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOThiYmM1Y2ViMzQ5NzVjYWM2ZjRhYjViYmYxZTMwNjllYWIwMTY0",
+  "snapshot_id": "MCw4OWU4ZDZkNjMxZDM0YTA3MTY2YzEyMTQ2ZjQ3YTRhM2FjZjM3OTJm",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Salseando Con... Volume 2",
-        "url": "https://open.spotify.com/album/6c8atZjCJsPUNK7jVqsg85"
-      },
-      "artists": [
-        {
-          "name": "Salseando",
-          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Fantas\u00eda Herida",
-      "url": "https://open.spotify.com/track/7gXoJlCvkADgCISM3XFIu1"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Grandes Exitos de Salsa",
         "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 291106,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Salseando Con... Volume 2",
+        "url": "https://open.spotify.com/album/6c8atZjCJsPUNK7jVqsg85"
+      },
+      "artists": [
+        {
+          "name": "Salseando",
+          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Fantas\u00eda Herida",
+      "url": "https://open.spotify.com/track/7gXoJlCvkADgCISM3XFIu1"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Serie Millennium 21: Paquito Guzman",
-        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
-      },
-      "artists": [
-        {
-          "name": "Paquito Guzman",
-          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
-        }
-      ],
-      "duration_ms": 279106,
-      "name": "25 Rosas",
-      "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 286413,
       "name": "Date un Chance",
       "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Serie Millennium 21: Paquito Guzman",
+        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
+      },
+      "artists": [
+        {
+          "name": "Paquito Guzman",
+          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
+        }
+      ],
+      "duration_ms": 279106,
+      "name": "25 Rosas",
+      "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
     },
     {
       "added_at": "2022-12-30 20:18:36",

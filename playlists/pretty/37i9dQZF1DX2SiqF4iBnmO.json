@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 107402,
+  "num_followers": 107493,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzYwZTI2ZTcwMWVmYmQwODJmNDdhYzk3ZWFlZDE4NDFmYzEwNGU4",
+  "snapshot_id": "MCxmY2RjNzJiZTQ4NWY3ZDM0ZmViMGE0YTVmODFjMzQwOGE5MTYyZmFh",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "4 Seasons Of Loneliness",
-      "url": "https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Spirit (feat. Wale)",
         "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Abacab (2007 Remaster)",
-        "url": "https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx"
       },
       "artists": [
         {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 267426,
-      "name": "Man on the Corner - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0oZIhxPO45rQkDIMr75gK5"
+      "duration_ms": 292400,
+      "name": "4 Seasons Of Loneliness",
+      "url": "https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -763,6 +747,22 @@
       "duration_ms": 409648,
       "name": "Feels So Real (Won't Let Go) - 12\" Version",
       "url": "https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Abacab (2007 Remaster)",
+        "url": "https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 267426,
+      "name": "Man on the Corner - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0oZIhxPO45rQkDIMr75gK5"
     },
     {
       "added_at": "2023-06-29 22:01:00",

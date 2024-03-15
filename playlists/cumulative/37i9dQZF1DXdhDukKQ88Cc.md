@@ -2,7 +2,7 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> det største dk rap lige nu.\. <a href="spotify:artist:7Ap8xCd7d0xon5XnkLvn4i">KIDD</a> har sluppet et nyt album <a href="spotify:album:5eltcb1nCUUS5xeCyrsQV3">OG SÅ VIDERE</a>  🔥
+> det største dk rap lige nu 🔥
 
 145 songs - 6 hr 15 min
 

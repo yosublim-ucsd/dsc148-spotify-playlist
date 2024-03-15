@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 363038,
+  "2024-03-15": 364754,
   "date_first_scraped": "2023-07-23",
   "description": "music from the underworld",
   "name": "hexxed",
@@ -1027,6 +1027,24 @@
       "duration_ms": 75317,
       "name": "EXT4S1S!",
       "url": "https://open.spotify.com/track/3NeEc5CrA92NcKCx1Gzl28"
+    },
+    {
+      "album": {
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116643,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
     },
     {
       "album": {

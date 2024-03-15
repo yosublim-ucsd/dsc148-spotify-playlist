@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 
 > <a href="spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N">PAUZA</a>'s favorite tracks\. Updated regularly\. Curated by PAUZA\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,810 likes - 51 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,836 likes - 51 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 | 20 | [Possessed](https://open.spotify.com/track/1DcNtYSP4pTARn2tYGJmv9) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Possessed](https://open.spotify.com/album/0x834cvJwd2lSbQ3Fa4a9I) | 6:32 |
 | 21 | [Baila](https://open.spotify.com/track/3wxhYzc0N1lTzD732aVq3b) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Giquro](https://open.spotify.com/artist/3FksMFtD9kNla3yBu3fHwd) | [Baila](https://open.spotify.com/album/7fTyqgDZ20p8MeIZsdtzmp) | 5:12 |
 | 22 | [Mototanke](https://open.spotify.com/track/6FDlkHQblRyFJeOMs5OHp8) | [Wichy de Vedado](https://open.spotify.com/artist/11qAo8U9HexayS8GnKhnA1) | [Mototanke / Trombone De Calle](https://open.spotify.com/album/1H8hqxpUotDHEl6FThICd6) | 4:07 |
-| 23 | [SALAAM \- Safar's Scandalous Mix](https://open.spotify.com/track/0e3QLWBjXQ1A3Z2TEAuIDa) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [SALAAM REMIX](https://open.spotify.com/album/39EdW4j8su708N4R3PhkG0) | 6:08 |
+| 23 | [SALAAM \- Safar's Scandalous Mix](https://open.spotify.com/track/0e3QLWBjXQ1A3Z2TEAuIDa) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [SALAAM REMIX](https://open.spotify.com/album/39EdW4j8su708N4R3PhkG0) | 6:08 |
 | 24 | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx) | 4:13 |
 | 25 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 |
 | 26 | [Caliente](https://open.spotify.com/track/1kxrUd6GDLEWsgIAlmErXF) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Arema Arega](https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C) | [Caliente](https://open.spotify.com/album/3Hxg9D6IidPIcdp7TLk7D4) | 5:34 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 | 50 | [Lágrimas \- Havana Vibes Edit](https://open.spotify.com/track/0Du9Rs1VvtSp5alK7gxp2D) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Argentina](https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2) | [Lágrimas \(Feat\. Argentina\)](https://open.spotify.com/album/177yb1Pg2TGtIAO7pHzvPX) | 4:05 |
 | 51 | [Jamestown Riddim](https://open.spotify.com/track/2xCNLR4PjVb5mrrWfczrTK) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Jamestown Riddim](https://open.spotify.com/album/77JDS4EeZA1Jf3gmbDQoZt) | 3:00 |
 
-Snapshot ID: `MCw5Y2EwZmE3ZGIzYzdhZWUyNDMwZDVlZmNmNjdlMThkZTUyYzNkYjhl`
+Snapshot ID: `MCw3MzJjZmI4YjY2ZmMyYWUxZDA4NDA5MGRkNDYxM2Y0NzMwZGVmOWQy`

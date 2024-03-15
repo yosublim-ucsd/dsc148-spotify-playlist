@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Samara Cyn\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,062 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,195 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
-| 2 | [That Energy](https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt) | [Emerson Azarian](https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j) | [That Energy](https://open.spotify.com/album/0Ecmcz27yUk82z7MJSILBX) | 2:54 |
-| 3 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
-| 4 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 |
-| 5 | [Qué Más Da](https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Qué Más Da](https://open.spotify.com/album/2WyN5yIB3Izq1c5xODMywD) | 2:34 |
-| 6 | [Cut](https://open.spotify.com/track/0dwaS9kMmmxrMulLMbEe3c) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Oh, Claire](https://open.spotify.com/album/3gH4i1dDjghuiXuNEIohMT) | 1:47 |
-| 7 | [shaking head](https://open.spotify.com/track/0GCzgti2LYrdH93iJiC9hf) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [shaking head](https://open.spotify.com/album/5FiKwOdK0erlaCZ06n4U12) | 2:44 |
-| 8 | [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 |
-| 9 | [Masterpiece](https://open.spotify.com/track/0882GzD9srKQG4CvIWWbWo) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ) | [Masterpiece](https://open.spotify.com/album/2Zt0cDgogkqOKvSqAqX3jb) | 3:12 |
-| 10 | [Something \(Practically\)](https://open.spotify.com/track/23uwpMxRrhQiLPzMkuOfBq) | [Edgehill](https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT) | [Something \(Practically\) / Tape My Mouth](https://open.spotify.com/album/4oZhA997LWyuwzpLtIdCEV) | 4:46 |
-| 11 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
-| 12 | [Fire Excape](https://open.spotify.com/track/2m8MI1dFTkFhlVjjm7zFXp) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Fire Excape](https://open.spotify.com/album/7nU97h6a16WCM6AJlrYIry) | 3:18 |
-| 13 | [Faith](https://open.spotify.com/track/1SMbbkmy371096e60XcstR) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Faith](https://open.spotify.com/album/16PKaDC9hWFS5qCNiFbHaR) | 3:39 |
+| 2 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 |
+| 3 | [Qué Más Da](https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Qué Más Da](https://open.spotify.com/album/2WyN5yIB3Izq1c5xODMywD) | 2:34 |
+| 4 | [That Energy](https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt) | [Emerson Azarian](https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j) | [That Energy](https://open.spotify.com/album/0Ecmcz27yUk82z7MJSILBX) | 2:54 |
+| 5 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
+| 6 | [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 |
+| 7 | [Something \(Practically\)](https://open.spotify.com/track/23uwpMxRrhQiLPzMkuOfBq) | [Edgehill](https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT) | [Something \(Practically\) / Tape My Mouth](https://open.spotify.com/album/4oZhA997LWyuwzpLtIdCEV) | 4:46 |
+| 8 | [Masterpiece](https://open.spotify.com/track/0882GzD9srKQG4CvIWWbWo) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ) | [Masterpiece](https://open.spotify.com/album/2Zt0cDgogkqOKvSqAqX3jb) | 3:12 |
+| 9 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
+| 10 | [Fire Excape](https://open.spotify.com/track/2m8MI1dFTkFhlVjjm7zFXp) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Fire Excape](https://open.spotify.com/album/7nU97h6a16WCM6AJlrYIry) | 3:18 |
+| 11 | [shaking head](https://open.spotify.com/track/0GCzgti2LYrdH93iJiC9hf) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [shaking head](https://open.spotify.com/album/5FiKwOdK0erlaCZ06n4U12) | 2:44 |
+| 12 | [Faith](https://open.spotify.com/track/1SMbbkmy371096e60XcstR) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Faith](https://open.spotify.com/album/16PKaDC9hWFS5qCNiFbHaR) | 3:39 |
+| 13 | [Cut](https://open.spotify.com/track/0dwaS9kMmmxrMulLMbEe3c) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Oh, Claire](https://open.spotify.com/album/3gH4i1dDjghuiXuNEIohMT) | 1:47 |
 | 14 | [Monster](https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Monster](https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE) | 3:19 |
 | 15 | [Gnawed](https://open.spotify.com/track/36zunLr76WzSOqwq48up3b) | [24thankyou](https://open.spotify.com/artist/0p0wYqcp0eD1TBnLLX35fZ) | [Everything I Was, Burning Slow](https://open.spotify.com/album/7thudeuUtOVk6jjP3yv94l) | 2:00 |
 | 16 | [How Long?](https://open.spotify.com/track/0bFiS83jnXUTojsrO6p77A) | [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [I Chose to Keep Going](https://open.spotify.com/album/1w66h1lj1jU89X2LXn9xVJ) | 2:25 |
 | 17 | [Drive](https://open.spotify.com/track/6fyMrWLRwp2GMnXmcjnDel) | [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua) | [Drive](https://open.spotify.com/album/5FyOiAAhEMhNOvoMJ6NdmB) | 3:24 |
 | 18 | [The Thing About Things](https://open.spotify.com/track/4OsgignORHaeVwHVo409ow) | [Dan Smalley](https://open.spotify.com/artist/3cYDiJhgZ4stg4q4MLtLzC) | [The Thing About Things](https://open.spotify.com/album/3EETCbffOESZLgHMkGWtWn) | 3:27 |
 | 19 | [Heartbreak In Heaven](https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Heartbreak In Heaven](https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3) | 2:21 |
-| 20 | [Mind & Body](https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p) | [Tolü Makay](https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG) | [Mind & Body](https://open.spotify.com/album/2KnyrLukBJW5j3O1fuPrTY) | 2:56 |
-| 21 | [Just 21](https://open.spotify.com/track/68PL4PLUa1nksoJfiQxMRJ) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Just 21](https://open.spotify.com/album/1T3PKH1G49Y5dBQgB2fcfc) | 3:04 |
+| 20 | [Just 21](https://open.spotify.com/track/68PL4PLUa1nksoJfiQxMRJ) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Just 21](https://open.spotify.com/album/1T3PKH1G49Y5dBQgB2fcfc) | 3:04 |
+| 21 | [Mind & Body](https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p) | [Tolü Makay](https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG) | [Mind & Body](https://open.spotify.com/album/2KnyrLukBJW5j3O1fuPrTY) | 2:56 |
 | 22 | [Air Drumming Fix You](https://open.spotify.com/track/4pO4S5dLphqavzoByuZikz) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Air Drumming Fix You](https://open.spotify.com/album/5fVebLQz6IcyjQPFzcuhqS) | 5:29 |
 | 23 | [good dog karma](https://open.spotify.com/track/0V5xAM9ljDHgPLt9dvUFpk) | [phin](https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN) | [good dog karma](https://open.spotify.com/album/7i85GGkYE1XniYzld3Cxln) | 3:25 |
 | 24 | [Don't Take Her Home](https://open.spotify.com/track/5kfx1RL383sxPiytI6iVMr) | [Jeb Bundy](https://open.spotify.com/artist/6ZtihUIqX9h72FrkQW43U6), [Cam Harris](https://open.spotify.com/artist/1piKAEgLs1KDhK0kEEpuSC) | [Don't Take Her Home](https://open.spotify.com/album/2BGHj4gtfgKwqvbKokKz8I) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 |
 | 100 | [I Keep Changing](https://open.spotify.com/track/3fGWqrH3E6Rl9ERhDQVzER) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [I Keep Changing](https://open.spotify.com/album/0TyytAJAw0i7Eu5ERmV6wc) | 2:57 |
 
-Snapshot ID: `MCw0MGVjYzRkMzA1OTk2ZmZlZTY0YmIyMGQyN2QwMmIwOTYxZmVmMzlk`
+Snapshot ID: `MCxmZDU3ZGU4OTMyZGNjN2E1ZWUwOGVhNjc3YzNiOGFhYzk5MTY2NDg1`

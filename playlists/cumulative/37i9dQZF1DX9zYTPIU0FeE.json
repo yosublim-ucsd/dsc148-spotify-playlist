@@ -3565,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Wrapped in Rhythm, Vol. 1",
+        "url": "https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i"
+      },
+      "artists": [
+        {
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210280,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a"
+    },
+    {
+      "album": {
         "name": "The Balance",
         "url": "https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg"
       },

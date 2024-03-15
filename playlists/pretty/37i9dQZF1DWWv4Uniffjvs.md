@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,109 likes - 68 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,122 likes - 68 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 53 | [Piped Up](https://open.spotify.com/track/33MKH52dgeoCly26SmI2rh) | [False Persona](https://open.spotify.com/artist/0o9eLbvKL4PGG549qygy1o), [SAAH](https://open.spotify.com/artist/0Cf61dBT2Tl6zWH3xT1mIP) | [Minimal Stares](https://open.spotify.com/album/3BqZLz63wCrggbqqaYjzfS) | 4:41 |
 | 54 | [Bala](https://open.spotify.com/track/37Q8Qnw60Yobnv1cHsx6Rr) | [Sukubratz](https://open.spotify.com/artist/4qYsH6BJgxIIOJuoM6r8K4), [XAKALELE](https://open.spotify.com/artist/4qsiw8AXJbh2s2KVIJbu6k) | [Bala](https://open.spotify.com/album/2fw24VApgh0PrBZpugCq99) | 3:24 |
 | 55 | [Sax Skank](https://open.spotify.com/track/2BvP1P3a3KoXwIHvUaStJj) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW) | [Sax Skank / Crunchy](https://open.spotify.com/album/0JmqnoGA0zCVMnQtWI2P4b) | 2:52 |
-| 56 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r), [Froning](https://open.spotify.com/artist/4ZyOzd4u9Kg3B6Ny0NDyGd) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 |
+| 56 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 |
 | 57 | [Eat It](https://open.spotify.com/track/7xubnAND3zwzYeNGeCc4b8) | [Morelia](https://open.spotify.com/artist/5IYl99kFybVzejVo5MyoRS) | [INTERNET SURVIVORS](https://open.spotify.com/album/1j2ccuu7IGcV3YgjBZXsY4) | 4:16 |
 | 58 | [Old Class Hero](https://open.spotify.com/track/730N6J5QIR8UT4o92WVjqE) | [Mmork](https://open.spotify.com/artist/1PTWIzRyD88yHCyRRyea3C) | [Old Class Hero](https://open.spotify.com/album/3YkbySEQtIND9rPqFN4Tt2) | 6:32 |
 | 59 | [Mindcontroller](https://open.spotify.com/track/1Iol86b24y9NSIduVKM8U4) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Mindcontroller](https://open.spotify.com/album/2SgNcuXcV069e7H7XgYqHD) | 5:15 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 67 | [La Luz](https://open.spotify.com/track/0ej4KE9ZeS64oyThzZrqFx) | [Maté](https://open.spotify.com/artist/70FBpPuf1bnE2wvUUB8JzF) | [La Luz](https://open.spotify.com/album/0BXhbBQ0KZdhUYFpn5B111) | 4:33 |
 | 68 | [Hollywood, Florida](https://open.spotify.com/track/5GUFEfUy81x7fJkwxih86x) | [JUANNY DEPP](https://open.spotify.com/artist/0D5NX4FQVLKNFnho6j06WQ) | [Suchitoto](https://open.spotify.com/album/1X9J6KYOPeIth67WHDX8i4) | 3:54 |
 
-Snapshot ID: `MCwxYzlmZTE5ZTA0MDRlMmIzMWE0M2Y1NTg4MDAzMWYwYzY2NWExOTRm`
+Snapshot ID: `MCw0OTY3NDRiZDI3MDU3ZWRlOGM5NWMzYjEyYzEzMjI0MjQwZGFhZjhk`

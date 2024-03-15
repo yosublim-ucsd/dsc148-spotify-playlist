@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 14909,
+  "2024-03-15": 14907,
   "date_first_scraped": "2024-01-30",
   "description": "The smoothest jazz for the holiday. Cover: Kenny G",
   "name": "Smooth Jazz Christmas",
@@ -895,10 +895,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 221819,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/4fFJ7l4A4SibMLvBzFr6HV"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/4FSzrcXxW3BmqsOcNydE4H"
+      },
+      "artists": [
+        {
+          "name": "Eric Knight",
+          "url": "https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221819,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/5nT9ArtXb3OMLQdFvzm6D1"
     },
     {
       "album": {

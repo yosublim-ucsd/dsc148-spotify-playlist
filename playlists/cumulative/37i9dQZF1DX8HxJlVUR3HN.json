@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Bandit Bandit",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : P\u00c6RISH",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 135096,
       "name": "I Wish Myself To Be Happier",
       "url": "https://open.spotify.com/track/6fqORwQ9eGFYf9U96iXmBh"
@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Know",
+        "url": "https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233965,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY"
+    },
+    {
+      "album": {
         "name": "Danse Animale",
         "url": "https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV"
       },
@@ -1414,6 +1432,42 @@
       "duration_ms": 214037,
       "name": "Les magazines",
       "url": "https://open.spotify.com/track/1OoRHpcCl1afYCqDaBpa85"
+    },
+    {
+      "album": {
+        "name": "Les Sir\u00e8nes",
+        "url": "https://open.spotify.com/album/6PqaTibhL2ppnczfldjYkT"
+      },
+      "artists": [
+        {
+          "name": "JOUJOU",
+          "url": "https://open.spotify.com/artist/573HQlBPoUNZ9HAxvtTRs8"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165010,
+      "name": "Les Sir\u00e8nes",
+      "url": "https://open.spotify.com/track/2EPUVAWRKCCiNKOl3twUE6"
+    },
+    {
+      "album": {
+        "name": "Liminal Status",
+        "url": "https://open.spotify.com/album/0I11xptQ0tRtlWQo99uXMz"
+      },
+      "artists": [
+        {
+          "name": "Watertank",
+          "url": "https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "Liminal Status",
+      "url": "https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk"
     },
     {
       "album": {
@@ -1716,7 +1770,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 171107,
       "name": "Okay",
       "url": "https://open.spotify.com/track/6hGIEiT7X4ppUL3SQw76G6"
@@ -2065,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "SCARS",
+        "url": "https://open.spotify.com/album/6fhlUL41Bioxe3i6Rm1eNg"
+      },
+      "artists": [
+        {
+          "name": "Greyborn",
+          "url": "https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375614,
+      "name": "SCARS",
+      "url": "https://open.spotify.com/track/3TKuILixxJfr2Ug32K8XfQ"
+    },
+    {
+      "album": {
         "name": "Life Is Unfair",
         "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
       },
@@ -2094,7 +2166,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 263187,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/4bG8gUgiCbnGrcjgdBrm3F"
@@ -2116,6 +2188,24 @@
       "duration_ms": 210600,
       "name": "She Said",
       "url": "https://open.spotify.com/track/6nFyCnc6iKU5G2u8GIE6um"
+    },
+    {
+      "album": {
+        "name": "Sheer",
+        "url": "https://open.spotify.com/album/0FWk1F0liElxKrWMyHjAzP"
+      },
+      "artists": [
+        {
+          "name": "Rendez Vous",
+          "url": "https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174157,
+      "name": "Sheer",
+      "url": "https://open.spotify.com/track/51bCjqkHdXpJVrouWac7OU"
     },
     {
       "album": {
@@ -2274,7 +2364,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 139217,
       "name": "State of Alert",
       "url": "https://open.spotify.com/track/3KNMZ6fGszA7LnhxsRvxHk"
@@ -2418,7 +2508,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 139106,
       "name": "Superman",
       "url": "https://open.spotify.com/track/7qR4KI5JAf8n48wStSizic"
@@ -2494,7 +2584,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 171720,
       "name": "The Bell Behind The Door - Radio Edit",
       "url": "https://open.spotify.com/track/23wkntyHN3cKC7rcKZ6OCL"
@@ -2811,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Unsaid",
+        "url": "https://open.spotify.com/album/4ilcQu9fD4aieiRbfziPCw"
+      },
+      "artists": [
+        {
+          "name": "Apart",
+          "url": "https://open.spotify.com/artist/1VGohhkVWe2cCk6Ks9TChB"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274066,
+      "name": "Unsaid",
+      "url": "https://open.spotify.com/track/49uhJCtngaCbxNbL2Q0iXF"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/5Ce8rKh0mR6CitOLVaJXmW"
       },
@@ -2912,7 +3020,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 236000,
       "name": "Welcome Back - First Edit",
       "url": "https://open.spotify.com/track/4pLiJIhQYqKBmYukO7qVdU"
@@ -3006,6 +3114,24 @@
       "duration_ms": 200000,
       "name": "Without Shepherd or Guiding Star - Edit",
       "url": "https://open.spotify.com/track/0Mrj5rb5aa7ECXX8ATL9uD"
+    },
+    {
+      "album": {
+        "name": "ALMOST DEAD",
+        "url": "https://open.spotify.com/album/3RP4jBXSBlctAls6IaEt3f"
+      },
+      "artists": [
+        {
+          "name": "Chester Remington",
+          "url": "https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "You Liar",
+      "url": "https://open.spotify.com/track/7xivDpDSJ9dPuyqovxxkk7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN"

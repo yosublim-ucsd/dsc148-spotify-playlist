@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,884 songs - 2 day 23 hr 47 min
+1,885 songs - 2 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1041,7 +1041,7 @@
 | [Miniscule](https://open.spotify.com/track/6taFLGjpIKa19YkW7ql9BU) | [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [One Flew Over the Bird's Nest](https://open.spotify.com/album/4SQ1EW9BxsPeikp4PNLhmO) | 1:32 | 2023-06-06 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [Mirrored](https://open.spotify.com/track/2C0mLKtJ2I7tjPGwbb2MEi) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Mirrored](https://open.spotify.com/album/5wCJDR7CHKPetG8flITMnR) | 2:20 | 2022-04-15 | 2022-12-03 |
-| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 |  |
+| [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2023-07-13 | 2024-03-15 |
 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 | 2023-03-01 |  |
 | [Miss lavii](https://open.spotify.com/track/4UpMl0ADAnyeLBM1TGbqtu) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:42 | 2022-04-15 | 2023-03-09 |
 | [miss u](https://open.spotify.com/track/6N5gXsOkGnUSA4Q7mmXrfx) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [shinjuku station](https://open.spotify.com/album/1tZMflXbwcZ8T2OL8kwQLE) | 2:22 | 2023-02-21 |  |
@@ -1068,6 +1068,7 @@
 | [Moonlight Kite](https://open.spotify.com/track/0s1qfJj2RT5O5FKXYWpcKu) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Low Gear](https://open.spotify.com/album/37c24i7QFE72G8Aj1g1hWK) | 2:37 | 2022-04-15 | 2022-09-02 |
 | [Moonshine](https://open.spotify.com/track/3lYQ3kdb5YVZ038kG3BMkf) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Moonshine](https://open.spotify.com/album/4Z1tjtyP4DRsFiFOMSniLu) | 1:52 | 2022-10-28 | 2024-02-02 |
 | [More Than Useless](https://open.spotify.com/track/5XBdasgmMGjsbmf3rqKlZT) | [Lo Hank](https://open.spotify.com/artist/4UBUThKPPH6NtugsndL7Er) | [More Than Useless](https://open.spotify.com/album/3sOzbCKAe2GRT9gg1M4NHF) | 2:11 | 2023-01-20 | 2023-03-25 |
+| [morning coffee](https://open.spotify.com/track/22YaZEoX2OiG5yA2O3cHDv) | [bearé](https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK) | [morning coffee](https://open.spotify.com/album/77rJWwqP3W0MxO8Nb8fxsl) | 2:28 | 2024-03-08 |  |
 | [Morning Coffee](https://open.spotify.com/track/0cMv2doRFzHSi9cQKDyp7Y) | [Happy Soulboy](https://open.spotify.com/artist/1GMd4zizPNAvdnaNojdWER) | [Morning Coffee](https://open.spotify.com/album/2Nuq1yiQQBzCtZiNGi1Opw) | 2:16 | 2022-09-16 | 2023-03-09 |
 | [morning daze](https://open.spotify.com/track/6RVsrU01xEx8041ZTnew60) | [kimikai](https://open.spotify.com/artist/6CKdPPDWzwzWI3ju0Os4HR) | [morning daze](https://open.spotify.com/album/5S4J0M0zh2W3paHjBNkcyv) | 2:24 | 2023-01-06 |  |
 | [Morning Glory](https://open.spotify.com/track/7osOgKGCOAGRwTfgQtpcQ2) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Morning Glory](https://open.spotify.com/album/5hQ9zJCadcXFvxRu2Pxfdl) | 1:49 | 2022-10-01 |  |

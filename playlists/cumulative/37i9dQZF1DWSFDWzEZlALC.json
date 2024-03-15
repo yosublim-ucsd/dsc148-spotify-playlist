@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: LEEPA",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: MELE",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 185015,
       "name": "17",
       "url": "https://open.spotify.com/track/1wAJLsPc9pNO2yzFAuFk2m"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 170713,
       "name": "\\ der sch\u00f6nste mensch der welt",
       "url": "https://open.spotify.com/track/120jaxjSxt7ocidusCDQoy"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 145063,
       "name": "\\ sympathisch",
       "url": "https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX"
@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Bei dir",
+        "url": "https://open.spotify.com/album/3V9JIUKGUb5yghblRgYFXQ"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148313,
+      "name": "Bei dir",
+      "url": "https://open.spotify.com/track/4lNN7M9Xr4cC7X0p6I4QhQ"
+    },
+    {
+      "album": {
         "name": "KIOX",
         "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
       },
@@ -1461,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "bucketlist",
+        "url": "https://open.spotify.com/album/0zpi8GC3UgZORrpqi6D9Ni"
+      },
+      "artists": [
+        {
+          "name": "Maeckes",
+          "url": "https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151363,
+      "name": "bucketlist",
+      "url": "https://open.spotify.com/track/7HjJK7TngZk3Ervm9JCVdd"
+    },
+    {
+      "album": {
         "name": "Cabrio",
         "url": "https://open.spotify.com/album/6iR835M2sCOVJWOsIHhGoE"
       },
@@ -1566,6 +1602,24 @@
       "duration_ms": 236647,
       "name": "Cold Brew (Kaffee Warm 4)",
       "url": "https://open.spotify.com/track/7yGxLsh0X7FLYpExiDFzeX"
+    },
+    {
+      "album": {
+        "name": "Cruisen",
+        "url": "https://open.spotify.com/album/456CPopRAisSeK6XfI4fy0"
+      },
+      "artists": [
+        {
+          "name": "Felix Herbst",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/75wcLZXc1mHsGcDABxuIFv"
     },
     {
       "album": {
@@ -2306,7 +2360,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 198120,
       "name": "Egal (was passiert)",
       "url": "https://open.spotify.com/track/0kNkyLekrgYVDt6EPmslv2"
@@ -3159,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Fu\u00df baumeln",
+        "url": "https://open.spotify.com/album/2BukPk8h55bGp9vildXq57"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147046,
+      "name": "Fu\u00df baumeln",
+      "url": "https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV"
+    },
+    {
+      "album": {
         "name": "F\u00fcchse",
         "url": "https://open.spotify.com/album/1PrCxyRaSVpGZfbxzXTNL6"
       },
@@ -3188,7 +3260,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 242671,
       "name": "F\u00fchrerschein",
       "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
@@ -5063,6 +5135,24 @@
     },
     {
       "album": {
+        "name": "kenn ich auch",
+        "url": "https://open.spotify.com/album/0NiRFXZYyBHNsTdFjXsepw"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163702,
+      "name": "kenn ich auch",
+      "url": "https://open.spotify.com/track/4R612vH0xIrZS89mPpX6hp"
+    },
+    {
+      "album": {
         "name": "zweitausenddreiundzwanzig",
         "url": "https://open.spotify.com/album/1JQsKRv7NuZ9QwepJ9sRl7"
       },
@@ -5938,7 +6028,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 176963,
       "name": "mausmann",
       "url": "https://open.spotify.com/track/07z15WtiDQV9IGhb9oinIc"
@@ -6260,7 +6350,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 121022,
       "name": "Moshpit",
       "url": "https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY"
@@ -6452,6 +6542,24 @@
       "duration_ms": 219000,
       "name": "Nichts Macht Mich Kaputt",
       "url": "https://open.spotify.com/track/4apYkUv1eTKQZ3hHuGS8Kh"
+    },
+    {
+      "album": {
+        "name": "Nichts macht Sinn",
+        "url": "https://open.spotify.com/album/2ObdUQl8ysIJf7gg14RzYs"
+      },
+      "artists": [
+        {
+          "name": "MELE",
+          "url": "https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128546,
+      "name": "Nichts macht Sinn",
+      "url": "https://open.spotify.com/track/4dNhCiis0TcK1hXqduzvAD"
     },
     {
       "album": {
@@ -7468,7 +7576,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 159672,
       "name": "Rosarot",
       "url": "https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ"
@@ -9744,7 +9852,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 143500,
       "name": "Weit weg",
       "url": "https://open.spotify.com/track/45GQBrjltJYKPUC3MVJBf0"
@@ -10059,6 +10167,24 @@
     },
     {
       "album": {
+        "name": "Wie weit",
+        "url": "https://open.spotify.com/album/08QSXJITlWxHI6zdxitpZA"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158061,
+      "name": "Wie weit",
+      "url": "https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F"
+    },
+    {
+      "album": {
         "name": "wiedersehen",
         "url": "https://open.spotify.com/album/5wwgn9Z4UB02M3mLaeuLuG"
       },
@@ -10096,6 +10222,28 @@
       "duration_ms": 136373,
       "name": "Wien",
       "url": "https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2"
+    },
+    {
+      "album": {
+        "name": "Willst du",
+        "url": "https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        },
+        {
+          "name": "emi x",
+          "url": "https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176288,
+      "name": "Willst du",
+      "url": "https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ"
     },
     {
       "album": {
@@ -10434,6 +10582,24 @@
       "duration_ms": 159672,
       "name": "zwischen allem und nichts",
       "url": "https://open.spotify.com/track/5UvTDAr7oqTU7e3Rm8hcjn"
+    },
+    {
+      "album": {
+        "name": "\u00c4ndert nichts",
+        "url": "https://open.spotify.com/album/3ZxBCLQhUzfjwpgpyNFOqU"
+      },
+      "artists": [
+        {
+          "name": "skuth",
+          "url": "https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141236,
+      "name": "\u00c4ndert nichts",
+      "url": "https://open.spotify.com/track/7n3hfyNw12pdVoWAYHcEuO"
     },
     {
       "album": {

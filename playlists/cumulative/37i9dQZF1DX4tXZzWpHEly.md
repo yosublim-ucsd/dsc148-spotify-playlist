@@ -4,12 +4,13 @@
 
 > Country songs that soundtrack the great Australian outback
 
-51 songs - 3 hr 0 min
+52 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little More Country](https://open.spotify.com/track/492kDhn2lpOQw5zWJ3aWuX) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Against the Grain](https://open.spotify.com/album/4jSskwRuBUEcGxYosdmds5) | 3:43 | 2021-09-28 |  |
-| [A Town Like This](https://open.spotify.com/track/0Styg7oirAtwLZMLCeq8os) | [Cornell And Carr](https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8) | [A Town Like This](https://open.spotify.com/album/76zfVWlVWiWwgbLItoAHfz) | 3:27 | 2021-09-28 |  |
+| [A Town Like This](https://open.spotify.com/track/0Styg7oirAtwLZMLCeq8os) | [Cornell And Carr](https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8) | [A Town Like This](https://open.spotify.com/album/76zfVWlVWiWwgbLItoAHfz) | 3:27 | 2021-09-28 | 2024-03-15 |
+| [A Town Like This](https://open.spotify.com/track/7qTRiQDoAmcBODVmLoLWsh) | [Cornell And Carr](https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8) | [A Town Like This](https://open.spotify.com/album/446PyShxXQlZ4EibgPwXnc) | 3:27 | 2021-09-28 |  |
 | [A Woman Knows](https://open.spotify.com/track/11cErfQuLGZMX3qovKJPF7) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Walks Of Life](https://open.spotify.com/album/2fE3yJQw1AL11aP2CtRUZA) | 3:20 | 2021-09-28 |  |
 | [Aussie As](https://open.spotify.com/track/47DzE0bNSqWj4z3mrPU3gj) | [Matt Scullion](https://open.spotify.com/artist/2VcnJAwkrzgnZ1iEJ1b0ml) | [Aussie As](https://open.spotify.com/album/1gmAfBfKaHUDtOaa7PBiPY) | 3:39 | 2021-09-28 |  |
 | [Boys from the Bush \- Remastered 2017](https://open.spotify.com/track/5tUpijqpFAlj13CGpuWn5s) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The Outback Club](https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr) | 2:48 | 2021-09-28 |  |

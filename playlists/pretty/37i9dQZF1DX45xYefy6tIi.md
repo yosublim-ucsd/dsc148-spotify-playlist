@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Post Malone and ESPN team up for a playlist celebrating the never\-ending excitement of the College Football Playoff chase to see who will be National Champion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,274 likes - 21 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,291 likes - 21 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 20 | [DR BIRDS](https://open.spotify.com/track/77EseIwL4dnUACjF3YmDWz) | [Griselda](https://open.spotify.com/artist/0wXQORjv4ChlykdyzWUJ4X) | [WWCD](https://open.spotify.com/album/13PxecK9Bart7ir6STafXP) | 4:25 |
 | 21 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 |
 
-Snapshot ID: `MCw4ODJiMmIwZTYyODgzZjQ1ODU5YmMyNGUwN2EzMTVkYjI2MzEyNzhl`
+Snapshot ID: `MCxjOWQyN2Y1M2NjZTI4NTkxM2MzYmE1YjEwNGQ4OGIxZWIyZTIwNjIy`

@@ -1,7 +1,7 @@
 {
-  "2024-03-14": 28480,
+  "2024-03-15": 28488,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Lisl, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Ivery, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -4179,7 +4179,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 298405,
       "name": "Desiring Machines",
       "url": "https://open.spotify.com/track/6p3d5fNZj0olwXS8eL4SEE"
@@ -5359,7 +5359,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 243870,
       "name": "Energy",
       "url": "https://open.spotify.com/track/4wlXGmgSHl3fhawAJL5lbf"
@@ -5431,7 +5431,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 121929,
       "name": "es ist sp\u00e4t",
       "url": "https://open.spotify.com/track/5eg2Kn2Z85VdZYX6mYkdkw"
@@ -6710,6 +6710,24 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/09Nq0oRqRW7myZ0alzNKcK"
+      },
+      "artists": [
+        {
+          "name": "Boxwell",
+          "url": "https://open.spotify.com/artist/22ODxCZ6qo5fyDnweWQ2YD"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235098,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/2adojbdJXnJxBatQ35RvMx"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/7DFajxt1OD0Jk5VLxqfSPC"
       },
@@ -7523,7 +7541,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 416012,
       "name": "Hecate",
       "url": "https://open.spotify.com/track/0Xky94SelxdqCHVBkPf8gU"
@@ -7783,6 +7801,24 @@
       "duration_ms": 169017,
       "name": "High Expectations",
       "url": "https://open.spotify.com/track/6Itg1Mx1mNAUVaSS7Q3LmS"
+    },
+    {
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/59tosTdJvAjD5bQwa0y55r"
+      },
+      "artists": [
+        {
+          "name": "Julian Brown",
+          "url": "https://open.spotify.com/artist/79Mk7W8bdPKLU00RCdGQZD"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190531,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/7BUp4RbEmzgrcIorrde4Yv"
     },
     {
       "album": {
@@ -9593,7 +9629,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 76479,
       "name": "K\u00fcnstliche Intelligenz",
       "url": "https://open.spotify.com/track/31FVHxuw0Q34rcSVYROia6"
@@ -10491,7 +10527,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 161409,
       "name": "Love the game",
       "url": "https://open.spotify.com/track/0vdawkR50QbBBvYuJs3vGt"
@@ -10549,6 +10585,24 @@
       "duration_ms": 127010,
       "name": "Lovehandles",
       "url": "https://open.spotify.com/track/3AsNe3RSFG6V08WBQCBXQN"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1at1kV5KU6p90H4Z7dPoGV"
+      },
+      "artists": [
+        {
+          "name": "Nico Bleak",
+          "url": "https://open.spotify.com/artist/3EfroYSCAxCXXS0vzbOwBM"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211099,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/2OD1NHkIO0MseMj2GBCa0r"
     },
     {
       "album": {
@@ -11477,6 +11531,24 @@
       "duration_ms": 199245,
       "name": "My Head",
       "url": "https://open.spotify.com/track/3Yg9FWPMUswuXTITnH7Ci3"
+    },
+    {
+      "album": {
+        "name": "m\u00e4dchen ganz allein",
+        "url": "https://open.spotify.com/album/3yc7hyBecO0bNA9C0fYQyq"
+      },
+      "artists": [
+        {
+          "name": "Dana Rosa",
+          "url": "https://open.spotify.com/artist/09eRw6PLqWFdDGbOaeyiSm"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "m\u00e4dchen ganz allein",
+      "url": "https://open.spotify.com/track/385toNaLXdMCzbrJZXsT5f"
     },
     {
       "album": {
@@ -13423,7 +13495,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 200072,
       "name": "Raise My Glass",
       "url": "https://open.spotify.com/track/1x9KbcTkVKr2tMtaeQDK3W"
@@ -15335,6 +15407,24 @@
       "duration_ms": 208025,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/7KbfjdioCBl72AMCxqJ86l"
+    },
+    {
+      "album": {
+        "name": "Sonne Nervt",
+        "url": "https://open.spotify.com/album/5XZc8XeNSgXQxCs9FN79Kj"
+      },
+      "artists": [
+        {
+          "name": "Andi G",
+          "url": "https://open.spotify.com/artist/69C6sc7ZESVdDTjMmauEQS"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138661,
+      "name": "Sonne Nervt",
+      "url": "https://open.spotify.com/track/0e1FxQ2jM6JZabqE41xtab"
     },
     {
       "album": {
@@ -17288,6 +17378,24 @@
     },
     {
       "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/33kymdKci8THinmWmQBLxX"
+      },
+      "artists": [
+        {
+          "name": "ELEF",
+          "url": "https://open.spotify.com/artist/5LjNJvBglFTGsAYikefcvH"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108148,
+      "name": "Trendsetter",
+      "url": "https://open.spotify.com/track/2bIMHYfA1u2b6wWPcPgdNm"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
       },
@@ -17508,6 +17616,24 @@
     },
     {
       "album": {
+        "name": "T\u00fcren",
+        "url": "https://open.spotify.com/album/5jG2HBldLpmMwTSclcTHdq"
+      },
+      "artists": [
+        {
+          "name": "Die Tiere",
+          "url": "https://open.spotify.com/artist/1C6aidrZ9H1Lk5tq6sKZxA"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203644,
+      "name": "T\u00fcren",
+      "url": "https://open.spotify.com/track/3vRx2T46BRUU6ZqiSUZ2BZ"
+    },
+    {
+      "album": {
         "name": "umgekippt",
         "url": "https://open.spotify.com/album/7iNsOWU2ILVBKNHfAZ6bsR"
       },
@@ -17685,7 +17811,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 183529,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/3HGMq458kM7EqMATTj3hHC"
@@ -19169,6 +19295,24 @@
       "duration_ms": 148076,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/28bBwCM8Uyc10LPYQYdeRU"
+    },
+    {
+      "album": {
+        "name": "You Let Me Down",
+        "url": "https://open.spotify.com/album/5cmYtTlD3aWFLWwcwushgY"
+      },
+      "artists": [
+        {
+          "name": "Ivery",
+          "url": "https://open.spotify.com/artist/32oc8Xlo5E67JkJJTC1JX6"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208881,
+      "name": "You Let Me Down",
+      "url": "https://open.spotify.com/track/2CJAUkPfu1hdaLh7vQDeHB"
     },
     {
       "album": {

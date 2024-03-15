@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57222,
+  "num_followers": 57232,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTE0NzA1ZjI1NDBlMDdmYmYzMTc5MWZmZTNiMTRiZjNhYTdjYjYx",
+  "snapshot_id": "MCw2YTNmMjEzYzI1OThjN2QzOTdjNTQ1ODRmNzMyYzMwOTQ3ODRmNjhm",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -27,6 +27,26 @@
       "duration_ms": 262725,
       "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
       "url": "https://open.spotify.com/track/1mj1drdsDFDhMrSYHOP6nW"
+    },
+    {
+      "added_at": "2024-03-14 12:22:29",
+      "album": {
+        "name": "Kavithe Kavithe (From \"Yuva\")",
+        "url": "https://open.spotify.com/album/0RdWBnLcwZU4wCv4VlPvH8"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 214617,
+      "name": "Kavithe Kavithe (From \"Yuva\")",
+      "url": "https://open.spotify.com/track/51JkjupL5rHz5jGDwlWCad"
     },
     {
       "added_at": "2024-03-04 11:32:38",
@@ -209,28 +229,36 @@
       "url": "https://open.spotify.com/track/3f65YvWytHE1dz4JrAa6jI"
     },
     {
-      "added_at": "2024-02-22 10:15:57",
+      "added_at": "2024-03-14 12:22:29",
       "album": {
-        "name": "Paapa Santhosha (From \"Bachelor Party\")",
-        "url": "https://open.spotify.com/album/0P9YMXbrfPfCbw9EYb5BUR"
+        "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
+        "url": "https://open.spotify.com/album/7CM0HHVTI6lXDIow8uizGT"
       },
       "artists": [
         {
-          "name": "Arjun Ramu",
-          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
         },
         {
-          "name": "Veeresh Shivamurthy",
-          "url": "https://open.spotify.com/artist/6lfRftP5Id63j85WRHjhTX"
+          "name": "Lekha. R",
+          "url": "https://open.spotify.com/artist/2W0ClaxNGHOk1I8ceMxX9R"
         },
         {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+          "name": "Rishan Deepak",
+          "url": "https://open.spotify.com/artist/52K2m7dAzmUYZhbI3ZhZwW"
+        },
+        {
+          "name": "Anushka M",
+          "url": "https://open.spotify.com/artist/0sQI6lZ23Pk88G4wmlCbW6"
+        },
+        {
+          "name": "Achintya K Bhat",
+          "url": "https://open.spotify.com/artist/433Hy4e7ShqMxQu3e4LtMd"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Paapa Santhosha (From \"Bachelor Party\")",
-      "url": "https://open.spotify.com/track/1nrSPuvDqrA947Cm2DPKNO"
+      "duration_ms": 144071,
+      "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
+      "url": "https://open.spotify.com/track/2gT0mdD11b6jM2uowlaVcu"
     },
     {
       "added_at": "2024-03-04 11:32:38",
@@ -255,6 +283,30 @@
       "duration_ms": 206206,
       "name": "Hithalaka Karibyada Maava ( From \"Karataka Damanaka\" )",
       "url": "https://open.spotify.com/track/2MMfYFIcxu0CbLVdsqFI7k"
+    },
+    {
+      "added_at": "2024-03-14 12:22:29",
+      "album": {
+        "name": "Taaja Suddi (From \"Kenda'')",
+        "url": "https://open.spotify.com/album/5b6gdCbMdufEXdHvTibUmm"
+      },
+      "artists": [
+        {
+          "name": "Ritwik Kaikini",
+          "url": "https://open.spotify.com/artist/1wYqugTpkYg6RBdmGuXtGK"
+        },
+        {
+          "name": "Ananya Bhagath",
+          "url": "https://open.spotify.com/artist/1plpb1AtIR2E4rYUIJuevr"
+        },
+        {
+          "name": "Jayanth Kaikini",
+          "url": "https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57"
+        }
+      ],
+      "duration_ms": 184538,
+      "name": "Taaja Suddi (From \"Kenda'')",
+      "url": "https://open.spotify.com/track/73wIV7YxdP9s7DLjCazmYL"
     },
     {
       "added_at": "2024-02-29 19:48:19",
@@ -399,22 +451,6 @@
       "duration_ms": 282549,
       "name": "The Age Of Madness - Kannada",
       "url": "https://open.spotify.com/track/5yICKMOnrZq4HybPhmwJLJ"
-    },
-    {
-      "added_at": "2024-02-26 11:56:03",
-      "album": {
-        "name": "Manadanne (From \"Jog101\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/41Hna42eX35xAnm1bSRtRp"
-      },
-      "artists": [
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Manadanne (From \"Jog101\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/2AkQiTgCq6QAI0yam6vZIL"
     },
     {
       "added_at": "2024-03-04 11:32:38",
@@ -1635,30 +1671,6 @@
       "duration_ms": 234610,
       "name": "Yakovosi Manasu ( From \"Mandyahaida\")",
       "url": "https://open.spotify.com/track/6n5j9ObE6k1fDjjhWetRjV"
-    },
-    {
-      "added_at": "2024-01-12 04:30:01",
-      "album": {
-        "name": "Rise of Miller (From \"Captain Miller\")",
-        "url": "https://open.spotify.com/album/14cnjzMNWxTiYOYobdzs2E"
-      },
-      "artists": [
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/6n7qbMaXMDg5volEeeB9Ao"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Pramod Jois",
-          "url": "https://open.spotify.com/artist/2df2v0cykufkVCZP0TNn9f"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Rise of Miller (From \"Captain Miller\")",
-      "url": "https://open.spotify.com/track/3vD690JxNiwBofoPC4j1Ce"
     },
     {
       "added_at": "2024-01-10 12:23:02",

@@ -727,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Madgaon Express (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/30nKAJc9tf9QOEZQCa2jPH"
+      },
+      "artists": [
+        {
+          "name": "Kunal Khemu",
+          "url": "https://open.spotify.com/artist/3dwQYloGcqQmKOxaIj7cf7"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "Hum Yahin - From \"Madgaon Express\"",
+      "url": "https://open.spotify.com/track/0nl0sFvQFtphsnlLmHsWHK"
+    },
+    {
+      "album": {
         "name": "Zindaggi Rocks",
         "url": "https://open.spotify.com/album/7fSX5zg9zq0iu28jSZ15Ib"
       },
@@ -1720,7 +1742,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 213833,
       "name": "Meri Tum Ho (Unplugged)",
       "url": "https://open.spotify.com/track/1BVlbuPTabrUN73h7LgyaY"

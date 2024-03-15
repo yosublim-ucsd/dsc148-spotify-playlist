@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 226041,
+  "2024-03-15": 226284,
   "date_first_scraped": "2023-02-25",
   "description": "from Stillwater to Nashville with Wyatt Flores",
   "name": "homegrown",
@@ -2843,6 +2843,24 @@
       "duration_ms": 208986,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/6JWgq21TmyArFEk78TvgqV"
+    },
+    {
+      "album": {
+        "name": "More Than A Night",
+        "url": "https://open.spotify.com/album/3StMprmUcvogSDIJytWOFD"
+      },
+      "artists": [
+        {
+          "name": "Caiden Wallace",
+          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247519,
+      "name": "More Than A Night",
+      "url": "https://open.spotify.com/track/0Qgf8nGU2B8cfulKlt5T4p"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 117415,
+  "2024-03-15": 117448,
   "date_first_scraped": "2022-05-15",
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Su\u51f8ko D\u51f9koi",
   "name": "Punk Japan",
@@ -4173,6 +4173,24 @@
       "duration_ms": 179066,
       "name": "KILLER,Muddy Greed",
       "url": "https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU"
+    },
+    {
+      "album": {
+        "name": "Gyaru no wakusei",
+        "url": "https://open.spotify.com/album/4JYNAjXr8GQL7PxJfEORk0"
+      },
+      "artists": [
+        {
+          "name": "Su\u51f8ko D\u51f9koi",
+          "url": "https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326100,
+      "name": "Koizakari sexy",
+      "url": "https://open.spotify.com/track/05IxzOSir8L1yeqxWWC2so"
     },
     {
       "album": {
@@ -12569,7 +12587,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 326100,
       "name": "\u604b\u76db\u308aSEXY",
       "url": "https://open.spotify.com/track/6YOFScC4z8qaWPqaUSQt73"

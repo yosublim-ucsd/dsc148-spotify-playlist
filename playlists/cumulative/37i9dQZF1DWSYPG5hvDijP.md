@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-230 songs - 12 hr 8 min
+232 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bevda Freestyle](https://open.spotify.com/track/63Bssbm8a8ZGaXrnCrFD0K) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Bevda Freestyle](https://open.spotify.com/album/3RSQ2zXVBcZdHTjUKdEnug) | 2:14 | 2023-03-29 | 2023-06-02 |
 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 | 2023-07-04 |  |
 | [Blue Bandana](https://open.spotify.com/track/6OyaAyFZ6nzOwe6hoPa72N) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Blue Bandana](https://open.spotify.com/album/2R032taLxn2FdTdKUIWNpb) | 2:29 | 2023-05-12 | 2023-11-09 |
+| [Bolna Tu Bantai](https://open.spotify.com/track/5VoT9C2cREbLnw4YKcTzxH) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Wholeheartedly](https://open.spotify.com/album/7kkrtWD5cDiRlVoXbILLfa) | 2:30 | 2024-03-14 |  |
 | [Bolna Tu Bantai \- From "Whole Heartedly"](https://open.spotify.com/track/0Glg2gUCE9QydbTm0zjEkN) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Bolna Tu Bantai \(From "Whole Heartedly"\)](https://open.spotify.com/album/5O2fxXZT0fLfOVU6vG1eyf) | 2:30 | 2024-01-17 |  |
 | [Bombay Circle](https://open.spotify.com/track/0tG08mgXKpGLBUT1Kd8f2W) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r) | [Chemical Reaction](https://open.spotify.com/album/4avCrGvAoyiwRbSQUdyaHf) | 3:05 | 2023-04-28 |  |
 | [Bombay Coast](https://open.spotify.com/track/1RNW6JS1eZhvO2LzodiX3B) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [Bombay Coast](https://open.spotify.com/album/1h90h4U91NLlMP57WZxtBK) | 3:08 | 2023-04-28 | 2023-10-22 |
@@ -219,6 +220,7 @@
 | [The Money \- Interlude](https://open.spotify.com/track/4jvE5cbze4hcPhdJS4En6E) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Rajesh Kava](https://open.spotify.com/artist/3S4dclSqWmLB4UaZRmOt3Z), [Roodhar](https://open.spotify.com/artist/5ecwSJKxXkfho3SDlgB0Ho) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 0:24 | 2023-11-06 | 2023-11-16 |
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2023-03-29 | 2023-04-17 |
 | [Tony Montana](https://open.spotify.com/track/35rt75xpICwBH2XfkssRDw) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Tony Montana](https://open.spotify.com/album/6Phz8s97lC84QKQRklq2Db) | 3:50 | 2023-03-29 | 2023-04-17 |
+| [Too Dope](https://open.spotify.com/track/2jsbE3rYt2j2PGs3paJDLx) | [Strange Alias](https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Too Dope](https://open.spotify.com/album/70LmG6U7i8v69jQWXhx5Ul) | 2:13 | 2024-03-14 |  |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-03-29 | 2023-10-17 |
 | [Trapstar](https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [BRAZY](https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Trapstar](https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya) | 2:54 | 2024-01-10 | 2024-02-02 |
 | [Try Me](https://open.spotify.com/track/18sHkYJvvWhMnsE9BhDHgC) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [Distortion 17](https://open.spotify.com/artist/4pEHD6OEhkbRWKWf0v1kVp) | [Try Me](https://open.spotify.com/album/0vmZ55s1DXlmyfDWPNwPGY) | 2:40 | 2024-01-02 | 2024-01-13 |

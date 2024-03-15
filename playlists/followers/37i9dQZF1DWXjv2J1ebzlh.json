@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 107622,
+  "2024-03-15": 107638,
   "date_first_scraped": "2022-06-10",
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
   "name": "Bon Voyage",
@@ -29669,7 +29669,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 193440,
       "name": "Pa'l 23",
       "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
@@ -29727,6 +29727,24 @@
       "duration_ms": 448261,
       "name": "Paint It Black",
       "url": "https://open.spotify.com/track/3w2F2Pb2Kv0ZzeGD7SfB30"
+    },
+    {
+      "album": {
+        "name": "Centenario de Salsa",
+        "url": "https://open.spotify.com/album/16QVFqa4EAhXxsWgYGTFac"
+      },
+      "artists": [
+        {
+          "name": "Ray Perez",
+          "url": "https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Pal' 23",
+      "url": "https://open.spotify.com/track/3qAEfl5f8OSjqOk2UW1JtA"
     },
     {
       "album": {

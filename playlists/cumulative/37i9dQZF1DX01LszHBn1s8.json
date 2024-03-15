@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "i'm just ken and i'm enough and I'm great at doing stuff \ud83d\udc51",
+  "description": "WHY IS IT THE SAME FOUR SONGS EVERYWHERE\u2757\ufe0f\u2757\ufe0f\u2757\ufe0f",
   "name": "pov (2)",
   "tracks": [
     {
@@ -2194,6 +2194,28 @@
       "duration_ms": 107111,
       "name": "BAD KIDS",
       "url": "https://open.spotify.com/track/3s4WVKaSU112SfRBjvyXKp"
+    },
+    {
+      "album": {
+        "name": "Badbussen (feat. SamTheMan)",
+        "url": "https://open.spotify.com/album/1WUnRjAdFhrhC72VNiVxIJ"
+      },
+      "artists": [
+        {
+          "name": "DJ M\u00f8M\u00f8",
+          "url": "https://open.spotify.com/artist/6ca1Pm4bp04bPJF1dfhmqu"
+        },
+        {
+          "name": "SamTheMan",
+          "url": "https://open.spotify.com/artist/33ynUCCkq4sqASHJiYveJX"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116853,
+      "name": "Badbussen (feat. SamTheMan)",
+      "url": "https://open.spotify.com/track/770DTlVa7m8F4uZQAwQ96F"
     },
     {
       "album": {
@@ -5874,10 +5896,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 162172,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/1NDAyfJa44P1uIPrqlJmt1"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162172,
+      "name": "Don't You Worry",
+      "url": "https://open.spotify.com/track/6vtq8Spp8uBsHVVdBnnKSq"
     },
     {
       "album": {
@@ -8948,10 +8988,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 157851,
       "name": "Hair Toss, Arms Crossed",
       "url": "https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/1NDAyfJa44P1uIPrqlJmt1"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157851,
+      "name": "Hair Toss, Arms Crossed",
+      "url": "https://open.spotify.com/track/6Wf3agQYFYAdhMU3gByiVB"
     },
     {
       "album": {
@@ -19380,7 +19438,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 212880,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/2BGm83eW9sQfwYfQlpBDNS"
@@ -19398,7 +19456,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 212881,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"

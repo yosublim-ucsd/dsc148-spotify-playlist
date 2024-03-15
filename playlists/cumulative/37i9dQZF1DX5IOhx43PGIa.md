@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Laufey.
 
-722 songs - 1 day 13 hr 21 min
+725 songs - 1 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Daydream](https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Daydream](https://open.spotify.com/album/6FR3pCx1lAGyWlkGVIWkP0) | 3:38 | 2023-08-18 | 2023-09-02 |
 | [Daylight](https://open.spotify.com/track/4uiv2t9iLd5nSdtB7GS7dN) | [Hairuo](https://open.spotify.com/artist/6Fvx2mF6BxSJy4IzISzZOI) | [Daylight](https://open.spotify.com/album/6vsNYqMvrHtdr9Eb7AxPfE) | 4:14 | 2022-05-27 | 2022-07-29 |
 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 | 2023-09-22 |  |
-| [deadline](https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the roaring twenties](https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz) | 2:49 | 2023-09-22 |  |
+| [deadline](https://open.spotify.com/track/21piSaSVcmB8Q5juvINegj) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the roaring twenties](https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY) | 2:49 | 2024-03-08 |  |
+| [deadline](https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the roaring twenties](https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz) | 2:49 | 2023-09-22 | 2024-03-15 |
 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 | 2023-07-14 |  |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-07-22 | 2022-11-11 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2022-05-27 | 2022-07-29 |
@@ -527,7 +528,8 @@
 | [Savage Good Boy](https://open.spotify.com/track/6mH7lvaAr2Q87Yz6JIeejx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Savage Good Boy](https://open.spotify.com/album/3p84ciTFVs07foaC10DLAp) | 2:26 | 2022-06-03 | 2022-07-15 |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-06-03 | 2023-08-12 |
 | [Saving Face](https://open.spotify.com/track/2ryATdlWSw5e2QkIZwOWN7) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Saving Face](https://open.spotify.com/album/6lcu11cmsWCGKyee35sb92) | 3:01 | 2023-08-11 | 2023-08-26 |
-| [scenic route](https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [scenic route](https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE) | 3:00 | 2023-12-01 |  |
+| [scenic route](https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [scenic route](https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE) | 3:00 | 2023-12-01 | 2024-03-15 |
+| [scenic route](https://open.spotify.com/track/34LhJDEt54G9Ba8P5hsgOm) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [scenic route](https://open.spotify.com/album/05HfFNIDwT3mknFofyORNE) | 3:00 | 2024-03-08 |  |
 | [see u dance](https://open.spotify.com/track/4zxZb0IQoUuT2FSqaOPYpi) | [Hong Kong Boyfriend](https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui) | [see u dance](https://open.spotify.com/album/5VCAaf0fq3UNdPVytW2aS1) | 2:18 | 2022-05-27 | 2022-10-13 |
 | [see u dance](https://open.spotify.com/track/5ppUThWn9v9lZyqLRrfb4D) | [Hong Kong Boyfriend](https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui) | [see u dance](https://open.spotify.com/album/04yTErkzsdN2pDr37Nnfq2) | 2:18 | 2022-10-14 | 2023-05-06 |
 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 | 2022-07-22 | 2022-08-27 |
@@ -617,7 +619,8 @@
 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 | 2022-05-27 | 2023-04-05 |
 | [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 | 2022-05-27 | 2022-07-29 |
 | [the alternative](https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:03 | 2023-06-30 | 2024-02-24 |
-| [the american dream](https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the american dream](https://open.spotify.com/album/1eWQEBUje4iECPF2LNqw51) | 3:47 | 2023-07-14 |  |
+| [the american dream](https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the american dream](https://open.spotify.com/album/1eWQEBUje4iECPF2LNqw51) | 3:47 | 2023-07-14 | 2024-03-15 |
+| [the american dream](https://open.spotify.com/track/6m8SllgidQW1MIn6x8DFEb) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the roaring twenties](https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY) | 3:47 | 2024-03-08 |  |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-18 | 2024-02-10 |
 | [The Great Escape Of Our Time](https://open.spotify.com/track/3mrheKW3UCynKimx0O7rEd) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [The Great Escape Of Our Time](https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ) | 3:12 | 2023-11-03 |  |
 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 | 2023-07-14 | 2023-11-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Zo\u00eb Livay",
+  "description": "De nieuwste Nederlandse pop! Cover: Jaap Reesema & Gavin DeGraw",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 139756,
       "name": "25 Nachten (Wonderful Days)",
       "url": "https://open.spotify.com/track/3vc8nuTPR0eNE06rnywF8V"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 156461,
       "name": "Door De Regen",
       "url": "https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK"
@@ -2994,7 +2994,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 140482,
       "name": "ELKE KEER",
       "url": "https://open.spotify.com/track/1HJQ9AiWo6PKbl9gG5JKFo"
@@ -3046,6 +3046,24 @@
       "duration_ms": 186666,
       "name": "Emotieloos",
       "url": "https://open.spotify.com/track/7yHSLU0G7GSaBv1vqmmUX7"
+    },
+    {
+      "album": {
+        "name": "Entourage",
+        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129433,
+      "name": "Entourage",
+      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
     },
     {
       "album": {
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 179314,
       "name": "Harmonie",
       "url": "https://open.spotify.com/track/1RGseAlntVH6yD65xKi509"
@@ -3612,7 +3630,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 157174,
       "name": "Hartenbreker",
       "url": "https://open.spotify.com/track/28vRO0o5XMVU2DIDqAPrFc"
@@ -3924,7 +3942,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 165006,
       "name": "Heuvels",
       "url": "https://open.spotify.com/track/44xpsWlXIZaLC9ezuALEyE"
@@ -4569,6 +4587,24 @@
     },
     {
       "album": {
+        "name": "Is Dit Geluk?",
+        "url": "https://open.spotify.com/album/51dFIOwEKQqryRgGz1As6z"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137444,
+      "name": "Is Dit Geluk?",
+      "url": "https://open.spotify.com/track/7dYSfLscOlKorZ8w0CufbM"
+    },
+    {
+      "album": {
         "name": "Je leeft maar 1 keer",
         "url": "https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz"
       },
@@ -5198,6 +5234,28 @@
       "duration_ms": 168000,
       "name": "Laatste Trein",
       "url": "https://open.spotify.com/track/2fpFMAwzV3oCjjywWKZj1Y"
+    },
+    {
+      "album": {
+        "name": "Laatste Trein",
+        "url": "https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Laatste Trein",
+      "url": "https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc"
     },
     {
       "album": {
@@ -7677,6 +7735,24 @@
     },
     {
       "album": {
+        "name": "Dromers Slapen Niet",
+        "url": "https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Domingos",
+          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142062,
+      "name": "Stick To Your Ways",
+      "url": "https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN"
+    },
+    {
+      "album": {
         "name": "Leven",
         "url": "https://open.spotify.com/album/7CDXtPqw2B36tlBnvI912N"
       },
@@ -7714,6 +7790,24 @@
       "duration_ms": 158996,
       "name": "Stiekem (nog wel lief)",
       "url": "https://open.spotify.com/track/0e0MPJ03NIOkqtC6TwsSQJ"
+    },
+    {
+      "album": {
+        "name": "Stiekem Hoop Ik",
+        "url": "https://open.spotify.com/album/4VmYndInfCepDtEvkISvcn"
+      },
+      "artists": [
+        {
+          "name": "Lola Ced\u00e8s",
+          "url": "https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173022,
+      "name": "Stiekem Hoop Ik",
+      "url": "https://open.spotify.com/track/0b4Tsr050Wl9OSv7CFFpY3"
     },
     {
       "album": {
@@ -8240,6 +8334,24 @@
       "duration_ms": 185438,
       "name": "Tussendoor",
       "url": "https://open.spotify.com/track/5ejOlSH4f8M5Tqrisvjpsz"
+    },
+    {
+      "album": {
+        "name": "Tweeling",
+        "url": "https://open.spotify.com/album/2SoOLLKqw2N5JUXn0UGsaX"
+      },
+      "artists": [
+        {
+          "name": "Stenfert",
+          "url": "https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150384,
+      "name": "Tweeling",
+      "url": "https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV"
     },
     {
       "album": {

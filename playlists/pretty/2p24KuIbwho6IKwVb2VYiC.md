@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Justice
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,299 likes - 91 songs - 4 hr 39 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,300 likes - 91 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

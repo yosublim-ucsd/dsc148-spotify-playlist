@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,634 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,777 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Novella \- Remix](https://open.spotify.com/track/7sSFw4sAVYDvMOrOYR5nKd) | [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Nucleo Aka Tintasucia](https://open.spotify.com/artist/3aiHWojYZp0ySEtBhywttr), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Novella \(Remix\)](https://open.spotify.com/album/2lOaWxOv0IyIadLpK8LyyG) | 3:49 |
 | 100 | [Merito Propio](https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Merito Propio](https://open.spotify.com/album/5kQ7gbYGyfjU8Gq8mRc0CV) | 2:42 |
 
-Snapshot ID: `MCxjMTY5YmQzMWQ3YTJkMjZlMGJmYzJkZjA3NDY1OTNlNmY1ZjFhZjQy`
+Snapshot ID: `MCxkYjhlYWUwZmQ5Yzc4MTdmYWYwMzBjOGQ1YWYzY2IxNjExZDRkYTQ3`

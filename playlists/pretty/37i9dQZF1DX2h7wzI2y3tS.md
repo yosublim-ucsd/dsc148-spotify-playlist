@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h7wzI2y3tS.md) - [plain]
 
 > Les plus grands hits en version berceuse
 
-[Spotify](https://open.spotify.com/user/spotify) - 687 likes - 144 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 688 likes - 144 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h7wzI2y3tS.md) - [plain]
 | 28 | [Beautiful People \- Instrumental](https://open.spotify.com/track/18zHctXZpTpfb7Hmpegter) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1DIDEhslScZfEet6zUTZaD) | 3:01 |
 | 29 | [Timber](https://open.spotify.com/track/5uSF0anjeEnPo5JS9yfdbv) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Timber](https://open.spotify.com/album/60hAn750tpdxN8PydWHX2u) | 3:00 |
 | 30 | [Can't Stop The Feeling!](https://open.spotify.com/track/2oeC6vSFnPgvXU9T4w2k2a) | [Lullapop](https://open.spotify.com/artist/1sJhbiQRSIKZeTYEZfzBSV) | [Lullapop](https://open.spotify.com/album/58uFEGoDHIgY8Kc5hwPUQx) | 2:35 |
-| 31 | [Too Good at Goodbyes](https://open.spotify.com/track/5ifrGYS4fTaKfu4NuTKGV0) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Sam Smith](https://open.spotify.com/album/5CbtFpJXUSEEzGB9siN84f) | 3:57 |
+| 31 | [Too Good at Goodbyes](https://open.spotify.com/track/36x7hwyxOXPzhv50Xir3Wn) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Sam Smith](https://open.spotify.com/album/2uqLCOO1Ca8D4fMayQT8ld) | 3:57 |
 | 32 | [Boy with Luv \- Instrumental](https://open.spotify.com/track/0YOVA4Sln8XQFaCcA8gPKC) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1DIDEhslScZfEet6zUTZaD) | 4:01 |
 | 33 | [Circles](https://open.spotify.com/track/3nInmJ1UDvn6yPZpp6H9io) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Post Malone](https://open.spotify.com/album/3NgLdzfakWC7MN5QPwbdOA) | 3:42 |
 | 34 | [Say My Name \(Lullaby Rendition\)](https://open.spotify.com/track/5PHSSsnpRh12mUdUsfqkLE) | [Jammy Jams](https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d) | [Once Upon a Rhyme 2: Hip\-Hop and R&B Go Lullaby](https://open.spotify.com/album/6JevohKg2dfYCm5SFPaqMf) | 4:29 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h7wzI2y3tS.md) - [plain]
 | 143 | [Born This Way](https://open.spotify.com/track/3AKDl359WjrOcyBkR5331m) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Lady Gaga](https://open.spotify.com/album/2MNgwRdzShtYNLMmSo0YVq) | 3:17 |
 | 144 | [Firework](https://open.spotify.com/track/3MoU4kiMCEvlq9kTMROYPj) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Katy Perry](https://open.spotify.com/album/4sTJz7tUhpgkow6HopMLZy) | 3:09 |
 
-Snapshot ID: `MCxhOTliOTEyYTE4ZTdiY2ZkNGE3YThiOGE2OGM4OWNkNGI2YzczYjBj`
+Snapshot ID: `MCwzM2MyNjg5ZTIzYTMwY2E0ZWYyNDE1ODBhOWM3Y2U5MWZjZGZlZWQ2`

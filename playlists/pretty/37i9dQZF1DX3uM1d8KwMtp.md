@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,366 likes - 53 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,413 likes - 53 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guilty](https://open.spotify.com/track/7GnTip5oYsQ8qF6sLQd4EB) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Guilty](https://open.spotify.com/album/7yDnhoZzgyJhlNZ98S40sy) | 7:12 |
-| 2 | [Hoshiana](https://open.spotify.com/track/4Ok1LFzR4bamBRyztkDQfX) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [Dikla Hackmon](https://open.spotify.com/artist/1WMzRg50fwSyMmnKQ0xEvj) | [Hoshiana](https://open.spotify.com/album/65QFI312IEIvG6Y2xvvWvZ) | 3:48 |
+| 2 | [Hoshiana](https://open.spotify.com/track/4Ok1LFzR4bamBRyztkDQfX) | [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [Dikla Hackmon](https://open.spotify.com/artist/1WMzRg50fwSyMmnKQ0xEvj) | [Hoshiana](https://open.spotify.com/album/65QFI312IEIvG6Y2xvvWvZ) | 3:48 |
 | 3 | [Another Brick In The Wall](https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Another Brick In The Wall](https://open.spotify.com/album/670imi4qiQ6eE2TEarhY7y) | 4:01 |
 | 4 | [Ala Bora](https://open.spotify.com/track/5XeqFQ1Pxlw1agkLvPlTQe) | [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt) | [Ala Bora](https://open.spotify.com/album/7fmTLDZue9K4gAmTpW4UKE) | 3:48 |
 | 5 | [Bedouin](https://open.spotify.com/track/2giWbLYx96NCz924ACsaUf) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Bedouin](https://open.spotify.com/album/7GyTqPQvMlkEF8Zvw2OFFG) | 6:34 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 29 | [Chaghaf](https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Chaghaf](https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB) | 7:07 |
 | 30 | [Chilanzar](https://open.spotify.com/track/3eRKV66fGzyDKLhZpbMPVO) | [My Format](https://open.spotify.com/artist/1UaOgB2VAZDXGiI5UgclhE), [Nopopstar](https://open.spotify.com/artist/3WZ1Fwoh1f4TOfp8LtAxzC) | [Chilanzar](https://open.spotify.com/album/6pUGx8rnnPZ1bVHVOM0EXu) | 5:44 |
 | 31 | [Kouame](https://open.spotify.com/track/55LJoGb0Rkv5tAiOQWcLYk) | [Unknown Motive](https://open.spotify.com/artist/1MBZ1p2ynRLuZnGk8ZIdJ5) | [Kouame](https://open.spotify.com/album/7MiD4AoP6AQuI8mAVpROCh) | 7:01 |
-| 32 | [Eternal Roots \- PAAX \(Tulum\) remix](https://open.spotify.com/track/77JvaKaFCOvROjm2qfrfDR) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:35 |
+| 32 | [Eternal Roots \- PAAX \(Tulum\) remix](https://open.spotify.com/track/77JvaKaFCOvROjm2qfrfDR) | [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:35 |
 | 33 | [Libre](https://open.spotify.com/track/3XeVB8YM20IlBCjEmYc4o9) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Libre](https://open.spotify.com/album/3xLfD35pFQYV5lwIURCogm) | 7:03 |
 | 34 | [Marimbora \- Original](https://open.spotify.com/track/2qpb6nlep47oTvt9J9Ql7f) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Matanza](https://open.spotify.com/artist/1uwIzl6et4DJg5lbmyMW0g) | [Summer Sol](https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn) | 7:28 |
 | 35 | [Pantheon](https://open.spotify.com/track/4SqaIY6uaqMXTVm2fKvvWa) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Pantheon](https://open.spotify.com/album/1o7gHcSzZJdw1C4GFwsp4j) | 6:18 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 52 | [Shikiria \- Zakem, Yescene Remix](https://open.spotify.com/track/65yxCD6MLeTiTiMLCENRhN) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Zakem](https://open.spotify.com/artist/3aZZJkTAm6G2NRZ6DaiL7K), [Yescene](https://open.spotify.com/artist/2K81NzC5UFgLf1mgmHtbSt) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 7:32 |
 | 53 | [Madan](https://open.spotify.com/track/19UXAgu0PzHHWSlmzLv9Qj) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Madan](https://open.spotify.com/album/48CVbFIVq033H7ajrXaJTY) | 3:18 |
 
-Snapshot ID: `MCw0YmRlNTIwOTdjYmRlYzA3NTk1N2NmNjVkNmIzOWYyNjJiZDk2Mzgw`
+Snapshot ID: `MCw4M2FlZGUzODQ0NTJmM2VhMDU5NWIzYTlmZTdkY2RmNWNjNjNhNTBj`

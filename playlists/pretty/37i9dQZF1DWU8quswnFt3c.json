@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: BigMama",
-  "num_followers": 907129,
+  "num_followers": 908634,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWQ0NjA1YmY4OGRiZTQ5YjMzMGFlOGQwOGU5NDE2OWNlOTA0NGZi",
+  "snapshot_id": "MCw0ZWQ1ZTUwMWZiOWIxOTU5ODhjOWUyNzMzYjNiOWM4NTFiZDhhNDEz",
   "tracks": [
     {
       "added_at": "2024-03-13 05:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-03-13 05:00:00",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 163472,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
-    },
-    {
-      "added_at": "2024-03-13 05:00:00",
-      "album": {
         "name": "entre las piernas",
         "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 211454,
       "name": "entre las piernas",
       "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
     },
     {
       "added_at": "2024-03-13 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-13 05:00:00",
       "album": {
-        "name": "Cu\u00e1nto Me Duele",
-        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 233755,
-      "name": "Cu\u00e1nto Me Duele",
-      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
-    },
-    {
-      "added_at": "2024-03-13 05:00:00",
-      "album": {
         "name": "3.1",
         "url": "https://open.spotify.com/album/1MiGKANNh5p67l9C8dRMh9"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 241719,
       "name": "lavender salt",
       "url": "https://open.spotify.com/track/2zK2DTRbhHUYc7YpOlTZbk"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Cu\u00e1nto Me Duele",
+        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "Cu\u00e1nto Me Duele",
+      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
     },
     {
       "added_at": "2024-03-13 05:00:00",

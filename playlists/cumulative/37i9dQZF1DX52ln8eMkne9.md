@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-328 songs - 1 day 0 hr 32 min
+329 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [In the Wee Small Hours](https://open.spotify.com/track/4MxZoNyKehFAWt5Kwe2ZXm) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY) | [In the Wee Small Hours](https://open.spotify.com/album/4im28jrt1yqHnzUlFFaKwn) | 4:09 | 2023-01-19 | 2023-09-14 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/34IQaMgUdIciIpNWN5CUbl) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:59 | 2021-12-17 | 2022-11-23 |
 | [In The Wee Small Hours of the Morning](https://open.spotify.com/track/1vZmnsK0ovWKPykGvoet4t) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 3:53 | 2022-09-27 | 2023-12-24 |
+| [In The Wee Small Hours of the Morning](https://open.spotify.com/track/4wLtldLCB3w2xbj5Qr5lTS) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/7lgznc93SEj6gYWbO9MOmi) | 3:53 | 2024-03-15 |  |
 | [Isn't It a Pity](https://open.spotify.com/track/5G0iZZ2GagXujTaBRAnW0U) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [To Miss Shirley Horn with Love](https://open.spotify.com/album/6xnsfb2deVBQxP23cyqSis) | 5:48 | 2022-03-10 |  |
 | [Isn't This A Lovely Day](https://open.spotify.com/track/7bthYZq6ydp8ULqd8xM4RG) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:23 | 2021-12-17 |  |
 | [It Ends Now](https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd) | [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET), [Helen Salim](https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI) | [It Ends Now](https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4) | 6:03 | 2023-01-12 |  |
@@ -331,7 +332,7 @@
 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-02-16 | 2023-03-23 |
 | [You Fascinate Me So](https://open.spotify.com/track/1Y3kXcTWqJLZZ0JzgX4MNQ) | [Alice Carreri](https://open.spotify.com/artist/2qErnWAGdPnpxE1GmQjloh), [The Sidecar Trio](https://open.spotify.com/artist/2wOhxGipTeYeM9FcbjbF0A) | [You Fascinate Me So](https://open.spotify.com/album/5m5aJtFsnO7fkk4vy6ZSt5) | 4:18 | 2022-05-19 | 2022-07-28 |
 | [You Fascinate Me So](https://open.spotify.com/track/4U4GeHxfnBnVFEUINkrfZn) | [Alice Carreri](https://open.spotify.com/artist/2qErnWAGdPnpxE1GmQjloh), [The Sidecar Trio](https://open.spotify.com/artist/2wOhxGipTeYeM9FcbjbF0A) | [Alice Carreri & The Sidecar Trio](https://open.spotify.com/album/3xBomY6Gc4o0LG0wvssp4V) | 4:18 | 2022-10-11 |  |
-| [You Go to My Head](https://open.spotify.com/track/2pbIJmUuLTgQhiyQxrZYJG) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 6:39 | 2022-05-19 |  |
+| [You Go to My Head](https://open.spotify.com/track/2pbIJmUuLTgQhiyQxrZYJG) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 6:39 | 2022-05-19 | 2024-03-15 |
 | [You Go To My Head](https://open.spotify.com/track/7FtvTA5t8yH8UmKs1s4xoT) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:20 | 2022-09-27 | 2023-09-14 |
 | [You Go To My Head](https://open.spotify.com/track/2P6Phi5zCiCnQKyFyjz7Kj) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [From Bessie To Brazil](https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L) | 4:09 | 2021-12-17 | 2023-09-14 |
 | [You've Changed](https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because Of Billie](https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB) | 4:30 | 2021-12-17 | 2022-07-29 |

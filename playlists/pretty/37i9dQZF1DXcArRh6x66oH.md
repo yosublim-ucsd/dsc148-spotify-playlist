@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > from Stillwater to Nashville with Wyatt Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,041 likes - 116 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,284 likes - 116 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 115 | [Smell Like Smoke](https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 2:48 |
 | 116 | [Ramblin Man](https://open.spotify.com/track/4a1oIFgu01B2nafpOHgvHZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ramblin Man](https://open.spotify.com/album/0PXuJaAC2SrNE3RUdjtNn3) | 2:47 |
 
-Snapshot ID: `MCxiODgyOGMwNWRiM2VkNTk1NDYxN2VmNjk2YWRkOTA3MGVhMzRmZGI1`
+Snapshot ID: `MCwwNDBiMzg0ZDk5NGNiYjk4NDIyMjQ5OGM5YmJlMzM4Yjg0OWYwN2Q4`

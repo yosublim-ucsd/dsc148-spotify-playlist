@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 65526,
+  "2024-03-15": 65538,
   "date_first_scraped": "2023-08-27",
   "description": "From India to MENA, these hits will make you dance.",
   "name": "Bollywood Araby",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 181604,
       "name": "3 Sneen",
       "url": "https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs"
@@ -1007,6 +1007,32 @@
       "duration_ms": 187924,
       "name": "Wak Wak",
       "url": "https://open.spotify.com/track/4OxGLH7f7DZzkUGXFSMd8y"
+    },
+    {
+      "album": {
+        "name": "Wallah Habibi (From \"Bade Miyan Chote Miyan\")",
+        "url": "https://open.spotify.com/album/6kJ9kSP6wi1Hc0XN6Yah0W"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161111,
+      "name": "Wallah Habibi - From \"Bade Miyan Chote Miyan\"",
+      "url": "https://open.spotify.com/track/5eVfz3h4sMjjZyBYW4CWQy"
     },
     {
       "album": {

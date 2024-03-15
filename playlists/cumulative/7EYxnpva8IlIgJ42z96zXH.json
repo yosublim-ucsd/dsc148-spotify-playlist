@@ -279,6 +279,28 @@
     },
     {
       "album": {
+        "name": "Acid Rain",
+        "url": "https://open.spotify.com/album/0SWKBsotIgXTd3ekDpRUdC"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/3xW5rSnwELfR2VnkOpngqK"
+    },
+    {
+      "album": {
         "name": "Acid Worldwide",
         "url": "https://open.spotify.com/album/03ImbfSMNzsOD40ca7nilZ"
       },
@@ -560,6 +582,24 @@
       "duration_ms": 243759,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/5SQPc5QdwoEwxDasjkEO4t"
+      },
+      "artists": [
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185777,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/2g3pRxdvo0uGyqK8gE3coV"
     },
     {
       "album": {
@@ -3629,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Dark Boy",
+        "url": "https://open.spotify.com/album/0RawT9NcLmSAGStJuHJHkp"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213976,
+      "name": "Dark Boy",
+      "url": "https://open.spotify.com/track/2ecitzpGnPmIFXGMXj1Gak"
+    },
+    {
+      "album": {
         "name": "Dark Days",
         "url": "https://open.spotify.com/album/4b7PAPNs8gsHlkNFvZP0bi"
       },
@@ -5904,7 +5962,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 174666,
       "name": "Fussy",
       "url": "https://open.spotify.com/track/5Z7SapaZCnLexMPTR3OFbS"
@@ -9342,6 +9400,24 @@
     {
       "album": {
         "name": "Love Again",
+        "url": "https://open.spotify.com/album/0hCfqbI6KcJbVwwX2Tw1Bf"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202518,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1siF5836wws0IuELlYrkDq"
+    },
+    {
+      "album": {
+        "name": "Love Again",
         "url": "https://open.spotify.com/album/6ZfjqL6bOXdgsLIBn8HeeS"
       },
       "artists": [
@@ -10040,7 +10116,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 134880,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/3P5mrJ1KloJZG9GKD5daC8"
@@ -13096,7 +13172,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 210000,
       "name": "Saving Up - Loods Remix",
       "url": "https://open.spotify.com/track/16BIjTqG2R5PV2BrMOjU3y"
@@ -15746,7 +15822,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 212521,
       "name": "TOMMY",
       "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"

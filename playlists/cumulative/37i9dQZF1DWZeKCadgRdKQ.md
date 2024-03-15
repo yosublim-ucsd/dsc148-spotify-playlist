@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-644 songs - 1 day 10 hr 37 min
+647 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Anagram](https://open.spotify.com/track/2XLdNfDhWJwViR3wiq8NrA) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Anagram](https://open.spotify.com/album/3EMafNmPdqTVmiESnJAwOp) | 2:28 | 2022-07-08 | 2023-09-26 |
 | [Andromeda](https://open.spotify.com/track/2hjIqdLhL5qUtOA4HzMQeQ) | [ÆROSPHERE](https://open.spotify.com/artist/7Mfz9T76LrHFec8v9raCNW) | [Andromeda](https://open.spotify.com/album/0dcuQcOj1reIEGexif7Mj5) | 4:26 | 2019-06-19\* | 2021-11-19 |
 | [Anomaly](https://open.spotify.com/track/5UqCq6DWkMfFEFxNhQi8zZ) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Dear Avalanche](https://open.spotify.com/album/1Q4lWl84CNsZDDXQCm9VLe) | 2:54 | 2019-05-26\* | 2019-06-19 |
+| [Another Day](https://open.spotify.com/track/2O07AvxSLB2UNfANa6SzLi) | [Francis Flo](https://open.spotify.com/artist/1WNWDUJZnaNuOhfcoug5hJ) | [Another Day](https://open.spotify.com/album/3qyY3grfJEQY889AdFXXwN) | 1:53 | 2024-03-14 |  |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2019-12-07 | 2020-08-07 |
 | [Any Given Place](https://open.spotify.com/track/2WltUi1jhpoiksDrlJUBlr) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [Beyond Exploding Stars](https://open.spotify.com/album/1eiqm039IN4hvY85s8VgQP) | 3:04 | 2019-05-26\* | 2020-04-13 |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2019-05-26\* | 2020-01-03 |
@@ -269,6 +270,7 @@
 | [In Search of Wonder](https://open.spotify.com/track/3BLMQuMGnw4MZr4CtcdNFf) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Departure Lounge](https://open.spotify.com/album/1L14xBM4jEKPRItVqzj0ok) | 4:16 | 2019-07-31 | 2019-09-11 |
 | [In the Beginning of Time](https://open.spotify.com/track/5I9kd3U6qhnuO3WWX5Le8l) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [In the Beginning of Time](https://open.spotify.com/album/5U2pbbuxFkngsYbbuIlzk5) | 3:11 | 2021-07-30 | 2023-07-14 |
 | [In the Clouds](https://open.spotify.com/track/2AvDzQfRf5Bx8PX0qRWLRc) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [In the Clouds](https://open.spotify.com/album/0RB032f7b6bwNGrfdW81E5) | 2:56 | 2019-06-19\* | 2023-04-22 |
+| [In the Distance](https://open.spotify.com/track/6zpXX7oTQCdaLIzCBQAyFc) | [Amber Sky](https://open.spotify.com/artist/6DH3SvRzxgISukfWiREIre) | [In the Distance](https://open.spotify.com/album/3KoGvwM4KK7KauDNgtESTt) | 2:54 | 2024-03-14 |  |
 | [In The Distance](https://open.spotify.com/track/6ukp0t9T7Fsw5h2Rz8HDTV) | [Flovia](https://open.spotify.com/artist/58GDPnhEfG4yAXQxMavQEH) | [In The Distance](https://open.spotify.com/album/0zYONFZfELjoeOIvVLokLA) | 1:59 | 2023-08-04 | 2023-10-05 |
 | [In This Moment](https://open.spotify.com/track/7FORBAxm1qwuwbYo7Rtz42) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [In This Moment](https://open.spotify.com/album/6CqN9SzLRLdrB04loADnZF) | 2:38 | 2019-06-27 | 2022-04-02 |
 | [In This Together](https://open.spotify.com/track/5U2WQ74Tyc2OHKCK2KvGi5) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [In This Together](https://open.spotify.com/album/7Kec4vxn9UtMjWU9T78PGG) | 2:10 | 2019-05-26\* | 2020-08-07 |
@@ -323,6 +325,7 @@
 | [Love Is in Beauty and Chaos](https://open.spotify.com/track/53acMPSJxoPfC35KaaJfNu) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [This Patch of Sky](https://open.spotify.com/album/2K2RvGoAcZxQkBokrBSJmk) | 4:42 | 2019-05-26\* | 2019-06-19 |
 | [Lucid Alchemy](https://open.spotify.com/track/7u7dK1IXsG4jdB6bK9PCFm) | [Ruud Vanderwege](https://open.spotify.com/artist/4NuHYRjb3dq4fdAel5W46H) | [Lucid Alchemy](https://open.spotify.com/album/4X8CwAlT2DY2CAtt4H6bHz) | 4:18 | 2019-07-31 | 2023-08-25 |
 | [Lunar Eclipse](https://open.spotify.com/track/0n2X57zaddr0ODIxUb64Sx) | [Marc Torch](https://open.spotify.com/artist/6OTnWg2Dt9yZfEHwOnZspu) | [Lunar Eclipse](https://open.spotify.com/album/3wthMvGFuHwqfVLhO2EHnX) | 2:36 | 2020-06-19 | 2022-10-15 |
+| [Lunar Rainbow](https://open.spotify.com/track/1NMxmBVNn7fP2nzl8dzHrj) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Lunar Rainbow](https://open.spotify.com/album/4ErS1KMmmBecV5ZCmVUs4V) | 2:27 | 2024-03-14 |  |
 | [Lupina's Dream](https://open.spotify.com/track/748B3pk3bq8jYTd7FSJYZ9) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Lupina's Dream](https://open.spotify.com/album/4SuTIAc2hUucNu2E8mOK5T) | 3:29 | 2021-04-14 |  |
 | [Malibu](https://open.spotify.com/track/3RlwtjeKhemCfiPvwMFozS) | [Matthew Harvey](https://open.spotify.com/artist/30LkldJYxQgtaQBIGwzgMQ) | [Malibu](https://open.spotify.com/album/3kM89PKkU3cDQXTMIYDWxo) | 2:30 | 2019-09-14 |  |
 | [Mars](https://open.spotify.com/track/2hqrlnqY2lbaRRsc7SM2cU) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Mars](https://open.spotify.com/album/28gs93hKCxdd7r6amWFIXX) | 2:27 | 2019-06-19\* | 2021-09-14 |

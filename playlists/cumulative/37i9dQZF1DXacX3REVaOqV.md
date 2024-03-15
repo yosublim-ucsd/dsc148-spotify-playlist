@@ -4,7 +4,7 @@
 
 > The best in house music
 
-397 songs - 1 day 3 hr 43 min
+398 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Da Bump](https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI) | [Da Bump](https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y) | 3:25 | 2024-03-04 |  |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-09-15 | 2023-07-15 |
 | [Dance \- Hills Mix](https://open.spotify.com/track/6YPTwdX857pt8aukdjWqBW) | [Os Digitalistas](https://open.spotify.com/artist/5O4Wo1qbQZNpzBYC2qNahm) | [Dance \(Hills Mix\)](https://open.spotify.com/album/4PejagKHSIAq3Qy3LdqDUB) | 2:59 | 2022-07-28 | 2023-02-10 |
+| [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 | 2024-03-14 |  |
 | [Dancing Queen](https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB) | 2:54 | 2022-07-28 | 2024-03-01 |
 | [Dancing Queen](https://open.spotify.com/track/5r3t2sftGlEi8JZn0OSO7S) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/792yzHqlo1gG7SDKHsGW8l) | 2:54 | 2022-04-14 | 2022-07-29 |
 | [Dangly Panther](https://open.spotify.com/track/2tUJka7z72sFDuRYtAz7fR) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Freerange Records Presents Colour Series: Orange 05](https://open.spotify.com/album/7q6LEIl8DXY2Z5sEwiuXuM) | 6:48 | 2022-04-14 | 2022-07-27 |
@@ -207,7 +208,7 @@
 | [Live Without Your Love \(with Steve Lacy\)](https://open.spotify.com/track/3XnvNOjFKyFyNvxlXy1DXm) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Live Without Your Love \(with Steve Lacy\)](https://open.spotify.com/album/2st44QXoemztnPKY99Yalg) | 3:25 | 2022-04-14 | 2022-10-14 |
 | [Look Up At The Sky](https://open.spotify.com/track/3Ts73V8SnaXIcnLAxwt41W) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Rhythm Sister \- EP](https://open.spotify.com/album/2DOdjtWqm3AqAHvedMmCRr) | 3:30 | 2022-04-14 | 2022-07-29 |
 | [Lose My Mind \(feat\. Taylor Moody\)](https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Taylor Moody](https://open.spotify.com/artist/5v3YOQbNImkHr0cj7biBWW) | [Lose My Mind \(feat\. Taylor Moody\)](https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm) | 3:16 | 2022-04-14 |  |
-| [Lost & Found](https://open.spotify.com/track/4qtqzgsb0zUGRLx3Vd6MLk) | [Housequake](https://open.spotify.com/artist/5WHgifU7J7TBlEygVmAOFi), [Boris Smith](https://open.spotify.com/artist/5kz5IXAF2jqboBHGITZvWx), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7) | [Lost & Found](https://open.spotify.com/album/4g4P8oHgTkR7owQ2GsAxIn) | 2:51 | 2022-05-12 |  |
+| [Lost & Found](https://open.spotify.com/track/4qtqzgsb0zUGRLx3Vd6MLk) | [Housequake](https://open.spotify.com/artist/5WHgifU7J7TBlEygVmAOFi), [Boris Smith](https://open.spotify.com/artist/5kz5IXAF2jqboBHGITZvWx), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7) | [Lost & Found](https://open.spotify.com/album/4g4P8oHgTkR7owQ2GsAxIn) | 2:51 | 2022-05-12 | 2024-03-15 |
 | [Lost In The Amazon](https://open.spotify.com/track/2HYf8CzzrsNHJiDo3wsPWW) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Amor Essencial EP](https://open.spotify.com/album/1wBROVXVwgjVHIlhPzaefd) | 6:04 | 2024-02-29 |  |
 | [Love in Rio](https://open.spotify.com/track/0Bm1cyEBRY6f7KpzIhG9yw) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Love in Rio](https://open.spotify.com/album/2A7sVIi7t7EiJYZdnIAXcE) | 6:29 | 2022-11-30 |  |
 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 | 2022-11-18 | 2023-04-13 |

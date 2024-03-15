@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : ANA\u00cfS MVA",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : The Doug",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -344,6 +344,24 @@
       "duration_ms": 158604,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/1AQnssggAwAJTeV9hFzZHu"
+    },
+    {
+      "album": {
+        "name": "boomerang",
+        "url": "https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177876,
+      "name": "boomerang",
+      "url": "https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD"
     },
     {
       "album": {
@@ -923,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Forteresse",
+        "url": "https://open.spotify.com/album/5bjLJg01d8FPkMKBdNxeQp"
+      },
+      "artists": [
+        {
+          "name": "Emilie Simon",
+          "url": "https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Forteresse",
+      "url": "https://open.spotify.com/track/2dlsjJGFMoWD3Nu4YcIX09"
+    },
+    {
+      "album": {
         "name": "fou",
         "url": "https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9"
       },
@@ -1371,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Le Mythe de Jesse James",
+        "url": "https://open.spotify.com/album/7vCaq8ooLgcw5p08ZEdQUy"
+      },
+      "artists": [
+        {
+          "name": "Takeshi HRTBRK",
+          "url": "https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "Le Mythe de Jesse James",
+      "url": "https://open.spotify.com/track/54hOQ15avjXZfBecwARm7z"
+    },
+    {
+      "album": {
         "name": "Le sport",
         "url": "https://open.spotify.com/album/1eeXV77VD0bcIROCu4MAI0"
       },
@@ -1408,7 +1462,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 162920,
       "name": "LE TEMPS DE VIVRE (ENCORE PLUS FORT)",
       "url": "https://open.spotify.com/track/2XVGJbLeWeKxsb8dN5sPH3"
@@ -1628,7 +1682,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 206213,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/5CJvskgeMXDKnVvf3PEtM9"
@@ -1762,6 +1816,24 @@
       "duration_ms": 183776,
       "name": "Oublier",
       "url": "https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43"
+    },
+    {
+      "album": {
+        "name": "musique POUR LA F\u00caTE",
+        "url": "https://open.spotify.com/album/52nZRyuGHBwY5VdeQB5ejX"
+      },
+      "artists": [
+        {
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146930,
+      "name": "Oui ou non",
+      "url": "https://open.spotify.com/track/0nnMnUUW1386WXpzMNf2OA"
     },
     {
       "album": {
@@ -2120,7 +2192,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 141859,
       "name": "Reviens-tu",
       "url": "https://open.spotify.com/track/3rMKYCKljvm9Wo6fvshMz3"

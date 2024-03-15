@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 90232,
+  "num_followers": 90312,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjE5MTgyOTI0N2E3MDMxMTdkY2IwOGMzNzg5NzY0NDNjY2NiYTRm",
+  "snapshot_id": "MCw1NzQ5NTRjZDFmYTAwOTUzMjBmM2ZmZTRlYjRjM2EwZDU1NmMxZjhi",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -527,18 +527,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Vida Leve",
-        "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
+        "name": "O Amor de Deus",
+        "url": "https://open.spotify.com/album/08wVdMKnZGndh8zL9uYEvg"
       },
       "artists": [
         {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Yuri DSR",
+          "url": "https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B"
         }
       ],
-      "duration_ms": 176417,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
+      "duration_ms": 156481,
+      "name": "O Amor de Deus",
+      "url": "https://open.spotify.com/track/5S5MNp2WRwmvdG7JlbdgW8"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -563,6 +567,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Vida Leve",
+        "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 176417,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Reconstituir",
         "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 262019,
       "name": "Reconstituir",
       "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "O Amor de Deus",
-        "url": "https://open.spotify.com/album/08wVdMKnZGndh8zL9uYEvg"
-      },
-      "artists": [
-        {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "Yuri DSR",
-          "url": "https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B"
-        }
-      ],
-      "duration_ms": 156481,
-      "name": "O Amor de Deus",
-      "url": "https://open.spotify.com/track/5S5MNp2WRwmvdG7JlbdgW8"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Nasce o Sol (Remix)",
+        "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Nasce o Sol - Remix",
+      "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
         "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Nasce o Sol (Remix)",
-        "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
+        "name": "SL.27.4",
+        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
       },
       "artists": [
         {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Nasce o Sol - Remix",
-      "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
+      "duration_ms": 237209,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 284153,
       "name": "S\u00f3 o Come\u00e7o",
       "url": "https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "SL.27.4",
-        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 237209,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Teu Amor Me Consome",
-        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
-      },
-      "artists": [
-        {
-          "name": "Guerreiros da F\u00e9",
-          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
-        }
-      ],
-      "duration_ms": 226187,
-      "name": "Teu Amor Me Consome",
-      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Teu Amor Me Consome",
+        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
+      },
+      "artists": [
+        {
+          "name": "Guerreiros da F\u00e9",
+          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
+        }
+      ],
+      "duration_ms": 226187,
+      "name": "Teu Amor Me Consome",
+      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Luz do Mundo",
-        "url": "https://open.spotify.com/album/6VIlAkJqFIEn863W1fFcDW"
+        "name": "Me Esvaziar (Releitura)",
+        "url": "https://open.spotify.com/album/0jzLyiWUcBCqzevujFH3qZ"
       },
       "artists": [
         {
-          "name": "Idma Brito",
-          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
         }
       ],
-      "duration_ms": 193793,
-      "name": "Luz do Mundo",
-      "url": "https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR"
+      "duration_ms": 183055,
+      "name": "Me Esvaziar (Releitura)",
+      "url": "https://open.spotify.com/track/0iYvEJ73ZzbYmYoJRnzK1T"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1587,18 +1583,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Me Esvaziar (Releitura)",
-        "url": "https://open.spotify.com/album/0jzLyiWUcBCqzevujFH3qZ"
+        "name": "Luz do Mundo",
+        "url": "https://open.spotify.com/album/3LoeSZMGFSQANRNBSuAJzL"
       },
       "artists": [
         {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 183055,
-      "name": "Me Esvaziar (Releitura)",
-      "url": "https://open.spotify.com/track/0iYvEJ73ZzbYmYoJRnzK1T"
+      "duration_ms": 193793,
+      "name": "Luz do Mundo",
+      "url": "https://open.spotify.com/track/7srf8dPKNtroCHcUoer47G"
     }
   ],
   "unique_name": "Pop Gospel",

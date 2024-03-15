@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 218909,
+  "2024-03-15": 219015,
   "date_first_scraped": "2023-11-11",
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
   "name": "This Is Charles Ans",
@@ -73,7 +73,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 210148,
       "name": "Agua Bendita",
       "url": "https://open.spotify.com/track/4V7GYSaTVhulizZ0a3dwFV"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 271420,
       "name": "Siguele",
       "url": "https://open.spotify.com/track/4qbHgYxL96v8ulUWlY7YVW"

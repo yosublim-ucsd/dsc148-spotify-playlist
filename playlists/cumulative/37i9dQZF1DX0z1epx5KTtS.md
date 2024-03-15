@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Tam Sir
 
-173 songs - 10 hr 0 min
+174 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Mapouka](https://open.spotify.com/track/6WT4eFi2jTFNuN8UkVGFLO) | [TNT Family](https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6) | [12 Raisons](https://open.spotify.com/album/50VVd86np0xlYcTpibU37n) | 3:03 | 2022-06-02 | 2022-09-02 |
 | [MEME](https://open.spotify.com/track/6jq8XCdFOgVU1xb83EZ7NC) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [MEME](https://open.spotify.com/album/3F5WzTfqrtSpIDJNnvtzG9) | 3:20 | 2021-12-20 | 2022-06-17 |
 | [Misu na misu](https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Misu na misu](https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i) | 3:28 | 2021-12-20 | 2022-02-19 |
+| [Mon combat](https://open.spotify.com/track/6T6AQIS7A7zUTgl3ByyKq6) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Mon combat](https://open.spotify.com/album/3fPVIQpas8ugxlY9ZasrBv) | 3:32 | 2024-03-14 |  |
 | [Mon coupé décalé](https://open.spotify.com/track/5dcWqDjwZjo9yp6bGfWY1o) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Mon coupé décalé](https://open.spotify.com/album/1ezwwP8oJFETR8e3rfRsWk) | 4:15 | 2021-12-20 | 2022-02-19 |
 | [Mon gar](https://open.spotify.com/track/2OtsMf8cvkkogm5yJZyh44) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Mon gar](https://open.spotify.com/album/7KSSQ9nredhRwgVpwU6jBe) | 3:30 | 2023-01-05 | 2024-02-02 |
 | [Mon nom](https://open.spotify.com/track/45XiGbtboVhKVy0pt58C9B) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Mon nom](https://open.spotify.com/album/7cbpbkoPQ5NkKZ6rmDRjcd) | 3:42 | 2021-12-20 | 2022-01-22 |
@@ -179,7 +180,7 @@
 | [Zendaka](https://open.spotify.com/track/7BlelZjPQgRSTPhKAEkauM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Zendaka](https://open.spotify.com/album/0NppZsF445DiWFxVq7ezcP) | 3:03 | 2021-12-20 | 2022-07-22 |
 | [Zozo](https://open.spotify.com/track/1Syhx5tRxvICLuxeDVwHIp) | [Les Patrons](https://open.spotify.com/artist/1nsZMNRP1vmtIat8hD4bHg), [Revolution](https://open.spotify.com/artist/0psAr2Os4y9mRbgas7mHpk) | [Tresor](https://open.spotify.com/album/70u6kE9EXGjpNdjtPiqRJ6) | 3:56 | 2023-02-23 | 2023-03-25 |
 | [Ça me fait](https://open.spotify.com/track/621YkVNvsCKXHh45xfsewd) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Ça me fait](https://open.spotify.com/album/44cCWmdLfoYuYLmWfhPfzE) | 3:42 | 2022-08-25 | 2023-02-24 |
-| [Ça'a te dégoûter](https://open.spotify.com/track/02DUGJxrCBUh7fUNBPad59) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Ça'a te dégoûter](https://open.spotify.com/album/2lRHcHdMLLaGeKjVx8HFcI) | 3:25 | 2023-11-16 |  |
+| [Ça'a te dégoûter](https://open.spotify.com/track/02DUGJxrCBUh7fUNBPad59) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Ça'a te dégoûter](https://open.spotify.com/album/2lRHcHdMLLaGeKjVx8HFcI) | 3:25 | 2023-11-16 | 2024-03-15 |
 | [Échauffement \- Remix](https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Échauffement \(Remix\)](https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR) | 2:08 | 2022-06-02 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

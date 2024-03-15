@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > tasha & tracie é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,271 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,272 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 38 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
 | 39 | [Amor Virou Um Prêmio](https://open.spotify.com/track/20nEdTuTMTPITRyiaPNCnP) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 3:39 |
 | 40 | [Se eu não lembrar](https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:57 |
-| 41 | [Luzes e Flashes](https://open.spotify.com/track/10dN8fW55SpCZYArM4kEV0) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Ogoin & Linguini: TV Show](https://open.spotify.com/album/1rKjTHrC5iRC5e9Vm8Widv) | 3:32 |
+| 41 | [Luzes e Flashes](https://open.spotify.com/track/10dN8fW55SpCZYArM4kEV0) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Ogoin & Linguini: TV Show](https://open.spotify.com/album/1rKjTHrC5iRC5e9Vm8Widv) | 3:31 |
 | 42 | [Nuvem Negra](https://open.spotify.com/track/1QTRxtnPMeuw9cFU6nFucO) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Nuvem Negra](https://open.spotify.com/album/5lNwerLY6IY3nJMFkIYoOd) | 2:41 |
 | 43 | [Mundo da lua](https://open.spotify.com/track/7f3uGk70qlfUrX1n3nvSRC) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [O inquilino](https://open.spotify.com/album/0w5CdIH3n8venOuphx13yZ) | 2:34 |
 | 44 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Lado Sul](https://open.spotify.com/track/3oRnApxPuuDm1atizRli2p) | [PH Original](https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1), [Liip Beats](https://open.spotify.com/artist/3Pr7FENKcGB6uHVbHDXcPC), [MADDRUGA](https://open.spotify.com/artist/5WTKBWeFY0In0q57BtzZUd) | [Lado Sul](https://open.spotify.com/album/0auawK0pQ2eMKY9QlWRF1Q) | 2:43 |
 | 50 | [Reduto de Malandro](https://open.spotify.com/track/6AIOAo6lOe9qvoy76LH17j) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Autodomínio](https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc) | 1:41 |
 
-Snapshot ID: `MCwwMzljMDY0Y2FjNWRhMTVlMjlhYjY0OGM0OWVmY2QwZTQ4YWNlMzU3`
+Snapshot ID: `MCw1ZTlmYzhjMDliZDkzNDI0Y2Q5ODZlNTM1MWNmMTZhMzY3ZWNmMDQ4`

@@ -1,12 +1,12 @@
 {
   "description": "Genie\u00dft die ersten Sonnenstrahlen mit der ganzen Familie.",
-  "num_followers": 36227,
+  "num_followers": 36265,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWRkMjAyNzEzMWE5YWVjMGIwYjZhNzBmZTM5OTk4OGEzYjlmMWFk",
+  "snapshot_id": "MCw0ZGE3NmQyNGZkZDcyMjkxMmY5MmZmYmNhYzhkNDVjYzY2YWY3MmJm",
   "tracks": [
     {
       "added_at": "2024-03-01 14:36:42",
@@ -163,26 +163,6 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Willkommen auf dem singenden Bauernhof",
-        "url": "https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD"
-      },
-      "artists": [
-        {
-          "name": "Der singende Bauernhof",
-          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
-        },
-        {
-          "name": "Otti Stubs",
-          "url": "https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB"
-        }
-      ],
-      "duration_ms": 130226,
-      "name": "Das tanzende Alpaka (Alpaka Song)",
-      "url": "https://open.spotify.com/track/6HA0YUji2p8YD9VZ4jnd3z"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 56745,
       "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
       "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Willkommen auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        },
+        {
+          "name": "Otti Stubs",
+          "url": "https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB"
+        }
+      ],
+      "duration_ms": 130226,
+      "name": "Das tanzende Alpaka (Alpaka Song)",
+      "url": "https://open.spotify.com/track/6HA0YUji2p8YD9VZ4jnd3z"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -271,22 +271,26 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Giraffenaffen 3",
-        "url": "https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd"
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
       "artists": [
         {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
         },
         {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 187560,
-      "name": "Unter dem Meer",
-      "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
+      "duration_ms": 88540,
+      "name": "Kleine Meise",
+      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -323,6 +327,42 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
+        "name": "Giraffenaffen 3",
+        "url": "https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Unter dem Meer",
+      "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Das Album - Rock'n'Rarrr Music",
+        "url": "https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu"
+      },
+      "artists": [
+        {
+          "name": "Heavysaurus",
+          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "Kaugummi ist mega!",
+      "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -340,25 +380,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 88540,
-      "name": "Kleine Meise",
-      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "Das Album - Rock'n'Rarrr Music",
-        "url": "https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu"
-      },
-      "artists": [
-        {
-          "name": "Heavysaurus",
-          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Kaugummi ist mega!",
-      "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
+      "duration_ms": 113127,
+      "name": "Der Mai ist gekommen",
+      "url": "https://open.spotify.com/track/0BAeOswy8zqael94JgdGFQ"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -456,25 +480,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 113127,
-      "name": "Der Mai ist gekommen",
-      "url": "https://open.spotify.com/track/0BAeOswy8zqael94JgdGFQ"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "Rolfs Kinderfr\u00fchling",
-        "url": "https://open.spotify.com/album/60hOaInymmfKbZXFARP70V"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Der Mai, der Mai, der lustige Mai",
-      "url": "https://open.spotify.com/track/1FzrqPhsuTzoPNw0cVhtuy"
+      "duration_ms": 137665,
+      "name": "A, B, C, das H\u00e4schen sitzt im Klee",
+      "url": "https://open.spotify.com/track/1oFKQ9dnl9tgAXok64HZ4E"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -535,6 +543,22 @@
       "duration_ms": 217323,
       "name": "Ihr kriegt uns nie mehr klein",
       "url": "https://open.spotify.com/track/4j6VtUSryhEZGRFqrQ9LDO"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Rolfs Kinderfr\u00fchling",
+        "url": "https://open.spotify.com/album/60hOaInymmfKbZXFARP70V"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Der Mai, der Mai, der lustige Mai",
+      "url": "https://open.spotify.com/track/1FzrqPhsuTzoPNw0cVhtuy"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -651,54 +675,6 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Sing mit mir Kinderlieder",
-        "url": "https://open.spotify.com/album/4gDvWioaiyrWrSmAWxLf6t"
-      },
-      "artists": [
-        {
-          "name": "Kalle Klang",
-          "url": "https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM"
-        },
-        {
-          "name": "Die Floht\u00f6ne",
-          "url": "https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm"
-        },
-        {
-          "name": "Sing Kinderlieder",
-          "url": "https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n"
-        }
-      ],
-      "duration_ms": 136705,
-      "name": "Summ, summ, summ",
-      "url": "https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 88728,
-      "name": "Singt ein Vogel",
-      "url": "https://open.spotify.com/track/6p6i094Q8LZRWebVHvWasC"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
         "name": "Boom Schakkalakka",
         "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
       },
@@ -735,22 +711,6 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Rolfs Hasengeschichte - Die Lieder",
-        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 157793,
-      "name": "Wenn es Fr\u00fchling wird im Hasenland",
-      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
         "name": "Kinderlieder - Fr\u00fchling & Ostern",
         "url": "https://open.spotify.com/album/5Whc7quTjPIXUT3aYsZF3z"
       },
@@ -767,6 +727,46 @@
       "duration_ms": 124426,
       "name": "Ich liebe den Fr\u00fchling \ud83d\ude0a",
       "url": "https://open.spotify.com/track/40l8za7YRSWkNGaTdBelUB"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Rolfs Hasengeschichte - Die Lieder",
+        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 157793,
+      "name": "Wenn es Fr\u00fchling wird im Hasenland",
+      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "Sing mit mir Kinderlieder",
+        "url": "https://open.spotify.com/album/4gDvWioaiyrWrSmAWxLf6t"
+      },
+      "artists": [
+        {
+          "name": "Kalle Klang",
+          "url": "https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM"
+        },
+        {
+          "name": "Die Floht\u00f6ne",
+          "url": "https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm"
+        },
+        {
+          "name": "Sing Kinderlieder",
+          "url": "https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n"
+        }
+      ],
+      "duration_ms": 136705,
+      "name": "Summ, summ, summ",
+      "url": "https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE"
     },
     {
       "added_at": "2024-03-01 14:36:42",
@@ -807,30 +807,6 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "Sing mit mir Kinderlieder 3",
-        "url": "https://open.spotify.com/album/2Z1IZ5uLBTXFTrW4E38fsU"
-      },
-      "artists": [
-        {
-          "name": "Kalle Klang",
-          "url": "https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM"
-        },
-        {
-          "name": "Die Floht\u00f6ne",
-          "url": "https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm"
-        },
-        {
-          "name": "Sing Kinderlieder",
-          "url": "https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n"
-        }
-      ],
-      "duration_ms": 146481,
-      "name": "Kuckuck, kuckuck ruft's aus dem Wald",
-      "url": "https://open.spotify.com/track/7LRcMwbgLyt3YBguwZcKNw"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
         "name": "Fr\u00fchling",
         "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
       },
@@ -863,6 +839,30 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
+        "name": "Sing mit mir Kinderlieder 3",
+        "url": "https://open.spotify.com/album/2Z1IZ5uLBTXFTrW4E38fsU"
+      },
+      "artists": [
+        {
+          "name": "Kalle Klang",
+          "url": "https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM"
+        },
+        {
+          "name": "Die Floht\u00f6ne",
+          "url": "https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm"
+        },
+        {
+          "name": "Sing Kinderlieder",
+          "url": "https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n"
+        }
+      ],
+      "duration_ms": 146481,
+      "name": "Kuckuck, kuckuck ruft's aus dem Wald",
+      "url": "https://open.spotify.com/track/7LRcMwbgLyt3YBguwZcKNw"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
         "name": "Die 40 besten Fingerspiel-Lieder",
         "url": "https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-01 14:36:42",
       "album": {
-        "name": "015/Abends im Walde",
-        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
-      },
-      "artists": [
-        {
-          "name": "Unser Sandm\u00e4nnchen",
-          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
-        }
-      ],
-      "duration_ms": 123320,
-      "name": "Fr\u00fchlingslied",
-      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
-    },
-    {
-      "added_at": "2024-03-01 14:36:42",
-      "album": {
         "name": "Der Fr\u00fchling ist da - 25 kunterbunte Kinderlieder im Fr\u00fchling",
         "url": "https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 107961,
       "name": "So bunt ist die Fr\u00fchlingszeit",
       "url": "https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n"
+    },
+    {
+      "added_at": "2024-03-01 14:36:42",
+      "album": {
+        "name": "015/Abends im Walde",
+        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
+      },
+      "artists": [
+        {
+          "name": "Unser Sandm\u00e4nnchen",
+          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "Fr\u00fchlingslied",
+      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
     }
   ],
   "unique_name": "Familienzeit: Fr\u00fchling",

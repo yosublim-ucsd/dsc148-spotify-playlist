@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 70629,
+  "num_followers": 70645,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTA0NWQwMzQ4YzkxZmVjMTZmMWY0YjNhNGJiOGJlOTU2ODNlMjEy",
+  "snapshot_id": "MCw3MmNiYmE5ZGUwY2I1NDM4MzkzNTFjMzg2NjU0NWE3MzVhMmNhODk0",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Idealistic",
+      "url": "https://open.spotify.com/track/14KzbcceJMYy3U8Zid1VWD"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Tonight (12' Inch)",
         "url": "https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 251866,
       "name": "La musique (JBAG's Boomboxed Re-Edit) - Mixed",
       "url": "https://open.spotify.com/track/6jwcG2bkn6adlKtlkSrEmf"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Idealism",
-        "url": "https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Idealistic",
-      "url": "https://open.spotify.com/track/14KzbcceJMYy3U8Zid1VWD"
     },
     {
       "added_at": "2022-08-24 22:29:13",

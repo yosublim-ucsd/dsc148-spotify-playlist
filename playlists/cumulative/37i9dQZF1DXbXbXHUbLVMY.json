@@ -210,7 +210,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 186123,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 148000,
       "name": "BAD GIRL",
       "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 133130,
       "name": "Boys I D Bl\u00e5",
       "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
@@ -898,6 +898,28 @@
       "duration_ms": 158836,
       "name": "F.H.D.S!",
       "url": "https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4"
+    },
+    {
+      "album": {
+        "name": "Falt Ut",
+        "url": "https://open.spotify.com/album/5pbwQh49wMdn0muqJHPFgg"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153059,
+      "name": "Falt Ut",
+      "url": "https://open.spotify.com/track/1Qe4tOzNLtVwtV63D9VumX"
     },
     {
       "album": {
@@ -1879,6 +1901,28 @@
     },
     {
       "album": {
+        "name": "Modus",
+        "url": "https://open.spotify.com/album/7wEheNjuMdWYtC6QXYwGHp"
+      },
+      "artists": [
+        {
+          "name": "D\u00e5rlig Vane",
+          "url": "https://open.spotify.com/artist/0BUqqTzhPGAUfeeb7owmFT"
+        },
+        {
+          "name": "Angelo Reira",
+          "url": "https://open.spotify.com/artist/108MBqDoWGVHCyUNfOj47O"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181423,
+      "name": "Modus",
+      "url": "https://open.spotify.com/track/2788dREpZcBOMLBgBWTAWj"
+    },
+    {
+      "album": {
         "name": "Narcissist",
         "url": "https://open.spotify.com/album/6PSmLzomYnUw4VXEcJSzSp"
       },
@@ -2646,6 +2690,24 @@
       "duration_ms": 134886,
       "name": "Tango",
       "url": "https://open.spotify.com/track/5TGveWo66AyNkhEbJyhhfY"
+    },
+    {
+      "album": {
+        "name": "Thug Lover",
+        "url": "https://open.spotify.com/album/1ojrLW3hbC1iU8oGJuMa1s"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162478,
+      "name": "Thug Lover",
+      "url": "https://open.spotify.com/track/3zpENN5MvOOv0pYj5YQWS7"
     },
     {
       "album": {

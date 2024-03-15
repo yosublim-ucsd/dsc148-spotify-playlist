@@ -1,12 +1,12 @@
 {
   "description": "Aficionades que viven la intensidad de botanear \u26bd\ufe0f\ud83c\udf2e\ud83c\udf7b",
-  "num_followers": 54450,
+  "num_followers": 54492,
   "original_name": "La Playlist Botanera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzIxZGU3NjMwNDZjNDc4YzkzMDJhOTJiMWZhODRhZjc4MWM1MTAx",
+  "snapshot_id": "MCxmMDc1MDBmNzNiMGYyZDQ5MWNhN2E2ZWE5OTJmOWJmZDA4NjNlYzIx",
   "tracks": [
     {
       "added_at": "2024-03-01 02:03:21",
@@ -252,12 +252,12 @@
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
           "name": "Jayrick",
           "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
       "duration_ms": 166110,

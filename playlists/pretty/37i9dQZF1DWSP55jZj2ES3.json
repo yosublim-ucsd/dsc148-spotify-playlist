@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 530265,
+  "num_followers": 530309,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWY4YjA0ZjYzZWIwYTgxOWJhMGZiZjNlNzlmMjNiNWMyOGY5NjUz",
+  "snapshot_id": "MCxkNDlkOTY0YjRiYmFiMmM3MDY0NzkwOGYwYTUxNDc1ZTFjYjI0ZTBh",
   "tracks": [
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
+        "name": "Amo XO",
+        "url": "https://open.spotify.com/album/5pqwxGPtXIBYHBQ0r7Sydq"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 148192,
+      "name": "Beach Bummer",
+      "url": "https://open.spotify.com/track/1EEon0WCgeb8cTUbqo6qlq"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 193093,
       "name": "Dapper (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/2Nh2cMryoXl7BrZoIeN2Pr"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
-        "name": "Amo XO",
-        "url": "https://open.spotify.com/album/5pqwxGPtXIBYHBQ0r7Sydq"
-      },
-      "artists": [
-        {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        }
-      ],
-      "duration_ms": 148192,
-      "name": "Beach Bummer",
-      "url": "https://open.spotify.com/track/1EEon0WCgeb8cTUbqo6qlq"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
+        "name": "I'm Just Snacking",
+        "url": "https://open.spotify.com/album/1OxhOd3oy8xQJ818M3mQS2"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 198116,
+      "name": "I'm Just Snacking",
+      "url": "https://open.spotify.com/track/12jmugLskEWmYRLKYfMNSk"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
         "name": "Fkn Around (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 244048,
       "name": "Fkn Around (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
-        "name": "I'm Just Snacking",
-        "url": "https://open.spotify.com/album/1OxhOd3oy8xQJ818M3mQS2"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 198116,
-      "name": "I'm Just Snacking",
-      "url": "https://open.spotify.com/track/12jmugLskEWmYRLKYfMNSk"
     },
     {
       "added_at": "2023-09-16 00:49:46",

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Fabri Fibra, Emma, Baby Gang",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Capo Plaza",
   "name": "Plus Ultra",
   "tracks": [
+    {
+      "album": {
+        "name": "07:34",
+        "url": "https://open.spotify.com/album/0zFqRRSuXePG8S0wrRM32f"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        },
+        {
+          "name": "Fudasca",
+          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191286,
+      "name": "07:34",
+      "url": "https://open.spotify.com/track/7wkntyph9MUtz9nz0xFsyz"
+    },
     {
       "album": {
         "name": "1 MESSAGGIO",
@@ -2834,7 +2856,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 157050,
       "name": "Dentro di me",
       "url": "https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz"
@@ -3384,7 +3406,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 190188,
       "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
       "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
@@ -4110,7 +4132,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 167785,
       "name": "GRAFFITI (feat. Bresh)",
       "url": "https://open.spotify.com/track/64rCnKKEHAS84Q93hQBzIg"
@@ -4439,6 +4461,32 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164847,
+      "name": "HONEY (feat. Lazza & Capo Plaza)",
+      "url": "https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N"
+    },
+    {
+      "album": {
         "name": "MOTIVATION 4 THE STREETZ",
         "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
       },
@@ -4534,6 +4582,24 @@
       "duration_ms": 201875,
       "name": "I soldi e la droga (feat. Lazza)",
       "url": "https://open.spotify.com/track/20R9mqRNIAFyUl849j9DOc"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128759,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/0AxRJk8LTx7w4xQWw9NIFF"
     },
     {
       "album": {
@@ -6294,7 +6360,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 144000,
       "name": "Milkshake (feat. Slings)",
       "url": "https://open.spotify.com/track/4cXeddjuV6IugeXXl6jlGG"
@@ -7020,7 +7086,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 216389,
       "name": "NON MI RICONOSCO \u2260 (con centomilacarie & Salmo)",
       "url": "https://open.spotify.com/track/1RXPbmcMA0cijWf1trj8HJ"
@@ -7996,6 +8062,32 @@
       "duration_ms": 113737,
       "name": "Petit Fou Fou (feat. ANNA)",
       "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147426,
+      "name": "PILLOLE (feat. Sfera Ebbasta & Geolier)",
+      "url": "https://open.spotify.com/track/5wU2NUt1pSAeTIWfXnRRkQ"
     },
     {
       "album": {
@@ -10124,6 +10216,28 @@
       "duration_ms": 190000,
       "name": "Triste (feat. Neima Ezza & Ernia)",
       "url": "https://open.spotify.com/track/0yDjNkN0xMqiUm6NjvdLuH"
+    },
+    {
+      "album": {
+        "name": "trueno (feat. Salmo)",
+        "url": "https://open.spotify.com/album/3lPfwFIo0d2O2qjVIO6FsX"
+      },
+      "artists": [
+        {
+          "name": "STABBER",
+          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143135,
+      "name": "trueno (feat. Salmo)",
+      "url": "https://open.spotify.com/track/72CfmqTiImbgi0BTeJWFiP"
     },
     {
       "album": {

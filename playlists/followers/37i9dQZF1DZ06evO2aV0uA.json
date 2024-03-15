@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 125219,
+  "2024-03-15": 125251,
   "date_first_scraped": "2022-05-31",
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
   "name": "This Is Lamb of God",
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 296453,
       "name": "Embers",
       "url": "https://open.spotify.com/track/5EP6OcWKPVTFgKH0cFFtys"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 296453,
       "name": "Embers (feat. Chino Moreno)",
       "url": "https://open.spotify.com/track/4vIKoOznt2p6YhGSHzrksC"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 264686,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 223413,
       "name": "Wake up Dead (feat. Dave Mustaine)",
       "url": "https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9"

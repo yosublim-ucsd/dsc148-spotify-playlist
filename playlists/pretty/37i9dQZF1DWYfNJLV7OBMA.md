@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Piyath Rajapakse
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,482 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,533 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 31 | [Periyamulla](https://open.spotify.com/track/12EtOXdN24LHuD0zxwPHwJ) | [BigDoggy](https://open.spotify.com/artist/5ZxeZlL6xuAsUQkxDQMfku), [Costa](https://open.spotify.com/artist/0xQI3u4hVl2KnZf5tq38LR), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ) | [Periyamulla Made Me](https://open.spotify.com/album/4T5cp1XCHFwVQZ6vRgocxc) | 4:16 |
 | 32 | [Yali Hamuwenne Kedhinadha Api](https://open.spotify.com/track/7zc9ULSvndl929EWvvGJZ8) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a), [Lahiru De Costa](https://open.spotify.com/artist/6JiVW8Qn2R8vK1bHy6VAp1) | [Yali Hamuwenne Kedhinadha Api](https://open.spotify.com/album/63486ST8UfeU8LPcRvNhc9) | 2:48 |
 | 33 | [Sandaganawa](https://open.spotify.com/track/6u9Gj1nB4YXGARh1DedClj) | [Dhanith Sri](https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs) | [Sandaganawa](https://open.spotify.com/album/0nP20eooA9ifW0qNcaDAaS) | 3:56 |
-| 34 | [Ai Mama Adare](https://open.spotify.com/track/6A8GvoDkfsxXwr1L4IpPjE) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a) | [Ai Mama Adare](https://open.spotify.com/album/4PWEEeP3n8zVa3VLCB2Zp3) | 4:21 |
+| 34 | [Ai Mama Adare](https://open.spotify.com/track/616iKUfRFwdNJh3su4ni7r) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a) | [Ai Mama Adare](https://open.spotify.com/album/0uI9LPWUja8I5DC1OcWfa0) | 4:21 |
 | 35 | [Mandaram Eli](https://open.spotify.com/track/2US9BVE4YN1Werb6WEc34o) | [Bhashi Devanga](https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y) | [Mandaram Eli](https://open.spotify.com/album/7DH1ArjMLHLpfysdHLtDtx) | 3:20 |
 | 36 | [Hithawanthi](https://open.spotify.com/track/0QivM7RF5E39h5SWQKAUX5) | [Dhyan Hewage](https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G), [Pasan Liyanage](https://open.spotify.com/artist/44fhZpV5IJzoRFiUswUhbi) | [Hithawanthi](https://open.spotify.com/album/2TOulTsHrzdoBKLKB60AKQ) | 4:08 |
 | 37 | [Adarei Uthuranna](https://open.spotify.com/track/6oKf9ytZVyfsbheiHHTMn1) | [Gangadara](https://open.spotify.com/artist/0LgNWOFOH2xGYD0MOdNZVw) | [Adarei Uthuranna](https://open.spotify.com/album/78ayrcPhbdqKsYe4kA0R3K) | 1:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 59 | [Veralu Mal](https://open.spotify.com/track/7kCq23IvruljXm8fUevkaS) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k), [Manuranga Wijesekara](https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw) | [Veralu Mal](https://open.spotify.com/album/1Ge3wJ0P2BTjj4mLND7RKS) | 2:52 |
 | 60 | [Riduman](https://open.spotify.com/track/5klU2ylrthOE30rFBhsrrx) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes), [Themiya Thejan](https://open.spotify.com/artist/7KOQwe1vcolnuIBhMmvZo9) | [Riduman](https://open.spotify.com/album/7CaBdkfUnR9uPgWkF0GhBd) | 3:30 |
 
-Snapshot ID: `MCxlN2ViOGVjYzJjOWM0OWVjZjg3NjY1MzI4YTljY2I0MTUxNTFkNzdj`
+Snapshot ID: `MCw4YjQzNzgyM2QwNDdlNTcyYzJmNGM3ZGVmMjVmN2RhNzM3YzdmNmI5`

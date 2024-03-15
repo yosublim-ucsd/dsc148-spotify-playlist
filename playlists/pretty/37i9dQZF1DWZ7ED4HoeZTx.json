@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 120692,
+  "num_followers": 120758,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODRmYzQ4NmQ3YzZjZjI1NTM2MzlkYWMzYzk4ZTYxZjQ4ZjJiMGMw",
+  "snapshot_id": "MCwzODQ1M2I1Mjg3YjZkOGQ2YzUyNGU0ZWE2MGJjMGUwZDhhZjBkNjQ0",
   "tracks": [
     {
       "added_at": "2024-02-01 03:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "\u5915\u98a8\u30d6\u30ec\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL"
-      },
-      "artists": [
-        {
-          "name": "Sukima Switch",
-          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
-        }
-      ],
-      "duration_ms": 336880,
-      "name": "\u30dc\u30af\u30ce\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9"
-    },
-    {
-      "added_at": "2024-02-01 03:00:00",
-      "album": {
         "name": "UTA'S SONGS ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 287986,
       "name": "The World's Continuation",
       "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
+    },
+    {
+      "added_at": "2024-02-01 03:00:00",
+      "album": {
+        "name": "\u5915\u98a8\u30d6\u30ec\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL"
+      },
+      "artists": [
+        {
+          "name": "Sukima Switch",
+          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
+        }
+      ],
+      "duration_ms": 336880,
+      "name": "\u30dc\u30af\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "give it back",
-        "url": "https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI"
+        "name": "Spirited Away Soundtrack",
+        "url": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9"
       },
       "artists": [
         {
-          "name": "C\u00f6 shu Nie",
-          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+          "name": "Yumi Kimura",
+          "url": "https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3"
         }
       ],
-      "duration_ms": 212476,
-      "name": "give it back",
-      "url": "https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z"
+      "duration_ms": 215426,
+      "name": "Always with Me",
+      "url": "https://open.spotify.com/track/0FJL3Dwu8oUpwDb80qNdvP"
     }
   ],
   "unique_name": "Slice of Life ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3BAgmPNIK5IJl7zMK1wvMA">That Mexican OT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,770,160 likes - 105 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,770,258 likes - 105 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 49 | [Games](https://open.spotify.com/track/6GUgd5uXPPLzNK94F7zO4Y) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Games](https://open.spotify.com/album/432GE6uinoEWLytsNonxuv) | 1:36 |
 | 50 | [She The 1](https://open.spotify.com/track/6y9W1IYKdA2KVYYCj3nfOq) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [She The 1](https://open.spotify.com/album/3Mg85011xnTsWxslYox4pD) | 3:19 |
 | 51 | [Outside](https://open.spotify.com/track/5SqPTvrFYSwhaKm5kk4EOi) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Outside](https://open.spotify.com/album/734DR7AxHV2crdRWN1JDn2) | 2:23 |
-| 52 | [Kick It](https://open.spotify.com/track/7D9hC9aFANt3vzGx1p0ZL0) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Kick It](https://open.spotify.com/album/3HNlwo4TkoFrqWFHOiDgix) | 2:20 |
+| 52 | [Kick It](https://open.spotify.com/track/7D9hC9aFANt3vzGx1p0ZL0) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Kick It](https://open.spotify.com/album/3HNlwo4TkoFrqWFHOiDgix) | 2:20 |
 | 53 | [Breezy Take Off](https://open.spotify.com/track/4qFy0uDvjsuCqQaoI5jaqE) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Loose Screw](https://open.spotify.com/album/2lKoLKbKgCNdmss4PcidQq) | 2:29 |
 | 54 | [Smile](https://open.spotify.com/track/4Vujm3j3rDSsOD6oukgxLI) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Smile](https://open.spotify.com/album/2bhiFZR9bJPKg9O5GfyInE) | 1:46 |
 | 55 | [02.02.99](https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [02.02.99](https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9) | 2:42 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 104 | [Express Myself](https://open.spotify.com/track/6gMSYXkEiXzHLK09ykXGac) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Express Myself](https://open.spotify.com/album/64JKDU3XXp4VbXSlhh6nHd) | 2:33 |
 | 105 | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/track/71S2e7v71Rcu3CH59pKdE8) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/album/3gNDqJwbeF8MOvSkxugVxS) | 3:33 |
 
-Snapshot ID: `MCw1MjAzOWRhZDNiODNlM2IxNjA5NzE5MjRlMjU2MzJjMzUwYTRlYzY3`
+Snapshot ID: `MCwxNjk4MTdjM2EzZTY4ZDViYjkzODA1NTEyZGU1M2FjZDBiMTY4Mzg3`

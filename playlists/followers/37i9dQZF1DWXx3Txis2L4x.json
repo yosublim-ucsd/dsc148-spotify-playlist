@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 612457,
+  "2024-03-15": 612511,
   "date_first_scraped": "2021-12-28",
   "description": "Don't use these shoes to run, they just look nice for the playlist cover. Use real running shoes, please.",
   "name": "Rock 'n' Run",
@@ -1788,6 +1788,24 @@
     },
     {
       "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206924,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/06j7eVHrgRSt9eQSWhH3zK"
+    },
+    {
+      "album": {
         "name": "Left Behind (Acoustic)",
         "url": "https://open.spotify.com/album/3vXU8TC9EDEdmnRUoGuOb1"
       },
@@ -3517,7 +3535,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 225731,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/0Sie4zIpI18dBZ0ptyo0SP"

@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-2,279 songs - 5 day 5 hr 5 min
+2,280 songs - 5 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,7 +1194,8 @@
 | [Looking at You](https://open.spotify.com/track/0qYNUduazu2fVQ78BiMkGp) | [Juniper Honey](https://open.spotify.com/artist/0KwqvjIByt3CTj5OnldokY) | [Looking at You](https://open.spotify.com/album/1hQanJQ8o0l3Sgf63MtrlL) | 3:26 | 2023-06-28 | 2023-08-10 |
 | [Looking Backward](https://open.spotify.com/track/478ZW3J7G43YjMRLUlisaq) | [Darksoft](https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE) | [Cryo](https://open.spotify.com/album/5Y27T3hgkcXG4cCVIqNyZp) | 3:29 | 2022-01-26 | 2022-04-07 |
 | [Loop](https://open.spotify.com/track/1egpWSqTh6h2mGd21AnuxF) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Loop](https://open.spotify.com/album/2qIPIaBGQRhJht5xa8ip0k) | 3:40 | 2023-08-16 | 2023-09-14 |
-| [lose myself in you](https://open.spotify.com/track/6GpSWcqSaXWNKK5j7LI4Kl) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [lose myself in you](https://open.spotify.com/album/4fo2KoDpmRMoXxveQ1O0CS) | 3:18 | 2024-02-21 |  |
+| [lose myself in you](https://open.spotify.com/track/6GpSWcqSaXWNKK5j7LI4Kl) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [lose myself in you](https://open.spotify.com/album/4fo2KoDpmRMoXxveQ1O0CS) | 3:18 | 2024-02-21 | 2024-03-15 |
+| [lose myself in you](https://open.spotify.com/track/6xuOyswMC7oj12UcGXrGXx) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [lose myself in you](https://open.spotify.com/album/7pB0ATavEWiOg7AlcdZn88) | 3:18 | 2024-03-06 |  |
 | [Loser](https://open.spotify.com/track/5O3wRzvkT0Zao9qoheio6v) | [Wild Love](https://open.spotify.com/artist/2HgUSKcdkOOicatZDmzdn6) | [Loser](https://open.spotify.com/album/0bnuwweufvxmO4hl2acsBK) | 2:52 | 2022-08-24 | 2022-09-07 |
 | [losing my mind](https://open.spotify.com/track/7pyi0IwbpspklysMl3pduX) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [losing my mind](https://open.spotify.com/album/6x77PGYcBbHht5jN5YqQRA) | 3:08 | 2022-08-03 | 2022-09-20 |
 | [Losing My Mind](https://open.spotify.com/track/68DeBTdmA7CnwS9Tz4tJBw) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Losing My Mind](https://open.spotify.com/album/5MEQv9MCRhOYmDaQ9SvmZe) | 3:54 | 2024-01-31 | 2024-03-07 |

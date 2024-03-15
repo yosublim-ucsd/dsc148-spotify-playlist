@@ -1,12 +1,12 @@
 {
   "description": "Porque el romance nunca pasar\u00e1 de moda. ",
-  "num_followers": 71625,
+  "num_followers": 71746,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjBlZjYwYzRkOGQzZDgzOGNhZDRmMzYxM2QwMTBhNDQ0MjNhNGIy",
+  "snapshot_id": "MCw5ZTFiZjMzYTk5YWI2Yzg5ODRmZjM3MTdkNDgzMGZhZmM4MDg2MTdi",
   "tracks": [
     {
       "added_at": "2023-11-06 20:37:56",
@@ -59,22 +59,18 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+        "name": "Pecado Original",
+        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+      "duration_ms": 201040,
+      "name": "\u00a1Ay Amor!",
+      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -95,18 +91,22 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Pecado Original",
-        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
         }
       ],
-      "duration_ms": 201040,
-      "name": "\u00a1Ay Amor!",
-      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Tu inolvidable sonrisa - Con banda",
-      "url": "https://open.spotify.com/track/5HUXSbMwR3wRlJQ5JwJRXF"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "15 Exitos Del Recuerdo",
         "url": "https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 141533,
       "name": "Anoche Me Enamore",
       "url": "https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Tu inolvidable sonrisa - Con banda",
+      "url": "https://open.spotify.com/track/5HUXSbMwR3wRlJQ5JwJRXF"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/42nZkX6kk4O3vpTuQa6UrK"
-      },
-      "artists": [
-        {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
-        }
-      ],
-      "duration_ms": 177815,
-      "name": "Olvidarte Nunca",
-      "url": "https://open.spotify.com/track/3xRVnVY4uuNQZ1rmmRclhU"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 206066,
       "name": "Pecado Mortal",
       "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/42nZkX6kk4O3vpTuQa6UrK"
+      },
+      "artists": [
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 177815,
+      "name": "Olvidarte Nunca",
+      "url": "https://open.spotify.com/track/3xRVnVY4uuNQZ1rmmRclhU"
     },
     {
       "added_at": "2023-11-06 20:37:56",

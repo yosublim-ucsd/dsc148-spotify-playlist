@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-144 songs - 6 hr 51 min
+145 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Lazbuye \(Rain\)](https://open.spotify.com/track/24SYwtCJKtYxu6oiWlftAz) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Serene Rain Soundscapes](https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS) | 3:01 | 2023-02-13 |  |
 | [Let It Fall](https://open.spotify.com/track/0CO6F2cNPE67a098ZVjvqm) | [The Absorption](https://open.spotify.com/artist/7aJBcOcbiEzRLeitWPhb7D) | [Let It Fall](https://open.spotify.com/album/4073TImnCrIB0FbF8O5qSe) | 2:21 | 2023-10-11 |  |
 | [Light Airy Rain](https://open.spotify.com/track/29ztwJlRRsaolUGZg2W6pc) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Light Airy Rain](https://open.spotify.com/album/74M1Rr63fwYx1kEqqHxzlR) | 3:16 | 2023-10-11 |  |
-| [Light Midday Rain](https://open.spotify.com/track/0cCB3UK7HZ1WlRo9L5CJx1) | [The Beautiful World Around](https://open.spotify.com/artist/1uWldAX5DTfh3ok6HvgkJJ) | [Light Midday Rain](https://open.spotify.com/album/3yrdWiExqMLI3GNF1Rppjl) | 3:20 | 2024-03-11 |  |
+| [Light Midday Rain](https://open.spotify.com/track/0cCB3UK7HZ1WlRo9L5CJx1) | [The Beautiful World Around](https://open.spotify.com/artist/1uWldAX5DTfh3ok6HvgkJJ) | [Light Midday Rain](https://open.spotify.com/album/3yrdWiExqMLI3GNF1Rppjl) | 3:20 | 2024-03-11 | 2024-03-15 |
 | [Light Night Rain](https://open.spotify.com/track/4RAPlesKcPmpHLYoWKjL4o) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Night Rain In The Forest](https://open.spotify.com/album/26AaQKKSGH3SoRkQzJgbZO) | 3:07 | 2023-10-11 |  |
 | [Light Steady Rain \(Nature\)](https://open.spotify.com/track/5a8pa3Jtnb3O8eaym8hZ7n) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Morning Wonder \(Nature\)](https://open.spotify.com/album/5dKBRdiSn6T9x5yw1vUQck) | 3:16 | 2022-11-21 |  |
 | [Lightning In The Sky](https://open.spotify.com/track/4xLC1Ft6zYnVFQmyMyrjek) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-11-21 |  |
@@ -115,6 +115,7 @@
 | [Rest In A Rainforest](https://open.spotify.com/track/3irHoiM1C9EUMbUhsXmcGe) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Rest In A Rainforest](https://open.spotify.com/album/6qaL64xAGf4ya89P94G97H) | 3:15 | 2023-06-16 |  |
 | [Revitalize \(Rain\)](https://open.spotify.com/track/6MFRZu5jUhJZeUJVl2kcri) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 | 2024-02-08 |
 | [Roofers Holiday](https://open.spotify.com/track/1ELNo2aa79L5lcBGB6GIDq) | [Weather Bureau](https://open.spotify.com/artist/1aHHKWIy2Twf2ssw0SirYO) | [Roofers Holiday](https://open.spotify.com/album/0hE9xP8wHCU89LyoI2oP95) | 2:56 | 2023-06-16 |  |
+| [Rooftop Raindrops](https://open.spotify.com/track/0iVy9Oa25s0KcUwzJ1fxPn) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Rooftop Raindrops](https://open.spotify.com/album/0oZtOaygEmGM7975D2J6Gc) | 2:30 | 2024-03-11 |  |
 | [Sanur \(Rain\)](https://open.spotify.com/track/7kULnoSgYN5pv86XwmKmiA) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 2:50 | 2022-11-21 |  |
 | [Schläfriger Donner](https://open.spotify.com/track/28KswoQztifTUjKJxujGWV) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 | 2022-11-21 |  |
 | [School Rain](https://open.spotify.com/track/6yAYt0yK49AJl9Q5k39Bqq) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:25 | 2022-11-21 | 2022-12-17 |

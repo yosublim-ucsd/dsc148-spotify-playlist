@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
-  "num_followers": 13446,
+  "num_followers": 13443,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWZjMGJiYmNlZjAxMzIyOGI0Mzc4ODIzZTk3YWZkMDdiMDhhZDRl",
+  "snapshot_id": "MCwwZGE3MTgyYzgzYmQ2NTUxMTk4MjI4YTZmNjVhNWMyMDE0OTcyNjEx",
   "tracks": [
     {
       "added_at": "2024-03-11 17:02:36",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "ANT\u00cdDOTO",
-        "url": "https://open.spotify.com/album/26rubL6YMJu0GFTpyDcHxX"
-      },
-      "artists": [
-        {
-          "name": "Antipatriarka",
-          "url": "https://open.spotify.com/artist/5rZyPEZVynb13WM1T0AA1p"
-        }
-      ],
-      "duration_ms": 153996,
-      "name": "antes de marchitarme",
-      "url": "https://open.spotify.com/track/3SebSOyNzn2PWib9xiOlJO"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "Albor",
         "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 270279,
       "name": "entre las sombras,",
       "url": "https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "ANT\u00cdDOTO",
+        "url": "https://open.spotify.com/album/26rubL6YMJu0GFTpyDcHxX"
+      },
+      "artists": [
+        {
+          "name": "Antipatriarka",
+          "url": "https://open.spotify.com/artist/5rZyPEZVynb13WM1T0AA1p"
+        }
+      ],
+      "duration_ms": 153996,
+      "name": "antes de marchitarme",
+      "url": "https://open.spotify.com/track/3SebSOyNzn2PWib9xiOlJO"
     },
     {
       "added_at": "2024-03-11 17:02:36",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "Asumir",
-        "url": "https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY"
-      },
-      "artists": [
-        {
-          "name": "Kurmi",
-          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Asumir",
-      "url": "https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 202101,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "Asumir",
+        "url": "https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY"
+      },
+      "artists": [
+        {
+          "name": "Kurmi",
+          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Asumir",
+      "url": "https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I"
     }
   ],
   "unique_name": "EQUAL Chile",

@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 90282,
+  "2024-03-15": 90280,
   "date_first_scraped": "2022-04-14",
   "description": "the best of the deep end. cover: Prinz",
   "name": "lofi rap",
@@ -589,6 +589,24 @@
     {
       "album": {
         "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/7b21OHTHyZynzt1ehAyhSF"
+      },
+      "artists": [
+        {
+          "name": "Lovens",
+          "url": "https://open.spotify.com/artist/5cTm9LWB8FJXxdPfnfxc6g"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168158,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/1ctqXOZ0hbWiLcxRlT1DTx"
+    },
+    {
+      "album": {
+        "name": "Broken Hearted Crook",
         "url": "https://open.spotify.com/album/6FxWacdUVFgdyDjbuRxTFR"
       },
       "artists": [
@@ -599,7 +617,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 168135,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/60clenfS2gkpTwndV2a8Cv"
@@ -961,7 +979,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 182608,
       "name": "Derby To Moston",
       "url": "https://open.spotify.com/track/488gyYhx0kuJzJvMEXtouL"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 182654,
       "name": "Derby to Moston",
       "url": "https://open.spotify.com/track/1tgXsEwPOCa2FVWCuofXp7"

@@ -1,79 +1,15 @@
 {
-  "description": "De nieuwste Nederlandse pop! Cover: Zo\u00eb Livay",
-  "num_followers": 161733,
+  "description": "De nieuwste Nederlandse pop! Cover: Jaap Reesema & Gavin DeGraw",
+  "num_followers": 161754,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTVmZDhhODBiYWM5ODQwOTllNDk5MDI0NGRjZDMyNmVhMTVmNjdm",
+  "snapshot_id": "MCw1NTUxNTA3ZGFhYzY0ZTk4NDgyODlkMzBjYzgyZWNlZjAxNWIxYzZj",
   "tracks": [
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Vrouw Van De Wereld",
-        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 173031,
-      "name": "Patronen",
-      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Stukje Van Mij",
-        "url": "https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "Stukje Van Mij",
-      "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "diesel",
-        "url": "https://open.spotify.com/album/2TSmOypnsga9cVJVtiHQHg"
-      },
-      "artists": [
-        {
-          "name": "Danique",
-          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
-        }
-      ],
-      "duration_ms": 177362,
-      "name": "diesel",
-      "url": "https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Achtentwintig (Deluxe)",
-        "url": "https://open.spotify.com/album/1PbjgkZJbYSo6x9XrSQ6kq"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        }
-      ],
-      "duration_ms": 190043,
-      "name": "Een Beatle & Een Stone",
-      "url": "https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Laat Me Nooit Meer Los (Never Let Me Go)",
         "url": "https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc"
@@ -93,7 +29,139 @@
       "url": "https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Is Dit Geluk?",
+        "url": "https://open.spotify.com/album/51dFIOwEKQqryRgGz1As6z"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "duration_ms": 137444,
+      "name": "Is Dit Geluk?",
+      "url": "https://open.spotify.com/track/7dYSfLscOlKorZ8w0CufbM"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Stukje Van Mij",
+        "url": "https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "Stukje Van Mij",
+      "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Dromers Slapen Niet",
+        "url": "https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Domingos",
+          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
+        }
+      ],
+      "duration_ms": 142062,
+      "name": "Stick To Your Ways",
+      "url": "https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Vrouw Van De Wereld",
+        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 173031,
+      "name": "Patronen",
+      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Laatste Trein",
+        "url": "https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Laatste Trein",
+      "url": "https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "diesel",
+        "url": "https://open.spotify.com/album/2TSmOypnsga9cVJVtiHQHg"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "duration_ms": 177362,
+      "name": "diesel",
+      "url": "https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Achtentwintig (Deluxe)",
+        "url": "https://open.spotify.com/album/1PbjgkZJbYSo6x9XrSQ6kq"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "duration_ms": 190043,
+      "name": "Een Beatle & Een Stone",
+      "url": "https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Entourage",
+        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 129433,
+      "name": "Entourage",
+      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/5U0JwQjxRaJQU4eAqLV1qx"
@@ -109,7 +177,23 @@
       "url": "https://open.spotify.com/track/1zIUkRxrVNmxn4f9358j36"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Spuug van God",
+        "url": "https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 186671,
+      "name": "Voor Wat Je Lief Is",
+      "url": "https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Verrader",
         "url": "https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6"
@@ -125,39 +209,23 @@
       "url": "https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Anti-Social",
-        "url": "https://open.spotify.com/album/3VTg32BOXuGHU3MHX6qfcX"
+        "name": "Tweeling",
+        "url": "https://open.spotify.com/album/2SoOLLKqw2N5JUXn0UGsaX"
       },
       "artists": [
         {
-          "name": "Nobu",
-          "url": "https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u"
+          "name": "Stenfert",
+          "url": "https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8"
         }
       ],
-      "duration_ms": 149666,
-      "name": "Anti-Social",
-      "url": "https://open.spotify.com/track/67R9SI604DJIWTF6UuEBJY"
+      "duration_ms": 150384,
+      "name": "Tweeling",
+      "url": "https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "1 Minuut",
-        "url": "https://open.spotify.com/album/19pkLb6FIBcy1b9pjtiRXH"
-      },
-      "artists": [
-        {
-          "name": "BENR",
-          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "1 Minuut",
-      "url": "https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Keuzestress",
         "url": "https://open.spotify.com/album/2SbhLqAR0NcZr8mHZNfVfI"
@@ -173,7 +241,55 @@
       "url": "https://open.spotify.com/track/6MQOcrAfVujJ4EzHCrkbZk"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Stiekem Hoop Ik",
+        "url": "https://open.spotify.com/album/4VmYndInfCepDtEvkISvcn"
+      },
+      "artists": [
+        {
+          "name": "Lola Ced\u00e8s",
+          "url": "https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0"
+        }
+      ],
+      "duration_ms": 173022,
+      "name": "Stiekem Hoop Ik",
+      "url": "https://open.spotify.com/track/0b4Tsr050Wl9OSv7CFFpY3"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Anti-Social",
+        "url": "https://open.spotify.com/album/3VTg32BOXuGHU3MHX6qfcX"
+      },
+      "artists": [
+        {
+          "name": "Nobu",
+          "url": "https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Anti-Social",
+      "url": "https://open.spotify.com/track/67R9SI604DJIWTF6UuEBJY"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "1 Minuut",
+        "url": "https://open.spotify.com/album/19pkLb6FIBcy1b9pjtiRXH"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "1 Minuut",
+      "url": "https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Gereserveerd Voor 1",
         "url": "https://open.spotify.com/album/7JLLnJGZR2DVdj9tibkU27"
@@ -189,7 +305,7 @@
       "url": "https://open.spotify.com/track/7hGlPXc69sbNlRlKM19m8z"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Verpest",
         "url": "https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf"
@@ -209,23 +325,23 @@
       "url": "https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Spuug van God",
-        "url": "https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM"
+        "name": "Haat Me",
+        "url": "https://open.spotify.com/album/6267wKbOwViwFSSz1PwuJv"
       },
       "artists": [
         {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 186671,
-      "name": "Voor Wat Je Lief Is",
-      "url": "https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz"
+      "duration_ms": 215905,
+      "name": "Haat Me",
+      "url": "https://open.spotify.com/track/50ELw2DvK4J2Z02m0Vphed"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Dezelfde Maan",
         "url": "https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR"
@@ -241,7 +357,23 @@
       "url": "https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5cKOcVEswbnGAfSDQaopDi"
+      },
+      "artists": [
+        {
+          "name": "Sleeq",
+          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
+        }
+      ],
+      "duration_ms": 148615,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5pTn0A7SfH8byvT6WzgEsz"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Zuinig",
         "url": "https://open.spotify.com/album/0ocZWxeSCHRdeh5ogUbrdA"
@@ -261,23 +393,7 @@
       "url": "https://open.spotify.com/track/1443g2sOZtwR7NjDXlSsBv"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/5cKOcVEswbnGAfSDQaopDi"
-      },
-      "artists": [
-        {
-          "name": "Sleeq",
-          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
-        }
-      ],
-      "duration_ms": 148615,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5pTn0A7SfH8byvT6WzgEsz"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Astronaut",
         "url": "https://open.spotify.com/album/25MGuw8tGf580C2kI1g28C"
@@ -293,23 +409,7 @@
       "url": "https://open.spotify.com/track/3b5o2I34qbat7ky0PMnhvt"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Haat Me",
-        "url": "https://open.spotify.com/album/6267wKbOwViwFSSz1PwuJv"
-      },
-      "artists": [
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        }
-      ],
-      "duration_ms": 215905,
-      "name": "Haat Me",
-      "url": "https://open.spotify.com/track/50ELw2DvK4J2Z02m0Vphed"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Warme Herinneringen",
         "url": "https://open.spotify.com/album/5hLlVXaIizLyalqdzTkOF5"
@@ -325,7 +425,7 @@
       "url": "https://open.spotify.com/track/2zzI148jQvqo4zm2m3h2X7"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Kompas (Remix)",
         "url": "https://open.spotify.com/album/29m3Yx0KifqeneeAsJhL0t"
@@ -345,7 +445,7 @@
       "url": "https://open.spotify.com/track/2wlpAUC0iE1oHzhg53TS1r"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Alles Op Gevoel",
         "url": "https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp"
@@ -369,7 +469,7 @@
       "url": "https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Wat Blijft Er Over",
         "url": "https://open.spotify.com/album/4Vm0qRP5yCDn8DdKF1Mf2j"
@@ -385,23 +485,7 @@
       "url": "https://open.spotify.com/track/6PdJ3PohDI313zycwdczFX"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "OCS",
-        "url": "https://open.spotify.com/album/0jYO15I8jUvT1wd0P2Peox"
-      },
-      "artists": [
-        {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d"
-        }
-      ],
-      "duration_ms": 182615,
-      "name": "OCS",
-      "url": "https://open.spotify.com/track/0OT029FXpgs7mQRJm8B3wX"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Struikelen",
         "url": "https://open.spotify.com/album/5kfTrFYrZ4oKWRDJ8tt5lF"
@@ -417,7 +501,7 @@
       "url": "https://open.spotify.com/track/5dRjmLzrU2qN2uc7uViQBt"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Blindelings",
         "url": "https://open.spotify.com/album/61PY2ypsRLJBYM4lbAilWK"
@@ -433,7 +517,7 @@
       "url": "https://open.spotify.com/track/24Kh86Io6xp1jLwCRjjK4m"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Dans Alleen",
         "url": "https://open.spotify.com/album/5ItDnWqkTGUzyyGHFvpsnm"
@@ -453,7 +537,7 @@
       "url": "https://open.spotify.com/track/4CKTU5XTIZkte54otjUUHl"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Leuker Als Je High Bent",
         "url": "https://open.spotify.com/album/5IauvUhxaKVAcwfISQ2I2S"
@@ -469,7 +553,7 @@
       "url": "https://open.spotify.com/track/06U72hUZSEgYuqhAUUKsn7"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Backstage",
         "url": "https://open.spotify.com/album/79GyjK7amWo1kbpAICZDom"
@@ -485,7 +569,7 @@
       "url": "https://open.spotify.com/track/6TOPN39UPam4SJBCntOKb6"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Natte Sokken",
         "url": "https://open.spotify.com/album/63SdwuBDCszhla1DrW7pVh"
@@ -501,7 +585,7 @@
       "url": "https://open.spotify.com/track/0r7OKtASHgUrcN729hlyGG"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Leef Voor Jou",
         "url": "https://open.spotify.com/album/40VYAQu0QepzzAY2T1583p"
@@ -517,7 +601,7 @@
       "url": "https://open.spotify.com/track/26y0nE6nSpkFjT5Vvh2ikk"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "\u00c9coutez-moi",
         "url": "https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W"
@@ -533,39 +617,7 @@
       "url": "https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Hartenbreker",
-        "url": "https://open.spotify.com/album/0PqE4iqArw2Ax0mbKqfjFU"
-      },
-      "artists": [
-        {
-          "name": "Jasha Rudge",
-          "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
-        }
-      ],
-      "duration_ms": 157174,
-      "name": "Hartenbreker",
-      "url": "https://open.spotify.com/track/28vRO0o5XMVU2DIDqAPrFc"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "ELKE KEER",
-        "url": "https://open.spotify.com/album/0LQUgfDRfaNLVxO7WaxQIk"
-      },
-      "artists": [
-        {
-          "name": "Fokke Simons",
-          "url": "https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI"
-        }
-      ],
-      "duration_ms": 140482,
-      "name": "ELKE KEER",
-      "url": "https://open.spotify.com/track/1HJQ9AiWo6PKbl9gG5JKFo"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Al Heb Ik Mijn Dag Niet",
         "url": "https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet"
@@ -585,27 +637,7 @@
       "url": "https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Heuvels",
-        "url": "https://open.spotify.com/album/58xNXd1NUbyBJpkN3i0mgr"
-      },
-      "artists": [
-        {
-          "name": "Pjotr",
-          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
-        },
-        {
-          "name": "Fresku",
-          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
-        }
-      ],
-      "duration_ms": 165006,
-      "name": "Heuvels",
-      "url": "https://open.spotify.com/track/44xpsWlXIZaLC9ezuALEyE"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Stille Pijn (Stip it!)",
         "url": "https://open.spotify.com/album/39Cg6qp3pv6FW7SKpF2bFm"
@@ -621,23 +653,7 @@
       "url": "https://open.spotify.com/track/3giaPcqlpiX6SG6lwRRj55"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Bodem Van De Fles",
-        "url": "https://open.spotify.com/album/5qpANpV4y9DFcJixLp2rG7"
-      },
-      "artists": [
-        {
-          "name": "Ritse",
-          "url": "https://open.spotify.com/artist/7CKb0N4FZ4f1MG1vViQB1d"
-        }
-      ],
-      "duration_ms": 161785,
-      "name": "Bodem Van De Fles",
-      "url": "https://open.spotify.com/track/6ZfSzVtNstrFVbud4qH5RV"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/4kA2V4fDHI0krhrwkb5XDn"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/6Z0ydsxwmkKL8yPX0RFjT0"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Maar Niet Met Jou Erbij",
         "url": "https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Tankstation",
         "url": "https://open.spotify.com/album/57Iitonh5nrjh1BU8nn6LJ"
@@ -685,7 +701,23 @@
       "url": "https://open.spotify.com/track/6l6QN2twTWU0nnhGJn76lR"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "OCS",
+        "url": "https://open.spotify.com/album/0jYO15I8jUvT1wd0P2Peox"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d"
+        }
+      ],
+      "duration_ms": 182615,
+      "name": "OCS",
+      "url": "https://open.spotify.com/track/0OT029FXpgs7mQRJm8B3wX"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Kan Je Me Laten",
         "url": "https://open.spotify.com/album/6FrYMFvJal8M2go84iwQhT"
@@ -701,7 +733,7 @@
       "url": "https://open.spotify.com/track/0WiLq7KevSxwPjwPT6QDzt"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Blauwe Maandag",
         "url": "https://open.spotify.com/album/6Un53AaCAlWAcBl8olQlQK"
@@ -717,7 +749,7 @@
       "url": "https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "veilig",
         "url": "https://open.spotify.com/album/0Nd7v2vZvVEQt615Pl27uz"
@@ -733,7 +765,7 @@
       "url": "https://open.spotify.com/track/6AA25bMKeaifeQtJssZhYz"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/4gHZ6Z0tf7LVAwSt1SffdA"
@@ -749,7 +781,7 @@
       "url": "https://open.spotify.com/track/1CYCk63BLjz4sGA8coNU6u"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Duizend Lichtjes (Radio Edit)",
         "url": "https://open.spotify.com/album/3ltI4E6dNJNlfM2gF1EUdl"
@@ -769,7 +801,7 @@
       "url": "https://open.spotify.com/track/36Vn9lLTJKD8gly99Fg3w9"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Laatste Keer",
         "url": "https://open.spotify.com/album/7rUuXDGfkkWAxDXFKTxigi"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/3OBDE2Zx4u2YZYd0PUUOGp"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Achtentwintig",
         "url": "https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Wat Als De Storm Komt",
         "url": "https://open.spotify.com/album/2lLQEEFu8bzGmhqpYQ3F8Q"
@@ -825,7 +857,7 @@
       "url": "https://open.spotify.com/track/1gEBvpvyyQmDeG6Lpo7cwN"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Radar",
         "url": "https://open.spotify.com/album/1wNXE5nqPYkz3j0Fe8nmWB"
@@ -841,23 +873,7 @@
       "url": "https://open.spotify.com/track/7sPU3UDb9jjW3F9AYKlQD9"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Harmonie",
-        "url": "https://open.spotify.com/album/7ekoyoS7XjHdic9gqDGlxm"
-      },
-      "artists": [
-        {
-          "name": "Nobu",
-          "url": "https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u"
-        }
-      ],
-      "duration_ms": 179314,
-      "name": "Harmonie",
-      "url": "https://open.spotify.com/track/1RGseAlntVH6yD65xKi509"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Meisjes lopen sneller",
         "url": "https://open.spotify.com/album/2kfLBi7ezCQRJfMHH11ZGx"
@@ -873,7 +889,23 @@
       "url": "https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Bodem Van De Fles",
+        "url": "https://open.spotify.com/album/5qpANpV4y9DFcJixLp2rG7"
+      },
+      "artists": [
+        {
+          "name": "Ritse",
+          "url": "https://open.spotify.com/artist/7CKb0N4FZ4f1MG1vViQB1d"
+        }
+      ],
+      "duration_ms": 161785,
+      "name": "Bodem Van De Fles",
+      "url": "https://open.spotify.com/track/6ZfSzVtNstrFVbud4qH5RV"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/5Lv0g9PAEpz9OU4oPIgvlo"
@@ -889,7 +921,23 @@
       "url": "https://open.spotify.com/track/2cabxTvClcBMWFnSskAdPo"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Niet Alleen",
+        "url": "https://open.spotify.com/album/4JYgA4oW437SVYr6k6f8eX"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Niet Alleen",
+      "url": "https://open.spotify.com/track/6yzyosFCPny55uVpzvYJZD"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Iemand Anders",
         "url": "https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL"
@@ -905,23 +953,7 @@
       "url": "https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "25 Nachten (Wonderful Days)",
-        "url": "https://open.spotify.com/album/3VOCrc5wbid37e9Yj4B2RO"
-      },
-      "artists": [
-        {
-          "name": "BENR",
-          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
-        }
-      ],
-      "duration_ms": 139756,
-      "name": "25 Nachten (Wonderful Days)",
-      "url": "https://open.spotify.com/track/3vc8nuTPR0eNE06rnywF8V"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/7g58IGmaCmCx1giHXtiVpz"
@@ -937,23 +969,7 @@
       "url": "https://open.spotify.com/track/2Y4vxLDN2mCweUrN6ZcY1i"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Door De Regen",
-        "url": "https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI"
-      },
-      "artists": [
-        {
-          "name": "LAUF",
-          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Door De Regen",
-      "url": "https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Kalmeer Me",
         "url": "https://open.spotify.com/album/60wpnUXyT43TFowNqrvw5f"
@@ -969,7 +985,7 @@
       "url": "https://open.spotify.com/track/6kfxfUbKtyZbAdcW3zxz0E"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2"
@@ -985,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0"
     },
     {
-      "added_at": "2024-03-07 23:00:00",
+      "added_at": "2024-03-14 23:00:00",
       "album": {
         "name": "Thuis Thuis",
         "url": "https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb"
@@ -999,22 +1015,6 @@
       "duration_ms": 188835,
       "name": "Thuis Thuis",
       "url": "https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "Niet Alleen",
-        "url": "https://open.spotify.com/album/4JYgA4oW437SVYr6k6f8eX"
-      },
-      "artists": [
-        {
-          "name": "Pjotr",
-          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Niet Alleen",
-      "url": "https://open.spotify.com/track/6yzyosFCPny55uVpzvYJZD"
     }
   ],
   "unique_name": "Je Moerstaal",

@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 468459,
+  "num_followers": 468558,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGM4YzM3MzM5NGY1N2JmYWNhYWVkZDY1NTc1NGZhMjlkOTI1NDkx",
+  "snapshot_id": "MCxkYWZlNzM2MDczODkyNTViODk2ZmNkOWU5YTM4YzljYTc4MmZjZWNl",
   "tracks": [
     {
       "added_at": "2024-03-05 21:47:18",
@@ -827,18 +827,22 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "Konspirasi Alam Semesta",
-        "url": "https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h"
+        "name": "Tempat Aku Pulang",
+        "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
       },
       "artists": [
         {
           "name": "Fiersa Besari",
           "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        },
+        {
+          "name": "Thantri Sundari",
+          "url": "https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV"
         }
       ],
-      "duration_ms": 213236,
-      "name": "Garis Terdepan",
-      "url": "https://open.spotify.com/track/4cLmzFuO46wsTaJnoC8m4P"
+      "duration_ms": 323956,
+      "name": "Waktu Yang Salah",
+      "url": "https://open.spotify.com/track/47caohVI6Qe7KY8EuaRtg0"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -987,22 +991,18 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "Tempat Aku Pulang",
-        "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
+        "name": "Konspirasi Alam Semesta",
+        "url": "https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h"
       },
       "artists": [
         {
           "name": "Fiersa Besari",
           "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        },
-        {
-          "name": "Thantri Sundari",
-          "url": "https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV"
         }
       ],
-      "duration_ms": 323956,
-      "name": "Waktu Yang Salah",
-      "url": "https://open.spotify.com/track/47caohVI6Qe7KY8EuaRtg0"
+      "duration_ms": 213236,
+      "name": "Garis Terdepan",
+      "url": "https://open.spotify.com/track/4cLmzFuO46wsTaJnoC8m4P"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
+        "name": "Peace, Love And Respect",
+        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "11 Januari",
+      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
         "name": "Percayalah",
         "url": "https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 266111,
       "name": "Percayalah",
       "url": "https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
-        "name": "Peace, Love And Respect",
-        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
-      },
-      "artists": [
-        {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "11 Januari",
-      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
     },
     {
       "added_at": "2024-03-05 21:47:18",

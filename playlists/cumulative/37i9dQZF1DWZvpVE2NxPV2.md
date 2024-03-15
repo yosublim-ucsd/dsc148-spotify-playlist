@@ -4,16 +4,18 @@
 
 > Peaceful ambient for mind body connection.
 
-228 songs - 11 hr 49 min
+233 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Am Reflective](https://open.spotify.com/track/0IjLq8vY7kzTDuqoI8nz9L) | [Sonnu Prufondu](https://open.spotify.com/artist/6JTFXMxmPUAPdynYVBQvWi) | [1 Am Reflective](https://open.spotify.com/album/2Fk7QuGSaeaCDmVMWphuNl) | 3:03 | 2022-01-07 | 2022-10-26 |
 | [396 Hz Open Mind](https://open.spotify.com/track/5Ip0fDh4jDx4LR9fCSZ4eu) | [Sophisto](https://open.spotify.com/artist/64fwopk0HjUIjcj3QS58vP) | [396 Hz Open Mind](https://open.spotify.com/album/3oW0nxADQGMgW4RrW2gWVB) | 2:34 | 2022-11-25 |  |
 | [A Voice in the Night](https://open.spotify.com/track/7JU4Y0OpLHAHSR5tRnZN6n) | [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [Savitri](https://open.spotify.com/album/2ZsGVNxeyBgAD3BbUFieO3) | 4:07 | 2024-01-26 |  |
+| [aequor](https://open.spotify.com/track/1bg1pkCcZums63l85aFe6x) | [ẹmi](https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU) | [aequor](https://open.spotify.com/album/5nBJgzreCLff9VRA9KPKfj) | 2:31 | 2024-03-14 |  |
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2022-01-07 |  |
 | [Ahasaas](https://open.spotify.com/track/4rt8jPJ9Yk4jzgRYsUxYIW) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Ahasaas](https://open.spotify.com/album/4x7wRUVS5XAzvEPbihKndQ) | 2:45 | 2023-08-11 |  |
 | [Ancient Prayer](https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Ancient Prayer](https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA) | 2:56 | 2022-06-02 |  |
+| [Anduin](https://open.spotify.com/track/0JMCO5CHL11nwI4NA1blxi) | [Reve De Lune](https://open.spotify.com/artist/0hR5ZibruXhF8cMnILIOEI) | [Anduin](https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb) | 2:56 | 2024-03-14 |  |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-01-07 | 2022-06-03 |
 | [Aspettami](https://open.spotify.com/track/06eKIv3GcoevTNVVyldzWw) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/0M7H8emADLzJH0cEOJ0zSB) | 2:05 | 2023-01-10 |  |
 | [Aspettami](https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r) | 2:05 | 2023-01-10 | 2023-04-19 |
@@ -42,6 +44,7 @@
 | [Chaturanga](https://open.spotify.com/track/1Oiz4jjV7G1OZ7Lh2DLuse) | [Aizah Dunn](https://open.spotify.com/artist/2Uri3Mg1aY8fdznLGhNkdh) | [Chaturanga](https://open.spotify.com/album/2EFNc8ghzm9jpbEZlnicvL) | 2:29 | 2022-01-07 |  |
 | [Cibola](https://open.spotify.com/track/0pbsOxjBKUu2zAiBEbGBWl) | [Ambient Saga](https://open.spotify.com/artist/6jXJLmPCp6G9qpAK8XJZ81) | [Restful Days](https://open.spotify.com/album/1qdQorBzd93vJb4iRS43b8) | 3:17 | 2023-06-20 |  |
 | [Cirraí](https://open.spotify.com/track/6zSsTHlXYqA1DfvysYunGd) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Cirraí](https://open.spotify.com/album/4oumX1sftcjjbDv7sPBiTG) | 2:50 | 2022-01-07 | 2022-10-26 |
+| [Como antes](https://open.spotify.com/track/4qzw27x0zpsqtDNL5pfCc0) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Como antes](https://open.spotify.com/album/2embggsTkawDxjpbmUOp5y) | 3:15 | 2024-03-14 |  |
 | [Cryosleep Emotions](https://open.spotify.com/track/1C8ER2PO8lLxaBaAuEwHXs) | [Asanka](https://open.spotify.com/artist/5UhSxhd4fYQX6TkzBK0EEF) | [Cryosleep Emotions](https://open.spotify.com/album/42Z8trECE7Wv89k5xaVhXT) | 3:19 | 2022-10-25 |  |
 | [Crystal Mind](https://open.spotify.com/track/3Dej28jw6dF2X0zLXgEfGr) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Crystal Mind](https://open.spotify.com/album/6LtdVeYI047UzzS8AXAC7c) | 2:26 | 2024-01-26 |  |
 | [Darkness Turns to Sky](https://open.spotify.com/track/2s321Nxw1BYFr5VuMxqDUV) | [Shiloh Mirage](https://open.spotify.com/artist/50tMFE32bqSKVZEMuZjnCO) | [Darkness Turns to Sky](https://open.spotify.com/album/1vAt0HnVVDSyxAKf3xnObw) | 2:15 | 2024-03-07 |  |
@@ -73,10 +76,12 @@
 | [Facile Senses](https://open.spotify.com/track/6Om9JiR0nLPL5w0XG8krNc) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Facile Senses](https://open.spotify.com/album/1IhQrP1R85Jk319wNJWEzW) | 3:06 | 2022-10-25 |  |
 | [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 | 2022-01-07 | 2022-06-03 |
 | [Finally at Ease](https://open.spotify.com/track/0flbHtYjcLkCTekTMcTbPZ) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Finally at Ease](https://open.spotify.com/album/4vJeu82GObb5iIBvGClsLH) | 3:49 | 2022-01-07 | 2023-08-12 |
+| [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/4oy2uVLAg5ylYRiH0Q2SVM) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 | 2024-03-14 |  |
 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 | 2022-10-25 |  |
 | [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2022-01-07 | 2022-12-10 |
 | [Flow](https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Flow](https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5) | 4:17 | 2023-08-11 |  |
 | [Flutonia Dreaming](https://open.spotify.com/track/6bmtzWeaEulnHVrCMfUpBd) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Flutonia Dreaming](https://open.spotify.com/album/6f4VSiUzbMdkLf0H9VAQJC) | 3:05 | 2023-08-30 |  |
+| [Forward](https://open.spotify.com/track/1vAzpG22ziNLd5wzOzjM0z) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Forward](https://open.spotify.com/album/6VeJTPvH1U28Ne2MCK3q1L) | 3:09 | 2024-03-14 |  |
 | [Fragility](https://open.spotify.com/track/76PJSFCBGkVazJvMcE3Uyi) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Fragility](https://open.spotify.com/album/5xoJiIPUG9kVH5HoQiKRb6) | 2:28 | 2022-01-07 | 2023-12-02 |
 | [Gan Duille](https://open.spotify.com/track/1Xs8qLgBD1IeblneE69YsV) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Gan Duille](https://open.spotify.com/album/0tqA8fa838YZ9Ex863r6Yl) | 2:31 | 2022-01-07 |  |
 | [Halving The Compass](https://open.spotify.com/track/54NquOiocazAzjHpqIGGS3) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Eingya](https://open.spotify.com/album/1OF3AnbSDa1ZSEFE7lukTb) | 5:26 | 2022-01-07 | 2022-05-13 |

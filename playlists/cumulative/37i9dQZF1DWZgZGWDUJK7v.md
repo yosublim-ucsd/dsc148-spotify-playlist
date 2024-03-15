@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: Killer Peter\(킬러 배드로\)\)사내연애 사절!\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-168 songs - 10 hr 15 min
+169 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [The invention of romance \(WEBTOON 'Discovery of Love' X BIG Naughty\)](https://open.spotify.com/track/3VwwxnQlYfAIIIWwgvdAWR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The invention of romance \(WEBTOON 'Discovery of Love' X BIG Naughty\)](https://open.spotify.com/album/3aoVOedTKPTcLJBa7F5ofg) | 2:59 | 2022-08-19 |  |
 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 | 2022-05-09 |  |
 | [The Moon Has Passed](https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [The Moon Has Passed \(The Moon during the Day\)](https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx) | 3:46 | 2023-05-15 |  |
+| [The rose of Versailles \(Original Soundtrack from the Webtoon The Siren : Becoming the Villain′s Family\)](https://open.spotify.com/track/0XGWWHxYoXtlv13HAAG0uW) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [The rose of Versailles \(Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family\)](https://open.spotify.com/album/3zlaBKIqfjp78kCxhpuOwy) | 3:59 | 2024-03-14 |  |
 | [The saddest song](https://open.spotify.com/track/2PQnxR5z0a7DK7pUonHAY3) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [잉어님과 떡볶이 OST Part.17 \(Soundtrack\)](https://open.spotify.com/album/5rRUcHvm5fmjI9ZFuzIfwp) | 4:10 | 2023-11-14 |  |
 | [The sweetest words in the world 'I Love You'](https://open.spotify.com/track/14SOF44GRNxuaWU6ImnK1e) | [An Ye Seul](https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj) | [Oh, Boy! OST Part.5 \(Soundtrack\)](https://open.spotify.com/album/33UKFC52oo23UDKlVcJAD6) | 3:54 | 2023-04-17 |  |
 | [The two of us](https://open.spotify.com/track/211qUU0CXl8NqovMvW3LSc) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [The Crush Of Spring OST Part.9](https://open.spotify.com/album/7uA5KDUQnGaPpE1Ccs8gwf) | 3:51 | 2022-06-15 |  |

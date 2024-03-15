@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Ruthee",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : J\u00e4de",
   "name": "le miel",
   "tracks": [
     {
@@ -705,6 +705,28 @@
     },
     {
       "album": {
+        "name": "Get out",
+        "url": "https://open.spotify.com/album/66wO4PPB1dAupIjGHCI4X5"
+      },
+      "artists": [
+        {
+          "name": "J\u00e4de",
+          "url": "https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB"
+        },
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Get out",
+      "url": "https://open.spotify.com/track/2TmZvS9mrPnIAcd5OsEHAx"
+    },
+    {
+      "album": {
         "name": "AU REVOIR SIMEON",
         "url": "https://open.spotify.com/album/1HhZFt1UjtsZaQZCHwoMaR"
       },
@@ -1144,7 +1166,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 157700,
       "name": "Ma Go",
       "url": "https://open.spotify.com/track/5sl1qh0eclSeUTGW5XgZnc"
@@ -1250,6 +1272,46 @@
       "duration_ms": 180352,
       "name": "Mienne",
       "url": "https://open.spotify.com/track/5GFYyEJYUQrG4q3URRtT4B"
+    },
+    {
+      "album": {
+        "name": "NISHATI",
+        "url": "https://open.spotify.com/album/6Rl0Xb0LQKQjcFbtiptz1f"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        },
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245533,
+      "name": "MIEUX QUE LES AUTRES",
+      "url": "https://open.spotify.com/track/0CSVMPP9R2jxc7NyhxL3r0"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/191DoTkYTANUBkoCjGvXRC"
+      },
+      "artists": [
+        {
+          "name": "Keziah",
+          "url": "https://open.spotify.com/artist/3CuHmC1rd8RvFdFhcn7467"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104727,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/1odA378yBmB168qEXdrxka"
     },
     {
       "album": {
@@ -1394,7 +1456,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 173173,
       "name": "Oublie-moi",
       "url": "https://open.spotify.com/track/638DO6YrucQZj3VLt0KH4W"
@@ -1936,7 +1998,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 165421,
       "name": "Sois Pas Press\u00e9",
       "url": "https://open.spotify.com/track/6MC1N4HYZJMKLj0H5deTgR"

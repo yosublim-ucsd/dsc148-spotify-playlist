@@ -2,7 +2,7 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo: Shay
+> Photo: Gazo x Tiakola
 
 88 songs - 4 hr 25 min
 

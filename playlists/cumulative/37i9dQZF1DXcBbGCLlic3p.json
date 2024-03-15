@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Anduin",
+        "url": "https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb"
+      },
+      "artists": [
+        {
+          "name": "Reve De Lune",
+          "url": "https://open.spotify.com/artist/0hR5ZibruXhF8cMnILIOEI"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Anduin",
+      "url": "https://open.spotify.com/track/0JMCO5CHL11nwI4NA1blxi"
+    },
+    {
+      "album": {
         "name": "Another Mellow Morning",
         "url": "https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n"
       },
@@ -1586,6 +1604,24 @@
       "duration_ms": 192168,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa"
+    },
+    {
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG"
+      },
+      "artists": [
+        {
+          "name": "Natura",
+          "url": "https://open.spotify.com/artist/4oy2uVLAg5ylYRiH0Q2SVM"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi"
     },
     {
       "album": {

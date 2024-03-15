@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 54094,
+  "2024-03-15": 54111,
   "date_first_scraped": "2022-09-15",
   "description": "This is Miel San Marcos. The essential tracks, all in one playlist.",
   "name": "This Is Miel San Marcos",
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 173450,
       "name": "Regoci\u0301jate Oh Moradora De Sio\u0301n",
       "url": "https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 468578,
       "name": "Yo Vencer\u00e9",
       "url": "https://open.spotify.com/track/6q8gNL44VMVDo4rx6wF8nC"

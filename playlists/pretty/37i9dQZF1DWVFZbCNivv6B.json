@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed vive el hip-hop mexicano. Santa Fe Klan, Peso Pluma y Duki en la casa. ",
-  "num_followers": 818323,
+  "num_followers": 818538,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjI1MGFiODU0ZmI4MzI3NzFhMDJmZTVkNzMxZDgzNmI3YjcyYmE5",
+  "snapshot_id": "MCw4NjRjNDlhZWM3Nzk2YWY4ZDgyOTJmYzNjZWJkYTRhNDc1ZDI0YmUw",
   "tracks": [
     {
       "added_at": "2024-03-01 19:22:53",
@@ -820,12 +820,12 @@
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
           "name": "Jayrick",
           "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
       "duration_ms": 166110,

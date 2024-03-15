@@ -2,7 +2,7 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : L'Impératrice
+> The best French indie tracks right now\. Cover : Emma Hoet
 
 471 songs - 1 day 1 hr 47 min
 

@@ -1086,6 +1086,28 @@
     {
       "album": {
         "name": "Diciembre Sin Ti",
+        "url": "https://open.spotify.com/album/3rlHcMaIQZYfyaWnUd2nwQ"
+      },
+      "artists": [
+        {
+          "name": "Art House",
+          "url": "https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47"
+        },
+        {
+          "name": "Diana Fuentes",
+          "url": "https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207247,
+      "name": "Diciembre Sin Ti",
+      "url": "https://open.spotify.com/track/0b7s5FQz2eHTydWCbuPWUd"
+    },
+    {
+      "album": {
+        "name": "Diciembre Sin Ti",
         "url": "https://open.spotify.com/album/4Fer79sUn0C5roLh5GaO9i"
       },
       "artists": [
@@ -1100,7 +1122,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 207247,
       "name": "Diciembre Sin Ti",
       "url": "https://open.spotify.com/track/4RS4SB4CcZybf1kGz993ds"
@@ -1278,6 +1300,24 @@
     {
       "album": {
         "name": "Que No Me Falte la Voz",
+        "url": "https://open.spotify.com/album/2ZhZD15Y01S8wapcjUqc3h"
+      },
+      "artists": [
+        {
+          "name": "Adriana Lucia",
+          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184557,
+      "name": "El R\u00edo",
+      "url": "https://open.spotify.com/track/3gXGDykfDtnjMhJnB95wfy"
+    },
+    {
+      "album": {
+        "name": "Que No Me Falte la Voz",
         "url": "https://open.spotify.com/album/5zz2XeUnisl841JMlybgxw"
       },
       "artists": [
@@ -1288,7 +1328,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 184557,
       "name": "El R\u00edo",
       "url": "https://open.spotify.com/track/4tjA9rQ9e7ya0n8LIrZckS"
@@ -1314,6 +1354,24 @@
     {
       "album": {
         "name": "El \u00daltimo Tango",
+        "url": "https://open.spotify.com/album/4ftcrZQ85AdsSFzW9U8msI"
+      },
+      "artists": [
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "El \u00daltimo Tango",
+      "url": "https://open.spotify.com/track/0bSZv0RKtRhCp6x9GWhDpc"
+    },
+    {
+      "album": {
+        "name": "El \u00daltimo Tango",
         "url": "https://open.spotify.com/album/5VCIQWVghqtSmsjv9lc5WB"
       },
       "artists": [
@@ -1324,7 +1382,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 194754,
       "name": "El \u00daltimo Tango",
       "url": "https://open.spotify.com/track/0s9r2e3sxNETMDZYrkIvzR"
@@ -2308,6 +2366,24 @@
     {
       "album": {
         "name": "Luna Llena",
+        "url": "https://open.spotify.com/album/1Csvpp8JBHJ0i4I7YOoDUp"
+      },
+      "artists": [
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225080,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/02Sfpq0O5TeBN3Yar6d6Us"
+    },
+    {
+      "album": {
+        "name": "Luna Llena",
         "url": "https://open.spotify.com/album/4WSINjUDwvesrZ8azdkRhd"
       },
       "artists": [
@@ -2318,7 +2394,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 225080,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/0s9X5ram6hySzreyeTikTw"

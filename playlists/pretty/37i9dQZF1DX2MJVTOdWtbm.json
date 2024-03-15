@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: xBValentine & Frankie J",
-  "num_followers": 113736,
+  "num_followers": 113755,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGFhNzUyODIzMGEzYWQyMzhjNTljZjEyN2M3NDYyN2RmNzIzZTkz",
+  "snapshot_id": "MCxmZWU2MjdlOWE1YjA2YjhkODkwNmExNWYwOTNkNDc5ODc1MTJmNjFk",
   "tracks": [
     {
       "added_at": "2024-03-08 11:12:38",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
+        "name": "Mil Maneras de Morir",
+        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Mil Maneras de Morir",
+      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
+    },
+    {
+      "added_at": "2024-03-08 11:12:38",
+      "album": {
         "name": "T\u00edrame Un Hello (Remix)",
         "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
-    },
-    {
-      "added_at": "2024-03-08 11:12:38",
-      "album": {
-        "name": "Mil Maneras de Morir",
-        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Mil Maneras de Morir",
-      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -767,22 +767,18 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "Labios de Vainilla",
-        "url": "https://open.spotify.com/album/46VuvNSBHEzy3fbIIAapKl"
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
       },
       "artists": [
         {
-          "name": "OPYI",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Parece un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1DXAuCkxL3hdcLjBkvUxgN"
+      "duration_ms": 253150,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -803,18 +799,22 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
+        "name": "Labios de Vainilla",
+        "url": "https://open.spotify.com/album/46VuvNSBHEzy3fbIIAapKl"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "OPYI",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
         }
       ],
-      "duration_ms": 253150,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
+      "duration_ms": 186500,
+      "name": "Parece un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1DXAuCkxL3hdcLjBkvUxgN"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "Esc\u00e1pate",
-        "url": "https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc"
-      },
-      "artists": [
-        {
-          "name": "Nevi",
-          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
-        }
-      ],
-      "duration_ms": 165881,
-      "name": "Esc\u00e1pate",
-      "url": "https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71"
-    },
-    {
-      "added_at": "2024-03-08 11:12:38",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/0cBb2v72QQychZ8tuOyWCp"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 244700,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
+    },
+    {
+      "added_at": "2024-03-08 11:12:38",
+      "album": {
+        "name": "Esc\u00e1pate",
+        "url": "https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc"
+      },
+      "artists": [
+        {
+          "name": "Nevi",
+          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
+        }
+      ],
+      "duration_ms": 165881,
+      "name": "Esc\u00e1pate",
+      "url": "https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
+        "name": "C\u00d3DIGOS",
+        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Camino a Neptuno",
+      "url": "https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv"
+    },
+    {
+      "added_at": "2024-03-08 11:12:38",
+      "album": {
         "name": "Ser Feliz",
         "url": "https://open.spotify.com/album/2G2RGCle7gV0mmKvP3ohOS"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 212538,
       "name": "Ser Feliz",
       "url": "https://open.spotify.com/track/1BGtMvl4BIDAQ7ThRGiAda"
-    },
-    {
-      "added_at": "2024-03-08 11:12:38",
-      "album": {
-        "name": "C\u00d3DIGOS",
-        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Camino a Neptuno",
-      "url": "https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv"
     },
     {
       "added_at": "2024-03-08 11:12:38",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-03-08 11:12:38",
       "album": {
-        "name": "La Lune XVIII",
-        "url": "https://open.spotify.com/album/0FiZSLKYFf7SyqBAh4tHHJ"
-      },
-      "artists": [
-        {
-          "name": "Yesan \u96ea\u5c71",
-          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
-        }
-      ],
-      "duration_ms": 175594,
-      "name": "La Lune XVIII",
-      "url": "https://open.spotify.com/track/6sPEHT3coWNOJ8ZFamf9uS"
-    },
-    {
-      "added_at": "2024-03-08 11:12:38",
-      "album": {
         "name": "No Fui Solo Yo",
         "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 202942,
       "name": "No Fui Solo Yo",
       "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
+    },
+    {
+      "added_at": "2024-03-08 11:12:38",
+      "album": {
+        "name": "La Lune XVIII",
+        "url": "https://open.spotify.com/album/0FiZSLKYFf7SyqBAh4tHHJ"
+      },
+      "artists": [
+        {
+          "name": "Yesan \u96ea\u5c71",
+          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
+        }
+      ],
+      "duration_ms": 175594,
+      "name": "La Lune XVIII",
+      "url": "https://open.spotify.com/track/6sPEHT3coWNOJ8ZFamf9uS"
     }
   ],
   "unique_name": "Latin R&B",

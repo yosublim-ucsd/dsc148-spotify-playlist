@@ -4,7 +4,7 @@
 
 > Early Noise 2020選出アーティスト藤井 風の楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Fujii Kaze.
 
-27 songs - 1 hr 54 min
+28 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Kiri Ga Naikara](https://open.spotify.com/track/7i5pytF8KaId51lIzatwdg) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:37 | 2023-11-02 |  |
 | [Lonely Rhapsody](https://open.spotify.com/track/2Q0LpnMDXazZk49AWEiHE2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 4:46 | 2023-11-02 |  |
 | [Matsuri](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:45 | 2023-11-02 |  |
+| [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 | 2024-03-14 |  |
 | [Mo\-Eh\-Wa](https://open.spotify.com/track/1JRNrJKTQhfvxII8kkIcAQ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 5:01 | 2023-11-02 |  |
 | [MO\-EH\-YO \(Ignite\)](https://open.spotify.com/track/2fMdT98JpheoBh6t8DBSjI) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 4:37 | 2023-11-02 |  |
 | [Nan\-Nan](https://open.spotify.com/track/2CbGuO0LtVvbh3umN3mDwM) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 5:20 | 2023-11-02 |  |

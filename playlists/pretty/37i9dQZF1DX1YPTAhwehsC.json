@@ -1,12 +1,12 @@
 {
   "description": "Up and down I-95. Cover: Cardi B",
-  "num_followers": 453949,
+  "num_followers": 453988,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTQ3M2Y3ZmFlMjE0MTAzZmU5MDk0ZTMxZjRjNmZkZWI4MzZiMmE0",
+  "snapshot_id": "MCxmMGZiNTk2NTc1ZTJlZmJkNTc1MjYwYmI2ODdlNjIwZDc0YmNkMGQ5",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -414,9 +414,13 @@
         {
           "name": "Jay Critch",
           "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
         }
       ],
-      "duration_ms": 140472,
+      "duration_ms": 140416,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/7D9hC9aFANt3vzGx1p0ZL0"
     },

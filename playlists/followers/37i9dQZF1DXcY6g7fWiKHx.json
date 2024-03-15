@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 38350,
+  "2024-03-15": 38361,
   "date_first_scraped": "2023-12-09",
   "description": "<a href=\"spotify:artist:3QFiymmbJlVBPpnrOatEAkq\">Myd</a>'s favourite tracks. Updated regularly. Curated by Myd. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Myd's track IDs",
@@ -3675,7 +3675,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 359621,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3hsCeNM5xpc3qdbkafqRjb"
@@ -3701,6 +3701,28 @@
       "duration_ms": 359621,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/6P7sCwqzJI0WjpZbD3Dq89"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/5zcIiYtO87KqiYacfS2uTK"
+      },
+      "artists": [
+        {
+          "name": "AF13",
+          "url": "https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E"
+        },
+        {
+          "name": "Tyesha Blount",
+          "url": "https://open.spotify.com/artist/7ye6DfDfZt0YVuug54vRCz"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359621,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/7rS1eST1BH46vIraDtMge9"
     },
     {
       "album": {

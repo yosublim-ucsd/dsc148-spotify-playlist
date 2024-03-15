@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 154900,
       "name": "Als Water",
       "url": "https://open.spotify.com/track/6Crw1yc2A4W6L5LgOPnolS"
@@ -1508,6 +1508,24 @@
       "duration_ms": 179863,
       "name": "Lied Van De Zevende Dag",
       "url": "https://open.spotify.com/track/6e50pXxK6eUgcH5wc3Z06W"
+    },
+    {
+      "album": {
+        "name": "Liefde Van Later",
+        "url": "https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm"
+      },
+      "artists": [
+        {
+          "name": "Paskal Jakobsen",
+          "url": "https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283361,
+      "name": "Liefde Van Later",
+      "url": "https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7"
     },
     {
       "album": {

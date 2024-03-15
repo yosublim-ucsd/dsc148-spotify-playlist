@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,835 likes - 97 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,849 likes - 97 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 96 | [Smack Down Fury](https://open.spotify.com/track/6aESmuzXnIVpo5RTvNUPdL) | [Ika Sile](https://open.spotify.com/artist/1H1NCpFcMUlyZs6JKpsk4C) | [The Fury](https://open.spotify.com/album/73dQebjYa0adfUa40NQDNc) | 5:52 |
 | 97 | [Yes \- Remastered](https://open.spotify.com/track/5zhFBeXP6RjaqF8t5nWJPz) | [Mario De Bellis](https://open.spotify.com/artist/3nXiQWYpv6vWZERJbvYEg4) | [Yes](https://open.spotify.com/album/3JiFYykOsAqWy0UfLasmEg) | 8:25 |
 
-Snapshot ID: `MCxhMjI3ZjA2NjU0ODkzZTljYmYzMGM2MWZlMjlmMDQzZDNhNzA4YWNl`
+Snapshot ID: `MCw4NzNjMDIyYTU0Nzg2MGY0NTEwNzUwZjFmNTk3ZWY2NmNlMzRmOTAz`

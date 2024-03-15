@@ -1,12 +1,12 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Sotam",
-  "num_followers": 129243,
+  "num_followers": 129284,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTRlMzQ4NDRlN2QyYzMwY2MyYmU0YjUxNTcwZTk1ZGM4YTkxMzFh",
+  "snapshot_id": "MCxhNzcyMWVlMGQ1MzUwYzE2N2QzMjVkZjVkNDg1NTIxNmNiZjBlNzQx",
   "tracks": [
     {
       "added_at": "2024-03-08 19:31:18",
@@ -827,6 +827,34 @@
     {
       "added_at": "2024-03-08 19:31:18",
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Ela joga no 7",
+      "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
+    },
+    {
+      "added_at": "2024-03-08 19:31:18",
+      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -931,6 +959,34 @@
     {
       "added_at": "2024-03-08 19:31:18",
       "album": {
+        "name": "HARD ROCK",
+        "url": "https://open.spotify.com/album/1joRB65inPwhP5kS3XbcZ6"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        },
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "BLOCKKSTAR",
+          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
+        }
+      ],
+      "duration_ms": 226909,
+      "name": "HARD ROCK",
+      "url": "https://open.spotify.com/track/6yoNYLJ7enbygKXF50Af72"
+    },
+    {
+      "added_at": "2024-03-08 19:31:18",
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -971,62 +1027,6 @@
       "duration_ms": 340425,
       "name": "Floripa",
       "url": "https://open.spotify.com/track/38r9CzTvjFuEC4PrzRI78K"
-    },
-    {
-      "added_at": "2024-03-08 19:31:18",
-      "album": {
-        "name": "HARD ROCK",
-        "url": "https://open.spotify.com/album/1joRB65inPwhP5kS3XbcZ6"
-      },
-      "artists": [
-        {
-          "name": "LH CHUCRO",
-          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
-        },
-        {
-          "name": "The Boy",
-          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
-        },
-        {
-          "name": "N.A.N.A.",
-          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
-        },
-        {
-          "name": "BLOCKKSTAR",
-          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
-        }
-      ],
-      "duration_ms": 226909,
-      "name": "HARD ROCK",
-      "url": "https://open.spotify.com/track/6yoNYLJ7enbygKXF50Af72"
-    },
-    {
-      "added_at": "2024-03-08 19:31:18",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Ela joga no 7",
-      "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
     },
     {
       "added_at": "2024-03-08 19:31:18",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2024-03-08 19:31:18",
       "album": {
-        "name": "A Moda Antiga",
-        "url": "https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA"
-      },
-      "artists": [
-        {
-          "name": "Mc Kelvinho",
-          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        },
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "J.O.B",
-      "url": "https://open.spotify.com/track/3rtiVqkInMU2EcezNyYKnE"
-    },
-    {
-      "added_at": "2024-03-08 19:31:18",
-      "album": {
         "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
         "url": "https://open.spotify.com/album/3rXDB8PJWiuVSfkqYIELlV"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 218000,
       "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
       "url": "https://open.spotify.com/track/4TmIkfVvu5LOE2JADl8Brp"
+    },
+    {
+      "added_at": "2024-03-08 19:31:18",
+      "album": {
+        "name": "A Moda Antiga",
+        "url": "https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA"
+      },
+      "artists": [
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "J.O.B",
+      "url": "https://open.spotify.com/track/3rtiVqkInMU2EcezNyYKnE"
     },
     {
       "added_at": "2024-03-08 19:31:18",

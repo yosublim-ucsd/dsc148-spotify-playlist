@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-202 songs - 11 hr 39 min
+206 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Deeper](https://open.spotify.com/track/0PKnrl6CgIqNmupxNSj6qt) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Passion Like Fire](https://open.spotify.com/album/3XgBuJztzOQIdaT41cnC0Y) | 3:56 | 2022-06-04 |  |
 | [Demons](https://open.spotify.com/track/5YgbT8s9w7yRVabXJj6vv2) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:39 | 2022-06-04 | 2022-10-19 |
 | [Demons](https://open.spotify.com/track/7ENsj3LM785UVmHRjKRIkq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:39 | 2022-10-18 |  |
-| [Diciembre Sin Ti](https://open.spotify.com/track/4RS4SB4CcZybf1kGz993ds) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Diciembre Sin Ti](https://open.spotify.com/album/4Fer79sUn0C5roLh5GaO9i) | 3:27 | 2022-06-04 |  |
+| [Diciembre Sin Ti](https://open.spotify.com/track/0b7s5FQz2eHTydWCbuPWUd) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Diciembre Sin Ti](https://open.spotify.com/album/3rlHcMaIQZYfyaWnUd2nwQ) | 3:27 | 2024-03-14 |  |
+| [Diciembre Sin Ti](https://open.spotify.com/track/4RS4SB4CcZybf1kGz993ds) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Diciembre Sin Ti](https://open.spotify.com/album/4Fer79sUn0C5roLh5GaO9i) | 3:27 | 2022-06-04 | 2024-03-15 |
 | [Dime Que Me Esperas](https://open.spotify.com/track/3fwT5kqPyhpQQwNfb6hVzd) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Senti2](https://open.spotify.com/album/6aO5DFSqg8QuY2oVsoOsmG) | 3:49 | 2022-06-04 |  |
 | [Dime Si Hay Algo](https://open.spotify.com/track/01Pj5LzkZ3BFA3JilDeG5I) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/7IckMsQqMkoc70tL61rIMb) | 2:40 | 2024-03-12 |  |
 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 | 2022-06-04 | 2024-03-13 |
@@ -76,9 +77,11 @@
 | [El Camino De Los Sueños](https://open.spotify.com/track/1h4YSydyis2oSdQrBzQ4V3) | [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [De Noche](https://open.spotify.com/album/1D1wdYcrxkQuEpa4rPVoak) | 4:18 | 2022-06-04 |  |
 | [El carnaval](https://open.spotify.com/track/3p449iXDlyrgDpy5ZfcfAL) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:43 | 2022-06-04 |  |
 | [El Mundo](https://open.spotify.com/track/1zJ1IQfeh61HHyXBpdpYie) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:36 | 2022-06-04 |  |
-| [El Río](https://open.spotify.com/track/4tjA9rQ9e7ya0n8LIrZckS) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Que No Me Falte la Voz](https://open.spotify.com/album/5zz2XeUnisl841JMlybgxw) | 3:04 | 2022-06-04 |  |
+| [El Río](https://open.spotify.com/track/3gXGDykfDtnjMhJnB95wfy) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Que No Me Falte la Voz](https://open.spotify.com/album/2ZhZD15Y01S8wapcjUqc3h) | 3:04 | 2024-03-14 |  |
+| [El Río](https://open.spotify.com/track/4tjA9rQ9e7ya0n8LIrZckS) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Que No Me Falte la Voz](https://open.spotify.com/album/5zz2XeUnisl841JMlybgxw) | 3:04 | 2022-06-04 | 2024-03-15 |
 | [El Viaje](https://open.spotify.com/track/6fWauREw9pqglqdwIXhBcY) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [El Viaje](https://open.spotify.com/album/6hQ5cZWCg76ssbeRbmJ9Pf) | 2:12 | 2022-06-04 |  |
-| [El Último Tango](https://open.spotify.com/track/0s9r2e3sxNETMDZYrkIvzR) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [El Último Tango](https://open.spotify.com/album/5VCIQWVghqtSmsjv9lc5WB) | 3:14 | 2022-06-04 |  |
+| [El Último Tango](https://open.spotify.com/track/0bSZv0RKtRhCp6x9GWhDpc) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [El Último Tango](https://open.spotify.com/album/4ftcrZQ85AdsSFzW9U8msI) | 3:14 | 2024-03-14 |  |
+| [El Último Tango](https://open.spotify.com/track/0s9r2e3sxNETMDZYrkIvzR) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [El Último Tango](https://open.spotify.com/album/5VCIQWVghqtSmsjv9lc5WB) | 3:14 | 2022-06-04 | 2024-03-15 |
 | [Elise Was Here](https://open.spotify.com/track/1BiFGKc3j3cJpD0GyUgxmp) | [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf) | [Elise Was Here](https://open.spotify.com/album/3CWoJapAdbrcu8jb3PTscK) | 3:23 | 2022-06-04 |  |
 | [En El Teatro](https://open.spotify.com/track/2h5lbaq6Ge7rcJGrijc4UU) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 1:48 | 2022-06-04 |  |
 | [En Las Manos De Dios](https://open.spotify.com/track/0oOnIriN6B7BoQXgAR5n1c) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose \(Expanded Edition\)](https://open.spotify.com/album/3Ca2ChPMHogU1scVKSEprg) | 4:13 | 2022-06-04 |  |
@@ -131,7 +134,8 @@
 | [Los Rotos](https://open.spotify.com/track/4LfaPS55yqBB6RcXISNTJw) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/6bk5BlDLY3NQzfRUpFOTRW) | 3:26 | 2024-03-13 |  |
 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 | 2022-06-04 | 2024-03-14 |
 | [Love Looks Like](https://open.spotify.com/track/2SfdyDfdZMtr1Wly6ZdYYJ) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Love Looks Like](https://open.spotify.com/album/7jwpTVabsnsvYRewJEhxka) | 3:51 | 2022-06-04 |  |
-| [Luna Llena](https://open.spotify.com/track/0s9X5ram6hySzreyeTikTw) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Luna Llena](https://open.spotify.com/album/4WSINjUDwvesrZ8azdkRhd) | 3:45 | 2022-06-04 |  |
+| [Luna Llena](https://open.spotify.com/track/02Sfpq0O5TeBN3Yar6d6Us) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Luna Llena](https://open.spotify.com/album/1Csvpp8JBHJ0i4I7YOoDUp) | 3:45 | 2024-03-14 |  |
+| [Luna Llena](https://open.spotify.com/track/0s9X5ram6hySzreyeTikTw) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Luna Llena](https://open.spotify.com/album/4WSINjUDwvesrZ8azdkRhd) | 3:45 | 2022-06-04 | 2024-03-15 |
 | [Make a Choice](https://open.spotify.com/track/5Be0V4OFPWDE4ea8FFx8tB) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 3:45 | 2022-06-04 | 2024-03-12 |
 | [Make a Choice](https://open.spotify.com/track/6HN6ahqgNMNql59e6dCWIo) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6) | 3:45 | 2024-03-11 |  |
 | [Malas Lenguas](https://open.spotify.com/track/4D0KRwHE25Q3HDzD7dORX5) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Intuición](https://open.spotify.com/album/1wFlOd0yqPGfly3SFTw86T) | 2:44 | 2022-06-04 | 2023-12-25 |

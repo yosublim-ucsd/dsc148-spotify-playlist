@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,778 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,790 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 41 | [Where Country Is \- Live From Australia/2000](https://open.spotify.com/track/4BCPNtyHGhM1PTbm4A6skL) | [Anne Kirkpatrick](https://open.spotify.com/artist/60jrOXNbRmY2Mq0l0JFOme) | [Slim Dusty Live](https://open.spotify.com/album/44ANFDCI13LRwr4c8BFtRD) | 3:47 |
 | 42 | [Stacks](https://open.spotify.com/track/2GkgT0sVBPPfeHqzA7bh1w) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ) | [Stacks](https://open.spotify.com/album/7An96Hf87OBmbvWNSpO3Vi) | 2:58 |
 | 43 | [Rattlin' Chains](https://open.spotify.com/track/4x0o5cK2uzbMehIxeL2szH) | [Baylou](https://open.spotify.com/artist/1iYr7AHxlh3luK6lU1jUf5) | [Bang Bang](https://open.spotify.com/album/3SSqFC1C1m6ifsq2utV488) | 2:56 |
-| 44 | [A Town Like This](https://open.spotify.com/track/0Styg7oirAtwLZMLCeq8os) | [Cornell And Carr](https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8) | [A Town Like This](https://open.spotify.com/album/76zfVWlVWiWwgbLItoAHfz) | 3:27 |
+| 44 | [A Town Like This](https://open.spotify.com/track/7qTRiQDoAmcBODVmLoLWsh) | [Cornell And Carr](https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8) | [A Town Like This](https://open.spotify.com/album/446PyShxXQlZ4EibgPwXnc) | 3:27 |
 | 45 | [It's Only Midnight](https://open.spotify.com/track/72MgiAUltaFgHD3NVVUeoK) | [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [My Soundtrack](https://open.spotify.com/album/3rXbPxmub3kqkPKfSwmore) | 3:41 |
 | 46 | [Heatwave](https://open.spotify.com/track/3RRFPAWfF7SzXtdePPQIr7) | [Missy Lancaster](https://open.spotify.com/artist/4D3jbGqN1G7WxpRYJ1R6gL) | [Piece Of Me](https://open.spotify.com/album/06AzmWtWOUCb5ZKJLh68b4) | 3:16 |
 | 47 | [So Long So Long](https://open.spotify.com/track/5nGF0GD9p1lnKn8OdUNlUL) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [So Long So Long](https://open.spotify.com/album/0DrSVziCS5z1okRftdWpIh) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 49 | [Duncan \- 1998 Remaster](https://open.spotify.com/track/2EnHSj3GZ0pr7S3fka1zcf) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 2:35 |
 | 50 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
 
-Snapshot ID: `MCw3MDdhNTJiNWY3MmE2YTczNzk2NTQ1OGYzNjBlMzU1ZGE3ZDcxM2Vh`
+Snapshot ID: `MCwxYWNhNTE3NGEwMzE1MTg4OWI4YzcwNzAzYzJkOTg5MGJlYWJhMDFh`

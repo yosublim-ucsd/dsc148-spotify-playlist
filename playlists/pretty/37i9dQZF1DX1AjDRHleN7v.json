@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 303161,
+  "num_followers": 303358,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDExOGIwMzQ2M2VkODRkYmMxYWRkNjc2OGZhMWZhZTcyMWRiY2Zh",
+  "snapshot_id": "MCw0MjNmM2Q4OTRmYTA4YmQ1ZDU3NTVhYTEzYTQ3YjZjOTdiM2E1OGZi",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -187,6 +187,26 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Namora Comigo",
+        "url": "https://open.spotify.com/album/6Dz9DByVqaP2ok2vMK5BL5"
+      },
+      "artists": [
+        {
+          "name": "Tau\u00e3 Cordel",
+          "url": "https://open.spotify.com/artist/57qCX4KKubPxn6eBgfR3s6"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 209620,
+      "name": "Namora Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/74ZNzfjGzndMphc6lxiQUl"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Rindo \u00c0 Toa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 202761,
       "name": "O Bem",
       "url": "https://open.spotify.com/track/7pj80cYmGQvxudCfxGETrN"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Namora Comigo",
-        "url": "https://open.spotify.com/album/6Dz9DByVqaP2ok2vMK5BL5"
-      },
-      "artists": [
-        {
-          "name": "Tau\u00e3 Cordel",
-          "url": "https://open.spotify.com/artist/57qCX4KKubPxn6eBgfR3s6"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 209620,
-      "name": "Namora Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/74ZNzfjGzndMphc6lxiQUl"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Frequ\u00eancia do Amor",
+        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "Frequ\u00eancia do Amor",
+      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Ascenda",
         "url": "https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8"
       },
@@ -655,18 +671,34 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Frequ\u00eancia do Amor",
-        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+        "name": "tudo \u00e9 mt distante",
+        "url": "https://open.spotify.com/album/6TPmiamOTKCDhsn5O5kmtv"
       },
       "artists": [
         {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
         }
       ],
-      "duration_ms": 161107,
-      "name": "Frequ\u00eancia do Amor",
-      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
+      "duration_ms": 192446,
+      "name": "sei l\u00e1",
+      "url": "https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Avenida da Paix\u00e3o",
+        "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
+      },
+      "artists": [
+        {
+          "name": "Pagui",
+          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
+        }
+      ],
+      "duration_ms": 152934,
+      "name": "Avenida da Paix\u00e3o",
+      "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -691,34 +723,34 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Avenida da Paix\u00e3o",
-        "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
       },
       "artists": [
         {
-          "name": "Pagui",
-          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
         }
       ],
-      "duration_ms": 152934,
-      "name": "Avenida da Paix\u00e3o",
-      "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "tudo \u00e9 mt distante",
-        "url": "https://open.spotify.com/album/6TPmiamOTKCDhsn5O5kmtv"
+        "name": "Por A\u00ed",
+        "url": "https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L"
       },
       "artists": [
         {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+          "name": "Suwave",
+          "url": "https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe"
         }
       ],
-      "duration_ms": 192446,
-      "name": "sei l\u00e1",
-      "url": "https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96"
+      "duration_ms": 185470,
+      "name": "Por a\u00ed",
+      "url": "https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -743,22 +775,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Por A\u00ed",
-        "url": "https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L"
-      },
-      "artists": [
-        {
-          "name": "Suwave",
-          "url": "https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe"
-        }
-      ],
-      "duration_ms": 185470,
-      "name": "Por a\u00ed",
-      "url": "https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Um banda um",
         "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 268706,
       "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
       "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2024-03-08 03:01:00",

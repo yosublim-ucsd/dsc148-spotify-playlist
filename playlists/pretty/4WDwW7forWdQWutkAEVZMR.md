@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring girl in red, Beyoncé, Harry Styles &amp; more! Cover: girl in red
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,233 likes - 51 songs - 2 hr 35 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,234 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

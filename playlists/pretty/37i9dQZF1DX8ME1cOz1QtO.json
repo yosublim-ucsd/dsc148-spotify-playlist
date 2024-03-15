@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 86575,
+  "num_followers": 86618,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDEyMzQyZWE4YzQyMmNlNDU1MzQ0Mjg4MzBiNDYwZDQyNzVhNDI4",
+  "snapshot_id": "MCw1OWE1NjhhN2EwZjZiNDA2MDc0NzQwMDkzNjNlMTViODE4NTczYzQw",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
-      },
-      "artists": [
-        {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 206146,
       "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+      },
+      "artists": [
+        {
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Pinnacles",
-        "url": "https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg"
-      },
-      "artists": [
-        {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
-        }
-      ],
-      "duration_ms": 264893,
-      "name": "The Light Cone",
-      "url": "https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Gymnosphere: Song of the Rose",
         "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 1457253,
       "name": "Music for Gymnastics",
       "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Pinnacles",
+        "url": "https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg"
+      },
+      "artists": [
+        {
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+        }
+      ],
+      "duration_ms": 264893,
+      "name": "The Light Cone",
+      "url": "https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4"
     },
     {
       "added_at": "2023-08-18 14:02:54",

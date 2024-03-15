@@ -1104,10 +1104,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 553280,
       "name": "Raga - Brindavani",
       "url": "https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo"
+    },
+    {
+      "album": {
+        "name": "Soul of India",
+        "url": "https://open.spotify.com/album/7iNCNQCellNm5kh5luWsnE"
+      },
+      "artists": [
+        {
+          "name": "B. Sivaramakrishna Rao",
+          "url": "https://open.spotify.com/artist/6CgbREbxupEkAr0CqTHajh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553280,
+      "name": "Raga Brindavani: Alap",
+      "url": "https://open.spotify.com/track/42i2BVvCd0PzHbpUHRBXsc"
     },
     {
       "album": {

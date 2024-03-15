@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Bleachers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,886 likes - 176 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,976 likes - 176 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 175 | [CD Wallet](https://open.spotify.com/track/0699x8orNRyAhiYxyDjxdH) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [CD Wallet](https://open.spotify.com/album/4GuIkU3CHTJWwLYgXtRTtr) | 3:11 |
 | 176 | [katherine](https://open.spotify.com/track/6hAvA4V30xJwg9acnSAAfY) | [Ethan Regan](https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e) | [katherine](https://open.spotify.com/album/16HnjTVxp5zbevUw2wrJaZ) | 3:56 |
 
-Snapshot ID: `MCw1MDJjNGY5N2UxOTk5NGQ5ODZkZWU3MzUxN2Q5ZTIyNTE5YzNjOTUw`
+Snapshot ID: `MCwxZDRhNWNiYWI2YjA2MTcwNjdmMTgwNGRiZDYxMjU0ZTM2MjY3Yzlm`

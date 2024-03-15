@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: حسين الجسمي
 
-897 songs - 2 day 2 hr 50 min
+898 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Ana Roht Minnak](https://open.spotify.com/track/1rPbqAS7xqPrP66daAl0F6) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ana Roht Minnak](https://open.spotify.com/album/4xiu6m1dJJJkMA8swxn8Ig) | 4:03 | 2021-12-23 | 2021-12-30 |
 | [ANA WE DELLY](https://open.spotify.com/track/7ivLqeRG4QQ4xkEqSJDjaG) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [ANA WE DELLY](https://open.spotify.com/album/6LqTtEzhzInVZfiqqhKG0X) | 4:10 | 2023-08-30 | 2023-12-15 |
 | [Ana Zaaley](https://open.spotify.com/track/6xEKHNsrF6WS7brxCrG8Qg) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW), [Fakharany](https://open.spotify.com/artist/73817y8suKDLnuLrUTRrp2) | [Ana Zaaley](https://open.spotify.com/album/3ZQagMTgeXBzQ9gySyr0Tg) | 4:01 | 2021-12-23 | 2022-03-04 |
-| [ARABI](https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [ARABI](https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P) | 2:47 | 2024-02-09 |  |
+| [ARABI](https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [ARABI](https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P) | 2:47 | 2024-02-09 | 2024-03-15 |
 | [Arosty](https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Arosty](https://open.spotify.com/album/2pXOewtgNtWSCuoZz98TCG) | 3:10 | 2021-12-23 | 2021-12-30 |
 | [ARRB \- قرب](https://open.spotify.com/track/0T3pWguSvkMtvjgG7dJmIZ) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [ARRB \- قرب](https://open.spotify.com/album/3yfMjN5m1lT78xgIEpUhXh) | 3:54 | 2023-10-06 | 2024-01-12 |
 | [Asda2 Meen](https://open.spotify.com/track/6makYhAOg1d1KuPZzSezWo) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Asda2 Meen](https://open.spotify.com/album/2kYHYBoInCrmBKW9Mi2WN1) | 2:44 | 2024-01-17 | 2024-02-15 |
@@ -322,6 +322,7 @@
 | [kawabes](https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [uncl](https://open.spotify.com/artist/1MXxWX8lps82eJc3w1L7Q6) | [Kawabes](https://open.spotify.com/album/4vZdWRsfMefNuI1YPGsyEW) | 2:43 | 2023-09-28 | 2024-01-05 |
 | [Keda La2](https://open.spotify.com/track/0JCyXgH5GMe4SOsRCaz1tT) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Keda La2](https://open.spotify.com/album/0Z02LfWFwwDyXn8yilJn60) | 2:57 | 2023-12-29 | 2024-02-02 |
 | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Boustan Magdy](https://open.spotify.com/artist/2hY97UqOlQK2wyIAXkx2Ep) | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/album/5wnmqhy2eKLnqEYqAHZ7O4) | 3:14 | 2023-03-30 | 2023-05-13 |
+| [Khaaf Men Elly Menak](https://open.spotify.com/track/2kBfr74kyAVLMgjCdxbld2) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Khaaf Men Elly Menak](https://open.spotify.com/album/4cJw7WTAoZsTNPAhmoQ1bP) | 4:12 | 2024-03-14 |  |
 | [Khadt Balak](https://open.spotify.com/track/2L1Wfy7eLg9NQ6bFH8T6YM) | [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Khadt Balak](https://open.spotify.com/album/1kKpnxHTw4uax3rYKxaik1) | 2:33 | 2023-07-13 | 2023-08-16 |
 | [Khaleek Aneed](https://open.spotify.com/track/74LjFQrbHiRiJgXqhOrRn3) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [Khaleek Aneed](https://open.spotify.com/album/1jWBxVRTqIzB7PHhOm7c6n) | 2:45 | 2022-12-12 | 2023-02-10 |
 | [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 | 2022-08-03 | 2022-10-27 |

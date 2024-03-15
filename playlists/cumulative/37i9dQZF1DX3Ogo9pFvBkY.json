@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Cove",
+        "url": "https://open.spotify.com/album/4JOBNTgnUIbHD8KBq0YgiA"
+      },
+      "artists": [
+        {
+          "name": "Mareina",
+          "url": "https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Cove",
+      "url": "https://open.spotify.com/track/2dslILOVDhmXVEds5LUuDj"
+    },
+    {
+      "album": {
         "name": "Follow The Dark as If It Were Light",
         "url": "https://open.spotify.com/album/6VRg2NbI3EiWql4S9zmctY"
       },
@@ -3494,6 +3512,24 @@
       "duration_ms": 289804,
       "name": "Divine",
       "url": "https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl"
+    },
+    {
+      "album": {
+        "name": "Doldrums",
+        "url": "https://open.spotify.com/album/5vxLCCvUpHoGeabzHwKOHa"
+      },
+      "artists": [
+        {
+          "name": "Joseff Shields",
+          "url": "https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Doldrums",
+      "url": "https://open.spotify.com/track/7EM9OzuJlYg9aKTpBHiocx"
     },
     {
       "album": {

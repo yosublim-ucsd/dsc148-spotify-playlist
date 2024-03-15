@@ -1,12 +1,12 @@
 {
   "description": "To all the 7abieb out there. Cover: AL SHAMI.",
-  "num_followers": 165111,
+  "num_followers": 165194,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTk5NWU3OTdhNDk0MTc4MzM5OWRmY2JmMTc3ZjQ2N2EzNmQ3ZDgw",
+  "snapshot_id": "MCxlZGVkZjQwZjRhMzBlNjhhMzI1Yjk4ZDgwMTcyNGJmMjkwYjNlYTIz",
   "tracks": [
     {
       "added_at": "2024-03-01 14:02:53",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 198571,
-      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
-    },
-    {
-      "added_at": "2024-03-01 14:02:53",
-      "album": {
         "name": "Albi Ya Albi",
         "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 206963,
       "name": "Albi Ya Albi",
       "url": "https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q"
+    },
+    {
+      "added_at": "2024-03-01 14:02:53",
+      "album": {
+        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 198571,
+      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
     },
     {
       "added_at": "2024-03-01 14:02:53",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
-        "url": "https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd"
+        "name": "Nancy 9 (Hassa Beek)",
+        "url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz"
       },
       "artists": [
         {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         }
       ],
-      "duration_ms": 221379,
-      "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
-      "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"
+      "duration_ms": 219901,
+      "name": "Aam Betaala' Feek",
+      "url": "https://open.spotify.com/track/3vVEtCxtdwSSC1qz2rSHLW"
     },
     {
       "added_at": "2024-03-01 14:02:53",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "Nancy 9 (Hassa Beek)",
-        "url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz"
+        "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
+        "url": "https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd"
       },
       "artists": [
         {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
         }
       ],
-      "duration_ms": 219901,
-      "name": "Aam Betaala' Feek",
-      "url": "https://open.spotify.com/track/3vVEtCxtdwSSC1qz2rSHLW"
+      "duration_ms": 221379,
+      "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
+      "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"
     },
     {
       "added_at": "2024-03-01 14:02:53",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "Aam Yes2alou",
-        "url": "https://open.spotify.com/album/3gpZeTfb6sfhSHu1KDTLtq"
-      },
-      "artists": [
-        {
-          "name": "Al Walid Hallani",
-          "url": "https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v"
-        }
-      ],
-      "duration_ms": 212244,
-      "name": "Aam Yes2alou",
-      "url": "https://open.spotify.com/track/4hRCy0hLfHYLlKHEF5JG4N"
-    },
-    {
-      "added_at": "2024-03-01 14:02:53",
-      "album": {
         "name": "Nancy 10",
         "url": "https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 190333,
       "name": "Hayat",
       "url": "https://open.spotify.com/track/2EF4omjpEV9D01GNfokbyh"
+    },
+    {
+      "added_at": "2024-03-01 14:02:53",
+      "album": {
+        "name": "Aam Yes2alou",
+        "url": "https://open.spotify.com/album/3gpZeTfb6sfhSHu1KDTLtq"
+      },
+      "artists": [
+        {
+          "name": "Al Walid Hallani",
+          "url": "https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v"
+        }
+      ],
+      "duration_ms": 212244,
+      "name": "Aam Yes2alou",
+      "url": "https://open.spotify.com/track/4hRCy0hLfHYLlKHEF5JG4N"
     },
     {
       "added_at": "2024-03-01 14:02:53",

@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 50908,
+  "2024-03-15": 50931,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Morocco.",
   "name": "Top 50 - Morocco",
@@ -4817,7 +4817,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 204444,
       "name": "Chouwafat",
       "url": "https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk"
@@ -4919,6 +4919,24 @@
       "duration_ms": 275500,
       "name": "CLASICO",
       "url": "https://open.spotify.com/track/4jWSwfZ8Q1Ny7VYmfPL9YM"
+    },
+    {
+      "album": {
+        "name": "Closer Than This",
+        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223302,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
     },
     {
       "album": {
@@ -11785,7 +11803,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 152611,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/3XouPSvnWkkepjdbjyFW8i"
@@ -22361,7 +22379,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 204426,
       "name": "SULTAN",
       "url": "https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs"
@@ -22637,7 +22655,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 211230,
       "name": "Talet Lghiba",
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
@@ -23153,6 +23171,24 @@
       "duration_ms": 178156,
       "name": "The Planet",
       "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
+    },
+    {
+      "album": {
+        "name": "Anasheeds, Vol. 3",
+        "url": "https://open.spotify.com/album/5HYuz7Zs6MnWXsonAjC2UD"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Al Muqit",
+          "url": "https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265346,
+      "name": "The Way of the Tears",
+      "url": "https://open.spotify.com/track/3AptfCpuLZ9shA1sAluj7w"
     },
     {
       "album": {
@@ -23797,7 +23833,7 @@
       },
       "artists": [
         {
-          "name": "kouz1",
+          "name": "Kouz1",
           "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
         }
       ],

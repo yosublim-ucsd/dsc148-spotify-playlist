@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 42306,
+  "2024-03-15": 42323,
   "date_first_scraped": "2022-07-19",
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
   "name": "Cocina con Salsa",
@@ -1829,10 +1829,28 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 193440,
       "name": "Pa'l 23",
       "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
+    },
+    {
+      "album": {
+        "name": "Centenario de Salsa",
+        "url": "https://open.spotify.com/album/16QVFqa4EAhXxsWgYGTFac"
+      },
+      "artists": [
+        {
+          "name": "Ray Perez",
+          "url": "https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Pal' 23",
+      "url": "https://open.spotify.com/track/3qAEfl5f8OSjqOk2UW1JtA"
     },
     {
       "album": {

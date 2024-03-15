@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,151 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,175 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 29 | [One Chance](https://open.spotify.com/track/1rFjOggo1LDoT6wqX41baU) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance](https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9) | 3:40 |
 | 30 | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW) | 3:18 |
 | 31 | [Million Miles \- Da Tweekaz Remix](https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Million Miles \(Da Tweekaz Remix\)](https://open.spotify.com/album/6nu1jhSY2ti1dOYCFgsjLc) | 3:35 |
-| 32 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 |
+| 32 | [SEQUÊNCIA DA DZ7](https://open.spotify.com/track/0LnhfmhxSYLfur8Hr8eZ4T) | [Senius](https://open.spotify.com/artist/4egM8NbZRoRManQ8fLoF98) | [SEQUÊNCIA DA DZ7](https://open.spotify.com/album/7i0vC3NWcFICEO3WPVYmk0) | 1:59 |
 | 33 | [MONEY ON THE DASH \- Diplo Remix](https://open.spotify.com/track/5J8LKvW84WII4ZzOz0zAQf) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [MONEY ON THE DASH \- Diplo Remix](https://open.spotify.com/album/6tQbwu7HWigKSOVuQOa0os) | 3:43 |
 | 34 | [Meant To Be Lonely](https://open.spotify.com/track/2VaOJEHR9U3Q6SlG8TZN5j) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Meant To Be Lonely](https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f) | 3:34 |
 | 35 | [Thirst \- Hex Cougar Remix](https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Thirst \(Hex Cougar Remix\)](https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 |
 | 50 | [Where Do We Go](https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg) | 2:51 |
 
-Snapshot ID: `MCw0YzJkMDBmYzUwZjVlMzVkNWVhYmUwYzY0ZTQxYTc0Y2FmZjM1MTQ1`
+Snapshot ID: `MCxiYjE2MzYwZWQxM2VjYzg3ZDdjZDg0ZTEwOWU2ZDU0NWVhZWUwY2Zi`

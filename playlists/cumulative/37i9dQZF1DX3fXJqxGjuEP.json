@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Adonai",
+        "url": "https://open.spotify.com/album/1S4Zxe86eOGKx0g7o7co2B"
+      },
+      "artists": [
+        {
+          "name": "Astro-bit",
+          "url": "https://open.spotify.com/artist/2nhMY3TRaHjxPtqKTbktzT"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240646,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/5cBEqXtVc2BCPpXesQGCRH"
+    },
+    {
+      "album": {
         "name": "Reciente",
         "url": "https://open.spotify.com/album/7LopfkbXZGR9wt2ciYgFiz"
       },
@@ -5008,7 +5026,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
@@ -9940,7 +9958,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 319933,
       "name": "\u00daltimos D\u00edas",
       "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"

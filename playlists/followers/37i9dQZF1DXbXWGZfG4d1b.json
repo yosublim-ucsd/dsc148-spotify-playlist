@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 21893,
+  "2024-03-15": 21903,
   "date_first_scraped": "2022-06-30",
   "description": "Rock independiente, pop alternativo y golden hour.",
   "name": "6PM Indie",
@@ -5382,6 +5382,24 @@
     },
     {
       "album": {
+        "name": "Yoni Yonki",
+        "url": "https://open.spotify.com/album/22aeIVwNKsUuEcMm1Fnf4C"
+      },
+      "artists": [
+        {
+          "name": "Yoni Yonki",
+          "url": "https://open.spotify.com/artist/5VzE7gAS6VyRyvThR3lXbv"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176062,
+      "name": "Lo Haces Bien",
+      "url": "https://open.spotify.com/track/2NT4AtSmyxZZloogGMA0xg"
+    },
+    {
+      "album": {
         "name": "Lo nuevo y lo in\u00fatil",
         "url": "https://open.spotify.com/album/1gNnS20kz9qcQJ5ghIsNQK"
       },
@@ -8163,7 +8181,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"

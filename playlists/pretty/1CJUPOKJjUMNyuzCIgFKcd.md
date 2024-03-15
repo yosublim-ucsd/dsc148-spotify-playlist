@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 24,300 likes - 60 songs - 2 hr 36 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 24,299 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 9 | [Vertino](https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Vertino](https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R) | 5:33 |
 | 10 | [310degrees](https://open.spotify.com/track/1f1R24tV7tx0464MCz4U9C) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 1:05 |
 | 11 | [High Value \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/7GrSsLy5jgpgkhABBQ1VoB) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Bitch Tape](https://open.spotify.com/album/4Qw9EzjCe2qK1VIYOfAXix) | 2:38 |
-| 12 | [Kick It](https://open.spotify.com/track/7D9hC9aFANt3vzGx1p0ZL0) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Kick It](https://open.spotify.com/album/3HNlwo4TkoFrqWFHOiDgix) | 2:20 |
+| 12 | [Kick It](https://open.spotify.com/track/7D9hC9aFANt3vzGx1p0ZL0) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Kick It](https://open.spotify.com/album/3HNlwo4TkoFrqWFHOiDgix) | 2:20 |
 | 13 | [Blocstar](https://open.spotify.com/track/1lALm8HenRwq3ngatssBJ2) | [SNUPE BANDZ](https://open.spotify.com/artist/72ltK39qT3DgtiCZgOAaGs) | [Blocstar](https://open.spotify.com/album/1ZZ1anI96sQOjByF0tu8pQ) | 3:24 |
 | 14 | [Heavy Heart](https://open.spotify.com/track/2P9bZvA474ic8CSqN0cZqN) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [Heavy Heart](https://open.spotify.com/album/6KTvittwCSHEOI0cG6iWl4) | 2:14 |
 | 15 | [BEAST OUT THE CAGE](https://open.spotify.com/track/5wskdb31Z9aAhtuSkphkF6) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [BEAST OUT THE CAGE](https://open.spotify.com/album/3xyUv8Z7PWHRakcSM1P0zg) | 2:53 |

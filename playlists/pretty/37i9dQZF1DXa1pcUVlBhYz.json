@@ -1,12 +1,12 @@
 {
   "description": "Electronic + Dance making waves, every month. Cover: Kah-Lo and Jamie Jones",
-  "num_followers": 25428,
+  "num_followers": 25439,
   "original_name": "Electronic + Dance Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmQwYzQ3MDgxZTU0YTIxMWQ3OTA5NzViMDg5OGViZWVhMjc5NWQx",
+  "snapshot_id": "MCxmNTgyMzlhZDE1MTMyM2JmZTgxZWIxYjAxYjBmY2FlODNmYWQ4OWU2",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -468,12 +468,12 @@
       },
       "artists": [
         {
-          "name": "Nothingspecial",
-          "url": "https://open.spotify.com/artist/3dvrTBzjvaQuWU6g48H8L2"
-        },
-        {
           "name": "Jade Elliott",
           "url": "https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s"
+        },
+        {
+          "name": "Nothingspecial",
+          "url": "https://open.spotify.com/artist/3dvrTBzjvaQuWU6g48H8L2"
         }
       ],
       "duration_ms": 226000,

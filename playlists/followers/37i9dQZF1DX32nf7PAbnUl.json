@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 366602,
+  "2024-03-15": 366698,
   "date_first_scraped": "2023-09-29",
   "description": "Le son des chichas !",
   "name": "Chicha Royale",
@@ -647,7 +647,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 166654,
       "name": "Jolie Go",
       "url": "https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg"
@@ -1369,6 +1369,28 @@
       "duration_ms": 218344,
       "name": "VNTR",
       "url": "https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd"
+    },
+    {
+      "album": {
+        "name": "Yoga",
+        "url": "https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181045,
+      "name": "Yoga",
+      "url": "https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX32nf7PAbnUl"

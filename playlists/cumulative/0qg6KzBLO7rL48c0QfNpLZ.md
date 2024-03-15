@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-216 songs - 9 hr 57 min
+218 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Dreamers](https://open.spotify.com/track/2PWTaCreHWYPpQ6LfPGVKj) | [Moonsound](https://open.spotify.com/artist/1jfhMoC88bueFbxYuwUpNN), [Jean Gavril](https://open.spotify.com/artist/3mhjDUn6g7D85To8ywwqbN) | [Dreamers](https://open.spotify.com/album/0NXQeg3isSatHdnXZPzDwk) | 2:25 | 2024-01-26 |  |
 | [Dumb](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Dumb](https://open.spotify.com/album/6doM5nAPNGBRo8yoPM3q9r) | 3:12 | 2024-01-18 |  |
 | [Echoes of Light](https://open.spotify.com/track/7kqIRrv9Lo36E3C10L5zcT) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Echoes of Light](https://open.spotify.com/album/3nzzFXZgX7OVJ29zCxVzRa) | 3:46 | 2024-02-02 |  |
+| [Empty Promises](https://open.spotify.com/track/2qVv6U8JwfmNs9MimYw3nd) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH) | [Empty Promises](https://open.spotify.com/album/11tQ2X6PGRb5MFoRArfQD2) | 2:18 | 2024-03-15 |  |
 | [Every Breath You Take](https://open.spotify.com/track/2NlwmRuaUqWuvOzEVmQo4M) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [Luciana Silva](https://open.spotify.com/artist/5ntgWfc9qPsKU0yUQwDqUF) | [Every Breath You Take](https://open.spotify.com/album/0jjx2pnlETHOiAitNNwkEl) | 2:15 | 2024-01-29 |  |
 | [Eyes Closed](https://open.spotify.com/track/5jJ67pAyLn89MqDoyyvQDd) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Chill Covers](https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Eyes Closed](https://open.spotify.com/album/5PZsQtGRqhDNevRzj0Owmx) | 2:26 | 2024-02-16 |  |
 | [Fading](https://open.spotify.com/track/2RP8Svo0pMwZXnVcmOffDw) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Fading](https://open.spotify.com/album/6ZaQeprwD7KA1yLERV2OUW) | 3:27 | 2023-12-29 |  |
@@ -129,6 +130,7 @@
 | [Miracle](https://open.spotify.com/track/4vQaad3iwQw4pEUM9d33Eg) | [Medusa](https://open.spotify.com/artist/08Cmz2Whs8UYTPT4Th0c8w), [LexMorris](https://open.spotify.com/artist/1IE7Pib3j9e5UDbPer4W6a), [Ivan Crooks](https://open.spotify.com/artist/7wMJojLQMNLRFZ8njcKlZa) | [Miracle](https://open.spotify.com/album/42ejBimCpB07sLsGenE7Ro) | 3:01 | 2024-03-01 |  |
 | [Missing You](https://open.spotify.com/track/1cuY5SEtPfxGJzqJrxYtQG) | [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8), [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ) | [Missing You](https://open.spotify.com/album/4vLpOQGZ4QSZpwYqge4yfb) | 2:24 | 2024-02-09 |  |
 | [Morning Glow](https://open.spotify.com/track/2UwCnds4eri2ueMXeRjJjH) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Døver](https://open.spotify.com/artist/1u1yZmOMnocdG8B8En3mH0) | [Morning Glow](https://open.spotify.com/album/7Fecs608x1A6BDt66ZsIE0) | 1:57 | 2022-11-11 |  |
+| [Moving On](https://open.spotify.com/track/1PXIDsdUOabw6EMKq2rEjB) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Griffin Wiegel](https://open.spotify.com/artist/20t6Rr4gbPrI6q4TSpcWS2) | [Moving On](https://open.spotify.com/album/3vZveQH3F4rQU2L2rGVP2s) | 2:32 | 2024-03-15 |  |
 | [My Forever Home](https://open.spotify.com/track/0doJSKDaAIO0vNCKZzThfi) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [My Forever Home](https://open.spotify.com/album/6tShRkoIOHuqKOX2L5z1tl) | 2:03 | 2024-02-02 | 2024-03-02 |
 | [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 | 2024-01-08 |  |
 | [Never Go Back \- Robin Schulz Remix](https://open.spotify.com/track/6vRCKJDtnrJEcyyzIMa0w0) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Never Go Back \(Remixes\)](https://open.spotify.com/album/4GxEU2Ff0UjkBPJRguxz5Q) | 3:04 | 2023-03-26 |  |

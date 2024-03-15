@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,651 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,670 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 99 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 |
 | 100 | [Dress Code \- Radio Edit](https://open.spotify.com/track/3483vNrzxVuUvI5PqWEeuv) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [Dress Code](https://open.spotify.com/album/2IfrsypQxsQbZf6NFhkLLY) | 3:20 |
 
-Snapshot ID: `MCwxNzBiZjk3N2E0YzZhNDNjMDhiZjZhMjRiY2Y5ODE5YmZiOTQ1MmM2`
+Snapshot ID: `MCw1ZTdiOTk5MjRiMTU2Y2ExMGUwMzQwNjM5ZTlkMmM2MThmZTdjM2Y0`

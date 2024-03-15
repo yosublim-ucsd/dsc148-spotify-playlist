@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-680 songs - 1 day 17 hr 44 min
+681 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [I Should Have Known Better \- Mono / Remastered 2001](https://open.spotify.com/track/1LzqCMbpcz5edctDsq45pR) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Beach Boys Party! \(Remastered\)](https://open.spotify.com/album/0TfICuUVNoaytFJ7oahGO2) | 1:40 | 2022-04-29 | 2023-09-26 |
 | [I Touch Myself \- Live in NYC](https://open.spotify.com/track/7aJEEuTo97fpMSiFPsbbSA) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Spotify Sessions](https://open.spotify.com/album/5Y0CjOQAbTBEx131DYLJs5) | 4:33 | 2022-02-11 | 2022-02-18 |
 | [I Try](https://open.spotify.com/track/7Irvj5Fb079b3efPypVShO) | [Karizma Duo](https://open.spotify.com/artist/4AG4GdKn7FmC3EPk8m6dxg) | [Acoustic 80s and 90s Covers](https://open.spotify.com/album/1byy5XYlIUUcBfW8G9PY23) | 3:56 | 2021-10-20 | 2022-07-29 |
-| [I Wanna Dance With Somebody](https://open.spotify.com/track/2G4u3UrPJdJzxIBaHFN5AC) | [Matt Alber](https://open.spotify.com/artist/3v2p34eAq6fINTEyJ1w2vK) | [I Wanna Dance With Somebody](https://open.spotify.com/album/13hU1yDQOLqMdmFhuIrcW4) | 4:13 | 2023-10-23 |  |
+| [I Wanna Dance With Somebody](https://open.spotify.com/track/2G4u3UrPJdJzxIBaHFN5AC) | [Matt Alber](https://open.spotify.com/artist/3v2p34eAq6fINTEyJ1w2vK) | [I Wanna Dance With Somebody](https://open.spotify.com/album/13hU1yDQOLqMdmFhuIrcW4) | 4:13 | 2023-10-23 | 2024-03-15 |
 | [I Wanna Dance With Somebody](https://open.spotify.com/track/1oKk34AkV6CxhaXHgZHduM) | [Matt Alber](https://open.spotify.com/artist/3v2p34eAq6fINTEyJ1w2vK), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Acoustic Covers: The Album](https://open.spotify.com/album/2YavnI3XojV5n6kWYFo4L6) | 4:09 | 2021-10-20 | 2022-07-29 |
 | [I Wanna Dance with Somebody](https://open.spotify.com/track/2wpebYFWzZ06RNYkOZgw6x) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [I Wanna Dance with Somebody](https://open.spotify.com/album/0KZXzOjVz4fFGwhu0zdvZ2) | 4:16 | 2021-10-20 |  |
 | [I Wanna Dance with Somebody](https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY) | [Rachel Brown](https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE) | [The Band](https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0) | 3:39 | 2021-10-20 |  |
@@ -655,6 +655,7 @@
 | [Wonderwall](https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:08 | 2022-06-10 |  |
 | [Wonderwall](https://open.spotify.com/track/7m2VsHmjyXZegtndWPgxOw) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/6v5VheA381OPWwqRt0E9mm) | 4:08 | 2021-10-20 | 2022-07-28 |
 | [Wonderwall](https://open.spotify.com/track/3N7wclRSF2D2RT3O27LEOE) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [When We Rise \(Original Television Soundtrack\)](https://open.spotify.com/album/1U15HyG9LIxbSitBJOLGBC) | 4:00 | 2021-10-20 | 2022-05-20 |
+| [Wrecking Ball \(Acoustic\)](https://open.spotify.com/track/3ioF46MzYIpZYHAf7700ba) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/5kn1D2FuKuSRG98VSrYxnB) | 3:33 | 2023-10-23 |  |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 | 2021-10-20 | 2024-02-14 |
 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 | 2021-10-20 |  |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2021-10-20 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 600601,
+  "2024-03-15": 600690,
   "date_first_scraped": "2023-07-29",
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
   "name": "This Is Whitney Houston",
@@ -261,7 +261,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 284903,
       "name": "One Moment in Time",
       "url": "https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo"

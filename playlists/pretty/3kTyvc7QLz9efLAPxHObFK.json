@@ -6,7 +6,7 @@
     "name": "Jesseka",
     "url": "https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6"
   },
-  "snapshot_id": "MTIyMSwzZGQ2ZGFiYTAxZjViYjBkMmYzOWMzNGQwYzFkZjI0ZDliZTE1YjJk",
+  "snapshot_id": "MTIyMixlNGZkMTRiZGQ4MzA1NTg3OWZkOTYyYTBkNzdjN2NlY2RhZGQyOWFl",
   "tracks": [
     {
       "added_at": "2021-11-26 04:21:31",
@@ -22072,8 +22072,12 @@
       },
       "artists": [
         {
-          "name": "Fade, Bananaman, Unproven",
-          "url": "https://open.spotify.com/artist/3e7LlWs0hLKs6Ve23Cr2pl"
+          "name": "Fade",
+          "url": "https://open.spotify.com/artist/5TX4kK3FjQU9aJjK7KiL0f"
+        },
+        {
+          "name": "Banana Man",
+          "url": "https://open.spotify.com/artist/37wRgQRWKVjf5nlFA4ckcK"
         },
         {
           "name": "Unproven",
@@ -22083,6 +22087,22 @@
       "duration_ms": 206403,
       "name": "A Dream Surprise - Unproven Remix",
       "url": "https://open.spotify.com/track/7l20bzoF8UTueokSAvOQWr"
+    },
+    {
+      "added_at": "2024-03-14 04:34:52",
+      "album": {
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/5QVRiuBgvwZNf8n8TjTBMe"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I'm So Fly",
+      "url": "https://open.spotify.com/track/3Dj204MXaXS4Z1FUVhZMhc"
     }
   ],
   "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",

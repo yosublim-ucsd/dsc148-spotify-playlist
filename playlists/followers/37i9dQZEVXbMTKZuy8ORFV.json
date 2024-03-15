@@ -1,9 +1,27 @@
 {
-  "2024-03-14": 12791,
+  "2024-03-15": 12791,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bolivia.",
   "name": "Viral 50 - Bolivia",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2wDdeYLrljYWNLfhRRfAi0"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3vz3SKnCyJCzPuXWLoGfdG"
+    },
     {
       "album": {
         "name": "30 Grados",
@@ -21,7 +39,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 151441,
       "name": "30 GRADOS",
       "url": "https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3"
@@ -634,6 +652,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica de las Sagas de Drag\u00f3n Ball",
+        "url": "https://open.spotify.com/album/1llvtkXOEVrjuoRd1hTCRt"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Silva",
+          "url": "https://open.spotify.com/artist/2lCmsUtLSxA7esbqH1bUW7"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Chala Head Chala (Opening \"D.B.Z.\" Versi\u00f3n Cl\u00e1sica)",
+      "url": "https://open.spotify.com/track/2m7KGTVbqqo2xo3AaaJO8s"
+    },
+    {
+      "album": {
         "name": "Chau Amor",
         "url": "https://open.spotify.com/album/1S3AVl6262bTLhUXfbuIFT"
       },
@@ -663,7 +699,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -1739,7 +1775,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
@@ -2545,7 +2581,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
@@ -2589,7 +2625,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 236013,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
@@ -2795,6 +2831,28 @@
       "duration_ms": 141079,
       "name": "Piel",
       "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
+    },
+    {
+      "album": {
+        "name": "PLANETA DESCONHECIDO",
+        "url": "https://open.spotify.com/album/3I0PQFWT0lGD5zWcGHwbRW"
+      },
+      "artists": [
+        {
+          "name": "DJ NK3",
+          "url": "https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD"
+        },
+        {
+          "name": "THEUZ ZL",
+          "url": "https://open.spotify.com/artist/0sf2x76J3BWkY9mIgFX2Lz"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144019,
+      "name": "PLANETA DESCONHECIDO",
+      "url": "https://open.spotify.com/track/1bGCQoaz734Y5jeZ6GiUZ1"
     },
     {
       "album": {
@@ -3953,7 +4011,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 126897,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/66QWqZPA5Mxe8LpRjewkVv"
@@ -3975,7 +4033,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"

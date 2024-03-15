@@ -4,7 +4,7 @@
 
 > A calm and cosy classical soundtrack to all activities.
 
-195 songs - 10 hr 37 min
+196 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Salut d'Amour, Op\. 12](https://open.spotify.com/track/5z7X16lHaksROA9dhkQM4y) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Salut d'Amour, Op\. 12](https://open.spotify.com/album/09NQWdCeIyiE2REnoXrCR0) | 3:01 | 2024-03-01 | 2024-03-07 |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2023-08-16 |  |
 | [Sarabande Piano Meditation \(After Sarabande from Suite in D Minor, HWV 437\)](https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Händel: Sarabande Piano Meditation \(After Sarabande from Suite in D Minor, HWV 437\)](https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK) | 1:11 | 2024-03-01 |  |
-| [Satie: 3 Gymnopédies: No\. 3, Lent et grave](https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Letter\(s\) to Erik Satie \- Gymnopédies: No\. 3, Lent et grave](https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd) | 2:30 | 2024-03-01 |  |
+| [Satie: 3 Gymnopédies: No\. 3, Lent et grave](https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Letter\(s\) to Erik Satie \- Gymnopédies: No\. 3, Lent et grave](https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd) | 2:30 | 2024-03-01 | 2024-03-15 |
 | [Saudade \(When We Are Born\)](https://open.spotify.com/track/1ijwLR1iybtxaUbasUj7kJ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Saudade \(When We Are Born\)](https://open.spotify.com/album/3s5UDbcu9PBKBJ4xIz0zcW) | 2:30 | 2023-08-16 |  |
 | [Scene Suspended \(Arr\. Lawson\)](https://open.spotify.com/track/1XAwBkH7vpJvNbq8yB3Rji) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Eleanor Turner](https://open.spotify.com/artist/2iWdlFp0AxoJNj3QH18at4) | [Infinity](https://open.spotify.com/album/74eIgzLtcbJVr4NIajGzrb) | 3:58 | 2024-03-01 |  |
 | [Scheherazade: The Tale of the Kalendar Prince](https://open.spotify.com/track/04eShjKTWijeJJqGnhxpYK) | [Nikolai Rimsky\-Korsakov](https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs), [Lars Hjalmar Joakim](https://open.spotify.com/artist/0k5uXmuyASwY2Cwi5TQki4) | [Rimsky\-Korsakov: Scheherezade](https://open.spotify.com/album/3QXtNXmOyrOfZ2mWG4rw9v) | 3:20 | 2023-08-16 |  |
@@ -202,6 +202,7 @@
 | [Wiegenlied, Op\. 49, No\. 4 \(Arr\. for Cello and Piano\) \[Brahms Lullaby\]](https://open.spotify.com/track/59cPOVxrn3Yjwydl1pullI) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 1:49 | 2023-08-16 |  |
 | [Winter](https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Seasons](https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh) | 3:08 | 2023-08-16 |  |
 | [Zdes' khorosho \('How Fair This Spot'\), Op\. 21, No\. 7](https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Denis Kozhukhin](https://open.spotify.com/artist/5iRBqpTEOgggnri1awdnNZ) | [Reflections](https://open.spotify.com/album/2y9DN1TNj4qMf1H5epuupR) | 1:59 | 2023-08-16 |  |
+| [Étude No\. 3: Ballade](https://open.spotify.com/track/7FxpoOW5H6wqbhoNUA2sKg) | [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Awadis: Étude No\. 3: Ballade](https://open.spotify.com/album/1gAJutFabj8D0Rf8aSHotb) | 3:23 | 2024-03-08 |  |
 | [丹尼男孩](https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5) | [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Danny Boy](https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6) | 3:32 | 2023-08-16 |  |
 
 \*This playlist was first scraped on 2023-08-17. Prior content cannot be recovered.

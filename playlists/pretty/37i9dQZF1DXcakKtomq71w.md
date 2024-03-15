@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,173 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,191 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 25 | [Paris](https://open.spotify.com/track/4Mn3z0Xzt9dYncoWq6y9BP) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [Utli](https://open.spotify.com/artist/32anbVTzJntGfQQ6xtIGg7) | [Paris](https://open.spotify.com/album/4VpUIT5vuuyQbGbrP6bkeQ) | 7:00 |
 | 26 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 |
 | 27 | [Papi](https://open.spotify.com/track/4ojcmYLFksu6M8Xhhtrw82) | [Fredy Cougz](https://open.spotify.com/artist/53doCTHtWFKv9TObSjQfo8), [The Neighbors](https://open.spotify.com/artist/6RMky2R164evo9WTo38drt) | [Papi](https://open.spotify.com/album/5q6SY3HUDe1tknkSVzAAol) | 5:55 |
-| 28 | [SALAAM \- Safar's Scandalous Mix](https://open.spotify.com/track/0e3QLWBjXQ1A3Z2TEAuIDa) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [SALAAM REMIX](https://open.spotify.com/album/39EdW4j8su708N4R3PhkG0) | 6:08 |
+| 28 | [SALAAM \- Safar's Scandalous Mix](https://open.spotify.com/track/0e3QLWBjXQ1A3Z2TEAuIDa) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [SALAAM REMIX](https://open.spotify.com/album/39EdW4j8su708N4R3PhkG0) | 6:08 |
 | 29 | [Mala](https://open.spotify.com/track/2LTDoJXKif735jmUZwafPH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Mala](https://open.spotify.com/album/0iP36TG3GD4bVof1S2ZJuB) | 3:14 |
 | 30 | [Ay Ay](https://open.spotify.com/track/4uEK01LoXTEbZZe7CBWYIz) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Ay Ay](https://open.spotify.com/album/3loKmWn8CS98SJ9fYvTSDM) | 5:16 |
 | 31 | [Sing It Back \- Afro Mix](https://open.spotify.com/track/11pdKnMVg9v6GmMNw0t8Xg) | [Dj Hermes](https://open.spotify.com/artist/33tMHBqm5cj0hYwyfJKOL8), [Fly](https://open.spotify.com/artist/4yk86R73M0Aff15Yy7UjOY) | [Sing It Back](https://open.spotify.com/album/3p2bYkdKs2niY6WmTLbd5K) | 9:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Paradise Baile](https://open.spotify.com/track/5Uws8XBtHJXvK50BxJAqJD) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [CORE VA: Brasil 23](https://open.spotify.com/album/0BtpYcEdSsYTyXvflFQAaP) | 3:31 |
 | 50 | [Hustla](https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Hustla](https://open.spotify.com/album/4oofnyX49L9k555nOKILFI) | 2:41 |
 
-Snapshot ID: `MCwxNTFiZWM3ZjZiZGY2M2NlMzE2ZDE1ZDI0OTVjYTBiMTliZDNjOThm`
+Snapshot ID: `MCxlM2RhYzk3ZGIyY2Q1ZTA4N2NkMTY3ZDBiNzQxZTc2ODY1NGNjOWNl`

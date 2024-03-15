@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 291020,
+  "2024-03-15": 291143,
   "date_first_scraped": "2022-03-01",
   "description": "Floor shattering bass and dark soundscapes to dive into.",
   "name": "Sub Low",
@@ -2353,7 +2353,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 201171,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76"
@@ -3383,7 +3383,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 240001,
       "name": "Ghost Castle",
       "url": "https://open.spotify.com/track/0dJMeuSxovXw4jnrN3BC98"
@@ -7093,7 +7093,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 234857,
       "name": "Real Murder",
       "url": "https://open.spotify.com/track/1DcINY8ATp67RkpDr7VAZR"
@@ -10263,6 +10263,24 @@
       "duration_ms": 454400,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/02sVsBVipXWONilEMGe8IE"
+    },
+    {
+      "album": {
+        "name": "Who's the Best",
+        "url": "https://open.spotify.com/album/6eoLZYdJansEyvd5LsdnID"
+      },
+      "artists": [
+        {
+          "name": "rSUN",
+          "url": "https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192214,
+      "name": "Who's the Best",
+      "url": "https://open.spotify.com/track/3zKMchlxXeERZIkqKXXeA4"
     },
     {
       "album": {

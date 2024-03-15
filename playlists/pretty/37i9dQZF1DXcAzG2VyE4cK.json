@@ -1,12 +1,12 @@
 {
   "description": "\u00bfA qui\u00e9n le importa lo que yo haga? #ZodiacoSpotify Foto: Karol G",
-  "num_followers": 54061,
+  "num_followers": 54081,
   "original_name": "Acuario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmUxYWZlOWY5ZjEyYWVlNmU2Zjg2NWFmOWJjMzBmYTA2OTM5NDk5",
+  "snapshot_id": "MCw4YTkxMzM0YTE4NjQwOTQ4NzEwZGM1YjA4NzhmMGY0Nzc0ZTUwZDVj",
   "tracks": [
     {
       "added_at": "2020-03-11 16:03:01",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-03-11 16:03:01",
       "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
-    },
-    {
-      "added_at": "2020-03-11 16:03:01",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 229640,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "added_at": "2020-03-11 16:03:01",
+      "album": {
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
     },
     {
       "added_at": "2023-03-16 23:16:40",

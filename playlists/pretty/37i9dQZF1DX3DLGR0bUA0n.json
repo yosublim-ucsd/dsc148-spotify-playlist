@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 53498,
+  "num_followers": 53552,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjE4ZWQzNzdjZDFhMzEzMmQ4YzAzZmJmZmVmN2NjODQzMmZmYThk",
+  "snapshot_id": "MCxjNDIzMDE3MjI4ZjM0NWVlMWVmNGE1MGFkYmZmYTFiMTI3OGExMDA1",
   "tracks": [
     {
       "added_at": "2024-02-23 17:22:55",
@@ -107,22 +107,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "El Valiente",
-        "url": "https://open.spotify.com/album/3T0VfR68lFdvzrr9VpwDSA"
+        "name": "18 Kilates",
+        "url": "https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h"
       },
       "artists": [
         {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
         }
       ],
-      "duration_ms": 186413,
-      "name": "El Valiente",
-      "url": "https://open.spotify.com/track/5XDLUnGv37XHGzYLuxoGD3"
+      "duration_ms": 190544,
+      "name": "Veinte Mujeres de Negro",
+      "url": "https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -143,18 +139,22 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "18 Kilates",
-        "url": "https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h"
+        "name": "El Valiente",
+        "url": "https://open.spotify.com/album/3T0VfR68lFdvzrr9VpwDSA"
       },
       "artists": [
         {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 190544,
-      "name": "Veinte Mujeres de Negro",
-      "url": "https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6"
+      "duration_ms": 186413,
+      "name": "El Valiente",
+      "url": "https://open.spotify.com/track/5XDLUnGv37XHGzYLuxoGD3"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -796,8 +796,8 @@
       },
       "artists": [
         {
-          "name": "Kabildo",
-          "url": "https://open.spotify.com/artist/4dx2YHnSoHoemXAISt66Se"
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
         }
       ],
       "duration_ms": 212040,
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Eres Mi \u00c1ngel",
-        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Todo Por Servir Se Acaba",
-      "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Gracias a la Vida",
         "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 144682,
       "name": "Lo Que Empieza Acaba",
       "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Eres Mi \u00c1ngel",
+        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "Todo Por Servir Se Acaba",
+      "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Eres Mi \u00c1ngel",
-        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Hermosa Tierra Caliente",
-      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "El Nike",
         "url": "https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq"
       },
@@ -931,22 +915,6 @@
       "duration_ms": 242850,
       "name": "El Nike",
       "url": "https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Soy de Tierra Caliente",
-        "url": "https://open.spotify.com/album/72PbyWCNgQ3WaRU9IRVGIc"
-      },
-      "artists": [
-        {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        }
-      ],
-      "duration_ms": 238585,
-      "name": "Soy de Tierra Caliente",
-      "url": "https://open.spotify.com/track/1ReiboU2RSo7eruSOtV58G"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -967,18 +935,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Quiero Que Seas para M\u00ed",
-        "url": "https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv"
+        "name": "Soy de Tierra Caliente",
+        "url": "https://open.spotify.com/album/72PbyWCNgQ3WaRU9IRVGIc"
       },
       "artists": [
         {
-          "name": "Grupo Alfa 7",
-          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
         }
       ],
-      "duration_ms": 228733,
-      "name": "Entre Copa y Copa",
-      "url": "https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4"
+      "duration_ms": 238585,
+      "name": "Soy de Tierra Caliente",
+      "url": "https://open.spotify.com/track/1ReiboU2RSo7eruSOtV58G"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1003,18 +971,50 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "La Reyna de Tierra Caliente",
-        "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
+        "name": "Quiero Que Seas para M\u00ed",
+        "url": "https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv"
       },
       "artists": [
         {
-          "name": "La Dinastia De Tuzantla, Mich.",
-          "url": "https://open.spotify.com/artist/3JCcDAQEUv3HT8OHGdmZnQ"
+          "name": "Grupo Alfa 7",
+          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
         }
       ],
-      "duration_ms": 165225,
-      "name": "En C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
+      "duration_ms": 228733,
+      "name": "Entre Copa y Copa",
+      "url": "https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Eres Mi \u00c1ngel",
+        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Hermosa Tierra Caliente",
+      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Ni Te Vas Ni Me Voy",
+        "url": "https://open.spotify.com/album/5CuKWiKac7zUnPwPKT8E1Y"
+      },
+      "artists": [
+        {
+          "name": "La Mar-K De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
+        }
+      ],
+      "duration_ms": 196873,
+      "name": "Ni Te Vas Ni Me Voy",
+      "url": "https://open.spotify.com/track/1btyt1Szf8JQBhKNro66YX"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Ni Te Vas Ni Me Voy",
-        "url": "https://open.spotify.com/album/5CuKWiKac7zUnPwPKT8E1Y"
+        "name": "La Reyna de Tierra Caliente",
+        "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
       },
       "artists": [
         {
-          "name": "La Mar-K De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
+          "name": "La Dinastia De Tuzantla, Mich.",
+          "url": "https://open.spotify.com/artist/3JCcDAQEUv3HT8OHGdmZnQ"
         }
       ],
-      "duration_ms": 196873,
-      "name": "Ni Te Vas Ni Me Voy",
-      "url": "https://open.spotify.com/track/1btyt1Szf8JQBhKNro66YX"
+      "duration_ms": 165225,
+      "name": "En C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Traficantes Michoacanos",
-        "url": "https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2"
-      },
-      "artists": [
-        {
-          "name": "Los hermanos Jimenez",
-          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Traficantes Michoacanos",
-      "url": "https://open.spotify.com/track/3InbOGb8IJdbzjYUlLkrPf"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "El Amor de Tu Vida",
         "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 205333,
       "name": "Dile",
       "url": "https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Traficantes Michoacanos",
+        "url": "https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Jimenez",
+          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Traficantes Michoacanos",
+      "url": "https://open.spotify.com/track/3InbOGb8IJdbzjYUlLkrPf"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Tercia de Reyes",
-        "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
+        "name": "El Amor de Tu Vida",
+        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
       },
       "artists": [
         {
-          "name": "Los hermanos Jimenez",
-          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
         }
       ],
-      "duration_ms": 148520,
-      "name": "No Compro Amores",
-      "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
+      "duration_ms": 278866,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "El Amor de Tu Vida",
-        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
+        "name": "Tercia de Reyes",
+        "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
       },
       "artists": [
         {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+          "name": "Los hermanos Jimenez",
+          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
         }
       ],
-      "duration_ms": 278866,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
+      "duration_ms": 148520,
+      "name": "No Compro Amores",
+      "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1831,8 +1831,8 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Inspirados por Ti",
-        "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
+        "name": "Somos Mas Americanos",
+        "url": "https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT"
       },
       "artists": [
         {
@@ -1840,9 +1840,9 @@
           "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
         }
       ],
-      "duration_ms": 256671,
-      "name": "La Ultima Copa",
-      "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
+      "duration_ms": 210092,
+      "name": "Se Termino Lo Nuestro",
+      "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1991,8 +1991,8 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Somos Mas Americanos",
-        "url": "https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT"
+        "name": "Inspirados por Ti",
+        "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
       },
       "artists": [
         {
@@ -2000,9 +2000,9 @@
           "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
         }
       ],
-      "duration_ms": 210092,
-      "name": "Se Termino Lo Nuestro",
-      "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
+      "duration_ms": 256671,
+      "name": "La Ultima Copa",
+      "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
     },
     {
       "added_at": "2024-02-23 17:22:55",

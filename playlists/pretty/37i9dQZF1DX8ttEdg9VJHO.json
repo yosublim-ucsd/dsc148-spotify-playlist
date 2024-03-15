@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 351074,
+  "num_followers": 351118,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWM0YmVkMTU0ZjAwZDFkYmZmYmMyN2Y0NWM1ZTU0NmI0YzY5Y2Qx",
+  "snapshot_id": "MCw5MGY2OTA4NTk5MGZjYzVjNDM4NmFjMWFlN2U3MmVhNzk4N2FiYzQz",
   "tracks": [
     {
       "added_at": "2024-03-05 16:47:16",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-03-05 16:47:16",
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
-    },
-    {
-      "added_at": "2024-03-05 16:47:16",
-      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 190326,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus"
+    },
+    {
+      "added_at": "2024-03-05 16:47:16",
+      "album": {
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 225893,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
     },
     {
       "added_at": "2024-03-05 16:47:16",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-03-05 16:47:16",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o"
       },
       "artists": [
         {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
         }
       ],
-      "duration_ms": 169949,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK"
     },
     {
       "added_at": "2024-03-05 16:47:16",
@@ -395,6 +395,22 @@
       "duration_ms": 174915,
       "name": "If Anything's Left",
       "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
+    },
+    {
+      "added_at": "2024-03-05 16:47:16",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 169949,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
     },
     {
       "added_at": "2024-03-05 16:47:16",
@@ -499,22 +515,6 @@
     {
       "added_at": "2024-03-05 16:47:16",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq"
-      },
-      "artists": [
-        {
-          "name": "Laurell",
-          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/4bnutybG1itDcpyoQo2Uoc"
-    },
-    {
-      "added_at": "2024-03-05 16:47:16",
-      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 141971,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
+    },
+    {
+      "added_at": "2024-03-05 16:47:16",
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq"
+      },
+      "artists": [
+        {
+          "name": "Laurell",
+          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/4bnutybG1itDcpyoQo2Uoc"
     },
     {
       "added_at": "2024-03-05 16:47:16",
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-03-05 16:47:16",
       "album": {
-        "name": "GROWING UP IS _____",
-        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 233587,
-      "name": "GROWING UP IS _____",
-      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
-    },
-    {
-      "added_at": "2024-03-05 16:47:16",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+    },
+    {
+      "added_at": "2024-03-05 16:47:16",
+      "album": {
+        "name": "GROWING UP IS _____",
+        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 233587,
+      "name": "GROWING UP IS _____",
+      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
     },
     {
       "added_at": "2024-03-05 16:47:16",
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-03-05 16:47:16",
       "album": {
-        "name": "Ghost of You",
-        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 158063,
-      "name": "Ghost of You",
-      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
-    },
-    {
-      "added_at": "2024-03-05 16:47:16",
-      "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-03-05 16:47:16",
       "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o"
+        "name": "Ghost of You",
+        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
         }
       ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK"
+      "duration_ms": 158063,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
     },
     {
       "added_at": "2024-03-05 16:47:16",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-03-05 16:47:16",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv"
-    },
-    {
-      "added_at": "2024-03-05 16:47:16",
-      "album": {
         "name": "A Producer From Vienna",
         "url": "https://open.spotify.com/album/7AX7iptabwUqOi4rFekYgp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 211781,
       "name": "Boys & Girls",
       "url": "https://open.spotify.com/track/0m28KN9Y8srHVJvutwJj5v"
+    },
+    {
+      "added_at": "2024-03-05 16:47:16",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv"
     },
     {
       "added_at": "2024-03-05 16:47:16",

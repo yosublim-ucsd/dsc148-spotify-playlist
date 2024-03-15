@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-311 songs - 1 day 4 hr 40 min
+312 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Eleanor](https://open.spotify.com/track/082zyi189u5lRp2gPkE8Lb) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/1FCCVEhBrN6ISs9xHmf9kr) | 4:49 | 2020-10-09 | 2022-07-29 |
 | [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-30 | 2023-12-24 |
 | [Eleanor](https://open.spotify.com/track/3acWM17VlZFZbYhgUKfpzt) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/0U3WgFMFWPqcR4xf1kEXLT) | 4:49 | 2023-12-19 |  |
+| [Embraceable You](https://open.spotify.com/track/26gDYD4OuUtkFPBxOjPTKM) | [Tim Lin](https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt) | [Embraceable You](https://open.spotify.com/album/6wRLmJCjbZ0Fug5l1SjK1a) | 7:12 | 2024-03-15 |  |
 | [Emperor Jones](https://open.spotify.com/track/5wRlH3diPDfn9jv91hxkUy) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Landmarks](https://open.spotify.com/album/6knFj9fiPTyAN65Ki0ydfo) | 5:14 | 2020-10-09 | 2023-04-19 |
 | [Ev'rytime We Say Goodbye](https://open.spotify.com/track/72KHUsa4UyTXpSf7jRb1ih) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [My Other Voice](https://open.spotify.com/album/4bLtP25ArMR6Athup5vBTH) | 7:07 | 2020-10-09 |  |
 | [Fabienne](https://open.spotify.com/track/34ENpx8bYPgYCTSTtRMcCC) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 6:03 | 2022-05-12 | 2023-05-24 |

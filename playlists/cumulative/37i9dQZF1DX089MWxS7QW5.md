@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Tabber\(태버\)\)
 
-307 songs - 17 hr 6 min
+308 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [NI](https://open.spotify.com/track/1YPBwYpIgQHTaNA7Lzbju7) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [NI](https://open.spotify.com/album/5Dr99ei10zLhwbmYS4ndhf) | 3:19 | 2023-01-13 | 2023-07-08 |
 | [Night Air \(With\. g1nger\)](https://open.spotify.com/track/5GHNtt4wq9XjKeLTonZNdd) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [Yellow](https://open.spotify.com/album/6x9ZhTzPQNzzcgCncunY8M) | 3:57 | 2022-05-28 | 2022-07-05 |
 | [Nightmare \(feat\. Plo6, Stay.d & O RO\)](https://open.spotify.com/track/5gOsBcGDog5XvleJjOFz02) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Plo6](https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa), [sdy](https://open.spotify.com/artist/2pLNWAWPJJwM2r2zfDinLZ), [O RO](https://open.spotify.com/artist/3bYQBVXWRrgRQpi0BjSy9n) | [The moment I loved](https://open.spotify.com/album/0kGEApRuPVl76yI8cJbXQn) | 2:40 | 2024-01-08 |  |
+| [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 |  |
 | [No One Special \(feat\. J.O.Y & GARETH FERNANDEZ\)](https://open.spotify.com/track/0Gn4sPo3XJk1J897upDQru) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [Truman Show](https://open.spotify.com/album/6dPPKcd9FxtjGrwONNOTLR) | 2:50 | 2023-01-20 | 2023-08-18 |
 | [No.5](https://open.spotify.com/track/0qPE8po4lQB34Ag281MBMr) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [No.5](https://open.spotify.com/album/7sTaCC9hyAjG93JoQb9OR6) | 2:51 | 2023-07-14 | 2023-10-21 |
 | [No.5](https://open.spotify.com/track/49n3XWprPOrQP8O50Ue9ls) | [MarginChoi](https://open.spotify.com/artist/1jQTEipNOZS8UPk53wxVfB), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG) | [No.5](https://open.spotify.com/album/2Wnge9eiuPNX0EJFzDNfys) | 2:53 | 2022-05-28 | 2022-06-21 |

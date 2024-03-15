@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-192 songs - 9 hr 33 min
+194 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-29 | 2024-02-14 |
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-01-30 | 2024-02-07 |
 | [Always on the run](https://open.spotify.com/track/3BJ0uXKEz9fUxCbZle1rCE) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Always on the run](https://open.spotify.com/album/61t1CVlAIr7HWUkS0KcF3K) | 3:29 | 2024-02-24 | 2024-03-11 |
+| [Always Remember Us This Way](https://open.spotify.com/track/3XlKoDmt7NritaYTEndgC2) | [DJ Tons](https://open.spotify.com/artist/5VYesSh5yGx6xOZf5uRxTH) | [Always Remember Us This Way](https://open.spotify.com/album/4MTotR09tqH2kT7r5uaMdY) | 3:54 | 2024-03-14 |  |
 | [Angel Numbers Amapiano \(Remix\)](https://open.spotify.com/track/1xQnEZSuYzP9LTooTD4gIK) | [Precious](https://open.spotify.com/artist/4Dgly7VMwC7Fw5K1oz1cOH), [Olayimika anthony](https://open.spotify.com/artist/2p7GBJUGXBRGrPks0dz5vm) | [Angel Numbers Amapiano \(Remix\)](https://open.spotify.com/album/71ibhohQM1AvBwEuIRbFqF) | 3:04 | 2024-02-25 | 2024-03-06 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 | 2024-03-01 | 2024-03-10 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-27 | 2024-03-02 |
@@ -27,7 +28,8 @@
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-03-05 |  |
 | [Bei niemand anders](https://open.spotify.com/track/4y4CxI1nbbvjcY2lXu39wX) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Bei niemand anders](https://open.spotify.com/album/0QIWDZSFA06dAqREaLN0Wz) | 3:55 | 2024-01-29 | 2024-01-31 |
 | [Beispiel daran](https://open.spotify.com/track/4rnyCM78nXruirLLm3lRof) | [Julia Meladin](https://open.spotify.com/artist/26N7IKzjFJ57y84GdXBd4A) | [Beispiel daran](https://open.spotify.com/album/1C2MhOVmPjKubbig4MXKu9) | 3:23 | 2024-01-29 | 2024-01-31 |
-| [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 | 2024-03-05 |  |
+| [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 | 2024-03-05 | 2024-03-15 |
+| [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-14 |  |
 | [Bending Hectic](https://open.spotify.com/track/1xnVnK5ZHZaGEZ166eFpNJ) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 8:03 | 2024-01-31 | 2024-02-07 |
 | [BIKINI GRELL](https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [BIKINI GRELL](https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM) | 2:03 | 2024-03-05 |  |
 | [Birknbam](https://open.spotify.com/track/0GPU2Ho9l6yt9A0iFdW8lQ) | [Die Südsteirer](https://open.spotify.com/artist/06BKXVRKbK27GrNqxsRk6S) | [Birknbam](https://open.spotify.com/album/70Biibg7TMtxOjIyLvHa0F) | 2:53 | 2024-01-29 | 2024-02-28 |
@@ -198,7 +200,7 @@
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-29 | 2024-02-06 |
 | [You Didn’t Know](https://open.spotify.com/track/0nD9zX0pnjOGhwZbCtMSGR) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Shoba Narayan](https://open.spotify.com/artist/5LNiqorupgMehK3ewlUCvj), [Patina Miller](https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp), [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 3:08 | 2024-02-14 | 2024-02-28 |
 | [ZEIT, DASS SICH WAS DREHT](https://open.spotify.com/track/1NifMX1JqCz9caJowG8dxq) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [ZEIT, DASS SICH WAS DREHT](https://open.spotify.com/album/3kGCNaXI68tIspcsuWQ1yy) | 2:33 | 2024-03-12 |  |
-| [„glücklich“](https://open.spotify.com/track/4WC4kyZnG7TxklAKBKUaK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [„glücklich“](https://open.spotify.com/album/3WwkJn0W4ZRLKkxeOBx4U8) | 2:44 | 2024-03-12 |  |
+| [„glücklich“](https://open.spotify.com/track/4WC4kyZnG7TxklAKBKUaK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [„glücklich“](https://open.spotify.com/album/3WwkJn0W4ZRLKkxeOBx4U8) | 2:44 | 2024-03-12 | 2024-03-15 |
 | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd) | [vyrval](https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9) | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn) | 3:10 | 2024-02-27 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

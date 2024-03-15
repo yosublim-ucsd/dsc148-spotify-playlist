@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Delilah Bon
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Banshee
 
-768 songs - 1 day 12 hr 36 min
+770 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:39 | 2023-03-10 | 2023-04-07 |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 | 2023-03-03 | 2023-03-12 |
 | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/album/0vPUz1x0IchSUrBZqFKUb1) | 2:06 | 2023-01-13 | 2023-03-03 |
-| [CPR](https://open.spotify.com/track/6RynBkCtUFER2ll7fLyt9M) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [CPR](https://open.spotify.com/album/6Lv6KtVqoeeNIsZQYvizcN) | 3:09 | 2024-01-12 |  |
+| [CPR](https://open.spotify.com/track/6RynBkCtUFER2ll7fLyt9M) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [CPR](https://open.spotify.com/album/6Lv6KtVqoeeNIsZQYvizcN) | 3:09 | 2024-01-12 | 2024-03-15 |
 | [Crash](https://open.spotify.com/track/2WH3mS1wEQVOnqM3MrtgrA) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Crash](https://open.spotify.com/album/5Md6s8myCyloKB3gJTExZT) | 2:28 | 2023-12-08 |  |
 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-03 | 2023-11-11 |
 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 | 2023-01-20 | 2023-03-10 |
@@ -604,7 +604,7 @@
 | [Scratchcard Feeling](https://open.spotify.com/track/5B1ZMJQqtjMSJqFckLGLx8) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Scratchcard Feeling](https://open.spotify.com/album/3ZIYT6OXxH0eHrnKheNMDn) | 4:00 | 2021-12-27 | 2022-06-10 |
 | [See Her](https://open.spotify.com/track/4CwuxF1HAbPPgox7J9c8QC) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [See Her](https://open.spotify.com/album/1hiy4N0BAUyBRj4kXjQA2v) | 2:47 | 2023-12-15 |  |
 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 | 2023-01-27 | 2023-04-14 |
-| [Semblance](https://open.spotify.com/track/3pZwtA8u45KhTv16xltv13) | [Macca Wiles](https://open.spotify.com/artist/7CkWoeaDeH2dRdiOxILlS3) | [Semblance](https://open.spotify.com/album/0mVZ8y8xYwTLSRwblj2KBA) | 2:36 | 2023-12-22 |  |
+| [Semblance](https://open.spotify.com/track/3pZwtA8u45KhTv16xltv13) | [Macca Wiles](https://open.spotify.com/artist/7CkWoeaDeH2dRdiOxILlS3) | [Semblance](https://open.spotify.com/album/0mVZ8y8xYwTLSRwblj2KBA) | 2:36 | 2023-12-22 | 2024-03-15 |
 | [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 | 2022-09-07 | 2022-11-11 |
 | [Seraphim](https://open.spotify.com/track/4DXDoLAvsGsa0SAeeW4e54) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Seraphim](https://open.spotify.com/album/7GfGmfnbD1c3CvcPkFeR0l) | 3:13 | 2023-04-06 | 2023-09-15 |
 | [Serotonin](https://open.spotify.com/track/42wUK6XAnMNv3CULQZ7HMm) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [I've Seen The Lizard People](https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf) | 1:50 | 2023-09-14 | 2023-11-11 |
@@ -640,6 +640,7 @@
 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 | 2023-08-31 | 2024-01-12 |
 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 | 2023-05-04 | 2023-11-18 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2023-01-20 | 2023-09-08 |
+| [Spoils Of War](https://open.spotify.com/track/7lPYsLXUUZMhWACOLi9U86) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY), [The Buttress](https://open.spotify.com/artist/61pcWUzNqpHNWc21SuHP1J) | [Spoils Of War](https://open.spotify.com/album/0fsH4nuvFdjZpm8WVBb1Bf) | 4:49 | 2024-03-15 |  |
 | [SPYD4 K1NG](https://open.spotify.com/track/0u1inKbr4lCWrjn11W9ydh) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [SPYD4 K1NG](https://open.spotify.com/album/1xkuGHZ4eWoZGO7XZQoN4Q) | 3:12 | 2023-05-04 | 2023-07-07 |
 | [Stained](https://open.spotify.com/track/28Fhh3sLYSeqXij1PM9wHW) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Stained](https://open.spotify.com/album/4HLLeKI7DK3PXDT9OSCzgy) | 3:36 | 2021-12-27 | 2022-06-10 |
 | [stay alone](https://open.spotify.com/track/4oGe4nBE3pxLq1oO31qtux) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [stay alone](https://open.spotify.com/album/1wI3MfvcXTKLLSayHDqHIw) | 1:58 | 2022-11-04 | 2023-01-22 |
@@ -747,6 +748,7 @@
 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 | 2024-01-19 |  |
 | [Why Did You Tell Me That You Loved Me?](https://open.spotify.com/track/62FVhzJNJZ0DsO0hhLu3f4) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Why Did You Tell Me That You Loved Me?](https://open.spotify.com/album/5pvDSgAqiFMntQpeiVXn6M) | 2:55 | 2022-04-19 | 2022-04-29 |
 | [Wild Wild West](https://open.spotify.com/track/2AOHlJT5v6F1JlPRrxiGLQ) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Wild Wild West](https://open.spotify.com/album/5xg1NMdKozU9GYLyLrUfJx) | 3:22 | 2022-08-18 | 2022-10-14 |
+| [Wish I Ain’t](https://open.spotify.com/track/5WlNM5UK3UC0v7hTJuB2xg) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Wish I Ain’t](https://open.spotify.com/album/4VhOno6Ce4JwUt6sBwyXe7) | 2:13 | 2024-03-15 |  |
 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-07-28 | 2022-11-11 |
 | [WISH YOU WERE DEAD](https://open.spotify.com/track/7lcnOYhsy2RcLQGeIAN6a8) | [Lucy Deakin](https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h) | [WISH YOU WERE DEAD](https://open.spotify.com/album/23jnFwSYYOF49E94Nlg64M) | 2:28 | 2023-11-17 |  |
 | [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 | 2023-10-13 |  |

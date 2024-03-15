@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 173686,
       "name": "Crying",
       "url": "https://open.spotify.com/track/3lpLpwUF7KTJVj9yoySNwM"
@@ -3630,6 +3630,24 @@
       "duration_ms": 212758,
       "name": "Good Things Take Time",
       "url": "https://open.spotify.com/track/0RIuc7NFiUS8yT9BOPQgha"
+    },
+    {
+      "album": {
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK"
     },
     {
       "album": {
@@ -9257,7 +9275,7 @@
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 219253,
+      "duration_ms": 220691,
       "name": "Somewhere Between",
       "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
     },

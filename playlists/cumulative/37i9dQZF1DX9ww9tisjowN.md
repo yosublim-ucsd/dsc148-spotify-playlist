@@ -2,7 +2,7 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Yorushika \(ヨルシカ\)
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: HoneyWorks
 
 377 songs - 21 hr 50 min
 

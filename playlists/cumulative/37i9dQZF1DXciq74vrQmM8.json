@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Delilah Bon",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Banshee",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 189882,
       "name": "CPR",
       "url": "https://open.spotify.com/track/6RynBkCtUFER2ll7fLyt9M"
@@ -11316,7 +11316,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 156363,
       "name": "Semblance",
       "url": "https://open.spotify.com/track/3pZwtA8u45KhTv16xltv13"
@@ -11974,6 +11974,28 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "album": {
+        "name": "Spoils Of War",
+        "url": "https://open.spotify.com/album/0fsH4nuvFdjZpm8WVBb1Bf"
+      },
+      "artists": [
+        {
+          "name": "Zheani",
+          "url": "https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY"
+        },
+        {
+          "name": "The Buttress",
+          "url": "https://open.spotify.com/artist/61pcWUzNqpHNWc21SuHP1J"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289773,
+      "name": "Spoils Of War",
+      "url": "https://open.spotify.com/track/7lPYsLXUUZMhWACOLi9U86"
     },
     {
       "album": {
@@ -14008,6 +14030,24 @@
       "duration_ms": 202074,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/2AOHlJT5v6F1JlPRrxiGLQ"
+    },
+    {
+      "album": {
+        "name": "Wish I Ain\u2019t",
+        "url": "https://open.spotify.com/album/4VhOno6Ce4JwUt6sBwyXe7"
+      },
+      "artists": [
+        {
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133978,
+      "name": "Wish I Ain\u2019t",
+      "url": "https://open.spotify.com/track/5WlNM5UK3UC0v7hTJuB2xg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-272 songs - 14 hr 8 min
+274 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Memory of Sunday](https://open.spotify.com/track/6qmfW6vNga0M3yV9hoCGsf) | [Plaice Commes](https://open.spotify.com/artist/103iNifaFqCDUVVglaXb7D) | [Focuses](https://open.spotify.com/album/0f8yANLtuGimQ18mzOKJUG) | 2:44 | 2023-06-30 |  |
 | [Alaska](https://open.spotify.com/track/6SfeqlQllT5pLCr4uCmkVK) | [The Yené](https://open.spotify.com/artist/4JxRczlzeGuDkMmpun9jXu) | [Alaska](https://open.spotify.com/album/07BDWmcQOd33q7Pbk8aO2e) | 2:00 | 2023-06-02 |  |
 | [Amethyst](https://open.spotify.com/track/3ACNWsevsO9zXh5L4dgKR1) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Amethyst](https://open.spotify.com/album/5VMk8IyUX8Pf5sDw1e8Xzc) | 3:34 | 2023-09-01 |  |
+| [Another Day](https://open.spotify.com/track/2O07AvxSLB2UNfANa6SzLi) | [Francis Flo](https://open.spotify.com/artist/1WNWDUJZnaNuOhfcoug5hJ) | [Another Day](https://open.spotify.com/album/3qyY3grfJEQY889AdFXXwN) | 1:53 | 2024-03-14 |  |
 | [Another Routine Day Breaks](https://open.spotify.com/track/3zgpJfyPtpX38aZUnu4peT) | [Brokeback](https://open.spotify.com/artist/2iQyHU4IeFpP9lU6OTtfKE) | [Field Recordings from the Cook County Water Table](https://open.spotify.com/album/32zOl1bVoUW35RlXQ9sGu1) | 5:00 | 2022-03-30 | 2023-09-01 |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/16CsL4rZzbx3MttvLucFs8) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj) | 3:05 | 2022-03-30 | 2022-07-29 |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 | 2022-07-15 | 2023-07-22 |
@@ -138,6 +139,7 @@
 | [Lost in Dreamland](https://open.spotify.com/track/5Ld0nTNShgRHfMC7iDyeTb) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Lost in Dreamland](https://open.spotify.com/album/7hUBfDIeGg5CRAQ0SdXtX1) | 3:09 | 2022-03-30 |  |
 | [lost in motions](https://open.spotify.com/track/5L1hTJQSQJcrMTtJpt2fvP) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lost in motions EP](https://open.spotify.com/album/6U4W3dHjwfEzX7XeSgnHLT) | 2:33 | 2023-01-13 |  |
 | [Lost Together](https://open.spotify.com/track/4L4oUWv9dBjgGScuHpDXDG) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Lost Together](https://open.spotify.com/album/3Y30tca34Ey15PhjZlnq3V) | 2:30 | 2024-02-22 |  |
+| [Lunar Rainbow](https://open.spotify.com/track/1NMxmBVNn7fP2nzl8dzHrj) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Lunar Rainbow](https://open.spotify.com/album/4ErS1KMmmBecV5ZCmVUs4V) | 2:27 | 2024-03-14 |  |
 | [Make We Here Our Camp of Winter](https://open.spotify.com/track/6qxpNhGriflFhRzat7tAC5) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 5:42 | 2022-10-07 | 2023-02-04 |
 | [Make We Here Our Camp of Winter](https://open.spotify.com/track/6r4AmkZbvhorcU7gxpev3z) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3OrrYv7sHlX3Azpvak9w6w) | 5:42 | 2022-03-30 | 2022-10-19 |
 | [Malibu Breeze](https://open.spotify.com/track/6MfGgThfFD2ryXzQSuCZAl) | [Aura Onda](https://open.spotify.com/artist/04O0lEQuqzTzjlhJ9Rfhgx) | [Malibu Breeze](https://open.spotify.com/album/1qo5KKvrpqByTon4bFGohz) | 2:24 | 2023-02-24 |  |

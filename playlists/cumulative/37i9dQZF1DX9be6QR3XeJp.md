@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Victoria Canal
+> Discover your new favourite artists from UK&IE\. Cover: Alfie Sharp
 
-251 songs - 13 hr 35 min
+252 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Nashville](https://open.spotify.com/track/0GoptW8lwK7Y1iOAVaVxiA) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 5:16 | 2022-10-06 |  |
 | [Nashville](https://open.spotify.com/track/1V0sMfByC4KMT7S6Twnvjg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 5:16 | 2022-03-04 | 2022-10-13 |
 | [Nashville](https://open.spotify.com/track/6aQ4r8oKFAX6mJhhwPjgpf) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead](https://open.spotify.com/album/0jk8QfkoB9qeqPHxiWkLQR) | 5:16 | 2022-11-11 | 2022-11-13 |
+| [Never Be The Same](https://open.spotify.com/track/3ULxtlPyKErdQl6EsyRoUz) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Home Truths](https://open.spotify.com/album/68zLKbOglU5BivfAtoBUno) | 2:56 | 2024-03-15 |  |
 | [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 | 2023-02-03 |  |
 | [nightmares](https://open.spotify.com/track/5mnnsan9rtnYHjJoLVdD79) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [withdrawal symptoms](https://open.spotify.com/album/5Uj9bUqM83TDE0PJ2Dz7kT) | 2:41 | 2022-08-11 |  |
 | [No Drama](https://open.spotify.com/track/2K4YJw1w339PDnVRVNXBpu) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5F9kzrOxaGaB2sRMapfJUQ) | 3:10 | 2023-01-09 |  |

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-476 songs - 1 day 17 hr 1 min
+477 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Blasphemy](https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [Blasphemy](https://open.spotify.com/album/7cfkhtRdWjxknBT7Khj1HW) | 3:09 | 2023-10-28 | 2024-03-06 |
 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 | 2023-05-30 |
 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 | 2023-04-07 |  |
+| [Blue](https://open.spotify.com/track/1klWyUOiPXV7p5UFjBxPmf) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Blue EP](https://open.spotify.com/album/2m2QhcRmT9REjQt5QoFOk1) | 4:46 | 2024-03-01 |  |
 | [Blue](https://open.spotify.com/track/2C8c1RN9BDuwR7DiIXqYNY) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Blue](https://open.spotify.com/album/0WatRmyFsbWvxsn62abO9k) | 4:46 | 2021-12-08 | 2024-03-02 |
 | [Bo & Wing](https://open.spotify.com/track/2RO1rp7VqgHDFvQ0WeRrVF) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/3rXWQmHvNCyvpRm48CsYwP) | 4:47 | 2023-11-10 |  |
 | [Bo & Wing](https://open.spotify.com/track/6BRr6a4zwmI7H3c7IBSsK5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:47 | 2021-12-08 | 2023-11-05 |
@@ -95,7 +96,7 @@
 | [Deep \-N\- Dirty](https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Late Night Basix Vol\. 2](https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l) | 5:59 | 2022-05-03 | 2023-05-23 |
 | [Deep Chicken](https://open.spotify.com/track/5tSEY4tjB8P44FkYDFuB48) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Deep Chicken](https://open.spotify.com/album/2gZ4Dgxtef0mFewFYOBHJ6) | 3:53 | 2022-01-14 |  |
 | [Departures](https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 5:08 | 2021-12-08 |  |
-| [Depend On Me](https://open.spotify.com/track/4yQRctOSENVDuXtLLndkbH) | [Denton \(UK\)](https://open.spotify.com/artist/1VfegrWo7qpHdZjoeIGwEN), [Cathy Battistessa](https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO) | [Depend On Me \(Inc\. Danny Howard Edit\)](https://open.spotify.com/album/5FGyelwco0nQKvjOc34TvW) | 3:39 | 2021-12-08 |  |
+| [Depend On Me](https://open.spotify.com/track/4yQRctOSENVDuXtLLndkbH) | [Denton \(UK\)](https://open.spotify.com/artist/1VfegrWo7qpHdZjoeIGwEN), [Cathy Battistessa](https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO) | [Depend On Me \(Inc\. Danny Howard Edit\)](https://open.spotify.com/album/5FGyelwco0nQKvjOc34TvW) | 3:39 | 2021-12-08 | 2024-03-15 |
 | [Desde el Underground](https://open.spotify.com/track/24k7TLEAWLGSdguQbvn2dW) | [Wally Lopez](https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ) | [Desde el Underground](https://open.spotify.com/album/6J6K1kAIQ0DvimP5rF3HeX) | 3:33 | 2021-12-08 | 2023-01-06 |
 | [Deserted Tree](https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Deserted Tree](https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1) | 2:45 | 2021-12-08 | 2023-10-25 |
 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 | 2021-12-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67149,
+  "num_followers": 67168,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDVkOTEyMTZiNTExZThhNDRlZTBjMDhiNDc5MTUyYzMzNmY4MjNk",
+  "snapshot_id": "MCwxMDRiN2RmMGJiNTcxMDYwNDQ0ZjU3MWRhMzI0Y2ZlOGVlOTNlNmU3",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Kopernikus EP",
-        "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
-      },
-      "artists": [
-        {
-          "name": "Stil & Bense",
-          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
-        }
-      ],
-      "duration_ms": 440118,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 275199,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Kopernikus EP",
+        "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
+      },
+      "artists": [
+        {
+          "name": "Stil & Bense",
+          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
+        }
+      ],
+      "duration_ms": 440118,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
     },
     {
       "added_at": "2023-06-09 18:05:35",

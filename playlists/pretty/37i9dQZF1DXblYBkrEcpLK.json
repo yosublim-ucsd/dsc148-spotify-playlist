@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: ReoNa",
-  "num_followers": 155372,
+  "num_followers": 155448,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTc1NDBjZjM3YzM5N2E1NzczNjZmYTRhYThkZGY0Mzk5ODc3Mzdj",
+  "snapshot_id": "MCxlZGRmYzFkMmM4ZjZmMmVhZDc0MTBkNWFjMjg1NDRhOTM4MTM3OTZh",
   "tracks": [
     {
       "added_at": "2024-02-20 15:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "\u5149\u306e\u4e2d\u3078",
-        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 258265,
-      "name": "\u5149\u306e\u4e2d\u3078",
-      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
-    },
-    {
-      "added_at": "2024-02-20 15:00:00",
-      "album": {
         "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
         "url": "https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 180266,
       "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7"
+    },
+    {
+      "added_at": "2024-02-20 15:00:00",
+      "album": {
+        "name": "\u5149\u306e\u4e2d\u3078",
+        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 258265,
+      "name": "\u5149\u306e\u4e2d\u3078",
+      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
     },
     {
       "added_at": "2024-02-20 15:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
+        "name": "Miseisenjo",
+        "url": "https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "duration_ms": 237366,
+      "name": "Itterasshai",
+      "url": "https://open.spotify.com/track/5qD2Jt4i2btdL1Fg4XOe20"
+    },
+    {
+      "added_at": "2024-02-20 15:00:00",
+      "album": {
         "name": "FAKEit",
         "url": "https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 174106,
       "name": "FAKEit",
       "url": "https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi"
-    },
-    {
-      "added_at": "2024-02-20 15:00:00",
-      "album": {
-        "name": "Miseisenjo",
-        "url": "https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl"
-      },
-      "artists": [
-        {
-          "name": "Higuchi Ai",
-          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
-        }
-      ],
-      "duration_ms": 237366,
-      "name": "Itterasshai",
-      "url": "https://open.spotify.com/track/5qD2Jt4i2btdL1Fg4XOe20"
     },
     {
       "added_at": "2024-02-20 15:00:00",

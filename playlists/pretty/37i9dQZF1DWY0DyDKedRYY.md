@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music, featuring RADAR official artist Sexyy Red on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,647 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,633 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 39 | [Mountain Snow](https://open.spotify.com/track/3NZEfp0Mc9G57oBInLYIpV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Mountain Snow](https://open.spotify.com/album/2QCc4wTc9nmYryvDXF43k0) | 2:59 |
 | 40 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 |
 
-Snapshot ID: `MCw5NTNhOWRiNjA3NTA4Mjc1MTkyYjU1NWIyODA4NjhkY2YzMGNhYTJm`
+Snapshot ID: `MCw3NWVmYzg3MzExYzI0YzE0MGFhYWM1M2EzYTUwNGYzMWRhZWRjZTM5`

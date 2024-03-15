@@ -1727,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "In Hiberna",
+        "url": "https://open.spotify.com/album/2FztCCxfIWiA7U10hCKbP3"
+      },
+      "artists": [
+        {
+          "name": "Echoes Of Time",
+          "url": "https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171827,
+      "name": "In Hiberna",
+      "url": "https://open.spotify.com/track/1D6BnQf6YORulussaLqHdC"
+    },
+    {
+      "album": {
         "name": "In the deep",
         "url": "https://open.spotify.com/album/3zUScCSyKqXMIGVrOrz1Bt"
       },
@@ -2246,6 +2264,24 @@
       "duration_ms": 211764,
       "name": "Mind Tranquility",
       "url": "https://open.spotify.com/track/3CmE2zIMFmeEs3b6j4GDLy"
+    },
+    {
+      "album": {
+        "name": "Misty Moonlight",
+        "url": "https://open.spotify.com/album/2khlcHkhvRhN90k1iPG8IO"
+      },
+      "artists": [
+        {
+          "name": "Luna Novina",
+          "url": "https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162372,
+      "name": "Misty Moonlight",
+      "url": "https://open.spotify.com/track/5jK5hBlmc1lXX30coMel1r"
     },
     {
       "album": {

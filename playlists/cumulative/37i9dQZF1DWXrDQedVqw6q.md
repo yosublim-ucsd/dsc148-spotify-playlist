@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-178 songs - 8 hr 22 min
+181 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2022-03-21 |  |
 | [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 | 2022-03-21 | 2023-02-08 |
 | [aequor](https://open.spotify.com/track/1bg1pkCcZums63l85aFe6x) | [ẹmi](https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU) | [aequor](https://open.spotify.com/album/5nBJgzreCLff9VRA9KPKfj) | 2:31 | 2024-03-07 |  |
+| [Anduin](https://open.spotify.com/track/0JMCO5CHL11nwI4NA1blxi) | [Reve De Lune](https://open.spotify.com/artist/0hR5ZibruXhF8cMnILIOEI) | [Anduin](https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb) | 2:56 | 2024-03-14 |  |
 | [Arpegio D](https://open.spotify.com/track/7lnZVBzBlyMdkkpfz4P1L8) | [The Zapan](https://open.spotify.com/artist/4uUjj6DgZwg15yMXzoHlg0) | [Arpegio D](https://open.spotify.com/album/18uoUXsDi5Pmr2I4iDXJEa) | 2:02 | 2022-03-21 | 2022-05-06 |
 | [Artemis](https://open.spotify.com/track/7vnEWOMLuZLpkbJk8HFuus) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Artemis](https://open.spotify.com/album/4lmVb8zknEw7BpRaLkc6mQ) | 2:25 | 2022-03-21 |  |
 | [Astral Meadows](https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Astral Meadows](https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF) | 2:48 | 2024-02-14 |  |
@@ -39,6 +40,7 @@
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-03-21 |  |
 | [Comfort](https://open.spotify.com/track/46iE5py9jK5Oxxtqp3IwBI) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Comfort](https://open.spotify.com/album/6GnVpoGbHb2Qoha334e1e9) | 2:13 | 2022-03-21 |  |
 | [Coming Home](https://open.spotify.com/track/30ACOtgBj1PqZs1erzFZkU) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Coming Home](https://open.spotify.com/album/2mzEZ3vrrDLk3pA381vWiG) | 2:52 | 2022-03-21 |  |
+| [Como antes](https://open.spotify.com/track/4qzw27x0zpsqtDNL5pfCc0) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Como antes](https://open.spotify.com/album/2embggsTkawDxjpbmUOp5y) | 3:15 | 2024-03-14 |  |
 | [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 | 2022-03-21 | 2022-06-25 |
 | [Dark Waters](https://open.spotify.com/track/4hQcEuImsSUwXPCUvckx0n) | [Nikola Sati](https://open.spotify.com/artist/7JMxDlvcKZe5sGE5OGO5cq) | [Dark Waters](https://open.spotify.com/album/2rINKL70Kcm1Q0ud9rSfmF) | 2:32 | 2022-03-21 |  |
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2022-03-21 |  |
@@ -63,6 +65,7 @@
 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 | 2022-03-21 |  |
 | [Falling Into Myself](https://open.spotify.com/track/1s2H9ipBuw8CbqTvmi9wc4) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Dreamland](https://open.spotify.com/album/1NwKSU521fcHWGet98ka6r) | 2:14 | 2022-03-21 |  |
 | [Fireplace](https://open.spotify.com/track/6zO5kSbABJPDnMTMkbRGsG) | [Sam Sandro](https://open.spotify.com/artist/0oOXxPFTxaSLUB9cmMXyIE) | [Ballroom](https://open.spotify.com/album/6UsoKe7yyuSBvWyW5FlyKw) | 2:40 | 2022-03-21 |  |
+| [First Light](https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi) | [Natura](https://open.spotify.com/artist/4oy2uVLAg5ylYRiH0Q2SVM) | [First Light](https://open.spotify.com/album/08m8fgV9bmIrAqnd0E4nNG) | 2:30 | 2024-03-14 |  |
 | [Fleurel](https://open.spotify.com/track/6R4Z8r68yy8DTZPGZxVw0J) | [Santo De Luca](https://open.spotify.com/artist/0s7z0HatZQ3GXIuUrg5hyL) | [Amaryllis](https://open.spotify.com/album/5f5yI5R2dYvcqW42OHftxp) | 3:08 | 2022-03-21 |  |
 | [Forever Right Now](https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR) | [Tom Brown Sterling](https://open.spotify.com/artist/5QFEyJpaEKyXqrXJbZQRiY) | [Forever Right Now](https://open.spotify.com/album/6XeAvtLpu79R5eMwsXft7j) | 2:16 | 2022-03-21 | 2022-09-07 |
 | [From The Horizon](https://open.spotify.com/track/4Wk9NDOcjHMSDcnKnVfLvb) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [From The Horizon](https://open.spotify.com/album/61jBjdLl3sLfmMOuK2w4d9) | 3:08 | 2022-03-21 | 2022-09-07 |

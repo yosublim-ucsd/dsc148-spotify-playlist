@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 260187,
+  "num_followers": 260290,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWU3MGMzMThhMWVmMjY0NmNmNDQ4OWQ0MGNmYjAyMTBhZTA1NTI4",
+  "snapshot_id": "MCwyYzVmNzU3Njc0M2NlNDBhNzk3YjNhNjk2NmJlZmFjMmMyMGNjNjJj",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Por Fin en Casa",
-        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
+        "name": "He Visto Su Gloria",
+        "url": "https://open.spotify.com/album/3HJoI4LfCPrCjdzE98M76U"
       },
       "artists": [
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
+          "name": "Tony P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
         }
       ],
-      "duration_ms": 287116,
-      "name": "Hijo Pr\u00f3digo",
-      "url": "https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM"
+      "duration_ms": 447240,
+      "name": "Tengo Sed De Ti",
+      "url": "https://open.spotify.com/track/3qAUMISTUzUmHptnTnmSSc"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "He Visto Su Gloria",
-        "url": "https://open.spotify.com/album/3HJoI4LfCPrCjdzE98M76U"
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
       },
       "artists": [
         {
-          "name": "Tony P\u00e9rez",
-          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
         }
       ],
-      "duration_ms": 447240,
-      "name": "Tengo Sed De Ti",
-      "url": "https://open.spotify.com/track/3qAUMISTUzUmHptnTnmSSc"
+      "duration_ms": 287116,
+      "name": "Hijo Pr\u00f3digo",
+      "url": "https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM"
     }
   ],
   "unique_name": "Con Fe",

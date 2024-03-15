@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Amble",
+  "description": "New tunes from Ireland for your discovery. Cover: Pillow Queens",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 199380,
       "name": "1 + Only",
       "url": "https://open.spotify.com/track/776vcQzhzWnK5wFVHxmQhC"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 231000,
       "name": "Chris Pratt",
       "url": "https://open.spotify.com/track/6JOGJuVv7MKNbubKUwhU45"
@@ -777,6 +777,42 @@
     },
     {
       "album": {
+        "name": "Like A Lesson",
+        "url": "https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199376,
+      "name": "Like A Lesson",
+      "url": "https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe"
+    },
+    {
+      "album": {
+        "name": "Like I Know You",
+        "url": "https://open.spotify.com/album/5GlI2oHXf8ptPpi6ZWrrP9"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn O",
+          "url": "https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205845,
+      "name": "Like I Know You",
+      "url": "https://open.spotify.com/track/5Ivojtwe4uoTnMOqJAW6KH"
+    },
+    {
+      "album": {
         "name": "Locked Up Never Fade",
         "url": "https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8"
       },
@@ -936,6 +972,36 @@
       "duration_ms": 198847,
       "name": "Make Me Smile",
       "url": "https://open.spotify.com/track/6ozqkNSPFNjaAaqDgiJPXV"
+    },
+    {
+      "album": {
+        "name": "ISSA NEW ERA!",
+        "url": "https://open.spotify.com/album/2SilrGAaibjxRpebuPoDdO"
+      },
+      "artists": [
+        {
+          "name": "Celaviedmai",
+          "url": "https://open.spotify.com/artist/4c61VuJuumv26ISGZ4VzcO"
+        },
+        {
+          "name": "Ben Bix",
+          "url": "https://open.spotify.com/artist/3rGwqjv5MH8zmWIaVaENOP"
+        },
+        {
+          "name": "Qbanaa",
+          "url": "https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ"
+        },
+        {
+          "name": "Plantain Papi",
+          "url": "https://open.spotify.com/artist/4n2PDqvYZGbA6jEUl9Oim4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Make Ya Go",
+      "url": "https://open.spotify.com/track/5mMwWxN340JYPqnpQ5UVLD"
     },
     {
       "album": {
@@ -1123,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/2g4ZTUmr2X7gI7zVUmgVIu"
+      },
+      "artists": [
+        {
+          "name": "Lemoncello",
+          "url": "https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313000,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/08PEMd5eezf6t55FXX7CSt"
+    },
+    {
+      "album": {
         "name": "Only Human",
         "url": "https://open.spotify.com/album/0qvFjAc5SvaBExJ65LeWMr"
       },
@@ -1134,7 +1218,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 154053,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/7KRaAp2EwSxCLYAASWbbNV"
@@ -1502,7 +1586,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 220155,
       "name": "Stolen",
       "url": "https://open.spotify.com/track/71r6gdFkApNiV60zU6WjlI"

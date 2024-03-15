@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 34560,
+  "num_followers": 34631,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTY4ZDk2MjhiMThkYWFkMzRjYmQ4NzRiN2IyMTQ0MzhhN2FmZWUz",
+  "snapshot_id": "MCwxNDNiMDJlMjQ1NjIzMjk4NGNjYTU4Nzk4Mzc3Yzk1ZmM0ZjAyMTI2",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -237,7 +237,7 @@
         }
       ],
       "duration_ms": 179063,
-      "name": "El Son De La Rabia (En Vivo)",
+      "name": "El Son De La Rabia - En Vivo",
       "url": "https://open.spotify.com/track/1vJCOsDg9LZRIZImi0oBb6"
     },
     {
@@ -537,7 +537,7 @@
         }
       ],
       "duration_ms": 119807,
-      "name": "El Toro De Once (En Vivo)",
+      "name": "El Toro De Once - En Vivo",
       "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
     },
     {
@@ -633,7 +633,7 @@
         }
       ],
       "duration_ms": 145103,
-      "name": "Arriba Pichataro (En Vivo)",
+      "name": "Arriba Pichataro - En Vivo",
       "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
     },
     {
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "El Novillo Despuntado / Toro Pinto",
-        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 277796,
-      "name": "El Novillo Despuntado / Toro Pinto",
-      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Las Mamirriquis",
         "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 164087,
       "name": "La Burra Orejona",
       "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "El Novillo Despuntado / Toro Pinto",
+        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 277796,
+      "name": "El Novillo Despuntado / Toro Pinto",
+      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -781,24 +781,8 @@
         }
       ],
       "duration_ms": 175934,
-      "name": "La Conga Roja (En Vivo)",
+      "name": "La Conga Roja - En Vivo",
       "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 190171,
-      "name": "Conga Conguita",
-      "url": "https://open.spotify.com/track/3FJ7dZ6WXilGsBIVOoB0wB"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -819,6 +803,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 190171,
+      "name": "Conga Conguita",
+      "url": "https://open.spotify.com/track/3FJ7dZ6WXilGsBIVOoB0wB"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
         "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 128224,
       "name": "Las Calandrias",
       "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "El Chavo del Ocho (The Elephant Never Forgets)",
-        "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
-      },
-      "artists": [
-        {
-          "name": "Banda Perla De Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
-        }
-      ],
-      "duration_ms": 166876,
-      "name": "El Chavo del Ocho (The Elephant Never Forgets)",
-      "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -867,6 +851,22 @@
       "duration_ms": 243506,
       "name": "Popurr\u00ed Mexicano: Son de la Negra / Pelea de Gallos",
       "url": "https://open.spotify.com/track/0gi7rXrTRTmQqsoVrVW3X8"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "El Chavo del Ocho (The Elephant Never Forgets)",
+        "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
+      },
+      "artists": [
+        {
+          "name": "Banda Perla De Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
+        }
+      ],
+      "duration_ms": 166876,
+      "name": "El Chavo del Ocho (The Elephant Never Forgets)",
+      "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -951,6 +951,26 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
+      },
+      "artists": [
+        {
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+        }
+      ],
+      "duration_ms": 166269,
+      "name": "Cinco Trancazos",
+      "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Me Hac\u00edan Falta Huevos",
         "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 154266,
       "name": "Zapateando Con La Banda",
       "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
-      },
-      "artists": [
-        {
-          "name": "Banda Trancazo",
-          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
-        },
-        {
-          "name": "Arturo Camarillo",
-          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
-        }
-      ],
-      "duration_ms": 166269,
-      "name": "Cinco Trancazos",
-      "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1065,7 +1065,7 @@
         }
       ],
       "duration_ms": 325346,
-      "name": "El Pato Asado, El Ahualulco (En Vivo)",
+      "name": "El Pato Asado, El Ahualulco - En Vivo",
       "url": "https://open.spotify.com/track/2Nat0Cc2ddJVkkRqKlRN0M"
     },
     {
@@ -1241,7 +1241,7 @@
         }
       ],
       "duration_ms": 152400,
-      "name": "Palillos Chinos (En Vivo)",
+      "name": "Palillos Chinos - En Vivo",
       "url": "https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ"
     }
   ],

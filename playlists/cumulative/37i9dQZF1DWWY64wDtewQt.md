@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-700 songs - 1 day 2 hr 20 min
+701 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,7 +558,8 @@
 | [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 | 2022-08-12 | 2022-10-01 |
 | [See U](https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [See U](https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0) | 2:50 | 2022-09-16 | 2022-11-19 |
 | [See u \- Extended Version](https://open.spotify.com/track/52EXsoQrmBuAGyd0kX3Np4) | [V21](https://open.spotify.com/artist/67ALWf0iCYJTWxLJEvUJwk) | [See u \(Extended Version\)](https://open.spotify.com/album/6qziqd8C0BQzZsSsT573Zs) | 2:00 | 2021-08-27 | 2022-01-15 |
-| [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-06-16 |  |
+| [SEQUÊNCIA DA DZ7](https://open.spotify.com/track/0LnhfmhxSYLfur8Hr8eZ4T) | [Senius](https://open.spotify.com/artist/4egM8NbZRoRManQ8fLoF98) | [SEQUÊNCIA DA DZ7](https://open.spotify.com/album/7i0vC3NWcFICEO3WPVYmk0) | 1:59 | 2023-06-16 |  |
+| [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-06-16 | 2024-03-15 |
 | [Sequência da Dz7](https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ) | 1:59 | 2023-06-16 | 2024-03-10 |
 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 | 2022-08-19 |  |
 | [SHADOW DANCE](https://open.spotify.com/track/1Vt0OhAk0XztPBLym5k7Mc) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [SHADOW DANCE](https://open.spotify.com/album/1iuMQD2JKKqmL9YQqUNaNA) | 1:52 | 2023-02-17 | 2023-04-01 |

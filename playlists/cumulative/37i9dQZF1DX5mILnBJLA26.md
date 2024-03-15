@@ -2,7 +2,7 @@
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b?si=mqi\_Wtu4S\-6hG\_nVj3fxJQ">Riky Rick</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO?si=ww7clPsDT2W15SMllhyz6Q">Riky Rick</a>
 
 1,183 songs - 5 day 2 hr 48 min
 

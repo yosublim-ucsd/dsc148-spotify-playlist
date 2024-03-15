@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 169019,
       "name": "Between You & Me (feat. Ashley Cooke)",
       "url": "https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997"
@@ -1140,10 +1140,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 219830,
       "name": "Limousine Running",
       "url": "https://open.spotify.com/track/1YlMDKuzoTD6OlvN3OWeI9"
+    },
+    {
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/51g8yJiadm5VLvGVQBldVx"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie May",
+          "url": "https://open.spotify.com/artist/4l6QaibZhpm1elX3aMukRV"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/66kteVJsCZO68LWbaBCXPW"
     },
     {
       "album": {
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 210251,
       "name": "My Masterpiece",
       "url": "https://open.spotify.com/track/5SlOBlrnxsuhOGMQEVZeZ0"
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 214416,
       "name": "Never Wanted To Be That Girl",
       "url": "https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT"
@@ -2082,6 +2100,24 @@
       "duration_ms": 224986,
       "name": "Without You",
       "url": "https://open.spotify.com/track/3zxAw8PaqpeGZ3Pakkxv3J"
+    },
+    {
+      "album": {
+        "name": "Yippie-I-A",
+        "url": "https://open.spotify.com/album/14F8sE8qRnFVEekBjR1LzP"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258946,
+      "name": "Yippie-I-A",
+      "url": "https://open.spotify.com/track/1JMbxCEB9nSA6Xu8gtGroK"
     },
     {
       "album": {

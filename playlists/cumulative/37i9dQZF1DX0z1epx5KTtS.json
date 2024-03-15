@@ -2369,6 +2369,28 @@
     },
     {
       "album": {
+        "name": "Mon combat",
+        "url": "https://open.spotify.com/album/3fPVIQpas8ugxlY9ZasrBv"
+      },
+      "artists": [
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212688,
+      "name": "Mon combat",
+      "url": "https://open.spotify.com/track/6T6AQIS7A7zUTgl3ByyKq6"
+    },
+    {
+      "album": {
         "name": "Mon coup\u00e9 d\u00e9cal\u00e9",
         "url": "https://open.spotify.com/album/1ezwwP8oJFETR8e3rfRsWk"
       },
@@ -3438,7 +3460,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 205201,
       "name": "\u00c7a'a te d\u00e9go\u00fbter",
       "url": "https://open.spotify.com/track/02DUGJxrCBUh7fUNBPad59"

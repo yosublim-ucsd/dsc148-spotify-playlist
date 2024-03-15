@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-499 songs - 1 day 5 hr 56 min
+500 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A La Vida](https://open.spotify.com/track/7MQx0JhzfO64mciunnkD7o) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj), [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Off The Record](https://open.spotify.com/album/3ltOG1Zcq6fbqYvwIGBXeu) | 3:05 | 2021-10-20 | 2022-07-29 |
 | [A Shot in the Dark](https://open.spotify.com/track/1S2dznj3rS24uBd7ZtkiEh) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [A Shot in the Dark](https://open.spotify.com/album/0hMnDUlrEBy6TxGCdppD8G) | 3:13 | 2021-10-20 | 2022-04-20 |
 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 | 2021-10-20 | 2022-04-21 |
+| [Adonai](https://open.spotify.com/track/5cBEqXtVc2BCPpXesQGCRH) | [Astro\-bit](https://open.spotify.com/artist/2nhMY3TRaHjxPtqKTbktzT) | [Adonai](https://open.spotify.com/album/1S4Zxe86eOGKx0g7o7co2B) | 4:00 | 2024-03-12 |  |
 | [Agradecer](https://open.spotify.com/track/67za0SMGWgdmDmjJc23Lr6) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Reciente](https://open.spotify.com/album/7LopfkbXZGR9wt2ciYgFiz) | 3:31 | 2021-10-20 | 2022-07-24 |
 | [Agua](https://open.spotify.com/track/0O58u6HNqiSN7UkZVrlN0W) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Visums](https://open.spotify.com/album/31TeFVqBHLKKxSXAK7fY0j) | 2:44 | 2021-10-20 | 2022-07-29 |
 | [Agua de Jamaica](https://open.spotify.com/track/7aYFLNA3vQ3zir2naHodp0) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Gio Kutia](https://open.spotify.com/artist/28vZIQfyaApCPe9qCxW15z) | [Agua de Jamaica](https://open.spotify.com/album/2MKvOrKTLGWOKO3BUWhRUv) | 3:19 | 2021-10-20 | 2022-07-07 |
@@ -262,7 +263,7 @@
 | [La Vida Da](https://open.spotify.com/track/3QUQGEjNmfdbyqIDUYoiY9) | [Solovino](https://open.spotify.com/artist/1tK101wDTXF3fmqGUAUYnA) | [La Vida Da](https://open.spotify.com/album/5DoL92zKeST2w19LqGjkFs) | 3:44 | 2021-10-20 | 2022-07-22 |
 | [La Yarará](https://open.spotify.com/track/4rpNuGWK8BQSzjQyN5mrP8) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [La Yarará](https://open.spotify.com/album/6evf1MP8swNffomGu9hw9o) | 3:20 | 2021-10-20 | 2022-04-16 |
 | [Laberinto](https://open.spotify.com/track/0dLGjsAIbZjyPWJmiSiSsN) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [David Palacio](https://open.spotify.com/artist/07O1E4p8TxhyvbMoVPgV5k) | [Piratas, Pero Románticos \(Con Ritmos Chidos\)](https://open.spotify.com/album/2RphpJJRwZgzHQHqiF1PGr) | 3:20 | 2022-09-30 | 2022-11-08 |
-| [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 | 2022-02-25 | 2024-02-09 |
+| [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 | 2022-02-25 |  |
 | [Las 4:40](https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las 4:40](https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW) | 3:17 | 2022-09-03 | 2024-01-28 |
 | [Le Soleil Descend](https://open.spotify.com/track/0mDNjIWcWqU3bgF8fiGnOW) | [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Le Soleil Descend](https://open.spotify.com/album/5GmeUeefieul7OH3nrFaKN) | 4:08 | 2021-10-20 | 2022-07-29 |
 | [Lento](https://open.spotify.com/track/3hkjx8O2hidtvTYjHLwC4d) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Tierra](https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J) | 2:35 | 2021-10-20 | 2022-07-29 |
@@ -506,6 +507,6 @@
 | [¿A Dónde Vas?](https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:40 | 2021-10-20 | 2022-11-13 |
 | [¿De qué se trata la vida, mi vida?](https://open.spotify.com/track/6iwnylaKVXVOnKWdMBSpUq) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:07 | 2021-10-20 | 2022-07-23 |
 | [¿Por qué tan seria?](https://open.spotify.com/track/6iRD4cphPoZyZKOjzPw14N) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [¿Por qué tan seria?](https://open.spotify.com/album/4QS2QeZPBx1bJlKtF1bC9R) | 3:49 | 2021-10-20 | 2022-07-29 |
-| [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 | 2021-10-20 |  |
+| [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 | 2021-10-20 | 2024-03-15 |
 
 \*This playlist was first scraped on 2022-01-13. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-279 songs - 15 hr 13 min
+280 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Love You a Little Bit \- Acoustic](https://open.spotify.com/track/3US6yXTKKSH0NDTnfNCK13) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY STRIPPED](https://open.spotify.com/album/6NhhLm0vF7Wc4CLMBXpov7) | 3:34 | 2023-10-06 | 2023-10-23 |
 | [Love You Again \- Hey World Sessions](https://open.spotify.com/track/6s9H533OuVIPhQ4dMeZ0Zd) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again \(Hey World Sessions\)](https://open.spotify.com/album/5nWaaNIGhziGIB8T73Rkgx) | 2:57 | 2023-10-27 | 2024-03-06 |
 | [Loved Me That Way \(stripped\)](https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [Loved Me That Way \(stripped\)](https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o) | 3:42 | 2021-12-17 | 2023-02-18 |
-| [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 | 2023-04-14 |  |
+| [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 | 2023-04-14 | 2024-03-15 |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-12-17 | 2022-01-08 |
 | [Magic \- Acoustic Live In Studio](https://open.spotify.com/track/0otRit89LPUUlSOzlxVYyZ) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic \(Acoustic Live In Studio\)](https://open.spotify.com/album/7jxeRus7q2xwuLCaDEWUAf) | 3:00 | 2022-08-12 | 2022-09-09 |
 | [Maybe Someday You’ll Have A Daughter](https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Primrose](https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum) | 3:28 | 2023-05-19 | 2023-07-16 |
@@ -203,6 +203,7 @@
 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 | 2021-12-17 |  |
 | [Some Girls \- Acoustic](https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Some Girls \(Acoustic\)](https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz) | 3:11 | 2021-12-17 | 2022-08-17 |
 | [Some Summers Never End](https://open.spotify.com/track/4HS53HbN380PhcTsb9Yitg) | [Radio Romance](https://open.spotify.com/artist/3zpay2Ds6IoLxC70N1H1vW) | [Some Summers Never End](https://open.spotify.com/album/13bcxmKc5RHriqLRGdAYYG) | 4:02 | 2021-12-17 | 2022-04-16 |
+| [Somebody Like That \(Acoustic\)](https://open.spotify.com/track/4nuVBNUB669f4Csdb0ml7b) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Somebody Like That \(Acoustic\)](https://open.spotify.com/album/0LNVrlvKTXZt9XuO6FBrX9) | 3:14 | 2024-03-08 |  |
 | [Somebody Like That \- Acoustic](https://open.spotify.com/track/3gsnrXfYHjBM7dcUrz0UwK) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Somebody Like That \(Acoustic\)](https://open.spotify.com/album/1v9UST961rkk1uoMRUAgdV) | 3:14 | 2021-12-17 | 2023-11-04 |
 | [Somebody Will \- Acoustic](https://open.spotify.com/track/2QtOfeHiZpoHfYUCpMaMim) | [Christina Taylor](https://open.spotify.com/artist/0ol2YEW9hEgLLF9UyDCB4d) | [Somebody Will \(Acoustic\)](https://open.spotify.com/album/58JPDqiqR0tQdoYr5jgrBt) | 3:19 | 2022-05-06 | 2022-07-18 |
 | [Something Sexy \(Stripped\)](https://open.spotify.com/track/7ahB6NaGsY42NEiLQEgLiw) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Something Sexy \(Stripped\)](https://open.spotify.com/album/6tlU1uRC0bJBesIpAZakkv) | 3:12 | 2021-12-17 | 2022-07-29 |

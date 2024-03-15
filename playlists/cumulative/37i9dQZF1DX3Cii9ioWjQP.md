@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\)
 
-178 songs - 13 hr 8 min
+179 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Mother of Life](https://open.spotify.com/track/2z04jhHSFyDGItIEIZMEdM) | [Hyojung Kim](https://open.spotify.com/artist/0dWTzrX6vO7m6kxa3PUnib) | [Mother of Life](https://open.spotify.com/album/1bfCGzV02qVg0x2YodNzBU) | 3:56 | 2023-02-07 |  |
 | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/track/3McUaFgYIE6rg1uZdKiysV) | [Hanna Kim](https://open.spotify.com/artist/1H6Flxc2RNT6U7M9Mnmtln), [Sora Kim](https://open.spotify.com/artist/64EAEt7QWeJFOcoaeGl4An) | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/album/3nM0J1pMew3uLkUzMdP7No) | 8:13 | 2023-03-31 |  |
 | [Nevertheless](https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Nevertheless](https://open.spotify.com/album/4j00saS37ayCSxeA0JLoUn) | 4:01 | 2023-02-07 |  |
+| [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 |  |
 | [November Rain \(Feat\. Groovy D\)](https://open.spotify.com/track/6wN0bERE8RNJvEAeG7tEAW) | [PIACAL](https://open.spotify.com/artist/0QuxeG3QBD0kddWQPgfXaX) | [November Rain](https://open.spotify.com/album/0mkXZKaYTzzb9gOtAqpeU4) | 3:21 | 2022-11-11 |  |
 | [Now I'm Alive](https://open.spotify.com/track/2JODszmQKfirJaIb2QebHp) | [Gomm](https://open.spotify.com/artist/2Zlxg4WEB6pNeM6tdO3RoE) | [Now I'm Alive](https://open.spotify.com/album/3CVYFeLwjz5scaMfpN04AK) | 2:27 | 2023-07-19 |  |
 | [One Last Try](https://open.spotify.com/track/7frTGx6QXM3hIqYeDle3JH) | [Jae Hong Park](https://open.spotify.com/artist/0zfE74CTrrvYONTaDAocIY) | [One Last Try](https://open.spotify.com/album/7eX5eD0bp4qMCsBopmgwXU) | 4:27 | 2023-03-31 |  |

@@ -4,7 +4,7 @@
 
 > where hip hop and dance bangers meet!
 
-53 songs - 2 hr 33 min
+55 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [B€NZ](https://open.spotify.com/track/02nmansQDMt82VfqyDSitj) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [¥€$](https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j) | 4:04 | 2023-11-28 |  |
 | [CFB](https://open.spotify.com/track/01aqLd3IeFjrRbIGFCsajv) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [CFB](https://open.spotify.com/album/57GpJDPLmbaTDaDBAU48Bo) | 2:30 | 2023-11-28 |  |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-11-28 |  |
+| [Concrete](https://open.spotify.com/track/33JmS4eT392zIOj4YO25Lk) | [Pao](https://open.spotify.com/artist/0BjwyQkvPnw7b6SE1Zz1xr), [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [Concrete](https://open.spotify.com/album/05Y6KOMvp6pG1Y61JGmyt8) | 3:36 | 2024-03-14 |  |
 | [Dabke](https://open.spotify.com/track/5y5qZKmtUOiUnRRmT46lQo) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Dabke \(Dimatik Remix\)](https://open.spotify.com/album/5OUoJc6OkkknC22LNjKVmA) | 3:58 | 2023-11-28 |  |
 | [Dancers](https://open.spotify.com/track/5J2dQ24I9XRuhAufFCUPT3) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [New Wave](https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s) | [Dancers](https://open.spotify.com/album/5NqieYTsGIbYGIiGVhFA5r) | 2:43 | 2023-11-28 |  |
 | [Designer Love](https://open.spotify.com/track/3bK9O7F6SMk8hnOcRhxdjm) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Designer Love](https://open.spotify.com/album/4FLy9OVf3KrxN9hjJJOfNN) | 2:54 | 2023-11-28 |  |
@@ -49,6 +50,7 @@
 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 | 2023-11-28 |  |
 | [Off My Head](https://open.spotify.com/track/59D99ZoQ4iWh9x0lMyym5F) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats 2](https://open.spotify.com/album/1gaNq5b2XrxQq6ZEYx1SiR) | 3:20 | 2023-11-28 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Out Of Nowhere](https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9) | 2:51 | 2023-11-28 |  |
+| [Peak](https://open.spotify.com/track/1uuDXngzZQnhjPYk7YJz7r) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Peak](https://open.spotify.com/album/6nEThlLvwPyEOa6nxnGZXs) | 3:09 | 2024-03-14 |  |
 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 | 2023-11-28 |  |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-11-28 |  |
 | [PROPER Remix](https://open.spotify.com/track/4VqTTfqmQ5TDGq2v6UO78T) | [2RISKY](https://open.spotify.com/artist/3O1XjJOqWsWhnaPS3jRCru), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [PROPER Remix](https://open.spotify.com/album/3BXie3ANNW1kNEomWxwjoq) | 2:25 | 2023-11-28 |  |

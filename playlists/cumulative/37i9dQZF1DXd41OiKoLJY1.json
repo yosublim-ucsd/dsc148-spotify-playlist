@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover: 25hearts Artwork: Isu Kim\n",
+  "description": "Fresh releases from your future favorite artists. Cover: Beatrice Mariel. Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 308932,
       "name": "24",
       "url": "https://open.spotify.com/track/1nAqXkvAtZoilmGTRaYcb0"
@@ -2186,6 +2186,24 @@
       "duration_ms": 285000,
       "name": "Almohada",
       "url": "https://open.spotify.com/track/28NWhovRxHzJiQ7mXAVaRm"
+    },
+    {
+      "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/28NJEUnbFpJ8sW1GRhBhWp"
+      },
+      "artists": [
+        {
+          "name": "Bre\u0113",
+          "url": "https://open.spotify.com/artist/5dw8ejHVfSDig5NlMJ5ON4"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/1UUocZuuq6netk1sSypUex"
     },
     {
       "album": {
@@ -6179,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "burn.",
+        "url": "https://open.spotify.com/album/4GTroNzEOOb9rxd0nlCAif"
+      },
+      "artists": [
+        {
+          "name": "Night Over Alaska",
+          "url": "https://open.spotify.com/artist/7FpDFmAxCgnT2MRZUkY54n"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224344,
+      "name": "burn.",
+      "url": "https://open.spotify.com/track/54cEkLTZv0hZjN8ioQysVa"
+    },
+    {
+      "album": {
         "name": "BURNIN",
         "url": "https://open.spotify.com/album/1ouyygXnP2Tmi7ekfcKxRh"
       },
@@ -8330,7 +8366,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 211297,
       "name": "Dapithapon",
       "url": "https://open.spotify.com/track/522eJkh5Stf6JsIWzfCDwz"
@@ -10674,7 +10710,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 180000,
       "name": "Ew",
       "url": "https://open.spotify.com/track/3rUoEI7rTXyaM8f1ZEaEfd"
@@ -11062,6 +11098,24 @@
       "duration_ms": 193790,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/7043tHxk9tavsH6DKlv2gw"
+    },
+    {
+      "album": {
+        "name": "FASHIONABLY LATE",
+        "url": "https://open.spotify.com/album/5vR6d5cNoLPNeEcQt9N6vk"
+      },
+      "artists": [
+        {
+          "name": "KZZY",
+          "url": "https://open.spotify.com/artist/3npYwV74Euuu9W97dL6K8E"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149562,
+      "name": "FASHIONABLY LATE",
+      "url": "https://open.spotify.com/track/33WNSbL0cJWxy7VvxM7izW"
     },
     {
       "album": {
@@ -11944,7 +11998,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 164700,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0sePmqjCBmvtsp7MqVBud5"
@@ -13456,7 +13510,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 131875,
       "name": "Green Tint",
       "url": "https://open.spotify.com/track/3qxb72CI2Vv1slEoulpGDn"
@@ -15153,6 +15207,24 @@
     },
     {
       "album": {
+        "name": "Hiraya",
+        "url": "https://open.spotify.com/album/4rGnzfhnIoYyQWQPwxsiV6"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Mariel",
+          "url": "https://open.spotify.com/artist/2phmP9IVWMCQJbD4JXj6fX"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157647,
+      "name": "Hiraya",
+      "url": "https://open.spotify.com/track/1N0Fgi40v93FMlPjoEUrea"
+    },
+    {
+      "album": {
         "name": "Hiraya Manawari",
         "url": "https://open.spotify.com/album/1RCE1h84H2IU6lHJJEvbAP"
       },
@@ -15334,7 +15406,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 131105,
       "name": "homebound",
       "url": "https://open.spotify.com/track/6ghDpRa5odOCx6EpRypZWE"
@@ -16671,6 +16743,24 @@
     },
     {
       "album": {
+        "name": "Code Blue Compilation Mixtape",
+        "url": "https://open.spotify.com/album/6AHzKOOE8JXq17RyILIKYT"
+      },
+      "artists": [
+        {
+          "name": "Xaje",
+          "url": "https://open.spotify.com/artist/1FMDR9a058wt2TtbQH9NNN"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95624,
+      "name": "IHAP",
+      "url": "https://open.spotify.com/track/3lzsnWw6H07AZ8voDzSl6Y"
+    },
+    {
+      "album": {
         "name": "Ika'y Akin",
         "url": "https://open.spotify.com/album/3QMIxjBzEsjA4PjOVWJ7aj"
       },
@@ -17292,6 +17382,24 @@
       "duration_ms": 148065,
       "name": "In the Eyes of a Child",
       "url": "https://open.spotify.com/track/0w1SDIcl1pUxhXVWKrGbER"
+    },
+    {
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/4l0EfWROv4oh1SC1nNbZrd"
+      },
+      "artists": [
+        {
+          "name": "Jay Garche",
+          "url": "https://open.spotify.com/artist/3lbEBZ6yicaiXQfKnQDCkP"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209661,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/2w7eCn5hSZdIaReGArzpag"
     },
     {
       "album": {
@@ -19825,6 +19933,28 @@
     },
     {
       "album": {
+        "name": "Lalim",
+        "url": "https://open.spotify.com/album/0ZsG8sGVAFHYHtiG08J7VP"
+      },
+      "artists": [
+        {
+          "name": "Sunlit Memory",
+          "url": "https://open.spotify.com/artist/6IUa7Iyq8GIwvIDkw5vQk3"
+        },
+        {
+          "name": "drmfy",
+          "url": "https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169331,
+      "name": "Lalim",
+      "url": "https://open.spotify.com/track/1iqif1BcFUKkLorG6BjaMn"
+    },
+    {
+      "album": {
         "name": "Lambing",
         "url": "https://open.spotify.com/album/6MVhsXVm5XdDN4TTvHb2US"
       },
@@ -19858,6 +19988,24 @@
       "duration_ms": 204937,
       "name": "Lana Rhoades",
       "url": "https://open.spotify.com/track/7e8DtNotFWaCuLx12DenHN"
+    },
+    {
+      "album": {
+        "name": "langhiya",
+        "url": "https://open.spotify.com/album/2zWBEp4Q2SOyehkn1OeQLo"
+      },
+      "artists": [
+        {
+          "name": "Joshua Feliciano",
+          "url": "https://open.spotify.com/artist/7KX5v2c2WjRTjHce9xLQSL"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "langhiya",
+      "url": "https://open.spotify.com/track/5fAt1n8u0NnIBGSum47RTB"
     },
     {
       "album": {
@@ -20630,7 +20778,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 210461,
       "name": "Lifeless Bride",
       "url": "https://open.spotify.com/track/372YvM94VasUh1nMRqZ3L3"
@@ -21314,6 +21462,32 @@
       "duration_ms": 252254,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/1TKaB4e740I7ERt2Mg6isz"
+    },
+    {
+      "album": {
+        "name": "LOSE MYSELF",
+        "url": "https://open.spotify.com/album/0lqA1pvL1IWXn98NAVwDN8"
+      },
+      "artists": [
+        {
+          "name": "Yung Masa",
+          "url": "https://open.spotify.com/artist/20shpSfFnBGulON1Hmxt5M"
+        },
+        {
+          "name": "DANTE",
+          "url": "https://open.spotify.com/artist/6fMMwprp4lWIJNv7U87M3q"
+        },
+        {
+          "name": "haihai",
+          "url": "https://open.spotify.com/artist/6t5aHzfEP3YE56KL13bN1i"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "LOSE MYSELF",
+      "url": "https://open.spotify.com/track/5W1wUDg1va5AhaR0ODjO8K"
     },
     {
       "album": {
@@ -23320,6 +23494,24 @@
       "duration_ms": 136139,
       "name": "melatonin",
       "url": "https://open.spotify.com/track/2rwIpKCyEQ5BhRLzlLYNxM"
+    },
+    {
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1nCQEfKdu6jSo0uIP5o9Ly"
+      },
+      "artists": [
+        {
+          "name": "lxni",
+          "url": "https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200742,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/46LkjXnmATXcmLBSi5erFi"
     },
     {
       "album": {
@@ -25532,7 +25724,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 172041,
       "name": "No Forever",
       "url": "https://open.spotify.com/track/1MEF4r2OceRBPgwpJqNozn"
@@ -29160,7 +29352,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 236032,
       "name": "Patay-Sindi",
       "url": "https://open.spotify.com/track/0b0xzujP0ldSmNHqBdniI0"
@@ -31748,7 +31940,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 124125,
       "name": "Sa Loob Ng Dilim (From I Am Not Big Bird OST)",
       "url": "https://open.spotify.com/track/4GiQ5yHgrYZLQGC6PMAO7j"
@@ -32326,6 +32518,24 @@
       "duration_ms": 222219,
       "name": "Salamat, Panginoon.",
       "url": "https://open.spotify.com/track/2wVvzrl5udnrvBo9t2G8zt"
+    },
+    {
+      "album": {
+        "name": "Sally",
+        "url": "https://open.spotify.com/album/0SZ9hEycxoq9sVDLEcTX2n"
+      },
+      "artists": [
+        {
+          "name": "Chris Cantada Force",
+          "url": "https://open.spotify.com/artist/5ubeV5kSMrVqdelpI3LlMw"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186201,
+      "name": "Sally",
+      "url": "https://open.spotify.com/track/50DiWmFWF0pn7GldSatwDA"
     },
     {
       "album": {
@@ -33222,7 +33432,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 193333,
       "name": "Shake your booty",
       "url": "https://open.spotify.com/track/02xNebGNmYBDLIDnWc9dTh"
@@ -34298,6 +34508,24 @@
       "duration_ms": 224010,
       "name": "Sobrang Sariwa",
       "url": "https://open.spotify.com/track/7k9RHgBfcs7XtIrucoDmBk"
+    },
+    {
+      "album": {
+        "name": "Socorro Nights",
+        "url": "https://open.spotify.com/album/1hvBQK0DfWEwtvXDmcLOvU"
+      },
+      "artists": [
+        {
+          "name": "JASTENN",
+          "url": "https://open.spotify.com/artist/5svCxcD5y6knncM1lSlAgM"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209732,
+      "name": "Socorro Nights",
+      "url": "https://open.spotify.com/track/33QVNXvPGrFZ3wc7gOSYtg"
     },
     {
       "album": {
@@ -38480,7 +38708,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 266440,
       "name": "Unang Halik",
       "url": "https://open.spotify.com/track/5zWB75pxsGezA3FYeKTDzs"
@@ -39140,7 +39368,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 140019,
       "name": "w84m",
       "url": "https://open.spotify.com/track/30a1prXa1MRMDI8ncmBL21"

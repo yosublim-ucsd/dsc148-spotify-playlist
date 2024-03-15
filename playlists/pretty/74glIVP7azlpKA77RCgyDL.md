@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: SeeYouSpaceCowboy
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,412 likes - 59 songs - 3 hr 39 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,414 likes - 59 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 40 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
 | 41 | [Many Opps Terminated](https://open.spotify.com/track/4IGmkTpW8b2WJreZPXI4OP) | [Moment of Truth](https://open.spotify.com/artist/7m1PAkhUGJqjCmJbZS8uHv) | [M.O.T\. Promo 2024](https://open.spotify.com/album/3WZaa8PS31cw3P20rqMCKS) | 2:30 |
 | 42 | [Fell Reigns](https://open.spotify.com/track/05YRqVuLTk3HNkcvrdKf78) | [Hand of Kalliach](https://open.spotify.com/artist/4KezOas66hmsEjQUt5O6hQ) | [Fell Reigns](https://open.spotify.com/album/301XBMA7ZUEUUuTqVmTJip) | 5:06 |
-| 43 | [A Dozen Roses](https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [A Dozen Roses](https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd) | 2:36 |
+| 43 | [A Dozen Roses](https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [A Dozen Roses](https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd) | 2:37 |
 | 44 | [O･TA･KUラブリー伝説](https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [O･TA･KUラブリー伝説](https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb) | 3:12 |
 | 45 | [Man Without Fear](https://open.spotify.com/track/6F5ludZs5W93BB4JBsGIPQ) | [bulletsbetweentongues](https://open.spotify.com/artist/0EWT2MtvWeCf1yvvLf2EeG) | [Man Without Fear](https://open.spotify.com/album/6ZAUIdWYngfvh3qLWXv1wy) | 3:34 |
 | 46 | [Paragon of Purity](https://open.spotify.com/track/3zHtfu20NCHSirNop64riN) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Paragon of Purity](https://open.spotify.com/album/09EHODIlD4XiLTvao5aQ3h) | 4:23 |

@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-240 songs - 13 hr 33 min
+242 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Blackness \- Defqon.1 2023 BLACK OST](https://open.spotify.com/track/1KdeK8U57BTUUi2Xm4X48r) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Blackness \(Defqon.1 2023 BLACK OST\)](https://open.spotify.com/album/7zC4BUoX1cXgELReT4spzJ) | 4:38 | 2023-06-01 | 2023-10-26 |
 | [Blow Up](https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Blow Up](https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH) | 3:24 | 2022-12-22 |  |
 | [Born To React](https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Born To React](https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe) | 2:25 | 2022-12-08 | 2023-10-26 |
+| [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 | 2024-03-14 |  |
 | [BOW DOWN](https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [BOW DOWN](https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv) | 2:59 | 2022-12-08 | 2023-12-22 |
 | [Bring It Hardcore](https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [Bring It Hardcore](https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc) | 4:44 | 2023-09-01 |  |
 | [Broken Inside](https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Broken Inside](https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8) | 3:25 | 2022-12-08 | 2023-09-02 |
@@ -113,11 +114,12 @@
 | [HIT THA CLUB](https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [HIT THA CLUB](https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9) | 2:46 | 2023-01-26 | 2023-10-26 |
 | [HYPER](https://open.spotify.com/track/4GbecipoI4oyDE148vjkde) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [HYPER](https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg) | 3:26 | 2023-06-08 | 2024-02-09 |
 | [Hypnosis](https://open.spotify.com/track/77WTQNkAcCLStiMBWVySK9) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [Hypnosis](https://open.spotify.com/album/2NaIPARHXxQq8HFpPPThTX) | 2:24 | 2022-12-08 | 2023-03-07 |
-| [I AM](https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [I AM](https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy) | 3:01 | 2023-11-02 |  |
+| [I AM](https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [I AM](https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy) | 3:01 | 2023-11-02 | 2024-03-15 |
+| [I Will Find You](https://open.spotify.com/track/0qGuo8DnT17kMTbullZ1WV) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [The Doc's Experiment \- Proof 1](https://open.spotify.com/album/0h8f0JYPzmSq8bqakq7oqy) | 4:00 | 2024-03-14 |  |
 | [I'm A Raver](https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [I'm A Raver](https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu) | 3:25 | 2023-01-26 |  |
 | [Ignition](https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Ignition](https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U) | 3:57 | 2022-12-08 |  |
 | [Imma Boss \- Fraw Remix](https://open.spotify.com/track/0pKujVFb0bAPeCorHRkEjG) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Imma Boss \(Fraw Remix\)](https://open.spotify.com/album/3gdqhH9e1BGLvtsjhJp4fl) | 2:41 | 2022-12-08 | 2023-03-07 |
-| [In the year 2222](https://open.spotify.com/track/276doaEmdigNFjR6JeLs4b) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [In the year 2222](https://open.spotify.com/album/4BUq0MYMPCVVRVTNYv0lVl) | 3:37 | 2023-12-04 |  |
+| [In the year 2222](https://open.spotify.com/track/276doaEmdigNFjR6JeLs4b) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [In the year 2222](https://open.spotify.com/album/4BUq0MYMPCVVRVTNYv0lVl) | 3:37 | 2023-12-04 | 2024-03-15 |
 | [Infinity](https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Infinity](https://open.spotify.com/album/3dFlIzoweOmGPWX2Iin5iN) | 3:12 | 2023-10-25 |  |
 | [Jammer!](https://open.spotify.com/track/6EGcJr9fS0fXAKxWgxJOUU) | [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [JAMMER!](https://open.spotify.com/album/3ZiBL68zxCdy77InVMSEmt) | 3:28 | 2022-12-08 | 2023-02-01 |
 | [Jongens van de straat](https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Jongens van de straat](https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt) | 3:22 | 2022-12-08 | 2023-12-22 |

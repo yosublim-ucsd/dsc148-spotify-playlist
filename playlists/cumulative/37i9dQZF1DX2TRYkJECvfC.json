@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Blue EP",
+        "url": "https://open.spotify.com/album/2m2QhcRmT9REjQt5QoFOk1"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286271,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1klWyUOiPXV7p5UFjBxPmf"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0WatRmyFsbWvxsn62abO9k"
       },
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-15",
       "duration_ms": 219000,
       "name": "Depend On Me",
       "url": "https://open.spotify.com/track/4yQRctOSENVDuXtLLndkbH"

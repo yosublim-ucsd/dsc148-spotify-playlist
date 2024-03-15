@@ -1,5 +1,5 @@
 {
-  "2024-03-14": 241635,
+  "2024-03-15": 241646,
   "date_first_scraped": "2022-01-09",
   "description": "get into your feels with some r&b magic",
   "name": "R&B Magic",
@@ -8128,6 +8128,32 @@
     },
     {
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb"
+      },
+      "artists": [
+        {
+          "name": "Nelson Clark",
+          "url": "https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR"
+        },
+        {
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+        },
+        {
+          "name": "fred irie",
+          "url": "https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147790,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D"
+    },
+    {
+      "album": {
         "name": "Ctrl (Deluxe)",
         "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
       },
@@ -9303,7 +9329,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-14",
       "duration_ms": 147295,
       "name": "You Don't Call Me",
       "url": "https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc"
